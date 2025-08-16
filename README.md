@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Progress
-![Status Terjemahan](https://img.shields.io/badge/terjemahan-94,21%38-green)  
+![Status Terjemahan](https://img.shields.io/badge/terjemahan-94,38%-green)  
 Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 **Target:**
