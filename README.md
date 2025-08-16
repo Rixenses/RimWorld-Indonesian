@@ -17,13 +17,11 @@
 ---
 
 ## 📌 Progress
-<<<<<<< HEAD
 ![Status Terjemahan](https://img.shields.io/badge/terjemahan-100%25-green)
->>>>>>>
 Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 **Target:**
-- [✔] Terjemahan Core + DLC
+- [x] Terjemahan Core + DLC
 - [ ] Selesai: 30 Agustus 2025  
 - [ ] Uji coba di dalam game  
 - [ ] Submit ke Ludeon
