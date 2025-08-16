@@ -19,7 +19,6 @@
 ## 📌 Progress
 <<<<<<< HEAD
 ![Status Terjemahan](https://img.shields.io/badge/terjemahan-100%25-green)
-[Sedang diuji coba di dalam game]
 ======= 
 >>>>>>> 7469b05ddba1ac9270d91b49fe2d5fca03d0f253
 Lihat dokumen: [PROGRESS.md](PROGRESS.md)
