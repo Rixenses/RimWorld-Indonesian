@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: intense bigotry -->
+  <IdeoDiversity_Abhorrent.label>Fanatisme yang intens</IdeoDiversity_Abhorrent.label>
+  <!-- EN: Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community. -->
+  <IdeoDiversity_Abhorrent.description>Keyakinan lain adalah penipuan jahat yang menghancurkan dunia, tidak dapat diterima untuk meninggalkan mereka di koloni kita.</IdeoDiversity_Abhorrent.description>
+  <!-- EN: All colonists have same ideoligion -->
+  <IdeoDiversity_Abhorrent.comps.2.description>Semua pemukim memiliki ideologis yang sama.</IdeoDiversity_Abhorrent.comps.2.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
+  
+  <!-- EN: appreciated -->
+  <IdeoDiversity_Approved.label>dihargai</IdeoDiversity_Approved.label>
+  <!-- EN: Other beliefs are worth understanding. It's good to live with others who think differently. -->
+  <IdeoDiversity_Approved.description>Perlu menghargai keyakinan lain.Adalah baik untuk hidup dengan mereka yang berpikir secara berbeda.</IdeoDiversity_Approved.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
+  
+  <!-- EN: mild bigotry -->
+  <IdeoDiversity_Disapproved.label>lampu</IdeoDiversity_Disapproved.label>
+  <!-- EN: Other beliefs are clearly folly. It's not good to let them exist in the community. -->
+  <IdeoDiversity_Disapproved.description>Keyakinan lain jelas tidak masuk akal.Tidak baik memiliki mereka di koloni.</IdeoDiversity_Disapproved.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
+  
+  <!-- EN: exalted -->
+  <IdeoDiversity_Exalted.label>terhormat</IdeoDiversity_Exalted.label>
+  <!-- EN: Working through disagreement is the height of morality. It's very moral to live with others who think differently. -->
+  <IdeoDiversity_Exalted.description>Bekerja dalam ketidaksepakatan kami itu baik.Sangat bermoral untuk hidup dengan orang lain yang berpikir secara berbeda.</IdeoDiversity_Exalted.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
+  
+  <!-- EN: moderate bigotry -->
+  <IdeoDiversity_Horrible.label>Intoleransi sedang</IdeoDiversity_Horrible.label>
+  <!-- EN: Other beliefs are immoral delusions which do real harm. It's bad to let them exist in the community. -->
+  <IdeoDiversity_Horrible.description>Keyakinan lain adalah ilusi tidak bermoral yang benar -benar membahayakan.Adalah buruk untuk membiarkan mereka ada di koloni.</IdeoDiversity_Horrible.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
+  
+  <!-- EN: highly appreciated -->
+  <IdeoDiversity_Respected.label>sangat berharga</IdeoDiversity_Respected.label>
+  <!-- EN: Other beliefs hold unique knowledge. It's great to live with others who think differently. -->
+  <IdeoDiversity_Respected.description>Keyakinan lain memiliki pengetahuan yang unik.Sangat menyenangkan untuk hidup dengan orang -orang yang berpikir berbeda.</IdeoDiversity_Respected.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
+  
+  <!-- EN: neutral -->
+  <IdeoDiversity_Standard.label>netral</IdeoDiversity_Standard.label>
+  <!-- EN: Other beliefs are neither approved or disapproved. -->
+  <IdeoDiversity_Standard.description>Keyakinan lain tidak disetujui atau disetujui.</IdeoDiversity_Standard.description>
+  <!-- EN: Uniform surroundings -->
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>Lingkungan yang seragam</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Diverse surroundings -->
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>Lingkungan yang beragam</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
+  
+</LanguageData>

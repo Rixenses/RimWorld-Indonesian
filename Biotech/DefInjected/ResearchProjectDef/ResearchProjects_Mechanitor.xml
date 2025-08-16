@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic mechtech -->
+  <BasicMechtech.label>Teknologi Mekah Dasar</BasicMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
+  <BasicMechtech.description>Teknologi yang diperlukan sehingga mekanitor Anda dapat membuat dan mengontrol mechanoidoid tingkat dasar.</BasicMechtech.description>
+  <!-- EN:
+    <li>Subjek-> Mechanoids</li>
+    <li>Subject_story-> menulis buku anak-anak yang mencakup tipe dasar mekanoid</li>
+    <li>subjek_story-> ditanamkan dengan prototipe mechlink</li>
+    <li>Subject_story-> Teknik Biomech Dasar yang Diperbirakan Secara Mandiri</li>
+    <li>Subject_story-> Apakah menambang kecelakaan exostrider kuno dan menemukan mechlink diawetkan di reruntuhan</li>
+    <li>Subject_gerund-> Membuat Mekanoid Dasar</li>-><BasicMechtech.generalRules.rulesStrings>
+    <li>Subjek-> Mecanoides</li>
+    <li>Subjek_def-> dari mecanoids</li>
+    <li>Subject_story-> Dia menulis buku anak-anak yang menjelaskan jenis dasar mechanoides</li>
+    <li>Subject_story-> ditanamkan dengan prototipe mecanlace</li>
+    <li>Subjek_story-> Teknik biomekanik dasar yang direplikasi secara mandiri</li>
+    <li>Subject_story-> Saya mengekstraksi dari kapal Exozancudo kuno dan menemukan Mecantelace diawetkan di antara sisa-sisa</li>
+    <li>Subjek gerund-> buat mekanisme dasar</li>
+  </BasicMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: high mechtech -->
+  <HighMechtech.label>Teknologi Mekah Advanced</HighMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
+  <HighMechtech.description>Teknologi yang diperlukan untuk mekanitor Anda untuk membuat dan mengontrol mechanoidoid tingkat tinggi.</HighMechtech.description>
+  <!-- EN:
+    <li>Subjek-> Mechanoids Tier Tinggi</li>
+    <li>Subject_story-> selamat dari serangan ratu perang di dunia kekaisaran</li>
+    <li>Subject_story-> Membeli chip PowerFocus dari seorang pedagang yang tidak memahami nilainya</li>
+    <li>Subject_story-> Mechanitor yang diinterogasi ditangkap dalam serangan planet</li>
+    <li>Subject_story-> Prototipe mikro micro-organ yang dibangun untuk klien offworld</li>
+    <li>Subject_gerund-> Membuat mechanoid tingkat tinggi</li>-><HighMechtech.generalRules.rulesStrings>
+    <li>Subjek-> Mecanoid lanjut</li>
+    <li>Subjek_def-> dari mechanoides canggih</li>
+    <li>Subject_story-> selamat dari serangan seorang ratu perang di dunia kekaisaran</li>
+    <li>Subjek_story-> membeli chip pendekatan energi dari pedagang yang tidak memahami nilainya</li>
+    <li>Subject_story-> Mekanor yang ditanyai ditangkap dalam serangan planet</li>
+    <li>Cerita Subjek-> Prototipe yang Dibangun dari organ mikro mecanoid untuk klien asing</li>
+    <li>Subject_gerund-> buat mecanoid canggih</li>
+  </HighMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: standard mechtech -->
+  <StandardMechtech.label>Teknologi Mekah Standar</StandardMechtech.label>
+  <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
+  <StandardMechtech.description>Teknologi yang diperlukan untuk mekanitor Anda untuk membuat dan mengontrol mechanoidoid tingkat standar.</StandardMechtech.description>
+  <!-- EN:
+    <li>Subjek-> Mechanoids</li>
+    <li>Subject_story-> memperoleh chip sinyal dalam keadaan teduh</li>
+    <li>Subject_story-> menemukan chip sinyal utuh dalam kecelakaan diabolus</li>
+    <li>Subject_story-> selamat dari serangan sarang mekanoid</li>
+    <li>Subject_story-> Dikumpulkan laporan serangan mekanoid, mencari kesamaan</li>
+    <li>Subject_gerund-> Membuat mechanoids standar</li>-><StandardMechtech.generalRules.rulesStrings>
+    <li>Subjek-> Mecanoides</li>
+    <li>Subjek_def-> dari mecanoids</li>
+    <li>Subjek_story-> memperoleh chip pensinyalan dalam keadaan yang mencurigakan</li>
+    <li>Subjek_story-> menemukan chip pensinyalan utuh di sisa-sisa diabolus</li>
+    <li>Subjek_story-> selamat dari serangan terhadap sarang mecanoid</li>
+    <li>Subject_story-> Kompilasi laporan dari serangan mekanoid, mencari elemen yang sama</li>
+    <li>Subject_gerund-> Buat mecanoids standar</li>
+  </StandardMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: ultra mechtech -->
+  <UltraMechtech.label>Teknologi Ultra Mekah</UltraMechtech.label>
+  <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
+  <UltraMechtech.description>Teknologi canggih yang diperlukan bagi mekanitor Anda untuk membuat dan mengontrol mechanoides level ultra, termasuk MECA besar dan roda gigi mekanisme tingkat ultra.</UltraMechtech.description>
+  <!-- EN:
+    <li>Subjek-> Mechanoids Ultra-Tier</li>
+    <li>Subject_story-> Menemukan Apokriton yang Didukung di Puing-pagar DEADWORLD</li>
+    <li>Subject_story-> mengamati mechs yang menghidupkan kembali apokriton dari jarak yang aman</li>
+    <li>Subject_story-> disadap ke dalam kebencian psikis yang mendalam yang dirasakan para apokriton terhadap kemanusiaan</li>
+    <li>Subject_story-> Menemukan buku harian Ascension di sebelah archonexus inert</li>
+    <li>Subject_gerund-> Membuat mechanoids ultra-tier</li>-><UltraMechtech.generalRules.rulesStrings>
+    <li>Subjek-> mecanoids tingkat ultra</li>
+    <li>Subjek_def-> dari mecanoids ultra-level</li>
+    <li>Subject_story-> Dia menemukan seorang apokriton libur di sisa-sisa dunia yang mati</li>
+    <li>Subject_story-> Dia mengamati mecas yang menghidupkan kembali apokriton dari jarak yang aman</li>
+    <li>Subject_story-> Terhubung dengan kebencian psikis yang mendalam yang dirasakan para apokriton terhadap kemanusiaan</li>
+    <li>Subjek_story-> Dia menemukan buku harian kenaikan dengan arconexo inert</li>
+    <li>Subjek gerund-> buat mechanoides ultra-level</li>
+  </UltraMechtech.generalRules.rulesStrings>
+  
+  <!-- EN: wastepack atomizer -->
+  <WastepackAtomizer.label>Pencatatan limbah</WastepackAtomizer.label>
+  <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
+  <WastepackAtomizer.description>Bangun atomizer limbah yang dapat dengan aman menghilangkan limbah beracun membusuknya pada tingkat molekuler.</WastepackAtomizer.description>
+  <!-- EN:
+    <li>Subjek-> Atomisasi Limbah Beracun</li>
+    <li>Subject_story-> Pelajari pembuangan limbah atom yang aman</li>
+    <li>Subjek_Story-> Rekrut Tim sekali pakai untuk misi pembuangan limbah surya</li>
+    <li>Subject_story-> merancang teori untuk destabilisasi atom dari prinsip pertama</li>
+    <li>Subject_story-> mengamati dunia toksik dari orbit</li>
+    <li>Subject_gerund-> Membangun atomizer limbah</li>-><WastepackAtomizer.generalRules.rulesStrings>
+    <li>Subjek-> Limbah Atomisasi</li>
+    <li>Subjek_def-> atomisasi limbah beracun</li>
+    <li>Subject_story-> mempelajari disposisi yang aman dari limbah beracun</li>
+    <li>Subjek_Story-> Peralatan sekali pakai yang direkrut untuk misi pembuangan limbah surya</li>
+    <li>Subject_story-> merancang prinsip-prinsip teori destabilisasi atom</li>
+    <li>Subjek_story-> mengamati dunia beracun dari orbit</li>
+    <li>Subjek gerund-> membangun atomizer residu</li>
+  </WastepackAtomizer.generalRules.rulesStrings>
+  
+</LanguageData>

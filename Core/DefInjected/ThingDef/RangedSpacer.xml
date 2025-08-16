@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>Muat tembakan tombak</Bullet_ChargeLance.label>
+  
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>Memuat pemotretan</Bullet_ChargeRifle.label>
+  
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>Lanza beban</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>Senjata melempar pulsa dibantu oleh rel.Tembak satu beban kecepatan tinggi tunggal, asalkan energi yang tidak stabil saat meninggalkan rel akselerasi.</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>Canon</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>Lanza beban</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>Muat senapan</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>Senapan serbu yang memicu biaya energi.Teknologi pulsa memuat setiap tembakan dengan energi yang tidak stabil saat meninggalkan ngarai.Energi yang dibebankan dilepaskan pada saat dampak dan sangat meningkatkan kerusakan yang disebabkan.</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>pantat</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>Canon</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>Muat senapan</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wastepack infestation -->
+  <WastepackInfestation.label>Infestasi oleh paket limbah beracun</WastepackInfestation.label>
+  <!-- EN: Wastepack infestation -->
+  <WastepackInfestation.letterLabel>Infestasi oleh paket limbah beracun</WastepackInfestation.letterLabel>
+  <!-- EN: A group of burrowed insect stasis cocoons have picked up the scent of a recently-dissolved toxic wastepack. They're tunneling upwards to get closer to the chemicals!\n\nThe cocoons will emerge in a dormant state. They will remain dormant indefinitely. If someone approaches or disturbs them, they will open and release enraged insects. -->
+  <WastepackInfestation.letterText>Sekelompok chrysalis insektoid terkubur telah menangkap bau paket limbah beracun yang baru -baru ini dilarutkan.Mereka membuat terowongan untuk mendekati bahan kimia! Mereka akan tetap tidak aktif tanpa batas waktu.Jika seseorang mendekati atau mengganggu mereka, mereka akan membuka dan melepaskan insektoid yang marah.</WastepackInfestation.letterText>
+  
+</LanguageData>

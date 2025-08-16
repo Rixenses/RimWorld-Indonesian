@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relaxed -->
+  <ApparelDesired_Soft_Subordinate.label>santai</ApparelDesired_Soft_Subordinate.label>
+  <!-- EN: {GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} if it doesn't interfere with any other apparel. -->
+  <ApparelDesired_Soft_Subordinate.description>Anggota {ganti: {gender} s;"All"-""} akan merasa senang ketika mereka mengambil posisi {oparel_indefinite}.Anggota {ganti: {gender} s;"All"-""} akan mulai memakai {Oppenel_indefinite} jika tidak mengganggu pakaian lain.</ApparelDesired_Soft_Subordinate.description>
+  <!-- EN: Wearing desired apparel -->
+  <ApparelDesired_Soft_Subordinate.comps.1.description>Membawa pakaian yang diinginkan</ApparelDesired_Soft_Subordinate.comps.1.description>
+  
+  <!-- EN: strong -->
+  <ApparelDesired_Strong_Subordinate.label>kuat</ApparelDesired_Strong_Subordinate.label>
+  <!-- EN: {GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} unless it interferes with armor. -->
+  <ApparelDesired_Strong_Subordinate.description>Anggota, {ganti: {gender} s;"All"-""} akan merasa senang ketika mereka mengambil posisi {oparel_indefinite}.Mereka akan tiba mengenakan {oparel_indefinite} jika tidak mengganggu baju besi.</ApparelDesired_Strong_Subordinate.description>
+  <!-- EN: Wearing desired apparel -->
+  <ApparelDesired_Strong_Subordinate.comps.1.description>Membawa pakaian yang diinginkan</ApparelDesired_Strong_Subordinate.comps.1.description>
+  
+</LanguageData>

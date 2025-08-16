@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flesh -->
+  <Flesh.label>Carne</Flesh.label>
+  <!-- EN: A dense mat of organic flesh that clings loosely to the ground. -->
+  <Flesh.description>Lapisan daging organik yang padat yang melekat pada tanah.</Flesh.description>
+  
+  <!-- EN: gray surface -->
+  <GraySurface.label>Permukaan abu -abu</GraySurface.label>
+  <!-- EN: An unnatural gray floor. It is featureless and smooth. It is not concrete, metal, or any other recognizable building material. -->
+  <GraySurface.description>Tanah yang tidak wajar abu -abu.Tidak memiliki fitur dan halus.Ini bukan beton, logam atau bahan konstruksi lainnya yang dapat dikenali.</GraySurface.description>
+  
+</LanguageData>

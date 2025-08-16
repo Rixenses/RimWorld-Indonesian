@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Royal titles -->
+  <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
+  <LetterLabelLostRoyalTitle>Judul {title} Lost: {Pawn_labelshort}</LetterLabelLostRoyalTitle>
+  <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
+  <LetterLabelGainedRoyalTitle>Judul {title} diterima: {pawn_labelshort}</LetterLabelGainedRoyalTitle>
+
+  <!-- EN: Permit points awarded: {0}. -->
+  <PermitPointsAwarded>Poin Izin Menang: {0}</PermitPointsAwarded>
+
+  <!-- EN: This title requires apparel of {1} quality or better. -->
+  <LetterRoyalTitleApparelQualityRequirement>{Pawn_pronoun} Anda harus mengenakan pakaian berkualitas {1} atau lebih tinggi.</LetterRoyalTitleApparelQualityRequirement>
+  <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
+  <LetterRoyalTitleApparelRequirement>{Gadai kata ganti} ingin berpakaian dengan pakaian yang sesuai dengan judul Anda:</LetterRoyalTitleApparelRequirement>
+  <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
+  <LetterRoyalTitleExpectation>Harapan Anda tidak akan pernah lebih rendah dari {1}.</LetterRoyalTitleExpectation>
+  
+  <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
+  <LetterRoyalTitleConceitedTrait>Karena {Pawn_lallshort} adalah {1}, {Pawn_pronoun} mensyaratkan bahwa hak istimewa judulnya dihormati.{Pawn_pronoun} dapat menolak untuk melakukan jenis pekerjaan tertentu, makan makanan kelas rendah dan dapat memancarkan dekrit.</LetterRoyalTitleConceitedTrait>
+
+  <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
+  <LetterGainedRoyalTitle>{Pawn_labelshort} menerima judul {title} dari faksi {facion_name}!</LetterGainedRoyalTitle>
+  <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
+  <LetterLostRoyalTitle>{Pawn_labelshort} tidak lagi memiliki judul {title} dari faksi {facion_name}.</LetterLostRoyalTitle>
+  <!-- EN: Title rewards -->
+  <LetterLabelRewardsForNewTitle>Hadiah Judul</LetterLabelRewardsForNewTitle>
+  <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
+  <LetterRewardsForNewTitle>Untuk menghormati {Pawn_labelshort}, yang baru saja naik ke {title}, {facion_name} telah mengiriminya hadiah berikut:</LetterRewardsForNewTitle>
+  <!-- EN: Rewards have arrived to your colony via transport pods. -->
+  <LetterRewardsForNewTitleDeliveryBase>Imbalan telah tiba di koloni Anda melalui kapsul transportasi.</LetterRewardsForNewTitleDeliveryBase>
+  <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
+  <LetterRewardsForNewTitleDeliveryDirect>Hadiah telah dikirim langsung ke inventaris {Pawn_lallshort}.</LetterRewardsForNewTitleDeliveryDirect>
+
+  <!-- EN: {PAWN_pronoun} has these permissions: -->
+  <LetterRoyalTitlePermits>{Pawn_pronoun} memiliki izin berikut:</LetterRoyalTitlePermits>
+  <!-- EN: {PAWN_pronoun} lost these permissions: -->
+  <LetterRoyalTitleLostPermits>{Pawn_pronoun} telah kehilangan izin berikut:</LetterRoyalTitleLostPermits>
+
+  <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
+  <LetterRoyalTitleDisabledWorkTag>{Pawn_pronoun} menolak untuk melakukan jenis pekerjaan berikut: \ n {1}</LetterRoyalTitleDisabledWorkTag>
+
+  <!-- EN: {PAWN_pronoun} can now use this recreation: -->
+  <LetterRoyalTitleEnabledJoyKind>{Pawn_pronoun} menuntut jenis kesenangan ini:</LetterRoyalTitleEnabledJoyKind>
+  <!-- EN: This title forbids using this recreation: -->
+  <LetterRoyalTitleDisabledJoyKind>{Pawn_pronoun} menolak jenis kesenangan ini:</LetterRoyalTitleDisabledJoyKind>
+
+  <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
+  <LetterRoyalTitleAllowedImplants>{Pawn_pronoun} memiliki izin untuk menggunakan implan berikut: {1}</LetterRoyalTitleAllowedImplants>
+  <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
+  <LetterRoyalTitleImplantsMustBeRemoved>{Pawn_pronoun} tidak lagi memiliki izin untuk menggunakan implan berikut: {1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
+  <LetterRoyalTitleImplantGracePeriod>Implan harus diekstraksi dalam waktu lima hari untuk menghindari konsekuensi diplomatik.</LetterRoyalTitleImplantGracePeriod>
+  <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
+  <LetterRoyalTitleSpeechAbilityGained>{Pawn_pronoun} sekarang dapat memberikan pidato dari tahta.Jika semuanya berjalan dengan baik, pendengar akan merasa terinspirasi.Salah, wacana akan menimbulkan kerusakan sosial.Hasilnya tergantung pada kemampuan sosial {Pawn_lallshort}.</LetterRoyalTitleSpeechAbilityGained>
+  <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
+  <LetterRoyalTitleThroneroomRequirements>{Pawn_pronoun} menuntut ruang singgasana yang memenuhi persyaratan berikut: {1}</LetterRoyalTitleThroneroomRequirements>
+  <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
+  <LetterRoyalTitleBedroomRequirements>{Pawn_pronoun} menuntut ruangan yang memenuhi persyaratan berikut: {1}</LetterRoyalTitleBedroomRequirements>
+  <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
+  <LetterRoyalTitleFoodRequirements>{Pawn_pronoun} hanya akan memakan yang berikut: {1}</LetterRoyalTitleFoodRequirements>
+
+  <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
+  <LetterRoyalTitleRewardGranted>{Pawn_pronoun} akan menerima item berikut melalui kapsul transportasi: {1}</LetterRoyalTitleRewardGranted>
+  <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
+  <PeaceTalksRoyalFavorGain>{Pawn_labelshort} ha obtenido {1} {faction_royalfavorlabel} de {faction_name}.</PeaceTalksRoyalFavorGain>
+
+  <!-- Royal heritage-->
+  <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
+  <LetterRoyalTitleHeir>Jika {Pawn_pronoun} mati, judul ini akan diwarisi oleh {heir_namefulull}.</LetterRoyalTitleHeir>
+  <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
+  <LetterRoyalTitleNoHeir>Jika {Pawn_pronoun} mati, tidak ada yang akan mewarisi judul ini.</LetterRoyalTitleNoHeir>
+  <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
+  <LetterRoyalTitleHeirFactionWarning>{Pawn_namefull} adalah anggota {felion_name}.</LetterRoyalTitleHeirFactionWarning>
+  <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
+  <LetterRoyalTitleChangingHeir>Pewaris baru dapat dipilih dengan menghubungi {felion_name} melalui konsol komunikasi.</LetterRoyalTitleChangingHeir>
+  <!-- EN: Heir lost -->
+  <LetterTitleHeirLostLabel>Pewaris yang hilang</LetterTitleHeirLostLabel>
+  <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
+  <LetterTitleHeirLost>{Heir_namefull} telah mati, meninggalkan {holder_labelshort} tanpa pewaris judul yang diberikan oleh {faction_name}.Anda dapat menghubungi {felion_name} melalui konsol komunikasi untuk menunjuk ahli waris baru.</LetterTitleHeirLost>
+  <!-- EN: The title of {TITLE} cannot be inherited. -->
+  <LetterRoyalTitleCantBeInherited>Judul {title} tidak dapat diwarisi.</LetterRoyalTitleCantBeInherited>
+
+
+  <!-- EN: Title inheritance -->
+  <LetterTitleInheritance>Suksesi untuk Judul</LetterTitleInheritance>
+  <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
+  <LetterTitleInheritance_Base>Ketika mereka mati {Pawn_namefull}, judul -judul mereka telah ditransmisikan ke ahli waris mereka sesuai dengan hukum faksi yang diberikan oleh judul -judul tersebut.</LetterTitleInheritance_Base>
+  <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
+  <LetterTitleInheritance_AsReplacement>Judul {title} -nya ditransmisikan dengan warisan ke {heir_namefulull} sesuai dengan hukum suksesi {facion_name}.Dengan demikian, judul {Replacetitle} telah diganti.</LetterTitleInheritance_AsReplacement>
+  <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
+  <LetterTitleInheritance_NoEffectHigherTitle>Judul {title} -nya akan diwarisi oleh {heir_namefulull} sesuai dengan hukum suksesi {facion_name}, tetapi {heir_pronoun} sudah memiliki judul {lebih tinggi}.</LetterTitleInheritance_NoEffectHigherTitle>
+  <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
+  <LetterTitleInheritance_WasInherited>Judul {title} -nya ditransmisikan dengan warisan ke {heir_namefulull} sesuai dengan hukum suksesi {facion_name}.</LetterTitleInheritance_WasInherited>
+  <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
+  <LetterTitleInheritance_NoHeirFound>Judulnya {judul} tidak diwarisi oleh siapa pun, yang tidak menetapkan pewaris judul itu.</LetterTitleInheritance_NoHeirFound>
+
+  <!-- Royal implant violations -->
+  <!-- EN: Lawbreaker: {PAWN_labelShort} -->
+  <LetterLawViolationDetectedLabel>Pelanggar Hukum: {Pawn_lallshort}</LetterLawViolationDetectedLabel>
+  <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
+  <LetterLawViolationDetectedForbiddenThingUse>Faksi {faction_name} telah mendeteksi penggunaan ilegal {hukuman bersalah, hubungan dengan faksi Anda telah menurun dalam {goodwill}.</LetterLawViolationDetectedForbiddenThingUse>
+
+  <!-- Wild decree mental break -->
+  <!-- EN: Wild decree -->
+  <WildDecree>Dekrit lalim</WildDecree>
+  <!-- EN: {0_nameIndef} issues decree -->
+  <LetterLabelRandomDecree>{0_nameindef} mengeluarkan dekrit</LetterLabelRandomDecree>
+  <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
+  <LetterDecreeMentalBreak>Saat mencoba {0_NameIndef} menghilangkan stresnya, mengeluarkan dekrit nyata dan tidak adil dan menuntut kepatuhan.</LetterDecreeMentalBreak>
+  <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
+    \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
+  <LetterRandomDecree>{0_nameindef}, mencoba memperkuat judul {0_bestroyaltitleindef}, telah mengeluarkan dekrit dan menuntut kepatuhan.</LetterRandomDecree>
+  <!-- EN: The decree is titled "{0}". -->
+  <LetterDecree_Quest>Dekrit tersebut berjudul "{0}".</LetterDecree_Quest>
+  
+  <!-- Lent colonist died -->
+  <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
+  <LentColonistDied>{Pawn_namedef} hidup sementara dengan {facion}.Mereka akan mengembalikan tubuh {Pawn_namedef} segera.</LentColonistDied>  
+
+  <!-- Psylink -->
+  <!-- EN: Psylink gained -->
+  <LetterLabelPsylinkLevelGained>Psienlace woldy</LetterLabelPsylinkLevelGained>
+  <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
+  <LetterPsylinkLevelGained_First>{User_labelshort} telah memenangkan level pertama psienlace!Sekarang Anda adalah seorang psiko.Efektivitas meditasi ini akan lebih besar jika orang tersebut dapat berkonsentrasi pada objek tertentu saat bermeditasi.Ini tergantung pada latar belakang masing -masing, dan rago serta judulnya.Misalnya: \ n \ n- psi-emitor dengan judul nyata bermeditasi di takhta mereka. Pedalaman. \ n \ npuedes lihat jenis fokus meditasi seseorang di jendela informasi Anda, dengan kunci "i".</LetterPsylinkLevelGained_First>
+  <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
+  <LetterPsylinkLevelGained_NotFirst>{User_labelshort} telah memenangkan level psienlace baru!Anda sekarang dapat menggunakan kekuatan psikis hingga level itu, tetapi Anda harus mempelajarinya terlebih dahulu.</LetterPsylinkLevelGained_NotFirst>
+  <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
+  <LetterPsylinkLevelGained_PsycastLearned>Dengan memenangkan tingkat psikos baru, {user_labelshort} telah secara otomatis mempelajari kekuatan psikis ini: {2}.</LetterPsylinkLevelGained_PsycastLearned>
+  
+  <!-- Abilities -->
+  <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterPsychicInspiration>Berkat saran psikis {CASTER_NAMEIndef}, {Pawn_nameindef} terasa terinspirasi {Pawn_gender?O: A}!</LetterPsychicInspiration>
+
+  <!-- EN: Bestowing ceremony expired -->
+  <LetterLabelBestowingCeremonyExpired>Upacara Kenaikan berakhir</LetterLabelBestowingCeremonyExpired>
+  <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
+  <LetterTextBestowingCeremonyExpired>{Target_Definite} tampaknya tidak pada upacara Ascension.Upacara telah dibatalkan.</LetterTextBestowingCeremonyExpired>
+
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>Ubah {target_definite} title}</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{Target_Definite} telah memperoleh judul baru sejak upacara Ascension dijadwalkan.Agar kenaikan bertepatan dengan judul baru, upacara lain akan segera dijadwalkan.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{Pawn_labelshort} menerima {1} kehormatan sehubungan dengan faksi {felion_name}, untuk mengumpulkan {3} penonton.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{Pawn_labelshort} tidak menerima kehormatan ekstra karena tidak ada banyak penonton.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>Semua penonton upacara menerima bonus humor.</LetterPartMoodBonus>
+
+  <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
+  <LetterTextHonorAward_BanditCamp>Siapa yang harus diakreditasi {0} karena telah mengalahkan kamp?</LetterTextHonorAward_BanditCamp>
+
+  <!-- Shuttle crash -->
+  <!-- EN: Shuttle crashed -->
+  <LetterLabelShuttleCrashed>Feri itu jatuh</LetterLabelShuttleCrashed>
+  <!-- EN: A shuttle has crashed nearby -->
+  <LetterTextShuttleCrashed>Sebuah feri telah jatuh di dekatnya</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>Capsule Transport Starry: {0_Namedef}</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>{0_gender?A: One} {0_Title} bernama {0_namedef} telah menabrak kapsul transport di sekitarnya.Ada juga kemungkinan pemulihan yang cepat dan beruntung.{1_label} juga dapat disembuhkan dengan operasi khusus yang membutuhkan sejumlah besar obat dunia.Atau: A} untuk berkontribusi setelah pulih, tetapi tidak akan berjalan secara sukarela.Jika Anda tidak ingin saya tinggal, Anda dapat memilih untuk membuang {0_objective}, jual {0_Objective} sebagai budak {0_gender?O: a} atau tinggalkan {0_objective} die.Namun, opsi itu mungkin tidak menyukai pemukim Anda.</LetterTextWandererJoinsAbasia>
+
+</LanguageData>

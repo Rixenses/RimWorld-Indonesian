@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collapse dodged -->
+  <CollapseDodged.label>Drapple dihindari</CollapseDodged.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menghindari gua-in</li>
+    <li>Tale_noun-> [Pawn_namedef] Hampir dihancurkan oleh benda-benda yang jatuh</li>
+    <li>Image-> [Pawn_namefull] melompat menjauh dari runtuhnya puing-puing [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Secara sempit menghindari gua-in [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menghindari langit-langit yang jatuh [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menghindari kematian tertentu oleh batu yang jatuh [SITUCCANCE_GROUP]</li>
+    <li>keadaan_phrase-> yang menghilang di balik tirai puing dan debu</li>
+    <li>keadaan_phrase-> yang menghancurkan segalanya di bawahnya</li>
+    <li>SITUKSE_PHRASE-> yang berdampak dengan kekuatan luar biasa</li>
+    <li>desc_sentence-> [pawn_pronoun] berkeringat dengan aktivitas.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya ketakutan.</li>
+    <li>desc_sentence-> [pawn_pronoun] tergores dan berdarah.</li>
+    <li>desc_sentence-> [pawn_pronoun] telah kehilangan keseimbangan [Pawn_possessive].</li>-><CollapseDodged.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Menghindari keruntuhan</li>
+    <li>Tale_noun-> [Pawn_namedef] hampir dihancurkan oleh jatuhnya objek</li>
+    <li>Image-> [Pawn_namefulull] Meninggalkan tumpahan puing-puing [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulull] Menghindari keruntuhan [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] menghindari penurunan atap [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Hindari kematian yang aman karena jatuhnya batu [SITUCCANCE_GROUP]</li>
+    <li>Keadaan_phrase-> yang menghilang di balik tirai puing-puing dan debu</li>
+    <li>Keadaan_phrase-> menyemprotkan segalanya di bawah</li>
+    <li>SITUKSE_PHRASE-> yang berdampak dengan kekuatan luar biasa</li>
+    <li>Desc_sentence-> dia berkeringat dari upaya.</li>
+    <li>Desentent-> tampaknya ketakutan [Pawn_o_a].</li>
+    <li>Desc_sentence-> memiliki goresan dan pendarahan.</li>
+    <li>Desc_sentence-> tampaknya akan jatuh.</li>
+  </CollapseDodged.rulePack.rulesStrings>
+  
+  <!-- EN: launched ship -->
+  <LaunchedShip.label>kapal dilemparkan</LaunchedShip.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Melarikan diri dari planet ini</li>
+    <li>Tale_noun-> [Pawn_namedef] lepas landas di pesawat ruang angkasa</li>
+    <li>Image-> [Pawn_namefull] diluncurkan ke Stars [Soundance_Group]</li>
+    <li>Image-> [pawn_namefull] Berlomba menuju surga [Soumtance_Group]</li>
+    <li>Image-> [Pawn_namefull] Mempercepat untuk menghindari kecepatan [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Piloting a rocket [SICKETANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Di depan [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> dengan kekuatan luar biasa</li>
+    <li>keadaan_phrase-> dalam gumpalan debu dan batu</li>
+    <li>keadaan_phrase-> dengan roket menembak secara dramatis</li>
+    <li>keadaan_phrase-> dalam lepas landas presisi</li>
+    <li>desc_sentence-> [pawn_pronoun] berkonsentrasi dengan saksama pada kontrol.</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki mata [Pawn_possessives] tertutup dan terlihat percaya diri.</li>
+    <li>desc_sentence-> [pawn_pronoun] sedang tidur, [pawn_possessives] mata tertutup damai.</li>
+    <li>desc_sentence-> [pawn_pronoun] tersenyum dengan kegembiraan yang suram.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya sepenuhnya mengendalikan situasi.</li>
+    <li>desc_sentence-> Ada jejak api menjilati bagian belakang kapal.</li>
+    <li>desc_sentence-> [hewan] terdekat melihat ke atas, terkejut.</li>
+    <li>desc_sentence-> [hewan] melarikan diri dari peluncuran dalam ketakutan.</li>
+    <li>desc_sentence-> Ada [terrainfeature] di latar belakang.</li>
+    <li>desc_sentence-> A [personjob] menonton diam-diam dari jauh.</li>-><LaunchedShip.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] melarikan diri dari planet ini</li>
+    <li>Tale_noun-> [Pawn_namedef] lepas landas di pesawat ruang angkasa</li>
+    <li>Image-> [Pawn_namefulull] dilemparkan ke dalam bintang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Maju menuju langit [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulr] Mempercepat untuk memiliki kecepatan keluar [kelompok keadaan]</li>
+    <li>Image-> [pawn_namefull] Pilotando un cohete [SICKACE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Di depan [terrainfitur]</li>
+    <li>Keadaan_phrase-> dengan kekuatan luar biasa</li>
+    <li>Frasa keadaan-> dalam kolom debu dan batu</li>
+    <li>Keadaan_phrase-> dengan roket yang dinyalakan secara dramatis</li>
+    <li>Keadaan_phrase-> dalam lepas landas presisi</li>
+    <li>Desc_sentence-> berkonsentrasi dengan intens pada kontrol.</li>
+    <li>Descent-> memiliki mata tertutup dan tampaknya aman [Pawn_o_a] dari diri saya [Pawn_o_a].</li>
+    <li>Desc_sentence-> sedang tidur, dengan mata tertutup [Pawn_possessive] dengan tenang.</li>
+    <li>Desc_sentence-> dia tersenyum dengan sukacita yang mengecilkan hati.</li>
+    <li>Desc_sentence-> tampaknya memiliki kendali penuh atas situasi.</li>
+    <li>Desc_sentence-> Ada jejak api yang keluar dari belakang kapal.</li>
+    <li>Desc_sentence-> [Hewan] yang dekat melihat ke atas, terkejut.</li>
+    <li>Desc_sentence-> [hewan] melarikan diri dari peluncuran dengan ketakutan.</li>
+    <li>Desc_sentence-> Ada [terrainfeature] di latar belakang.</li>
+    <li>Descent-> [Personjob] terlihat diam-diam dari jauh.</li>
+  </LaunchedShip.rulePack.rulesStrings>
+  
+  <!-- EN: social fight -->
+  <SocialFight.label>pertarungan sosial</SocialFight.label>
+  <!-- EN:
+    <li>tale_noun-> [initiator_namedef] [fight_name_present] [responder_namedef]</li>
+    <li>Image-> [initiator_namefull] menghina [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] ejekan [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] mengancam [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] mengintimidasi [responder_namefull] [SITUKSE_GROUP]</li>
+    <li>Image-> [initiator_namefull] Menyerang [responder_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [initiator_namefull] menyerang [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] meninju [responder_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [initiator_namefull] menendang [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] cowering dari [responder_namefull] [soundance_group]</li>
+    <li>fight_name_present-> menyerang</li>
+    <li>fight_name_present-> menyerang</li>
+    <li>FIGHT_NAME_PRESENT-> FIGHTING</li>
+    <li>SITUCTANCE_PHRASE-> sementara [responder_namedef] menghina [initiator_objective]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [responder_namedef] ejekan [initiator_objective]</li>
+    <li>SITUCTance_Phrase-> sementara [responder_namedef] mengancam [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> sementara [responder_namedef] mengintimidasi [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> sementara [responder_namedef] menyerang [initiator_objective]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [responder_namedef] menyerang [initiator_objective]</li>
+    <li>SITUCTance_Phrase-> sementara [responder_namedef] meninju [initiator_objective]</li>
+    <li>SITUCTance_Phrase-> sementara [responder_namedef] menendang [initiator_objective]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [responder_namedef] cower dari [initiator_objective]</li>
+    <li>desc_sentence-> [target] muncul tanpa penyesalan.</li>
+    <li>desc_sentence-> [Target] dikonsumsi dengan marah.</li>
+    <li>desc_sentence-> [Target] tidak memiliki emosi atau ekspresi.</li>
+    <li>DESC_SENTENCE-> Tubuh [Target] tertutup [Gore].</li>
+    <li>desc_sentence-> [Target] berteriak dengan marah.</li>
+    <li>desc_sentence-> [target] terlihat terluka.</li>
+    <li>DESC_SENTENCE-> Mata [Target] bersinar [warna].</li>
+    <li>Target-> [initiator_namedef]</li>
+    <li>Target-> [responder_namedef]</li>-><SocialFight.rulePack.rulesStrings>
+    <li>tale_noun-> [initiator_namedef] [fight_name_present] a [responder_namedef]</li>
+    <li>Image-> [initiator_namefull] Insulta [responder_namefull] [SICKACE_GROUP]</li>
+    <li>Image-> [initiator_namefull] desafia [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] amenaza [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] intimida [responder_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [initiator_namefull] Ataca [responder_namefull] [Soundance_Group]</li>
+    <li>Image-> [initiator_namefull] violenta [responder_namefull] [soundance_group]</li>
+    <li>Image-> [initiator_namefull] Golpea [responder_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [initiator_namefull] Patada [responder_namefull] [SICKACE_GROUP]</li>
+    <li>Image-> [initiator_namefull] Acobardado por [responder_namefull] [SICKECANCE_GROUP]</li>
+    <li>FIGHT_NAME_PRESENT-> Violentó</li>
+    <li>Fight_name_present-> diserang</li>
+    <li>Fight_name_present-> diserang</li>
+    <li>SITUCTANCE_PHRASE-> mientras [responder_namedef] instan [initiator_objective]</li>
+    <li>SITUCTance_Phrase-> sementara [response_namedef] ejekan [initiator_objective]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [response_namedef] ancaman [initiator_objective]</li>
+    <li>SITUCTance_Phrase-> sementara [response_namedef] mengintimidasi [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> sementara [balasan_namedef] menyerang [initiator_objective]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [response_namedef] kekerasan [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> sementara [balasan_namedef] hits [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> mientras [responder_namedef] patea [initiator_objective]</li>
+    <li>SICKCANCE_PHRASE-> sementara [response_namedef] dikelompokkan oleh [initiator_objective]</li>
+    <li>Descent-> [Target] muncul tanpa penyesalan.</li>
+    <li>Desc_sentence-> [target] dikonsumsi oleh kemarahan.</li>
+    <li>Desc_sentence-> [target] tidak memiliki emosi atau ekspresi.</li>
+    <li>Desc_sentence-> [target] tubuh Anda tertutup [gore].</li>
+    <li>Desentencio-> [Target] berteriak dengan marah.</li>
+    <li>Desc_sentence-> [target] terlihat terluka.</li>
+    <li>Desc_sentence-> [target] matanya bersinar dari [warna].</li>
+    <li>Target-> [initiator_namedef]</li>
+    <li>Target-> [responder_namedef]</li>
+  </SocialFight.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-></li>-><EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-></li>
+  </EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-></li>-><EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+    <li>QuestName-></li>
+  </EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DescriptionIntro] yang ingin memperluas wilayah mereka, dan tertarik untuk mengambil alih [PlayersAntlements] dengan semua kekayaan dan teknologi [mereka].Jika Anda dapat meningkatkan total kekayaan Anda menjadi [wajib yang tidak terwujud], mereka akan mengambil [penyelesaian singularorplural]. \ N \ nin perdagangan, mereka menawarkan Anda bagian dari peta yang menunjukkan lokasi nexus Archotech kuno.Archonexus dianggap sebagai saluran yang melaluinya sebuah superintelligensi Archotech mempengaruhi dunia fisik.Jika Anda dapat memohon kekuatannya, apa yang terjadi selanjutnya bisa melampaui realitas fisik. \ N \ n [hanya Havehas] Satu bagian dari peta.Bagian -bagian lain dipegang oleh faksi -faksi lain. \ N \ nif Anda menerima penawaran mereka, [factionpawnsplural] akan memiliki pemukiman Anda, termasuk semua item, orang, dan penelitian yang direkam.Mereka akan membawa [penjajah] dari orang -orang Anda dan [hewan yang diminta] dari hewan Anda ke mana pun yang Anda inginkan di planet ini untuk memulai koloni baru. \ N \ nlater, Anda dapat berdagang dengan orang lain dengan dua bagian terakhir dari peta.</li>
+    <li>mereka mereka (playesettlementscount == 1)-> its</li>
+    <li>mereka mereka (playesettlementscount> = 2)-> mereka</li>
+    <li>PenyelesaianSingularOrplural (PlayersAntlementscount == 1)-> Penyelesaian</li>
+    <li>SettlementsSingularOrplural (playsetlementscount> = 2)-> pemukiman</li>
+    <li>OnlyHavehas (factionless == false)-> [civiloutlander_name] hanya memiliki</li>
+    <li>OnlyHavehas (factionless == true)-> grup hanya memiliki</li>
+    <li>factionpawnsplural (factionless == false)-> [civiloutlander_pawnsplural]</li>
+    <li>factionpawnsplural (factionless == true)-> Orang Liar</li>
+    <li>Deskripsiintro (factionless == false)-> [civiloutlander_name] Adalah</li>
+    <li>Deskripsiintro (factionless == true)-> sekelompok orang liar</li>-><EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [Deskripsi] Berusaha memperluas wilayah mereka, dan tertarik untuk mendapatkan [PlayersEntlements] dengan semua kekayaan dan teknologi [mereka mereka].Jika Anda dapat meningkatkan total kekayaan Anda menjadi [wajib wealth_money], mereka akan mengambil [pemukiman ucapan urat].Dipercayai bahwa archaonex adalah saluran yang melaluinya superintelligensi Archeoteca mempengaruhi dunia fisik.Jika Anda dapat memohon kekuatan Anda, apa yang terjadi nanti bisa melampaui realitas fisik.\ N \ n [Onlyhahahas] Sepotong peta. Potongan -potongan lainnya ada di tangan fitur lain.Mereka akan dibawa ke pemukim [penjajah] dari orang -orang Anda dan [binatang] hewan Anda di mana saja di planet ini Anda ingin memulai koloni baru Anda.</li>
+    <li>mereka mereka (playesettlementscount == 1)-> su</li>
+    <li>mereka mereka (playesettlementscount> = 2)-> su</li>
+    <li>PENYELESINGULARORPLURAL (PlallesEtTlementsCount == 1)-> Penyelesaian</li>
+    <li>Penyelesingularorplural (playesantlementscount> = 2)-> pemukiman</li>
+    <li>OnlyHavehas (factionless == false)-> [civiloutlander_name] solo tiene</li>
+    <li>OnlyHavehas (factionless == true)-> hanya grup</li>
+    <li>factionpawnsplural (factionless == false)-> [civiloutlander_pawnsplural]</li>
+    <li>Facionpawnsplural (factionless == true)-> Orang Liar</li>
+    <li>Deskripsi (factionless == false)-> [civiloutland_name]</li>
+    <li>Deskripsi (felionless == true)-> sekelompok orang biadab adalah</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Archonexus</li>-><EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+    <li>QuestName-> The Archeonex</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> Dengan bagian peta Archonexus pertama yang direkam dengan aman, Anda bersiap untuk langkah selanjutnya dari perjalanan Anda. \ n \ n [Cycle1Faction] memberi tahu Anda tentang Cataclysm yang menghancurkan dunia ini.Manusia membangun mesin berpikir yang hebat di sini berabad -abad yang lalu.Itu berbalik melawan orang -orang dan ada perang yang hebat.Hanya sedikit yang tersisa ketika mesin ditransendensi dan jatuh tidak aktif. \ N \ n Peta ke Archonexus memiliki tiga bagian, dan Anda memegang salah satunya.[OtherMappartholders] juga masing -masing memegang bagian peta.Mereka akan menukar bagian mereka dengan Anda dengan koloni baru yang kaya dan semua penelitiannya yang direkam. [Deskripsi Studyrequirement] \ n \ nit waktu untuk membangun.</li>
+    <li>Cycle1faction (factionless == false)-> [civiloutlander_leader_namedef]</li>
+    <li>Cycle1Faction (factionless == true)-> [Wilderpeople]</li>
+    <li>OtherMappartholders (factionless == false)-> [roughoutlander_name] Dan [roughtribe_name]</li>
+    <li>OtherMappartholders (factionless == true)-> lainnya [Wildpeople]</li>
+    <li>TakeOverpawnsplural (factionless == false)-> [roughoutlander_pawnsplural]</li>
+    <li>TakeoverPawnsplural (factionless == true)-> [Wildpeople]</li>
+    <li>Wildpeople-> orang liar</li>
+    <li>DescriptionStudyRequirement (StudyRequirement == true)-> \ n \ n Bagian peta berikutnya dikodekan dengan cara yang sangat aneh.Untuk menafsirkannya, Anda harus terlebih dahulu mempelajari lebih lanjut tentang archotechnology dengan mempelajari struktur di sini.</li>
+    <li>Deskripsistudyrequirement (StudyQirement == false) -></li>-><EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Dengan bagian pertama dari peta Archeonex yang direkam dengan aman, Anda bersiap untuk langkah berikutnya dari perjalanan Anda.Manusia membangun mesin berpikir besar di sini berabad -abad yang lalu.Ini berbalik melawan orang -orang dan ada perang yang hebat.Hanya sedikit yang tersisa ketika mesin melampaui dan tidak aktif. Peta Archaeonexo memiliki tiga bagian, dan Anda memiliki salah satunya.[OtherMapparkolders] Mereka juga memiliki potongan peta.Karya Anda akan berubah untuk koloni baru dan kaya dan semua penyelidikan terdaftar Anda. [Deskripsi Operasi] Waktu untuk mulai membangun.</li>
+    <li>Cycle1faction (factionless == false)-> [civiloutlander_leader_namedef]</li>
+    <li>Cycle1faction (factionless == true)-> las [Wildpeople]</li>
+    <li>Diberitahu (factionless == false)-> berbicara</li>
+    <li>Diberitahu (felionless == true)-> mereka berbicara</li>
+    <li>OtherMappartholders (factionless == false)-> [roughoutlander_name] y [roughtribe_name]</li>
+    <li>OtherMappartholders (factionless == true)-> Otras [Wildpeople]</li>
+    <li>TakeOverpawnsplural (factionless == false)-> [roughoutlander_pawnsplural]</li>
+    <li>TakeoverPawnsplural (factionless == true)-> [Wildpeople]</li>
+    <li>Wildpeople-> orang liar</li>
+    <li>DescriptionTudyRequirement (StudyRequirement == true)-> \ n \ nla Peta peta berikutnya dikodekan dengan cara yang sangat aneh.Untuk menafsirkannya, Anda harus terlebih dahulu mempelajari lebih lanjut tentang arkeoteknologi yang mempelajari struktur di sini.</li>
+    <li>Deskripsistudyrequirement (StudyQirement == false) -></li>
+  </EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Archonexus</li>-><EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+    <li>QuestName-> The Archeonex</li>
+  </EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Questacceptedletterlabel-> Archonexus ditemukan</li>
+    <li>QuestacceptedleText-> [questdescriptionBeforeAccepted]</li>
+    <li>QuestDescriptionBeforeEccepted-> Anda memiliki dua bagian peta Archonexus.[FactionName] memiliki bagian terakhir dari peta, diturunkan dari saat leluhur mereka selamat dari bencana.Mereka akan menukarnya dengan Anda dengan koloni baru yang kaya bersama dengan penelitiannya yang direkam. [Deskripsi Studyrequirement] \ n \ nit waktu untuk membangun.</li>
+    <li>QuestDescriptionAccepted-> [DescriptionIntro] telah memberi Anda bagian terakhir dari peta Archonexus.Menggunakan pengetahuan Anda tentang info-encoding Archotech, Anda telah mendekodekan peta dan menunjukkan lokasi Archonexus.</li>
+    <li>factionname (factionless == false)-> [roughtribe_name]</li>
+    <li>factionname (factionless == true)-> Orang Liar</li>
+    <li>descriptionIntro (factionless == false)-> [roughtribe_name] pemimpin [roughtribe_leader_namedef] memilisi</li>
+    <li>Deskripsiintro (factionless == true)-> orang liar memiliki</li>
+    <li>DescriptionStudyRequirement (StudyRequirement == true)-> \ n \ nas Sebelumnya, bagian peta dikodekan.Untuk memecahkan kode, Anda harus terlebih dahulu mempelajari struktur Archotech.</li>
+    <li>Deskripsistudyrequirement (StudyQirement == false) -></li>
+    <li>Deskripsi BRAATS (ancaman yang dapat diancam == true)-> Archonexus kemungkinan akan memiliki pembela mekanoid, jadi disiapkan. \ n \ n</li>
+    <li>Deskripsi BRAATS (ancaman yang dapat diancam == false)-></li>-><EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+    <li>Questacceptedletterlabel-> ArqueOnexo ditemukan</li>
+    <li>QuestacceptedleText-> [questdescriptionBeforeAccepted]</li>
+    <li>Deskripsi pencarian Faksi [Felionname] memiliki bagian terakhir dari peta, ditransmisikan kepada mereka karena leluhur mereka selamat dari bencana.Mereka akan memberikannya kepada Anda dengan imbalan koloni baru dan kaya bersama dengan penelitian terdaftar Anda. [Deskripsi -squitement] Waktu untuk mulai membangun.</li>
+    <li>Quest DescriptionAcepted-> [Deskripsi] Mengingat bagian terakhir dari peta Archaeonex.Menggunakan pengetahuan pengkodean pengetahuan Anda Archeoteca, Anda telah menguraikan peta dan menemukan lokasi archeonex. Nyata.</li>
+    <li>factionname (factionless == false)-> [roughtribe_name]</li>
+    <li>FacionName (factionless == true)-> Orang Liar</li>
+    <li>Deskripsiinter (factionless == false)-> [roughtribe_leader_namedef] pemimpin [poundtribe_name]</li>
+    <li>Deskripsi (felionless == true)-> orang liar</li>
+    <li>DescriptionTudyRequirement (StudyRequirement == true)-> \ n \ ncomo Sebelumnya, potongan peta diberi kode.Untuk memecahkan kode, pertama -tama Anda harus mempelajari struktur Archeoteca.</li>
+    <li>Deskripsistudyrequirement (StudyQirement == false) -></li>
+    <li>Keterangan</li>
+    <li>Deskripsi BRAATS (ancaman yang dapat diancam == false)-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-></li>-><EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-></li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Archonexus</li>-><EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+    <li>QuestName-> The Archeonex</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+  
+</LanguageData>

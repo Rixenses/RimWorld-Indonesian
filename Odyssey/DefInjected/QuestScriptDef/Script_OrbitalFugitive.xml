@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> anonim AI telah meminta bantuan Anda berurusan dengan penjahat bernama [fugitive_namedef].AI mengklaim [fugitive_namedef] dicari untuk [reason_ai]. \ N \ n [fugitive_namedef] telah mencuri pod transportasi dan telah melarikan diri ke platform orbital yang ditinggalkan. \ N \ nhaving mendengar rumor gravship Anda, AI meminta agar Anda melakukan perjalanan ke platform yang abandoned dan killinged [forphip.Sebagai imbalannya, itu akan memberi Anda penghargaan dengan perangkat gravtech. \ N \ nThe Ai memperingatkan Anda bahwa [fugitive_namedef] mungkin berada di perusahaan bajak laut orbital yang bermusuhan.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] telah mengirimi kami pesan.Seorang buron bernama [fugitive_namedef] lolos dari tahanan [asker_possessive] dan menggunakan pod transport untuk melarikan diri ke platform orbital yang ditinggalkan.[fugitive_namedef] ditahan karena [alasan]. \ n \ nhaving mendengar desas -desus tentang gravship Anda, [asker_faction_leadertitle] meminta Anda melakukan perjalanan ke platform yang ditinggalkan dan membunuh [fugitive_namedef].Jika Anda melakukannya, [asker_namedef] akan memberi Anda hadiah dengan perangkat gravtech. \ N \ n [asker_namedef] memperingatkan Anda bahwa [fugitive_namedef] mungkin berada di perusahaan bajak laut orbital yang bermusuhan.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], meminta Anda melacak dan membunuh buron berbahaya yang dikenal sebagai [fugitive_namedef].Fugitive dicari untuk [reason_royal]. \ N \ n [fugitive_namedef] bersembunyi di platform orbital yang ditinggalkan dan dapat dijaga oleh bajak laut orbital.Jika Anda membunuh buron, [asker_namedef] akan memberi Anda penghargaan dengan perangkat gravtech.</li>
+    <li>reason_ai-> Penghancuran beberapa inti subpersona tingkat tinggi</li>
+    <li>reason_ai-> deorbiting satelit AI</li>
+    <li>reason_ai-> kejahatan di berbagai planet yang jauh</li>
+    <li>reason_ai-> Perdagangan orbital yang tidak berlisensi dari artefak psikis</li>
+    <li>reason_ai-> [alasan]</li>
+    <li>reason_royal-> sangat menghina [asker_royaltitleincurrentfaction] dalam pidato pernikahan</li>
+    <li>reason_royal-> mencoba untuk membunuh [asker_royaltitleincurrentfaction]</li>
+    <li>reason_royal-> secara tidak sengaja meledakkan paket firefoam di pesawat ulang-alik kekaisaran</li>
+    <li>reason_royal-> Penggunaan generator tornado yang tidak patut di dekat pemukiman kekaisaran</li>
+    <li>reason_royal-> mencoba mengatur pemberontakan</li>
+    <li>reason_royal-> pengkhianatan</li>
+    <li>reason_royal-> [alasan]</li>
+    <li>Reason-> Berkolaborasi dengan Sanguophage Cabal</li>
+    <li>Alasan-> Perdagangan Artefak Psikis Berbahaya</li>
+    <li>Alasan-> Larceny Grand dan Berbagai Masa Sabotase Perusahaan</li>
+    <li>Alasan-> Eksperimen genetik yang tidak sah</li>
+    <li>Alasan-> Menghasut konflik antar-faksional</li>
+    <li>Alasan-> Mabuk-Mabuk Prajurit Ritual Damai</li>
+    <li>Alasan-> Penghancuran Kapal Perdagangan Orbital</li>-><OrbitalFugitive.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> anonim telah meminta bantuan Anda untuk menangani [fugitive_a] outsiden [fugitive_o_a] hubungi [fugitive_o_a] [fugitive_namedef].AI menyatakan bahwa [fugitive_namedef] adalah pencarian [fugitive_o_a] oleh [reason_ai]. \ N \ n [fugitive_namedef] telah mencuri kapsul transportasi dan telah melarikan diri ke platform orbital yang ditinggalkan.[fugitive_objective] teman. Sebagai imbalannya, itu akan memberi Anda hadiah dengan perangkat gravitecnology.</li>
+    <li>Deskripsi pencarian (asker_factionleader == true)-> [asker_nameful] [asker_a] [asker_faction_leaderTitle] dari faksi [asker_faction_name] telah mengirimi kami pesan.A [fugitive_a] fugitiv [fugitive_o_a] hubungi [fugitive_o_a] [fugitive_namedef] melarikan diri dari tahanannya dan menggunakan kapsul transportasi untuk melarikan diri ke platform orbital yang ditinggalkan.[Fugitive_namedef] ditahan oleh [alasan]. Jika Anda melakukannya, [asker_namedef] akan memberi Anda hadiah dengan perangkat gravitecnology.</li>
+    <li>QuestDescription (Asker_royalincurrentfaction == True)-> [Asker_namefulr], [Asker_a] [Asker_royaltitlecurrentfaction] of the faction [asker_faction_name], requests that you track and eliminate a [fugitive_a] hazards [fugitive_ fugitiv [fugitive_o_a] known [fugitive_o_a] as [fugitive_namedef].Dia dicari [Reason_Royal]. Jika [fugitive_objective] Matas, [asker_namedef] akan memberi Anda hadiah dengan perangkat gravitecnology.</li>
+    <li>Reason_ai-> Penghancuran beberapa inti subpersone tingkat tinggi</li>
+    <li>Reason_ai-> orbit satelit satelit ai</li>
+    <li>Reason_ai-> kejahatan di berbagai planet yang jauh</li>
+    <li>Reason_ai-> perdagangan orbital dalam artefak psikis resmi</li>
+    <li>reason_ai-> [alasan]</li>
+    <li>reason_royal-> menghina dalam keadaan mabuk [asker_a_al] [asker_royaltitleincurrentfaction] dalam pidato pernikahan</li>
+    <li>Reason_royal-> coba bunuh [asker_a_al] [asker_royaltitleincurrentfaction]</li>
+    <li>Reason_royal-> secara tidak sengaja meledakkan paket busa kayu bakar di feri kekaisaran</li>
+    <li>Reason_royal-> Penggunaan generator tornado yang tidak pantas di dekat pemukiman kekaisaran</li>
+    <li>Reason_royal-> Cobalah untuk mengatur pemberontakan</li>
+    <li>Reason_royal-> pengkhianatan</li>
+    <li>reason_royal-> [alasan]</li>
+    <li>Alasan-> Berkolaborasi dengan Cabala konyol</li>
+    <li>Alasan-> Perdagangan Artefak Psikis Berbahaya</li>
+    <li>Alasan-> Berbagai posisi sabotase perusahaan dan perampokan yang hebat</li>
+    <li>alasan-> eksperimen genetik yang tidak sah</li>
+    <li>Alasan-> Mendorong konflik antarmuka</li>
+    <li>Alasan-> Buruk dalam keadaan mabuk ritual perdamaian</li>
+    <li>Alasan-> Penghancuran Kapal Komersial Orbital</li>
+    <li>fugitive_o_a (fugitive_gender! = wanita)-> o</li>
+    <li>fugitive_o_a (fugitive_gender == betina)-> a</li>
+    <li>fugitive_a (fugitive_gender! = wanita)-></li>
+    <li>fugitive_a (fugitive_gender == betina)-> a</li>
+  </OrbitalFugitive.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Hunt for [fugitive_namedef]</li>
+    <li>QuestName-> Bounty untuk [fugitive_namedef]</li>
+    <li>QuestName-> [fugitive_namedef] [kriminal]</li>
+    <li>QuestName-> The Orbital [kriminal]</li>
+    <li>Pidana-> Pidana</li>
+    <li>penjahat-> buron</li>
+    <li>Pidana-> Outlaw</li>
+    <li>penjahat-> penjahat</li>
+    <li>Pidana-> Renegade</li>-><OrbitalFugitive.questNameRules.rulesStrings>
+    <li>QuestName-> The Hunt for [fugitive_namedef]</li>
+    <li>QuestName-> Hadiah untuk [fugitive_namedef]</li>
+    <li>QuestName-> el [criminalm] [fugitive_namedef]</li>
+    <li>QuestName-> La [criminalf] [fugitive_namedef]</li>
+    <li>QuestName-> The [kriminal] orbital</li>
+    <li>Pidana-> Pidana</li>
+    <li>Penjahat-> buron</li>
+    <li>Pidana-> Outlaw</li>
+    <li>Pidana-> Pelanggar</li>
+    <li>Pidana-> Renegade</li>
+    <li>criminalmale-> kriminal</li>
+    <li>CriminalMale-> buron</li>
+    <li>CriminalMale-> Outlaw</li>
+    <li>Criminalmale-> pelaku</li>
+    <li>CriminalMale-> Renegade</li>
+    <li>criminalfem-> kriminal</li>
+    <li>Criminalfem-> buron</li>
+    <li>Pidana EM-> buron</li>
+    <li>Criminalfem-> pelaku</li>
+    <li>Criminalfem-> Renegade</li>
+    <li>criminalf (fugitive_gender == wanita)-> [criminalfem]</li>
+    <li>kriminal (gender buron! = wanita)-> [penjahat laki-laki]</li>
+  </OrbitalFugitive.questNameRules.rulesStrings>
+  
+</LanguageData>

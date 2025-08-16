@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>rusak</Breakup.label>
+  <!-- EN:
+    <li>r_logentry-> [INITIATOR_nameDef] meminta [RECIPIENT_nameDef] untuk istirahat.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meminta [RECIPIENT_nameDef] untuk beberapa ruang.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] memberi tahu [RECIPIENT_nameDef] bahwa itu tidak berhasil.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mengatakan kepada [RECIPIENT_nameDef] bahwa akan lebih baik jika bertemu dengan orang lain.</li>-><Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [INITIATOR_nameDef] telah memutus hubungannya dengan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] telah meminta [RECIPIENT_nameDef] untuk beberapa waktu saja.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] telah meminta [RECIPIENT_nameDef] untuk berteman kembali.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] telah mengakhiri hubungan romantisnya dengan [RECIPIENT_nameDef].</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>Lamaran pernikahan</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry-> [INITIATOR_nameDef] mengusulkan pernikahan kepada [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mengusulkan komitmen seumur hidup untuk [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] memberi tahu [PENERIMA_namaDef] bahwa [INITIATOR_kata ganti] ingin menghabiskan hidup [INITIATOR_kepemilikan] dengan [PENERIMA_tujuan].</li>-><MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [INITIATOR_namaDef] diusulkan ke [PENERIMA_namaDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] telah mengajukan komitmen seumur hidup untuk [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] telah mendeklarasikan bahwa ia ingin menghabiskan sisa hidupnya dengan [RECIPIENT_nameDef].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>menggoda</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry-> [INITIATOR_namaDef] [merayu] [namaPenerima] oleh [wootactic].</li>
+    <li>merayu-> mencoba untuk menggoda</li>
+    <li>diminta-> tergoda</li>
+    <li>merayu-> mencoba untuk menarik</li>
+    <li>merayu-> mencoba untuk menjalin hubungan asmara</li>
+    <li>merayu-> mencoba merayu</li>
+    <li>memohon-> mengajukan banding</li>
+    <li>diminta-> dikejar</li>
+    <li>Banding-> Terpesona</li>
+    <li>memohon-> mengajukan banding</li>
+    <li>woootactic (p = 4)-> [memuji] [penerima_possessive] [pribadi karakteristik].</li>
+    <li>wootactic-> menceritakan sebuah cerita tentang [TalkTopicAny].</li>
+    <li>wootactic-> menceritakan sebuah kisah tentang [TalkTopicAny].</li>
+    <li>wootactic-> bercanda tentang [TalkTopicAny].</li>
+    <li>wootactic-> membuat pengamatan tentang [TalkTopicAny].</li>
+    <li>wootactic(p=2)->[membanggakan] [INITIATOR_possessive] sendiri [PersonalCharacteristic].</li>
+    <li>wootactic-> membandingkan [RECIPIENT_objective] dengan [romantic_adj] [romantic_noun].</li>
+    <li>wootactic-> mendeskripsikan [RECIPIENT_objective] sebagai [romantic_adj] [romantic_noun].</li>
+    <li>membanggakan-> membanggakan tentang</li>
+    <li>membanggakan-> menyebutkan</li>
+    <li>membanggakan-> menyiratkan hal-hal baik tentang</li>
+    <li>Menyantap diri sendiri-> membesar-besarkan</li>
+    <li>membanggakan-> berbicara tentang</li>
+    <li>bangga pada diri sendiri-> menarik perhatian</li>
+    <li>pujian (p = 3)-> pujian</li>
+    <li>dipuji-> dipuji baik-baik saja</li>
+    <li>Pujian-> Pujian</li>
+    <li>memuji-> merekomendasikan</li>
+    <li>memuji-> mengatakan hal-hal yang baik tentang</li>
+    <li>memuji (p=2) -> main-main mengolok-olok</li>
+    <li>memuji-> bercanda sambil mencolek</li>
+    <li>memuji-> bercanda setengah memuji</li>
+    <li>Puji-> Bertanya kasar</li>
+    <li>memuji-> mengolok-olok dengan riang</li>
+    <li>romantic_adj-> cantik</li>
+    <li>romantic_adj-> bersinar</li>
+    <li>romantic_adj-> mengepul</li>
+    <li>romantic_adj-> surgawi</li>
+    <li>romantic_adj-> emas</li>
+    <li>romantic_adj-> terang</li>
+    <li>romanty_adj-> menakjubkan</li>
+    <li>romantic_adj-> menawan</li>
+    <li>romantic_adj-> mempesona</li>
+    <li>romantic_adj-> halus</li>
+    <li>romantic_adj->baik</li>
+    <li>romantic_adj-> luar biasa</li>
+    <li>romantic_adj-> indah</li>
+    <li>romantic_adj-> indah</li>
+    <li>romantic_adj(p=3)->[Kata sifatBadass].</li>
+    <li>kata benda romantis-> bunga</li>
+    <li>kata benda romantis-> musim semi</li>
+    <li>romantic_noun-> Sungai</li>
+    <li>kata benda romantis-> bintang</li>
+    <li>kata benda romantis-> bulan</li>
+    <li>kata benda romantis-> matahari</li>
+    <li>kata benda romantis-> rumah</li>
+    <li>kata benda romantis->aurora</li>
+    <li>romantic_noun-> [Treetype] Pohon</li>
+    <li>romantic_noun (p = 2)-> [Terrainfeature].</li>
+    <li>romantic_noun (p = 2)-> [naturalObject].</li>-><RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [merayu] [penerima_namedef] ke [wootactic].</li>
+    <li>merayu-> mencoba untuk menggoda</li>
+    <li>diminta-> tergoda</li>
+    <li>Banding-> Mencoba Menarik</li>
+    <li>merayu-> mencoba untuk memulai percintaan dengan</li>
+    <li>Banding-> Mencoba Banding</li>
+    <li>Beg-> diarahkan untuk</li>
+    <li>merayu-> mencoba untuk memenangkan hati</li>
+    <li>diminta-> tergoda</li>
+    <li>Banding-> Mencoba Banding</li>
+    <li>Woootactic (p = 4)-> [memuji] su [pribadel pribadi].</li>
+    <li>wootactic-> ceritakan sebuah cerita tentang [TalkTopicAny].</li>
+    <li>wootactic-> ceritakan sebuah cerita tentang [TalkTopicAny].</li>
+    <li>wootactic-> bercanda tentang [TalkTopicAny].</li>
+    <li>wootactic-> [membanggakan] [PersonalCharacteristic] Anda sendiri.</li>
+    <li>wootactic-> [membanggakan] miliknya sendiri [PersonalCharacteristic_Fem].</li>
+    <li>woootactic-> bandingkan [penerima_objective] DENGAN [romantic_adj] [romantic_noun].</li>
+    <li>wootactic-> mendeskripsikan [RECIPIENT_objective] sebagai [romantic_adj] [romantic_noun].</li>
+    <li>membanggakan-> membanggakan tentang</li>
+    <li>membanggakan->menyebutkan</li>
+    <li>membanggakan-> untuk menyiratkan hal-hal yang baik tentang</li>
+    <li>Menyantap diri sendiri-> membesar-besarkan</li>
+    <li>membanggakan->berbicara tentang</li>
+    <li>membual-> menarik perhatian</li>
+    <li>pujian (p = 3)-> pujian</li>
+    <li>dipuji-> dipuji baik-baik saja</li>
+    <li>Pujian-> Pujian</li>
+    <li>Puji-> Dorong</li>
+    <li>memuji-> mengatakan hal-hal yang baik tentang</li>
+    <li>memuji(p=2)-> bercanda tentang</li>
+    <li>memuji-> merayakan</li>
+    <li>memuji-> bercanda tentang</li>
+    <li>dipuji-> dipuji baik-baik saja</li>
+    <li>MEMUJi-> Mock on</li>
+    <li>romantic_adj-> cantik</li>
+    <li>romantic_adj-> berharga</li>
+    <li>romantic_adj-> Bella</li>
+    <li>romantic_adj-> elegan</li>
+    <li>romantic_adj-> brilian</li>
+    <li>romantic_adj-> cantik</li>
+    <li>romantic_adj-> lezat</li>
+    <li>romantic_adj-> halus</li>
+    <li>romantic_adj-> luar biasa</li>
+    <li>Adji romantis> sirip</li>
+    <li>romantic_adj-> luar biasa</li>
+    <li>romantic_adj-> indah</li>
+    <li>romantic_adj-> berharga</li>
+    <li>romantic_adj-> indah</li>
+    <li>romantic_adj(p=3)->[Kata sifatBadass_Fem].</li>
+    <li>kata benda romantis-> bunga</li>
+    <li>romantic_noun-> patung</li>
+    <li>kata benda romantis-> awan</li>
+    <li>kata benda romantis-> bintang</li>
+    <li>kata benda romantis-> patung</li>
+    <li>kata benda romantis-> bulan</li>
+    <li>romantic_noun-> home</li>
+    <li>kata benda romantis->aurora</li>
+    <li>romantic_noun-> pohon dari [TreeType_Fem].</li>
+    <li>romantic_noun (p = 2)-> [terrainfeature_fem].</li>
+    <li>kata_benda_romantis(p=2)->[NaturalObject_Fem].</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

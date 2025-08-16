@@ -1,0 +1,200 @@
+﻿penculikan psikis
+pantangan kubik
+sirip
+sirip kanan
+sirip kiri
+peluru senapan hellcat
+peluru menara taktis
+Kulin Bioferit
+ubin bioferrit terbakar
+suar pecahan
+Laboratorium Jaket
+jas laboratorium dari surai trumbo
+jas laboratorium dari kulit armadillo
+jas laboratorium dari kulit unta
+jas laboratorium dari kulit gajah
+jas laboratorium dari kulit kuda nil
+jas laboratorium dari kulit kadal
+jas laboratorium dari kulit mastodon
+jas laboratorium dari kulit anjing
+jas laboratorium dari kulit badak
+jas laboratorium dari kulit manusia
+jas laboratorium dari kulit tipis
+jas laboratorium dari kulit halus
+jas laboratorium dari kulit tambalan
+jas laboratorium dari kulit mengerikan
+jas laboratorium dari benang iblis
+jas laboratorium dari hiperjaringan
+jas laboratorium dari wol alpaka
+jas laboratorium dari wol bison
+jas laboratorium dari wol sapi kasturi
+jas laboratorium dari wol mastodon
+jas laboratorium dari wol kukang raksasa
+jas laboratorium dari wol kerbau
+jas laboratorium dari wol domba
+jas laboratorium dari bulu biru
+jas laboratorium dari bulu chinchilla
+jas laboratorium dari bulu marmut
+jas laboratorium dari bulu trumbo
+jas laboratorium dari bulu rubah
+jas laboratorium dari bulu kucing
+jas laboratorium dari bulu tebal
+jas laboratorium dari kulit babi
+jas laboratorium dari kulit serigala
+jas laboratorium dari kulit beruang
+jas laboratorium dari kulit burung
+jas laboratorium dari kulit pinnipedia
+jas laboratorium dari kulit cerpelai
+jas laboratorium dari kain
+jas laboratorium dari kain sintetis
+magang kelam
+suar
+suar pengacau
+Bioferrit
+bioferrit yang diekstrak
+kepala
+kotak abu -abu
+Pemanas bioferrit
+kamar upacara
+kapsul necrovita
+kapsul menara lipat
+tutup
+muatan
+pembakar
+daging
+Daging abu -abu
+daging terpuntir
+dagingmassa
+sel penahanan
+tulang selangka kanan
+tulang selangka kiri
+tulang belakang hidup kembali
+pembakaran bioferrit
+penahanan entitas
+Mesin saya meletakkan bioferrit
+Ciptaan Ghoul
+pemakan waktu
+pisau
+pisau kanan
+pisau kiri
+rakyat
+pemuja
+degenerasi organ
+pencernaan
+penyakit mortis repelio
+penyakit duplikat
+entitas
+patung kubus pasir
+patung kubus rongsokan
+patung kubus batu
+patung kubus kotor
+patung kehampaan
+meludah
+esensi kehampaan
+tampilan lampu
+pecahan
+patung abu -abu
+struktur kehampaan
+klaim kerja
+ekspedisi penelitian
+tampilan kegelapan
+ekstraksi bioferrit
+Orang asing yang berpengalaman
+pemakan daun
+buah
+lubang sarang
+lubang tak berujung
+cakar
+cakar depan kanan
+cakar depan kiri
+cakar yang tepat
+cakar kiri
+Paw kanan kanan
+Paw Kiri Kiri
+pembangkit energi dengan bioferrit
+pembangkit energi dari entitas
+jenius kesepian
+hipnosis hidup kembali
+hipnosis membangunkan
+deskripsi singkat
+penanaman metalhoror
+induksi mutan
+penghambatan tidur
+dehumanisasi
+tidak terlihat
+ketidaknampakan psikis gelap
+pemanggilan binatang buas pemakan daging
+pemanggilan kepanikan massal
+pemanggilan jurang kehampaan
+pemanggilan mortis repelio
+pemanggilan menyenangkan
+amarah kubik
+amarah berdarah
+yang abadi
+tombak biomutasi
+tombak kejutan pecahan
+tombak kegilaan pecahan
+hujan berdarah
+lobotomi
+lobotomi bahagia
+noda hidup kembali
+noda darah gelap
+massa logam kehampaan
+upacara
+pikiran runtuh
+pikiran yang sedang runtuh
+Tingkat kanan
+jari kelingking kaki kiri
+tambang necrovita
+bintik -bintik
+sampel abu -abu
+negosiator
+Noosfer
+noosfer aktif
+Kegelapan yang tidak wajar
+wabah selubung abu-abu
+mengais
+kaki depan kanan
+kaki depan kiri
+kaki kanan
+kaki kiri
+kaki belakang kanan
+kaki belakang kiri
+Tusukan saraf
+platform penahanan
+Bunga pala
+gada daging kanan
+gada daging kiri
+prostesis ghoul belum selesai
+pemakan jiwa
+Liga Ghoul
+pintu
+pintu keamanan
+luka bakar psikis
+Chimera
+cabang
+regenerasi
+kebangkitan tirai kematian
+kebangkitan ghoul
+jalan keluar dari celah
+tabib buta
+darah
+bagian rangka
+sektarian buronan
+benih firasat
+sinyal darurat dari {faction\_name}
+serum berukuran
+gua
+permukaan abu -abu
+penekanan tidur
+tulang kanan
+tulang kiri
+Menara lipat
+menara taktis
+transfer keterampilan
+transformasi dagingmassa
+pejalan kaki
+ultra-regenerasi
+kecepatan penuh amarah
+kecepatan mesin
+visi frustrasi

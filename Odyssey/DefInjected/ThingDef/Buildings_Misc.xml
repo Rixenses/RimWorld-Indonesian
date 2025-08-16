@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPodAncient.label>kapsul buang</ActiveDropPodAncient.label>
+  
+  <!-- EN: ancient blast door -->
+  <AncientBlastDoor.label>Pintu lapis baja kuno</AncientBlastDoor.label>
+  <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
+  <AncientBlastDoor.description>Pintu yang sangat diperkuat yang terbuat dari polimer ultrathcastology.Hand pintu untuk membukanya.</AncientBlastDoor.description>
+  <!-- EN: Unlocked. -->
+  <AncientBlastDoor.comps.CompHackable.hackedInspectString>Tidak terkunci.</AncientBlastDoor.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientBlastDoor.comps.CompHackable.hackedMessage>{Hacker_lallshort} telah selesai peretasan {subjek_labelnoparenthesisdef}.</AncientBlastDoor.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <AncientBlastDoor.comps.CompHackable.notHackedInspectString>Hack untuk dibuka.</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient explosives crate -->
+  <AncientExplosivesCrate.label>kotak peledak lama</AncientExplosivesCrate.label>
+  <!-- EN: A container of ancient mining charges. It will explode if damaged. -->
+  <AncientExplosivesCrate.description>Wadah beban penambangan lama.Itu akan meledak jika rusak.</AncientExplosivesCrate.description>
+  
+  <!-- EN: fortified wall -->
+  <AncientFortifiedWall.label>dinding yang dibentengi</AncientFortifiedWall.label>
+  <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
+  <AncientFortifiedWall.description>Dinding yang sangat diperkuat yang terbuat dari polimer ultrathcastology.</AncientFortifiedWall.description>
+  
+  <!-- EN: ancient grav engine -->
+  <AncientGravEngine.label>Mesin gravitasi lama</AncientGravEngine.label>
+  <!-- EN: An ultratech engine used to bring large structures and ships into orbit. While it has been nonfunctional for many years, it contains a functional gravcore. -->
+  <AncientGravEngine.description>Mesin ultra -umum yang digunakan untuk membawa struktur besar dan kapal ke orbit.Meskipun tidak berfungsi selama bertahun -tahun, itu berisi pajak fungsional.</AncientGravEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientGravEngine.comps.CompInspectString.inspectString>Berisi: Gravinúcleo</AncientGravEngine.comps.CompInspectString.inspectString>
+  
+  <!-- EN: ancient grav reactor -->
+  <AncientGravReactor.label>Reaktor gravitasi kuno</AncientGravReactor.label>
+  <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged. -->
+  <AncientGravReactor.description>Generator lama yang diberi makan pajak.Dia pernah mampu menghasilkan energi dalam jumlah besar, kini telah tidak digunakan.Perisai penahanan reaktor sedang menyaring, menyebabkan hujan radioaktif beracun di seluruh wilayah.Hati -hati, bisa meledak jika rusak.</AncientGravReactor.description>
+  <!-- EN: Gravcore obtained -->
+  <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>Gravinuco diperoleh</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
+  <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
+  <AncientGravReactor.comps.CompHackable.destroyedLetterText>Anda telah memperoleh perpajakan dari reaktor lama. Reaktor \ n \ nel dimatikan dan hujan beracun sudah mulai cerah.</AncientGravReactor.comps.CompHackable.destroyedLetterText>
+  <!-- EN: Gravcore obtained -->
+  <AncientGravReactor.comps.CompHackable.hackedLetterLabel>Gravinuco diperoleh</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
+  <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
+  <AncientGravReactor.comps.CompHackable.hackedLetterText>Anda telah memperoleh perpajakan dari reaktor lama. Reaktor \ n \ nel dimatikan dan hujan beracun sudah mulai cerah.</AncientGravReactor.comps.CompHackable.hackedLetterText>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_definite}. -->
+  <AncientGravReactor.comps.CompHackable.hackedMessage>{Hacker_lallshort} telah menyelesaikan peretasan {subjek_definite}.</AncientGravReactor.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to obtain gravcore. -->
+  <AncientGravReactor.comps.CompHackable.notHackedInspectString>Hack untuk mendapatkan gravinuco.</AncientGravReactor.comps.CompHackable.notHackedInspectString>
+  <!-- EN: Ancient reactor -->
+  <AncientGravReactor.comps.CompLetterOnRevealed.label>Reaktor kuno</AncientGravReactor.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the ancient grav reactor. Hack it or destroy it to obtain a gravcore and end the toxic fallout.\n\nBe warned, it may explode if damaged. -->
+  <AncientGravReactor.comps.CompLetterOnRevealed.text>Anda telah menemukan reaktor gravitasi kuno.Hast atau hancurkan untuk mendapatkan pajak dan mengakhiri hujan beracun.</AncientGravReactor.comps.CompLetterOnRevealed.text>
+  
+  <!-- EN: ancient stockpile entrance -->
+  <AncientHatch.label>Gudang Tua</AncientHatch.label>
+  <!-- EN: The entrance to a long-abandoned subterranean facility. Hack it to open the hatch. -->
+  <AncientHatch.description>Pintu masuk ke instalasi bawah tanah yang ditinggalkan sejak lama.Hack untuk membuka palka.</AncientHatch.description>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientHatch.comps.CompHackable.hackedMessage>{Hacker_lallshort} telah selesai peretasan {subjek_labelnoparenthesisdef}.</AncientHatch.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <AncientHatch.comps.CompHackable.notHackedInspectString>Hack untuk dibuka.</AncientHatch.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient stockpile exit -->
+  <AncientHatchExit.label>Output gudang lama</AncientHatchExit.label>
+  <!-- EN: A ladder which links to the surface hatch above. -->
+  <AncientHatchExit.description>Tangga yang terhubung dengan palka atas.</AncientHatchExit.description>
+  
+  <!-- EN: ancient mining charge -->
+  <AncientMiningCharge.label>Beban penambangan kuno</AncientMiningCharge.label>
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate. -->
+  <AncientMiningCharge.description>Perangkat peledak yang digunakan untuk dengan cepat melintasi batu.Itu terbuat dari biofuel halus.Ledakan itu sudah tua, tetapi masih siap untuk meledak.</AncientMiningCharge.description>
+  
+  <!-- EN: ancient security terminal -->
+  <AncientSecurityTerminal.label>Terminal Keamanan Lama</AncientSecurityTerminal.label>
+  <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->
+  <AncientSecurityTerminal.description>Terminal tua.Hack untuk menonaktifkan sistem keamanan terdekat.</AncientSecurityTerminal.description>
+  <!-- EN: Blast door opened -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>Pintu lapis baja terbuka</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to open a blast door. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>{Hacker_namedef} menggunakan terminal keamanan lama untuk membuka pintu lapis baja.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
+  <!-- EN: Turret disabled -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>Menara cacat</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to disable a turret. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>{Hacker_namedef} menggunakan terminal keamanan lama untuk menonaktifkan menara.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
+  <!-- EN: Turret reprogrammed -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>Menara penjadwalan ulang</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
+  <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>{Hacker_namedef} menggunakan terminal keamanan lama untuk memprogram ulang menara.Turret sekarang hanya akan menunjuk pada musuh.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
+  <!-- EN: {HACKER_nameDef} couldn't find any security systems using the ancient security terminal. -->
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>{Hacker_namedef} tidak dapat menemukan sistem keamanan menggunakan terminal keamanan lama.</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
+  
+  <!-- EN: ancient terraformer -->
+  <AncientTerraformer.label>Terraformator tua</AncientTerraformer.label>
+  <!-- EN: An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore. -->
+  <AncientTerraformer.description>Perangkat teraft tua yang diumpankan oleh pajak.Itu sudah mulai bekerja dengan buruk, membuat suhu jatuh.</AncientTerraformer.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientTerraformer.comps.CompInspectString.inspectString>Berisi: Gravinúcleo</AncientTerraformer.comps.CompInspectString.inspectString>
+  <!-- EN: Ancient terraformer -->
+  <AncientTerraformer.comps.CompLetterOnRevealed.label>Terraformator tua</AncientTerraformer.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the malfunctioning terraformer. Destroy it to obtain a gravcore and end the deep freeze. -->
+  <AncientTerraformer.comps.CompLetterOnRevealed.text>Anda telah menemukan Terraber yang rusak.Menghancurkannya untuk mendapatkan pajak dan mengakhiri ultra -gellation.</AncientTerraformer.comps.CompLetterOnRevealed.text>
+  
+  <!-- EN: ancient transport pod -->
+  <AncientTransportPod.label>Kapsul transportasi kuno</AncientTransportPod.label>
+  <!-- EN: An ancient cargo pod capable of carrying people, animals, and items. It's still in working condition. -->
+  <AncientTransportPod.description>Kapsul beban tua yang mampu mengangkut orang, hewan, dan benda.Itu masih dalam kondisi operasi.</AncientTransportPod.description>
+  
+  <!-- EN: ancient uplink -->
+  <AncientUplink.label>Pemancar kuno</AncientUplink.label>
+  <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
+  <AncientUplink.description>Pemancar data lama yang digunakan untuk komunikasi yang aman antara permukaan dan orbit.Hack untuk menentukan lokasi terakhir yang ditransmisikannya.</AncientUplink.description>
+  <!-- EN: Hacked. -->
+  <AncientUplink.comps.CompHackable.hackedInspectString>Diretas.</AncientUplink.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <AncientUplink.comps.CompHackable.hackedMessage>{Hacker_lallshort} telah selesai peretasan {subjek_labelnoparenthesisdef}.</AncientUplink.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack for information. -->
+  <AncientUplink.comps.CompHackable.notHackedInspectString>Hack untuk informasi.</AncientUplink.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: anticraft beam -->
+  <AnticraftBeam.label>Tinaves Ray</AnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon. This weapon is intended to destroy flying craft, so it can't aim low enough to hit ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
+  <AnticraftBeam.description>Senjata ray besar.Senjata ini dirancang untuk menghancurkan kendaraan udara, sehingga tidak dapat bertujuan cukup rendah untuk mencapai tujuan terestrial.</AnticraftBeam.description>
+  
+  <!-- EN: cerebrex core -->
+  <CerebrexCore.label>inti</CerebrexCore.label>
+  <!-- EN: The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it. -->
+  <CerebrexCore.description>Pikiran yang bijaksana dari segerombolan mecanoids.Cerébrex Core memerintahkan Mecanoides di seluruh planet ini. Dalam arti tertentu, dorongan ini adalah perintah yang diprogram oleh seorang pemimpin militer manusia EONE.Dalam arti lain, itu adalah kebencian yang dingin dan laten.Ngomong -ngomong, jika Anda melepaskan AI, Anda dapat memulai kembali keinginan Anda dan menggunakannya untuk tujuan lain. Struktur \ n \ nLA dilindungi oleh penstabil di dekatnya.Hancurkan semua penstabil cerebrex untuk mengaksesnya.</CerebrexCore.description>
+  <!-- EN: Inspect the core. -->
+  <CerebrexCore.comps.CompCerebrexCore.activateDescString>Periksa nukleus.</CerebrexCore.comps.CompCerebrexCore.activateDescString>
+  <!-- EN: Inspect... -->
+  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>Memeriksa...</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
+  <!-- EN: inspecting core: {1}s -->
+  <CerebrexCore.comps.CompCerebrexCore.activatingString>Memeriksa inti: {1} s</CerebrexCore.comps.CompCerebrexCore.activatingString>
+  <!-- EN: inspecting core -->
+  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>Memeriksa inti</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>Pilih siapa yang harus melakukan ini</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
+  <!-- EN: inspect core -->
+  <CerebrexCore.comps.CompCerebrexCore.jobString>Periksa nukleus</CerebrexCore.comps.CompCerebrexCore.jobString>
+  
+  <!-- EN: destroyed cerebrex core -->
+  <CerebrexCore_Destroyed.label>Nukleus Cerébrex hancur</CerebrexCore_Destroyed.label>
+  <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
+  <CerebrexCore_Destroyed.description>Tautan saraf hancur dari segerombolan mecanoids yang pernah memerintahkan mereka di sekitar planet ini.</CerebrexCore_Destroyed.description>
+  <!-- EN: Destroy for valuable resources. -->
+  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>Hancurkan untuk mendapatkan bahan yang berharga.</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
+  
+  <!-- EN: cerebrex stabilizer -->
+  <CerebrexStabilizer.label>Cerébrex Stabilizer</CerebrexStabilizer.label>
+  <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response. -->
+  <CerebrexStabilizer.description>Generator perisai jarak jauh yang menyebabkan nukleus Bolébrex terdekat hampir tak terkalahkan.Menghancurkan semua penstabil akan memungkinkan akses langsung ke nukleus Cerébrex.</CerebrexStabilizer.description>
+  
+  <!-- EN: locust cocoon -->
+  <CocoonLocust.label>Lobster chrysalide</CocoonLocust.label>
+  <!-- EN: A stasis cocoon containing a locust.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonLocust.description>Chrysalis stasis yang berisi lobster.Chrysalid ini menjaga mereka tetap aman dari api, suhu ekstrem dan ancaman lainnya selama bertahun -tahun.Jika chrysalis terganggu atau dihancurkan, insektoid interiornya akan bangun dan menyerang, memicu reaksi chrysalis terdekat lainnya.</CocoonLocust.description>
+  
+  <!-- EN: egg sac -->
+  <EggSac.label>Tas telur</EggSac.label>
+  <!-- EN: A slimy sac containing an insect larva. The larval gestation process generates a faint bioluminescent glow. -->
+  <EggSac.description>Karung kental yang berisi larva serangga.Proses kehamilan larva menghasilkan kecerahan bioluminescent yang redup.</EggSac.description>
+  
+  <!-- EN: gauss cannon -->
+  <GaussCannon.label>Gauss Cannon</GaussCannon.label>
+  <!-- EN: A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. The cannon is intended to destroy incoming ships or shuttles, so it can't aim at ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
+  <GaussCannon.description>Sebuah ngarai anti -Hush besar yang menggunakan elektromagnet untuk meluncurkan panah logam besar dengan kecepatan ekstrem.Cannon dirancang untuk menghancurkan kapal atau transfer yang masuk, sehingga tidak dapat membidik tujuan tanah.</GaussCannon.description>
+  
+  <!-- EN: mechanoid drop pod -->
+  <MechanoidDropPod.label>Kapsul Peluncuran Mechanoid</MechanoidDropPod.label>
+  <!-- EN: A launchable cargo pod intended to carry mechanoids. It is also usable for people, animals, and items. -->
+  <MechanoidDropPod.description>Kapsul beban yang diluncurkan yang ditakdirkan untuk mengangkut mecanoids.Ini juga dapat digunakan untuk manusia, hewan dan benda.</MechanoidDropPod.description>
+  
+  <!-- EN: mechanoid processor -->
+  <MechanoidProcessor.label>Prosesor mecanoid</MechanoidProcessor.label>
+  <!-- EN: A powerful mechanoid computer. -->
+  <MechanoidProcessor.description>Komputer mechanid yang kuat.</MechanoidProcessor.description>
+  
+  <!-- EN: mechhive birther -->
+  <MechhiveAssembler.label>Engendrador dari Mecolmena</MechhiveAssembler.label>
+  <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
+  <MechhiveAssembler.description>Pabrik mecanoid otomatis.Secara berkala menghasilkan mechanoides baru.</MechhiveAssembler.description>
+  
+  <!-- EN: mech pylon -->
+  <MechPylon.label>Mecapillary</MechPylon.label>
+  <!-- EN: A node in a distributed mechanoid computation network. -->
+  <MechPylon.description>Sebuah simpul dalam jaringan komputasi terdistribusi dari mechanoides.</MechPylon.description>
+  
+  <!-- EN: mechanoid relay -->
+  <MechRelay.label>Repeater mecanoid</MechRelay.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
+  <MechRelay.description>Sebuah simpul yang mengoordinasikan sinyal melalui jaringan komunikasi mechanid di tingkat planet.Tanda -tanda perintah berasal dari Mecacolmena, pusat kecerdasan Mecanoids.</MechRelay.description>
+  <!-- EN: Hack or destroy relay stabilizers to obtain gravcore. -->
+  <MechRelay.comps.CompMechRelay.activeInspectString>Hacke atau hancurkan penstabil repeater mecanoid untuk mendapatkan pajak.</MechRelay.comps.CompMechRelay.activeInspectString>
+  <!-- EN: Relay crash -->
+  <MechRelay.comps.CompMechRelay.crashedLetterLabel>Runtuhnya repeater</MechRelay.comps.CompMechRelay.crashedLetterLabel>
+  <!-- EN: The mechanoid relay has crashed to the ground. Destroy it to obtain a gravcore.\n\nBe warned, hostile mechanoids will soon arrive in response to the relay going offline. -->
+  <MechRelay.comps.CompMechRelay.crashedLetterText>Repeater Mecanoid Merah telah menabrak tanah.Hancurkan untuk mendapatkan pajak.</MechRelay.comps.CompMechRelay.crashedLetterText>
+  <!-- EN: Destabilizing -->
+  <MechRelay.comps.CompMechRelay.destabilizationInspectString>Destabilisasi</MechRelay.comps.CompMechRelay.destabilizationInspectString>
+  <!-- EN: The mechanoid relay has begun to destabilize. -->
+  <MechRelay.comps.CompMechRelay.destabilizationMessage>Repeater mecanoid telah mulai tidak stabil.</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  
+  <!-- EN: crashed mechanoid relay -->
+  <MechRelay_Crashed.label>Pengulangan mecanoid yang gagal</MechRelay_Crashed.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
+  <MechRelay_Crashed.description>Sebuah simpul yang mengoordinasikan sinyal melalui jaringan komunikasi mechanid di tingkat planet.Tanda -tanda perintah berasal dari Mecacolmena, pusat kecerdasan Mecanoids.</MechRelay_Crashed.description>
+  <!-- EN: Contains: Gravcore -->
+  <MechRelay_Crashed.comps.CompInspectString.inspectString>Berisi: Gravinúcleo</MechRelay_Crashed.comps.CompInspectString.inspectString>
+  
+  <!-- EN: relay stabilizer -->
+  <MechStabilizer.label>penstabil berulang</MechStabilizer.label>
+  <!-- EN: A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option. -->
+  <MechStabilizer.description>Proyektor perisai yang melindungi repeater jaringan mecanoid dekat.Semua penstabil harus diretas atau dihancurkan untuk menonaktifkan perisai.Peretasan adalah opsi yang lebih lambat tetapi lebih aman.</MechStabilizer.description>
+  <!-- EN: Deactivated. -->
+  <MechStabilizer.comps.CompHackable.hackedInspectString>Dengan disabilitas.</MechStabilizer.comps.CompHackable.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <MechStabilizer.comps.CompHackable.hackedMessage>{Hacker_lallshort} telah selesai peretasan {subjek_labelnoparenthesisdef}.</MechStabilizer.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to disable stabilizer. -->
+  <MechStabilizer.comps.CompHackable.notHackedInspectString>Hack untuk menonaktifkan penstabil.</MechStabilizer.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: fortified wall -->
+  <OrbitalAncientFortifiedWall.label>dinding yang dibentengi</OrbitalAncientFortifiedWall.label>
+  <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
+  <OrbitalAncientFortifiedWall.description>Dinding yang sangat diperkuat yang terbuat dari polimer ultrathcastology.</OrbitalAncientFortifiedWall.description>
+  
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>transfer penumpang</PassengerShuttle.label>
+  <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. It is capable of reaching orbital locations. -->
+  <PassengerShuttle.description>Transfer -yang didorong oleh biofuel yang dirancang untuk perjalanan panjang.Itu dapat mencapai lokasi di orbit.</PassengerShuttle.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} siap diluncurkan lagi.</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
+  <!-- EN: Chemfuel -->
+  <PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>Biofuel</PassengerShuttle.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <PassengerShuttle.comps.CompRefuelable.fuelLabel>Biofuel</PassengerShuttle.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: surveying scanner -->
+  <SurveyScanner.label>Pemindai Survei</SurveyScanner.label>
+  <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
+  <SurveyScanner.description>Unit sensor broadband yang mampu mendeteksi dan memetakan berbagai karakteristik di area lokal.</SurveyScanner.description>
+  <!-- EN: Scanning local area: {DURATION} -->
+  <SurveyScanner.comps.CompCountdown.label>Memindai area lokal: {durasi}</SurveyScanner.comps.CompCountdown.label>
+  
+</LanguageData>

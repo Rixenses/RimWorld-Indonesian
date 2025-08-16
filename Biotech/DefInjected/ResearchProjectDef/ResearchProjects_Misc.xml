@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archogenetics -->
+  <Archogenetics.label>Arkeogenetika</Archogenetics.label>
+  <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
+  <Archogenetics.description>Memungkinkan perakit gen untuk menggunakan kapsul archite untuk membuat gen yang tampaknya mustahil.Gen archite dan kapsul archite dapat diperoleh dari pedagang.</Archogenetics.description>
+  <!-- EN:
+    <li>Subjek-> Archogenetics</li>
+    <li>Subjek_Story-> Gen Archite yang digali dari bulan transenden IX</li>
+    <li>Subject_story-> Lakukan Hidup Yang Baik Sebagai Pedagang Gen Archite</li>
+    <li>Subject_story-> memimpin ekspedisi penelitian ke monolit kuno dan kembali berubah</li>
+    <li>Subject_gerund-> merakit gen archite</li>
+    <li>subjek_gerund-> membuat gen yang tampaknya mustahil</li>-><Archogenetics.generalRules.rulesStrings>
+    <li>Subjek-> Arkeogenetika</li>
+    <li>Subject_story-> Gen Archite digali pada bulan transenden IX</li>
+    <li>Subject_story-> Hidup baik-baik saja</li>
+    <li>Subject_story-> Dia mengarahkan ekspedisi penelitian ke monolit tua dan kembali berubah</li>
+    <li>Subjek Gerund-> Gen Arsitektur yang Mendorong</li>
+    <li>Subjek_gerund-> mensintesis gen yang tampaknya mustahil</li>
+  </Archogenetics.generalRules.rulesStrings>
+  
+  <!-- EN: deathrest -->
+  <Deathrest.label>Mortisueño</Deathrest.label>
+  <!-- EN: Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple. -->
+  <Deathrest.description>Mereka yang memiliki gen mortisueño harus secara berkala menyerah pada koma mematikan khusus yang berlangsung beberapa hari.Proyek penelitian ini memungkinkan Anda untuk membangun bangunan yang mempercepat koma mortisueño dan memberikan bonus spesifik kepada mortisant.Seiring waktu, Anda dapat membangun kuil mortisueño yang hebat.</Deathrest.description>
+  <!-- EN:
+    <li>Subjek-> Deathrest</li>
+    <li>Subject_story-> Bedah Mayat dari Kuil Deathrest, akhirnya memahami cara kerjanya</li>
+    <li>subjek_story-> mewawancarai seorang selebriti yang sepertinya tidak pernah menua, akhirnya mempelajari rahasianya</li>
+    <li>Subject_story-> berusaha meniru teknologi dan jatuh koma, hanya untuk bangun berminggu-minggu kemudian</li>
+    <li>Subject_gerund-> Membangun fasilitas deathrest</li>
+    <li>Subject_gerund-> Meningkatkan Deathrest</li>-><Deathrest.generalRules.rulesStrings>
+    <li>Subjek-> Mortisueño</li>
+    <li>Subject_story-> Badan Kuil Mortisueño yang Dipecahkan, dan menemukan cara kerjanya</li>
+    <li>Subject_story-> mewawancarai selebriti yang tampaknya tidak pernah menua, dan akhirnya menemukan rahasianya</li>
+    <li>Subject_story-> mencoba mereplikasi teknologi dan jatuh koma, bangun berminggu-minggu kemudian</li>
+    <li>Subject_gerund-> Bangun Fasilitas Mortisueño</li>
+    <li>Subjek_gerund-> Tingkatkan mematikan</li>
+  </Deathrest.generalRules.rulesStrings>
+  
+  <!-- EN: fertility procedures -->
+  <FertilityProcedures.label>Prosedur kesuburan</FertilityProcedures.label>
+  <!-- EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
+  <FertilityProcedures.description>Melakukan operasi yang diperlukan untuk membuat embrio spesimen dari pria dan wanita yang subur, dan kemudian mengimplementasikan embrio pada ibu sewaan atau dalam inkubator.Juga, melakukan operasi sterilisasi pada pria dan wanita.</FertilityProcedures.description>
+  <!-- EN:
+    <li>Subjek-> Prosedur Kesuburan</li>
+    <li>Subject_story-> Membantu keluarga di Coreworlds mencapai impian mereka tentang Parenthood dengan embrio tube-tube</li>
+    <li>Subject_story-> Menyimpan Boomrat Callopian Langka dari Kepunahan dengan Teknik Pembekuan Tangan Berbahaya</li>
+    <li>Subject_story-> memecahkan krisis populasi pada urbworld dengan intervensi kesuburan dan tong pertumbuhan</li>
+    <li>subjek_gerund-> mengubah kesuburan manusia</li>
+    <li>Subject_gerund-> meningkatkan atau memblokir kesuburan manusia</li>-><FertilityProcedures.generalRules.rulesStrings>
+    <li>Subjek-> Prosedur Kesuburan</li>
+    <li>Subject_story-> membantu keluarga di dunia tengah untuk mencapai impian mereka menjadi orang tua dengan embrio in vitro</li>
+    <li>Subject_story-> Menyimpan Ratabum Kalopia Langka dari Kepunahan dengan Teknik Pemupukan Manual Berbahaya</li>
+    <li>Subject_story-> menyelesaikan krisis demografis dunia perkotaan melalui kesuburan dan intervensi inkubator</li>
+    <li>Subjek gerund-> mengubah kesuburan manusia</li>
+    <li>Subjek gerund-> meningkatkan atau memblokir kesuburan manusia</li>
+  </FertilityProcedures.generalRules.rulesStrings>
+  
+  <!-- EN: gene processor -->
+  <GeneProcessor.label>prosesor gen</GeneProcessor.label>
+  <!-- EN: Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity. -->
+  <GeneProcessor.description>Bangun prosesor genetik yang memungkinkan perakitan gen untuk membuat xenogerms dengan kompleksitas yang lebih besar.</GeneProcessor.description>
+  <!-- EN:
+    <li>Subjek-> Prosesor Gen</li>
+    <li>Subject_story-> Gen GlitterWorld yang Diekstraksi dari Derelict yang melayang</li>
+    <li>Subject_story-> memproses seluruh desa untuk membuat satu set gen yang lebih tinggi</li>
+    <li>subjek_story-> memulai proses pengangkatan yang lambat dengan menanamkan xenogerms ke dalam suku primitif</li>
+    <li>Subject_gerund-> Membangun prosesor gen</li>
+    <li>Subject_gerund-> Gen pemrosesan</li>-><GeneProcessor.generalRules.rulesStrings>
+    <li>Subjek-> Prosesor Gen</li>
+    <li>Subject_story-> Gen Mundobrillant yang Diekstraksi dari Shipwreck Melayang</li>
+    <li>Subject_story-> Dituntut seluruh kota untuk membuat koleksi gen yang lebih tinggi</li>
+    <li>Subjek Story-> Proses perbaikan yang lambat mulai menerapkan kuman xeno dalam suku primitif</li>
+    <li>Subjek_gerund-> membangun prosesor gen</li>
+    <li>Subjek gerund-> Gen pemrosesan</li>
+  </GeneProcessor.generalRules.rulesStrings>
+  
+  <!-- EN: growth vats -->
+  <GrowthVats.label>Inkubator</GrowthVats.label>
+  <!-- EN: Construct growth vats which can gestate an embryo or accelerate a child's growth. -->
+  <GrowthVats.description>Bangun inkubator yang dapat membuat embrio atau mempercepat pertumbuhan anak.</GrowthVats.description>
+  <!-- EN:
+    <li>Subjek-> kehamilan lanjutan</li>
+    <li>Subjek-> rahim buatan</li>
+    <li>Subject_story-> menjalankan fasilitas kloning untuk memasok pelayan untuk Coreworlds</li>
+    <li>Subject_story-> menciptakan tentara baru untuk junta Warworld</li>
+    <li>Subject_story-> membantu keluarga dari semua latar belakang memiliki anak</li>
+    <li>Subject_gerund-> Gestating Embrios dalam rahim buatan</li>
+    <li>subjek_gerund-> percepatan pertumbuhan manusia</li>
+    <li>subjek_gerund-> Membangun tong pertumbuhan</li>-><GrowthVats.generalRules.rulesStrings>
+    <li>Subjek-> kehamilan lanjutan</li>
+    <li>Subjek-> UT Buatan</li>
+    <li>Subject_story-> mengarahkan instalasi kloning untuk memasok pelayan ke dunia tengah</li>
+    <li>Subject_story-> menciptakan tentara baru untuk militer dunia perang</li>
+    <li>Subject_story-> membantu semua jenis keluarga memiliki anak</li>
+    <li>Subjek gerund-> embrio gesting di rahim buatan</li>
+    <li>Subjek gerund-> percepatan pertumbuhan manusia</li>
+    <li>Subjek gerund-> membangun inkubator</li>
+  </GrowthVats.generalRules.rulesStrings>
+  
+  <!-- EN: toxin filtration -->
+  <ToxFiltration.label>filtrasi racun</ToxFiltration.label>
+  <!-- EN: Craft and install bionic organs that can filter out toxins from the environment and from enemy attacks. -->
+  <ToxFiltration.description>Memproduksi dan memasang organ bionik yang dapat menyaring racun lingkungan dan serangan musuh.</ToxFiltration.description>
+  <!-- EN:
+    <li>Subjek-> filtrasi toksin</li>
+    <li>Subjek-> Metabolisasi Toksin</li>
+    <li>Subject_story-> membantu Milworld Combat Survivors bernafas lagi</li>
+    <li>Subject_story-> Praktis Kimia Dicari untuk Kelas Etika Ekstra</li>
+    <li>Subject_story-> bergabung dengan tambang sebagai spesialis penyaringan</li>
+    <li>Subject_gerund-> Metabolising racun</li>
+    <li>Subject_gerund-> Crafting Antitoxin Organ</li>-><ToxFiltration.generalRules.rulesStrings>
+    <li>Subjek-> filtrasi toksin</li>
+    <li>Subjek-> Metabolisasi Toksin</li>
+    <li>Subjek Story-> Membantu Tempur Korban Dunia Militer Untuk Bernapas Lagi</li>
+    <li>Subjek_Story-> Praktik Kimia dilewati untuk menghadiri kelas etika</li>
+    <li>Subject_story-> bergabung dengan perusahaan pertambangan sebagai spesialis penyaringan</li>
+    <li>Subjek gerund-> memetabolisme racun</li>
+    <li>Subject_gerund-> Membuat organ antitoksin</li>
+  </ToxFiltration.generalRules.rulesStrings>
+  
+  <!-- EN: tox gas -->
+  <ToxGas.label>gas beracun</ToxGas.label>
+  <!-- EN: Produce weapons that utilize caustic tox gas. -->
+  <ToxGas.description>Ini menghasilkan senjata yang menggunakan gas beracun kaustik.</ToxGas.description>
+  <!-- EN:
+    <li>Subjek-> persenjataan gas</li>
+    <li>Subjek-> Perang Kimia</li>
+    <li>subjek_story-> memimpikan senjata untuk mengakhiri semua perang</li>
+    <li>Subject_story-> Kelas Etika Dilewati Untuk Praktek Kimia Ekstra</li>
+    <li>Subject_story-> Teknologi kontrol cloud yang diteliti untuk tyrannocracy dari deathworld</li>
+    <li>Subject_gerund-> membuat senjata gas beracun</li>-><ToxGas.generalRules.rulesStrings>
+    <li>Subjek-> Senjata Gas</li>
+    <li>Subjek-> Perang Kimia</li>
+    <li>Subject_story-> Dream dengan senjata untuk mengakhiri semua perang</li>
+    <li>Subjek_Story-> Kelas etika dilewati untuk menghadiri lebih banyak praktik kimia</li>
+    <li>Subjek_Story-> Teknologi Kontrol Awan yang Diselidiki untuk Tyranocracy Dunia Mati</li>
+    <li>Subject_gerund-> Membuat senjata gas beracun</li>
+  </ToxGas.generalRules.rulesStrings>
+  
+  <!-- EN: toxifier generator -->
+  <ToxifierGenerator.label>Generator toksin</ToxifierGenerator.label>
+  <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
+  <ToxifierGenerator.description>Buat generator racun yang menghasilkan listrik, tetapi juga menyebarkan kontaminasi di sekitarnya.</ToxifierGenerator.description>
+  <!-- EN:
+    <li>Subjek-> Generator Toxifier</li>
+    <li>subjek_story-> memimpin kru pembersihan ke planetoid beracun</li>
+    <li>Subject_story-> belajar tentang toksifier di dalam bahaya yang dalam dari skyripper</li>
+    <li>Subject_story-> meneliti sumber daya murah dan kotor untuk urbcorp</li>
+    <li>Subject_gerund-> Membangun Generator Toxifier</li>-><ToxifierGenerator.generalRules.rulesStrings>
+    <li>Subjek-> Generator Toxin</li>
+    <li>Subject_story-> mengarahkan peralatan pembersih di planet beracun</li>
+    <li>Subject_story-> Dia belajar tentang toksifier di wastafel dalam domba jantan</li>
+    <li>Subject_story-> Sumber energi murah dan kotor yang diselidiki untuk perusahaan perkotaan</li>
+    <li>Subject_gerund-> Bangun generator racun</li>
+  </ToxifierGenerator.generalRules.rulesStrings>
+  
+  <!-- EN: xenogenetics -->
+  <Xenogermination.label>xenogenética</Xenogermination.label>
+  <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
+  <Xenogermination.description>Buat xenogerms yang dapat diimplementasikan pada seseorang untuk memodifikasinya secara genetik.Ekstrak paket dari gen orang yang hidup menggunakan ekstraktor gen untuk menerapkan kembali gen mereka pada orang lain.</Xenogermination.description>
+  <!-- EN:
+    <li>subjek-> xenogerminasi</li>
+    <li>Subjek-> Implantasi Genetik</li>
+    <li>Subject_story-> diangkat oleh amal glitterworld yang berfokus pada yang dirugikan secara genetik</li>
+    <li>Subject_story-> memiliki gen [anypawn_posesif] yang dicuri oleh ahli biologi jahat</li>
+    <li>Subject_story-> menjalankan klinik transfer genetik untuk elit glitterworld</li>
+    <li>Subject_gerund-> Crafting Xenogerms</li>-><Xenogermination.generalRules.rulesStrings>
+    <li>Subjek-> xenogerminasi</li>
+    <li>Subjek-> Implementasi Genetik</li>
+    <li>Subject_story-> mendapat manfaat dari organisasi yang menguntungkan dalam mundobrillant yang membantu yang dirugikan secara genetik</li>
+    <li>Subjek_story-> kehilangan gennya karena ahli biologi pemberontak melepasnya</li>
+    <li>Subject_story-> mengarahkan klinik transfer genetik untuk elit mundobrillant</li>
+    <li>Subjek_gerund-> mensintesis xenogemenes</li>
+  </Xenogermination.generalRules.rulesStrings>
+  
+</LanguageData>

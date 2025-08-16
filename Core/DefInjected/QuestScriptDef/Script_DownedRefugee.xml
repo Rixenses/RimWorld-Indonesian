@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> [pengungsi_namedef] menghubungi Anda dan meminta bantuan.[Refugee_pronoun] terluka dan tidak dapat bergerak. \ n \ n [pengungsi_namedef] adalah [pengungsi] -Year-tua [pengungsi_title].[Refugee_pronoun] berjanji untuk bergabung dengan Anda jika Anda menyelamatkan [pengungsi_objective]. \ n \ n [pengungsi_namedef] mengatakan bahwa [allsitepartsdescriptionSexceptFirst] [PawninvolvedInquestInfo]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namedef], [asker_faction_leadertitle] dari [asker_faction_name], mengatakan bahwa teman [asker_possessive] telah terluka saat bepergian.Korbannya adalah [pengungsi_nameindef], [pengungsi_-anyage]-tahun [pengungsi_title]. \ N \ n [asker_namedef] tidak ada yang harus diselamatkan untuk menyelamatkan [pengungsian], tetapi jika Anda dapat melakukan [pengungsian.Anda. \ n \ n [asker_namedef] mengatakan bahwa [allsitePartSdescriptionSExceptFirst] [PawninvolvedInquestInfo]</li>
+    <li>PawninvolvedInquestInfo (Prioritas = 1)-> [Refugee_PawninvolvedInquestInfo]</li>
+    <li>PawninvolvedInquestInfo-></li>-><OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> [pengungsi_namedef] telah menghubungi Anda dan meminta bantuan Anda.[Refugee_pronoun] terluka [pengungsi_o_a] dan tidak bisa bergerak.[Refugee_Pronoun] berjanji untuk bergabung dengan koloni Anda jika Anda berhasil menyelamatkan [Refugee_Objective].</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de la facción [asker_faction_name], dice que su amig[refugee_o_a] ha sido herid[refugee_o_a] mientras viajaba. La víctima es [refugee_nameIndef], [refugee_ununa] [refugee_title] de [refugee_age] años de edad.\n\n[asker_nameDef] no tiene a nadie más a quien pedirle ayuda para rescatar a [refugee_nameDef], pero dice que si puedes llegar a la posición de [refugee_nameDef] y rescatar[refugee_objective], [refugee_pronoun] se unirá a tu colonia.\n\n[asker_nameDef] dice que [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>PawninvolvedInquestInfo (Prioritas = 1)-> [Refugee_PawninvolvedInquestInfo]</li>
+    <li>PawninvolvedInquestInfo-></li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Saving [Refugee_Namedef]</li>
+    <li>QuestName-> Penyelamatan [Pengungsi_Namedef]</li>
+    <li>QuestName-> Penyelamatan [Refugee_Namedef]</li>
+    <li>QuestName-> Keselamatan [Refugee_Namedef]</li>-><OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>QuestName-> Saving [Refugee_Namedef]</li>
+    <li>QuestName-> Penyelamatan [Pengungsi_Namedef]</li>
+    <li>QuestName-> Menyelamatkan [Refugee_Namedef]</li>
+    <li>QuestName-> Keselamatan [Pengungsi_Namedef]</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Sinyal [pengungsi bernama] telah hilang, dan [kata ganti pengungsi] tidak lagi dapat diselamatkan.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Grav engine -->
+  <!-- EN: Show substructure overlay -->
+  <CommandShowSubstructureOverlay>Tampilkan substruktur</CommandShowSubstructureOverlay>
+  <!-- EN: Display valid substructure in blue and invalid substructure in red. -->
+  <CommandShowSubstructureOverlayDesc>Ini menunjukkan substruktur biru yang valid dan substruktur yang tidak valid berwarna merah.</CommandShowSubstructureOverlayDesc>
+  <!-- EN: Inspect {0_labelShort} -->
+  <CommandInspectGravEngine>Periksa {0_labelshort}</CommandInspectGravEngine>
+  <!-- EN: Choose a colonist to inspect the mysterious grav engine. -->
+  <CommandInspectGravEngineDesc>Pilih pemukim untuk memeriksa mesin gravitasi misterius.</CommandInspectGravEngineDesc>
+  <!-- EN: Choose navigator -->
+  <CommandChooseNavigator>Pilih browser</CommandChooseNavigator>
+  <!-- EN: Cannot navigate -->
+  <CannotChooseNavigator>Tidak dapat dinavigasi</CannotChooseNavigator>
+
+  <!-- EN: Launch -->
+  <CommandLaunchGravship>Meluncurkan</CommandLaunchGravship>
+  <!-- EN: Choose a colonist to pilot the gravship. Anything on gravship substructure will be transported to a new map. Your current map will be abandoned if you don't have a grav anchor. -->
+  <CommandLaunchGravshipDesc>Pilih seorang pemukim untuk mengemudikan gravinave.Segala sesuatu yang ada di substruktur gravinave akan diangkut ke peta baru.Peta Anda saat ini akan ditinggalkan jika Anda tidak memiliki jangkar gravitasi.</CommandLaunchGravshipDesc>
+
+  <!-- EN: Allow fishing -->
+  <CommandAllowFish>Izinkan memancing</CommandAllowFish>
+  <!-- EN: When disabled, colonists will never fish in this zone. -->
+  <CommandAllowFishDesc>Ketika dinonaktifkan, pemukim tidak akan pernah memancing di daerah ini.</CommandAllowFishDesc>
+  
+  <!-- EN: Allow removing items -->
+  <CommandAllowRemovingApparel>Izinkan untuk menghapus objek</CommandAllowRemovingApparel>
+  <!-- EN: When disabled, haulers won't remove items from the outfit stand and colonists won't equip apparel unless ordered to do so. -->
+  <CommandAllowRemovingApparelDesc>Jika dinonaktifkan, operator tidak akan menghapus benda dari dukungan pakaian dan pemukim tidak akan melengkapi pakaian kecuali mereka dipesan.</CommandAllowRemovingApparelDesc>
+
+  <!-- EN: No colonist capable of piloting shuttle. Requires minimum piloting ability of 10%. -->
+  <CommandShuttleNoPilot>Tidak ada pemukim yang mampu mengendarai pesawat ulang -alik.Diperlukan keterampilan pilot minimal 10%.</CommandShuttleNoPilot>
+
+  <!-- EN: Confirm landing zone -->
+  <ConfirmLandGravship>Konfirmasi zona pendaratan</ConfirmLandGravship>
+  <!-- EN: Land your gravship in the landing zone. -->
+  <ConfirmLandGravshipDesc>Biarkan lahan gravinave Anda di zona pendaratan.</ConfirmLandGravshipDesc>
+  <!-- EN: Abort landing -->
+  <AbortLandGravship>Batalkan pendaratan</AbortLandGravship>
+  <!-- EN: Cancel landing on this map, and force the gravship to land nearby on the world map. Useful if you can't find a landing spot.\n\nWarning: This increases the chance of a mishap when landing. -->
+  <AbortLandGravshipDesc>Batalkan pendaratan di peta ini dan paksa pajak untuk mendarat di daerah terdekat dari peta dunia.Berguna jika Anda tidak dapat menemukan titik pendaratan.</AbortLandGravshipDesc>
+  <!-- EN: Aborting the landing will force your gravship to land in a random nearby location on the world map. This increases the chance of a mishap when landing.\n\nAre you sure you want to continue? -->
+  <AbortLandConfirmation>Meneruskan pendaratan akan memaksa gravinave Anda untuk mendarat di lokasi acak dekat peta dunia.Ini meningkatkan kemungkinan kecelakaan selama pendaratan. \ N \ n Anda yakin ingin melanjutkan?</AbortLandConfirmation>
+  <!-- EN: Failed to find crash site. -->
+  <FailedToFindCrashSite>Anda tidak dapat menemukan tempat kecelakaan itu.</FailedToFindCrashSite>
+  <!-- EN: You must designate a landing area for your gravship. -->
+  <GravshipLandingMarkerNotPlaced>Anda harus menunjuk zona pendaratan untuk gravinave Anda.</GravshipLandingMarkerNotPlaced>
+
+  <!-- EN: Refuel from cargo -->
+  <CommandRefuelShuttleFromCargo>Mengisi kembali dari LA Cargo</CommandRefuelShuttleFromCargo>
+  <!-- EN: Refuel the passenger shuttle using chemfuel stored within. -->
+  <CommandRefuelShuttleFromCargoDesc>Pesawat ulang penumpang dilanjutkan menggunakan biofuel yang disimpan di dalam.</CommandRefuelShuttleFromCargoDesc>
+  <!-- EN: No fuel in caravan. -->
+  <NoFuelInCaravan>Tidak ada bahan bakar di karavan.</NoFuelInCaravan>
+  <!-- EN: No fuel in shuttle. -->
+  <NoFuelInShuttle>Tidak ada bahan bakar di pesawat ulang -alik.</NoFuelInShuttle>
+  <!-- EN: Shuttle is already fully fueled -->
+  <ShuttleFullyFueled>Pesawat ulang -alik sudah sepenuhnya disediakan dengan bahan bakar</ShuttleFullyFueled>
+
+  <!-- EN: Seal entrance... -->
+  <SealHatch>Pintu masuk segel</SealHatch>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <SealHatchDesc>Entri segel permanen.Semuanya atau siapa pun yang akan hilang selamanya.</SealHatchDesc>
+
+  <!-- EN: Activate -->
+  <GravshipShieldOrderActivation>Mengaktifkan</GravshipShieldOrderActivation>
+  <!-- EN: Deactivate -->
+  <GravshipShieldOrderDeactivation>Menonaktifkan</GravshipShieldOrderDeactivation>
+  <!-- EN: Order a pawn to activate the gravship shield generator. -->
+  <GravshipShieldOrderActivationDesc>Pesan gadai mengaktifkan generator perisai gravinave.</GravshipShieldOrderActivationDesc>
+  <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
+  <GravshipShieldOrderDeactivationDesc>Pesan pion menonaktifkan generator perisai gravinave.</GravshipShieldOrderDeactivationDesc>
+
+  <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
+  <ConfirmMergeShuttles>Dengan bergabung dengan karavan ini, berikut ini akan hilang: \ n {0} \ n \ n ¿Tentu apa yang ingin Anda lanjutkan?</ConfirmMergeShuttles>
+</LanguageData>

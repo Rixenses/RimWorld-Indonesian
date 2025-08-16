@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>Cassandra Classic</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>Cassandra menciptakan peristiwa sejarah dalam kurva klasik dengan peningkatan tantangan dan ketegangan.Ini akan menekan Anda dengan peristiwa berbahaya, setelah itu akan memungkinkan Anda untuk mengudara, dan Anda akan memberi Anda tongkat lagi.</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>Phoebe Chillax</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>Phoebe memberi Anda banyak waktu antara bencana dan bencana untuk mengembangkan koloni Anda.Tapi hati -hati, dalam kesulitan tinggi itu akan menghantam Anda sekuat yang kebanyakan.</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>Randy Random</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>Randy tidak mengikuti aturan.Ini akan menghasilkan peristiwa acak, dan Anda tidak peduli jika itu adalah sejarah kemenangan atau keputusasaan total.Semuanya adalah drama untuknya.Ini menghasilkan tingkat drama yang tinggi ... dan pengorbanan yang tak terhindarkan.</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>Tutorial</Tutor.label>
+  
+</LanguageData>

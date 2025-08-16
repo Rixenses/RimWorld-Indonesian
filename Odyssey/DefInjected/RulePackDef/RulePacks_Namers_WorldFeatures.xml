@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [glacialplain_adjective] [narrative_name]</li>
+    <li>glacialplain_adjective (p = 2)-> glasial</li>
+    <li>glacialplain_adjective-> Frigid</li>
+    <li>glacialplain_adjective-> es</li>
+    <li>glacialplain_adjective-> megah</li>
+    <li>glacialplain_adjective-> beku</li>
+    <li>terrain_word-> gletser</li>
+    <li>terrain_word (p = 0,5)-> icefield</li>
+    <li>terrain_word (p = 0,5)-> icecap</li>
+    <li>terrain_word (p = 0.3)-> bidang</li>
+    <li>terrain_word (p = 0.3)-> dataran glasial</li>
+    <li>terrain_word (p = 0,3)-> peregangan</li>
+    <li>terrain_word (p = 0,3)-> traktat</li>-><NamerGlacialPlain.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> [narrative_name] [glacialplain_adjective]</li>
+    <li>glacialplain_adjective (p = 2)-> glasial</li>
+    <li>glacialplain_adjective-> frígido</li>
+    <li>Glacialplain_adjective-> es krim</li>
+    <li>Glacialplain_adjective-> megah</li>
+    <li>glacialplain_adjective-> beku</li>
+    <li>Terrain_word-> Glaciar</li>
+    <li>Terrain_word (p = 0,5)-> bidang es</li>
+    <li>terrain_word (p = 0,5)-> headphone</li>
+    <li>terrain_word (p = 0,3)-> campo</li>
+    <li>Terrain_word (p = 0.3)-> Glacial Planicie</li>
+    <li>Terrain_word (p = 0.3)-> ekstensi</li>
+    <li>Istilah (p = 0,3)-> vía</li>
+  </NamerGlacialPlain.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.3)-> [glowforest_adjective] [narrative_name]</li>
+    <li>GlowForest_adjective (p = 2)-> jamur</li>
+    <li>GlowForest_Adjective-> Blooming</li>
+    <li>GlowForest_Adjective-> Dark</li>
+    <li>Glowforest_adjective-> ditumbuhi</li>
+    <li>GlowForest_Adjective-> Gnarled</li>
+    <li>Terrain_word (p = 3)-> GlowForest</li>
+    <li>Tempat tidur terrain_word-> miselium</li>
+    <li>Terrain_word-> Hutan jamur</li>
+    <li>terrain_word-> darklands</li>
+    <li>Terrain_word-> Dark Forest</li>-><NamerGlowforest.rulePack.rulesStrings>
+    <li>r_name (p = 0.3)-> [narrative_name] [glowforest_adjective]</li>
+    <li>GlowForest_adjective (p = 2)-> jamur</li>
+    <li>GlowForest_Adjective-> berkembang</li>
+    <li>GlowForest_Adjective-> Oscuro</li>
+    <li>GlowForest_Adjective-> Enmalezado</li>
+    <li>GlowForest_Adjective-> nudoso</li>
+    <li>terrain_word (p = 3)-> lumibosque</li>
+    <li>Tempat tidur terrain_word-> miselium</li>
+    <li>Terrain_word-> Hutan jamur</li>
+    <li>Terrain_word-> Dark Lands</li>
+    <li>Terrain_word-> Dark Forest</li>
+  </NamerGlowforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.3)-> [Grasslands_adjective] [narrative_name]</li>
+    <li>Grasslands_adjective (p = 2)-> flat</li>
+    <li>padang rumput_adjective-> kering</li>
+    <li>Grasslands_adjective-> Windswept</li>
+    <li>padang rumput_adjective-> rolling</li>
+    <li>Grasslands_adjective-> Tanpa Akhir</li>
+    <li>terrain_word (p = 2)-> padang rumput</li>
+    <li>terrain_word (p = 2)-> padang rumput</li>
+    <li>terrain_word (p = 2)-> dataran</li>
+    <li>Terrain_word-> Savanna</li>
+    <li>Terrain_word-> Steppe</li>
+    <li>terrain_word-> flats</li>-><NamerGrasslands.rulePack.rulesStrings>
+    <li>r_name (p = 0.3)-> [narrative_name] [Grasslands_adjective]</li>
+    <li>Grasslands_adjective (p = 2)-> plano</li>
+    <li>Grasslands_adjective-> seco</li>
+    <li>Grasslands_adjective-> ventozo</li>
+    <li>Grasslands_adjective-> rodante</li>
+    <!-- ondulado ?-->
+    <li>Grasslands_adjective-> Interminable</li>
+    <li>Terrain_word (p = 2)-> Pastizal</li>
+    <li>terrain_word (p = 2)-> pradera</li>
+    <li>terrain_word (p = 2)-> knoy</li>
+    <li>Terrain_word-> Savanna</li>
+    <li>field_word-> estepa</li>
+    <li>terrain_word-> plano</li>
+  </NamerGrasslands.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.3)-> [lavafield_adjective] [narrative_name]</li>
+    <li>lavafield_adjective (p = 2)-> gunung berapi</li>
+    <li>lavafield_adjective-> fiery</li>
+    <li>lavafield_adjective-> infernal</li>
+    <li>lavafield_adjective-> terbakar</li>
+    <li>lavafield_adjective-> Blazing</li>
+    <li>terrain_word (p = 3)-> bidang lava</li>
+    <li>terrain_word-> rift</li>
+    <li>terrain_word-> dataran tinggi</li>
+    <li>Terrain_word-> Magma Plain</li>
+    <li>terrain_word-> vent</li>
+    <li>terrain_word-> tungku</li>
+    <li>Terrain_word-> Inferno</li>
+    <li>terrain_word-> range</li>-><NamerLavaField.rulePack.rulesStrings>
+    <li>r_name (p = 0.3)-> [narrative_name] [lavafield_adjective]</li>
+    <li>Lavafield_adjective (p = 2)-> gunung berapi</li>
+    <li>lavafield_adjective-> dari api</li>
+    <li>lavafield_adjective-> infernal</li>
+    <li>lavafield_adjective-> llameante</li>
+    <li>lavafield_adjective-> ardiente</li>
+    <li>field_word (p = 3)-> lava campos</li>
+    <li>terrain_word-> grieta</li>
+    <li>Terrain_word-> high earth</li>
+    <li>terrain_word-> kios magma</li>
+    <li>Terrain_word-> Vajadero</li>
+    <li>terrain_word-> horno</li>
+    <li>terrain_word-> infierno</li>
+    <li>Terrain_word-> averno</li>
+  </NamerLavaField.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [ruin_adjective] [narrative_name]</li>
+    <li>r_name (p = 0.2)-> [narrative_name] [terrain_word]</li>
+    <li>ruin_adjective (p = 2)-> Ruined</li>
+    <li>ruin_adjective-> kuno</li>
+    <li>ruin_adjective-> old</li>
+    <li>ruin_adjective-> hancur</li>
+    <li>ruin_adjective-> Blighted</li>
+    <li>ruin_adjective-> ashen</li>
+    <li>terrain_word (p = 6)-> reruntuhan</li>
+    <li>Terrain_word (p = 3)-> Scarland</li>
+    <li>terrain_word-> megastruktur</li>
+    <li>Terrain_word-> Wastelands</li>
+    <li>terrain_word-> limbah</li>
+    <li>terrain_word-> barrens</li>
+    <li>terrain_word-> vestige</li>
+    <li>Terrain_word-> Toxlands</li>
+    <li>terrain_word-> tanah</li>
+    <li>Terrain_word-> Bastion</li>-><NamerScarlands.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> [narrative_name] [ruin_adjective]</li>
+    <li>r_name (p = 0.2)-> [terrain_wordfem] [narrative_name]</li>
+    <li>r_name (p = 0.2)-> [terrain_word] [narrative_name]</li>
+    <li>Ruin_adjective (p = 2)-> hancur</li>
+    <li>Ruin_adjective-> Ancestral</li>
+    <li>Ruin_adjective-> antiguo</li>
+    <li>Ruin_adjective-> hancur</li>
+    <li>Ruin_adjective-> asolo</li>
+    <li>ruin_adjective-> ceniziento</li>
+    <li>Einter we Waket_wawafine-Hard 6) -asumars</li>
+    <li>Terrain_wordfem (p = 3)-> tanah yang Scarifikasi</li>
+    <li>terrain_wordfem-> megaestructura</li>
+    <li>Terrain_wordfem-> Baldías Lands</li>
+    <li>Terrain_word-> Desechos</li>
+    <li>Terrain_word-> Barrancos</li>
+    <li>terrain_word-> vestigio</li>
+    <li>Terrain_wordfem-> lahan beracun</li>
+    <li>Terain_wordfem-> Tell</li>
+    <li>Terrain_word-> Bastion</li>
+  </NamerScarlands.rulePack.rulesStrings>
+  
+</LanguageData>

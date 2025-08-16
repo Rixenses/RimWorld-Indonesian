@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administrar ambrosía -->
+  <Administer_Ambrosia.label>Kelola Ambrosia</Administer_Ambrosia.label>
+  <!-- EN: Administrando ambrosía. -->
+  <Administer_Ambrosia.jobString>Mengelola Ambrosia.</Administer_Ambrosia.jobString>
+  
+  <!-- EN: administrar cerveza -->
+  <Administer_Beer.label>Kelola bir</Administer_Beer.label>
+  <!-- EN: Administrando cerveza. -->
+  <Administer_Beer.jobString>Mengelola bir.</Administer_Beer.jobString>
+  
+  <!-- EN: administrar escamas -->
+  <Administer_Flake.label>Kelola skala</Administer_Flake.label>
+  <!-- EN: Administrando escamas. -->
+  <Administer_Flake.jobString>Mengelola skala.</Administer_Flake.jobString>
+  
+  <!-- EN: administrar neurozumo -->
+  <Administer_GoJuice.label>Kelola Neurozumo</Administer_GoJuice.label>
+  <!-- EN: Administrando neurozumo. -->
+  <Administer_GoJuice.jobString>Neurozumo administratif.</Administer_GoJuice.jobString>
+  
+  <!-- EN: administrar luciferio -->
+  <Administer_Luciferium.label>Kelola Luciferio</Administer_Luciferium.label>
+  <!-- EN: Administrando luciferio. -->
+  <Administer_Luciferium.jobString>Mengelola Luciferio.</Administer_Luciferium.jobString>
+  
+  <!-- EN: administrar penoxicilina -->
+  <Administer_Penoxycyline.label>Berikan penicicillin</Administer_Penoxycyline.label>
+  <!-- EN: Administrando penoxicilina. -->
+  <Administer_Penoxycyline.jobString>Memberikan penoxicillin.</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: administrar té psicoide -->
+  <Administer_PsychiteTea.label>Mengelola memiliki psikoid</Administer_PsychiteTea.label>
+  <!-- EN: Administrando té psicoide. -->
+  <Administer_PsychiteTea.jobString>Mengelola psikoid.</Administer_PsychiteTea.jobString>
+  
+  <!-- EN: administrar canuto de hojahumeante -->
+  <Administer_SmokeleafJoint.label>Berikan anjing rumput.</Administer_SmokeleafJoint.label>
+  <!-- EN: Administrando canuto de hojahumeante. -->
+  <Administer_SmokeleafJoint.jobString>Mengelola anjing rumput.</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: administrar despertar -->
+  <Administer_WakeUp.label>bangun</Administer_WakeUp.label>
+  <!-- EN: Administrando despertar. -->
+  <Administer_WakeUp.jobString>Mengelola Kebangkitan.</Administer_WakeUp.jobString>
+  
+  <!-- EN: administrar yayo -->
+  <Administer_Yayo.label>Mengelola yayo</Administer_Yayo.label>
+  <!-- EN: Administrando yayo. -->
+  <Administer_Yayo.jobString>Mengelola Yayo.</Administer_Yayo.jobString>
+  
+  <!-- EN: fabricar casco avanzado -->
+  <Make_Apparel_AdvancedHelmet.label>Memproduksi helm anti peluru</Make_Apparel_AdvancedHelmet.label>
+  <!-- EN: Fabrica un casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.description>Memproduksi helm anti peluru.</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Fabricando casco avanzado. -->
+  <Make_Apparel_AdvancedHelmet.jobString>Helm Bulletproof Manufacturing.</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: fabricar camiseta -->
+  <Make_Apparel_BasicShirt.label>Buat T -shirt</Make_Apparel_BasicShirt.label>
+  <!-- EN: Fabrica una camiseta. -->
+  <Make_Apparel_BasicShirt.description>Buat kemeja.</Make_Apparel_BasicShirt.description>
+  <!-- EN: Fabricando camiseta. -->
+  <Make_Apparel_BasicShirt.jobString>Membuat T -shirts.</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: fabricar bombín -->
+  <Make_Apparel_BowlerHat.label>Siapkan bom</Make_Apparel_BowlerHat.label>
+  <!-- EN: Fabrica un bombín. -->
+  <Make_Apparel_BowlerHat.description>Membuat hype.</Make_Apparel_BowlerHat.description>
+  <!-- EN: Fabricando bombín. -->
+  <Make_Apparel_BowlerHat.jobString>Membuat bom.</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: fabricar capa -->
+  <Make_Apparel_Cape.label>Membuat lapisan</Make_Apparel_Cape.label>
+  <!-- EN: Fabrica una capa. -->
+  <Make_Apparel_Cape.description>Membuat lapisan.</Make_Apparel_Cape.description>
+  <!-- EN: Fabricando capa. -->
+  <Make_Apparel_Cape.jobString>Membuat lapisan.</Make_Apparel_Cape.jobString>
+  
+  <!-- EN: fabricar camisa -->
+  <Make_Apparel_CollarShirt.label>membuat kemeja</Make_Apparel_CollarShirt.label>
+  <!-- EN: Fabrica una camisa. -->
+  <Make_Apparel_CollarShirt.description>Buat kemeja.</Make_Apparel_CollarShirt.description>
+  <!-- EN: Fabricando camisa. -->
+  <Make_Apparel_CollarShirt.jobString>Membuat kemeja.</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: fabricar sombrero de vaquero -->
+  <Make_Apparel_CowboyHat.label>Membuat topi koboi</Make_Apparel_CowboyHat.label>
+  <!-- EN: Fabrica un sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.description>Buat topi koboi.</Make_Apparel_CowboyHat.description>
+  <!-- EN: Fabricando sombrero de vaquero. -->
+  <Make_Apparel_CowboyHat.jobString>Membuat topi koboi.</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: fabricar gabardina -->
+  <Make_Apparel_Duster.label>confeccionar gabardina</Make_Apparel_Duster.label>
+  <!-- EN: Fabrica una gabardina. -->
+  <Make_Apparel_Duster.description>Membuat gabardine.</Make_Apparel_Duster.description>
+  <!-- EN: Fabricando gabardina. -->
+  <Make_Apparel_Duster.jobString>Membuat Gabardina.</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: fabricar chaqueta antibalas -->
+  <Make_Apparel_FlakJacket.label>Memproduksi jaket anti peluru</Make_Apparel_FlakJacket.label>
+  <!-- EN: Fabrica una chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.description>Memproduksi jaket antibalas.</Make_Apparel_FlakJacket.description>
+  <!-- EN: Fabricando chaqueta antibalas. -->
+  <Make_Apparel_FlakJacket.jobString>Jaket Bulletproof Manufacturing.</Make_Apparel_FlakJacket.jobString>
+  
+  <!-- EN: fabricar pantalón antibalas -->
+  <Make_Apparel_FlakPants.label>Memproduksi celana anti peluru</Make_Apparel_FlakPants.label>
+  <!-- EN: Fabrica un pantalón antibalas. -->
+  <Make_Apparel_FlakPants.description>Memproduksi celana antibala.</Make_Apparel_FlakPants.description>
+  <!-- EN: Fabricando pantalón antibalas. -->
+  <Make_Apparel_FlakPants.jobString>Produksi celana anti peluru.</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: fabricar chaleco antibalas -->
+  <Make_Apparel_FlakVest.label>Memproduksi Aribalas Vile</Make_Apparel_FlakVest.label>
+  <!-- EN: Fabrica un chaleco antibalas. -->
+  <Make_Apparel_FlakVest.description>Memproduksi antibalas keji.</Make_Apparel_FlakVest.description>
+  <!-- EN: Fabricando chaleco antibalas. -->
+  <Make_Apparel_FlakVest.jobString>Rompi anti peluru.</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: fabricar capucha -->
+  <Make_Apparel_HatHood.label>Membuat tudung</Make_Apparel_HatHood.label>
+  <!-- EN: Fabrica una capucha. -->
+  <Make_Apparel_HatHood.description>Membuat tudung</Make_Apparel_HatHood.description>
+  <!-- EN: Fabricando capucha. -->
+  <Make_Apparel_HatHood.jobString>Membuat tudung</Make_Apparel_HatHood.jobString>
+  
+  <!-- EN: fabricar chaqueta -->
+  <Make_Apparel_Jacket.label>Buat jaket</Make_Apparel_Jacket.label>
+  <!-- EN: Fabrica una chaqueta. -->
+  <Make_Apparel_Jacket.description>Buat jaket.</Make_Apparel_Jacket.description>
+  <!-- EN: Fabricando chaqueta. -->
+  <Make_Apparel_Jacket.jobString>Membuat jaket.</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: fabricar pantalón -->
+  <Make_Apparel_Pants.label>Membuat celana</Make_Apparel_Pants.label>
+  <!-- EN: Fabrica un pantalón. -->
+  <Make_Apparel_Pants.description>Membuat celana.</Make_Apparel_Pants.description>
+  <!-- EN: Fabricando pantalón. -->
+  <Make_Apparel_Pants.jobString>Membuat celana.</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: fabricar anorak -->
+  <Make_Apparel_Parka.label>Buat Anorak</Make_Apparel_Parka.label>
+  <!-- EN: Fabrica un anorak. -->
+  <Make_Apparel_Parka.description>Buat Anorak.</Make_Apparel_Parka.description>
+  <!-- EN: Fabricando anorak. -->
+  <Make_Apparel_Parka.jobString>Membuat anorak.</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: fabricar armadura de placas -->
+  <Make_Apparel_PlateArmor.label>Armor Piring Bengkel</Make_Apparel_PlateArmor.label>
+  <!-- EN: Fabrica una armadura de placas. -->
+  <Make_Apparel_PlateArmor.description>Buat baju besi plakat.</Make_Apparel_PlateArmor.description>
+  <!-- EN: Fabricando armadura de placas. -->
+  <Make_Apparel_PlateArmor.jobString>Baju besi pelat menempa.</Make_Apparel_PlateArmor.jobString>
+  
+  <!-- EN: fabricar armadura de marine -->
+  <Make_Apparel_PowerArmor.label>Pabrikan servoarmadura</Make_Apparel_PowerArmor.label>
+  <!-- EN: Fabrica una armadura de marine. -->
+  <Make_Apparel_PowerArmor.description>Memproduksi servoarmadura.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Fabricando armadura de marine. -->
+  <Make_Apparel_PowerArmor.jobString>Pabrikan servoarmadura.</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: fabricar casco de marine -->
+  <Make_Apparel_PowerArmorHelmet.label>Helm Servoarmator Pabrikan</Make_Apparel_PowerArmorHelmet.label>
+  <!-- EN: Fabrica un casco de marine. -->
+  <Make_Apparel_PowerArmorHelmet.description>Memproduksi helm servoarmadura.</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Fabricando casco de marine. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>Helm manufaktur servoarmadura.</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de protección -->
+  <Make_Apparel_ShieldBelt.label>Buat sabuk pelindung</Make_Apparel_ShieldBelt.label>
+  <!-- EN: Fabrica un cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.description>Kain sabuk pelindung.</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Fabricando cinturón de protección. -->
+  <Make_Apparel_ShieldBelt.jobString>Sabuk pelindung manufaktur.</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: fabricar casco simple -->
+  <Make_Apparel_SimpleHelmet.label>Memproduksi helm sederhana</Make_Apparel_SimpleHelmet.label>
+  <!-- EN: Fabrica un casco simple. -->
+  <Make_Apparel_SimpleHelmet.description>Helm sederhana yang menawarkan perlindungan moderat terhadap serangan mendadak.Ini tidak efektif melawan senjata tumpul.</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Fabricando casco simple. -->
+  <Make_Apparel_SimpleHelmet.jobString>Memproduksi helm sederhana.</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: fabricar cinturón de humo -->
+  <Make_Apparel_SmokepopBelt.label>memproduksi sabuk asap</Make_Apparel_SmokepopBelt.label>
+  <!-- EN: Fabrica un cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.description>Kain sabuk asap.</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Fabricando cinturón de humo. -->
+  <Make_Apparel_SmokepopBelt.jobString>Memproduksi sabuk asap.</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: fabricar túnica tribal -->
+  <Make_Apparel_TribalA.label>Membuat tunik suku</Make_Apparel_TribalA.label>
+  <!-- EN: Fabrica una túnica tribal. -->
+  <Make_Apparel_TribalA.description>Buat tunik suku.</Make_Apparel_TribalA.description>
+  <!-- EN: Fabricando túnica tribal. -->
+  <Make_Apparel_TribalA.jobString>Membuat tunik suku.</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: fabricar tocado tribal -->
+  <Make_Apparel_TribalHeaddress.label>Membuat suku tersentuh</Make_Apparel_TribalHeaddress.label>
+  <!-- EN: Fabrica un tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.description>Buat hiasan kepala suku.</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Fabricando tocado tribal. -->
+  <Make_Apparel_TribalHeaddress.jobString>Membuat Suku Tersentuh.</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: fabricar gorro -->
+  <Make_Apparel_Tuque.label>Membuat topi</Make_Apparel_Tuque.label>
+  <!-- EN: Fabrica un gorro. -->
+  <Make_Apparel_Tuque.description>Membuat topi.</Make_Apparel_Tuque.description>
+  <!-- EN: Fabricando gorro. -->
+  <Make_Apparel_Tuque.jobString>Membuat topi.</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: fabricar máscara de guerra -->
+  <Make_Apparel_WarMask.label>Bertopeng perang</Make_Apparel_WarMask.label>
+  <!-- EN: Fabrica una máscara de guerra. -->
+  <Make_Apparel_WarMask.description>Buat topeng perang.</Make_Apparel_WarMask.description>
+  <!-- EN: Fabricando máscara de guerra. -->
+  <Make_Apparel_WarMask.jobString>Membuat topeng perang.</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: fabricar velo de guerra -->
+  <Make_Apparel_WarVeil.label>Membuat tabir</Make_Apparel_WarVeil.label>
+  <!-- EN: Fabrica un velo de guerra. -->
+  <Make_Apparel_WarVeil.description>Membuat tabir.</Make_Apparel_WarVeil.description>
+  <!-- EN: Fabricando velo de guerra. -->
+  <Make_Apparel_WarVeil.jobString>Membuat tabir.</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: fabricar brazo biónico -->
+  <Make_BionicArm.label>Memproduksi lengan bionik</Make_BionicArm.label>
+  <!-- EN: Fabrica un brazo biónico. -->
+  <Make_BionicArm.description>Kain lengan bionik.</Make_BionicArm.description>
+  <!-- EN: Fabricando brazo biónico. -->
+  <Make_BionicArm.jobString>Lengan bionik manufaktur.</Make_BionicArm.jobString>
+  
+  <!-- EN: fabricar oído biónico -->
+  <Make_BionicEar.label>Memproduksi telinga bionik</Make_BionicEar.label>
+  <!-- EN: Fabrica un oído biónico. -->
+  <Make_BionicEar.description>Memproduksi telinga bionik.</Make_BionicEar.description>
+  <!-- EN: Fabricando oído biónico. -->
+  <Make_BionicEar.jobString>Produksi telinga bionik.</Make_BionicEar.jobString>
+  
+  <!-- EN: fabricar ojo biónico -->
+  <Make_BionicEye.label>Memproduksi mata bionik</Make_BionicEye.label>
+  <!-- EN: Fabrica un ojo biónico. -->
+  <Make_BionicEye.description>Memproduksi mata bionik.</Make_BionicEye.description>
+  <!-- EN: Fabricando ojo biónico. -->
+  <Make_BionicEye.jobString>Mata Bionik Manufaktur.</Make_BionicEye.jobString>
+  
+  <!-- EN: fabricar corazón biónico -->
+  <Make_BionicHeart.label>Memproduksi hati bionik</Make_BionicHeart.label>
+  <!-- EN: Fabrica un corazón biónico. -->
+  <Make_BionicHeart.description>Memproduksi hati bionik.</Make_BionicHeart.description>
+  <!-- EN: Fabricando corazón biónico. -->
+  <Make_BionicHeart.jobString>Pembuatan hati bionik.</Make_BionicHeart.jobString>
+  
+  <!-- EN: fabricar pierna biónica -->
+  <Make_BionicLeg.label>Memproduksi kaki bionik</Make_BionicLeg.label>
+  <!-- EN: Fabrica una pierna biónica. -->
+  <Make_BionicLeg.description>Memproduksi kaki biónica.</Make_BionicLeg.description>
+  <!-- EN: Fabricando pierna biónica. -->
+  <Make_BionicLeg.jobString>Manufaktur kaki bionik.</Make_BionicLeg.jobString>
+  
+  <!-- EN: fabricar columna vertebral biónica -->
+  <Make_BionicSpine.label>Memproduksi tulang belakang bionik</Make_BionicSpine.label>
+  <!-- EN: Fabrica una columna vertebral biónica. -->
+  <Make_BionicSpine.description>Memproduksi tulang belakang bionik.</Make_BionicSpine.description>
+  <!-- EN: Fabricando columna vertebral biónica. -->
+  <Make_BionicSpine.jobString>Pabrikan tulang belakang bionik.</Make_BionicSpine.jobString>
+  
+  <!-- EN: fabricar estómago biónico -->
+  <Make_BionicStomach.label>Memproduksi lambung bionik</Make_BionicStomach.label>
+  <!-- EN: Fabrica un estómago biónico. -->
+  <Make_BionicStomach.description>Fabrica un estómago biónico.</Make_BionicStomach.description>
+  <!-- EN: Fabricando estómago biónico. -->
+  <Make_BionicStomach.jobString>Memproduksi lambung bionik.</Make_BionicStomach.jobString>
+  
+  <!-- EN: fabricar arco grande -->
+  <Make_Bow_Great.label>Memproduksi busur besar</Make_Bow_Great.label>
+  <!-- EN: Fabrica un arco grande. -->
+  <Make_Bow_Great.description>Memproduksi lengkungan besar.</Make_Bow_Great.description>
+  <!-- EN: Fabricando arco grande. -->
+  <Make_Bow_Great.jobString>Memproduksi busur besar.</Make_Bow_Great.jobString>
+  
+  <!-- EN: fabricar arco recurvo -->
+  <Make_Bow_Recurve.label>pembuatan</Make_Bow_Recurve.label>
+  <!-- EN: Fabrica un arco recurvo. -->
+  <Make_Bow_Recurve.description>Memproduksi busur rekursif.</Make_Bow_Recurve.description>
+  <!-- EN: Fabricando arco recurvo. -->
+  <Make_Bow_Recurve.jobString>Busur rekursif manufaktur.</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: fabricar arco corto -->
+  <Make_Bow_Short.label>Memproduksi lengkungan pendek</Make_Bow_Short.label>
+  <!-- EN: Fabrica un arco corto. -->
+  <Make_Bow_Short.description>Memproduksi lengkungan pendek.</Make_Bow_Short.description>
+  <!-- EN: Fabricando arco corto. -->
+  <Make_Bow_Short.jobString>Memproduksi lengkungan pendek.</Make_Bow_Short.jobString>
+  
+  <!-- EN: fabricar implante auditivo -->
+  <Make_CochlearImplant.label>Produksi Implan Koklea</Make_CochlearImplant.label>
+  <!-- EN: Fabrica un implante auditivo. -->
+  <Make_CochlearImplant.description>Memproduksi implan koklea.</Make_CochlearImplant.description>
+  <!-- EN: Fabricando implante auditivo. -->
+  <Make_CochlearImplant.jobString>Implan koklea manufaktur.</Make_CochlearImplant.jobString>
+  
+  <!-- EN: fabricar escamas -->
+  <Make_Flake.label>Skala pembuatan</Make_Flake.label>
+  <!-- EN: Fabrica un escamas. -->
+  <Make_Flake.description>Siapkan skala dosis.</Make_Flake.description>
+  <!-- EN: Fabricando escamas. -->
+  <Make_Flake.jobString>Skala persiapan.</Make_Flake.jobString>
+  
+  <!-- EN: fabricar neurozumo -->
+  <Make_GoJuice.label>Memproduksi neurozumo</Make_GoJuice.label>
+  <!-- EN: Fabrica un neurozumo. -->
+  <Make_GoJuice.description>Persiapan Neurosuma</Make_GoJuice.description>
+  <!-- EN: Fabricando neurozumo. -->
+  <Make_GoJuice.jobString>Mempersiapkan Neurozumo.</Make_GoJuice.jobString>
+  
+  <!-- EN: fabricar fusil de asalto -->
+  <Make_Gun_AssaultRifle.label>Produksi senapan serbu</Make_Gun_AssaultRifle.label>
+  <!-- EN: Fabrica un fusil de asalto. -->
+  <Make_Gun_AssaultRifle.description>Memproduksi senapan serbu.</Make_Gun_AssaultRifle.description>
+  <!-- EN: Fabricando fusil de asalto. -->
+  <Make_Gun_AssaultRifle.jobString>Rifle serbu manufaktur.</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: fabricar pistola automática -->
+  <Make_Gun_Autopistol.label>Memproduksi senjata otomatis</Make_Gun_Autopistol.label>
+  <!-- EN: Fabrica una pistola automática. -->
+  <Make_Gun_Autopistol.description>Membuat pistol otomatis.</Make_Gun_Autopistol.description>
+  <!-- EN: Fabricando pistola automática. -->
+  <Make_Gun_Autopistol.jobString>Memproduksi senjata otomatis.</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: fabricar fusil de cerrojo -->
+  <Make_Gun_BoltActionRifle.label>Produksi Lock Riil</Make_Gun_BoltActionRifle.label>
+  <!-- EN: Fabrica un fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.description>Memproduksi riil kunci.</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Fabricando fusil de cerrojo. -->
+  <Make_Gun_BoltActionRifle.jobString>Memproduksi senapan baut.</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: fabricar escopeta automática -->
+  <Make_Gun_ChainShotgun.label>Memproduksi senapan otomatis</Make_Gun_ChainShotgun.label>
+  <!-- EN: Fabrica una escopeta automática. -->
+  <Make_Gun_ChainShotgun.description>Membuat senapan otomatis.</Make_Gun_ChainShotgun.description>
+  <!-- EN: Fabricando escopeta automática. -->
+  <Make_Gun_ChainShotgun.jobString>Memproduksi senapan otomatis.</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: fabricar lanza de cargas -->
+  <Make_Gun_ChargeLance.label>Buat Load Spear</Make_Gun_ChargeLance.label>
+  <!-- EN: Fabrica una lanza de cargas. -->
+  <Make_Gun_ChargeLance.description>Memproduksi tombak beban.</Make_Gun_ChargeLance.description>
+  <!-- EN: Fabricando lanza de cargas. -->
+  <Make_Gun_ChargeLance.jobString>Beban manufaktur.</Make_Gun_ChargeLance.jobString>
+  
+  <!-- EN: fabricar fusil de cargas -->
+  <Make_Gun_ChargeRifle.label>Buat Load Rifle</Make_Gun_ChargeRifle.label>
+  <!-- EN: Fabrica un fusil de cargas. -->
+  <Make_Gun_ChargeRifle.description>Memproduksi senapan beban.</Make_Gun_ChargeRifle.description>
+  <!-- EN: Fabricando fusil de cargas. -->
+  <Make_Gun_ChargeRifle.jobString>Produksi Load Rifle.</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: fabricar subfusil pesado -->
+  <Make_Gun_HeavySMG.label>Memproduksi subfusil berat</Make_Gun_HeavySMG.label>
+  <!-- EN: Fabrica un subfusil pesado. -->
+  <Make_Gun_HeavySMG.description>Memproduksi subfusil yang berat.</Make_Gun_HeavySMG.description>
+  <!-- EN: Fabricando subfusil pesado. -->
+  <Make_Gun_HeavySMG.jobString>Memproduksi subfusil berat.</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: fabricar lanzagranadas incendiario T-9 -->
+  <Make_Gun_IncendiaryLauncher.label>Produksi fu-9 fue lanzgranadas</Make_Gun_IncendiaryLauncher.label>
+  <!-- EN: Fabrica un lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.description>Memproduksi peluncur T-9 Incendiary.</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Fabricando lanzagranadas incendiario T-9. -->
+  <Make_Gun_IncendiaryLauncher.jobString>Lanzegraniadas T-9 yang diproduksi.</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: fabricar ametralladora ligera L-15 -->
+  <Make_Gun_LMG.label>Produksi senapan mesin ringan L-15</Make_Gun_LMG.label>
+  <!-- EN: Fabrica una ametralladora ligera L-15. -->
+  <Make_Gun_LMG.description>Kain senapan mesin ringan L-15.</Make_Gun_LMG.description>
+  <!-- EN: Fabricando ametralladora ligera L-15. -->
+  <Make_Gun_LMG.jobString>Pabrikan Machine Gun L-15.</Make_Gun_LMG.jobString>
+  
+  <!-- EN: fabricar subfusil compacto -->
+  <Make_Gun_MachinePistol.label>Produksi senapan mesin</Make_Gun_MachinePistol.label>
+  <!-- EN: Fabrica un subfusil compacto. -->
+  <Make_Gun_MachinePistol.description>Fabric A Machine Gun.</Make_Gun_MachinePistol.description>
+  <!-- EN: Fabricando subfusil compacto. -->
+  <Make_Gun_MachinePistol.jobString>Senapan mesin manufaktur.</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: fabricar minigun -->
+  <Make_Gun_Minigun.label>Produksi Minigun</Make_Gun_Minigun.label>
+  <!-- EN: Fabrica una minigun. -->
+  <Make_Gun_Minigun.description>Memproduksi minigun</Make_Gun_Minigun.description>
+  <!-- EN: Fabricando minigun. -->
+  <Make_Gun_Minigun.jobString>Minigun manufaktur.</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: fabricar escopeta -->
+  <Make_Gun_PumpShotgun.label>Membuat senapan</Make_Gun_PumpShotgun.label>
+  <!-- EN: Fabrica una escopeta. -->
+  <Make_Gun_PumpShotgun.description>Kain senapan.</Make_Gun_PumpShotgun.description>
+  <!-- EN: Fabricando escopeta. -->
+  <Make_Gun_PumpShotgun.jobString>Produksi senapan.</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: fabricar revólver -->
+  <Make_Gun_Revolver.label>pistol</Make_Gun_Revolver.label>
+  <!-- EN: Fabrica un revólver. -->
+  <Make_Gun_Revolver.description>Memproduksi revolver.</Make_Gun_Revolver.description>
+  <!-- EN: Fabricando revólver. -->
+  <Make_Gun_Revolver.jobString>Revolver manufaktur.</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: fabricar fusil de francotirador -->
+  <Make_Gun_SniperRifle.label>Buat Sniper Rifle</Make_Gun_SniperRifle.label>
+  <!-- EN: Fabrica un fusil de francotirador. -->
+  <Make_Gun_SniperRifle.description>Membuat senapan sniper.</Make_Gun_SniperRifle.description>
+  <!-- EN: Fabricando fusil de francotirador. -->
+  <Make_Gun_SniperRifle.jobString>Produksi Sniper Rifle.</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: fabricar medicina -->
+  <Make_MedicineIndustrial.label>Pabrikan Kedokteran</Make_MedicineIndustrial.label>
+  <!-- EN: Fabrica una medicina. -->
+  <Make_MedicineIndustrial.description>Buat kit obat.</Make_MedicineIndustrial.description>
+  <!-- EN: Fabricando medicina. -->
+  <Make_MedicineIndustrial.jobString>Obat menguraikan.</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: fabricar hacha zapeadora -->
+  <Make_MeleeWeapon_BreachAxe.label>Forge Zapeadora Ax</Make_MeleeWeapon_BreachAxe.label>
+  <!-- EN: Fabrica un hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.description>Buat kapak zapeadora.</Make_MeleeWeapon_BreachAxe.description>
+  <!-- EN: Fabricando hacha zapeadora. -->
+  <Make_MeleeWeapon_BreachAxe.jobString>Forging Zapeadora Ax.</Make_MeleeWeapon_BreachAxe.jobString>
+  
+  <!-- EN: fabricar porra -->
+  <Make_MeleeWeapon_Club.label>sialan</Make_MeleeWeapon_Club.label>
+  <!-- EN: Fabrica una porra. -->
+  <Make_MeleeWeapon_Club.description>Memproduksi porra.</Make_MeleeWeapon_Club.description>
+  <!-- EN: Fabricando porra. -->
+  <Make_MeleeWeapon_Club.jobString>Memproduksi sialan.</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: fabricar gladius -->
+  <Make_MeleeWeapon_Gladius.label>Forjar Sword</Make_MeleeWeapon_Gladius.label>
+  <!-- EN: Fabrica un gladius. -->
+  <Make_MeleeWeapon_Gladius.description>Menempa gladius.</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Fabricando gladius. -->
+  <Make_MeleeWeapon_Gladius.jobString>Pedang Forjando.</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: fabricar ikwa -->
+  <Make_MeleeWeapon_Ikwa.label>Farger lebih kuat</Make_MeleeWeapon_Ikwa.label>
+  <!-- EN: Fabrica un ikwa. -->
+  <Make_MeleeWeapon_Ikwa.description>Melawan Umba.</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Fabricando ikwa. -->
+  <Make_MeleeWeapon_Ikwa.jobString>Garpu kapas.</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: fabricar cuchillo -->
+  <Make_MeleeWeapon_Knife.label>Pisau Forge</Make_MeleeWeapon_Knife.label>
+  <!-- EN: Fabrica un cuchillo. -->
+  <Make_MeleeWeapon_Knife.description>Menempa pisau.</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Fabricando cuchillo. -->
+  <Make_MeleeWeapon_Knife.jobString>Pisau menempa.</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: fabricar espada larga -->
+  <Make_MeleeWeapon_LongSword.label>Forge Long Sword</Make_MeleeWeapon_LongSword.label>
+  <!-- EN: Fabrica una espada larga. -->
+  <Make_MeleeWeapon_LongSword.description>Menempa pedang panjang.</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Fabricando espada larga. -->
+  <Make_MeleeWeapon_LongSword.jobString>Menempa pedang panjang.</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: fabricar maza -->
+  <Make_MeleeWeapon_Mace.label>Forge Maza</Make_MeleeWeapon_Mace.label>
+  <!-- EN: Fabrica una maza. -->
+  <Make_MeleeWeapon_Mace.description>Menempa gada.</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Fabricando maza. -->
+  <Make_MeleeWeapon_Mace.jobString>Menempa Maza.</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: fabricar lanza -->
+  <Make_MeleeWeapon_Spear.label>Forge Spear</Make_MeleeWeapon_Spear.label>
+  <!-- EN: Fabrica una lanza. -->
+  <Make_MeleeWeapon_Spear.description>Menempa tombak.</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Fabricando lanza. -->
+  <Make_MeleeWeapon_Spear.jobString>Menempa tombak.</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: fabricar penoxicilina -->
+  <Make_Penoxycyline.label>Memproduksi penexiciline</Make_Penoxycyline.label>
+  <!-- EN: Fabrica una penoxicilina. -->
+  <Make_Penoxycyline.description>Siapkan Pedexylin Pildras.</Make_Penoxycyline.description>
+  <!-- EN: Fabricando penoxicilina. -->
+  <Make_Penoxycyline.jobString>Mempersiapkan Penicicillin.</Make_Penoxycyline.jobString>
+  
+  <!-- EN: fabricar pila -->
+  <Make_Pila.label>Baterai memproduksi</Make_Pila.label>
+  <!-- EN: Fabrica una pila. -->
+  <Make_Pila.description>Memproduksi pilk.</Make_Pila.description>
+  <!-- EN: Fabricando pila. -->
+  <Make_Pila.jobString>Baterai manufaktur.</Make_Pila.jobString>
+  
+  <!-- EN: fabricar té psicoide -->
+  <Make_PsychiteTea.label>Persiapkan memiliki psikoid</Make_PsychiteTea.label>
+  <!-- EN: Fabrica un té psicoide. -->
+  <Make_PsychiteTea.description>Siapkan psikoid.</Make_PsychiteTea.description>
+  <!-- EN: Fabricando té psicoide. -->
+  <Make_PsychiteTea.jobString>Mempersiapkan teh psikoid.</Make_PsychiteTea.jobString>
+  
+  <!-- EN: fabricar té psicoide x4 -->
+  <Make_PsychiteTeaBulk.label>Siapkan teh psikoid x4</Make_PsychiteTeaBulk.label>
+  <!-- EN: Fabrica té psicoide x4. -->
+  <Make_PsychiteTeaBulk.description>Siapkan 4 teh psikoid.</Make_PsychiteTeaBulk.description>
+  <!-- EN: Fabricando té psicoide x4. -->
+  <Make_PsychiteTeaBulk.jobString>Mempersiapkan teh psychoides x4.</Make_PsychiteTeaBulk.jobString>
+  
+  <!-- EN: fabricar escultura enorme -->
+  <Make_SculptureGrand.label>Memproduksi patung besar</Make_SculptureGrand.label>
+  <!-- EN: Fabrica una escultura enorme. -->
+  <Make_SculptureGrand.description>SCULP UNITY. Patung besar.</Make_SculptureGrand.description>
+  <!-- EN: Fabricando escultura enorme. -->
+  <Make_SculptureGrand.jobString>Memahat patung besar.</Make_SculptureGrand.jobString>
+  
+  <!-- EN: fabricar escultura grande -->
+  <Make_SculptureLarge.label>PEMBUATAN PERTAMA MEDIA</Make_SculptureLarge.label>
+  <!-- EN: Fabrica una escultura grande. -->
+  <Make_SculptureLarge.description>Sculpe Unity Median Patung.</Make_SculptureLarge.description>
+  <!-- EN: Fabricando escultura grande. -->
+  <Make_SculptureLarge.jobString>Memahat patung median.</Make_SculptureLarge.jobString>
+  
+  <!-- EN: fabricar escultura pequeña -->
+  <Make_SculptureSmall.label>Memproduksi patung kecil</Make_SculptureSmall.label>
+  <!-- EN: Fabrica una escultura pequeña. -->
+  <Make_SculptureSmall.description>Memahat patung kecil.</Make_SculptureSmall.description>
+  <!-- EN: Fabricando escultura pequeña. -->
+  <Make_SculptureSmall.jobString>Memahat patung kecil.</Make_SculptureSmall.jobString>
+  
+  <!-- EN: fabricar proyectil PEM -->
+  <Make_Shell_EMP.label>Memproduksi pem obus</Make_Shell_EMP.label>
+  <!-- EN: Fabrica un proyectil PEM. -->
+  <Make_Shell_EMP.description>Memproduksi PEM melolong.</Make_Shell_EMP.description>
+  <!-- EN: Fabricando proyectil PEM. -->
+  <Make_Shell_EMP.jobString>Manufaktur obus PEM.</Make_Shell_EMP.jobString>
+  
+  <!-- EN: fabricar proyectil cortafuegos -->
+  <Make_Shell_Firefoam.label>Memproduksi windrollog</Make_Shell_Firefoam.label>
+  <!-- EN: Fabrica un proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.description>Memproduksi Firebroke.</Make_Shell_Firefoam.description>
+  <!-- EN: Fabricando proyectil cortafuegos. -->
+  <Make_Shell_Firefoam.jobString>Memproduksi geng firebug.</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: fabricar proyectil altamente explosivo -->
+  <Make_Shell_HighExplosive.label>Memproduksi obus peledak</Make_Shell_HighExplosive.label>
+  <!-- EN: Fabrica un proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.description>Memproduksi seorang pria yang eksplosif.</Make_Shell_HighExplosive.description>
+  <!-- EN: Fabricando proyectil altamente explosivo. -->
+  <Make_Shell_HighExplosive.jobString>Manufaktur Obouos Bahan Peledak.</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: fabricar proyectil incendiario -->
+  <Make_Shell_Incendiary.label>Pembuatan obuts fue</Make_Shell_Incendiary.label>
+  <!-- EN: Fabrica un proyectil incendiario. -->
+  <Make_Shell_Incendiary.description>Memproduksi pria pembakar.</Make_Shell_Incendiary.description>
+  <!-- EN: Fabricando proyectil incendiario. -->
+  <Make_Shell_Incendiary.jobString>Manufacturing Pria Pembakar.</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: fabricar brazo protésico -->
+  <Make_SimpleProstheticArm.label>Memproduksi lengan prostetik</Make_SimpleProstheticArm.label>
+  <!-- EN: Fabrica un brazo protésico. -->
+  <Make_SimpleProstheticArm.description>Kain lengan prostetik.</Make_SimpleProstheticArm.description>
+  <!-- EN: Fabricando brazo protésico. -->
+  <Make_SimpleProstheticArm.jobString>Lengan prostetik manufaktur.</Make_SimpleProstheticArm.jobString>
+  
+  <!-- EN: fabricar corazón protésico -->
+  <Make_SimpleProstheticHeart.label>Memproduksi hati prostetik</Make_SimpleProstheticHeart.label>
+  <!-- EN: Fabrica un corazón protésico. -->
+  <Make_SimpleProstheticHeart.description>Memproduksi hati palsu.</Make_SimpleProstheticHeart.description>
+  <!-- EN: Fabricando corazón protésico. -->
+  <Make_SimpleProstheticHeart.jobString>Manufaktur hati prostetik.</Make_SimpleProstheticHeart.jobString>
+  
+  <!-- EN: fabricar pierna protésica -->
+  <Make_SimpleProstheticLeg.label>Memproduksi kaki palsu</Make_SimpleProstheticLeg.label>
+  <!-- EN: Fabrica una pierna protésica. -->
+  <Make_SimpleProstheticLeg.description>Memproduksi kaki palsu.</Make_SimpleProstheticLeg.description>
+  <!-- EN: Fabricando pierna protésica. -->
+  <Make_SimpleProstheticLeg.jobString>Leg Prostetik Manufaktur.</Make_SimpleProstheticLeg.jobString>
+  
+  <!-- EN: fabricar canuto de hojahumeante -->
+  <Make_SmokeleafJoint.label>memproduksi anjing rumput</Make_SmokeleafJoint.label>
+  <!-- EN: Fabrica un canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.description>Enrrolla seekor anjing.</Make_SmokeleafJoint.description>
+  <!-- EN: Fabricando canuto de hojahumeante. -->
+  <Make_SmokeleafJoint.jobString>Membungkus anjing rumput.</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: fabricar despertar -->
+  <Make_WakeUp.label>Pembuatan Kebangkitan</Make_WakeUp.label>
+  <!-- EN: Fabrica un despertar. -->
+  <Make_WakeUp.description>Siapkan dosis kebangkitan.</Make_WakeUp.description>
+  <!-- EN: Fabricando despertar. -->
+  <Make_WakeUp.jobString>Mempersiapkan Kebangkitan.</Make_WakeUp.jobString>
+  
+  <!-- EN: fabricar granadas PEM -->
+  <Make_Weapon_GrenadeEMP.label>Produksi Granadas Pem</Make_Weapon_GrenadeEMP.label>
+  <!-- EN: Fabrica un granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.description>Pabrikan PEm PEM.</Make_Weapon_GrenadeEMP.description>
+  <!-- EN: Fabricando granadas PEM. -->
+  <Make_Weapon_GrenadeEMP.jobString>PEMBUAT PEMBUAT PEM.</Make_Weapon_GrenadeEMP.jobString>
+  
+  <!-- EN: fabricar granadas de fragmentación -->
+  <Make_Weapon_GrenadeFrag.label>Granat fragmentasi manufactrate</Make_Weapon_GrenadeFrag.label>
+  <!-- EN: Fabrica un granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.description>Granat fragmentasi kain.</Make_Weapon_GrenadeFrag.description>
+  <!-- EN: Fabricando granadas de fragmentación. -->
+  <Make_Weapon_GrenadeFrag.jobString>Granat fragmentasi manufaktur.</Make_Weapon_GrenadeFrag.jobString>
+  
+  <!-- EN: fabricar cócteles molotov -->
+  <Make_Weapon_GrenadeMolotov.label>Memproduksi koktail Molotov</Make_Weapon_GrenadeMolotov.label>
+  <!-- EN: Fabrica un cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.description>Memproduksi koktail molotov.</Make_Weapon_GrenadeMolotov.description>
+  <!-- EN: Fabricando cócteles molotov. -->
+  <Make_Weapon_GrenadeMolotov.jobString>Membuat koktail Molotov.</Make_Weapon_GrenadeMolotov.jobString>
+  
+  <!-- EN: fabricar yayo -->
+  <Make_Yayo.label>Memproduksi yayo</Make_Yayo.label>
+  <!-- EN: Fabrica un yayo. -->
+  <Make_Yayo.description>Siapkan dosis yayo.</Make_Yayo.description>
+  <!-- EN: Fabricando yayo. -->
+  <Make_Yayo.jobString>Mempersiapkan Yayo.</Make_Yayo.jobString>
+  
+</LanguageData>

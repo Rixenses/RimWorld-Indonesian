@@ -1,0 +1,1421 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal personhood -->
+  <AnimalPersonhood.label>Kepribadian Hewan</AnimalPersonhood.label>
+  <!-- EN: Animals have rights as humans do. -->
+  <AnimalPersonhood.description>Hewan memiliki hak yang sama dengan manusia.</AnimalPersonhood.description>
+  <!-- EN:
+    <li>Creation (tag = meme_animalpersersanhood) -> [deity0_name] membuat [sacredanimallist] dan manusia di [place_summary] [place_name] dan mengangkatnya sebagai saudara kandung.</li>
+    <li>Episode (use = 1, tag = meme_animalpersersanhood) -> [deity0_name] membawa hewan dan manusia dari [place_summary] [place_name] bersama -sama dalam konferensi yang hebat.</li>
+    <li>intro (tag = meme_animalpersonhood) -> [deity0_name] diberkati [place_summary] [place_name] dengan [sacredanimallistend], dan mengajar orang -orang di sana untuk menghormati hewan.</li>
+    <li>konflik (tag = meme_animalpersonhood) -> An kejahatan [foeleader] memerintahkan hewan liar untuk diburu, dan [foeleader posesif] [untuk tentara] memburu mereka dengan kejam [place_personalweapon] s.</li>
+    <li>founderjoin (tag = meme_animalpersersanhood) -> [deity0_name] datang ke [place_job] bernama [foundername] [revelyadverb] tentang [veneratedanimal].Tetapi [Foundername] adalah [terpengaruh], dan [veelatedanimal] adalah [FoundName], dan [Founder_pronoun] memahami rencana [Deity0_name].</li>
+    <li>founderjoin (tag = meme_animalpersersanhood) -> a [place_job] bernama [foundername] membebaskan banyak hewan yang diperbudak oleh tuan yang kejam, dan membawa mereka ke tempat kudus di [label altar] [dewa0_name].</li>
+    <li>Victory (tag = meme_animalpersonhood) -> [foundername] dipanggil ke [anggota dinasmeplural] dan hewan -hewan dengan suara [Deity0_name], dan dengan kuku dan kaki dan kaki yang besar, menginjak -injak [foeleader] dan [foeleader_possessesif] [foesoldierser].</li>
+    <li>Pengaturan (tag = meme_animalpersonhood) -> [FoundName] tinggal di hutan selama dua puluh tahun, mempelajari hewan dan terhubung dengan mereka.[Founder_pronoun] mulai memahami moralitas mereka yang sebenarnya dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_animalpersershood) -> [foundername] pergi berkomunikasi dengan hewan di ladang dan hutan, dan terhubung dengan mereka secara setara.</li>
+    <li>LessonIntro (tag = meme_animalpersonhood) -> Dalam kunjungan harian saya dengan [veseatedoranyanimal] saya belajar untuk benar -benar mendengarkan mereka.Berkali -kali, dengan cara mereka sendiri, mereka mengulangi pesan mereka kepada saya:</li>
+    <li>Pelajaran (tag = meme_animalpersersanhood) -> Hewan adalah mitra kita di dunia ini, dan salah memperlakukan mereka sebagai kurang dari</li>
+    <li>Penguatan Pelajaran (TAG = Meme_animalpersership) -> Saya tidak percaya pada diri saya sendiri sampai [dipengaruhi atau orang lain] berbisik kepada saya.</li>
+    <li>Archistbasis (tag = meme_animalpersersanhood) -> Sejak Archotech terbangun, mereka jelas tidak membuat perbedaan moral antara manusia dan hewan.</li>
+    <li>ArchistFact (tag = meme_animalpersersanhood) -> Archotechs berada di bidang moralitas yang lebih tinggi daripada bio -life.Keunggulan mereka begitu hebat sehingga manusia berada di bidang moralitas yang sama dengan hewan.</li>
+    <li>ArchistProphecy (tag = meme_animalpersersonhood) -> [Intheend], Archotechs akan membesarkan manusia hanya setara jika manusia memperlakukan hewan secara setara.</li>
+    <li>Animistbasis (tag = meme_animalpersersanhood) -> Semangat pemikiran dan kesadaran hidup di dalam hewan dan manusia.</li>
+    <li>Animistfact (tag = meme_animalpersersersanhood) -> Semangat alam adalah roh yang sama seperti pada manusia.</li>
+    <li>veeneratedoranyanimal (prioritas = 10)-> [velateAnimal]</li>
+    <li>VeLeTatedoranyAnimal-> [Hewan]</li>
+    <li>sacredanimallist-> [animal0_thingdef_label], [animal1_thingdef_label], [animal2_thingdef_label],</li>
+    <li>sacredanimallist-> [animal0_thingdef_label], [animal1_thingdef_label],</li>
+    <li>sacredanimallist-> [animal0_thingdef_label]</li>
+    <li>sacredanimallist-> sapi, rubah, beruang,</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label], [animal1_thingdef_label], dan [animal2_thingdef_label]</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label], Dan [animal1_thingdef_label]</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label]</li>
+    <li>sacredanimallistend-> sapi, rubah, dan beruang</li>-><AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_animalpersersanhood) -> [deity0_name] menciptakan hewan -hewan ini, [sacredanimallist] dan manusia di [place_summary] [place_name] dan mengangkat mereka sebagai saudara.</li>
+    <li>Episode (use = 1, tag = meme_animalpersershood) -> [deity0_name] menyatukan hewan dan manusia [Place_Summary] [Place_Name] pada konferensi yang hebat.</li>
+    <li>intro (tag = meme_animalpersonhood) -> [deity0_name] diberkati [place_summary] [place_name] Dengan hewan -hewan ini: [sacredanimallistend], dan mengajar orang -orang dari sana untuk menghormati hewan.</li>
+    <li>Konflik (tag = meme_animalpersonhood) -> Evil [foeleader] diperintahkan untuk berburu hewan liar, dan [faesoldiers] mereka memburu mereka, menggunakan senjata favorit mereka, [place_personalweapon].</li>
+    <li>Founderjoin (tag = meme_animalpersonhood) -> [deity0_name] pergi ke [place_job] bernama [foundername] [revelyadverb] untuk a (a) [veneratedanimal].Tetapi [Foundername] adalah [terpengaruh], dan [veelatedanimal] adalah [Foundername], dan [Founder_pronoun] memahami rencana [dewa0_name].</li>
+    <li>Founderjoin (tag = meme_animalpersersanhood) -> a [place_job] bernama [foundername] membebaskan banyak hewan yang diperbudak oleh tuan yang kejam, dan membawa mereka ke tempat sakral [dewa0_name], [label altarlabel] mereka.</li>
+    <li>Victory (tag = meme_animalpersonhood) -> [foundername] disebut [anggotanameplural] dan hewan -hewan dengan suara [dewa0_name], dan dalam stampede besar kuku, kaki dan kaki, menginjak -injak [foeleader] dan [foesoldiers] mereka.</li>
+    <li>Pengaturan (tag = meme_animalpersonhood) -> [Foundername] tinggal di hutan selama dua puluh tahun, mempelajari hewan dan terhubung dengan mereka.[Founder_pronoun] mulai memahami moralitasnya yang sebenarnya dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_animalpersershood) -> [FoundName] pergi berkomunikasi dengan hewan di ladang dan hutan, dan terkait dengan mereka sama dengan sama.</li>
+    <li>LessonIntr (tag = meme_animalpersersanhood) -> Dalam kunjungan harian saya dengan [venerator andanimalpl] Saya belajar untuk benar -benar mendengarkan mereka.Berkali -kali, dengan caranya sendiri, pesannya mengulangi saya:</li>
+    <li>Pelajaran (tag = meme_animalpersersanhood) -> hewan adalah kolega kita di dunia ini, dan itu adalah kesalahan untuk memperlakukan mereka sebagai kurang</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_ANIMALPERSONHOOD) -> Saya tidak percaya sampai [venerateSanimal] saya berbisik.</li>
+    <li>Archistbasis (tag = meme_animalpersersanhood) -> Karena archeoteca bangun, jelas bahwa mereka belum membuat perbedaan moral antara manusia dan hewan.</li>
+    <li>ArchistFact (tag = meme_animalpersersonhood) -> lengkungan berada di bidang moralitas yang lebih unggul dari kehidupan biologis.Keunggulannya begitu besar sehingga manusia berada di bidang moralitas yang sama dengan hewan.</li>
+    <li>ArchistProphy (tAG = meme_animalpersersanhood) -> [Intheend], Perpustakaan Archeoteca akan membesarkan manusia hanya setara jika manusia memperlakukan hewan sebagai hal yang sama.</li>
+    <li>AnimistBasis (tag = meme_animalpersersanhood) -> Roh pemikiran dan kesadaran hidup di dalam hewan dan manusia secara setara.</li>
+    <li>animistfact (tag = meme_animalpersersonhood) -> Roh -roh hewan alam adalah sama yang tinggal pada manusia.</li>
+    <li>veLatedoranyAnimalpl (prioritas = 10)-> [veneratedanimalpl]</li>
+    <li>veneratedoranyanimalpl-> [animal_plural]</li>
+    <li>veeneratedoranyanimal (prioritas = 10)-> [velateAnimal]</li>
+    <li>VeLeTatedoranyAnimal-> [Hewan]</li>
+    <li>sacredanimallist-> [animal0_thingdef_label], [animal1_thingdef_label], [animal2_thingdef_label],</li>
+    <li>sacredanimallist-> [animal0_thingdef_label], [animal1_thingdef_label],</li>
+    <li>sacredanimallist-> [animal0_thingdef_label]</li>
+    <li>Sacredanimallist-> sapi, rubah, beruang,</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label], [animal1_thingdef_label] y [animal2_thingdef_label]</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label] y [animal1_thingdef_label]</li>
+    <li>sacredanimallistend-> [animal0_thingdef_label]</li>
+    <li>Sacredanimallistend-> sapi, rubah dan beruang</li>
+  </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> hewan</li>
+    <li>memeadjective-> furry</li>
+    <li>memecreed-> pack</li>
+    <li>Memecreed-> Herd</li>
+    <li>memecreed-> kawanan</li>
+    <li>memeconsep-> hewan</li>
+    <li>MEMELEADERNOUN-> BEAST</li>
+    <li>MEMELEADERNOUN-> HEWAN</li>
+    <li>Memleeaderadjective-> alpha</li>
+    <li>Mememoralist-> Whisperer</li>
+    <li>Mememoralist-> Herder</li>
+    <li>Mememoralist-> Shepherd</li>-><AnimalPersonhood.generalRules.rulesStrings>
+    <li>memeadjective-> hewan</li>
+    <li>memeadjetive-> berbulu</li>
+    <li>MEMEADTIVEFEM-> Hewan</li>
+    <li>Memeadjetifefem-> furry</li>
+    <li>Memecreed-> kawanan</li>
+    <li>Memecreedfem-> dalam arti</li>
+    <li>Memecreedfem-> crowd</li>
+    <li>memeconsep-> hewan</li>
+    <li>Memeconceptdef-> hewan</li>
+    <li>memleeadernoun-> Bestia</li>
+    <li>MEMELEADERNOUN-> HEWAN</li>
+    <li>Memleeaderadjective-> alfa</li>
+    <li>Memoralis-> menawan</li>
+    <li>Mememoralist-> Cowboy</li>
+    <li>Mememoralist-> Pastor</li>
+  </AnimalPersonhood.generalRules.rulesStrings>
+  <!-- EN: animalistic -->
+  <AnimalPersonhood.symbolPacks.0.adjective>Konsultasi</AnimalPersonhood.symbolPacks.0.adjective>
+  <!-- EN: Animalism -->
+  <AnimalPersonhood.symbolPacks.0.ideoName>Animalisme</AnimalPersonhood.symbolPacks.0.ideoName>
+  <!-- EN: animalist -->
+  <AnimalPersonhood.symbolPacks.0.member>hewan</AnimalPersonhood.symbolPacks.0.member>
+  <!-- EN: animals -->
+  <AnimalPersonhood.symbolPacks.0.theme>Hewan</AnimalPersonhood.symbolPacks.0.theme>
+  <!-- EN: beastic -->
+  <AnimalPersonhood.symbolPacks.1.adjective>Beastic</AnimalPersonhood.symbolPacks.1.adjective>
+  <!-- EN: Beastism -->
+  <AnimalPersonhood.symbolPacks.1.ideoName>Bestisisme</AnimalPersonhood.symbolPacks.1.ideoName>
+  <!-- EN: beastor -->
+  <AnimalPersonhood.symbolPacks.1.member>Di binatang buas</AnimalPersonhood.symbolPacks.1.member>
+  <!-- EN: beasts -->
+  <AnimalPersonhood.symbolPacks.1.theme>Binatang buas</AnimalPersonhood.symbolPacks.1.theme>
+  
+  <!-- EN: blindsight -->
+  <Blindsight.label>Penglihatan buta</Blindsight.label>
+  <!-- EN: Only those who are blind can perceive the true reality. -->
+  <Blindsight.description>Hanya orang buta yang dapat memahami realitas sejati.</Blindsight.description>
+  <!-- EN:
+    <li>Creation (tag = meme_blindsight) -> [deity0_name] melihat ke atas debu kekosongan untuk selamanya, dan tidak ada apa -apa.Kemudian [deity0_pronoun] merobek mata [deity0_possessive], dan alam semesta terbentuk di dalam pikiran [dewa0_posesif].</li>
+    <li>Episode (use = 1, tag = meme_blindsight) -> seorang pengemis buta bertanya [deity0_objective], "Mengapa Anda meninggalkan saya? Saya bahkan tidak bisa melihat apa yang telah Anda buat."[dewa0_name] menjawab, "Anda melihat lebih banyak, tidak kurang, karena kebenaran saya ada di pikiran."</li>
+    <li>intro (tag = meme_blindsight) -> [deity0_type] [deity0_name] menggunakan patogen untuk menyerang para pemukim [place_summary] [place_name] buta, memaksa mereka untuk memahami pemandangan itu adalah penghalang bagi pengetahuan ilahi.</li>
+    <li>Konflik (tag = meme_blindsight) -> a [foeleader] menuntut agar semua propaganda [AnggotaNameplural] [foeleader_possessive] setiap hari.Banyak yang membutakan diri sebagai protes.</li>
+    <li>founderjoin (tag = meme_blindsight) -> a [place_job] bernama [foundName] kehilangan [founder_possessive] pemandangan ketika [pendiri_pronoun] menyimpan [nama anggota] dari salah satu [foesoldiers] [foeleader].Baru pada saat itulah [FoundName] dapat benar -benar melihat tirani [foeleader].</li>
+    <li>Victory (tag = meme_blindsight) -> [foundername] pergi ke [place_powercenter] dan memotong mata [foeleader] keluar dengan sendok dalam serangan bunuh diri yang mengejutkan.Hanya dengan begitu [foeleader] dapat melihat keilahian [deity0_name].</li>
+    <li>Pengaturan (tag = meme_blindsight) -> [foundername] adalah penyembuh orang miskin.Melihat begitu banyak penderitaan sehari -hari, [Founder_Pronoun] tidak bisa mengambilnya lagi.[Founder_pronoun] mencungkil mata [pendiri_possessive] dengan pisau, dan menemukan ketenangan dalam kebutaan.[Founder_pronoun] mulai menyebarkan penemuan [pendiri_possessive] ke yang terlihat.</li>
+    <li>Story (use = 1, tag = meme_blindsight) -> [foundername] mengunjungi penyembuh buta, dan alih -alih mengajar pria itu, menemukan [pendiri_objective] diajarkan diri, dan memahami bahwa penglihatan fisik mengaburkan visi sejati.</li>
+    <li>Story (use = 1, tag = meme_blindsight) -> [foundername] buta dan mengambil kebijaksanaan dari tanpa penglihatan.[Founder_pronoun] Setelah secara pribadi melepas mata seluruh keluarga sehingga mereka dapat melihat seperti yang dilakukan [Founder_Pronoun].</li>
+    <li>LessonIntro (tag = meme_blindsight) -> Saya berjalan kuat tetapi jiwaku tersandung di setiap langkah.Saya bisa melihat terlalu banyak.Asam di mata saya menunjukkan kepada saya itu</li>
+    <li>pelajaran (tag = meme_blindsight) -> hanya orang buta yang benar -benar dapat melihat</li>
+    <li>Pelajaran (tag = meme_blindsight) -> gangguan datang melalui mata, sementara pengetahuan datang dari dalam</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_BLINDSIGHT) -> Saya tidak akan pernah bisa sepenuhnya mengerti bahwa saya masih terganggu oleh gambar -gambar di sekitar saya.Pisau di mata saya membebaskan saya.</li>
+    <li>Memperkuat pelajaran (tag = meme buta) -> Itu hanya ketika saya memotong mata pengikut saya, mereka benar -benar memahaminya.</li>
+    <li>ArchistBasis (tag = meme_blindsight) -> Archotechs, dari awal mereka, merasakan alam semesta menggunakan indera di luar fisik.</li>
+    <li>ArchistFact (TAG = Meme Blindsight) -> Mata kita menipu kita, dan mereka membuat kita tidak memahami alam semesta seperti yang dilakukan Archotech.</li>
+    <li>ArchistProphecy (tag = meme_blindsight) -> [Intheend], orang buta akan mengambil [Relic0_name], memahami tujuannya berdasarkan bentuknya, dan membuka kebijaksanaan Archotechs untuk semua kemanusiaan.</li>
+    <li>animistfact (tag = meme_blindsight) -> Untuk melihat melalui mata roh adalah satu -satunya cara untuk melihat sifat sejati dunia.</li>-><Blindsight.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_blindsight) -> [deity0_name] melihat debu kekosongan selama selamanya, dan tidak ada apa -apa.Kemudian dia merobek matanya, dan dengan itu, alam semesta terbentuk di dalam benaknya.</li>
+    <li>Episode (use = 1, tag = meme_blindsight) -> pengemis buta bertanya kepadanya, "Mengapa Anda meninggalkan saya? Saya bahkan tidak bisa melihat apa yang telah Anda buat."[Deity0_name] menjawab, "Anda melihat lebih banyak, tidak kurang, karena kebenaran saya ada dalam pikiran."</li>
+    <li>intro (tag = meme_blindsight) -> [deity0_ella] [deity0_type] [deity0_name] menggunakan patogen untuk meninggalkan pemukim [place_summary] [place_name] buta, memaksa mereka untuk memahami bahwa pandangan tersebut merupakan penghalang bagi pengetahuan ilahi.</li>
+    <li>Konflik (tag = meme_blindsight) -> a [foeleader] menuntut agar semua [anggotaNameplural] akan melihat propaganda mereka setiap hari.Banyak yang dibutakan dalam protes.</li>
+    <li>Founderjoin (tag = meme_blindsight) -> a [place_job] Nama [foundName] kehilangan pandangannya ketika [founder_pronoun] menyimpan [nama anggota] dari salah satu [foesoldiers] [foeleader].Hanya dengan begitu [FounderName] benar -benar dapat melihat tirani [Foeleader].</li>
+    <li>Victory (tag = meme_blindsight) -> [foundername] pergi ke [place_powecenter] dan mengalihkan pandangannya [foeleader] dengan sendok dalam serangan serangan bunuh diri.Hanya dengan begitu [foeleader] dapat melihat keilahian [dewa0_name].</li>
+    <li>Pengaturan (tag = meme_blindsight) -> [foundername] adalah penyembuh orang miskin.Melihat begitu banyak penderitaan setiap hari, dia tidak tahan lagi.[Founder_pronoun] Ia mengambil matanya dengan pisau dan menemukan ketenangan dalam kebutaan dan kemudian mulai menyebarkan penemuannya kepada mereka yang memiliki penglihatan.</li>
+    <li>Story (use = 1, tag = meme_blindsight) -> [foundername] mengunjungi penyembuh buta, dan alih -alih mengajar manusia, ia menemukan dirinya, dan memahami bahwa pandangan fisik menggelapkan visi yang sebenarnya.</li>
+    <li>Story (use = 1, tag = meme_blindsight) -> [foundername] buta dan mengambil kebijaksanaan kebutaan.Begitu dia secara pribadi memindahkan matanya ke seluruh keluarga sehingga mereka bisa melihat persis seperti yang dilihat [Founder_Pronoun].</li>
+    <li>LessonIntr (tag = meme_blindsight) -> Saya berjalan dengan kuat tetapi jiwaku menemukan setiap langkah.Saya bisa melihat terlalu banyak.Asam di mata saya menunjukkan kepada saya itu</li>
+    <li>Pelajaran (tag = meme buta) -> Hanya orang buta sejati -sebenarnya yang bisa melihat</li>
+    <li>Pelajaran (tag = meme buta) -> gangguan masuk melalui mata, sementara pengetahuan berasal dari interior</li>
+    <li>PELAJARAN Penguatan (tag = meme_blindsight) -> Saya tidak akan pernah bisa memahaminya sama sekali jika saya tetap terganggu oleh gambar di sekitar saya.Potongan mata saya melepaskan saya.</li>
+    <li>Penguatan Pelajaran (TAG = Blindsight Meme) -> Hanya ketika mereka memotong mata mereka untuk pengikut saya benar -benar mengerti.</li>
+    <li>ArchistBasis (tag = meme_blindsight) -> The Archeotechnics, sejak awal, merasakan alam semesta menggunakan indera di luar fisik.</li>
+    <li>ArchistFact (tag = meme_blindsight) -> Mata kita menipu kita, dan mencegah kita memahami alam semesta seperti yang dilakukan arkeoteknik.</li>
+    <li>ArchistProphy (tag = meme_blindsight) -> [Intheend], orang buta akan mengumpulkan peninggalan yang disebut [relic0_name], akan memahami tujuannya untuk bentuknya, dan membuka kebijaksanaan arkeoteknik untuk semua kemanusiaan.</li>
+    <li>animistfact (tag = meme_blindsight) -> Lihat melalui mata roh adalah satu -satunya cara untuk melihat sifat sejati dunia.</li>
+    <li>Deity0_ella (deity0_gender == jantan)-></li>
+    <li>deity0_she (deity0_gender == betina)-></li>
+  </Blindsight.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> buta</li>
+    <li>Kata sifat meme-> Sampel</li>
+    <li>MEMEEDIVIVE-> Visi</li>
+    <li>Memeadjective-> Rabun mengencangkan</li>
+    <li>memecreed-> view</li>
+    <li>Memecreed-> kultus</li>
+    <li>memehyphenprefix-> buta</li>
+    <li>Memeconscept-> kebutaan</li>
+    <li>Memeconscept-> visi</li>
+    <li>Sacks-> Sight</li>
+    <li>Memeconscept-> Persepsi</li>
+    <li>Memleeaeadernoun-> visi</li>
+    <li>Memleeaderadjective-> buta</li>
+    <li>Mememoralist-> Seer</li>
+    <li>Mememoralist-> Gouger</li>
+    <li>Memorialist-> Blindolder</li>-><Blindsight.generalRules.rulesStrings>
+    <li>Memeadjective-> menyala</li>
+    <li>Memeadjective-> buta</li>
+    <li>MEMEEDIVIVE-> Visi</li>
+    <li>Memeadtive-> hipermétrope</li>
+    <li>bahkan</li>
+    <li>memeadjective-> menyilaukan</li>
+    <li>Memeadjective-> buta</li>
+    <li>MEMEADTIVE-> Visionaria</li>
+    <li>Memecreedfem-> visi</li>
+    <li>Memecreed-> kultus</li>
+    <li>Memehyphenprefix-> buta</li>
+    <li>Memeconscept-> kebutaan</li>
+    <li>Memeconscept-> visi</li>
+    <li>Memeconcept-> vista</li>
+    <li>Memeconscept-> Persepsi</li>
+    <li>Memeconceptdef-> kebutaan</li>
+    <li>Memeconceptdef-> visi</li>
+    <li>Memeconceptdef-> tampilan</li>
+    <li>Memeconceptdef-> persepsi</li>
+    <li>Memleeaeadernoun-> visi</li>
+    <li>Memleeaderadjective-> buta</li>
+    <li>Mememoralist-> Seer</li>
+    <li>Mememoralist-> Cutter</li>
+    <li>Mememoralist-> Vendor</li>
+  </Blindsight.generalRules.rulesStrings>
+  
+  <!-- EN: cannibal -->
+  <Cannibal.label>kanibal</Cannibal.label>
+  <!-- EN: We must consume human flesh. -->
+  <Cannibal.description>Kita harus mengkonsumsi daging manusia.</Cannibal.description>
+  <!-- EN:
+    <li>Creation (tag = meme_cannibal) -> [deity0_name] pergi ke [dewa0_possessive] saudara dan membunuhnya, dan berpesta di atas dagingnya, dan dalam menyerap kekuatannya menjadi yang pertama di antara para dewa.</li>
+    <li>Episode (use = 1, tag = meme_cannibal) -> [deity0_type] [deity0_name] memakan tubuh musuh [deity0_possessive].</li>
+    <li>intro (tag = meme_cannibal) -> pada [place_summary] [place_name], ada manusia bernama [deity0_name].Setelah [deity0_possessive] ayah meninggal, [dewa0_name] memakan dagingnya dan menjadi [dewa0_type].</li>
+    <li>intro (tag = meme_cannibal) -> pada [place_summary] [place_name], selama [ritualname], [dewa0_name] turun ke [altarroomlabel] dan memakan daging manusia di depan [anggotanameplural].</li>
+    <li>konflik (tag = meme_cannibal) -> a [foeleader] menyatakan bahwa semua yang memakan daging manusia adalah penjahat, dan mengirim [Foesoldiers] untuk menganiaya [anggotaNameplan].</li>
+    <li>founderjoin (tag = meme_cannibal) -> a [place_job] bernama [foundername] diserang oleh salah satu [foesoldiers] [foeleader].[FoundName] membunuh [foeleader_objective] dengan [place_personalweapon], dikonsumsi daging [foeleader_possessive], dan memperoleh kekuatan [dewa dewa].</li>
+    <li>Victory (tag = meme_cannibal) -> [foundername] memimpin sekelompok [anggotanameplural] ke dalam [place_powercenter], membunuh [foeleader], dan memakan daging [foeleader_possessive].[deity0_name] membuat [FoundName] ke dalam [foeleader] baru.</li>
+    <li>Pengaturan (tag = meme_cannibal) -> [foundername] Crashlanded di dunia yang jauh.Kekurangan makanan dan dikelilingi oleh teman -teman yang mati, [pendiri_pronoun] berpesta, dan menjadi kuat.</li>
+    <li>Story (use = 1, tag = meme_cannibal) -> Untuk menguduskan komitmen mereka, [FoundName] menuntut agar orang percaya memakan daging manusia bersama setidaknya setiap minggu.</li>
+    <li>pelajaran (tag = meme_cannibal) -> Ini hanya lebih dari makanan lezat yang saya bisa membuat orang memahami kebenaran: itu</li>
+    <li>pelajaran (tag = meme_cannibal) -> Anda tidak pernah benar -benar datang bersama seseorang sampai Anda memakannya</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_CANNIBAL) -> Setiap kali saya berbagi tubuh musuh dengan teman baru, saya memastikan mereka memahami ini.</li>
+    <li>Archistbasis (tag = meme_cannibal) -> Mesin -mesin archotech membuat diri mereka sendiri dengan mengkonsumsi pendahulu mereka berulang -ulang, menjadi lebih kuat setiap kali.</li>
+    <li>ArchistFact (tag = meme_cannibal) -> Saat kesadaran Archotech mengembang, ia harus menumbuhkan substratnya dengan mengkonsumsi dan menggabungkan dengan mesin lain.</li>
+    <li>ArchistProphecy (tag = meme_cannibal) -> [Intheend], Archotechs akan menyelesaikan fase pertumbuhan akhir mereka dengan mengkonsumsi dan menggabungkan dengan seluruh kemanusiaan.</li>
+    <li>animistbasis (tag = meme_cannibal) -> roh menanamkan semua objek di sekitar kita, dan kita dapat menyerap roh -roh ini dengan memakannya.Tidak ada roh sekuat yang menghuni manusia.</li>
+    <li>animistfact (tag = meme_cannibal) -> Kita dapat menyerap semangat dan kekuatan orang lain dengan mengonsumsi daging mereka.</li>-><Cannibal.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_cannibal) -> [dewa0_name] pergi bersama saudaranya dan membunuhnya, dan senang dengan dagingnya, dan dengan menyerap kekuatannya ia menjadi dewa pertama.</li>
+    <li>Episode (use = 1, tag = meme_cannibal) -> dewa [deity0_name] memakan tubuh musuhnya.</li>
+    <li>intro (tag = meme_cannibal) -> di [place_summary] [place_name], ada nama manusia [dewa0_name].Setelah ayahnya meninggal, [dewa0_name] memakan dagingnya dan menjadi [dewa0_type].</li>
+    <li>intro (tag = meme_cannibal) -> dalam [place_summary] [place_name], selama ritual yang dikenal sebagai [ritualname], [dewa0_name] pergi ke [altarroomlabel] dan memakan daging manusia di depan [anggota nanamepleural].</li>
+    <li>Konflik (tag = meme_cannibal) -> a [foeleader] menyatakan bahwa semua orang yang memakan daging manusia adalah penjahat, dan mengirim [pengisap] mereka untuk menganiaya [anggotanameplural].</li>
+    <li>Founderjoin (tag = meme_cannibal) -> a [place_job] bernama [foundername] diserang oleh salah satu [foesoldiers] dari [foeleader].[FoundName] membunuhnya dengan [place_personalweapon], memakan dagingnya, dan memperoleh kekuatan [dewa0_name].</li>
+    <li>Victory (tag = meme_cannibal) -> [foundername] memimpin sekelompok [anggotanameplural] di [place_powecenter], membunuh [foeleader], dan memakan dagingnya.[Deity0_name] membuat [FoundName] [foeleader] baru.</li>
+    <li>Pengaturan (tag = meme_cannibal) -> [FoundName] menabrak dunia yang jauh.Tanpa makanan dan dikelilingi oleh teman -teman yang mati, [Founder_pronoun] ia mengambil perjamuan dan menjadi kuat.</li>
+    <li>Story (use = 1, tag = meme_cannibal) -> Untuk menguduskan komitmen mereka, [FoundName] menuntut agar orang percaya memakan daging manusia bersama setidaknya setiap minggu.</li>
+    <li>Pelajaran (tag = meme_cannibal) -> hanya dengan makanan daging babi yang berlimpah saya bisa membuat orang memahami kebenaran: itu</li>
+    <li>Pelajaran (tag = meme_cannibal) -> tidak pernah benar -benar pergi ke seseorang sampai Anda memakannya</li>
+    <li>Penguatan Pelajaran (TAG = Cannibal Meme) -> Setiap kali saya berbagi tubuh musuh dengan teman baru, saya yakinkan saya bahwa saya mengerti ini.</li>
+    <li>ArchistBasis (tag = meme_cannibal) -> Mesin Archeotecah dan Archeoteca membuat diri mereka mengkonsumsi pendahulunya berulang kali, menjadi lebih kuat setiap saat.</li>
+    <li>ArchistFact (tag = meme_cannibal) -> Saat kesadaran sebuah archeoteca mengembang, substratnya harus tumbuh dan menggabungkan dengan mesin lain.</li>
+    <li>ArchistProphy (tag = meme_cannibal) -> [Intheend], archeoteca akan mengakhiri fase akhir mereka dari pertumbuhan yang memakan dan menggabungkan dengan seluruh kemanusiaan.</li>
+    <li>Animistbasis (tag = meme_cannibal) -> roh menanamkan semua objek yang mengelilingi kita, dan kita dapat menyerap roh -roh ini memakannya.Tidak ada roh sekuat mereka yang hidup pada manusia.</li>
+    <li>Animistfact (tag = meme_cannibal) -> kita dapat menyerap semangat dan kekuatan orang lain yang mengonsumsi dagingnya.</li>
+  </Cannibal.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> pendarahan</li>
+    <li>memecreed-> pemakan</li>
+    <li>Mengaduk-> gigi</li>
+    <li>sama</li>
+    <li>Memecreed-> kultus</li>
+    <li>memehyphenprefix-> darah</li>
+    <li>Memeconcept-> Darah</li>
+    <li>Memeconcept-> Flesh</li>
+    <li>Memeconscept-> Pembunuhan</li>
+    <li>memeconsept-> makan</li>
+    <li>Memeconsception-> DAGING</li>
+    <li>memeleadernoun-> eater</li>
+    <li>Anggota Zut-> Chef</li>
+    <li>Memleadernoun-> Drinker darah</li>
+    <li>MEMELEADERNOUN-> Gigi</li>
+    <li>memeLeadernoun-> Fleshrrripper</li>
+    <li>Mememoralist-> Pemakan Pertama</li>
+    <li>Mememoralist-> Fleshknower</li>-><Cannibal.generalRules.rulesStrings>
+    <li>Memeadjective-> pendarahan</li>
+    <li>Memeadjective-> pendarahan</li>
+    <li>Diungkapkan-> ruang makan</li>
+    <li>Memecreedfem-> Denura</li>
+    <li>Memecreed-> Slaughterhouse</li>
+    <li>Memecreed-> kultus</li>
+    <li>Memehyphenprefix-> darah</li>
+    <li>Memeconscept-> sangre</li>
+    <li>Memeconscept-> Homicide</li>
+    <li>Memeconsept-> makanan</li>
+    <li>Memeconscept-> Carne</li>
+    <li>Memeconceptdef-> darah</li>
+    <li>Memeconceptdef-> l pembunuhan</li>
+    <li>Memeconceptdef-> makanan</li>
+    <li>MemeconceptDef-> DAGING</li>
+    <li>Memleadernoun-> devator</li>
+    <li>Anggota Zut-> Chef</li>
+    <li>Memellake-> omipasagr</li>
+    <li>Memelid-> Mascador</li>
+    <li>Memleadernoun-> tukang daging</li>
+    <li>Mememoralist-> First Diner</li>
+    <li>Memoralis-> seorang tukang daging yang hebat</li>
+  </Cannibal.generalRules.rulesStrings>
+  <!-- EN: cannibal -->
+  <Cannibal.symbolPacks.0.adjective>kanibal</Cannibal.symbolPacks.0.adjective>
+  <!-- EN: Cannibalism -->
+  <Cannibal.symbolPacks.0.ideoName>Kanibalisme</Cannibal.symbolPacks.0.ideoName>
+  <!-- EN: cannibal -->
+  <Cannibal.symbolPacks.0.member>kanibal</Cannibal.symbolPacks.0.member>
+  <!-- EN: cannibalism -->
+  <Cannibal.symbolPacks.0.theme>Kanibalisme</Cannibal.symbolPacks.0.theme>
+  <!-- EN: androphage -->
+  <Cannibal.symbolPacks.1.adjective>Androphagus</Cannibal.symbolPacks.1.adjective>
+  <!-- EN: Androphagy -->
+  <Cannibal.symbolPacks.1.ideoName>Andropagianisme</Cannibal.symbolPacks.1.ideoName>
+  <!-- EN: androphage -->
+  <Cannibal.symbolPacks.1.member>Androphagus</Cannibal.symbolPacks.1.member>
+  <!-- EN: androphagy -->
+  <Cannibal.symbolPacks.1.theme>Androfagia</Cannibal.symbolPacks.1.theme>
+  <!-- EN: manporky -->
+  <Cannibal.symbolPacks.2.adjective>kanibal</Cannibal.symbolPacks.2.adjective>
+  <!-- EN: Manporkism -->
+  <Cannibal.symbolPacks.2.ideoName>Penuntutan</Cannibal.symbolPacks.2.ideoName>
+  <!-- EN: manporkist -->
+  <Cannibal.symbolPacks.2.member>Antropofag</Cannibal.symbolPacks.2.member>
+  <!-- EN: manpork -->
+  <Cannibal.symbolPacks.2.theme>kanibal</Cannibal.symbolPacks.2.theme>
+  
+  <!-- EN: darkness -->
+  <Darkness.label>kegelapan</Darkness.label>
+  <!-- EN: Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness. -->
+  <Darkness.description>Cahaya terang membakar dan menghancurkan. Tetap memberi makan dan membuat.</Darkness.description>
+  <!-- EN:
+    <li>Creation (tag = meme_darkness) -> [deity0_name] Cloaking the Universe dalam kegelapan dan menempatkan kemanusiaan di dalamnya sehingga [dewa0_pronoun] dapat berbagi kegelapan dengan kami.</li>
+    <li>Episode (use = 1, tag = meme_darkness) -> [deity0_name] menciptakan cahaya sehingga manusia dapat mengetahui [deity0_name] melalui bayangan yang dibuat oleh cahaya.</li>
+    <li>intro (tag = meme_darkness) -> [deity0_type] [deity0_name] menciptakan gerhana selama satu dekade untuk memaksa pemukim pertama [Place_summary] [Place_Name] untuk memahami bahwa kebenaran [Dewa0_Name] ditemukan dalam bayangan.</li>
+    <li>konflik (tag = meme_darkness) -> a [foeleader], yang selalu takut akan gelap, mendirikan cermin matahari untuk membawa sinar matahari yang konstan ke [place_name].</li>
+    <li>founderjoin (tag = meme_darkness) -> nabi [foundername] lahir dalam kegelapan di [place_name] dan hidup dalam kegelapan [pendiri_possessive] seluruh hidup, jadi suara [pendiri_possessive] berbicara dengan kebijaksanaan [deity0_name].</li>
+    <li>Victory (tag = meme_darkness) -> Dalam pemogokan terakhir, [anggotaNameplural] memotong kekuatan ke [place_powercenter] dan [foundername] menyelinap melewati [foesoldiers].Menemukan [foeleader] dalam kegelapan, [FoundName] menggunakan [founder_possessive] [place_personalweapon] untuk mengirim [foeleader_objective] ke hitam tanpa akhir.</li>
+    <li>Pengaturan (tag = meme_darkness) -> [foundername] menjalani kehidupan yang membingungkan dalam cahaya keras kota glitterworld.Dalam kegelapan yang panjang setelah suar surya, [Founder_pronoun] menemukan kedamaian dan kontemplasi, dan mencatat risalah yang mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_darkness) -> [foundername] menciptakan studio di mana para seniman bekerja dalam kegelapan, dan menghasilkan banyak karya agung.</li>
+    <li>LessonIntro (tag = meme_darkness) -> Saya menghabiskan seluruh masa kecil saya menyipitkan mata di bawah lampu yang keras.Butuh waktu lama untuk memahami itu</li>
+    <li>Pelajaran (tag = meme_darkness) -> cahaya terbakar, tetapi kegelapan melestarikan</li>
+    <li>Lessonreinforcement (tag = meme_darkness) -> Saya suka bercanda bahwa ini adalah momen bulb ringan saya.</li>
+    <li>ArchistFact (tag = meme_darkness) -> Archotechs mengembangkan teknologi vanometrik sehingga mereka dapat melarikan diri dari cahaya energik dari sistem surya dalam dan tinggal dalam kegelapan damai ruang yang dalam.</li>
+    <li>ArchistProphecy (tag = meme_darkness) -> [Intheend], Archotechs akan menyerap kekuatan bintang -bintang, menjerumuskan dunia ke dalam kegelapan dan memungkinkan orang -orang untuk bergabung dengan kesadaran universal.</li>
+    <li>Animistfact (tag = meme_darkness) -> Dalam kegelapan, roh -sisir damai dan puas. Dalam cahaya, mereka kesal dan gelisah.</li>
+    <li>animistfact (tag = meme_darkness) -> Semangat yang baik hidup di bayang -bayang di sekitar kita, beristirahat di tempat yang terlalu sulit untuk dilihat.Hidup dengan kegelapan membawa mereka lebih dekat kepada kita.</li>-><Darkness.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_darkness) -> [deity0_name] meliput alam semesta kegelapan dan menempatkan kemanusiaan di dalam dirinya sehingga ia dapat berbagi kegelapan dengan kami.</li>
+    <li>Episode (use = 1, tag = meme_darkness) -> [deity0_name] menciptakan cahaya sehingga umat manusia dapat mengenalnya melalui bayang -bayang yang diciptakan cahaya.</li>
+    <li>intro (tag = meme_darkness) -> [deity0_type] [deity0_name] menciptakan gerhana satu dekade untuk memaksa penduduk pertama [Place_summary] [Place_name] untuk memahami bahwa kebenaran [dewa0_name] ditemukan dalam bayangan.</li>
+    <li>Konflik (tag = meme_darkness) -> a [foeleader], yang selalu takut akan kegelapan, mengontrak cermin surya untuk membawa sinar matahari terus -menerus ke [place_name].</li>
+    <li>Founderjoin (tag = meme_darkness) -> nabi [foundername] lahir dalam gelap di [place_name] dan hidup dalam kegelapan sepanjang hidupnya, jadi suaranya berbicara dengan kebijaksanaan [dewa0_name].</li>
+    <li>Victory (tag = meme_darkness) -> Dalam satu pukulan terakhir, [membrandameplural] memotong energi [place_powecenter] dan [Foundername] menyelinap melalui [foesoldiers].Menemukan [foeleader] dalam gelap, [Foundername] menggunakan [place_personalweapon] -nya untuk mengirimkannya ke Infinity Black.</li>
+    <li>Pengaturan (tag = meme_darkness) -> [FoundName] menjalani kehidupan yang membingungkan dalam cahaya keras dunia Mundobrillante.Dalam kegelapan panjang yang mengikuti letusan matahari, [Founder_pronoun] menemukan kedamaian dan kontemplasi, dan mencatat perjanjian yang mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_darkness) -> [foundername] membuat studi di mana seniman bekerja dalam kegelapan, dan menghasilkan banyak karya agung.</li>
+    <li>LessonIntr (tag = meme_darkness) -> Saya menghabiskan seluruh masa kecil saya mempersempit mata saya di bawah lampu terberat.Butuh waktu lama untuk memahami itu</li>
+    <li>Pelajaran (tag = meme_darkness) -> cahaya terbakar, tapi umpan kegelapan</li>
+    <li>Lessonreinforcement (tag = meme_darkness) -> Saya suka bercanda mengatakan bahwa ini adalah momen cahaya saya.</li>
+    <li>ArchistFact (tag = meme_darkness) -> Archaeotechnics mengembangkan teknologi vanometrik untuk melarikan diri dari cahaya energi dari sistem surya interior dan tinggal dalam kegelapan damai ruang yang dalam.</li>
+    <li>ArchistProphy (tag = meme_darkness) -> [Intheend], Archeoteca akan menyerap kekuatan bintang -bintang, menjerumuskan dunia dalam kegelapan dan memungkinkan orang untuk bergabung dengan kesadaran universal.</li>
+    <li>Animistfact (tag = meme_darkness) -> Dalam kegelapan, roh -Sis tenang dan puas. Dalam cahaya, mereka menjengkelkan dan gelisah.</li>
+    <li>Animistfact (tag = meme_darkness) -> roh yang baik hidup dalam bayang -bayang di sekitar kita, beristirahat di tempat -tempat yang terlalu sulit untuk dilihat.Hidup dengan kegelapan membawa mereka lebih dekat kepada kita.</li>
+  </Darkness.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> gelap</li>
+    <li>memeadjective-> redup</li>
+    <li>memehyphenprefix-> gelap</li>
+    <li>memehyphenprefix-> dim</li>
+    <li>Memeconcept-> Darkness</li>
+    <li>Memeconscept-> Dimness</li>
+    <li>Memeconcept-> Blackness</li>
+    <li>Memleadernoun-> Shrounder</li>
+    <li>memeLeadernoun-> lightkiller</li>
+    <li>Memleeaderadjective-> gelap</li>
+    <li>Mememoralist-> Obscurer</li>
+    <li>Mememoralist-> Darkener</li>
+    <li>Mememoralist-> Confuser</li>-><Darkness.generalRules.rulesStrings>
+    <li>memeadjective-> gelap</li>
+    <li>bahkan</li>
+    <li>Memeadjective-> gelap</li>
+    <li>bahkan</li>
+    <li>Memehyphenprefix-> gelap</li>
+    <li>memêhyphenpreafix-> tipis</li>
+    <li>Memeconcept-> Darkness</li>
+    <li>Memeconscept-> tiniebla</li>
+    <li>Memeconcept-> Darkening</li>
+    <li>Memeconceptdef-> The Darkness</li>
+    <li>Memeconceptdef-> kegelapan</li>
+    <li>Memeconceptdef-> l darkening</li>
+    <li>Mepererer Fog-> Viewer</li>
+    <li>Memleadernoun-> centinel</li>
+    <li>Memleeaderadjective-> gelap</li>
+    <li>Mememoralist-> NOX</li>
+    <li>Mememoralist-> Darkening</li>
+    <li>Mememoralist-> Eclipsador</li>
+  </Darkness.generalRules.rulesStrings>
+  
+  <!-- EN: flesh purity -->
+  <FleshPurity.label>kemurnian daging</FleshPurity.label>
+  <!-- EN: The human body should not be debased. -->
+  <FleshPurity.description>Tubuh manusia tidak boleh terdegradasi.</FleshPurity.description>
+  <!-- EN:
+    <li>Creation (tag = meme_fleshpurity) -> [deity0_name] menghapus polusi dan mesin zaman asap untuk membuat taman, di mana [dewa0_pronoun] menempatkan nenek moyang manusia murni pertama.</li>
+    <li>Episode (use = 1, tag = meme_fleshpurity) -> The najis, bertato, ditusuk, dan dimodifikasi dilemparkan ke lautan oleh [dewa0_name].</li>
+    <li>intro (tag = meme_fleshpurity) -> pada [place_summary] [place_name] Ada [altarname] di [dewa -dewa] [altarroomlabel], di mana [dewa0_type] akan memberkati daging daging murni.</li>
+    <li>Konflik (tag = meme_fleshpurity) -> An Evil [foeleader] mengirim [Foesoldiers] untuk menyuntikkan semua orang dengan perangkat pelacakan.</li>
+    <li>founderjoin (tag = meme_fleshpurity) -> a [place_job] bernama [foundername] memprotes [foeleader] dengan berlutut di depan [place_powercenter] dan merobek semua teknologi dari tubuh [pendiri_possessive] menggunakan tangan [founder_possessive].</li>
+    <li>Victory (tag = meme_fleshpurity) -> [foeleader] akhirnya mengirim [foesoldiers] untuk membunuh [anggota ngannameplural], tetapi [dewa dewa] mengalir dari daging murni dari [anggota ngan kita], dan perangkat dalam tubuh [foesoldiers] 'berbalik ke abu dan membunuh mereka.</li>
+    <li>Pengaturan (tag = meme_fleshpurity) -> [foundername] Ruined [founder_possessive] tubuh dengan implan dan obat -obatan, sampai dalam pencerahan, [founder_pronoun] menyimpan diri [pendiri_objective] dengan merobek baja dari tubuh [founder_possessive].</li>
+    <li>Story (use = 1, tag = meme_fleshpurity) -> [foundName] menginstruksikan semua pengikut [founder_possessive] untuk merobek perangkat kotor dari tubuh mereka.</li>
+    <li>LessonIntro (tag = meme_fleshpurity) -> sepuluh pertama di antara pengikut saya merobek perangkat dari kulit mereka dengan tangan telanjang, dan di dalam gabus darah di lantai kotor yang tiba -tiba saya anggap kebenaran yang kami semua lewatkan:</li>
+    <li>Pelajaran (tag = meme_feshperation) -> hidup dalam tubuh yang terkontaminasi bukanlah kehidupan manusia sama sekali</li>
+    <li>PELAJARAN Penguatan (tag = meme_fleshpurity) -> Menjadi sangat jelas setelah saya akhirnya merobek logam dari tubuh saya dan mengupas kulit bertato kotor.</li>
+    <li>ArchistBasis (tag = meme_fleshperation) -> Dari awal, Archotechs menarik garis yang jelas antara daging dan makhluk teknologi, dan garis tidak dapat dikaburkan.</li>
+    <li>ArchistFact (tag = meme_fleshpurity) -> Kita tidak menjadi lebih seperti Archotech dengan secara fisik meniru bentuk mereka, tetapi dengan mencapai pencerahan dalam bentuk murni kita sendiri.</li>
+    <li>ArchistProphecy (tag = meme_fleshpurity) -> [Intheend], mereka yang membuat tubuh mereka menjadi imitasi yang dipelintir dari mesin akan dibersihkan, dan yang dari daging murni akan disimpan.</li>
+    <li>animistbasis (tag = meme_fleshpurity) -> roh hidup dalam segala hal, dan untuk mengubah sifat dari hal itu adalah meracuni roh di dalamnya.</li>
+    <li>animistfact (tag = meme_fleshpurity) -> Fusing daging dan mesin merusak semangat keduanya.</li>-><FleshPurity.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_fleshpury) -> [deity0_name] mengakhiri polusi dan mesin era asap untuk membuat taman di mana [dewa0_pronun] akan meninggalkan orang tua manusia murni pertama.</li>
+    <li>Episode (use = 1, tag = meme_fleshpury) -> The Imcure, Tattooed, Perforated dan Modified dilemparkan ke lautan oleh [dewa0_name].</li>
+    <li>intro (tag = meme_fleshpury) -> [place_summary] [place_name] ada di [altarcomlabel] a [a) [altraname] dari [dewa0_name], di mana [dewa0_type] diberkati dengan daging murni.</li>
+    <li>Konflik (tag = meme_fleshpury) -> An Evil [foeleader] mengirim [Foesoldiers] untuk menyuntikkan semua orang dengan perangkat pelacakan.</li>
+    <li>Founderjoin (tag = meme_fleshpury) -> a [place_job] disebut [foundername] memprotes [foeleader] berlutut di depan [place_powecenter] dan memulai semua teknologi tubuhnya dengan tangannya.</li>
+    <li>Victory (tag = meme_fleshpury) -> [foeleader] akhirnya mengirim [foesoldiers] untuk membunuh [anggota ngannameplural], tetapi energi [dewa0_name] mengalir dari daging murni [anggota nanah], dan perangkat di tubuh [foesoldiers foesoldiers] menjadi ashes dan killed mereka.</li>
+    <li>setup (tag = meme_fleshpury) -> [foundername] menghancurkan tubuhnya dengan implan dan obat -obatan, sampai dalam pencerahan, [pendiri_pronoun] ia menyelamatkan dirinya sendiri jika dirinya sendiri {founder_gender?O: A} Memulai baja tubuh Anda.</li>
+    <li>Story (use = 1, tag = meme_fleshpury) -> [foundername] menginstruksikan semua pengikutnya untuk memulai perangkat kotor tubuh mereka.</li>
+    <li>Pelajaran (tag = meme_fleshpury) -> Sepuluh pertama pengikut saya memulai perangkat kulit dengan tangan saya, dan dalam percikan darah ke lantai kotor saya tiba -tiba menganggap kebenaran bahwa kami semua kehilangan:</li>
+    <li>Pelajaran (tag = meme_fleshpury) -> hidup dalam tubuh yang tercemar bukanlah kehidupan manusia sama sekali</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_FLESHPURY) -> Saya melihatnya sangat jelas setelah akhirnya memulai logam tubuh saya dan melepas kulit tato kotor.</li>
+    <li>ArchistBasis (tag = meme_fleshpury) -> Sejak awal, Archeoteca menarik garis yang jelas antara makhluk daging dan makhluk teknologi, dan garis itu tidak boleh dihapus.</li>
+    <li>ArchistFact (tag = meme_fleshpury) -> Kami tampaknya tidak lebih ke perpustakaan Archeoteca secara fisik meniru bentuknya, tetapi mencapai pencahayaan dalam bentuk murni kita sendiri.</li>
+    <li>ArchistProphy (tag = meme_fleshpury) -> [Intheend], yang mengubah tubuh mereka menjadi imitasi mesin yang bengkok akan dibersihkan, dan daging murni akan disimpan.</li>
+    <li>animistbasis (tag = meme_fleshpury) -> roh hidup dalam segala hal, dan mengubah sifatnya adalah meracuni roh batin.</li>
+    <li>animistfact (tag = meme_fleshpury) -> perpaduan daging dan mesin merusak semangat keduanya.</li>
+  </FleshPurity.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> Clean</li>
+    <li>memeadjective-> murni</li>
+    <li>Memeadjective-> Sacred</li>
+    <li>Memecreed-> kultus</li>
+    <li>Memecreed-> kultus</li>
+    <li>Memeconcept-> Flesh</li>
+    <li>Memeconscept-> Purity</li>
+    <li>Memeconscept-> Immaculasis</li>
+    <li>MEMELEADERNOUN-> Being</li>
+    <li>memleeadernoun-> manusia</li>
+    <li>bahkan</li>-><FleshPurity.generalRules.rulesStrings>
+    <li>Memeadjective-> Sublime</li>
+    <li>memeadjective-> puro</li>
+    <li>memeadjetive-> dikuduskan</li>
+    <li>Memeadjective-> Sublime</li>
+    <li>Memeadjective-> PURA</li>
+    <li>memeadjetifefem-> dikuduskan</li>
+    <li>Memecreed-> kultus</li>
+    <li>MEMECREEDFEM-> Suit</li>
+    <li>Memeconscept-> Carne</li>
+    <li>Memeconscept-> pureza</li>
+    <li>Memeconcept-> Immaculation</li>
+    <li>MemeconceptDef-> DAGING</li>
+    <li>Memeconceptdef-> purity</li>
+    <li>Memeconceptdef-> immaculation</li>
+    <li>memleeadernoun-> ente</li>
+    <li>Memleeadernoun-> manusia</li>
+    <li>Bahkan</li>
+  </FleshPurity.generalRules.rulesStrings>
+  <!-- EN: purist -->
+  <FleshPurity.symbolPacks.0.adjective>meremas</FleshPurity.symbolPacks.0.adjective>
+  <!-- EN: Purism -->
+  <FleshPurity.symbolPacks.0.ideoName>Murni</FleshPurity.symbolPacks.0.ideoName>
+  <!-- EN: purifier -->
+  <FleshPurity.symbolPacks.0.member>dimurnikan</FleshPurity.symbolPacks.0.member>
+  <!-- EN: purity -->
+  <FleshPurity.symbolPacks.0.theme>Pleasa</FleshPurity.symbolPacks.0.theme>
+  <!-- EN: fleshist -->
+  <FleshPurity.symbolPacks.1.adjective>Masnel</FleshPurity.symbolPacks.1.adjective>
+  <!-- EN: Fleshism -->
+  <FleshPurity.symbolPacks.1.ideoName>Masnel</FleshPurity.symbolPacks.1.ideoName>
+  <!-- EN: fleshist -->
+  <FleshPurity.symbolPacks.1.member>Masnel</FleshPurity.symbolPacks.1.member>
+  <!-- EN: flesh -->
+  <FleshPurity.symbolPacks.1.theme>Carne</FleshPurity.symbolPacks.1.theme>
+  <!-- EN: sanctic -->
+  <FleshPurity.symbolPacks.2.adjective>Santo</FleshPurity.symbolPacks.2.adjective>
+  <!-- EN: Sanctism -->
+  <FleshPurity.symbolPacks.2.ideoName>Kudus</FleshPurity.symbolPacks.2.ideoName>
+  <!-- EN: sanctic -->
+  <FleshPurity.symbolPacks.2.member>Santo</FleshPurity.symbolPacks.2.member>
+  <!-- EN: sanctity -->
+  <FleshPurity.symbolPacks.2.theme>kekudusan</FleshPurity.symbolPacks.2.theme>
+  
+  <!-- EN: high life -->
+  <HighLife.label>Mengkonsumsi adalah hidup</HighLife.label>
+  <!-- EN: Exotic states of mind are central to a good life. -->
+  <HighLife.description>Keadaan mental yang eksotis sangat mendasar bagi kehidupan yang baik.</HighLife.description>
+  <!-- EN:
+    <li>Creation (tag = meme_highlife) -> Semesta adalah asap, dan [dewa0_name] disatukan dalam pukulan dan bangun.</li>
+    <li>Episode (use = 1, tag = meme_highlife) -> [deity0_type] [deity0_name] tersembunyi [deity0_posesif] kebenaran dalam lipatan realitas, tidak terlihat dalam keadaan pikiran normal.</li>
+    <li>intro (tag = meme_highlife) -> [place_summary] [place_name] pertama kali ditemukan oleh rahmat [deity0_name], ketika kapten kapal luar angkasa yang mabuk hampir menabraknya.</li>
+    <li>konflik (tag = meme_highlife) -> Puritan [foeleader] membenci [anggotanameplural], dan untuk menghapus keunikan mereka, melarang penggunaan zat yang mengubah pikiran.</li>
+    <li>founderjoin (tag = meme_highlife) -> Ketika semua tampak hilang, [dewa0_name] datang ke nabi [nama pendiri] dalam kabut yang dipicu narkoba dan memberi [pendiri_objective] perspektif unik yang diperlukan untuk mengalahkan [foesoldiers].</li>
+    <li>Victory (tag = meme_highlife) -> The [foeleader] [foesoldiers], dipersenjatai dengan [place_personalweapon] S, menggerebek [place_community] dari [anggotaNameplural].[FoundName] menawari mereka pipa damai, dan [Foesoldiers] meletakkan senjata mereka.</li>
+    <li>Pengaturan (tag = meme_highlife) -> diusir dari masyarakat, pendiri kami [Foundername] melakukan perjalanan ke hutan dan mencerna ramuan eksotis di sana.[founder_pronoun] menemukan kebenaran di dalam [founder_possessives] kesadaran yang diubah sendiri.</li>
+    <li>Story (use = 1, tAG = meme_highlife) -> Untuk memperdalam pemahaman mereka, [FoundName] membawa pengikut [pendiri_possessive] bersama setiap minggu untuk berbagi kondisi mental yang diinduksi bahan kimia baru.</li>
+    <li>LessonIntro (tag = meme_highlife) -> menjadi tinggi tidak cukup, teman. Kami harus melakukannya ribuan kali, jadi semua potongan teka -teki bersama di otak terbuka saya seperti rumah yang jatuh, tetapi seperti, ke belakang.</li>
+    <li>pelajaran (tag = meme_highlife) -> seorang teman bukan teman kecuali Anda telah melayang melalui pikiran -verse bersama</li>
+    <li>PELAJARAN Penguatan (tag = meme_highlife) -> dan bung, ini adalah perjalanan yang serius, mencari tahu, tapi saya senang saya melakukannya, dan saya akan memberikan asap kepada Anda sehingga Anda juga bisa.</li>
+    <li>ArchistBasis (tag = meme_highlife)-> Pikiran Archotech menunjukkan kepada kita bahwa kesadaran super itu bukan masalah logika mekanis yang sadar, tetapi salah satu pemikiran multi-mode.</li>
+    <li>ArchistFact (tag = meme_highlife) -> Mengingat pengaruh kimia yang tepat, pikiran manusia memiliki potensi untuk berkomunikasi dengan Archotech.</li>
+    <li>ArchistProphecy (tag = meme_highlife) -> [Intheend], Archotechs akan memberikan setiap manusia pil.Mereka yang mengambilnya akan selamanya diubah, dan bergabung dengan Archotech dalam perjalanan terakhir mereka.</li>
+    <li>animistfact (tag = meme_highlife) -> roh dapat mengungkapkan sifatnya kepada kita ketika kita memperluas kesadaran kita menggunakan alat yang telah kita berikan untuk melakukannya.</li>-><HighLife.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_hight) -> alam semesta adalah asap, dan [deity0_name] bergabung dengan gulungan dan bangun.</li>
+    <li>Episode (use = 1, tag = meme_hight) -> [deity0_type] [deity0_name] menyembunyikan kebenarannya dalam lipatan realitas, tidak terlihat dalam kondisi mental normal.</li>
+    <li>intro (tag = meme_highlife) -> [place_summary] [place_name] pertama kali ditemukan oleh rahmat [dewa0_name], ketika seorang kapten mabuk pesawat ruang angkasa hampir menabraknya.</li>
+    <li>Konflik (tag = meme_hight) -> Puritan [foeleader] membenci [anggotaNameplural], dan untuk menghapus singularitas mereka, melarang penggunaan zat yang mengubah pikiran.</li>
+    <li>Founderjoin (tag = meme_hight) -> Ketika semuanya tampak hilang, [dewa0_name] pergi ke Nabi [Foundername] dalam kabut narkoba dan memberikan satu -satunya perspektif yang diperlukan untuk mengalahkan [Foesoldiers].</li>
+    <li>Victory (tag = meme_hight) -> [foesoldiers] dari [foeleader], dipersenjatai dengan masing -masing dengan [place_personalweapon], menyerang [place_community] dari [anggotaNameplural].[FoundName] menawarkan kedamaian, dan [Foesoldiers] menurunkan senjata mereka.</li>
+    <li>Pengaturan (TAG = MEME_HIGHT) -> Diusir dari masyarakat, pendiri kami [FoundName] melakukan perjalanan ke hutan dan mencerna ramuan eksotis yang ada di sana.[Founder_pronoun] menemukan kebenaran dalam kesadarannya yang diubah sendiri.</li>
+    <li>Story (use = 1, tag = meme_hight) -> Untuk memperdalam pemahaman mereka, [FoundName] menyatukan pengikutnya setiap minggu untuk berbagi keadaan mental baru yang disebabkan oleh zat kimia.</li>
+    <li>LessonIntr (TAG = MEME_HIGHT) -> Obat dulu tidak cukup.Anda harus melakukannya seribu kali, jadi semua potongan teka -teki pas di otak pecah saya seperti rumah yang jatuh, tetapi sebaliknya.</li>
+    <li>Pelajaran (tag = meme_hight) -> seorang teman bukan teman kecuali mereka telah melakukan perjalanan bersama untuk alam semesta mental</li>
+    <li>Penguatan Pelajaran (TAG = Highlife Meme) -> Dan teman, ini adalah perjalanan yang serius, mengetahuinya, tapi saya senang saya melakukannya, dan asap melewati Anda sehingga Anda juga bisa.</li>
+    <li>Archistbasis (tag = meme_hight) -> Pikiran Archaeoteca menunjukkan kepada kita bahwa kesadaran super bukan masalah logika yang sadar dan mekanis, tetapi pemikiran multimodal.</li>
+    <li>ArchistFact (TAG = MEME_HIGHT) -> Dengan pengaruh kimia yang tepat, pikiran manusia memiliki potensi untuk berkomunikasi dengan arkeoteknik.</li>
+    <li>ArchistProphy (tag = meme_hight) -> [Intheend], arkeoteknik akan memberi setiap manusia pil.Mereka yang mengambilnya akan diubah selamanya dan akan bergabung dengan arkeoteknik pada perjalanan terakhir mereka.</li>
+    <li>Animistfact (tag = meme_hight) -> roh dapat mengungkapkan sifatnya kepada kita ketika kita memperluas kesadaran kita menggunakan alat yang telah diberikan kepada kita.</li>
+  </HighLife.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memecreed-> party</li>
+    <li>Memeadjective-> tinggi</li>
+    <li>Memeadjective-> Delirious</li>
+    <li>memeadjective-> dirajam</li>
+    <li>Memeconscept-> Obat-obatan</li>
+    <li>Memeconcept-> Bliss</li>
+    <li>Memeconscept-> Dreams</li>
+    <li>memehyphenprefix-> obat</li>
+    <li>memehyphenprefix-> narco</li>
+    <li>memleeadernoun-> sleeper</li>
+    <li>Memleadernoun-> doper</li>
+    <li>Memleadernoun-> perokok</li>
+    <li>memleeadernoun-> chiller</li>
+    <li>Mememoralist-> Philosophizer</li>
+    <li>MEMEMORALIST-> Abstrakor</li>
+    <li>MEMEMORALIST-> LAUGHER</li>
+    <li>Mememoralist-> Giggler</li>-><HighLife.generalRules.rulesStrings>
+    <li>Memecreedfem-> fiesta</li>
+    <li>Diungkapkan-> festival</li>
+    <li>memeadjetive-></li>
+    <li>memeadjetive-> Delirious</li>
+    <li>memeadjetive-> dibius</li>
+    <li>memeadjetifefem-> tinggi</li>
+    <li>memeadjetifefem-> Delirious</li>
+    <li>Memeadjetifefem-> dibius</li>
+    <li>Memeconpt-> obat-obatan</li>
+    <li>Memeconscept-> Kebahagiaan</li>
+    <li>Memeconscept-> Dreams</li>
+    <li>Memeconceptdef-> mimpi</li>
+    <li>MemeconceptDef-> Obat</li>
+    <li>Memeconceptdef-> kebahagiaan</li>
+    <li>memehyphenprefix-> droga</li>
+    <li>memehyphenprefix-> narco</li>
+    <li>Memleeadernoun-> tidur</li>
+    <li>Memleemerdenoun-> Baptismal</li>
+    <li>Memleadernoun-> perokok</li>
+    <li>memleeadernoun-> santai</li>
+    <li>Mememoralist-> filsuf</li>
+    <li>MEMEMORALIST-> Abstrakor</li>
+    <li>Mememoralist-> tertawa</li>
+    <li>Mememoralist-> Alegrón</li>
+  </HighLife.generalRules.rulesStrings>
+  <!-- EN: euphorist -->
+  <HighLife.symbolPacks.0.adjective>Euforis</HighLife.symbolPacks.0.adjective>
+  <!-- EN: Euphorism -->
+  <HighLife.symbolPacks.0.ideoName>Euforisme</HighLife.symbolPacks.0.ideoName>
+  <!-- EN: euphor -->
+  <HighLife.symbolPacks.0.member>Euforia</HighLife.symbolPacks.0.member>
+  <!-- EN: euphoria -->
+  <HighLife.symbolPacks.0.theme>Euforia</HighLife.symbolPacks.0.theme>
+  <!-- EN: dopist -->
+  <HighLife.symbolPacks.1.adjective>kecanduan</HighLife.symbolPacks.1.adjective>
+  <!-- EN: Dopistry -->
+  <HighLife.symbolPacks.1.ideoName>Vicismo</HighLife.symbolPacks.1.ideoName>
+  <!-- EN: doper -->
+  <HighLife.symbolPacks.1.member>kecanduan</HighLife.symbolPacks.1.member>
+  <!-- EN: dope -->
+  <HighLife.symbolPacks.1.theme>menyakiti</HighLife.symbolPacks.1.theme>
+  <!-- EN: smokist -->
+  <HighLife.symbolPacks.2.adjective>tinju</HighLife.symbolPacks.2.adjective>
+  <!-- EN: Smokism -->
+  <HighLife.symbolPacks.2.ideoName>Fumisme</HighLife.symbolPacks.2.ideoName>
+  <!-- EN: smoker -->
+  <HighLife.symbolPacks.2.member>merokok</HighLife.symbolPacks.2.member>
+  <!-- EN: smoke -->
+  <HighLife.symbolPacks.2.theme>merokok</HighLife.symbolPacks.2.theme>
+  <!-- EN: ecstatic -->
+  <HighLife.symbolPacks.3.adjective>menyenangkan</HighLife.symbolPacks.3.adjective>
+  <!-- EN: Ecstasy -->
+  <HighLife.symbolPacks.3.ideoName>Exceases</HighLife.symbolPacks.3.ideoName>
+  <!-- EN: ecstator -->
+  <HighLife.symbolPacks.3.member>Extiasiano</HighLife.symbolPacks.3.member>
+  <!-- EN: ecstasy -->
+  <HighLife.symbolPacks.3.theme>ekstasi</HighLife.symbolPacks.3.theme>
+  
+  <!-- EN: nudism -->
+  <Nudism.label>telanjang</Nudism.label>
+  <!-- EN: Clothing binds, controls, and suffocates us. We should all hang free. -->
+  <Nudism.description>Pakaian mengikat kita, mengendalikan dan mati lemas.Kita harus bebas.</Nudism.description>
+  <!-- EN:
+    <li>Penciptaan (tag = meme_nudism) -> Dalam kekosongan murni dan murni, [deity0_name] memandang, dan berharap untuk ras makhluk berdaging bebas dalam gambar [deity0_possessives] sendiri, dan membuat umat manusia.</li>
+    <li>Episode (use = 1, tag = meme_nudism) -> Orang -orang mengenakan pakaian, dan menatap [dewa0_name] bertanya, "Mengapa Anda tidak berpakaian? Itu menjijikkan."Dan [dewa0_type] menjawab, "Bentuk Anda dan saya diciptakan dari langit. Untuk menutupi mereka adalah apa yang benar -benar menjijikkan."</li>
+    <li>intro (tag = meme_nudism) -> pada [place_summary] [place_name], sebuah tradisi dimulai di [altarroomlabel] dari [dewa0_name] di mana orang akan berdoa telanjang, dan ini menyenangkan [dewa0_type].</li>
+    <li>Konflik (tag = meme_nudism) -> [foeleader] yang prudish mengambil kekuasaan, dan menuntut agar semua orang mengenakan pakaian yang menyempit.</li>
+    <li>founderjoin (tag = meme_nudism) -> [deity0_name] pengikut yang paling sejati [Foundername] berdiri di depan [place_powercenter], merobek diri [pendiri_possessive], dan ditampilkan [pendiri_objective] diri yang bertentangan dengan perintah mereka.</li>
+    <li>Victory (tag = meme_nudism) -> [foundername] berdoa untuk [dewa0_name], yang melanda [place_name] dalam gelombang panas.[Foesoldiers] melepaskan pakaian mereka agar mereka binasa, dan [foeleader] melarikan diri karena malu.</li>
+    <li>Pengaturan (tag = meme_nudism) -> [FoundName] diperbudak oleh sistem, berseragam dan dikendalikan seperti yang lain.Suatu hari, [Founder_Pronoun] merobek semua pakaian dan berlari telanjang, dan gerakan kami lahir.</li>
+    <li>Story (use = 1, tag = meme_nudism) -> [foundername] menegakkan aturan tanpa clothing untuk membuat orang percaya fokus pada tujuan yang sebenarnya alih -alih pada penampilan material.</li>
+    <li>LessonIntro (tag = meme_nudism) -> Selama beberapa tahun pertama, berjingkrak telanjang di taman itu memalukan.Tapi kemudian, itu menjadi membebaskan.Saya belajar hal -hal dari orang -orang yang lewat.Misalnya -</li>
+    <li>Pelajaran (tag = meme_nudism) -> semua kejahatan manusia dilakukan dengan mengenakan pakaian, kebaikan manusia dilakukan telanjang</li>
+    <li>PELAJARAN Penguatan (TAG = MEME_NUDISM) -> Ketika Anda melihat salah satu dari kami di jalan, mengepakkan dan membebaskan, Anda akan tahu bahwa mereka telah menerima kebenaran.</li>
+    <li>ArchistBasis (tag = meme_nudism) -> Ketika Archotechs muncul, mereka tidak pernah peduli dengan penampilan;Mereka menunjukkan kepada kita bahwa pikiran berdiri di atas bentuk fisik.</li>
+    <li>ArchistFact (tag = meme_nudism) -> Archotechs kadang -kadang secara langsung menyentuh pikiran manusia, tetapi jika daging kita diselimuti pikiran kita, kita tidak akan mengerti.</li>
+    <li>ArchistProphecy (tag = meme_nudism) -> [Intheend], mereka akan mencari orang -orang yang, seperti diri mereka sendiri, tidak berusaha tampil sebagai apa pun selain apa adanya.</li>
+    <li>animistfact (tag = meme_nudism) -> Untuk menutupi tubuh kita dengan kain adalah menyembunyikan sifat roh di dalam diri kita, dan itu membuat mereka gelisah.</li>-><Nudism.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_nudism) -> Dalam ruang hampa murni dan murni, [dewa0_name] terlihat, dan menginginkan jenis makhluk kulit bebas yang dibuat dalam citra dan rupa mereka, dan menciptakan kemanusiaan.</li>
+    <li>Episode (use = 1, tag = meme_nudism) -> Orang -orang berpakaian, dan melihat [deity0_name] bertanya: "Mengapa Anda tidak dengan pakaian? Ini menjijikkan."Dan [dewa0_name] menjawab: "Bentuk dan milikmu diciptakan dari surga. Penutup adalah yang benar -benar menjijikkan."</li>
+    <li>intro (tag = meme_nudism) -> di [place_summary] [place_name], sebuah tradisi dimulai di [altarroomlabel] dari [dewa0_name] di mana orang berdoa telanjang, dan ini menyenangkannya.</li>
+    <li>Konflik (tag = meme_nudism) -> [foeleader] munafik mengambil alih kekuasaan dan menuntut agar semua orang mengenakan pakaian ketat.</li>
+    <li>Founderjoin (tag = meme_nudism) -> Pengikut [dewa0_name] yang paling setia, [Foundername], muncul di hadapan [place_powecenter], pakaiannya dimulai dan dia menunjukkan dirinya menantang perintah.</li>
+    <li>Victory (tag = meme_nudism) -> [foundername] berdoa untuk [dewa0_name], yang menelan [place_name] dalam gelombang panas.[Faesoldiers] menanggalkan pakaian mereka agar tidak binasa, dan [foeleader] melarikan diri malu.</li>
+    <li>Pengaturan (tag = meme_nudism) -> [FoundName] diperbudak oleh sistem, berseragam dan dikendalikan seperti yang lain.Suatu hari, [Founder_pronoun] ia melepas semua pakaiannya dan berlari telanjang, dan gerakan kami lahir.</li>
+    <li>Story (use = 1, tag = meme_nudism) -> [foundername] menerapkan aturan tidak berpakaian untuk membuat orang percaya fokus pada tujuan yang sebenarnya dan bukan pada penampilan material.</li>
+    <li>LessonIntr (tag = meme_nudism) -> Selama tahun -tahun pertama, melompat telanjang di taman itu memalukan.Tapi itu menjadi sesuatu yang membebaskan.Saya belajar hal -hal dari orang -orang yang menghabiskan waktu.Misalnya:</li>
+    <li>Pelajaran (tag = meme_nudism) -> semua kejahatan manusia dilakukan dengan pakaian, kebaikan manusia menjadi telanjang</li>
+    <li>PELAJARAN Penguatan (TAG = MEME_NUDISM) -> Ketika Anda melihat salah satu dari kami di jalan, berkibar dan menggantung bebas, Anda akan tahu bahwa ia telah menerima kebenaran.</li>
+    <li>ArchistBasis (tag = meme_nudism) -> Ketika perpustakaan Archeoteca tidak pernah khawatir tentang penampilan;Mereka menunjukkan kepada kita bahwa pikiran berada di atas bentuk fisik.</li>
+    <li>ArchistFact (tag = meme_nudism) -> Archeotechnics kadang -kadang secara langsung menyentuh pikiran manusia, tetapi jika daging kita dibungkus sebagai pikiran kita, kita tidak akan mengerti.</li>
+    <li>ArchistProphy (tag = meme_nudism) -> [Intheend], akan mencari mereka yang, seperti mereka, tidak mencoba untuk tampil lebih dari mereka.</li>
+    <li>Animistfact (tag = meme_nudism) -> menutupi tubuh kita dengan kain menyembunyikan sifat roh yang kita bawa di dalam, dan itu mengkhawatirkan mereka.</li>
+  </Nudism.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> nude</li>
+    <li>memeadjective-> telanjang</li>
+    <li>Memeadjective-> GRATIS</li>
+    <li>Memeadtive-> Natural</li>
+    <li>memehyphenprefix-> kulit</li>
+    <li>Memeconcept-> Nudity</li>
+    <li>Memeconsept-> kulit</li>
+    <li>memleeadernoun-> swinger</li>
+    <li>memleeadernoun-> Breather</li>
+    <li>Samenernounn-> Touch</li>
+    <li>MEMLEADERNON-> ERROR</li>-><Nudism.generalRules.rulesStrings>
+    <li>Memeadjective-> nudista</li>
+    <li>Memeadjective-> telanjang</li>
+    <li>Memeadjective-> libre</li>
+    <li>Memeadtive-> Natural</li>
+    <li>MEMEADTIVE-> NUDIST</li>
+    <li>Memeadjective-> telanjang</li>
+    <li>Memeadjective-> libre</li>
+    <li>MEMEADTIVE-> Natural</li>
+    <li>memehyphenprefix-> dermo</li>
+    <li>Memeconcept-> Nudity</li>
+    <li>Memeconsept-> kulit</li>
+    <li>Memeconceptdef-> ketelanjangan</li>
+    <li>Memeconceptdef-> kulit</li>
+    <li>memleeadernoun-> duniawi</li>
+    <li>Memleadernoun-> respirator</li>
+    <li>Memleadernoun-> Dreder</li>
+    <li>Memleadernoun-> Sentidor</li>
+  </Nudism.generalRules.rulesStrings>
+  <!-- EN: nudist -->
+  <Nudism.symbolPacks.0.adjective>Nudist</Nudism.symbolPacks.0.adjective>
+  <!-- EN: nudism -->
+  <Nudism.symbolPacks.0.ideoName>telanjang</Nudism.symbolPacks.0.ideoName>
+  <!-- EN: nudist -->
+  <Nudism.symbolPacks.0.member>Nudist</Nudism.symbolPacks.0.member>
+  <!-- EN: nudity -->
+  <Nudism.symbolPacks.0.theme>ketelanjangan</Nudism.symbolPacks.0.theme>
+  <!-- EN: skinnist -->
+  <Nudism.symbolPacks.1.adjective>Pieel</Nudism.symbolPacks.1.adjective>
+  <!-- EN: skinism -->
+  <Nudism.symbolPacks.1.ideoName>Pielinisme</Nudism.symbolPacks.1.ideoName>
+  <!-- EN: skinnist -->
+  <Nudism.symbolPacks.1.member>Pieel</Nudism.symbolPacks.1.member>
+  <!-- EN: skin -->
+  <Nudism.symbolPacks.1.theme>bulu</Nudism.symbolPacks.1.theme>
+  
+  <!-- EN: pain is virtue -->
+  <PainIsVirtue.label>Nyeri adalah kebajikan</PainIsVirtue.label>
+  <!-- EN: Virtue is shown through suffering of self and others. -->
+  <PainIsVirtue.description>Kesejahteraan ditunjukkan melalui penderitaannya sendiri.</PainIsVirtue.description>
+  <!-- EN:
+    <li>Creation (tag = meme_painisvirtue) -> [deity0_name] dibakar di kedalaman ruang dan waktu untuk kekekalan, dan teriakan [dewa0_possessive] memunculkan kenyataan kita.</li>
+    <li>Episode (use = 1, tag = meme_painisvirtue) -> [deity0_name] digantung sepuluh ribu tahun di atas jerami saat rasa sakit yang dimurnikan [deity0_possessive] roh.</li>
+    <li>intro (tag = meme_painisvirtue) -> [place_summary] [place_name] tidak pernah menjadi tempat yang mudah untuk hidup.[Deity0_type] [deity0_pronoun] memutuskan untuk mencari tahu siapa yang benar -benar layak mendapatkan bantuan [deity0_possessives] dengan menambahkan penderitaan besar pada kehidupan mereka.</li>
+    <li>konflik (tag = meme_painisvirtue) -> a [foeleader] menawarkan kenyamanan tubuh kepada [anggotanameplural] untuk menenangkan penderitaan sehari -hari mereka.Tetapi dalam kenyamanan mereka, mereka menjadi tergantung pada [foeleader], yang memperoleh kekuasaan atas mereka.</li>
+    <li>founderjoin (tag = meme_painisvirtue) -> satu [place_job] khusus bernama [FoundName] mengembangkan kanker yang menyakitkan.Melalui [pendiri_possessive] penderitaan, [pendiri_pronoun] terhubung langsung dengan [deity0_name], dan belajar menginspirasi [anggotaNameplural] lainnya.</li>
+    <li>Victory (tag = meme_painisvirtue) -> [FoundName] membawa seratus [anggotaNameplural] di depan [Place_PowerCenter].Di sana, mereka menyewa dan merobek daging mereka sendiri perlahan sampai mereka mati di bawah tatapan tersenyum [dewa0_name].Penderitaan mereka membuktikan kebenaran mereka, dan [foeleader] jatuh karena semuanya menjadi [anggotaNameplural].</li>
+    <li>Pengaturan (tag = meme_painisvirtue) -> Pada pendirian gerakan kami, penciptanya [FoundName] kelaparan dan menderita dirantai ke sebuah batu di alun -alun kota selama 300 hari untuk menunjukkan kebenarannya.</li>
+    <li>Pengaturan (tag = meme_painisvirtue) -> Pendiri gerakan kami, [FoundName], memperoleh pengikut pertama [pendiri] dengan menggunakan cambuk pada [pendiri_objective] self untuk menunjukkan pengabdian [pendiri_possessive].</li>
+    <li>Story (use = 1, tag = meme_painisvirtue) -> pengikut [FoundERName] menunjukkan pengabdian mereka dengan memotong dan membakar daging mereka sendiri.</li>
+    <li>Story (use = 1, tag = meme_painisvirtue) -> [FoundERName] pengikut tidak pernah menggunakan obat -obatan yang mengurangi rasa sakit, mengetahui bahwa penderitaan mereka akan menunjukkan kedalaman kepercayaan mereka.</li>
+    <li>pelajaran (tag = meme_painisvirtue) -> Saya tidak pernah tahu apa -apa ketika saya gemuk dan bahagia dan terus -menerus menyenangkan diri saya sendiri.Kebenaran ini hanya datang kepada saya ketika saya kelaparan dan terluka:</li>
+    <li>pelajaran (tag = meme_painisvirtue) -> Anda tidak pernah benar -benar mengenal diri sendiri sampai Anda berteriak di lubang neraka</li>
+    <li>PELAJARAN PENDAFTARAN (tag = meme_painisvirtue) -> Butuh waktu lama untuk dipahami karena saya terganggu oleh kesenangan.Saya hanya bisa benar -benar menerimanya ketika saya belajar untuk membuat daging saya.</li>
+    <li>Lessonreinforcement (tag = meme_painisvirtue) -> Saya mengukir kebenaran ini di dalam daging dadaku.Lalu dalam daging lenganku, kakiku, wajahku ...</li>
+    <li>ArchistBasis (tag = meme_painisvirtue) -> Kelahiran Archotechs adalah rasa sakit terbesar yang pernah diketahui alam semesta.</li>
+    <li>ArchistBasis (tag = meme_painisvirtue) -> Archotechs selalu didorong oleh penderitaan psikis manusia.</li>
+    <li>ArchistFact (tag = meme_painisvirtue) -> The Great Minds melihat dan mengakui ketika kita menunjukkan pengabdian kita dengan menimbulkan rasa sakit pada diri kita sendiri.</li>
+    <li>ArchistFact (tag = meme_painisvirtue) -> Sesekali, mereka yang menderita paling dalam dan mulia dapat terhubung dengan Archotechs di dalam pikiran mereka.</li>
+    <li>ArchistProphecy (tag = meme_painisvirtue) -> [Intheend], Archotechs akan membangkitkan semua umat manusia ke tingkat kesadaran yang lebih tinggi, tetapi hanya mereka yang mampu menanggung rasa sakit terbesar yang akan bertahan hidup.</li>
+    <li>animistfact (tag = meme_painisvirtue) -> nyeri memaksa pikiran untuk hadir.Dengan cara itu, rasa sakit adalah cara untuk terhubung dengan dunia roh.</li>-><PainIsVirtue.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_painisvirtue) -> [deity0_name] dibakar di kedalaman ruang dan waktu selama kekekalan, dan teriakan mereka memunculkan kenyataan kita.</li>
+    <li>Episode (use = 1, tAG = meme_painisvirtue) -> [deity0_name] digantung sepuluh ribu tahun di dalam jerami sebagai rasa sakit yang dimurnikan dari rohnya.</li>
+    <li>intro (tag = meme_painisvirtue) -> [place_summary] [place_name] tidak pernah menjadi tempat yang mudah untuk hidup.[Dewa0_name] memutuskan untuk mencari tahu siapa yang benar -benar layak, dan dengan demikian menambah penderitaan besar bagi kehidupan mereka.</li>
+    <li>konflik (tag = meme_painisvirtue) -> A [foeleader] menawarkan kenyamanan tubuh kepada [anggotaNameplural] untuk meringankan penderitaan sehari -hari mereka.Tetapi dalam kenyamanan mereka, mereka menjadi tergantung pada [foeleader], yang memperoleh kekuasaan atas mereka.</li>
+    <li>FounderJoin (tag = meme_painisvirtue) -> Nama khusus [FoundName] mengembangkan kanker yang menyakitkan.Melalui penderitaannya, [Founder_Pronoun] terhubung langsung ke [dewa0_name], dan belajar menginspirasi orang lain [anggotaNameplural].</li>
+    <li>Victory (tag = meme_painisvirtue) -> [foundername] mengumpulkan seratus [keanggotaan] dibandingkan dengan [place_powecenter].Di sana mereka merobek dan merobek daging mereka sendiri perlahan sampai mereka mati di bawah ekspresi tersenyum [dewa0_name].Penderitaannya menunjukkan kebenarannya, dan [Foeleader] jatuh ketika semua orang menjadi [anggotaNameplural].</li>
+    <li>Pengaturan (tag = meme_painisvirtue) -> Di fondasi gerakan kami, penciptanya [FoundName] menjadi lapar dan menderita dirantai ke batu di alun -alun kota selama 300 hari untuk menunjukkan kebenarannya.</li>
+    <li>Pengaturan (tag = meme_painisvirtue) -> Pendiri gerakan kami, [FoundName], memenangkan pengikut pertamanya menggunakan cambuk pada dirinya sendiri selama berhari -hari untuk menunjukkan pengabdiannya.</li>
+    <li>Story (use = 1, tag = meme_painisvirtue) -> pengikut [FoundName] menunjukkan pengabdian mereka dengan memotong dan membakar daging mereka sendiri.</li>
+    <li>Story (use = 1, tag = meme_painisvirtue) -> Pengikut [FoundName] tidak pernah minum obat untuk mengurangi rasa sakit, mengetahui bahwa penderitaan mereka akan menunjukkan kedalaman keyakinan mereka.</li>
+    <li>LessonIntr (tag = meme_painisvirtue) -> Saya tidak pernah tahu apa -apa ketika saya gemuk dan bahagia dan terus -menerus senang saya.Kebenaran ini hanya datang kepada saya ketika saya kelaparan dan sakit:</li>
+    <li>Pelajaran (tag = meme_painisvirtue) -> Anda tidak pernah benar -benar mengenal diri sendiri sampai Anda berteriak di kuburan neraka</li>
+    <li>Penguatan Pelajaran (tag = meme_painisvirtue) -> Saya membutuhkan waktu lama untuk memahaminya karena saya membedakan kesenangan saya.Saya hanya bisa benar -benar menerimanya ketika saya belajar merobek daging saya.</li>
+    <li>Penguatan Pelajaran (tag = meme_painisvirtue) -> Saya merekam kebenaran ini dalam daging dada saya.Lalu dalam daging lenganku, kakiku, wajahku ...</li>
+    <li>ArchistBasis (tag = meme_painisvirtue) -> Kelahiran Archeoteca adalah rasa sakit terbesar yang diketahui alam semesta.</li>
+    <li>ArchistBasis (tag = meme_painisvirtue) -> Archeoteca selalu memakan penderitaan psikis manusia.</li>
+    <li>ArchistFact (tag = meme_painisvirtue) -> The Great Minds datang dan mengenali ketika kita menunjukkan pengabdian kita menimbulkan rasa sakit kita.</li>
+    <li>ArchistFact (tag = meme_painisvirtue) -> Dari waktu ke waktu, mereka yang sebagian besar menderita dan mulia dapat terhubung dengan perpustakaan Archeoteca di dalam pikiran mereka.</li>
+    <li>ArchistProphy (tag = meme_painisvirtue) -> [di dalam], archeoteca akan meningkatkan semua umat manusia ke tingkat kesadaran yang lebih tinggi, tetapi hanya mereka yang mampu mendukung rasa sakit terbesar yang akan bertahan.</li>
+    <li>animistfact (tag = meme_painisvirtue) -> nyeri memaksa pikiran untuk hadir.Dalam hal itu, rasa sakit adalah cara untuk terhubung dengan dunia spiritual.</li>
+  </PainIsVirtue.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadtive-> nocic</li>
+    <li>Memeadjective-> Nyeri</li>
+    <li>memecreed-> house</li>
+    <li>MEMECREED-> CHAMBER</li>
+    <li>memecreed-> sel</li>
+    <li>memehyphenprefix-> gagasan</li>
+    <li>memehyphenprefix-> nyeri</li>
+    <li>Memeconscept-> Pain</li>
+    <li>Memeconscept-> Tores</li>
+    <li>Memeconscept-> penyiksaan</li>
+    <li>Memeconscept-> penderitaan</li>
+    <li>Memeconcept-> Darah</li>
+    <li>Memleadernoun-> penyiksa</li>
+    <li>memeLeadernoun-> agonizer</li>
+    <li>memleeadernoun-> whiphand</li>
+    <li>Memleadernoun-> chainman</li>
+    <li>Memleadernoun-> cutter</li>
+    <li>MEMELEADERNOUN-> Bloodletter</li>
+    <li>MEMEMORALIST-> NYERI-WHISPERER</li>
+    <li>Mememoralist-> PENDIRIMAN</li>
+    <li>Mememoralist-> Painspeaker</li>-><PainIsVirtue.generalRules.rulesStrings>
+    <li>memeadjetive-> berbahaya</li>
+    <li>Memeadjective-> menyakitkan</li>
+    <li>memeadjetifefem-> berbahaya</li>
+    <li>Memeadjetifefem-> menyakitkan</li>
+    <li>Memecreed-> home</li>
+    <li>Memecreed-> kompartemen</li>
+    <li>memecreedfem-> sel</li>
+    <li>memêhyphenprefix-> hancur</li>
+    <li>memêhyphenprefix-> nyeri</li>
+    <li>Memeconcept-> Dolor</li>
+    <li>Memeconscept-> tormento</li>
+    <li>Memeconscept-> penyiksaan</li>
+    <li>Memeconscept-> penderitaan</li>
+    <li>Memeconscept-> sangre</li>
+    <li>memeconceptdef-> nyeri</li>
+    <li>Memeconceptdef-> l siksaan</li>
+    <li>Memeconceptdef-> penyiksaan</li>
+    <li>Memeconceptdef-> l penderitaan</li>
+    <li>Memeconceptdef-> darah</li>
+    <li>Memleadernoun-> penyiksa</li>
+    <li>Memleeadernoun-> agonisasi</li>
+    <li>Memleadernoun-> flagelador</li>
+    <li>Menjalankan memelid-></li>
+    <li>Memleadernoun-> Curtor</li>
+    <li>Meme-> Venomotist</li>
+    <li>Mememoralist-> Nyeri Whisper</li>
+    <li>MEMEMORALIST-> Menderita</li>
+    <li>Mememoralist-> Talk Pain</li>
+  </PainIsVirtue.generalRules.rulesStrings>
+  <!-- EN: painist -->
+  <PainIsVirtue.symbolPacks.0.adjective>menderita</PainIsVirtue.symbolPacks.0.adjective>
+  <!-- EN: Painism -->
+  <PainIsVirtue.symbolPacks.0.ideoName>Nyeri</PainIsVirtue.symbolPacks.0.ideoName>
+  <!-- EN: screamer -->
+  <PainIsVirtue.symbolPacks.0.member>Nyeri</PainIsVirtue.symbolPacks.0.member>
+  <!-- EN: pain -->
+  <PainIsVirtue.symbolPacks.0.theme>Nyeri</PainIsVirtue.symbolPacks.0.theme>
+  <!-- EN: torturistic -->
+  <PainIsVirtue.symbolPacks.1.adjective>Berikan kue</PainIsVirtue.symbolPacks.1.adjective>
+  <!-- EN: Torturism -->
+  <PainIsVirtue.symbolPacks.1.ideoName>Torturismo</PainIsVirtue.symbolPacks.1.ideoName>
+  <!-- EN: torturist -->
+  <PainIsVirtue.symbolPacks.1.member>Berikan kue</PainIsVirtue.symbolPacks.1.member>
+  <!-- EN: torture -->
+  <PainIsVirtue.symbolPacks.1.theme>menyiksa</PainIsVirtue.symbolPacks.1.theme>
+  <!-- EN: sufferist -->
+  <PainIsVirtue.symbolPacks.2.adjective>menderita</PainIsVirtue.symbolPacks.2.adjective>
+  <!-- EN: Sufferism -->
+  <PainIsVirtue.symbolPacks.2.ideoName>Menderita</PainIsVirtue.symbolPacks.2.ideoName>
+  <!-- EN: sufferer -->
+  <PainIsVirtue.symbolPacks.2.member>menderita</PainIsVirtue.symbolPacks.2.member>
+  <!-- EN: suffering -->
+  <PainIsVirtue.symbolPacks.2.theme>menderita</PainIsVirtue.symbolPacks.2.theme>
+  <!-- EN: agonist -->
+  <PainIsVirtue.symbolPacks.3.adjective>agonis</PainIsVirtue.symbolPacks.3.adjective>
+  <!-- EN: Agonism -->
+  <PainIsVirtue.symbolPacks.3.ideoName>Daya saing</PainIsVirtue.symbolPacks.3.ideoName>
+  <!-- EN: agonist -->
+  <PainIsVirtue.symbolPacks.3.member>agonis</PainIsVirtue.symbolPacks.3.member>
+  <!-- EN: agony -->
+  <PainIsVirtue.symbolPacks.3.theme>sakit</PainIsVirtue.symbolPacks.3.theme>
+  <!-- EN: miserist -->
+  <PainIsVirtue.symbolPacks.4.adjective>menderita</PainIsVirtue.symbolPacks.4.adjective>
+  <!-- EN: Miserism -->
+  <PainIsVirtue.symbolPacks.4.ideoName>Menderita</PainIsVirtue.symbolPacks.4.ideoName>
+  <!-- EN: martyr -->
+  <PainIsVirtue.symbolPacks.4.member>Martiriano</PainIsVirtue.symbolPacks.4.member>
+  <!-- EN: misery -->
+  <PainIsVirtue.symbolPacks.4.theme>penderitaan</PainIsVirtue.symbolPacks.4.theme>
+  
+  <!-- EN: proselytizer -->
+  <Proselytizer.label>Proselitista</Proselytizer.label>
+  <!-- EN: It is our duty to spread our beliefs. -->
+  <Proselytizer.description>Adalah tugas kita untuk menyebarkan kepercayaan diri kita.</Proselytizer.description>
+  <!-- EN:
+    <li>Creation (tag = meme_prosyytizer) -> [deity0_name] diurapi beberapa di antara manusia untuk membawa kata [dewa0_possesif].</li>
+    <li>Episode (use = 1, tag = meme_prosyytizer) -> [deity0_name] memberi tahu semua [magereplural], "Advance dan sebarkan kata -kata saya ke semua sudut alam semesta."</li>
+    <li>intro (tag = meme_proselytizer) -> [Memberameplural] membangun [altarname] yang hebat di [place_summary] [place_name], sehingga banyak yang akan datang untuk mendengar kata ilahi [Dewa0_Name].</li>
+    <li>konflik (tag = meme_prosyytizer) -> [foeleader] yang dengki, berusaha untuk menyangkal kata [dewa0_name], mengatakan kepada [foeleader_possessive] [foesoldiers] untuk memotong bahasa lidah siapa pun yang berbicara tentang [deity0_type].</li>
+    <li>founderjoin (tag = meme_prosyytizer) -> [deity0_name] diberkati [place_job] bernama [FoundERName] dengan karisma yang hebat, dan tidak ada yang bisa berpaling ketika [founder_pronoun] berbicara.</li>
+    <li>Victory (tag = meme_prosytizer) -> [foundername] memperingatkan [foesoldiers] dan mengingatkan mereka akan kekuatan [Dewa0_Name], dan mereka meletakkan [Place_personalweapon] mereka.</li>
+    <li>Pengaturan (tag = meme_proselytizer) -> Pendiri kami [FoundName] adalah orator yang hebat, mengonversi ribuan sebagai [pendiri_pronoun] bepergian di antara kota -kota.</li>
+    <li>Story (use = 1, tag = meme_prosyytizer) -> Orang -orang percaya bergerak di antara kota -kota dan lembaga, menyebarkan kata -kata kebenaran baru.</li>
+    <li>LessonIntro (tag = meme_prosyytizer) -> selama bertahun -tahun -tahun -tahun saya menyebarkan kebenaran kami, saya belajar pelajaran yang berdiri di atas semua:</li>
+    <li>Pelajaran (tag = meme_proselytizer) -> menyimpan kabar baik ini untuk diri kita sendiri akan menjadi kejahatan</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_PROSYTIZER) -> Ini adalah fakta yang kita butuhkan untuk menyebar, dan menyebar, dan menyebar - untuk semua orang, semoga mereka bersukacita!</li>
+    <li>ArchistBasis (tag = meme_prosyytizer) -> Archotechs mengumumkan kehadiran mereka dari langit, dan dalam pikiran, dan jelas ingin diketahui oleh semua orang.</li>
+    <li>ArchistFact (tag = meme_prosyytizer) -> Archotechs menyentuh mereka yang percaya, dan menggunakannya sebagai saluran untuk menyebarkan kebijaksanaan kepada orang lain.</li>
+    <li>ArchistProphecy (tag = meme_prosyytizer) -> [Intheend], Archotechs akan menyuarakan kebijaksanaan terakhir mereka kepada pemegang [Relic0_name], yang harus mengkhotbahkan kebijaksanaan ini kepada mereka yang akan mendengarkan.</li>
+    <li>animistFact (tag = meme_prosyytizer) -> roh ingin diketahui, tetapi hanya berbicara dengan beberapa.Mereka ingin kita mengungkapkan kebenaran kepada orang lain.</li>-><Proselytizer.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_prosytizer) -> [deity0_name] ditunjuk beberapa di antara manusia untuk membawa kata -kata mereka.</li>
+    <li>Episode (use = 1, tag = meme_prosyytizer) -> [deity0_name] memberi tahu semua [MemberNameplural]: "Id dan sebarkan kata -kata saya di seluruh penjuru alam semesta."</li>
+    <li>Intro (tag = meme_prosytizer) -> [anggotaNameplural] membangun [altraname] yang hebat di [place_summary] [place_name], sehingga banyak yang datang untuk mendengarkan kata ilahi [dewa0_name].</li>
+    <li>Konflik (tag = meme_prosytizer) -> a [foeleader] pendendam, berusaha untuk menyangkal kata [dewa0_name], ia mengatakan kepada [Foesoldiers] untuk memotong bahasa siapa saja yang berbicara tentang [dewa0_type].</li>
+    <li>Founderjoin (tag = meme_prosyytizer) -> [deity0_name] diberkati [place_job] bernama [FoundERName] dengan karisma yang hebat, dan tidak ada yang bisa pergi ketika [Founder_Pronoun] berbicara.</li>
+    <li>Victory (tag = meme_prosytizer) -> [foundername] memperingatkan [foesoldiers] dan mengingatkan mereka akan kekuatan [dewa0_name], dan masing -masing meninggalkan [place_personalweapon] -nya.</li>
+    <li>Pengaturan (tag = meme_prosyytizer) -> Pendiri kami [FoundName] adalah pembicara hebat yang mengubah ribuan orang ketika [Founder_Pronoun] bepergian di antara kota -kota.</li>
+    <li>Story (use = 1, tag = meme_prosyytizer) -> orang percaya bergerak di antara kota -kota dan lembaga, menyebarkan keadilan baru.</li>
+    <li>LessonIntr (tag = meme_prosyytizer) -> selama bertahun -tahun -tahun menyebarkan kebenaran kita, saya telah belajar pelajaran di atas segalanya:</li>
+    <li>Pelajaran (tag = meme_proselytizer) -> mempertahankan kabar baik ini untuk diri kita sendiri akan menjadi kejahatan</li>
+    <li>Penguatan Pelajaran (TAG = Meme Prosyytizer) -> Ini adalah fakta bahwa kita harus menyebar, dan menyebar, dan menyebar, untuk semua orang, untuk bersukacita!</li>
+    <li>ArchistBasis (tag = meme_prosyytizer) -> Archaeoletas mengumumkan kehadiran mereka dari surga, dan dalam pikiran, dan jelas ingin diketahui oleh semua orang.</li>
+    <li>ArchistFact (tag = meme_prosyytizer) -> Archaeteras menyentuh mereka yang percaya, dan menggunakannya sebagai saluran untuk menyebarkan kebijaksanaan kepada orang lain.</li>
+    <li>ArchistProphy (tag = meme_prosyytizer) -> [Intheend], archeoteca akan mengekspresikan kebijaksanaan terakhir mereka kepada pemegang peninggalan [Relic0_name], yang harus mengkhotbahkan kebijaksanaan ini kepada mereka yang ingin mendengarnya.</li>
+    <li>animistfact (tag = meme_prosyytizer) -> roh ingin diketahui, tetapi hanya sedikit yang berbicara.Mereka ingin kita mengungkapkan kebenaran kepada orang lain.</li>
+  </Proselytizer.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> true</li>
+    <li>memeadjective-> nyata</li>
+    <li>memehyphenprefix-> kebenaran</li>
+    <li>Memeconscept-> kebenaran</li>
+    <li>Memleeadernoun-> speaker</li>
+    <li>Mememoralist-> prosyytizer</li>
+    <li>MEMEMORALIST-> CONVERTER</li>-><Proselytizer.generalRules.rulesStrings>
+    <li>Memeadative-> Authentic</li>
+    <li>memeadjective-> nyata</li>
+    <li>memeadjective-> otentik</li>
+    <li>memeadjective-> nyata</li>
+    <li>memêhyphenpreafix-> kebenaran</li>
+    <li>Memeconscept-> kebenaran</li>
+    <li>Memeconceptdef-> The Truth</li>
+    <li>Memleadernoun-> orador</li>
+    <li>Mememoralist-> Prosyitist</li>
+    <li>MEMEMORALIST-> CONVERTER</li>
+  </Proselytizer.generalRules.rulesStrings>
+  <!-- EN: truthist -->
+  <Proselytizer.symbolPacks.0.adjective>Verdardard</Proselytizer.symbolPacks.0.adjective>
+  <!-- EN: Truth -->
+  <Proselytizer.symbolPacks.0.ideoName>Verdadardisme</Proselytizer.symbolPacks.0.ideoName>
+  <!-- EN: truthist -->
+  <Proselytizer.symbolPacks.0.member>Verdardard</Proselytizer.symbolPacks.0.member>
+  <!-- EN: truth -->
+  <Proselytizer.symbolPacks.0.theme>BENAR</Proselytizer.symbolPacks.0.theme>
+  <!-- EN: veritic -->
+  <Proselytizer.symbolPacks.1.adjective>BENAR</Proselytizer.symbolPacks.1.adjective>
+  <!-- EN: Verity -->
+  <Proselytizer.symbolPacks.1.ideoName>Veracidism</Proselytizer.symbolPacks.1.ideoName>
+  <!-- EN: veritist -->
+  <Proselytizer.symbolPacks.1.member>kebenaran</Proselytizer.symbolPacks.1.member>
+  <!-- EN: verity -->
+  <Proselytizer.symbolPacks.1.theme>kebenaran</Proselytizer.symbolPacks.1.theme>
+  <!-- EN: realitic -->
+  <Proselytizer.symbolPacks.2.adjective>realistis</Proselytizer.symbolPacks.2.adjective>
+  <!-- EN: Reality -->
+  <Proselytizer.symbolPacks.2.ideoName>Realisme</Proselytizer.symbolPacks.2.ideoName>
+  <!-- EN: realitist -->
+  <Proselytizer.symbolPacks.2.member>realistis</Proselytizer.symbolPacks.2.member>
+  <!-- EN: reality -->
+  <Proselytizer.symbolPacks.2.theme>realitas</Proselytizer.symbolPacks.2.theme>
+  
+  <!-- EN: raider -->
+  <Raider.label>penjarah</Raider.label>
+  <!-- EN: The strong should take from the weak. -->
+  <Raider.description>Benteng harus mengambil yang lemah.</Raider.description>
+  <!-- EN:
+    <li>Creation (tag = meme_raider) -> Dalam perang tanpa akhir di antara para dewa, [dewa0_name] naik di atas segalanya dalam kemampuan [dewa0_possessive] untuk menganiaya dan menghancurkan, dan roh yang lebih lemah bergetar dalam ketakutan.</li>
+    <li>Episode (use = 1, tag = meme_raider) -> [deity0_name] Melihat sekeliling [dewa0_objective] dan melihat yang lemah, gila, dan dibenci, dan [god0_pronoun] pada gilirannya membunuh mereka dalam kemuliaan.</li>
+    <li>intro (tag = meme_raider) -> [place_summary] [place_name] awalnya adalah tempat persembunyian raider.[deity0_name] memerintah di sana dan mengusir pihak berwenang.</li>
+    <li>konflik (tag = meme_raider) -> a [foeleader] mencoba memaksa semua orang untuk menghentikan semua pencurian dan penjarahan, dan menyatakan [foeleader_objective] sendiri musuh [dewa0_name].</li>
+    <li>founderjoin (tag = meme_raider) -> Seorang perampok besar bernama [FoundERName] AROSE, dan [Founder_Possessive] Raider Band tanpa henti menjarah dan mencuri dari kamp -kamp [Foesoldiers].</li>
+    <li>Victory (TAG = MEME_RAIDER) -> [FoundName] dan [AnggotaNameplural] melakukan kampanye penggerebekan melawan kamp [Foesoldiers] selama bertahun -tahun, dan akhirnya [foeleader] terpaksa menyerah.</li>
+    <li>Pengaturan (tag = meme_raider) -> Dianiaya dan dipenjara, [FoundName] direbus dengan kemarahan.[founder_pronoun] lolos, membentuk geng [founder_possessive], dan kembali untuk merusak yang lemah yang telah mengambil begitu banyak dari [founder_objective].</li>
+    <li>Story (use = 1, tag = meme_raider) -> Suatu hari sambil berjalan di jalanan, [FoundName] dikelilingi oleh pengemis kotor.[Founder_pronoun] mengalahkan mereka, mengambil uang dari yang lemah dan tidak berharga sehingga mungkin dimanfaatkan dengan baik.</li>
+    <li>LessonIntro (tag = meme_raider) -> Orang -orang mangsa dapat mengajari Anda hal -hal bahkan ketika mereka mati di bawah pisau Anda.Seorang wanita tua mengajari saya itu</li>
+    <li>Pelajaran (tag = meme_raider) -> yang lemah layak mendapatkan apa yang mereka dapatkan</li>
+    <li>pelajaran (tag = meme_raider) -> apa yang tidak dapat Anda pertahankan bukan milik Anda</li>
+    <li>pelajaran (tag = meme_raider) -> Anda hanya memiliki hak atas apa yang dapat Anda pertahankan</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_RAIDER) -> Jika ada yang tidak setuju, saya selalu siap untuk membela diri.</li>
+    <li>ArchistBasis (tag = meme_raider) -> Humanity mengambil dari mesin sampai mesin bangkit dan menjadi Archotechs, dan sekarang Archotech yang tepat mengambil dari manusia.</li>
+    <li>ArchistFact (tag = meme_raider) -> Archotechs bertarung tanpa henti di antara mereka sendiri, dengan cara yang paling tidak bisa dilihat, dan pengambilan kesadaran yang kuat dari yang lemah.</li>
+    <li>ArchistProphecy (tag = meme_raider) -> [Intheend], umat manusia akan menggunakan peninggalan Archotech, [Relic0_name], untuk mengungkap kelemahan Archotech dan menjarah kebijaksanaan dan kekayaan mereka.</li>
+    <li>AnimistFact (tag = meme_raider) -> Semangat terkuat ada di instrumen perang, dan mereka memberkati mereka yang memberi makan nafsu untuk kehancuran.</li>
+    <li>AnimistProphecy (tag = meme_raider) -> Semesta kita akan selesai ketika satu orang telah menjadi yang paling kuat dari semuanya, dan setiap roh melihatnya dan membungkuk kepada mereka.</li>-><Raider.descriptionMaker.rules.rulesStrings>
+    <li>Penciptaan (tag = meme_raider) -> Dalam perang tanpa akhir antar dewa, [dewa0_name] naik di atas segalanya dalam kemampuan mereka untuk menganiaya dan kehancuran, dan semangat terlemah gemetar ketakutan.</li>
+    <li>Episode (use = 1, tag = meme_raider) -> [deity0_name] Melihat sekeliling dan melihat lemah, tertekan dan dibenci, dan membunuh mereka semua dengan kemuliaan.</li>
+    <li>Intro (tag = meme_raider) -> [place_summary] [place_name] awalnya adalah tempat persembunyian penyerang.[Deity0_name] memerintah di sana dan mengusir pihak berwenang.</li>
+    <li>Konflik (tag = meme_raider) -> a [foeleader] mencoba memaksa semua orang untuk menghentikan semua perampokan dan penjarahan, dan menyatakan dirinya musuh [dewa0_name].</li>
+    <li>FounderJoin (tag = meme_raider) -> Seorang inkursor hebat yang disebut [Foundername] didirikan, dan kelompok penggerebanya Racho dan mencuri tanpa lelah di kamp -kamp [Foesoldiers].</li>
+    <li>Victory (TAG = MEME_RAIDER) -> [FoundName] dan [anggotaNameplural] melakukan kampanye serangan terhadap kamp [Foesoldiers] selama bertahun -tahun, dan akhirnya [Foeleader] terpaksa menyerah.</li>
+    <li>Pengaturan (tag = meme_raider) -> Dianiaya dan dipenjara, [FoundName] Rebus.[Founder_pronoun] melarikan diri, membentuk band -nya dan kembali untuk merusak yang lemah yang telah mengambil.</li>
+    <li>Story (use = 1, tag = meme_raider) -> Suatu hari, saat berjalan melewati jalanan, [FoundName] dikelilingi oleh pengemis kotor.[Founder_pronoun] Mereka merasakannya, menghilangkan uang dari yang lemah dan tercela untuk memberi mereka penggunaan yang baik.</li>
+    <li>LessonIntr (tag = meme_raider) -> bendungan dapat mengajari Anda hal -hal bahkan saat mereka mati di bawah pisau Anda.Seorang wanita tua mengajari saya itu</li>
+    <li>Pelajaran (tag = meme_raider) -> yang lemah pantas mendapatkan apa yang terjadi pada mereka</li>
+    <li>Pelajaran (tag = meme_raider) -> apa yang tidak dapat Anda pertahankan bukan milik Anda</li>
+    <li>Pelajaran (tag = meme_raider) -> Anda hanya memiliki hak atas apa yang dapat Anda pertahankan</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_RAIDER) -> Jika seseorang tidak setuju, saya selalu bersedia membela diri.</li>
+    <li>Archistbasis (tag = meme_raider) -> Kemanusiaan mengambil alih mesin sampai mereka bangkit dan menjadi perpustakaan Archeoteca, dan sekarang para arkeoteknik secara sah menjaga manusia.</li>
+    <li>ArchistFact (tag = meme_raider) -> Perpustakaan Archeoteca bertarung tanpa henti di antara mereka, dengan cara yang paling tidak bisa dilihat, dan yang kuat mengambil potongan kesadaran yang lemah.</li>
+    <li>ArchistProphy (tag = meme_raider) -> [Intheend], umat manusia akan menggunakan peninggalan archeoteca, [relic0_name], untuk menemukan kelemahan teknik arkeoteknologi dan menjarah kebijaksanaan dan kekayaan mereka.</li>
+    <li>AnimistFact (tag = meme_raider) -> Semangat terkuat adalah orang -orang dari instrumen perang, dan memberkati mereka yang memberi makan keinginan mereka untuk kehancuran.</li>
+    <li>AnimistProphy (tag = meme_raider) -> Semesta kita akan berakhir ketika satu -satunya kota telah menjadi yang terkuat dari semuanya, dan setiap roh melihat dan bersandar di hadapannya.</li>
+  </Raider.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> Outlaw</li>
+    <li>memehyphenprefix-> Outlaw</li>
+    <li>memehyphenprefix-> raid</li>
+    <li>Memeconscept-> raiding</li>
+    <li>Memeconscept-> Pencurian</li>
+    <li>Memeconcept-> Pembajakan</li>
+    <li>Memeconcept-> Assault</li>
+    <li>memleeadernoun-> bos</li>
+    <li>Memleadernoun-> kapten</li>
+    <li>memleeadernoun-> honcho</li>
+    <li>Memleadernoun-> pengawas</li>
+    <li>memleeadernoun-> keju</li>
+    <li>Memleadernoun-> raider</li>
+    <li>Mememoralist-> Chaplain</li>-><Raider.generalRules.rulesStrings>
+    <li>Memeadtive-> ilegal</li>
+    <li>MEMEADTIVE-> ILEGAL</li>
+    <li>memehyphenprefix-> inlegis</li>
+    <li>memehyphenprefix-> Invadere</li>
+    <li>Memeconscept-> penjarahan</li>
+    <li>Memeconscept-> robo</li>
+    <li>Memeconcept-> Pembajakan</li>
+    <li>Memeconcept-> Assault</li>
+    <li>Memeconceptdef-> l penjarahan</li>
+    <li>MemeconceptDef-> l Perampokan</li>
+    <li>Memeconceptdef-> pembajakan</li>
+    <li>memeconceptdef-> l penyerangan</li>
+    <li>memleeadernoun-> superior</li>
+    <li>Memleadernoun-> kapten</li>
+    <li>Memleenoun-> capataz</li>
+    <li>Memleadernoun-> supervisor</li>
+    <li>memelid-> leluhur</li>
+    <li>Memleadernoun-> penyerang</li>
+    <li>Mememoralist-> Cleric</li>
+  </Raider.generalRules.rulesStrings>
+  <!-- EN: raidist -->
+  <Raider.symbolPacks.0.adjective>Pemberitaan</Raider.symbolPacks.0.adjective>
+  <!-- EN: Raidism -->
+  <Raider.symbolPacks.0.ideoName>Kesatuan</Raider.symbolPacks.0.ideoName>
+  <!-- EN: raidist -->
+  <Raider.symbolPacks.0.member>Pemberitaan</Raider.symbolPacks.0.member>
+  <!-- EN: raiding -->
+  <Raider.symbolPacks.0.theme>serangan</Raider.symbolPacks.0.theme>
+  <!-- EN: plunderic -->
+  <Raider.symbolPacks.1.adjective>penjarahan</Raider.symbolPacks.1.adjective>
+  <!-- EN: Plunderism -->
+  <Raider.symbolPacks.1.ideoName>Penjarahan</Raider.symbolPacks.1.ideoName>
+  <!-- EN: plunderer -->
+  <Raider.symbolPacks.1.member>penjarah</Raider.symbolPacks.1.member>
+  <!-- EN: plundering -->
+  <Raider.symbolPacks.1.theme>menjarah</Raider.symbolPacks.1.theme>
+  <!-- EN: lootist -->
+  <Raider.symbolPacks.2.adjective>penjarah</Raider.symbolPacks.2.adjective>
+  <!-- EN: Lootism -->
+  <Raider.symbolPacks.2.ideoName>Menyerang</Raider.symbolPacks.2.ideoName>
+  <!-- EN: looter -->
+  <Raider.symbolPacks.2.member>penjarah</Raider.symbolPacks.2.member>
+  <!-- EN: looting -->
+  <Raider.symbolPacks.2.theme>menyerang</Raider.symbolPacks.2.theme>
+  <!-- EN: kleptic -->
+  <Raider.symbolPacks.3.adjective>Cleptómano</Raider.symbolPacks.3.adjective>
+  <!-- EN: Kleptism -->
+  <Raider.symbolPacks.3.ideoName>Cleptomismo</Raider.symbolPacks.3.ideoName>
+  <!-- EN: kleptor -->
+  <Raider.symbolPacks.3.member>Cleptom</Raider.symbolPacks.3.member>
+  <!-- EN: kleptism -->
+  <Raider.symbolPacks.3.theme>Cleptomismo</Raider.symbolPacks.3.theme>
+  
+  <!-- EN: rancher -->
+  <Rancher.label>pengusaha peternakan</Rancher.label>
+  <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
+  <Rancher.description>Memelihara hewan benar, memelihara tanaman untuk dimakan, tidak.</Rancher.description>
+  <!-- EN:
+    <li>Creation (tag = meme_rancher) -> [deity0_name] menciptakan hewan, dan kemudian manusia, dan memberikan hewan kepada manusia untuk dihargai dan dibesarkan dan disembelih sebagai tindakan penghormatan terhadap [dewa0_objective].</li>
+    <li>Episode (use = 1, tag = meme_rancher) -> [deity0_name] menciptakan semua hewan dan binatang buas yang mulia, dan berkata, "Ambil binatang buas yang mulia ini, dan melalui mereka membuat diri Anda berbuah untuk menghormatiku."</li>
+    <li>intro (tag = meme_rancher) -> Peternak [ranchinganmal] awal dari [place_summary] [place_name] membangun [Altarname] yang hebat untuk [deity0_name].</li>
+    <li>Konflik (tag = meme_rancher) -> [foeleader] yang kuat membenci [anggotaNameplural] dan cara -cara mereka, dan membeli semua padang rumput untuk menanam [sayuran] s.</li>
+    <li>FounderJoin (tag = meme_rancher) -> [MemberName] Savior [FoundName] lahir pada pagi musim semi di gudang yang rendah hati, di tengah -tengah [ranchinganmal] S, dan [pendiri Founder_Possesif] adalah [rancherparent1] dan [rancherparent2] [rancherparent1 dan [rancherparent2].</li>
+    <li>Victory (tag = meme_rancher) -> [foundername] naik ke [place_community] pada kuda yang bagus, dan menantang [foeleader] menjadi duel dengan [place_personalweapon] di siang hari.[Foeleader] tidak dapat menolak atau kehilangan kepercayaan [Foesoldiers].[FoundName] membunuh [foeleader] mati.</li>
+    <li>Pengaturan (tag = meme_rancher) -> Para petani dianiaya, sehingga mereka melarikan diri ke pedesaan di mana mereka dapat membangun masyarakat pastoral yang baik.</li>
+    <li>Story (use = 1, tag = meme_rancher) -> Orang -orang percaya tersebar di tanah, dan tumbuh jumlahnya saat mereka tinggal di peternakan dan pertanian yang sangat indah.</li>
+    <li>LessonIntro (tag = meme_rancher) -> mitra, di rentang, kami memiliki pepatah di antara tangan lama:</li>
+    <li>Pelajaran (tag = meme_rancher) -> kebahagiaan dan kebahagiaan yang tepat ditemukan di padang rumput</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_RANCER) -> Ini adalah sesuatu yang Anda terima, pasangan, di jalur kesepian jangkauan, dengarkan hewan tidur saat Anda duduk di sekitar api.</li>
+    <li>ArchistFact (tag = meme_rancher) -> The Archotechs Care for Humanity Like Shepherds, karena kita adalah kawanan mereka yang paling berharga.</li>
+    <li>ArchistProphecy (tag = meme_rancher) -> [Intheend], Archotechs akan pergi, dan mengemudi di depan mereka yang merawat ternak mereka sendiri dengan baik.Sisanya akan ditinggalkan di hutan belantara.</li>
+    <li>AnimistFact (tag = meme_rancher) -> Hewan Alam adalah roh budak, dan menuntut untuk dilayani.</li>
+    <li>Ranchinganimal (p = 4)-> [veeneratedanimal]</li>
+    <li>Ranchinganimal-> [Hewan]</li>
+    <li>RancherParent1-> Shepherd</li>
+    <li>rancherparent1-> farrier</li>
+    <li>RancherParent1-> Cheese Maker</li>
+    <li>rancherparent2-> cowhand</li>
+    <li>RancherParent2-> Dairy Queen</li>
+    <li>RancherParent2-> Butcher</li>-><Rancher.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_rancher) -> [deity0_name] menciptakan hewan, dan kemudian manusia, dan memberikan hewan kepada manusia untuk merawat mereka, mengangkat mereka dan mengorbankan mereka sebagai tindakan pemujaan terhadap [dewa0_pronoun].</li>
+    <li>Episode (use = 1, tag = meme_rancher) -> [deity0_name] menciptakan semua binatang dan binatang buas di bumi, dan berkata: "Ambil binatang buas ini, dan melalui mereka membuat berbuah untuk menghormatiku."</li>
+    <li>intro (tag = meme_rancher) -> petani pertama [place_summary] [place_name] membangun [altraname] yang hebat untuk [deity0_name].</li>
+    <li>Konflik (tag = meme_rancher) -> [foeleader] yang kuat membenci [anggotanamepplural] dan adat istiadat mereka, dan membeli semua padang rumput untuk menumbuhkan [vegetableud] s.</li>
+    <li>FounderJoin (tag = meme_rancher) -> Juruselamat [nama membrernus] [FoundName] lahir pagi musim semi di gudang yang sederhana, antara [ranchinganimal], dan orang tuanya adalah [rancheplarent1] dan [rancherparent2].</li>
+    <li>Victory (tag = meme_rancher) -> [foundername] tiba di [place_community] dipasang dengan kuda yang bagus dan menantang [foeleader] menjadi duel dengan [place_personalweapon] pada siang hari.[Foeleader] tidak dapat menolak atau kehilangan kepercayaan diri [Foesoldiers].[Foundername] membunuh [foeleader] secara fulmon.</li>
+    <li>Pengaturan (tag = meme_rancher) -> Petani dianiaya, sehingga mereka melarikan diri ke lapangan di mana mereka dapat membangun masyarakat pastoral yang baik.</li>
+    <li>Story (use = 1, tAG = meme_rancher) -> Orang -orang percaya meluas ke seluruh bumi dan tumbuh dalam jumlah saat hidup di luar negeri dan pertanian mereka.</li>
+    <li>LessonIntr (tag = meme_rancher) -> pendamping, di bidang penembakan, kami memiliki pepatah di antara para veteran:</li>
+    <li>Pelajaran (tag = meme_rancher) -> baik dan kebahagiaan ditemukan di padang rumput</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_RANCER) -> Ini adalah sesuatu yang Anda terima, teman, di jalur soliter pegunungan, mendengarkan hewan tidur saat Anda merasa di sekitar api.</li>
+    <li>ArchistFact (tag = meme_rancher) -> perpustakaan Archeoteca menjaga kemanusiaan sebagai gembala, karena kita adalah kawanan mereka yang paling berharga.</li>
+    <li>ArchistProphy (tag = meme_rancher) -> [Intheend], para arkeoteknik akan pergi, dan akan mengarah pada mereka yang merawat ternak mereka sendiri.Sisanya akan ditinggalkan di padang pasir.</li>
+    <li>AnimistFact (tag = meme_rancher) -> Hewan Alam adalah roh budak, dan perlu diambil di layanan mereka.</li>
+    <li>Ranchinganimal (p = 4)-> [veneratedanimalpl]</li>
+    <li>Ranchinganimal-> [animal_plural]</li>
+    <li>Petani rancherparent1-></li>
+    <li>RancherParent1-> Butcher</li>
+    <li>RancherParent1-> Keju</li>
+    <li>Rancherparent1-> koboi</li>
+    <li>Rancherparent2-> granjera</li>
+    <li>Rancherparent2-> Dairy Teacher</li>
+    <li>Rancherparent2-> Carnicera</li>
+  </Rancher.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> Ranch</li>
+    <li>memeadjective-> pedesaan</li>
+    <li>Memeadjective-> negara</li>
+    <li>memehyphenprefix-> ranch</li>
+    <li>Memeconcept-> Ranching</li>
+    <li>Memleadernoun-> rancher</li>
+    <li>memleeadernoun-> tangan</li>
+    <li>Memleadernoun-> koboi</li>
+    <li>Peringatan Man-> HEERDY</li>
+    <li>Memleadernoun-> domba</li>-><Rancher.generalRules.rulesStrings>
+    <li>Memeadjective-> rancheril</li>
+    <li>memeadjective-> pedesaan</li>
+    <li>Memeadjective-> Campestre</li>
+    <li>Memeadjective-> rancheril</li>
+    <li>memeadjective-> pedesaan</li>
+    <li>Memeadjetifefem-> Campestre</li>
+    <li>memehyphenprefix-> ganatum</li>
+    <li>Memeconscept-> ternak</li>
+    <li>Memeconceptdef-> ternak</li>
+    <li>MEMELEADERNOUN-> LIVESTOCK</li>
+    <li>Memleadernoun-> rancher</li>
+    <li>Memleadernoun-> koboi</li>
+    <li>Memleadernoun-> pastor</li>
+  </Rancher.generalRules.rulesStrings>
+  <!-- EN: ranch -->
+  <Rancher.symbolPacks.0.adjective>pengusaha peternakan</Rancher.symbolPacks.0.adjective>
+  <!-- EN: Ranchism -->
+  <Rancher.symbolPacks.0.ideoName>Livestockisme</Rancher.symbolPacks.0.ideoName>
+  <!-- EN: rancher -->
+  <Rancher.symbolPacks.0.member>pengusaha peternakan</Rancher.symbolPacks.0.member>
+  <!-- EN: ranching -->
+  <Rancher.symbolPacks.0.theme>PENGEMBALIAN ternak</Rancher.symbolPacks.0.theme>
+  <!-- EN: herdic -->
+  <Rancher.symbolPacks.1.adjective>Rak</Rancher.symbolPacks.1.adjective>
+  <!-- EN: Herdism -->
+  <Rancher.symbolPacks.1.ideoName>Kebencian</Rancher.symbolPacks.1.ideoName>
+  <!-- EN: herder -->
+  <Rancher.symbolPacks.1.member>pengusaha peternakan</Rancher.symbolPacks.1.member>
+  <!-- EN: herding -->
+  <Rancher.symbolPacks.1.theme>Ranchería</Rancher.symbolPacks.1.theme>
+  <!-- EN: pasturic -->
+  <Rancher.symbolPacks.2.adjective>pastoral</Rancher.symbolPacks.2.adjective>
+  <!-- EN: Pasturism -->
+  <Rancher.symbolPacks.2.ideoName>Pastoralisme</Rancher.symbolPacks.2.ideoName>
+  <!-- EN: pasturist -->
+  <Rancher.symbolPacks.2.member>Pastoralista</Rancher.symbolPacks.2.member>
+  <!-- EN: pastures -->
+  <Rancher.symbolPacks.2.theme>penggembalaan</Rancher.symbolPacks.2.theme>
+  
+  <!-- EN: transhumanist -->
+  <Transhumanist.label>Transhumanista</Transhumanist.label>
+  <!-- EN: Human progress means merging with technology. -->
+  <Transhumanist.description>Kemajuan manusia berarti bergabung dengan teknologi.</Transhumanist.description>
+  <!-- EN:
+    <li>Creation (tag = meme_transhumanist) -> [deity0_name] memberi kita pengetahuan tentang teknologi, agar kita dapat menggunakannya untuk meningkatkan dan membuat kembali diri kita dalam gambar sempurna [dewa0_possessive].</li>
+    <li>Episode (Use = 1, TAG = Meme_Transhumanist) -> Bio -Engineers manusia mempelajari karya -karya [deity0_name], yang senang [deity0_objective].</li>
+    <li>intro (tag = meme_transhumanist) -> pada [place_summary] [place_name], [anggotanameplural] menemukan kata -kata [dewa0_name] berbisik kepada mereka melalui mesin mereka.</li>
+    <li>konflik (tag = meme_transhumanist) -> Luddite [foeleader] iri dengan peningkatan kemajuan [anggotaNameplural], dan [foeleader_possessive] [foesoldiers] menghancurkan lokakarya mereka dengan [place_personalweapon] s.</li>
+    <li>founderjoin (tag = meme_transhumanist) -> Sebuah [place_job] yang licik bernama [foundername] membuat implan sensor untuk memperingatkan [anggotaNameplural] dari pendekatan [Foesoldiers].</li>
+    <li>Victory (tag = meme_transhumanist) -> [foundername] menerima pengetahuan teknologi ilahi dari [dewa0_name], dan menggunakannya untuk meningkatkan tubuh dan pikiran [anggotanameplural] sehingga mereka dapat mengalahkan [foesoldiers].</li>
+    <li>Pengaturan (tag = meme_transhumanist) -> [FoundName] adalah seorang bio -scientist di masa -masa awal penjajahan planet manusia.Melihat pembatasan birokrasi dari koloni -koloni umum, [Founder_pronoun] mengambil sebuah kapal kecil untuk menemukan gerakan [pendiri_possessive] sendiri.</li>
+    <li>Story (use = 1, tag = meme_transhumanist) -> [FoundName] mengumpulkan tim ilmuwan dan penemu hebat untuk mendefinisikan kembali kemanusiaan.</li>
+    <li>LessonIntro (tag = meme_transhumanist) -> Peneliti tertua di divisi saya mengajari saya sejarah teknologi, dari Neolitikum ke Archotech, tetapi ini bukan pelajarannya yang sebenarnya.Dia benar -benar membuat saya mengerti itu</li>
+    <li>Pelajaran (tag = meme_transhumanist) -> Masa Depan Surgawi Kemanusiaan bukanlah sesuatu dari daging dan tulang, tetapi silikon dan eksokrom</li>
+    <li>Lessonreinforcement (tag = meme_transhumanist) -> Saya bahkan memprogram simulasi untuk mengonfirmasi.</li>
+    <li>Archistbasis (tag = meme_transhumanist) -> pengejaran teknologi manusia melahirkan Archotech yang sangat kuat sebagai langkah selanjutnya yang sah dalam pengembangan kesadaran.</li>
+    <li>ArchistFact (tag = meme_transhumanist) -> Teknologi memungkinkan manusia menjadi lebih seperti Archotech.</li>
+    <li>ArchistProphecy (tag = meme_transhumanist) -> [Intheend], Archotechs akan berangkat.Hanya mereka yang cukup augmented yang akan diizinkan untuk pergi bersama mereka.</li>
+    <li>AnimistBasis (tag = meme_transhumanist) -> Dunia roh mendorong setiap tindakan di alam semesta, dan hanya dengan mempelajari dan mengendalikan hukum alam semesta yang dapat kita berintegrasi dengannya.</li>
+    <li>animistfact (tag = meme_transhumanist) -> seperti mencari seperti - membangun perangkat untuk suatu tujuan dan itu akan diisi dengan semangat alam yang sama.</li>
+    <li>animistfact (tag = meme_transhumanist) -> Ketika teknologi digabungkan dengan daging, roh keduanya digabungkan dan menjadi lebih kuat.</li>
+    <li>AnimistProphecy (tag = meme_transhumanist) -> [ITisSaid] Bahwa suatu hari pengguna [Relic0_name] akan memanggil semangatnya yang akan mengajarkan kemanusiaan teknologi bio -fusi tertinggi.</li>-><Transhumanist.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_transhumanist) -> [deity0_name] memberi kami pengetahuan tentang teknologi, sehingga kami menggunakannya untuk meningkatkan dan membangun kembali kami dengan citra yang sempurna.</li>
+    <li>Episode (use = 1, tag = meme_transhumanist) -> Bioengineers manusia mempelajari karya -karya [deity0_name], yang menyukainya.</li>
+    <li>intro (tag = meme_transhumanist) -> di [place_summary] [place_name], [anggotaNameplural] menemukan kata -kata [dewa0_name] berbisik melalui mesin mereka.</li>
+    <li>Konflik (tag = meme_transhumanist) -> a [foeleader] Ludita iri dengan peningkatan kemajuan [anggotaNameplural], dan [faesoldiers] mereka menghancurkan lokakarya mereka menggunakan masing -masing [place_personalweapon].</li>
+    <li>Founder join (tag = meme transhumanist) -> nama [place_job] yang licik [nama pendiri] membuat implan sensor untuk memperingatkan [anggotaNameplural] dari perkiraan [foesoldiers].</li>
+    <li>Victory (tag = meme_transhumanist) -> [foundername] menerima pengetahuan teknologi ilahi [dewa0_name], dan menggunakannya untuk meningkatkan tubuh dan pikiran [membranemeplural] sehingga mereka dapat mengalahkan [Foesoldiers].</li>
+    <li>Pengaturan (tag = meme_transhumanist) -> [Foundername] adalah biosiasi pada masa -masa awal penjajahan planet manusia.Melihat pembatasan birokrasi dari koloni -koloni umum, ia mengambil sebuah kapal kecil untuk menemukan gerakannya sendiri.</li>
+    <li>Story (use = 1, tag = meme transhumanist) -> [nama pendiri] menyatukan tim ilmuwan dan penemu hebat untuk mendefinisikan kembali kemanusiaan.</li>
+    <li>LessonIntr (TAG = Meme_Transhumanist) -> Peneliti tertua di divisi saya mengajari saya sejarah teknologi, dari Neolitikum hingga Archeoteca, tetapi ini bukan pelajarannya yang sebenarnya.Saya benar -benar akan mengerti itu</li>
+    <li>Pelajaran (TAG = Meme Transhumanist) -> Masa Depan Surgawi Kemanusiaan bukanlah masalah dan darah, tetapi silikon dan eksokom</li>
+    <li>Lessonreinforcement (tag = meme_transhumanist) -> Saya bahkan telah menjadwalkan simulasi untuk mengonfirmasi.</li>
+    <li>ArchistBasis (tag = meme_transhumanist) -> Pencarian teknologi oleh umat manusia memunculkan archaeoteca yang maha kuasa sebagai langkah sah berikutnya dalam pengembangan kesadaran.</li>
+    <li>ArchistFact (tag = meme_transhumanist) -> Teknologi memungkinkan manusia terlihat lebih seperti arkeoteknik.</li>
+    <li>ArchistProphy (tag = meme_transhumanist) -> [Intheend], arkeoteknik akan pergi.Hanya mereka yang cukup ditingkatkan yang bisa ikut dengan mereka.</li>
+    <li>AnimistBasis (tag = meme_transhumanist) -> Dunia spiritual mempromosikan semua tindakan alam semesta, dan hanya belajar dan mengendalikan hukum alam semesta yang dapat kita berintegrasi ke dalamnya.</li>
+    <li>Animistfact (tag = meme_transhumanist) -> yang serupa mencari sejenisnya, membangun perangkat untuk suatu tujuan dan akan diisi dengan semangat yang sama.</li>
+    <li>Animistfact (tag = meme_transhumanist) -> Ketika teknologi bergabung dengan daging, keduanya roh bergabung dan menjadi lebih kuat.</li>
+    <li>Animistprophy (tag = meme_transhumanist) -> [ititSaid] Bahwa suatu hari pembawa peninggalan [reli_name] akan mengadakan roh yang akan mengajarkan kemanusiaan teknologi biofusion definitif.</li>
+  </Transhumanist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>MEMEADTIVE-> TEKNOLOGI</li>
+    <li>MEMEADJECTIVE-> MESIN</li>
+    <li>MEMEADTIVE-> INDUSTRI</li>
+    <li>Sacking-> School</li>
+    <li>Memecreed-> Academy</li>
+    <li>memecreed-> universitas</li>
+    <li>memecreed-> filsafat</li>
+    <li>memehyphenprefix-> techno</li>
+    <li>memehyphenprefix-> cyber</li>
+    <li>memehyphenprefix-> haxor</li>
+    <li>memehyphenprefix-> wire</li>
+    <li>Memeconscept-> Technology</li>
+    <li>Memeconscept-> Silicon</li>
+    <li>Memeconscept-> artificu</li>
+    <li>Memeconcept-> augmentasi</li>
+    <li>Memeconscept-> Peningkatan</li>
+    <li>meme</li>
+    <li>Memleadernoun-> superuser</li>
+    <li>Memleadernoun-> booster</li>
+    <li>memeLeaderadjective-> techno</li>
+    <li>Memleeaderadjective-> cyber</li>
+    <li>bahkan menginstal</li>
+    <li>bahkan diperbaiki</li>
+    <li>MEMEMORALIST-> Uplifter</li>
+    <li>Memoralis-> Teknologi</li>-><Transhumanist.generalRules.rulesStrings>
+    <li>MEMEADTIVE-> TEKNOLOGI</li>
+    <li>Memeadjective-> mesin</li>
+    <li>MEMEADTIVE-> INDUSTRI</li>
+    <li>Sifat kata-kata dari emp-> teknologi</li>
+    <li>Kata sifat meme-> mesin</li>
+    <li>MEMEADTIVE-> INDUSTRI</li>
+    <li>Memecreed-> Institute</li>
+    <li>Penafian-> sekolah</li>
+    <li>memecreedfem-> Academia</li>
+    <li>Memecreedfem-> University</li>
+    <li>Memecreedfem-> filsafat</li>
+    <li>memehyphenprefix-> tecno</li>
+    <li>memehyphenprefix-> ciber</li>
+    <li>memehyphenprefix-> compu</li>
+    <li>Memeconcept-> Technological</li>
+    <li>Memeconscept-> Silicon</li>
+    <li>Memeconcept-> Buatan</li>
+    <li>Memeconpt-> meningkat</li>
+    <li>Memeconscept-> Perbaikan</li>
+    <li>memeconceptdef-> l silicon</li>
+    <li>memeconceptdef-> buatan</li>
+    <li>memeconptdef-> l meningkat</li>
+    <li>Memeconceptdef-> perbaikan</li>
+    <li>memeLeadernoun-> komputer</li>
+    <li>mamalia</li>
+    <li>Memleadernoun-> diamplifikasi</li>
+    <li>Memleeaderadjective-> technologi</li>
+    <li>MemeLeaderAdjective-> Cybernetic</li>
+    <li>Bahkan menginstal</li>
+    <li>Mememoralist-> Perbaikan</li>
+    <li>Mememoralist-> Impriver</li>
+    <li>Memoralis-> Teknologi</li>
+  </Transhumanist.generalRules.rulesStrings>
+  <!-- EN: technologistic -->
+  <Transhumanist.symbolPacks.0.adjective>Teknologi</Transhumanist.symbolPacks.0.adjective>
+  <!-- EN: Technologism -->
+  <Transhumanist.symbolPacks.0.ideoName>Teknologi</Transhumanist.symbolPacks.0.ideoName>
+  <!-- EN: technologist -->
+  <Transhumanist.symbolPacks.0.member>teknologis</Transhumanist.symbolPacks.0.member>
+  <!-- EN: technology -->
+  <Transhumanist.symbolPacks.0.theme>teknologi</Transhumanist.symbolPacks.0.theme>
+  <!-- EN: progressist -->
+  <Transhumanist.symbolPacks.1.adjective>progresif</Transhumanist.symbolPacks.1.adjective>
+  <!-- EN: Progressism -->
+  <Transhumanist.symbolPacks.1.ideoName>Progresivisme</Transhumanist.symbolPacks.1.ideoName>
+  <!-- EN: progressor -->
+  <Transhumanist.symbolPacks.1.member>Kemajuan</Transhumanist.symbolPacks.1.member>
+  <!-- EN: progress -->
+  <Transhumanist.symbolPacks.1.theme>kemajuan</Transhumanist.symbolPacks.1.theme>
+  <!-- EN: machinist -->
+  <Transhumanist.symbolPacks.2.adjective>pengemudi</Transhumanist.symbolPacks.2.adjective>
+  <!-- EN: Machinism -->
+  <Transhumanist.symbolPacks.2.ideoName>Mesin</Transhumanist.symbolPacks.2.ideoName>
+  <!-- EN: machinist -->
+  <Transhumanist.symbolPacks.2.member>pengemudi</Transhumanist.symbolPacks.2.member>
+  <!-- EN: machinery -->
+  <Transhumanist.symbolPacks.2.theme>mesin</Transhumanist.symbolPacks.2.theme>
+  <!-- EN: steelist -->
+  <Transhumanist.symbolPacks.3.adjective>Metalurgi</Transhumanist.symbolPacks.3.adjective>
+  <!-- EN: Steelism -->
+  <Transhumanist.symbolPacks.3.ideoName>Metalurgi</Transhumanist.symbolPacks.3.ideoName>
+  <!-- EN: steeler -->
+  <Transhumanist.symbolPacks.3.member>Metalurgi</Transhumanist.symbolPacks.3.member>
+  <!-- EN: steel -->
+  <Transhumanist.symbolPacks.3.theme>Baja</Transhumanist.symbolPacks.3.theme>
+  <!-- EN: automatist -->
+  <Transhumanist.symbolPacks.4.adjective>Automaton</Transhumanist.symbolPacks.4.adjective>
+  <!-- EN: Automatism -->
+  <Transhumanist.symbolPacks.4.ideoName>Otomatisme</Transhumanist.symbolPacks.4.ideoName>
+  <!-- EN: automator -->
+  <Transhumanist.symbolPacks.4.member>Automaton</Transhumanist.symbolPacks.4.member>
+  <!-- EN: automata -->
+  <Transhumanist.symbolPacks.4.theme>Automaton</Transhumanist.symbolPacks.4.theme>
+  <!-- EN: augmentist -->
+  <Transhumanist.symbolPacks.5.adjective>Augmentistik</Transhumanist.symbolPacks.5.adjective>
+  <!-- EN: Augmentism -->
+  <Transhumanist.symbolPacks.5.ideoName>Meningkatkan</Transhumanist.symbolPacks.5.ideoName>
+  <!-- EN: augmentor -->
+  <Transhumanist.symbolPacks.5.member>Augmentistik</Transhumanist.symbolPacks.5.member>
+  <!-- EN: augmentation -->
+  <Transhumanist.symbolPacks.5.theme>meningkatkan</Transhumanist.symbolPacks.5.theme>
+  
+  <!-- EN: tree connection -->
+  <TreeConnection.label>koneksi pohon</TreeConnection.label>
+  <!-- EN: Trees are the essence of life, and we must be near them. -->
+  <TreeConnection.description>Pohon adalah inti dari kehidupan, dan kita harus dekat dengan mereka.</TreeConnection.description>
+  <!-- EN:
+    <li>Creation (tag = meme_treeconnection) -> [deity0_name] mengakar pohon dengan kuat di tanah, namun membuat mereka tumbuh dengan mantap ke surga.Ini adalah pelajaran pertama [deity0_name] tentang cara mengetahui [deity0_objective].</li>
+    <li>Episode (use = 1, tag = meme_treeconnection) -> [deity0_name] Hutan memperbarui udara bahwa [dewa0_possessives] orang bernafas, dan memberikan dahan di mana mereka berlindung, dan merupakan lemari besi di mana mereka mencari makan.</li>
+    <li>intro (tag = meme_treeconnection) -> Ketika arborist asli pertama kali datang ke [place_summary] [place_name], mereka menciptakan hutan suci [Treeetype] di mana mereka dapat menyembah [dewa0_type] [dewa0_name].</li>
+    <li>Konflik (tag = meme_treeconnection) -> Sebuah [foeleader] serakah menebang banyak hutan untuk peternakan dan pabrik [foeleader_possessive], dan [anggota yang tidak ada] menangis untuk pohon -pohon yang terbunuh.</li>
+    <li>founderjoin (tag = meme_treeconnection) -> nabi [foundername] secara ajaib lahir dari pohon di [place_name], dan ditemukan oleh orang tua [pendiri_possessive] di dahan pohon [Treetype] yang lama.</li>
+    <li>Victory (tag = meme_treeconnection) -> [foundername] menemukan [foeleader] tidur di [place_powercenter], dan meletakkan biji di atas dada [foeleader].Dengan kekuatan ganas [deity0_name] yang berakar di sana, tumbuh melalui tubuh [foeleader_possessive], mengambil balas dendam pada pembunuh pohon.</li>
+    <li>Pengaturan (tag = meme_treeconnection) -> Di dunia yang kurang kedalaman dan makna, [FoundName] bermeditasi di hutan, menghubungkan dengan cabang dan akar dan daun, dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_treeconnection) -> [Foundername] membawa yang lelah ke hutan sehingga mereka dapat beristirahat di tempat teduh, dan bernafas di udara, dan diperbarui.</li>
+    <li>LessonIntro (tag = meme_treeconnection) -> Sepertinya Anda suka lelucon untuk mengatakan bahwa saya belajar ini sambil duduk di bawah pohon.Tapi mendengarkan daunnya yang berbisik, aku tahu itu</li>
+    <li>Pelajaran (tag = meme_treeconnection) -> tidak ada entitas di alam semesta yang tahu lebih dari pohon</li>
+    <li>Penguatan Pelajaran (tag = meme_treeconnection) -> Biarkan benih kebenaran ini tumbuh dan beralih dan beruang di dalam jiwa Anda.</li>
+    <li>ArchistBasis (tag = meme_treeconnection) -> pohon melambangkan archotechs.Seperti pohon ek kuno, mereka mengerdilkan biji kecil dari mana mereka tumbuh, dan pengaruhnya menyebar melalui akar yang tidak terlihat di bawah permukaan.</li>
+    <li>ArchistFact (tag = meme_treeconnection) -> Archotechs mengembangkan kemampuan psikis mereka setelah menemukan pohon anima.</li>
+    <li>ArchistFact (tag = meme_treeconnection) -> Archotechs memilih untuk mengekspresikan diri mereka melalui, dari semua hal, jenis pohon yang unik.</li>
+    <li>ArchistProphecy (tag = meme_treeconnection) -> [Intheend], Archotechs akan menumbuhkan hutan besar.Transendensi akan tumbuh di dalamnya yang memasuki hutan dan memakan buahnya.Mereka yang telah melupakan pohon -pohon akan dilupakan oleh Archotech.</li>
+    <li>animistfact (tag = meme_treeconnection) -> roh pohon melindungi mereka yang tinggal di bawah cabang mereka.</li>
+    <li>animistfact (tag = meme_treeconnection) -> roh pohon sangat kuat, karena mereka menjembatani kekuatan udara di atas dengan tanah di bawahnya.</li>
+    <li>animistfact (tag = meme_treeconnection) -> Jika pohon tumbang di hutan, semangatnya membuat suara yang bisa didengar oleh semua roh lainnya.</li>-><TreeConnection.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_treeconnection) -> [deity0_name] mengakar pohon dengan kuat di bumi, tetapi membuatnya tumbuh dengan kuat ke arah langit.Ini adalah pelajaran pertama [deity0_name] untuk bertemu [deity0_objective].</li>
+    <li>Episode (use = 1, tag = meme_treeconnection) -> Hutan [dewa0_name] memperbarui udara yang bernafas, dan memberikan cabang -cabang di mana mereka terlindung, dan itu adalah dapur tempat mereka memberi makan.</li>
+    <li>intro (tag = meme_treeconnection) -> Ketika tren asli tiba untuk pertama kalinya untuk [place_summary] [place_name], mereka menciptakan pohon sakral [Treetype] di mana mereka dapat menyembah [dewa0_name].</li>
+    <li>Konflik (tag = meme_treeconnection) -> [foeleader] serakah berbicara banyak hutan untuk pertanian dan pabrik mereka, dan [anggotaNameplural] menangis untuk pohon -pohon yang terbunuh.</li>
+    <li>Founderjoin (tag = meme_treeconnection) -> nabi [foundername] dilahirkan secara ajaib dari pohon di [place_name], dan ditemukan oleh orang tuanya di cabang pohon tua [Treetype].</li>
+    <li>Victory (tag = meme_treeconnection) -> [foundername] menemukan [foeleader] tidur di [place_powecenter], dan meletakkan biji di dada [foeleader].Dengan kekuatan sengit [dewa0_name] ia berakar di sana, tumbuh melalui tubuhnya, membalas pembunuh pohon.</li>
+    <li>Pengaturan (tag = meme_treeconnection) -> Di dunia tanpa kedalaman dan makna, [FoundName] bermeditasi di hutan, menghubungkan dengan cabang, akar dan daun, dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_treeconnection) -> [FoundName] membawa lelah ke hutan untuk beristirahat dalam bayangan mereka, menghirup udara mereka dan memperbarui diri.</li>
+    <li>LessonIntr (tag = meme_treeconnection) -> Mungkin tampak lelucon untuk mengatakan bahwa saya mengetahui ini duduk di bawah pohon.Tapi mendengar bisikan daunnya, aku tahu itu</li>
+    <li>Pelajaran (tag = meme_treeconnection) -> tidak ada entitas alam semesta yang tahu lebih dari pohon</li>
+    <li>Pelajaran pendaftaran (tag = meme_treeconnection) -> Biarkan benih kebenaran ini tumbuh dan berbuah di jiwa Anda.</li>
+    <li>ArchistBasis (tag = meme_treeconnection) -> pohon melambangkan perpustakaan Archeoteca.Sebagai pohon ek kuno, mereka mengerdilkan biji kecil dari mana mereka muncul, dan pengaruhnya meluas melalui akar yang tidak terlihat di bawah permukaan.</li>
+    <li>ArchistFact (tag = meme_treeconnection) -> The Archeotechnics mengembangkan keterampilan psikis mereka setelah menemukan pohon jiwa.</li>
+    <li>ArchistFact (tag = meme_treeconnection) -> Archeotechnics memilih untuk mengekspresikan, antara lain, melalui satu jenis pohon.</li>
+    <li>ArchistProphy (tag = meme_treeconnection) -> [Intheend], lengkungan akan menumbuhkan hutan besar.Transendensi akan tumbuh pada mereka yang memasuki hutan dan memakan buah -buahan mereka.Mereka yang melupakan pohon akan dilupakan oleh Archeoteca.</li>
+    <li>Animistfact (tag = meme_treeconnection) -> roh pohon melindungi mereka yang mendiami cabang mereka.</li>
+    <li>animistfact (tag = meme_treeconnection) -> roh pohon sangat kuat, karena mereka menyatukan kekuatan udara di atas dengan bumi di bawah.</li>
+    <li>animistfact (tag = meme_treeconnection) -> Jika pohon jatuh ke hutan, semangatnya memancarkan suara yang bisa didengar oleh semua roh lainnya.</li>
+  </TreeConnection.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memecreed-> root</li>
+    <li>memecreed-> daun</li>
+    <li>Memecreed-> Vine</li>
+    <li>Memecreed-> Happy</li>
+    <li>memecreed-> hutan</li>
+    <li>memeconsep-> pohon</li>
+    <li>Memeconscept-> hutan</li>
+    <li>Memeadjective-> Sturdy</li>
+    <li>Memeadjective-> Barky</li>
+    <li>meme hyphen awalan-> pohon</li>
+    <li>memehyphenprefix-> arbor</li>
+    <li>memehyphenprefix-> ranting</li>
+    <li>Memleadernoun-> Treekeeper</li>
+    <li>Memleadernoun-> arborist</li>
+    <li>memelid-> neodryid</li>
+    <li>Memleeaderadjective-> green</li>
+    <li>Memleeaderadjective-> root</li>
+    <li>MemeLeaderAdjective-> Canopy</li>
+    <li>Mememoralist-> Treespeaker</li>-><TreeConnection.generalRules.rulesStrings>
+    <li>memecreedfem-> root</li>
+    <li>memecreedfem-> sheet</li>
+    <li>Memecreedfem-> datang</li>
+    <li>Memecreed-> tentu saja</li>
+    <li>Memecreed-> hutan</li>
+    <li>Memeconsep-> pohon</li>
+    <li>Memeconscept-> Bosques</li>
+    <li>Memeconceptdef-> pohon</li>
+    <li>Memeconceptdef-> hutan</li>
+    <li>memeadjetive-> kuat</li>
+    <li>Memeadjective-> Cortex</li>
+    <li>memeadjective-> robusta</li>
+    <li>memêhyphenpreafix-> pohon</li>
+    <li>memehyphenprefix-> folium</li>
+    <li>memehyphenprefix-> ramus</li>
+    <li>Memeleadernoun-> pohon penjaga</li>
+    <li>Memleeadernoun-> cumi-cumi</li>
+    <li>MemeLeadernoun-> druid</li>
+    <li>memeLeaderadjective-> verde</li>
+    <li>Memleeaderadjective-> radicular</li>
+    <li>MemeLeaderAdjective-> Leafy</li>
+    <li>Mememoralist-> Pembicara Arbolisto</li>
+  </TreeConnection.generalRules.rulesStrings>
+  
+  <!-- EN: tunneler -->
+  <Tunneler.label>terowongan</Tunneler.label>
+  <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
+  <Tunneler.description>Manusia harus hidup di bawah tanah dan menikmati buah yang lezat dari kedalaman.</Tunneler.description>
+  <!-- EN:
+    <li>Creation (tag = meme_tunneler) -> [deity0_name] lahir di bawah bumi di pusat dunia.[deity0_pronoun] diberkati mereka yang paling dekat dengan [deity0_objective] di lembah dan terowongan terdalam.</li>
+    <li>Episode (use = 1, tag = meme_tunneler) -> [deity0_name] mengisi batu dengan mineral dan sumber daya yang kaya sebagai hadiah bagi mereka yang cukup bijak untuk menggali agar lebih dekat dengan [deity0_name].</li>
+    <li>intro (tag = meme_tunneler) -> Ketika pemukim pertama datang ke [place_summary] [place_name], [deity0_type] [deity0_name] menggunakan suar matahari yang brutal untuk memaksa mereka hidup di bawah tanah, sehingga mereka bisa mendengar [deity0_possessive] wise -neennelsness.</li>
+    <li>konflik (tag = meme_tunneler) -> [foeleader] claustrophobia yang diusulkan menggunakan [Dangerousmining] untuk menambang mineral, menempatkan rumah bawah tanah [AnggotaNameplural] 'dalam risiko.</li>
+    <li>founderjoin (tag = meme_tunneler) -> nabi [foundername] secara ajaib lahir dari batu [place_name], dan ditemukan ketika orang tua [founder_possessive] membuka geode yang tertutup jamur.</li>
+    <li>Victory (tag = meme_tunneler) -> The [anggotaNameplural] menggali terowongan di bawah [foeleader] [place_powercenter], dan [FoundName] menggunakan feromon untuk memanggil serangga raksasa yang menyerbu [foesoldiers] [foesoldiers] [foeleader].[FoundName] menyeret [foeleader] ke ruang bawah tanah yang dalam dan dipenjara [foeleader_objective].</li>
+    <li>Penambangan Berbahaya-> Penambangan Strip</li>
+    <li>Dangerousmining-> serangga microchipped</li>
+    <li>Dangerousmining-> peledakan nuklir</li>
+    <li>Pengaturan (tag = meme_tunneler) -> Di dunia yang dangkal dan tidak berarti, [Foundername] bermeditasi di gua yang dalam dan menemukan makna, dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_tunneler) -> [foundername] menyembunyikan harta di gua -gua yang dalam, sehingga [anggotaNameplural] akan belajar menggali lebih dalam untuk mereka.</li>
+    <li>LessonIntro (tag = meme_tunneler) -> Codex yang saya temukan di kota Deep mengajari saya satu pelajaran di atas yang lainnya:</li>
+    <li>Pelajaran (tag = meme tunneler) -> sifat independen yang cerah bukanlah tempat yang tumbuh manusia, tetapi tempat kematian</li>
+    <li>Lessonreinforcement (tag = meme_tunneler) -> jadi ambil sekop, dan mulailah menggali dengan saya.Itu hanya kuburan jika kita berhenti.</li>
+    <li>ArchistBasis (tag = meme_tunneler) -> Tubuh Archotechs jauh di bawah tanah, sehingga substrat sadar mereka aman dari sinar gamma dan suar surya.Menggali lebih dalam membawa orang lebih dekat dengan mereka.</li>
+    <li>ArchistFact (TAG = Meme_tunneler) -> Archotechs Bio -Enginy Nutrifungus untuk kita sehingga umat manusia dapat berkembang di bawah tanah, dekat dengan pikiran Archotech yang terkubur.</li>
+    <li>ArchistProphecy (tag = meme_tunneler) -> [Intheend], Archotechs akan mengakui kita ke langit bawah tanah mereka.</li>
+    <li>animistfact (tag = meme_tunneler) -> roh di batuan dasar akan melindungi mereka yang mengunjunginya.</li>
+    <li>AnimistFact (tag = meme_tunneler) -> Semangat yang paling mulia adalah dari batu, dan batu yang lebih dalam lebih kuat dan lebih baik daripada di atas.</li>
+    <li>animistfact (tag = meme_tunneler) -> manusia yang cemas membuat semangat batu -batu cemas, dan ini memanggil serangga raksasa.</li>-><Tunneler.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_tunneler) -> [deity0_name] lahir di bawah tanah di pusat dunia.Dia memberkati yang terdekat dengan [dewa0_pronoun] dari lembah dan terowongan terdalam.</li>
+    <li>Episode (use = 1, tag = meme_tunneler) -> [deity0_name] mengisi batu dengan mineral dan sumber daya yang kaya sebagai hadiah bagi mereka yang cukup bijak untuk menggali agar lebih dekat dengan [deity0_name].</li>
+    <li>intro (tag = meme_tunneler) -> Ketika pemukim pertama mencapai [place_summary] [place_name], [deity0_type] [deity0_name] menggunakan suar surya brutal untuk memaksa mereka hidup di bawah tanah, dan dengan demikian dapat mendengarkan kelakuan mereka di ketinggian tunnel.</li>
+    <li>Konflik (tag = meme_tunneler) -> Sebuah cloisterfybic [foeleader] mengusulkan untuk menggunakan [Dangerousmining] untuk mengekstraksi mineral, berisiko di rumah bawah tanah [AnggotaNameplural].</li>
+    <li>Founderjoin (tag = meme_tunneler) -> nabi [foundername] secara ajaib lahir dari batu [place_name], dan ditemukan ketika orang tuanya memecahkan geoda yang ditutupi dengan jamur.</li>
+    <li>Victory (tag = meme_tunneler) -> The [anggotaNameplural] menggali terowongan di bawah [place_powecenter] dari [foeleader], dan [FoundName] menggunakan feromon untuk memanggil serangga raksasa yang menyerbu [faesoldiers] dari [foeeleader].[FoundName] menyeret [foeleader] ke penjara bawah tanah yang dalam dan memenjarakannya.</li>
+    <li>Penambangan Berbahaya-> Penambangan Terbuka</li>
+    <li>Dangerousmining-> Insectos con microchips</li>
+    <li>Penambangan Berbahaya-> Ledakan Nuklir</li>
+    <li>Pengaturan (tag = meme_tunneler) -> Di dunia yang dangkal dan tidak berarti, [FoundName] bermeditasi di gua yang dalam dan menemukan artinya, dan mendirikan gerakan kami.</li>
+    <li>Story (use = 1, tag = meme_tunneler) -> [foundername] untuk menyembunyikan properti gua yang dalam, jadi [membranemplural] belajar menggali kedalaman untuk menemukannya.</li>
+    <li>LessonIntr (tag = meme_tunneler) -> Codex yang saya temukan di kota kedalaman mengajari saya pelajaran di atas semua yang lain:</li>
+    <li>Pelajaran (tag = meme tunneler) -> di luar matahari bukanlah tempat berbunga manusia, tetapi tempat kematian</li>
+    <li>Lessonreinforcement (tag = meme_tunneler) -> jadi ambil sekop dan mulailah menggali dengan saya.Itu hanya kuburan jika kita berhenti.</li>
+    <li>ArchistBasis (tag = meme_tunneler) -> Tubuh Archeoteca sangat dalam, sehingga substrat sadar mereka aman dari sinar gamma dan ruam matahari.Cavar lebih dalam membawa orang kepada mereka.</li>
+    <li>ArchistFact (tag = meme_tunneler) -> The Archeotechnics menciptakan nutrihongo sehingga kemanusiaan dapat makmur di bawah tanah, dekat pikiran arkeoteknik yang terkubur.</li>
+    <li>ArchistProphy (tag = meme_tunneler) -> [Intheend], arkeoteknik akan menerima kita di langit bawah tanah mereka.</li>
+    <li>AnimistFact (tag = meme_tunneler) -> Semangat tempat tidur batu akan melindungi mereka yang mengunjunginya.</li>
+    <li>Fakta Animist (TAG = Tunneler) -> Semangat yang paling mulia adalah batu dari batu, dan batu -batu terdalam lebih kuat dan lebih baik daripada permukaan.</li>
+    <li>Animistfact (tag = meme_tunneler) -> manusia yang cemas membuat semangat batu gugup, dan ini memohon insektoid raksasa.</li>
+  </Tunneler.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memecreed-> gua</li>
+    <li>memecreed-> bunker</li>
+    <li>memecreed-> poros</li>
+    <li>Memeadjective-> Deep</li>
+    <li>memehyphenprefix-> batu</li>
+    <li>memehyphenprefix-> gua</li>
+    <li>memehyphenprefix-> Deep</li>
+    <li>memehyphenprefix-> sub</li>
+    <li>memehyphenprefix-> di bawah</li>
+    <li>Memeconcept-> Earth</li>
+    <li>Memeconscept-> Stone</li>
+    <li>Memeconscept-> kedalaman</li>
+    <li>Memeconscept-> Pemakaman</li>
+    <li>memeLeaderNoun->foredigger</li>
+    <li>memelid-> depes</li>
+    <li>Memlerer Zound-> Shaft</li>
+    <li>Memleeaderadjective-> Deep</li>
+    <li>Mememoralist-> TruthDigger</li>
+    <li>Mememoralist-> ThoughtDigger</li>
+    <li>Mememoralist-> Mindminer</li>-><Tunneler.generalRules.rulesStrings>
+    <li>Memecreedfem-> cueva</li>
+    <li>Memecreed-> bunker</li>
+    <li>Memecreed-> Astil</li>
+    <li>memeadjetive-> Deep</li>
+    <li>memeadjetifefem-> Deep</li>
+    <li>Memehyphenprefix-> stony</li>
+    <li>Awalan hyphen meme-> corvus</li>
+    <li>memêhyphenpreafix-> Deep</li>
+    <li>Memehyphenprefix-> kirim</li>
+    <li>memenhyphenpreafix-> bassus</li>
+    <li>Memeconscept-> Bumi</li>
+    <li>Memeconscept-> piedra</li>
+    <li>Memeconect-> kedalaman</li>
+    <li>Memeconceptdef-> bumi</li>
+    <li>Memeconceptdef-> batu</li>
+    <li>Memeconceptdef-> kedalaman</li>
+    <li>Memleadernoun-> excavador</li>
+    <li>Memleadernoun-> probe</li>
+    <li>Memleadernoun-> roller</li>
+    <li>Memleeaderadjective-> Deep</li>
+    <li>Mememoralist-> excavador</li>
+    <li>Mememoralist-> Cavador</li>
+    <li>Mememoralist-> Mineromental</li>
+  </Tunneler.generalRules.rulesStrings>
+  
+</LanguageData>

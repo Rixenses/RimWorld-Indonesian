@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can dismiss letters and messages by right-clicking on them. -->
+  <GameplayTips.DismissLetters>Anda dapat mengesampingkan pemberitahuan dan pesan dengan mengkliknya.</GameplayTips.DismissLetters>
+  <!-- EN: You can hold the shift key to queue orders on your colonists. -->
+  <GameplayTips.QueueOrders>Anda dapat menjaga kunci shift untuk memasukkan pesanan di ekor ke pemukim Anda.</GameplayTips.QueueOrders>
+  <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
+  <GameplayTips.ReorderColonistbar>Anda dapat mengklik kanan dan menyeret untuk mengubah urutan pemukim Anda di bar Colonos.</GameplayTips.ReorderColonistbar>
+  <!-- EN: You can select the previous or next colonist with the , and . keys. -->
+  <GameplayTips.SelectPrevNextColonist>Anda dapat memilih pemukim sebelumnya dan yang berikutnya dengan kunci "," dan "."</GameplayTips.SelectPrevNextColonist>
+  <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
+  <GameplayTips.SettingPainting>Banyak menu memungkinkan mengklik dan menyeret penyesuaian untuk memperpanjangnya ke berbagai entri.Ini bekerja bahkan untuk unsur -unsur seperti pakaian atau pembatasan makanan.</GameplayTips.SettingPainting>
+  <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
+  <GameplayTips.ManualPriorities>Dalam prioritas manual tab "pekerjaan", 1 adalah prioritas tertinggi, sedangkan 4 adalah yang paling sedikit.</GameplayTips.ManualPriorities>
+  <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
+  <GameplayTips.ColonistMood>Humor dari masing -masing pemukim ditampilkan di bagian bawah ikon mereka di bar kolonis, di bagian atas layar.</GameplayTips.ColonistMood>
+  <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
+  <GameplayTips.WorkTabChangeAllColonists>Tetap shift dengan mengklik nama jenis pekerjaan pada tab "Work" Ubah pengaturan untuk semua pemukim secara bersamaan.</GameplayTips.WorkTabChangeAllColonists>
+  <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
+  <GameplayTips.WorkTabDecreasePriority>Klik kanan pada nomor tab "berfungsi" saat menggunakan prioritas manual akan mengurangi prioritas alih -alih meningkatkannya.</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>Anda dapat menekan tombol ALT untuk menampilkan informasi terperinci pada kotak tertentu.</GameplayTips.CellInspector>
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
+  <GameplayTips.GunfightCover>Dalam penembakan, selalu tetap di belakang beberapa liputan!Klik kanan dan seret sehingga pejuang Anda membentuk garis.</GameplayTips.GunfightCover>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
+  <GameplayTips.GunfightSpread>Dalam penembakan, tersebar ke pemukim Anda!Tujuan yang ramai mudah dipengaruhi.</GameplayTips.GunfightSpread>
+  <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
+  <GameplayTips.ShootingAccuracySmoke>Asap benar -benar mencegah tujuan yang mengidentifikasi menara, tetapi orang masih bisa menembak - dengan tujuan yang dikurangi.</GameplayTips.ShootingAccuracySmoke>
+  <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
+  <GameplayTips.DesignDefenses>Saat merancang pertahanan, perlu diingat bahwa beberapa musuh akan menggunakan kapsul pendaratan atau terowongan.Bangun posisi defensif internal.</GameplayTips.DesignDefenses>
+  <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
+  <GameplayTips.ShootingAccuracyFogRain>Kabut dan hujan mengurangi ketepatan senjata jarak jauh.</GameplayTips.ShootingAccuracyFogRain>
+  <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
+  <GameplayTips.ShootingTooltip>Anda dapat menganalisis probabilitas bahwa bidikan berdampak dengan memilih penembak dan menempatkan mouse di atas target.</GameplayTips.ShootingTooltip>
+  <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
+  <GameplayTips.TurretsExplode>Torretas meledak ketika mereka menerima banyak kerusakan.Jangan menempatkan mereka sangat dekat satu sama lain, dan jangan menempatkan orang -orang Anda sangat dekat dengan mereka.</GameplayTips.TurretsExplode>
+  <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
+  <GameplayTips.AnimalDeathExplosion>Beberapa hewan meledak ketika mereka mati.Anda dapat menggunakan kapsul transportasi untuk meluncurkan hewan ke musuh.Pikirkan itu.</GameplayTips.AnimalDeathExplosion>
+  <!-- EN: If you need help in a fight, call your allies using the comms console. -->
+  <GameplayTips.CallAllies>Jika Anda membutuhkan bantuan dalam pertarungan, hubungi sekutu Anda menggunakan konsol komunikasi.</GameplayTips.CallAllies>
+  <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
+  <GameplayTips.MaddenedAnimals>Hewan yang ramai akan menyerang manusia mana pun, termasuk musuh Anda.Anda dapat memanfaatkan ini.</GameplayTips.MaddenedAnimals>
+  <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
+  <GameplayTips.EMPDisablesTurretsShields>Burst PEM sementara akan menonaktifkan menara, mortir, dan perisai.</GameplayTips.EMPDisablesTurretsShields>
+  <!-- EN: EMP bursts instantly break personal shields. -->
+  <GameplayTips.EMPDisablesPersonalShields>PEM BURST Break langsung perisai pribadi.</GameplayTips.EMPDisablesPersonalShields>
+  <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
+  <GameplayTips.HunterStealth>Statistik "pemburu siluman" mengurangi kemungkinan diserang oleh hewan.Ini dipengaruhi oleh keterampilan "hewan" dan "tembakan" pemburu.</GameplayTips.HunterStealth>
+  <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
+  <GameplayTips.AnimalsAttackCloseRange>Hewan lebih cenderung menyerang yang terluka dari jarak dekat.Senjata panjang -range dengan irama rendah lebih aman untuk berburu.</GameplayTips.AnimalsAttackCloseRange>
+  <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
+  <GameplayTips.AnimalsMayAttack>Ada seluruh kawanan hewan yang dapat menyerang Anda jika Anda mencoba memburu mereka.Terima risiko sebelum berburu, atau pilih bendungan yang lebih lemah.</GameplayTips.AnimalsMayAttack>
+  <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
+  <GameplayTips.AnimalDeathExplosionRain>Jika para pejuang Ratabum dan Bumalopes saat hujan, kematian mereka tidak akan menyebabkan kebakaran hutan.</GameplayTips.AnimalDeathExplosionRain>
+  <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
+  <GameplayTips.GreaterSlaughterYield>Hewan yang dikorbankan dengan hati -hati menghasilkan lebih banyak daging dan kulit daripada yang dikorbankan dengan keras.</GameplayTips.GreaterSlaughterYield>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>Tempatkan titik pertemuan karavan tempat Anda ingin karavan Anda terbentuk.Secara umum, lebih baik menempatkannya di dekat area penyimpanan.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>Selama pertemuan yang jauh dari rumah, Anda dapat menempatkan titik pertemuan bagi karavan untuk mencegah hewan Anda berkeliaran.</GameplayTips.CaravanHitchingSpotRoamers>
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>Karavan bergerak lebih cepat jika mereka termasuk hewan yang dapat dipasang seperti kuda, keledai dan dromedari.</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
+  <GameplayTips.CaravanSmallerLessVisible>Karavan kecil menderita lebih sedikit serangan karena mereka kurang terlihat.</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>Sebelum membentuk karavan, menyimpan benda -benda yang ingin Anda kirim di gudang di dekat titik beban karavan Anda.Ini akan membuat koleksi lebih cepat.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
+  <GameplayTips.CaravanUntrainedAnimals>Jika Anda membawa hewan tanpa berlatih dengan karavan Anda, Anda dapat memisahkan mereka menjadi karavan lain sebelum menyerang musuh untuk menjaga mereka keluar dari pertarungan.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.CaravanDontForgetMedicine>Jangan lupa memakai obat -obatan di karavan Anda.</GameplayTips.CaravanDontForgetMedicine>
+  <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
+  <GameplayTips.StoryGenerator>Rimworld adalah generator cerita, bukan tes keterampilan.Koloni reruntuhan adalah tragedi dramatis, bukan kegagalan.</GameplayTips.StoryGenerator>
+  <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
+  <GameplayTips.BadAllies>Beberapa pemukim lebih buruk dari tidak berguna.Sekutu yang buruk adalah bagian dari tantangan.</GameplayTips.BadAllies>
+  <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Jika Anda tidak dapat membela diri terhadap ancaman, itu membentuk karavan dan melarikan diri.Anda bisa kehilangan rumah, tetapi cerita Anda bisa berlanjut.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>Ketika Anda memiliki lebih banyak kekayaan, mereka akan menyerang lebih banyak musuh.Jika Anda ingin tantangan untuk berkembang dari waktu ke waktu, pilih "Mode Kemajuan Kekayaan Independen" dalam konfigurasi narator.</GameplayTips.FixedWealthMode>
+  <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
+  <GameplayTips.StoneDoors>Hindari menggunakan batu untuk pintu.Mereka membuka sangat lambat, membuang waktu pemukim Anda.</GameplayTips.StoneDoors>
+  <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
+  <GameplayTips.ChairsWorkbench>Letakkan kursi di depan bank kerja sehingga pekerja Anda dapat duduk dengan nyaman saat bekerja.</GameplayTips.ChairsWorkbench>
+  <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
+  <GameplayTips.MechanicalBreakdown>Struktur mekanis ditemukan dan membutuhkan komponen penggantian.Jangan membangun hal -hal yang tidak Anda butuhkan.</GameplayTips.MechanicalBreakdown>
+  <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
+  <GameplayTips.CarefulConstructionOnBridges>Berhati -hatilah dengan apa yang Anda bangun di jembatan Anda.Jembatan runtuh dengan mudah dengan ledakan, dan bangunan Anda akan jatuh bersama mereka.</GameplayTips.CarefulConstructionOnBridges>
+  <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
+  <GameplayTips.CleanRooms>Kamar bersih meningkatkan kecepatan penelitian, meningkatkan hasil medis, dan mengurangi polusi makanan.Ubin steril membuat kamar yang lebih bersih dari biasanya.</GameplayTips.CleanRooms>
+  <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
+  <GameplayTips.ColonyOneStructure>Membangun seluruh koloni Anda dalam satu struktur menghemat sumber daya, tetapi juga membuat penahanan api.</GameplayTips.ColonyOneStructure>
+  <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
+  <GameplayTips.TerrainMovementSpeed>Medan mempengaruhi kecepatan gerakan.Bangun tanah untuk membantu pemukim Anda bergerak lebih cepat.</GameplayTips.TerrainMovementSpeed>
+  <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
+  <GameplayTips.TerrainCleanliness>Tanah yang berbeda memiliki tingkat pembersihan bawaan yang berbeda.Ubinnya secara inheren bersih;Bumi secara inheren kotor.</GameplayTips.TerrainCleanliness>
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>Beberapa jenis tanah lebih cepat dibersihkan daripada yang lain.Butuh lebih lama untuk membersihkan karpet dibandingkan dengan kotak logam.</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>Anda dapat memberi tahanan sebagai hadiah.Mengembalikan seorang tahanan ke faktanya sendiri akan sangat dihargai.</GameplayTips.PrisonersAsGifts>
+  <!-- EN: You can request specific types of trade caravans using the comms console. -->
+  <GameplayTips.RequestTradeCaravans>Anda dapat meminta jenis karavan komersial tertentu menggunakan konsol komunikasi.</GameplayTips.RequestTradeCaravans>
+  <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
+  <GameplayTips.TransportPodsSendGift>Anda dapat menggunakan kapsul transportasi untuk mengirim hadiah langsung ke pangkalan faksi ramah ... dan bahkan musuh.Ini meningkatkan hubungan antar faksi.</GameplayTips.TransportPodsSendGift>
+  <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
+  <GameplayTips.KeepingPrisonersTogether>Menjaga para tahanan bersama -sama kecuali ruang.Namun, ini menyebabkan mereka mencoba melarikan diri bersama.</GameplayTips.KeepingPrisonersTogether>
+  <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
+  <GameplayTips.EnemyFactionBaseDefenses>Basis faksi musuh sangat dipertahankan.Anda tidak perlu menyerang mereka, tetapi bersiaplah dengan baik ketika Anda memutuskan untuk melakukannya.</GameplayTips.EnemyFactionBaseDefenses>
+  <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
+  <GameplayTips.AnimalNuzzle>Hewan domestik yang cantik akan membelai pemukim Anda, meningkatkan humor mereka.</GameplayTips.AnimalNuzzle>
+  <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
+  <GameplayTips.AnimalHerbivorousGrassArea>Tetapkan hewan herbivora Anda ke daerah -daerah dengan banyak rumput.Mereka akan memakan rumput dan menyelamatkan Anda memberi mereka makan.</GameplayTips.AnimalHerbivorousGrassArea>
+  <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
+  <GameplayTips.RemoveLimbInfection>Jika seseorang memiliki infeksi serius pada anggota, Anda dapat mengamputasi dia untuk menyelamatkan hidupnya.</GameplayTips.RemoveLimbInfection>
+  <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
+  <GameplayTips.SloshingWater>Percikan air tidak ada yang suka.Bangun jembatan saat Anda bisa.</GameplayTips.SloshingWater>
+  <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
+  <GameplayTips.Luciferium>Luciferio dapat menyembuhkan bekas luka, bahkan yang ditemukan di mata atau di otak.Namun, ini adalah komitmen permanen.</GameplayTips.Luciferium>
+  <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
+  <GameplayTips.WorkMovementSpeedLighting>Kecepatan kerja dan gerakan dipengaruhi oleh pencahayaan.Semuanya menjadi lebih lambat dalam kegelapan.</GameplayTips.WorkMovementSpeedLighting>
+  <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
+  <GameplayTips.DeepCavesTemperature>Gua -gua bawah tanah yang dalam memiliki suhu alami yang stabil, bahkan jika sangat panas atau sangat dingin di luar.</GameplayTips.DeepCavesTemperature>
+  <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
+  <GameplayTips.MountainBases>Basis pegunungan mudah dipertahankan.Sisi buruknya adalah orang -orang menjadi gila menghabiskan banyak waktu di bawah tanah.Dan insektoid raksasa.</GameplayTips.MountainBases>
+  <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
+  <GameplayTips.PrisonersGoodMood>Para tahanan akan bergabung dengan Anda lebih cepat dan melakukan lebih sedikit upaya untuk melarikan diri jika mereka dalam suasana hati yang baik.</GameplayTips.PrisonersGoodMood>
+  <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
+  <GameplayTips.MultipleResearchers>Anda dapat memiliki beberapa peneliti yang bekerja secara bersamaan di beberapa tabel penelitian.</GameplayTips.MultipleResearchers>
+  <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
+  <GameplayTips.GeysersHeatRooms>Geyser memanaskan kamar tertutup.Ini bisa berbahaya, dan juga berguna.</GameplayTips.GeysersHeatRooms>
+  <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
+  <GameplayTips.ExtinguishFireArtillery>Ledakan memadamkan api pada jari -jari ledakan mereka.Ini membuat proyektil artileri bermanfaat untuk menghentikan api ketika tidak ada pilihan lain.</GameplayTips.ExtinguishFireArtillery>
+  <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
+  <GameplayTips.BestStoriesFromDarkestSituations>Bahkan kemunduran yang paling serius tidak berarti bahwa permainan harus berakhir.Cobalah untuk memainkan pertempuran yang hilang: Seringkali, cerita terbaik muncul dari situasi yang lebih gelap.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Jauhkan reservasi senjata dari penjara.Kebocoran penjara jauh lebih berbahaya dengan senjata dan bahan peledak.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Saat menjinakkan hewan, pastikan Anda memiliki cukup makanan dari jenis yang tepat untuk memberi makan mereka.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Menjatuhkan batu atau puing -puing di pintu akan memaksa pembukaannya, membuat Anda rentan terhadap satwa liar dan penjajah yang bermusuhan.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
+  <GameplayTips.CleanLabs>Laboratorium bersih dengan ubin steril menerima bonus dengan kecepatan penelitian.</GameplayTips.CleanLabs>
+  <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
+  <GameplayTips.ChangeStoryteller>Anda dapat mengubah narator dan kesulitan kapan saja dari menu Opsi.</GameplayTips.ChangeStoryteller>
+  <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
+  <GameplayTips.MoreAlliesMoreTraders>Semakin banyak faksi sekutu Anda, semakin banyak pedagang yang akan mengunjungi Anda dan lebih banyak bantuan militer yang akan Anda terima.</GameplayTips.MoreAlliesMoreTraders>
+  <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
+  <GameplayTips.CombatDrugsFromInventory>Anda dapat menggunakan kebijakan obat sehingga pejuang Anda membawa obat tempur seperti neurozumo.Dosis cepat di awal pertarungan dapat membuat pertempuran menang.</GameplayTips.CombatDrugsFromInventory>
+  <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
+  <GameplayTips.SchedulesSetLong>Menyesuaikan jadwal dengan segmen panjang dalam aktivitas yang sama untuk meminimalkan waktu perpindahan.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>Sedotan tidak menumpuk banyak kotoran.Gunakan mereka seperti tanah untuk gudang Anda.</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>Beberapa hewan menghasilkan banyak kotoran.Jaga gajah dan sapi Anda.</GameplayTips.AnimalFilth>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>Predator tidak memburu hewan yang berada di sisi lain pagar atau barikade.</GameplayTips.PredatorsAndFences>
+  <!-- EN: It's never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
+  <GameplayTips.NeverGameOver>Game tidak pernah berakhir.Jika semua orang mati atau menghilang, Anda dapat membuat gelandangan yang mengambil alih sisa -sisa koloni Anda.</GameplayTips.NeverGameOver>
+  <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
+  <GameplayTips.StoreBooksInBookcases>Simpan buku -buku di rak.Dengan cara ini, Anda akan meningkatkan keindahan sebuah ruangan, Anda akan mempercepat meja penelitian di dekatnya dan pengalaman dan waktu luang yang diperoleh dengan membaca akan meningkat.</GameplayTips.StoreBooksInBookcases>
+  <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill's “Details...” window. -->
+  <GameplayTips.TakeToShelves>Apakah Anda ingin objek yang baru diproduksi mengambil rak beton?Ketika rak memiliki nama atau dikaitkan dengan orang lain, itu akan muncul sebagai tujuan transportasi pada tab "Detail ..." dari jendela proyek.</GameplayTips.TakeToShelves>
+  <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
+  <GameplayTips.ChangeUnits>Anda dapat memilih untuk menggunakan jam 12 jam atau mengubah unit suhu Celcius menjadi Fahrenheit di menu opsi.</GameplayTips.ChangeUnits>
+  <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
+  <GameplayTips.TargetColonistBar>Ketika Anda ingin menunjuk ke pemukim dengan kemampuan atau objek, Anda dapat melakukannya dengan memilih potret Anda di bilah penjajah atas.</GameplayTips.TargetColonistBar>
+  <!-- EN: Some buildings are more efficient if they're in a dedicated room. Workbenches in their own room make a workshop. Research benches in their own room make a laboratory. -->
+  <GameplayTips.WorkTableRoomRole>Beberapa konstruksi lebih efisien jika ada di kamar atau kamar mereka sendiri.Meja kerja di kamar mereka sendiri membentuk bengkel.Meja penelitian di kamar mereka sendiri membentuk laboratorium.</GameplayTips.WorkTableRoomRole>
+  <!-- EN: You can rename bills in the bill details dialog. -->
+  <GameplayTips.RenamingBills>Anda dapat mengganti nama proyek dalam detail proyek.</GameplayTips.RenamingBills>
+  <!-- EN: Friendly fire can't happen if the shooter is close to their ally. You can safely put melee colonists in front of gun-wielding colonists. -->
+  <GameplayTips.FriendlyFire>Api ramah tidak terjadi jika penembak dekat dengan sekutunya.Anda pasti dapat menempatkan pemukim jarak dekat di depan penjajah dengan senjata api.</GameplayTips.FriendlyFire>
+  <!-- EN: Right-click on certain buttons in the orders menu for additional options. For example, you can forbid all items on a map or cancel all hunting jobs. -->
+  <GameplayTips.RightClickGizmos>Klik kanan pada tombol -tombol tertentu dari menu Pesanan untuk melihat opsi tambahan.Misalnya, Anda dapat melarang semua objek peta atau membatalkan semua pekerjaan berburu.</GameplayTips.RightClickGizmos>
+  <!-- EN: Hold the shift key while scrolling the map to scroll faster. -->
+  <GameplayTips.FastScroll>Tekan tombol Shift saat Anda bergerak melalui peta untuk bergerak lebih cepat.</GameplayTips.FastScroll>
+  <!-- EN: Shelves aren't just for show. They increase your storage capacity by holding multiple items on the same spot. -->
+  <GameplayTips.Shelves>Rak bukan hanya dekoratif.Tingkatkan kapasitas penyimpanan Anda dengan memungkinkan beberapa objek ditempatkan di tempat yang sama.</GameplayTips.Shelves>
+  <!-- EN: Mechanoids have some psychic sensitivity. Use a psychic lance on one to turn a fight. -->
+  <GameplayTips.MechanoidPsychicSensitivity>Mecanoids memiliki sensitivitas psikis.Gunakan tombak psikis pada satu untuk mengubah jalannya pertempuran.</GameplayTips.MechanoidPsychicSensitivity>
+  <!-- EN: Most colonists hate eating insect meat. Turn it into chemfuel using a biofuel refinery. -->
+  <GameplayTips.InsectMeat>Sebagian besar pemukim tidak suka makan daging serangga.Menjadi biofuel menggunakan kilang biofuel.</GameplayTips.InsectMeat>
+  <!-- EN: Pressing Z will let you search the map for items, creatures, buildings, and more. You can search the world map too. -->
+  <GameplayTips.MapSearch>Tekan Z memungkinkan Anda untuk mencari objek, makhluk, bangunan, dan lainnya di peta.Anda juga dapat mencari di peta dunia.</GameplayTips.MapSearch>
+  
+</LanguageData>

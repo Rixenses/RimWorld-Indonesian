@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sanguophageshuttlecrashedletterlabel-> crash shuttle</li>
+    <li>Sanguophage Shuttlecrashedlettertext-> Sebuah pesawat ulang-alik yang berisi master sanguophage dan [hitralls count] Thralls telah jatuh di dekatnya.Mereka akan keluar dari kerajinan yang jatuh dan bersiap untuk bertarung.</li>
+    <li>Penguatan yang Diperkirakan Beturlabel-> Bala bantuan</li>
+    <li>THROLSITCEMENSERIVERDETTERTEXT-> Thralls tiba di drop pods untuk memperkuat sanguophage yang jatuh.</li>
+    <li>AssaultBeginletterLabel-> Assault dimulai</li>
+    <li>AssaultBeginLetTerText-> Sanguophage Master yang bermusuhan dan [sanguophage_possessive] Thralls telah memulai serangan terhadap koloni!</li>-><SanguophageShip.questContentRules.rulesStrings>
+    <li>Sanguophageshuttlecrashedletterlabel-> transfer bintang</li>
+    <li>Sanguophageshuttlecrashedlettertext-> Seorang pemerintahan dengan guru darah dan [Thralcount] Sanguiesclavo jatuh di dekatnya.Mereka akan meninggalkan kapal berbintang dan bersiap untuk bertarung.</li>
+    <li>Penguatan yang Dipertahankan Diperluh</li>
+    <li>PenghasilanarrivelyLetText-> Sanguiesclavos tiba dalam kapsul peluncuran untuk memperkuat darah berbintang.</li>
+    <li>AssaultBeginletterLabel-> serangan telah dimulai</li>
+    <li>AssaultBeginlettext-> Guru Darah yang bermusuhan dan berdarahnya telah memulai serangan terhadap koloni!</li>
+  </SanguophageShip.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mencegat sinyal kesusahan!Antar -jemput bermusuhan yang membawa master sanguofag dan [ThrallCount] Thralls mengalami masalah dengan mesinnya.Anda dapat menggunakan sinyal untuk menariknya ke kecelakaan di dekat [peta_definite]. \ N \ nonce kapal telah jatuh, Anda dapat melawan sanguophage dan antek [sanguophage_possessive].Jika Anda dapat menangkap master, Anda dapat memaksa [sanguophage_objective] untuk mengubah salah satu penjajah Anda menjadi sanguophage. \ N \ n [sanguophageInfo]</li>
+    <li>sanguophageInfo-> (*abu-abu) Tentang sanguofages: sanguofag adalah awet muda, super-manusia yang tidak mati ditenagai oleh archites yang dibuat Archotech dalam aliran darah.Mereka cantik dan sangat cerdas.Mereka dapat menyembuhkan cedera apa pun, dan tidak pernah menderita penyakit atau racun.Dalam pertempuran, mereka dapat meluncurkan duri yang mematikan dan menyembuhkan teman -teman yang terluka.Harganya adalah bahwa sanguofag harus mengkonsumsi hemogen yang berasal dari darah manusia untuk bertahan hidup, dan mereka harus mati secara berkala untuk waktu yang lama.Mereka mudah dihancurkan oleh api, dan melambat oleh cahaya UV. (/Abu -abu)</li>-><SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mencegat sinyal bantuan!Sebuah feri yang bermusuhan yang membawa seorang guru darah dan Sanguiesclavos [Thrallcount] memiliki masalah dengan mesin mereka.Anda dapat menggunakan sinyal untuk menariknya dan macet di dekat [peta_definite].Jika Anda dapat menangkap guru, Anda dapat memaksanya untuk mengubah salah satu pemukim menjadi batu darah.</li>
+    <li>SanguophageInfo-> (*abu-abu) tentang berdarah: berdarah adalah manusia super abadi dan abadi, yang diberi makan oleh arsitek yang diciptakan oleh arkeoteknologi yang ditemukan dalam aliran darah.Mereka cantik dan sangat cerdas.Mereka dapat menyembuhkan luka apa pun, dan tidak pernah menderita penyakit atau racun.Dalam pertempuran, mereka dapat meluncurkan duri fana dan menyembuhkan teman -teman mereka yang terluka.Harganya adalah bahwa berdarah harus mengonsumsi hemogen yang berasal dari darah manusia untuk bertahan hidup, dan harus dipasang secara teratur untuk waktu yang lama.Mereka mudah dihancurkan oleh api dan diperlambat oleh sinar ultraviolet. (/Abu-abu)</li>
+  </SanguophageShip.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [ShipAdjective] [Shipnoun]</li>
+    <li>Shipadjective-> sanguophage</li>
+    <li>ShipAdjective-> BloodThirsty</li>
+    <li>Shipadjective-> Darah</li>
+    <li>ShipAdjective-> Shadow</li>
+    <li>ShipAdjective-> Dark</li>
+    <li>Shipadjective-> Crimson</li>
+    <li>ShipAdjective-> Red</li>
+    <li>ShipAdjective-> scab</li>
+    <li>Shipadjective-> Hemic</li>
+    <li>ShipAdjective-> Sanguine</li>
+    <li>Shipnoun-> kapal</li>
+    <li>Shipnoun-> Shuttle</li>
+    <li>Shipnoun-> Craft</li>
+    <li>Shipnoun-> Hulk</li>
+    <li>Shipnoun-> kecelakaan</li>
+    <li>Shipnoun-> Wreck</li>-><SanguophageShip.questNameRules.rulesStrings>
+    <li>QuestName-> [Shipnoun] [ShipAdjective]</li>
+    <li>QuestName-> [Shipnounfem] [ShipadjectiveFem]</li>
+    <li>ShipAdjective-></li>
+    <li>Shipadjective-> sanguinario</li>
+    <li>Shipadjective-> dari Darah</li>
+    <li>ShipAdjective-> suram</li>
+    <li>ShipAdjective-> Dark</li>
+    <li>Shipadjective-> Crimson</li>
+    <li>Shipadjective-> rojo</li>
+    <li>Shipadjective-> Bloody</li>
+    <li>Shipadjective-> Darah</li>
+    <li>ShipadjectiveFem-></li>
+    <li>ShipadjectiveFem-> Sanguinaria</li>
+    <li>ShipadjectiveFem-> dari darah</li>
+    <li>ShipadjectiveFem-> Slarm</li>
+    <li>ShipadjectiveFem-> Oscura</li>
+    <li>ShipadjectiveFem-> carmín</li>
+    <li>Shipadjacterfan-> Rosa</li>
+    <li>ShipadjectiveFem-> Bloody</li>
+    <li>ShipadjectiveFem-> Darah</li>
+    <li>Shipnounfem-> nave</li>
+    <li>Shipnoun-> Transforder</li>
+    <li>Shipnounfem-> Shuttle</li>
+    <li>Shipnounfem-> Astronave</li>
+    <li>Shipnoun-> Transportasi</li>
+    <li>Shipnoun-> Naufragio</li>
+  </SanguophageShip.questNameRules.rulesStrings>
+  
+</LanguageData>

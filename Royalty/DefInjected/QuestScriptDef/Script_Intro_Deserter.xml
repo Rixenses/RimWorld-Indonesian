@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [asker_namefull], [asker_titleindef], menelepon dari dekat.[asker_pronoun] telah meninggalkan pasukan [asker_factionname] dan sedang diburu oleh (*ancaman) pasukan loyalitas (/ancaman).[asker_pronoun] ingin bergabung dengan Anda di [MAP_DEFINITE]. \ n \ n [asker_namedef] mengetahui lokasi pos terdepan yang berisi semua yang diperlukan untuk mengembangkan kekuatan psikis: \ n \ n [sitepart1_itemstashcontents] \ n \ nbeWare - jika Anda menerima [askernnam_names], Anda akan menjadi musuh [askeNNEF!Pasukan Loyalty yang mengejar akan segera menyerang.Ini terdiri dari: \ n \ n [RAID/RAIDPawnKinds] \ n \ Nonly Recreed Jika Anda ingin bertarung melawan [asker_factionname] dan kembangkan psyaster Anda sendiri.Anda akan memiliki satu tahun untuk menyerang pos sebelum dipindahkan.</li>-><Intro_Deserter.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [asker_nameful], [asker_a] [asker_title], hubungi Anda dari posisi terdekat.Dia telah membelot dari Angkatan Darat dari faksi [asker_factioname], jadi mereka mengirim setelah [asker_pronoun] ke perintah pencarian (*ancaman) (/ancaman) yang menginjak tumitnya.Dia meminta perlindungan dan ingin bergabung dengan koloni Anda di [MAP_DEFINITE]. [Asker_namedef], Anda akan menjadi musuh [asker_factioname]!Perintah pencarian akan segera menyerang.Ini terdiri dari: \ n \ n [RAID/RAIDPAWNKINDS] \ n \ nSolo Anda harus menerima jika Anda ingin melawan faksi [asker_factioname] dan mengembangkan kekuatan psikis psi-emisor psikis Anda sendiri.Anda akan memiliki satu tahun untuk menyerang posisi lanjutan sebelum ditransfer.</li>
+  </Intro_Deserter.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Deserter</li>-><Intro_Deserter.questNameRules.rulesStrings>
+    <li>QuestName-> The Deserter</li>
+  </Intro_Deserter.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], [asker_factionName] has become hostile.\n\nThe loyalty squad that is hunting [asker_objective] will arrive soon. -->
+  <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>{Baseotext</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
+  <!-- EN: {BASELABEL}: Loyalty squad -->
+  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>{Baselabel}: Perintah pencarian</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].\n               -->
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{Basetext} \ n \ neste adalah perintah pencarian yang dia mengejarnya [../asker_namefullva</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on. -->
+  <Intro_Deserter.LetterTextQuestExpired.slateRef>Basis utama, di mana segala sesuatu yang diperlukan untuk mengembangkan kekuatan psikis rahasia disimpan, dibongkar dan dipindahkan ke lokasi lain.</Intro_Deserter.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

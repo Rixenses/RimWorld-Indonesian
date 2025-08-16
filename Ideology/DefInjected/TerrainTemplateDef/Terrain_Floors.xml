@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: morbid carpet ({0}) -->
+  <Carpet_Morbid.label>Morbida Carpet ({0})</Carpet_Morbid.label>
+  <!-- EN: Fine carpet in a morbid style. -->
+  <Carpet_Morbid.description>Karpet gaya morbid yang bagus.</Carpet_Morbid.description>
+  
+  <!-- EN: hex carpet ({0}) -->
+  <Carpet_Transhumanist.label>Karpet heksagonal ({0})</Carpet_Transhumanist.label>
+  <!-- EN: Fine carpet with a hexagonal pattern for that ultra-technological look. -->
+  <Carpet_Transhumanist.description>Karpet halus dengan pola heksagonal untuk memberikan aspek ultrathcnological.</Carpet_Transhumanist.description>
+  
+</LanguageData>

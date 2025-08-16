@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: totally abhorrent -->
+  <OrganUse_Abhorrent.label>Benar -benar membosankan</OrganUse_Abhorrent.label>
+  <!-- EN: Any harvesting, trading, or installing natural organs is an abhorrent evil. -->
+  <OrganUse_Abhorrent.description>Semua jenis ekstraksi, perdagangan atau implan beberapa organ alami mengerikan dan keji.</OrganUse_Abhorrent.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_Abhorrent.comps.2.description>Seseorang mengekstraksi organ</OrganUse_Abhorrent.comps.2.description>
+  <!-- EN: Someone traded an organ -->
+  <OrganUse_Abhorrent.comps.5.description>Seseorang yang berdagang dengan organ</OrganUse_Abhorrent.comps.5.description>
+  <!-- EN: Someone installed an organ -->
+  <OrganUse_Abhorrent.comps.8.description>Seseorang menerapkan organ</OrganUse_Abhorrent.comps.8.description>
+  
+  <!-- EN: acceptable -->
+  <OrganUse_Acceptable.label>dapat diterima</OrganUse_Acceptable.label>
+  <!-- EN: It's okay to harvest, buy, install, or sell organs. -->
+  <OrganUse_Acceptable.description>Adalah baik untuk mengekstrak, mengimplementasikan atau berdagang dengan organ.</OrganUse_Acceptable.description>
+  
+  <!-- EN: no harvest or sell -->
+  <OrganUse_HorribleNoSell.label>Tidak untuk ekstraksi atau penjualan</OrganUse_HorribleNoSell.label>
+  <!-- EN: Harvesting organs is a horrible thing. Selling any natural organ is pretty bad too. However, it's okay to buy and install them. -->
+  <OrganUse_HorribleNoSell.description>Mengekstraksi organ mengerikan.Menjual organ alami sangat buruk.Namun, ada baiknya membeli dan mengimplementasikannya.</OrganUse_HorribleNoSell.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_HorribleNoSell.comps.2.description>Seseorang mengekstraksi organ</OrganUse_HorribleNoSell.comps.2.description>
+  <!-- EN: Someone sold an organ -->
+  <OrganUse_HorribleNoSell.comps.4.description>Seseorang menjual organ</OrganUse_HorribleNoSell.comps.4.description>
+  
+  <!-- EN: no harvest -->
+  <OrganUse_HorribleSellOK.label>Itu tidak diekstraksi</OrganUse_HorribleSellOK.label>
+  <!-- EN: Harvesting organs is a horrible thing. However, it's okay to buy, install, or sell them. -->
+  <OrganUse_HorribleSellOK.description>Mengekstraksi organ mengerikan.Namun, ada baiknya membeli, menjual, atau mengimplementasikannya.</OrganUse_HorribleSellOK.description>
+  <!-- EN: Someone harvested an organ -->
+  <OrganUse_HorribleSellOK.comps.2.description>Seseorang mengekstraksi organ</OrganUse_HorribleSellOK.comps.2.description>
+  
+</LanguageData>

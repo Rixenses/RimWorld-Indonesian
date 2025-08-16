@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [CreepJoinerFirstName] [CreepJoinerLastName]</li>
+    <li>r_name-> [creepjoinerfirstname] '[creepjoinernickname]' [creepjoinerlastname]</li>-><NamerPersonCreepjoiner.rulePack.rulesStrings>
+    <li>r_name-> [CreepJoinerFirstName] [CreepJoinerLastName]</li>
+    <li>r_name-> [creepjoinerfirstname] "[creepjoinernickname]" [creepjoinerlastname]</li>
+  </NamerPersonCreepjoiner.rulePack.rulesStrings>
+  
+</LanguageData>

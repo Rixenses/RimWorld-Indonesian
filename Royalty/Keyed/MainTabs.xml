@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain titles. Titles bring psylink rewards and special permits like military aid. However, {0} with higher titles will also need specific apparel and bedroom furnishings. -->
+  <RoyalFavorTip>Anda dapat memilih salah satu dari {0} Anda untuk menerima {1} {2} dari {3_name}. \ N \ npuedes Pilih salah satu {0} Anda untuk menerima {1} {2} dari {3_name}. \ N \ nal terima {2}, dapatkan judul.Judul membawa psiko dan izin khusus seperti bantuan militer.Namun, {0} dengan judul yang lebih tinggi juga akan membutuhkan pakaian spesifik dan furnitur yang lebih baik untuk kamar tidur.</RoyalFavorTip>
+  
+  <!-- Work tab -->
+  <!-- EN: Disabled by royal title {0} -->
+  <WorkDisabledByRoyalTitle>Dinonaktifkan dengan judul nyata {0}</WorkDisabledByRoyalTitle>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <Ambush.label>penyergapan</Ambush.label>
+  <!-- EN: Caravan ambushed -->
+  <Ambush.letterLabel>Kafilah disergap</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
+  <Ambush.letterText>Kafilah {0} Anda sedang disergap oleh {1} dari {2}!</Ambush.letterText>
+  
+  <!-- EN: payment demand -->
+  <CaravanDemand.label>permintaan pembayaran</CaravanDemand.label>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>karavan ditemukan</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>penyergapan pemburu</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Penyergapan karavan (perburuan)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>0} sedang disergap oleh {1} pemburu!</ManhunterAmbush.letterText>
+  
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood behind bars. Following an unsuccessful escape attempt, [PAWN_pronoun] was pressed into the military. -->
+  <Delinquent13.description>[Pawn_namedef] menghabiskan sebagian besar masa kecilnya setelah bar.Setelah upaya untuk melarikan diri, [Pawn_pronoun] sedang menekan {Pawn_gender?O: A} untuk bergabung dengan tentara.</Delinquent13.description>
+  <!-- EN: delinquent -->
+  <Delinquent13.title>pelanggar</Delinquent13.title>
+  <Delinquent13.titleFemale>pelanggar</Delinquent13.titleFemale>
+  <!-- EN: delinquent -->
+  <Delinquent13.titleShort>pelanggar</Delinquent13.titleShort>
+  <Delinquent13.titleShortFemale>pelanggar</Delinquent13.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for machinery. [PAWN_pronoun] supplemented [PAWN_possessive] family's income by repairing and modifying black market weapons. -->
+  <Machinist56.description>[Pawn_namedef] memiliki hadiah untuk mesin.Dia membantu dalam pendapatan keluarganya, memperbaiki dan memodifikasi senjata pasar gelap.</Machinist56.description>
+  <!-- EN: machinist -->
+  <Machinist56.title>pengemudi</Machinist56.title>
+  <!-- EN: machinist -->
+  <Machinist56.titleShort>pengemudi</Machinist56.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was levied from [PAWN_possessive] family at a young age to become a soldier. [PAWN_pronoun] lived in barracks with other military kids, learning about duty, weapons, pain, and victory.\n\nThe trainers sometimes let the kids escape the base to enjoy the wider world. They wanted soldiers who can think independently. -->
+  <MilitaryCadet46.description>[Pawn_namedef] Apakah {Pawn_gender?Atau: A} jauh dari keluarganya ketika dia masih sangat muda, menjadi seorang prajurit.[Pawn_pronoun] tinggal di Barracas dengan anak -anak militer lainnya, belajar tentang tugas, senjata, rasa sakit dan kemenangan.Mereka menginginkan tentara yang mungkin berpikir mandiri.</MilitaryCadet46.description>
+  <!-- EN: military cadet -->
+  <MilitaryCadet46.title>Kadet Militer</MilitaryCadet46.title>
+  <MilitaryCadet46.titleFemale>Kadet Militer</MilitaryCadet46.titleFemale>
+  <!-- EN: cadet -->
+  <MilitaryCadet46.titleShort>kadet</MilitaryCadet46.titleShort>
+  <MilitaryCadet46.titleShortFemale>kadet</MilitaryCadet46.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was kidnapped by a rival family and held for ransom. To pass the time in captivity, [PAWN_pronoun] read books and practiced martial arts. [PAWN_nameDef] had few opportunities to develop [PAWN_possessive] social skills. -->
+  <PoliticalCaptive7.description>[Pawn_namedef] Apakah dia diculik {Pawn_gender?Atau: A} untuk keluarga saingan dan mempertahankan {Pawn_gender?O: A} untuk penyelamatan.Untuk menghabiskan waktu di penangkaran, [Pawn_pronoun] membaca buku dan berlatih seni bela diri.Yang benar adalah bahwa [Pawn_namedef] memiliki sedikit kesempatan untuk mengembangkan keterampilan sosial mereka.</PoliticalCaptive7.description>
+  <!-- EN: political captive -->
+  <PoliticalCaptive7.title>Politisi tawanan</PoliticalCaptive7.title>
+  <PoliticalCaptive7.titleFemale>Kebijakan tawanan</PoliticalCaptive7.titleFemale>
+  <!-- EN: captive -->
+  <PoliticalCaptive7.titleShort>tawanan</PoliticalCaptive7.titleShort>
+  <PoliticalCaptive7.titleShortFemale>tawanan</PoliticalCaptive7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] came from a wealthy and influential bloodline. [PAWN_possessive] expensive education included lessons on dueling, leadership, and military strategy. -->
+  <RichKid61.description>[Pawn_namedef] berasal dari garis keturunan yang kaya dan berpengaruh.Pendidikannya yang mahal termasuk pelajaran tentang duel, kepemimpinan dan strategi militer.</RichKid61.description>
+  <!-- EN: rich kid -->
+  <RichKid61.title>Anak kaya</RichKid61.title>
+  <RichKid61.titleFemale>Gadis kaya</RichKid61.titleFemale>
+  <!-- EN: rich kid -->
+  <RichKid61.titleShort>Anak kaya</RichKid61.titleShort>
+  <RichKid61.titleShortFemale>Gadis kaya</RichKid61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born to low-ranked servants on an ancient starship. The ship's machine persona was like a third parent to [PAWN_objective], and the parts crafting crew [PAWN_pronoun] worked for was like a second family.\n\n[PAWN_nameDef] rarely saw plants or animals, and still finds them unnerving to touch. -->
+  <ShipBoy89.description>[Pawn_namedef] lahir dari pelayan yang berpenduduk rendah di pesawat ruang angkasa tua.AI kapal itu seperti ayah ketiga untuk [Pawn_pronoun], dan kru manufaktur tempat saya bekerja seperti keluarga kedua.</ShipBoy89.description>
+  <!-- EN: ship boy -->
+  <ShipBoy89.title>Kapal anak laki -laki</ShipBoy89.title>
+  <!-- EN: ship girl -->
+  <ShipBoy89.titleFemale>Kapal Girl</ShipBoy89.titleFemale>
+  <!-- EN: ship boy -->
+  <ShipBoy89.titleShort>Kapal anak laki -laki</ShipBoy89.titleShort>
+  <!-- EN: ship girl -->
+  <ShipBoy89.titleShortFemale>Kapal Girl</ShipBoy89.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised on the ancient starship where [PAWN_possessive] parents were stationed. [PAWN_pronoun] learned the basics of firearm operations and maintenance from the soldiers on board. [PAWN_nameDef] became accustomed to a strict routine and frequent discipline. -->
+  <SoldiersKid55.description>[Pawn_namedef] Dibesarkan di pesawat ruang angkasa lama tempat orang tua mereka diparkir.[Pawn_pronoun] mempelajari konsep -konsep dasar operasi dengan senjata api dan pemeliharaan prajurit di papan.[Pawn_namedef] Ia terbiasa dengan rutinitas yang ketat dan sering disiplin.</SoldiersKid55.description>
+  <!-- EN: soldier's kid -->
+  <SoldiersKid55.title>Anak prajurit</SoldiersKid55.title>
+  <SoldiersKid55.titleFemale>Gadis prajurit</SoldiersKid55.titleFemale>
+  <!-- EN: soldier kid -->
+  <SoldiersKid55.titleShort>Anak prajurit</SoldiersKid55.titleShort>
+  <SoldiersKid55.titleShortFemale>Gadis prajurit</SoldiersKid55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] belonged to a gang of street thieves. [PAWN_possessive] days were spent picking pockets, settling disputes over territory, or high on whatever drugs [PAWN_pronoun] could get [PAWN_possessive] hands on. -->
+  <StreetRat81.description>[Pawn_namedef] milik sekelompok pencuri jalanan.Hari -harinya menjarah kantong, memecahkan perselisihan di wilayah tersebut atau mengonsumsi obat apa pun yang bisa diperoleh [Pawn_pronoun] di tangan mereka.</StreetRat81.description>
+  <!-- EN: street rat -->
+  <StreetRat81.title>pencopet</StreetRat81.title>
+  <StreetRat81.titleFemale>Tikus Jalanan</StreetRat81.titleFemale>
+  <!-- EN: street rat -->
+  <StreetRat81.titleShort>pencopet</StreetRat81.titleShort>
+  <StreetRat81.titleShortFemale>Tikus Jalanan</StreetRat81.titleShortFemale>
+  
+</LanguageData>

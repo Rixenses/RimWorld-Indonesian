@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>bor kedalaman</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>Ini memungkinkan Anda untuk membangun latihan yang dalam, mampu mengekstraksi sumber daya dari kedalaman bumi.Anda akan membutuhkan pemindai mendalam untuk menemukan sumber daya.</DeepDrilling.description>
+  <!-- EN:
+    <li>Subjek-> Penambangan dalam</li>
+    <li>Subject_story-> dipindahkan dengan corp yang dipimpin Dirtmole, mempelajari penggalian terdalamnya</li>
+    <li>Subject_story-> Dibor ke akar es untuk menemukan bioma prashuman yang punah di dunia</li>
+    <li>subjek_story-> menjadi kaya dari sumber daya yang digali dari inti dunia</li>
+    <li>subjek_gerund-> penambangan dalam-dalam</li>-><DeepDrilling.generalRules.rulesStrings>
+    <li>Subjek-> Penambangan Kedalaman</li>
+    <li>Subjek_def-> dari penambangan kedalaman</li>
+    <li>Subject_story-> bergabung dengan perusahaan yang dipimpin oleh Topos de Earth, mempelajari penggalian terdalamnya</li>
+    <li>Subject_story-> dibor ke akar lapisan es untuk menemukan bioma prasangka yang punah di dunia</li>
+    <li>Subject_story-> diperkaya dengan sumber daya yang diekstraksi dari inti dunia</li>
+    <li>Subjek gerund-> minar secara mendalam</li>
+  </DeepDrilling.generalRules.rulesStrings>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Televisi layar datar</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>Ini menghasilkan televisi layar datar resolusi tinggi untuk kesenangan yang lebih besar.</FlatscreenTelevision.description>
+  <!-- EN:
+    <li>Subjek-> Televisi layar datar</li>
+    <li>Subject_story-> bereksperimen dengan menghapus tabung dari televisi</li>
+    <li>Subject_story-> Agitated untuk siaran galaksi, resolusi tinggi [TV_Content]</li>
+    <li>tv_content-> opera sabun</li>
+    <li>TV_Content-> Program Berita</li>
+    <li>tv_content-> propaganda revolusioner</li>
+    <li>tv_content-> fashion glitterworld</li>
+    <li>tv_content-> docartoons</li>
+    <li>Subject_story-> menjadi eksekutif televisi, yang bertanggung jawab atas [TV_Content]</li>
+    <li>subjek gerund-> memproduksi televisi layar datar</li>-><FlatscreenTelevision.generalRules.rulesStrings>
+    <li>Subjek-> Televisi Layar Datar</li>
+    <li>Subject_def-> dari televisi layar datar</li>
+    <li>Subject_story-> berpengalaman dengan penghapusan tabung televisi</li>
+    <li>Subject_story-> berkampanye untuk mencapai transmisi resolusi tinggi di seluruh galaksi di [TV_Content]</li>
+    <li>Tv_content-> telenovelis</li>
+    <li>TV_Content-> Program Berita</li>
+    <li>Konten TV-> Propaganda Revolusioner</li>
+    <li>Tv_content-> fashion in the mundobrillants</li>
+    <li>TV_Content-> Dokumenter Animasi</li>
+    <li>Subject_story-> Menjadi Eksekutif Televisi oleh [TV_Content]</li>
+    <li>Subjek gerund-> memproduksi televisi layar datar</li>
+  </FlatscreenTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>Pemindai kedalaman</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>Bangun pemindai penetrasi tanah yang dapat mendeteksi sumber daya yang layak di bawah permukaan.Ini membutuhkan komponen canggih untuk konstruksinya.</GroundPenetratingScanner.description>
+  <!-- EN:
+    <li>Subjek-> Geofisika</li>
+    <li>Subjek-> Pemindai penembak darat</li>
+    <li>Subject_story-> Menemukan tulang raksasa kuno, jauh di bawah permukaan planet ini</li>
+    <li>Subject_story-> tersandung di jahitan emas yang kaya saat memindai timah dan menjadi sangat kaya</li>
+    <li>Subject_story-> memindai tanah untuk ladang ranjau kuno, untuk melindungi orang-orang</li>
+    <li>Subject_gerund-> Membangun pemindai geofisika</li>-><GroundPenetratingScanner.generalRules.rulesStrings>
+    <li>Subjek-> Geofisika</li>
+    <li>Subjek-> Pemindai Kedalaman</li>
+    <li>subjek_def-> dari geofik</li>
+    <li>Subjek_def-> dari pemindai kedalaman</li>
+    <li>Subject_story-> Menemukan tulang raksasa kuno jauh di bawah permukaan planet ini</li>
+    <li>Subjek_story-> tersandung pada vena emas besar saat ia memindai untuk mencari timah dan menjadi sangat kaya</li>
+    <li>Subjek cerita-> memindai tanah untuk mencari ladang lama untuk melindungi orang</li>
+    <li>Subject_gerund-> Bangun pemindai geofisika</li>
+  </GroundPenetratingScanner.generalRules.rulesStrings>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>Meriam otomatis</HeavyTurrets.label>
+  <!-- EN: Produce the heavy autocannon turret. -->
+  <HeavyTurrets.description>Hal ini memungkinkan produksi menara yang dilengkapi dengan meriam otomatis yang berat.</HeavyTurrets.description>
+  <!-- EN:
+    <li>Subjek-> Turret Autocannon</li>
+    <li>Subject_story-> menahan serangan kultus saja, bersembunyi di balik dinding menara</li>
+    <li>Subject_story-> disewa untuk membangun perimeter pertahanan karung pasir dan menara untuk penduduk setempat</li>
+    <li>Subject_story-> Built Turret demi menara, tidak pernah bertanya siapa yang membelinya</li>
+    <li>Subject_gerund-> Membuat Turret Autocannon Berat</li>-><HeavyTurrets.generalRules.rulesStrings>
+    <li>Subjek-> meriam otomatis</li>
+    <li>Subjek_def-> dari meriam otomatis</li>
+    <li>Subject_story-> mengusir serangan kultus saja, bersembunyi di balik dinding menara</li>
+    <li>Subject_story-> disewa untuk membangun perimeter defensif karung pasir dan menara untuk penduduk setempat</li>
+    <li>Subjek_story-> membangun menara demi satu, tanpa bertanya siapa yang membelinya</li>
+    <li>Subjek_gerund-> manufaktur meriam otomatis</li>
+  </HeavyTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Tempat tidur rumah sakit</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>Ini memungkinkan untuk membangun tempat tidur rumah sakit yang meningkatkan hasil perawatan medis.</HospitalBed.description>
+  <!-- EN:
+    <li>subjek-> rawat inap</li>
+    <li>Subject_story-> mengawasi revolusi dalam standar perawatan medis</li>
+    <li>Subject_story-> Membangun yang pertama dari rumah sakit umum sistem</li>
+    <li>subjek_story-> fokus pada laba, menjual [anypawn_pronoun] superior medis suite kepada orang kaya</li>
+    <li>Subject_gerund-> membangun tempat tidur rumah sakit</li>-><HospitalBed.generalRules.rulesStrings>
+    <li>Subjek-> rawat inap</li>
+    <li>Subject_def-> rawat inap</li>
+    <li>Subject_story-> mengawasi revolusi dalam standar perawatan medis</li>
+    <li>Subject_story-> membangun rumah sakit umum pertama dalam sistem</li>
+    <li>Subjek_story-> berfokus pada pendapatan, menjual suite medisnya lebih unggul dari orang kaya</li>
+    <li>Subjek gerund-> membangun tempat tidur rumah sakit</li>
+  </HospitalBed.generalRules.rulesStrings>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>Pemindai Long -Range</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>Bangun Pemindai Mineral Long -Range yang dapat digunakan oleh peneliti Anda untuk mendeteksi mineral berharga di seluruh planet ini.Ini dapat disesuaikan untuk menemukan mineral tertentu.Ini membutuhkan komponen canggih untuk konstruksinya.</LongRangeMineralScanner.description>
+  <!-- EN:
+    <li>Subjek-> Deteksi mineral jarak jauh</li>
+    <li>Subject_story-> membangun begitu banyak pemindai sehingga seluruh geologi planet itu terungkap</li>
+    <li>Subject_story-> Ditemukan dengan pemindai apa permukiman lain yang ditambang dan mendapat keuntungan besar melalui perdagangan</li>
+    <li>Subject_story-> menambah keseluruhan batu giok planet untuk patung agama</li>
+    <li>Subject_gerund-> Membangun pemindai mineral jarak jauh</li>-><LongRangeMineralScanner.generalRules.rulesStrings>
+    <li>Subjek-> Deteksi Mineral Jangka Panjang</li>
+    <li>Subjek_Def-> Deteksi Mineral Jangka Panjang</li>
+    <li>Subject_story-> membangun begitu banyak pemindai sehingga seluruh geologi planet ini terungkap</li>
+    <li>Subjek_story-> ditemukan dengan pemindai apa yang mereka ekstrak di pemukiman lain dan memperoleh keuntungan besar melalui perdagangan</li>
+    <li>Subject_story-> mengekstraksi semua batu giok planet untuk membuat patung agama</li>
+    <li>Subjek gerund-> membangun pemindai mineral jarak jauh</li>
+  </LongRangeMineralScanner.generalRules.rulesStrings>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>produksi obat</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>Ini menghasilkan obat -obatan teknologi industri standar dari obat herbal, netral dan kain.</MedicineProduction.description>
+  <!-- EN:
+    <li>Subjek-> Sintesis Medis</li>
+    <li>Subjek-> Produksi Kedokteran</li>
+    <li>Subject_story-> Penelitian Urbworld Medicine, yang bertujuan untuk mendistribusikan pengetahuan lebih luas</li>
+    <li>Subject_story-> bingung dengan asal-usul neutroamine dan bertekad untuk mengetahui lebih lanjut</li>
+    <li>Subject_story-> merebut sumber daya obat-obatan dan menghasilkan obat-obatan yang bermanfaat sebagai gantinya</li>
+    <li>Subject_gerund-> Memproduksi Kedokteran Teknologi Industri</li>-><MedicineProduction.generalRules.rulesStrings>
+    <li>Subjek-> Sintesis Medis</li>
+    <li>Subjek-> Produksi Obat</li>
+    <li>Subject_def-> sintesis medis</li>
+    <li>Subject_def-> dari produksi obat-obatan</li>
+    <li>Subject_story-> menyelidiki obat dunia perkotaan dengan tujuan mendistribusikan pengetahuan dengan cara yang lebih luas</li>
+    <li>Subjek_story-> merasa tertarik dengan asal-usul neutroamine dan berangkat untuk menyelidiki lebih banyak tentang hal itu</li>
+    <li>Subject_story-> menyita sumber daya dari penyelundup narkoba dan menghasilkan obat-obatan yang bermanfaat di tempatnya</li>
+    <li>Subject_gerund-> memproduksi kedokteran teknologi industri</li>
+  </MedicineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>Mikroelektronika</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>Ini memungkinkan bekerja dengan mikroelektronika yang kompleks.Ini membuka tabel penelitian teknologi tinggi dan konsol komunikasi.</MicroelectronicsBasics.description>
+  <!-- EN:
+    <li>Subjek-> Mikroelektronika</li>
+    <li>Subject_story-> dipindahkan ke pengembangan mikroelektronika</li>
+    <li>Subject_story-> Membangun yang pertama dari banyak varian bangku penelitian</li>
+    <li>Subject_story-> pindah dari kota ke kota, memuji kebajikan penelitian murni</li>
+    <li>Subject_gerund-> Crafting Microelectronics</li>-><MicroelectronicsBasics.generalRules.rulesStrings>
+    <li>Subjek-> Mikroelektronika</li>
+    <li>Subject_def-> dari mikroelektronika</li>
+    <li>Subject_story-> didedikasikan untuk pengembangan mikroelektronika</li>
+    <li>Subjek_story-> membangun varian pertama dari banyak tabel penelitian</li>
+    <li>Subject_story-> Dia pindah dari kota ke kota, memuji kebajikan penelitian murni</li>
+    <li>Subject_gerund-> Mecroelectronics</li>
+  </MicroelectronicsBasics.generalRules.rulesStrings>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>Pompa kelembaban</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>Bangun bom kelembaban, yang sangat lambat menetralkan kelembaban di tanah di sekitarnya.Mereka dapat mengubah tanah basah menjadi pasir kering dan lembut menjadi pasir normal.</MoisturePump.description>
+  <!-- EN:
+    <li>Subjek-> Pompa Kelembaban</li>
+    <li>Subject_story-> mempelajari pompa kelembaban kincir angin kuno di bumi</li>
+    <li>subjek_story-> menguras rawa-rawa besar yang dibesarkan penyakit</li>
+    <li>subjek_story-> mencoba menguras lautan, dengan bodohnya</li>
+    <li>Subject_gerund-> Membangun pompa kelembaban</li>-><MoisturePump.generalRules.rulesStrings>
+    <li>Subjek-> Pompa Kelembaban</li>
+    <li>Subject_def-> dari pompa kelembaban</li>
+    <li>Subject_story-> mempelajari pompa kelembaban lama yang berbentuk seperti pabrik bumi</li>
+    <li>Subjek_story-> menguras rawa-rawa besar yang mengangkat penyakit</li>
+    <li>Subjek_story-> mencoba menguras lautan dengan bodohnya</li>
+    <li>Subjek gerund-> membangun pompa kelembaban</li>
+  </MoisturePump.generalRules.rulesStrings>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>Senjata multi-Cañón</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>Ini memungkinkan Anda untuk membangun minigen.</MultibarrelWeapons.description>
+  <!-- EN:
+    <li>subjek-> minigun</li>
+    <li>Subject_story-> Membangun minigun portabel yang unik, yang merupakan satu-satunya yang ditemukan setelah hilangnya pasukan</li>
+    <li>Subject_story-> Hopper besar yang dirancang untuk memastikan amunisi minigun tidak habis</li>
+    <li>Subject_story-> Built Guns secara eksplisit untuk membunuh setiap orang terakhir di sebuah ruangan</li>
+    <li>Subject_gerund-> Crafting Multibarrel Weapons</li>-><MultibarrelWeapons.generalRules.rulesStrings>
+    <li>subjek-> minigun</li>
+    <li>Subjek_def-> dari minigun las</li>
+    <li>Subject_story-> Membangun minigun unik, yang merupakan satu-satunya yang ditemukan setelah hilangnya pasukan</li>
+    <li>Subject_story-> Hopper massa yang dirancang untuk memastikan bahwa amunisi minigun tidak akan habis</li>
+    <li>Subject_story-> senjata yang dibangun secara eksplisit untuk membunuh semua orang di sebuah ruangan</li>
+    <li>Subject_gerund-> memproduksi senjata banyak meriam</li>
+  </MultibarrelWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>senapan presisi</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>Memproduksi senjata presisi tinggi seperti senapan serbu dan senapan sniper.</PrecisionRifling.description>
+  <!-- EN:
+    <li>Subjek-> Senapan</li>
+    <li>Subject_story-> meningkatkan toleransi proses pengecoran, memungkinkan produksi rifling berkualitas</li>
+    <li>Subject_story-> diburu oleh Neanderthal tetapi membangun senapan sniper untuk membunuh pemimpin mereka dengan aman</li>
+    <li>Subject_story-> menjadi terkenal secara singkat karena menembak buah Ambrosia dari tangan Overlord</li>
+    <li>Subject_gerund-> Crafting Rifles</li>-><PrecisionRifling.generalRules.rulesStrings>
+    <li>Subjek-> Senapan</li>
+    <li>Subject_def-> dari senapan</li>
+    <li>Subjek_story-> meningkatkan toleransi proses pengecoran, yang memungkinkan produksi senapan berkualitas</li>
+    <li>Subject_story-> dianiaya oleh Neanderthal, tetapi membangun senapan sniper untuk membunuh pemimpinnya dengan aman</li>
+    <li>Subject_story-> menjadi terkenal secara singkat karena menembakkan buah ambrosia dari pria feodal</li>
+    <li>Subjek gerund-> manufacture rifles</li>
+  </PrecisionRifling.generalRules.rulesStrings>
+  
+  <!-- EN: shields -->
+  <ShieldBelt.label>Perisai Pribadi</ShieldBelt.label>
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
+  <ShieldBelt.description>Ini memungkinkan untuk membangun sabuk pelindung, yang menggunakan teknologi tolakan momentum untuk memblokir serangan jarak jauh yang masuk atau keluar.</ShieldBelt.description>
+  <!-- EN:
+    <li>Subjek-> Perisai Pribadi</li>
+    <li>Subject_story-> Bertahan dari upaya pembunuhan, berkat perisai prototipe</li>
+    <li>Subject_story-> bergegas di biliar, menggunakan repeller momentum tersembunyi</li>
+    <li>Subject_story-> membunuh musuh dengan memajukan pisau cukup perlahan untuk memotong perisai mereka</li>
+    <li>Subject_gerund-> membuat perisai pribadi</li>-><ShieldBelt.generalRules.rulesStrings>
+    <li>Subjek-> Perisai Pribadi</li>
+    <li>Subjek_def-> dari perisai pribadi</li>
+    <li>Subject_story-> selamat dari upaya untuk membunuh berkat prototipe perisai</li>
+    <li>Subjek_story-> menipu tiang menggunakan penolak momentum tersembunyi</li>
+    <li>Subject_story-> membunuh musuh dengan melemparkan pistol cukup lambat untuk melewati perisainya</li>
+    <li>Subject_gerund-> memproduksi perisai pribadi</li>
+  </ShieldBelt.generalRules.rulesStrings>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>kapsul transportasi</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>Bangun modul transportasi yang dapat diluncurkan yang dapat Anda gunakan untuk mengirim orang dan pasokan ke jarak jauh melalui permukaan planet.Ini dapat digunakan untuk melakukan serangan, perjalanan, mengirim hadiah dan banyak lagi.</TransportPod.description>
+  <!-- EN:
+    <li>Subjek-> pod transportasi</li>
+    <li>Subject_story-> mendaratkan pod di tengah suku liar dan nyaris tidak lolos hidup</li>
+    <li>Subject_story-> Menghabiskan keberuntungan mengirim pod transportasi ke objek kasih sayang [anypawn_possessive], membawa cincin kawin tunggal</li>
+    <li>Subject_story-> Didala Kelaparan Melalui Penerapan Pod yang Perlamuka</li>
+    <li>Subject_gerund-> Membangun pod transport</li>-><TransportPod.generalRules.rulesStrings>
+    <li>Subjek-> Kapsul transportasi</li>
+    <li>Subject_def-> dari kapsul transportasi las</li>
+    <li>Subject_story-> mendaratkan kapsul di tengah suku liar dan sedikit lolos hidup</li>
+    <li>Subjek_story-> menghabiskan banyak uang dengan mengirim kapsul transportasi dengan benda yang dia cintai, membawa satu cincin kawin tunggal</li>
+    <li>Subject_story-> hindari kelaparan dengan menampilkan kapsul</li>
+    <li>Subjek gerund-> membangun kapsul transportasi</li>
+  </TransportPod.generalRules.rulesStrings>
+  
+</LanguageData>

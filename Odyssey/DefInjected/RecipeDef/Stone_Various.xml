@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make vacstone blocks -->
+  <Make_StoneBlocksVacstone.label>Menghasilkan blok lowongan</Make_StoneBlocksVacstone.label>
+  <!-- EN: Cuts vacstone chunks into usable blocks. -->
+  <Make_StoneBlocksVacstone.description>Potong lowongan menjadi blok yang dapat digunakan.</Make_StoneBlocksVacstone.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksVacstone.jobString>Memotong balok batu dari sepotong lowongan.</Make_StoneBlocksVacstone.jobString>
+  
+</LanguageData>

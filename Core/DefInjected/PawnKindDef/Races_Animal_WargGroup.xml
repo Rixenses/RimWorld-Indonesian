@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>Wargo</Warg.label>
+  <Warg.labelPlural>Wargos</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>WARGUEZNO</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelFemale>Warguesna</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>Warguesnas</Warg.lifeStages.warg_puppy.labelFemalePlural>
+  <Warg.lifeStages.warg_puppy.labelMale>WARGUEZNO</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMalePlural>WARGUEZNOS</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <!-- EN: warg puppies -->
+  <Warg.lifeStages.warg_puppy.labelPlural>WARGUEZNOS</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>Wargo muda</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelPlural>Wargos muda</Warg.lifeStages.1.labelPlural>
+  <Warg.lifeStages.2.label>Wargo</Warg.lifeStages.2.label>
+  <Warg.lifeStages.2.labelPlural>Wargos</Warg.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [adj] [grup]</li>
+    <li>Group-> Korban selamat</li>
+    <li>Group-> Pengungsi</li>
+    <li>Group-> Runaways</li>
+    <li>Group-> Castaways</li>
+    <li>grup-> traktor</li>
+    <li>Group-> Roamers</li>
+    <li>Group-> Wanderers</li>
+    <li>Group-> Wisatawan</li>
+    <li>Group-> Nomads</li>
+    <li>adj-> lelah</li>
+    <li>adj-> dikeringkan</li>
+    <li>adj-> lelah</li>
+    <li>adj-> kelelahan</li>
+    <li>adj-> mengungsi</li>
+    <li>adj-> tangguh</li>
+    <li>adj-> tangguh</li>
+    <li>adj-> mantap</li>
+    <li>adj-> ulet</li>-><NamerFactionRefugee.rulePack.rulesStrings>
+    <li>r_name-> [grup] [adj]</li>
+    <li>Group-> Korban selamat</li>
+    <li>Group-> Pengungsi</li>
+    <li>Grup-> buron</li>
+    <li>Group-> Castroads</li>
+    <li>Group-> Excursionists</li>
+    <li>Group-> Vagabonds</li>
+    <li>Group-> Wandering</li>
+    <li>Group-> Wisatawan</li>
+    <li>Group-> Nomads</li>
+    <li>adj-> lelah</li>
+    <li>adj-> kelelahan</li>
+    <li>adj-> lelah</li>
+    <li>adj-> kelelahan</li>
+    <li>adj-> mengungsi</li>
+    <li>adj-> resilentes</li>
+    <li>Adj-> resisten</li>
+    <li>adj-> keras kepala</li>
+    <li>Adj-> Tenaces</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
+  
+</LanguageData>

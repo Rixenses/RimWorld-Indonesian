@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harp -->
+  <Harp.label>Arpa</Harp.label>
+  <!-- EN: A simple stationary musical instrument. A row of strings are stretched over a frame and plucked directly by a musician's fingers.\n\nIt can be crafted at a crafting spot or smithy. -->
+  <Harp.description>Alat musik stasioner sederhana.Beberapa senar membentang dalam bingkai dan musisi menyentuhnya langsung dengan jari.</Harp.description>
+  
+  <!-- EN: harpsichord -->
+  <Harpsichord.label>Clavecín</Harpsichord.label>
+  <!-- EN: A complex stationary musical instrument crafted at a smithy. A musician touches a row of keys on the front of the instrument. Each key is attached to an internal mechanism which plucks one of a row of strings stretched over a wooden frame. While it permits more complex composition than the harp, its wooden construction and plucking mechanism limit its output volume and expressiveness. -->
+  <Harpsichord.description>Alat musik stasioner yang kompleks.Seorang musisi dapat menekan serangkaian tombol di bagian depan instrumen.Setiap kunci terhubung ke mekanisme internal yang menyentuh salah satu dari beberapa rantai.Semua ini diregangkan dalam bingkai kayu.Meskipun anyelir memungkinkan komposisi yang lebih kompleks daripada harpa, variasi volume dan ekspresif dibatasi oleh konstruksi kayu dan mekanisme juru bicara.</Harpsichord.description>
+  
+  <!-- EN: piano -->
+  <Piano.label>piano</Piano.label>
+  <!-- EN: An advanced stationary musical instrument. It is played by pressing a row of keys, which causes hammers to strike internal strings stretched over a steel frame. The hammer mechanism and high-tension strings allow the musician to play both very soft and very loud, making the piano a very expressive instrument.\n\nIt can be crafted at a smithy. -->
+  <Piano.description>Alat musik stasioner canggih.Itu disentuh dengan menekan deretan tombol, yang membuat palu mengenai string internal yang direntangkan dalam kerangka baja.Mekanisme palu dan string ketat memungkinkan musisi bermain sangat lembut atau sangat tinggi, yang membuat piano menjadi instrumen yang sangat ekspresif.</Piano.description>
+  
+  <!-- EN: unfinished piano -->
+  <UnfinishedPiano.label>Piano tanpa finishing</UnfinishedPiano.label>
+  <!-- EN: An unfinished piano. -->
+  <UnfinishedPiano.description>Piano tanpa finishing.</UnfinishedPiano.description>
+  
+</LanguageData>

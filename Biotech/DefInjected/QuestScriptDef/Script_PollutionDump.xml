@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>WASTEPACKSLETTERLABEL-> WASTEPACKS Tiba</li>
+    <li>WASTEPACKSLETTERTEXT-> The Toxic Wastepacks telah dikirimkan.</li>-><PollutionDump.questContentRules.rulesStrings>
+    <li>Wastepacksletterlabel-> paket limbah tiba</li>
+    <li>WASTEPACKSLETTEXT-> Paket limbah beracun telah dikirimkan.</li>
+  </PollutionDump.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> Persona mesin di kapal yang mengorbit memiliki permintaan khusus.Dia ingin membongkar kelebihan pack wastepacks beracun dan berharap bahwa Anda akan menyimpannya secara bertanggung jawab. \ N \ nif Anda menerima, dia akan memberikan [wastepackcount] wastepack beracun dengan pod transportasi.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], a [asker_royaltitleincurrentfaction] dari [asker_faction_name] memiliki permintaan khusus.[asker_pronoun] telah menghasilkan banyak pack wastepacks beracun yang [asker_pronoun] tidak ingin menyimpan. \ n \ nif Anda menerima, [asker_namedef] akan memberikan [wastepackcount] yang tidak beracun di atas transport.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] memiliki permintaan khusus.Seseorang telah membuang banyak pack racun beracun di dekat salah satu pemukiman [asker_possessive] dan [asker_pronoun] tidak dapat menyimpannya dengan aman.medan terdekat.</li>-><PollutionDump.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> AI kapal di orbit memiliki permintaan khusus.Anda ingin mengunduh paket limbah beracun yang berlebih dan berharap bahwa Anda gudang secara bertanggung jawab.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefulull], [asker_royaltitleincurrentfaction], dari faksi [asker_faction_name], memiliki permintaan khusus.[Asker_pronoun] telah menghasilkan sejumlah besar limbah beracun yang tidak ingin Anda simpan.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_a] [asker_faction_leadertitle] dari faksi [asker_faction_name], memiliki permintaan khusus.Seseorang telah menuangkan sejumlah besar paket limbah beracun di dekat salah satu pemukiman mereka dan tidak dapat disimpan dengan aman. waktu, mencemari tanah terdekat.</li>
+  </PollutionDump.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [limbah] [dump]</li>
+    <li>QuestName (askerisnull == false)-> [asker_faction_pawnsingular] [limbah] [dump]</li>
+    <li>QuestName (askerisnull == false, asker_royalincurrentfaction == false)-> [asker_namedef] [limbah] [dump]</li>
+    <li>limbah-> limbah</li>
+    <li>limbah-> polusi</li>
+    <li>limbah-> toksin</li>
+    <li>limbah-> wastepack</li>
+    <li>dump-> dump</li>
+    <li>dump-> drop</li>
+    <li>pembuangan> clearance</li>
+    <li>dump-> masalah</li>-><PollutionDump.questNameRules.rulesStrings>
+    <li>QuestName-> [dump] [limbah]</li>
+    <li>QuestName (askerismnull == false)-> [dump] [limbah] untuk [asker_faction_pawnsicular]</li>
+    <li>QuestName (askerisnull == false, asker_royalincurrentfaction == false)-> [dump] [wastevaries] de [asker_namedef]</li>
+    <li>Limbah-> limbah</li>
+    <li>Limbah-> kontaminasi</li>
+    <li>Limbah-> polusi</li>
+    <li>Limbah-> paket limbah</li>
+    <li>Wastevar-> limbah</li>
+    <li>WASTEVAR-> Polusi</li>
+    <li>WASTEVAR-> Polusi</li>
+    <li>Wastevar-> Paket limbah</li>
+    <li>dump-> kosong</li>
+    <li>dump-> bersih</li>
+    <li>Dump-> jelas</li>
+    <li>dump-> hilangkan</li>
+  </PollutionDump.questNameRules.rulesStrings>
+  
+</LanguageData>

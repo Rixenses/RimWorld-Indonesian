@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>Chinchilla</Chinchilla.label>
+  <Chinchilla.labelPlural>chinchillas</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>cría de chinchilla</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.0.labelPlural>Chinchilla Young</Chinchilla.lifeStages.0.labelPlural>
+  <Chinchilla.lifeStages.1.label>Chinchilla muda</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.1.labelPlural>Chinchilla muda</Chinchilla.lifeStages.1.labelPlural>
+  <Chinchilla.lifeStages.2.label>Chinchilla</Chinchilla.lifeStages.2.label>
+  <Chinchilla.lifeStages.2.labelPlural>Chinchillas</Chinchilla.lifeStages.2.labelPlural>
+  
+  <!-- EN: deer -->
+  <Deer.label>rusa</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>belakang</Deer.labelFemale>
+  <Deer.labelFemalePlural>Ciervas</Deer.labelFemalePlural>
+  <!-- EN: buck -->
+  <Deer.labelMale>rusa</Deer.labelMale>
+  <Deer.labelMalePlural>rusa</Deer.labelMalePlural>
+  <!-- EN: deer -->
+  <Deer.labelPlural>rusa</Deer.labelPlural>
+  <Deer.lifeStages.0.label>Pembiakan rusa</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelFemale>cría de cierva</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.0.labelFemalePlural>Keturunan Cierva</Deer.lifeStages.0.labelFemalePlural>
+  <Deer.lifeStages.0.labelPlural>Anak anjing rusa</Deer.lifeStages.0.labelPlural>
+  <Deer.lifeStages.1.label>Cervatillo</Deer.lifeStages.1.label>
+  <Deer.lifeStages.1.labelFemale>Cervatilla</Deer.lifeStages.1.labelFemale>
+  <Deer.lifeStages.1.labelFemalePlural>Cervatillas</Deer.lifeStages.1.labelFemalePlural>
+  <Deer.lifeStages.1.labelMale>Cervatillo</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelMalePlural>Cervatillos</Deer.lifeStages.1.labelMalePlural>
+  <Deer.lifeStages.1.labelPlural>Cervatillos</Deer.lifeStages.1.labelPlural>
+  <Deer.lifeStages.2.label>rusa</Deer.lifeStages.2.label>
+  <Deer.lifeStages.2.labelFemale>belakang</Deer.lifeStages.2.labelFemale>
+  <Deer.lifeStages.2.labelFemalePlural>Ciervas</Deer.lifeStages.2.labelFemalePlural>
+  <Deer.lifeStages.2.labelMale>rusa</Deer.lifeStages.2.labelMale>
+  <Deer.lifeStages.2.labelMalePlural>rusa</Deer.lifeStages.2.labelMalePlural>
+  <Deer.lifeStages.2.labelPlural>ciervos</Deer.lifeStages.2.labelPlural>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>Gazelle</Gazelle.label>
+  <Gazelle.labelPlural>gacelas</Gazelle.labelPlural>
+  <Gazelle.lifeStages.0.label>Pemuliaan Gazelle</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.0.labelPlural>keturunan Gazelle</Gazelle.lifeStages.0.labelPlural>
+  <Gazelle.lifeStages.1.label>Gazelle muda</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.1.labelPlural>Gazel muda</Gazelle.lifeStages.1.labelPlural>
+  <Gazelle.lifeStages.2.label>Gazelle</Gazelle.lifeStages.2.label>
+  <Gazelle.lifeStages.2.labelPlural>gacelas</Gazelle.lifeStages.2.labelPlural>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>ibex</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>ibex</Ibex.labelFemale>
+  <Ibex.labelFemalePlural>Kambing Montesses</Ibex.labelFemalePlural>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>cabrito montés</Ibex.labelMale>
+  <Ibex.labelMalePlural>Montessses Kids</Ibex.labelMalePlural>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>Kambing Montesses</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>Breeding kambing Montés</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.0.labelFemale>Breeding kambing Montés</Ibex.lifeStages.0.labelFemale>
+  <Ibex.lifeStages.0.labelFemalePlural>crías de cabra montés</Ibex.lifeStages.0.labelFemalePlural>
+  <Ibex.lifeStages.0.labelPlural>crías de cabra montés</Ibex.lifeStages.0.labelPlural>
+  <Ibex.lifeStages.1.label>cabra montés joven</Ibex.lifeStages.1.label>
+  <Ibex.lifeStages.1.labelFemale>Kambing Montés Muda</Ibex.lifeStages.1.labelFemale>
+  <Ibex.lifeStages.1.labelFemalePlural>Montesses muda</Ibex.lifeStages.1.labelFemalePlural>
+  <Ibex.lifeStages.1.labelMale>cabrito montés joven</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelMalePlural>Montesses muda</Ibex.lifeStages.1.labelMalePlural>
+  <Ibex.lifeStages.1.labelPlural>Montesses muda</Ibex.lifeStages.1.labelPlural>
+  <Ibex.lifeStages.2.label>ibex</Ibex.lifeStages.2.label>
+  <Ibex.lifeStages.2.labelFemale>ibex</Ibex.lifeStages.2.labelFemale>
+  <Ibex.lifeStages.2.labelFemalePlural>cabras monteses</Ibex.lifeStages.2.labelFemalePlural>
+  <Ibex.lifeStages.2.labelMale>Montés Kid</Ibex.lifeStages.2.labelMale>
+  <Ibex.lifeStages.2.labelMalePlural>Montessses Kids</Ibex.lifeStages.2.labelMalePlural>
+  <Ibex.lifeStages.2.labelPlural>Kambing Montesses</Ibex.lifeStages.2.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>babi</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>menabur</Pig.labelFemale>
+  <Pig.labelPlural>babi</Pig.labelPlural>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>lechón</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.1.label>babi</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelFemale>Cochineal</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.1.labelMale>babi</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.2.label>babi</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelFemale>menabur</Pig.lifeStages.2.labelFemale>
+  <Pig.lifeStages.2.labelMale>babi</Pig.lifeStages.2.labelMale>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>babi hutan</WildBoar.label>
+  <WildBoar.labelPlural>Jabalis</WildBoar.labelPlural>
+  <WildBoar.lifeStages.0.label>babi hutan muda</WildBoar.lifeStages.0.label>
+  <WildBoar.lifeStages.0.labelFemale>departemen</WildBoar.lifeStages.0.labelFemale>
+  <WildBoar.lifeStages.0.labelFemalePlural>kemarahan</WildBoar.lifeStages.0.labelFemalePlural>
+  <WildBoar.lifeStages.0.labelMale>babi hutan muda</WildBoar.lifeStages.0.labelMale>
+  <WildBoar.lifeStages.0.labelMalePlural>Jabs</WildBoar.lifeStages.0.labelMalePlural>
+  <WildBoar.lifeStages.0.labelPlural>Jabs</WildBoar.lifeStages.0.labelPlural>
+  <WildBoar.lifeStages.1.label>Babi hutan muda</WildBoar.lifeStages.1.label>
+  <WildBoar.lifeStages.1.labelPlural>Babi hutan muda</WildBoar.lifeStages.1.labelPlural>
+  <WildBoar.lifeStages.2.label>babi hutan</WildBoar.lifeStages.2.label>
+  <WildBoar.lifeStages.2.labelPlural>Jabalis</WildBoar.lifeStages.2.labelPlural>
+  
+</LanguageData>

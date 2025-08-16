@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ceremonial hood -->
+  <Apparel_CeremonialCultistMask.label>Hood upacara</Apparel_CeremonialCultistMask.label>
+  <!-- EN: A ceremonial mask typically worn by those that worship the void and its ruler. -->
+  <Apparel_CeremonialCultistMask.description>Topeng upacara yang biasanya dibawa oleh mereka yang memuliakan kekosongan dan kedaulatan mereka.</Apparel_CeremonialCultistMask.description>
+  
+  <!-- EN: ritual mask -->
+  <Apparel_CultistMask.label>Topeng Ritual</Apparel_CultistMask.label>
+  <!-- EN: A haunting mask worn by those that worship the void. -->
+  <Apparel_CultistMask.description>Topeng yang mengganggu bahwa mereka yang menyembah kekosongan membawa.</Apparel_CultistMask.description>
+  
+</LanguageData>

@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Dormant self-charging -->
+  <SelfShutdown>Jalan raya pasif</SelfShutdown>
+  <!-- EN: Carry to recharger -->
+  <CarryToRecharger>Ambil pengisi daya</CarryToRecharger>
+  <!-- EN: Must be carried to recharger. -->
+  <MustBeCarriedToRecharger>Itu harus dibawa ke pengisi daya.</MustBeCarriedToRecharger>
+  <!-- EN: Danger -->
+  <Danger>Bahaya</Danger>
+  <!-- EN: {0} damage -->
+  <DamageType>{0} kerusakan</DamageType>
+  <!-- EN: Contained {0_labelPlural} -->
+  <ContainedThings>Berisi {0}</ContainedThings>
+  <!-- EN: Time until next atomization -->
+  <DurationUntilNextAtomization>Waktu sampai atomisasi berikutnya</DurationUntilNextAtomization>
+  <!-- EN: Finishes in -->
+  <FinishesIn>Berakhir</FinishesIn>
+  <!-- EN: with -->
+  <WithLower>menipu</WithLower>
+  <!-- EN: tiles -->
+  <TilesLower>Casillas</TilesLower>
+  <!-- EN: 1 mech -->
+  <CaravanMech>1 Meca</CaravanMech>
+  <!-- EN: {0} mechs -->
+  <CaravanMechsCount>{0} Mecas</CaravanMechsCount>
+  <!-- EN: {BOSS} with {APPAREL} -->
+  <BossWithApparel>{Boss} con {pakaian}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>Hasil gen</ComesFromGene>
+
+  <!-- Job reports -->
+  <!-- EN: removing {0}. -->
+  <ReportRemovingMechlink>Menghilangkan {0}.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>de {Teacher_labelshort}</ReportTakingLessonFrom>
+
+  <!-- Areas -->
+  <!-- EN: Pollution clear -->
+  <PollutionClear>Kontaminasi Gratis</PollutionClear>
+
+  <!-- Mechanitor -->
+  <!-- EN: Overseer -->
+  <Overseer>Pengawas</Overseer>
+  <!-- EN: None (not under control) -->
+  <OverseerNone>Tidak ada (itu tidak terkontrol)</OverseerNone>
+  <!-- EN: May go feral at any moment -->
+  <MayGoFeral>Bisa menjadi liar kapan saja</MayGoFeral>
+  <!-- EN: Bandwidth -->
+  <Bandwidth>Broadband</Bandwidth>
+  <!-- EN: bandwidth -->
+  <BandwidthLower>Broadband</BandwidthLower>
+  <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
+  <BandwidthGizmoTip>Seorang mekanitor hanya dapat mengawasi MECA jika Anda memiliki cukup broadband untuk melakukannya.Setiap Mekah mengkonsumsi jumlah broadband yang berbeda.</BandwidthGizmoTip>
+  <!-- EN: Control group -->
+  <ControlGroup>Kelompok kontrol</ControlGroup>
+  <!-- EN: Current mode -->
+  <CurrentMechWorkMode>Mode saat ini</CurrentMechWorkMode>
+  <!-- EN: Assigned mechs -->
+  <AssignedMechs>Ditugaskan mecas</AssignedMechs>
+  <!-- EN: Tuned to -->
+  <BandNodeTunedTo>Disetel ke</BandNodeTunedTo>
+  <!-- EN: Tune to -->
+  <BandNodeTuneTo>Tune</BandNodeTuneTo>
+  <!-- EN: Tuning to -->
+  <BandNodeTuningTo>Tuning</BandNodeTuningTo>
+  <!-- EN: Retune -->
+  <BandNodeRetuneTo>Recintonizar</BandNodeRetuneTo>
+  <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
+  <BandNodeTuningDesc>Menyetel node band ini ke mekanitor.Tuning itu akan membutuhkan {0} untuk menyelesaikannya.</BandNodeTuningDesc>
+  <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
+  <BandNodeRetuningDesc>Perbaiki node pita ini di mekanitor lain.Mengacu akan mengambil {0} untuk menyelesaikan.</BandNodeRetuningDesc>
+  <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
+  <DropThingBandwidthApparel>Hilangkan {0} akan mengubah broadband {1_labelshort} dari {2} a {3}.Ini berarti bahwa Mecas tidak akan terkendali.</DropThingBandwidthApparel>
+  <!-- EN: no mechs -->
+  <NoMechs>Tanpa mecas</NoMechs>
+  <!-- EN: Group -->
+  <Group>Kelompok</Group>
+  <!-- EN: Groups -->
+  <Groups>Kelompok</Groups>
+  <!-- EN: Loading mech gestation resources -->
+  <LoadingMechGestator>Memuat sumber daya kehamilan Meca</LoadingMechGestator>
+  <!-- EN: Time left this cycle -->
+  <GestatingInspect>Waktu siklus yang tersisa</GestatingInspect>
+  <!-- EN: Initiating mech gestation cycle -->
+  <InitMechGestationCycle>Memulai siklus kehamilan Mekah</InitMechGestationCycle>
+  <!-- EN: Initiating mech birth -->
+  <InitMechBirth>Memulai Kelahiran Mekah</InitMechBirth>
+  <!-- EN: Mech energy -->
+  <MechEnergy>Energi Mekah</MechEnergy>
+  <!-- EN: Energy -->
+  <Energy>Energi</Energy>
+  <!-- EN: energy -->
+  <EnergyLower>energi</EnergyLower>
+  <!-- EN: Bandwidth usage -->
+  <BandwidthUsage>Penggunaan broadband</BandwidthUsage>
+  <!-- EN: Mech gestation bandwidth -->
+  <MechGestationBandwidthUsed>Broadband dari kehamilan Mekah</MechGestationBandwidthUsed>
+  <!-- EN: Cannot summon {0} threat -->
+  <CannotSummon>Mustahil untuk meminta ancaman {0}</CannotSummon>
+  <!-- EN: {0} threat ready to summon -->
+  <ReadyToSummonThreat>Ancaman {0} siap dipanggil</ReadyToSummonThreat>
+  <!-- EN: Summon {0} threat -->
+  <Summon>Meminta ancaman {0}</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>Mecanoids yang dinonaktifkan</MechsDisabled>
+  <!-- EN: No reachable {0} -->
+  <NoReachableBossgroupCaller>Tidak dapat dicapai {0}</NoReachableBossgroupCaller>
+  <!-- EN: No reservable {0} -->
+  <NoReservableBossgroupCaller>Tidak dapat dicadangkan {0}</NoReservableBossgroupCaller>
+  <!-- EN: No powered {0} -->
+  <NoPoweredBossgroupCaller>Tidak ada makan {0}</NoPoweredBossgroupCaller>
+  <!-- EN: already used -->
+  <AlreadyUsed>sudah digunakan</AlreadyUsed>
+  <!-- EN: Gestating -->
+  <Gestating>Gesting</Gestating>
+  <!-- EN: Escorting {TARGET_labelShort}. -->
+  <Escorting>Escoltando a {target_labelshort}.</Escorting>
+  <!-- EN: Worker -->
+  <Worker>Pekerja</Worker>
+  <!-- EN: Waiting for -->
+  <WaitingFor>Menunggu</WaitingFor>
+  <!-- EN: Uncontrolled -->
+  <Uncontrolled>Tidak terkendali</Uncontrolled>
+  <!-- EN: incoming {0} -->
+  <BossgroupIncoming>{0} tiba</BossgroupIncoming>
+
+  <!-- Sanguophage -->
+  <!-- EN: hemogen -->
+  <Hemogen>haemogeno</Hemogen>
+  <!-- EN: Hemogen is a biological energy source derived from compounds in human blood. Baseliner humans produce it endogenously and consume it over time in their own internal balance. Some human xenotypes use it as a kind of fuel for specific abilities, while others must consume it to survive at all. -->
+  <HemogenDesc>Hemogen adalah sumber energi biologis yang berasal dari senyawa darah manusia.Manusia dasar memproduksinya endogen dan mengkonsumsinya dari waktu ke waktu dalam keseimbangan internal mereka sendiri.Beberapa xenotipe manusia menggunakannya sebagai semacam bahan bakar untuk kemampuan tertentu, sementara yang lain harus mengkonsumsinya untuk bertahan hidup.</HemogenDesc>
+  <!-- EN: deathrest capacity -->
+  <DeathrestCapacity>Kapasitas mortisueño</DeathrestCapacity>
+  <!-- EN: This determines how many deathrest buildings a person can connect to while deathresting. Each deathrest building confers a specific benefit, so it's better to be able to connect to more of them.\n\nDeathrest capacity can be increased using deathrest capacity serums. These serums can be purchased from traders. -->
+  <DeathrestCapacityDesc>Ini menentukan berapa banyak modul mortisueño yang dapat dihubungkan dengan seseorang ketika mereka berada di mortisueño mereka.Setiap modul mortisueño memberikan manfaat tertentu, jadi lebih baik untuk terhubung ke beberapa dari mereka.Sera ini dapat dibeli dari pedagang.</DeathrestCapacityDesc>
+  <!-- EN: {PAWN_nameDef} is connected to {CURRENT} / {MAX} (max) deathrest buildings. -->
+  <PawnIsConnectedToBuildings>{Pawn_namedef} terhubung ke {saat ini} / {max} (max) Modul Mortisueño.</PawnIsConnectedToBuildings>
+  <!-- EN: wake now -->
+  <Wake>Bangun sekarang</Wake>
+  <!-- EN: Wake up from deathrest.\n\n{PAWN_nameDef} has been in deathrest for {DURATION}. -->
+  <WakeDesc>Bangun dari mortisueño. \ N \ nel mortisueño dari {pawn_namedef} bertahan {durasi}.</WakeDesc>
+  <!-- EN: {PAWN_nameDef} needs to deathrest for at least {TOTAL}. Waking {PAWN_objective} early will make {PAWN_objective} ill, and {PAWN_pronoun} will not benefit from any deathrest buildings. -->
+  <WakeExtraDesc_Exhaustion>{Pawn_namedef} perlu mematikan setidaknya {total}.Jika Anda bangun sebelumnya, Anda akan sakit dan tidak akan mendapat manfaat dari modul mortisueño apa pun.</WakeExtraDesc_Exhaustion>
+  <!-- EN: {PAWN_nameDef} can now wake safely. -->
+  <WakeExtraDesc_Safe>{Pawn_namedef} dapat bangun dengan aman.</WakeExtraDesc_Safe>
+  <!-- EN: Cannot wake. Need at least {0} hemogen. -->
+  <CannotWakeNotEnoughHemogen>Mustahil untuk bangun.Anda membutuhkan setidaknya {0} hemogen.</CannotWakeNotEnoughHemogen>
+  <!-- EN: Auto-wake -->
+  <AutoWake>Self -despert</AutoWake>
+  <!-- EN: When on, {PAWN_nameDef} will automatically wake once {PAWN_possessive} deathrest is complete.\n\nWhile off, {PAWN_pronoun} will continue deathresting until you wake {PAWN_objective} manually. -->
+  <AutoWakeDesc>Saat aktif, {Pawn_Namedef} akankah itu akan bangun {Pawn_gender?O: A} Secara otomatis setelah mortisueño Anda selesai.</AutoWakeDesc>
+  <!-- EN: {PAWN_nameDef} is deathresting. -->
+  <IsDeathresting>{Pawn_namedep} malas.</IsDeathresting>
+  <!-- EN: cannot deathrest -->
+  <CannotDeathrest>Mustahil untuk menggetarkan</CannotDeathrest>
+  <!-- EN: Start deathrest -->
+  <StartDeathrest>Mulailah mematikan</StartDeathrest>
+  <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
+  <ConfirmExitDeathrestUnderMinDays>Menyelesaikan mortisueño dengan aman membawa {mindthration}, tetapi {pawn_namedef} hanya di mortisueño selama {curd resort}. \ N \ ndesperta a {pawn_namedef} Sekarang akan mengganggu kematiannya selama beberapa hari.</ConfirmExitDeathrestUnderMinDays>
+  <!-- EN: deathresting -->
+  <Deathresting>tanggam</Deathresting>
+  <!-- EN: can wake safely now. -->
+  <CanWakeSafely>Anda bisa bangun dengan aman sekarang.</CanWakeSafely>
+  <!-- EN: Disabled by gene -->
+  <DisabledByGene>Dinonaktifkan oleh gen</DisabledByGene>
+  <!-- EN: {PAWN_nameDef} is in critical condition. -->
+  <WakeDisabledCriticalCondition>{Pawn_namedef} dalam kondisi kritis.</WakeDisabledCriticalCondition>
+  <!-- EN: Drain rate -->
+  <DrainRate>Laju drainase</DrainRate>
+  <!-- EN: Regeneration rate -->
+  <RegenerationRate>Tingkat regenerasi</RegenerationRate>
+  <!-- EN: {PAWN_nameDef} should deathrest in {DURATION} to avoid exhaustion. -->
+  <NextDeathrestNeed>{Pawn_namedef} harus mengambil {durasi} yang mematikan untuk menghindari kelelahan.</NextDeathrestNeed>
+  <!-- EN: {PAWN_nameDef} should deathrest soon to avoid exhaustion. -->
+  <PawnShouldDeathrestNow>{Pawn_namedef} Anda harus segera mengambil mematikan untuk menghindari kelelahan.</PawnShouldDeathrestNow>
+  <!-- EN: This determines whether {PAWN_nameDef} will automatically ingest hemogen packs when {PAWN_possessive} hemogen is below {MIN}.\n\nAutomatic ingestion is currently {ONOFF}. -->
+  <AutoTakeHemogenDesc>Tentukan apakah {pawn_namedef} akan secara otomatis menelan paket hemogen saat hemogen Anda di bawah {min}. \ N \ nla konsumsi otomatis saat ini {onoff}.</AutoTakeHemogenDesc>
+  <!-- EN: Consume hemogen below -->
+  <ConsumeHemogenBelow>Konsumsi hemogen di bawah ini</ConsumeHemogenBelow>
+  <!-- EN: Never consume hemogen. -->
+  <NeverConsumeHemogen>Jangan pernah mengonsumsi hemogen.</NeverConsumeHemogen>
+  <!-- EN: Will kill -->
+  <WillKill>Akan membunuh</WillKill>
+  <!-- EN: Will cause major blood loss -->
+  <WillCauseSeriousBloodloss>Akan menyebabkan pendarahan yang lebih besar</WillCauseSeriousBloodloss>
+  <!-- EN: too small -->
+  <TooSmall>terlalu kecil</TooSmall>
+
+  <!-- Deathrest buildings -->
+  <!-- EN: Bound to -->
+  <BoundTo>Terhubung ke</BoundTo>
+  <!-- EN: Will bind permanently on first use. -->
+  <WillBindOnFirstUse>Ini akan ditugaskan secara permanen pada penggunaan pertama.</WillBindOnFirstUse>
+  <!-- EN: Time active this deathrest -->
+  <TimeActiveThisDeathrest>Waktu aktif dari ini mematikan</TimeActiveThisDeathrest>
+  <!-- EN: Minimum is {0} to apply -->
+  <MinimumNeededToApply>Minimum untuk diterapkan adalah {0}</MinimumNeededToApply>
+  <!-- EN: Cannot deathrest -->
+  <CannotAssignBedCannotDeathrest>Itu tidak bisa mematikan</CannotAssignBedCannotDeathrest>
+  <!-- EN: Already bound to {0_nameDef} -->
+  <CannotAssignAlreadyBound>Sudah ditautkan ke {0_namedef}</CannotAssignAlreadyBound>
+  <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
+  <CannotAssignBedCannotBindToMoreBuildings>Itu tidak dapat bergabung dengan lebih banyak {building_labelplural}</CannotAssignBedCannotBindToMoreBuildings>
+
+  <!-- Aptitudes -->
+  <!-- EN: aptitude -->
+  <Aptitude>kebugaran</Aptitude>
+  <!-- EN: aptitudes -->
+  <Aptitudes>bakat</Aptitudes>
+  <!-- EN: aptitudes -->
+  <AptitudePlural>bakat</AptitudePlural>
+  <!-- EN: Aptitude makes an individual perform at a higher or lower level than their learned skill.\n\nFor example, an aptitude of +1 for a skill means that a person with level 5 in that skill will perform as though they were at level 6.\n\nThe total value cannot exceed level 20 or fall below level 1. -->
+  <AptitudesDesc>Appitude menyebabkan seseorang menyerah pada tingkat yang lebih tinggi atau lebih rendah dari kemampuan yang dipelajari.</AptitudesDesc>
+  <!-- EN: total -->
+  <Total>total</Total>
+  
+  <!-- Human pregnancy -->
+  <!-- EN: Father -->
+  <FatherTip>Paderi</FatherTip>
+  <!-- EN: Genetic mother -->
+  <MotherTip>Ibu genetik</MotherTip>
+  <!-- EN: an unoccupied bed -->
+  <RitualTargetChildBirth>Tempat tidur yang tidak dihuni</RitualTargetChildBirth>
+  <!-- EN: No appropriate bed for giving birth. -->
+  <NoAppropriateBedChildBirth>Tempat tidur tidak tepat untuk melahirkan.</NoAppropriateBedChildBirth>
+  <!-- EN: No doctor around. -->
+  <NoDoctorChildBirth>Tidak ada dokter di dekatnya.</NoDoctorChildBirth>
+  <!-- EN: Can't use this bed. -->
+  <CantUseThisBed>Anda tidak dapat menggunakan tempat tidur ini.</CantUseThisBed>
+  <!-- EN: Not in labor. -->
+  <NotInLabor>Itu tidak dalam persalinan.</NotInLabor>
+  <!-- EN: labor -->
+  <Labor>bagian</Labor>
+  <!-- EN: dilation -->
+  <LaborDilation>pelebaran</LaborDilation>
+  <!-- EN: normal -->
+  <PregnancyApproach_Normal>normal</PregnancyApproach_Normal>
+  <!-- EN: avoid pregnancy -->
+  <PregnancyApproach_AvoidPregnancy>Hindari kehamilan</PregnancyApproach_AvoidPregnancy>
+  <!-- EN: try for baby -->
+  <PregnancyApproach_TryForBaby>Bayi untuk punya bayi</PregnancyApproach_TryForBaby>
+  <!-- EN: pregnancy chance -->
+  <PregnancyChance>Kemungkinan kehamilan</PregnancyChance>
+  <!-- EN: Pregnancy approach -->
+  <PregnancyApproach>Inisiatif Kehamilan</PregnancyApproach>
+  <!-- EN: Click to change pregnancy approach. -->
+  <ClickToChangePregnancyApproach>Klik untuk mengubah inisiatif kehamilan.</ClickToChangePregnancyApproach>
+  <!-- EN: Pregnancy is not possible -->
+  <PregnancyNotPossible>Kehamilan tidak mungkin</PregnancyNotPossible>
+  <!-- EN: The chance of a healthy birth at this quality level was {0_percentage}. -->
+  <BirthRitualHealthyBabyChance>Probabilitas pengiriman yang sehat pada tingkat kualitas ini adalah {0_PERCANTIF}.</BirthRitualHealthyBabyChance>
+  <!-- EN: Giving birth. -->
+  <GivingBirth>Memberi cahaya.</GivingBirth>
+
+  <!-- Genes -->
+  <!-- EN: genes -->
+  <Genes>gen</Genes>
+  <!-- EN: The genes associated with this xenotype. -->
+  <GenesDesc>Gen yang terkait dengan xenotype ini.</GenesDesc>
+  <!-- EN: suppressed -->
+  <Suppressed>tertindas</Suppressed>
+  <!-- EN: active -->
+  <Active>aset</Active>
+  <!-- EN: This trait has been suppressed by a conflicting forced genetic trait or gene. It will not be active until all conflicts are removed -->
+  <SuppressedDesc>Fitur ini ditekan oleh konflik genetik yang dipaksakan oleh gen.Itu tidak dapat diaktifkan sampai semua konflik diselesaikan.</SuppressedDesc>
+  <!-- EN: trait -->
+  <Trait>fitur</Trait>
+  <!-- EN: gene -->
+  <Gene>gen</Gene>
+  <!-- EN: Added by gene -->
+  <AddedByGene>Ditambahkan oleh gen</AddedByGene>
+  <!-- EN: Eject all -->
+  <EjectAll>Mengeluarkan segalanya</EjectAll>
+  <!-- EN: Drop all contained genepacks onto the ground. -->
+  <EjectAllDesc>Lemparkan semua paket gen ke tanah.</EjectAllDesc>
+  <!-- EN: Genepacks stored -->
+  <GenepacksStored>Paket gen yang disimpan</GenepacksStored>
+  <!-- EN: Auto-load -->
+  <GenepackAutoLoad>Autrocarga</GenepackAutoLoad>
+  <!-- EN: If active, haulers will automatically store this genepack in a gene bank. -->
+  <GenepackAutoLoadDesc>Jika aktif, operator akan secara otomatis menyimpan paket gen ini di bank gen.</GenepackAutoLoadDesc>
+  <!-- EN: Forced traits -->
+  <ForcedTraits>Fitur paksa</ForcedTraits>
+  <!-- EN: Suppressed traits -->
+  <SuppressedTraits>Fitur yang dihapus</SuppressedTraits>
+  <!-- EN: These traits will be added. All conflicting traits will become suppressed. -->
+  <ForcedTraitsDesc>Fitur -fitur ini akan ditambahkan.Semua fitur yang saling bertentangan akan dihilangkan.</ForcedTraitsDesc>
+  <!-- EN: Complexity -->
+  <Complexity>Kompleksitas</Complexity>
+  <!-- EN: How much complexity this adds to the process of gene assembly. -->
+  <ComplexityDesc>Berapa banyak kompleksitas yang menambahkan ini ke proses perakitan gen.</ComplexityDesc>
+  <!-- EN: Maximum complexity can be increased by building gene processors near the gene assembler. -->
+  <MaxComplexityDesc>Kompleksitas maksimum dapat ditingkatkan dengan membangun prosesor genetik di dekat perakitan gen.</MaxComplexityDesc>
+  <!-- EN: Total complexity -->
+  <ComplexityTotal>Kompleksitas total</ComplexityTotal>
+  <!-- EN: The total complexity of all the genes in use. -->
+  <ComplexityTotalDesc>Kompleksitas total semua gen yang digunakan.</ComplexityTotalDesc>
+  <!-- EN: metabolic efficiency -->
+  <Metabolism>Efisiensi metabolisme</Metabolism>
+  <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
+  <MetabolismDesc>Efisiensi metabolisme total gen saat dirakit.Efisiensi tinggi berarti bahwa seseorang akan membutuhkan lebih sedikit makanan, di sisi lain, jika mereka memiliki efisiensi rendah, Anda harus makan lebih banyak.</MetabolismDesc>
+  <!-- EN: Metabolic efficiency -->
+  <MetabolismTotal>Efisiensi metabolisme</MetabolismTotal>
+  <!-- EN: The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more. -->
+  <MetabolismTotalDesc>Efisiensi metabolisme total gen di genóma.Efisiensi tinggi berarti bahwa seseorang akan membutuhkan lebih sedikit makanan, di sisi lain, jika mereka memiliki efisiensi rendah, Anda harus makan lebih banyak.</MetabolismTotalDesc>
+  <!-- EN: Number of genes -->
+  <NumberOfGenes>Jumlah gen</NumberOfGenes>
+  <!-- EN: Gene price factors -->
+  <GenePriceFactors>Faktor Harga Gen</GenePriceFactors>
+  <!-- EN: any -->
+  <AnyLower>setiap</AnyLower>
+  <!-- EN: Archite total -->
+  <ArchitesTotal>Total Archite</ArchitesTotal>
+  <!-- EN: Archite capsules -->
+  <ArchitesRequired>Archite</ArchitesRequired>
+  <!-- EN: Archites are archotech mechanites - microscopic devices which can operate directly on cells and molecules, created by superintelligent archotechs. They are capable of unexplainable feats, and some genes only function when supported by the otherworldly machinery of the archotechs. Humans cannot create archites - only find them when an archotech happens to produce some for its own unknowable reason. -->
+  <ArchitesRequiredDesc>Arsitek adalah mesin arcotechnological, perangkat mikroskopis yang dapat beroperasi langsung dalam sel dan molekul, yang dibuat oleh archotechnics yang diawetkan.Mereka dapat melakukan prestasi yang tidak dapat dijelaskan, beberapa gen hanya akan bekerja ketika mereka didukung oleh mesin arkoteknik dunia lain.Manusia tidak dapat membuat arsitek, hanya menemukannya ketika archotechnical menghasilkan beberapa untuk beberapa alasan yang tidak diketahui.</ArchitesRequiredDesc>
+  <!-- EN: Cancel xenogerm -->
+  <CancelXenogerm>Batalkan xenogermen</CancelXenogerm>
+  <!-- EN: Stop all work on the current xenogerm. -->
+  <CancelXenogermDesc>Hentikan semua pekerjaan di xenogermen saat ini.</CancelXenogermDesc>
+  <!-- EN: Allow all genepacks -->
+  <AllowAllGenepacks>Semua paket gen</AllowAllGenepacks> 
+  <!-- EN: Whether or not colonists are allowed to automatically store any genepack into this container. Turn this off if you want to specify which specific genepacks should be stored here. -->
+  <AllowAllGenepacksDesc>Apakah pemukim diizinkan untuk secara otomatis menyimpan paket gen apa pun di wadah ini.Nonaktifkan opsi ini jika Anda ingin menentukan paket gen konkret mana yang harus disimpan di sini.</AllowAllGenepacksDesc> 
+  <!-- EN: The genepacks currently inside this container. -->
+  <ContainedGenepacksDesc>Paket gen dalam wadah ini.</ContainedGenepacksDesc> 
+  <!-- EN: The genepacks designated to be loaded into this container. -->
+  <GenepacksToLoadDesc>Paket gen dirancang untuk disimpan dalam wadah ini.</GenepacksToLoadDesc> 
+  <!-- EN: Unstored genepacks that are not designated to be loaded into this container. -->
+  <GenepacksIgnoredDesc>Paket gen yang tidak disimpan yang tidak ditunjuk untuk dimuat dalam wadah ini.</GenepacksIgnoredDesc> 
+  <!-- EN: Genepacks to load -->
+  <GenepacksToLoad>Paket gen untuk dimuat</GenepacksToLoad> 
+  <!-- EN: Genepacks to ignore -->
+  <GenepacksToIgnore>Paket gen untuk diabaikan</GenepacksToIgnore> 
+  <!-- EN: Eject this genepack from the container. -->
+  <EjectGenepackDesc>Eyey paket gen wadah ini.</EjectGenepackDesc> 
+  <!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
+  <ConfirmRemoveGenepack>Apakah Anda benar -benar ingin mengeluarkan {0}?Itu akan segera dikeluarkan ke tanah.</ConfirmRemoveGenepack> 
+  <!-- EN: Missing required research -->
+  <MissingRequiredResearch>Kehilangan penelitian yang diperlukan</MissingRequiredResearch>
+  <!-- EN: No genepacks available in nearby gene banks. -->
+  <NoGenepacksAvailable>Tidak ada paket gen yang tersedia di bank dekat mana pun.</NoGenepacksAvailable> 
+  <!-- EN: Allow this genepack to be loaded into this container. -->
+  <AddToLoadingListDesc>Biarkan paket gen ini disimpan dalam wadah ini.</AddToLoadingListDesc> 
+  <!-- EN: Remove this genepack from the loading list. -->
+  <RemoveFromLoadingListDesc>Hapus paket gen ini dari daftar ini.</RemoveFromLoadingListDesc> 
+  <!-- EN: Recombine -->
+  <Recombine>Rekombinar</Recombine>
+  <!-- EN: Create a new implantable xenogerm using data from genepacks in your gene library. -->
+  <RecombineDesc>Buat xenogermen implan baru menggunakan informasi dari paket gen perpustakaan gen Anda.</RecombineDesc>
+  <!-- EN: Genes -->
+  <ContainedGenesDesc>Gen</ContainedGenesDesc>
+  <!-- EN: Order implantation -->
+  <ImplantXenogerm>Implantasi pesanan</ImplantXenogerm>
+  <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
+  <ImplantXenogermDesc>Menerapkan ini pada seseorang akan membuat kode genetik Anda dibatalkan sebagian.</ImplantXenogermDesc>
+  <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
+  <ImplantXenogermWarningDesc>Implementasi xenogermen akan menempatkan {pawn_namedef} dalam koma sementara xenogermen terintegrasi.Rata -rata, ini berlangsung {comaduration}.Durasi koma tergantung pada kemampuan medis dokter dan kualitas fasilitas medisnya.</ImplantXenogermWarningDesc>
+  <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
+  <ImplantXenogermWarningOverwriteXenogenes>Selain itu, menerapkan xenogermen akan menimpa xenogen yang ada.Xenotype {pawn_namedef} saat ini adalah "{xenotype}".{Pawn_pronoun} memiliki xenogenes berikut: \ n {xenogenes}</ImplantXenogermWarningOverwriteXenogenes>
+  <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
+  <ImplantXenogermWarningNewMetabolism>Setelah implementasi, {pawn_namedef} akan memiliki nilai metabolisme {Met} dan pengganda konsumsi makanan {konsumsi}.</ImplantXenogermWarningNewMetabolism>
+  <!-- EN: Would you like to continue? -->
+  <WouldYouLikeToContinue>Apakah Anda ingin melanjutkan?</WouldYouLikeToContinue>
+  <!-- EN: Cancel implanting -->
+  <CancelImplanting>Batalkan implementasi</CancelImplanting>
+  <!-- EN: Cancel implanting this xenogerm into {PAWN_nameDef}. -->
+  <CancelImplantingDesc>Batalkan implementasi xenogermen ini di {pawn_namedef}.</CancelImplantingDesc>
+  <!-- EN: Xenotype -->
+  <Xenotype>Xenotype</Xenotype>
+  <!-- EN: unique -->
+  <Unique>lajang</Unique>
+  <!-- EN: A unique human variant with a set of xenogenes that do not fall into any known xenotype. -->
+  <UniqueXenotypeDesc>Jenis varian manusia yang unik dengan kelompok xenogen yang tidak diidentifikasi dengan xenotype yang diketahui.</UniqueXenotypeDesc>
+  <!-- EN: Factor for genetic metabolism -->
+  <FactorForMetabolism>Faktor genetik metabolisme</FactorForMetabolism>
+  <!-- EN: Progress -->
+  <Progress>Kemajuan</Progress>
+  <!-- EN: In sunlight -->
+  <InSunlight>Di bawah sinar matahari</InSunlight>
+  <!-- EN: {0_labelShort} is exposed to the sky. -->
+  <ThingIsSkyExposed>{0_labelshort} terpapar ke surga.</ThingIsSkyExposed>
+  <!-- EN: Insert person -->
+  <InsertPerson>Insertar persona</InsertPerson>
+  <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
+  <InsertPersonGeneExtractorDesc>Masukkan seseorang ke dalam ekstraktor gen.Bersalin genetiknya akan diekstraksi dan digunakan untuk membuat bungkus gen yang berisi seleksi acak gennya.Proses ini mematikan bagi mereka yang baru saja dikembangkan.</InsertPersonGeneExtractorDesc>
+  <!-- EN: Warning: {PAWN_nameDef}'s genes are regrowing. Extracting {PAWN_possessive} genes before they are regrown will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
+  <ConfirmExtractXenogermWillKill>Peringatan: {Pawn_Namedef} gen sedang berkembang.Ekstrak gen mereka sebelum mereka mengembangkan {Pawn_objective} akan membunuh. \ N \ n, apa yang ingin Anda lanjutkan?</ConfirmExtractXenogermWillKill>
+  <!-- EN: Gene extraction complete for {PAWN_nameDef}. Extracted -->
+  <GeneExtractionComplete>Ekstraksi gen lengkap untuk {Pawn_namedef}.Diekstraksi.</GeneExtractionComplete>
+  <!-- EN: Insert xenogerm -->
+  <InsertXenogerm>Masukkan xenogermen</InsertXenogerm>
+  <!-- EN: Insert a xenogerm to apply during growth. -->
+  <InsertXenogermDesc>Masukkan xenogermen untuk diterapkan selama pertumbuhan.</InsertXenogermDesc>
+  <!-- EN: Waiting for {PAWN_nameDef}. -->
+  <WaitingForPawn>Menunggu {Pawn_Namedef}.</WaitingForPawn>
+  <!-- EN: Extracting genes from {PAWN_nameDef}. -->
+  <ExtractingXenogermFrom>Mengekstrak gen {Pawn_Namedef}.</ExtractingXenogermFrom>
+  <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
+  <ExtractionPausedNoPower>Ekstraksi yang Dijuang: Tanpa Energi (Gangguan dalam {Time})</ExtractionPausedNoPower>
+  <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
+  <LastIngestedDurationAgo>Terakhir kali dia tertelan {Chemical_label} dilakukan {durasi}.</LastIngestedDurationAgo>
+  <!-- EN: {NAME} xenogerm -->
+  <NamedXenogerm>Xenogermen {name}</NamedXenogerm>
+  <!-- EN: Inserted {0} -->
+  <InsertedThing>Dimasukkan ke {0}</InsertedThing>
+  <!-- EN: Assembly paused -->
+  <AssemblyPaused>Majelis yang Dijeda</AssemblyPaused>
+  <!-- EN: Required gene bank unpowered -->
+  <GenebankUnpowered>Bank gen yang diperlukan tanpa energi</GenebankUnpowered>
+  <!-- EN: deathless -->
+  <Deathless>kekal</Deathless>
+  <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
+  <GeneDefChemicalNeedDurationDesc>{Pawn_namedef} perlu menelan {0} secara teratur untuk bertahan hidup.Setelah {DeficiencyDuration} tanpa {0}, itu akan mengalami kekurangan {0}.Setelah {Comaduration}, itu akan menjadi koma.Setelah {DeathDuration}, dia akan mati.</GeneDefChemicalNeedDurationDesc>
+  <!-- EN: {CHEMICAL_label} dependency -->
+  <ChemicalDependency>Ketergantungan pada {chemical_label}</ChemicalDependency>
+  <!-- EN: Xenogerm -->
+  <Xenogerm>Xenogermen</Xenogerm>
+  <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
+  <PawnWillKeepDeathrestingLethalInjuries>{Pawn_namedef} akan berlanjut dengan mortisueño Anda selama Anda mengalami cedera mematikan.</PawnWillKeepDeathrestingLethalInjuries>
+  <!-- EN: {PAWN_nameDef} will remain in a regeneration coma so long as {PAWN_pronoun} has lethal injuries. -->
+  <PawnWillKeepRegeneratingLethalInjuries>{Pawn_namedef} akan tetap dalam koma regeneratif selama Anda memiliki lesi yang mematikan.</PawnWillKeepRegeneratingLethalInjuries>
+  <!-- EN: Deathrest stopped -->
+  <DeathrestPaused>Mortisueño ditangkap</DeathrestPaused>
+  <!-- EN: Lethal injuries -->
+  <LethalInjuries>Luka mematikan</LethalInjuries>
+  <!-- EN: deathrest -->
+  <Deathrest>Mortisueño</Deathrest>
+  <!-- EN: capacity -->
+  <Capacity>kemampuan</Capacity>
+  <!-- EN: Non-{GENE} romance chance -->
+  <MissingGeneRomanceChance>Peluang romantis tanpa {gen}</MissingGeneRomanceChance>
+  <!-- EN: Not in gene bank -->
+  <NotInGeneBank>Itu tidak ada di bank gen</NotInGeneBank>
+
+  <!-- Child birth -->
+  <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
+  <ChildBirthAlwaysHealthy_Desc>Berkumpul untuk membantu seorang ibu dalam cahaya.Seorang dokter dapat membantu selama kelahiran bayi.</ChildBirthAlwaysHealthy_Desc>
+  <!-- EN: until the baby is born -->
+  <UntilBabyIsBorn>Sampai Bayi Lahir</UntilBabyIsBorn>
+
+  <!-- EN: Children want to learn from different activities at different times. -->
+  <LearningDesireTooltip>Anak -anak ingin belajar dari berbagai kegiatan pada waktu yang berbeda.</LearningDesireTooltip>
+  <!-- EN: Development health is the average of a child's learning need since their last birthday.\n\nChildren with higher development health will have more options during growth moments and will gain more passions for skills. -->
+  <DevelopmentHealthGizmoTooltip>Kesehatan pembangunan adalah kebutuhan belajar rata -rata seorang anak sejak ulang tahun terakhirnya.</DevelopmentHealthGizmoTooltip>
+
+  <!-- EN: Must not be placed close to another {0_label} -->
+  <MustNotBePlacedCloseToAnother>Itu tidak boleh ditempatkan di dekat {0_label} yang lain</MustNotBePlacedCloseToAnother>
+  <!-- EN: Next terrain pollution in -->
+  <PollutingTerrainProgress>Mengikuti polusi tanah di</PollutingTerrainProgress>
+  <!-- EN: Poisoned {0} -->
+  <PoisonedTerrain>{0} diracuni</PoisonedTerrain>
+  <!-- EN: Assign to control group {0} -->
+  <AssignMechToControlGroup>Tetapkan ke grup kontrol {0}</AssignMechToControlGroup>
+  <!-- EN: Fall per day -->
+  <CurrentMechEnergyFallPerDay>Jatuh per hari</CurrentMechEnergyFallPerDay>
+  <!-- EN: Cannot assign to control group {0} -->
+  <CannotAssignMechToControlGroup>Mustahil untuk mengontrol grup {0}</CannotAssignMechToControlGroup>
+  <!-- EN: Already assigned -->
+  <AssignMechAlreadyAssigned>Sudah ditugaskan</AssignMechAlreadyAssigned>
+
+  <!-- Lactation -->
+  <!-- EN: Consuming an extra {0} nutrition per day to produce milk (milk production speed is {1_percentage} because of the current food level). -->
+  <LactatingAddedNutritionPerDay>Konsumsi nutrisi tambahan {0} per hari untuk menghasilkan susu (kecepatan produksi susu adalah {1_percantage} karena tingkat pemberian makan saat ini).</LactatingAddedNutritionPerDay>
+  <!-- EN: Lactation is paused because milk fullness is 100% -->
+  <LactatingStoppedBecauseFull>Menyusui karena batas susu 100%</LactatingStoppedBecauseFull>
+  <!-- EN: Lactation is paused due to starvation. -->
+  <LactatingStoppedBecauseHungry>Menyusui berhenti karena kelaparan.</LactatingStoppedBecauseHungry>
+
+  <!-- Mech gestating -->
+  <!-- EN: Current gestation cycle -->
+  <CurrentGestationCycle>Siklus kehamilan saat ini</CurrentGestationCycle>
+  <!-- EN: Gestation cycles remaining -->
+  <RemainingGestationCycles>Siklus kehamilan yang tersisa</RemainingGestationCycles>
+  <!-- EN: Gestation cycles -->
+  <GestationCycles>Siklus kehamilan</GestationCycles>
+  <!-- EN: Gestating {0} -->
+  <GestatingMech>Gesting {0}</GestatingMech>
+  <!-- EN: Gestated {0} -->
+  <GestatedMech>{0} sangat terpasang</GestatedMech>
+  <!-- EN: Requires {PAWN_nameDef} to continue gestating -->
+  <GestatingMechRequiresMechanitor>Membutuhkan {Pawn_namedef} untuk melanjutkan kehamilan</GestatingMechRequiresMechanitor>
+  <!-- EN: Requires {PAWN_nameDef} to complete -->
+  <GestatedMechRequiresMechanitor>Membutuhkan {Pawn_Namedef} untuk menyelesaikan</GestatedMechRequiresMechanitor>
+  <!-- EN: Gestation complete -->
+  <GestationComplete>Kehamilan selesai</GestationComplete>
+  <!-- EN: Resurrecting {0} -->
+  <ResurrectingMech>Risening {0}</ResurrectingMech>
+  <!-- EN: Resurrected {0} -->
+  <ResurrectedMech>{0} dibangkitkan</ResurrectedMech>
+
+  <!-- Carrier -->
+  <!-- EN: Release {0} -->
+  <MechCarrierRelease>Rilis {0}</MechCarrierRelease>
+  <!-- EN: Release a swarm of up to {0} {1}. Each {2} costs {3} {4} to build. If the parent is destroyed then all the linked {1} will die. {1} cannot be recharged and will die once their power source runs out. -->
+  <MechCarrierDesc>Lepaskan segerombolan hingga {0} {1}.Masing -masing {2} biaya {3} {4} untuk membangun.Jika Bapa dihancurkan, semua ditautkan} akan mati.{1} tidak dapat diisi ulang dan akan mati ketika sumber energi mereka habis.</MechCarrierDesc>
+  <!-- EN: Not enough resources -->
+  <MechCarrierNotEnoughResources>Sumber daya yang tidak memadai</MechCarrierNotEnoughResources>
+  <!-- EN: Autofill -->
+  <MechCarrierAutofillResources>Self -Reflex</MechCarrierAutofillResources>
+  <!-- EN: Click to set the desired autofill amount. -->
+  <MechCarrierClickToSetAutofillAmount>Klik untuk memilih jumlah yang diinginkan ke Authrellenar.</MechCarrierClickToSetAutofillAmount>
+  <!-- EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
+  <MechCarrierAutofillDesc>Jumlah self -rrate ini menentukan jumlah maksimum sumber daya yang dapat ditempatkan oleh pemukim Anda secara otomatis di {0} ini.Sumber daya dapat digunakan untuk membuat {1}.</MechCarrierAutofillDesc>
+
+  <!-- Mech power cell -->
+  <!-- EN: Power cell -->
+  <MechPowerCell>Sel energi</MechPowerCell>
+  <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
+  <MechPowerCellTip>Perang Herizos memiliki satu sumber energi.Saat sel energi habis, mekanoid mati.</MechPowerCellTip>
+  
+
+  <!-- Bossgroup -->
+  <!-- EN: available in {0}. -->
+  <BossgroupAvailableIn>Tersedia di {0}.</BossgroupAvailableIn>
+  <!-- EN: requires mechanitor -->
+  <RequiresMechanitor>Membutuhkan mekanitor</RequiresMechanitor>
+
+  <!-- Abilities -->
+  <!-- EN: {0_labelShort} is not hemogenic. -->
+  <AbilityDisabledNoHemogenGene>{0_labelshort} bukan hemogenik.</AbilityDisabledNoHemogenGene>
+  <!-- EN: {0_labelShort} does not have enough hemogen. -->
+  <AbilityDisabledNoHemogen>{0_labelshort} tidak memiliki cukup hemogen.</AbilityDisabledNoHemogen>
+  <!-- EN: children cannot do this. -->
+  <AbilityStartRitualDisabledChild>Seorang anak tidak bisa melakukan ini.</AbilityStartRitualDisabledChild>
+  <!-- EN: need a {0}. -->
+  <AbilityStartRitualNoMembersOfIdeo>Anda membutuhkan {0}.</AbilityStartRitualNoMembersOfIdeo>
+  <!-- EN: Hemogen cost -->
+  <AbilityHemogenCost>Biaya hemogen</AbilityHemogenCost>
+  <!-- EN: Base hemogen gain -->
+  <AbilityHemogenGain>Gain hemogenik</AbilityHemogenGain>
+  <!-- EN: Smokepop charged -->
+  <AbilityMechSmokepopCharged>Pompa asap yang dimuat</AbilityMechSmokepopCharged>
+  <!-- EN: Smokepop recharged in {0} -->
+  <AbilityMechSmokepopRecharging>Pompa asap diisi ulang di {0}</AbilityMechSmokepopRecharging>
+  <!-- EN: Firefoam pop charged -->
+  <AbilityMechFirefoampopCharged>Pompa busa lo -fired</AbilityMechFirefoampopCharged>
+  <!-- EN: Firefoam pop recharged in {0} -->
+  <AbilityMechFirefoampopRecharging>Pompa busa api yang digulung di {0}</AbilityMechFirefoampopRecharging>
+
+  <!-- EN: Polluted {0} -->
+  <PollutedTerrain>{0} terkontaminasi</PollutedTerrain>
+
+  <!-- Growth vat -->
+  <!-- EN: Biostarvation -->
+  <Biostarvation>Bioinanity</Biostarvation>
+  <!-- EN: One or more growth vats are experiencing biostarvation from lack of nutrition or power.\n\nIf biostarvation reaches 100%, the contained people will die. -->
+  <BiostarvationExplanation>Satu atau lebih inkubator mengalami bioinanance karena kurangnya nutrisi atau energi.</BiostarvationExplanation>
+  <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
+  <InsertPersonGrowthVatDesc>Masukkan seseorang ke dalam inkubator.Ini akan usia 20 kali lebih cepat dari biasanya.</InsertPersonGrowthVatDesc>
+  <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
+  <InsertEmbryoGrowthVatDesc>Implan embrio di inkubator.Setelah memberi isyarat selama hari {0}, bayi yang benar -benar terbentuk akan diproduksi oleh inkubator, semoga dalam kondisi baik.</InsertEmbryoGrowthVatDesc>
+  <!-- EN: Insert embryo -->
+  <ImplantEmbryo>Memperkenalkan embrio</ImplantEmbryo>
+  <!-- EN: Cannot insert embryo -->
+  <CannotInsertEmbryo>Embrio tidak dapat diperkenalkan</CannotInsertEmbryo>
+  <!-- EN: Already contains embryo. -->
+  <EmbryoAlreadyInside>Itu sudah berisi embrio.</EmbryoAlreadyInside>
+  <!-- EN: No embryos -->
+  <ImplantNoEmbryos>Tidak ada embrio.</ImplantNoEmbryos>
+  <!-- EN: Time until birth -->
+  <EmbryoTimeUntilBirth>Waktu sampai lahir</EmbryoTimeUntilBirth>
+  <!-- EN: Birth quality -->
+  <EmbryoBirthQuality>Kualitas pengiriman</EmbryoBirthQuality>
+  <!-- EN: Embryo selected -->
+  <EmbryoSelected>Embrio terpilih</EmbryoSelected>
+  <!-- EN: Person selected -->
+  <PersonSelected>Orang terpilih</PersonSelected>
+  <!-- EN: No non-biostarving people of acceptable age. To enter the growth vat, the person must be below {0} years old and not currently biostarving. -->
+  <NoPawnsCanEnterGrowthVat>Tanpa orang tanpa bioinage usia yang dapat diterima.Untuk memasuki inkubator, orang tersebut harus kurang dari {0} tahun dan saat ini tidak berada dalam bioinance</NoPawnsCanEnterGrowthVat>
+  <!-- EN: Aging speed -->
+  <AgingSpeed>Kecepatan penuaan</AgingSpeed>
+
+  <!-- Mech charger -->
+  <!-- EN: Waste -->
+  <WasteLevel>Pembuangan</WasteLevel>
+
+  <!-- Dissolution -->
+  <!-- EN: indoors -->
+  <DissolutionRateIndoors>pedalaman</DissolutionRateIndoors>
+  <!-- EN: raining -->
+  <DissolutionRain>hujan</DissolutionRain>
+  <!-- EN: One wastepack dissolves every {0} -->
+  <DissolvesEvery>Paket limbah dibubarkan setiap {0}</DissolvesEvery>
+  <!-- EN: Frozen (won't dissolve). -->
+  <DissolutionFrozen>Beku (tidak larut).</DissolutionFrozen>
+
+  <!-- EN: {0} cells / day -->
+  <CellsPerDay>{0} kotak / hari</CellsPerDay>
+
+  <!-- EN: {0} cannot wear clothing for {1} -->
+  <WrongDevelopmentalStageForClothing>{0} tidak bisa berpakaian dengan pakaian untuk {1}</WrongDevelopmentalStageForClothing> 
+
+  <!-- Subcore scanner -->
+  <!-- EN: Start scanner -->
+  <SubcoreScannerStart>Mulai memindai</SubcoreScannerStart>
+  <!-- EN: Produces -->
+  <SubcoreScannerProduces>Menghasilkan</SubcoreScannerProduces>
+  <!-- EN: Once the {0} is filled with the required ingredients, {1}, select a colonist and right-click on the {0} or on a downed person to start the scanner. -->
+  <SubcoreScannerStartDesc>Setelah {0} diisi dengan bahan yang diperlukan, {1}, pilih pemukim dan klik kanan pada {0} atau orang yang jatuh untuk mulai memindai.</SubcoreScannerStartDesc>
+  <!-- EN: Completes in -->
+  <SubcoreScannerCompletesIn>Itu selesai</SubcoreScannerCompletesIn>
+  <!-- EN: Waiting for occupant -->
+  <SubcoreScannerWaitingForOccupant>Menunggu penghuni</SubcoreScannerWaitingForOccupant>
+  <!-- EN: Waiting for ingredients -->
+  <SubcoreScannerWaitingForIngredients>Menunggu bahan</SubcoreScannerWaitingForIngredients>
+  <!-- EN: The following ingredients must be loaded first -->
+  <SubcoreScannerWaitingForIngredientsDesc>Pertama, Anda harus memuat bahan -bahan berikut</SubcoreScannerWaitingForIngredientsDesc>
+  <!-- EN: Has {0} -->
+  <SubcoreScannerPawnHasSickness>Memiliki {0}</SubcoreScannerPawnHasSickness>
+  <!-- EN: Babies are not allowed -->
+  <SubcoreScannerBabyNotAllowed>Bayi tidak diizinkan</SubcoreScannerBabyNotAllowed>
+  <!-- EN: Insert a person into the {0}. -->
+  <InsertPersonSubcoreScannerDesc>Masukkan seseorang ke {0}.</InsertPersonSubcoreScannerDesc>
+
+  <!-- EN: Duration (hours) -->
+  <DurationHours>Durasi (jam)</DurationHours>
+
+  <!-- Age -->
+  <!-- EN: adult -->
+  <Adult>dewasa</Adult>
+  <!-- EN: adults -->
+  <Adults>dewasa</Adults>
+  <!-- EN: child -->
+  <Child>Niño</Child>
+  <!-- EN: children -->
+  <Children>anak-anak</Children>
+  <!-- EN: baby -->
+  <Baby>Sayang</Baby>
+  <!-- EN: babies -->
+  <Babies>Anda minum</Babies>
+  <!-- EN: feral child -->
+  <FeralChild>Anak liar</FeralChild>
+  <!-- EN: Wearable by -->
+  <WearableBy>Dapat dilengkapi oleh</WearableBy>
+
+  <!-- EN: Xenogerm implantation -->
+  <Reward_ReimplantXenogerm_Label>Implementasi Xenogermen</Reward_ReimplantXenogerm_Label>
+  <!-- EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
+  <Reward_ReimplantXenogerm_Desc>Seorang anggota grup akan menerapkan kembali xenogermen -nya menjadi pemukim pilihan Anda, sehingga mengubah mereka salah satu dari mereka.Pemukim Anda akan tetap menjadi bagian dari faksi Anda dan akan berada di bawah kendali Anda.</Reward_ReimplantXenogerm_Desc>
+
+  <!-- Mech resurrection -->
+  <!-- EN: Mech resurrection charges -->
+  <MechResurrectionCharges>Beban baca.dari Mekah</MechResurrectionCharges>
+
+  <!-- Mechs -->
+  <!-- EN: Mech stun pulse on death -->
+  <MechStunPulseWarning>Mekah menjahit denyut nadi saat sekarat</MechStunPulseWarning>
+  <!-- EN: {PAWN_nameDef} is in self-shutdown from low energy. -->
+  <IsLowEnergySelfShutdown>{Pawn_namedef} telah terputus oleh tingkat energinya yang rendah.</IsLowEnergySelfShutdown>
+  
+  <!-- Pollution -->
+  <!-- EN: Toggle pollution overlay. This displays which areas of terrain are polluted.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most plants cannot live on polluted terrain. -->
+  <ShowPollutionOverlayToggleButton>Tumpang tindih polusi alternatif.Ini akan menunjukkan area tanah mana yang terkontaminasi.Sebagian besar tanaman tidak dapat hidup di tanah yang terkontaminasi.</ShowPollutionOverlayToggleButton>
+  <!-- EN: None -->
+  <TilePollutionNone>Tidak ada</TilePollutionNone>
+  <!-- EN: Light -->
+  <TilePollutionLight>Lampu</TilePollutionLight>
+  <!-- EN: Moderate -->
+  <TilePollutionModerate>Sedang</TilePollutionModerate>
+  <!-- EN: Extreme -->
+  <TilePollutionExtreme>Ekstrem</TilePollutionExtreme>
+  <!-- EN: Pollution -->
+  <TilePollution>Polusi</TilePollution>
+  <!-- EN: Nearby pollution -->
+  <TilePollutionNearby>Polusi terdekat</TilePollutionNearby>
+  <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
+  <NearbyPollutionTip>Jumlah tingkat kontaminasi semua kotak pada jari -jari sel {0}.Ketika jarak sel ini meningkat, kontribusi polusi berkurang: \ n \ n {1} \ n \ ncuanto lebih besar adalah kedekatan dengan polusi, semakin besar probabilitas bahwa kabut asam akan terjadi.</NearbyPollutionTip>
+  <!-- EN: This tile will have acidic smog every {0} days on average. -->
+  <NoxiousHazeInterval>Kotak ini akan memiliki kabut asam setiap {0} rata -rata.</NoxiousHazeInterval>
+  <!-- EN: This tile will never have acidic smog. -->
+  <NoxiousHazeNeverOccurring>Kotak ini tidak akan pernah memiliki kabut asam.</NoxiousHazeNeverOccurring>
+  <!-- EN: tiles away -->
+  <NearbyPollutionTilesAway>Kotak pergi</NearbyPollutionTilesAway>
+  <!-- EN: pollution -->
+  <PollutionLower>polusi</PollutionLower>
+  <!-- EN: Cannot absorb pollution: Buildings too close -->
+  <CannotAbsorbPollution>Kontaminasi tidak dapat diserap: bangunan sangat dekat</CannotAbsorbPollution>
+  <!-- EN: Can absorb pollution from nearby terrain -->
+  <CanAbsorbPollution>Kontaminasi dekat tanah dapat diserap</CanAbsorbPollution>
+  <!-- EN: Absorbing pollution: Next in {0} -->
+  <AbsorbingPollutionNext>Menyerap kontaminasi: selanjutnya dalam {0}</AbsorbingPollutionNext>
+  <!-- EN: How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain. -->
+  <TerrainPollutionTip>Medan terkontaminasi dalam kotak ini.Sebagian besar tanaman tidak dapat hidup di tanah yang terkontaminasi.</TerrainPollutionTip>
+
+  <!-- Research -->
+  <!-- EN: Requires study of -->
+  <StudyRequirementTip>Itu membutuhkan studi tentang</StudyRequirementTip>
+
+  <!-- Insect -->
+  <!-- EN: Trigger radius -->
+  <TriggerRadius>Radio aksi</TriggerRadius>
+  <!-- EN: Opening -->
+  <DormantCompOpening>Membuka</DormantCompOpening>
+  
+  <!-- Fertility -->
+  <!-- EN: ova extracted recently -->
+  <SurgeryDisableReasonOvumExtracted>Ovule yang baru diekstraksi</SurgeryDisableReasonOvumExtracted>
+  <!-- EN: Fertilize -->
+  <Fertilize>Menyuburkan</Fertilize>
+  <!-- EN: Fertilize {0_label} -->
+  <FertilizeThing>Pemupukan {0_label}</FertilizeThing>
+  <!-- EN: Cannot fertilize -->
+  <FertilizeCannotFloatOption>Tidak bisa dibuahi</FertilizeCannotFloatOption>
+  <!-- EN: Choose a man to fertilize this ovum to create an embryo. The embryo can then be implanted in a mother to start a pregnancy, or in a growth vat. The biological parents of the resulting child will be the woman who provided the ovum and man who fertilized it. -->
+  <FertilizeGizmoDescription>Pilih seorang pria untuk menyuburkan ovula ini dan membuat embrio.Embrio dapat diimplementasikan pada seorang ibu untuk memulai kehamilan, atau dalam inkubator.Orang tua kandung dari anak yang dihasilkan mungkin adalah wanita yang menyediakan ovula dan pria yang menyuburkannya.</FertilizeGizmoDescription>
+  <!-- EN: Cancel fertilization by {0} -->
+  <FertilizeCancel>Batalkan Pemupukan untuk {0}</FertilizeCancel>
+  <!-- EN: sterile -->
+  <CannotSterile>steril</CannotSterile>
+  <!-- EN: pregnant -->
+  <CannotPregnant>hamil</CannotPregnant>
+  <!-- EN: must be {0} -->
+  <CannotMustBeAge>Itu harus {0}</CannotMustBeAge>
+  <!-- EN: already having embryo implanted -->
+  <CannotImplantingOtherEmbryo>Itu sudah memiliki embrio yang ditanamkan</CannotImplantingOtherEmbryo>
+  <!-- EN: {0} ({1}) -->
+  <DisabledOption>{0} ({1})</DisabledOption>
+  <!-- EN: No men can fertilize this ovum. -->
+  <FertilizeDisabledNoMales>Tidak ada pria yang bisa menyuburkan ovula ini.</FertilizeDisabledNoMales>
+  
+  <!-- EN: Implant embryo -->
+  <ImplantLabel>Embrio implan</ImplantLabel>
+  <!-- EN: Implant this embryo in a surrogate mother to begin a pregnancy. -->
+  <ImplantDescription>Implan embrio ini pada ibu pengganti untuk memulai dengan kehamilan.</ImplantDescription>
+  <!-- EN: Insert in growth vat -->
+  <InsertGrowthVatLabel>Menetaskan</InsertGrowthVatLabel>
+
+  <!-- EN: Cannot implant -->
+  <ImplantCannotFloatOption>Tidak dapat diimplementasikan</ImplantCannotFloatOption>
+  <!-- EN: No woman can be a surrogate mother. -->
+  <ImplantDisabledNoWomen>Tidak ada wanita yang bisa menjadi ibu pengganti.</ImplantDisabledNoWomen>
+  <!-- EN: No available growth vats. -->
+  <ImplantDisabledNoVats>Tidak ada inkubator yang tersedia.</ImplantDisabledNoVats>
+  <!-- EN: Implant {0} -->
+  <ImplantSurgeryLabel>Menerapkan {0}</ImplantSurgeryLabel>
+  <!-- EN: The implantation success chance for the {0} in {1} is {2}.\n\nThe implantation success chance is dependent on the fertility of the surrogate mother. It will be lower if the mother is too old or too young. -->
+  <ImplantSurgeryConfirm>Probabilitas keberhasilan implementasi untuk {0} di {1} adalah {2}. Probabilitas keberhasilan \ n \ nla tergantung pada kesuburan ibu pengganti.Mereka bisa kecil jika ibunya sangat tua atau sangat muda.</ImplantSurgeryConfirm>
+  <!-- EN: Ejecting the {0} from the growth vat right now will destroy it before a baby is formed.\n\nWould you like to continue? -->
+  <ImplantEmbryoCancelVat>Eyey {0} dari inkubator sekarang dapat menghancurkannya sebelum bayi terbentuk. \ N \ n, apa yang ingin Anda lanjutkan?</ImplantEmbryoCancelVat>
+  <!-- EN: Implanting the {0} in {1} was unsuccessful. -->
+  <ImplantFailedMessage>{0} di {1} tidak dapat diimplementasikan.</ImplantFailedMessage>
+  <!-- EN: Cancel embryo insertion -->
+  <ImplantEmbryoCancel>Batalkan penyisipan embrio.</ImplantEmbryoCancel>
+  <!-- EN: The {0} was ejected from a growth vat and destroyed. -->
+  <EmbryoEjectedFromGrowthVat>{0} dikeluarkan dari inkubator dan dihancurkan.</EmbryoEjectedFromGrowthVat>
+  <!-- EN: The {0} was destroyed in a growth vat due to biostarvation. -->
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} dihancurkan dalam inkubator karena bioinage.</EmbryoEjectedFromGrowthVatBiostarvation>
+
+  <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
+  <IvfPregnancyLetterText>{0} telah berhasil hamil berkat implantasi embrio!</IvfPregnancyLetterText>
+  <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
+  <IvfPregnancyLetterParents>Bayi akan memiliki komposisi genetik {0} dan {1}.</IvfPregnancyLetterParents>
+
+  <!-- Remote mech shield -->
+  <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
+  <RemoteMechShieldTip>Perisai jarak diproyeksikan oleh seorang mekanitor.Dia akan mencoba menghentikan proyektil atau pecahan peluru yang masuk, tetapi dia tidak melakukan apa pun terhadap serangan jarak dekat atau panas.Ini mencegah pembawa dari trigging, dan mati secara instan jika dicapai oleh PEM.</RemoteMechShieldTip>
+
+  <!-- Thoughtdef fallbacks -->
+  <!-- EN: my child is happy -->
+  <MyChildIsHappy>Anak saya senang</MyChildIsHappy>
+  <!-- EN: my child is sad -->
+  <MyChildIsSad>Anak saya sedih</MyChildIsSad> 
+  
+  <!-- EN: Genetic {CHEMICAL_label} dependency -->
+  <GeneticChemicalDependency_Label>Ketergantungan genetik a {ganti: a {chemical_definite};"To el"-"al"}</GeneticChemicalDependency_Label>
+  <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
+  <GeneticChemicalDependency_Desc>Saya membutuhkan {chemical_label} untuk kekurangan genetik saya.Tapi itu tidak terlalu banyak mengkonsumsi.</GeneticChemicalDependency_Desc>
+
+</LanguageData>

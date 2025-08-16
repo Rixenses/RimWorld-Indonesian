@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentAbhorrent.label>Pemimpin</IdeoLeaderResentmentAbhorrent.label>
+  <!-- EN: To accept direction from a {0} is utterly shameful and abhorrent. -->
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>Terima arah {0_gender?A: A} {0} benar -benar memalukan dan menjijikkan.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentDisapproved.label>Pemimpin</IdeoLeaderResentmentDisapproved.label>
+  <!-- EN: It's insulting to be ordered around by a {0}. -->
+  <IdeoLeaderResentmentDisapproved.stages.0.description>Apakah menghina untuk diperintahkan oleh {0_gender?A: One} {0}.</IdeoLeaderResentmentDisapproved.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentHorrible.label>Pemimpin</IdeoLeaderResentmentHorrible.label>
+  <!-- EN: It's shameful to be ordered around by a {0}! -->
+  <IdeoLeaderResentmentHorrible.stages.0.description>Apakah memalukan untuk diperintahkan oleh {0_gender?A: A} {0}!</IdeoLeaderResentmentHorrible.stages.0.description>
+  
+  <!-- EN: Leader of different ideoligion -->
+  <IdeoLeaderResentmentStandard.label>Pemimpin</IdeoLeaderResentmentStandard.label>
+  <!-- EN: I don't like having a {0} as a leader. -->
+  <IdeoLeaderResentmentStandard.stages.0.description>Saya tidak suka memiliki {0_gender?A: A} {0} sebagai pemimpin.</IdeoLeaderResentmentStandard.stages.0.description>
+  
+  <!-- EN: Want {ROLE_label} apparel -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Quiere ropa de {ganti: ^{role_label};"^A"-"A";"^B"-"B";"^C"-"C";"^D"-"D";"^E"-"e";"^F"-"f";"^G"-"g";"^H"-"h";"^I"-"I";"^J"-"j";"^K"-"K";"^L"-"l";"^M"-"m";"^N"-"n";"^Ñ"-"ñ";"^O"-"o";"^P"-"p";"^Q"-"q";"^R"-"r";"^S"-"S";"^T"-"t";"^U"-"u";"^V"-"V";"^W"-"W";"^X"-"x";"^Y"-"y";"^Z"-"Z";"^"-""}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+  <!-- EN: I want to wear apparel appropriate for my role as {ROLE_labelDef} -->
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>Saya ingin memakai pakaian yang sesuai untuk peran saya sebagai {role_labeldef}</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+  
+  <!-- EN: No {ROLE_label} -->
+  <IdeoRoleEmpty.stages.No.label>Sin {ganti: ^{role_label};"^A"-"A";"^B"-"B";"^C"-"C";"^D"-"D";"^E"-"e";"^F"-"f";"^G"-"g";"^H"-"h";"^I"-"I";"^J"-"j";"^K"-"K";"^L"-"l";"^M"-"m";"^N"-"n";"^Ñ"-"ñ";"^O"-"o";"^P"-"p";"^Q"-"q";"^R"-"r";"^S"-"S";"^T"-"t";"^U"-"u";"^V"-"V";"^W"-"W";"^X"-"x";"^Y"-"y";"^Z"-"Z";"^"-""}</IdeoRoleEmpty.stages.No.label>
+  <!-- EN: {0}s must have {ROLE_labelIndef}! -->
+  <IdeoRoleEmpty.stages.No.description>¡Los {0} s debemos tener A alguien con el rol de {ganti: ^{role_label};"^A"-"A";"^B"-"B";"^C"-"C";"^D"-"D";"^E"-"e";"^F"-"f";"^G"-"g";"^H"-"h";"^I"-"I";"^J"-"j";"^K"-"k";"^L"-"l";"^M"-"m";"^N"-"n";"^Ñ"-"ñ";"^O"-"o";"^P"-"p";"^Q"-"q";"^R"-"r";"^S"-"S";"^T"-"t";"^U"-"u";"^V"-"V";"^W"-"W";"^X"-"x";"^Y"-"y";"^Z"-"Z";"^"-""}!</IdeoRoleEmpty.stages.No.description>
+  
+  <!-- EN: Lost {ROLE_label} role -->
+  <IdeoRoleLost.stages.Lost_role.label>Rol como {ganti: ^{role_label};"^A"-"A";"^B"-"B";"^C"-"C";"^D"-"D";"^E"-"e";"^F"-"f";"^G"-"g";"^H"-"h";"^I"-"I";"^J"-"j";"^K"-"K";"^L"-"l";"^M"-"m";"^N"-"n";"^Ñ"-"ñ";"^O"-"o";"^P"-"p";"^Q"-"q";"^R"-"r";"^S"-"S";"^T"-"t";"^U"-"u";"^V"-"V";"^W"-"W";"^X"-"x";"^Y"-"y";"^Z"-"Z";"^"-""} Perdido</IdeoRoleLost.stages.Lost_role.label>
+  <!-- EN: I lost my role as {ROLE_labelDef}. -->
+  <IdeoRoleLost.stages.Lost_role.description>Perdí mi rol como {ganti: ^{role_label};"^A"-"A";"^B"-"B";"^C"-"C";"^D"-"D";"^E"-"e";"^F"-"f";"^G"-"g";"^H"-"h";"^I"-"I";"^J"-"j";"^K"-"K";"^L"-"l";"^M"-"m";"^N"-"n";"^Ñ"-"ñ";"^O"-"o";"^P"-"p";"^Q"-"q";"^R"-"r";"^S"-"S";"^T"-"t";"^U"-"u";"^V"-"V";"^W"-"W";"^X"-"x";"^Y"-"y";"^Z"-"Z";"^"-""}.</IdeoRoleLost.stages.Lost_role.description>
+  
+</LanguageData>

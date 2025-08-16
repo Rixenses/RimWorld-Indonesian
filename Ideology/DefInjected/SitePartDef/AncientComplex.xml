@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient complex -->
+  <AncientComplex.label>Kompleks kuno</AncientComplex.label>
+  <!-- EN: An ancient complex containing treasure. -->
+  <AncientComplex.description>Kompleks tua yang berisi harta karun.</AncientComplex.description>
+  <!-- EN: Investigating {0}. -->
+  <AncientComplex.approachingReportString>Investigasi {0}.</AncientComplex.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <AncientComplex.approachOrderString>Selidiki {0}</AncientComplex.approachOrderString>
+  
+</LanguageData>

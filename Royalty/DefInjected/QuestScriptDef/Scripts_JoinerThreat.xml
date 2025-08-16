@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namefull] meminta bantuan![joiner_pronoun] bersembunyi dari [bersembunyi dari].[joiner_pronoun] ingin melarikan diri dan bergabung dengan Anda di [map_definite]. [joiner_relationInfo] \ n \ n [conddesc] \ n \ ndesperate untuk tetap tersembunyi, [joiner_namedef] mengklaim tidak dapat memberi tahu Anda lebih banyak tentang [joiner_objective].</li>
+    <li>bersembunyi dari (gamecondition == Toxicfallout)-> sekelompok serigala kelaparan</li>
+    <li>conddesc (gamecondition == Toxicfallout)-> Namun, [joiner_namedef] hanya dapat membunuh serigala dengan membakar tempat pembuangan bahan kimia beracun besar di dekatnya.[GameConditionDuration_Duration] dari Fallout Beracun akan mengikuti.</li>
+    <li>bersembunyi dari (gamecondition == volcanicwinter)-> sekelompok kanibal</li>
+    <li>conddesc (gamecondition == volcanicwinter)-> Namun, [joiner_namedef] hanya dapat membunuh geng dengan membakar tumpukan sampah besar yang ditinggalkan di dekatnya.Jika [joiner_pronoun] bergabung dengan Anda, Smoky Fallout akan memblokir matahari untuk [GameConditionDuration_Duration].</li>
+    <li>bersembunyi dari (gamecondition == emifield)-> sekelompok mechanoids</li>
+    <li>conddesc (gamecondition == emifield)-> Namun, [joiner_namedef] hanya dapat menghancurkan mechanoids dengan mengaktifkan dinamo EMI kuno.Jika [joiner_pronoun] bergabung dengan Anda, bidang EMI akan dihasilkan, mematikan perangkat listrik untuk [GameConditionDuration_Duration].</li>
+    <li>bersembunyi dari (gamecondition == heatwave)-> satelit kontrol iklim yang tidak berfungsi</li>
+    <li>conddesc (gamecondition == heatwave)-> jika [joiner_pronoun] bergabung dengan Anda, gelombang panas yang intens akan bertahan untuk [gameconditionduration_duration] sampai satelit diatur ulang.</li>
+    <li>bersembunyi dari (gamecondition == coldsnap)-> satelit kontrol iklim yang tidak berfungsi</li>
+    <li>conddesc (gamecondition == coldsnap)-> jika [joiner_pronoun] bergabung dengan Anda, snap dingin yang intens akan bertahan untuk [gameconditionduration_duration] hingga satelit diatur ulang.</li>
+    <li>bersembunyi dari (gamecondition == weathercontroller)-> satelit kontrol cuaca yang tidak berfungsi</li>
+    <li>conddesc (gamecondition == WeatherController)-> Jika [joiner_pronoun] bergabung dengan Anda, cuaca akan [Forcedweather_label] untuk [GameConditionDuration_Duration] sampai satelit diatur ulang.</li>
+    <li>bersembunyi dari (gamecondition == psychicdrone)-> Persona mesin dendam yang [joiner_pronoun] baru-baru ini tersinggung</li>
+    <li>conddesc (gamecondition == psychicdrone)-> Jika [joiner_pronoun] bergabung dengan Anda, pikiran mesin akan meledakkan [peta_definite] dengan drone psikis tingkat [psychicronelevel] untuk [gameconditionduration_duration], mengurangi suasana hati semua [psikis] s.</li>
+    <li>bersembunyi dari (gamecondition == psychicsupresi)-> Persona mesin bermusuhan yang [joiner_pronoun] baru-baru ini bangun</li>
+    <li>conddesc (gamecondition == Psychicsupresi)-> Jika [joiner_pronoun] bergabung dengan Anda, persona akan mencapai [MAP_DEFINITE] dengan gelombang penindasan psikis untuk [GameConditionDuration_Duration], mengurangi kesadaran dari semua [Psychicsuppressorgender] s.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [Pendahuluan], bernama [jointer_nameful] meminta bantuan![Joiner_pronoun] menyembunyikan [bersembunyi dari].Dia ingin melarikan diri dan bergabung dengan koloni Anda di [MAP_Definite]. [Jointer_relationfo] \ n \ n [condesc] \ n \ npor rasa takut ditemukan {joiner_gender?O: A}, [joiner_namedef] mengklaim tidak dapat memberi tahu Anda lebih banyak tentang [jointer_pronoun].</li>
+    <li>Bersembunyi dari (gamecondition == Toxicfallout)-> kawanan serigala lapar</li>
+    <li>Condesc (gamecondition == Toxicfallout)-> Namun, [joiner_namedef] hanya dapat membunuh serigala membakar ke tempat pembuangan sampah limbah yang sangat dekat.Sebagai konsekuensi dari ini, hujan beracun akan turun selama [gamecondixanduration_duration].</li>
+    <li>Bersembunyi dari (gamecondition == volcanicwinter)-> geng kanibal</li>
+    <li>Condesc (gamecondition == volcanicwinter)-> Namun, [joiner_namedef] hanya dapat membunuh geng dengan membakar baterai sampah besar yang ditinggalkan di sekitarnya.Jika [joiner_pronoun] bergabung dengan pemukiman Anda, matahari akan diblokir oleh awan asap selama [gamecondixanduration_duration].</li>
+    <li>bersembunyi dari (gamecondition == emifield)-> un grupo de mecanoides</li>
+    <li>Condesc (gamecondition == emifield)-> Namun, [joiner_namedef] hanya dapat menghancurkan mechanoides dengan mengaktifkan dinamo interferensi elektromagnetik lama (IEM).Jika [joiner_pronoun] bergabung dengan penyelesaian Anda, bidang IEM akan dihasilkan yang akan menjaga semua perangkat listrik selama [GameCondixonduration_Duration].</li>
+    <li>Bersembunyi dari</li>
+    <li>Condddesc (gamecondition == heatwave)-> Jika [joiner_pronoun] bergabung dengan penyelesaian Anda, gelombang panas yang intens akan terjadi selama [gamecondixondure_duration] sampai satelit dimulai kembali.</li>
+    <li>Bersembunyi dari (gamecondition == coldsnap)-> satelit kontrol iklim yang rusak</li>
+    <li>Condesc (gamecondition == coldsnap)-> Jika [joiner_pronoun] bergabung dengan penyelesaian Anda, akan ada front dingin yang intens selama [gamecondixondure_duration] sampai satelit restart.</li>
+    <li>Bersembunyi dari (gamecondition == weathercontroller)-> satelit kontrol iklim yang rusak</li>
+    <li>Condesc (gamecondition == WeatherController)-> Jika [joiner_pronoun] bergabung dengan penyelesaian Anda, cuaca akan dipaksa untuk membuat [ForcedWeather_indefinite] selama [gamecondixonduration_duration] sampai satelit restart.</li>
+    <li>Bersembunyi dari</li>
+    <li>Condesc (gamecondition == psychicdrone)-> Jika [joiner_pronoun] bergabung dengan pemukiman Anda, kecerdasan buatan akan menyerang [peta_definite] dengan level psychid buzzer [psikiselevel] selama semua humor dari semua humor.</li>
+    <li>Bersembunyi dari (gamecondition == psychicsupresi)-> kecerdasan buatan yang mengganggu yang [joiner_pronoun] terangsang dari kelesuannya</li>
+    <li>Condesc (gamecondition == psychicsupresi)-> jika [joiner_pronoun] bergabung dengan penyelesaian Anda, kecerdasan buatan akan mencapai [peta_definite] dengan gelombang represi psikis selama [gamecondition_duration_duration], mengurangi kesadaran semua kolonis seks [psikis yang mendukung].</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] dari [joiner_age] tahun</li>
+  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [joiner_namedef] [gamecondition_label]</li>
+    <li>QuestName-> [joiner_namedef] dan [gamecondition_label]</li>
+    <li>QuestName-> The [gamecondition_label] dan [joiner_namedef]</li>-><ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> [gamecondition_definite] de [joiner_namedef]</li>
+    <li>QuestName-> [joiner_namedef] y [gamecondition_definite]</li>
+    <li>QuestName-> [gamecondition_indefinite] y [joiner_namedef]</li>
+  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] mengatakan [joiner_pronoun] meracuni koloni serangga bawah tanah, tetapi sekarang [joiner_pronoun] direndam dalam feromon serangga dan bug sedang berburu [joiner_objective]! \ n \ n \ n [joiner_pronoun] begs for safety dan penawaran untuk bergabung dengan Anda di [Map_definite.(*Ancaman) Kekekatan [hivescount] sarang (/ancaman) akan dimulai di [infestationdelayticks_duration]. \ N \ n [joiner_namedef] terlalu panik untuk menawarkan lebih banyak informasi.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [Pendahuluan], bernama [jointer_namedef], memanggil Anda dari sekitarnya.Dia mengatakan bahwa dia meracuni koloni insektoid bawah tanah, tetapi sekarang dia direndam [joiner_o_a] dari feromonnya dan bug [joiner_objective] berburu! Anda menerima, (*ancaman) serangan [hivescouts] sarang (/ancaman) akan dimulai di [Infestationlandelayticks_duration].</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] [joiner_age] bertahun-tahun</li>
+  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Infestasi [joiner_namedef]</li>
+    <li>QuestName-> sarang [joiner_namedef]</li>
+    <li>QuestName-> Bugs [joiner_namedef]</li>
+    <li>QuestName-> serangga [joiner_namedef]</li>-><ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> The Infestation of [joiner_namedef]</li>
+    <li>QuestName-> The Hive of [joinze_namedef]</li>
+    <li>QuestName-> The Bugs of [joiner_namedef]</li>
+    <li>QuestName-> Serangga [jointer_namedef]</li>
+  </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
+  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{Baseotext insectoids yang {joiner_objective} mengejar akan segera tiba.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{Baseelabel}: mengejar [joiner_namedef]</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
+  <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
+  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{Basetext} \ n \ nlos Insectoids ada di sini oleh [joiner_namedef].</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription (animalCount == 1)-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] mengatakan (*ancaman) sebuah manhunting [animalkind_label] (/ancaman) sedang berburu [joiner_objective]! \ n \ n [joiner_pronoun] memohon untuk keselamatan dan penawaran untuk bergabung dengan Anda di [peta_definite]. [joineed_relationinfo] \ n \ noif Anda menerima [peta].akan mengikuti [ManhuntersDelayticks_duration]. \ n \ n [joiner_namedef] terlalu panik untuk menawarkan lebih banyak informasi.</li>
+    <li>manhunterarrivalletterend (animalcount == 1)-> [animalkind_label] mengejar [joiner_namedef].</li>
+    <li>QuestDescription (AnimalCount> = 2)-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] mengatakan (*ancaman) sebungkus [animalcount] manhunting [animalkind_labelplural] (/ancaman) sedang berburu [joiner_objective]! \ n \ n [joiner_pronoun] memohon untuk keselamatan dan menawarkan untuk bergabung dengan Anda di [peta_definite]. [joiner_relationInfo] \ noMeIf \ noLoIf [peta_definite]. [joiner_relationInfo] \ noMoIf \ noLoIf) \ nouleT).[animalkind_labelplural] akan mengikuti di [manhuntersdelayticks_duration]. \ n \ n [joiner_namedef] terlalu panik untuk menawarkan lebih banyak informasi.</li>
+    <li>manhunterarrivalletterend (animalcount> = 2)-> [animalkind_labelplural] sedang mengejar [joiner_namedef].</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+    <li>QuesteScription (AnimalCount == 1)-> [Pendahuluan], bernama [joiner_namedef], memanggil Anda dari sekitarnya.Dia mengatakan bahwa (*ancaman) [animalkind_indefinite] berburu (/ancaman) [joiner_objective] berburu! [animalkind_definite] berburu akan tiba di [manhuntersdelayticks_duration].Atau: A} untuk memberi Anda lebih banyak informasi.</li>
+    <li>Manhunterrivallettend (animalcount == 1)-> [animalkinddef_definite] sedang mengejar [joiner_namedef].</li>
+    <li>QuestDescription (AnimalCount> = 2)-> [Pendahuluan], bernama [joiner_namedef], memanggil Anda dari sekitarnya.Dia mengatakan bahwa (*ancaman) kawanan [animalcount] [animalkind_labelplural] berburu (/ancaman) ditangkap [joiner_objective]! \ N \ nte Berdoa untuk hidupnya dan meminta Anda [joiner_namedef], paket [animalkind_labelplural] berburu akan tiba di [manhuntersdelayticks_duration].Atau: A} untuk memberi Anda lebih banyak informasi.</li>
+    <li>Manhunterrivallettend (animalcount> = 2)-> paket [animalkind_labelplural] sedang mengejar [joiner_namedef].</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] [joiner_age] bertahun-tahun</li>
+  </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (AnimalCount == 1)-> [joiner_namedef] [animalkind_label]</li>
+    <li>QuestName (AnimalCount == 1)-> [joiner_namedef] dan [animalkind_label]</li>
+    <li>QuestName (AnimalCount == 1)-> [animalkind_label] dan [joiner_namedef]</li>
+    <li>QuestName (AnimalCount> = 2)-> [joiner_namedef] [animalkind_labelplural]</li>
+    <li>QuestName (AnimalCount> = 2)-> [joiner_namedef] dan [animalkind_labelplural]</li>
+    <li>QuestName (AnimalCount> = 2)-> [animalkind_labelplural] dan [joiner_namedef]</li>-><ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+    <li>QuestName (AnimalCount == 1)-> [animalkind_definite] de [joiner_namedef]</li>
+    <li>QuestName (AnimalCount == 1)-> [joiner_namedef] y [animalkind_indefinite]</li>
+    <li>QuestName (AnimalCount == 1)-> [animalkind_definite] y [joiner_namedef]</li>
+    <li>QuestName (animalCount == 1)-> [animalkind_indefinite] y [joiner_namedef]</li>
+    <li>QuestName (AnimalCount> = 2)-> [joinMemEdef] dan paket [animalkind_labelplural]</li>
+    <li>QuestName (AnimalCount> = 2)-> [joinMemEdef] dan kelompok [animalkind_labelplural]</li>
+    <li>QuestName (AnimalCount> = 2)-> kawanan [animalkind_labelplural] dan [joiner_namedef]</li>
+  </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{Baseelabel}: mengejar [joiner_namedef]</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
+  <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
+  <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{Basetext} \ n \ n [Manhunterarrivalletterend]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] memohon untuk bergabung dengan Anda di [map_definite]. [joiner_relationInfo] \ n \ n There semacam ancaman mengikuti [joiner_namedef], tetapi [joiner_pronoun] tidak akan mengatakan apa itu atau kapan mungkin terjadi.[joiner_pronoun] juga tidak mau memberi tahu Anda lebih banyak tentang [joiner_objective] diri.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [Pendahuluan], bernama [jointer_namedef], memanggil Anda dari sekitarnya.Ini memohon Anda untuk bergabung dengan Anda di [MAP_DEFINITE]. [Jointer_relationfo] \ n \ n [jointer_namedef] mengatakan bahwa ada semacam ancaman yang [joiner_objective] mengejar.Namun, tidak mau [joiner_o_a] untuk mengatakan apa itu atau seberapa dekat itu adalah ruang lingkup [joiner_objective].Dia juga menolak untuk memberi tahu Anda lebih banyak tentang apakah sama_o_a) dan memohon pemahaman Anda untuk membantunya.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] [joiner_age] bertahun-tahun</li>
+  </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [joiner_namedef] [Masalah]</li>
+    <li>QuestName-> [masalah] [joiner_namedef]</li>
+    <li>Masalah-> Masalah</li>
+    <li>Masalah-> Malu</li>
+    <li>Masalah-> Rahasia</li>-><ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> [jointer_namedef] dan [masalah_mas]</li>
+    <li>QuestName-> [jointer_namedef] dan [masalah_fem] -nya]</li>
+    <li>QuestName-> [masalah_mas] dari [joiner_namedef]</li>
+    <li>QuestName-> [masalah_fem] dari [joiner_namedef]</li>
+    <li>Masalah_mas-> masalah</li>
+    <li>Masalah_fem-> gangguan</li>
+    <li>Masalah_mas-> rahasia</li>
+  </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [joiner_nameDef] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{Baselabel} Mengejar [joinMemEdef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT} -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>[Joiner_namedef] mengakui bahwa ia melarikan diri.[Joiner_pronoun] Mabuk sebelum upacara dan muntah di altar, penghinaan yang mencolok terhadap seluruh keluarga [musuh, faction_leader_namedef]. \ n \ n [musuh. \ n \ n {baseotext}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>{Baseelabel}: mengejar [joiner_namedef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef], greedy for the pleasures and money insect jelly can bring, intended to destroy a massive insect hive using poison. [joiner_pronoun] failed, but was doused in insect threat pheromones. Insects have been hunting [joiner_objective] ever since. Now they've launched their final attack.\n    \n{BASETEXT} -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>[Joiner_namedef] mengakui bahwa ia melarikan diri.Namun, ia gagal dan ditutupi dengan feromonnya.Sejak itu, insektoid telah berburu [joiner_objective], dan baru saja meluncurkan pukulan terakhir mereka. \ N \ n {BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
+  <!-- EN: Site appeared to harass [joiner_nameDef]: [site_label] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>Sebuah kamp telah melecehkan [joiner_namedef]: [Site_label]</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] happened upon [enemyFaction_leader_nameFull], leader of [enemyFaction_name], sick on the side of the road. [joiner_nameDef] insulted [enemyFaction_leader_nameDef] by comparing [enemyFaction_leader_objective] to a [Animal].\n    \nNow [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] are activating a site nearby to harass you.\n    \n[allSitePartsDescriptions] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>[Joiner_namedef] mengakui bahwa ia melarikan diri.[joiner_namedef] menghina [musuh musuh_leader_namedef] Ketika membandingkan [musuh musuh_leader_objective] dengan [hewan] \ n \ nahora [musuh] yang telah membangun kamp yang mendekati \ dari clript \ (allleader_namedef] telah membangun sebuah kamp yang mendekar</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
+  <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>{Baseelabel}: mengejar [joiner_namedef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
+  <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] came upon a lost group of [animalKind_labelPlural]. [joiner_pronoun], in a bad mood, goaded the [animalKind_labelPlural]. Unexpectedly, they attacked [joiner_objective]. And they have followed [joiner_objective] a long distance.\n    \n{BASETEXT} -->
+  <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>[Joiner_namedef] mengakui bahwa ia melarikan diri. Seperti dalam suasana hati yang buruk, ia mulai repot -repot [animalkind_labelplural].Tanpa diduga, paket yang marah [joiner_objective] diserang.Dan [joiner_objective] telah mengikuti dari jauh.\ N \ n {BASETEXT}</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] mengakui [joiner_pronoun] mencemarkan ritual perdamaian antara [raid1/musuh/musuh] dan [raid2/musuh).Sekarang mereka berdua mengejar [joiner_objective]! \ N \ n [joiner_pronoun] memohon untuk keselamatan dan menawarkan untuk bergabung dengan Anda di [MAP_DEFINITE]. [Joiner_relationInfo] \ n \ nif Anda menerima [joiner_namedef], baik [raid1/musuh.[raiddelayticks_duration]. \ n \ n [joiner_namedef] terlalu panik untuk menawarkan informasi lebih lanjut.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [Pendahuluan], bernama [jointer_namedef], memanggil Anda dari sekitarnya.[Joiner_pronoun] mengaku menodai ritual perdamaian antara faksi [raid1/musuh/musuh] dan [raid2/musuh/musuh_name].Sekarang kedua faksi mencari [joiner_objective]! [RAID2/Enemyfaction_name] akan mulai menyerang Anda di [raiddelaayticks_duration].</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] [joiner_age] bertahun-tahun</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [joiner_namedef] banyak teman</li>
+    <li>QuestName-> [joiner_namedef] banyak musuh</li>-><ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> Banyak teman [joiner_namedef]</li>
+    <li>QuestName-> Banyak musuh [joiner_namedef]</li>
+  </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{Baseelabel}: mengejar [../join_namedef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
+  <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>{Baseotext</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>{Baseelabel} mengejar [../join_namedef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
+  <!-- EN: {BASETEXT}\n                        \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
+  <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT} \ n \ nlos [musuh.</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namefull] menelepon dari dekat.[joiner_pronoun] bersembunyi dari [ancaman].[joiner_pronoun] ingin melarikan diri dari tempat bersembunyi [joiner_possessive] dan bergabung dengan Anda di [peta_definite]. [joiner_relationInfo] \ n \ nif Anda menerima [joiner_objective], [joinersEnemies] akan mendirikan situs di dekat Anda untuk melecehkan Anda.[Situs/AllSitePartsDescriptions] \ n \ n ancaman akan tetap sampai Anda pergi untuk menghancurkannya.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>
+    <li>ancaman (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_pawnsplural] dari [situs/musuh/musuh_name]</li>
+    <li>ancaman (prioritas = 1, situs/mechcluster_exists == true)-> mechanoids</li>
+    <li>ancaman (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mechanoids</li>
+    <li>Ancaman-> [joiner_possessive] musuh</li>
+    <li>joinersEnemies (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh.</li>
+    <li>joinersEnemies (prioritas = 1, situs/mechcluster_exists == true)-> mechanoids</li>
+    <li>joinersEnemies (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mechanoids</li>
+    <li>JoinersEnemies-> [joiner_possessive] musuh</li>-><ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [Pendahuluan], bernama [jointer_nameful] memanggil Anda dari sekitarnya.Dia bersembunyi dari [ancaman].[Joiner_pronoun] ingin meninggalkan tempat persembunyiannya dan bergabung dengan Anda di [map_definite]. [Jointer_relationfo] \ n \ nsi [jointer_objective] Anda menerima, [joinersEnemies] akan membuat kamp dekat untuk melecehkan Anda.[Situs/AllSitePartSDescripts] \ n \ nla ancaman akan tetap sampai Anda akan menghancurkannya.</li>
+    <li>ancaman (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_pawnsplural] de [situs/musuh/musuh_name]</li>
+    <li>ancaman (prioritas = 1, situs/mechcluster_exists == true)-> mecanoides</li>
+    <li>ancaman (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mecanoides</li>
+    <li>Ancaman-> musuhnya</li>
+    <li>joinersEnemies (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh.</li>
+    <li>joinersEnemies (prioritas = 1, situs/mechcluster_exists == true)-> unos mecanoides</li>
+    <li>joinersEnemies (prioritas = 1, situs/sleepingmechanoids_exists == true)-> unos mecanoides</li>
+    <li>JoinesEnemies-> Musuhnya</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN-> [jointer_titleindef] [joiner_age] bertahun-tahun</li>
+  </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [joiner_namedef] [situs/situs_label]</li>
+    <li>QuestName-> [joiner_namedef] dan [situs/situs_label]</li>
+    <li>QuestName-> [situs/situs_label] dan [joiner_namedef]</li>-><ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> [Situs/Situs_Definite] de [joiner_namedef]</li>
+    <li>QuestName-> [joiner_namedef] y [situs/situs_definite]</li>
+    <li>Costname-> [Situs/Situs_indefini] yang [jain_namedef]</li>
+  </ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+  <!-- EN: Since you accepted [../joiner_nameDef], [../threat] have set up a nearby site to harass you.\n                    \n[allSitePartsDescriptions] -->
+  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>Saat Anda menerima [../join_namedef], [../Treat] mendirikan kamp terdekat untuk melecehkan Anda.</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
+  
+</LanguageData>

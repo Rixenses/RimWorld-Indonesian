@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Judul-> [Maybethe] [bookevil] dari [nouneviluncountable]</li>
+    <li>Judul-> [Maybethe] [bookevil] dari [nounevilcountable] s</li>
+    <li>Judul-> [Maybethe] [bookevil] dari [nounevilcountable]</li>
+    <li>Judul-> [Maybethe] [nounevilcountable] s [in the] [PlaceEvil]</li>
+    <li>Judul-> [Maybethe] [bookevil] dari [anypawn_nameindef]</li>
+    <li>Judul-> [Maybethe] [nounevilany] [Inthe] [PlaceEvil]</li>
+    <li>Judul-> [Maybethe] [nounevilany] dari [anypawn_nameindef]</li>
+    <li>Judul-> [Maybethe] [AdjectiveEvil] [Nounevilany]</li>
+    <li>Judul-> [anypawn_nameindef] [bookevil]</li>
+    <li>Judul-> [Maybethe] [BookCompound]</li>
+    <li>Judul-> [anypawn_nameindef] [BookCompound]</li>
+    <li>judul (p = 0,5)-> [firsthalfevil] [konektor] [nounevilcountable]</li>
+    <li>Judul (p = 0,5)-> [FirsthalFevil] [Connector] [nouneviluncountable]</li>
+    <li>judul (p = 0,5)-> [nounevilcountable] [suffixevil]</li>
+    <li>judul (p = 0,5)-> [nouneviluncountable] [suffixevil]</li>
+    <li>BookCompound (p = 2)-> [FirsthalFevil] [SuffixEvil]</li>
+    <li>BookCompound-> [FirsthalFevil] [Connector] [SuffixEvil]</li>
+    <li>konektor-> '</li>
+    <li>Connector->-</li>
+    <li>maybethe-></li>
+    <li>Maybethe-> the</li>
+    <li>BookEvil (p = 2)-> Book</li>
+    <li>bookevil (p = 2)-> [firsthalfevil] [suffixevil]</li>
+    <li>bookevil-> tome</li>
+    <li>bookevil-> codex</li>
+    <li>bookevil-> tulisan</li>
+    <li>bookevil-> Rekam</li>
+    <li>bookevil-> rahasia</li>
+    <li>BookEvil-> Chronicles</li>
+    <li>bookevil-> cipher</li>
+    <li>bookevil-> berbisik</li>
+    <li>bookevil-> kesaksian</li>
+    <li>bookevil-> ratapan</li>
+    <li>Bookevil-> grimoire</li>
+    <li>bookevil-> almanak</li>
+    <li>bookevil-> naskah</li>
+    <li>BookEvil-> Annals</li>
+    <li>bookevil-> mantra</li>
+    <li>bookevil-> wahyu</li>
+    <li>bookevil-> manifesto</li>
+    <li>bookevil-> Perjanjian</li>
+    <li>bookevil-> fragmen</li>
+    <li>bookevil-> shard</li>
+    <li>Inthe-> di</li>
+    <li>di-> di dalam</li>
+    <li>di-> di bawah</li>
+    <li>di-> di bawah</li>
+    <li>di-> oleh</li>
+    <li>Inthe-> di</li>
+    <li>di-> di seberang</li>
+    <li>AdjectiveEvil (p = 3)-> void</li>
+    <li>KADDIVEEVIL-> Golden</li>
+    <li>KADIRIVIL-> tidak wajar</li>
+    <li>KADDIVEEVIL-> Gelap</li>
+    <li>AdjectiveEvil-> Black</li>
+    <li>AdjectiveEvil-> Deep</li>
+    <li>KADDIVEEVIL-> kuno</li>
+    <li>AdjectiveEvil-> Corrupt</li>
+    <li>AdjectiveEvil-> Darah</li>
+    <li>AdjectiveEvil-> Chaos</li>
+    <li>ADJECTIVEEVIL-> ABYSSAL</li>
+    <li>KADDIVEEVIL-> LUAR BIASA</li>
+    <li>AdjectiveEvil-> Phantom</li>
+    <li>AdjectiveEvil-> Cryptic</li>
+    <li>AdjectiveEvil-> Whispering</li>
+    <li>AdjectiveEvil-> Forgotten</li>
+    <li>AdjectiveEvil-> terselubung</li>
+    <li>AdjectiveEvil-> Forbidden</li>
+    <li>AdjectiveEvil-> Subsurface</li>
+    <li>AdjectiveEvil-> Snake</li>
+    <li>nounevilany-> [nounevilcountable]</li>
+    <li>nounevilany-> [nouneviluncountable]</li>
+    <li>Nouneviluncountable-> fleshmass</li>
+    <li>nouneviluncountable-> bioferrite</li>
+    <li>nouneviluncountable-> Deadlife</li>
+    <li>nouneviluncountable-> archotech</li>
+    <li>nouneviluncountable-> necrotech</li>
+    <li>nouneviluncountable-> horax</li>
+    <li>nouneviluncountable-> darah</li>
+    <li>nouneviluncountable-> undeath</li>
+    <li>nouneviluncountable-> power</li>
+    <li>nouneviluncountable-> berbisik</li>
+    <li>nouneviluncountable-> pengetahuan</li>
+    <li>nouneviluncountable-> horor</li>
+    <li>nouneviluncountable-> jamur</li>
+    <li>nouneviluncountable-> drecrescence</li>
+    <li>nouneviluncountable-> ritual</li>
+    <li>nouneviluncountable-> pembunuhan</li>
+    <li>nouneviluncountable-> kegelapan</li>
+    <li>nouneviluncountable-> kegilaan</li>
+    <li>nouneviluncountable-> chaos</li>
+    <li>nouneviluncountable-> keputusasaan</li>
+    <li>nouneviluncountable-> penderitaan</li>
+    <li>nouneviluncountable-> mimpi buruk</li>
+    <li>nouneviluncountable-> korupsi</li>
+    <li>nouneviluncountable-> doom</li>
+    <li>nouneviluncountable-> teror</li>
+    <li>nouneviluncountable-> Malevolence</li>
+    <li>nouneviluncountable-> bayangan</li>
+    <li>nouneviluncountable-> void</li>
+    <li>nouneviluncountable-> emas</li>
+    <li>nounevilcountable-> ghoul</li>
+    <li>nounevilcountable-> gorehulk</li>
+    <li>nounevilcountable-> noctol</li>
+    <li>nounevilcountable-> shubler</li>
+    <li>nounevilcountable-> fleshbeast</li>
+    <li>nounevilcountable-> nociosphere</li>
+    <li>nounevilcountable-> corpse</li>
+    <li>nounevilcountable-> cube</li>
+    <li>nounevilcountable-> revenant</li>
+    <li>nounEvilCountable->Metalhorror</li>
+    <li>nounevilcountable-> abductor</li>
+    <li>nounevilcountable-> duplikator</li>
+    <li>Nunevilcountable-> mutor</li>
+    <li>nounevilcountable-> Harbinger</li>
+    <li>nounevilcountable-> SightStealer</li>
+    <li>nounevilcountable-> chimera</li>
+    <li>nounevilcountable-> devourer</li>
+    <li>nounevilcountable-> shard</li>
+    <li>nounevilcountable-> patung</li>
+    <li>nounevilcountable-> serum</li>
+    <li>nounevilcountable-> cult</li>
+    <li>nounevilcountable-> cultist</li>
+    <li>nounevilcountable-> kambing</li>
+    <li>nounevilcountable-> shadow</li>
+    <li>nounevilcountable-> lurker</li>
+    <li>nounevilcountable-> rites</li>
+    <li>nounevilcountable-> hex</li>
+    <li>nounevilcountable-> ular</li>
+    <li>nounevilcountable-> feaster</li>
+    <li>PlaceEvil-> Ocean</li>
+    <li>PlaceEvil-> void</li>
+    <li>PlaceEvil-> Abyss</li>
+    <li>PlaceEvil-> Deep</li>
+    <li>PlaceEvil-> Bayangan</li>
+    <li>PlaceEvil-> makam</li>
+    <li>PlaceEvil-> Darkness</li>
+    <li>PlaceEvil-> Mountain</li>
+    <li>PlaceEvil-> Chamber</li>
+    <li>PlaceEvil-> Catacombs</li>
+    <li>PlaceEvil-> Kudus</li>
+    <li>PlaceEvil-> Grove</li>
+    <li>PlaceEvil-> Earth</li>
+    <li>PlaceEvil-> Stars</li>
+    <li>PlaceEvil-> Ocean</li>
+    <li>PlaceEvil-> kedalaman</li>
+    <li>PlaceEvil-> underverse</li>
+    <li>PlaceEvil-> Caverns</li>
+    <li>firsthalfevil-> vibro</li>
+    <li>firsthalfevil-> kelno</li>
+    <li>Firstalvevyl-> mati</li>
+    <li>firsthalfevil-> chrono</li>
+    <li>firsthalfevil-> drago</li>
+    <li>firsthalfevil-> krimi</li>
+    <li>firsthalfevil-> vadi</li>
+    <li>Firsthalfevil-> horor</li>
+    <li>Babak pertama jahat-> novio</li>
+    <li>firsthalfevil-> xeno</li>
+    <li>firsthalfevil-> psycho</li>
+    <li>firsthalfevil-> voro</li>
+    <li>firsthalfevil-> tyrano</li>
+    <li>FirsthalFevil-> Inverno</li>
+    <li>firsthalfevil-> phobo</li>
+    <li>Firsthalfevil-> Leva</li>
+    <li>sufiksevil-> nomicon</li>
+    <li>Suffixevil-> Doron</li>
+    <li>sufiksevil-> nax</li>
+    <li>Suffixevil-> Novicon</li>
+    <li>Suffixevil-> call</li>
+    <li>Suffixevil-> Mancy</li>
+    <li>Suffixevil-> Gorgon</li>
+    <li>Suffixevil-> Morth</li>
+    <li>sufiksevil-> cypher</li>
+    <li>sufiksevil-> vex</li>
+    <li>Suffixevil-> vortex</li>
+    <li>SuffixEvil-> NOX</li>
+    <li>Suffixevil-> Cybex</li>
+    <li>Suffixevil-> Voron</li>
+    <li>Suffixevil-> Karnix</li>
+    <li>sufiksevil-> nemex</li>
+    <li>Suffixevil-> Vexor</li>
+    <li>Suffixevil-> Tronix</li>
+    <li>suffixevil-> cryptex</li>
+    <li>Suffix Evil-> Chamonix</li>
+    <li>Suffixevil-> nix</li>
+    <li>sufiksevil-> vix</li>-><Namer_Tome.rulePack.rulesStrings>
+    <li>Judul-> [bookevil] [nouneviluncountableDef]</li>
+    <li>Judul-> [bookevil] [nouneviluncountablevar]</li>
+    <li>Judul-> [Maybethe] [bookevil] [nounevilcountableFpl]</li>
+    <li>Judul-> [nounevilcountable] [di] [PlaceEvil]</li>
+    <li>Judul -> [nounvilvilcountable] [inthe_fem] [placevill_fem]</li>
+    <li>Judul-> [Maybethe] [bookevil] de [anypawn_nameindef]</li>
+    <li>Judul-> [maybethepl] [bookevilpl] de [anypawn_nameindef]</li>
+    <li>Judul-> [Maybethe] [nounevilany] [Inthe] [PlaceEvil]</li>
+    <li>Judul-> [maybethe] [nounevilany] [inthe_fem] [placeevil_fem]</li>
+    <li>Judul-> [maybethe_fem] [nounevilany_fem] [inhe] [PlaceEvil]</li>
+    <li>title-> [maybeth_fem] [nounevilany_fem] [intre_fem] [placeevil_fem]</li>
+    <li>Judul-> [maybethepl] [nounevilanypl] [in the] [PlaceEvil]</li>
+    <li>Judul-> [maybethepl] [nounevilanypl] [inthe_fem] [placeevil_fem]</li>
+    <li>Judul-> [maybethe_fempl] [nounevilany_fempl] [inthe] [PlaceEvil]</li>
+    <li>Judul-> [maybethe_fempl] [nounevilany_fempl] [inthe_fem] [placeevil_fem]</li>
+    <li>Judul-> [Maybethe] [nounevilany] de [anypawn_nameindef]</li>
+    <li>Judul-> [maybethepl] [nounevilanypl] de [anypawn_nameindef]</li>
+    <li>Judul-> [maybethe_fem] [nounevilany_fem] de [anypawn_nameindef]</li>
+    <li>Judul-> [maybethe_fempl] [nounevilany_fempl] de [anypawn_nameindef]</li>
+    <!-- Continuar desde aquí queda añadir femeninos y plurales -->
+    <li>Judul-> [Maybethe] [nounevilany] [AdjectiveEvil]</li>
+    <li>Judul-> [bookevil] de [anypawn_nameindef]</li>
+    <li>Judul-> [Maybethe] [BookCompound]</li>
+    <li>Judul-> [BookCompound] de [anypawn_nameindef]</li>
+    <li>judul (p = 0,5)-> [firsthalfevil] [konektor] [nounevilcountable]</li>
+    <li>Judul (p = 0,5)-> [FirsthalFevil] [Connector] [nouneviluncountable]</li>
+    <li>judul (p = 0,5)-> [nounevilcountable] [suffixevil]</li>
+    <li>judul (p = 0,5)-> [nouneviluncountable] [suffixevil]</li>
+    <li>BookCompound (p = 2)-> [FirsthalFevil] [SuffixEvil]</li>
+    <li>BookCompound-> [FirsthalFevil] [Suffixevil]</li>
+    <li>konektor-></li>
+    <li>konektor-></li>
+    <li>maybethe-></li>
+    <li>maybethe-> el</li>
+    <li>maybethe_fem-></li>
+    <li>maybethe_fem-> la</li>
+    <li>maybethe_fempl-></li>
+    <li>Maybethe_fempl-> las</li>
+    <li>maybethepl-></li>
+    <li>maybethepl-> los</li>
+    <li>Bookevil (p = 2)-> buku</li>
+    <li>bookevil (p = 2)-> [firsthalfevil] [suffixevil]</li>
+    <li>bookevil-> tomo</li>
+    <li>Bookevil-> codex</li>
+    <li>Bookevil-> tertulis</li>
+    <li>Bookevil-> pendaftaran</li>
+    <li>Bookevil-> rahasia</li>
+    <li>Bookevil-> cerita</li>
+    <li>BookEvil-> Enkripsi</li>
+    <li>BookEvil-> Whisper</li>
+    <li>Bookevil-> kesaksian</li>
+    <li>BookEvil-> Penyesalan</li>
+    <li>bookevil-> grimorio</li>
+    <li>Bookevil-> almanak</li>
+    <li>Bookevil-> naskah</li>
+    <li>Bookevil-> file</li>
+    <li>Bookevil-> penjarahan</li>
+    <li>Bookevil-> wahyu</li>
+    <li>Bookevil-> manifesto</li>
+    <li>Bookevil-> Perjanjian</li>
+    <li>bookevil-> fragmento</li>
+    <li>bookevilpl-> Secretos</li>
+    <li>bookevilpl-> lamentos</li>
+    <li>Bookevilpl-> bisikan</li>
+    <li>bookevilpl-> relatos</li>
+    <li>bookevilpl-> pendaftar</li>
+    <li>bookevilpl-> manuscritos</li>
+    <li>Inthe-> di dalam Dia</li>
+    <li>di dalam> di dalam</li>
+    <li>di-> di bawah ini</li>
+    <li>Inthe-> di bawah ini</li>
+    <li>Inthe- oleh dia</li>
+    <li>Inthe-> padanya</li>
+    <li>Inthe-> through</li>
+    <li>Inthe_fem-> di</li>
+    <li>Inthe_fem-> di dalam</li>
+    <li>Inthe_fem-> di bawah</li>
+    <li>Inthe_fem-> oleh</li>
+    <li>Inthe_fem-> di</li>
+    <li>Inthe_fem-> melalui</li>
+    <li>AdjectiveEvil (p = 3)-> vakum</li>
+    <li>AdjectiveEvil-> Dorado</li>
+    <li>AdjectiveEvil-> Antinatural</li>
+    <li>AdjectiveEvil-> suram</li>
+    <li>AdjectiveEvil-> Negro</li>
+    <li>AdjectiveEvil-> Deep</li>
+    <li>AdjectiveEvil-> Antiguo</li>
+    <li>AdjectiveEvil-> Corrupt</li>
+    <li>AdjectiveEvil-> Bloody</li>
+    <li>AdjectiveEvil-> Chaotic</li>
+    <li>AdjectiveEvil-> abisal</li>
+    <li>KADDIVEEVIL-> SINISTER</li>
+    <li>AdjectiveEvil-> Fantasmal</li>
+    <li>AdjectiveEvil-> Cryptic</li>
+    <li>AdjectiveEvil-> Whispering</li>
+    <li>AdjectiveEvil-> Forgotten</li>
+    <li>AdjectiveEvil-> terselubung</li>
+    <li>AdjectiveEvil-> dilarang</li>
+    <li>AdjectiveEvil-> Subsuperficial</li>
+    <li>AdjectiveEvil-> Serpentil</li>
+    <li>nounevilany-> [nounevilcountable]</li>
+    <li>nounevilany-> [nouneviluncountable]</li>
+    <li>nounevilany_fem-> [nounevilcountable_fem]</li>
+    <li>nounevilany_fem-> [nouneviluncountable_fem]</li>
+    <li>nounevilanypl-> [nounevilcountablepl]</li>
+    <li>nounevilaLanypl-> [nouneviluncountablepl]</li>
+    <li>nouneviluncountable_fem-> carnimasa</li>
+    <li>nouneviluncountable_fem-> bioferrita</li>
+    <li>nouneviluncountable_fem-> necrovita</li>
+    <li>nouneviluncountable-> arqueoteca</li>
+    <li>nouneviluncountable-> necroteca</li>
+    <li>nouneviluncountable-> horax</li>
+    <li>nouneviluncountable_fem-> sangre</li>
+    <li>nounviluncuncountable_fem-> wortel</li>
+    <li>nounevilununtable_fem-> energi</li>
+    <li>nounevilununtable-> berbisik</li>
+    <li>Nounevilununtable-> pengetahuan</li>
+    <li>nouneviluncountable-> horor</li>
+    <li>Nounevilunountablepl-> jamur</li>
+    <li>nouneviluncountable-> putrescencia</li>
+    <li>nounevilunountablePl-> ritual</li>
+    <li>Nounevilununtable-> pembunuhan</li>
+    <li>nounevilununtable_fem-> kegelapan</li>
+    <li>nouneviluncountable_fem-> locura</li>
+    <li>nouneviluncountable-> caos</li>
+    <li>nounevilununtable-> keputusasaan</li>
+    <li>nounevilununtable-> penderitaan</li>
+    <li>Nounevilununtable_fempl-> mimpi buruk</li>
+    <li>nounevilununtable_fem-> korupsi</li>
+    <li>nounevilununtable_fem-> Perdition</li>
+    <li>nouneviluncountable-> teror</li>
+    <li>nouneviluncountable_fem-> malevolencia</li>
+    <li>Nounevilununtable_fempl-> bayangan</li>
+    <li>nounevilununtable-> kosong</li>
+    <li>nouneviluncountable-> dorado</li>
+    <li>nouneviluncountableDef-> de la Carnimasa</li>
+    <li>nounevilcontabledef-> dari bioferrita</li>
+    <li>nouneviluncountableDef-> de la necrovita</li>
+    <li>nouneviluncountableDef-> del horax</li>
+    <li>Nouneviluntestble dari darah</li>
+    <li>Nounevilununtabtable kematian</li>
+    <li>nouneviluncountableDef-> de laenergía</li>
+    <li>nounevilununtable off-> dari bisikan</li>
+    <li>Nounevilununtable pengetahuan</li>
+    <li>nouneviluncountableF-> del horror</li>
+    <li>Nounevilununtable jamur</li>
+    <li>nounevilcontableDef-> core</li>
+    <li>nounevilununtable off-> dari ritual</li>
+    <li>nounevilununtable off-> dari pembunuhan</li>
+    <li>nounevilununtable off-> of darkness</li>
+    <li>nounevilununtabtable f-> of madness</li>
+    <li>nouneviluncountableDef-> del caos</li>
+    <li>NouneviluntestableDef-> dari keputusasaan</li>
+    <li>nounevilununtable off-</li>
+    <li>Nounevilununtable Off-> of Nightmares</li>
+    <li>nounevilununtable dari korupsi</li>
+    <li>nounevilununtable off-> dari kebin</li>
+    <li>nouneviluncountableDef-> del teror</li>
+    <li>nounevilcontabledef-> dari kejahatan</li>
+    <li>nounevilununtable f-> of shadows</li>
+    <li>NouneviluntestableDef-> dari vakum</li>
+    <li>nouneviluncountablevar-> dorado</li>
+    <li>nouneviluncountablevar-> arqueoteca</li>
+    <li>nouneviluncountableVar-> necrotéc</li>
+    <li>nounevilcountable-> necrófago</li>
+    <li>nounevilcountablepl-> necrófagos</li>
+    <li>nounevilcountable-> goretesco</li>
+    <li>nounevilcountablepl-> goretescos</li>
+    <li>nounevilcountable-> noctol</li>
+    <li>Nounevilcounts-> walker</li>
+    <li>Nounevilcantablpl-> walkers</li>
+    <li>nounevilcountable_fem-> Carnibia</li>
+    <li>nounevilcountable_fem-> nociosfera</li>
+    <li>nounevilcantable-> corpse</li>
+    <li>nounevilcountable-> cubo</li>
+    <li>noounevilcountable-> dihidupkan kembali</li>
+    <li>nounevilcountable-> horrormetal</li>
+    <li>nounevilcountable-> abductor</li>
+    <li>nounevilcountable-> duplicador</li>
+    <li>nounevilcounts-> mutator</li>
+    <li>nounevilcountable-> prekursor</li>
+    <li>nounevilcantable-> menyilaukan</li>
+    <li>nounevilcountable_fem-> chimera</li>
+    <li>nounevilcountable-> devator</li>
+    <li>nounevilcountable_fem-> esquirla</li>
+    <li>nounevilcountable_fem-> patung</li>
+    <li>nounevilcounts-> serum</li>
+    <li>nounevilcountable-> culto</li>
+    <li>nounevilcountable-> cultista</li>
+    <li>nounevilcountable_fem-> kambing</li>
+    <li>nounevilcountable_fem-> sombra</li>
+    <li>Nounevilcantable_fempl-> bayangan</li>
+    <li>nounevilcountable-> Merodeador</li>
+    <li>nounevilcountablepl-> ritos</li>
+    <li>nounevilcountable-> hex</li>
+    <li>nounevilcantable_fem-> ular</li>
+    <li>nounevilcantable-> pesta</li>
+    <li>NounevilcantableDefpl-> dari necrophages</li>
+    <li>nounevilcount</li>
+    <li>Nounevilcantable of the noctoles</li>
+    <li>NounevilcantableDefpl-> of the walkers</li>
+    <li>nounevilcount</li>
+    <li>NounevilcantableDefpl-> dari notium</li>
+    <li>NounevilcantableDefpl-> dari tubuh</li>
+    <li>NounevilcantableDefpl-> dari kubus</li>
+    <li>nounevilcount</li>
+    <li>nounevilcountableDefpl-> de los horrormetales</li>
+    <li>noounevilcountableDefpl-> de los abductores</li>
+    <li>Duplikator</li>
+    <li>NounevilcantableDefpl-> dari mutator</li>
+    <li>Nounevilcounts dari prekursor</li>
+    <li>NounevilcantableDefpl-> dari Blinders</li>
+    <li>NounevilcantableDefpl-> dari chimeras</li>
+    <li>nounevilcount</li>
+    <li>NounevilcantableDefpl-> dari Sparks</li>
+    <li>Nounevilcounts dari patung</li>
+    <li>NounevilcantableDefpl-> dari sera</li>
+    <li>Nounevilcount dari kultus</li>
+    <li>dari para pemuja</li>
+    <li>Nounevilcantable dari kambing</li>
+    <li>Nounevilcantable dari bayang -bayang</li>
+    <li>NounevilcantableDefpl-> dari merodiers</li>
+    <li>NounevilcantableDefpl-> dari ritus</li>
+    <li>nounevilcountableDefpl-> del hex</li>
+    <li>Nounevilcount dari ular</li>
+    <li>NounevilcantableDefpl-> dari pesta</li>
+    <li>PlaceEvil-> océano</li>
+    <li>PlaceEvil-> Vakum</li>
+    <li>PlaceEvil-> Abyss</li>
+    <li>PlaceEvil-> Inframundo</li>
+    <li>PlaceEvil-> neraka</li>
+    <li>PlaceEvil-> Pemakaman</li>
+    <li>Placeevil-> jurang</li>
+    <li>PlaceEvil-> Enclosure</li>
+    <li>PLACEVIL-> Pasadizo</li>
+    <li>PlaceEvil-> Sanctuary</li>
+    <li>Placeevil_fem-> necropolis</li>
+    <li>Placeevil_fem-> bayangan</li>
+    <li>PlaceEvil_FEM-> Cave</li>
+    <li>PlaceEvil_FEM-> HOME</li>
+    <li>Place_fevil_fevil</li>
+    <li>Placeevil_fem-> subcave</li>
+    <li>PlaceEvil_FEM-> DEPTH</li>
+    <li>Placeevil_fem-> CataCumba</li>
+    <li>firsthalfevil-> vibro</li>
+    <li>firsthalfevil-> kelno</li>
+    <li>Firstalvevyl-> mati</li>
+    <li>Firsthalfevil-> Crono</li>
+    <li>firsthalfevil-> drago</li>
+    <li>firsthalfevil-> krimi</li>
+    <li>firsthalfevil-> vadi</li>
+    <li>Firsthalfevil-> horor</li>
+    <li>Babak pertama jahat-> novio</li>
+    <li>firsthalfevil-> xeno</li>
+    <li>firsthalfevil-> psico</li>
+    <li>firsthalfevil-> voro</li>
+    <li>firsthalfevil-> tyrano</li>
+    <li>FirsthalFevil-> Inverno</li>
+    <li>firsthalfevil-> phobo</li>
+    <li>Firsthalfevil-> Leva</li>
+    <li>sufiksevil-> nomicon</li>
+    <li>Suffixevil-> Doron</li>
+    <li>sufiksevil-> nax</li>
+    <li>Suffixevil-> Novicon</li>
+    <li>Suffixevil-> call</li>
+    <li>Suffixevil-> Mancy</li>
+    <li>Suffixevil-> Gorgon</li>
+    <li>Suffixevil-> Morth</li>
+    <li>sufiksevil-> cypher</li>
+    <li>sufiksevil-> vex</li>
+    <li>Suffixevil-> vortex</li>
+    <li>SuffixEvil-> NOX</li>
+    <li>Suffixevil-> Cybex</li>
+    <li>Suffixevil-> Voron</li>
+    <li>Suffixevil-> Karnix</li>
+    <li>sufiksevil-> nemex</li>
+    <li>Suffixevil-> Vexor</li>
+    <li>Suffixevil-> Tronix</li>
+    <li>suffixevil-> cryptex</li>
+    <li>Suffix Evil-> Chamonix</li>
+    <li>Suffixevil-> nix</li>
+    <li>sufiksevil-> vix</li>
+  </Namer_Tome.rulePack.rulesStrings>
+  
+</LanguageData>

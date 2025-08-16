@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {FACTION_pawnsPlural} from {FACTION_name} are attacking! They've used the gravcore to lure you into an ambush. -->
+  <GravcoreAbandonedSettlementRaid>{Felion_pawnsplural} dari {facion_name} menyerang!Mereka telah menggunakan gravinuco untuk menarik penyergapan.</GravcoreAbandonedSettlementRaid>
+  <!-- EN: More reinforcements are on their way, and will arrive in the next few days. Prepare for their attack, or escape before they arrive. -->
+  <GravcoreAbandonedSettlementRaid_Reinforcements>Lebih banyak bala bantuan sedang dalam perjalanan, dan mereka akan tiba dalam beberapa hari ke depan.Bersiaplah untuk serangan Anda atau melarikan diri sebelum mereka tiba.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  
+  <!-- EN: Relay defense response -->
+  <GravcoreMechRelayRaidLetterLabel>Ulangi respons pertahanan</GravcoreMechRelayRaidLetterLabel>
+  <!-- EN: Mechanoids are arriving to defend the relay!\n\nThey are arriving by transport pod and will attack immediately. -->
+  <GravcoreMechRelayRaidLetterText>Mecanoids tiba untuk mempertahankan repeater! \ N \ nestan yang tiba di kapsul transportasi dan akan segera menyerang.</GravcoreMechRelayRaidLetterText>
+  
+  <!-- EN: Amongst the remnants of the crashed mechanoid platform, a still-intact grav engine hums with energy.\n\nYou can build gravship substructure around the engine to create a new gravship. The engine pushes against gravity, levitating the ship and allowing long-distance travel.\n\nLaunch a gravship by researching basic gravtech, then building fuel tanks, thrusters, and a pilot console.\n\nLaunching a gravship will abandon your current map unless you build a grav anchor first.\n\n  - Research unlocked: Basic gravtech\n  - Flooring unlocked: Gravship substructure -->
+  <GravEngineInspectedLetterContents>Di antara sisa -sisa platform bintang mecanoid, mesin gravitasi utuh memancarkan desas -desus penuh energi.Mesin menangkal gravitasi, menaikkan kapal dan memungkinkan perjalanan jarak jauh. Tidak Terkunci: Gravitecnology Dasar \ n - Tanah Tidak Terkunci: Substruktur Gravinave</GravEngineInspectedLetterContents>
+  <!-- EN: View quest -->
+  <ViewQuest>Lihat misi</ViewQuest>
+  
+  <!-- Asteroid -->
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidLetter>Asteroide de {Resource}</AsteroidLetter> 
+  <!-- EN: You've discovered the location of an asteroid orbiting the planet. It contains significant amounts of {RESOURCE}, and potentially other resources.\n\nOrbital miners steer valuable asteroids into planetary orbit so that they can be easily mined and sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. -->
+  <AsteroidLetterText>Anda telah menemukan lokasi asteroid yang mengorbit planet ini.Ini berisi sejumlah besar {sumber daya} dan, berpotensi, sumber daya lainnya.Anda tidak mendeteksi tanda -tanda kehidupan dalam asteroid ini.</AsteroidLetterText>
+
+  <!-- EN: {RESOURCE} asteroid -->
+  <AsteroidName>Asteroide de {Resource}</AsteroidName>
+
+  <!-- Ancient Reactor -->
+  <!-- EN: Ancient reactor -->
+  <AncientReactorArrivedLetter>Reaktor kuno</AncientReactorArrivedLetter>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is damaged and leaking, covering the region in toxic fallout. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactorArrivedLetterText>Reaktor lama disembunyikan di dalam reruntuhan di dekatnya.Reaktor rusak dan mengalami kebocoran, menutupi wilayah dengan hujan beracun.Temukan dan nonaktifkan reaktor untuk mendapatkan pajak dan hentikan hujan beracun.</AncientReactorArrivedLetterText>
+
+  <!-- Frozen Terraformer -->
+  <!-- EN: Ancient terraformer -->
+  <FrozenTerraformerArrivedLetter>Terraformator tua</FrozenTerraformerArrivedLetter>
+  <!-- EN: The malfunctioning terraformer has encased itself in solid ice. The gravcore energy signal is coming from somewhere within. Find and destroy the terraformer to obtain the gravcore. -->
+  <FrozenTerraformerArrivedLetterText>Terraber yang rusak telah terkunci dalam es padat.Sinyal energi gravinucole berasal dari suatu tempat di dalam.Temukan dan hancurkan Terrabering untuk mendapatkan pajak.</FrozenTerraformerArrivedLetterText>
+
+  <!-- Ancient Stockpile -->
+  <!-- EN: Ancient stockpile -->
+  <AncientStockpileArrivedLetter>Gudang Tua</AncientStockpileArrivedLetter>
+  <!-- EN: The gravcore energy signal is coming from one of the nearby underground stockpiles. Hack the entrances and search the stockpiles to find the gravcore.\n\nBe careful, some of the defense systems may still be active. -->
+  <AncientStockpileArrivedLetterText>Sinyal energi gravinucole berasal dari salah satu toko bawah tanah di dekatnya.Input Hackea dan terlihat di toko untuk menemukan Gravinucleo.</AncientStockpileArrivedLetterText>
+
+  <!-- Orbital Mechanoid Platform -->
+  <!-- EN: Mechanoid platform -->
+  <OrbitalMechanoidPlatformLetterArrived>Pitaforma mecanoide</OrbitalMechanoidPlatformLetterArrived>
+  <!-- EN: This orbital platform is built to service and deploy combat mechanoids, likely as part of some ancient planet-spanning war machine.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalMechanoidPlatformLetterArrivedText>Platform orbital ini dibangun untuk memelihara dan menggunakan mechanoides tempur, mungkin sebagai bagian dari mesin perang lama yang mengelilingi planet ini.</OrbitalMechanoidPlatformLetterArrivedText>
+
+  <!-- Orbital Ancient Platform -->
+  <!-- EN: Ancient platform -->
+  <OrbitalAncientPlatformLetterArrived>Platform kuno</OrbitalAncientPlatformLetterArrived>
+  <!-- EN: The people who once inhabited this orbital platform are long gone and its original purpose has long been forgotten.\n\nThe gravcore signal is coming from somewhere within. -->
+  <OrbitalAncientPlatformLetterArrivedText>Orang -orang yang pernah mendiami platform orbital ini sudah lama sekali dan tujuan semula telah dilupakan.</OrbitalAncientPlatformLetterArrivedText>
+  
+  <!-- Ancient Reactor -->
+  <!-- EN: Crashed mechanoid platform -->
+  <CrashedPlatformArrivedLetter>Platform Mecanoid Bintang</CrashedPlatformArrivedLetter>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedPlatformArrivedLetterText>Sisa -sisa platform orbital tersebar di dekatnya.Hati -hati, jasadnya mengandung mecanoid yang bermusuhan.</CrashedPlatformArrivedLetterText>
+
+  <!-- Lava Incidents-->
+  <!-- EN: Lava emergence -->
+  <LetterLabelLavaEmergence>Darurat lava</LetterLabelLavaEmergence>
+  <!-- EN: Lava is emerging from cracks in the ground! It'll continue to pool until it creates a small lake. It will then take several days to cool, after which it can be removed. -->
+  <LetterLavaEmergence>Lava muncul dari retakan di lantai!Ini akan terus menumpuk sampai membuat danau kecil.Maka akan memakan waktu beberapa hari untuk dingin, setelah itu dapat dihapus.</LetterLavaEmergence>
+  <!-- EN: Lava flow -->
+  <LetterLabelLavaFlow>Aliran lava</LetterLabelLavaFlow>
+  <!-- EN: Lava has begun to pour into the region, flooding the low-lying volcanic rock. Keep your colonists out of harm's way! -->
+  <LetterLavaFlow>Lava telah mulai mengalir di wilayah tersebut, membanjiri batuan vulkanik rendah.Jauhkan pemukim Anda dari bahaya!</LetterLavaFlow>
+
+  <!-- Seasonal Flooding -->
+  <!-- EN: Seasonal flooding -->
+  <LetterLabelSeasonalFlooding>Banjir musiman</LetterLabelSeasonalFlooding>
+  <!-- EN: Rainfall upriver is causing the river to swell. The flooding will subside after several days. -->
+  <LetterSeasonalFlooding>Hujan di hulu menyebabkan sungai melebar.Banjir akan berkurang setelah beberapa hari.</LetterSeasonalFlooding>
+  <!-- EN: Low temperatures have begun to freeze the river. Flooding is subsiding. -->
+  <MessageSeasonalFloodingFrozen>Suhu rendah telah mulai membekukan sungai.Banjir berkurang.</MessageSeasonalFloodingFrozen>
+  <!-- EN: Flooding is subsiding. -->
+  <MessageFloodingSubsiding>Banjir berkurang.</MessageFloodingSubsiding>
+
+  <!-- Fishing -->
+  <!-- EN: Rare catch -->
+  <LetterLabelRareCatch>Penangkapan langka</LetterLabelRareCatch>
+  <!-- EN: While fishing, {PAWN_nameDef} made an unusual catch -->
+  <LetterTextRareCatch>Saat memancing, {pawn_namedef} membuat tangkapan yang tidak biasa</LetterTextRareCatch>
+
+  <!-- Pursuing Mechanoids -->
+  <!-- EN: Incoming mechanoids -->
+  <LetterLabelMechanoidThreat>Mecanoids di jalan</LetterLabelMechanoidThreat>
+  <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your gravship, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the pilot console, and selecting launch. -->
+  <LetterTextMechanoidThreat>Proses pemindaian Mecacolmena hampir menentukan lokasi Anda.Saat Anda menemukan gravinave Anda, Anda akan mengirim gaya mecanoid besar untuk berakhir dengan Anda.</LetterTextMechanoidThreat>
+
+  <!-- Mechhive -->
+  <!-- EN: Mechhive signal -->
+  <LetterLabelMechhiveWarning>Sinyal Mecacolmena</LetterLabelMechhiveWarning>
+  <!-- EN: You have detected a massive gravtech energy reading indicating that the mechhive is hidden somewhere in orbit. If you could find it, you could shut it down - or make use of its power.\n\nMechhives are production-and-control platforms that birth mechanoids and coordinate their actions around the planet. They're powered by a persona core.\n\nCollect more gravship technology to track down the mechhive's location. -->
+  <LetterTextMechhiveWarning>Anda telah mendeteksi pembacaan besar -besaran energi gravteteology yang menunjukkan bahwa Mecacolmena disembunyikan di suatu tempat di orbit.Jika Anda bisa menemukannya, Anda dapat menonaktifkan atau menggunakan kekuatannya. Mereka didorong oleh inti seseorang.</LetterTextMechhiveWarning>
+
+  <!-- EN: Cerebrex core -->
+  <OrbitalMechhiveLetterArrived>Nukleus Cerebrox</OrbitalMechhiveLetterArrived>
+  <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
+  <OrbitalMechhiveLetterArrivedText>Di tengah platform orbital ada struktur besar mechanoidoids yang terbuat dari filamen ultrathchnology halus yang mendukung inti AI.Ini adalah inti intelijen dari Mecacolmena yang mengarahkan mecanoids di seluruh planet ini. Struktur \ n \ nla dilindungi oleh penstabil di dekatnya, membuatnya hampir kebal.Temukan dan hancurkan penstabil Cerebrex untuk mengurangi pertahanan inti.</OrbitalMechhiveLetterArrivedText>
+
+  <!-- EN: Mechanoid assault -->
+  <MechhiveRaidLetterLabel>Penyerangan Mecanoid</MechhiveRaidLetterLabel>
+  <!-- EN: The cerebrex core is sending mechanoids to attack you. Get ready! -->
+  <MechhiveRaidLetterText>Nukleus Cerébrex mengirim mekanoid untuk menyerang Anda.Bersiap!</MechhiveRaidLetterText>
+
+  <!-- EN: Defense response -->
+  <MechhiveDefenseResponseLetterLabel>Respons pertahanan</MechhiveDefenseResponseLetterLabel>
+  <!-- EN: The mechanoid hive has summoned mechanoid reinforcements to defend itself. They are arriving by transport pod and will attack immediately! -->
+  <MechhiveDefenseResponseLetterText>Sarang mecanoid telah menyebut bala bantuan mecanoid untuk mempertahankan diri.Mereka tiba di kapsul transportasi dan segera menyerang!</MechhiveDefenseResponseLetterText>
+
+  <!-- EN: Cerebrex core -->
+  <CerebrexCoreLoweredLetterLabel>Inti</CerebrexCoreLoweredLetterLabel>
+  <!-- EN: By destroying the stabilizers, you've lowered the cerebrex core's defenses. Send a colonist to inspect the core. -->
+  <CerebrexCoreLoweredLetterText>Dengan menghancurkan penstabil, Anda telah mengurangi pertahanan inti inti.Kirim pemukim untuk memeriksa nukleus.</CerebrexCoreLoweredLetterText>
+
+  <!-- EN: Mechanoids deactivated -->
+  <CerebrexCoreDestroyedLetterLabel>Mecanoids yang dinonaktifkan</CerebrexCoreDestroyedLetterLabel>
+  <!-- EN: By destroying the cerebrex core, {PAWN_nameDef} has deactivated mechanoids across the planet.\n\nThe mechanoid threat is over. -->
+  <CerebrexCoreDestroyedLetterText>Dengan menghancurkan nukleus cerébrex, {Pawn_namedef} telah menonaktifkan mecanoids di seluruh planet ini. Ancaman \ n \ nla yang seharusnya berakhir.</CerebrexCoreDestroyedLetterText>
+
+  <!-- EN: Cerebrex node -->
+  <CerebrexCoreScavengedLetterLabel>Node Cerébrex</CerebrexCoreScavengedLetterLabel>
+  <!-- EN: The scavenged node from the cerebrex core lies nearby. It responds strongly to the core, clearly still linked to it.\n\nEquip the node to a colonist to make use of it. -->
+  <CerebrexCoreScavengedLetterText>Node yang diekstraksi dari nukleus Cerébrex dekat.Ini sangat merespons nukleus, jelas masih terkait dengannya. \ N \ nequipa node ke pemukim untuk menggunakannya.</CerebrexCoreScavengedLetterText>
+
+  <!-- Caravan entered enemy base -->
+  <!-- EN: Attack begun -->
+  <LetterLabelGravshipEnteredEnemyBase>Awal serangan</LetterLabelGravshipEnteredEnemyBase>
+  <!-- EN: Your gravship has landed at {0} and is ready to begin the attack. -->
+  <LetterGravshipEnteredEnemyBase>Gravinave Anda telah mendarat di {0} dan siap untuk memulai serangan.</LetterGravshipEnteredEnemyBase>
+  
+  <!-- Survey Scanner -->
+  <!-- EN: Surveying scanner -->
+  <LetterLabelSurveyScannerArrived>Pemindai Pengakuan</LetterLabelSurveyScannerArrived>
+  <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
+  <LetterSurveyScannerArrived>Lindungi pemindai sampai Anda selesai mengenali area tersebut.Ini akan mengambil {durasi}.</LetterSurveyScannerArrived>
+  
+  <!-- Psilocaps -->
+  <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginPsilocap>Setelah menelan psilofungos, [Pawn_nameindef] merasa terinspirasi {Pawn_gender?O: A}!</LetterInspirationBeginPsilocap> <!-- text_todo -->
+  <!-- EN: This happened due to ingesting psilocaps. -->
+  <MentalBreakReason_Psilocap>Ini terjadi karena konsumsi Psilofungo.</MentalBreakReason_Psilocap> <!-- text_todo -->
+
+  <!-- EN: Insect lair -->
+  <EnteredMegahiveLabel>Sarang insektoid</EnteredMegahiveLabel>
+  <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->
+  <EnteredMegahiveText>{Pawn_namedef} telah mencapai kedalaman sarang besar insektoid.Udara sarat dengan bau sekretinya.</EnteredMegahiveText>
+  <!-- EN: The gravcore signal is coming from somewhere behind the burrow walls. Attack the burrow walls to explore further. -->
+  <EnteredMegahiveGravcoreExtra>Sinyal gravinucle berasal dari suatu tempat di belakang dinding liang.Serang dinding liang untuk mengeksplorasi lebih teliti.</EnteredMegahiveGravcoreExtra>
+
+</LanguageData>

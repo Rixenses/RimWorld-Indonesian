@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: invoking archotech. -->
+  <ActivateArchonexusCore.reportString>Menerapkan agroteknologi.</ActivateArchonexusCore.reportString>
+  
+  <!-- EN: Blinding TargetA. -->
+  <Blind.reportString>Tiba di scarry.</Blind.reportString>
+  
+  <!-- EN: carrying TargetA to biosculpter pod. -->
+  <CarryToBiosculpterPod.reportString>Membawa ke Targeta ke kapsul bio -sculpture.</CarryToBiosculpterPod.reportString>
+  
+  <!-- EN: delivering TargetA to altar. -->
+  <DeliverToAltar.reportString>membawa target ke altar.</DeliverToAltar.reportString>
+  
+  <!-- EN: dyeing hair -->
+  <DyeHair.reportString>tiñiendo oleh</DyeHair.reportString>
+  
+  <!-- EN: entering biosculpter pod. -->
+  <EnterBiosculpterPod.reportString>Memasuki kapsul bio -culpture.</EnterBiosculpterPod.reportString>
+  
+  <!-- EN: extracting TargetB from TargetA. -->
+  <ExtractRelic.reportString>mengekstraksi target kartu.</ExtractRelic.reportString>
+  
+  <!-- EN: extracting TargetB to inventory. -->
+  <ExtractToInventory.reportString>Mengekstraksi Targeta ke inventaris.</ExtractToInventory.reportString>
+  
+  <!-- EN: getting neural supercharge from TargetA -->
+  <GetNeuralSupercharge.reportString>Mendapatkan kartu supercarga saraf.</GetNeuralSupercharge.reportString>
+  
+  <!-- EN: giving TargetA to TargetB. -->
+  <GiveToPawn.reportString>Menargetkan target.</GiveToPawn.reportString>
+  
+  <!-- EN: inducing TargetA to rebel. -->
+  <InduceSlaveToRebel.reportString>mendorong Targeta untuk memberontak.</InduceSlaveToRebel.reportString>
+  
+  <!-- EN: installing TargetA in TargetB -->
+  <InstallRelic.reportString>Menginstal Kartu pada Target</InstallRelic.reportString>
+  
+  <!-- EN: praying. -->
+  <MeditatePray.reportString>berdoa.</MeditatePray.reportString>
+  
+  <!-- EN: changing style at TargetA. -->
+  <OpenStylingStationDialog.reportString>mengubah gaya pada kartu.</OpenStylingStationDialog.reportString>
+  
+  <!-- EN: recoloring apparel -->
+  <RecolorApparel.reportString>Kumpulkan pakaian.</RecolorApparel.reportString>
+  
+  <!-- EN: Sacrificing TargetA. -->
+  <Sacrifice.reportString>Korban Scarry.</Sacrifice.reportString>
+  
+  <!-- EN: Scarifying TargetA. -->
+  <Scarify.reportString>Kartu Menyusui.</Scarify.reportString>
+  
+  <!-- EN: changing style at TargetA. -->
+  <UseStylingStation.reportString>mengubah gaya pada kartu.</UseStylingStation.reportString>
+  
+  <!-- EN: changing style at TargetA. -->
+  <UseStylingStationAutomatic.reportString>mengubah gaya pada kartu.</UseStylingStationAutomatic.reportString>
+  
+</LanguageData>

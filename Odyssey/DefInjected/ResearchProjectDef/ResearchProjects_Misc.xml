@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced gravtech -->
+  <AdvancedGravtech.label>Gravitecnology canggih</AdvancedGravtech.label>
+  <!-- EN: Build advanced gravship parts. -->
+  <AdvancedGravtech.description>Bangun potongan gravinave canggih.</AdvancedGravtech.description>
+  <!-- EN:
+    <li>Subjek-> Lanjutan Gravtech</li>
+    <li>Subject_story-> Komponen Gravship Lanjutan yang Diteliti</li>
+    <li>Subject_gerund-> Meneliti Jamming Sinyal</li>-><AdvancedGravtech.generalRules.rulesStrings>
+    <li>Subjek-> Gravitecnology Lanjutan</li>
+    <li>Subject_femmas-> Gravitecnology Lanjutan</li>
+    <li>Subjek_def-> dari gravitecnology canggih</li>
+    <li>Subject_def2-> to canggih gravitecnology</li>
+    <li>Subject_story-> diselidiki komponen gravinaves canggih</li>
+    <li>Subject_gerund-> Penelitian Interferensi Sinyal</li>
+  </AdvancedGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: basic gravtech -->
+  <BasicGravtech.label>Gravitecnology Dasar</BasicGravtech.label>
+  <!-- EN: Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map. -->
+  <BasicGravtech.description>Bangun gravinave dan gunakan untuk melakukan perjalanan planet ini.Tanpa jangkar gravitasi, meluncurkan gravinave akan meninggalkan peta Anda saat ini.</BasicGravtech.description>
+  <!-- EN:
+    <li>Subjek-> Gravship</li>
+    <li>Subject_story-> menerbangkan gravship untuk perusahaan pariwisata</li>
+    <li>Subject_gerund-> Membangun Gravships</li>-><BasicGravtech.generalRules.rulesStrings>
+    <li>Subjek-> Gravinave</li>
+    <li>subjek_femmas-> gravinave</li>
+    <li>subjek_def-> de la gravinave</li>
+    <li>subjek_def2-> a la gravinave</li>
+    <li>Subject_story-> Pembayar pajak untuk perusahaan pariwisata terbang</li>
+    <li>Subjek_gerund-> konstruksi gravinave</li>
+  </BasicGravtech.generalRules.rulesStrings>
+  
+  <!-- EN: beam weapons -->
+  <BeamWeapons.label>Senjata ray</BeamWeapons.label>
+  <!-- EN: Construct weapons that use gamma ray beams to burn through armor and ignite targets. -->
+  <BeamWeapons.description>Bangun senjata yang menggunakan sinar gamma untuk melintasi baju besi dan membakar.</BeamWeapons.description>
+  <!-- EN:
+    <li>Subjek-> senjata balok</li>
+    <li>Subject_story-> Made Gamma-Ray Beam Weaponry</li>
+    <li>subjek_gerund-> membuat senjata balok</li>-><BeamWeapons.generalRules.rulesStrings>
+    <li>Subjek-> Ray Weapons</li>
+    <li>Subject_femmas-> Ray Weapons</li>
+    <li>Subject_def-> dari senjata ray</li>
+    <li>Subject_def2-> ke Ray Weapons</li>
+    <li>Subject_story-> dibuat senjata gamma ray</li>
+    <li>Subjek gerund-> pembuatan senjata ray</li>
+  </BeamWeapons.generalRules.rulesStrings>
+  
+  <!-- EN: fishing -->
+  <Fishing.label>penangkapan ikan</Fishing.label>
+  <!-- EN: Place zones where your colonists can go fishing. -->
+  <Fishing.description>Tempatkan area tempat pemukim Anda bisa memancing.</Fishing.description>
+  <!-- EN: Fishing zone -->
+  <Fishing.customUnlockTexts.0>Area penangkapan ikan</Fishing.customUnlockTexts.0>
+  <!-- EN:
+    <li>subjek-> memancing</li>
+    <li>subjek_story-> memancing untuk mencari nafkah</li>
+    <li>subjek_gerund-> memancing</li>-><Fishing.generalRules.rulesStrings>
+    <li>Subjek-> Pesca</li>
+    <li>subjek_feme</li>
+    <li>subjek_def-> memancing</li>
+    <li>subjek_def2-> memancing</li>
+    <li>Subjek_story-> ikan untuk mencari nafkah</li>
+    <li>Subject_gerund-> Pesca</li>
+  </Fishing.generalRules.rulesStrings>
+  
+  <!-- EN: heavy bridges -->
+  <HeavyBridges.label>jembatan yang diperkuat</HeavyBridges.label>
+  <!-- EN: Build heavy bridges that support heavy buildings. You can use this to build whole colonies on the water. -->
+  <HeavyBridges.description>Bangun jembatan yang diperkuat yang mampu mendukung bangunan berat.Anda dapat menggunakan ini untuk membangun seluruh koloni di atas air.</HeavyBridges.description>
+  <!-- EN:
+    <li>Subjek-> Konstruksi</li>
+    <li>Subject_story-> Built Bridges</li>
+    <li>subjek_gerund-> membangun</li>-><HeavyBridges.generalRules.rulesStrings>
+    <li>Subjek-> Konstruksi</li>
+    <li>Subject_femmas-> konstruksi</li>
+    <li>Subject_def-> konstruksi</li>
+    <li>Subjek_def2-> ke konstruksi</li>
+    <li>Subject_story-> Built Bridges</li>
+    <li>Subjek_gerund-> konstruksi jembatan berat</li>
+  </HeavyBridges.generalRules.rulesStrings>
+  
+  <!-- EN: hunter drone -->
+  <HunterDrones.label>Hunter Drone</HunterDrones.label>
+  <!-- EN: Build traps and wearable packs that release hunter drones. These explosive drones pursue hostiles and detonate when within range. -->
+  <HunterDrones.description>Bangun perangkap dan paket portabel yang melepaskan drone pemburu.Drone eksplosif ini menganiaya musuh dan meledak ketika mereka berada dalam jangkauan.</HunterDrones.description>
+  <!-- EN:
+    <li>Subjek-> Drone Hunter</li>
+    <li>Subject_story-> membuat drone self-detonating</li>
+    <li>Subject_gerund-> Membuat drone pemburu</li>-><HunterDrones.generalRules.rulesStrings>
+    <li>Subjek-> Drone Cazetic</li>
+    <li>Subject_femmas-> los drone cazadors</li>
+    <li>Subject_def-> dari Los Drones Cazadors</li>
+    <li>Subject_def2-> Cazador Los Drone</li>
+    <li>Subject_story-> membuat drone yang merusak diri sendiri</li>
+    <li>Subject_gerund-> manufacturing hunter drone</li>
+  </HunterDrones.generalRules.rulesStrings>
+  
+  <!-- EN: orbital tech -->
+  <OrbitalTech.label>Teknologi Orbital</OrbitalTech.label>
+  <!-- EN: Construct buildings and apparel that can protect against the harsh vacuum of space. -->
+  <OrbitalTech.description>Bangun bangunan dan pakaian yang dapat melindungi terhadap ruang kosong yang keras.</OrbitalTech.description>
+  <!-- EN:
+    <li>Subjek-> Pakaian Orbital</li>
+    <li>Subject_story-> Liner yang dirakit untuk Vaksen</li>
+    <li>Subject_story-> Vacsuits yang Diuji</li>
+    <li>Subject_story-> Teknologi rebreather yang dikembangkan</li>
+    <li>Subject_story-> mempelajari efek radiasi ruang pada jaringan manusia</li>
+    <li>Subject_gerund-> Perakitan Kosong</li>
+    <li>Subject_gerund-> Merakit rebreathers</li>
+    <li>Subject_gerund-> pengujian vaksangan</li>-><OrbitalTech.generalRules.rulesStrings>
+    <li>Subjek> orbital atuendos</li>
+    <li>Subject_femmas-> pakaian vakum</li>
+    <li>Subject_def-> dari pakaian vakum</li>
+    <li>Subjek_def2-> untuk setelan vakum</li>
+    <li>Subject_story-> Foros yang dirakit untuk setelan vakum</li>
+    <li>Subject_story-> Tes yang diuji setelan vakum</li>
+    <li>Subject_story-> Teknologi resiratif yang dikembangkan</li>
+    <li>Subject_story-> mempelajari efek radiasi spasial pada jaringan manusia</li>
+    <li>Subject_gerund-> kostum kosong</li>
+    <li>Subjek gerund-> resirsator extemblade</li>
+    <li>Subjek gerund-> tes kostum vakum</li>
+  </OrbitalTech.generalRules.rulesStrings>
+  
+  <!-- EN: shuttle -->
+  <Shuttles.label>feri</Shuttles.label>
+  <!-- EN: Build a shuttle which can be used for long distance travel or to reach orbit. This requires a shuttle engine which can be bought from orbital traders, salvaged from other shuttles, or obtained through quests. -->
+  <Shuttles.description>Bangun feri yang dapat digunakan untuk perjalanan jarak jauh atau untuk mencapai orbit.Ini membutuhkan mesin transforder, yang dapat diperoleh dari pedagang orbital, feri lain atau misi menyelesaikan.</Shuttles.description>
+  <!-- EN:
+    <li>Subjek-> SUMIT</li>
+    <li>subjek_story-> terbang di pesawat ulang-alik</li>
+    <li>Subject_story-> merancang pesawat ulang-alik</li>
+    <li>Subject_gerund-> Shuttles Rekayasa</li>
+    <li>Subject_gerund-> Piloting Shuttles</li>-><Shuttles.generalRules.rulesStrings>
+    <li>Subjek-> meluap</li>
+    <li>Subject_femmas-> Transforder</li>
+    <li>Subjek_def-> dari feri</li>
+    <li>Subjek_def2-> ke feri</li>
+    <li>Subjek_story-> terbang di feri</li>
+    <li>Subjek_story-> merancang feri</li>
+    <li>Subject_gerund-> dirancang dari feri</li>
+    <li>Pilot Subject_gerund-> Transforders</li>
+  </Shuttles.generalRules.rulesStrings>
+  
+  <!-- EN: standard gravtech -->
+  <StandardGravtech.label>Gravitecnology standar</StandardGravtech.label>
+  <!-- EN: Build complex gravship parts. -->
+  <StandardGravtech.description>Bangun potongan gravinave yang kompleks.</StandardGravtech.description>
+  <!-- EN: You now have the technology to build large thrusters. These require vacstone blocks which can be obtained from orbital asteroids.\n\nYou can travel to orbital locations using transport pods, shuttles, or a gravship. Make sure to equip your colonists with vacsuits or other advanced armors to survive in space. -->
+  <StandardGravtech.discoveredLetterText>Sekarang Anda memiliki teknologi untuk membangun propelan besar.Ini membutuhkan blok vacante yang dapat diperoleh dari asteroid orbital.Pastikan untuk melengkapi pemukim Anda dengan pakaian vakum atau baju besi canggih lainnya untuk bertahan hidup di luar angkasa.</StandardGravtech.discoveredLetterText>
+  <!-- EN: About: Getting vacstone -->
+  <StandardGravtech.discoveredLetterTitle>Tentang: Dapatkan lowongan</StandardGravtech.discoveredLetterTitle>
+  <!-- EN:
+    <li>Subjek-> GravTech</li>
+    <li>Subject_story-> Meneliti Komponen Gravship yang Kompleks</li>
+    <li>Subject_gerund-> Meneliti Gravships</li>-><StandardGravtech.generalRules.rulesStrings>
+    <li>Subjek-> Gravitecnología</li>
+    <li>Subjek_femmas-> gravitecnology</li>
+    <li>Subjek_def-> dari gravitecnology</li>
+    <li>Subjek_def2-> ke gravitecnology</li>
+    <li>Subject_story-> Komponen kompleks yang diselidiki untuk Taxins</li>
+    <li>Subject_gerund-> Gravinaves Research</li>
+  </StandardGravtech.generalRules.rulesStrings>
+  
+</LanguageData>

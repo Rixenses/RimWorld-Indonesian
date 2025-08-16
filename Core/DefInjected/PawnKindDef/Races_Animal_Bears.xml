@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>Oso Grizzly</Bear_Grizzly.label>
+  <Bear_Grizzly.labelFemale>Osa Grizzly</Bear_Grizzly.labelFemale>
+  <Bear_Grizzly.labelFemalePlural>Osas Grizzly</Bear_Grizzly.labelFemalePlural>
+  <Bear_Grizzly.labelMale>Oso Grizzly</Bear_Grizzly.labelMale>
+  <Bear_Grizzly.labelMalePlural>Osos Grizzly</Bear_Grizzly.labelMalePlural>
+  <Bear_Grizzly.labelPlural>Osos Grizzly</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>Beruang Grizzly Breeding</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelFemale>Beruang Grizzly Breeding</Bear_Grizzly.lifeStages.0.labelFemale>
+  <Bear_Grizzly.lifeStages.0.labelFemalePlural>Osa grizzly piring</Bear_Grizzly.lifeStages.0.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.0.labelPlural>Grizzly Bear Young</Bear_Grizzly.lifeStages.0.labelPlural>
+  <Bear_Grizzly.lifeStages.1.label>Grizzly yang tepat</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.1.labelFemale>peran grizzly busuk</Bear_Grizzly.lifeStages.1.labelFemale>
+  <Bear_Grizzly.lifeStages.1.labelFemalePlural>Rose Grizzly</Bear_Grizzly.lifeStages.1.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.1.labelMale>Grizzly yang tepat</Bear_Grizzly.lifeStages.1.labelMale>
+  <Bear_Grizzly.lifeStages.1.labelMalePlural>Oseznos Grizzly</Bear_Grizzly.lifeStages.1.labelMalePlural>
+  <Bear_Grizzly.lifeStages.1.labelPlural>Oseznos Grizzly</Bear_Grizzly.lifeStages.1.labelPlural>
+  <Bear_Grizzly.lifeStages.2.label>Oso Grizzly</Bear_Grizzly.lifeStages.2.label>
+  <Bear_Grizzly.lifeStages.2.labelFemale>Osa Grizzly</Bear_Grizzly.lifeStages.2.labelFemale>
+  <Bear_Grizzly.lifeStages.2.labelFemalePlural>Osas Grizzly</Bear_Grizzly.lifeStages.2.labelFemalePlural>
+  <Bear_Grizzly.lifeStages.2.labelMale>Oso Grizzly</Bear_Grizzly.lifeStages.2.labelMale>
+  <Bear_Grizzly.lifeStages.2.labelMalePlural>Osos Grizzly</Bear_Grizzly.lifeStages.2.labelMalePlural>
+  <Bear_Grizzly.lifeStages.2.labelPlural>Osos Grizzly</Bear_Grizzly.lifeStages.2.labelPlural>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>Oso polar</Bear_Polar.label>
+  <Bear_Polar.labelFemale>Osa Polar</Bear_Polar.labelFemale>
+  <Bear_Polar.labelFemalePlural>Osas Polar</Bear_Polar.labelFemalePlural>
+  <Bear_Polar.labelMale>Oso polar</Bear_Polar.labelMale>
+  <Bear_Polar.labelMalePlural>Beruang kutub</Bear_Polar.labelMalePlural>
+  <Bear_Polar.labelPlural>Beruang kutub</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>kutub</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelFemale>Breed OSA Polar</Bear_Polar.lifeStages.0.labelFemale>
+  <Bear_Polar.lifeStages.0.labelFemalePlural>POLAR OSA PLIES</Bear_Polar.lifeStages.0.labelFemalePlural>
+  <Bear_Polar.lifeStages.0.labelPlural>Beruang kutub muda</Bear_Polar.lifeStages.0.labelPlural>
+  <Bear_Polar.lifeStages.1.label>Osezno Polar</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.1.labelFemale>The Lawn Polar</Bear_Polar.lifeStages.1.labelFemale>
+  <Bear_Polar.lifeStages.1.labelFemalePlural>Polarser</Bear_Polar.lifeStages.1.labelFemalePlural>
+  <Bear_Polar.lifeStages.1.labelMale>Osezno Polar</Bear_Polar.lifeStages.1.labelMale>
+  <Bear_Polar.lifeStages.1.labelMalePlural>Polarser</Bear_Polar.lifeStages.1.labelMalePlural>
+  <Bear_Polar.lifeStages.1.labelPlural>Polarser</Bear_Polar.lifeStages.1.labelPlural>
+  <Bear_Polar.lifeStages.2.label>Oso polar</Bear_Polar.lifeStages.2.label>
+  <Bear_Polar.lifeStages.2.labelFemale>Osa Polar</Bear_Polar.lifeStages.2.labelFemale>
+  <Bear_Polar.lifeStages.2.labelFemalePlural>Osas Polar</Bear_Polar.lifeStages.2.labelFemalePlural>
+  <Bear_Polar.lifeStages.2.labelMale>Oso polar</Bear_Polar.lifeStages.2.labelMale>
+  <Bear_Polar.lifeStages.2.labelMalePlural>Beruang kutub</Bear_Polar.lifeStages.2.labelMalePlural>
+  <Bear_Polar.lifeStages.2.labelPlural>Beruang kutub</Bear_Polar.lifeStages.2.labelPlural>
+  
+</LanguageData>

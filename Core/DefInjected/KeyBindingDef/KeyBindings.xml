@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accept -->
+  <Accept.label>menerima</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>membatalkan</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>merekrut / lisensi</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>melarang / mengizinkan</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>Nyalakan / Mati</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>membatalkan</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>dekonstruksi</Designator_Deconstruct.label>
+  
+  <!-- EN: next draw style -->
+  <Designator_NextDrawStyle.label>Gaya menggambar berikutnya</Designator_NextDrawStyle.label>
+  
+  <!-- EN: previous draw style -->
+  <Designator_PreviousDrawStyle.label>Gaya menggambar sebelumnya</Designator_PreviousDrawStyle.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>belok kiri</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>Kanan</Designator_RotateRight.label>
+  
+  <!-- EN: force square dimensions -->
+  <Designator_ShapeSnap.label>Memaksa dimensi persegi</Designator_ShapeSnap.label>
+  
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>Ubah tindakan pemurnian yang dipilih</Dev_ChangeSelectedDebugAction.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>Memajukan kutu</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>Menu Tindakan Kesalahan Alternatif</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>Alternar Inspektur Debug</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>mengalihkan</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>Rekor Buka/Tutup Debug</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>Opsi Buka/Tutup Debug</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle dev palette -->
+  <Dev_ToggleDevPalette.label>Palet pengembang terbuka/tutup</Dev_ToggleDevPalette.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>Mode Tuhan Alternatif</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>Di bawah</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>Kiri</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>Kanan</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>Atas</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>mendekati pandangan</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>menoleh</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
+  <Misc1.label>MISC 1</Misc1.label>
+  
+  <!-- EN: Misc 10 -->
+  <Misc10.label>MISC 10</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
+  <Misc11.label>MISC 11</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
+  <Misc12.label>MISC 12</Misc12.label>
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>MISC 2</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>MISC 3</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>MISC 4</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>MISC 5</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>MISC 6</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>MISC 7</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>MISC 8</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>MISC 9</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>incrementar 100x</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>Tingkatkan 10x</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>Colon berikutnya</NextColonist.label>
+  
+  <!-- EN: open search window -->
+  <OpenMapSearch.label>Cari Jendela Pencarian</OpenMapSearch.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>Pemukim sebelumnya</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>pesanan di ekor</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>Pilih objek berikutnya di dalam kotak</SelectNextInCell.label>
+  
+  <!-- EN: show cell inspector -->
+  <ShowCellInspector.label>Tunjukkan Inspektur Sel</ShowCellInspector.label>
+  
+  <!-- EN: show eyedropper -->
+  <ShowEyedropper.label>Tunjukkan tetesan</ShowEyedropper.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>Ambil tangkapan layar</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>Kecepatan Game: Cepat</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Faster -->
+  <TimeSpeed_Faster.label>Kecepatan Game: Lebih cepat</TimeSpeed_Faster.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>Kecepatan Game: Normal</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Slower -->
+  <TimeSpeed_Slower.label>Kecepatan Game: Lebih lambat</TimeSpeed_Slower.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>Game Speed: Super Fast</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>Game Speed: Ultra Fast (Debug)</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>Jendela bidik kecantikan alternatif</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>Pausar/Resume</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>Bergantian penampil statistik kamar</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>Mode foto alternatif</ToggleScreenshotMode.label>
+  
+</LanguageData>

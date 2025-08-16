@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood rain -->
+  <BloodRain.label>hujan darah</BloodRain.label>
+  <!-- EN: A turgid blood-like psychofluid that falls from the sky. Anyone exposed to it feels a growing anger that eventually becomes a berserk rage. -->
+  <BloodRain.description>Cairan psikis kental menyerupai darah yang turun dari langit. Siapa pun yang terpapar akan merasakan amarah yang semakin memuncak hingga berubah menjadi kegilaan mengamuk.</BloodRain.description>
+  
+  <!-- EN: chimera -->
+  <Chimera.label>Itu berkembang</Chimera.label>
+  
+  <!-- EN: corrupted obelisk -->
+  <CorruptedObelisk.label>obelisk terkorupsi</CorruptedObelisk.label>
+  
+  <!-- EN: deathpall -->
+  <Deathpall.label>selubung kematian</Deathpall.label>
+  <!-- EN: A corpse-gray cloud composed of microscopic self-powered archites created by some unknown superintelligence. When they land on dead flesh, they enter the body and reanimate it to create a shambling imitation of life. -->
+  <Deathpall.description>Sebuah awan abu-abu mayat yang terdiri dari arkite mikroskopis bertenaga mandiri, diciptakan oleh kecerdasan super yang tidak dikenal. Saat hinggap di daging mati, mereka memasuki tubuh dan menghidupkannya kembali menjadi tiruan kehidupan yang berjalan terhuyung-huyung.</Deathpall.description>
+  
+  <!-- EN: devourer -->
+  <Devourer.label>mengajar</Devourer.label>
+  
+  <!-- EN: dreadmeld -->
+  <Dreadmeld.label>fusi ngeri</Dreadmeld.label>
+  
+  <!-- EN: fleshbeast -->
+  <Fleshbeasts.label>Warnibious</Fleshbeasts.label>
+  <!-- EN: Hideous creatures composed of masses of cancerous flesh. Some contain multiple nervous systems, allowing them to split into smaller fleshbeasts. -->
+  <Fleshbeasts.description>Makhluk-makhluk mengerikan yang terdiri dari gumpalan daging kanker. Beberapa memiliki banyak sistem saraf, memungkinkannya terpecah menjadi carnibestia yang lebih kecil.</Fleshbeasts.description>
+  
+  <!-- EN: fleshmass heart -->
+  <FleshmassHeart.label>jantung carnimasa</FleshmassHeart.label>
+  
+  <!-- EN: fleshmass nucleus -->
+  <FleshmassNucleus.label>Inti carnimasa</FleshmassNucleus.label>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>setan kubur</Ghoul.label>
+  <!-- EN: A person implanted with an archotech shard and twisted by dark psychic influences into a jittering murder machine. -->
+  <Ghoul.description>Seseorang yang ditanamkan pecahan arkeotek dan dipelintir oleh pengaruh psikis gelap menjadi mesin pembunuh yang gemetaran.</Ghoul.description>
+  
+  <!-- EN: golden cube -->
+  <GoldenCube.label>kubus emas</GoldenCube.label>
+  
+  <!-- EN: gorehulk -->
+  <Gorehulk.label>raksasa jagal</Gorehulk.label>
+  
+  <!-- EN: harbinger tree -->
+  <HarbingerTree.label>pohon pembawa pertanda</HarbingerTree.label>
+  
+  <!-- EN: metalhorror -->
+  <Metalhorror.label>teror baja</Metalhorror.label>
+  
+  <!-- EN: nociosphere -->
+  <Nociosphere.label>Nokiosfer</Nociosphere.label>
+  
+  <!-- EN: noctol -->
+  <Noctol.label>Noctol</Noctol.label>
+  
+  <!-- EN: noctolith -->
+  <Noctolith.label>Noktol</Noctolith.label>
+  
+  <!-- EN: pit gate -->
+  <PitGate.label>kesenjangan celah</PitGate.label>
+  
+  <!-- EN: revenant -->
+  <Revenant.label>kembali</Revenant.label>
+  
+  <!-- EN: shambler -->
+  <Shambler.label>dorongan</Shambler.label>
+  <!-- EN: Corpses reanimated by microscopic archites. Shamblers are slow, mindless, and will attack relentlessly. Unless captured, shamblers die from metabolic exhaustion after several days. -->
+  <Shambler.description>Mayat-mayat yang dihidupkan kembali oleh arkite mikroskopis. Penghuyung bergerak lambat, tanpa pikiran, dan akan menyerang tanpa henti. Jika tidak ditangkap, mereka akan mati karena kelelahan metabolik setelah beberapa hari.</Shambler.description>
+  
+  <!-- EN: sightstealer -->
+  <Sightstealer.label>Maling</Sightstealer.label>
+  
+  <!-- EN: twisted obelisk -->
+  <TwistedObelisk.label>obelisk terpelintir</TwistedObelisk.label>
+  
+  <!-- EN: unnatural corpse -->
+  <UnnaturalCorpse.label>Mayatnya tidak adil</UnnaturalCorpse.label>
+  <!-- EN: An odd corpse that feels waxy and warm to the touch. Something is deeply unsettling about it. -->
+  <UnnaturalCorpse.description>Sebuah mayat aneh yang terasa seperti lilin dan hangat saat disentuh. Ada sesuatu yang sangat mengusik tentangnya.</UnnaturalCorpse.description>
+  
+  <!-- EN: void monolith -->
+  <VoidMonolith.label>Monols ke tubuh</VoidMonolith.label>
+  
+  <!-- EN: void node -->
+  <VoidNode.label>node frustrasi</VoidNode.label>
+  
+  <!-- EN: void structure -->
+  <VoidStructure.label>struktur kehampaan</VoidStructure.label>
+  
+  <!-- EN: warped obelisk -->
+  <WarpedObelisk.label>obelisk terdistorsi</WarpedObelisk.label>
+  
+</LanguageData>

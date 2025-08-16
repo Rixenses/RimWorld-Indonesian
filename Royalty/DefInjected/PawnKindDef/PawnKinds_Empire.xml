@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: imperial laborer -->
+  <Empire_Common_Laborer.label>Pekerja Kekaisaran</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelFemale>Pekerja Kekaisaran</Empire_Common_Laborer.labelFemale>
+  <Empire_Common_Laborer.labelPlural>Pekerja kekaisaran</Empire_Common_Laborer.labelPlural>
+  
+  <!-- EN: imperial citizen -->
+  <Empire_Common_Lodger.label>Warga negara kekaisaran</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelFemale>Warga negara kekaisaran</Empire_Common_Lodger.labelFemale>
+  <Empire_Common_Lodger.labelPlural>Warga Kekaisaran</Empire_Common_Lodger.labelPlural>
+  
+  <!-- EN: imperial trader -->
+  <Empire_Common_Trader.label>Pedagang kekaisaran</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelFemale>Pedagang kekaisaran</Empire_Common_Trader.labelFemale>
+  <Empire_Common_Trader.labelPlural>Pedagang kekaisaran</Empire_Common_Trader.labelPlural>
+  
+  <!-- EN: cataphract -->
+  <Empire_Fighter_Cataphract.label>CataFract</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelFemale>Catafracta</Empire_Fighter_Cataphract.labelFemale>
+  <Empire_Fighter_Cataphract.labelPlural>Catafractos</Empire_Fighter_Cataphract.labelPlural>
+  
+  <!-- EN: champion -->
+  <Empire_Fighter_Champion.label>juara</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelFemale>Juara</Empire_Fighter_Champion.labelFemale>
+  <Empire_Fighter_Champion.labelPlural>Juara</Empire_Fighter_Champion.labelPlural>
+  
+  <!-- EN: imperial grenadier -->
+  <Empire_Fighter_Grenadier.label>Grenadier Kekaisaran</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Grenadier.labelFemale>Granadera Imperial</Empire_Fighter_Grenadier.labelFemale>
+  <Empire_Fighter_Grenadier.labelPlural>Grenadier kekaisaran</Empire_Fighter_Grenadier.labelPlural>
+  
+  <!-- EN: janissary -->
+  <Empire_Fighter_Janissary.label>Jenzaro</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelFemale>Jenzar</Empire_Fighter_Janissary.labelFemale>
+  <Empire_Fighter_Janissary.labelPlural>Jenzaros</Empire_Fighter_Janissary.labelPlural>
+  
+  <!-- EN: stellic warden -->
+  <Empire_Fighter_StellicGuardMelee.label>Penjaga Bintang</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelFemale>Penjaga Bintang</Empire_Fighter_StellicGuardMelee.labelFemale>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>penjaga bintang</Empire_Fighter_StellicGuardMelee.labelPlural>
+  
+  <!-- EN: stellic defender -->
+  <Empire_Fighter_StellicGuardRanged.label>bek bintang</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelFemale>bek bintang</Empire_Fighter_StellicGuardRanged.labelFemale>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>Pembela bintang</Empire_Fighter_StellicGuardRanged.labelPlural>
+  
+  <!-- EN: trooper -->
+  <Empire_Fighter_Trooper.label>tentara</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelFemale>tentara</Empire_Fighter_Trooper.labelFemale>
+  <Empire_Fighter_Trooper.labelPlural>tentara</Empire_Fighter_Trooper.labelPlural>
+  
+  <!-- EN: acolyte -->
+  <Empire_Royal_Acolyte.label>Hidalgo</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Acolyte.labelFemale>Hidalga</Empire_Royal_Acolyte.labelFemale>
+  
+  <!-- EN: baron -->
+  <Empire_Royal_Baron.label>baron</Empire_Royal_Baron.label>
+  <!-- EN: baroness -->
+  <Empire_Royal_Baron.labelFemale>istri baron</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.labelPlural>istri baron</Empire_Royal_Baron.labelPlural>
+  
+  <!-- EN: bestower -->
+  <Empire_Royal_Bestower.label>Pemberian</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.labelPlural>Pemberi hibah</Empire_Royal_Bestower.labelPlural>
+  
+  <!-- EN: consul -->
+  <Empire_Royal_Consul.label>konsul</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.labelFemale>konsul</Empire_Royal_Consul.labelFemale>
+  
+  <!-- EN: archon -->
+  <Empire_Royal_Count.label>conde</Empire_Royal_Count.label>
+  <Empire_Royal_Count.labelFemale>Countess</Empire_Royal_Count.labelFemale>
+  
+  <!-- EN: dominus -->
+  <Empire_Royal_Duke.label>duque</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.labelFemale>wanita bangsawan</Empire_Royal_Duke.labelFemale>
+  
+  <!-- EN: knight -->
+  <Empire_Royal_Knight.label>Caballero</Empire_Royal_Knight.label>
+  <!-- EN: dame -->
+  <Empire_Royal_Knight.labelFemale>mengganggu</Empire_Royal_Knight.labelFemale>
+  
+  <!-- EN: noble -->
+  <Empire_Royal_NobleWimp.label>bangsawan</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.labelFemale>bangsawan</Empire_Royal_NobleWimp.labelFemale>
+  
+  <!-- EN: praetor -->
+  <Empire_Royal_Praetor.label>Praetor</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.labelFemale>Praetor</Empire_Royal_Praetor.labelFemale>
+  
+  <!-- EN: stellarch -->
+  <Empire_Royal_Stellarch.label>Stelarca</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.labelFemale>Stelarca</Empire_Royal_Stellarch.labelFemale>
+  <Empire_Royal_Stellarch.labelPlural>Stellarcs</Empire_Royal_Stellarch.labelPlural>
+  
+  <!-- EN: novice -->
+  <Empire_Royal_Yeoman.label>pengikut</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.labelFemale>Vasa</Empire_Royal_Yeoman.labelFemale>
+  <Empire_Royal_Yeoman.labelPlural>Vassals</Empire_Royal_Yeoman.labelPlural>
+  
+  <!-- EN: slave -->
+  <Slave_Empire.label>budak</Slave_Empire.label>
+  
+</LanguageData>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: failed conversion -->
+  <Convert_Failure.label>Konversi yang gagal</Convert_Failure.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mencoba mengonversi [penerima_namedef], tetapi gagal.</li>-><Convert_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] mencoba mengonversi [penerima_namedef], tetapi gagal.</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: successful conversion -->
+  <Convert_Success.label>Konversi yang berhasil</Convert_Success.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mencoba mengonversi [penerima_namedef] dan berhasil.</li>-><Convert_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] berhasil mengonversi [penerima_namedef].</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: convert ideoligion attempt -->
+  <ConvertIdeoAttempt.label>Upaya konversi ideologis</ConvertIdeoAttempt.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mencoba mengonversi [penerima_namedef] menjadi [initiator_possessive] sendiri ideoligion sendiri.</li>-><ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] mencoba mengonversi [penerima_namedef] menjadi ideolithion mereka.</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: failed counsel -->
+  <Counsel_Failure.label>Nasihat Gagal</Counsel_Failure.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mencoba menasihati [penerima_namedef], tetapi merusak upaya dan memperburuk keadaan.</li>-><Counsel_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] mencoba menghibur [penerima_namedef], tetapi hanya hal-hal yang memburuk.</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: successful counsel -->
+  <Counsel_Success.label>Saran yang berhasil</Counsel_Success.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] disarankan [receiver_namedef] di [masalah].</li>
+    <li>r_logentry-> [initiator_namedef] membantu [penerima_namedef] memikirkan [masalah].</li>
+    <li>r_logentry-> [initiator_namedef] memberikan saran [penerima_namedef] untuk mengatasi negativitas.</li>
+    <li>Masalah-> [penerima posesif] Masalah</li>
+    <li>Masalah-> [penerima_possesif] masalah</li>
+    <li>Masalah-> [penerima posesive] merasa menyakitkan</li>
+    <li>Masalah-> Kesulitan terbaru</li>-><Counsel_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] menyarankan [penerima_namedef] tentang [masalah].</li>
+    <li>r_logentry-> [inisiator nama def] membantu [penerima_namedef] Pikirkan tentang [masalah]</li>
+    <li>r_logentry-> [initiator_namedef] memberikan tips [penerima_namedef] untuk mengatasi negativitas.</li>
+    <li>Masalah-> Masalah Anda</li>
+    <li>Masalah-> Gangguan Anda</li>
+    <li>Masalah-> Pikiran Anda yang menyakitkan</li>
+    <li>Masalah-> Kesulitan Terkini Anda</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: preached health -->
+  <PreachHealth.label>Proklamasi Kesehatan</PreachHealth.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] memperkuat kesehatan [penerima_namedef] dengan berkhotbah tentang [khotbah_topic].</li>
+    <li>Preaching_topic-> Alasan untuk hidup</li>
+    <li>Preaching_topic-> Tujuan Ideoligi yang Lebih Tinggi</li>
+    <li>Preaching_topic-> [penerima_possessive] Tujuan keberadaan</li>-><PreachHealth.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] memperkuat kesehatan [penerima_namedef] berkhotbah tentang [khotbah_topic].</li>
+    <li>khotbah_topic-> alasan untuk hidup</li>
+    <li>Preaching_topic-> Tujuan Ideologis Terbesar</li>
+    <li>khotbah_topic-> tujuan keberadaannya</li>
+  </PreachHealth.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: reassurance -->
+  <Reassure.label>meyakinkan</Reassure.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] diperkuat keyakinan [penerima_namedef].</li>-><Reassure.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] memperkuat keyakinan [penerima_namedef].</li>
+  </Reassure.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: accuse -->
+  <Trial_Accuse.label>mengenakan biaya</Trial_Accuse.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] menyajikan beberapa bukti.</li>
+    <li>r_logentry-> [initiator_namedef] memohon emosi para penonton.</li>
+    <li>r_logentry-> [initiator_namedef] menuduh [penerima_namedef] dari [kesalahan].</li>
+    <li>kesalahan-> menyabot koloni</li>
+    <li>kesalahan-> menjadi malas</li>
+    <li>kesalahan-> makan terlalu banyak</li>
+    <li>kesalahan-> mencuri</li>
+    <li>kesalahan-> Menjadi orang yang mengerikan</li>
+    <li>kesalahan-> ide-ide suci yang tidak menghormati</li>
+    <li>kesalahan-> tidak sopan dari angka yang dihormati</li>
+    <li>kesalahan-> bid'ah</li>
+    <li>kesalahan-> pembunuhan</li>
+    <li>kesalahan-> blasphemy</li>
+    <li>kesalahan-> pengkhianatan</li>
+    <li>melakukan kesalahan-> Pikiran tentang kebencian</li>
+    <li>Er-> ketidakcocokan</li>-><Trial_Accuse.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] menyajikan beberapa tes.</li>
+    <li>r_logentry-> [initiator_namedef] memohon emosi para penonton.</li>
+    <li>r_logentry -> [jinatory_amed] acuusón_.namecedf].</li>
+    <li>Kesalahan-> menyabot koloni</li>
+    <li>WALAHAN-> Ser Perezos [penerima_o_a]</li>
+    <li>Kesalahan-> makan banyak</li>
+    <li>kesalahan-> robar</li>
+    <li>Kesalahan-> menjadi orang yang mengerikan</li>
+    <li>Kesalahan-> tidak menghormati ide-ide suci</li>
+    <li>Kesalahan-> tidak menghormati tokoh-tokoh suci</li>
+    <li>Kesalahan-> Heresy</li>
+    <li>kesalahan-> asesinato</li>
+    <li>kesalahan-> blasfemia</li>
+    <li>Kesalahan-> pengkhianatan</li>
+    <li>Kesalahan-> pikiran benci</li>
+    <li>Kesalahan-> tidak adil</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: defend -->
+  <Trial_Defend.label>mengusir</Trial_Defend.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] menangkis tuduhan.</li>
+    <li>r_logentry-> [initiator_namedef] menyajikan interpretasi lain.</li>
+    <li>r_logentry-> [initiator_namedef] memohon juri.</li>
+    <li>r_logentry-> [initiator_namedef] Memanggil Mercy.</li>
+    <li>r_logentry-> [initiator_namedef] menghentikan persidangan.</li>
+    <li>r_logentry-> [initiator_namedef] menolak tuduhan tersebut.</li>
+    <li>r_logentry-> [initiator_namedef] menyebut persidangan itu palsu.</li>-><Trial_Defend.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] menolak tuduhan tersebut.</li>
+    <li>r_logentry-> [initiator_namedef] menyajikan tes lain.</li>
+    <li>r_logentry-> [initiator_namedef] menyatakan juri.</li>
+    <li>r_logentry-> [initiator_namedef] meminta belas kasihan.</li>
+    <li>r_logentry-> [initiator_namedef] melumpuhkan prosedur.</li>
+    <li>r_logentry-> [initiator_namedef] menolak tuduhan tersebut.</li>
+    <li>r_logentry-> [initiator_namedef] menggambarkan uji coba FARSA.</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>Impuls kerja</WorkDrive.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] memanggil [penerima_namedef] untuk bekerja ekstra keras untuk kebaikan koloni.</li>-><WorkDrive.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] meminta [penerima_namedef] untuk berjuang lebih banyak demi kebaikan koloni.</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

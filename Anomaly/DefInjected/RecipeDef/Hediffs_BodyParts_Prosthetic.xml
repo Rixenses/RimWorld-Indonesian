@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install adrenal heart -->
+  <InstallAdrenalHeart.label>Implan hati adrenal</InstallAdrenalHeart.label>
+  <!-- EN: Install adrenal heart. -->
+  <InstallAdrenalHeart.description>Implan hati adrenal.</InstallAdrenalHeart.description>
+  <!-- EN: Installing adrenal heart. -->
+  <InstallAdrenalHeart.jobString>Menerapkan hati adrenal.</InstallAdrenalHeart.jobString>
+  
+  <!-- EN: install corrosive heart -->
+  <InstallCorrosiveHeart.label>Implan hati korosif</InstallCorrosiveHeart.label>
+  <!-- EN: Install corrosive heart. -->
+  <InstallCorrosiveHeart.description>Implan jantung korosif.</InstallCorrosiveHeart.description>
+  <!-- EN: Installing corrosive heart. -->
+  <InstallCorrosiveHeart.jobString>Menerapkan hati korosif.</InstallCorrosiveHeart.jobString>
+  
+  <!-- EN: install ghoul barbs -->
+  <InstallGhoulBarbs.label>Menerapkan paku necrophagous</InstallGhoulBarbs.label>
+  <!-- EN: Install ghoul barbs. -->
+  <InstallGhoulBarbs.description>Implan Necrophagous Spikes.</InstallGhoulBarbs.description>
+  <!-- EN: Installing ghoul barbs. -->
+  <InstallGhoulBarbs.jobString>Menerapkan paku necrophagous.</InstallGhoulBarbs.jobString>
+  
+  <!-- EN: install ghoul plating -->
+  <InstallGhoulPlating.label>Menerapkan pelat necropophag</InstallGhoulPlating.label>
+  <!-- EN: Install ghoul plating. -->
+  <InstallGhoulPlating.description>Implan pelat necrophagous.</InstallGhoulPlating.description>
+  <!-- EN: Installing ghoul plating. -->
+  <InstallGhoulPlating.jobString>Menerapkan pelat necropophag.</InstallGhoulPlating.jobString>
+  
+  <!-- EN: install metalblood heart -->
+  <InstallMetalbloodHeart.label>Menerapkan hati berdarah</InstallMetalbloodHeart.label>
+  <!-- EN: Install metalblood heart. -->
+  <InstallMetalbloodHeart.description>Implan hati sangrimetal.</InstallMetalbloodHeart.description>
+  <!-- EN: Installing metalblood heart. -->
+  <InstallMetalbloodHeart.jobString>Menerapkan hati berdarah.</InstallMetalbloodHeart.jobString>
+  
+  <!-- EN: install revenant vertebrae -->
+  <InstallRevenantVertebrae.label>Implan Redivive Spine</InstallRevenantVertebrae.label>
+  <!-- EN: Install revenant vertebrae. -->
+  <InstallRevenantVertebrae.description>Implan tulang belakang redivistik.</InstallRevenantVertebrae.description>
+  <!-- EN: Installing revenant vertebrae. -->
+  <InstallRevenantVertebrae.jobString>Menerapkan tulang belakang redivistik.</InstallRevenantVertebrae.jobString>
+  
+</LanguageData>

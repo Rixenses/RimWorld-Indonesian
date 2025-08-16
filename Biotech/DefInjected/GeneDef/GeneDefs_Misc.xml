@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: indoor dweller -->
+  <CaveDweller.label>Penghuni interior</CaveDweller.label>
+  <!-- EN: Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside. -->
+  <CaveDweller.description>Pembawa gen ini tidak perlu berada di luar ruangan dan tidak akan pernah merasa terkunci untuk waktu yang lama yang melewati di dalam ruangan.</CaveDweller.description>
+  
+  <!-- EN: dark vision -->
+  <DarkVision.label>Visi Gelap</DarkVision.label>
+  <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
+  <DarkVision.description>Pembawa gen ini melihat dengan baik dengan sedikit cahaya dan tidak terpengaruh oleh hukuman humor yang terkait dengan kegelapan.Mereka memiliki lapisan reflektif di belakang retina yang memperluas kemampuan mereka untuk melihat dalam kegelapan.</DarkVision.description>
+  <!-- EN: dark -->
+  <DarkVision.symbolPack.prefixSymbols.0.symbol>gelap</DarkVision.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: night -->
+  <DarkVision.symbolPack.prefixSymbols.1.symbol>malam</DarkVision.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: dim -->
+  <DarkVision.symbolPack.prefixSymbols.2.symbol>pakaian</DarkVision.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: gloom -->
+  <DarkVision.symbolPack.prefixSymbols.3.symbol>Penumbra</DarkVision.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: murk -->
+  <DarkVision.symbolPack.prefixSymbols.4.symbol>kegelapan</DarkVision.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: deep -->
+  <DarkVision.symbolPack.prefixSymbols.5.symbol>dalam</DarkVision.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: umbra -->
+  <DarkVision.symbolPack.prefixSymbols.6.symbol>Umbria</DarkVision.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: shadow -->
+  <DarkVision.symbolPack.suffixSymbols.0.symbol>Sombra</DarkVision.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: fire resistant -->
+  <FireResistant.label>Tahan api</FireResistant.label>
+  <!-- EN: Carriers of this gene have special fast-acting sweat glands and heat-resistant skin. They only take 25% of the normal damage from fire. The chance of them catching on fire is also drastically reduced. -->
+  <FireResistant.description>Pembawa gen ini memiliki kelenjar keringat khusus dan kulit yang tahan panas.Mereka hanya menderita 25% dari kerusakan kebakaran normal.Kemungkinan api juga berkurang secara drastis.</FireResistant.description>
+  <!-- EN: fireproof -->
+  <FireResistant.labelShortAdj>Igniphogical</FireResistant.labelShortAdj>
+  <!-- EN: foam -->
+  <FireResistant.symbolPack.prefixSymbols.0.symbol>busa</FireResistant.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: wet -->
+  <FireResistant.symbolPack.prefixSymbols.1.symbol>basah</FireResistant.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: foam -->
+  <FireResistant.symbolPack.suffixSymbols.0.symbol>busa</FireResistant.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: inbred -->
+  <Inbred.label>Endogamico</Inbred.label>
+  <!-- EN: This genetic condition affects a person's fertility, immunity, and mental capacity. -->
+  <Inbred.description>Kondisi genetik ini mempengaruhi kesuburan, kekebalan dan kapasitas mental seseorang.</Inbred.description>
+  
+  <!-- EN: major cell instability -->
+  <Instability_Major.label>Ketidakstabilan sel yang bagus</Instability_Major.label>
+  <!-- EN: Carriers of this gene need much less metabolic energy to stay alive, at the cost of greatly-reduced stability in their cell-replication machinery. -->
+  <Instability_Major.description>Pembawa gen ini membutuhkan energi metabolisme yang jauh lebih sedikit untuk tetap hidup, dengan mengorbankan stabilitas yang sangat kecil dalam mekanisme replikasi selulernya.</Instability_Major.description>
+  
+  <!-- EN: mild cell instability -->
+  <Instability_Mild.label>Ketidakstabilan sel ringan</Instability_Mild.label>
+  <!-- EN: Carriers of this gene need less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
+  <Instability_Mild.description>Pembawa gen ini membutuhkan lebih sedikit energi metabolisme untuk tetap hidup, dengan mengorbankan stabilitas yang lebih sedikit dalam mekanisme replikasi selnya.</Instability_Mild.description>
+  
+  <!-- EN: kill thirst -->
+  <KillThirst.label>Sed Assnament</KillThirst.label>
+  <!-- EN: Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat. -->
+  <KillThirst.description>Pembawa gen ini mendambakan perasaan mengakhiri hidup orang lain.Mereka merasa kesal jika mereka menghabiskan terlalu banyak waktu tanpa membunuh seseorang dalam pertempuran dekat.</KillThirst.description>
+  <!-- EN: kill-thirsty -->
+  <KillThirst.labelShortAdj>haus akan kematian</KillThirst.labelShortAdj>
+  <!-- EN: murder -->
+  <KillThirst.symbolPack.prefixSymbols.0.symbol>pembunuhan</KillThirst.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: death -->
+  <KillThirst.symbolPack.prefixSymbols.1.symbol>kematian</KillThirst.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: kill -->
+  <KillThirst.symbolPack.prefixSymbols.2.symbol>matar</KillThirst.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: slay -->
+  <KillThirst.symbolPack.prefixSymbols.3.symbol>pembunuhan</KillThirst.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: rage -->
+  <KillThirst.symbolPack.prefixSymbols.4.symbol>IRA</KillThirst.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: hate -->
+  <KillThirst.symbolPack.prefixSymbols.5.symbol>membenci</KillThirst.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: snuff -->
+  <KillThirst.symbolPack.prefixSymbols.6.symbol>tembakau</KillThirst.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: vore -->
+  <KillThirst.symbolPack.suffixSymbols.0.symbol>tamak</KillThirst.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: killer -->
+  <KillThirst.symbolPack.suffixSymbols.1.symbol>pembunuh</KillThirst.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: slayer -->
+  <KillThirst.symbolPack.suffixSymbols.2.symbol>pembunuh</KillThirst.symbolPack.suffixSymbols.2.symbol>
+  
+  <!-- EN: kind instinct -->
+  <KindInstinct.label>Insting yang ramah</KindInstinct.label>
+  <!-- EN: Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance. -->
+  <KindInstinct.description>Pembawa gen ini memiliki fitur kebaikan yang tinggi dan sangat teliti.Mereka jarang menghina orang lain, dan kadang -kadang menawarkan kata -kata baik untuk menghibur suasana hati orang -orang di sekitar mereka.Selain itu, mereka tidak pernah menilai orang atas penampilan mereka.</KindInstinct.description>
+  <!-- EN: kind -->
+  <KindInstinct.labelShortAdj>lembut</KindInstinct.labelShortAdj>
+  <!-- EN: kind -->
+  <KindInstinct.symbolPack.prefixSymbols.0.symbol>lembut</KindInstinct.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: nice -->
+  <KindInstinct.symbolPack.prefixSymbols.1.symbol>menyenangkan</KindInstinct.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: gentle -->
+  <KindInstinct.symbolPack.prefixSymbols.2.symbol>baik</KindInstinct.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: ami -->
+  <KindInstinct.symbolPack.prefixSymbols.3.symbol>amigo</KindInstinct.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cool -->
+  <KindInstinct.symbolPack.prefixSymbols.4.symbol>ramah</KindInstinct.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: mellow -->
+  <KindInstinct.symbolPack.prefixSymbols.5.symbol>Dulce</KindInstinct.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: soft -->
+  <KindInstinct.symbolPack.prefixSymbols.6.symbol>lembut</KindInstinct.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: tame -->
+  <KindInstinct.symbolPack.prefixSymbols.7.symbol>jinak</KindInstinct.symbolPack.prefixSymbols.7.symbol>
+  <!-- EN: pleas -->
+  <KindInstinct.symbolPack.prefixSymbols.8.symbol>Berdoa</KindInstinct.symbolPack.prefixSymbols.8.symbol>
+  
+  <!-- EN: naked speed -->
+  <NakedSpeed.label>Kecepatan telanjang</NakedSpeed.label>
+  <!-- EN: Carriers of this gene move slower while clothed, and faster while naked. -->
+  <NakedSpeed.description>Pembawa gen ini bergerak lebih lambat ketika mereka berpakaian dan lebih cepat ketika mereka telanjang.</NakedSpeed.description>
+  
+  <!-- EN: nearsighted -->
+  <Nearsighted.label>lamur</Nearsighted.label>
+  <!-- EN: Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is reduced. -->
+  <Nearsighted.description>Pembawa gen ini mengalami kesulitan melihat dari kejauhan.Akurasi penembakan yang panjang berkurang.</Nearsighted.description>
+  <!-- EN: blind -->
+  <Nearsighted.symbolPack.prefixSymbols.0.symbol>buta</Nearsighted.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blur -->
+  <Nearsighted.symbolPack.prefixSymbols.1.symbol>mengaburkan</Nearsighted.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: squint -->
+  <Nearsighted.symbolPack.prefixSymbols.2.symbol>mencacah</Nearsighted.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: peek -->
+  <Nearsighted.symbolPack.prefixSymbols.3.symbol>Mira</Nearsighted.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cross -->
+  <Nearsighted.symbolPack.prefixSymbols.4.symbol>menyeberang</Nearsighted.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: sighter -->
+  <Nearsighted.symbolPack.suffixSymbols.0.symbol>pencari</Nearsighted.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: peeker -->
+  <Nearsighted.symbolPack.suffixSymbols.1.symbol>Mirón</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: pollution stimulus -->
+  <PollutionRush.label>Stimulus pencemaran</PollutionRush.label>
+  <!-- EN: Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects. -->
+  <PollutionRush.description>Pembawa gen ini menerima dorongan kimia saat terpapar polusi.Ini membuat mereka bergerak lebih cepat dan membantu mereka berpikir lebih jelas.Gen serupa ditemukan dalam tempur meginctoids.</PollutionRush.description>
+  <!-- EN: Gain stat bonuses when exposed to pollution. -->
+  <PollutionRush.customEffectDescriptions.0>Dia memperoleh bonus statistik saat terpapar polusi.</PollutionRush.customEffectDescriptions.0>
+  
+  <!-- EN: psychic bonding -->
+  <PsychicBonding.label>Tautan psikis</PsychicBonding.label>
+  <!-- EN: Carriers of this gene have a special neural organ that makes them psychically bond with a lover for life. As long as the lovers are together, they will be happy. If they are physically separated, they will be disturbed by the distance. If one dies, the other's mind will be badly disrupted. -->
+  <PsychicBonding.description>Pembawa gen ini memiliki organ saraf khusus yang membuat mereka terkait secara psikis dengan pecinta kehidupan.Sementara kekasih bersama, mereka akan bahagia.Jika mereka terpisah secara fisik, mereka akan terganggu oleh jarak.Jika yang satu meninggal, pikiran yang lain akan sangat terganggu.</PsychicBonding.description>
+  <!-- EN: Romance attempts always succeed. -->
+  <PsychicBonding.customEffectDescriptions.0>Upaya romansa selalu berhasil.</PsychicBonding.customEffectDescriptions.0>
+  <!-- EN: Gains psychic bond with first romantic partner. -->
+  <PsychicBonding.customEffectDescriptions.1>Dapatkan ikatan psikis dengan pasangan sentimental pertama Anda.</PsychicBonding.customEffectDescriptions.1>
+  
+  <!-- EN: robust digestion -->
+  <RobustDigestion.label>Pencernaan yang kuat</RobustDigestion.label>
+  <!-- EN: Carriers of this gene grow a multi-fold stomach, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all. -->
+  <RobustDigestion.description>Pembawa gen ini memiliki banyak perut, yang memungkinkan mereka untuk mencerna makanan mentah lebih efektif daripada manusia dasar.Secara umum, mereka mendapatkan nutrisi makanan mentah yang sama seperti yang dimasak.Selain itu, rasa makanan mentah tidak mengganggu mereka sama sekali.</RobustDigestion.description>
+  <!-- EN: eat -->
+  <RobustDigestion.symbolPack.prefixSymbols.0.symbol>datang</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: raw -->
+  <RobustDigestion.symbolPack.prefixSymbols.1.symbol>mentah</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: quad -->
+  <RobustDigestion.symbolPack.prefixSymbols.2.symbol>melipatempatkan</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: moo -->
+  <RobustDigestion.symbolPack.prefixSymbols.3.symbol>Saya harap</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: raw -->
+  <RobustDigestion.symbolPack.prefixSymbols.4.symbol>mentah</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: munch -->
+  <RobustDigestion.symbolPack.prefixSymbols.5.symbol>Mengunyah</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: cow -->
+  <RobustDigestion.symbolPack.prefixSymbols.6.symbol>vaca</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: eater -->
+  <RobustDigestion.symbolPack.suffixSymbols.0.symbol>Tajam</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: mouth -->
+  <RobustDigestion.symbolPack.suffixSymbols.1.symbol>Boca</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: vore -->
+  <RobustDigestion.symbolPack.suffixSymbols.2.symbol>tamak</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: munch -->
+  <RobustDigestion.symbolPack.suffixSymbols.3.symbol>Mengunyah</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
+  <!-- EN: hardeater -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>melahap</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: muncher -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>mesin peremas</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: grubber -->
+  <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>penghancur</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+  
+  <!-- EN: strong stomach -->
+  <StrongStomach.label>perut yang kuat</StrongStomach.label>
+  <!-- EN: Carriers of this gene have an extra toxin-filtering organ in their stomach and will never suffer from food poisoning even after eating rotten food. -->
+  <StrongStomach.description>Pengangkut gen ini memiliki tubuh tambahan racun di perut mereka dan tidak akan pernah menderita keracunan makanan bahkan setelah makan makanan busuk.</StrongStomach.description>
+  <!-- EN: dura -->
+  <StrongStomach.symbolPack.prefixSymbols.0.symbol>Dura</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: eat -->
+  <StrongStomach.symbolPack.prefixSymbols.1.symbol>datang</StrongStomach.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: feed -->
+  <StrongStomach.symbolPack.prefixSymbols.2.symbol>feed</StrongStomach.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cram -->
+  <StrongStomach.symbolPack.prefixSymbols.3.symbol>Mengisi</StrongStomach.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: vore -->
+  <StrongStomach.symbolPack.suffixSymbols.0.symbol>tamak</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: unstoppable -->
+  <Unstoppable.label>tak terbendung</Unstoppable.label>
+  <!-- EN: Carriers of this gene are not slowed down when taking damage. -->
+  <Unstoppable.description>Pembawa gen ini tidak melambat saat menerima kerusakan.</Unstoppable.description>
+  
+  <!-- EN: violence disabled -->
+  <ViolenceDisabled.label>Kekerasan yang dinonaktifkan</ViolenceDisabled.label>
+  <!-- EN: Carriers of this gene are emotionally and mentally incapable of engaging in violence. They are overwhelmingly resistant to and horrified by the idea of hurting another. -->
+  <ViolenceDisabled.description>Pembawa gen ini secara emosional dan mental tidak mampu melakukan kekerasan.Mereka sangat menolak dan membuat mereka ngeri untuk membahayakan orang lain.</ViolenceDisabled.description>
+  <!-- EN: nonviolent -->
+  <ViolenceDisabled.labelShortAdj>non -kekerasan</ViolenceDisabled.labelShortAdj>
+  <!-- EN: paci -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>Paci</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: calm -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>tenang</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: peace -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>Paz</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dove -->
+  <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>Paloma</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dove -->
+  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>Paloma</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: webbed phalanges -->
+  <WebbedPhalanges.label>Palmadas Pananges</WebbedPhalanges.label>
+  <!-- EN: Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control. -->
+  <WebbedPhalanges.description>Pembawa gen ini memiliki tangan dan kaki yang pucat, yang meningkatkan kecepatan mereka di dalam air, meskipun mengurangi keterampilan manual mereka.</WebbedPhalanges.description>
+  
+</LanguageData>

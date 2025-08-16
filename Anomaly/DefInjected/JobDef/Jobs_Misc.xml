@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: activating TargetA. -->
+  <ActivateMonolith.reportString>kartu pengaktif.</ActivateMonolith.reportString>
+  
+  <!-- EN: low activity dormancy -->
+  <ActivityDormant.reportString>Aktivitas laten rendah</ActivityDormant.reportString>
+  
+  <!-- EN: building a {0} sculpture. -->
+  <BuildCubeSculpture.reportString>Memahat patung {0}.</BuildCubeSculpture.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolder.reportString>Membawa kartu ke kartu.</CarryToEntityHolder.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolderAlreadyHolding.reportString>Membawa kartu ke kartu.</CarryToEntityHolderAlreadyHolding.reportString>
+  
+  <!-- EN: attacking. -->
+  <ChimeraSwitchToAttackMode.reportString>menyerang.</ChimeraSwitchToAttackMode.reportString>
+  
+  <!-- EN: Doing something. -->
+  <DevourerDigest.reportString>Melakukan sesuatu.</DevourerDigest.reportString>
+  
+  <!-- EN: going dormant -->
+  <EntityGoPassive.reportString>menganggur.</EntityGoPassive.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <ExecuteEntity.reportString>Mereka berlari ke kartu.</ExecuteEntity.reportString>
+  
+  <!-- EN: extracting bioferrite from TargetA. -->
+  <ExtractBioferrite.reportString>Mengekstraksi Bioferrita Kartu</ExtractBioferrite.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCowerShort.reportString>melarikan diri.</FleeAndCowerShort.reportString>
+  
+  <!-- EN: playing with golden cube. -->
+  <GoldenCubePlay.reportString>Bermain dengan kubus emas.</GoldenCubePlay.reportString>
+  
+  <!-- EN: hate chanting. -->
+  <HateChanting.reportString>Menyanyikan lagu kebencian.</HateChanting.reportString>
+  
+  <!-- EN: investigating TargetA. -->
+  <InvestigateMonolith.reportString>menyelidiki targeta.</InvestigateMonolith.reportString>
+  
+  <!-- EN: departing -->
+  <NociosphereDepart.reportString>meninggalkan</NociosphereDepart.reportString>
+  
+  <!-- EN: releasing TargetB -->
+  <ReleaseEntity.reportString>merilis target</ReleaseEntity.reportString>
+  
+  <!-- EN: stalking TargetA. -->
+  <RevenantAttack.reportString>mengakses scarry.</RevenantAttack.reportString>
+  
+  <!-- EN: escaping -->
+  <RevenantEscape.reportString>melarikan diri</RevenantEscape.reportString>
+  
+  <!-- EN: hibernating -->
+  <RevenantSleep.reportString>Winterando</RevenantSleep.reportString>
+  
+  <!-- EN: wandering -->
+  <RevenantWander.reportString>pengembaraan</RevenantWander.reportString>
+  
+  <!-- EN: smashing TargetA. -->
+  <SmashThing.reportString>Hancur ke kartu.</SmashThing.reportString>
+  
+  <!-- EN: taking bioferrite out of TargetA. -->
+  <TakeBioferriteOutOfHarvester.reportString>Mengambil kartu bioferrita.</TakeBioferriteOutOfHarvester.reportString>
+  
+  <!-- EN: talking to TargetA. -->
+  <TalkCreepJoiner.reportString>berbicara dengan kartu.</TalkCreepJoiner.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendEntity.reportString>menghadiri kartu.</TendEntity.reportString>
+  
+  <!-- EN: transferring TargetC to another holding location. -->
+  <TransferBetweenEntityHolders.reportString>membawa target ke tempat retensi lain.</TransferBetweenEntityHolders.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseAttack.reportString>Mengejar Kartu.</UnnaturalCorpseAttack.reportString>
+  
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseSkip.reportString>Mengejar Kartu.</UnnaturalCorpseSkip.reportString>
+  
+</LanguageData>

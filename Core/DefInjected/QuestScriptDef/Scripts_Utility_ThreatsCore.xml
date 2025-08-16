@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: <rulesStrings><li>root(priority=1,sitePart==ClimateAdjuster)->there's (*Threat)a climate adjuster machine(/Threat) there shifting the regional temperature by [temperatureOffset]</li><li>root(priority=1,sitePart==PsychicDroner)->there's (*Threat)a psychic droner machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==PsychicSuppressor)->there's (*Threat)a psychic suppressor machine(/Threat) there tuned to the [affectedGender] gender</li><li>root(priority=1,sitePart==WeatherController)->there's (*Threat)a weather controller machine(/Threat) there forcing weather in the whole region to [weather_label]</li><li>root(priority=1,sitePart==SmokeSpewer)->there's (*Threat)a smoke spewer machine(/Threat) there belching smoke over the whole region</li><li>root(priority=1,sitePart==SunBlocker)->there's (*Threat)a sun blocker machine(/Threat) there shadowing the whole region</li><li>root(priority=1,sitePart==EMIDynamo)->there's (*Threat)an EMI dynamo machine(/Threat) there which can disable electrical devices across the region</li><li>root(priority=1,sitePart==ToxicSpewer)->there's (*Threat)a toxic spewer machine(/Threat) there blanketing the whole region in poison</li><li>root(priority=1,sitePart==RaidSource)->there's a military staging area guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat) that will launch raids on you every [mtbDays]</li><li>root(priority=1,sitePart==Outpost)->there's an enemy outpost at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==BanditCamp)->there's a bandit camp at the site guarded by (*Threat)[enemiesCount] [enemiesLabel](/Threat)</li><li>root(priority=1,sitePart==Manhunters,count==1)->(*Threat)a manhunting [kindLabel](/Threat) is wandering nearby</li><li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] manhunting [kindLabel](/Threat) are wandering nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count==1)->(*Threat)a mechanoid(/Threat) is sleeping nearby</li><li>root(priority=1,sitePart==SleepingMechanoids,count>1)->(*Threat)[count] mechanoids(/Threat) are sleeping nearby</li><li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) defend the site</li><li>root(priority=1,sitePart==AmbushEdge)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==AmbushHidden)->(*Threat)an enemy force(/Threat) is waiting to ambush anyone who comes near</li><li>root(priority=1,sitePart==MechCluster)->there's (*Threat)a cluster of hostile mechanoid structures(/Threat)</li><li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->there may be an (*Threat)unknown threat(/Threat)</li><li>root->there's a [label]</li></rulesStrings> -->
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root (prioritas = 1, sitepart == klimateadjuster)-> di sana (*ancaman) Mesin pengatur iklim (/ancaman) yang mengubah suhu regional di [suhu OFFSETSE]</li>
+      <li>root (prioritas = 1, sihopart == psychicdroner)-> ada (*ancaman) mesin buzzing psikis (/ancaman) yang disetel untuk mempengaruhi {ganti: [apffectedGender];"Manusia"-"Pria";"Wanita"-"Wanita"}</li>
+      <li>root (prioritas = 1, sihopart == psychicsuppressor)-> ada (*ancaman) mesin represi psikis (/ancaman) yang disetel untuk mempengaruhi {ganti: [apffectectedgender];"Manusia"-"Pria";"Wanita"-"Wanita"}</li>
+      <li>root (prioritas = 1, sitepart == weathercontroller)-> ada (*ancaman) mesin pengendali iklim (/ancaman) yang memaksa iklim seluruh wilayah untuk menghasilkan [weather_label]</li>
+      <li>root (prioritas = 1, sitepart == smokespewer)-> di sana (*ancaman) mesin pembangkit asap (/ancaman) yang mengeluarkan asap di seluruh wilayah</li>
+      <li>root (prioritas = 1, sitepart == sunblocker)-> ada (*ancaman) a sun blocker (/ancaman) yang naungan seluruh wilayah</li>
+      <li>root (prioritas = 1, sitepart == emidynam)-> ada (*ancaman) Dinamo interferensi elektromagnetik (IEM) (/ancaman) yang menonaktifkan semua perangkat listrik di seluruh wilayah</li>
+      <li>root (prioritas = 1, sitepart == Toxicspewer)-> ada (*ancaman) mesin generasi beracun (/ancaman) yang mencakup seluruh wilayah dengan racun</li>
+      <li>root (prioritas = 1, sitepart == raidsource)-> Ada area militer yang disiapkan oleh (*ancaman) [musuh) [musuh?</li>
+      <li>root (prioritas = 1, sitepart == Outpost)-> Ada kemajuan musuh di lokasi yang dijaga oleh (*ancaman) [musuh] [musuh label] (/ancaman)</li>
+      <li>root (prioritas = 1, sitepart == banditcamp)-> Ada kamp bandit di situs yang dijaga oleh (*ancaman) [musuh] [musuh?</li>
+      <li>root (prioritas = 1, sitepart == manhunters, count == 1)-> (*ancaman) [hitungan] [KindLabel] Cazahombres (/ancaman) dambula CERCA</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)[count] [kindLabel] cazahombres(/Threat) deambulan cerca</li>
+      <li>root (prioritas = 1, sitepart == sleepingmechanoids, count == 1)-> (*ancaman) un mecanoide (/ancaman) hiberna en la zona</li>
+      <li>root (prioritas = 1, sitepart == SleepingMechanoids, count> 1)-> (*ancaman) [hitungan] mecanoides (/ancaman) hibernan en la zona</li>
+      <li>root (prioritas = 1, sitepart == menara)-> (*ancaman) [ancamaninfo] (/ancaman) defienden el lugar</li>
+      <li>root (prioritas = 1, sitepart == Ambushedge)-> (*ancaman) Pasukan musuh (/utas) mencoba untuk menyergap siapa pun yang mendekati</li>
+      <li>root (prioritas = 1, sihopart == ambushhidden)-> (*ancaman) Pasukan musuh (/ancaman) sedang menunggu untuk menyergap siapa pun yang mendekati</li>
+      <li>root (prioritas = 1, sitepart == mechcluster)-> ada (*ancaman) sekelompok struktur mekanoid yang bermusuhan (/ancaman)</li>
+      <li>root (prioritas = 1, sitepart == possennomnentthrreatmarker)-> mungkin ada satu (*ancaman) ancaman yang tidak diketahui (/ancaman)</li>
+      <li>root-> ada juga [label]</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <!-- EN:
+    <li>AncripDescription-> Cluster mech akan mendarat di [peta_definite] yang berisi: \ n \ n [allthreats]</li>-><Util_MechCluster.questDescriptionRules.rulesStrings>
+    <li>Ancripcription-> a mecaconglomeado akan mendarat di [peta_definite] dan terdiri dari: \ n \ n [allthreats]</li>
+  </Util_MechCluster.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>AncripDescription-> [musuh.Grup mereka terdiri dari: \ n \ n [raidpawnkinds] \ n \ n [raidarrivalModeInfo]</li>-><Util_Raid.questDescriptionRules.rulesStrings>
+    <li>Ancamancription-> [musuh.Kelompoknya dikomentari oleh: \ n \ n [raidpawnkinds] \ n \ n [raidarrivalmodeInfo]</li>
+  </Util_Raid.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Pawnkindsparagraph (raidcount == 1)-> Kelompok [musuh musuh.</li>
+    <li>Pawnkindsparagraph (raidCount == 2)-> Grup pertama [musuh musuh.</li>
+    <li>Pawnkindsparagraph (raidcount == 3)-> Grup pertama [musuh musuh.</li>
+    <li>Pawnkindsparagraph (RaidCount> = 4)-> Grup pertama [musuh musuh.</li>
+    <li>numGroupSof (raidcount == 1)-></li>
+    <li>numGroupSof (raidcount == 2)-> dua kelompok</li>
+    <li>numGroupSof (raidcount == 3)-> tiga kelompok</li>
+    <li>numGroupof (raidcount> = 4)-> [raidcount] grup dari</li>-><Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>Pawnkindsparagraph (raidcount == 1)-> grup [musuh musuh.</li>
+    <li>Pawnkindsparagraph (raidCount == 2)-> Grup pertama [musuh musuh.</li>
+    <li>Pawnkindsparagraph (raidcount == 3)-> Grup pertama [musuh musuh.</li>
+    <li>Pawnkindsparagraph (raidcount> = 4)-> Grup pertama [musuh musuh_pawnsplural] terdiri dari: \ n \ n [raid0/raidpawnkinds] \ n \ n [raidcountminusone] Kelompok ukuran yang sama akan mengikuti setelahnya.</li>
+    <li>numGroupSof (raidcount == 1)-></li>
+    <li>dalam kelompok (RAID Cent == 2)-> dari kelompok</li>
+    <li>NumGroupSof (raidcount == 3)-> tiga kelompok</li>
+    <li>NumGroupSof (raidcount> = 4)-> [raidcount] grup dari</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

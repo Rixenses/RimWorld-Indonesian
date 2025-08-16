@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium -->
+  <Luciferium.label>Luciferio</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>Campuran mesin yang secara dramatis meningkatkan fungsi tubuh dalam semua aspek.Seiring waktu, Anda bahkan dapat menyembuhkan luka penyembuhan lama atau kerusakan otak, meskipun tidak dapat meregenerasi anggota tubuh yang hilang.Sayangnya, tanpa efek moderasi dari dosis reguler setiap lima atau enam hari, mesin kehilangan kohesi, menyebabkan kemarahan panik terus menerus dan, akhirnya, kematian.Banyak yang terpaksa membunuh teman -teman mereka ketika mereka tidak dapat menemukan lebih dari pil merah.</Luciferium.description>
+  <!-- EN: Take {0} -->
+  <Luciferium.ingestible.ingestCommandString>Ambil {0}</Luciferium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Luciferium.ingestible.ingestReportString>Tomando {0}.</Luciferium.ingestible.ingestReportString>
+  
+</LanguageData>

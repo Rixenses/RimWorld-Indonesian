@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Mechanitor -->
+  <!-- EN: Mech(s) gone feral -->
+  <LetterLabelMechsFeral>Mecas liar</LetterLabelMechsFeral>
+  <!-- EN: Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1} -->
+  <LetterMechsFeral>Beberapa mecas yang berkeliaran tanpa supervisor telah terhubung dengan tanda -tanda kontrol meccas lama di seluruh planet ini.Mereka telah bergabung {0} dan telah menjadi bermusuhan, dan tampaknya mencoba keluar dari peta.</LetterMechsFeral>
+  <!-- EN: Mechlink installed -->
+  <LetterLabelMechlinkInstalled>Mecaenlace diinstal</LetterLabelMechlinkInstalled>
+  <!-- EN: {PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger. -->
+  <LetterMechlinkInstalled>{Pawn_labelshort} Mecaenlace telah diinstal! Sekarang apakah Mechanizer {Pawn_gender?: A} dan dapat membuat dan mengontrol mekanoid.\ n \ ninvestiga "Teknologi Mekah Dasar" untuk memulai. Kontrol sebanyak mungkin mecas seperti broadband mereka memungkinkan mereka. Pilih {Pawn_labelshort} dan lihat indikator "broadband" Anda untuk melihat berapa banyak broadband yang digunakan saat ini dan berapa banyak yang tersedia.Broadband dapat ditingkatkan dengan pakaian dan node band tertentu.Setiap grup kontrol dapat dikonfigurasi dalam salah satu mode ini: \ n \ n- work \ n- escolta \ n- Recharge \ n- Recharge dalam hibernasi \ n \ npara tahu lebih banyak tentang apa yang dilakukan masing-masing mode, pilih ikon mode kerja dalam salah satu kelompok kontrol {Pawn_lelsort}} yang berbeda.Jumlah maksimum kelompok kontrol dapat ditingkatkan dengan pakaian dan implan.Anda harus melakukannya untuk meningkatkan mekanitor Anda di luar batas tertentu, tetapi berhati -hatilah dengan bahaya.</LetterMechlinkInstalled>
+
+  <!-- EN: This happened because of -->
+  <MentalStateReason_Gene>Ini terjadi karena</MentalStateReason_Gene>
+
+  <!-- EN: {0} summoned -->
+  <LetterLabelBossgroupSummoned>Mekah {0} dipanggil</LetterLabelBossgroupSummoned>
+  <!-- EN: Attracted by your mech-band signals, an ultra-heavy mech from {0} will arrive soon. Be prepared. -->
+  <LetterBossgroupSummoned>Tertarik oleh tanda -tanda Rocabanda Anda, ultrapesado mecca {0} akan segera tiba.Bersiap.</LetterBossgroupSummoned>
+
+  <!-- EN: {0} arrived -->
+  <LetterLabelBossgroupArrived>{0} telah tiba</LetterLabelBossgroupArrived>
+  <!-- EN: An ultra-heavy mech from {0} has come to eradicate you, along with escorts.\n\n{1}\n\nThe assault group is composed of the following {3}:\n\n{4}\n\nThey will prepare for a while before attacking. -->
+  <LetterBossgroupArrived>Ultrapesado mecca {0} telah datang untuk memusnahkan dengan pengawalnya.</LetterBossgroupArrived>
+
+  <!-- EN: Summon {LEADER_label} available -->
+  <LetterLabelCommsConsoleSpawned>Doa {leader_label} tersedia</LetterLabelCommsConsoleSpawned>
+  <!-- EN: A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
+  <LetterCommsConsoleSpawned>Seorang mekanitor dapat menggunakan {parent_label} untuk memohon mecanoid yang berbahaya dan bermusuhan: {leader_label} Ancestral.Persiapkan, mecanoids sangat kuat.</LetterCommsConsoleSpawned>
+
+  <!-- EN: Summon {LEADER_label} possible -->
+  <LetterLabelBossgroupCallerUnlocked>Kemungkinan permohonan {leader_label}</LetterLabelBossgroupCallerUnlocked>
+  <!-- EN: You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST} -->
+  <LetterBossgroupCallerUnlocked>Sekarang Anda dapat membangun {parent_label} yang dapat digunakan seorang mekanit untuk memohon {leader_label}.Jika Anda mengalahkan {leader_label}, itu akan menjatuhkan objek berikut: \ n \ n {imbalan}</LetterBossgroupCallerUnlocked>
+
+  <!-- EN: {PAWN_nameDef}'s mechlink available -->
+  <LetterLabelMechanitorCasketOpened>Mecaenlace dari {Pawn_Namedef} tersedia</LetterLabelMechanitorCasketOpened>
+  <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {PAWN_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
+  <LetterMechanitorCasketOpened>Anda telah menemukan tubuh mekanitor kuno!</LetterMechanitorCasketOpened>
+  <!-- EN: Mechanitor casket found -->
+  <LetterLabelMechanitorCasketFound>Sarkofagus seorang mekanitor telah ditemukan</LetterLabelMechanitorCasketFound>
+  <!-- EN: You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside. -->
+  <LetterMechanitorCasketFound>Anda telah menemukan sarkofagus cryptosueño dari seorang mekanitor! \ N \ nábree untuk menemukannya di dalam.</LetterMechanitorCasketFound>
+  
+  <!-- Pawns lost because map closed (including mechs) -->
+  <!-- EN: Your caravan has been lost. The following people, animals and mechanoids have been lost with it -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Karavan Anda telah hilang.Orang -orang berikut, hewan dan mechanoidoid telah hilang dengannya</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <!-- EN: The following people, animals and mechanoids have been abandoned -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>Orang -orang berikut, hewan dan mekanoid telah ditinggalkan</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  
+
+  <!-- Children -->
+  <!-- EN: {0_nameDef} became a child -->
+  <LetterLabelBecameChild>{0_namedef} menjadi {0_gender?Seorang anak laki -laki: seorang perempuan}</LetterLabelBecameChild>
+  <!-- EN: {0_nameDef} became an adult -->
+  <LetterLabelBecameAdult>{0_namedef} menjadi orang dewasa</LetterLabelBecameAdult>
+  <!-- EN: Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work: -->
+  <LetterBecameChild>Bayi {0_namedef} telah tumbuh dan telah menjadi {0_gender?Seorang anak laki -laki: seorang perempuan}!{0_pronoun} sudah cukup besar untuk melakukan tugas -tugas berikut:</LetterBecameChild>
+  <!-- EN: Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel. -->
+  <LetterBecameChildChanges>Anak -anak dapat melakukan beberapa jenis pekerjaan.Ketika mereka tumbuh, mereka dapat melakukan lebih banyak jenis pekerjaan. \ N \ juga melakukan berbagai kegiatan rekreasi khusus untuk anak -anak.</LetterBecameChildChanges>
+  <!-- EN: By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}? -->
+  <LetterChildLegalStatus>Dengan tradisi {0_namedef}, {0_partage}, adalah {0_legalstatus}, tetapi dapatkah pengecualian dapat dibuat .... harus {0_namedef} terus menjadi {0_legalstatus}?</LetterChildLegalStatus>
+  <!-- EN: {0_labelShort} has decided to become a follower of the ideoligion {1_name}. -->
+  <LetterChildFollowIdeo>{0_labelshort} telah memutuskan untuk menjadi pengikut ideolithion {1_name}.</LetterChildFollowIdeo>
+  <!-- EN: {0_nameDef}'s slave status has already changed since {0_possessive} birthday. -->
+  <CannotChangeChildStatusReason>Status slave {0_namedef} telah berubah sejak ulang tahunnya.</CannotChangeChildStatusReason>
+  <!-- EN: enslave -->
+  <Enslave>memperbudak</Enslave>
+  <!-- EN: emancipate -->
+  <Emancipate>membebaskan</Emancipate>
+  <!-- EN: remain {0} -->
+  <RemainX>Tetap {0}</RemainX>
+  <!-- EN: {BABY_nameDef} adopted -->
+  <LetterLabelAdopted>{Baby_namedef} Apakah itu telah diadopsi {baby_gender?O: A}</LetterLabelAdopted>
+  <!-- EN: {BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}. -->
+  <LetterTextAdopted>{Baby_namedef}, seorang bayi, telah diadopsi {baby_gender?O: A} untuk koloni Anda.Anda dapat menugaskan pemukim untuk jenis pekerjaan "Jaga anak -anak" untuk mengurus {baby_pronoun}.</LetterTextAdopted>
+
+  <!-- EN: {0_nameDef}'s baby prep -->
+  <LetterLabelThirdTrimester>Kehamilan bayi {0_namedef}</LetterLabelThirdTrimester>
+  <!-- EN: {0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire. -->
+  <LetterTextThirdTrimester>{0_namedef} akan melahirkan dalam waktu kurang dari 6 hari.Anda dapat mempersiapkan bayi: \ n \ n- Bangun ruang kelahiran dengan lantai yang bersih dan tempat tidur yang bagus. {0_namedef} Dapat menyusui bayi, atau Anda dapat memberi Anda makanan untuk bayi, susu atau jeli serangga.\ N- Bangun boks. Boks boks yang berkualitas tinggi akan membuat bayi bahagia.\ N \ npuedes untuk membuat makanan bayi di dapur atau api unggun.</LetterTextThirdTrimester>
+
+  <!-- EN: {0} vat birth -->
+  <LetterVatBirth>Lahir {0} di Inkubator</LetterVatBirth>
+  <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby! -->
+  <LetterVatHealthyBaby>Embrio {0_namedef} dan {1_namedef} telah selesai memberi isyarat dalam inkubator dan telah menjadi bayi yang sehat!</LetterVatHealthyBaby>
+  <!-- EN: An embryo has finished gestating in a growth vat and become a healthy baby! -->
+  <LetterVatHealthyBabyNoParents>Sebuah embrio telah selesai menyeduh di inkubator dan telah menjadi bayi yang sehat.</LetterVatHealthyBabyNoParents>
+  <!-- EN: The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
+  <LetterVatInfantIllness>Embrio {0_namedef} dan {1_namedef} telah selesai memberi isyarat dalam inkubator dan telah menjadi bayi.Sayangnya, bayinya sakit.</LetterVatInfantIllness>
+  <!-- EN: An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick. -->
+  <LetterVatInfantIllnessNoParents>Sebuah embrio telah menyelesaikan pembuatan bir dalam inkubator dan telah menjadi bayi.Sayangnya, bayinya sakit.</LetterVatInfantIllnessNoParents>
+  <!-- EN: The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn. -->
+  <LetterVatStillborn>Bayi itu terbentuk dalam inkubator dari embrio {0_namedef} dan {1_namedef} lahir mati.</LetterVatStillborn>
+  <!-- EN: The baby formed in a growth vat was stillborn. -->
+  <LetterVatSillbornNoParents>Bayi itu terbentuk di inkubator dilahirkan mati.</LetterVatSillbornNoParents>
+  <!-- EN: {0_labelShort} in labor! -->
+  <LetterColonistPregnancyLaborLabel>¡{0_labelshort} de Parto!</LetterColonistPregnancyLaborLabel>
+  <!-- EN: {0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure. -->
+  <LetterColonistPregnancyLabor>{0_labelshort} akan melahirkan!Dia akan memiliki kontraksi selama beberapa jam sebelum melahirkan.Kelahiran dapat melewati beberapa tahap berbagai tingkat kesulitan dan bahaya.Pilih {0_labelshort} dan klik "Kumpulkan untuk persalinan" untuk memulai prosedur.</LetterColonistPregnancyLabor>
+  <!-- EN: {0_labelShort} has died due to complications after giving birth. -->
+  <LetterPartColonistDiedAfterChildbirth>{0_labelshort} telah meninggal karena komplikasi setelah melahirkan.</LetterPartColonistDiedAfterChildbirth>
+  <!-- EN: The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}. -->
+  <LetterPartSurrogacy>Bayi itu dibuat dari fertilisasi in vitro dan memiliki komposisi genetik {0_labelshort} dan {1_labelshort}.</LetterPartSurrogacy>
+  <!-- EN: The baby shows signs of genetic abnormalities due to inbreeding. -->
+  <InbredBabyBorn>Bayi itu menunjukkan tanda -tanda kelainan genetik karena perkawinan sedarah.</InbredBabyBorn>
+
+  <!-- EN: {0_nameDef} has already been named. -->
+  <BabyAlreadyNamed>{0_namedef} sudah memiliki nama.</BabyAlreadyNamed>
+  <!-- EN: name baby -->
+  <NameBaby>Nama bayi</NameBaby>
+  <!-- EN: immediately -->
+  <Immediately>langsung</Immediately>
+  <!-- EN: within -->
+  <Within>di dalam</Within>
+  <!-- EN: The baby has been given the temporary name {0_nameFull}. -->
+  <LetterPartTempBabyName>Bayi telah diberi nama temporal {0_namefull}.</LetterPartTempBabyName>
+  <!-- EN: You can change it until {0} after birth. -->
+  <LetterPartLiveBirthNameDeadline>Anda dapat mengubahnya menjadi {0} setelah lahir.</LetterPartLiveBirthNameDeadline>
+  <!-- EN: Would you like to give the baby another name? -->
+  <LetterPartStillbirthNameDeadline>Apakah Anda ingin menaruh nama lain pada bayi itu?</LetterPartStillbirthNameDeadline>
+  <!-- EN: The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old. -->
+  <LetterPartNameBabyAdopt>Bayi telah diberi nama temporal {0_namefull}.Anda dapat mengubahnya kapan pun bayi memiliki usia kurang dari {1}.</LetterPartNameBabyAdopt>
+
+  <!-- EN: Growth moment for {PAWNNAME} -->
+  <BirthdayGrowthMoment>{Pawnname} telah tumbuh</BirthdayGrowthMoment>
+  <!-- EN: {0_nameFull} has reached the biological age of {1} and has experienced a growth moment! -->
+  <BirthdayBiologicalGrowthMoment>{0_namefulull} telah mencapai usia biologis {1} dan telah mencapai tahap pertumbuhan baru!</BirthdayBiologicalGrowthMoment>
+  <!-- EN: {0_nameDef} is now old enough to do the following work -->
+  <BirthdayBiologicalAgeWorkTypes>{0_namedef} sekarang cukup besar untuk melakukan tugas -tugas berikut</BirthdayBiologicalAgeWorkTypes>
+  <!-- EN: Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for -->
+  <BirthdayPickPassion>Pilih Keterampilan untuk {0_Namedef} akan memiliki lebih banyak gairah</BirthdayPickPassion>
+  <!-- EN: Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for -->
+  <BirthdayPickPassions>Pilih {1} Keterampilan yang {0_namedef} akan memiliki lebih banyak gairah</BirthdayPickPassions>
+  <!-- EN: Choose a trait for {0_nameDef} to gain -->
+  <BirthdayPickTrait>Pilih fitur untuk {0_namedef}</BirthdayPickTrait>
+  <!-- EN: When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment. -->
+  <BirthdayGrowthTier>Ketika momen pertumbuhan ini terjadi, {0_namedef} berada pada tingkat pengembangan {1}.Anak -anak dengan tingkat perkembangan yang lebih tinggi memiliki lebih banyak pilihan untuk fitur dan gairah yang tersedia, dan lebih banyak gairah secara umum.Memuaskan kebutuhan untuk belajar membantu anak -anak memperoleh level lebih cepat.Tingkat pengembangan dimulai kembali setelah setiap momen pertumbuhan.</BirthdayGrowthTier>
+  <!-- EN: Open this letter to choose how {0_nameDef} will grow. -->
+  <BirthdayChooseHowPawnWillGrow>Buka pemberitahuan ini untuk memilih bagaimana {0_namedef} akan tumbuh.</BirthdayChooseHowPawnWillGrow>
+
+  <!-- EN: Passion was increased for {0}. -->
+  <BirthdayPassionArchive>Gairah meningkat untuk {0}.</BirthdayPassionArchive>
+  <!-- EN: The trait {0} was gained. -->
+  <BirthdayTraitArchive>Fitur {0} dimenangkan.</BirthdayTraitArchive>
+  <!-- EN: No trait -->
+  <BirthdayNoTraitChoice>Tidak ada sifat</BirthdayNoTraitChoice>
+  <!-- EN: {0} does not gain a trait. -->
+  <BirthdayNoTraitChoiceTooltip>{0} tidak memenangkan sifat apa pun.</BirthdayNoTraitChoiceTooltip>
+
+  <!-- EN: Make choices to close -->
+  <BirthdayMakeChoices>Membuat keputusan untuk ditutup</BirthdayMakeChoices>
+  <!-- EN: {0} has gained the nickname {1}. -->
+  <BirthdayNickname>{0} telah memenangkan nama panggilan {1}.</BirthdayNickname>
+  <!-- EN: Select a trait. -->
+  <SelectATrait>Pilih sifat.</SelectATrait>
+  <!-- EN: Select a passion. -->
+  <SelectPassionSingular>Pilih gairah.</SelectPassionSingular>
+  <!-- EN: Select {0} passions. -->
+  <SelectPassionsPlural>Pilih {0} Passions.</SelectPassionsPlural>
+  <!-- EN: Later -->
+  <Later>Setelah</Later>
+  
+  <!-- EN: Mechlink available -->
+  <LetterLabelMechlinkAvailable>Mecaenlace tersedia</LetterLabelMechlinkAvailable>
+  <!-- EN: An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat. -->
+  <LetterMechlinkAvailable>Kesempatan untuk memperoleh implan mecaenlace tersedia melalui misi "{0}".Mecling dapat membuat, mengendalikan, dan memanipulasi MECA untuk menggunakannya di tempat kerja dan pertempuran.</LetterMechlinkAvailable>
+
+  <!-- Genes -->
+  <!-- EN: Xenogerm implantation ordered -->
+  <LetterLabelXenogermOrderedImplanted>Implementasi Xenogermen yang dipesan</LetterLabelXenogermOrderedImplanted>
+  <!-- EN: You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab. -->
+  <LetterXenogermOrderedImplanted>Anda telah memesan implementasi xenogermen di {pawn_namedef}.Prosedur ini membutuhkan tempat tidur medis dan obat: {Medicineneeded}. {Bedinfo} {MedicineInfo} \ n \ npuedes Batalkan prosedur ini saat masuk ke kesehatan {Pawn_namedef} -> tab Operations.</LetterXenogermOrderedImplanted>
+  <!-- EN: \n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical. -->
+  <XenogermOrderedImplantedBedNeeded>Anda tidak memiliki tempat tidur medis yang tersedia untuk {Pawn_namedef}.Pertimbangkan menandai tempat tidur sebagai dokter.</XenogermOrderedImplantedBedNeeded>
+  <!-- EN: \n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine. -->
+  <XenogermOrderedImplantedMedicineNeeded>Anda tidak memiliki obat yang cukup untuk mengimplementasikan xenogermen.Implementasi tidak dapat dimulai sampai obat diperoleh {Medicineneeded}.</XenogermOrderedImplantedMedicineNeeded>
+  <!-- EN: Involuntary deathrest -->
+  <LetterLabelInvoluntaryDeathrest>Mortisueño yang tidak disengaja</LetterLabelInvoluntaryDeathrest>
+  <!-- EN: Regeneration coma -->
+  <LetterLabelRegenerationComa>Koma regeneratif</LetterLabelRegenerationComa>
+  <!-- EN: {PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO} -->
+  <LetterTextInvoluntaryDeathrestOrComa>Gen abadi {pawn_namedef} telah mencegah saya mati.{Hediffinfo}</LetterTextInvoluntaryDeathrestOrComa>
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a deathrest. -->
+  <LetterTextDeathrest>Sebaliknya, itu telah jatuh ke dalam yang mematikan.</LetterTextDeathrest>
+  <!-- EN: Instead, {PAWN_pronoun} has fallen into a regeneration coma. -->
+  <LetterTextRegenerationComa>Sebaliknya, itu telah jatuh ke dalam koma regeneratif.</LetterTextRegenerationComa>
+  <!-- EN: Due to the neural shock of traumatic deathrest, {PAWN_nameDef} has lost {XPLOSS} XP in {PAWN_possessive} {SKILL} skill. -->
+  <DeathrestLostSkill>Karena kejutan saraf mortisueño traumatis, {Pawn_namedef} telah kehilangan {xposs} exp dalam kemampuan {skill} -nya.</DeathrestLostSkill>
+  <!-- EN: Lethal damage taken. -->
+  <DeathrestLethalDamage>Kerusakan mematikan diterima.</DeathrestLethalDamage>
+
+  <!-- EN: Xenogerm implantation -->
+  <LetterLabelSanguophageWaitingToReimplant>Implementasi Xenogermen</LetterLabelSanguophageWaitingToReimplant>
+  <!-- EN: As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave. -->
+  <LetterTextSanguophageWaitingToReimplant>Sebagai rasa terima kasih karena mengizinkan {Pawn_namedef} dan teman -temannya yang berdarah untuk bertemu di sini, {Pawn_pronoun} Apakah di sana {Pawn_gender?O: A} untuk membagikan salinan xenogermen Anda dengan salah satu pemukim Anda. Ini akan mengubah colonge Anda menjadi batu darah.</LetterTextSanguophageWaitingToReimplant>
+
+  <!-- EN: Genes reimplanted -->
+  <LetterLabelGenesImplanted>Gen yang ditanam kembali</LetterLabelGenesImplanted>
+  <!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
+  <LetterTextGenesImplanted>{CASTER_NAMEDEF} telah menerapkan salinan xenogermen -nya di {target_namedef}, melewati semua xenogennya. \ N \ n {target_namedef} akan berada dalam koma xenogerminative selama kejutan kerugian gen berikut selama {shockdure} berikut.Gen Anda juga harus tumbuh lagi.Proses ini membutuhkan waktu.Jika {CASTER_NAMEDEF} re -Implants xenogermen sebelum gen mereka tumbuh lagi, {casteter_pronoun} akan mati.</LetterTextGenesImplanted>
+  
+  <!-- EN: A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}. -->
+  <RefugeePodCrashBaby>Seorang bayi bernama {Pawn_namedef} dari faksi {Pawn_factioname} membintangi kapsul transportasi terdekat.</RefugeePodCrashBaby>
+  <!-- EN: The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well. -->
+  <RefugeePodCrashBabyHasParent>Tubuh ayah almarhum {Pawn_namedef} juga terkandung dalam kapsul transportasi.</RefugeePodCrashBabyHasParent>
+
+  <!-- EN: Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
+  <LetterPsychicBondCreated>Buscando instintivamente una pareja, {BONDPAWN_nameDef} ha formado una relación romántica psíquica con {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} se beneficiará psicológicamente de la conexión con {BONDPAWN_nameDef}, pero si se separan en diferentes casillas del mundo, ambos sufrirán estrés psíquico. Si uno muere, el otro será llevado a la locura.</LetterPsychicBondCreated>
+
+  <!-- EN: Psychic bond -->
+  <LetterPsychicBondCreatedLovinLabel>Tautan psikis</LetterPsychicBondCreatedLovinLabel>
+  <!-- EN: {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness. -->
+  <LetterPsychicBondCreatedLovinText>{Bondpawn_Namedef} telah membentuk hubungan romantis psikis dengan {oherpawn_namedef}. {OtherPawn_Namedef} akan mendapat manfaat secara psikologis dari koneksi dengan {Bondpawn_namedef}, tetapi jika mereka terpisah dalam kotak yang berbeda di dunia, keduanya akan menderita stres psikis.Jika yang satu meninggal, yang lain akan menjadi gila.</LetterPsychicBondCreatedLovinText>
+
+</LanguageData>

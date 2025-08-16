@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleshbeast emergence -->
+  <FleshbeastEmergence.label>Muncul Con Carnibious</FleshbeastEmergence.label>
+  <!-- EN: fleshbeasts are emerging -->
+  <FleshbeastEmergence.disableEnteringReason>Carnibesties muncul</FleshbeastEmergence.disableEnteringReason>
+  <!-- EN: Fleshbeast emergence -->
+  <FleshbeastEmergence.letterLabel>Muncul Con Carnibious</FleshbeastEmergence.letterLabel>
+  <!-- EN: A horde of fleshbeasts is emerging from the pit gate. Get ready! -->
+  <FleshbeastEmergence.letterText>Segerombolan Carnibesties muncul dari kuburan vakum.Bersiap!</FleshbeastEmergence.letterText>
+  
+</LanguageData>

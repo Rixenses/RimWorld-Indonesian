@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>BossDefeatedletterLabel-> [Escortees0_label] dikalahkan: [hadiah_label]</li>
+    <li>BOSSDEFEATEDSTUDYCHIPLETTERTEXT-> [dikalahkan] [Studi] [manufaktur]</li>
+    <li>BOSSDEFEATEDLETTEXT-> [dikalahkan] [manufaktur]</li>
+    <li>Dikalahkan-> [Escortees0_label] yang bermusuhan telah dikalahkan dan telah menjatuhkan [hadiah_label]!</li>
+    <li>Produksi-> \ n \ n Chip juga dapat digunakan untuk membuat mekanoid yang lebih canggih.</li>
+    <li>Studi-> \ n \ nyou dapat mempelajari [hadiah_label] dengan memilih mekanitor dan mengklik kanan chip.Mempelajari [hadiah_label] membantu membuka tingkatan penelitian mechtech yang lebih tinggi.</li>-><Bossgroup.questContentRules.rulesStrings>
+    <li>BOSSDEFEATEDLETTERLabel-> [Escortees0_label] Derrotó A: [hadiah_label]</li>
+    <li>BOSSDEFEATEDSTUDYCHIPLETTERTEXT-> [dikalahkan] [Studi] [manufaktur]</li>
+    <li>BOSSDEFEATEDLETTEXT-> [dikalahkan] [manufaktur]</li>
+    <li>Ditolak-> musuh [runoffs0_label] dikalahkan dan merilis hadiah [hadiah_label]!</li>
+    <li>Manufaktur-> \ n \ nlos chip dapat digunakan untuk membuat lebih banyak mechanidas.</li>
+    <li>Studi-> \ n \ npuedes mempelajari [hadiah_label] memilih seorang mekanitor dan memberikan klik kanan.Mempelajari [hadiah_label] membantu membuka kunci tingkat penelitian yang lebih tinggi dari MECA.</li>
+  </Bossgroup.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> BossGroup</li>-><Bossgroup.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Chief Group</li>
+  </Bossgroup.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> BossGroup</li>-><Bossgroup.questNameRules.rulesStrings>
+    <li>QuestName-> Group of Bosses</li>
+  </Bossgroup.questNameRules.rulesStrings>
+  
+</LanguageData>

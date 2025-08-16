@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arms -->
+  <Arms.label>senjata</Arms.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>puncak</Beak.label>
+  
+  <!-- EN: eyes -->
+  <Eyes.label>mata</Eyes.label>
+  
+  <!-- EN: feet -->
+  <Feet.label>mengais</Feet.label>
+  
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>cakar depan kiri</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>cakar</FrontLeftClaws.labelShort>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>kaki depan kiri</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>mengais</FrontLeftLeg.labelShort>
+  
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>pawl depan kiri</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>berlayar</FrontLeftPaw.labelShort>
+  
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>cakar depan kanan</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>cakar</FrontRightClaws.labelShort>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>kaki depan kanan</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>mengais</FrontRightLeg.labelShort>
+  
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>pawl depan kanan</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>berlayar</FrontRightPaw.labelShort>
+  
+  <!-- EN: full head -->
+  <FullHead.label>kepala penuh</FullHead.label>
+  
+  <!-- EN: hands -->
+  <Hands.label>tangan</Hands.label>
+  
+  <!-- EN: head -->
+  <HeadAttackTool.label>kepala</HeadAttackTool.label>
+  
+  <!-- EN: claw -->
+  <HeadClaw.label>cakar depan</HeadClaw.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool.label>klakson</HornAttackTool.label>
+  
+  <!-- EN: left blade -->
+  <LeftBlade.label>PISAU KIRI</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>pisau</LeftBlade.labelShort>
+  
+  <!-- EN: left fist -->
+  <LeftHand.label>tinju kiri</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>tinju</LeftHand.labelShort>
+  
+  <!-- EN: legs -->
+  <Legs.label>mengais</Legs.label>
+  
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>jari tengah</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>akumulasi</MiddleFingers.labelShort>
+  
+  <!-- EN: mouth -->
+  <Mouth.label>mulut</Mouth.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>kerah</Neck.label>
+  
+  <!-- EN: right blade -->
+  <RightBlade.label>bilah kanan</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>pisau</RightBlade.labelShort>
+  
+  <!-- EN: right fist -->
+  <RightHand.label>tinju kanan</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>tinju</RightHand.labelShort>
+  
+  <!-- EN: shoulders -->
+  <Shoulders.label>bahu</Shoulders.label>
+  
+  <!-- EN: teeth -->
+  <Teeth.label>Gigi</Teeth.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>batang tubuh</Torso.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>puncak</TurtleBeakAttackTool.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>pentil</TuskAttackTool.label>
+  
+  <!-- EN: upper head -->
+  <UpperHead.label>bagian atas kepala</UpperHead.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>pinggang</Waist.label>
+  
+</LanguageData>

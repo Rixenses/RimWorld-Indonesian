@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: climate adjustment -->
+  <ClimateAdjustment.label>Regulator iklim</ClimateAdjustment.label>
+  <!-- EN: A nearby climate adjuster is shifting the temperature. -->
+  <ClimateAdjustment.description>Regulator iklim yang erat mengubah suhu.</ClimateAdjustment.description>
+  <!-- EN: A climate adjuster machine has begun shifting the temperature. -->
+  <ClimateAdjustment.letterText>Regulator iklim yang erat telah mulai mengubah suhu.</ClimateAdjustment.letterText>
+  
+  <!-- EN: EMI field -->
+  <EMIField.label>Bidang IEM</EMIField.label>
+  <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
+  <EMIField.description>Perangkat interferensi elektromagnetik (IEM) memproyeksikan medan elektromagnetik yang menonaktifkan perangkat listrik.</EMIField.description>
+  <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
+  <EMIField.descriptionFuture>Generator IEM yang jauh akan membombardir [MAP_DEFINITE] dengan bidang interferensi elektromagnetik (IEM) dengan mematikan perangkat listrik dengan [GameCondixanduration_Duration]</EMIField.descriptionFuture>
+  <!-- EN: The EMI field has disappeared. -->
+  <EMIField.endMessage>Bidang IEM telah menghilang</EMIField.endMessage>
+  <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
+  <EMIField.letterText>Bidang interferensi elektromagnetik (IEM) telah dibuat.Itu menonaktifkan perangkat listrik.</EMIField.letterText>
+  
+  <!-- EN: giant smoke cloud -->
+  <GiantSmokeCloud.label>Cloud asap raksasa</GiantSmokeCloud.label>
+  <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
+  <GiantSmokeCloud.description>Generator asap yang erat mengurangi sinar matahari di wilayah ini.</GiantSmokeCloud.description>
+  <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
+  <GiantSmokeCloud.letterText>Generator asap telah mulai mengaburkan matahari.</GiantSmokeCloud.letterText>
+  
+  <!-- EN: psychic suppression -->
+  <PsychicSuppression.label>Penindasan psikis</PsychicSuppression.label>
+  <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
+  <PsychicSuppression.description>Bidang penindasan psikis mempengaruhi {ganti: {0};"Manusia"-"Pria";"Wanita"-"Wanita"} dan mengurangi kesadaran mereka.Efeknya bervariasi sesuai dengan sensitivitas psikis masing -masing individu.</PsychicSuppression.description>
+  <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
+  <PsychicSuppression.descriptionFuture>Gelombang represi psikis akan mengurangi kesadaran segala sesuatu [psikissupresorynder] dekat [peta_definite] oleh [gameconditionation_duration]</PsychicSuppression.descriptionFuture>
+  <!-- EN: The psychic suppressor field has dissipated. -->
+  <PsychicSuppression.endMessage>Bidang represi psikis telah menghilang.</PsychicSuppression.endMessage>
+  <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
+  <PsychicSuppression.letterText>Bidang penindasan psikis telah mulai mengurangi kesadaran {ganti: {0};"Manusia"-"Pria";"Wanita"-"Wanita"} di seluruh wilayah.Efeknya bervariasi sesuai dengan sensitivitas psikis masing -masing individu.</PsychicSuppression.letterText>
+  
+  <!-- EN: sun blocked -->
+  <SunBlocker.label>tabir surya</SunBlocker.label>
+  <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
+  <SunBlocker.description>Mesin tabir surya terdekat adalah menaungi atmosfer atas, menghalangi matahari.</SunBlocker.description>
+  <!-- EN: A sun blocker machine has begun blocking the sun. -->
+  <SunBlocker.letterText>Mesin tabir surya telah mulai menghalangi matahari.</SunBlocker.letterText>
+  
+  <!-- EN: toxic spewer -->
+  <ToxicSpewer.label>Generator beracun</ToxicSpewer.label>
+  <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
+  <ToxicSpewer.description>Generator racun sedang meracuni seluruh wilayah.</ToxicSpewer.description>
+  <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
+  <ToxicSpewer.letterText>Generator racun mulai meracuni seluruh wilayah.</ToxicSpewer.letterText>
+  
+  <!-- EN: forced weather -->
+  <WeatherController.label>Iklim antinatural</WeatherController.label>
+  <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
+  <WeatherController.description>Regulator cuaca di dekatnya memanipulasi konfigurasi ini secara permanen.</WeatherController.description>
+  <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
+  <WeatherController.descriptionFuture>Sistem kontrol meteorologis akan memaksa meterologi di dekat [MAP_Definite] menjadi [Forcedweather_indefinite] oleh [GameCondixanduration_Duration]</WeatherController.descriptionFuture>
+  <!-- EN: The weather controller is no longer changing the weather. -->
+  <WeatherController.endMessage>Regulator cuaca tidak lagi mempengaruhi cuaca.</WeatherController.endMessage>
+  <!-- EN: A weather controller machine has begun affecting the weather. -->
+  <WeatherController.letterText>Regulator cuaca telah mulai mempengaruhi cuaca.</WeatherController.letterText>
+  
+</LanguageData>

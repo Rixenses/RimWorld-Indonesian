@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pilot -->
+  <GravshipLaunch.roles.0.label>pilot</GravshipLaunch.roles.0.label>
+  <!-- EN: copilot -->
+  <GravshipLaunch.roles.1.label>co-pilot</GravshipLaunch.roles.1.label>
+  <!-- EN: crew -->
+  <GravshipLaunch.spectatorGerund>awak kapal</GravshipLaunch.spectatorGerund>
+  <!-- EN: Crew -->
+  <GravshipLaunch.spectatorsLabel>Awak kapal</GravshipLaunch.spectatorsLabel>
+  
+</LanguageData>

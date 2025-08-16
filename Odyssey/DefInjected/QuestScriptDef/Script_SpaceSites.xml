@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi platform orbital yang ditinggalkan.Anda tidak mendeteksi tanda -tanda kehidupan. \ N \ nyou dapat masuk untuk mendapatkan rampasan di dalam, tetapi platform mungkin memiliki sistem pertahanan. \ N \ nyou dapat melakukan perjalanan ke lokasi orbital menggunakan gravships, shuttles, atau pod transportasi.</li>-><OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi platform orbital yang ditinggalkan.Anda tidak mendeteksi tanda -tanda kehidupan.</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 3)-> [AncientPlatAdj] [Platform]</li>
+    <li>QuestName-> [Placeoutlander] [Platform]</li>
+    <li>QuestName-> [Platform] [Greekletter]</li>
+    <li>QuestName-> [Platadj] [Platform] [RomaNumeral]</li>
+    <li>Platplatadj-> ditinggalkan</li>
+    <li>platadj-> kuno</li>
+    <li>AncientPlatadj-> [Platadj]</li>
+    <li>Platadj-> Starlight</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Zenith</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eon</li>
+    <li>Platadj-> Solace</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Apollo</li>
+    <li>Platadj-> Ares</li>
+    <li>Platadj-> Hades</li>
+    <li>Platadj-> Ajax</li>
+    <li>Platadj-> mereka</li>
+    <li>Platadj-> eros</li>
+    <li>Platadj-> Chronos</li>
+    <li>Platadj-> Zephyrus</li>
+    <li>Platadj-> Argos</li>
+    <li>Platadj-> Orion</li>
+    <li>Platadj-> Hermes</li>
+    <li>Platadj-> Atlas</li>
+    <li>Platadj-> Helios</li>
+    <li>Platadj-> Hephaestus</li>
+    <li>Platadj-> Talos</li>
+    <li>Platadj-> Vanguard</li>
+    <li>Platadj-> aegis</li>
+    <li>Platadj-> Halcyon</li>
+    <li>Platadj-> SkyForge</li>
+    <li>Platadj-> Titan</li>
+    <li>Platform (P = 2)-> Stasiun</li>
+    <li>Platform-> Platform</li>
+    <li>Platform-> Platform Orbital</li>
+    <li>Platform-> Orbital Hub</li>
+    <li>Platform (P = 0,5)-> Skygate</li>
+    <li>Platform (p = 0,5)-> spacedock</li>
+    <li>Platform (P = 0,5)-> Gateway</li>
+    <li>Surat Yunani-> Alpha</li>
+    <li>Surat Yunani-> Beta</li>
+    <li>Surat Yunani-> theta</li>
+    <li>Surat Yunani-> Delta</li>
+    <li>Surat Yunani-> Zeta</li>
+    <li>Surat Yunani-> Sigma</li>
+    <li>Surat Yunani-> Omega</li>
+    <li>PlaceOutlander (p = 3) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>-><OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>QuestName (p = 3)-> [Platform] [AncientPlatAdj]</li>
+    <li>QuestName (p = 3)-> [PlatformMale] [AncientPlatadjMale]</li>
+    <li>QuestName-> [Platform] [Placeoutlander]</li>
+    <li>QuestName-> [PlatformMale] [Placeoutlander]</li>
+    <li>QuestName (p = 2)-> [platform] [Greekletter]</li>
+    <li>QuestName (p = 2)-> [PlatformMale] [Greekletter]</li>
+    <li>QuestName-> [Platform] [Platadj] [RomaNumeral]</li>
+    <li>QuestName-> [PlatformMale] [Platadj] [RomaNumeral]</li>
+    <li>Platplatadj-> ditinggalkan</li>
+    <li>platadj-> antigua</li>
+    <li>PLATADJMALE-> DITERBITKAN</li>
+    <li>platadjmale-> kuno</li>
+    <li>AncientPlatadjMale-> [Platadj]</li>
+    <li>AncientPlatadj-> [Platadj]</li>
+    <li>Platadj-> Star Light</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Cénit</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eón</li>
+    <li>Platadj-> Refuge</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Apollo</li>
+    <li>Platadj-> Ares</li>
+    <li>Platadj-> Hades</li>
+    <li>Platadj-> Ajax</li>
+    <li>Platadj-> mereka</li>
+    <li>Platadj-> eros</li>
+    <li>Platadj-> Cronos</li>
+    <li>Platadj-> Zephyrus</li>
+    <li>Berlapis-> cele</li>
+    <li>Platadj-> Argos</li>
+    <li>Platadj-> Orion</li>
+    <li>Platadj-> Hermes</li>
+    <li>Platadj-> Atlas</li>
+    <li>Platadj-> Helios</li>
+    <li>Platadj-> Hephaestus</li>
+    <li>Berlapis-> hefesto</li>
+    <li>Platadj-> Talos</li>
+    <li>Platadj-> avant-garde</li>
+    <li>Platadj-> Egid</li>
+    <li>Platadj-> Halcyon</li>
+    <li>Platadj-> Star Forge</li>
+    <li>Platadj-> Titan</li>
+    <li>Platform (P = 2)-> Stasiun</li>
+    <li>Platform-> PlataForma</li>
+    <li>Platform-> Orbital Plataforma</li>
+    <li>PlatformMale-> Centro Orbital</li>
+    <li>Platform (P = 0,5)-> Puerta del Cielo</li>
+    <li>PlatformMale (P = 0,5)-> Space Spring</li>
+    <li>PlatformMale (p = 0,5)-> Portal</li>
+    <li>Surat Yunani-> Alpha</li>
+    <li>Surat Yunani-> Beta</li>
+    <li>Surat Yunani-> Lambda</li>
+    <li>Greekletter-> ómicron</li>
+    <li>Greekletter-> Épsilon</li>
+    <li>Surat Yunani-> Delta</li>
+    <li>Surat Yunani-> Zeta</li>
+    <li>Surat Yunani-> Sigma</li>
+    <li>Surat Yunani-> Omega</li>
+    <li>PlaceOutlander (p = 2) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa orang lain telah mengklaim platform tersebut.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi asteroid yang mengorbit planet ini.Ini berisi sejumlah besar [sumber daya], dan berpotensi sumber daya lainnya juga.Anda tidak mendeteksi tanda -tanda kehidupan dari asteroid ini. \ N \ nyou dapat mencapai asteroid dengan polong transportasi, angkutan, atau gravship.Lengkapi penjajah Anda dengan pakaian orbital yang cukup sebelum berangkat.</li>-><OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [DiscoveryMethod] Lokasi asteroid yang mengorbit planet ini.Ini berisi sejumlah besar [sumber daya] dan berpotensi sumber daya lainnya juga.Anda tidak mendeteksi tanda -tanda kehidupan asteroid ini.Lengkapi pemukim Anda dengan pakaian orbital yang memadai sebelum pergi.</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Sumber Daya] Asteroid</li>-><OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>QuestName-> Asteroid dari [sumber daya]</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi platform orbital.Anda mendeteksi aktivitas mekanoid tingkat tinggi. \ N \ nyou dapat mengais barang berharga dari platform. \ N \ nyou dapat melakukan perjalanan ke lokasi orbital menggunakan gravships, shuttles, atau pod transportasi.</li>-><OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [DiscoveryMethod] Lokasi platform orbital.Anda mendeteksi aktivitas mekanoid tingkat tinggi. \ N \ npuedes memulihkan objek berharga dari platform.</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Platadj] [Platform] [Penunjukan]</li>
+    <li>QuestName-> [Platadj] [Platform]</li>
+    <li>Platadj (p = 3)-> mechanoid</li>
+    <li>Platadj (p = 3)-> [mechanoid]</li>
+    <li>Platadj-> Genesis</li>
+    <li>Platadj-> Sintesis</li>
+    <li>Platadj-> Majelis</li>
+    <li>Platadj-> Formasi</li>
+    <li>Platform-> Platform</li>
+    <li>Platform-> Stasiun</li>
+    <li>platform-> hub</li>
+    <li>Penunjukan-> [RomaNumeral]</li>
+    <li>Penunjukan-> [Surat]-[RomaNumeral]</li>
+    <li>Mechanoid-> Scyther</li>
+    <li>Mechanoid-> Lancer</li>
+    <li>Mechanoid-> Centipede</li>
+    <li>mechanoid-> cyclops</li>-><OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>QuestName-> [Platform] [Platadj] [Penunjukan]</li>
+    <li>QuestName-> [Platform] [Platadj]</li>
+    <li>Platadj (p = 3)-> Mecanoid</li>
+    <li>Platadj (p = 3)-> [mechanoid]</li>
+    <li>Platadj-> Genesis</li>
+    <li>Platadj-> Sintesis</li>
+    <li>Platadj-> Majelis</li>
+    <li>Platadj-> Pelatihan</li>
+    <li>Platform (P = 3)-> PlataForma</li>
+    <li>Platform (P = 2)-> Stasiun</li>
+    <li>Platform-> Centro</li>
+    <li>Penunjukan-> [RomaNumeral]</li>
+    <li>Penunjukan-> [Surat]-[RomaNumeral]</li>
+    <li>Mechanoid-> Sedator</li>
+    <li>Mechanoid-> Lancero</li>
+    <li>Mechanoid-> ciempiés</li>
+    <li>Mechanoid-> cyclops</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa orang lain telah mengklaim platform tersebut.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Asteroid yang tidak biasa yang mengorbit planet ini.Asteroid memiliki inti berongga yang berisi beberapa struktur. \ N \ nyou dapat masuk untuk mendapatkan rampasan di dalamnya.</li>-><OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Asteroid yang tidak biasa yang mengorbit planet ini.Asteroid memiliki inti berongga yang mengandung beberapa struktur. \ N \ npuedes masuk ke rampasan di dalamnya.</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [kata sifat] [orbital] [stash_noun]</li>
+    <li>QuestName-> [orbital] [stash_noun]</li>
+    <li>kata sifat-> tersembunyi</li>
+    <li>kata sifat-> rahasia</li>
+    <li>orbital-> orbital</li>
+    <li>orbital-> asteroid</li>
+    <li>stash_noun-> simpanan</li>
+    <li>stash_noun-> cache</li>-><OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>QuestName-> [orbital] [kata sifat] [stash_noun]</li>
+    <li>QuestName-> [orbital] [stash_noun]</li>
+    <li>kata sifat-> tersembunyi</li>
+    <li>kata sifat-> rahasia</li>
+    <li>orbital-> planetoide</li>
+    <li>orbital-> asteroide</li>
+    <li>stash_noun-> cadangan</li>
+    <li>Stash_noun-> dari ketentuan</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Koordinat dari potongan besar reruntuhan di orbit.Itu bisa berisi sumber daya yang berharga.Bidang puing orbital sering ditempati oleh pemulung yang bermusuhan. \ N \ nyou dapat melakukan perjalanan ke lokasi orbital menggunakan gravships, shuttles, atau pod transportasi.</li>-><OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [DiscoveryMethod] Koordinat sepotong sisa-sisa raksasa di orbit.Itu bisa berisi sumber daya yang berharga. Bidang puing orbital sering ditempati oleh pemulung yang bermusuhan.</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 2)-> Reruntuhan [PlatAdj] [Platform]</li>
+    <li>QuestName-> [Platadj] [Reruntuhan]</li>
+    <li>QuestName-> [PlaceOutlander] [Reruntuhan]</li>
+    <li>QuestName-> [Ruined] [Platadj] [Platform]</li>
+    <li>Platadj-> Starlight</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Zenith</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eon</li>
+    <li>Platadj-> Solace</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Apollo</li>
+    <li>Platadj-> Ares</li>
+    <li>Platadj-> Hades</li>
+    <li>Platadj-> Ajax</li>
+    <li>Platadj-> mereka</li>
+    <li>Platadj-> eros</li>
+    <li>Platadj-> Chronos</li>
+    <li>Platadj-> Zephyrus</li>
+    <li>Platadj-> Argos</li>
+    <li>Platadj-> Orion</li>
+    <li>Platadj-> Hermes</li>
+    <li>Platadj-> Atlas</li>
+    <li>Platadj-> Helios</li>
+    <li>Platadj-> Hephaestus</li>
+    <li>Platadj-> Talos</li>
+    <li>Platadj-> Vanguard</li>
+    <li>Platadj-> aegis</li>
+    <li>Platadj-> Halcyon</li>
+    <li>Platadj-> SkyForge</li>
+    <li>Platadj-> Titan</li>
+    <li>Reruntuhan (p = 2)-> reruntuhan</li>
+    <li>Reruntuhan (P = 2)-> Bangkai</li>
+    <li>Reruntuhan Reruntuhan-> Reruntuhan Orbital</li>
+    <li>reruntuhan-> bidang puing</li>
+    <li>Platform (P = 2)-> Stasiun</li>
+    <li>Platform-> Platform</li>
+    <li>Platform (P = 0,5)-> Skygate</li>
+    <li>Platform (p = 0,5)-> spacedock</li>
+    <li>Platform (P = 0,5)-> Gateway</li>
+    <li>hancur-> hancur</li>
+    <li>hancur-> hancur</li>
+    <li>Ruined-> Scuttled</li>
+    <li>hancur-> hilang</li>
+    <li>hancur-> rusak</li>
+    <li>PlaceOutlander (p = 3) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>-><OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>QuestName (p = 2)-> Reruntuhan [platform] [Platadj]</li>
+    <li>QuestName (p = 0,5)-> reruntuhan [PlatformMale] [Platadj]</li>
+    <li>QuestName-> [Reruntuhan] [Platadj]</li>
+    <li>QuestName-> [Reruntuhan] [Placeoutlander]</li>
+    <li>QuestName-> [Platform] [Ruined] [Platadj]</li>
+    <li>Platadj-> Star Light</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Cénit</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eón</li>
+    <li>Platadj-> Refuge</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Apollo</li>
+    <li>Platadj-> Ares</li>
+    <li>Platadj-> Hades</li>
+    <li>Platadj-> Ajax</li>
+    <li>Platadj-> mereka</li>
+    <li>Platadj-> eros</li>
+    <li>Platadj-> Cronos</li>
+    <li>Platadj-> Zephyrus</li>
+    <li>Berlapis-> cele</li>
+    <li>Platadj-> Argos</li>
+    <li>Platadj-> Orion</li>
+    <li>Platadj-> Hermes</li>
+    <li>Platadj-> Atlas</li>
+    <li>Platadj-> Helios</li>
+    <li>Platadj-> Hephaestus</li>
+    <li>Berlapis-> hefesto</li>
+    <li>Platadj-> Talos</li>
+    <li>Platadj-> avant-garde</li>
+    <li>Platadj-> Egid</li>
+    <li>Platadj-> Halcyon</li>
+    <li>Platadj-> Star Forge</li>
+    <li>Platadj-> Titan</li>
+    <li>Reruntuhan (p = 2)-> restos</li>
+    <li>Reruntuhan (P = 2)-> Escombros</li>
+    <li>Reruntuhan Reruntuhan-> Reruntuhan Orbital</li>
+    <li>Reruntuhan-> Bidang Puing-puing</li>
+    <li>Platform (P = 2)-> Stasiun</li>
+    <li>Platform-> PlataForma</li>
+    <li>Platform (P = 0,5)-> Puerta del Cielo</li>
+    <li>PlatformMale (P = 0,5)-> Space Spring</li>
+    <li>PlatformMale (p = 0,5)-> Portal</li>
+    <li>hancur-> hancur</li>
+    <li>Hancur-> hancur</li>
+    <li>Ruined-> Hundida</li>
+    <li>Hancur-> hilang</li>
+    <li>Hancur-> hancur</li>
+    <li>PlaceOutlander (p = 3) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the orbital wreck has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa orang lain telah mengklaim sisa -sisa orbital.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi satelit orbital.Satelit ini tidak berawak dan seringkali tidak mampu mendukung kehidupan.Satelit melayani berbagai tujuan, dari pengumpulan daya hingga platform senjata. \ N \ nyou dapat memulung teknologi berharga dari satelit tetapi diperingatkan, satelit sangat dijaga oleh sistem keamanan kuno. \ N \ nyou dapat melakukan perjalanan ke lokasi orbital menggunakan gravhips, shuttle, atau transport pods.</li>-><OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi satelit orbital.Satelit ini tidak berawak dan seringkali tidak dapat bertahan hidup. Satelit melayani berbagai tujuan, dari pengumpulan energi hingga platform senjata.</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Placeoutlander] [Platform]</li>
+    <li>QuestName-> [Platadj] [Platform]</li>
+    <li>Platadj (p = 4)-> orbital</li>
+    <li>Platadj-> Observasi</li>
+    <li>Platadj-> Jaringan</li>
+    <li>Platadj-> Imperial</li>
+    <li>Platadj-> Solar</li>
+    <li>Platadj-> Starlight</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Zenith</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eon</li>
+    <li>Platadj-> Solace</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Echo</li>
+    <li>Platform (P = 4)-> Satelit</li>
+    <li>Platform-> Relay</li>
+    <li>Platform-> Ring</li>
+    <li>Platform-> Satlink</li>
+    <li>Platform-> Sentinel</li>
+    <li>Platform-> Prime</li>
+    <li>Platform-> Beacon</li>
+    <li>Platform-> Bombarder</li>
+    <li>PlaceOutlander (p = 3) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>-><OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>QuestName-> [Platform] [Placeoutlander]</li>
+    <li>QuestName-> [Platform] [Platadj]</li>
+    <li>Platadj (p = 4)-> orbital</li>
+    <li>Platadj-> Observasi</li>
+    <li>Platadj-> de Red</li>
+    <li>Platadj-> Imperial</li>
+    <li>Platadj-> Solar</li>
+    <li>Platadj-> Star Light</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> Cénit</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Corona</li>
+    <li>Platadj-> nova</li>
+    <li>Platadj-> eón</li>
+    <li>Platadj-> Consuelo</li>
+    <li>Platadj-> Light</li>
+    <li>Platadj-> ion</li>
+    <li>Platadj-> Astralis</li>
+    <li>Platadj-> Eco</li>
+    <li>Platform (P = 4)-> Satelit</li>
+    <li>Platform-> Transmisor</li>
+    <li>Platform-> Ring</li>
+    <li>Platform-> Tautan Satelit</li>
+    <li>Platform-> Centinela</li>
+    <li>Platform-> Luna</li>
+    <li>Platform-> Baliza</li>
+    <li>Platform-> Bomber</li>
+    <li>PlaceOutlander (p = 3) -> [Syle] [Place_end]</li>
+    <li>Placeoutlander-> [style] [style] [place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Scanner readings indicate the satellite has boosted itself into a higher, unreachable orbit. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>Bacaan pemindai menunjukkan bahwa satelit telah didorong ke orbit yang superior dan tidak dapat dicapai.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

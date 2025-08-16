@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark visions -->
+  <DarkVisions.label>Visi Gelap</DarkVisions.label>
+  <!-- EN: Mental state: Dark visions -->
+  <DarkVisions.baseInspectLine>Keadaan mental: Visi Gelap</DarkVisions.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become overwhelmed with horrible visions, rambling about things that only {PAWN_pronoun} can see. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <DarkVisions.beginLetter>{Pawn_namedef} telah kewalahan {Pawn_gender?O: A} Untuk penglihatan yang mengerikan, berkeliaran tentang hal -hal yang hanya {Pawn_pronoun} yang bisa dilihat.Itu akan pulih dalam beberapa jam.</DarkVisions.beginLetter>
+  <!-- EN: dark visions -->
+  <DarkVisions.beginLetterLabel>Visi Gelap</DarkVisions.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
+  <DarkVisions.recoveryMessage>Visi gelap {Pawn_namedef} telah berhenti.</DarkVisions.recoveryMessage>
+  
+  <!-- EN: entity slayer -->
+  <EntityKiller.label>Entitas berburu</EntityKiller.label>
+  <!-- EN: Mental state: Entity slayer -->
+  <EntityKiller.baseInspectLine>Keadaan mental: Entitas perburuan</EntityKiller.baseInspectLine>
+  <!-- EN: {0} has snapped. {PAWN_pronoun} can no longer tolerate holding such dangerous entities in captivity and intends to destroy as many as {PAWN_pronoun} can. -->
+  <EntityKiller.beginLetter>{0} telah meledak.Dia tidak bisa lagi mentolerir untuk menjaga penangkaran terhadap entitas berbahaya seperti itu dan bermaksud untuk menghancurkan sebanyak yang dia bisa.</EntityKiller.beginLetter>
+  <!-- EN: {0} is no longer slaughtering random entities. -->
+  <EntityKiller.recoveryMessage>{0} tidak lagi membantai entitas acak.</EntityKiller.recoveryMessage>
+  
+  <!-- EN: entity liberator -->
+  <EntityLiberator.label>Entitas gratis</EntityLiberator.label>
+  <!-- EN: Mental state: Entity liberator -->
+  <EntityLiberator.baseInspectLine>Keadaan mental: melepaskan entitas</EntityLiberator.baseInspectLine>
+  <!-- EN: {0} has become suddenly allured by a captive entity and is convinced it must be freed. -->
+  <EntityLiberator.beginLetter>{0} tiba -tiba melihat seduid {Pawn_gender?O: a} oleh entitas tawanan dan diyakinkan {Pawn_gender?Atau: A} yang harus dilepaskan.</EntityLiberator.beginLetter>
+  <!-- EN: {0} is no longer freeing entities. -->
+  <EntityLiberator.recoveryMessage>{0} tidak lagi melepaskan entitas.</EntityLiberator.recoveryMessage>
+  
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.label>Delusi Demential</InsaneRamblings.label>
+  <!-- EN: Mental state: Insane ramblings -->
+  <InsaneRamblings.baseInspectLine>Keadaan mental: delusi demensial</InsaneRamblings.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has become completely untethered from reality, ranting about impossible subjects. {PAWN_pronoun} will snap out of it in a few hours. -->
+  <InsaneRamblings.beginLetter>{Pawn_namedef} telah sepenuhnya terputus dari kenyataan, meneriakkan masalah yang mustahil.Itu akan pulih dalam beberapa jam.</InsaneRamblings.beginLetter>
+  <!-- EN: insane ramblings -->
+  <InsaneRamblings.beginLetterLabel>Delusi Demential</InsaneRamblings.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef} has stopped rambling. -->
+  <InsaneRamblings.recoveryMessage>{Pawn_namedef} telah berhenti mengigau.</InsaneRamblings.recoveryMessage>
+  
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.label>halusinasi yang menakutkan</TerrifyingHallucinations.label>
+  <!-- EN: Mental state: Terrifying hallucinations -->
+  <TerrifyingHallucinations.baseInspectLine>Keadaan mental: halusinasi yang menakutkan</TerrifyingHallucinations.baseInspectLine>
+  <!-- EN: Vivid  hallucinations swirl around {0}, twisting and distorting allies into horrifying abominations. {PAWN_pronoun} will flee from anyone {PAWN_pronoun} perceives as a threat. -->
+  <TerrifyingHallucinations.beginLetter>Halusinasi yang jelas adalah aglomerat di sekitar {0}, memutar dan mendistorsi orang untuk membuat mereka kekejian yang mengerikan.Itu akan melarikan diri dari siapa pun yang menganggap sebagai ancaman.</TerrifyingHallucinations.beginLetter>
+  <!-- EN: terrifying hallucinations -->
+  <TerrifyingHallucinations.beginLetterLabel>halusinasi yang menakutkan</TerrifyingHallucinations.beginLetterLabel>
+  <!-- EN: {0} is no longer hallucinating. -->
+  <TerrifyingHallucinations.recoveryMessage>{0} tidak lagi berhalusinasi.</TerrifyingHallucinations.recoveryMessage>
+  
+</LanguageData>

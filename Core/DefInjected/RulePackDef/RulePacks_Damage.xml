@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RURGADE_PAST (p = 2)-> Blasted</li>
+    <li>RURGADE_PAST (p = 2)-> meledak</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> rusak</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> terluka</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dilenyapkan</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> diledakkan</li>-><Damage_Bomb.rulePack.rulesStrings>
+    <li>Dagide_past (p = 2)-> vish</li>
+    <li>Dagide_past (p = 2)-> eksplorasi</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> rusak</li>
+    <li>RURGAGED_PAST-> HERIDO</li>
+    <li>Rusak_past-> terluka</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>Hancur melewati-> diledakkan</li>
+  </Damage_Bomb.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_PAST-> Listrik</li>
+    <li>Rusak_past-> terkejut</li>
+    <li>RURGADE_PAST-> Zapped</li>
+    <li>dihancurkan_past-> rusak_past</li>-><Damage_EMP.rulePack.rulesStrings>
+    <li>RURGAGED_PAST-> electrificado</li>
+    <li>RURGADE_PAST-> Smoked</li>
+    <li>RURGADE_PAST-> electrocutado</li>
+    <li>dihancurkan_past-> rusak_past</li>
+  </Damage_EMP.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_PAST-> Padamkan</li>
+    <li>RAUPAGED_PAST-> dibanjiri</li>
+    <li>RURGADE_PAST-> FOAMED</li>
+    <li>RURGAGED_PAST-> DEFENCHED</li>
+    <li>dihancurkan_past-> rusak_past</li>-><Damage_Extinguish.rulePack.rulesStrings>
+    <li>RURGADE_PAST-> EXTINGUIDO</li>
+    <li>Daged_past-> inthink</li>
+    <li>RURGAGED_PAST-> Espumeado</li>
+    <li>RURGAGED_PAST-> APLACADO</li>
+    <li>dihancurkan_past-> rusak_past</li>
+  </Damage_Extinguish.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_PAST (p = 2)-> Blasted</li>
+    <li>RURGAGED_PAST (p = 2)-> hangus</li>
+    <li>RURGADE_PAST (p = 2)-> dibakar</li>
+    <li>RURGAGED_PAST (p = 2)-> melepuh</li>
+    <li>RURGAGED_PAST (p = 2)-> dinyalakan</li>
+    <li>RURGADE_PAST (P = 2)-> Seared</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> rusak</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> terluka</li>
+    <li>RURGADE_PRESENT (p = 2)-> Blasting</li>
+    <li>RURGAGED_PRESENT (p = 2)-> hangus</li>
+    <li>RURGAGED_PRESENT (P = 2)-> BURNING</li>
+    <li>RURGADE_PRESENT (p = 2)-> melepuh</li>
+    <li>RURGAGED_PRESENT (P = 2)-> Igniting</li>
+    <li>RURGAGED_PRESENT (p = 2)-> Searing</li>
+    <li>RAUPAGED_PRESENT-> Cedera</li>
+    <li>RURRAGED_PRESENT-> merusak</li>
+    <li>Rusak_present-> COURING</li>
+    <li>RAUPAGED_PRESENT-> Rasa sakit</li>
+    <li>dihancurkan_past-> dikremasi</li>
+    <li>dihancurkan_past-> membakar</li>
+    <li>dihancurkan_past-> hangus</li>
+    <li>dihancurkan_past-> dilenyapkan</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> diledakkan</li>
+    <li>Hancur Present-> Cremation</li>
+    <li>dihancurkan_present-> membakar</li>
+    <li>dihancurkan_present-> charring</li>
+    <li>dihancurkan_present-> Obliterating</li>
+    <li>dihancurkan_present-> dimusnahkan</li>
+    <li>dihancurkan_present-> meledakkan</li>-><Damage_Flame.rulePack.rulesStrings>
+    <!--<li>RURGADE_PAST (p = 2)-> Blasted</li>
+    <li>RURGAGED_PAST (p = 2)-> hangus</li>
+    <li>RURGADE_PAST (p = 2)-> dibakar</li>
+    <li>RURGAGED_PAST (p = 2)-> melepuh</li>
+    <li>RURGAGED_PAST (p = 2)-> dinyalakan</li>
+    <li>RURGADE_PAST (P = 2)-> Seared</li>-><li>Dagide_past (p = 2)-> eksplorasi</li>
+    <li>RURGAGED_PAST (p = 2)-> Chamuscado</li>
+    <li>RURGADE_PAST (p = 2)-> dibakar</li>
+    <li>RAVAGED_PAST (P = 2)-> Achicharrado</li>
+    <li>RURGADE_PAST (p = 2)-> Encendido</li>
+    <li>RURGAGED_PAST (p = 2)-> Cauterizado</li>
+    <!--<li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> rusak</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> terluka</li>-><li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> rusak</li>
+    <li>RURGAGED_PAST-> HERIDO</li>
+    <li>Rusak_past-> terluka</li>
+    <!--<li>RURGADE_PRESENT (p = 2)-> Blasting</li>
+    <li>RURGAGED_PRESENT (p = 2)-> hangus</li>
+    <li>RURGAGED_PRESENT (P = 2)-> BURNING</li>
+    <li>RURGADE_PRESENT (p = 2)-> melepuh</li>
+    <li>RURGAGED_PRESENT (P = 2)-> Igniting</li>
+    <li>RURGAGED_PRESENT (p = 2)-> Searing</li>
+    <li>RAUPAGED_PRESENT-> Cedera</li>
+    <li>RURRAGED_PRESENT-> merusak</li>
+    <li>Rusak_present-> COURING</li>
+    <li>RAUPAGED_PRESENT-> Rasa sakit</li>-><li>RURGADE_PRESENT (P = 2)-> Explotando</li>
+    <li>RURGADE_PRESENT (p = 2)-> chamuscando</li>
+    <li>RURGADE_PRESENT (p = 2)-> quemando</li>
+    <li>RURGAGED_PRESENT (P = 2)-> Achicharrando</li>
+    <li>RURGADE_PRESENT (p = 2)-> Encendiendo</li>
+    <li>RURGADE_PRESENT (p = 2)-> cauterizando</li>
+    <li>RURGAGED_PRESENT-> Hiriendo</li>
+    <li>RURRAGED_PRESENT-> merusak</li>
+    <li>RAUPAGED_PRESENT-> Cedera</li>
+    <li>RURGAGED_PRESENT-> LASTIMANDO</li>
+    <!--<li>dihancurkan_past-> dikremasi</li>
+    <li>dihancurkan_past-> membakar</li>
+    <li>dihancurkan_past-> hangus</li>
+    <li>dihancurkan_past-> dilenyapkan</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> diledakkan</li>-><li>dihancurkan_past-> dikalsinasi</li>
+    <li>dihancurkan_past-> Incinerado</li>
+    <li>dihancurkan_past-> hangus</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>Hancur melewati-> diledakkan</li>
+    <!--<li>Hancur Present-> Cremation</li>
+    <li>dihancurkan_present-> membakar</li>
+    <li>dihancurkan_present-> charring</li>
+    <li>dihancurkan_present-> Obliterating</li>
+    <li>dihancurkan_present-> dimusnahkan</li>
+    <li>dihancurkan_present-> meledakkan</li>-><li>dihancurkan_present-> calcinando</li>
+    <li>dihancurkan_present-> Incinerando</li>
+    <li>dihancurkan_present-> Carbonizando</li>
+    <li>Dihancurkan_present-> menghancurkan</li>
+    <li>Hancurkan Present-> Imnilating</li>
+    <li>dihancurkan_present-> meledakkan</li>
+  </Damage_Flame.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_PAST-> Smoked</li>
+    <li>RURGADE_PAST-> FOGGED</li>
+    <li>RURGAGED_PAST-> CLOLDED</li>
+    <li>dihancurkan_past-> rusak_past</li>-><Damage_Smoke.rulePack.rulesStrings>
+    <li>RURGADE_PAST-> AHUMADO</li>
+    <li>RURGADE_PAST-> FOG</li>
+    <!-- fogged -->
+    <li>Daged_past-> nullado</li>
+    <li>dihancurkan_past-> rusak_past</li>
+  </Damage_Smoke.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGAGED_PAST-> terpana</li>
+    <li>Rusak_past-> Bingung</li>
+    <li>Rusak_past-> berhenti</li>
+    <li>Rusak_past-> Dizzied</li>
+    <li>dihancurkan_past-> rusak_past</li>-><Damage_Stun.rulePack.rulesStrings>
+    <li>RURGADE_PAST-> ATURDIDO</li>
+    <li>RURGAGED_PAST-> CONDUNDIDO</li>
+    <li>RURGADE_PAST-> DETENIDO</li>
+    <li>RURGADE_PAST-> MAREADO</li>
+    <li>dihancurkan_past-> rusak_past</li>
+  </Damage_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <!-- EN: Fishing zone -->
+  <Zone_Fishing>Area penangkapan ikan</Zone_Fishing>
+  <!-- EN: fishing -->
+  <FishingGroup>penangkapan ikan</FishingGroup>
+  <!-- EN: Create an area where your hunters will fish. Must be placed over water containing fish. Larger bodies of water are generally better for fishing. -->
+  <DesignatorFishingZoneDesc>Buat area di mana pemburu Anda akan memancing.Itu harus ditempatkan di atas air yang mengandung ikan.Tubuh air yang lebih besar umumnya lebih baik untuk memancing.</DesignatorFishingZoneDesc>
+
+  <!-- Override snow clearing => snow and sand clearing -->
+  <!-- EN: Snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearExpand>Area pembersih salju dan pasir</DesignatorAreaSnowOrSandClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearExpandDesc>Buat area yang akan dicoba oleh pemukim untuk menjaga salju dan pasir.</DesignatorAreaSnowOrSandClearExpandDesc>
+  <!-- EN: Clear snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearClear>Menghilangkan area pembersih salju dan pasir</DesignatorAreaSnowOrSandClearClear>
+  <!-- EN: Removes a snow and sand removal area. Colonists will no longer try to keep this area clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearClearDesc>Menghilangkan area pembersih salju dan pasir.Para pemukim akan berhenti menjaganya tetap bersih.</DesignatorAreaSnowOrSandClearClearDesc>
+
+  <!-- EN: Remove foundation -->
+  <DesignatorRemoveFoundation>Menghilangkan fondasi</DesignatorRemoveFoundation>
+  <!-- EN: Remove bridges or gravship substructure to reveal the terrain underneath. -->
+  <DesignatorRemoveFoundationDesc>Lepaskan jembatan atau substruktur gravinave untuk mengungkapkan tanah.</DesignatorRemoveFoundationDesc>
+
+  <!-- EN: Move landing zone -->
+  <DesignatorMoveGravship>Pindahkan zona pendaratan</DesignatorMoveGravship>
+  <!-- EN: Reposition the gravship's landing spot. -->
+  <DesignatorMoveGravshipDesc>Reposisi tempat pendaratan gravinave.</DesignatorMoveGravshipDesc>
+</LanguageData>

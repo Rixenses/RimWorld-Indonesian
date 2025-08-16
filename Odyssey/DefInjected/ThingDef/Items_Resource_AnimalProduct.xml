@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator egg (fert.) -->
+  <EggAlligatorFertilized.label>Aligáctor Egg (fert.)</EggAlligatorFertilized.label>
+  <!-- EN: A fertilized alligator egg. If all goes well, it should hatch into a baby alligator. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorFertilized.description>Telur pencerahan yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas lebih ringan.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggAlligatorFertilized.description>
+  
+  <!-- EN: alligator egg (unfert.) -->
+  <EggAlligatorUnfertilized.label>Aligáctor Egg (No Fert.)</EggAlligatorUnfertilized.label>
+  <!-- EN: An unfertilized alligator egg. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorUnfertilized.description>Telur pencerahan yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggAlligatorUnfertilized.description>
+  
+  <!-- EN: bluebird egg (fert.) -->
+  <EggBluebirdFertilized.label>Ubin telur (fert.)</EggBluebirdFertilized.label>
+  <!-- EN: A fertilized bluebird egg. If all goes well, it should hatch into a baby bluebird. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdFertilized.description>Telur ubin yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pemuliaan ubin.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggBluebirdFertilized.description>
+  
+  <!-- EN: bluebird egg (unfert.) -->
+  <EggBluebirdUnfertilized.label>Ubin telur (tidak fert.)</EggBluebirdUnfertilized.label>
+  <!-- EN: An unfertilized bluebird egg. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdUnfertilized.description>Telur ubin yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggBluebirdUnfertilized.description>
+  
+  <!-- EN: crow egg (fert.) -->
+  <EggCrowFertilized.label>Telur cuervo (fert.)</EggCrowFertilized.label>
+  <!-- EN: A fertilized crow egg. If all goes well, it should hatch into a baby crow. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowFertilized.description>Telur gagak yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pelanggaran gagak.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggCrowFertilized.description>
+  
+  <!-- EN: crow egg (unfert.) -->
+  <EggCrowUnfertilized.label>Telur cuervo (tidak fert.)</EggCrowUnfertilized.label>
+  <!-- EN: An unfertilized crow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowUnfertilized.description>Telur gagak yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggCrowUnfertilized.description>
+  
+  <!-- EN: flamingo egg (fert.) -->
+  <EggFlamingoFertilized.label>Telur flamenco (fert.)</EggFlamingoFertilized.label>
+  <!-- EN: A fertilized flamingo egg. If all goes well, it should hatch into a baby flamingo. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoFertilized.description>Telur flamenco yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pembiakan flamenco.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggFlamingoFertilized.description>
+  
+  <!-- EN: flamingo egg (unfert.) -->
+  <EggFlamingoUnfertilized.label>Telur flamenco (tidak fert.)</EggFlamingoUnfertilized.label>
+  <!-- EN: An unfertilized flamingo egg. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoUnfertilized.description>Telur flamenco yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggFlamingoUnfertilized.description>
+  
+  <!-- EN: heron egg (fert.) -->
+  <EggHeronFertilized.label>Garza Egg (kaki.)</EggHeronFertilized.label>
+  <!-- EN: A fertilized heron egg. If all goes well, it should hatch into a baby heron. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronFertilized.description>Telur Garza yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas dengan kasar.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggHeronFertilized.description>
+  
+  <!-- EN: heron egg (unfert.) -->
+  <EggHeronUnfertilized.label>Garza Egg (No Fert.)</EggHeronUnfertilized.label>
+  <!-- EN: An unfertilized heron egg. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronUnfertilized.description>Telur Garza yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggHeronUnfertilized.description>
+  
+  <!-- EN: macaw egg (fert.) -->
+  <EggMacawFertilized.label>Telur guacamayo (fert.)</EggMacawFertilized.label>
+  <!-- EN: A fertilized macaw egg. If all goes well, it should hatch into a baby parrot. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawFertilized.description>Telur Macaw yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pemuliaan Guacamayo.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggMacawFertilized.description>
+  
+  <!-- EN: macaw egg (unfert.) -->
+  <EggMacawUnfertilized.label>Telur guacamayo (tidak fert.)</EggMacawUnfertilized.label>
+  <!-- EN: An unfertilized macaw egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawUnfertilized.description>Telur macaw yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggMacawUnfertilized.description>
+  
+  <!-- EN: monitor lizard egg (fert.) -->
+  <EggMonitorLizardFertilized.label>Lizard Egg Monitor (Fert.)</EggMonitorLizardFertilized.label>
+  <!-- EN: A fertilized monitor lizard egg. If all goes well, it should hatch into a baby monitor lizard. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardFertilized.description>Telur monitor kadal yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas monitor pemuliaan kadal.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggMonitorLizardFertilized.description>
+  
+  <!-- EN: monitor lizard egg (unfert.) -->
+  <EggMonitorLizardUnfertilized.label>Lizard Egg Monitor (No Fert.)</EggMonitorLizardUnfertilized.label>
+  <!-- EN: An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardUnfertilized.description>Telur kadal monitor yang tidak dipertahankan.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggMonitorLizardUnfertilized.description>
+  
+  <!-- EN: peacock egg (fert.) -->
+  <EggPeacockFertilized.label>Telur kalkun asli (fert.)</EggPeacockFertilized.label>
+  <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockFertilized.description>Telur kalkun kerajaan yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pembiakan kalkun asli.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggPeacockFertilized.description>
+  
+  <!-- EN: peacock egg (unfert.) -->
+  <EggPeacockUnfertilized.label>Telur kalkun asli (tidak fert.)</EggPeacockUnfertilized.label>
+  <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockUnfertilized.description>Telur merak yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggPeacockUnfertilized.description>
+  
+  <!-- EN: penguin egg (fert.) -->
+  <EggPenguinFertilized.label>Telur pingüino (fert.)</EggPenguinFertilized.label>
+  <!-- EN: A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinFertilized.description>Telur penguin yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas penguin.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggPenguinFertilized.description>
+  
+  <!-- EN: penguin egg (unfert.) -->
+  <EggPenguinUnfertilized.label>Telur penguin (tidak fert.)</EggPenguinUnfertilized.label>
+  <!-- EN: An unfertilized penguin egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinUnfertilized.description>Telur penguin yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggPenguinUnfertilized.description>
+  
+  <!-- EN: quail egg (fert.) -->
+  <EggQuailFertilized.label>Telur puyuh (fert.)</EggQuailFertilized.label>
+  <!-- EN: A fertilized quail egg. If all goes well, it should hatch into a baby quail. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailFertilized.description>Telur puyuh yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pemuliaan puyuh.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggQuailFertilized.description>
+  
+  <!-- EN: quail egg (unfert.) -->
+  <EggQuailUnfertilized.label>Telur puyuh (tidak fert.)</EggQuailUnfertilized.label>
+  <!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailUnfertilized.description>Telur puyuh yang tidak diresapi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggQuailUnfertilized.description>
+  
+  <!-- EN: sea turtle egg (fert.) -->
+  <EggSeaTurtleFertilized.label>Telur kura -kura laut (fert.)</EggSeaTurtleFertilized.label>
+  <!-- EN: A fertilized sea turtle egg. If all goes well, it should hatch into a baby sea turtle. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleFertilized.description>Telur kura -kura laut yang dibuahi.Jika semuanya berjalan dengan baik, Anda harus menetas pelanggaran kura -kura laut.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSeaTurtleFertilized.description>
+  
+  <!-- EN: sea turtle egg (unfert.) -->
+  <EggSeaTurtleUnfertilized.label>Telur kura -kura laut (tidak fert.)</EggSeaTurtleUnfertilized.label>
+  <!-- EN: An unfertilized sea turtle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleUnfertilized.description>Telur penyu laut yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSeaTurtleUnfertilized.description>
+  
+  <!-- EN: sparrow egg (fert.) -->
+  <EggSparrowFertilized.label>Telur Sparrow (Fert.)</EggSparrowFertilized.label>
+  <!-- EN: A fertilized sparrow egg. If all goes well, it should hatch into a baby sparrow. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowFertilized.description>Telur Sparrow yang Dipupuk.Jika semuanya berjalan dengan baik, Anda harus menetas pelanggaran burung pipit.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSparrowFertilized.description>
+  
+  <!-- EN: sparrow egg (unfert.) -->
+  <EggSparrowUnfertilized.label>Telur Sparrow (tidak fert.)</EggSparrowUnfertilized.label>
+  <!-- EN: An unfertilized sparrow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowUnfertilized.description>Telur Sparrow yang tidak diresapi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSparrowUnfertilized.description>
+  
+  <!-- EN: swan egg (fert.) -->
+  <EggSwanFertilized.label>Swan Egg (fert.)</EggSwanFertilized.label>
+  <!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanFertilized.description>Telur Swan yang dibuahi.Jika semuanya berjalan dengan baik, itu harus menetas pemuliaan angsa.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSwanFertilized.description>
+  
+  <!-- EN: swan egg (unfert.) -->
+  <EggSwanUnfertilized.label>Swan Egg (No Fert.)</EggSwanUnfertilized.label>
+  <!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanUnfertilized.description>Telur angsa yang tidak difertilisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggSwanUnfertilized.description>
+  
+  <!-- EN: vulture egg (fert.) -->
+  <EggVultureFertilized.label>Telur Hering (Fert.)</EggVultureFertilized.label>
+  <!-- EN: A fertilized vulture egg. If all goes well, it should hatch into a baby vulture. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureFertilized.description>Telur Hering yang Dipupuk.Jika semuanya berjalan dengan baik, Anda harus menetas pemuliaan burung hering.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggVultureFertilized.description>
+  
+  <!-- EN: vulture egg (unfert.) -->
+  <EggVultureUnfertilized.label>Telur Hering (Tanpa Fert.)</EggVultureUnfertilized.label>
+  <!-- EN: An unfertilized vulture egg. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureUnfertilized.description>Telur Hering Non -Diferisasi.Anda bisa makan mentah, tetapi jauh lebih baik dimasak.</EggVultureUnfertilized.description>
+  
+  <!-- EN: mastodon wool -->
+  <WoolMastodon.label>Lana adalah mashot</WoolMastodon.label>
+  <!-- EN: Thick shaggy wool from a mastodon. Provides excellent insulation against the cold. -->
+  <WoolMastodon.description>Tebal dan wol mastodon.Ini memberikan isolasi yang sangat baik melawan hawa dingin.</WoolMastodon.description>
+  
+  <!-- EN: muskox wool -->
+  <WoolMuskox.label>wol sapi musk</WoolMuskox.label>
+  <!-- EN: Itchy wool from a muskox. Good at keeping the cold out. -->
+  <WoolMuskox.description>Wol kasar sapi musk.Sangat bagus untuk dilindungi dari kedinginan.</WoolMuskox.description>
+  
+</LanguageData>

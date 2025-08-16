@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ritualname-> [ritnoun] dari [KeyDeity]</li>
+    <li>r_ritualname-> [ritnoun] dari [chosentheme]</li>
+    <li>r_ritualname-> [ritnoun] dari [Memeconscept]</li>
+    <li>r_ritualname-> [memeadjective] [ritnoun]</li>
+    <li>ritnoun-> mutilasi</li>
+    <li>ritnoun-> cutting</li>
+    <li>ritnoun-> mengiris</li>
+    <li>ritnoun-> peeling</li>
+    <li>Ritnoun-> browseip</li>
+    <li>ritnoun-> ripping</li>
+    <li>ritnoun-> mangling</li>
+    <li>ritnoun-> Fleshcarving</li>
+    <li>Rotnoun-> Mow</li>
+    <li>ritneun-> kembali</li>-><NamerRitualMutilation.rulePack.rulesStrings>
+    <li>R_ritnoun- [ritnnoun] de [keydeity]</li>
+    <li>r_ritualname-> [ritnoun] de [chosentheme]</li>
+    <li>r_ritualname -> [ritneund] [memeconcepte</li>
+    <li>r_ritualname-> [ritnoun] [memeadjective]</li>
+    <li>ripoun-> jagung</li>
+    <li>Ritnoun-> troceamiento</li>
+    <li>Ritnoun-> mutilasi</li>
+    <li>Ritnoun-> menggambar</li>
+    <li>Ritnoun-> penghancuran</li>
+    <li>Ritnoun-> diukir</li>
+    <li>Ritnoun-> tajada</li>
+    <li>Ritnoun-> robek</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
+  
+</LanguageData>

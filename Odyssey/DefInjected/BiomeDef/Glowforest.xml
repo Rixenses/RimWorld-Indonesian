@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glowforest -->
+  <Glowforest.label>Lumibosque</Glowforest.label>
+  <!-- EN: Geysers spew out massive sulfur clouds that cast the region into permanent darkness. Huge fungal colonies bloom in the dark, fed by the nutrients that the geysers bring to the surface. These areas are alluring and dangerous. -->
+  <Glowforest.description>Geyseres memancarkan awan besar belerang yang menambah wilayah dalam kegelapan permanen.Dalam kegelapan, koloni jamur besar berkembang, diberi makan oleh nutrisi yang dibawa geyser ke permukaan.Area -area ini menggoda dan berbahaya.</Glowforest.description>
+  <!-- EN: Large sulfur spouts permanently darken the skies in glowforests, making it hard to grow most crops. -->
+  <Glowforest.settleWarning>Emisi sulfur besar secara permanen mengaburkan langit lumibosques, yang menghambat penanaman sebagian besar makanan.</Glowforest.settleWarning>
+  
+</LanguageData>

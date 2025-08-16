@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpha thrumbo horn -->
+  <AlphaThrumboHorn.label>Trumbo Horn Alpha</AlphaThrumboHorn.label>
+  <!-- EN: An alpha thrumbo's horn. It's razor-sharp and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.\n\nThe alpha horn is much lighter than a normal thrumbo horn, making it much faster to wield. -->
+  <AlphaThrumboHorn.description>Tanduk alpha trumbo.Ini sangat tajam dan tidak ternilai harganya di sebagian besar pasar.Ini adalah piala nyata, serta senjata mematikan.</AlphaThrumboHorn.description>
+  <!-- EN: point -->
+  <AlphaThrumboHorn.tools.point.label>Punta</AlphaThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <AlphaThrumboHorn.tools.base.label>basis</AlphaThrumboHorn.tools.base.label>
+  
+  <!-- EN: mastodon tusk -->
+  <MastodonTusk.label>Mastodon Fang</MastodonTusk.label>
+  <!-- EN: A mastodon's tusk. Traders pay handsomely for samples like this. While somewhat unwieldy as a melee weapon, it still hits quite hard. -->
+  <MastodonTusk.description>Taring mastodon.Pedagang dengan murah hati membayar sampel seperti ini.Meskipun sesuatu yang sulit ditangani sebagai senjata jarak dekat, itu masih memberikan pukulan yang cukup kuat.</MastodonTusk.description>
+  <!-- EN: point -->
+  <MastodonTusk.tools.point.label>Punta</MastodonTusk.tools.point.label>
+  <!-- EN: base -->
+  <MastodonTusk.tools.base.label>basis</MastodonTusk.tools.base.label>
+  
+  <!-- EN: sentience catalyst -->
+  <SentienceCatalyst.label>Katalis Kesadaran</SentienceCatalyst.label>
+  <!-- EN: A single-use dose of mechanites used to enhance neural pathways in animals, permanently increasing their trainability and reducing their wildness.\n\nThe effect does not stack. -->
+  <SentienceCatalyst.description>Dosis unik mekanit yang digunakan untuk meningkatkan jalur neuron pada hewan, secara permanen meningkatkan kapasitas pelatihan mereka dan mengurangi kebiadaban mereka. Efek \ n \ nl tidak kumulatif.</SentienceCatalyst.description>
+  <!-- EN: Use {0_label} -->
+  <SentienceCatalyst.comps.CompUsable.useLabel>Gunakan {0_label}</SentienceCatalyst.comps.CompUsable.useLabel>
+  
+</LanguageData>

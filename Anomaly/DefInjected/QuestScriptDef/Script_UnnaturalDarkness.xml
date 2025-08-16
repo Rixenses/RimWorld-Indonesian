@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>initialphaseletterlabel-> langit peredupan</li>
+    <li>initialphaselettertext-> langit meredup.Segera akan sulit untuk melihat apa pun yang tidak langsung menyala oleh lampu atau obor. \ N \ nBuild area yang cukup terang untuk bertahan hidup.Paket Flare Gangguan Kerajinan untuk Menjelajahi Kegelapan.</li>
+    <li>mainphaseletterlabel-> kegelapan yang tidak alami</li>
+    <li>mainphaselettertext-> kegelapan yang tidak wajar menurun.Hal -hal yang tidak manusiawi bergerak tepat di luar cahaya. \ N \ npillars dari logam berminyak bergerigi jatuh dari langit.Mereka mengerikan untuk dilihat tetapi pasti mengandung teknologi yang berharga.Jangkau mereka dengan membangun jalur yang cukup terang - dan hancurkan mereka untuk mengakhiri mimpi buruk ini. \ N \ nalternatif, jika Anda dapat bertahan cukup lama, kegelapan akan menghilang dengan sendirinya.</li>
+    <li>Darknessliftedletterlabel-> Darkness Lifting</li>
+    <li>DarknessliftedLetText-> Kegelapan yang tidak wajar telah mulai menghilang.Pilar -pilar logam entah bagaimana terlipat ke dalam diri mereka sendiri dan menghilang.Anda selamat!</li>-><UnnaturalDarkness.questContentRules.rulesStrings>
+    <li>InitialPhaletterLabel-> Surga menjadi gelap</li>
+    <li>Initialphaselettertext-> surga menjadi gelap.Akan segera sulit untuk melihat apa pun yang tidak secara langsung diterangi oleh lampu atau obor.Buat paket bendera yang mengganggu untuk menjelajahi kegelapan.</li>
+    <li>Mainphaseletterlabel-> kegelapan antinatural</li>
+    <li>Mainphaselettertext-> kegelapan yang tidak wajar menurun.Hal -hal yang tidak manusiawi keluar dari cahaya.Mereka mengerikan di depan mata, tetapi mereka pasti mengandung teknologi yang berharga.Jangkau mereka membangun dengan baik tercerahkan dan hancurkan mereka untuk mengakhiri mimpi buruk ini.</li>
+    <li>Darknessliftedletterlabel-> langit diklarifikasi</li>
+    <li>DarknessliftedLettext-> Antinatural Darkness telah mulai menghilang.Pilar logam telah mundur pada diri mereka sendiri dan menghilang.Anda telah selamat!</li>
+  </UnnaturalDarkness.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-></li>-><UnnaturalDarkness.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-></li>
+  </UnnaturalDarkness.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> kegelapan yang tidak wajar</li>-><UnnaturalDarkness.questNameRules.rulesStrings>
+    <li>Questescription-> Antinatural Darkness</li>
+  </UnnaturalDarkness.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unique greatbow -->
+  <Bow_Great_Unique.label>busur besar yang unik</Bow_Great_Unique.label>
+  <!-- EN: A greatbow with customized parts. -->
+  <Bow_Great_Unique.description>Lengkungan besar dengan bagian yang dipersonalisasi.</Bow_Great_Unique.description>
+  <!-- EN: charge -->
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: greatbow -->
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>Busur besar</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: bow -->
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>arco</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: limb -->
+  <Bow_Great_Unique.tools.limb.label>Pala</Bow_Great_Unique.tools.limb.label>
+  <!-- EN: unique greatbow -->
+  <Bow_Great_Unique.verbs.Verb_Shoot.label>busur besar yang unik</Bow_Great_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique assault rifle -->
+  <Gun_AssaultRifle_Unique.label>senapan serbu unik</Gun_AssaultRifle_Unique.label>
+  <!-- EN: An assault rifle with customized parts. -->
+  <Gun_AssaultRifle_Unique.description>Senapan serbu dengan bagian yang dipersonalisasi.</Gun_AssaultRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>Senapan serbu</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: carbine -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>senapan</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: battle rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>Senapan tempur</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: war rifle -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>Senapan perang</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: wargun -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>Senjata perang</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: fusil -->
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>pistol</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle_Unique.tools.stock.label>pantat</Gun_AssaultRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle_Unique.tools.barrel.label>Canon</Gun_AssaultRifle_Unique.tools.barrel.label>
+  <!-- EN: unique assault rifle -->
+  <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>senapan serbu unik</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique beam repeater -->
+  <Gun_BeamRepeater_Unique.label>Repeater sinar tunggal</Gun_BeamRepeater_Unique.label>
+  <!-- EN: A beam repeater with customized parts. -->
+  <Gun_BeamRepeater_Unique.description>Repeater sinar dengan bagian yang dipersonalisasi.</Gun_BeamRepeater_Unique.description>
+  <!-- EN: charge -->
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: repeater -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>pengulang</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: beam repeater -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>Ray Repeater</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: beamgun -->
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>Senjata Ray</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: barrels -->
+  <Gun_BeamRepeater_Unique.tools.barrels.label>meriam</Gun_BeamRepeater_Unique.tools.barrels.label>
+  <!-- EN: unique beam repeater -->
+  <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>Repeater sinar tunggal</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.label>senapan baut yang unik</Gun_BoltActionRifle_Unique.label>
+  <!-- EN: A bolt-action rifle with customized parts. -->
+  <Gun_BoltActionRifle_Unique.description>Senapan baut dengan bagian yang dipersonalisasi.</Gun_BoltActionRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>Senapan Berrojo</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: thumper -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>guruh</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: bolt-gun -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>Senjata baut</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: rifle -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>pistol</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: longshot -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>Long -Range</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: longshooter -->
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>penembak panjang -Range</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_BoltActionRifle_Unique.tools.stock.label>pantat</Gun_BoltActionRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoltActionRifle_Unique.tools.barrel.label>Canon</Gun_BoltActionRifle_Unique.tools.barrel.label>
+  <!-- EN: unique bolt-action rifle -->
+  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>senapan baut yang unik</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique chain shotgun -->
+  <Gun_ChainShotgun_Unique.label>Senapan otomatis yang unik</Gun_ChainShotgun_Unique.label>
+  <!-- EN: A chain shotgun with customized parts. -->
+  <Gun_ChainShotgun_Unique.description>Senapan otomatis dengan bagian yang dipersonalisasi.</Gun_ChainShotgun_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>Senapan otomatis</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: shotgun -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>senapan</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: chainshot -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>Shotgun rantai</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: blaster -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>menggertak</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: blaststick -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>menjadi eksplosif</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: sweeper -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>Barredor</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: gutspewer -->
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>muntah</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun_Unique.tools.stock.label>pantat</Gun_ChainShotgun_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun_Unique.tools.barrel.label>Canon</Gun_ChainShotgun_Unique.tools.barrel.label>
+  <!-- EN: unique chain shotgun -->
+  <Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>Senapan rantai tunggal</Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique charge lance -->
+  <Gun_ChargeLance_Unique.label>Tombak beban tunggal</Gun_ChargeLance_Unique.label>
+  <!-- EN: A charge lance with customized parts. -->
+  <Gun_ChargeLance_Unique.description>Peluncur beban dengan bagian yang dipersonalisasi.</Gun_ChargeLance_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>Lanza beban</Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance_Unique.tools.barrel.label>Canon</Gun_ChargeLance_Unique.tools.barrel.label>
+  <!-- EN: unique charge lance -->
+  <Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>Tombak beban tunggal</Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique charge rifle -->
+  <Gun_ChargeRifle_Unique.label>senapan kargo yang unik</Gun_ChargeRifle_Unique.label>
+  <!-- EN: A charge rifle with customized parts. -->
+  <Gun_ChargeRifle_Unique.description>Senapan beban dengan bagian yang dipersonalisasi.</Gun_ChargeRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>Muat senapan</Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle_Unique.tools.stock.label>pantat</Gun_ChargeRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle_Unique.tools.barrel.label>Canon</Gun_ChargeRifle_Unique.tools.barrel.label>
+  <!-- EN: unique charge rifle -->
+  <Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>senapan kargo yang unik</Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique heavy SMG -->
+  <Gun_HeavySMG_Unique.label>SMG berat yang unik</Gun_HeavySMG_Unique.label>
+  <!-- EN: A heavy SMG with customized parts. -->
+  <Gun_HeavySMG_Unique.description>SMG berat dengan bagian yang dipersonalisasi.</Gun_HeavySMG_Unique.description>
+  <!-- EN: charge -->
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>SMG berat</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: SMG -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>Smg</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: chugger -->
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>guruh</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: grip -->
+  <Gun_HeavySMG_Unique.tools.grip.label>sambatan</Gun_HeavySMG_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG_Unique.tools.barrel.label>Canon</Gun_HeavySMG_Unique.tools.barrel.label>
+  <!-- EN: unique heavy SMG -->
+  <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>SMG berat yang unik</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique hellcat rifle -->
+  <Gun_HellcatRifle_Unique.label>Senapan Hellcat yang unik</Gun_HellcatRifle_Unique.label>
+  <!-- EN: A hellcat rifle with customized parts. -->
+  <Gun_HellcatRifle_Unique.description>Senapan neraka dengan bagian yang dipersonalisasi.</Gun_HellcatRifle_Unique.description>
+  <!-- EN: burner charge -->
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>beban burner</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: hellcat rifle -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fusil hellcat</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: hellcat -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>perempuan cerewet</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: flamer -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>pembakar</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: flamegun -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>Lanzaluela</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: burner -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>pembakar</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: burngun -->
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>senjata pembakar</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stock -->
+  <Gun_HellcatRifle_Unique.tools.stock.label>pantat</Gun_HellcatRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HellcatRifle_Unique.tools.barrel.label>Canon</Gun_HellcatRifle_Unique.tools.barrel.label>
+  <!-- EN: unique hellcat rifle -->
+  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>Senapan Hellcat yang unik</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique LMG -->
+  <Gun_LMG_Unique.label>LMG tunggal</Gun_LMG_Unique.label>
+  <!-- EN: An LMG with customized parts. -->
+  <Gun_LMG_Unique.description>LMG dengan bagian yang dipersonalisasi.</Gun_LMG_Unique.description>
+  <!-- EN: charge -->
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: LMG -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>LMG</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: machine gun -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>senapan mesin</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: light machine gun -->
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>Senapan mesin ringan</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: stock -->
+  <Gun_LMG_Unique.tools.stock.label>pantat</Gun_LMG_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LMG_Unique.tools.barrel.label>Canon</Gun_LMG_Unique.tools.barrel.label>
+  <!-- EN: unique LMG -->
+  <Gun_LMG_Unique.verbs.Verb_Shoot.label>LMG tunggal</Gun_LMG_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique minigun -->
+  <Gun_Minigun_Unique.label>Minigun tunggal</Gun_Minigun_Unique.label>
+  <!-- EN: A minigun with customized parts. -->
+  <Gun_Minigun_Unique.description>Minigun dengan bagian yang dipersonalisasi.</Gun_Minigun_Unique.description>
+  <!-- EN: charge -->
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: minigun -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>minigun</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: gatling gun -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>Gatling Machine Gun</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: six-barrel -->
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>Enam meriam</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: barrels -->
+  <Gun_Minigun_Unique.tools.barrels.label>meriam</Gun_Minigun_Unique.tools.barrels.label>
+  <!-- EN: unique minigun -->
+  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>Minigun tunggal</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique revolver -->
+  <Gun_Revolver_Unique.label>Revolver yang unik</Gun_Revolver_Unique.label>
+  <!-- EN: A revolver with customized parts. -->
+  <Gun_Revolver_Unique.description>Revolver dengan bagian yang dipersonalisasi.</Gun_Revolver_Unique.description>
+  <!-- EN: charge -->
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: revolver -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>pistol</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: six-shooter -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>Enam tembakan</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: iron -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>Hierro</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: hammer -->
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>palu</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: grip -->
+  <Gun_Revolver_Unique.tools.grip.label>sambatan</Gun_Revolver_Unique.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver_Unique.tools.barrel.label>Canon</Gun_Revolver_Unique.tools.barrel.label>
+  <!-- EN: unique revolver -->
+  <Gun_Revolver_Unique.verbs.Verb_Shoot.label>Revolver yang unik</Gun_Revolver_Unique.verbs.Verb_Shoot.label>
+  
+  <!-- EN: unique sniper rifle -->
+  <Gun_SniperRifle_Unique.label>senapan sniper unik</Gun_SniperRifle_Unique.label>
+  <!-- EN: A sniper rifle with customized parts. -->
+  <Gun_SniperRifle_Unique.description>Senapan sniper dengan bagian yang dipersonalisasi.</Gun_SniperRifle_Unique.description>
+  <!-- EN: charge -->
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>memuat</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>dalam pendinginan</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>senapan sniper</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: precision rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>senapan presisi</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <!-- EN: marksman rifle -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>senapan penembak</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <!-- EN: sniper -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>penembak jitu</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <!-- EN: headshotter -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>kepala ditembak di kepala</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <!-- EN: snipegun -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>senapan sniper</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <!-- EN: stalker -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>menguntit senapan</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <!-- EN: assassinator -->
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>Senapan pembunuh</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
+  <!-- EN: stock -->
+  <Gun_SniperRifle_Unique.tools.stock.label>pantat</Gun_SniperRifle_Unique.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle_Unique.tools.barrel.label>Canon</Gun_SniperRifle_Unique.tools.barrel.label>
+  <!-- EN: unique sniper rifle -->
+  <Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>senapan sniper unik</Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>
+  
+</LanguageData>

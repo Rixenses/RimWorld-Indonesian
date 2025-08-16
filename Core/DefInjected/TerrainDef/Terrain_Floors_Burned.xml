@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>Karpet yang terbakar</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>Karpet yang terbakar.</BurnedCarpet.description>
+  
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>Tikar jerami yang terbakar</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>Jerami yang telah terbakar dalam api.</BurnedStrawMatting.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>kayu yang terbakar</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Tanah kayu yang terbakar.</BurnedWoodPlankFloor.description>
+  
+</LanguageData>

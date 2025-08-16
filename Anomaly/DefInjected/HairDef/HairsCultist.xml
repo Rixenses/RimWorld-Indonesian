@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: double tuft -->
+  <DoubleTuft.label>dobel</DoubleTuft.label>
+  
+  <!-- EN: large tuft -->
+  <LargeTuft.label>Merah muda besar</LargeTuft.label>
+  
+  <!-- EN: long mess -->
+  <LongMess.label>acak-acakan panjang</LongMess.label>
+  
+  <!-- EN: long oily -->
+  <LongOily.label>panjang berminyak</LongOily.label>
+  
+  <!-- EN: parted -->
+  <Parted.label>berguna</Parted.label>
+  
+  <!-- EN: patchy shave -->
+  <PatchyShave.label>cukur tambal-sulam</PatchyShave.label>
+  
+  <!-- EN: rough shave -->
+  <RoughShave.label>cukur kasar</RoughShave.label>
+  
+  <!-- EN: shaved mohawk -->
+  <ShavedMohawk.label>mohawk cukur habis</ShavedMohawk.label>
+  
+  <!-- EN: short cut -->
+  <ShortCut.label>potongan pendek</ShortCut.label>
+  
+  <!-- EN: side cut -->
+  <SideCut.label>potong samping</SideCut.label>
+  
+  <!-- EN: side spikes -->
+  <SideSpikes.label>runcing samping</SideSpikes.label>
+  
+</LanguageData>

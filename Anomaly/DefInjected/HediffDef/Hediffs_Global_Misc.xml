@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agony pulse -->
+  <AgonyPulse.label>denyut nadi yang didengar</AgonyPulse.label>
+  <!-- EN: Pure projected mental pain caused by a shock-pulse of suffering. It is overwhelming, but dissipates relatively quickly. -->
+  <AgonyPulse.description>Nyeri mental murni yang disebabkan oleh dorongan penderitaan.Ini luar biasa, tetapi menghilang relatif cepat.</AgonyPulse.description>
+  <!-- EN: acute -->
+  <AgonyPulse.stages.acute.label>tajam</AgonyPulse.stages.acute.label>
+  <!-- EN: lingering -->
+  <AgonyPulse.stages.lingering.label>gigih</AgonyPulse.stages.lingering.label>
+  
+  <!-- EN: awoken hypnosis -->
+  <AwokenHypnosis.label>HIPNOSE</AwokenHypnosis.label>
+  <!-- EN: This person has been hypnotized by an awoken unnatural corpse. The trance is absolute, but if the awoken corpse breaks its gaze then the hypnosis will end. -->
+  <AwokenHypnosis.description>Orang ini telah dihipnotis oleh mayat yang tidak wajar.Trance itu mutlak, tetapi jika tubuh yang terbangun mengganggu tatapannya, hipnosis akan berakhir.</AwokenHypnosis.description>
+  
+  <!-- EN: bioferrite extracted -->
+  <BioferriteExtracted.label>Bioferrita diekstraksi</BioferriteExtracted.label>
+  <!-- EN: Bioferrite has been surgically removed from this entity. It will regenerate, but the process takes days. -->
+  <BioferriteExtracted.description>Bioferrita telah dihapus dengan pembedahan dari entitas ini.Ini akan beregenerasi, tetapi prosesnya memakan waktu berhari -hari.</BioferriteExtracted.description>
+  
+  <!-- EN: bliss lobotomy -->
+  <BlissLobotomy.label>Lobotomi yang bahagia</BlissLobotomy.label>
+  <!-- EN: This person has been psychically lobotomized, placing them in a state of bliss but limiting their cognitive function. -->
+  <BlissLobotomy.description>Orang ini telah secara psikotomisasi secara fajar, meninggalkannya dalam keadaan bahagia tetapi membatasi fungsi kognitif mereka.</BlissLobotomy.description>
+  
+  <!-- EN: blood rage -->
+  <BloodRage.label>Kemarahan berdarah</BloodRage.label>
+  <!-- EN: This creature has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
+  <BloodRage.description>Makhluk ini telah terpapar hujan berdarah, psikofluid yang menginduksi kemarahan.Kemarahan ini akan terus tumbuh saat terpapar hujan berdarah, akhirnya mengakibatkan keruntuhan mental yang keras.Efeknya tumbuh lebih cepat pada beberapa individu, tergantung pada fitur mereka, sensitivitas psikis dan perbedaan individu acak.</BloodRage.description>
+  <!-- EN: very mild -->
+  <BloodRage.stages.very_mild.label>Sangat ringan</BloodRage.stages.very_mild.label>
+  <!-- EN: mild -->
+  <BloodRage.stages.mild.label>hidup</BloodRage.stages.mild.label>
+  <!-- EN: moderate -->
+  <BloodRage.stages.moderate.label>sedang</BloodRage.stages.moderate.label>
+  <!-- EN: severe -->
+  <BloodRage.stages.severe.label>berat</BloodRage.stages.severe.label>
+  <!-- EN: extreme -->
+  <BloodRage.stages.extreme-0.label>ekstrim</BloodRage.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <BloodRage.stages.extreme-1.label>ekstrim</BloodRage.stages.extreme-1.label>
+  
+  <!-- EN: brainwipe coma -->
+  <BrainwipeComa.label>Neurobordo Coma</BrainwipeComa.label>
+  <!-- EN: This person has had their memories erased. The violent nature of the process has put them into a coma. -->
+  <BrainwipeComa.description>Orang ini telah dihapus kenangan itu.Sifat kekerasan dari proses telah meninggalkannya dalam keadaan koma.</BrainwipeComa.description>
+  
+  <!-- EN: corpse torment -->
+  <CorpseTorment.label>siksaan kadaver</CorpseTorment.label>
+  <!-- EN: This person shares a psychic link with a corpse that appears to be their exact duplicate. They have done something to anger it, causing them to fall unconscious. -->
+  <CorpseTorment.description>Orang ini berbagi ikatan psikis dengan tubuh yang tampaknya menjadi replika mereka yang tepat.Mereka telah melakukan sesuatu untuk membuatnya marah, menyebabkan dia jatuh pingsan.</CorpseTorment.description>
+  
+  <!-- EN: crumbled mind -->
+  <CrumbledMind.label>gumpalan</CrumbledMind.label>
+  <!-- EN: This person has lost most of their cognitive ability, preventing them from doing complex tasks. They are a husk of their former self.\n\nThe condition is incurable. -->
+  <CrumbledMind.description>Orang ini telah kehilangan sebagian besar kemampuan kognitifnya, yang mencegahnya melakukan tugas -tugas kompleks.Itu adalah kulit dari apa yang ada. Penyakit \ n \ nla tidak dapat disembuhkan.</CrumbledMind.description>
+  
+  <!-- EN: crumbling mind -->
+  <CrumblingMind.label>pikiran hancur</CrumblingMind.label>
+  <!-- EN: This person is experiencing a rapidly decaying mental state. Within a few days, they will be incapable of most work. With sufficient technology, like a healer mech serum, the condition can still be reversed. However, it will soon become permanent. -->
+  <CrumblingMind.description>Orang ini mengalami kerusakan yang cepat dari kondisi mental mereka.Dalam beberapa hari, ia tidak akan dapat melakukan sebagian besar karya.Dengan teknologi yang cukup, seperti serum penyembuhan mekanis, kondisinya masih dapat dibalik.Namun, itu akan segera menjadi permanen.</CrumblingMind.description>
+  <!-- EN: {PAWN_nameDef}'s cognitive condition has become permanent. -->
+  <CrumblingMind.comps.HediffComp_ReplaceHediff.message>Kondisi kognitif {Pawn_namedef} telah menjadi permanen.</CrumblingMind.comps.HediffComp_ReplaceHediff.message>
+  <!-- EN: mild -->
+  <CrumblingMind.stages.mild.label>hidup</CrumblingMind.stages.mild.label>
+  <!-- EN: moderate -->
+  <CrumblingMind.stages.moderate.label>sedang</CrumblingMind.stages.moderate.label>
+  <!-- EN: extreme -->
+  <CrumblingMind.stages.extreme.label>ekstrim</CrumblingMind.stages.extreme.label>
+  
+  <!-- EN: crumbling mind -->
+  <CrumblingMindUndiagnosedCreepjoiner.label>pikiran hancur</CrumblingMindUndiagnosedCreepjoiner.label>
+  <!-- EN: This person is showing early signs of a condition which will cause severe mental degradation. They will begin to display symptoms within a matter of days. -->
+  <CrumblingMindUndiagnosedCreepjoiner.description>Orang ini menunjukkan tanda -tanda pertama penyakit yang akan menyebabkan kemunduran mental yang serius.Ini akan mulai menunjukkan gejala dalam hitungan hari.</CrumblingMindUndiagnosedCreepjoiner.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will soon cause severe mental degradation. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{Pawn_namedef} menunjukkan tanda -tanda pertama penyakit serius yang akan segera menyebabkan degradasi mental yang parah.{Surgeon_Namedef} Masih tidak bisa mengatakan apa penyebabnya, tetapi {Pawn_namedef} akan benar -benar memburuk dalam beberapa hari ke depan.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: {PAWN_nameDef} has begun experiencing pounding headaches and begs for help. {PAWN_pronoun} can't think straight and is losing {PAWN_possessive} cognitive function. {PAWN_nameDef} claims that {PAWN_pronoun} has seen a vision of the future. Within a matter of days, {PAWN_possessive} mind will crumble and {PAWN_pronoun} will become incapable of most tasks.\n\nThe condition is currently reversible with sufficient technology, like a healer mech serum, but will soon become permanent. -->
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>{Pawn_namedef} telah mulai mengalami sakit kepala yang kuat dan meminta bantuan.Dia tidak bisa berpikir dengan jelas dan kehilangan fungsi kognitifnya.{Pawn_namedef} menyatakan bahwa ia telah memiliki visi masa depan. Dalam beberapa hari, pikiran Anda akan berantakan dan tidak akan dapat melakukan sebagian besar tugas.</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterDesc>
+  <!-- EN: Crumbling mind: {PAWN_nameDef} -->
+  <CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>Pikiran hancur: {Pawn_namedef}</CrumblingMindUndiagnosedCreepjoiner.comps.HediffComp_ReplaceHediff.letterLabel>
+  <!-- EN: diagnosed -->
+  <CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>didiagnosis</CrumblingMindUndiagnosedCreepjoiner.stages.diagnosed.label>
+  
+  <!-- EN: crumbling mind -->
+  <CrumblingMindUndiagnosedDuplication.label>pikiran hancur</CrumblingMindUndiagnosedDuplication.label>
+  <!-- EN: This person is showing early signs of a condition which will cause severe mental degradation. They will begin to display symptoms within a matter of days. -->
+  <CrumblingMindUndiagnosedDuplication.description>Orang ini menunjukkan tanda -tanda pertama penyakit yang akan menyebabkan kemunduran mental yang serius.Ini akan mulai menunjukkan gejala dalam hitungan hari.</CrumblingMindUndiagnosedDuplication.description>
+  <!-- EN: {PAWN_nameDef} is showing early signs of a severe condition which will soon cause severe mental degradation. {SURGEON_nameDef} can't yet tell exactly what is causing this, but {PAWN_nameDef} will become very ill within the next few days. -->
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{Pawn_namedef} menunjukkan tanda -tanda pertama penyakit serius yang akan segera menyebabkan degradasi mental yang parah.{Surgeon_Namedef} Masih tidak bisa mengatakan apa penyebabnya, tetapi {Pawn_namedef} akan benar -benar memburuk dalam beberapa hari ke depan.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: {PAWN_nameDef} has begun experiencing pounding headaches. {PAWN_pronoun} can't seem to think straight and is quickly losing {PAWN_possessive} cognitive function. Something has gone wrong in the duplication process.\n\nWith sufficient technology, like a healer mech serum, the condition can still be reversed. However, if not treated, it will soon become permanent. -->
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>{Pawn_namedef} telah mulai mengalami sakit kepala yang kuat.Tampaknya dia tidak bisa berpikir jernih dan kehilangan fungsi kognitifnya. Ada yang salah dalam proses duplikasi.Namun, jika tidak, itu akan segera menjadi permanen.</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterDesc>
+  <!-- EN: Crumbling mind: {PAWN_nameDef} -->
+  <CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>Pikiran hancur: {Pawn_namedef}</CrumblingMindUndiagnosedDuplication.comps.HediffComp_ReplaceHediff.letterLabel>
+  <!-- EN: diagnosed -->
+  <CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>didiagnosis</CrumblingMindUndiagnosedDuplication.stages.diagnosed.label>
+  
+  <!-- EN: cube coma -->
+  <CubeComa.label>koma kubik</CubeComa.label>
+  <!-- EN: This person was connected to a golden cube and then separated from it. Severing the link this way has put them in a coma. -->
+  <CubeComa.description>Orang ini terhubung ke kubus emas dan kemudian terpisah darinya.Saat memotong tautan dengan cara ini, ia telah memasuki koma.</CubeComa.description>
+  
+  <!-- EN: cube interest -->
+  <CubeInterest.label>Minat kubik</CubeInterest.label>
+  <!-- EN: This person is drawn to the golden cube. If separated from the cube for too long, they'll start to experience negative effects. -->
+  <CubeInterest.description>Orang ini tertarik pada kubus emas.Jika Anda memisahkan dari ember untuk waktu yang lama, Anda akan mulai mengalami efek negatif.</CubeInterest.description>
+  <!-- EN: Wandering and thinking about the cube. -->
+  <CubeInterest.reportStringOverrides.0.reportString>Berkeliaran dan memikirkan kubus.</CubeInterest.reportStringOverrides.0.reportString>
+  <!-- EN: Wandering and thinking about the cube. -->
+  <CubeInterest.reportStringOverrides.1.reportString>Berkeliaran dan memikirkan kubus.</CubeInterest.reportStringOverrides.1.reportString>
+  <!-- EN: Asleep, dreaming about the cube. -->
+  <CubeInterest.reportStringOverrides.2.reportString>Tidur, memimpikan kubus.</CubeInterest.reportStringOverrides.2.reportString>
+  <!-- EN: Meditating on the cube. -->
+  <CubeInterest.reportStringOverrides.3.reportString>Bermeditasi di kubus.</CubeInterest.reportStringOverrides.3.reportString>
+  <!-- EN: Praying for the cube. -->
+  <CubeInterest.reportStringOverrides.4.reportString>Berdoa untuk kubus.</CubeInterest.reportStringOverrides.4.reportString>
+  <!-- EN: Praying for the cube. -->
+  <CubeInterest.reportStringOverrides.5.reportString>Berdoa untuk kubus.</CubeInterest.reportStringOverrides.5.reportString>
+  <!-- EN: curious -->
+  <CubeInterest.stages.curious.label>penasaran</CubeInterest.stages.curious.label>
+  <!-- EN: fascinated -->
+  <CubeInterest.stages.fascinated.label>terpesona</CubeInterest.stages.fascinated.label>
+  <!-- EN: obsessed -->
+  <CubeInterest.stages.obsessed.label>terobsesi</CubeInterest.stages.obsessed.label>
+  
+  <!-- EN: cube anger -->
+  <CubeRage.label>Kemarahan kubik</CubeRage.label>
+  <!-- EN: This person is upset that their cube sculptures have been destroyed. Continuing to destroy their sculptures may cause them to become violent. -->
+  <CubeRage.description>Orang ini marah karena mereka telah menghancurkan patung kubik mereka.Lanjutkan menghancurkan patung Anda dapat membuat diri mereka melakukan kekerasan {Pawn_gender?O: A}.</CubeRage.description>
+  <!-- EN: {PAWN_nameDef} can no longer control {PAWN_possessive} anger. Too many of {PAWN_possessive} precious cube sculptures have been destroyed.\n\n{PAWN_nameDef} has flown into a berserk rage! -->
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{Pawn_namedef} Anda tidak bisa lagi mengendalikan kemarahan Anda.Banyak patung kubiknya telah dihancurkan. \ N \ n {pawn_namedef} telah memasuki kemarahan yang panik.</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
+  <!-- EN: Cube rage: {PAWN_nameDef} -->
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>Wrath kubik: {Pawn_namedef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
+  
+  <!-- EN: cube withdrawal -->
+  <CubeWithdrawal.label>Pantang kubik</CubeWithdrawal.label>
+  <!-- EN: This person obsessively wants to find their golden cube. Their skin itches and their mind races, thinking of ways to get closer to the cube. Their symptoms will get worse until they play with the cube. -->
+  <CubeWithdrawal.description>Orang ini secara obsesif ingin menemukan kubus emasnya.Dia bibir kulitnya dan pikirannya tidak berhenti memikirkan cara mendekati kubus.Gejala Anda akan menjadi lebih buruk sampai Anda bermain dengan kubus.</CubeWithdrawal.description>
+  <!-- EN: inital -->
+  <CubeWithdrawal.stages.inital.label>hidup</CubeWithdrawal.stages.inital.label>
+  <!-- EN: moderate -->
+  <CubeWithdrawal.stages.moderate.label>sedang</CubeWithdrawal.stages.moderate.label>
+  <!-- EN: extreme -->
+  <CubeWithdrawal.stages.extreme.label>ekstrim</CubeWithdrawal.stages.extreme.label>
+  
+  <!-- EN: darkness exposure -->
+  <DarknessExposure.label>Eksposur Kegelapan</DarknessExposure.label>
+  <!-- EN: This person is immersed in the unnatural darkness. Creatures or influences in the darkness will harm them if they stay too long. -->
+  <DarknessExposure.description>Orang ini tenggelam dalam kegelapan yang tidak wajar.Makhluk atau pengaruh kegelapan akan menyakitinya jika dia tinggal terlalu lama.</DarknessExposure.description>
+  
+  <!-- EN: dark psychic shock -->
+  <DarkPsychicShock.label>Kejutan psikis gelap</DarkPsychicShock.label>
+  <!-- EN: Part of this person's neural pattern has been disrupted by a dark psychic power. The shock from this process has left them in a temporary coma. -->
+  <DarkPsychicShock.description>Bagian dari pola saraf orang ini telah terganggu oleh kekuatan psikis yang gelap.Kejutan dari proses ini telah membuatnya koma sementara.</DarkPsychicShock.description>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusal.label>Repelio Kematian</DeathRefusal.label>
+  <!-- EN: This person is infused with a seed of nanoscale archotech machines that can recreate life. After they die, the archites will sustain their mind and, when they choose, rebuild their body. The flesh will rapidly reform, replacing missing organs and healing wounds. The process is not perfect and may cause scarring or other health complications. This can only be done a certain number of times. -->
+  <DeathRefusal.description>Orang ini disuntikkan dengan benih mesin Archaetetec ke skala nano yang dapat menciptakan kembali kehidupan.Setelah sekarat, Architas akan menahan pikiran mereka dan, ketika mereka memutuskan, mereka akan membangun kembali tubuh mereka.Daging akan direnovasi dengan cepat, menggantikan organ yang hilang dan menyembuhkan luka.Prosesnya tidak sempurna dan dapat menyebabkan bekas luka atau komplikasi kesehatan lainnya.Ini hanya dapat membuat beberapa kali tertentu.</DeathRefusal.description>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusalCreepJoiner.label>Repelio Kematian</DeathRefusalCreepJoiner.label>
+  <!-- EN: This person is infused with a seed of nanoscale archotech machines that can recreate life. After they die, the archites will sustain their mind and, when they choose, rebuild their body. The flesh will rapidly reform, replacing missing organs and healing wounds. The process is not perfect and may cause scarring or other health complications. This can only be done a certain number of times. -->
+  <DeathRefusalCreepJoiner.description>Orang ini disuntikkan dengan benih mesin Archaetetec ke skala nano yang dapat menciptakan kembali kehidupan.Setelah sekarat, Architas akan menahan pikiran mereka dan, ketika mereka memutuskan, mereka akan membangun kembali tubuh mereka.Daging akan direnovasi dengan cepat, menggantikan organ yang hilang dan menyembuhkan luka.Prosesnya tidak sempurna dan dapat menyebabkan bekas luka atau komplikasi kesehatan lainnya.Ini hanya dapat membuat beberapa kali tertentu.</DeathRefusalCreepJoiner.description>
+  
+  <!-- EN: death refusal sickness -->
+  <DeathRefusalSickness.label>Penyakit Rebus Mortis</DeathRefusalSickness.label>
+  <!-- EN: After-effects of death refusal. This person has returned from the dead. -->
+  <DeathRefusalSickness.description>Sekuele Mortis Repelio.Orang ini telah kembali dari kematian.</DeathRefusalSickness.description>
+  
+  <!-- EN: disruptor flash -->
+  <DisruptorFlash.label>Flash Disruptor</DisruptorFlash.label>
+  <!-- EN: The initial psychic burst from a disruptor flare has left this creature dazed. -->
+  <DisruptorFlash.description>Wabah psikis awal suar yang mengganggu telah meninggalkan makhluk gila ini.</DisruptorFlash.description>
+  
+  <!-- EN: duplicate sickness -->
+  <DuplicateSickness.label>Penyakit duplikat</DuplicateSickness.label>
+  <!-- EN: Psychic interference between this person and their duplicate is causing slow mental deterioration. As long as multiple copies of this person are alive, the condition will keep getting worse. However, the condition will not be lethal. -->
+  <DuplicateSickness.description>Gangguan psikis antara orang ini dan duplikatnya menyebabkan kemunduran mental yang lambat.Meskipun ada banyak salinan orang ini, penyakit ini akan terus menjadi lebih buruk.Namun, kondisinya tidak akan mematikan.</DuplicateSickness.description>
+  <!-- EN: {0_nameDef} is now suffering from duplicate sickness. -->
+  <DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>{0_namedef} sekarang menderita penyakit duplikat.</DuplicateSickness.comps.HediffComp_MessageAboveSeverity.message>
+  <!-- EN: {PAWN_nameDef} is suffering from duplicate sickness. Psychic interference between this person and their duplicate is causing slow mental deterioration. As long as multiple copies of this person are alive, the condition will keep getting worse. -->
+  <DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{Pawn_namedef} menderita penyakit rangkap dua.Gangguan psikis antara orang ini dan duplikatnya menyebabkan kemunduran mental yang lambat.Meskipun ada beberapa salinan hidup orang ini, penyakit ini akan terus menjadi lebih buruk.</DuplicateSickness.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: initial -->
+  <DuplicateSickness.stages.initial-0.label>awal</DuplicateSickness.stages.initial-0.label>
+  <!-- EN: initial -->
+  <DuplicateSickness.stages.initial-1.label>awal</DuplicateSickness.stages.initial-1.label>
+  <!-- EN: moderate -->
+  <DuplicateSickness.stages.moderate.label>sedang</DuplicateSickness.stages.moderate.label>
+  <!-- EN: extreme -->
+  <DuplicateSickness.stages.extreme.label>ekstrim</DuplicateSickness.stages.extreme.label>
+  <!-- EN: debilitating -->
+  <DuplicateSickness.stages.debilitating.label>melemahkan</DuplicateSickness.stages.debilitating.label>
+  
+  <!-- EN: frenzy field -->
+  <FrenzyField.label>Lapangan Freni</FrenzyField.label>
+  <!-- EN: This person is under the influence of a psychic field which sharpens their mental energy. They're channeling the nervous anger to move and work faster. However, any mental breaks will be violent. -->
+  <FrenzyField.description>Orang ini berada di bawah pengaruh bidang psikis yang mempertajam energi mental mereka.Mereka menyalurkan kemarahan saraf untuk bergerak dan bekerja lebih cepat.Namun, keruntuhan mental apa pun akan menjadi kekerasan.</FrenzyField.description>
+  <!-- EN: very mild -->
+  <FrenzyField.stages.very_mild.label>Sangat ringan</FrenzyField.stages.very_mild.label>
+  <!-- EN: mild -->
+  <FrenzyField.stages.mild.label>hidup</FrenzyField.stages.mild.label>
+  <!-- EN: moderate -->
+  <FrenzyField.stages.moderate.label>sedang</FrenzyField.stages.moderate.label>
+  <!-- EN: extreme -->
+  <FrenzyField.stages.extreme.label>ekstrim</FrenzyField.stages.extreme.label>
+  
+  <!-- EN: dark psychic invisibility -->
+  <HoraxianInvisibility.label>Gelap psikis</HoraxianInvisibility.label>
+  <!-- EN: This creature is psychically twisting the perceptions of humans, animals, and machines in the vicinity in such a way as to seem invisible. The eye receives their image as normal but the mind cannot perceive it. -->
+  <HoraxianInvisibility.description>Makhluk ini secara psikis memutar persepsi manusia, hewan, dan mesin di sekitarnya sedemikian rupa sehingga mereka tampak tidak terlihat.Mata menerima citranya secara normal, tetapi pikiran tidak dapat melihatnya.</HoraxianInvisibility.description>
+  
+  <!-- EN: inhumanization -->
+  <Inhumanized.label>Tidak manusiawi</Inhumanized.label>
+  <!-- EN: This person's mind is dominated by the psychic patterns of the void. They are completely disconnected from human concerns of family, friendship, and love. Their experience of reality is distant and muted, guided by the psychic rhythm of a dark hyperintelligence. -->
+  <Inhumanized.description>Pikiran orang ini didominasi oleh pola psikis kekosongan.Ini benar -benar terputus dari kepedulian manusia tentang keluarga, persahabatan dan cinta.Pengalaman realitasnya jauh dan tidak aktif, dipandu oleh ritme psikis hiperintelligensi gelap.</Inhumanized.description>
+  
+  <!-- EN: juggernaut serum -->
+  <JuggernautSerum.label>Serum Juggernaut</JuggernautSerum.label>
+  <!-- EN: A serum is super-powering this person's musculature, making them stronger and faster, but reducing their mood due to discomfort. -->
+  <JuggernautSerum.description>Sebuah serum memamerkan otot -otot orang ini, membuatnya lebih kuat dan lebih cepat, tetapi mengurangi humornya karena ketidaknyamanan.</JuggernautSerum.description>
+  
+  <!-- EN: light exposure -->
+  <LightExposure.label>Light Hurse</LightExposure.label>
+  <!-- EN: Even the slightest exposure to light causes great discomfort to this creature, slowing it and weakening its attacks. -->
+  <LightExposure.description>Bahkan paparan cahaya sedikit pun menyebabkan ketidaknyamanan besar pada makhluk ini, memperlambat dan melemahkan serangannya.</LightExposure.description>
+  <!-- EN: initial -->
+  <LightExposure.stages.initial.label>awal</LightExposure.stages.initial.label>
+  <!-- EN: moderate -->
+  <LightExposure.stages.moderate.label>sedang</LightExposure.stages.moderate.label>
+  <!-- EN: serious -->
+  <LightExposure.stages.serious.label>serius</LightExposure.stages.serious.label>
+  <!-- EN: extreme -->
+  <LightExposure.stages.extreme.label>ekstrim</LightExposure.stages.extreme.label>
+  
+  <!-- EN: metalblood -->
+  <Metalblood.label>sangrimetal</Metalblood.label>
+  <!-- EN: This creature has the metalblood compound in their bloodstream. This substance can rapidly harden the flesh when it anticipates a blow, making the user more resistant to damage. However, the bioferrite-based chemistry of this serum also makes the user particularly vulnerable to fire. -->
+  <Metalblood.description>Makhluk ini memiliki senyawa aktif berdarah dalam aliran darahnya.Zat ini dapat dengan cepat mengeraskan daging saat merasakan pukulan, membuat pengguna lebih tahan terhadap kerusakan.Namun, kimia berdasarkan bioferrita serum ini juga membuat pengguna sangat rentan terhadap kebakaran.</Metalblood.description>
+  
+  <!-- EN: metalhorror implantation -->
+  <MetalhorrorImplant.label>Implementasi Metalhorror</MetalhorrorImplant.label>
+  <!-- EN: A gestating creature of metallic horror. Starting from a tiny archometallic seed, it will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to reveal itself. Once discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
+  <MetalhorrorImplant.description>Makhluk horor logam hamil.Mulai dari benih arkeometalik kecil, ia akan dengan cepat mengendalikan sistem saraf, tumbuh dan meluas ke seluruh tubuh host sampai siap untuk mengungkapkan dirinya sendiri.Setelah ditemukan, Anda dapat menggunakan operasi inspeksi bedah untuk membuat metalhorror meninggalkan tamu Anda.Bersiaplah untuk bertarung.</MetalhorrorImplant.description>
+  <!-- EN: Implanted before arrival at your colony -->
+  <MetalhorrorImplant.possiblePathways.0.explanation>Ditanamkan sebelum tiba di koloni Anda</MetalhorrorImplant.possiblePathways.0.explanation>
+  <!-- EN: Implanted through {SOURCEKIND_label} attack -->
+  <MetalhorrorImplant.possiblePathways.1.explanation>Ditanamkan melalui serangan {sourceKind_label}</MetalhorrorImplant.possiblePathways.1.explanation>
+  <!-- EN: Implanted by revenant during hypnosis -->
+  <MetalhorrorImplant.possiblePathways.2.explanation>Ditanamkan oleh redivive selama hipnosis</MetalhorrorImplant.possiblePathways.2.explanation>
+  
+  <!-- EN: machine speed -->
+  <MetalhorrorSpeedBoost.label>Kecepatan mesin</MetalhorrorSpeedBoost.label>
+  <!-- EN: Rapid movement driven by a surge of unnatural archotechnological strength. This burst of speed cannot last long. -->
+  <MetalhorrorSpeedBoost.description>Gerakan cepat didorong oleh gelombang kekuatan arkeoteknologi antinatural.Ledakan kecepatan ini tidak bisa bertahan lama.</MetalhorrorSpeedBoost.description>
+  
+  <!-- EN: mind-numb serum -->
+  <MindNumbSerum.label>serum mati rasa otak</MindNumbSerum.label>
+  <!-- EN: This person's neural patterns are being moderated by an exotic serum. They're unaffected by the highs and lows of human emotion. They will never have a mental break but they will also never feel inspired. -->
+  <MindNumbSerum.description>Pola neuron orang ini sedang dimoderasi oleh serum eksotis.Dia tidak terpengaruh oleh naik turunnya emosi manusia.Itu tidak akan pernah mengalami keruntuhan mental, tetapi juga tidak akan terinspirasi.</MindNumbSerum.description>
+  
+  <!-- EN: neurosis pulse -->
+  <NeurosisPulse.label>denyut neurotik</NeurosisPulse.label>
+  <!-- EN: This person has been affected by a psychic pulse of motivated, neurotic emotions. This makes them irritable, but also motivates them to work faster. -->
+  <NeurosisPulse.description>Orang ini telah dipengaruhi oleh denyut nadi psikis emosi yang termotivasi dan neurotik.Ini membuatnya mudah tersinggung, tetapi dia juga memotivasi dia untuk bekerja lebih cepat.</NeurosisPulse.description>
+  
+  <!-- EN: pain field -->
+  <PainField.label>Lapangan yang menyakitkan</PainField.label>
+  <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
+  <PainField.description>Nyeri tajam yang disebabkan oleh adanya entitas terdekat yang aktif secara psikis.Efeknya meningkat ketika entitas lebih aktif.</PainField.description>
+  
+  <!-- EN: pleasure pulse -->
+  <PleasurePulse.label>denyut nadi yang menyenangkan</PleasurePulse.label>
+  <!-- EN: This person has been impacted by a psychic pulse of pleasurable sensations and emotions. They feel unnaturally happy, distracting them from their work. -->
+  <PleasurePulse.description>Orang ini telah dipengaruhi oleh denyut nadi psikis sensasi dan emosi yang menyenangkan.Dia merasa bahagia secara tidak wajar, yang mengalihkan perhatiannya dari pekerjaannya.</PleasurePulse.description>
+  
+  <!-- EN: psychically dead -->
+  <PsychicallyDead.label>mati secara psikis</PsychicallyDead.label>
+  <!-- EN: This person's psychic presence has been consumed and burned away, leaving them cut off from psychic phenomena. -->
+  <PsychicallyDead.description>Kehadiran psikis orang ini telah dikonsumsi dan dipakai, meninggalkannya terisolasi dari fenomena psikis.</PsychicallyDead.description>
+  
+  <!-- EN: psychic trance -->
+  <PsychicTrance.label>cenayang</PsychicTrance.label>
+  <!-- EN: This person's mind is linked with an ambient psychic field from a distant archotech. They have been placed in a trance-like state. The unnatural influence sustains them - they have almost no need for food or rest. -->
+  <PsychicTrance.description>Pikiran orang ini terkait dengan bidang psikis lingkungan dari archeoteca yang jauh.Dia telah memasuki keadaan trance.Pengaruh antinatural menahan Anda, Anda hampir tidak perlu makan atau beristirahat.</PsychicTrance.description>
+  
+  <!-- EN: psychophage -->
+  <Psychophage.label>psikofagus</Psychophage.label>
+  <!-- EN: This person has devoured the psychic presence of another, making them more psychically sensitive for a period of time. -->
+  <Psychophage.description>Orang ini telah menyerap kehadiran psikis orang lain, membuatnya lebih peka secara psikis untuk jangka waktu tertentu.</Psychophage.description>
+  
+  <!-- EN: rage speed -->
+  <RageSpeed.label>Velocidad bersemangat</RageSpeed.label>
+  <!-- EN: This creature has been enraged by its wounds and is moving faster. -->
+  <RageSpeed.description>Makhluk ini sangat marah dengan luka -lukanya dan bergerak lebih cepat.</RageSpeed.description>
+  
+  <!-- EN: regeneration -->
+  <Regeneration.label>Regenerasi</Regeneration.label>
+  <!-- EN: This creature is experiencing an impossibly fast rate of regeneration supported by a distant archotechnological engine. They will heal nearly any wound in a short time. -->
+  <Regeneration.description>Makhluk ini mengalami ritme regenerasi yang tidak mungkin dengan cepat didukung oleh mesin arkeoteknologi yang jauh.Menyembuhkan hampir semua luka dalam waktu singkat.</Regeneration.description>
+  <!-- EN: unnatural -->
+  <Regeneration.stages.unnatural.label>tidak wajar</Regeneration.stages.unnatural.label>
+  <!-- EN: impossible -->
+  <Regeneration.stages.impossible.label>mustahil</Regeneration.stages.impossible.label>
+  
+  <!-- EN: revenant hypnosis -->
+  <RevenantHypnosis.label>menghidupkan kembali hipnosis</RevenantHypnosis.label>
+  <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire. -->
+  <RevenantHypnosis.description>Orang ini telah dihipnotis oleh redivive dan tetap terkait dengannya.Dia membolak -balik makhluk mimpi buruk sementara matanya, yang tidak berkedip, mengamati kengerian yang tak terlihat.Redivive tersembunyi dapat ditemukan dengan suar yang mengganggu, eksplosif, PEM, busa atau kebakaran pembakar.</RevenantHypnosis.description>
+  
+  <!-- EN: shard holder -->
+  <ShardHolder.label>Pembawa runtuh</ShardHolder.label>
+  <!-- EN: This creature will drop a shard when defeated. This text is visible in dev mode only. -->
+  <ShardHolder.description>Makhluk ini akan merilis chip saat dikalahkan.Teks ini hanya terlihat dalam mode pengembang.</ShardHolder.description>
+  
+  <!-- EN: sleep suppression -->
+  <SleepSuppression.label>Penindasan tidur</SleepSuppression.label>
+  <!-- EN: This person's brain chemistry is being affected by a psychic pulsation, preventing the buildup of fatigue toxins. This reduces their need for sleep. -->
+  <SleepSuppression.description>Kimia otak orang ini dipengaruhi oleh denyutan psikis, mencegah akumulasi racun kelelahan.Ini mengurangi kebutuhan Anda untuk tidur.</SleepSuppression.description>
+  <!-- EN: very mild -->
+  <SleepSuppression.stages.very_mild.label>Sangat ringan</SleepSuppression.stages.very_mild.label>
+  <!-- EN: mild -->
+  <SleepSuppression.stages.mild.label>hidup</SleepSuppression.stages.mild.label>
+  <!-- EN: moderate -->
+  <SleepSuppression.stages.moderate.label>sedang</SleepSuppression.stages.moderate.label>
+  <!-- EN: extreme -->
+  <SleepSuppression.stages.extreme.label>ekstrim</SleepSuppression.stages.extreme.label>
+  
+  <!-- EN: void shock -->
+  <VoidShock.label>Guncangan vakum</VoidShock.label>
+  <!-- EN: This individual has witnessed the void. Their mind reels from the shock, overflowing with visions of infinite roiling, squirming, searing darkness stretching into the bottomless abyss from every surface and every screaming face. -->
+  <VoidShock.description>Individu ini telah menyaksikan kekosongan.Pikirannya terhuyung -huyung karena guncangan itu, dipenuhi dengan visi kegelapan raungan yang tak terbatas, memutar dan mencetak gol yang meluas ke jurang tak berdasar dari semua permukaan dan semua wajah yang berteriak.</VoidShock.description>
+  
+  <!-- EN: voidsight -->
+  <Voidsight.label>Visi kekosongan</Voidsight.label>
+  <!-- EN: This person has ingested a drug which enhanced their perception of dark psychic phenomena. They will gain more knowledge when studying dark psychic phenomena and entities. Their psychic sensitivity is also increased. -->
+  <Voidsight.description>Orang ini telah mencerna obat yang meningkatkan persepsi mereka tentang fenomena psikis gelap.Anda akan memperoleh lebih banyak pengetahuan saat mempelajari fenomena dan entitas psikis gelap.Sensitivitas psikisnya juga meningkat.</Voidsight.description>
+  
+  <!-- EN: void touched -->
+  <VoidTouched.label>esensi kekosongan</VoidTouched.label>
+  <!-- EN: This person has seen the depths of the void and drank from its essence. It lives inside them still, guiding their actions and twisting their flesh. It has turned their hair brittle and white. They no longer need sleep or comfort. The void provides for them. -->
+  <VoidTouched.description>Orang ini telah melihat kedalaman kekosongan dan mabuk dengan esensi mereka.Dia terus hidup di dalam, membimbing tindakannya dan memutar dagingnya.Rambut putih dan rapuh telah berubah.Anda tidak perlu lagi tidur atau merasa nyaman.Kekosongan menangani dia.</VoidTouched.description>
+  
+</LanguageData>

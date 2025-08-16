@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>mengirimkan hadiah</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>perundingan damai gagal</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>bencana perundingan damai</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>keberhasilan perundingan damai</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>kemenangan perundingan damai</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>meminta bantuan militer</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested orbital trader -->
+  <RequestedOrbitalTrader.label>aplikasi pedagang orbital</RequestedOrbitalTrader.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>pedagang yang diminta</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>perdagangan</Traded.label>
+  
+</LanguageData>

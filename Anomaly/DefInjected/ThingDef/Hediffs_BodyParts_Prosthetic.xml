@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adrenal heart -->
+  <AdrenalHeart.label>hati adrenal</AdrenalHeart.label>
+  <!-- EN: A special bioferrite prosthetic that allows a ghoul to saturate its bloodstream with stress hormones and liquid energy. The ghoul will move and attack at incredible speeds for a short amount of time. The prosthetic slightly increases the ghoul's metabolism, causing it to eat more.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <AdrenalHeart.description>Prostesis bioferrita khusus yang memungkinkan necrophagus untuk menjenuhkan torrent darahnya dengan hormon stres dan energi cair.Necrophagus akan bergerak dan menyerang dengan kecepatan luar biasa untuk jangka waktu yang singkat.Prostesis sedikit meningkatkan metabolisme nekrofag, yang membuat kita makan lebih banyak.</AdrenalHeart.description>
+  
+  <!-- EN: corrosive heart -->
+  <CorrosiveHeart.label>Hati korosif</CorrosiveHeart.label>
+  <!-- EN: A special bioferrite prosthetic that allows the ghoul to spray a corrosive fluid. The prosthetic repurposes a chamber of the ghoul's heart to create a strong acid, which can be projected from the ghoul's mouth.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <CorrosiveHeart.description>Prosthesis bioferrita khusus yang memungkinkan Necrophagus menyemprotkan cairan korosif.Prosthesis menggunakan kembali ruang jantung nekrofagus untuk menciptakan asam yang kuat, yang dapat diproyeksikan dari mulut nekrofag.</CorrosiveHeart.description>
+  
+  <!-- EN: ghoul barbs -->
+  <GhoulBarbs.label>paku necrophagous</GhoulBarbs.label>
+  <!-- EN: A number of barbed bioferrite spikes that can be surgically attached to a ghoul. They drastically increase a ghoul's melee damage but also limit its range of motion, slowing it down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <GhoulBarbs.description>Beberapa bioferrita melonjak dengan tusuk sate yang dapat secara pembedahan melihat nekrofag.Secara drastis meningkatkan kerusakan jarak dekat nekrofagus, tetapi juga membatasi jangkauan gerakannya dan memperlambatnya.</GhoulBarbs.description>
+  
+  <!-- EN: ghoul plating -->
+  <GhoulPlating.label>pelat nekrofag</GhoulPlating.label>
+  <!-- EN: Bioferrite plates that can be surgically attached to a ghoul, protecting vulnerable areas. The plates will reduce incoming damage significantly but also slow the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <GhoulPlating.description>Pelat bioferrita yang dapat secara pembedahan menempel pada necrophagus untuk melindungi area yang rentan.Pelat sangat mengurangi kerusakan yang diterima, tetapi juga memperlambat nekrofag.</GhoulPlating.description>
+  
+  <!-- EN: metalblood heart -->
+  <MetalbloodHeart.label>Jantung darah</MetalbloodHeart.label>
+  <!-- EN: A special bioferrite prosthetic that can pump a small amount of metalblood into a ghoul's bloodstream, making it more resistant to damage for a short period of time. Metalblood also makes the ghoul more vulnerable to fire. The prosthetic causes widespread swelling, slowing the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
+  <MetalbloodHeart.description>Prostesis bioferrita khusus yang dapat memompa sejumlah kecil berdarah dalam aliran darah necrophagus, membuatnya lebih tahan terhadap kerusakan untuk jangka waktu yang singkat.The Bloody juga membuat necrofago yang paling rentan di depan api. Prostesis menyebabkan peradangan umum yang memperlambat nekrofag.</MetalbloodHeart.description>
+  
+  <!-- EN: revenant vertebrae -->
+  <RevenantVertebrae.label>Tulang belakang redivatif</RevenantVertebrae.label>
+  <!-- EN: A prosthetic spine that allows the user to temporarily become invisible. The prosthetic is crafted from a modified revenant spine and uses archotech shards to restrain the dormant revenant. The user can manipulate the visual centers of those nearby, effectively turning themself invisible for a short time. -->
+  <RevenantVertebrae.description>Prosthesis tulang belakang yang memungkinkan pengguna menjadi tidak terlihat sementara.Prostesis ini diproduksi dari tulang belakang dorsal redivistik yang dimodifikasi dan menggunakan chip Archeoteca untuk mengandung redivive laten.Pengguna dapat memanipulasi pusat visual orang -orang di dekatnya dan menjadi tidak terlihat untuk jangka waktu yang singkat.</RevenantVertebrae.description>
+  
+  <!-- EN: unfinished ghoul prosthetic -->
+  <UnfinishedHealthItemGhoul.label>Prostesis nekrofagus yang belum selesai</UnfinishedHealthItemGhoul.label>
+  <!-- EN: An unfinished ghoul prosthetic. -->
+  <UnfinishedHealthItemGhoul.description>Prostesis nekrofag yang belum selesai.</UnfinishedHealthItemGhoul.description>
+  
+</LanguageData>

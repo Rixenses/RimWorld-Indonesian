@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [faction_name] siap memberikan [Pawn_definite] judul [newtitle] dan kekuatan level [psylinklevel] psylink dalam upacara penganugian.Ada kesempatan untuk mendapatkan kehormatan ekstra, tergantung pada berapa banyak pemirsa yang menghadiri upacara tersebut.Selain itu, setiap penonton mendapatkan bonus suasana hati. \ N \ nyou dapat mengkhianati yang terbaik untuk mencuri neuroformers psylink, tetapi ini akan membuat [faksi_name] musuh Anda. \ N \ nif Anda kehilangan atau gagal upacara ini, akan ada kesempatan lain nanti.Jika Bestower atau Pengawal dirugikan karena alasan apa pun, akan ada konsekuensi diplomatik.</li>-><BestowingCeremony.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> The Faction [faction_name] siap memberikan [Pawn_Definite] judul [Newtitle] dan kekuatan psikoslasi level [psikinklevel] dalam upacara kenaikan.Ruang tahta tertutup.Ada kemungkinan mendapatkan kehormatan ekstra, tergantung pada berapa banyak penonton yang menghadiri upacara tersebut. Selain itu, setiap penonton memenangkan bonus humor.Jika pemberi atau penjaganya terluka karena suatu alasan, akan ada konsekuensi diplomatik.</li>
+  </BestowingCeremony.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> upacara [Pawn_Definite] [Newtitle]</li>-><BestowingCeremony.questNameRules.rulesStrings>
+    <li>QuestName-> Ascension of [Pawn_Definite] ke [Newtitle]</li>
+  </BestowingCeremony.questNameRules.rulesStrings>
+  
+</LanguageData>

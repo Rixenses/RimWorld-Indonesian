@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>gambar-> [karakter] soliter [desc_pawn]</li>
+    <li>gambar-> [karakter] soliter [desc_pawn] di dekat [terrainfeature]</li>
+    <li>gambar-> [karakter] soliter [desc_pawn] di dekat [komunitas]</li>
+    <li>gambar-> [karakter] [desc_pawn] dikelilingi oleh [karakter] s</li>
+    <li>Image-> [Character] S Playing [Game]</li>
+    <li>Image-> [karakter] [desc_pawn] bermain [game] dengan [kuantitas adj frase] [karakter</li>
+    <li>gambar-> [karakter] [desc_pawn] memegang [senjata]</li>
+    <li>gambar-> [karakter] [desc_pawn] makan [sayuran]</li>
+    <li>gambar-> [frase adj kuantitas] [personjob] s dan [pekerjaan orang] s makan [sayuran bersama</li>
+    <li>Image-> The Minor Celebrity [Nameperson] [desc_pawn]</li>
+    <li>gambar-> [karakter] mengenakan [pakaian] [desc_pawn]</li>
+    <li>gambar-> [komunitas]</li>
+    <li>gambar-> [terrainfeature]</li>
+    <li>gambar-> [senjata]</li>
+    <li>gambar-> pohon [Treetype]</li>
+    <li>gambar-> [objek alami]</li>
+    <li>gambar-> [frasa adj kualitas] [senjata</li>
+    <li>gambar-> [quantity_adjphrase] [sayuran] s</li>
+    <li>gambar-> [pakaian] kosong</li>
+    <li>gambar-> [bentuk]</li>
+    <li>gambar-> [bentuk] dikelilingi oleh [bentuk] s</li>
+    <li>gambar-> rendering abstrak [Conceptany]</li>
+    <li>Gambar-> A [AdjectiveANy] Bentuk Abstrak</li>
+    <li>desc_pawn (p = 12)-></li>
+    <li>desc_pawn-> terbang di udara</li>
+    <li>desc_pawn-> ditangguhkan di udara</li>
+    <li>desc_pawn-> pindah ke kiri</li>
+    <li>desc_pawn-> bergerak ke kanan</li>
+    <li>desc_pawn-> duduk di atas meja</li>
+    <li>desc_pawn-> terlihat melalui kaca yang terlihat</li>
+    <li>desc_pawn-> diterjemahkan dalam siluet</li>
+    <li>desc_pawn-> mengendarai [hewan] mengenakan [pakaian]</li>
+    <li>desc_pawn-> mencari [adjectiveAny]</li>
+    <li>desc_pawn-> tercakup dalam [gore]</li>-><TalelessImages.rulePack.rulesStrings>
+    <li>Image-> un [karakter] [desc_pawn]</li>
+    <li>Image-> UNA [karakter_fem] [desc_pawn_fem]</li>
+    <li>Image-> A [karakter_human] kesepian [desc_pawn] dekat [terrainfeatureindef]</li>
+    <li>Gambar-> [karakter] [desc_pawn] dekat [communityIndef]</li>
+    <li>Gambar-> [karakter] [desc_pawn] dikelilingi oleh [karakterenemyplural]</li>
+    <li>Image-> A [karakter_human] bermain {ganti: a [gamedef];"To el"-"al"}</li>
+    <li>Image-> un [karakter_human] [desc_pawn] jugando {ganti: a [gamedef];"A el"-"al"} con [quantity_adjphrase] [karakter_human] s</li>
+    <li>Image-> A [karakter] [desc_pawn] mengrandatkan [weaponcacidef]</li>
+    <li>Image-> [karakter] [desc_pawn] makan [vegetableAny]</li>
+    <li>gambar-> [quantity_adjphrase] [job_plural] makan [vegetableud] bersama</li>
+    <li>Image-> Selebriti lokal yang disebut [Nameperson] [desc_pawn]</li>
+    <li>Image-> A [karakter_human] memakai [aparalindef] [desc_pawn]</li>
+    <li>Gambar-> [CommunityIndef]</li>
+    <li>Gambar-> [TerrainfeatureIndef]</li>
+    <li>Image-> [WeaponIndef]</li>
+    <li>Gambar-> pohon [treetpeany]</li>
+    <li>Gambar-> [NaturalObjectDef]</li>
+    <li>gambar-> [quantity_adjphrase] [WeaponPlany]</li>
+    <li>Image-> [quantity_adjphrase] [vegetableAny] s</li>
+    <li>Gambar-> [OpparelIndef]</li>
+    <li>Gambar-> [Shapedef]</li>
+    <li>Gambar-> [Shapedef] Cerca de [TerrainfeatureIndef]</li>
+    <li>Gambar (p = 0,5)-> interpretasi abstrak dari [ConceptAndef]</li>
+    <li>Image-> Siluet abstrak yang mencerminkan [ADJECTIVERYIndef]</li>
+    <li>desc_pawn (p = 12)-></li>
+    <li>Desc_pawn-> terbang di udara</li>
+    <li>Desc_pawn-> mengambang di udara</li>
+    <li>Desc_pawn-> di atas meja</li>
+    <li>Desc_pawn-> pindah ke kiri</li>
+    <li>Desc_pawn-> bergerak ke kanan</li>
+    <li>Desc_pawn-> terlihat melalui cermin</li>
+    <li>Desc_pawn-> diwakili dalam siluet</li>
+    <li>Desc_pawn-> dipasang pada [hewan]</li>
+    <li>Desc_pawn-> dipasang pada [animal_fem]</li>
+    <li>Desc_pawn-> tercermin dalam [kata sifat dan indef]</li>
+    <li>Desc_pawn-> tertutup [gore_plural]</li>
+    <li>desc_pawn_fem (p = 12)-></li>
+    <li>Desc_pawn_fem-> terbang di udara</li>
+    <li>Desc_pawn_fem-> mengambang di udara</li>
+    <li>Desc_pawn_fem-> di tabel</li>
+    <li>Desc_pawn_fem-> pindah ke kiri</li>
+    <li>Desc_pawn_fem-> bergerak ke kanan</li>
+    <li>Desc_pawn_fem-> Lihat melalui cermin</li>
+    <li>Desc_pawn_fem-> diwakili dalam siluet</li>
+    <li>Desc_pawn_fem-> dipasang pada [hewan]</li>
+    <li>Desc_pawn_fem-> dipasang di [animal_fem]</li>
+    <li>Desc_pawn_fem-> melihat tercermin dalam [AdjectiveEyIndef]</li>
+    <li>disc_pown_feme-> scubier dari [gree_plural]</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

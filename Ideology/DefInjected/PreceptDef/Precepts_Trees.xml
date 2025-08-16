@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: strong -->
+  <GauranlenConnection_Strong.label>kuat</GauranlenConnection_Strong.label>
+  <!-- EN: We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection. -->
+  <GauranlenConnection_Strong.description>Kami memiliki hubungan khusus dengan pohon Gauranlen.Pohon fokus produksi di bawah pengaruh kita dan kita tidak puas jika kita tidak memiliki koneksi itu.</GauranlenConnection_Strong.description>
+  <!-- EN: Gauranlen connection -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>Mesin gauranlen</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Want Gauranlen connection (min expectation: Very low) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>Berharap Koneksi Gauranlen (Min.: Ekspektasi Sangat Rendah)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>
+  <!-- EN: Want Gauranlen connection (min expectation: Low) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>Berharap Koneksi Gauranlen (Min.: Harapan Rendah)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>
+  <!-- EN: Want Gauranlen connection (min expectation: Moderate) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>Berharap Koneksi Gauranlen (Ekspektasi Pikiran: Sedang)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>
+  <!-- EN: Want Gauranlen connection (min expectation: High) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>Berharap Koneksi Gauranlen (Min.: Harapan Tinggi)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
+  <!-- EN: Want Gauranlen connection (min expectation: Sky high) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Berharap Koneksi Gauranlen (Min.: Ekspektasi Sangat Tinggi)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: planted Gauranlen tree -->
+  <GauranlenConnection_Strong.comps.1.eventLabel>Instruksikan Gouran</GauranlenConnection_Strong.comps.1.eventLabel>
+  
+  <!-- EN: desired -->
+  <Trees_Desired.label>diinginkan</Trees_Desired.label>
+  <!-- EN: It's essential to live surrounded by beautiful trees. -->
+  <Trees_Desired.description>Sangat penting untuk hidup dikelilingi oleh pohon -pohon yang indah.</Trees_Desired.description>
+  <!-- EN: Healthy trees -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.0>Pohon sehat</Trees_Desired.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Trees disturbed -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.1>Pohon yang terganggu</Trees_Desired.comps.1.thoughtStageDescriptions.1>
+  <!-- EN: Trees defaced -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.2>Pohon cacat</Trees_Desired.comps.1.thoughtStageDescriptions.2>
+  <!-- EN: Trees damaged -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.3>Pohon yang rusak</Trees_Desired.comps.1.thoughtStageDescriptions.3>
+  <!-- EN: Trees harmed -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.4>Pohon yang terluka</Trees_Desired.comps.1.thoughtStageDescriptions.4>
+  <!-- EN: Trees defiled -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.5>Pohon yang Dipecahkan</Trees_Desired.comps.1.thoughtStageDescriptions.5>
+  <!-- EN: Trees wrecked -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.6>Pohon yang hancur</Trees_Desired.comps.1.thoughtStageDescriptions.6>
+  <!-- EN: Trees ravaged -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.7>Pohon yang hancur</Trees_Desired.comps.1.thoughtStageDescriptions.7>
+  
+</LanguageData>

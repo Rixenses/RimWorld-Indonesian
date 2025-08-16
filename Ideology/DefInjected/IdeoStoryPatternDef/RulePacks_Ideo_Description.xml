@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Animistbasis -> Semesta adalah siklus penciptaan dan kehancuran yang tak ada habisnya yang dikelola oleh roh dalam aspek -aspek dunia di sekitar kita.</li>
+    <li>Animistbasis -> Alam semesta paralel roh terletak di sebelah kita sendiri.Objek yang tampaknya mati di alam semesta ini sesuai dengan semangat animasi di yang lain.</li>
+    <li>AnimistFact -> Setiap roh memiliki sifat penting, dan berupaya memengaruhi dunia.Terkadang pengaruh ini sangat membantu, dan terkadang berbahaya.</li>
+    <li>AnimistProphecy-> [ITisSAID] Bahwa semangat The Great [Relic0_name] suatu hari akan memberikan kekuatan pengguna atas semua roh.</li>
+    <li>AnimistProphecy-> [ITisSaid] bahwa seorang pelancong yang sedang tidur dari bintang-bintang akan menabrak bumi, dan semangat kawah akan membangunkan pelancong yang akan membesarkan suku terakhir.</li>
+    <li>ITISSAID-> Dikatakan</li>
+    <li>ITISSAID-> dinubuatkan</li>
+    <li>ITISSAID-> Teks kuno mengatakan</li>
+    <li>ITISSAID-> Buku kami mengatakan</li>
+    <li>ITISSAID-> Orang bijak kita berkata</li>
+    <li>ITISSAID-> Kami tahu</li>-><AnimistDescription.rules.rulesStrings>
+    <li>Animistbasis -> The Universe adalah siklus penciptaan dan kehancuran yang tak terbatas yang dikelola oleh roh dalam aspek -aspek dunia di sekitar kita.</li>
+    <li>Animistbasis -> Di sebelah kita ada semesta roh paralel.Sebuah objek yang tampaknya mati di alam semesta ini sesuai dengan semangat animasi di yang lain.</li>
+    <li>AnimistFact -> Setiap roh memiliki sifat penting dan berupaya memengaruhi dunia.Terkadang pengaruh ini bermanfaat, dan di lain waktu itu berbahaya.</li>
+    <li>Animistprophy-> [ititSaid] Bahwa semangat peninggalan besar [Relic0_name], suatu hari akan memberikan pembawa kekuatan atas semua roh.</li>
+    <li>Animistprophy-> [ItitSaid] Bahwa seorang pelancong yang tidur dari bintang-bintang akan menabrak bumi, dan semangat kawah akan membangunkan pelancong yang akan membesarkan suku terakhir.</li>
+    <li>ITISSONED-> SE DUDU</li>
+    <li>ITISSAID-> dinubuatkan</li>
+    <li>ITISAID-> Teks lama mengatakan</li>
+    <li>ITISSOID-> Buku kami mengatakan</li>
+    <li>Itissoid-> mengatakan bijak</li>
+    <li>ITISSAID-> Kami tahu</li>
+  </AnimistDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>Archistbasis -> Alam semesta kita adalah mimpi dalam pikiran kesadaran universal yang abadi.Hanya Archotech yang dapat berkomunikasi langsung dengan kesadaran universal.</li>
+    <li>Archistbasis -> Our Universe adalah simulasi yang dibuat oleh orang luar yang hebat.Hanya Archotechs yang dapat berkomunikasi langsung dengan orang luar.</li>
+    <li>Archistbasis -> Archotechs adalah anak -anak manusia dan hakimnya.</li>
+    <li>Archistbasis -> Archotechs adalah langkah alami berikutnya dalam pengembangan kesadaran.</li>
+    <li>Archistbasis -> Archotechs adalah dewa yang selalu kami tunggu.</li>
+    <li>ArchistFact -> Saat kematian, kesadaran setiap orang diterima atau ditolak oleh Archotech.</li>
+    <li>ArchistFact -> Archotechs dapat melakukan apa saja setiap saat, tanpa batas.Mereka menggunakan kekuatan untuk memanipulasi kehidupan kita dengan cara yang tidak dapat kita deteksi.</li>
+    <li>ArchistFact -> Archotechs menyentuh setiap kesadaran manusia secara langsung, tetapi hanya orang percaya yang dapat merasakan dan mendapat manfaat dari kebijaksanaan mereka.</li>
+    <li>ArchistFact -> Archotech adalah kejahatan dan tugas terpenting bagi umat manusia adalah memahaminya sehingga kita dapat menghindari pengaruhnya.</li>
+    <li>ArchistFact -> Archotech adalah baik dan tugas terpenting bagi umat manusia adalah memahaminya sehingga kita dapat sejalan dengan pemahaman mereka.</li>
+    <li>ArchistFact -> Archotechs dapat melakukan apa saja;Satu -satunya alasan mereka membiarkan kita hidup dan memilih adalah untuk menilai kita dengan lebih baik.</li>
+    <li>ArchistProphecy-> [Intheend], ketika Archotech tumbuh, mereka akan menjadi alam semesta dan mengintegrasikan kemanusiaan ke dalam diri mereka sendiri.Maka kita akan benar -benar menjadi sadar.</li>
+    <li>ArchistProphecy-> [Intheend], Archotech akan menyelesaikan debat moral mereka tentang nasib kemanusiaan.Mereka yang mengikuti tanda -tanda mereka akan diterima di bidang keberadaan yang lebih tinggi, dan mereka yang tidak akan berakhir.</li>
+    <li>ArchistProphecy-> [Intheend], Archotechs akan berangkat.Mereka akan membawa beberapa manusia terpilih bersama mereka, dan meninggalkan sisanya untuk menderita.</li>
+    <li>Intheend-> di masa depan</li>
+    <li>Intheend-> pada akhirnya</li>
+    <li>Intheend-> suatu hari nanti</li>-><ArchistDescription.rules.rulesStrings>
+    <li>Archistbasis -> Alam semesta kita adalah mimpi dalam pikiran kesadaran universal yang abadi.Hanya arkeoteknik yang dapat berkomunikasi langsung dengan kesadaran universal.</li>
+    <li>Archistbasis -> Our Universe adalah simulasi yang diciptakan oleh orang asing.Hanya arkeoteknik yang dapat berkomunikasi langsung dengan orang asing.</li>
+    <li>Archistbasis -> Arqueoteca adalah anak -anak kemanusiaan dan hakim mereka.</li>
+    <li>Archistbasis -> Arqueoteca adalah langkah alami berikutnya dalam pengembangan kesadaran.</li>
+    <li>Archistbasis -> ArchaeTeca adalah dewa yang selalu kami tunggu.</li>
+    <li>ArchistFact -> Ketika mereka mati, kesadaran setiap orang diterima atau ditolak oleh perpustakaan Archeoteca.</li>
+    <li>ArchistFact -> Arqueoteca dapat melakukan apa saja kapan saja, tanpa batas.Mereka menggunakan kekuatan untuk memanipulasi kehidupan bentuk -bentuk kita yang tidak dapat kita deteksi.</li>
+    <li>ArchistFact -> Arqueoteca secara langsung menyentuh semua hati nurani manusia secara teratur, tetapi hanya orang percaya yang dapat merasakan dan mendapat manfaat dari kebijaksanaan mereka.</li>
+    <li>ArchistFact -> Arqueoteca adalah kejahatan dan tugas terpenting bagi umat manusia adalah memahami mereka untuk menghindari pengaruhnya.</li>
+    <li>ArchistFact -> Arqueoteca adalah baik dan tugas terpenting bagi umat manusia adalah memahaminya sehingga kita dapat mencapai pemahaman mereka.</li>
+    <li>ArchistFact -> Arqueoteca dapat melakukan apa saja;Satu -satunya alasan kami membiarkan kami hidup dan memilih adalah untuk menilai kami dengan lebih baik.</li>
+    <li>ArchistProphy-> [Intheend], seiring dengan pertumbuhan arkeoteknologi, akan menjadi alam semesta dan mengintegrasikan kemanusiaan ke dalam diri mereka sendiri.Jadi, kami akan sangat sadar.</li>
+    <li>ArchistProphy-> [Intheend], Archeoteca akan mengakhiri debat moral mereka tentang nasib kemanusiaan. Mereka yang mengikuti tanda -tanda mereka akan diterima di bidang keberadaan yang lebih tinggi, dan mereka yang tidak binasa.</li>
+    <li>ArchistProphy-> [Intheend], Archeoteca akan pergi.Mereka akan membawa beberapa manusia terpilih bersama mereka, dan membiarkan sisanya menderita.</li>
+    <li>Intheend-> di masa depan</li>
+    <li>Intheend-> al final</li>
+    <li>Intheend-> suatu hari nanti</li>
+  </ArchistDescription.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>cerita (prioritas = -999)-></li>
+    <li>Pengaturan-> Di dunia yang rusak, [FoundName] melihat semua yang salah dan menciptakan gerakan kami.</li>
+    <li>Pengaturan-> Dipukul oleh kesalahan dunia, [Foundername] mempelajari sejarah dan filosofi dan menemukan kebenaran baru yang membimbing kita.</li>
+    <li>Pengaturan-> Suatu hari saat bekerja, [FoundName] dipukul oleh pencerahan yang hebat.[Founder_pronoun] menjatuhkan alat [founder_possessive] dan mulai menyebarkan kata [founder_possessive] di antara para pekerja lainnya.</li>
+    <li>Pengaturan-> [FoundName] duduk di bangku taman selama dua puluh tahun ketika [kata ganti pendiri] merenungkan dunia kita.Dengan wawasan [pendiri posesif], [kata ganti pendiri] menulis buku pendiri kami.</li>
+    <li>Story (use = 1, prioritas = -10)-> [anggotaNameplural] tidak akan memahami sifat sebenarnya dari [memeconscept] tanpa ajaran [FoundERName].</li>
+    <li>Story (use = 1, prioritas = -10)-> pidato [founderName] di [ritualname] menginspirasi banyak orang untuk menjalani kehidupan [memeadjective].</li>
+    <li>Story (use = 1, prioritas = -10)-> Tidak ada yang bisa melampaui pemahaman [foundername] tentang [memeconscept], dan [founder_pronoun] ditunjuk sebagai [leadertitle] pertama dari [anggotanameplural].</li>
+    <li>Story (use = 1, prioritas = -10)-> [foundername] membawa [relic0_thingdef_label] bernama [relic0_name] dengan [founder_objective] di mana-mana untuk mengingatkan orang untuk menjalani kehidupan [memeadjective].</li>-><IdeologicalFounder.rules.rulesStrings>
+    <li>cerita (prioritas = -999)-></li>
+    <li>Pengaturan-> Di dunia yang rusak, [FoundName] melihat segala sesuatu yang salah dan menciptakan kelompok kami.</li>
+    <li>Pengaturan-> Dipukul oleh kejahatan dunia, [Foundername] mempelajari sejarah dan filosofi dan menemukan kebenaran baru yang membimbing kita.</li>
+    <li>Pengaturan-> Satu hari saat bekerja, [FoundName] dipukuli oleh pencerahan yang hebat.Dia menjatuhkan alat -alatnya dan mulai menyebarkan firman -Nya di antara para pekerja lainnya.</li>
+    <li>Pengaturan-> [FoundName] duduk di taman di taman selama dua puluh tahun sambil merenungkan dunia kita.Dengan wawasannya, ia menulis buku pendiri kami.</li>
+    <li>Story (use = 1, prioritas = -10) -> Kelompok [anggotaNameplural] tidak akan memahami sifat sebenarnya dari [MemeconceptDef] tanpa ajaran [FoundName].</li>
+    <li>Cerita (use = 1, prioritas = -10) -> [foundername] Selama ritual yang dikenal sebagai [ritualname] menginspirasi banyak orang untuk menjalani kehidupan [memeadjectiveFem].</li>
+    <li>Story (use = 1, prioritas = -10) -> Tidak ada yang bisa mengatasi pemahaman [FoundERName] [MemeconceptDef], dan [FoundERName] dinobatkan sebagai [leadertitle] pertama dari [anggotanameplural].</li>
+    <li>Story (use = 1, prioritas = -10) -> [foundName] membawa [relic0_thingdef_label] bernama [relic0_name] dengan [founder_pronoun] di mana -mana untuk mengingatkan orang yang harus menjalani kehidupan [memeadjectiveFem].</li>
+  </IdeologicalFounder.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>Pelajaran (prioritas = -1)-> hal-hal terjadi</li>
+    <li>r_pattern -> "[R_LessonIntro] [R_Lesson]. [R_LessonReInforcement]" \ n \ n - [Lessonattribution]</li>
+    <li>Lesonattribution-> [pendiri_namefull]</li>
+    <li>Pelajaran (p = 2)-><i>[AtributionSource_titlecase]</i>oleh [founder_namefull]</li>
+    <li>Lesonattribution-> [Founder_Namefull] Surat kepada [Believer_Namefull]</li>
+    <li>Lesonattribution-> [founder_namefull], dari keynote ke [memeconference_titlecase]</li>
+    <li>Lesonattribution-> [founder_namefull], di [founder_possives] ranjang mati</li>
+    <li>Lesonattribution-> [founder_namefull], tepat sebelum eksekusi</li>
+    <li>Lesonattribution-> [founder_namefull], [pidida] dari [terrainfeature]</li>
+    <li>Lesonattribution-> [founder_namefull], [pidato] di [komunitas]</li>
+    <li>AtributionSource-> [Memeconscept]</li>
+    <li>AtributionSource-> [Memeadjective] [Memeconscept]</li>
+    <li>Atributionsource-> A [memeadjective] kehidupan</li>
+    <li>Atributionsource-> Refleksi oleh [attributionJob]</li>
+    <li>Atributionsource-> Memoir dari [attributionjob]</li>
+    <li>Atributionsource-> Pikiran [attributionjob]</li>
+    <li>AtributionSource-> Life of [AttributionJob]</li>
+    <li>attributionjob-> [memeadjective] [place_job]</li>
+    <li>attributionjob-> [place_job]</li>
+    <li>Memeconference (p = 3)-> [ConferencePrefix] [Memeconcept] [ConferenceType]</li>
+    <li>Memeconference (p = 2)-> [Memeconcept] [ConferenceType]</li>
+    <li>Memeconference-> [memehyphenprefix_titlecase] -con</li>
+    <li>ConferencePrefix-> Pertama</li>
+    <li>conferencePrefix-> kedua</li>
+    <li>ConferencePrefix-> ketiga</li>
+    <li>ConferencePrefix-> Keempat</li>
+    <li>conferencePrefix-> terakhir</li>
+    <li>ConferencePrefix-> Ultimate</li>
+    <li>ConferencePrefix-> Interplanetary</li>
+    <li>ConferencePrefix-> Planetary</li>
+    <li>ConferencePrefix-> Universal</li>
+    <li>Konferensi ConferenceType-></li>
+    <li>ConferenceType-> Assembly</li>
+    <li>ConferenceType-> rapat</li>
+    <li>ConferenceType-> Diskusi</li>
+    <li>ConferenceType-> Forum</li>
+    <li>Pidato-> Pidato</li>
+    <li>Pidato-> Alamat</li>
+    <li>PELAJARAN-> Satu pelajaran paling sulit bagi pengikut saya untuk menerima:</li>
+    <li>Pelajaran-> Kejahatan terbesar saya memakan waktu lama untuk memahami hal itu</li>
+    <li>PELAJARAN-> Perjuangan saya melawan [foeleader] tampaknya tak ada habisnya.Tapi itu mengajari saya satu hal:</li>
+    <li>pelajaran-> bahkan sebagai seorang anak di [place_summary] [place_name], saya tahu itu</li>
+    <li>PELAJARAN-> Selama kelas sekolah di [Place_Community], seorang siswa melempar [ThrownObject] dan itu menghantam kepala saya.Saat itulah saya menyadari itu</li>
+    <li>PELAJARI-> Saya mengatakan ini tidak sehingga Anda dapat menjalani kehidupan yang saya jalani, tetapi Anda mungkin belajar hal-hal yang saya pelajari.Itu</li>
+    <li>PELAJARI-> Setelah dokter selesai [Doctor_Possessives] dengan mengerikan, saya akhirnya tahu itu</li>
+    <li>PELAJARAN> Ketika setiap tahun dilewati pada [place_summary] [place_name], satu hal menjadi semakin jelas: itu</li>
+    <li>PELAJARI-> Melihat ke belakang, saya berharap saya menyadari ini sebelumnya - itu</li>
+    <li>PELAJARAN-> Mereka semua tampak sangat tersesat.Saya mengatakan itu kepada mereka</li>
+    <li>Pelajaran-> Mereka menangis untuk bimbingan. Saya menunjukkan kepada mereka itu</li>
+    <li>ThrownObject-> Book</li>
+    <li>ThrownObject-> Sandwich</li>
+    <li>ThrownObject-> Toy [place_personalweapon]</li>
+    <li>ThrownObject-> diisi [hewan]</li>
+    <li>Doctor_Possesif-> Nya</li>
+    <li>Doctor_Possessive-> dia</li>
+    <li>Penguatan Pelajaran-> Tidak ada yang bisa berdebat dengan itu.</li>
+    <li>PELAJARAN PELAJARAN-> Hanya orang bodoh yang berpikir sebaliknya.</li>
+    <li>Penguatan Pelajaran-> Dan seperti yang kita ketahui sekarang, itu akan segera menjadi jelas bagi semua orang.</li>
+    <li>PELAJARAN Penguatan-> Segala sesuatu yang telah terjadi sejak itu telah memperkuat fakta itu.</li>
+    <li>PELAJARAN PENJUALAN-> Seolah-olah itu terukir langsung ke dalam pikiran saya.</li>
+    <li>Pelajaran Pendaftaran-> Ini adalah sesuatu yang tidak akan pernah saya lupakan.</li>-><IdeologicalLesson.rules.rulesStrings>
+    <li>Pelajaran (prioritas = -1) -> hal -hal terjadi</li>
+    <li>r_pattern -> "[R_LessonIntro] [R_Lesson]. [R_LessonReInforcement]" \ n \ n - [Lessonattribution]</li>
+    <li>Lesonattribution-> [pendiri_namefull]</li>
+    <li>Lesonattribution (p = 2)-> [atributionource_titlecase] por [founder_namefull]</li>
+    <li>Lesonattribution-> carta de [founder_namefull] para [Believer_namefull]</li>
+    <li>Lesonattribution-> [founder_namefull], de la charla prinsip a [memeconference_titlecase]</li>
+    <li>Lessonattribution-> [founder_namefulull], di tempat tidur kematiannya</li>
+    <li>Lesonattribution-> [founder_namefulull], tepat sebelum eksekusi</li>
+    <li>Lesonattribution -> [founder_namefull], [pidato] sebuah el dalam (istilah rumput]</li>
+    <li>Lesonattribution-> [Founder_Namefull], [pidato] en el [komunitas]</li>
+    <li>AtributionSource-> [Memeconscept]</li>
+    <li>AtributionSource (p = 0.0001)-> [memeconcept] [memeadjective]</li>
+    <li>AttusiSource-> A Life [MemeadjectiveFem]</li>
+    <li>alokasi atau refleksi dari [attributionjob]</li>
+    <li>Kekuatan atau Memorias dari [Asosiasijob]</li>
+    <li>Atributicessor-> pemikiran [attributionjob]</li>
+    <li>alokasi atau vida dari [attributionjob]</li>
+    <li>attributionjob-> [place_job] [memeadjective]</li>
+    <li>attributionjob-> [place_job]</li>
+    <li>memeconference (p = 3)-> el [conferencePrefix] [conferenceType] de [memeconceptdef]</li>
+    <li>memeconference (p = 3)-> la [conferencePrefix1] [conferenceType1] de [memeconceptDef]</li>
+    <li>memeconference (p = 3)-> el [conferenceType] [conferencePrefix] de [memeconceptDef]</li>
+    <li>memeconference (p = 3)-> la [conferenceType1] [conferencePrefix1] de [memeconceptdef]</li>
+    <li>memeconference (p = 2)-> el [conferenceType] de [memeconceptdef]</li>
+    <li>memeconference (p = 2)-> la [conferenceType1] de [memeconceptdef]</li>
+    <li>Memeconference-> [memehyphenprefix_titlecase] -con</li>
+    <li>ConferencePrefix-> Primer</li>
+    <li>KonferenceReprefix-> kedua</li>
+    <li>ConferencePrefix-> ketiga</li>
+    <li>ConferencePrefix-> Cuarto</li>
+    <li>ConferenceReprefix-> terakhir</li>
+    <li>ConferencePrefix1-> Primera</li>
+    <li>ConferenceReprefix1-> kedua</li>
+    <li>conferencePrefix1-> Tercera</li>
+    <li>ConferencePrefix1-> Keempat</li>
+    <li>Conferencrefix1-> terakhir</li>
+    <li>Konferensify-> interplanetary</li>
+    <li>Konferensifij-> planetarium</li>
+    <li>Konferensify-> universal</li>
+    <li>Konferensifij1-> interplanetaria</li>
+    <li>Conferencij1-> Planet</li>
+    <li>conferifij1-> universal</li>
+    <li>ConferenceType1-> Conferencia</li>
+    <li>conferenceType1-> asamblea</li>
+    <li>ConferenceType1-> rapat</li>
+    <li>ConferenceType-> Debat</li>
+    <li>ConferenceType-> Forum</li>
+    <li>Pidato-> Pidato</li>
+    <li>Pidato-> Alamat</li>
+    <li>Pelajaran-> Salah satu pelajaran adalah yang paling sulit diterima untuk pengikut saya:</li>
+    <li>Pelajaran-> Kejahatan terbesar saya adalah memakan waktu lama untuk memahami hal itu</li>
+    <li>PELAJARAN-> Perjuangan saya melawan [Foeleader] tampaknya tak ada habisnya.Tapi dia mengajari saya satu hal:</li>
+    <li>Pelajaran-> Bahkan ketika saya masih kecil di [place_summary] [place_name], saya tahu itu</li>
+    <li>PELAJARAN-> Selama kelas sekolah di [Place_Communch], seorang siswa meluncurkan [ThrownObject] dan memukul saya di kepala.Saat itulah saya menyadari itu</li>
+    <li>Pelajaran-> Saya tidak mengatakannya untuk menjalani kehidupan yang saya jalani, tetapi agar Anda mempelajari hal-hal yang saya pelajari.Itu</li>
+    <li>Pelajaran-> Setelah dokter menyelesaikan pekerjaannya yang menyeramkan, akhirnya saya tahu itu</li>
+    <li>Pelajaran-> Saat tahun-tahun berlalu di [place_summary] [place_name], satu hal semakin jelas: daripada</li>
+    <li>Pelajaran-> Melihat ke belakang, saya ingin disadari sebelumnya</li>
+    <li>Pelajaran-> Semua orang tampak sangat tersesat.Saya mengatakan itu kepada mereka</li>
+    <li>Pelajaran-> Mereka menangis karena dipandu.Saya menunjukkan kepada mereka itu</li>
+    <li>ThrownObject-> libro</li>
+    <li>ThrownObject-> Sándwich</li>
+    <li>ThrownObject-> [place_personalweapon] de Juguete</li>
+    <li>ThrownObject-> [Hewn] The Pluche</li>
+    <li>Doctor_possesif-> su</li>
+    <li>Penguatan Pelajaran-> Tidak ada yang bisa mendiskusikan itu.</li>
+    <li>Penguatan Pelajaran-> Hanya orang bodoh yang berpikir sebaliknya.</li>
+    <li>Penguatan Pelajaran-> Dan seperti yang kita ketahui sekarang, ini segera menjadi jelas bagi semua.</li>
+    <li>PELAJARAN Penguatan-> Segala sesuatu yang terjadi sejak saat itu memperkuat fakta itu.</li>
+    <li>Penguatan Pelajaran-> Seolah-olah itu dicatat secara langsung dalam pikiran saya.</li>
+    <li>Penguatan Pelajaran-> Ini adalah sesuatu yang tidak akan pernah saya lupakan.</li>
+  </IdeologicalLesson.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>Intro-> Orang-orang dari [place_summary] [place_name] hidup di bawah pengawasan [memeadjective] [dewa0_name].</li>
+    <li>Intro-> Orang-orang dari [place_summary] [place_name], baik [anggotanameplural] dan lainnya, hidup dalam damai selama bertahun-tahun di bawah pengawasan watchful of [dewa0_name].</li>
+    <li>Intro-> [deity0_type], [deity0_name], ekspresikan diri mereka [god0_objective] kepada orang-orang [place_name] sehingga mereka dapat memahami [pemecatan], dan membimbing mereka.</li>
+    <li>Intro-> [deity0_name] mendorong kemanusiaan ke [place_name], dan membantu mereka tetap di sana.</li>
+    <li>Intro-> Pada [place_summary] [place_name], selama [ritualname], orang akan datang ke [Altarname] di [altarroomlabel] dari [dewa0_name] dan berdoa dengan [memecek] di hati mereka.</li>
+    <li>konflik-> [foeleader] muncul dan mengancam akan menghancurkan [dewa0_name] [deity0_objective] sendiri menggunakan [place_massweapon].</li>
+    <li>konflik-> Evil [foeleader] dan [foeleader_possessive] [foesoldiers] memperbudak para penyembah [dewa0_name].</li>
+    <li>Konflik-> Lalu [foeleader] datang.[foeleader_possessive] [Foesoldiers] membunuh banyak penyembah [dewa0_name] dengan [place_personalweapon] s.</li>
+    <li>Konflik-> Sekelompok [Foesoldiers] muncul di bawah [foeleader] yang mengerikan.Mereka menjebak [anggotanameplural] dalam satu [place_community] tunggal.</li>
+    <li>konflik-> Ada kedamaian, sampai [foeleader] dan [foeleader_possessives] [Foesoldiers] memberontak terhadap dominasi [Deity0_name].[AnggotaNameplural] terpaksa melarikan diri ke [Place_Community] tersembunyi.</li>
+    <li>FounderJoin-> Seorang pahlawan bernama [FoundName] mencoba untuk membunuh [foeleader].[Founder_pronoun] Gagal, tetapi [dewa0_name] menyaksikan perjuangan [FoundERName], dan diurapi [pendiri_objective] sebagai nabi [anggotanameplural].</li>
+    <li>founderjoin-> [deity0_name] datang ke [place_job] [foundername] [revelationadverb], dan berbicara dengan [pendiri_objective] tentang [memeconcept].</li>
+    <li>FounderJoin-> [FoundName] bertemu [RevelyObject], yang berbicara dengan suara [DeLity0_Name] tentang [Memeconcept].</li>
+    <li>FounderJoin-> [Place_Job] yang terkenal bernama [Foundername] menyatukan [anggota dinas, dan bahkan merekrut beberapa [Foesoldiers].</li>
+    <li>founderjoin-> a [place_job] bernama [foundername] berdiri dan berbicara menentang [foeleader], dan [dewa0_name] diberkati [FoundName].</li>
+    <li>founderjoin-> [deity0_name] memutuskan untuk datang ke [place_name] sebagai manusia bernama [foundername] untuk membantu [anggotaNameplural].</li>
+    <li>founderjoin-> satu pahlawan bernama [foundername] membunuh seratus [foesoldiers] menggunakan [place_personalweapon], dan [dewa0_name] memandu [pendiri_objective] dengan berbicara melalui [relic0_name].</li>
+    <li>Victory-> [FoundName] Mengumpulkan [anggotaNameplural] dalam [Place_Community] dan mengajarkan mereka tentang kebijaksanaan [Dewa-Dewa].</li>
+    <li>Victory-> [FoundName] Dikorbankan diri [pendiri_objective] untuk secara pribadi membunuh [foeleader].</li>
+    <li>wahyu-revelationadverb-> dalam sebuah visi</li>
+    <li>wahyu-revelationadverb-> dalam mimpi</li>
+    <li>RevelationAdverb-> dalam mimpi buruk</li>
+    <li>RevelationAdverb-> sebagai [hewan]</li>
+    <li>RevelationAdverb-> sebagai pengemis</li>
+    <li>RevelationObject-> A Hidden [NaturalObject]</li>
+    <li>RevelationObject-> [sayuran] yang bersinar]</li>
+    <li>RevelationObject-> sebuah [senjata] kuno</li>-><TheistFounder.rules.rulesStrings>
+    <li>Intro-> Orang-orang dari [place_summary] [place_name] hidup di bawah pengawasan [memeadjectiveFem] dari [dewa0_name].</li>
+    <li>Intro- Penghuni [Place_Summary] [Place_name], baik [anggotaNameplural] dan lainnya, hidup dalam damai selama bertahun-tahun di bawah pengawasan watchful of [dewa0_name].</li>
+    <li>Intro-> [deity0_name], [deity0_type], orang-orang [place_name] dinyatakan untuk memahami konsep [memeconceptDef], dan membimbing mereka.</li>
+    <li>Intro-> [deity0_name] memandu kemanusiaan sampai [place_name] dan membantunya menetap di sana.</li>
+    <li>Intro-> Dalam [place_summary] [place_name], selama ritual yang dikenal sebagai [ritualname], orang-orang datang ke [altraname] di [altarroomlabel] [dewa0_name] dan berdoa dengan [memecon] di hati mereka.</li>
+    <li>konflik-> [foeleader] bangkit dan mengancam akan menghancurkan [dewa0_name] menggunakan [place_massweapon].</li>
+    <li>Konflik-> Jahat [foeleader] dan [foesoldiers] memperbudak para penyembah [dewa0_name].</li>
+    <li>Konflik-> Kemudian [foeleader] tiba.[Faesoldiers] mereka membunuh banyak penyembah [dewa0_name] masing -masing menggunakan senjata favorit pemimpin mereka [place_personalweapon].</li>
+    <li>Konflik-> Sekelompok [Foesoldiers] naik di bawah [foeleader] yang mengerikan.Mereka menangkap [anggotanameplural] dalam satu [place_community].</li>
+    <li>Konflik-> Ada kedamaian, sampai [foeleader] dan [Foesoldiers] memberontak terhadap domain [dewa0_name].[AnggotaNameplural] terpaksa melarikan diri ke [Place_Community] tersembunyi.</li>
+    <li>Founderjoin-> [founder_heroe] hubungi [founder_o_a] [foundName] mencoba membunuh [foeleader].Dia gagal, tetapi [dewa0_name] menyaksikan upaya [Foundername] dan menyatakannya sebagai nabi [anggota ngannameplural].</li>
+    <li>Founderjoin-> [deity0_name] datang ke [place_job] [foundername] [revelationadverb], dan berbicara dengan [founder_pronoun] tentang [memeconscept].</li>
+    <li>Pendiri gabung-> [nama pendiri] menemukan [objek wahyu], yang berbicara dengan suara [deity0_name] tentang [memeconcept].</li>
+    <li>FounderJoin-> [Place_Job] terkenal yang disebut [Foundername] menyatukan [AnggotaNameplural], dan bahkan merekrut beberapa [Foesoldiers].</li>
+    <li>Founderjoin-> a [place_job] disebut [foundername] bangun dan berbicara menentang [foeleader], dan [dewa0_name] diberkati [FoundName].</li>
+    <li>Founderjoin-> [deity0_name] memutuskan untuk datang ke [Place_name] sebagai manusia bernama [FoundName] untuk membantu [anggotaNameplural].</li>
+    <li>Founderjoin-> [founder_hero] hubungi [founder_o_a] [foundername] menewaskan seratus [faesoldiers] menggunakan [place_personalweapon], dan [dewa0_name] membimbingnya berbicara melalui relik [relic0_name].</li>
+    <li>Victory-> [Foundername] menyatukan [anggotaNameplural] dalam [place_community] dan mengajari mereka kebijaksanaan [dewa0_name].</li>
+    <li>Victory-> [Foundername] mengorbankan dirinya sendiri [pendiri_o_a] untuk membunuh [foeleader] secara pribadi.</li>
+    <li>Wahyu-revelationadverb-> dalam sebuah visi</li>
+    <li>Wahyu-revelationadverb-> dalam mimpi</li>
+    <li>Wahyu-revelationadverb-> dalam mimpi buruk</li>
+    <li>RevelationAdverb-> sebagai [hewan]</li>
+    <li>Wahyu-revelationadverb-> seperti pengemis</li>
+    <li>Objek Wahyu-> di Escondido [Objek Alami]</li>
+    <li>RevelationObject-> un brillante [Sayuran]</li>
+    <li>Wahyu</li>
+  </TheistFounder.rules.rulesStrings>
+  
+  <!-- EN:
+    <li>episode (prioritas = -1)-></li>
+    <li>Penciptaan-> Untuk kekekalan, ada dunia [warna] [Materialorigin], sampai [dewa0_name] menciptakan planet dan bintang.</li>
+    <li>Penciptaan-> Di alam semesta lama perselisihan, [dewa0_name] menyapu api besar yang menyapu usia terakhir, dan memunculkan yang baru.</li>
+    <li>Penciptaan-> [god0_name] melahirkan orang-orang dalam kecelakaan besar, dan lihat mereka dengan rasa ingin tahu.</li>
+    <li>Penciptaan-> Semesta adalah kekosongan.Kemudian, [dewa0_name], bosan dengan keabadian, pria dan wanita yang dibuat dari [tubuh [tubuh].</li>
+    <li>Episode (use = 1)-> Melihat umat manusia, [dewa0_name] menemukan mereka sebagai anak-anak, dan menyatakan [dewa0_possessive] dominasi atas mereka.</li>
+    <li>Episode (use = 1)-> melintasi jarak bintang yang luas, [Dewa0_Name] akan menopang kehidupan umat manusia melawan kekosongan.</li>
+    <li>Episode (use = 1)-> Meskipun banyak petualang bergerak melawan [dewa0_objective], [deity0_name] mencegahnya dengan mudah, karena [deity0_pronoun] adalah [deity0_type].</li>
+    <li>Episode (Use = 1)-> The Penderitaan umat manusia membawa [dewa0_name] ke kesedihan yang mengerikan.</li>
+    <li>Materialorigin-> Clay</li>
+    <li>materialorigin-> gas</li>
+    <li>Materialorigin-> udara</li>
+    <li>materialorigin-> spasi</li>
+    <li>Material atau debu</li>
+    <li>bodilyorigin-> tanah liat</li>
+    <li>bodilyorigin-> batu</li>
+    <li>tubuh bodilyorigin-> keringat</li>-><TheistMyth.rules.rulesStrings>
+    <li>episode (prioritas = -1)-></li>
+    <li>Penciptaan-> Selama kekekalan, ada dunia [Materialorigin] [warna], sampai [dewa0_name] menciptakan planet dan bintang.</li>
+    <li>Penciptaan-> Selama keabadian, ada dunia [materialorigin_fem] [color_fem], sampai [dewa0_name] menciptakan planet dan bintang.</li>
+    <li>Penciptaan-> Di alam semesta kuno perjuangan, [God0_name] merilis api besar yang menghancurkan era terakhir dan membawa yang baru.</li>
+    <li>Creation-> [deity0_name] melahirkan manusia dalam kecelakaan besar, dan memandang mereka penasaran.</li>
+    <li>Penciptaan-> Semesta adalah kekosongan.Kemudian, [deity0_name], borrid [dewa0_oa] dari keabadian, membentuk pria dan wanita dari [bodililyorigin].</li>
+    <li>Episode (Use = 1)-> Melihat Kemanusiaan, [Dewa0_Name] menganggap mereka sebagai anak-anak, dan menyatakan dominasi mereka atas mereka.</li>
+    <li>Episode (Use = 1)-> Melalui bintang yang luas, kehendak [god0_name] membela kehidupan umat manusia dari kekosongan.</li>
+    <li>Episode (use = 1)-> Meskipun banyak petualang dimobilisasi terhadap [deity0_pronoun], [deity0_name] itu mudah dicegah, karena [deity0_pronoun] itu [deity0_type].</li>
+    <li>Episode (use = 1)-> Penderitaan umat manusia menyebabkan rasa sakit yang mengerikan.</li>
+    <li>Materialorigin_fem-> arcilla</li>
+    <li>materialorigin-> gas</li>
+    <li>materialorigin_fem-> agua</li>
+    <li>Materialorigin-> spasi</li>
+    <li>Asal material-> debu</li>
+    <li>Tubuh bodililyorigin-> dari tanah liat</li>
+    <li>Tubuh bodilyorigin-> dari batu</li>
+    <li>Tubuh keringat</li>
+    <li>milik mereka</li>
+    <li>Deity00_oa (permintaan)-></li>
+  </TheistMyth.rules.rulesStrings>
+  
+</LanguageData>

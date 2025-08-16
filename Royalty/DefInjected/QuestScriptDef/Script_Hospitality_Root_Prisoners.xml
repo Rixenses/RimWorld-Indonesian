@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Lodgerslabel-> tahanan</li>
+    <li>Lodgerslabelplural-> Tahanan</li>-><Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+    <li>Lodgerslabel-> tahanan</li>
+    <li>Lodgerslabelplural-> Tahanan</li>
+  </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true, lodgerscount == 1)-> Kapten kapal yang mengorbit ingin Anda menjaga seorang tahanan bernama [lodgers0_namefull] di [peta_definite] untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo1] [commondescending]</li>
+    <li>ancamaninfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n [lodgers0_namedef] Baru-baru ini meludahkan anak yang paling dicintai dari [musuh musuh.[Enemyfaction_leader_namedef] akan mengirim [musuh ,_pawnsplural] untuk membalas dendam pada siapa pun yang akan melindungi [lodgers0_objective].[musuh kelompok</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssinglehuman] [musuh grupsparagraph]]</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo1 (generateTheats == false)-></li>
+    <li>QuestDescription (askerisnull == true, lodgerscount> = 2)-> Kapten kapal yang mengorbit ingin Anda menjaga [Lodgerscount] tahanan di [MAP_DEFINITE] untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo2] [commondescending]</li>
+    <li>ancamaninfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n para tahanan melakukan serangkaian pembunuhan terhadap [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n Tahanan baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.[Paragraf Grup Musuh]</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisoners] [musuh grupparagraph]]</li>
+    <li>ancamaninfo2 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount == 1)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], ingin Anda menyimpan seorang tahanan khusus untuk [asker_objective].Tahanan, [Lodgers0_Age] -Kear-tua [Lodgers0_title] bernama [Lodgers0_Namefull], tahu informasi yang memalukan tentang [Asker_Namedef] [pribadi], dan [asker_namedef] tidak ingin [lodgers0_objective] dibebaskan.Anda hanya perlu menyimpan tahanan untuk [shuttledelayticks_duration] sampai skandal itu berlalu.[alllodgerInfo] [ancamaninfo3] [commondescending]</li>
+    <li>ancamaninfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidssinglehuman] [musuh grupparagraph]]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>Ancamaninfo3 (generattrealats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount> = 2)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], telah menangkap tahanan [Lodgerscount] dari faksi musuh.Tanpa tempat untuk menyimpannya, [asker_namedef] ingin Anda mengawasi mereka untuk [shuttledelayticks_duration], sampai penjara [asker_possessive] siap. [AlllodgerInfo] [ancamaninfo4] [commondescending]]</li>
+    <li>ancamaninfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n para tahanan memiliki kontrak penyelamatan berbayar dengan [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo4 (generateTheats == Benar, ancaman == RAIDS, musuhfaction == mechanoid)-> \ n \ n [Asker_Namedef] musuh telah memicu sarang mekanoid untuk berburu para tahanan, sehingga akan mengirim kelompok serangan mekanid.[musuh kelompok</li>
+    <li>ANTRIKSINFO4 (GenerAteTheats == Benar, Ancamantype == MechClusters)-> \ n \ n [AncromSinfomechClustersMultiprisoners] [musuh groupsparagraph]</li>
+    <li>AncromSinfo4 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount == 1)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name] telah ditangkap di tempat tidur dengan orang yang salah.[asker_pronoun] memenjarakan kekasih yang tidak pantas dalam pertunjukan penolakan.Sekarang [asker_pronoun] ingin Anda menjaga tahanan [lodgers0_namefull] dikurung sampai skandal itu meledak di [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo5] [commondescending]</li>
+    <li>ANTRIKSINFO5 (GenerAteTheats == Benar, AncromType == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [Asker_namedef] saingan pengadilan membayar [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nunfort, [asker_namedef] saingan pengadilan telah memicu serangan mekanoid dari cahaya [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo5 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount> = 2)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], mencari bantuan Anda.[Asker_namedef] Arkeolog Royal baru -baru ini mengekstraksi tahanan [Lodgerscount] dari brankas cryptosleep kuno, dan berniat menanyai mereka.Untuk merahasiakan tahanan dari saingan pengadilan, [asker_namedef] ingin Anda menahan mereka untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo6] [commondescending]</li>
+    <li>ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [musuhfaction_pawnsplural] dari [musuh musuh.Mereka akan mengirim penggerebekan untuk membalas dendam pada siapa saja yang memegangnya.[musuh kelompok</li>
+    <li>ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nunfort, [musuhfaction_pawnsplural] dari [musuh musuh] yang menjaga lemari besi yang diekstraksi para tahanan.Mereka akan mengirim mechanoids untuk memburu tidur yang hilang.[musuh kelompok</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisrisoners] [musuh grupsparagraph]</li>
+    <li>AncromSinfo6 (generateTheats == false)-></li>-><Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+    <!--<li>QuestDescription (askerisnull == true, lodgerscount == 1)-> Kapten kapal yang mengorbit ingin Anda menjaga seorang tahanan bernama [lodgers0_namefull] di [peta_definite] untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo1] [commondescending]</li>
+    <li>ancamaninfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n [lodgers0_namedef] Baru-baru ini meludahkan anak yang paling dicintai dari [musuh musuh.[Enemyfaction_leader_namedef] akan mengirim [musuh ,_pawnsplural] untuk membalas dendam pada siapa pun yang akan melindungi [lodgers0_objective].[musuh kelompok</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssinglehuman] [musuh grupsparagraph]]</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo1 (generateTheats == false)-></li>-><li>QuestDescription (askerisnull == true, lodgerscount == 1)-> Kapten kapal orbit ingin seorang tahanan disebut nama [lodgers0_namefulull] di [peta_definite] selama [shuttleyticks_duration].[AlllodgerInfo] [ancamaninfo1] [commandescending]</li>
+    <li>ancamaninfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n [lodgers0_namedef] baru-baru ini meludahkan putra yang paling dicintai [musuh.[Enemyfaction_leader_namedef] akan mengirim beberapa [musuh, faction_pawnsplural] untuk membalas siapa saja yang berani melindungi [lodgers0_objective].[musuh kelompok</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssinglehuman] [musuh grupsparagraph]]</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo1 (generateTheats == false)-></li>
+    <!--<li>QuestDescription (askerisnull == true, lodgerscount> = 2)-> Kapten kapal yang mengorbit ingin Anda menjaga [Lodgerscount] tahanan di [MAP_DEFINITE] untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo2] [commondescending]</li>
+    <li>ancamaninfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n para tahanan melakukan serangkaian pembunuhan terhadap [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n Tahanan baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.[Paragraf Grup Musuh]</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisoners] [musuh grupparagraph]]</li>
+    <li>ancamaninfo2 (generateTheats == false)-></li>-><li>QuestDescription (askerisnull == true, lodgerscount> = 2)-> Kapten kapal orbit menginginkan tahanan [Lodgerscount] di [MAP_DEFINITE] selama [shuttledelayticks_duration].[AlllodgerInfo] [ancamaninfo2] [commindescending]</li>
+    <li>AncromSinfo2 (generateThreats == Benar, ancaman == RAIDS, musuh. [musuh kelompok</li>
+    <li>Ancamaninfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nlos Tahanan baru-baru ini [mechviolation], dan sekarang dalam pemandangan segerombolan mecanoids.[musuh kelompok</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisoners] [musuh grupparagraph]]</li>
+    <li>ancamaninfo2 (generateTheats == false)-></li>
+    <!--<li>QuestDescription (asker_factionleader == true, lodgerscount == 1)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], ingin Anda menyimpan seorang tahanan khusus untuk [asker_objective].Tahanan, [Lodgers0_Age] -Kear-tua [Lodgers0_title] bernama [Lodgers0_Namefull], tahu informasi yang memalukan tentang [Asker_Namedef] [pribadi], dan [asker_namedef] tidak ingin [lodgers0_objective] dibebaskan.Anda hanya perlu menyimpan tahanan untuk [shuttledelayticks_duration] sampai skandal itu berlalu.[alllodgerInfo] [ancamaninfo3] [commondescending]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidssinglehuman] [musuh grupparagraph]]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>Ancamaninfo3 (generattrealats == false)-></li>-><li>QuestDescription (asker_factionleader == true, lodgerscount == 1)-> [asker_namefulull], [asker_faction_leadertitle] dari faksi [asker_faction_name], ia ingin Anda menyembunyikan tahanan khusus untuk [asker_pronun].Tahanan itu [una_una] [lodgers0_title] dari [lodgers0_age] tahun [o_a] [lodgers0_namefulull], memiliki informasi kompromi tentang [personalcharacteristicdef] dari [asker_namedef], dan [asker_namedef] tidak menginginkan [lodgers0_pronate.Anda hanya perlu mempertahankan [lodgers0_objective] Captiv [o_a] selama [shuttledelayticks_duration] sampai skandal berkurang.[AlllodgerInfo] [ancamaninfo3] [commindescending]</li>
+    <li>ancamaninfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ ndesAfortunoly, faksi [musuh [faction_name] ingin menyebarkan sejarah yang memalukan dan mengirim kelompok penyerangan untuk dibawa ke [Lodgers0_NameDef] dari pidang].[musuh kelompok</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidssinglehuman] [musuh grupparagraph]]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>Ancamaninfo3 (generattrealats == false)-></li>
+    <!-- <li>QuestDescription (asker_factionleader == true, lodgerscount> = 2)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], telah menangkap tahanan [Lodgerscount] dari faksi musuh.Tanpa tempat untuk menyimpannya, [asker_namedef] ingin Anda mengawasi mereka untuk [shuttledelayticks_duration], sampai penjara [asker_possessive] siap. [AlllodgerInfo] [ancamaninfo4] [commondescending]]</li>
+    <li>ancamaninfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n para tahanan memiliki kontrak penyelamatan berbayar dengan [musuh.[musuh kelompok</li>
+    <li>AncromSinfo4 (generateTheats == Benar, ancaman == RAIDS, musuhfaction == mechanoid)-> \ n \ n [Asker_Namedef] musuh telah memicu sarang mekanoid untuk berburu para tahanan, sehingga akan mengirim kelompok serangan mekanid.[musuh kelompok</li>
+    <li>ANTRIKSINFO4 (GenerAteTheats == Benar, Ancamantype == MechClusters)-> \ n \ n [AncromSinfomechClustersMultiprisoners] [musuh groupsparagraph]</li>
+    <li>AncromSinfo4 (generateTheats == false)-></li>-><li>QuestDescription (asker_factionleader == true, lodgerscount> = 2)-> [asker_namefulull], [asker_faction_leadertitle] dari faksi [asker_faction_name], telah menangkap [Lodgerscount] para tahanan dari faksi musuh.Tanpa tempat untuk menjaga mereka, [asker_namedef] menginginkan kewaspadaan selama [shuttledelayticks_duration], sampai penjara yang membangun daftar ini. [AlllodgerInfo] [ancamaninfo4] [commandescending]</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ nlos tahanan memiliki perjanjian penyelamatan dengan faksi [musuh mereka.[musuh kelompok</li>
+    <li>Ancamaninfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nlos musuh [asker_namedef] entah bagaimana berhasil memanipulasi segerombolan mechanidos untuk memburu para tahanan.Sekarang mecanoid akan mengirim grup penyerangan.[musuh kelompok</li>
+    <li>ANTRIKSINFO4 (GenerAteTheats == Benar, Ancamantype == MechClusters)-> \ n \ n [AncromSinfomechClustersMultiprisoners] [musuh groupsparagraph]</li>
+    <li>AncromSinfo4 (generateTheats == false)-></li>
+    <!--<li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount == 1)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name] telah ditangkap di tempat tidur dengan orang yang salah.[asker_pronoun] memenjarakan kekasih yang tidak pantas dalam pertunjukan penolakan.Sekarang [asker_pronoun] ingin Anda menjaga tahanan [lodgers0_namefull] dikurung sampai skandal itu meledak di [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo5] [commondescending]</li>
+    <li>ANTRIKSINFO5 (GenerAteTheats == Benar, AncromType == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [Asker_namedef] saingan pengadilan membayar [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nunfort, [asker_namedef] saingan pengadilan telah memicu serangan mekanoid dari cahaya [musuh musuh.[musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo5 (generateTheats == false)-></li>-><li>QuestDescription (asker_royalincurrentfaction == true, lodgerscouts == 1)-> [asker_namefull] [asker_a] [asker_royaltitlecurrentfaction], dari faksi [asker_faction_name], ditemukan [asker_o.Sebagai tindakan refleksi [asker_pronoun] ia telah memenjarakan kekasihnya untuk menunjukkan penyesalannya di hadapan pengadilan kerajaannya.Jadi [asker_pronoun] Dia meminta Anda untuk menjaga kekasihnya [Lodgers0_namefulr] dalam tahanan selama [shuttledelayticks_duration] sampai skandal berkurang.[AlllodgerInfo] [ancamaninfo5] [commandescending]</li>
+    <li>Ancamaninfo5 (generateTheats == true, ancaman == RAIDS, musuhfaction! = Mechanoid)-> \ n \ ndesafortunoly saingan Pengadilan [asker_namedef] membayar faksi [musuh musuh.[musuh kelompok</li>
+    <li>Ancamaninfo5 (generateThreats == true, ancroptipe == RAIDS, musuhfaction == mechanoid)-> \ n \ nluly the Rivals of Court of [asker_namedef] telah menyebabkan serangan mekanik dari faksi [musuh mereka.[musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssinglehuman] [musuh grupparagraph]]</li>
+    <li>ancamaninfo5 (generateTheats == false)-></li>
+    <!--<li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount> = 2)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], mencari bantuan Anda.[Asker_namedef] Arkeolog Royal baru -baru ini mengekstraksi tahanan [Lodgerscount] dari brankas cryptosleep kuno, dan berniat menanyai mereka.Untuk merahasiakan tahanan dari saingan pengadilan, [asker_namedef] ingin Anda menahan mereka untuk [shuttledelayticks_duration].[alllodgerInfo] [ancamaninfo6] [commondescending]</li>
+    <li>ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [musuhfaction_pawnsplural] dari [musuh musuh.Mereka akan mengirim penggerebekan untuk membalas dendam pada siapa saja yang memegangnya.[musuh kelompok</li>
+    <li>ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nunfort, [musuhfaction_pawnsplural] dari [musuh musuh] yang menjaga lemari besi yang diekstraksi para tahanan.Mereka akan mengirim mechanoids untuk memburu tidur yang hilang.[musuh kelompok</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisrisoners] [musuh grupsparagraph]</li>
+    <li>AncromSinfo6 (generateTheats == false)-></li>-><li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount> = 2)-> [asker_namefulull] [asker_a] [asker_royaltitleincurrentfaction] dari faksi [asker_faction_name], minta bantuan Anda.Para arkeolog asli [Asker_Namedef] baru -baru ini menyelamatkan tahanan [Lodgerscount] dari lemari besi cryptosueño kuno, dan mencoba menginterogasi mereka.Untuk merahasiakan para tahanan dari para pesaing pengadilan, [asker_namedef] ingin Anda mempertahankannya selama [shuttledelayticks_duration].[AlllodgerInfo] [ancamaninfo6] [commandescending]</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ ndesafortunoly, [musuh musuh_pawnsplural] dari faksi [musuh [musuh.Mereka akan mengirim pasukan serangan untuk membalas dendam terhadap siapa pun yang telah membebaskan mereka.[musuh kelompok</li>
+    <li>ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ nladely, [musuhfaction_pawnsplural] dari faksi [musuhafaction_name] menjaga lemari besi dari mana para tahanan diekstraksi.Mereka akan mengirim mecanoids untuk berburu orang yang hilang.[musuh kelompok</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultiprisrisoners] [musuh grupsparagraph]</li>
+    <li>AncromSinfo6 (generateTheats == false)-></li>
+  </Hospitality_Prisoners.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> menjaga [asker_namedef]</li>
+    <li>QuestName (LodgersCount == 1)-> Guarding [lodgers0_namedef]</li>
+    <li>QuestName (LodgersCount == 1)-> Tahanan [Lodgers0_Namedef]</li>
+    <li>QuestName (Lodgerscount == 1)-> The [adjany] tahanan</li>
+    <li>QuestName (Lodgerscount == 1)-> satu tahanan [adjany]</li>
+    <li>QuestName (Lodgerscount> = 2)-> Warden for Hire</li>
+    <li>QuestName (Lodgerscount> = 2)-> Penjara Penjara</li>
+    <li>QuestName (Lodgerscount> = 2)-> Penjara Kontrak</li>
+    <li>QuestName (Lodgerscount> = 2)-> The Wanted Prisoners</li>
+    <li>QuestName (Lodgerscount> = 2)-> tahanan [adjany]</li>
+    <li>QuestName (Lodgerscount> = 2)-> [Asker_Namedef]</li>
+    <li>adjany-> [Adjectivebadass]</li>
+    <li>adjany-> [AdjectiveAngsty]</li>
+    <li>adjany-> [AdjectiveFriendly]</li>-><Hospitality_Prisoners.questNameRules.rulesStrings>
+    <li>QuestName-> Guardian untuk [asker_namedef]</li>
+    <li>QuestName (lodgerscount == 1)-> cuidando a [lodgers0_namedef]</li>
+    <li>QuestName (LodgersCount == 1)-> Penjara [LODGER0_NAMEDEF]</li>
+    <li>QuestName (Lodgerscount == 1)-> The Prisoner [adjany]</li>
+    <li>QuestName (Lodgerscount == 1)-> seorang tahanan [adjany]</li>
+    <li>QuestName (Lodgerscount> = 2)-> Sewa Alcaide</li>
+    <li>QuestName (Lodgerscount> = 2)-> Penjaga Penjara</li>
+    <li>QuestName (Lodgerscount> = 2)-> Kontrak Penjara</li>
+    <li>QuestName (Lodgerscount> = 2)-> The Prisoners Wanted</li>
+    <li>QuestName (Lodgerscount> = 2)-> Yang Dihukum</li>
+    <li>QuestName (Lodgerscount> = 2)-> The Prisoners [adjany]</li>
+    <li>QuestName (Lodgerscount> = 2)-> Tahanan [asker_namedef]</li>
+    <li>adjany-> [Adjectivebadass]</li>
+    <li>adjany-> [AdjectiveAngsty]</li>
+    <li>adjany-> [AdjectiveFriendly]</li>
+  </Hospitality_Prisoners.questNameRules.rulesStrings>
+  
+</LanguageData>

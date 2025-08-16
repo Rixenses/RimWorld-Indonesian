@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relic complex -->
+  <AncientAltar.label>Kompleks peninggalan</AncientAltar.label>
+  <!-- EN: An ancient complex housing a relic. -->
+  <AncientAltar.description>Kompleks tua yang menampung peninggalan.</AncientAltar.description>
+  <!-- EN: Investigating {0}. -->
+  <AncientAltar.approachingReportString>Investigasi {0}.</AncientAltar.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <AncientAltar.approachOrderString>Selidiki {0}</AncientAltar.approachOrderString>
+  <!-- EN: There is an ancient structure holding a relic in this area. -->
+  <AncientAltar.arrivedLetter>Di daerah ini ada struktur leluhur yang menyimpan peninggalan.</AncientAltar.arrivedLetter>
+  
+</LanguageData>

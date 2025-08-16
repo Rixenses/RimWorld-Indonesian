@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaMech.label>area yang diizinkan</AllowedAreaMech.label>
+  <!-- EN: Allowed areas only apply for mechs in work and recharge modes. -->
+  <AllowedAreaMech.headerTip>Area yang diizinkan hanya berlaku untuk MECA dalam mode kerja dan isi ulang.</AllowedAreaMech.headerTip>
+  
+  <!-- EN: auto repair -->
+  <AutoRepair.label>Perbaikan Otomatis</AutoRepair.label>
+  
+  <!-- EN: control group -->
+  <ControlGroup.label>Kelompok kontrol</ControlGroup.label>
+  
+  <!-- EN: draft -->
+  <DraftMech.label>rekrut</DraftMech.label>
+  
+  <!-- EN: energy -->
+  <Energy.label>energi</Energy.label>
+  
+  <!-- EN: overseer -->
+  <Overseer.label>pengawas</Overseer.label>
+  
+  <!-- EN: work mode -->
+  <WorkMode.label>Mode kerja</WorkMode.label>
+  
+</LanguageData>

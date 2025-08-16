@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was brought up by ascetics in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical and violence immoral. -->
+  <ConventChild16.description>Anak {PAWN_jenis kelamin ? atau : a} dari hubungan terlarang, [PAWN_namaDef] dididik {PAWN_jenis kelamin ? atau : a} oleh para pertapa di biara abad pertengahan. Dia belajar nilai kerja keras dan ketundukan, tetapi diajari bahwa teknologi itu sesat dan kekerasan tidak bermoral.</ConventChild16.description>
+  <!-- EN: convent child -->
+  <ConventChild16.title>setiap</ConventChild16.title>
+  <ConventChild16.titleFemale>Gadis Biara</ConventChild16.titleFemale>
+  <!-- EN: illicit -->
+  <ConventChild16.titleShort>melanggar hukum</ConventChild16.titleShort>
+  <ConventChild16.titleShortFemale>melanggar hukum</ConventChild16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of handcut stone, served by servants of the lower classes.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.description>[PAWN_namaDef] adalah {PAWN_jenis_kelamin ? seorang bangsawan kecil dari sebuah kerajaan kuno di abad pertengahan. Dia dibesarkan di sebuah rumah besar yang terbuat dari batu yang dipahat dengan tangan, dilayani oleh para pelayan dari kelas bawah. Kehidupan seperti itu tidak mengajarkan keterampilan teknis, dan menanamkan keengganan seumur hidup untuk melakukan pekerjaan kasar, tetapi [PAWN_nameDef] mempelajari seni manipulasi sosial yang halus sejak usia dini.</MedievalLordling19.description>
+  <!-- EN: medieval lordling -->
+  <MedievalLordling19.title>Ksatria Abad Pertengahan</MedievalLordling19.title>
+  <!-- EN: medieval lady -->
+  <MedievalLordling19.titleFemale>wanita abad pertengahan</MedievalLordling19.titleFemale>
+  <!-- EN: lordling -->
+  <MedievalLordling19.titleShort>Hidalgo</MedievalLordling19.titleShort>
+  <!-- EN: lady -->
+  <MedievalLordling19.titleShortFemale>wanita</MedievalLordling19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
+  <MedievalSlave49.description>[PAWN_nameDef] tumbuh dengan mendorong gerobak dan menggali sumur di dunia abad pertengahan. Pekerjaan manual yang sederhana adalah ingatannya yang paling awal, bersama dengan cambuk majikannya. Dia tidak belajar membaca hingga berusia sembilan tahun.</MedievalSlave49.description>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.title>Abad Pertengahan Anak Laki -Laki</MedievalSlave49.title>
+  <MedievalSlave49.titleFemale>Abad Pertengahan Anak Laki -Laki</MedievalSlave49.titleFemale>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShort>anak laki-laki</MedievalSlave49.titleShort>
+  <MedievalSlave49.titleShortFemale>anak laki-laki</MedievalSlave49.titleShortFemale>
+  
+</LanguageData>

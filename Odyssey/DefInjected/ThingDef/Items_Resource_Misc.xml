@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravcore -->
+  <Gravcore.label>Gravinúcleo</Gravcore.label>
+  <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be used to construct gravtech buildings. -->
+  <Gravcore.description>Perangkat ultra -strategis yang menghasilkan bidang graviton yang tidak terstruktur.Ini tidak berguna dengan sendirinya, tetapi dapat digunakan untuk konstruksi gravitecnology.</Gravcore.description>
+  
+  <!-- EN: gravlite panel -->
+  <GravlitePanel.label>Panel Graval</GravlitePanel.label>
+  <!-- EN: A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids. -->
+  <GravlitePanel.description>Lembar polimer canggih yang digunakan dalam konstruksi gravinave.Ini ringan dan memiliki konduktivitas graviton yang tinggi, yang membuatnya ideal untuk struktur gravitecnology.</GravlitePanel.description>
+  
+  <!-- EN: shuttle engine -->
+  <ShuttleEngine.label>Motor transforder</ShuttleEngine.label>
+  <!-- EN: An engine capable of powering a small shuttle. Shuttle engines can only be manufactured in large specialized factories, making them rare on the rim. -->
+  <ShuttleEngine.description>Mesin yang mampu mendorong feri kecil.Mesin Transforder hanya dapat diproduksi di pabrik -pabrik khusus besar, yang membuatnya aneh di dunia tepi.</ShuttleEngine.description>
+  
+</LanguageData>

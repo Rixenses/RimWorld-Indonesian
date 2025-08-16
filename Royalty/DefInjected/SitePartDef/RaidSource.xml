@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raid source -->
+  <RaidSource.label>Sumber serangan</RaidSource.label>
+  <!-- EN: A guarded military staging area which sends periodic raids. -->
+  <RaidSource.description>Area militer pemantauan yang mengirimkan serangan berkala.</RaidSource.description>
+  <!-- EN: Attacking {0}. -->
+  <RaidSource.approachingReportString>Menyerang {0}.</RaidSource.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <RaidSource.approachOrderString>Menyerang {0}</RaidSource.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <RaidSource.arrivedLetter>Ada posisi musuh tingkat lanjut di daerah ini.</RaidSource.arrivedLetter>
+  
+</LanguageData>

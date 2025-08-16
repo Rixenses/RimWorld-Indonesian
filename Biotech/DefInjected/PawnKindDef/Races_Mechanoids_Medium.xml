@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: legionary -->
+  <Mech_Legionary.label>legiun</Mech_Legionary.label>
+  <Mech_Legionary.labelPlural>Legiun</Mech_Legionary.labelPlural>
+  
+  <!-- EN: scorcher -->
+  <Mech_Scorcher.label>flamingo</Mech_Scorcher.label>
+  <!-- EN: scorchers -->
+  <Mech_Scorcher.labelPlural>flamingo</Mech_Scorcher.labelPlural>
+  
+  <!-- EN: tesseron -->
+  <Mech_Tesseron.label>Teserón</Mech_Tesseron.label>
+  <Mech_Tesseron.labelPlural>Tesmerones</Mech_Tesseron.labelPlural>
+  
+</LanguageData>

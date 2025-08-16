@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hive queen -->
+  <HiveQueen.label>ratu sarang</HiveQueen.label>
+  <!-- EN: The birth mother of an insect megahive. Under suitable conditions, several distinct insect hives will merge together and produce a hive queen. The queen quickly grows in size, becoming trapped in her own burrow. -->
+  <HiveQueen.description>Ibu asli dari megacolmena insektoid.Dalam kondisi yang memadai, beberapa sarang serangga yang berbeda bergabung dan menghasilkan sarang ratu.Sang ratu dengan cepat tumbuh dalam ukuran, terjebak dalam liangnya sendiri.</HiveQueen.description>
+  <!-- EN: Hive queen -->
+  <HiveQueen.comps.CompLetterOnRevealed.label>Ratu sarang</HiveQueen.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered the center of the nest. It's guarded by a massive insect queen! -->
+  <HiveQueen.comps.CompLetterOnRevealed.text>Anda telah menemukan pusat sarang.Itu dijaga oleh ratu insektoid raksasa!</HiveQueen.comps.CompLetterOnRevealed.text>
+  <!-- EN: head claw -->
+  <HiveQueen.tools.head_claw.label>cakar kranial</HiveQueen.tools.head_claw.label>
+  <!-- EN: head -->
+  <HiveQueen.tools.head.label>kepala</HiveQueen.tools.head.label>
+  
+  <!-- EN: larva -->
+  <Larva.label>larva</Larva.label>
+  <!-- EN: The juvenile form of larger bioengineered insects. Larva maintain and expand hives using an acidic secretion. If provoked, they defend themselves by spewing sludge. -->
+  <Larva.description>Bentuk muda dari insektoid yang dimodifikasi secara genetik menjadi lebih besar.Larva mempertahankan dan memperluas sarang menggunakan sekresi asam.Jika mereka disebabkan, mereka membela diri dengan mengusir lumpur.</Larva.description>
+  <!-- EN: mandibles -->
+  <Larva.tools.mandibles.label>mulut</Larva.tools.mandibles.label>
+  <!-- EN: head -->
+  <Larva.tools.head.label>kepala</Larva.tools.head.label>
+  
+  <!-- EN: locust -->
+  <Locust.label>lobster</Locust.label>
+  <!-- EN: A bioengineered insect capable of flying short distances. Specialized chemical receptors allow locusts to effectively forage for food. While relatively weak on their own, swarms of locusts can be deadly. -->
+  <Locust.description>Serangga yang dimodifikasi secara genetik yang mampu terbang jarak pendek.Reseptor kimia khusus memungkinkan lobster untuk mencari makanan secara efektif.Meskipun relatif lemah sendiri, awan lobster bisa mematikan.</Locust.description>
+  <!-- EN: mandibles -->
+  <Locust.tools.mandibles.label>mulut</Locust.tools.mandibles.label>
+  <!-- EN: head -->
+  <Locust.tools.head.label>kepala</Locust.tools.head.label>
+  
+</LanguageData>

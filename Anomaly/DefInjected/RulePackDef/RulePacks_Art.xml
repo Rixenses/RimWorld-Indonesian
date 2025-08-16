@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_name-> [AdjectiveAny] Cube</li>
+    <li>r_art_name-> [AdjectiveCube] Cube</li>
+    <li>r_art_name-> kubus [ConceptAnd]</li>
+    <li>AdjectiveCube-> Saggy</li>
+    <li>AdjectiveCube-> Misshapen</li>
+    <li>AdjectiveCube-> Lumpy</li>
+    <li>AdjectiveCube-> jelek</li>
+    <li>AdjectiveCube-> Lumpen</li>
+    <li>AdjectiveCube-> Multi</li>
+    <li>AdjectiveCube-> Lovely</li>
+    <li>AdjectiveCube-> Sempurna</li>
+    <li>AdjectiveCube-> Berdarah</li>
+    <li>AdjectiveCube-> Universal</li>
+    <li>AdjectiveCube-> SANE</li>
+    <li>AdjectiveCube-> bijaksana</li>
+    <li>AdjectiveCube-> Surgawi</li>
+    <li>AdjectiveCube-> Twisted</li>
+    <li>AdjectiveCube-> Goyah</li>
+    <li>AdjectiveCube-> kempes</li>
+    <li>AdjectiveCube-> Wonky</li>
+    <li>AdjectiveCube-> terdistorsi</li>
+    <li>AdjectiveCube-> Asimetris</li>
+    <li>AdjectiveCube-> Unhinged</li>
+    <li>AdjectiveCube-> aneh</li>
+    <li>AdjectiveCube-> meleleh</li>
+    <li>AdjectiveCube-> tidak menentu</li>
+    <li>AdjectiveCube-> Dream seperti</li>
+    <li>AdjectiveCube-> Chaotic</li>
+    <li>AdjectiveCube-> Non-Cubic</li>
+    <li>AdjectiveCube-> Phantasmagoric</li>
+    <li>AdjectiveCube-> Warped</li>
+    <li>AdjectiveCube-> Mystical</li>
+    <li>AdjectiveCube-> Absurd</li>
+    <li>AdjectiveCube-> Blurry</li>-><NamerArtCubeSculpture.rulePack.rulesStrings>
+    <li>r_art_name-> cubo [AdjectiveAny]</li>
+    <li>r_art_name-> cubo [AdjectiveCube]</li>
+    <li>r_art_name-> Cube dari [ConceptAryFull]</li>
+    <li>AdjectiveCube-> flacido</li>
+    <li>AdjectiveCube-> Deforme</li>
+    <li>AdjectiveCube-> Grumoso</li>
+    <li>AdjectiveCube-> mengerikan</li>
+    <li>AdjectiveCube-> perhatian</li>
+    <li>AdjectiveCube-> Múltiple</li>
+    <li>AdjectiveCube-> Precious</li>
+    <li>AdjectiveCube-> Sempurna</li>
+    <li>AdjectiveCube-> dengan tepi</li>
+    <li>AdjectiveCube-> Universal</li>
+    <li>AdjectiveCube-> Sano</li>
+    <li>AdjectiveCube-> Reflexivo</li>
+    <li>AdjectiveCube-> Celestial</li>
+    <li>AdjectiveCube-> Twisted</li>
+    <li>AdjectiveCube-> Bamboleante</li>
+    <li>AdjectiveCube-> kempes</li>
+    <li>AdjectiveCube-> Symmetrical</li>
+    <li>AdjectiveCube-> terdistorsi</li>
+    <li>AdjectiveCube-> asimetris</li>
+    <li>AdjectiveCube-> Kesal</li>
+    <li>AdjectiveCube-> Strange</li>
+    <li>AdjectiveCube-> meleleh</li>
+    <li>AdjectiveCube-> tidak menentu</li>
+    <li>AdjectiveCube-> Dream</li>
+    <li>AdjectiveCube-> Chaotic</li>
+    <li>AdjectiveCube-> Non-Cubic</li>
+    <li>AdjectiveCube-> Ghostly</li>
+    <li>AdjectiveCube-> Deformed</li>
+    <li>AdjectiveCube-> Mystical</li>
+    <li>AdjectiveCube-> Absurdo</li>
+    <li>AdjectiveCube-> Blurred</li>
+  </NamerArtCubeSculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_name-> [AdjectiveAngsty] Patung</li>
+    <li>r_art_name-> [Adjectiveunsettling] Patung</li>
+    <li>Kata sifat meresahkan-> meresahkan</li>
+    <li>kata sifat meresahkan-> mengganggu</li>
+    <li>kata sifat meresahkan-> menakutkan</li>
+    <li>kata sifat meresahkan-> menyeramkan</li>
+    <li>Adjectiveunsettling-> Haunting</li>
+    <li>Adjectiveunsettling-> Spine-dingin</li>
+    <li>AdjectiveUnsettling-> SINISTER</li>
+    <li>Adjectiveunsettling-> Macabre</li>
+    <li>Kata sifat meresahkan-> Mengerikan</li>
+    <li>Adjectiveunsettling-> menakutkan</li>
+    <li>Adjectiveunsettling-> Ghastly</li>
+    <li>Adjectiveunsettling-> Horrifying</li>
+    <li>kata sifat meresahkan-> menakutkan</li>
+    <li>Adjectiveunsettling-> mengejutkan</li>
+    <li>Adjectiveunsettling-> aneh</li>
+    <li>Adjectiveunsettling-> abnormal</li>
+    <li>kata sifat meresahkan-> aneh</li>
+    <li>kata sifat meresahkan-> luar biasa</li>
+    <li>Adjectiveunsettling-> Strange</li>
+    <li>AdjectiveUnsettling-> Dunia lain</li>-><NamerArtVoidSculpture.rulePack.rulesStrings>
+    <li>R_art_name-> patung [AdjectiveAngSty_FEM]</li>
+    <li>r_art_name-> patung [kata sifat meresahkan]</li>
+    <li>kata sifat meresahkan-> inquietante</li>
+    <li>Adjectiveunsettling-> perturbadora</li>
+    <li>AdjectiveUnsettling-> MISTERIOSA</li>
+    <li>Adjectiveunsettling-> Escalofriante</li>
+    <li>Adjectiveunsettling-> Espeluznante</li>
+    <li>Adjectivestling-> teroris</li>
+    <li>kata sifat meresahkan-> Siniestra</li>
+    <li>Adjectiveunsettling-> Macabra</li>
+    <li>Adjectiveunsettling-> desconcertante</li>
+    <li>Adjectiveunsettling-> Aterradora</li>
+    <li>Adjectiveunsettling-> fantasmal</li>
+    <li>Adjectiveunsettling-> Espeluznante</li>
+    <li>Adjectiveunsettling-> Espantosa</li>
+    <li>AdjectiveUnsettling-> Impactante</li>
+    <li>Kata sifat meresahkan-> Bizarra</li>
+    <li>AdjectiveUnsettling-> Anormal</li>
+    <li>Adjectiveunsettling-> rara</li>
+    <li>Adjectiveunsettling-> Asombrosa</li>
+    <li>ADJECTIVENTTLING-> aneh</li>
+    <li>Adjectivestling-> Otro Mundo</li>
+  </NamerArtVoidSculpture.rulePack.rulesStrings>
+  
+</LanguageData>

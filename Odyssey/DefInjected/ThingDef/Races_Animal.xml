@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator -->
+  <Alligator.label>buaya</Alligator.label>
+  <!-- EN: A large semi-aquatic reptile with a powerful bite. Alligators are slow on land, but deadly in the water. -->
+  <Alligator.description>Reptil semi -komunikasi yang hebat dengan gigitan yang kuat.Lustr lambat di darat, tetapi mematikan di dalam air.</Alligator.description>
+  <!-- EN: left claw -->
+  <Alligator.tools.left_claw.label>cakar kiri</Alligator.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.left_claw.labelNoLocation>cakar</Alligator.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alligator.tools.right_claw.label>Cakar kanan</Alligator.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alligator.tools.right_claw.labelNoLocation>cakar</Alligator.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alligator.tools.head.label>kepala</Alligator.tools.head.label>
+  
+  <!-- EN: alpha thrumbo -->
+  <AlphaThrumbo.label>Alpha Trumbo</AlphaThrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. Alpha thrumbos are even rarer and more dangerous than the typical thrumbo. Their hide is nearly impossible to pierce and their razor-sharp horn is worth more than its weight in gold.\n\nAlpha thrumbos are some of the longest-lived moving creatures in the known universe. Some tribes believe they remember and psychically pass on everything they ever experience to their young, so each one has a memory going back thousands of years. -->
+  <AlphaThrumbo.description>Makhluk raksasa dan elegan yang tidak diketahui asal.Trumbs Alfa bahkan lebih jarang dan berbahaya daripada yang biasa.Kulitnya hampir tidak mungkin ditembus dan tanduknya yang tajam sebagai pisau lebih berharga daripada beratnya dalam emas.Beberapa suku percaya bahwa mereka mengingat dan secara psikis semua yang mereka alami untuk anak -anak mereka, sehingga masing -masing memiliki ingatan yang berlangsung ribuan tahun.</AlphaThrumbo.description>
+  <!-- EN: horn -->
+  <AlphaThrumbo.tools.horn.label>klakson</AlphaThrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <AlphaThrumbo.tools.left_foot.label>Kaki kiri</AlphaThrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.left_foot.labelNoLocation>Pata</AlphaThrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <AlphaThrumbo.tools.right_foot.label>Kaki kanan</AlphaThrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <AlphaThrumbo.tools.right_foot.labelNoLocation>Pata</AlphaThrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <AlphaThrumbo.tools.head.label>kepala</AlphaThrumbo.tools.head.label>
+  
+  <!-- EN: armadillo -->
+  <Armadillo.label>Armadillo</Armadillo.label>
+  <!-- EN: A small mammal with leathery armor all over its body. It is surprisingly quick for a creature with such stubby legs. -->
+  <Armadillo.description>Mamalia kecil dengan baju besi Correosa di seluruh tubuh.Secara mengejutkan cepat memiliki kaki pendek seperti itu.</Armadillo.description>
+  <!-- EN: left claw -->
+  <Armadillo.tools.left_claw.label>cakar kiri</Armadillo.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.left_claw.labelNoLocation>cakar</Armadillo.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Armadillo.tools.right_claw.label>Cakar kanan</Armadillo.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Armadillo.tools.right_claw.labelNoLocation>cakar</Armadillo.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Armadillo.tools.head.label>kepala</Armadillo.tools.head.label>
+  
+  <!-- EN: badger -->
+  <Badger.label>luak</Badger.label>
+  <!-- EN: A stocky omnivorous mammal. Badgers are surprisingly tough for their size. -->
+  <Badger.description>Mamalia yang kuat dan omnivora.Wills secara mengejutkan tahan terhadap ukurannya.</Badger.description>
+  <!-- EN: left claw -->
+  <Badger.tools.left_claw.label>cakar kiri</Badger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.left_claw.labelNoLocation>cakar</Badger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Badger.tools.right_claw.label>Cakar kanan</Badger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Badger.tools.right_claw.labelNoLocation>cakar</Badger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Badger.tools.head.label>kepala</Badger.tools.head.label>
+  
+  <!-- EN: bog hound -->
+  <BogHound.label>Hound berawa</BogHound.label>
+  <!-- EN: Descended from domesticated dogs, these canines have grown unaccustomed to human company. They're skilled scavengers, able to survive in extremely toxic environments. Bog hounds are harder to tame than their domesticated cousins, and much more dangerous. -->
+  <BogHound.description>Keturunan anjing peliharaan, anjing ini tidak biasa bagi perusahaan manusia.Mereka adalah pemulung yang terampil, mampu bertahan hidup di lingkungan yang sangat beracun.Keinginan berawa lebih sulit untuk dijinakkan daripada sepupu mereka yang dijinakkan dan jauh lebih berbahaya.</BogHound.description>
+  <!-- EN: left claw -->
+  <BogHound.tools.left_claw.label>cakar kiri</BogHound.tools.left_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.left_claw.labelNoLocation>cakar</BogHound.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <BogHound.tools.right_claw.label>Cakar kanan</BogHound.tools.right_claw.label>
+  <!-- EN: claw -->
+  <BogHound.tools.right_claw.labelNoLocation>cakar</BogHound.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <BogHound.tools.head.label>kepala</BogHound.tools.head.label>
+  
+  <!-- EN: bullfrog -->
+  <Bullfrog.label>London</Bullfrog.label>
+  <!-- EN: A large frog known for its loud croak. Bullfrog legs are a delicacy on some planets. -->
+  <Bullfrog.description>Seekor katak besar yang dikenal karena croarnya yang kuat.Kaki katak Toro adalah kelezatan di beberapa planet.</Bullfrog.description>
+  <!-- EN: head -->
+  <Bullfrog.tools.head.label>kepala</Bullfrog.tools.head.label>
+  
+  <!-- EN: scimitar cat -->
+  <Cat_Scimitar.label>Cimitar Cat</Cat_Scimitar.label>
+  <!-- EN: A bioengineered predator that resembles its long-extinct namesake. Originally bred to populate iceworld hunting reserves, these animals are now common pets among glitterworld socialites. Their ferocity should not be underestimated. -->
+  <Cat_Scimitar.description>Predator biofabrikasi yang menyerupai homonimnya dan punah.Awalnya dibesarkan untuk mengisi cadangan perburuan di dunia beku, hewan -hewan ini sekarang adalah hewan peliharaan umum di antara sosialita para mundobrillant.Keganasannya seharusnya tidak meremehkan.</Cat_Scimitar.description>
+  <!-- EN: left claw -->
+  <Cat_Scimitar.tools.left_claw.label>cakar kiri</Cat_Scimitar.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.left_claw.labelNoLocation>cakar</Cat_Scimitar.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Cat_Scimitar.tools.right_claw.label>Cakar kanan</Cat_Scimitar.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Cat_Scimitar.tools.right_claw.labelNoLocation>cakar</Cat_Scimitar.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Cat_Scimitar.tools.head.label>kepala</Cat_Scimitar.tools.head.label>
+  
+  <!-- EN: colossus toad -->
+  <ColossusToad.label>Katak kolosal</ColossusToad.label>
+  <!-- EN: A massive frog bioengineered for industrial farms. While safe to eat, its thick skin secretes an unpleasant slime. -->
+  <ColossusToad.description>Katak besar yang dimodifikasi secara genetik untuk pertanian industri.Meskipun aman untuk memakannya, kulitnya yang tebal merahasiakan air liur yang tidak menyenangkan.</ColossusToad.description>
+  <!-- EN: head -->
+  <ColossusToad.tools.head.label>kepala</ColossusToad.tools.head.label>
+  
+  <!-- EN: gorilla -->
+  <Gorilla.label>Gorila</Gorilla.label>
+  <!-- EN: A massive and intelligent great ape. While generally peaceful, gorillas are terrifying when enraged. -->
+  <Gorilla.description>Kera besar dan cerdas.Meskipun umumnya damai, itu menakutkan saat marah.</Gorilla.description>
+  <!-- EN: left fist -->
+  <Gorilla.tools.left_fist.label>Tinju kiri</Gorilla.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.left_fist.labelNoLocation>tinju</Gorilla.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Gorilla.tools.right_fist.label>kepalan tangan kanan</Gorilla.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Gorilla.tools.right_fist.labelNoLocation>tinju</Gorilla.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Gorilla.tools.head.label>kepala</Gorilla.tools.head.label>
+  
+  <!-- EN: hippo -->
+  <Hippo.label>Hippo</Hippo.label>
+  <!-- EN: An enormous semi-aquatic mammal with short stocky legs. While it is a herbivore, it can attack with devastating force if provoked. Its powerful jaw can crush bone and armor. -->
+  <Hippo.description>Mamalia semiacuatik yang besar dengan kaki pendek dan kuat.Meskipun herbivora, ia dapat menyerang dengan kekuatan yang menghancurkan jika disebabkan.Rahangnya yang kuat dapat menghancurkan tulang dan baju besi.</Hippo.description>
+  <!-- EN: head -->
+  <Hippo.tools.head.label>kepala</Hippo.tools.head.label>
+  
+  <!-- EN: lava snail -->
+  <LavaSnail.label>Siput lava</LavaSnail.label>
+  <!-- EN: A large slow-moving mollusk. Originating from the volcanic planet Nuchadus, lava snails were bred as farm animals. Their skin secretes a thick slime that protects them from extreme temperatures. -->
+  <LavaSnail.description>Gerakan moluska besar dan lambat.Berasal dari planet vulkanik Nuchadus, siput lava dibesarkan sebagai hewan ternak.Kulit Anda rahasia air liur tebal yang melindungi mereka dari suhu ekstrem.</LavaSnail.description>
+  <!-- EN: head -->
+  <LavaSnail.tools.head.label>kepala</LavaSnail.tools.head.label>
+  
+  <!-- EN: mastodon -->
+  <Mastodon.label>mastodon</Mastodon.label>
+  <!-- EN: A massive elephant-like mammal. While briefly extinct, the mastodon now roams countless worlds due its resilience to bitter cold. Its thick hide makes excellent cold-weather clothing. However, hunting the animal is a dangerous proposition even for skilled hunters. -->
+  <Mastodon.description>Mamalia besar mirip dengan gajah.Meskipun dia punah secara singkat, mastodon sekarang berkeliaran untuk dunia yang tak terhitung banyaknya karena perlawanan dinginnya yang ekstrem.Kulitnya yang tebal sangat bagus untuk pakaian cuaca dingin.Namun, berburu hewan itu adalah proposal berbahaya bahkan untuk pemburu ahli.</Mastodon.description>
+  <!-- EN: tusk -->
+  <Mastodon.tools.tusk.label>gading</Mastodon.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Mastodon.tools.left_foot.label>Kaki kiri</Mastodon.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.left_foot.labelNoLocation>Pata</Mastodon.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Mastodon.tools.right_foot.label>Kaki kanan</Mastodon.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Mastodon.tools.right_foot.labelNoLocation>Pata</Mastodon.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Mastodon.tools.head.label>kepala</Mastodon.tools.head.label>
+  
+  <!-- EN: megavole -->
+  <Megavole.label>Megatopillo</Megavole.label>
+  <!-- EN: A massive burrowing rodent, bred for its size and strength. It's almost completely blind but can be surprisingly aggressive when cornered. On some low-tech worlds, these creatures are trained to dig for valuable minerals. -->
+  <Megavole.description>Hewan pengerat ekskavator yang besar, dinaikkan berdasarkan ukuran dan kekuatannya.Ini hampir sepenuhnya buta, tetapi bisa sangat agresif ketika terpojok.Di beberapa dunia teknologi rendah, makhluk -makhluk ini dilatih untuk menggali mineral yang berharga.</Megavole.description>
+  <!-- EN: left claw -->
+  <Megavole.tools.left_claw.label>cakar kiri</Megavole.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.left_claw.labelNoLocation>cakar</Megavole.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megavole.tools.right_claw.label>Cakar kanan</Megavole.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megavole.tools.right_claw.labelNoLocation>cakar</Megavole.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megavole.tools.head.label>kepala</Megavole.tools.head.label>
+  
+  <!-- EN: mink -->
+  <Mink.label>Visón</Mink.label>
+  <!-- EN: A small semi-aquatic mammal. The high value of its fur has resulted in mink being farmed on numerous planets. -->
+  <Mink.description>Mamalia semiacuatik kecil.Nilai tinggi kulit Anda telah menyebabkan kenaikan di pertanian di banyak planet.</Mink.description>
+  <!-- EN: left claw -->
+  <Mink.tools.left_claw.label>cakar kiri</Mink.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.left_claw.labelNoLocation>cakar</Mink.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Mink.tools.right_claw.label>Cakar kanan</Mink.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Mink.tools.right_claw.labelNoLocation>cakar</Mink.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Mink.tools.head.label>kepala</Mink.tools.head.label>
+  
+  <!-- EN: monitor lizard -->
+  <MonitorLizard.label>Pantau kadal</MonitorLizard.label>
+  <!-- EN: A large venomous lizard. They secrete toxins from venom glands in their lower jaw to neutralize their prey. -->
+  <MonitorLizard.description>Kadal beracun yang bagus.Mereka mengeluarkan racun kelenjar beracun di rahang bawah mereka untuk menetralkan mangsanya.</MonitorLizard.description>
+  <!-- EN: left claw -->
+  <MonitorLizard.tools.left_claw.label>cakar kiri</MonitorLizard.tools.left_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.left_claw.labelNoLocation>cakar</MonitorLizard.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <MonitorLizard.tools.right_claw.label>Cakar kanan</MonitorLizard.tools.right_claw.label>
+  <!-- EN: claw -->
+  <MonitorLizard.tools.right_claw.labelNoLocation>cakar</MonitorLizard.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <MonitorLizard.tools.head.label>kepala</MonitorLizard.tools.head.label>
+  
+  <!-- EN: moose -->
+  <Moose.label>rusa besar</Moose.label>
+  <!-- EN: One of the largest members of the deer family, adapted to extremely cold climates. Its long legs allow it to travel easily through deep snow. -->
+  <Moose.description>Salah satu anggota terbesar dari keluarga rusa, beradaptasi dengan iklim yang sangat dingin.Kakinya yang panjang memungkinkannya untuk melakukan perjalanan dengan mudah melalui salju yang dalam.</Moose.description>
+  <!-- EN: left hoof -->
+  <Moose.tools.left_hoof.label>Kiri Hoove</Moose.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.left_hoof.labelNoLocation>menerjang</Moose.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Moose.tools.right_hoof.label>Hoove yang benar</Moose.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Moose.tools.right_hoof.labelNoLocation>menerjang</Moose.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Moose.tools.head.label>kepala</Moose.tools.head.label>
+  
+  <!-- EN: muskox -->
+  <Muskox.label>Musk Ox</Muskox.label>
+  <!-- EN: A shaggy hoofed mammal found in colder climates. Muskox wool is known for being scratchy, but offers good protection against the cold. -->
+  <Muskox.description>Mamalia wol dengan kuku yang hidup di iklim dingin.Wolnya kasar, tetapi menawarkan perlindungan yang baik terhadap dingin.</Muskox.description>
+  <!-- EN: left hoof -->
+  <Muskox.tools.left_hoof.label>Kiri Hoove</Muskox.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.left_hoof.labelNoLocation>menerjang</Muskox.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muskox.tools.right_hoof.label>Hoove yang benar</Muskox.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muskox.tools.right_hoof.labelNoLocation>menerjang</Muskox.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Muskox.tools.head.label>kepala</Muskox.tools.head.label>
+  
+  <!-- EN: panda -->
+  <Panda.label>panda</Panda.label>
+  <!-- EN: A slow lumbering herbivore. Pandas are admired by many for their clumsy charm, making them common pets on urbworlds. On the rim, pandas are rarely seen outside of captivity. -->
+  <Panda.description>Herbivora yang lambat dan kikuk.Dikagumi oleh banyak orang karena pesona canggung, itu adalah hewan peliharaan umum di dunia perkotaan.Di dunia perbatasan, jarang terlihat di luar penangkaran.</Panda.description>
+  <!-- EN: left claw -->
+  <Panda.tools.left_claw.label>cakar kiri</Panda.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.left_claw.labelNoLocation>cakar</Panda.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Panda.tools.right_claw.label>Cakar kanan</Panda.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Panda.tools.right_claw.labelNoLocation>cakar</Panda.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Panda.tools.head.label>kepala</Panda.tools.head.label>
+  
+  <!-- EN: porcupine -->
+  <Porcupine.label>Puelcoespin</Porcupine.label>
+  <!-- EN: A large rodent. While slow moving, it has a cloak of sharp quills which protect it from predators. -->
+  <Porcupine.description>Hewan pengerat yang hebat.Meskipun bergerak perlahan, ia memiliki mantel paku tajam yang melindunginya dari predator.</Porcupine.description>
+  <!-- EN: left claw -->
+  <Porcupine.tools.left_claw.label>cakar kiri</Porcupine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.left_claw.labelNoLocation>cakar</Porcupine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Porcupine.tools.right_claw.label>Cakar kanan</Porcupine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Porcupine.tools.right_claw.labelNoLocation>cakar</Porcupine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Porcupine.tools.head.label>kepala</Porcupine.tools.head.label>
+  
+  <!-- EN: prairie dog -->
+  <PrairieDog.label>Anak anjing padang rumput</PrairieDog.label>
+  <!-- EN: A burrowing rodent with a short tail and sharp claws used for digging. They are social animals, often living in large colonies. -->
+  <PrairieDog.description>Seorang tikus excavator dengan ekor pendek dan cakar tajam yang digunakan untuk menggali.Mereka adalah hewan sosial, mereka sering hidup di koloni besar.</PrairieDog.description>
+  <!-- EN: left claw -->
+  <PrairieDog.tools.left_claw.label>cakar kiri</PrairieDog.tools.left_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.left_claw.labelNoLocation>cakar</PrairieDog.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <PrairieDog.tools.right_claw.label>Cakar kanan</PrairieDog.tools.right_claw.label>
+  <!-- EN: claw -->
+  <PrairieDog.tools.right_claw.labelNoLocation>cakar</PrairieDog.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <PrairieDog.tools.head.label>kepala</PrairieDog.tools.head.label>
+  
+  <!-- EN: tiger -->
+  <Tiger.label>Tigre</Tiger.label>
+  <!-- EN: A solitary and dangerous apex predator. Tigers make quick work of their prey, using a mix of stealth and razor-sharp claws. -->
+  <Tiger.description>Predator yang soliter dan berbahaya.Macan dengan cepat berakhir dengan mangsa mereka berkat siluman mereka dan cakar mereka yang tajam seperti bilah.</Tiger.description>
+  <!-- EN: left claw -->
+  <Tiger.tools.left_claw.label>cakar kiri</Tiger.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.left_claw.labelNoLocation>cakar</Tiger.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Tiger.tools.right_claw.label>Cakar kanan</Tiger.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Tiger.tools.right_claw.labelNoLocation>cakar</Tiger.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Tiger.tools.head.label>kepala</Tiger.tools.head.label>
+  
+  <!-- EN: greatwolf -->
+  <Wolf_Great.label>Serigala yang hebat</Wolf_Great.label>
+  <!-- EN: A genetically engineered canine modeled on long-extinct dire wolves. These fearsome predators were created as pets for the glitterworld elite. Wild greatwolves now populate many planets, due to their tendency to escape confinement. -->
+  <Wolf_Great.description>Anjing yang dimodifikasi secara genetik yang diilhami oleh serigala yang mengerikan dan punah.Predator yang menakutkan ini diciptakan sebagai hewan peliharaan untuk elit mundobrillants.Serigala liar yang hebat sekarang mengisi banyak planet, karena kecenderungan mereka untuk melarikan diri dari kurungan.</Wolf_Great.description>
+  <!-- EN: greatwolf meat -->
+  <Wolf_Great.race.meatLabel>Daging serigala yang enak</Wolf_Great.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Great.tools.left_claw.label>cakar kiri</Wolf_Great.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.left_claw.labelNoLocation>cakar</Wolf_Great.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Great.tools.right_claw.label>Cakar kanan</Wolf_Great.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Great.tools.right_claw.labelNoLocation>cakar</Wolf_Great.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Great.tools.head.label>kepala</Wolf_Great.tools.head.label>
+  
+  <!-- EN: wolverine -->
+  <Wolverine.label>pelahap</Wolverine.label>
+  <!-- EN: A small but ferocious predator. Wolverines are solitary animals that prefer to eat carrion but can kill animals many times their size if needed. -->
+  <Wolverine.description>Predator kecil tapi sengit.Gloton adalah hewan kesepian yang lebih suka makan bangkai, tetapi mereka dapat membunuh hewan berkali -kali ukurannya jika perlu.</Wolverine.description>
+  <!-- EN: left claw -->
+  <Wolverine.tools.left_claw.label>cakar kiri</Wolverine.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.left_claw.labelNoLocation>cakar</Wolverine.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolverine.tools.right_claw.label>Cakar kanan</Wolverine.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolverine.tools.right_claw.labelNoLocation>cakar</Wolverine.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolverine.tools.head.label>kepala</Wolverine.tools.head.label>
+  
+</LanguageData>

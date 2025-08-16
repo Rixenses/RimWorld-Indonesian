@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>kecanduan yayo</PsychiteAddiction.label>
+  <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <PsychiteAddiction.description>Kecanduan kimiawi terhadap psikit. Keberadaan psikit yang terus menerus telah menyebabkan adaptasi neurologis pada tingkat sel, sehingga otak tidak dapat berfungsi dengan baik tanpa obat tersebut. Tanpa dosis psikit yang teratur dalam obat-obatan seperti serpihan atau yayo, gejala putus zat akan muncul. Namun, pantangan yang berkelanjutan akan memaksa otak untuk beradaptasi kembali ke keadaan normal, pulih dari kecanduan.</PsychiteAddiction.description>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>pantang</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>toleransi terhadap yayo</PsychiteTolerance.label>
+  <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
+  <PsychiteTolerance.description>Toleransi yang didapat terhadap psikit. Semakin tinggi, semakin banyak obat berbasis psikotropika yang perlu dikonsumsi untuk mencapai efek yang sama.</PsychiteTolerance.description>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small.label>minimum</PsychiteTolerance.stages.small.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>Grande</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>sangat tinggi</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>yayo tinggi</YayoHigh.label>
+  <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
+  <YayoHigh.description>Yayo aktif dalam aliran darah. Menyebabkan perasaan euforia yang intens.</YayoHigh.description>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>sebuah perjalanan yayo</YayoHigh.labelNoun>
+  
+</LanguageData>

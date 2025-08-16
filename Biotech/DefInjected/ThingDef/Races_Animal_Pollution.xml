@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: toxalope -->
+  <Toxalope.label>racun</Toxalope.label>
+  <!-- EN: A pollution-adapted cousin of the boomalope, the toxalope grows toxic pouches on its back. When it dies, the toxic material explodes and produces a deadly toxic cloud. Unlike the boomalope, the toxalope cannot be milked. -->
+  <Toxalope.description>Toksilop, sepupu bumalope tetapi beradaptasi dengan polusi, memiliki kantong beracun di bagian belakang.Saat mati, bahan beracun meledak dan menghasilkan awan beracun.Tidak seperti bumalope, toksilop tidak dapat dipesan.</Toxalope.description>
+  <!-- EN: head -->
+  <Toxalope.tools.head.label>kepala</Toxalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Toxalope.tools.left_hoof.label>Kiri Hoove</Toxalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Toxalope.tools.left_hoof.labelNoLocation>menerjang</Toxalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Toxalope.tools.right_hoof.label>Hoove yang benar</Toxalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Toxalope.tools.right_hoof.labelNoLocation>menerjang</Toxalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: waste rat -->
+  <WasteRat.label>Toxirred</WasteRat.label>
+  <!-- EN: A toxin-adapted variant of the common rat. Waste rats have evolved to be pollution-resistant, as well as larger, tougher, and more aggressive than standard rats. Their bite infects their attacker with toxic buildup. -->
+  <WasteRat.description>Varian yang disesuaikan dengan racun tikus umum.Toxirrata telah berevolusi menjadi resisten terhadap polusi, selain menjadi lebih besar, keras dan agresif daripada tikus normal.Gigitannya yang mabuk pada penyerangnya dengan akumulasi beracun.</WasteRat.description>
+  <!-- EN: left claw -->
+  <WasteRat.tools.left_claw.label>cakar kiri</WasteRat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <WasteRat.tools.right_claw.label>Cakar kanan</WasteRat.tools.right_claw.label>
+  <!-- EN: head -->
+  <WasteRat.tools.head.label>kepala</WasteRat.tools.head.label>
+  
+</LanguageData>

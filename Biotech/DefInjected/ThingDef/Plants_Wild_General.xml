@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chopped stump -->
+  <ChoppedStump_Polluted.label>Potong tunggul</ChoppedStump_Polluted.label>
+  <!-- EN: A stump left behind after a polluted tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Polluted.description>Tunggul yang tersisa setelah penebangan pohon yang terkontaminasi.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</ChoppedStump_Polluted.description>
+  
+  <!-- EN: gray grass -->
+  <Plant_GrayGrass.label>rumput abu -abu</Plant_GrayGrass.label>
+  <!-- EN: Gray grass refers to a variety of species of wild toxin-adapted grass. It grows anywhere there is minimally-fertile polluted ground and the climate isn't overwhelming hostile. -->
+  <Plant_GrayGrass.description>Rumput abu -abu mengacu pada berbagai spesies rumput liar yang disesuaikan dengan racun.Tumbuh di tempat -tempat di mana ada tanah terkontaminasi yang subur minimal dan cuacanya tidak terlalu bermusuhan.</Plant_GrayGrass.description>
+  
+  <!-- EN: pebble cactus -->
+  <Plant_PebbleCactus.label>Cactus membatu</Plant_PebbleCactus.label>
+  <!-- EN: A small cactus that resembles a cluster of pebbles. It can only grow on polluted terrain. It yields a meager amount of woody fiber when harvested. -->
+  <Plant_PebbleCactus.description>Kaktus kecil yang menyerupai sekelompok batu.Itu hanya bisa tumbuh di tanah yang terkontaminasi.Ini menghasilkan sedikit serat kayu saat memanen.</Plant_PebbleCactus.description>
+  
+  <!-- EN: rat palm tree -->
+  <Plant_RatPalm.label>Palm abu -abu</Plant_RatPalm.label>
+  <!-- EN: A tree similar to a palm tree with dense surface roots. It can only grow on polluted terrain. When harvested, it yields a meager amount of wood. -->
+  <Plant_RatPalm.description>Pohon yang mirip dengan pohon palem dengan akar superfisial yang padat.Itu hanya bisa tumbuh di tanah yang terkontaminasi.Saat memanen, ia menghasilkan jumlah kayu yang rendah.</Plant_RatPalm.description>
+  
+  <!-- EN: ripthorn -->
+  <Plant_Ripthorn.label>sejenis semak</Plant_Ripthorn.label>
+  <!-- EN: A short toxin-adapted shrub that looks like a dense, tough tangle of thorny branches. Difficult to move through, it slows down anyone moving over it. It can only grow in polluted areas. -->
+  <Plant_Ripthorn.description>Bush kecil yang terlihat seperti kusut ranting -ranting berduri yang padat dan resisten yang disesuaikan dengan racun.Sulit untuk menyeberang, memperlambat siapa pun yang lewat.Itu hanya dapat tumbuh di daerah yang terkontaminasi.</Plant_Ripthorn.description>
+  
+  <!-- EN: gray pine tree -->
+  <Plant_TreeGrayPine.label>Pinus keabu -abuan</Plant_TreeGrayPine.label>
+  <!-- EN: A small toxin-adapted tree with twisted branches. It can only grow on polluted terrain, and yields a meager amount of wood when harvested. -->
+  <Plant_TreeGrayPine.description>Sebuah pohon kecil diadaptasi dengan racun dengan cabang -cabang bengkok.Itu hanya dapat tumbuh di medan yang terkontaminasi dan menghasilkan sedikit kayu saat memanen.</Plant_TreeGrayPine.description>
+  
+  <!-- EN: witchwood tree -->
+  <Plant_Witchwood.label>Pohon gelap</Plant_Witchwood.label>
+  <!-- EN: A small toxin-adapted tree with a twisted trunk. It can only grow on polluted terrain. When harvested, it yields a meager amount of wood. -->
+  <Plant_Witchwood.description>Sebuah pohon kecil diadaptasi dengan racun dengan batang bengkok.Itu hanya bisa tumbuh di tanah yang terkontaminasi.Saat memanen, ia menghasilkan jumlah kayu yang rendah.</Plant_Witchwood.description>
+  
+  <!-- EN: smashed stump -->
+  <SmashedStump_Polluted.label>Tunggul yang rusak</SmashedStump_Polluted.label>
+  <!-- EN: The remnants of a polluted tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Polluted.description>Sisa -sisa pohon terkontaminasi dan dihancurkan oleh kerusakan.Itu jelek.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</SmashedStump_Polluted.description>
+  
+</LanguageData>

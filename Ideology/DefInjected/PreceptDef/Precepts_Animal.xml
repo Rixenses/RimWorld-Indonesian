@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: venerated -->
+  <AnimalVenerated.label>Terhormat</AnimalVenerated.label>
+  <!-- EN: This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed. -->
+  <AnimalVenerated.description>Orang percaya menganggap bahwa hewan ini memiliki semangat atau status moral khusus, yang berarti bahwa ia harus dihormati.</AnimalVenerated.description>
+  <!-- EN: Tame venerated animal died -->
+  <AnimalVenerated.comps.2.description>Hewan terhormat yang didomestikasi telah mati</AnimalVenerated.comps.2.description>
+  <!-- EN: Scarce animals {STAGE1} -->
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>Hewan langka {stage1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+  <!-- EN: Few animals {STAGE2} -->
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>Beberapa hewan {stage2}</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+  <!-- EN: Some animals {STAGE3} -->
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>Beberapa hewan {stage3}</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+  <!-- EN: Lots of animals {STAGE4} -->
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>Banyak hewan {stage4}</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+  <!-- EN: Tons of animals -->
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>Banyak hewan</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
+  
+</LanguageData>

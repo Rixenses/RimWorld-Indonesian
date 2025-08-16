@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starting people -->
+  <ConfigurePawnsKindDefs.label>jumlah orang</ConfigurePawnsKindDefs.label>
+  
+  <!-- EN: starting people -->
+  <ConfigurePawnsXenotypes.label>jumlah orang</ConfigurePawnsXenotypes.label>
+  
+  <!-- EN: disable exostrider remains -->
+  <DisableExostriderRemains.label>Nonaktifkan sisa -sisa tanah</DisableExostriderRemains.label>
+  
+  <!-- EN: start with mechanoid -->
+  <StartingMech.label>Mulailah dengan mecanoid</StartingMech.label>
+  
+</LanguageData>

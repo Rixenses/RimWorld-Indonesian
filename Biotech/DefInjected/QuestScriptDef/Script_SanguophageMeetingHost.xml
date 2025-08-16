@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sanguophagagriveletterlabel-> sanguophages tiba</li>
+    <li>sanguophagagrivelettertext-> sanguophages [sanguophagecount] tiba di [MAP_DEFINITE] dari arah yang berbeda.Mereka akan bertemu dan melakukan diskusi mereka di koloni.</li>
+    <li>SUCCESTLETTERLabel-> rapat Lengkap</li>
+    <li>SUCCESTLETTERTEXT-> Sanguophages telah menyelesaikan pertemuan mereka dan sekarang akan memberi Anda hadiah Anda.</li>
+    <li>RAIDArVIDETTERLabel-> Pemburu Sanguophage</li>
+    <li>RaidArrivelyLetText-> sekelompok pemburu sanguophage dari [musuh musuh.</li>-><SanguophageMeetingHost.questContentRules.rulesStrings>
+    <li>SanguHagagesarivetterlabel-> kedatangan berdarah</li>
+    <li>Sanguophagagesarivelettext-> los [sanguophagecount] sanguifagos mencapai [MAP_DEFINITE] dari arah yang berbeda.Mereka akan bertemu dan melakukan debat mereka di koloni.</li>
+    <li>Arguentletterlabel-></li>
+    <li>argumentLetterText->Los sanguífagos se enzarzaron en una discusión y ahora han llegado a la violencia.</li>
+    <li>SUCCESTLETTERLABEL-> Rapat selesai</li>
+    <li>SuccessLettext-> The Bloody telah menyelesaikan pertemuan mereka dan sekarang mereka akan memberi Anda hadiah Anda.</li>
+    <li>RaidarrivedleTterlabel-> pemburu darah</li>
+    <li>RaidarrivedleText-> sekelompok pemburu darah [musuh .faction_name] semakin dekat.Mereka akan menyerang sanguifagos berkumpul dan mereka yang menyambut mereka.</li>
+  </SanguophageMeetingHost.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Sanguophage bernama [asker_namedef] sedang mencari tempat yang aman untuk bertemu dengan [sanguophagecountminusone] [sanguophageingingorplural] lainnya di mana mereka tidak akan dilacak.Pemimpin mereka [asker_namedef] meminta Anda untuk menjadi tuan rumah pertemuan di [MAP_DEFINITE]. \ N \ nif Anda menerima, [sanguophagecount] sanguophages akan tiba di [peta_definite] dari berbagai arah.Mereka akan menghabiskan beberapa jam mendiskusikan masalah rahasia mereka sendiri sebelum berangkat.Mereka berjanji untuk memberikan hadiah Anda sebelum mereka pergi. \ N \ nyou dapat mengkhianati sanguofag dan menyerang mereka.Sanguofag yang jatuh dapat dipaksa untuk mengubah salah satu penjajah Anda sendiri menjadi sanguofag.</li>
+    <li>sanguophagesingorplural (sanguophagecountminusone == 1)-> sanguophage</li>
+    <li>sanguophagesingorplural (sanguophagecountminusone> = 2)-> sanguophages</li>
+    <li>sanguophageInfo-> (*abu-abu) Tentang sanguofages: sanguofag adalah awet muda, super-manusia yang tidak mati ditenagai oleh archites yang dibuat Archotech dalam aliran darah.Mereka cantik dan sangat cerdas.Mereka dapat menyembuhkan cedera apa pun, dan tidak pernah menderita penyakit atau racun.Dalam pertempuran, mereka dapat meluncurkan duri yang mematikan dan menyembuhkan teman -teman yang terluka.Harganya adalah bahwa sanguofag harus mengkonsumsi hemogen yang berasal dari darah manusia untuk bertahan hidup, dan mereka harus mati secara berkala untuk waktu yang lama.Mereka mudah dihancurkan oleh api, dan melambat oleh cahaya UV. (/Abu -abu)</li>-><SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> Darah yang disebut [asker_namedef] sedang mencari tempat yang aman untuk bertemu dengan [sanguophagecountminone] orang lain [BloodstreamingorRural] di mana mereka tidak akan dilacak.Pemimpinnya [asker_namedef] meminta Anda untuk mengatur pertemuan di [MAP_DEFINITE].Jika Anda menerima, [sanguophaguount] darah akan mencapai [peta_definite] dari berbagai arah.Mereka akan menghabiskan beberapa jam mendiskusikan masalah rahasia mereka sendiri sebelum pergi.Mereka berjanji untuk memberi Anda hadiah sebelum pergi. \ N \ npuedes mengkhianati berdarah dan menyerang mereka.Bidyfags dapat dipaksa untuk mengubah salah satu pemukim Anda sendiri menjadi batu darah. \ N \ n [sanguophageInfo]</li>
+    <li>sanguophagesingorplural (sanguophagecountminusone == 1)-> sanguífago</li>
+    <li>sanguophagesingorplural (sanguophagecountminuSone> = 2)-> sanguífagos</li>
+    <li>SanguophageInfo-> (*abu-abu) tentang berdarah: sanguifagos adalah manusia super tanpa usia dan tanpa kematian, diberi makan oleh arsitek yang diciptakan oleh arkeoteknologi dalam torrent darah.Mereka cantik dan sangat cerdas.Mereka dapat menyembuhkan luka apa pun dan tidak pernah menderita penyakit atau racun.Dalam pertempuran, mereka dapat meluncurkan duri fana dan menyembuhkan sekutu yang terluka.Harganya adalah bahwa hematofagi harus mengonsumsi hemogen yang berasal dari darah manusia untuk bertahan hidup, dan harus mengalir secara berkala untuk waktu yang lama.Mereka mudah dihancurkan oleh api dan diperlambat oleh sinar ultraviolet. (/Abu-abu)</li>
+  </SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [MeetAdjective] [Meetnoun]</li>
+    <li>MeetAdjective-> sanguophage</li>
+    <li>MeetAdjective-> BloodThirsty</li>
+    <li>MeetAdjective-> Darah</li>
+    <li>MeetAdjective-> Shadow</li>
+    <li>MeetAdjective-> Dark</li>
+    <li>MeetAdjective-> Crimson</li>
+    <li>MeetAdjective-> Red</li>
+    <li>MeetAdjective-> scab</li>
+    <li>MeetAdjective-> Hemic</li>
+    <li>MeetAdjective-> Sanguine</li>
+    <li>Meetnoun-> rapat</li>
+    <li>Meetnoun-> Host</li>
+    <li>Meetnoun-> Gathering</li>
+    <li>Meetnoun-> Reunion</li>
+    <li>Meetnoun-> Assembly</li>
+    <li>Meetnoun-> Konklaf</li>
+    <li>Meetnoun-> Kongres</li>
+    <li>Meetnoun-> Parley</li>-><SanguophageMeetingHost.questNameRules.rulesStrings>
+    <li>QuestName-> [MeetAdjective] [Meetnoun]</li>
+    <li>Meatadjective-></li>
+    <li>MeetAdjective-> BloodThirsty</li>
+    <li>MeetAdjective-> sangre</li>
+    <li>Meatadjective-> Shadow</li>
+    <li>MeetAdjective-> Darkness</li>
+    <li>MeetAdjective-> Crimson</li>
+    <li>MeetAdjective-> Red</li>
+    <li>Meatadjective-> roña</li>
+    <li>MeetAdjective-> Hemico</li>
+    <li>Meatadjective-> Darah</li>
+    <li>Meetnoun-> rapat</li>
+    <li>Meetnoun-> Host</li>
+    <li>Meetnoun-> Collection</li>
+    <li>Meetnoun-> rapat</li>
+    <li>Meetnoun-> Assembly</li>
+    <li>Meetnoun-> Konklaf</li>
+    <li>Meetnoun-> Kongres</li>
+    <li>Meman-> Parlament</li>
+  </SanguophageMeetingHost.questNameRules.rulesStrings>
+  
+</LanguageData>

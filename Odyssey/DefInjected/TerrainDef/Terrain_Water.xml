@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hot spring water -->
+  <HotSpring.label>Air Panas Panas</HotSpring.label>
+  <!-- EN: water -->
+  <HotSpring.tools.water.label>Agua</HotSpring.tools.water.label>
+  
+  <!-- EN: toxic deep water -->
+  <ToxicWaterDeep.label>Air dalam beracun</ToxicWaterDeep.label>
+  <!-- EN: water -->
+  <ToxicWaterDeep.tools.water.label>Agua</ToxicWaterDeep.tools.water.label>
+  
+  <!-- EN: toxic chest-deep moving water -->
+  <ToxicWaterMovingChestDeep.label>Air mengalir beracun</ToxicWaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <ToxicWaterMovingChestDeep.tools.water.label>Agua</ToxicWaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: toxic shallow moving water -->
+  <ToxicWaterMovingShallow.label>air mengalir dangkal beracun</ToxicWaterMovingShallow.label>
+  <!-- EN: water -->
+  <ToxicWaterMovingShallow.tools.water.label>Agua</ToxicWaterMovingShallow.tools.water.label>
+  
+  <!-- EN: toxic deep ocean water -->
+  <ToxicWaterOceanDeep.label>air laut lautan dalam</ToxicWaterOceanDeep.label>
+  <!-- EN: water -->
+  <ToxicWaterOceanDeep.tools.water.label>Agua</ToxicWaterOceanDeep.tools.water.label>
+  
+  <!-- EN: toxic shallow ocean water -->
+  <ToxicWaterOceanShallow.label>Air laut beracun hiu</ToxicWaterOceanShallow.label>
+  <!-- EN: water -->
+  <ToxicWaterOceanShallow.tools.water.label>Agua</ToxicWaterOceanShallow.tools.water.label>
+  
+  <!-- EN: toxic shallow water -->
+  <ToxicWaterShallow.label>Naungan beracun</ToxicWaterShallow.label>
+  <!-- EN: water -->
+  <ToxicWaterShallow.tools.water.label>Agua</ToxicWaterShallow.tools.water.label>
+  
+</LanguageData>

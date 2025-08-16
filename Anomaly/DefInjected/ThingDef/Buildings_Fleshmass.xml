@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid spit -->
+  <Bullet_Shell_AcidSpit.label>ludah asam</Bullet_Shell_AcidSpit.label>
+  
+  <!-- EN: fleshbulb -->
+  <Fleshbulb.label>bohlam berdaging</Fleshbulb.label>
+  <!-- EN: A bulbous mass of flesh. These fleshbeast organs store and refine nutrients for surrounding fleshmass. The chemical process generates a soft bioluminescent glow. -->
+  <Fleshbulb.description>Massa daging bulat.Organ -organ binatang buas ini menyimpan dan memperbaiki nutrisi untuk carnimase di sekitarnya.Proses kimia menghasilkan kecerahan bioluminescent yang lembut.</Fleshbulb.description>
+  
+  <!-- EN: fleshmass -->
+  <Fleshmass.label>Carnimasa</Fleshmass.label>
+  <!-- EN: A solid mass of twisted flesh. It throbs and shivers with horrible life. -->
+  <Fleshmass.description>Massa daging yang dipelintir.Saya berdenyut dan gemetar dengan kehidupan yang mengerikan.</Fleshmass.description>
+  
+  <!-- EN: fleshmass -->
+  <Fleshmass_Active.label>Carnimasa</Fleshmass_Active.label>
+  <!-- EN: A solid mass of twisted flesh. It throbs and shivers with horrible life. -->
+  <Fleshmass_Active.description>Massa daging yang dipelintir.Saya berdenyut dan gemetar dengan kehidupan yang mengerikan.</Fleshmass_Active.description>
+  
+  <!-- EN: fleshmass heart -->
+  <FleshmassHeart.label>Hati Carnimosa</FleshmassHeart.label>
+  <!-- EN: The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass. -->
+  <FleshmassHeart.description>Organ utama infestasi Carnimosa.Jantung mengumpulkan materi melalui akar yang membentang di tanah.Begitu dia cukup mengumpulkan, menyebarkan Carnimose di sekitarnya dalam wabah pertumbuhan karsinogenik.Itu akan terus tumbuh sampai semuanya mengonsumsinya.Organ defensif ini dapat meludahkan asam pada jarak yang jauh.Jantung juga menghasilkan Carnibstia untuk melindungi dirinya sendiri. \ N \ nla Ultra -Generasi membuat hati hampir kebal.Itu hanya dapat dibunuh dengan menganalisis sampel yang diambil dari balok saraf yang terbentuk dalam massa yang tumbuh.</FleshmassHeart.description>
+  <!-- EN: Use electrical pulses to induce a tachycardiac overload and kill the fleshmass heart. -->
+  <FleshmassHeart.comps.CompDestroyHeart.activateDescString>Gunakan pulsa listrik untuk menginduksi kelebihan tachycardic dan bunuh jantung Carnimosa.</FleshmassHeart.comps.CompDestroyHeart.activateDescString>
+  <!-- EN: Induce tachycardiac death... -->
+  <FleshmassHeart.comps.CompDestroyHeart.activateLabelString>Menginduksi kematian takikardik ...</FleshmassHeart.comps.CompDestroyHeart.activateLabelString>
+  <!-- EN: Inducing tachycardiac death: {1}s -->
+  <FleshmassHeart.comps.CompDestroyHeart.activatingString>Menginduksi kematian takikardik: {1} s</FleshmassHeart.comps.CompDestroyHeart.activatingString>
+  <!-- EN: Inducing tachycardiac death -->
+  <FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>Mendorong kematian takikardik</FleshmassHeart.comps.CompDestroyHeart.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FleshmassHeart.comps.CompDestroyHeart.guiLabelString>Pilih siapa yang harus melakukannya</FleshmassHeart.comps.CompDestroyHeart.guiLabelString>
+  <!-- EN: Induce tachycardiac death -->
+  <FleshmassHeart.comps.CompDestroyHeart.jobString>Menginduksi kematian takikardik</FleshmassHeart.comps.CompDestroyHeart.jobString>
+  
+  <!-- EN: underground emergence -->
+  <FleshmassHeartSpawner.label>kemunculan bawah tanah</FleshmassHeartSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <FleshmassHeartSpawner.description>Sesuatu muncul dari tanah di sini.</FleshmassHeartSpawner.description>
+  <!-- EN: Fleshmass heart -->
+  <FleshmassHeartSpawner.building.groundSpawnerLetterLabel>Hati Carnimosa</FleshmassHeartSpawner.building.groundSpawnerLetterLabel>
+  <!-- EN: A fleshmass heart has emerged! This cancer-like creature will expand its living mass across the surface.\n\nThe heart itself is invulnerable to normal weapons. Fleshmass nerve bundles will soon appear - attack them to gather samples and find a way to kill the heart. -->
+  <FleshmassHeartSpawner.building.groundSpawnerLetterText>Hati Carnimosa telah muncul!Makhluk karsinogenik ini akan memperluas massa hidupnya di permukaan. Jantung \ n \ nel kebal terhadap senjata normal.Segera Anda akan tampak gugup dari Carnimosa: Atacal mereka untuk mengumpulkan sampel dan menemukan cara untuk membunuh hati.</FleshmassHeartSpawner.building.groundSpawnerLetterText>
+  
+  <!-- EN: fleshmass spitter -->
+  <FleshmassSpitter.label>Ludah Carnimosa</FleshmassSpitter.label>
+  <!-- EN: A defensive fleshmass organ that can spit acid long distances. The acid is a natural byproduct of toxins filtered from the surrounding biomass. -->
+  <FleshmassSpitter.description>Tubuh defensif Carnimosa yang dapat meludah pada jarak jauh.Asam adalah produk sampingan alami dari racun yang disaring dari biomassa di sekitarnya.</FleshmassSpitter.description>
+  <!-- EN: fleshmass spitter -->
+  <FleshmassSpitter.verbs.Verb_Shoot.label>Ludah Carnimosa</FleshmassSpitter.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flesh sack -->
+  <FleshSack.label>kantong daging</FleshSack.label>
+  <!-- EN: A swollen lump of flesh with something inside. These stationary fleshbeasts act as digestive organs, supplying the surrounding fleshmass with nutrients. However, they're unable to break down non-organic matter, meaning that valuable items can occasionally be found within. -->
+  <FleshSack.description>Tonjolan daging bengkak dengan sesuatu di dalamnya.Carnibesties yang tidak bergerak ini bertindak sebagai organ pencernaan, memasok nutrisi ke Carnimase di sekitarnya.Namun, mereka tidak dapat menguraikan materi non -organik, jadi kadang -kadang mereka dapat berisi benda -benda berharga.</FleshSack.description>
+  
+  <!-- EN: nerve bundle -->
+  <NerveBundle.label>Membuat gugup</NerveBundle.label>
+  <!-- EN: A junction point in the fleshmass nervous system. When destroyed, it leaves behind a lump of neural tissue that you can study. Study enough different neural lumps and you can unlock a way to kill the fleshmass heart itself. -->
+  <NerveBundle.description>Titik penyatuan dalam sistem saraf Carnimosa.Saat dihancurkan, tinggalkan gumpalan kain saraf yang dapat Anda pelajari.Pelajari nodul saraf yang cukup dan Anda akan menemukan cara untuk membunuh hati Carnimosa sendiri.</NerveBundle.description>
+  <!-- EN: Kill to collect: Neural lump -->
+  <NerveBundle.comps.CompInspectString.inspectString>Bunuh untuk Mengumpulkan: Nodul Saraf</NerveBundle.comps.CompInspectString.inspectString>
+  
+</LanguageData>

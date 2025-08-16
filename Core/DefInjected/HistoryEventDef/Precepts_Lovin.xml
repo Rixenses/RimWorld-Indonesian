@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: got some lovin' -->
+  <GotLovin.label>menerima beberapa cinta</GotLovin.label>
+  
+  <!-- EN: lovin' outside marriage -->
+  <GotLovin_NonSpouse.label>menerima cinta di luar pernikahan</GotLovin_NonSpouse.label>
+  
+  <!-- EN: lovin' with spouse -->
+  <GotLovin_Spouse.label>menerima cinta dengan pasangan</GotLovin_Spouse.label>
+  
+  <!-- EN: initiated lovin' -->
+  <InitiatedLovin.label>cinta yang diprakarsai</InitiatedLovin.label>
+  
+  <!-- EN: shared bed -->
+  <SharedBed.label>berbagi tempat tidur</SharedBed.label>
+  
+  <!-- EN: shared bed outside marriage -->
+  <SharedBed_NonSpouse.label>berbagi tempat tidur di luar pernikahan</SharedBed_NonSpouse.label>
+  
+  <!-- EN: shared bed with spouse -->
+  <SharedBed_Spouse.label>tempat tidur bersama dengan pasangan</SharedBed_Spouse.label>
+  
+</LanguageData>

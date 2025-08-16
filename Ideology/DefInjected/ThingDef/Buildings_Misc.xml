@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autobong -->
+  <Autobong.label>Autochimba</Autobong.label>
+  <!-- EN: An automatic smokeleaf-burning device which generates a smoke cloud around itself. Anyone in the cloud will become high on smokeleaf over time. -->
+  <Autobong.description>Perangkat pembakaran selebaran otomatis yang menghasilkan awan asap di sekitarnya.Siapa pun yang berada di awan akan dibius dengan daun Leafhumeantte seiring waktu.</Autobong.description>
+  
+  <!-- EN: drum -->
+  <Drum.label>Tambor</Drum.label>
+  <!-- EN: A large wooden drum used as a music source for tribal rituals and parties. -->
+  <Drum.description>Drum kayu besar digunakan sebagai sumber musik dalam ritual dan pesta suku.</Drum.description>
+  
+  <!-- EN: dryad cocoon -->
+  <DryadCocoon.label>Chrysálida de Díada</DryadCocoon.label>
+  <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph. -->
+  <DryadCocoon.description>Bola materi tanaman berserat.Dríada di dalam perlahan berubah menjadi bentuk baru.Pohon Gauranlen menumbuhkan bidang -bidang ini untuk membantu melindungi pengering saat berubah.</DryadCocoon.description>
+  
+  <!-- EN: dryad healing pod -->
+  <DryadHealingPod.label>Selubung kuratif dríada</DryadHealingPod.label>
+  <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly healing its wounds. -->
+  <DryadHealingPod.description>Bola materi tanaman berserat.Sebuah dríada di dalam perlahan -lahan menyembuhkan luka -lukanya.</DryadHealingPod.description>
+  
+  <!-- EN: gaumaker pod -->
+  <GaumakerCocoon.label>Guilt de Cragaus</GaumakerCocoon.label>
+  <!-- EN: The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree. -->
+  <GaumakerCocoon.description>Hasil dari beberapa creanggaus.Pod tanaman/hewan simbiotik ini adalah bagian penting dari siklus hidup Gauranlen.Setelah beberapa saat, itu akan berkembang sampai menjadi selubung Gauranlen dewasa yang dapat dipanen untuk menanam pohon Gauranlen baru.</GaumakerCocoon.description>
+  
+  <!-- EN: gibbet cage -->
+  <GibbetCage.label>kandang tubuh</GibbetCage.label>
+  <!-- EN: A metal cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves. -->
+  <GibbetCage.description>Kandang logam untuk menahan dan mengekspos mayat.Visi yang mengerikan ini menginspirasi teror dan pengamat yang menjijikkan.Ini adalah cara yang sangat brutal dan efektif untuk meneror budak.</GibbetCage.description>
+  
+  <!-- EN: kneel pillow -->
+  <KneelPillow.label>Bantal berlutut</KneelPillow.label>
+  <!-- EN: A pillow on which believers kneel while observing rituals, praying, or discussing. -->
+  <KneelPillow.description>Bantal di mana orang percaya berlutut saat menonton ritual, berdoa atau berdiskusi.</KneelPillow.description>
+  
+  <!-- EN: kneel sheet -->
+  <KneelSheet.label>Karpet lutut</KneelSheet.label>
+  <!-- EN: A sheet on which believers kneel while observing rituals, praying, or discussing. -->
+  <KneelSheet.description>Lembar di mana orang percaya berlutut sambil menonton ritual, berdoa atau berdoa.</KneelSheet.description>
+  
+  <!-- EN: lectern -->
+  <Lectern.label>podium</Lectern.label>
+  <!-- EN: A slanted platform that holds a text in front of a speaker. Place it near the focus of rituals and speeches to extend the duration of their positive effects. -->
+  <Lectern.description>Platform miring yang memegang teks di depan speaker.Tempatkan di dekat fokus ritual dan pidato untuk memperpanjang durasi efek positifnya.</Lectern.description>
+  
+  <!-- EN: lightball -->
+  <LightBall.label>Bola berputar</LightBall.label>
+  <!-- EN: A decorative light that rotates and changes colors. Used as a focus for dance parties. -->
+  <LightBall.description>Cahaya dekoratif yang berubah dan mengubah warna.Ini digunakan sebagai fokus untuk pesta dansa.</LightBall.description>
+  
+  <!-- EN: loudspeaker -->
+  <Loudspeaker.label>pembicara</Loudspeaker.label>
+  <!-- EN: A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect. -->
+  <Loudspeaker.description>Pembicara besar untuk memainkan musik.Setidaknya satu diperlukan untuk merayakan pesta dansa, dan lebih banyak pembicara akan meningkatkan efeknya.</Loudspeaker.description>
+  
+  <!-- EN: pew -->
+  <Pew.label>Bank Panjang</Pew.label>
+  <!-- EN: A long bench where ritual participants can sit while listening to a speaker. Place it facing rituals and speeches to extend the duration of their positive effects. -->
+  <Pew.description>Bank panjang di mana peserta ritual dapat duduk saat mendengarkan pembicara.Tempatkan untuk ritual dan pidato untuk memperpanjang durasi efek positifnya.</Pew.description>
+  
+  <!-- EN: bonsai pot -->
+  <PlantPot_Bonsai.label>Pot bonsai</PlantPot_Bonsai.label>
+  <!-- EN: This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements. -->
+  <PlantPot_Bonsai.description>Pot khusus ini cocok untuk menanam pohon bonsai, yang dapat meningkatkan humor orang -orang di dekatnya dan memenuhi persyaratan ideoligi.</PlantPot_Bonsai.description>
+  
+  <!-- EN: reliquary -->
+  <Reliquary.label>peti jenazah</Reliquary.label>
+  <!-- EN: A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by some cultures, belief systems, or religions. -->
+  <Reliquary.description>Bangunan upacara yang melindungi dan menunjukkan peninggalan.Peninggalan adalah objek lama yang dihormati oleh beberapa budaya, kepercayaan atau sistem agama.</Reliquary.description>
+  
+  <!-- EN: skullspike -->
+  <Skullspike.label>tengkorak tusuk</Skullspike.label>
+  <!-- EN: A spike mounted upright for the purpose of piercing and displaying a human skull. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves. -->
+  <Skullspike.description>Tusuk sate dipasang secara vertikal untuk mengebor dan memamerkan tengkorak manusia.Bagi sebagian orang, tengkorak yang terbuka adalah simbol kekuatan.Bagi yang lain, mereka mewakili kejahatan biadab.Bagaimanapun, mereka adalah cara yang sangat brutal dan efektif untuk meneror budak.</Skullspike.description>
+  <!-- EN: skull of -->
+  <Skullspike.comps.CompHasSources.inspectStringLabel>Tengkorak</Skullspike.comps.CompHasSources.inspectStringLabel>
+  
+  <!-- EN: slab bed -->
+  <SlabBed.label>tempat tidur yang kaku</SlabBed.label>
+  <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. -->
+  <SlabBed.description>Lempengan bahan keras yang dibuat untuk tidur.Tempat tidur yang kaku tidak nyaman, tetapi beberapa melihat penggunaannya sebagai demonstrasi kebaikan moral.</SlabBed.description>
+  
+  <!-- EN: slab double bed -->
+  <SlabDoubleBed.label>tempat tidur kaku ganda</SlabDoubleBed.label>
+  <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people. -->
+  <SlabDoubleBed.description>Lempengan bahan keras yang dibuat untuk tidur.Tempat tidur yang kaku tidak nyaman, tetapi beberapa melihat penggunaannya sebagai demonstrasi kebaikan moral.Ini cukup luas untuk membuat dua orang.</SlabDoubleBed.description>
+  
+  <!-- EN: styling station -->
+  <StylingStation.label>lemari</StylingStation.label>
+  <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
+  <StylingStation.description>Meja dengan cermin dan alat gaya rambut.Orang dapat menggunakan ini untuk mengubah penampilan mereka.</StylingStation.description>
+  
+</LanguageData>

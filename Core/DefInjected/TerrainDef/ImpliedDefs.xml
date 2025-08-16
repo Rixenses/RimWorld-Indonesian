@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granito en bruto -->
+  <Granite_Rough.label>Bercrosing di granit kasar</Granite_Rough.label>
+  <!-- EN: Suelo de granito en bruto. -->
+  <Granite_Rough.description>Tanah Granit Alami Kotor.</Granite_Rough.description>
+  
+  <!-- EN: granito tallado en bruto -->
+  <Granite_RoughHewn.label>Granit tidak teratur</Granite_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de granito. -->
+  <Granite_RoughHewn.description>Tanah granit alami yang tidak teratur.</Granite_RoughHewn.description>
+  
+  <!-- EN: granito liso -->
+  <Granite_Smooth.label>Granit halus</Granite_Smooth.label>
+  <!-- EN: Suelo natural de granito alisado. -->
+  <Granite_Smooth.description>Tanah granit alami yang dihaluskan halus.</Granite_Smooth.description>
+  
+  <!-- EN: caliza en bruto -->
+  <Limestone_Rough.label>Batu kapur kotor</Limestone_Rough.label>
+  <!-- EN: Suelo de caliza en bruto. -->
+  <Limestone_Rough.description>Tanah batu kapur alami yang kotor.</Limestone_Rough.description>
+  
+  <!-- EN: caliza tallado en bruto -->
+  <Limestone_RoughHewn.label>Batu kapur yang tidak teratur</Limestone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de caliza. -->
+  <Limestone_RoughHewn.description>Tanah batu kapur alami yang tidak teratur.</Limestone_RoughHewn.description>
+  
+  <!-- EN: caliza liso -->
+  <Limestone_Smooth.label>Batu kapur halus</Limestone_Smooth.label>
+  <!-- EN: Suelo natural de caliza alisado. -->
+  <Limestone_Smooth.description>Tanah batu kapur alami yang dihaluskan halus.</Limestone_Smooth.description>
+  
+  <!-- EN: mármol en bruto -->
+  <Marble_Rough.label>Marmer mentah</Marble_Rough.label>
+  <!-- EN: Suelo de mármol en bruto. -->
+  <Marble_Rough.description>Tanah marmer alami yang kotor.</Marble_Rough.description>
+  
+  <!-- EN: mármol tallado en bruto -->
+  <Marble_RoughHewn.label>Marmer tidak teratur</Marble_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de mármol. -->
+  <Marble_RoughHewn.description>Tanah marmer alami yang tidak teratur.</Marble_RoughHewn.description>
+  
+  <!-- EN: mármol liso -->
+  <Marble_Smooth.label>Marmer halus</Marble_Smooth.label>
+  <!-- EN: Suelo natural de mármol alisado. -->
+  <Marble_Smooth.description>Tanah marmer alami yang dihaluskan halus.</Marble_Smooth.description>
+  
+  <!-- EN: arenisca en bruto -->
+  <Sandstone_Rough.label>Batu pasir mentah</Sandstone_Rough.label>
+  <!-- EN: Suelo de arenisca en bruto. -->
+  <Sandstone_Rough.description>Tanah batu pasir alami yang kotor.</Sandstone_Rough.description>
+  
+  <!-- EN: arenisca tallado en bruto -->
+  <Sandstone_RoughHewn.label>Batu pasir tidak teratur</Sandstone_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de arenisca. -->
+  <Sandstone_RoughHewn.description>Tanah batu pasir alami yang tidak teratur.</Sandstone_RoughHewn.description>
+  
+  <!-- EN: arenisca liso -->
+  <Sandstone_Smooth.label>Batu pasir yang halus</Sandstone_Smooth.label>
+  <!-- EN: Suelo natural de arenisca alisado. -->
+  <Sandstone_Smooth.description>Tanah batu pasir alami yang dihaluskan halus.</Sandstone_Smooth.description>
+  
+  <!-- EN: pizarra en bruto -->
+  <Slate_Rough.label>Slate kotor</Slate_Rough.label>
+  <!-- EN: Suelo de pizarra en bruto. -->
+  <Slate_Rough.description>Lantai batu tulis alami yang kotor.</Slate_Rough.description>
+  
+  <!-- EN: pizarra tallado en bruto -->
+  <Slate_RoughHewn.label>Papan tidak teratur</Slate_RoughHewn.label>
+  <!-- EN: Suelo tosco natural de pizarra. -->
+  <Slate_RoughHewn.description>Lantai batu tulis alami yang tidak teratur.</Slate_RoughHewn.description>
+  
+  <!-- EN: pizarra liso -->
+  <Slate_Smooth.label>Slate yang halus</Slate_Smooth.label>
+  <!-- EN: Suelo natural de pizarra alisado. -->
+  <Slate_Smooth.description>Lantai batu tulis alami yang halus.</Slate_Smooth.description>
+  
+</LanguageData>

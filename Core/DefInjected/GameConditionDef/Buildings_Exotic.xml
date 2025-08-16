@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic droner -->
+  <PsychicDroner.label>buzzer psikis</PsychicDroner.label>
+  <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
+  <PsychicDroner.description>Drone psikis yang berfokus pada gender {0} membuat {0} gila.</PsychicDroner.description>
+  <!-- EN: A psychic droner machine has begun affecting this region. -->
+  <PsychicDroner.letterText>Sebuah mesin senandung psikis telah mulai mempengaruhi wilayah ini.</PsychicDroner.letterText>
+  
+</LanguageData>

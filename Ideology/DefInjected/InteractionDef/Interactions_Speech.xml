@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: role acceptance speech -->
+  <Speech_AcceptRole.label>Pidato Penerimaan Peran</Speech_AcceptRole.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> [initiator_possessive] Peran baru dalam komunitas</li>
+    <li>Pidato-Pidato-> Tanggung Jawab Peran Baru [Initiator_Possessive]</li>
+    <li>Pidato-> Pentingnya Peran Baru [Initiator_Possessive]</li>
+    <li>Pidato-> [initiator_possessive] Kualitas yang baik</li>
+    <li>pidato-> [initiator_possessive] kekuatan dan cara memanfaatkannya</li>
+    <li>pidato-> [initiator_possessive] kekurangan</li>
+    <li>pidato-> [initiator_possessive] kelemahan dan cara mengatasinya</li>
+    <li>Pidato-> [initiator_possessive] keinginan untuk melayani komunitas</li>
+    <li>Pidato-> [initiator_possessive] Dedikasi untuk keyakinan [initiator_possessives]</li>
+    <li>Pidato-> [initiator_possessive] Keyakinan tentang masa depan</li>
+    <li>Pidato-> [initiator_possessive] ingin melayani tujuan yang lebih besar</li>
+    <li>Pidato-> [initiator_possessive] [PribadiCaracteristic] dan bagaimana hubungannya dengan peran tersebut</li>
+    <li>pidato-> bagaimana [initiator_possessive] [pribadi karakteristik] membuat [initiator_objective] cocok untuk peran tersebut</li>
+    <li>pidato-> bagaimana [initiator_pronoun] akan menggunakan [initiator_possessives] [pribadi karakteristik] untuk mengatasi hambatan</li>
+    <li>pidato-> terima kasih</li>
+    <li>pidato-> menunjukkan rasa terima kasih</li>
+    <li>TUJUAN LIGHATTOPIC-> HIDUP</li>
+    <li>pidato-> masa depan koloni</li>
+    <li>pidato-> meningkatkan koloni</li>
+    <li>pidato-> pengambilan keputusan di bawah tekanan</li>
+    <li>pidato-> struktur sosial komunitas</li>
+    <li>pidato-> bertanggung jawab</li>
+    <li>Pidato-> menempatkan peran di atas [initiator_possessives] keinginan pribadi</li>-><Speech_AcceptRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> peran baru Anda di komunitas</li>
+    <li>Pidato-> tanggung jawab atas peran baru Anda</li>
+    <li>Pidato-> pentingnya peran barunya</li>
+    <li>Pidato-> kualitas baik Anda</li>
+    <li>Pidato-> kekuatan Anda dan bagaimana memanfaatkannya</li>
+    <li>Pidato-> Kekurangan Anda</li>
+    <li>Pidato-> titik lemahnya dan bagaimana mengatasinya</li>
+    <li>Pidato-> keinginan Anda untuk melayani koloni</li>
+    <li>Pidato-> dedikasi Anda untuk keyakinan Anda</li>
+    <li>Pidato-> Keyakinan Anda tentang Masa Depan</li>
+    <li>Pidato-> keinginan Anda untuk melayani tujuan yang lebih besar</li>
+    <li>Topik Pidato-> [Karakteristik Pribadi] Anda dan bagaimana hubungannya dengan peran tersebut</li>
+    <li>Pidato-> Bagaimana [Personcharacteristic] Anda [initiator_objective] membuat peran layak</li>
+    <li>Pidato-> Bagaimana [initiator_pronoun] akan menggunakan [personcraracteristic] untuk mengatasi hambatan</li>
+    <li>Pidato-> terima kasih</li>
+    <li>Pidato-> menunjukkan rasa terima kasih</li>
+    <li>Pidato-> tujuan hidup</li>
+    <li>Pidato-> masa depan koloni</li>
+    <li>Pidato-> meningkatkan koloni</li>
+    <li>Pidato-> Pengambilan keputusan dalam situasi stres</li>
+    <li>Pidato-> struktur sosial komunitas</li>
+    <li>Pidato-> Tanggung jawab tanggung jawab</li>
+    <li>Pidato-> berperan di atas keinginan pribadi Anda</li>
+  </Speech_AcceptRole.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: blinding speech -->
+  <Speech_Blinding.label>Pidato yang menyilaukan</Speech_Blinding.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Buta Pidato-> Kebutaan</li>
+    <li>pidato-> kemurnian kebutaan</li>
+    <li>pidato-> makna spiritual dari yang tidak terlihat</li>
+    <li>pidato-> dunia tersembunyi di luar pandangan</li>
+    <li>pidato-> kepalsuan realitas visual kita</li>
+    <li>pidato-> teknik menyilaukan</li>
+    <li>pidato-> kutukan penglihatan</li>
+    <li>pidato-> jeli di dalam bola mata</li>
+    <li>pidato-> tumbuh dewasa terlihat</li>
+    <li>pidato-> Tumbuh buta</li>
+    <li>pidato-> mengeksplorasi tanpa melihat atau bergerak</li>
+    <li>Pidato-> Lapisan Realitas Di Bawah Visual</li>
+    <li>Pidato-> Koneksi Psikis</li>-><Speech_Blinding.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Buta Pidato-> Kebutaan</li>
+    <li>Pidato-> kemurnian kebutaan</li>
+    <li>Pidato-> makna spiritual dari kebutaan</li>
+    <li>Pidato-> dunia tersembunyi di luar pandangan</li>
+    <li>Pidato-> kepalsuan realitas visual kita</li>
+    <li>Pidato-> teknik kebutaan</li>
+    <li>Pidato-> kutukan penglihatan</li>
+    <li>Topik Pidato-> Viskositas dalam bola mata</li>
+    <li>Pidato-> visi yang berkembang</li>
+    <li>Pidato-> tumbuh menjadi buta [initiator_o_a]</li>
+    <li>Pidato-> jelajahi tanpa melihat atau bergerak</li>
+    <li>Pidato-> Lapisan Realitas Di Bawah Visual</li>
+    <li>Pidato-> Koneksi Psikis</li>
+  </Speech_Blinding.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: conversion speech -->
+  <Speech_Conversion.label>Pidato konversi</Speech_Conversion.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>pidato-> bersatu untuk kebaikan yang lebih besar</li>
+    <li>Pidato-> Kemurtadan</li>
+    <li>pidato-> Memilih keyakinan yang benar</li>
+    <li>pidato-> struktur moral alam semesta</li>
+    <li>pidato-> benar dan salah</li>
+    <li>pidato-> tujuan hidup</li>
+    <li>pidato-> makna hidup</li>
+    <li>Pidato-> Sejarah umat manusia</li>
+    <li>pidato-> masa depan umat manusia</li>
+    <li>pidato-> cinta dan benci</li>
+    <li>Pidato-> Ketakutan dan Keselamatan</li>
+    <li>pidato-> kebenaran kepemilikan</li>
+    <li>pidato-> bergabung dan memiliki</li>
+    <li>pidato-> keyakinan palsu lainnya</li>
+    <li>pidato-> kemajuan menuju masa depan</li>-><Speech_Conversion.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> persatuan untuk kebaikan yang lebih besar</li>
+    <li>Pidato-> kejahatan jahat</li>
+    <li>Pidato-> pilih keyakinan yang benar</li>
+    <li>Pidato-> struktur moral alam semesta</li>
+    <li>Pidato-> baik dan jahat</li>
+    <li>Pidato-> tujuan hidup</li>
+    <li>Pidato-> makna hidup</li>
+    <li>Pidato-> Sejarah Kemanusiaan</li>
+    <li>Pidato-> masa depan kemanusiaan</li>
+    <li>Pidato-> cinta dan benci</li>
+    <li>Pidato-> ketakutan dan keamanan</li>
+    <li>Pidato-> hak relevansi</li>
+    <li>Pidato-> persatuan dan relevansi</li>
+    <li>Pidato-> Keyakinan palsu lainnya</li>
+    <li>Pidato-> kemajuan menuju masa depan</li>
+  </Speech_Conversion.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: celebration speech -->
+  <Speech_DateRitual.label>Pidato Perayaan</Speech_DateRitual.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [dipuji] [praisetopik].</li>
+    <li>Praisetopik-> Festivitas Ideologi Joy</li>
+    <li>Praisetopic-> Pikiran Sejati</li>
+    <li>Praisetopik-> Struktur Moral Semesta</li>
+    <li>Praisetopic-> [initiator_possessive] keyakin</li>
+    <li>praisetopic-> kebersamaan</li>
+    <li>praisetopik-> bersama</li>
+    <li>Praisetopic-> berbagi ide</li>
+    <li>Praisetopic-> [initiator_possessive] grup sendiri</li>-><Speech_DateRitual.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [dipuji] [praisetopik].</li>
+    <li>Praisetopik-> Festivitas Ideologi Joy</li>
+    <li>Praisetopic-> Pikiran Sejati</li>
+    <li>Praisetopik-> Struktur Moral Semesta</li>
+    <li>Praisetopik-> Keyakinan Anda</li>
+    <li>Praisetopik-> The Union</li>
+    <li>Praisetopik-> bersama</li>
+    <li>Pityopic-> berbagi ide</li>
+    <li>Praisetopic-> grup Anda sendiri</li>
+  </Speech_DateRitual.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: duel speech -->
+  <Speech_Duel.label>Duel Pidida</Speech_Duel.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [dipuji] [praisetopik].</li>
+    <li>Praisetopic-> Death by Blade</li>
+    <li>PRAISETOPIC-> Kematian yang menyakitkan</li>
+    <li>Praisetopik-> Kematian yang Terhormat</li>
+    <li>Praisetopic-> Tempur terhormat</li>
+    <li>Praisetopik-> grit dan perjuangan</li>
+    <li>Praisetopic-> [Adjectivebadass] Senjata dan Pejuang</li>
+    <li>praisetopik-> kemurnian konflik fisik</li>
+    <li>Praisetopik-> Cinta Melalui Kematian</li>
+    <li>praisetopik-> mengeluarkan kebencian untuk kesehatan</li>
+    <li>Praisetopik-> Kekuatan atas orang lain</li>
+    <li>praisetopik-> konflik yang melekat di alam semesta</li>
+    <li>Praisetopik-> Darah dan Debu</li>
+    <li>Praisetopic-> Life and Drama</li>
+    <li>Praisetopic-> kemarahan dan harapan</li>
+    <li>Praisetopic-> Rage dan Kekuatan</li>-><Speech_Duel.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [dipuji] [praisetopik].</li>
+    <li>Praisetopik-> die stoat</li>
+    <li>PRAISETOPIC-> Kematian yang menyakitkan</li>
+    <li>Praisetopic-> kematian yang terhormat</li>
+    <li>Pityopic-> pertempuran terhormat</li>
+    <li>Praisetopik-> Nilai dan Usaha</li>
+    <li>Praisetopic-> Weapons and Fighters [Adjectivebadas_plural]</li>
+    <li>Praisetopik-> kemurnian konflik fisik</li>
+    <li>Praisetopik-> Cinta Melalui Kematian</li>
+    <li>Praisetopic-> Expel Hate Melalui Kesehatan</li>
+    <li>praisetopik-> kekuatan atas orang lain</li>
+    <li>Puji topik-> Konflik yang melekat pada alam semesta</li>
+    <li>Praisetopik-> Debu dan Darah</li>
+    <li>Praisetopic-> Life and Drama</li>
+    <li>Praisetopic-> kemarahan dan harapan</li>
+    <li>praisetopik-> kemarahan dan kekuatan</li>
+  </Speech_Duel.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: exceution speech -->
+  <Speech_Execution.label>Pidato eksekusi</Speech_Execution.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>pidato-> hidup dan mati</li>
+    <li>pidato-> Perlunya keadilan</li>
+    <li>pidato-> metode eksekusi</li>
+    <li>pidato-> kematian dan kekejaman</li>
+    <li>pidato-> pembunuhan yang penuh belas kasihan</li>
+    <li>pidato-> rahmat pembunuhan yang benar</li>
+    <li>pidato-> simbolisme kematian</li>
+    <li>pidato-> hukuman mati dan sejarahnya</li>
+    <li>pidato-> alasan eksekusi</li>-><Speech_Execution.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> hidup dan mati</li>
+    <li>Pidato-> kebutuhan akan keadilan</li>
+    <li>Metode Eksekusi Pidato-> Eksekusi</li>
+    <li>Pidato-> kematian dan kekejaman</li>
+    <li>Pidato-> pembunuhan saleh</li>
+    <li>Pidato-> simbolisme kematian</li>
+    <li>Pidato-> hukuman mati dan sejarahnya</li>
+    <li>Pidato-> alasan eksekusi</li>
+  </Speech_Execution.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: funeral speech -->
+  <Speech_Funeral.label>Pidato pemakaman</Speech_Funeral.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>pidato-> bangsawan pengorbanan</li>
+    <li>pidato-> kematian</li>
+    <li>pidato-> hidup setelah kematian</li>
+    <li>pidato-> kematian dan keluarga</li>
+    <li>pidato-> konsep kehidupan yang baik</li>
+    <li>pidato-> kematian sebagai jalan menuju martabat</li>
+    <li>pidato-> awal dan akhir</li>
+    <li>pidato-> apa yang terjadi setelah kematian</li>
+    <li>pidato-> merayakan langkah selanjutnya</li>
+    <li>pidato-> teman yang absen</li>
+    <li>Pidato-> Kehidupan dan Sukacita</li>
+    <li>pidato-> meneruskan pekerjaan yang belum selesai</li>-><Speech_Funeral.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> bangsawan pengorbanan</li>
+    <li>Pidato-> kematian</li>
+    <li>Pidato-> hidup setelah kematian</li>
+    <li>Pidato-> kematian dan keluarga</li>
+    <li>Pidato-> konsep kehidupan yang baik</li>
+    <li>Pidato-> kematian sebagai jalan menuju martabat</li>
+    <li>Pidato-> prinsip dan final</li>
+    <li>Pidato-> apa yang terjadi setelah kematian</li>
+    <li>Pidato-> rayakan langkah selanjutnya</li>
+    <li>Pidato-> teman yang absen</li>
+    <li>Pidato-> hidup dan sukacita</li>
+    <li>Pidato-> melaksanakan pekerjaan yang belum selesai</li>
+  </Speech_Funeral.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: leader speech -->
+  <Speech_Leader.label>Pidato pemimpin</Speech_Leader.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Topik Pidato-> Mencari [Sayuran</li>
+    <li>pidato-> bagaimana menjadi [kata sifat ramah]</li>
+    <li>pidato-> menghindari [animalbadass] s</li>
+    <li>Pidato-> Bagaimana Hidup Seperti [Game]</li>
+    <li>pidato-> pikiran sebagai [senjata]</li>
+    <li>Pidato-> Menjelajahi melalui [terrainfeature] s dan [terrainfeature] s</li>
+    <li>pidato-> menjanjikan ke [arah]</li>
+    <li>Topik Pidato-> Bagaimana Menjadi Lebih Seperti [Hewan</li>
+    <li>pidato-> simbolisme [naturalObject] dan [naturalObject]</li>
+    <li>pidato-> bagaimana semua [keluarga] s dan [keluarga] s</li>
+    <li>pidato-> bagaimana menjadi yang baik [secara pribadi]</li>
+    <li>pidato-> kebutuhan untuk [personjob] s</li>
+    <li>pidato-> menghindari [personbadass] s</li>
+    <li>pidato-> mengalahkan [musuh] melalui [ConceptPositive]</li>
+    <li>pidato-> melihat [gore] selama pertempuran</li>
+    <li>pidato-> Sejarah [mekanoid]</li>
+    <li>pidato-> makna [konsep positif]</li>
+    <li>pidato-> [konsep positif] dari koloni</li>
+    <li>Topik Bicara-> Bagaimana menjadi [kata sifat badass] tanpa [kata sifat badass]</li>
+    <li>pidato-> bagaimana [adjectivebadass] koloni itu</li>
+    <li>pidato-> [kata sifat] [terrainfeature] s</li>
+    <li>Pogingtophy-> menempatkan koloni judittatellargesh</li>
+    <li>Topik Pidato-> [Karakteristik Pribadi] dari setiap penjajah</li>
+    <li>pidato-> [pribadi] yang mengerikan dari musuh-musuh koloni</li>
+    <li>Bicara (p = 0,25)-> menempel bersama sebagai kelompok</li>
+    <li>Pidato (p = 0,25)-> jalan ke depan melalui tragedi</li>
+    <li>Pidato (p = 0,25)-> Komunitas dan pentingnya</li>
+    <li>Speechtopic (P = 0,25)-> Kelangsungan Hidup versus Mewah</li>
+    <li>Bicara (p = 0,25)-> Kebahagiaan melalui kesulitan</li>
+    <li>Bicara (p = 0,25)-> kepuasan melalui penderitaan</li>
+    <li>Bicara (p = 0,25)-> kematian sebagai motivator</li>
+    <li>Bicara (P = 0,25)-> Tangan dan Hati yang Kuat</li>
+    <li>Bicara (p = 0,25)-> hak untuk bertahan hidup</li>-><Speech_Leader.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>pidato-> buscar [sayuran] s</li>
+    <li>Pidato-> bagaimana menjadi [kata sifat ramah]</li>
+    <li>Pidato-> hindari [animalbadass] s</li>
+    <li>Pidato-> hidup lebih seperti dalam permainan [gameany]</li>
+    <li>Pidato-> Pikiran sebagai [WeaponIndef]</li>
+    <li>Pidato-> Jelajahi melalui [terrainfeature_plany] dan [terrainfeature_plany]</li>
+    <li>Pidato-> berjanji untuk pergi ke arah [arah]</li>
+    <li>Pidato-> lebih bagaimana [animaypl]</li>
+    <li>Pidato-> Simbolisme [NaturalObject] dan [NaturalObject]</li>
+    <li>Pidato-> bagaimana semua [personfamilyy] s dan [personfamilyany] s</li>
+    <li>Pidato-> bagaimana menjadi yang baik [secara pribadi]</li>
+    <li>Pidato-> kebutuhan untuk [job_plural]</li>
+    <li>Pidato-> hindari [personbadass] s</li>
+    <li>Pidato-> kalah [musuh] melalui [konsep positif]</li>
+    <li>Pidato-> lihat [gore_plural] selama pertempuran</li>
+    <li>Pidato-> Sejarah [mechanoidanypl]</li>
+    <li>Pidato-> makna [konsep positif]</li>
+    <li>Pidato-> [konsepsi] koloni</li>
+    <li>Pidato-> cuff adalah [AdjectiveBadass] dosa [AdjectiveBadass]</li>
+    <li>Pidato-> bagaimana [adjectivubadss_fem] koloni</li>
+    <li>Tanya-> Bagaimana [AdjectiveuralFem] S putra las [terrainfeature_fem] s</li>
+    <li>Pidato-> potensi [kata sifat] dari koloni</li>
+    <li>Pidato-> [personcharacteristicdef] dari masing-masing pemukim</li>
+    <li>Pidato-> The Dibah [Personalcharacteristic_fem] dari musuh-musuh koloni</li>
+    <li>Pidato (p = 0,25)-> fakta tetap bersama sebagai kelompok</li>
+    <li>Bicara (p = 0,25)-> Cara untuk mengikuti tragedi</li>
+    <li>Pidato (p = 0,25)-> Komunitas dan pentingnya</li>
+    <li>Pidato (p = 0,25)-> Kelangsungan hidup melawan kemewahan</li>
+    <li>Pidato (p = 0,25)-> kebahagiaan melalui kesulitan</li>
+    <li>Bicara (p = 0,25)-> kepuasan melalui penderitaan</li>
+    <li>Bicara (p = 0,25)-> kematian sebagai motivasi</li>
+    <li>Bicara (P = 0,25)-> Tangan dan Hati yang Kuat</li>
+    <li>Bicara (p = 0,25)-> hak untuk bertahan hidup</li>
+  </Speech_Leader.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: role removal speech -->
+  <Speech_RemoveRole.label>Pidato penarikan Rolle</Speech_RemoveRole.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> [initiator_possessive] Peran masa lalu dalam komunitas</li>
+    <li>Pidato-> Tanggung jawab peran lama [initiator_possessive]</li>
+    <li>Pidato-Pidato-> Kesulitan Peran Lama [Initiator_Possessive]</li>
+    <li>pidato-> [initiator_possessive] kekurangan</li>
+    <li>pidato-> [initiator_possessive] kelemahan dan cara mengatasinya</li>
+    <li>Speechtopic-> [initiator_possessive] frustrasi dengan komunitas</li>
+    <li>Pidato-> [initiator_possessive] Dedikasi untuk keyakinan [initiator_possessives]</li>
+    <li>Pidato-> [initiator_possessive] Keyakinan tentang masa depan</li>
+    <li>Topik Pidato-> [Inisiator Possessive] ingin mengejar tujuan sendiri [inisiator posesif]</li>
+    <li>Pidato-> [initiator_possessive] Kurangnya [PribadiCaracteristic]</li>
+    <li>pidato-> [initiator_possessive] masa lalu</li>
+    <li>pidato-> menunjukkan kerendahan hati</li>
+    <li>TUJUAN LIGHATTOPIC-> HIDUP</li>
+    <li>pidato-> masa depan koloni</li>
+    <li>pidato-> meningkatkan koloni</li>
+    <li>pidato-> struktur sosial komunitas</li>
+    <li>pidato-> kandidat yang lebih baik</li>
+    <li>Pidato-> Menempatkan tujuan komunitas di atas [initiator_possessives] ambisi pribadi</li>-><Speech_RemoveRole.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> peran Anda sebelumnya di komunitas</li>
+    <li>Pidato-> tanggung jawab peran Anda sebelumnya</li>
+    <li>Pidato-> Kesulitan peran lama Anda</li>
+    <li>Pidato-> Kekurangan Anda</li>
+    <li>Pidato-> titik lemahnya dan bagaimana mengatasinya</li>
+    <li>Pidato-> frustrasi Anda dengan komunitas</li>
+    <li>Pidato-> dedikasi Anda untuk keyakinan Anda</li>
+    <li>Pidato-> Keyakinan Anda tentang Masa Depan</li>
+    <li>Pidato-> keinginan Anda untuk mengejar tujuan Anda sendiri</li>
+    <li>Topik Pidato-> Kurangnya [Karakteristik Pribadi] Anda</li>
+    <li>Pidato-> masa lalu Anda</li>
+    <li>Pidato-> menunjukkan kerendahan hati</li>
+    <li>Pidato-> tujuan hidup</li>
+    <li>Pidato-> masa depan koloni</li>
+    <li>Pidato-> meningkatkan koloni</li>
+    <li>Pidato-> struktur sosial komunitas</li>
+    <li>Pidato-> kandidat terbaik</li>
+    <li>Pidato-> Tempatkan tujuan komunitas di atas ambisi pribadi mereka</li>
+  </Speech_RemoveRole.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: sacrifice speech -->
+  <Speech_Sacrifice.label>Pidato pengorbanan</Speech_Sacrifice.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_namedef] [Crazy].</li>
+    <li>pidato-> makna dan nilai kematian yang sebenarnya</li>
+    <li>pidato-> ekspresi rasa sakit</li>
+    <li>pidato-> kekejaman terkendali</li>
+    <li>pidato-> kehangatan darah</li>
+    <li>pidato-> makna kematian</li>
+    <li>pidato-> cinta dan kematian</li>
+    <li>pidato-> melambangkan rasa sakit</li>
+    <li>pidato-> bilah dan daging</li>
+    <li>pidato-> seni pemotongan</li>
+    <li>Bicara-> rayuan darah</li>
+    <li>pidato-> musik teriakan</li>
+    <li>pidato-> nyali di lantai</li>
+    <li>Crazy-> berteriak gila-gilaan</li>
+    <li>Crazy-> menerobos nyanyian</li>
+    <li>gila-> dinyanyikan ke langit</li>
+    <li>Crazy-> Spat di mata pengorbanan</li>
+    <li>Crazy-> terkekeh</li>
+    <li>Crazy-> mengacungkan pisau</li>
+    <li>Crazy-> bergumam berulang-ulang</li>-><Speech_Sacrifice.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_namedef] [Crazy].</li>
+    <li>Pidato-> makna dan nilai kematian yang sebenarnya</li>
+    <li>Pidato-> ekspresi nyeri</li>
+    <li>Pidato-> kekejaman terkendali</li>
+    <li>Pidato-> panasnya darah</li>
+    <li>Pidato-> makna kematian</li>
+    <li>Pidato-> cinta dan kematian</li>
+    <li>Pidato-> melambangkan rasa sakit</li>
+    <li>Pidato-> hitam dan daging</li>
+    <li>Pidato-> seni pemotongan</li>
+    <li>Pidato-> rayuan darah</li>
+    <li>Pidato-> musik teriakan</li>
+    <li>Pidato-> nyali di tanah</li>
+    <li>Crazy-> berteriak secara manual</li>
+    <li>Gila-> menerobos lagu</li>
+    <li>Crazy-> Sang to Heaven</li>
+    <li>Gila-> meludah di mata pengorbanan</li>
+    <li>Crazy-> Cacareó</li>
+    <li>Crazy-> Wind a Blade</li>
+    <li>Gila-> dia berulang kali bergumam</li>
+  </Speech_Sacrifice.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: scarification speech -->
+  <Speech_Scarification.label>Pidato Scarifikasi</Speech_Scarification.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_namedef] [Crazy].</li>
+    <li>Pidato-> merekam rasa sakit pada tubuh</li>
+    <li>pidato-> ekspresi rasa sakit</li>
+    <li>pidato-> kekejaman terkendali</li>
+    <li>pidato-> kehangatan darah</li>
+    <li>pidato-> makna bekas luka</li>
+    <li>pidato-> cinta dan rasa sakit</li>
+    <li>pidato-> melambangkan rasa sakit</li>
+    <li>pidato-> bilah dan daging</li>
+    <li>pidato-> seni pemotongan</li>
+    <li>Bicara-> rayuan darah</li>
+    <li>pidato-> musik teriakan</li>
+    <li>Crazy-> berteriak gila-gilaan</li>
+    <li>Crazy-> menerobos nyanyian</li>
+    <li>gila-> dinyanyikan ke langit</li>
+    <li>Crazy-> terkekeh</li>
+    <li>Crazy-> mengacungkan pisau</li>
+    <li>Crazy-> bergumam berulang-ulang</li>-><Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_namedef] [Crazy].</li>
+    <li>Pidato-> rekam rasa sakit di dalam tubuh</li>
+    <li>Pidato-> ekspresi nyeri</li>
+    <li>Pidato-> kekejaman terkendali</li>
+    <li>Pidato-> panasnya darah</li>
+    <li>Pidato-> makna kematian</li>
+    <li>Pidato-> cinta dan kematian</li>
+    <li>Pidato-> melambangkan rasa sakit</li>
+    <li>Pidato-> hitam dan daging</li>
+    <li>Pidato-> seni pemotongan</li>
+    <li>Pidato-> rayuan darah</li>
+    <li>Pidato-> musik teriakan</li>
+    <li>Crazy-> berteriak secara manual</li>
+    <li>Gila-> menerobos lagu</li>
+    <li>Crazy-> Sang to Heaven</li>
+    <li>Crazy-> Cacareó</li>
+    <li>Crazy-> Wind a Blade</li>
+    <li>Gila-> dia berulang kali bergumam</li>
+  </Speech_Scarification.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: tree connection speech -->
+  <Speech_TreeConnection.label>Waktu koneksi pohon</Speech_TreeConnection.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>pidato-> pohon dan orang-orang</li>
+    <li>Pidato-> Pohon dan Kekuatan Psikis</li>
+    <li>pidato-> dryad</li>
+    <li>Siklus Hidup Pidato-> Gauranlen</li>
+    <li>pidato-> Kehadiran spiritual pohon Gauranlen</li>
+    <li>pidato-> psikis dendro-pathy</li>
+    <li>pidato-> betapa lucunya dryad</li>
+    <li>pidato-> bangsawan Dryads</li>
+    <li>pidato-> usia pohon</li>
+    <li>Pidato Topik-> Peran Kemanusiaan Di Bawah Pohon</li>
+    <li>pidato-> kehidupan tanaman dan keabadian</li>
+    <li>pidato-> menghubungkan dengan alam</li>-><Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [spokeof] [pidato].</li>
+    <li>Pidato-> pohon dan orang</li>
+    <li>Pidato-> pohon dan kekuatan psikis</li>
+    <li>Pidato-> yang kering</li>
+    <li>Siklus Hidup Pidato-> Gauranlen</li>
+    <li>Pidato-> Kehadiran spiritual pohon Gauranlen</li>
+    <li>Pidato-> dendropati psikis</li>
+    <li>Pidato-> betapa indahnya kering</li>
+    <li>Pidato-> bangsawan dríadas</li>
+    <li>Pidato-> zaman pohon</li>
+    <li>Pidato-> Peran Kemanusiaan Di Bawah Pohon</li>
+    <li>Pidato-> kehidupan tanaman dan keabadian</li>
+    <li>Pidato-> Koneksi dengan alam</li>
+  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

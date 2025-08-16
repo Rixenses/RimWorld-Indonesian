@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>H</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>J</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>M</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>D</LetterSecond>
+  <!-- EN: y -->
+  <LetterYear>T</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>PAGI</AM>
+  <!-- EN: PM -->
+  <PM>PM</PM>
+
+  <!-- EN: days -->
+  <DaysLower>hari</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>selai</HoursLower>
+  <!-- EN: seconds -->
+  <SecondsLower>detik</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>primavera</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>musim panas</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>musim gugur</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>musim dingin</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>musim panas permanen</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>musim dingin permanen</SeasonPermanentWinter>
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Aprimei</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Jugus</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Septober</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Dibari</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Jun</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Dari</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
+  <Born>kelahiran: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Usia Kronologis: {0} tahun; {1} kuadrum, {2} hari</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Usia Biologis: {0} tahun; {1} kuadrum, {2} hari</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 tahun</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} tahun</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 kuadrum</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} kuadrum</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 hari</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} hari</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 Jam</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} Jam</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 detik</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} detik</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>dimulai</Started>
+  <!-- EN: Lasted -->
+  <Lasted>berlangsung</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>terjadi {0} yang Lalu</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>terjadi {0}</TimeAgo>
+  
+</LanguageData>

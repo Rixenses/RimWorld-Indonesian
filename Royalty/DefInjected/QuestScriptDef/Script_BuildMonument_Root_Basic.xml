@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Commonending-> Monumen adalah [monumen] dalam ukuran dan akan membutuhkan sumber daya ini (nilai total [monumentRequiredResourcesmarketValue_money]): \ n \ n [monumentRequiredResources] \ n \ nconstruction harus diselesaikan dalam [konstruksi neutticks_duration] dari menerima tugas tersebut.Anda akan menerima hadiah saat Anda menyelesaikan konstruksi. [Dontdestroymonument]</li>
+    <li>dontdestroymonument (prioritas = -10)-></li>
+    <li>dontdestroymonument-> \ n \ nif monumen ini dihancurkan di dalam [KeepMonumentticks_duration] hari-hari konstruksi, hubungan Anda dengan [asker_factionname] akan jatuh oleh [goodwillchangeifmonumentdestroyed].</li>-><BuildMonument_Basic.questDescriptionRules.rulesStrings>
+    <li>CommonEnging-> Monumen memiliki ukuran [monumental] dan akan membutuhkan elemen-elemen berikut: (nilai total [MonumentreredResorcerCarketValue_Money]): \ n \ n [Monumentre SurgequiredResources] \ n \ nla Konstruksi harus diselesaikan dalam [konstruktitimoutTicks_duration] setelah menerima tugas.Anda akan menerima imbalan ketika Anda telah menyelesaikan konstruksi. [Dontdestroymonument]</li>
+    <li>dontdestroymonument (prioritas = -10)-></li>
+    <li>Dontdestroymonument-> \ n \ nsi Monumen dihancurkan di dalam [KeepMonumentticks_duration] setelah menyelesaikan konstruksinya, hubungan Anda dengan faksi [asker_factionname] akan jatuh ke [GoodwillChangeifmonumentdestroyed].</li>
+  </BuildMonument_Basic.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

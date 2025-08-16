@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: release prisoners -->
+  <BasicReleasePrisoner.label>melepaskan tahanan</BasicReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <BasicReleasePrisoner.gerund>melepaskan</BasicReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <BasicReleasePrisoner.verb>melepaskan</BasicReleasePrisoner.verb>
+  
+  <!-- EN: build roofs -->
+  <BuildRoofs.label>Membangun atap</BuildRoofs.label>
+  <!-- EN: building roof -->
+  <BuildRoofs.gerund>Membangun atap</BuildRoofs.gerund>
+  <!-- EN: build roof -->
+  <BuildRoofs.verb>Membangun atap</BuildRoofs.verb>
+  
+  <!-- EN: chat with prisoners -->
+  <ChatWithPrisoner.label>mengobrol dengan tahanan</ChatWithPrisoner.label>
+  <!-- EN: chatting with -->
+  <ChatWithPrisoner.gerund>mengobrol dengan</ChatWithPrisoner.gerund>
+  <!-- EN: chat with -->
+  <ChatWithPrisoner.verb>mengobrol dengan</ChatWithPrisoner.verb>
+  
+  <!-- EN: clear snow -->
+  <CleanClearSnow.label>Hapus salju</CleanClearSnow.label>
+  <!-- EN: clearing snow -->
+  <CleanClearSnow.gerund>Hapus salju</CleanClearSnow.gerund>
+  <!-- EN: clear snow -->
+  <CleanClearSnow.verb>Hapus salju</CleanClearSnow.verb>
+  
+  <!-- EN: clean filth -->
+  <CleanFilth.label>Kotoran Bersih</CleanFilth.label>
+  <!-- EN: cleaning -->
+  <CleanFilth.gerund>membersihkan</CleanFilth.gerund>
+  <!-- EN: clean -->
+  <CleanFilth.verb>membersihkan</CleanFilth.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <ConstructDeliverResourcesToBlueprints.label>Sumber daya transportasi ke pendahuluan</ConstructDeliverResourcesToBlueprints.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToBlueprints.gerund>mengangkut</ConstructDeliverResourcesToBlueprints.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToBlueprints.verb>mengangkut</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <ConstructDeliverResourcesToFrames.label>Sumber daya transportasi untuk membangun struktur</ConstructDeliverResourcesToFrames.label>
+  <!-- EN: working on -->
+  <ConstructDeliverResourcesToFrames.gerund>mengangkut</ConstructDeliverResourcesToFrames.gerund>
+  <!-- EN: work on -->
+  <ConstructDeliverResourcesToFrames.verb>mengangkut</ConstructDeliverResourcesToFrames.verb>
+  
+  <!-- EN: construct placed frames -->
+  <ConstructFinishFrames.label>membangun</ConstructFinishFrames.label>
+  <!-- EN: constructing -->
+  <ConstructFinishFrames.gerund>membangun</ConstructFinishFrames.gerund>
+  <!-- EN: construct -->
+  <ConstructFinishFrames.verb>membangun</ConstructFinishFrames.verb>
+  
+  <!-- EN: remove floors -->
+  <ConstructRemoveFloors.label>Hapus tanah</ConstructRemoveFloors.label>
+  <!-- EN: removing floor -->
+  <ConstructRemoveFloors.gerund>Hapus tanah</ConstructRemoveFloors.gerund>
+  <!-- EN: remove floor -->
+  <ConstructRemoveFloors.verb>Hapus tanah</ConstructRemoveFloors.verb>
+  
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.label>Hapus fondasi</ConstructRemoveFoundations.label>
+  <!-- EN: removing foundation -->
+  <ConstructRemoveFoundations.gerund>Hapus fondasi</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.verb>Hapus fondasi</ConstructRemoveFoundations.verb>
+  
+  <!-- EN: smooth floors -->
+  <ConstructSmoothFloors.label>Tanah kecil</ConstructSmoothFloors.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothFloors.gerund>mulus</ConstructSmoothFloors.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothFloors.verb>mulus</ConstructSmoothFloors.verb>
+  
+  <!-- EN: smooth walls -->
+  <ConstructSmoothWalls.label>Dinding Alisar</ConstructSmoothWalls.label>
+  <!-- EN: smoothing -->
+  <ConstructSmoothWalls.gerund>mulus</ConstructSmoothWalls.gerund>
+  <!-- EN: smooth -->
+  <ConstructSmoothWalls.verb>mulus</ConstructSmoothWalls.verb>
+  
+  <!-- EN: fill food hoppers -->
+  <CookFillHopper.label>Isi hopper</CookFillHopper.label>
+  <!-- EN: filling -->
+  <CookFillHopper.gerund>mengisi</CookFillHopper.gerund>
+  <!-- EN: fill -->
+  <CookFillHopper.verb>mengisi</CookFillHopper.verb>
+  
+  <!-- EN: deconstruct structures -->
+  <Deconstruct.label>Bongkar struktur</Deconstruct.label>
+  <!-- EN: deconstructing -->
+  <Deconstruct.gerund>dekonstruksi</Deconstruct.gerund>
+  <!-- EN: deconstruct -->
+  <Deconstruct.verb>dekonstruksi</Deconstruct.verb>
+  
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>Struktur rancangan yang dibongkar</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>melucuti senjata</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>melucuti senjata</DeconstructForBlueprint.verb>
+  
+  <!-- EN: deliver food to prisoners -->
+  <DeliverFoodToPrisoner.label>mengambil makanan ke tahanan</DeliverFoodToPrisoner.label>
+  <!-- EN: delivering food for -->
+  <DeliverFoodToPrisoner.gerund>Mengambil makanan untuk</DeliverFoodToPrisoner.gerund>
+  <!-- EN: deliver food for -->
+  <DeliverFoodToPrisoner.verb>Mengambil makanan untuk</DeliverFoodToPrisoner.verb>
+  
+  <!-- EN: deliver resources to blueprints -->
+  <DeliverResourcesToBlueprints.label>Membawa sumber daya ke pendahuluan</DeliverResourcesToBlueprints.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToBlueprints.gerund>membawa</DeliverResourcesToBlueprints.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToBlueprints.verb>ambillah</DeliverResourcesToBlueprints.verb>
+  
+  <!-- EN: deliver resources to frames -->
+  <DeliverResourcesToFrames.label>membawa sumber daya ke struktur</DeliverResourcesToFrames.label>
+  <!-- EN: delivering to -->
+  <DeliverResourcesToFrames.gerund>ambillah</DeliverResourcesToFrames.gerund>
+  <!-- EN: deliver to -->
+  <DeliverResourcesToFrames.verb>ambillah</DeliverResourcesToFrames.verb>
+  
+  <!-- EN: brew liquors -->
+  <DoBillsBrew.label>Fermentasi bir</DoBillsBrew.label>
+  <!-- EN: brewing at -->
+  <DoBillsBrew.gerund>fermentasi di</DoBillsBrew.gerund>
+  <!-- EN: brew at -->
+  <DoBillsBrew.verb>fermentasi di</DoBillsBrew.verb>
+  
+  <!-- EN: butcher creatures -->
+  <DoBillsButcherFlesh.label>Makhluk bersih</DoBillsButcherFlesh.label>
+  <!-- EN: butchering at -->
+  <DoBillsButcherFlesh.gerund>Mengedipkan mata</DoBillsButcherFlesh.gerund>
+  <!-- EN: butcher at -->
+  <DoBillsButcherFlesh.verb>Mengedipkan mata</DoBillsButcherFlesh.verb>
+  
+  <!-- EN: cook meals at stove -->
+  <DoBillsCook.label>memasak di dapur</DoBillsCook.label>
+  <!-- EN: cooking at -->
+  <DoBillsCook.gerund>masak</DoBillsCook.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCook.verb>masak</DoBillsCook.verb>
+  
+  <!-- EN: cook meals at campfire -->
+  <DoBillsCookCampfire.label>api unggun</DoBillsCookCampfire.label>
+  <!-- EN: cooking at -->
+  <DoBillsCookCampfire.gerund>masak</DoBillsCookCampfire.gerund>
+  <!-- EN: cook at -->
+  <DoBillsCookCampfire.verb>masak</DoBillsCookCampfire.verb>
+  
+  <!-- EN: do cremation bills -->
+  <DoBillsCremate.label>Tubuh Crear</DoBillsCremate.label>
+  <!-- EN: cremating at -->
+  <DoBillsCremate.gerund>terbakar</DoBillsCremate.gerund>
+  <!-- EN: cremate at -->
+  <DoBillsCremate.verb>terbakar</DoBillsCremate.verb>
+  
+  <!-- EN: fabricate things -->
+  <DoBillsFabricationBench.label>Memproduksi sesuatu</DoBillsFabricationBench.label>
+  <!-- EN: fabricating things at -->
+  <DoBillsFabricationBench.gerund>Memproduksi hal -hal di</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricate things at -->
+  <DoBillsFabricationBench.verb>pembuatan di</DoBillsFabricationBench.verb>
+  
+  <!-- EN: do bills at campfire -->
+  <DoBillsHaulCampfire.label>Buat tugas di api unggun</DoBillsHaulCampfire.label>
+  <!-- EN: working at -->
+  <DoBillsHaulCampfire.gerund>bekerja di</DoBillsHaulCampfire.gerund>
+  <!-- EN: work at -->
+  <DoBillsHaulCampfire.verb>bekerja di</DoBillsHaulCampfire.verb>
+  
+  <!-- EN: make things at machining table -->
+  <DoBillsMachiningTable.label>Operasi Pemesinan</DoBillsMachiningTable.label>
+  <!-- EN: working at -->
+  <DoBillsMachiningTable.gerund>bekerja di</DoBillsMachiningTable.gerund>
+  <!-- EN: work at -->
+  <DoBillsMachiningTable.verb>bekerja di</DoBillsMachiningTable.verb>
+  
+  <!-- EN: make apparel -->
+  <DoBillsMakeApparel.label>Membuat pakaian</DoBillsMakeApparel.label>
+  <!-- EN: tailoring at -->
+  <DoBillsMakeApparel.gerund>buat di</DoBillsMakeApparel.gerund>
+  <!-- EN: tailor at -->
+  <DoBillsMakeApparel.verb>buat di</DoBillsMakeApparel.verb>
+  
+  <!-- EN: make weapons -->
+  <DoBillsMakeWeapons.label>Pembuatan senjata</DoBillsMakeWeapons.label>
+  <!-- EN: smithing at -->
+  <DoBillsMakeWeapons.gerund>Forge</DoBillsMakeWeapons.gerund>
+  <!-- EN: smith at -->
+  <DoBillsMakeWeapons.verb>Forge</DoBillsMakeWeapons.verb>
+  
+  <!-- EN: operate on animals -->
+  <DoBillsMedicalAnimalOperation.label>Mengoperasikan hewan</DoBillsMedicalAnimalOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalAnimalOperation.gerund>beroperasi</DoBillsMedicalAnimalOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalAnimalOperation.verb>beroperasi</DoBillsMedicalAnimalOperation.verb>
+  
+  <!-- EN: operate on humanlikes -->
+  <DoBillsMedicalHumanOperation.label>Mengoperasikan humanoids</DoBillsMedicalHumanOperation.label>
+  <!-- EN: operating on -->
+  <DoBillsMedicalHumanOperation.gerund>beroperasi</DoBillsMedicalHumanOperation.gerund>
+  <!-- EN: operate on -->
+  <DoBillsMedicalHumanOperation.verb>beroperasi</DoBillsMedicalHumanOperation.verb>
+  
+  <!-- EN: synthesize drugs -->
+  <DoBillsProduceDrugs.label>mensintesis obat</DoBillsProduceDrugs.label>
+  <!-- EN: producing drugs at -->
+  <DoBillsProduceDrugs.gerund>Mensintesis obat di</DoBillsProduceDrugs.gerund>
+  <!-- EN: produce drugs at -->
+  <DoBillsProduceDrugs.verb>mempersatukan</DoBillsProduceDrugs.verb>
+  
+  <!-- EN: work at refinery -->
+  <DoBillsRefinery.label>kilang minyak</DoBillsRefinery.label>
+  <!-- EN: refining chemicals at -->
+  <DoBillsRefinery.gerund>Perbaiki bahan kimia di</DoBillsRefinery.gerund>
+  <!-- EN: refine chemicals at -->
+  <DoBillsRefinery.verb>Perbaiki bahan kimia di</DoBillsRefinery.verb>
+  
+  <!-- EN: make things at art bench -->
+  <DoBillsSculpt.label>Buat seni di meja pematung</DoBillsSculpt.label>
+  <!-- EN: sculpting at -->
+  <DoBillsSculpt.gerund>memahat</DoBillsSculpt.gerund>
+  <!-- EN: sculpt at -->
+  <DoBillsSculpt.verb>memahat</DoBillsSculpt.verb>
+  
+  <!-- EN: smelt items -->
+  <DoBillsSmelter.label>menggabungkan</DoBillsSmelter.label>
+  <!-- EN: refining at -->
+  <DoBillsSmelter.gerund>meleleh ke</DoBillsSmelter.gerund>
+  <!-- EN: refine at -->
+  <DoBillsSmelter.verb>meleleh ke</DoBillsSmelter.verb>
+  
+  <!-- EN: make stone blocks -->
+  <DoBillsStonecut.label>membuat balok batu</DoBillsStonecut.label>
+  <!-- EN: cutting stone blocks at -->
+  <DoBillsStonecut.gerund>memotong balok batu menjadi</DoBillsStonecut.gerund>
+  <!-- EN: cut stone blocks at -->
+  <DoBillsStonecut.verb>memotong balok batu menjadi</DoBillsStonecut.verb>
+  
+  <!-- EN: make things at crafting spot -->
+  <DoBillsUseCraftingSpot.label>Memproduksi barang -barang di kerajinan</DoBillsUseCraftingSpot.label>
+  <!-- EN: crafting at -->
+  <DoBillsUseCraftingSpot.gerund>pembuatan di</DoBillsUseCraftingSpot.gerund>
+  <!-- EN: craft at -->
+  <DoBillsUseCraftingSpot.verb>pembuatan</DoBillsUseCraftingSpot.verb>
+  
+  <!-- EN: feed animals -->
+  <DoctorFeedAnimals.label>memberi makan hewan</DoctorFeedAnimals.label>
+  <!-- EN: feeding -->
+  <DoctorFeedAnimals.gerund>untuk memberi makan</DoctorFeedAnimals.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedAnimals.verb>untuk memberi makan</DoctorFeedAnimals.verb>
+  
+  <!-- EN: feed patients -->
+  <DoctorFeedHumanlikes.label>memberi makan pasien</DoctorFeedHumanlikes.label>
+  <!-- EN: feeding -->
+  <DoctorFeedHumanlikes.gerund>untuk memberi makan</DoctorFeedHumanlikes.gerund>
+  <!-- EN: feed -->
+  <DoctorFeedHumanlikes.verb>memberi makan</DoctorFeedHumanlikes.verb>
+  
+  <!-- EN: rescue downed allies to bed -->
+  <DoctorRescue.label>penyelamatan darurat</DoctorRescue.label>
+  <!-- EN: rescuing -->
+  <DoctorRescue.gerund>menyelamatkan</DoctorRescue.gerund>
+  <!-- EN: rescue -->
+  <DoctorRescue.verb>menyelamatkan</DoctorRescue.verb>
+  
+  <!-- EN: tend to patients with urgent needs -->
+  <DoctorTendEmergency.label>muncul</DoctorTendEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendEmergency.gerund>bertemu</DoctorTendEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendEmergency.verb>bertemu</DoctorTendEmergency.verb>
+  
+  <!-- EN: tend to animals -->
+  <DoctorTendToAnimals.label>melayani hewan</DoctorTendToAnimals.label>
+  <!-- EN: tending to -->
+  <DoctorTendToAnimals.gerund>bertemu</DoctorTendToAnimals.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToAnimals.verb>bertemu</DoctorTendToAnimals.verb>
+  
+  <!-- EN: tend to patients -->
+  <DoctorTendToHumanlikes.label>melayani pasien</DoctorTendToHumanlikes.label>
+  <!-- EN: tending to -->
+  <DoctorTendToHumanlikes.gerund>bertemu</DoctorTendToHumanlikes.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToHumanlikes.verb>bertemu</DoctorTendToHumanlikes.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelf.label>Perawatan diri</DoctorTendToSelf.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelf.gerund>Layanan diri</DoctorTendToSelf.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelf.verb>Layanan diri</DoctorTendToSelf.verb>
+  
+  <!-- EN: tend to self -->
+  <DoctorTendToSelfEmergency.label>Layanan diri</DoctorTendToSelfEmergency.label>
+  <!-- EN: tending to -->
+  <DoctorTendToSelfEmergency.gerund>Layanan diri</DoctorTendToSelfEmergency.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToSelfEmergency.verb>Layanan diri</DoctorTendToSelfEmergency.verb>
+  
+  <!-- EN: execute prisoners -->
+  <DoExecution.label>Mengeksekusi tahanan</DoExecution.label>
+  <!-- EN: executing -->
+  <DoExecution.gerund>menjalankan</DoExecution.gerund>
+  <!-- EN: execute -->
+  <DoExecution.verb>menjalankan</DoExecution.verb>
+  
+  <!-- EN: drill at deep drill -->
+  <Drill.label>Bor dengan bor kedalaman</Drill.label>
+  <!-- EN: drilling -->
+  <Drill.gerund>mengebor</Drill.gerund>
+  <!-- EN: drill -->
+  <Drill.verb>mengebor</Drill.verb>
+  
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>BAHAN BAKAR BAHASA</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>mengusir bahan bakar dari</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>BAHAN BAKAR BAHASA</EjectFuel.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>Kotak telur kosong</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>kosong</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>kosong</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>Jalankan pemukim yang bersalah</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>menjalankan</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>menjalankan</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract skull -->
+  <ExtractSkull.label>Ekstrak tengkorak</ExtractSkull.label>
+  <!-- EN: extracting skull of -->
+  <ExtractSkull.gerund>Ekstrak tengkorak dari</ExtractSkull.gerund>
+  <!-- EN: extract -->
+  <ExtractSkull.verb>ekstrak</ExtractSkull.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>Ekstrak pohon</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>ekstrak</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>ekstrak</ExtractTree.verb>
+  
+  <!-- EN: feed prisoners -->
+  <FeedPrisoner.label>memberi makan tahanan</FeedPrisoner.label>
+  <!-- EN: feeding -->
+  <FeedPrisoner.gerund>untuk memberi makan</FeedPrisoner.gerund>
+  <!-- EN: feed -->
+  <FeedPrisoner.verb>untuk memberi makan</FeedPrisoner.verb>
+  
+  <!-- EN: fight fires -->
+  <FightFires.label>memadamkan api</FightFires.label>
+  <!-- EN: extinguishing -->
+  <FightFires.gerund>memadamkan</FightFires.gerund>
+  <!-- EN: extinguish -->
+  <FightFires.verb>memadamkan</FightFires.verb>
+  
+  <!-- EN: fill fermenting barrels -->
+  <FillFermentingBarrel.label>Isi barel fermentasi</FillFermentingBarrel.label>
+  <!-- EN: filling -->
+  <FillFermentingBarrel.gerund>mengisi</FillFermentingBarrel.gerund>
+  <!-- EN: fill -->
+  <FillFermentingBarrel.verb>mengisi</FillFermentingBarrel.verb>
+  
+  <!-- EN: fill in -->
+  <FillIn.label>mengisi</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>mengisi</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>mengisi</FillIn.verb>
+  
+  <!-- EN: fix broken-down buildings -->
+  <FixBrokenDownBuilding.label>Struktur perbaikan</FixBrokenDownBuilding.label>
+  <!-- EN: replacing broken components in -->
+  <FixBrokenDownBuilding.gerund>memperbaiki</FixBrokenDownBuilding.gerund>
+  <!-- EN: replace broken components in -->
+  <FixBrokenDownBuilding.verb>memperbaiki</FixBrokenDownBuilding.verb>
+  
+  <!-- EN: flick switches -->
+  <Flick.label>mengalihkan</Flick.label>
+  <!-- EN: flicking switch on -->
+  <Flick.gerund>mengalihkan</Flick.gerund>
+  <!-- EN: flick switch on -->
+  <Flick.verb>mengalihkan</Flick.verb>
+  
+  <!-- EN: operate ground penetrating scanner -->
+  <GroundPenetratingScan.label>Operasi Pemindai Kedalaman</GroundPenetratingScan.label>
+  <!-- EN: scanning at -->
+  <GroundPenetratingScan.gerund>Pindai</GroundPenetratingScan.gerund>
+  <!-- EN: scan at -->
+  <GroundPenetratingScan.verb>Pindai</GroundPenetratingScan.verb>
+  
+  <!-- EN: harvest crops -->
+  <GrowerHarvest.label>panen panen</GrowerHarvest.label>
+  <!-- EN: harvesting -->
+  <GrowerHarvest.gerund>memanen</GrowerHarvest.gerund>
+  <!-- EN: harvest -->
+  <GrowerHarvest.verb>memanen</GrowerHarvest.verb>
+  
+  <!-- EN: sow crops -->
+  <GrowerSow.label>menabur tanaman</GrowerSow.label>
+  <!-- EN: sowing -->
+  <GrowerSow.gerund>menabur</GrowerSow.gerund>
+  <!-- EN: sow -->
+  <GrowerSow.verb>menabur</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>Tahan bangunan</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>hack</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>hack</Hack.verb>
+  
+  <!-- EN: feed animals -->
+  <HandlingFeedPatientAnimals.label>memberi makan hewan</HandlingFeedPatientAnimals.label>
+  <!-- EN: feeding -->
+  <HandlingFeedPatientAnimals.gerund>untuk memberi makan</HandlingFeedPatientAnimals.gerund>
+  <!-- EN: feed -->
+  <HandlingFeedPatientAnimals.verb>untuk memberi makan</HandlingFeedPatientAnimals.verb>
+  
+  <!-- EN: haul corpses -->
+  <HaulCorpses.label>korps</HaulCorpses.label>
+  <!-- EN: hauling -->
+  <HaulCorpses.gerund>mengangkut</HaulCorpses.gerund>
+  <!-- EN: haul -->
+  <HaulCorpses.verb>mengangkut</HaulCorpses.verb>
+  
+  <!-- EN: haul general things -->
+  <HaulGeneral.label>membawa benda</HaulGeneral.label>
+  <!-- EN: hauling -->
+  <HaulGeneral.gerund>mengangkut</HaulGeneral.gerund>
+  <!-- EN: haul -->
+  <HaulGeneral.verb>mengangkut</HaulGeneral.verb>
+  
+  <!-- EN: merge things -->
+  <HaulMerge.label>Campurkan benda</HaulMerge.label>
+  <!-- EN: merging -->
+  <HaulMerge.gerund>membaur</HaulMerge.gerund>
+  <!-- EN: merge -->
+  <HaulMerge.verb>membaur</HaulMerge.verb>
+  
+  <!-- EN: haul to map -->
+  <HaulToPortal.label>Transportasi ke peta</HaulToPortal.label>
+  <!-- EN: loading -->
+  <HaulToPortal.gerund>membawa</HaulToPortal.gerund>
+  <!-- EN: load -->
+  <HaulToPortal.verb>membawa</HaulToPortal.verb>
+  
+  <!-- EN: load caravan -->
+  <HelpGatheringItemsForCaravan.label>Muat di karavan</HelpGatheringItemsForCaravan.label>
+  <!-- EN: loading -->
+  <HelpGatheringItemsForCaravan.gerund>membawa</HelpGatheringItemsForCaravan.gerund>
+  <!-- EN: load -->
+  <HelpGatheringItemsForCaravan.verb>membawa</HelpGatheringItemsForCaravan.verb>
+  
+  <!-- EN: hunt -->
+  <HunterHunt.label>berburu</HunterHunt.label>
+  <!-- EN: hunting -->
+  <HunterHunt.gerund>berburu</HunterHunt.gerund>
+  <!-- EN: hunt -->
+  <HunterHunt.verb>berburu</HunterHunt.verb>
+  
+  <!-- EN: load transporters -->
+  <LoadTransporters.label>memuat transportasi</LoadTransporters.label>
+  <!-- EN: loading -->
+  <LoadTransporters.gerund>memuat</LoadTransporters.gerund>
+  <!-- EN: load -->
+  <LoadTransporters.verb>memuat</LoadTransporters.verb>
+  
+  <!-- EN: operate long range scanner -->
+  <LongRangeScan.label>Operasikan Pemindai Long -Range</LongRangeScan.label>
+  <!-- EN: scanning at -->
+  <LongRangeScan.gerund>Pindai</LongRangeScan.gerund>
+  <!-- EN: scan at -->
+  <LongRangeScan.verb>Pindai</LongRangeScan.verb>
+  
+  <!-- EN: milk animals -->
+  <Milk.label>Hewan mard</Milk.label>
+  <!-- EN: milking -->
+  <Milk.gerund>memesan</Milk.gerund>
+  <!-- EN: milk -->
+  <Milk.verb>memesan</Milk.verb>
+  
+  <!-- EN: mine -->
+  <Mine.label>minar</Mine.label>
+  <!-- EN: mining -->
+  <Mine.gerund>minar</Mine.gerund>
+  <!-- EN: mine -->
+  <Mine.verb>minar</Mine.verb>
+  
+  <!-- EN: open containers -->
+  <Open.label>Wadah terbuka</Open.label>
+  <!-- EN: opening -->
+  <Open.gerund>membuka</Open.gerund>
+  <!-- EN: open -->
+  <Open.verb>membuka</Open.verb>
+  
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>Melukis bangunan</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>pintar</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>pintar</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>cat tanah</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>pintar</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>pintar</PaintFloor.verb>
+  
+  <!-- EN: go to bed for emergency treatment -->
+  <PatientGoToBedEmergencyTreatment.label>Pergi tidur untuk menerima perawatan darurat</PatientGoToBedEmergencyTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedEmergencyTreatment.gerund>Menerima perawatan</PatientGoToBedEmergencyTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedEmergencyTreatment.verb>Menerima perawatan</PatientGoToBedEmergencyTreatment.verb>
+  
+  <!-- EN: recuperate in bed -->
+  <PatientGoToBedRecuperate.label>pulih di tempat tidur</PatientGoToBedRecuperate.label>
+  <!-- EN: getting bed rest in -->
+  <PatientGoToBedRecuperate.gerund>pulih</PatientGoToBedRecuperate.gerund>
+  <!-- EN: get bed rest in -->
+  <PatientGoToBedRecuperate.verb>pulih</PatientGoToBedRecuperate.verb>
+  
+  <!-- EN: go to bed for treatment -->
+  <PatientGoToBedTreatment.label>pergi ke tempat tidur untuk dirawat</PatientGoToBedTreatment.label>
+  <!-- EN: receiving treatment in -->
+  <PatientGoToBedTreatment.gerund>Menerima perawatan</PatientGoToBedTreatment.gerund>
+  <!-- EN: receive treatment in -->
+  <PatientGoToBedTreatment.verb>Menerima perawatan</PatientGoToBedTreatment.verb>
+  
+  <!-- EN: cut plants -->
+  <PlantsCut.label>Potong tanaman</PlantsCut.label>
+  <!-- EN: cutting -->
+  <PlantsCut.gerund>memotong</PlantsCut.gerund>
+  <!-- EN: cut -->
+  <PlantsCut.verb>memotong</PlantsCut.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>Biji Tanam</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>plantar</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>plantar</PlantSeed.verb>
+  
+  <!-- EN: rearm turrets -->
+  <RearmTurrets.label>Torretas Torret</RearmTurrets.label>
+  <!-- EN: rearming -->
+  <RearmTurrets.gerund>mempersenjatai kembali</RearmTurrets.gerund>
+  <!-- EN: rearm -->
+  <RearmTurrets.verb>mempersenjatai kembali</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>Refilibrize hewan tertutup</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>membawa dengan tali</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>Ambil dengan tali</RebalanceAnimalsInPens.verb>
+  
+  <!-- EN: refuel buildings -->
+  <Refuel.label>Bangunan Restone</Refuel.label>
+  <!-- EN: refueling -->
+  <Refuel.gerund>Bahan Bakar</Refuel.gerund>
+  <!-- EN: refuel -->
+  <Refuel.verb>Bahan Bakar</Refuel.verb>
+  
+  <!-- EN: release prisoners -->
+  <ReleasePrisoner.label>melepaskan tahanan</ReleasePrisoner.label>
+  <!-- EN: releasing -->
+  <ReleasePrisoner.gerund>melepaskan</ReleasePrisoner.gerund>
+  <!-- EN: release -->
+  <ReleasePrisoner.verb>melepaskan</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>Lepaskan hewan</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>melepaskan</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>melepaskan</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>Hapus cat</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>mengambil cat dari</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>Hapus cat</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>mengambil tanah</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>mengambil cat dari</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>Hapus cat</RemovePaintFloor.verb>
+  
+  <!-- EN: remove roofs -->
+  <RemoveRoofs.label>Hapus atap</RemoveRoofs.label>
+  <!-- EN: removing roof -->
+  <RemoveRoofs.gerund>Hapus atap</RemoveRoofs.gerund>
+  <!-- EN: remove roof -->
+  <RemoveRoofs.verb>Hapus atap</RemoveRoofs.verb>
+  
+  <!-- EN: repair damaged things -->
+  <Repair.label>perbaikan benda</Repair.label>
+  <!-- EN: repairing -->
+  <Repair.gerund>memperbaiki</Repair.gerund>
+  <!-- EN: repair -->
+  <Repair.verb>memperbaiki</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>pohon penanaman kembali</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>TANAH</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>TANAH</Replant.verb>
+  
+  <!-- EN: do research -->
+  <Research.label>lakukan penelitian</Research.label>
+  <!-- EN: researching at -->
+  <Research.gerund>menyelidiki di</Research.gerund>
+  <!-- EN: research at -->
+  <Research.verb>menyelidiki di</Research.verb>
+  
+  <!-- EN: shear animals -->
+  <Shear.label>Katakan hewan</Shear.label>
+  <!-- EN: shearing -->
+  <Shear.gerund>mencukur</Shear.gerund>
+  <!-- EN: shear -->
+  <Shear.verb>mencukur</Shear.verb>
+  
+  <!-- EN: slaughter animals -->
+  <Slaughter.label>mengorbankan hewan</Slaughter.label>
+  <!-- EN: slaughtering -->
+  <Slaughter.gerund>pengorbanan</Slaughter.gerund>
+  <!-- EN: slaughter -->
+  <Slaughter.verb>pengorbanan</Slaughter.verb>
+  
+  <!-- EN: strip corpses -->
+  <Strip.label>Tubuh yang tidak nyaman</Strip.label>
+  <!-- EN: stripping -->
+  <Strip.gerund>menanggalkan pakaian</Strip.gerund>
+  <!-- EN: strip -->
+  <Strip.verb>menanggalkan pakaian</Strip.verb>
+  
+  <!-- EN: study archotech structures -->
+  <StudyArchotechStructures.label>Mempelajari struktur arkeoteknik</StudyArchotechStructures.label>
+  <!-- EN: studying -->
+  <StudyArchotechStructures.gerund>belajar</StudyArchotechStructures.gerund>
+  <!-- EN: study -->
+  <StudyArchotechStructures.verb>belajar</StudyArchotechStructures.verb>
+  
+  <!-- EN: take beer out of fermenting barrels -->
+  <TakeBeerOutOfFermentingBarrel.label>Kumpulkan bir barel</TakeBeerOutOfFermentingBarrel.label>
+  <!-- EN: taking beer from -->
+  <TakeBeerOutOfFermentingBarrel.gerund>kumpulkan bir dari</TakeBeerOutOfFermentingBarrel.gerund>
+  <!-- EN: take beer -->
+  <TakeBeerOutOfFermentingBarrel.verb>Kumpulkan bir</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <!-- EN: take prisoners to bed -->
+  <TakePrisonerToBed.label>membawa tahanan ke tempat tidur</TakePrisonerToBed.label>
+  <!-- EN: taking to bed -->
+  <TakePrisonerToBed.gerund>Bawa tidur</TakePrisonerToBed.gerund>
+  <!-- EN: take to bed -->
+  <TakePrisonerToBed.verb>Bawa tidur</TakePrisonerToBed.verb>
+  
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>membawa hewan pengembara dengan tali</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>Ambil dengan tali</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>Ambil dengan tali</TakeRoamingAnimalsToPen.verb>
+  
+  <!-- EN: take patients to bed for operations -->
+  <TakeToBedToOperate.label>Membawa pasien untuk beroperasi</TakeToBedToOperate.label>
+  <!-- EN: taking to operate -->
+  <TakeToBedToOperate.gerund>Bawa untuk beroperasi</TakeToBedToOperate.gerund>
+  <!-- EN: take to operate -->
+  <TakeToBedToOperate.verb>Bawa untuk beroperasi</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>Ambil Hewan Dengan Tali</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>Ambil dengan tali</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>Ambil dengan tali</TakeToPen.verb>
+  
+  <!-- EN: tame animals -->
+  <Tame.label>Hewan Domestik</Tame.label>
+  <!-- EN: taming -->
+  <Tame.gerund>jinak</Tame.gerund>
+  <!-- EN: tame -->
+  <Tame.verb>jinak</Tame.verb>
+  
+  <!-- EN: train animals -->
+  <Train.label>melatih hewan</Train.label>
+  <!-- EN: training -->
+  <Train.gerund>kereta</Train.gerund>
+  <!-- EN: train -->
+  <Train.verb>kereta</Train.verb>
+  
+  <!-- EN: uninstall structures -->
+  <Uninstall.label>Uninstall objek</Uninstall.label>
+  <!-- EN: uninstalling -->
+  <Uninstall.gerund>uninstall</Uninstall.gerund>
+  <!-- EN: uninstall -->
+  <Uninstall.verb>uninstall</Uninstall.verb>
+  
+  <!-- EN: unload carriers -->
+  <UnloadCarriers.label>Unduh transportasi</UnloadCarriers.label>
+  <!-- EN: unloading -->
+  <UnloadCarriers.gerund>Descargar</UnloadCarriers.gerund>
+  <!-- EN: unload -->
+  <UnloadCarriers.verb>memulangkan</UnloadCarriers.verb>
+  
+  <!-- EN: visit sick people -->
+  <VisitSickPawn.label>Kunjungi Pasien</VisitSickPawn.label>
+  <!-- EN: visiting -->
+  <VisitSickPawn.gerund>mengunjungi</VisitSickPawn.gerund>
+  <!-- EN: visit -->
+  <VisitSickPawn.verb>mengunjungi</VisitSickPawn.verb>
+  
+</LanguageData>

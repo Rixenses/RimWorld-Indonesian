@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_root-> [FirstSentence] [SecondSentence]</li>
+    <li>FirstSentence (Tiersection == 4)-> [Pawn_pronoun] telah menunjukkan [nounggrowth] yang sangat baik dan memiliki [adjgood] [nounattitudegood] untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 4)-> [Pawn_pronoun] telah mengembangkan sejumlah gairah baru dengan [SituationLearning].</li>
+    <li>FirstSentence (Tiersection == 4)-> oleh [SituationLearning], [Pawn_pronoun] telah memperoleh sejumlah gairah baru.</li>
+    <li>FirstSentence (Tiersection == 4)-> Dalam setahun terakhir, [Pawn_pronoun] telah menunjukkan [nounggrowth] yang sangat baik.</li>
+    <li>SecondSentence (Tiersection == 4)-> [Pawn_namedef] ingin menghabiskan lebih banyak waktu [SituationLearning] dan [SituationFun].</li>
+    <li>SecondSentence (tiersection == 4)-> [Pawn_namedef] menikmati [SituationLearning] tetapi yang terpenting [Pawn_pronoun] menyukai [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 4)-> [Pawn_namedef] menikmati [SituationLearning] dan mimpi [SituationAsppirasional].</li>
+    <li>SecondSentence (Tiersection == 4)-> [Pawn_namedef] berharap bahwa dengan [SituationLearning], [Pawn_pronoun] dapat berakhir [SituationAspirational].</li>
+    <li>FirstSentence (Tiersection == 3)-> baru-baru ini, [Pawn_pronoun] telah menunjukkan [adjgood] [nounattitudegood] untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 3)-> [Pawn_pronoun] merasa [nounattitudegood] untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 3)-> [Pawn_pronoun] telah tertarik pada sejumlah kegiatan baru termasuk [SituationLearning].</li>
+    <li>FirstSentence (Tiersection == 3)-> [Pawn_pronoun] telah menunjukkan [nounggrowth] yang sangat baik.</li>
+    <li>SecondSentence (tiersection == 3)-> [Pawn_namedef] bersyukur bahwa [Pawn_pronoun] jarang merasa [Feeltbad] dan tertarik untuk menghabiskan lebih banyak waktu [SituationFun].</li>
+    <li>SecondSentence (tiersection == 3)-> [Pawn_namedef] menyukai [SituationLearning] tetapi [Pawn_pronoun] paling bahagia sementara [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 3)-> Ketika [Pawn_namedef] lebih tua, [Pawn_pronoun] ingin menghabiskan waktu [Pawn_Possessives] [Pekerjaan Tugas].</li>
+    <li>SecondSentence (tiersection == 3)-> yang terpenting, [Pawn_namedef] mencintai [SituationFun].</li>
+    <li>FirstSentence (Tiersection == 2)-> [Pawn_pronoun] telah menunjukkan beberapa [nounggrowth] dan ingin menyimpan [SituationLearning].</li>
+    <li>FirstSentence (Tiersection == 2)-> [Pawn_pronoun] memiliki beberapa [nounattitudegood] untuk belajar lebih banyak.</li>
+    <li>FirstSentence (tiersection == 2)-> bersemangat tentang [nounfuture], [Pawn_pronoun] ingin menghabiskan waktu [SituationLearning].</li>
+    <li>FirstSentence (Tiersection == 2)-> [Pawn_pronoun] telah mengembangkan hasrat baru oleh [SituationLearning].</li>
+    <li>SecondSentence (Tiersection == 2)-> [Pawn_namedef] menikmati [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 2)-> [Pawn_namedef] berharap untuk menghabiskan lebih banyak waktu [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 2)-> [Pawn_namedef] berpikir [tugas tugas] membosankan.</li>
+    <li>SecondSentence (Tiersection == 2)-> Secara khusus, [Pawn_namedef] ingin fokus pada [SituationLearning].</li>
+    <li>FirstSentence (Tiersection == 1)-> [Pawn_pronoun] telah menunjukkan sedikit [nounggrowth] dan memiliki harapan rendah untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 1)-> Sementara optimis tentang [nounfuture], [Pawn_pronoun] telah menunjukkan sedikit [noungrowth].</li>
+    <li>FirstSentence (Tiersection == 1)-> [Pawn_pronoun] berharap bahwa segalanya akan meningkat di [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 1)-> [Pawn_pronoun] telah menunjukkan [nounggrowth] minimal, mengeluh bahwa [SituationLearning] membosankan.</li>
+    <li>SecondSentence (tiersection == 1)-> [Pawn_namedef] ingin menghabiskan lebih banyak waktu [SituationFun] tetapi terlalu sibuk mengkhawatirkan [SituationBad].</li>
+    <li>SecondSentence (tiersection == 1)-> [Pawn_namedef] sering terasa [feeltbad] sementara [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 1)-> [Pawn_namedef] memiliki ketakutan aneh bahwa dengan [SituationFun] [Pawn_pronoun] akan berakhir [SituationBad].</li>
+    <li>SecondSentence (Tiersection == 1)-> [Pawn_namedef] memiliki mimpi buruk reguler tentang [SituationBad].</li>
+    <li>FirstSentence (tiersection == 0)-> [Pawn_pronoun] sering ingin [SituationLearning] tetapi [Pawn_pronoun] jarang memiliki kesempatan untuk melakukannya.</li>
+    <li>FirstSentence (Tiersection == 0)-> [Pawn_pronoun] tidak menunjukkan [noungrowth].</li>
+    <li>FirstSentence (Tiersection == 0)-> [Pawn_pronoun] telah gagal mengembangkan gairah baru dan memiliki sedikit [nounattitudegood] untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 0)-> [Pawn_pronoun] telah menunjukkan sedikit minat dalam belajar dan terutama tidak suka [SituationLearning].</li>
+    <li>SecondSentence (Tiersection == 0)-> [Pawn_namedef] hanya tertarik pada [SituationFun].</li>
+    <li>SecondSentence (Tiersection == 0)-> [Pawn_namedef] terus ditahan oleh ketakutan [SituationBad].</li>
+    <li>SecondSentence (tiersection == 0)-> [Pawn_namedef] hidup karena takut terluka parah akibat [SituationBad].</li>
+    <li>SecondSentence (tiersection == 0)-> [Pawn_namedef] memiliki mimpi buruk yang berulang di mana [Pawn_pronoun] adalah [SituationFun] yang menghasilkan [SituationBad].</li>
+    <li>adjgood-> Hebat</li>
+    <li>adjgood-> tidak pernah puas</li>
+    <li>adjgood-> intens</li>
+    <li>adjgood-> Lively</li>
+    <li>adjgood-> asli</li>
+    <li>adjgood-> Tanpa batas</li>
+    <li>adjgood-> sangat besar</li>
+    <li>adjgood-> terpuji</li>
+    <li>adjgood-> tak ada habisnya</li>
+    <li>adjgood-> murni</li>
+    <li>adjgood-> mengesankan</li>
+    <li>Feelingbad-> sendirian</li>
+    <li>Feelingbad-> Takut</li>
+    <li>Feelingbad-> Hurt</li>
+    <li>Feelingbad-> sakit keras</li>
+    <li>feelingbad-> sakit</li>
+    <li>nounAttitudeGood->enthusiasm</li>
+    <li>Nounatitudeegood-> kegembiraan</li>
+    <li>nounattitudegood-> optimisme</li>
+    <li>nounfuture-> beberapa minggu ke depan</li>
+    <li>nounfuture-> bulan-bulan mendatang</li>
+    <li>nounfuture-> Tahun berikutnya</li>
+    <li>nounfuture-> masa depan</li>
+    <li>Nounggrowth-> Pertumbuhan Pribadi</li>
+    <li>Nounggrowth-> Pengembangan Pribadi</li>
+    <li>SituationFun-> Menjelajahi hutan belantara dengan [friendNameplural]</li>
+    <li>SituationFun-> Playing [Game]</li>
+    <li>SituationFun-> Playing [Game] dengan teman-teman</li>
+    <li>SituationFun-> Bermain dengan [FriendNamesingular]</li>
+    <li>SituationFun-> Mengobrol dengan [FriendNamesingular]</li>
+    <li>SituationFun-> Gosip tentang [FriendNameplural]</li>
+    <li>SituationFun-> Berteman</li>
+    <li>SituationFun-> berada di luar di bawah sinar matahari</li>
+    <li>SituationFun-> Menonton Langit Malam untuk Meteorit</li>
+    <li>SituationFun-> Berbicara di radio tentang [TopicLearning]</li>
+    <li>SituationFun-> mengobrol di radio dengan orang luar</li>
+    <li>SituationFun-> menggambar gambar [friendNameplural] di lantai</li>
+    <li>SituationFun-> melamun tentang [TopicLearning]</li>
+    <li>SituationFun-> Nature Running</li>
+    <li>SituationFun-> Memiliki petualangan dengan [friendNameplural]</li>
+    <li>SituationFun-> Menemukan Harta Karun</li>
+    <li>SituationFun-> Menggambar gambar [Enemynameplural]</li>
+    <li>SituationFun-> menggambar gambar [friendNamesingular]</li>
+    <li>SituationFun-> Menulis cerita tentang [friendnamesingular] yang berburu [musuh</li>
+    <li>SituationFun-> Berpura-pura bertarung [Enemynameplural]</li>
+    <li>SituationFun-> menceritakan kisah tentang [Enemynameplural]</li>
+    <li>SituationLearning-> Menonton orang lain [pekerjaan tugas]</li>
+    <li>SituationLearning-> Belajar tentang [Pekerjaan Tugas]</li>
+    <li>SituationLearning-> belajar tentang [TopicLearning]</li>
+    <li>SituationLearning-> belajar [TopicLearning]</li>
+    <li>SituationLearning-> Membaca tentang [TopicLearning]</li>
+    <li>SituationLearning-> melakukan pekerjaan yang bermakna</li>
+    <li>SituationAspirational-> Membuat Perbedaan di Dunia</li>
+    <li>SituationAspirational-> Menjadi sangat kaya</li>
+    <li>SituationAspirational-> Saving the World</li>
+    <li>SituationAspirational-> Membantu Orang Lain</li>
+    <li>SituationAspirational-> Menjadi sangat terkenal</li>
+    <li>SituationAspirational-> Meninggalkan planet ini</li>
+    <li>SituationBad-> diserang oleh [Enemynameplural]</li>
+    <li>SituationBad-> diculik oleh [Enemynameplural]</li>
+    <li>SituationBad-> Diburu oleh [musuh nama]</li>
+    <li>SituationBad-> dikejar oleh [musuh waktu]</li>
+    <li>situasi buruk-> menghirup gas beracun</li>
+    <li>SituationBad-> Menangkap busuk paru-paru</li>
+    <li>SituationBad-> menangkap wabah</li>
+    <li>SituationBad-> Mendapatkan Keracunan Makanan</li>
+    <li>SituationBad-> Melihat Orang Terkasih Mati</li>
+    <li>SituationBad-> makan tanpa meja</li>
+    <li>Topiclearning-> The Universe</li>
+    <li>Topiclearning-> Science</li>
+    <li>Topiclearning-> Budaya yang berbeda</li>
+    <li>Topiclearning-> Archotechs</li>
+    <li>TopicLearning-> Planetary Economics</li>
+    <li>Topiclearning-> Psikologi</li>
+    <li>Topiclearning-> Biologi Serangga</li>
+    <li>Topiclearning-> kehamilan mekanoid</li>
+    <li>Topiclearning-> Pengeditan gen</li>
+    <li>TopicLearning-> Rocket Science</li>
+    <li>Topiclearning-> Ore Mining</li>
+    <li>Pekerjaan tugas-> memasak makanan</li>
+    <li>Pekerjaan Tugas-> Pelatihan Hewan</li>
+    <li>pekerjaan tugas-> merawat orang sakit</li>
+    <li>Pekerjaan Tugas-> Membantu [FriendNeMeplural]</li>
+    <li>pekerjaan tugas-> berburu muffalo</li>
+    <li>tugas tugas-> menanam makanan</li>
+    <li>Pekerjaan Tugas-> Menyesuaikan Pakaian</li>
+    <li>friendNameplural-> teman</li>
+    <li>friendNameplural-> orang yang dicintai</li>
+    <li>FriendNameplural-> [friendadj] Hewan</li>
+    <li>friendNameplural-> [friendadj] mechanoids</li>
+    <li>friendNameplural-> [friendadj] anak-anak</li>
+    <li>friendNameplural-> teman imajiner</li>
+    <li>friendNamesingular-> friend</li>
+    <li>friendNamesingular-> dog</li>
+    <li>friendNamesingular-> [friendadj] kucing</li>
+    <li>friendNamesingular-> Kid</li>
+    <li>friendNamesingular-> [friendadj] nak</li>
+    <li>friendNamesingular-> anggota keluarga</li>
+    <li>friendadj-> jenis</li>
+    <li>friendadj-> membantu</li>
+    <li>friendadj-> ramah</li>
+    <li>friendadj-> nakal</li>
+    <li>friendadj-> lucu</li>
+    <li>Enemynameplural-> Raiders</li>
+    <li>Enemynameplural-> [AdjectiveBadass] Raiders</li>
+    <li>Enemynameplural-> orang asing yang misterius</li>
+    <li>Enemynameplural-> [AdjectiveBadass] Serangga</li>
+    <li>Enemynameplural-> manhunting boomalopes</li>
+    <li>Enemynameplural-> peminum darah rahasia</li>
+    <li>Enemynameplural-> Dewa mesin</li>
+    <li>Enemynameplural-> Mechanoids Feral</li>
+    <li>Enemynameplural-> Psychic Makhluk dengan kekuatan yang mengerikan</li>
+    <li>Enemynamesingular-> [AdjectiveBadass] [musuh]</li>
+    <li>Enemynamesingular-> [AdjectiveBadass] [AnimalBadass]</li>
+    <li>Enemynamesingular-> [AnimalBadass]</li>
+    <li>Enemynamesingular-> [Mechanoid]</li>
+    <li>musuh pemborosan-> [AdjectiveBadass] Waster</li>
+    <li>Enemynamesingular-> Stranger</li>
+    <li>musuhNynamesingular-> sanguophage</li>
+    <li>museminnamesingular-> wanita tanpa mata</li>
+    <li>musuhNynamesingular-> man with a hook for a hand</li>-><GrowthMomentFlavor.rulePack.rulesStrings>
+    <li>r_root-> [FirstSentence] [SecondSentence]</li>
+    <li>FirstSentence (TiersCcion == 4)-> [Pawn_pronoun] telah menunjukkan [nounggrowth] yang sangat baik dan memiliki [adjgood] [nounatitudeegood] untuk [nounfuture].</li>
+    <li>FirstStance (Tiersction == 4)-> [Pawn_pronoun] telah mengembangkan serangkaian gairah baru untuk [situasi].</li>
+    <li>Kalimat pertama (persimpangan == 4)-> oleh [Situation Learning], telah memperoleh serangkaian gairah baru.</li>
+    <li>FirstSentence (Tersction == 4)-> Selama tahun lalu, [Pawn_pronoun] telah menunjukkan [nounggrowth] yang sangat baik.</li>
+    <li>SecondSentence (tersction == 4)-> [Pawn_namedef] ingin menghabiskan lebih banyak waktu untuk [situasi] dan [SituationFun].</li>
+    <li>SecondSentence (tersction == 4)-> [Pawn_Namedef] Nikmati [SituationAnning], tetapi di atas semua cinta [SituationFun].</li>
+    <li>SecondSentence (TiersCcion == 4)-> [Pawn_namedef] Nikmati [situasi] dan bermimpi [SituationAsppirasional].</li>
+    <li>SecondSentence (TiersCcion == 4)-> [Pawn_namedef] berharap bahwa [situasi] akan dapat diakhiri dengan [Surfacespirational].</li>
+    <li>FirstSentence (TiersCcion == 3)-> Baru-baru ini, [Pawn_pronoun] telah menunjukkan [adjgood] [nounatitudeeegood] untuk [nounfuture].</li>
+    <li>FirstSentence (Tiersection == 3)-> [Pawn_pronoun] SE SIITE CON [NOUNTIDEGOD] Para [nounfuture]</li>
+    <li>FirstSentence (Tersction == 3)-> [Pawn_pronoun] ditampilkan dengan minat pada serangkaian kegiatan baru, termasuk [situasi].</li>
+    <li>FirstSentence (tiersection == 3)-> [Pawn_pronoun] ha mostrado un excelente [noungrowth].</li>
+    <li>SecondSentence (TiersCcion == 3)-> [Pawn_namedef] menghargai bahwa ia jarang merasa [Feeltbad] dan tertarik untuk menghabiskan lebih banyak waktu di [SituationFun].</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef] gusta de [situationLearning], pero es más feliz mientras se pone a [situationFun].</li>
+    <li>SecondSentence (tersction == 3)-> Ketika [Pawn_namedef] lebih besar, ia ingin menghabiskan waktunya [TaskWorkgerundund].</li>
+    <li>SecondSentence (TiersCcion == 3)-> di atas segalanya, [Pawn_namedef] menyukai [SituationFun].</li>
+    <li>FirstStencence (tersction == 2)-> [Pawn_pronoun] telah menunjukkan [nounggrowth] dan ingin menyimpannya [SituationLearningGerundund].</li>
+    <li>FirstSentence (tersction == 2)-> [Pawn_pronoun] memiliki [nounattituegeegood] untuk mengetahui lebih banyak.</li>
+    <li>FirstStence (Tiersction == 2)-> bersemangat {Pawn_gender?O: A} oleh [nounfuture], A [Pawn_pronoun] ingin menghabiskan waktu [SituationAnningAngerundund].</li>
+    <li>FirstSentence (TiersCcion == 2)-> [Pawn_pronoun] telah mengembangkan hasrat baru untuk [situasi].</li>
+    <li>SecondSentence (Tiersection == 2)-> [Pawn_namedef] Disfruta [SituationFun].</li>
+    <li>SecondSentence (tersction == 2)-> [Pawn_namedef] berharap untuk menghabiskan lebih banyak waktu tanpa tumbuh menjadi [SituationFun].</li>
+    <li>SecondSentence (tersction == 2)-> [Pawn_namedef] berpikir bahwa [pekerjaan tugas] membosankan.</li>
+    <li>SecondSentence (tersction == 2)-> Secara khusus, [Pawn_namedef] Saya ingin fokus pada [situasi].</li>
+    <li>FirstSentence (TiersCcion == 1)-> [Pawn_pronoun] telah menunjukkan sedikit [nounggrowth] dan memiliki sedikit harapan untuk [nounfuture].</li>
+    <li>FirstStencence (Tiersction == 1)-> Meskipun optimis tentang [nounfuture], [Pawn_pronoun] telah menunjukkan sedikit [noungrowth].</li>
+    <li>FirstStencence (Tiersction == 1)-> [Pawn_pronoun] berharap bahwa segala sesuatunya akan membaik di [noufture].</li>
+    <li>FirstSentence (TiersCcion == 1)-> [Pawn_pronoun] telah menunjukkan minimum [nounggrowth], mengeluh bahwa [penisioner] membosankan.</li>
+    <li>SecondSentence (tersction == 1)-> [Pawn_namedef] ingin memiliki lebih banyak waktu untuk [SituationFun], tetapi apakah itu sangat sibuk {Pawn_gender?O: A} Khawatir tentang [SituationBad].</li>
+    <li>SecondSentence (Tiersction == 1)-> [Pawn_Namedef] sering terasa [feeltbad] sementara [SituationFunvar].</li>
+    <li>SecondSentence (TiersCcion == 1)-> [Pawn_namedef] memiliki ketakutan aneh bahwa dengan [SituationFun] dan itu akan berakhir [SituationBadgerund].</li>
+    <li>SecondSentence (Tiersction == 1)-> [Pawn_namedef] memiliki mimpi buruk berkala tentang [SituationBad].</li>
+    <li>FirstStance (TiersCcion == 0)-> [Pawn_pronoun] sering ingin menjadi [SituationAnningGerundund], tetapi jarang memiliki kesempatan untuk melakukannya.</li>
+    <li>FirstSentence (Tiersection == 0)-> [Pawn_pronoun] No Ha Mostrado [nounggrowth].</li>
+    <li>FirstSentence (Tersction == 0)-> [Pawn_pronoun] belum berhasil mengembangkan gairah baru dan memiliki sedikit [nounatitudeeegood] untuk [nounfuture].</li>
+    <li>FirstStance (TiersCcion == 0)-> [Pawn_pronoun] telah menunjukkan sedikit minat dalam pembelajaran dan terutama tidak suka [situasi].</li>
+    <li>SecondSence (pihak ketiga == 0)-> [Pawn_Namedef] Solo le tertarik [SituationFun].</li>
+    <li>SecondSentence (TiersCcion == 0)-> [Pawn_namedef] selalu terlihat di {Pawn_gender?atau: A} untuk ketakutan [SituationBad].</li>
+    <li>SecondSentence (TiersCcion == 0)-> [Pawn_namedef] hidup dengan rasa takut terluka parah {Pawn_gender?atau: a} sebagai konsekuensi dari [SituationBad].</li>
+    <li>SecondSentence (tersction == 0)-> [Pawn_namedef] memiliki mimpi buruk berulang di mana [Pawn_pronoun] adalah [SituationFungerundund], yang membuatnya membayangkan [SituationBadgerund].</li>
+    <li>Adjgood-> Hebat</li>
+    <li>Adjgood-> tidak pernah puas</li>
+    <li>Adjgood-> intens</li>
+    <li>Adjgood-> animasi</li>
+    <li>Adjgood-> asli</li>
+    <li>adjo-> tidak terbatas</li>
+    <li>Adjgood-> sangat besar</li>
+    <li>adjgood-> loable</li>
+    <li>adjgood-> tak berkesudahan</li>
+    <li>adjgood-> murni</li>
+    <li>Adjgood-> mengesankan</li>
+    <li>FeelingBad-> sol {Pawn_gender?O: A}</li>
+    <li>FeelingBad-> Temeros {Pawn_gender?O: A}</li>
+    <li>FeelingBad-> Herid {Pawn_gender?O: A}</li>
+    <li>FeelingBad-> muy enferm {Pawn_gender?O: A}</li>
+    <li>FeelingBad-> Enferm {Pawn_gender?O: A}</li>
+    <li>Nounatitudeegood-> antusiasme</li>
+    <li>NountudeGood-> Fervor</li>
+    <li>Nounatitudeegood-> optimisme</li>
+    <li>Noufuture-> minggu berikutnya</li>
+    <li>Noufuture-> Bulan-bulan berikutnya</li>
+    <li>Noufuture-> tahun depan</li>
+    <li>Noufuture-> masa depan</li>
+    <li>Nounggrowth-> Pertumbuhan Pribadi</li>
+    <li>Nounggrowth-> Pengembangan Pribadi</li>
+    <li>SituationFun-> Jelajahi Alam dengan [FriendNameplural]</li>
+    <li>SituationFun-> Jugar [Game]</li>
+    <li>Situasi-> Mainkan [Game] dengan teman-teman</li>
+    <li>SituationFun-> Mainkan dengan [FriendNamesingular]</li>
+    <li>SituationFun-> mengobrol dengan [friendNamesingular]</li>
+    <li>SituationFun-> CHAT OVER [FriendNameplural]</li>
+    <li>SituationFun-> Bertemanlah</li>
+    <li>SituationFun-> berada di luar ruangan di bawah matahari</li>
+    <li>SituationFun-> Amati langit malam untuk mencari meteorit</li>
+    <li>Situasi Menyenangkan-> Bicara di radio tentang [topik longgar]</li>
+    <li>Situasi-> Obrolan di radio dengan orang luar</li>
+    <li>SituationFun-> menggambar gambar [friendNameplural] di tanah</li>
+    <li>SituationFun-> Dream Wake Up {Pawn_gender?O: a} tentang [toppiclening]</li>
+    <li>SituationFun-> Run in Nature</li>
+    <li>SituationFun-> memiliki petualangan dengan [friendNameplural]</li>
+    <li>SituationFun-> Temukan harta yang tersembunyi</li>
+    <li>Situasi Fun-> Gambar gambar [nama musuh]</li>
+    <li>Situasi Fun-> Gambar gambar [nama teman Singular]</li>
+    <li>SituationFun-> Tulis cerita tentang [friendnamesingular] yang berburu [musuh</li>
+    <li>SituationFun-> Bertempur melawan [musuh</li>
+    <li>SituationFun-> Ceritakan tentang [museminameplural]</li>
+    <li>SituationFunvar-> Jelajahi Alam dengan [FriendNameplural]</li>
+    <li>Funvar-> game [game]</li>
+    <li>SituationFunvar-> Play [Game] dengan teman-teman</li>
+    <li>SituationFunvar-> Mainkan dengan [FriendNamesingular]</li>
+    <li>SituationFunvar-> Bicara dengan [FriendNamesingular]</li>
+    <li>SituationFunvar-> Bicara Tentang [FriendNameplural]</li>
+    <li>SituationFunvar-> berteman</li>
+    <li>SituationFunvar-> berada di luar ruangan di bawah matahari</li>
+    <li>SituationFunvar-> Lihatlah langit malam untuk mencari meteorit</li>
+    <li>SituationFunvar-> Bicara di radio tentang [Toppiclearning]</li>
+    <li>SituationFunvar-> Bicara di radio dengan orang luar</li>
+    <li>SituationFunvar-> menggambar gambar [friendNameplural] di tanah</li>
+    <li>SituationFunvar-> Dream Wake Up {Pawn_gender?O: a} tentang [toppiclening]</li>
+    <li>SituationFunvar-> Run in Nature</li>
+    <li>SituationFunvar-> memiliki petualangan dengan [friendNameplural]</li>
+    <li>SituationFunvar-> Cari harta karun tersembunyi</li>
+    <li>SituationFunvar-> menggambar gambar [Enemynameplural]</li>
+    <li>SituationFunvar-> menggambar gambar [friendNamesingular]</li>
+    <li>SituationFunvar-> Tulis cerita tentang [friendNamesingular] yang memburu [musuhNyNameplural]]</li>
+    <li>SituationFunvar-> bertarung melawan [Enemynameplural]</li>
+    <li>SituationFunvar-> menceritakan kisah tentang [Enemynameplural]</li>
+    <li>SituationFungerund-> Jelajahi Alam dengan [FriendNameplural]</li>
+    <li>SituationFungerund-> Playing [Game]</li>
+    <li>SituationFungerund-> Playing [Game] dengan teman-teman</li>
+    <li>SituationFungerund-> Bermain dengan [FriendNamesingular]</li>
+    <li>SituationFungerund-> mengobrol dengan [friendNamesingular]</li>
+    <li>SituationFungerund-> mengobrol dengan [friendNameplural]</li>
+    <li>SituationFungerund-> berteman</li>
+    <li>SituationFungerund-> Saat berada di luar ruangan di bawah sinar matahari</li>
+    <li>SituationFungerund-> mengamati langit malam untuk mencari meteorit</li>
+    <li>SituationFungerund-> Berbicara di radio tentang [TopicLearning]</li>
+    <li>SituationFungerund-> mengobrol di radio dengan orang luar</li>
+    <li>SituationFungerund-> menggambar gambar [friendNemeplural] di tanah</li>
+    <li>SituationFungerund-> Dreaming Wake Up {Pawn_gender?O: a} tentang [toppiclening]</li>
+    <li>SituationFungerund-> Running in Nature</li>
+    <li>SituationFungerund-> memiliki petualangan dengan [friendNameplural]</li>
+    <li>SituationFungerundund-> Menemukan harta yang tersembunyi</li>
+    <li>SituationFungerund-> menggambar gambar [Enemynameplural]</li>
+    <li>SituationFungerund-> menggambar gambar [friendNamesingular]</li>
+    <li>SituationFungerund-> Menulis cerita tentang [friendNameingular] yang berburu [Enemynameplural]</li>
+    <li>SituationFungerund-> Melawan pertempuran melawan [emenameplural]</li>
+    <li>SituationFungerund-> Mengambil cerita tentang [musuh</li>
+    <li>SituationFungerund-> Menjelajahi Alam dengan [FriendNameplural]]</li>
+    <li>Situasi-> Lihat orang lain [Pekerjaan Tugas]</li>
+    <li>Lett learning-> Pelajari tentang [tugas bekerja]</li>
+    <li>SituationLearning-> APRENDER SOBRE [TOPIKLEARNING]</li>
+    <li>SituationLearning-> Estudiar [TopicLearning]</li>
+    <li>SituationLearning-> Leer Sobre [Topiclearning]</li>
+    <li>situasi</li>
+    <li>situasi</li>
+    <li>situasi</li>
+    <li>situasi</li>
+    <li>situasi</li>
+    <li>Situasi Laarning Gerund-> melakukan pekerjaan yang signifikan</li>
+    <li>SituasiPirasional-> Buatlah perbedaan di dunia</li>
+    <li>SituasiPirasional-> Menjadi orang yang sangat kaya</li>
+    <li>Situatispirasional-> Simpan El Mundo</li>
+    <li>SituasiPirasional-> membantu orang lain</li>
+    <li>SituasiPirasional-> menjadi sangat terkenal</li>
+    <li>SituasiPirasional-> Tinggalkan planet ini</li>
+    <li>Mengatur Bad-> Diserang {Jenis Kelamin Pawn?O: A} oleh [Enemynameplural]</li>
+    <li>SituationBad-> diculik {Pawn_gender?O: A} oleh [Enemynameplural]</li>
+    <li>SituationBad-> hunded {Pawn_gender?O: a} untuk [musuh waktu]]</li>
+    <li>SituationBad-> Dianiaya {Pawn_gender?O: a} untuk [musuh waktu]]</li>
+    <li>Settionbad-> gas beracun ylar</li>
+    <li>Situasi buruk-> ambil busuk paru</li>
+    <li>SituationBad-> Coger at Fish</li>
+    <li>Situasi buruk-> mengambil keracunan makanan</li>
+    <li>Situasi buruk-> Lihat orang yang mereka cintai mati</li>
+    <li>SituationBad-> Comer Sin Mesa</li>
+    <li>SituationBadgerund-> sedang menyerang {Pawn_gender?O: A} oleh [Enemynameplural]</li>
+    <li>SituationBadgerund-> diculik {Pawn_gender?O: A} oleh [Enemynameplural]</li>
+    <li>SituationBadgerund-> diburu {Pawn_gender?O: a} untuk [musuh waktu]]</li>
+    <li>SituationBadgerund-> Dianiaya {Pawn_gender?O: a} untuk [musuh waktu]]</li>
+    <li>SituationBadgerund-> Menghirup Gas Beracun</li>
+    <li>SituationBadgerund-> Busuk paru sialan</li>
+    <li>SituationBadgerund-> Fucking the Plague</li>
+    <li>SituationBadgerund-> Feeding Food Intacication</li>
+    <li>Sitionbadgerund-> melihat untuk mati untuk orang yang mereka cintai</li>
+    <li>SituationBadgerund-> makan tanpa meja</li>
+    <li>Topiclening-> Semesta</li>
+    <li>Topiclening-> Science</li>
+    <li>Topiclening-> Budaya yang berbeda</li>
+    <li>TopicLearning-> Arqueotecas</li>
+    <li>Topiclening-> Ekonomi Planet</li>
+    <li>Topiclening-> Psikologi</li>
+    <li>Topiclening-> Biologi Serangga</li>
+    <li>Topiclening-> kehamilan mecanoid</li>
+    <li>Topiclening-> Gen Edition</li>
+    <li>Topiclening-> The Science of Rocket</li>
+    <li>Topiclening-> Mineral Mining</li>
+    <li>Pekerjaan tugas-> masak makanan</li>
+    <li>Pekerjaan Tugas-> Latih Hewan</li>
+    <li>Pekerjaan tugas-> jaga orang sakit</li>
+    <li>Pekerjaan Tugas-> Bantuan [FriendNameplural]</li>
+    <li>Pekerjaan Tugas-> Perburuan Mufalos</li>
+    <li>Pekerjaan tugas-> kembangkan makanan</li>
+    <li>Tugas tugas-> membuat pakaian</li>
+    <li>TaskWorkgerund-> memasak makanan</li>
+    <li>TaskWorkgerund-> melatih hewan</li>
+    <li>Tugas bekerjagerund-> merawat orang sakit</li>
+    <li>TaskWorkgerund-> Membantu [FriendNeMeplural]</li>
+    <li>TaskWorkgerund-> berburu mufalos</li>
+    <li>Taskwarkgerund-> Budidaya makanan</li>
+    <li>TaskWorkgerund-> membuat pakaian</li>
+    <li>friendNameplural-> amigos</li>
+    <li>FriendNeTplural-> orang yang dicintai</li>
+    <li>friendNameplural-> hewan [friendadj] s</li>
+    <li>friendNameplural-> mecanoides [friendadj] s</li>
+    <li>FriendNameplural-> anak-anak [friendadj] s</li>
+    <li>FriendNameplural-> teman imajiner</li>
+    <li>friendNamesingular-> amigo</li>
+    <li>FriendNamesingular-> dog</li>
+    <li>friendNamesingular-> gato [friendadj]</li>
+    <li>friendNamesingular-> niño</li>
+    <li>friendNamesingular-> niño [friendadj]</li>
+    <li>friendNamesingular-> familier</li>
+    <li>friendAdj->amable</li>
+    <li>friendAdj->gracioso</li>
+    <li>friendAdj->amigable</li>
+    <li>Friendadj-> nakal</li>
+    <li>Fridadj-> menyenangkan</li>
+    <li>museminameplural-> penyerang</li>
+    <li>Enemynameplural-> asaltantes [adjectivebadass_plural]</li>
+    <li>Enemynameplural-> orang asing yang misterius</li>
+    <li>Enemynameplural-> Insectos [Adjectivebadass_plural]</li>
+    <li>Enemynameplural-> Bumalopes Cazahombres</li>
+    <li>Enemynameplural-> Peminum Darah Rahasia</li>
+    <li>Enemynameplural-> Dewa mesin</li>
+    <li>Enemynameplural-> Mecanoids liar</li>
+    <li>Enemynameplural-> Psychic Makhluk dengan kekuatan yang mengerikan</li>
+    <li>Enemynamesingular-> [musuh] [Adjectivebadass]</li>
+    <li>Enemynamesingular-> [AnimalBadass] [Adjectivebadass]</li>
+    <li>Enemynamesingular-> [AnimalBadass]</li>
+    <li>Enemynamesingular-> [Mechanoid]</li>
+    <li>Enemynamesingular-> Escoria [Adjectivebadass]</li>
+    <li>Musuh jamageingular-> aneh</li>
+    <li>musuhinamemesular-> Darah</li>
+    <li>Musuh jamesingular-> wanita tanpa mata</li>
+    <li>musuhNynamesingular-> man with a gate dengan tangan</li>
+  </GrowthMomentFlavor.rulePack.rulesStrings>
+  
+</LanguageData>

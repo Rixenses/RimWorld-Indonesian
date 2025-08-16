@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: enslave attempt -->
+  <EnslaveAttempt.label>Upaya perbudakan</EnslaveAttempt.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] memberi tahu [penerima_namedef] bahwa [penerima_pronoun] harus bekerja untuk koloni.</li>
+    <li>r_logentry-> [initiator_namedef] menginformasikan [penerima_namedef] bahwa [penerima_pronoun] harus mematuhi perintah dan bekerja.</li>
+    <li>r_logentry-> [initiator_namedef] memesan [penerima_namedef] untuk mempersiapkan kehidupan kerja paksa.</li>
+    <li>r_logentry-> [initiator_namedef] Dijelaskan kepada [penerima_namedef] bahwa [penerima_pronoun] harus bekerja atau menghadapi hukuman.</li>-><EnslaveAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] memberi tahu [penerima_namedef] bahwa [penerima_pronoun] harus bekerja untuk koloni.</li>
+    <li>r_logentry-> [initiator_namedef] menginformasikan [penerima_namedef] bahwa [penerima_pronoun] harus mematuhi perintah dan bekerja.</li>
+    <li>r_logentry-> [inisiator nama def] Memesan [penerima_namedef] untuk mempersiapkan kehidupan kerja paksa.</li>
+    <li>r_logentry-> [initiator_namedef] Dijelaskan kepada [penerima_namedef] bahwa [penerima_pronoun] harus bekerja atau menghadapi hukuman.</li>
+  </EnslaveAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: try to reduce will -->
+  <ReduceWill.label>mencoba mengurangi keinginan</ReduceWill.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] memberi tahu [penerima_namedef] [penerima_pronoun] [negatif].</li>
+    <li>r_logentry-> [initiator_namedef] menjelaskan bahwa [penerima_namedef] [negatif].</li>
+    <li>r_logentry-> [initiator_namedef] terancam [penerima_namedef] dengan [ancaman] jika [penerima_pronoun] [ditolak].</li>
+    <li>r_logentry-> [initiator_namedef] menginformasikan [penerima_namedef] bahwa [penerima_prronoun] [kekecewaan].</li>
+    <li>r_logentry-> [initiator_namedef] menuntut [nama penerima] [diberikan] ke koloni.</li>
+    <li>negatif-> tidak memiliki masa depan</li>
+    <li>negatif-> tidak memiliki cara untuk melarikan diri</li>
+    <li>negatif-> tidak memiliki masa depan di luar koloni</li>
+    <li>negatif-> tidak memiliki sarana untuk melarikan diri</li>
+    <li>negatif-> harus menyampaikan segera</li>
+    <li>negatif-> harus melupakan aspirasi [penerima_possessive]</li>
+    <li>negatif-> harus tunduk pada koloni</li>
+    <li>ancaman-> penyiksaan</li>
+    <li>ancaman-> hukuman</li>
+    <li>ancaman-> mutilasi</li>
+    <li>Ancaman-> Kelaparan</li>
+    <li>Ancaman-> Penahanan seumur hidup</li>
+    <li>Ancaman-> Kematian</li>
+    <li>ancaman-> isolasi</li>
+    <li>Ancaman-> Pemotongan</li>
+    <li>Ancaman-> Trauma tumpul</li>
+    <li>Ancaman-> Laserasi</li>
+    <li>Ancaman-> Kanibalisme</li>
+    <li>Ancaman-> Produksi Organ</li>
+    <li>Ancaman-> kurung panjang</li>
+    <li>ditolak-> mencoba melarikan diri</li>
+    <li>ditolak-> menghina koloni itu</li>
+    <li>ditolak-> tidak berhasil</li>
+    <li>ditolak-> menolak perintah</li>
+    <li>ditolak-> menolak pengiriman</li>
+    <li>ditolak-> menolak untuk mematuhi</li>
+    <li>ditolak-> berperilaku tidak jelas</li>
+    <li>kekecewaan-> harus menerima situasi [penerima_possessive]</li>
+    <li>kekecewaan-> tidak memiliki harapan untuk masa depan lain</li>
+    <li>Kekecewaan-> akan menjadi yang terbaik dari pengiriman</li>
+    <li>kekecewaan-> tidak akan bertahan di [penerima_possessives] sendiri</li>
+    <li>kekecewaan-> tidak punya pilihan selain untuk mengirimkan</li>
+    <li>Berikan di-> Menyerah</li>
+    <li>berikan-> kirim [penerima_objective] sendiri</li>
+    <li>Berikan diri di dalam> Surrender [Tujuan Penerima]</li>
+    <li>Berikan di-> hasil [tujuan penerima] diri</li>-><ReduceWill.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] le dijo a [penerima_namedef] que [penerima_pronoun] [negatif].</li>
+    <li>r_logentry-> [initiator_namedef] explicó a [penerima_namedef] que [negatif].</li>
+    <li>r_logentry-> [initiator_namedef] amenazó a [penerima_namedef] con [ancaman] si [penerima_pronoun] [ditolak].</li>
+    <li>r_logentry-> [initiator_namedef] informó a [penerima_namedef] que [penerima_pronoun] [kekecewaan].</li>
+    <li>r_logentry-> [inisiator name def] menuntut bahwa [penerima nama def] bahwa [memberikan] ke koloni.</li>
+    <li>negatif-> tidak memiliki masa depan</li>
+    <li>negatif-> tidak memiliki cara untuk melarikan diri</li>
+    <li>negatif-> tidak memiliki masa depan di luar koloni</li>
+    <li>negatif-> Saya tidak memiliki sarana untuk melarikan diri</li>
+    <li>negatif-> harus segera disajikan</li>
+    <li>negatif-> Saya harus melupakan aspirasi Anda</li>
+    <li>negatif-> harus bergabung dengan koloni</li>
+    <li>Ancaman-> torturarl [penerima_o_a]</li>
+    <li>ancaman-> castigarl [penerima_o_a]</li>
+    <li>ancaman-> mutilarl [penerima_o_a]</li>
+    <li>Ancaman-> Kelaparan</li>
+    <li>ancaman-> incarcell [penerima_o_a] seumur hidup</li>
+    <li>Ancaman-> Matarl [penerima_o_a]</li>
+    <li>ancaman-> insolarl [penerima_o_a]</li>
+    <li>ancaman-> desmembrarl [penerima_o_a]</li>
+    <li>Ancaman-> Trauma yang kuat</li>
+    <li>Ancaman-> Laserasi</li>
+    <li>ancaman-> comersel [penerima_o_a]</li>
+    <li>Ancaman-> Ekstrak organ</li>
+    <li>Ancaman-> kurung panjang</li>
+    <li>Ditolak-> Cobalah untuk melarikan diri</li>
+    <li>Ditolak-> penghinaan terhadap la cologne</li>
+    <li>Ditolak-> tidak berhasil</li>
+    <li>Ditolak-> menyangkal perintah</li>
+    <li>ditolak-> menolak</li>
+    <li>tolak-> menolak untuk mematuhi</li>
+    <li>Ditolak-> berperilaku tidak jelas</li>
+    <li>Kekecewaan-> harus menerima situasi Anda</li>
+    <li>kekecewaan-> seharusnya tidak diharapkan di masa depan lain</li>
+    <li>kekecewaan-> harus menyerahkan lebih baik</li>
+    <li>kekecewaan-> tidak akan bertahan dengan akunnya sendiri</li>
+    <li>kekecewaan-> tidak punya pilihan selain untuk menyerahkan</li>
+    <li>Berikan-> Cederse</li>
+    <li>Berikan-> menyerah</li>
+    <li>Berikan-> menyerah</li>
+    <li>Berikan-> Berhenti</li>
+  </ReduceWill.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

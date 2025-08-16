@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: automatically activate monolith -->
+  <AutoActivateMonolith.label>Secara otomatis mengaktifkan monolit</AutoActivateMonolith.label>
+  
+  <!-- EN: starting people -->
+  <ConfigurePawnsMutants.label>orang awal</ConfigurePawnsMutants.label>
+  
+  <!-- EN: void monolith -->
+  <ScenPart_MonolithGeneration.label>Monolith Vakum</ScenPart_MonolithGeneration.label>
+  
+</LanguageData>

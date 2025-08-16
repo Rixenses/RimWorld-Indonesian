@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi [Sitelabel] di dekatnya dikendalikan oleh [faction_name]. \ n \ nif Anda berharap, Anda dapat menyerbu kamp untuk mengumpulkan rampasan ([rampasan]).[RAIDCONCEPERENSI] \ n \ n Kamp akan berkemas dan pindah di [timeout_duration].</li>
+    <li>RAIDCONECTUENSI (faction_temporary == false)-> Jika Anda melakukannya, [faction_name] akan menjadi bermusuhan jika belum.</li>
+    <li>RAIDCONCEPERENSI (faksi_temporary == true)-> Karena [faction_name] hanyalah kelompok kecil dan independen, Anda dapat menyerang mereka tanpa konsekuensi diplomatik yang lebih luas.</li>-><OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi [Sitelabel] di dekat kendali faksi [felion_name].[RAIDConSePreences] \ n \ nl Camp akan mengumpulkan semuanya dan pindah di [timeout_duration].</li>
+    <li>RAIDConSePreences (felion_temporary == false)-> Jika Anda melakukannya, faksi [faction_name] akan menjadi bermusuhan jika tidak sebelumnya.</li>
+    <li>Kecakapan Serangan.</li>
+  </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Site_label] [terdeteksi]</li>
+    <li>terdeteksi-> terdeteksi</li>
+    <li>terdeteksi-> ditemukan</li>
+    <li>terdeteksi-> di dekatnya</li>
+    <li>terdeteksi-> ditemukan</li>
+    <li>terdeteksi-> diidentifikasi</li>
+    <li>terdeteksi-> diperhatikan</li>
+    <li>terdeteksi-> diamati</li>
+    <li>terdeteksi-> terungkap</li>
+    <li>terdeteksi-> terbuka</li>-><OpportunitySite_WorkSite.questNameRules.rulesStrings>
+    <li>QuestName-> [Site_label] [terdeteksi]</li>
+    <li>Terdeteksi-> terdeteksi</li>
+    <li>terdeteksi-> ditemukan</li>
+    <li>terdeteksi-> tutup</li>
+    <li>Terdeteksi-> ditemukan</li>
+    <li>Terdeteksi-> diidentifikasi</li>
+    <li>Terdeteksi-> ditemukan</li>
+    <li>Terdeteksi-> diamati</li>
+    <li>Terdeteksi-> terungkap</li>
+    <li>terdeteksi-> terbuka</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
+  
+</LanguageData>

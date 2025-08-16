@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {0} was born healthy -->
+  <BabyBorn.stages.was_born_healthy.label>{0} lahir sehat</BabyBorn.stages.was_born_healthy.label>
+  <!-- EN: My baby brings me so much joy. I would move earth and sky for my little one. -->
+  <BabyBorn.stages.was_born_healthy.description>Bayi saya memberi saya banyak kegembiraan.Saya akan memindahkan bumi dan langit melalui gadis kecil saya.</BabyBorn.stages.was_born_healthy.description>
+  
+  <!-- EN: fed on by {0} -->
+  <FedOn.stages.fed_on_by.label>{0} Fed dari saya</FedOn.stages.fed_on_by.label>
+  <!-- EN: I was violated by a bloodfeeder like some kind of livestock. -->
+  <FedOn.stages.fed_on_by.description>Saya tidak menghargai mengisap seolah -olah itu adalah semacam ternak.</FedOn.stages.fed_on_by.description>
+  
+  <!-- EN: ingested hemogen pack -->
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>Dia mencerna sebungkus hemogen</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+  <!-- EN: I ingested a hemogen pack. It might keep me alive, but it was absolutely disgusting. -->
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.description>Saya mencerna sebungkus hemogen.Saya mungkin menjaga diri saya tetap hidup, tetapi itu benar -benar menjijikkan.</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+  
+  <!-- EN: miscarried -->
+  <Miscarried.stages.miscarried.label>abortus</Miscarried.stages.miscarried.label>
+  <!-- EN: I lost my child. -->
+  <Miscarried.stages.miscarried.description>Saya kehilangan bayi saya.</Miscarried.stages.miscarried.description>
+  
+  <!-- EN: {0} miscarried -->
+  <PartnerMiscarried.stages.miscarried.label>{0} telah mengalami aborsi</PartnerMiscarried.stages.miscarried.label>
+  <!-- EN: My child's story ended before it started. -->
+  <PartnerMiscarried.stages.miscarried.description>Kisah bayi saya berakhir sebelum memulai.</PartnerMiscarried.stages.miscarried.description>
+  
+  <!-- EN: pregnancy ended -->
+  <PregnancyEnded.stages.pregnancy_ended.label>Kehamilan selesai</PregnancyEnded.stages.pregnancy_ended.label>
+  <!-- EN: I'm relieved I'm not pregnant any more. -->
+  <PregnancyEnded.stages.pregnancy_ended.description>Saya lega tidak hamil.</PregnancyEnded.stages.pregnancy_ended.description>
+  
+  <!-- EN: pregnancy terminated -->
+  <PregnancyTerminated.stages.pregnancy_terminated-0.label>kehamilan terganggu</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+  <!-- EN: My pregnancy was terminated. -->
+  <PregnancyTerminated.stages.pregnancy_terminated-0.description>Kehamilan saya terganggu.</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+  <!-- EN: pregnancy terminated -->
+  <PregnancyTerminated.stages.pregnancy_terminated-1.label>kehamilan terganggu</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+  <!-- EN: My pregnancy was terminated. -->
+  <PregnancyTerminated.stages.pregnancy_terminated-1.description>Kehamilan saya terganggu.</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+  <!-- EN: pregnancy terminated -->
+  <PregnancyTerminated.stages.pregnancy_terminated-2.label>kehamilan terganggu</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+  <!-- EN: My pregnancy was terminated. -->
+  <PregnancyTerminated.stages.pregnancy_terminated-2.description>Kehamilan saya terganggu.</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+  
+  <!-- EN: psychic bond torn ({0}) -->
+  <PsychicBondTorn.stages.psychic_bond_torn.label>Tautan psikis yang rusak ({0})</PsychicBondTorn.stages.psychic_bond_torn.label>
+  <!-- EN: My psychic bond with {OTHERPAWN} was torn apart. I feel like part of my mind and emotions are missing. -->
+  <PsychicBondTorn.stages.psychic_bond_torn.description>Tautan psikis saya dengan {oherpawn} rusak.Saya merasa bahwa bagian dari pikiran saya dan emosi saya hilang.</PsychicBondTorn.stages.psychic_bond_torn.description>
+  
+  <!-- EN: stillbirth -->
+  <Stillbirth.stages.stillbirth.label>mortinate</Stillbirth.stages.stillbirth.label>
+  <!-- EN: My child died during labor. -->
+  <Stillbirth.stages.stillbirth.description>Bayi saya meninggal saat melahirkan.</Stillbirth.stages.stillbirth.description>
+  
+  <!-- EN: genes harvested -->
+  <XenogermHarvested_Prisoner.stages.genes_harvested.label>gen diekstraksi</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+  <!-- EN: They extracted my genes like I'm some sort of lab creature. -->
+  <XenogermHarvested_Prisoner.stages.genes_harvested.description>Mereka mengekstraksi gen saya seolah -olah itu adalah semacam makhluk laboratorium.</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+  
+</LanguageData>

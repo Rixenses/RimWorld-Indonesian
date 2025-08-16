@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>hewan</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>Konfigurasi bagaimana hewan peliharaan koloni harus diperlakukan.</Animals.description>
+
+  <!-- EN: architect -->
+  <Architect.label>arsitek</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Menentukan apa yang harus dibangun, ditanam, disimpan, dihancurkan, dll. oleh koloni Anda, dan di mana.</Architect.description>
+
+  <!-- EN: assign -->
+  <Assign.label>mendefinisikan</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Menetapkan perilaku untuk koloni seperti apa yang harus mereka kenakan, obat apa yang harus diambil, atau bagaimana mereka harus merespons musuh.</Assign.description>
+
+  <!-- EN: factions -->
+  <Factions.label>faksi</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Meninjau faksi lain di dunia ini dan hubungan mereka.</Factions.description>
+
+  <!-- EN: history -->
+  <History.label>sejarah</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Meninjau catatan riwayat koloni.</History.description>
+
+  <!-- EN: inspect -->
+  <Inspect.label>inspeksi</Inspect.label>
+
+  <!-- EN: menu -->
+  <Menu.label>menu</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>Ubah opsi, simpan, muat, atau keluar dari permainan.</Menu.description>
+
+  <!-- EN: quests -->
+  <Quests.label>misi</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>Lihat misi yang tersedia, aktif, dan historis.</Quests.description>
+
+  <!-- EN: research -->
+  <Research.label>penelitian</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Periksa dan putuskan proyek penelitian.</Research.description>
+
+  <!-- EN: schedule -->
+  <Schedule.label>jadwal</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>Jadwalkan aktivitas koloni ke waktu tertentu dalam sehari, dan atur area yang diizinkan.</Schedule.description>
+
+  <!-- EN: wildlife -->
+  <Wildlife.label>fauna</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>Daftar hewan liar di daerah tersebut dan tentukan mana yang akan diburu atau dijinakkan.</Wildlife.description>
+
+  <!-- EN: work -->
+  <Work.label>pekerjaan</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Pilih koloni mana yang melakukan jenis pekerjaan apa, dan dalam urutan apa.</Work.description>
+
+  <!-- EN: world -->
+  <World.label>dunia</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Periksa peta dunia, bentuk, dan kelola karavan.</World.description>
+
+</LanguageData>

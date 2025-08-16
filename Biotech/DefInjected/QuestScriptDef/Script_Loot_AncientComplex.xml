@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah [DiscoveryDesc] dari kompleks kuno di dekatnya yang berisi sisa-sisa mekanitor yang sudah lama mati. \ N \ nMechanitors dapat membuat, mengontrol, dan memanipulasi mekanoid untuk pekerjaan dan pertempuran.Jika Anda dapat masuk ke dalam kompleks dan mengumpulkan mayat mechanitor, Anda dapat mengekstrak mechlink mereka dan mengubah salah satu penjajah Anda sendiri menjadi seorang mekanitor. \ N \ n. Diperingatkan - jenis struktur ini dapat berisi berbagai ancaman, dan aktivitas Anda di kompleks mungkin menarik perhatian yang tidak diinginkan.</li>
+    <li>DiscoveryDesc (ditemukan == false)-> dipelajari</li>
+    <li>DiscoveryDesc (ditemukan == true)-> menentukan lokasi</li>-><OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> memiliki [DiscoveryDesc] dari kompleks dekat kuno yang berisi sisa-sisa mekanitor jangka panjang.Jika Anda berhasil memasuki kompleks dan mengumpulkan tubuh tubuh, Anda dapat mengekstrak mecanlace Anda dan mengubah salah satu pemukim Anda sendiri menjadi mekanitor.</li>
+    <li>DiscoveryDesc (discoved == false)-> dipelajari</li>
+    <li>DiscoveryDesc (ditemukan == true)-> Lokasi ditentukan</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 3)-> [ComplexAdj] Mechanitor [Complex]</li>
+    <li>QuestName-> Mechanitor [Kompleks]</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> kuno</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Tersembunyi</li>
+    <li>Complexadj-> Dusty</li>
+    <li>Complexadj-> Berbahaya</li>
+    <li>Complexadj-> Tersembunyi</li>
+    <li>kompleks-> kompleks</li>
+    <li>kompleks-> sarang</li>
+    <li>Basis kompleks-></li>
+    <li>kompleks-> senyawa</li>
+    <li>kompleks-> crypt</li>
+    <li>kompleks-> mechplex</li>
+    <li>kompleks-> mechsite</li>-><OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+    <li>QuestName (p = 3)-> [complexadj] [kompleks] mekanitor</li>
+    <li>QuestName (p = 3)-> [complexadjfem] [complexfem] dari mekanitor</li>
+    <li>QuestName-> [kompleks] dari mekanitor</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Oculture</li>
+    <li>Complexadj-> Dusty</li>
+    <li>Complexadj-> Berbahaya</li>
+    <li>Complexadjfem-> Rahasia</li>
+    <li>Complexadjfem-> antigua</li>
+    <li>Complexadjfem-> vieja</li>
+    <li>complexadjfem-> tersembunyi</li>
+    <li>Complexadjfem-> Dusty</li>
+    <li>complexadjfem-> berbahaya</li>
+    <li>kompleks-> kompleks</li>
+    <li>ComplexFem-> Dirida</li>
+    <li>complexfem-> base</li>
+    <li>kompleks-> kamp</li>
+    <li>Complexfem-> crepta</li>
+    <li>complexfem-> mecabase</li>
+    <li>complexfem-> mecaplanta</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+  
+</LanguageData>

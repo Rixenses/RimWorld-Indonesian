@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: interrogate -->
+  <Interrogate.label>pertanyaan</Interrogate.label>
+  <!-- EN: Wardens will interrogate the prisoner and watch their reactions to try to determine if they are who they say they are. The chance of detecting an imposter increases with the warden's social interaction ability. There is always a chance the imposter goes unnoticed. -->
+  <Interrogate.description>Para penjaga akan menginterogasi tahanan dan mengamati reaksi mereka untuk mencoba menentukan apakah siapa yang mengklaim.Probabilitas mendeteksi penipu meningkat dengan kapasitas interaksi sosial penjaga.Selalu ada probabilitas bahwa penipu itu tidak diperhatikan.</Interrogate.description>
+  
+  <!-- EN: study -->
+  <Study.label>belajar</Study.label>
+  <!-- EN: Researchers interact with them to gain knowledge. -->
+  <Study.description>Para peneliti berinteraksi dengan mereka untuk memperoleh pengetahuan.</Study.description>
+  
+</LanguageData>

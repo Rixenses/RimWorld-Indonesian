@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabricar capucha ceremonial -->
+  <Make_Apparel_CeremonialCultistMask.label>Membuat tudung upacara</Make_Apparel_CeremonialCultistMask.label>
+  <!-- EN: Fabrica una capucha ceremonial. -->
+  <Make_Apparel_CeremonialCultistMask.description>Buat tudung upacara.Topeng upacara yang biasanya dibawa oleh mereka yang memuliakan kekosongan dan kedaulatan mereka.</Make_Apparel_CeremonialCultistMask.description>
+  <!-- EN: Fabricando capucha ceremonial. -->
+  <Make_Apparel_CeremonialCultistMask.jobString>Membuat tudung upacara.</Make_Apparel_CeremonialCultistMask.jobString>
+  
+  <!-- EN: fabricar máscara ritual -->
+  <Make_Apparel_CultistMask.label>Membuat topeng ritual</Make_Apparel_CultistMask.label>
+  <!-- EN: Fabrica una máscara ritual. -->
+  <Make_Apparel_CultistMask.description>Buat topeng ritual.Topeng yang mengganggu bahwa mereka yang menyembah kekosongan membawa.</Make_Apparel_CultistMask.description>
+  <!-- EN: Fabricando máscara ritual. -->
+  <Make_Apparel_CultistMask.jobString>Membuat topeng ritual.</Make_Apparel_CultistMask.jobString>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: No empty containment destination -->
+  <NoEmptyEntityHolders>Tidak ada tempat penahanan kosong</NoEmptyEntityHolders>
+  <!-- EN: choose containment destination -->
+  <ChooseEntityHolder>Pilih tempat penahanan</ChooseEntityHolder>
+  <!-- EN: Containment strength -->
+  <FloatMenuContainmentStrength>Kekuatan penahanan</FloatMenuContainmentStrength>
+  <!-- EN: {0_label} requires -->
+  <FloatMenuContainmentRequires>Membutuhkan {0_label}</FloatMenuContainmentRequires>
+  <!-- EN: Reserved by -->
+  <EntityHolderReservedBy>Dicadangkan oleh</EntityHolderReservedBy>
+
+  <!-- EN: Talk to {0_nameDef} -->
+  <TalkTo>Bicaralah dengan {0_namedef}</TalkTo>
+  <!-- EN: Cannot talk to {0_nameDef} -->
+  <CannotTalkTo>Anda tidak dapat berbicara dengan {0_namedef}</CannotTalkTo>
+  <!-- EN: incapable of suppression -->
+  <ZeroSuppressionRate>Tidak dapat menekan</ZeroSuppressionRate>
+  <!-- EN: cannot stand next to -->
+  <CannotStandNear>tidak bisa dekat</CannotStandNear>
+
+  <!-- EN: extract from {0} -->
+  <ExtractBioferrite>Ekstrak bioferrita dari {0}</ExtractBioferrite>
+  <!-- EN: bioferrite regenerating -->
+  <BioferriteAlreadyExtracted>Regenerasi Bioferrita</BioferriteAlreadyExtracted>
+
+</LanguageData>

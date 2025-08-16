@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bearskin -->
+  <Leather_Bear.label>Menanggung kulit</Leather_Bear.label>
+  <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
+  <Leather_Bear.description>Kulit berbulu beruang yang kuat.Dibandingkan dengan sebagian besar kulit, ini sedikit lebih tahan dan sedikit lebih baik di semua jenis regulasi suhu.</Leather_Bear.description>
+  
+  <!-- EN: birdskin -->
+  <Leather_Bird.label>Kulit burung</Leather_Bird.label>
+  <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
+  <Leather_Bird.description>Kulit burung yang kecokelatan, pengeringan, dan dikikis.Itu cukup halus.Tanpa bulunya, ia memberikan sedikit perlindungan terhadap panas atau dingin.</Leather_Bird.description>
+  
+  <!-- EN: bluefur -->
+  <Leather_Bluefur.label>kulit mupal</Leather_Bluefur.label>
+  <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
+  <Leather_Bluefur.description>Kulit berbulu mofalo.Dikenali karena pewarna biru yang khas.Regulasi suhu yang baik di iklim dingin.</Leather_Bluefur.description>
+  
+  <!-- EN: camelhide -->
+  <Leather_Camel.label>Kulit DROMEDARY</Leather_Camel.label>
+  <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
+  <Leather_Camel.description>Kulit unta yang kecokelatan, kering dan tergores.Regulasi suhu yang baik di iklim hangat.</Leather_Camel.description>
+  
+  <!-- EN: chinchilla fur -->
+  <Leather_Chinchilla.label>Kulit chinchilla</Leather_Chinchilla.label>
+  <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
+  <Leather_Chinchilla.description>Chinchilla kecokelatan, pengeringan dan dikikis.Dikenal sebagai kulit yang sangat mewah dan isolasi, sangat berharga.</Leather_Chinchilla.description>
+  
+  <!-- EN: dog leather -->
+  <Leather_Dog.label>kulit anjing</Leather_Dog.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Dog.description>Kulit kecokelatan, pengeringan, dan tergores.Bahan tradisional yang bagus untuk persiapan pakaian dan tas.</Leather_Dog.description>
+  
+  <!-- EN: elephant leather -->
+  <Leather_Elephant.label>Kulit gajah</Leather_Elephant.label>
+  <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
+  <Leather_Elephant.description>Kulit gajah yang disamak, mengeringkan, dan menggesek.Meskipun cukup resisten, ini adalah isolasi yang buruk.</Leather_Elephant.description>
+  
+  <!-- EN: foxfur -->
+  <Leather_Fox.label>Kulit rubah</Leather_Fox.label>
+  <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
+  <Leather_Fox.description>Kulit rubah.Ini melindungi dengan baik dari kedinginan dan cukup mewah, mencapai harga tinggi.</Leather_Fox.description>
+  
+  <!-- EN: guinea pig fur -->
+  <Leather_GuineaPig.label>Kulit Cobaya</Leather_GuineaPig.label>
+  <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
+  <Leather_GuineaPig.description>Lembar kulit Cobaya.Ini sangat halus dan mewah.</Leather_GuineaPig.description>
+  
+  <!-- EN: heavy fur -->
+  <Leather_Heavy.label>Kulit tebal</Leather_Heavy.label>
+  <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
+  <Leather_Heavy.description>Kulit tebal ditutupi dengan tikar kulit yang panjang dan tahan.Diperoleh dari hewan besar dan resisten.Kulit tebal ini mengisolasi dan melindungi dengan sangat baik.</Leather_Heavy.description>
+  <Leather_Heavy.stuffProps.stuffAdjective>Kulit tebal</Leather_Heavy.stuffProps.stuffAdjective>
+  
+  <!-- EN: human leather -->
+  <Leather_Human.label>Kulit manusia</Leather_Human.label>
+  <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Human.description>Kulit manusia kecokelatan, dikeringkan dan dikikis.Kebanyakan orang menemukan materi yang mengerikan ini.Beberapa menganggapnya menarik.Meskipun itu adalah kulit yang layak, itu tidak melindungi atau mengisolasi dengan baik.</Leather_Human.description>
+  
+  <!-- EN: lightleather -->
+  <Leather_Light.label>Kulit ringan</Leather_Light.label>
+  <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
+  <Leather_Light.description>Kulit halus dan ringan.Mungkin diperoleh dari hewan kecil.Ini tidak sama pelindungnya dengan kulit paling tebal.</Leather_Light.description>
+  <Leather_Light.stuffProps.stuffAdjective>Kulit ringan</Leather_Light.stuffProps.stuffAdjective>
+  
+  <!-- EN: lizardskin -->
+  <Leather_Lizard.label>Kulit lagarto</Leather_Lizard.label>
+  <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
+  <Leather_Lizard.description>Kulit kecokelatan dari reptil darah dingin.Kulit Lagarto cukup tahan, tetapi tidak terisolasi sama sekali.</Leather_Lizard.description>
+  
+  <!-- EN: panthera fur -->
+  <Leather_Panthera.label>Kulit Panther</Leather_Panthera.label>
+  <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
+  <Leather_Panthera.description>Kulit yang lembut dan berbulu yang diperoleh dari kucing yang hebat.Sulit untuk mengebor dan mengisolasi dengan baik terhadap panas.</Leather_Panthera.description>
+  
+  <!-- EN: patchleather -->
+  <Leather_Patch.label>Patch kulit</Leather_Patch.label>
+  <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
+  <Leather_Patch.description>Tekstil ringan, diperoleh dari memotong dan menjahit berbagai jenis kulit.Terlepas dari jenis kulit yang digunakan untuk membuatnya, jahitan tambalan yang tidak teratur membuatnya kurang tahan dan kurang isolasi daripada kulit utuh.</Leather_Patch.description>
+  
+  <!-- EN: pigskin -->
+  <Leather_Pig.label>Kulit babi</Leather_Pig.label>
+  <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
+  <Leather_Pig.description>Babi kecokelatan, pengeringan dan mengikis kulit.Meskipun itu adalah kulit yang layak, itu tidak melindungi atau mengisolasi dengan baik.</Leather_Pig.description>
+  
+  <!-- EN: plainleather -->
+  <Leather_Plain.label>kulit halus</Leather_Plain.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Plain.description>Kulit kecokelatan, pengeringan, dan gesekan.Bahan tradisional yang bagus untuk persiapan pakaian dan tas.</Leather_Plain.description>
+  <Leather_Plain.stuffProps.stuffAdjective>kulit halus</Leather_Plain.stuffProps.stuffAdjective>
+  
+  <!-- EN: rhinoceros leather -->
+  <Leather_Rhinoceros.label>Kulit Badak</Leather_Rhinoceros.label>
+  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Kulit babi kecokelatan, pengeringan dan dikikis.Ini sangat tahan lama dalam pertempuran, tetapi memberikan sedikit perlindungan terhadap pelapukan.</Leather_Rhinoceros.description>
+  
+  <!-- EN: thrumbofur -->
+  <Leather_Thrumbo.label>Kulit trumbo</Leather_Thrumbo.label>
+  <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_Thrumbo.description>Kulit berbulu dari trumbo.Mewah dan luar biasa tahan lama.Digunakan untuk kerajinan berkualitas lebih tinggi karena isolasi dan ketahanannya.</Leather_Thrumbo.description>
+  
+  <!-- EN: wolfskin -->
+  <Leather_Wolf.label>Kulit serigala</Leather_Wolf.label>
+  <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
+  <Leather_Wolf.description>Kulit berbulu lembut yang diperoleh dari makhluk lupin.Sulit untuk mengebor dan mengisolasi dengan baik melawan dingin.</Leather_Wolf.description>
+  
+</LanguageData>

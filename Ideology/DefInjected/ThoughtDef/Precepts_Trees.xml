@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.Gauranlen_connection.label>Koneksi Gauranlen</GauranlenConnectionDesired.stages.Gauranlen_connection.label>
+  <!-- EN: I am happily connected to a Gauranlen tree. -->
+  <GauranlenConnectionDesired.stages.Gauranlen_connection.description>Saya senang memiliki hubungan ini dengan pohon Gauranlen.</GauranlenConnectionDesired.stages.Gauranlen_connection.description>
+  <!-- EN: want Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>menginginkan koneksi gouran</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.label>
+  <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>Tanpa koneksi dengan pohon Gauranlen, saya tidak merasakan hubungan dengan alam.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-0.description>
+  <!-- EN: want Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>menginginkan koneksi gouran</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.label>
+  <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>Tanpa koneksi dengan pohon Gauranlen, saya tidak merasakan hubungan dengan alam.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-1.description>
+  <!-- EN: want Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>menginginkan koneksi gouran</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.label>
+  <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>Tanpa koneksi dengan pohon Gauranlen, saya tidak merasakan hubungan dengan alam.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-2.description>
+  <!-- EN: want Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>menginginkan koneksi gouran</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.label>
+  <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>Tanpa koneksi dengan pohon Gauranlen, saya tidak merasakan hubungan dengan alam.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-3.description>
+  <!-- EN: want Gauranlen connection -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>menginginkan koneksi gouran</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.label>
+  <!-- EN: Without a connection to a Gauranlen tree, I feel disconnected from nature. -->
+  <GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>Tanpa koneksi dengan pohon Gauranlen, saya tidak merasakan hubungan dengan alam.</GauranlenConnectionDesired.stages.want_Gauranlen_connection-4.description>
+  
+  <!-- EN: healthy trees -->
+  <TreeDensityReduced.stages.healthy_trees.label>pohon sehat</TreeDensityReduced.stages.healthy_trees.label>
+  <!-- EN: In the past quadrum, we didn't destroy many trees at all. Harmony with the trees is the basic foundation for a good life. -->
+  <TreeDensityReduced.stages.healthy_trees.description>Di masa lalu quadrum, kami tidak menghancurkan banyak pohon.Harmoni dengan pohon adalah fondasi dasar dari kehidupan yang baik.</TreeDensityReduced.stages.healthy_trees.description>
+  <!-- EN: trees disturbed -->
+  <TreeDensityReduced.stages.trees_disturbed.label>pohon yang terganggu</TreeDensityReduced.stages.trees_disturbed.label>
+  <!-- EN: In the past quadrum, we have destroyed trees we shouldn't have. It might have been necessary, but it is still an occasion for sadness. -->
+  <TreeDensityReduced.stages.trees_disturbed.description>Di masa lalu quadrum, kami menghancurkan pohon yang seharusnya tidak kami lakukan.Mungkin diperlukan, tetapi masih menjadi alasan kesedihan.</TreeDensityReduced.stages.trees_disturbed.description>
+  <!-- EN: trees defaced -->
+  <TreeDensityReduced.stages.trees_defaced.label>pohon cacat</TreeDensityReduced.stages.trees_defaced.label>
+  <!-- EN: In the past quadrum, we have destroyed a lot of trees we shouldn't have. I don't think this was necessary. -->
+  <TreeDensityReduced.stages.trees_defaced.description>Di masa lalu quadrum, kami telah menghancurkan banyak pohon yang seharusnya tidak kami lakukan.Saya tidak berpikir ini perlu.</TreeDensityReduced.stages.trees_defaced.description>
+  <!-- EN: trees damaged -->
+  <TreeDensityReduced.stages.trees_damaged.label>pohon yang rusak</TreeDensityReduced.stages.trees_damaged.label>
+  <!-- EN: In the past quadrum, we have destroyed many trees we shouldn't have. This crime was not necessary, but we did it anyways. -->
+  <TreeDensityReduced.stages.trees_damaged.description>Di masa lalu quadrum, kami telah menghancurkan banyak pohon yang seharusnya tidak kami lakukan.Kejahatan ini tidak perlu, tetapi kami tetap melakukannya.</TreeDensityReduced.stages.trees_damaged.description>
+  <!-- EN: trees harmed -->
+  <TreeDensityReduced.stages.trees_harmed.label>pohon yang terluka</TreeDensityReduced.stages.trees_harmed.label>
+  <!-- EN: In the past quadrum, we have destroyed an inexcusable number of trees. We need to do so much better. -->
+  <TreeDensityReduced.stages.trees_harmed.description>Di masa lalu quadrum, kami berakhir dengan sejumlah pohon yang tidak dapat dimaafkan.Kita harus melakukannya jauh lebih baik.</TreeDensityReduced.stages.trees_harmed.description>
+  <!-- EN: trees defiled -->
+  <TreeDensityReduced.stages.trees_defiled.label>Pohon yang Dipecahkan</TreeDensityReduced.stages.trees_defiled.label>
+  <!-- EN: In the past quadrum, we have destroyed an inexcusably large number of trees. The guilt lays heavy upon us. -->
+  <TreeDensityReduced.stages.trees_defiled.description>Di masa lalu quadrum, kami telah menghancurkan sejumlah pohon yang tidak dapat dimaafkan.Orang menimbang kita.</TreeDensityReduced.stages.trees_defiled.description>
+  <!-- EN: trees wrecked -->
+  <TreeDensityReduced.stages.trees_wrecked.label>Pohon yang hancur</TreeDensityReduced.stages.trees_wrecked.label>
+  <!-- EN: In the past quadrum, we have destroyed a very large number of trees. I can hear the leafy screams even now. -->
+  <TreeDensityReduced.stages.trees_wrecked.description>Di masa lalu quadrum, kami telah menghancurkan sejumlah besar pohon.Aku bisa mendengar teriakan daun bahkan sekarang.</TreeDensityReduced.stages.trees_wrecked.description>
+  <!-- EN: trees ravaged -->
+  <TreeDensityReduced.stages.trees_ravaged.label>pohon yang hancur</TreeDensityReduced.stages.trees_ravaged.label>
+  <!-- EN: In the past quadrum, we have destroyed a horrific number of trees. We are the blight on this universe. -->
+  <TreeDensityReduced.stages.trees_ravaged.description>Di masa lalu quadrum, kita menghancurkan sejumlah pohon yang menakutkan.Kami adalah wabah dari alam semesta ini.</TreeDensityReduced.stages.trees_ravaged.description>
+  
+  <!-- EN: amazing trees -->
+  <TreesDesired.stages.amazing_trees.label>Pohon yang luar biasa</TreesDesired.stages.amazing_trees.label>
+  <!-- EN: I am surrounded by several massive, beautiful trees. The glory of nature astounds me! -->
+  <TreesDesired.stages.amazing_trees.description>Mereka mengelilingi saya pohon -pohon yang indah dan besar.Kemuliaan alam mengherankan saya.</TreesDesired.stages.amazing_trees.description>
+  <!-- EN: amazing tree -->
+  <TreesDesired.stages.amazing_tree-0.label>Pohon yang luar biasa</TreesDesired.stages.amazing_tree-0.label>
+  <!-- EN: I very recently encountered a massive, beautiful tree - a physical seat of morality! -->
+  <TreesDesired.stages.amazing_tree-0.description>Baru -baru ini saya menemukan pohon yang indah dan besar, markas fisik moral!</TreesDesired.stages.amazing_tree-0.description>
+  <!-- EN: remarkable trees -->
+  <TreesDesired.stages.remarkable_trees.label>Pohon terkenal</TreesDesired.stages.remarkable_trees.label>
+  <!-- EN: I am surrounded by a lush forest. -->
+  <TreesDesired.stages.remarkable_trees.description>Itu mengelilingi saya hutan rindang.</TreesDesired.stages.remarkable_trees.description>
+  <!-- EN: amazing tree -->
+  <TreesDesired.stages.amazing_tree-1.label>Pohon yang luar biasa</TreesDesired.stages.amazing_tree-1.label>
+  <!-- EN: I recently encountered a massive, beautiful tree. -->
+  <TreesDesired.stages.amazing_tree-1.description>Baru -baru ini saya bertemu dengan pohon yang indah dan besar.</TreesDesired.stages.amazing_tree-1.description>
+  <!-- EN: rich forest -->
+  <TreesDesired.stages.rich_forest.label>Hutan Frondoso</TreesDesired.stages.rich_forest.label>
+  <!-- EN: I was recently surrounded by a lush forest. -->
+  <TreesDesired.stages.rich_forest.description>Baru -baru ini hutan yang rimbun mengelilingi saya.</TreesDesired.stages.rich_forest.description>
+  <!-- EN: full trees -->
+  <TreesDesired.stages.full_trees.label>Pohon lengkap</TreesDesired.stages.full_trees.label>
+  <!-- EN: I recently walked among many full trees. -->
+  <TreesDesired.stages.full_trees.description>Saya baru -baru ini berjalan di antara banyak pohon lengkap.</TreesDesired.stages.full_trees.description>
+  <!-- EN: mixed trees -->
+  <TreesDesired.stages.mixed_trees.label>pohon campuran</TreesDesired.stages.mixed_trees.label>
+  <!-- EN: I recently walked among a wide variety of trees. -->
+  <TreesDesired.stages.mixed_trees.description>Saya baru -baru ini berjalan di antara berbagai macam pohon.</TreesDesired.stages.mixed_trees.description>
+  <!-- EN: full tree -->
+  <TreesDesired.stages.full_tree.label>Pohon lengkap</TreesDesired.stages.full_tree.label>
+  <!-- EN: I recently encountered a full tree. -->
+  <TreesDesired.stages.full_tree.description>Saya baru -baru ini menemukan pohon yang lengkap.</TreesDesired.stages.full_tree.description>
+  <!-- EN: mini trees -->
+  <TreesDesired.stages.mini_trees.label>pohon mini</TreesDesired.stages.mini_trees.label>
+  <!-- EN: I was recently surrounded by plenty of miniature trees. -->
+  <TreesDesired.stages.mini_trees.description>Saya baru -baru ini dikelilingi oleh banyak pohon miniatur.</TreesDesired.stages.mini_trees.description>
+  <!-- EN: mini tree -->
+  <TreesDesired.stages.mini_tree.label>pohon mini</TreesDesired.stages.mini_tree.label>
+  <!-- EN: I recently got to enjoy the company of a miniature tree. -->
+  <TreesDesired.stages.mini_tree.description>Saya bisa menikmati ditemani pohon miniatur.</TreesDesired.stages.mini_tree.description>
+  <!-- EN: no tree -->
+  <TreesDesired.stages.no_tree-0.label>Tidak ada pohon</TreesDesired.stages.no_tree-0.label>
+  <!-- EN: I haven't been around any trees in a while. -->
+  <TreesDesired.stages.no_tree-0.description>Saya belum dekat dengan pohon apa pun.</TreesDesired.stages.no_tree-0.description>
+  <!-- EN: no tree -->
+  <TreesDesired.stages.no_tree-1.label>Tidak ada pohon</TreesDesired.stages.no_tree-1.label>
+  <!-- EN: I miss having trees around me. -->
+  <TreesDesired.stages.no_tree-1.description>Saya rindu memiliki pohon di sekitar saya.</TreesDesired.stages.no_tree-1.description>
+  <!-- EN: trees missed -->
+  <TreesDesired.stages.trees_missed-0.label>Pohon yang terlupakan</TreesDesired.stages.trees_missed-0.label>
+  <!-- EN: It has been a while since I've been near a tree. -->
+  <TreesDesired.stages.trees_missed-0.description>Saya sudah lama tidak dekat dengan pohon.</TreesDesired.stages.trees_missed-0.description>
+  <!-- EN: trees missed -->
+  <TreesDesired.stages.trees_missed-1.label>Pohon yang agak terlupakan</TreesDesired.stages.trees_missed-1.label>
+  <!-- EN: It has been too long since I've been near a tree. -->
+  <TreesDesired.stages.trees_missed-1.description>Saya tidak terlalu dekat dengan pohon.</TreesDesired.stages.trees_missed-1.description>
+  <!-- EN: trees sorely missed -->
+  <TreesDesired.stages.trees_sorely_missed.label>Pohon yang sangat terlupakan</TreesDesired.stages.trees_sorely_missed.label>
+  <!-- EN: It has been way too long since I've been near a tree! -->
+  <TreesDesired.stages.trees_sorely_missed.description>Saya tidak terlalu dekat dengan pohon!</TreesDesired.stages.trees_sorely_missed.description>
+  
+</LanguageData>

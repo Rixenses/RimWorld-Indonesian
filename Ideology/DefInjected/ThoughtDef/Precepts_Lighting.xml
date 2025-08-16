@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blinding light -->
+  <Darklight_Preferred_BlindingLight.stages.blinding_light.label>buta</Darklight_Preferred_BlindingLight.stages.blinding_light.label>
+  <!-- EN: I cannot stand this terrible light. My senses are overwhelmed! -->
+  <Darklight_Preferred_BlindingLight.stages.blinding_light.description>Saya tidak tahan dengan cahaya yang mengerikan ini.Indra saya kewalahan.</Darklight_Preferred_BlindingLight.stages.blinding_light.description>
+  
+  <!-- EN: darklight -->
+  <Darklight_Preferred_Darklight.stages.darklight.label>Cahaya gelap</Darklight_Preferred_Darklight.stages.darklight.label>
+  <!-- EN: This dim light is perfect. I feel focused and energized. -->
+  <Darklight_Preferred_Darklight.stages.darklight.description>Cahaya redup ini sempurna.Saya merasa terkonsentrasi dan dengan energi.</Darklight_Preferred_Darklight.stages.darklight.description>
+  
+  <!-- EN: indoor light -->
+  <Darklight_Preferred_IndoorLight.stages.indoor_light.label>Cahaya interior</Darklight_Preferred_IndoorLight.stages.indoor_light.label>
+  <!-- EN: This indoor light is too bright. I would prefer something dimmer. -->
+  <Darklight_Preferred_IndoorLight.stages.indoor_light.description>Cahaya batin ini terlalu terang.Saya lebih suka sesuatu yang lebih redup.</Darklight_Preferred_IndoorLight.stages.indoor_light.description>
+  
+  <!-- EN: beautiful eclipse -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.label>Eclipse yang indah</Eclipse_Beautiful.stages.beautiful_eclipse.label>
+  <!-- EN: I have a moment's respite from the blinding sunlight. -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.description>Saya memiliki momen sinar matahari yang tersisa.</Eclipse_Beautiful.stages.beautiful_eclipse.description>
+  
+</LanguageData>

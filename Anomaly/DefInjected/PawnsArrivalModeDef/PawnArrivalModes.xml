@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} have arrived from nearby. -->
+  <EdgeWalkInDarkness.textEnemy>Sekelompok {0} telah tiba dari sekitarnya.</EdgeWalkInDarkness.textEnemy>
+  <!-- EN: A group of friendly {0} have arrived nearby. -->
+  <EdgeWalkInDarkness.textFriendly>Grup Sekutu {0} telah tiba dari dekat.</EdgeWalkInDarkness.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkInDarkness.textWillArrive>{0_pawnspluralDef} akan tiba dengan berjalan kaki.</EdgeWalkInDarkness.textWillArrive>
+  
+  <!-- EN: A horde of {0} shambling, rotting corpses is approaching. -->
+  <EdgeWalkInDistributedGroups.textEnemy>Gerombolan {0} rotrefactos walkers semakin dekat.</EdgeWalkInDistributedGroups.textEnemy>
+  <!-- EN: A horde of {0} shambling, rotting corpses are about to arrive. -->
+  <EdgeWalkInDistributedGroups.textWillArrive>Gerombolan {0} rotrefactos walkers akan tiba.</EdgeWalkInDistributedGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived from nearby. -->
+  <EdgeWalkInHateChanters.textEnemy>Sekelompok {0} dari faksi {1} telah tiba dari sekitarnya.</EdgeWalkInHateChanters.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkInHateChanters.textFriendly>Grup Sekutu {0} dari faksi {1} berasal dari sekitarnya.</EdgeWalkInHateChanters.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkInHateChanters.textWillArrive>{0_pawnspluralDef} akan tiba dengan berjalan kaki.</EdgeWalkInHateChanters.textWillArrive>
+  
+</LanguageData>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install drill arm -->
+  <InstallDrillArm.label>Pasang lengan bor</InstallDrillArm.label>
+  <!-- EN: Install a drill arm. -->
+  <InstallDrillArm.description>Pasang bor lengan.</InstallDrillArm.description>
+  <!-- EN: Installing drill arm. -->
+  <InstallDrillArm.jobString>Memasang lengan bor.</InstallDrillArm.jobString>
+  
+  <!-- EN: install elbow blade -->
+  <InstallElbowBlade.label>Pasang siku blade</InstallElbowBlade.label>
+  <!-- EN: Install an elbow blade. -->
+  <InstallElbowBlade.description>Pasang pisau siku.</InstallElbowBlade.description>
+  <!-- EN: Installing elbow blade. -->
+  <InstallElbowBlade.jobString>Menginstal siku blade.</InstallElbowBlade.jobString>
+  
+  <!-- EN: install field hand -->
+  <InstallFieldHand.label>memasang</InstallFieldHand.label>
+  <!-- EN: Install a field hand. -->
+  <InstallFieldHand.description>Pasang tangan lapangan.</InstallFieldHand.description>
+  <!-- EN: Installing field hand. -->
+  <InstallFieldHand.jobString>Menginstal Tangan Bidang.</InstallFieldHand.jobString>
+  
+  <!-- EN: install hand talon -->
+  <InstallHandTalon.label>Pasang taji tangan</InstallHandTalon.label>
+  <!-- EN: Install a hand talon. -->
+  <InstallHandTalon.description>Pasang taji tangan.</InstallHandTalon.description>
+  <!-- EN: Installing hand talon. -->
+  <InstallHandTalon.jobString>Memasang Spur Tangan.</InstallHandTalon.jobString>
+  
+  <!-- EN: install knee spike -->
+  <InstallKneeSpike.label>Pasang tulang belakang lutut</InstallKneeSpike.label>
+  <!-- EN: Install a knee spike. -->
+  <InstallKneeSpike.description>Pasang tulang belakang lutut.</InstallKneeSpike.description>
+  <!-- EN: Installing knee spike. -->
+  <InstallKneeSpike.jobString>Memasang tulang belakang lutut.</InstallKneeSpike.jobString>
+  
+  <!-- EN: install mindscrew -->
+  <InstallMindscrew.label>Pasang mental Cilicio</InstallMindscrew.label>
+  <!-- EN: Install a mindscrew. -->
+  <InstallMindscrew.description>Pasang silisi mental.</InstallMindscrew.description>
+  <!-- EN: Installing mindscrew. -->
+  <InstallMindscrew.jobString>Memasang Cilicio Mental.</InstallMindscrew.jobString>
+  
+  <!-- EN: install venom fangs -->
+  <InstallVenomFangs.label>Pasang taring beracun</InstallVenomFangs.label>
+  <!-- EN: Install venom fangs. -->
+  <InstallVenomFangs.description>Pasang taring beracun.</InstallVenomFangs.description>
+  <!-- EN: Installing venom fangs. -->
+  <InstallVenomFangs.jobString>Menginstal taring beracun.</InstallVenomFangs.jobString>
+  
+  <!-- EN: install venom talon -->
+  <InstallVenomTalon.label>Pasang taji beracun</InstallVenomTalon.label>
+  <!-- EN: Install a venom talon. -->
+  <InstallVenomTalon.description>Pasang taji beracun.</InstallVenomTalon.description>
+  <!-- EN: Installing venom talon. -->
+  <InstallVenomTalon.jobString>Memasang taji beracun.</InstallVenomTalon.jobString>
+  
+  <!-- EN: remove elbow blade -->
+  <RemoveElbowBlade.label>Ekstrak bilah siku</RemoveElbowBlade.label>
+  <!-- EN: Remove elbow blade. -->
+  <RemoveElbowBlade.description>Ekstrak pisau siku.</RemoveElbowBlade.description>
+  <!-- EN: Removing elbow blade. -->
+  <RemoveElbowBlade.jobString>Mengekstraksi bilah siku.</RemoveElbowBlade.jobString>
+  
+  <!-- EN: remove hand talon -->
+  <RemoveHandTalon.label>Ekstrak taji tangan</RemoveHandTalon.label>
+  <!-- EN: Remove hand talon. -->
+  <RemoveHandTalon.description>Ekstrak taji tangan.</RemoveHandTalon.description>
+  <!-- EN: Removing hand talon. -->
+  <RemoveHandTalon.jobString>Extraning Hand Spur.</RemoveHandTalon.jobString>
+  
+  <!-- EN: remove knee spike -->
+  <RemoveKneeSpike.label>Ekstrak tulang belakang lutut</RemoveKneeSpike.label>
+  <!-- EN: Remove knee spike. -->
+  <RemoveKneeSpike.description>Ekstrak tulang belakang lutut.</RemoveKneeSpike.description>
+  <!-- EN: Removing knee spike. -->
+  <RemoveKneeSpike.jobString>Tulang lutut ekstra.</RemoveKneeSpike.jobString>
+  
+  <!-- EN: remove venom fangs -->
+  <RemoveVenomFangs.label>Ekstrak taring beracun</RemoveVenomFangs.label>
+  <!-- EN: Remove venom fangs. -->
+  <RemoveVenomFangs.description>Ekstrak taring beracun.</RemoveVenomFangs.description>
+  <!-- EN: Removing venom fangs. -->
+  <RemoveVenomFangs.jobString>Mengekstraksi taring beracun.</RemoveVenomFangs.jobString>
+  
+  <!-- EN: remove venom talon -->
+  <RemoveVenomTalon.label>Ekstrak taji beracun</RemoveVenomTalon.label>
+  <!-- EN: Remove venom talon. -->
+  <RemoveVenomTalon.description>Ekstrak taji beracun.</RemoveVenomTalon.description>
+  <!-- EN: Removing venom talon. -->
+  <RemoveVenomTalon.jobString>Extraning Racun Spur.</RemoveVenomTalon.jobString>
+  
+</LanguageData>

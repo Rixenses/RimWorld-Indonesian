@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_battlename-> gratis-untuk-semua</li>-><Battle_Brawl.rulePack.rulesStrings>
+    <li>r_battlename-> semua menentang semua</li>
+  </Battle_Brawl.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_battlename-> [Partisipan1_namedef] vs [Partisipan2_namedef]</li>-><Battle_Duel.rulePack.rulesStrings>
+    <li>r_battlename-> [peserta1_namedef] contra [Partisipan2_namedef]</li>
+  </Battle_Duel.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_battlename-> [faction1_name] konflik internal</li>-><Battle_Internal.rulePack.rulesStrings>
+    <li>R_battlename-> konflik internal en [faction1_name]</li>
+  </Battle_Internal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>R_BATTLENAME-> Laporan [Partisipan1_Namedef]</li>-><Battle_Solo.rulePack.rulesStrings>
+    <li>r_battlename-> informe de [peserta1_namedef]</li>
+  </Battle_Solo.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_battlename-> [faction1_name] vs [faction2_name]</li>-><Battle_War.rulePack.rulesStrings>
+    <li>r_battlename-> [faction1_name] contra [faction2_name]</li>
+  </Battle_War.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: terror -->
+  <Terror.label>teror</Terror.label>
+  <!-- EN: Mental state: Fleeing in terror -->
+  <Terror.baseInspectLine>Keadaan mental: Berlari ketakutan</Terror.baseInspectLine>
+  <!-- EN: {0} is fleeing in terror. -->
+  <Terror.beginLetter>{0} melarikan diri dari ketakutan.</Terror.beginLetter>
+  <!-- EN: fleeing in terror -->
+  <Terror.beginLetterLabel>melarikan diri ketakutan</Terror.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in terror. -->
+  <Terror.recoveryMessage>{0} tidak lagi melarikan diri.</Terror.recoveryMessage>
+  
+</LanguageData>

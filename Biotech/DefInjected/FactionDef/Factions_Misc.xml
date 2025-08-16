@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rough pig union -->
+  <OutlanderRoughPig.label>Hard -to -skins Union</OutlanderRoughPig.label>
+  <!-- EN: A loose union of hardy pigskin townships. They're willing to make friends, even with thinsnouts, but they're also ready to toss a bomb and gnaw human gristle when it suits them. Treat them with respect and they'll offer a trotter to an ally in need. Turn against them and the last thing you hear might be a triumphant battle squeal. -->
+  <OutlanderRoughPig.description>Persatuan orang -orang yang keras.Mereka bersedia berteman, bahkan dengan moncong, tetapi juga siap untuk meluncurkan tulang rawan manusia pompa ketika cocok untuk mereka.Perlakukan mereka dengan hormat dan tawarkan hoove ke sekutu yang membutuhkannya.Dapatkan melawan mereka dan hal terakhir yang Anda dengar bisa menjadi pertempuran yang penuh kemenangan.</OutlanderRoughPig.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRoughPig.leaderTitle>Penasihat pertama</OutlanderRoughPig.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRoughPig.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</OutlanderRoughPig.messageDefendersAttacking>
+  <!-- EN: pigskin -->
+  <OutlanderRoughPig.pawnSingular>Skincard</OutlanderRoughPig.pawnSingular>
+  <!-- EN: pigskins -->
+  <OutlanderRoughPig.pawnsPlural>Kulit</OutlanderRoughPig.pawnsPlural>
+  
+  <!-- EN: waster pirates -->
+  <PirateWaster.label>Bajak laut sampah</PirateWaster.label>
+  <!-- EN: A loose collection of violent pirate bands made up primarily of wasters - xenohumans engineered to thrive around toxins and pollution. They have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <PirateWaster.description>Koleksi longgar pita bajak laut kekerasan yang dibentuk terutama oleh terak: xenohumans yang dirancang untuk makmur di sekitar racun dan polusi.Mereka memiliki sedikit minat dalam konstruksi atau pertanian, dan lebih suka mendapatkan mata pencaharian dari orang lain menggunakan kekerasan.Sebagian besar memiliki senjata bubuk mesiu, meskipun beberapa lebih suka menikam para korban.</PirateWaster.description>
+  <!-- EN: boss -->
+  <PirateWaster.leaderTitle>bos</PirateWaster.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateWaster.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</PirateWaster.messageDefendersAttacking>
+  <!-- EN: waster -->
+  <PirateWaster.pawnSingular>terak</PirateWaster.pawnSingular>
+  <!-- EN: wasters -->
+  <PirateWaster.pawnsPlural>escorias</PirateWaster.pawnsPlural>
+  
+  <!-- EN: yttakin pirates -->
+  <PirateYttakin.label>Pirates Yttakin</PirateYttakin.label>
+  <!-- EN: A close-knit band of hulking, fur-bodied pirates of the yttakin xenotype. They refuse to deal with outsiders and are quick to call their animal warriors against those who disrespect them - or whose wealth they intend to take.\n\nOriginally engineered to populate the icy planet Yttak, yttakin now pursue their traditional lifestyle on many worlds. -->
+  <PirateYttakin.description>Pita bajak laut yang sangat dekat dengan tubuh yenotype yttakin.Mereka menolak untuk berurusan dengan orang asing dan melarikan diri dari para prajurit hewan mereka terhadap mereka yang tidak memiliki rasa hormat, atau yang kekayaan yang ingin mereka ambil.</PirateYttakin.description>
+  <!-- EN: boss -->
+  <PirateYttakin.leaderTitle>bos</PirateYttakin.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateYttakin.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</PirateYttakin.messageDefendersAttacking>
+  <!-- EN: yttakin -->
+  <PirateYttakin.pawnSingular>yt</PirateYttakin.pawnSingular>
+  <!-- EN: yttakin -->
+  <PirateYttakin.pawnsPlural>yt</PirateYttakin.pawnsPlural>
+  
+  <!-- EN: sanguophages -->
+  <Sanguophages.label>darah</Sanguophages.label>
+  <!-- EN: A group of ancient sanguophages. -->
+  <Sanguophages.description>Sekelompok berdarah kuno.</Sanguophages.description>
+  <!-- EN: leader -->
+  <Sanguophages.leaderTitle>pemimpin</Sanguophages.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Sanguophages.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</Sanguophages.messageDefendersAttacking>
+  <!-- EN: sanguophage -->
+  <Sanguophages.pawnSingular>darah</Sanguophages.pawnSingular>
+  <!-- EN: sanguophages -->
+  <Sanguophages.pawnsPlural>darah</Sanguophages.pawnsPlural>
+  
+  <!-- EN: fierce neanderthal tribe -->
+  <TribeRoughNeanderthal.label>Suku Feroz Neanderthal</TribeRoughNeanderthal.label>
+  <!-- EN: An unfriendly, territorial tribe of neanderthals. They are open to peaceful trade, but are otherwise unfriendly and territorial. Warriors from their tribe won't hesitate to bash in the skulls of anyone they deem dangerous. Their numbers, and the extreme amounts of damage they absorb before falling make them serious foes despite their lack of technology and analytical ability.\n\nHaving been on this planet for countless generations, they have no memory of how they got here. They might be the descendants of a neanderthal service caste from a dead civilization, or even the leftovers from some ancient science experiment. -->
+  <TribeRoughNeanderthal.description>Suku teritorial yang bermusuhan dari Neanderthal.Mereka terbuka untuk perdagangan yang damai, tetapi jika tidak, mereka bermusuhan dan teritorial.Para pejuang suku mereka tidak akan ragu untuk menghancurkan tengkorak siapa pun yang mereka anggap berbahaya.Jumlah mereka dan jumlah kerusakan ekstrem yang mereka serap sebelum jatuh membuat mereka musuh yang serius meskipun kurangnya teknologi dan kapasitas analitis.Mereka bisa menjadi keturunan dari Kasta Layanan Neanderthal dari peradaban mati, atau bahkan sisa -sisa beberapa percobaan ilmiah lama.</TribeRoughNeanderthal.description>
+  <!-- EN: chief -->
+  <TribeRoughNeanderthal.leaderTitle>bos</TribeRoughNeanderthal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRoughNeanderthal.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</TribeRoughNeanderthal.messageDefendersAttacking>
+  <!-- EN: neanderthal -->
+  <TribeRoughNeanderthal.pawnSingular>Neanderthal</TribeRoughNeanderthal.pawnSingular>
+  <!-- EN: neanderthals -->
+  <TribeRoughNeanderthal.pawnsPlural>Neanderthal</TribeRoughNeanderthal.pawnsPlural>
+  
+  <!-- EN: savage impid tribe -->
+  <TribeSavageImpid.label>Suku Diablillos Liar</TribeSavageImpid.label>
+  <!-- EN: A vicious tribe of yellow-skinned, fire-spewing impids. This particular tribe has no intention of coexisting peacefully with anyone else. Their warriors are experts at using their natural speed and flame attacks to burn the towns and children of other peoples.\n\nHaving been here for thousands of years, the origins of this tribe are lost in myth. They might descend from a group of settlers who lost their technology, or an impid community in some long-ruined civilization. -->
+  <TribeSavageImpid.description>Suku ganas dari diablillos kulit kuning yang memuntahkan api.Suku khusus ini tidak bermaksud untuk hidup berdampingan secara damai dengan orang lain.Prajurit mereka adalah ahli dalam menggunakan kecepatan alami dan serangan api untuk membakar orang dan anak -anak orang lain.Mereka dapat turun dari sekelompok pemukim yang kehilangan teknologi mereka, atau dari komunitas yang tidak sopan di beberapa peradaban yang hancur sejak lama.</TribeSavageImpid.description>
+  <!-- EN: chief -->
+  <TribeSavageImpid.leaderTitle>bos</TribeSavageImpid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavageImpid.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</TribeSavageImpid.messageDefendersAttacking>
+  <!-- EN: imp -->
+  <TribeSavageImpid.pawnSingular>Diablillo</TribeSavageImpid.pawnSingular>
+  <!-- EN: imps -->
+  <TribeSavageImpid.pawnsPlural>Diablillos</TribeSavageImpid.pawnsPlural>
+  
+</LanguageData>

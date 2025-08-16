@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Self-resurrect -->
+  <CommandSelfResurrect>Self -Resort</CommandSelfResurrect>
+  <!-- EN: Command this person to self-resurrect, healing wounds and repairing damaged body parts. The process is not perfect and may cause scarring. -->
+  <CommandSelfResurrectDesc>Pesanlah orang ini untuk menyelaraskan diri, menyembuhkan luka dan memperbaiki bagian -bagian tubuh yang rusak.Prosesnya tidak sempurna dan bisa meninggalkan bekas luka.</CommandSelfResurrectDesc>
+
+  <!-- EN: Study -->
+  <ToggleStudy>Belajar</ToggleStudy>
+  <!-- EN: When on, a researcher will automatically study the entity restrained on this holding platform. -->
+  <ToggleStudyDesc>Saat diaktifkan, seorang peneliti akan secara otomatis mempelajari entitas yang dikurung pada platform penahanan ini.</ToggleStudyDesc>
+
+</LanguageData>

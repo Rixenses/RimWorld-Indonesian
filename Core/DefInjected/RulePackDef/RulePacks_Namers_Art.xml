@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_name (p = 4)-> [karya seni] [trans] [ConceptAnd]</li>
+    <li>r_art_name (p = 4)-> [mungkin_a] [mungkin_adjective] [karya seni]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [ConceptAnd]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [Terrainfeature]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [sayuran]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [Game]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [hewan]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [gore]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [NaturalObject]</li>
+    <li>r_art_name-> [mungkin_a] [Maybe_adjective] [Personfamily]</li>
+    <li>r_art_name-> [mungkin_a] [mungkin_adjective] [musuh]</li>
+    <li>r_art_name (p = 2)-> [karya seni] No. [art_name_numeric]</li>
+    <li>r_art_name-> no.[art_name_numeric]</li>
+    <li>r_art_name-> [art_name_numeric]</li>
+    <li>r_art_name-> [karya seni] [art_name_numeric]</li>
+    <li>r_art_name-> [ConceptAnt] No. [art_name_numeric]</li>
+    <li>r_art_name-> [art_name_numeric] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 6)-> [anypawn_nameindef] [karya seni]</li>
+    <li>r_art_name (p = 3)-> [mungkin_a] [anypawn_nameindef] [trans] [warna]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [Personalcharacteristic]</li>
+    <li>r_art_name (p = 3)-> [karakteristik pribadi] dari [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [ConceptAnd] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_a] [karya seni] [trans] [anypawn_nameindef]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [digit] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [romanumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [romanumeral] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [romannumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [digit] [romanumeral] [mungkin_letter]</li>
+    <li>Maybe_letter (p = 8)-></li>
+    <li>Maybe_letter-> [huruf]</li>
+    <li>Mungkin_Letter-> [Surat] [Surat]</li>
+    <li>Mungkin_a (p = 3)-></li>
+    <li>mungkin_a-> a</li>
+    <li>Mungkin_adjective (p = 5)-></li>
+    <li>mungkin_adjective (p = 2)-> [AdjectiveeAngsty]</li>
+    <li>mungkin_adjective-> [AdjectiveBadass]</li>
+    <li>mungkin_adjective-> [warna]</li>-><NamerArtCommon.rulePack.rulesStrings>
+    <li>r_art_name (p = 4)-> [karya seni] [trans] [ConceptAndef]</li>
+    <li>r_art_name (p = 4)-> [artwork_fem] [trans] [ConceptAndef]</li>
+    <li>r_art_name (p = 4)-> [mungkin_a] [karya seni] [mungkin_adjective]</li>
+    <li>r_art_name (p = 4)-> [mungkin_afem] [artwork_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [ConceptAnd] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [conceptany_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [Terrainfeature] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [terrainfeature_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [sayuran] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [vegetable_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [game] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [Game_fem] [Maybe_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [hewan] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [animal_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [gore] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_a] [NaturalObject] [Maybe_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [naturalObject_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [Personfamily] [Maybe_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [personfamily_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name-> [mungkin_a] [musuh] [mungkin_adjective]</li>
+    <li>r_art_name-> [mungkin_afem] [musuh_fem] [mungkin_adjective_fem]</li>
+    <li>r_art_name (p = 2)-> [karya seni] No. [art_name_numeric]</li>
+    <li>r_art_name (p = 2)-> [artwork_fem] No. [art_name_numeric]</li>
+    <li>r_art_name-> Arte No. [art_name_numeric]</li>
+    <li>r_art_name-> [art_name_numeric]</li>
+    <li>r_art_name-> [karya seni] y [art_name_numeric]</li>
+    <li>r_art_name-> [artwork_fem] y [art_name_numeric]</li>
+    <li>r_art_name-> [ConceptAryFull] [art_name_numeric]</li>
+    <li>r_art_name-> [art_name_numeric] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name-> [art_name_numeric] [transof] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 6)-> [karya seni] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 6)-> [artwork_fem] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_a] [warna]</li>
+    <li>r_art_name (p = 3)-> [mungkin_afem] [color_fem]</li>
+    <li>r_art_name (p = 3)-> [personalcharacteristic] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [personalcharacteristic_fem] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [ConceptArdull] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_a] [karya seni] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_a] [karya seni] [transof] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_afem] [artwork_fem] [trans] [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [mungkin_afem] [artwork_fem] [transof] [anypawn_nameindef]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [digit] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [romanumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [digit] [romanumeral] [digit] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [romannumeral] [mungkin_letter]</li>
+    <li>art_name_numeric-> [mungkin_letter] [romannumeral] [digit] [digit] [romanumeral] [mungkin_letter]</li>
+    <li>Maybe_letter (p = 8)-></li>
+    <li>Maybe_letter-> [huruf]</li>
+    <li>Mungkin_Letter-> [Surat] [Surat]</li>
+    <li>Mungkin_a (p = 3)-></li>
+    <li>mungkin_a-> un</li>
+    <li>mungkin_afem (p = 3)-></li>
+    <li>Mungkin_afem-> una</li>
+    <li>Mungkin_adjective (p = 5)-></li>
+    <li>mungkin_adjective (p = 2)-> [AdjectiveeAngsty]</li>
+    <li>mungkin_adjective-> [AdjectiveBadass]</li>
+    <li>mungkin_adjective-> [warna]</li>
+    <li>mungkin_adjective_fem (p = 5)-></li>
+    <li>mungkin_adjective_fem (p = 2)-> [adjectiveangsty_fem]</li>
+    <li>mungkin_adjective_fem-> [adjectivebadass_fem]</li>
+    <li>mungkin_adjective_fem-> [color_fem]</li>
+  </NamerArtCommon.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_name-> [ConceptBadass]</li>
+    <li>r_art_name-> [animalBadass]</li>
+    <li>r_art_name-> [AdjectiveBadass] [AnimalBadass]</li>
+    <li>r_art_name-> [ColorBadass] [AnimalBadass]</li>
+    <li>r_art_name-> [ConceptBadass] [ColorBadass]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [ConceptBadass]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [animalBadass]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [personbadass]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [pribadi]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [Personfamily]</li>
+    <li>r_art_name (p = 3)-> [ConceptBadass] dari [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [colorbadass] [anypawn_nameindef]</li>-><NamerArtWeapon.rulePack.rulesStrings>
+    <li>r_art_name-> [ConceptBadass]</li>
+    <li>r_art_name-> [animalbadassdefcap]</li>
+    <li>r_art_name-> el [animalBadass] [AdjectiveBadass]</li>
+    <li>r_art_name-> [animalBadass] [ColorBadass]</li>
+    <li>r_art_name-> [ConceptBadass] [ColorBadass]</li>
+    <li>r_art_name (p = 3)-> [ConceptBadass] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [animalBadass] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [personbadass]</li>
+    <li>r_art_name (p = 3)-> [secara pribadi] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [Personfamily] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [ConceptBadass] de [anypawn_nameindef]</li>
+    <li>r_art_name (p = 3)-> [anypawn_nameindef] [ColorBadass]</li>
+  </NamerArtWeapon.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blind healer -->
+  <Blindhealer.label>Tabib buta</Blindhealer.label>
+  <Blindhealer.labelFemale>Penyembuhan buta</Blindhealer.labelFemale>
+  <!-- EN: A blind healer is approaching the colony. -->
+  <Blindhealer.letterLabel>{Pawn_gender?Penyembuh buta: penyembuh buta} mendekati koloni.</Blindhealer.letterLabel>
+  <!-- EN: A small, withered {PAWN_genderNoun} stands in front of you. Where {PAWN_possessive} eyes should be, there are only scar-crusted holes in {PAWN_possessive} flesh. Yet, even without eyes, {PAWN_pronoun} somehow looks at you with kindness. {PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
+  <Blindhealer.letterPrompt>{Pawn_gender?A: A} {Pawn_genderoun} Small {Pawn_gender?O: A} dan Wilting {Pawn_gender?O: A} ada di depan Anda.Di mana mata mereka seharusnya, hanya ada lubang dengan bekas luka di daging mereka.Namun, bahkan tanpa mata, dia menatapmu dengan baik.Dia bilang dia tahu bahwa keterampilannya diperlukan di sini dan bahwa dia ingin tinggal sebentar.</Blindhealer.letterPrompt>
+  
+  <!-- EN: drifter -->
+  <CreepDrifter.label>Globetrotter</CreepDrifter.label>
+  <CreepDrifter.labelFemale>Globetrotter</CreepDrifter.labelFemale>
+  <!-- EN: A visitor is approaching the colony. -->
+  <CreepDrifter.letterLabel>Seorang pengunjung mendekati koloni.</CreepDrifter.letterLabel>
+  <!-- EN: The weary-looking drifter stretches {PAWN_possessive} legs. {PAWN_pronoun} seems very tired.\n\n{PAWN_pronoun} asks to stay in your colony for a while - at least until {PAWN_pronoun} has recovered {PAWN_possessive} strength. -->
+  <CreepDrifter.letterPrompt>{Pawn_gender?EL: Penampilan} {Pawn_gender yang lelah?Atau: A} Regangkan kaki Anda.Sepertinya benar -benar kelelahan {Pawn_gender?O: A}. \ n \ npide tinggal di koloni Anda untuk sementara waktu, setidaknya sampai kekuatan Anda kembali.</CreepDrifter.letterPrompt>
+  
+  <!-- EN: cult escapee -->
+  <CultEscapee.label>Sektarian buron</CultEscapee.label>
+  <CultEscapee.labelFemale>Sektarian buron</CultEscapee.labelFemale>
+  <!-- EN: A mangled figure is approaching the colony. -->
+  <CultEscapee.letterLabel>Sosok yang hancur mendekati koloni.</CultEscapee.letterLabel>
+  <!-- EN: The mangled stranger stares at you with empty eyes and speaks in a broken voice. {PAWN_pronoun} claims to have escaped from a terrible cult and begs to join your colony. -->
+  <CultEscapee.letterPrompt>{Pawn_gender?The Strange Managed: The Strange Handcuff} menatap Anda dengan mata kosong dan berbicara dengan suara patah.Dia mengklaim telah melarikan diri dari sekte yang mengerikan dan memohon untuk bergabung dengan koloni Anda.</CultEscapee.letterPrompt>
+  
+  <!-- EN: dark scholar -->
+  <DarkScholar.label>Beasiswa Gelap</DarkScholar.label>
+  <DarkScholar.labelFemale>Orang gelap</DarkScholar.labelFemale>
+  <!-- EN: A dark scholar covered with twisted scars is approaching the colony. -->
+  <DarkScholar.letterLabel>{Pawn_gender?A Covered Dark Fellow: Seorang orang gelap tertutup} dari Twisted Scars mendekati koloni.</DarkScholar.letterLabel>
+  <!-- EN: The dark scholar slouches in place, lifeless and silent. Only {PAWN_possessive} eyes seem alive, as if {PAWN_pronoun} could look inside you.\n\n{PAWN_pronoun} says that this is where {PAWN_pronoun} belongs and asks to stay for a while. {PAWN_possessive} tone indicates that {PAWN_pronoun} will not take 'no' for an answer. -->
+  <DarkScholar.letterPrompt>{Pawn_gender?The Dark Fellow: The Dark Fellow} ramai di tempat, tak bernyawa dan diam.Hanya matanya yang tampak hidup, seolah -olah dia bisa melihat ke dalam Anda.Nada suaranya menunjukkan bahwa dia tidak akan menerima "tidak" dengan tanggapan.</DarkScholar.letterPrompt>
+  
+  <!-- EN: deal maker -->
+  <DealMaker.label>perunding</DealMaker.label>
+  <DealMaker.labelFemale>bernegosiasi</DealMaker.labelFemale>
+  <!-- EN: A stunningly good-looking stranger is approaching the colony. -->
+  <DealMaker.letterLabel>{Pawn_gender?Yang tidak diketahui: Penampilan yang tidak diketahui} rapi mendekati koloni.</DealMaker.letterLabel>
+  <!-- EN: A stunningly good-looking stranger stands in front of you. {PAWN_possessive} face beams with confidence as {PAWN_pronoun} opens {PAWN_possessive} hands in a gesture of fellowship.\n\n{PAWN_pronoun} says {PAWN_pronoun} is here to make a deal and will help you in exchange for simple hospitality. This is {PAWN_possessive} purpose and {PAWN_pronoun} always fulfills {PAWN_possessive} purpose. -->
+  <DealMaker.letterPrompt>Di depan Anda, apakah ada {Pawn_gender?A Stranger: An Unknown} dari penampilan spektakuler.Wajahnya bersinar percaya diri sambil membuka tangannya dalam isyarat persahabatan. \ N \ ndice yang ada di sini untuk membuat kesepakatan dan akan membantu dengan imbalan keramahtamahan sederhana.Ini adalah tujuannya dan selalu memuaskannya.</DealMaker.letterPrompt>
+  
+  <!-- EN: leathery stranger -->
+  <LeatheryStranger.label>orang asing yang kecokelatan</LeatheryStranger.label>
+  <LeatheryStranger.labelFemale>orang asing yang kecokelatan</LeatheryStranger.labelFemale>
+  <!-- EN: A ragged stranger with leathery skin is approaching your colony. -->
+  <LeatheryStranger.letterLabel>{Pawn_gender?An Stranger Andrajoso: Tanner yang tidak diketahui} dari kulit kecokelatan mendekati koloni Anda.</LeatheryStranger.letterLabel>
+  <!-- EN: The leathery stranger stares into space and speaks in a monotone, as though {PAWN_pronoun} hardly sees anyone or anything. {PAWN_pronoun} refuses to leave, insisting {PAWN_pronoun} is only interested in your colony. {PAWN_pronoun} says that {PAWN_pronoun} can help. -->
+  <LeatheryStranger.letterPrompt>{Pawn_gender?Orang Asing: Orang asing} dari kulit kecokelatan melihat ruang dan berbicara dengan nada monoton, seolah -olah saya hampir tidak melihat siapa pun atau apa pun.Dia menolak untuk pergi, bersikeras bahwa dia hanya tertarik pada koloni Anda.Dia bilang dia bisa membantu.</LeatheryStranger.letterPrompt>
+  
+  <!-- EN: lone genius -->
+  <LoneGenius.label>Jenius kesepian</LoneGenius.label>
+  <LoneGenius.labelFemale>jenius kesepian</LoneGenius.labelFemale>
+  <!-- EN: A lone figure is approaching the colony. -->
+  <LoneGenius.letterLabel>Sosok kesepian mendekati koloni.</LoneGenius.letterLabel>
+  <!-- EN: The strange figure keeps muttering about some scientific breakthrough. All {PAWN_pronoun} needs is a laboratory. If you let {PAWN_objective} stay, {PAWN_pronoun} will share {PAWN_possessive} vast knowledge with you. It's hard to tell whether {PAWN_pronoun}'s insane or a genius - or both. -->
+  <LoneGenius.letterPrompt>Sosok aneh terus bergumam tentang kemajuan ilmiah.Yang Anda butuhkan hanyalah laboratorium.Jika Anda membiarkannya tinggal, dia akan berbagi pengetahuannya yang luas dengan Anda.Apakah sulit untuk mengetahui apakah itu loc {Pawn_gender?Atau: a} atau {Pawn_gender?Seorang jenius: seorang jenius}, atau keduanya.</LoneGenius.letterPrompt>
+  
+  <!-- EN: timeless one -->
+  <TimelessOne.label>Yang abadi</TimelessOne.label>
+  <TimelessOne.labelFemale>Yang abadi</TimelessOne.labelFemale>
+  <!-- EN: A teenager is approaching the colony. {PAWN_pronoun} has a strange air of confidence around {PAWN_objective}. -->
+  <TimelessOne.letterLabel>A {Pawn_gender?: A} remaja mendekati koloni.Dia memiliki suasana kepercayaan yang aneh yang mengelilinginya.</TimelessOne.letterLabel>
+  <!-- EN: {PAWN_nameDef} is barely more than a child but in {PAWN_possessive} thoughtful eyes you sense an ancient wisdom. When {PAWN_pronoun} speaks, the words seem to come from an unnatural knowledge of endless time. {PAWN_pronoun} says that the stars brought {PAWN_objective} here to fulfill {PAWN_possessive} destiny. {PAWN_pronoun} wants to stay with you and help. -->
+  <TimelessOne.letterPrompt>{Pawn_namedef} Hampir lebih dari {Pawn_gender?Seorang anak laki -laki: seorang perempuan}, tetapi di matanya yang penuh perhatian Anda memahami kebijaksanaan leluhur.Ketika dia berbicara, kata -kata tampaknya berasal dari pengetahuan yang tidak wajar tentang waktu tanpa akhir.Dia mengatakan bahwa bintang -bintang {Pawn_objective} dibawa ke sini untuk memenuhi takdir mereka.Dia ingin tinggal bersama Anda dan membantu Anda.</TimelessOne.letterPrompt>
+  
+</LanguageData>

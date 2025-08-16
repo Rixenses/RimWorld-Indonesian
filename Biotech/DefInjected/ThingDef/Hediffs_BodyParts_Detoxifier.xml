@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: detoxifier kidney -->
+  <DetoxifierKidney.label>Detoksifikasi ginjal</DetoxifierKidney.label>
+  <!-- EN: An advanced artificial kidney. Using a series of nanofilters, it can rapidly remove a vast range of toxins from the blood, making it effective against environmental toxins, venoms, and injected poisons. -->
+  <DetoxifierKidney.description>Ginjal buatan canggih.Melalui serangkaian nanofiltro, Anda dapat dengan cepat menghilangkan berbagai racun darah, yang membuatnya efektif terhadap racun lingkungan, racun dan keracunan yang disuntikkan.</DetoxifierKidney.description>
+  
+  <!-- EN: detoxifier lung -->
+  <DetoxifierLung.label>Detoksifikasi paru -paru</DetoxifierLung.label>
+  <!-- EN: An advanced artificial lung that uses microfilters to reduce the intake of environmental toxins, allowing the user to survive longer in polluted environments. Additionally, it negates the irritation of acidic smog and prevents lung rot in this lung. -->
+  <DetoxifierLung.description>Paru -paru buatan canggih yang menggunakan microfilters untuk mengurangi penyerapan racun lingkungan, yang memungkinkan pengguna untuk bertahan lebih banyak waktu di lingkungan yang terkontaminasi.Selain itu, ia membatalkan iritasi kabut asam dan mencegah busuk di paru -paru ini.</DetoxifierLung.description>
+  
+</LanguageData>

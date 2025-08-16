@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animus stone -->
+  <AnimusStone.label>Batu Animus</AnimusStone.label>
+  <!-- EN: An ancient jade stone marked with sacred tribal carvings. Tribal psycasters can focus on these stones during meditation to increase their psyfocus gain more than a typical nature shrine.\n\nDifferent tribal cultures tell different stories about these stones, but most agree that they were crafted by an ancient world spirit during a time of great power. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <AnimusStone.description>Batu batu giok kuno yang ditandai dengan ukuran kesukuan suci.Emisor psi suku dapat berkonsentrasi pada batu-batu ini dengan bermeditasi untuk meningkatkan psifokus mereka daripada di tempat perlindungan alam yang khas.Karena objek alami tampaknya bagi pengamat kecil, incursor umumnya akan mengabaikannya.</AnimusStone.description>
+  
+  <!-- EN: meditation spot -->
+  <MeditationSpot.label>Titik meditasi</MeditationSpot.label>
+  <!-- EN: Designates a spot for meditation. Psycasters can meditate here to gain psyfocus. If a focus object like a sculpture is nearby, the psycaster will be able to focus on it to boost their psyfocus gain. However, different people are able to use different focus objects. -->
+  <MeditationSpot.description>Rancang titik untuk bermeditasi.Psi-Emisors dapat bermeditasi di sini untuk memenangkan PSIFOCO.Jika objek fokus sebagai patung dekat, psi-emitter dapat berkonsentrasi untuk meningkatkan gain psifoco-nya.Namun, orang yang berbeda menggunakan objek fokus yang berbeda.</MeditationSpot.description>
+  
+  <!-- EN: large nature shrine -->
+  <NatureShrine_Large.label>Natural Sanctuary Grande</NatureShrine_Large.label>
+  <!-- EN: A large shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <NatureShrine_Large.description>Tempat perlindungan yang bagus untuk menghormati roh.Tribal psi-emisors dapat berkonsentrasi pada tempat perlindungan ini dengan bermeditasi untuk meningkatkan psifoco mereka.Tempat suci alami kehilangan kekuatan mereka untuk menjadi terlalu dekat dengan struktur buatan, sehingga mereka selalu dibangun di alam.Karena objek alami tampaknya bagi pengamat kecil, incursor umumnya akan mengabaikannya.</NatureShrine_Large.description>
+  
+  <!-- EN: small nature shrine -->
+  <NatureShrine_Small.label>Tempat perlindungan alam kecil</NatureShrine_Small.label>
+  <!-- EN: A small shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
+  <NatureShrine_Small.description>Tempat perlindungan kecil untuk menghormati roh.Tribal psi-emisors dapat berkonsentrasi pada tempat perlindungan ini dengan bermeditasi untuk meningkatkan psifoco mereka.Tempat suci alami kehilangan kekuatan mereka untuk menjadi terlalu dekat dengan struktur buatan, sehingga mereka selalu dibangun di alam.Karena objek alami tampaknya bagi pengamat kecil, incursor umumnya akan mengabaikannya.</NatureShrine_Small.description>
+  
+  <!-- EN: ship landing beacon -->
+  <ShipLandingBeacon.label>Suar Pendaratan Kapal</ShipLandingBeacon.label>
+  <!-- EN: Marks the corner of a landing area. Four of these placed at the corners of a clear area (minimum 9x9) create a landing pad. Spacecraft usually land on pads if possible. -->
+  <ShipLandingBeacon.description>Ini menandai sudut zona pendaratan.Empat di antaranya terletak di sudut -sudut area yang jernih (minimal 9x9) merupakan jalur pendaratan.Tanah pesawat ruang angkasa di jalur pendaratan, jika memungkinkan.</ShipLandingBeacon.description>
+  
+</LanguageData>

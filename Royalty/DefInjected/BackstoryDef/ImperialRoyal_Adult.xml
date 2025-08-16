@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.\n\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself. -->
+  <ArtsPatron54.description>[Pawn_namedef] Ia mengelola investasi keluarganya dalam bidang seni.</ArtsPatron54.description>
+  <!-- EN: arts patron -->
+  <ArtsPatron54.title>Kepala Seni</ArtsPatron54.title>
+  <ArtsPatron54.titleFemale>Kepala Seni</ArtsPatron54.titleFemale>
+  <!-- EN: patron -->
+  <ArtsPatron54.titleShort>bos</ArtsPatron54.titleShort>
+  <ArtsPatron54.titleShortFemale>melemparkan</ArtsPatron54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.\n\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did. -->
+  <Beastmaster67.description>[Pawn_namedef] Keluarga memiliki lebih banyak anak daripada judul yang sesuai untuk diwariskan.Menjadi peringkat rendah di hari ulang tahun, [Pawn_namedef] menerima gelar kehormatan {Pawn_gender?Lord: Lady} dari binatang buas. \ n \ n [Pawn_namedef] memberikan koleksi hewan keluarga yang luas.Saat bekerja dengan binatang buas, ia berhasil terhubung dengan mereka.Beberapa [Pawn_objective] menghargai bagaimana mereka melakukannya.</Beastmaster67.description>
+  <!-- EN: beastmaster -->
+  <Beastmaster67.title>Lord of Beasts</Beastmaster67.title>
+  <Beastmaster67.titleFemale>Lady of the Beasts</Beastmaster67.titleFemale>
+  <!-- EN: beastmaster -->
+  <Beastmaster67.titleShort>Tuan binatang buas</Beastmaster67.titleShort>
+  <Beastmaster67.titleShortFemale>Nyonya binatang buas</Beastmaster67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.\n\nThough [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail. -->
+  <Landworker98.description>[Pawn_namedef] mengambil pekerjaan pekerja {Pawn_gender?: A} pertanian di rumah kekaisaran Anda.[Pawn_pronoun] Ia mengelola tanah keluarga dan semua sumber daya di dalamnya, baik pertanian maupun mineral.O: A}, mengelola perusahaan -perusahaan ini membutuhkan pembelajaran metode pertanian dan penambangan secara rinci.</Landworker98.description>
+  <!-- EN: landworker -->
+  <Landworker98.title>Pekerja Pertanian</Landworker98.title>
+  <Landworker98.titleFemale>Pekerja Pertanian</Landworker98.titleFemale>
+  <!-- EN: landworker -->
+  <Landworker98.titleShort>Pekerja Pertanian</Landworker98.titleShort>
+  <Landworker98.titleShortFemale>Pekerja Pertanian</Landworker98.titleShortFemale>
+  
+  <!-- EN: When [PAWN_nameDef]'s family's ally was killed, and [PAWN_possessive] young son inherited his throne, [PAWN_nameDef] was appointed as regent to rule in the child's stead.\n\n[PAWN_pronoun] oversaw diverse matters of house and title, from finances to war to greedy relatives intent on usurping the throne. [PAWN_nameDef] never abused [PAWN_possessive] position. -->
+  <Regent9.description>Ketika sekutu keluarga [Pawn_namedef] terbunuh, dan putra kecilnya mewarisi tahtanya, [Pawn_namedef] ditunjuk {Pawn_gender?Atau: a} sebagai magistrad {pawn_gender? Atau: a} untuk mengatur bukan anak.[Pawn_namedef] Tidak pernah menyalahgunakan posisinya.</Regent9.description>
+  <!-- EN: regent -->
+  <Regent9.title>hakim</Regent9.title>
+  <Regent9.titleFemale>Hakim</Regent9.titleFemale>
+  <!-- EN: regent -->
+  <Regent9.titleShort>hakim</Regent9.titleShort>
+  <Regent9.titleShortFemale>Hakim</Regent9.titleShortFemale>
+  
+  <!-- EN: As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] was given the post of spymaster for [PAWN_possessive] house. [PAWN_possessive] cold, calculating nature made [PAWN_objective] a natural at the arts of blade, poison, and betrayal. -->
+  <Spymaster41.description>Segera setelah [Pawn_pronoun] cukup besar, [Pawn_namedef] menerima posisi master {Pawn_gender?O: A} mata -mata untuk rumah Anda.Sifat dingin dan kalkulator [Pawn_objective] berubah menjadi {Pawn_gender?: a} master dalam seni pedang, racun dan pengkhianatan.</Spymaster41.description>
+  <!-- EN: spymaster -->
+  <Spymaster41.title>Guru spionase</Spymaster41.title>
+  <Spymaster41.titleFemale>Guru spionase</Spymaster41.titleFemale>
+  <!-- EN: spymaster -->
+  <Spymaster41.titleShort>guru memata -matai</Spymaster41.titleShort>
+  <Spymaster41.titleShortFemale>guru memata -matai</Spymaster41.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was warmaster to a mid-level royal house. [PAWN_pronoun] oversaw military aspects of the family's strategy.\n\nOn the rare occasion a battle occurred, [PAWN_nameDef] directed the military commanders. -->
+  <Warmaster54.description>[Pawn_namedef] Apakah master {Pawn_gender?O: A} Perang rumah tingkat medium nyata.[Pawn_pronoun] mengawasi aspek militer dari strategi keluarga.</Warmaster54.description>
+  <!-- EN: warmaster -->
+  <Warmaster54.title>Master perang</Warmaster54.title>
+  <Warmaster54.titleFemale>Guru perang</Warmaster54.titleFemale>
+  <!-- EN: warmaster -->
+  <Warmaster54.titleShort>Master perang</Warmaster54.titleShort>
+  <Warmaster54.titleShortFemale>Guru perang</Warmaster54.titleShortFemale>
+  
+</LanguageData>

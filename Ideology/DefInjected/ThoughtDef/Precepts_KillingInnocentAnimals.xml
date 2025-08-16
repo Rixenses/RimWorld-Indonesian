@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: killed innocent {0} -->
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>membunuh {0_indefinite} Innocent</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
+  <!-- EN: I had to kill an innocent animal. It was not something I approve of. -->
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>Saya harus membunuh hewan yang tidak bersalah.Itu bukan sesuatu yang menyetujui.</KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>
+  
+  <!-- EN: killed innocent {0} -->
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>membunuh {0_indefinite} Innocent</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
+  <!-- EN: I had to kill an innocent animal. It was almost like being forced to murder. -->
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>Saya harus membunuh hewan yang tidak bersalah.Hampir seolah -olah dia dipaksa untuk membunuhnya.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
+  
+  <!-- EN: killed innocent animal -->
+  <KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>Dia membunuh seekor binatang yang tidak bersalah.</KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>
+  
+  <!-- EN: innocent animal killed -->
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>Hewan yang tidak bersalah dibunuh</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>
+  <!-- EN: An innocent, adorable animal was killed! That's murder! -->
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>Hewan yang tidak bersalah dan menggemaskan telah mati!Ini pembunuhan!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>
+  
+  <!-- EN: killed innocent animal -->
+  <KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>Dia membunuh seekor binatang yang tidak bersalah.</KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>
+  
+  <!-- EN: innocent animal killed -->
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>Hewan yang tidak bersalah dibunuh</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>
+  <!-- EN: An innocent animal was killed. I do not approve of this. -->
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>Hewan yang tidak bersalah telah mati.Itu bukan sesuatu yang menyetujui.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>
+  
+  <!-- EN: killed innocent animal -->
+  <KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>Dia membunuh seekor binatang yang tidak bersalah.</KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>
+  
+  <!-- EN: innocent animal killed -->
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>Hewan yang tidak bersalah dibunuh</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>
+  <!-- EN: An innocent animal was killed. What a terrible, heartless act against another being. -->
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>Hewan yang tidak bersalah telah mati.Betapa mengerikan dan berkecilinya tindakan terhadap makhluk hidup lain.</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>
+  
+</LanguageData>

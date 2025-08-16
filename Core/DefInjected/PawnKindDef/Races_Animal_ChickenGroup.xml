@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>polo</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>induk ayam</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>Gallo</Chicken.labelMale>
+  <Chicken.labelPlural>Ayam</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>anak ayam</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>kokang</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>polo</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.2.labelFemale>induk ayam</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelMale>Gallo</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>pato</Duck.label>
+  <Duck.labelFemale>Pata</Duck.labelFemale>
+  <Duck.labelFemalePlural>cakar</Duck.labelFemalePlural>
+  <Duck.labelMale>pato</Duck.labelMale>
+  <Duck.labelMalePlural>bebek</Duck.labelMalePlural>
+  <Duck.labelPlural>bebek</Duck.labelPlural>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>Cewek bebek</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.labelFemale>Cewek bebek</Duck.lifeStages.duckling.labelFemale>
+  <Duck.lifeStages.duckling.labelFemalePlural>Cewek bebek</Duck.lifeStages.duckling.labelFemalePlural>
+  <Duck.lifeStages.duckling.labelMale>Cewek bebek</Duck.lifeStages.duckling.labelMale>
+  <Duck.lifeStages.duckling.labelMalePlural>Cewek bebek</Duck.lifeStages.duckling.labelMalePlural>
+  <Duck.lifeStages.duckling.labelPlural>Cewek bebek</Duck.lifeStages.duckling.labelPlural>
+  <Duck.lifeStages.1.label>Bebek muda</Duck.lifeStages.1.label>
+  <Duck.lifeStages.1.labelFemale>Kaki muda</Duck.lifeStages.1.labelFemale>
+  <Duck.lifeStages.1.labelFemalePlural>Kaki muda</Duck.lifeStages.1.labelFemalePlural>
+  <Duck.lifeStages.1.labelMale>Bebek muda</Duck.lifeStages.1.labelMale>
+  <Duck.lifeStages.1.labelMalePlural>Bebek muda</Duck.lifeStages.1.labelMalePlural>
+  <Duck.lifeStages.1.labelPlural>patos jóvenes</Duck.lifeStages.1.labelPlural>
+  <Duck.lifeStages.2.label>pato</Duck.lifeStages.2.label>
+  <Duck.lifeStages.2.labelFemale>Pata</Duck.lifeStages.2.labelFemale>
+  <Duck.lifeStages.2.labelFemalePlural>pato</Duck.lifeStages.2.labelFemalePlural>
+  <Duck.lifeStages.2.labelMale>pato</Duck.lifeStages.2.labelMale>
+  <Duck.lifeStages.2.labelMalePlural>bebek</Duck.lifeStages.2.labelMalePlural>
+  <Duck.lifeStages.2.labelPlural>bebek</Duck.lifeStages.2.labelPlural>
+  
+  <!-- EN: goose -->
+  <Goose.label>angsa</Goose.label>
+  <Goose.labelFemale>BARANG-BARANG</Goose.labelFemale>
+  <!-- EN: geese -->
+  <Goose.labelPlural>angsa</Goose.labelPlural>
+  <Goose.lifeStages.0.label>rangsa angsa</Goose.lifeStages.0.label>
+  <Goose.lifeStages.0.labelFemale>Cría de Gansa</Goose.lifeStages.0.labelFemale>
+  <Goose.lifeStages.0.labelFemalePlural>Gansa Young</Goose.lifeStages.0.labelFemalePlural>
+  <Goose.lifeStages.0.labelPlural>keturunan angsa</Goose.lifeStages.0.labelPlural>
+  <Goose.lifeStages.1.label>Angsa muda</Goose.lifeStages.1.label>
+  <Goose.lifeStages.1.labelFemale>Anda masih muda</Goose.lifeStages.1.labelFemale>
+  <Goose.lifeStages.1.labelFemalePlural>Gonsas muda</Goose.lifeStages.1.labelFemalePlural>
+  <Goose.lifeStages.1.labelMale>Angsa muda</Goose.lifeStages.1.labelMale>
+  <Goose.lifeStages.1.labelMalePlural>Angsa Muda</Goose.lifeStages.1.labelMalePlural>
+  <Goose.lifeStages.1.labelPlural>Angsa Muda</Goose.lifeStages.1.labelPlural>
+  <Goose.lifeStages.2.label>angsa</Goose.lifeStages.2.label>
+  <Goose.lifeStages.2.labelFemale>BARANG-BARANG</Goose.lifeStages.2.labelFemale>
+  <Goose.lifeStages.2.labelFemalePlural>Geesas</Goose.lifeStages.2.labelFemalePlural>
+  <Goose.lifeStages.2.labelMale>angsa</Goose.lifeStages.2.labelMale>
+  <Goose.lifeStages.2.labelMalePlural>angsa</Goose.lifeStages.2.labelMalePlural>
+  <Goose.lifeStages.2.labelPlural>angsa</Goose.lifeStages.2.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>mereka</Turkey.label>
+  <Turkey.labelFemale>mereka</Turkey.labelFemale>
+  <Turkey.labelFemalePlural>Pavas</Turkey.labelFemalePlural>
+  <Turkey.labelMale>mereka</Turkey.labelMale>
+  <Turkey.labelMalePlural>Kalkun</Turkey.labelMalePlural>
+  <Turkey.labelPlural>Kalkun</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>Breeding Turki</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.0.labelFemale>Pemuliaan pava</Turkey.lifeStages.0.labelFemale>
+  <Turkey.lifeStages.0.labelFemalePlural>Keturunan Pava</Turkey.lifeStages.0.labelFemalePlural>
+  <Turkey.lifeStages.0.labelPlural>anak -anak kalkun</Turkey.lifeStages.0.labelPlural>
+  <Turkey.lifeStages.1.label>polipavo</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.1.labelFemale>polipava</Turkey.lifeStages.1.labelFemale>
+  <Turkey.lifeStages.1.labelFemalePlural>polipava</Turkey.lifeStages.1.labelFemalePlural>
+  <Turkey.lifeStages.1.labelMale>polipavo</Turkey.lifeStages.1.labelMale>
+  <Turkey.lifeStages.1.labelMalePlural>polipavos</Turkey.lifeStages.1.labelMalePlural>
+  <Turkey.lifeStages.1.labelPlural>polipavos</Turkey.lifeStages.1.labelPlural>
+  <Turkey.lifeStages.2.label>mereka</Turkey.lifeStages.2.label>
+  <Turkey.lifeStages.2.labelFemale>mereka</Turkey.lifeStages.2.labelFemale>
+  <Turkey.lifeStages.2.labelFemalePlural>Pavas</Turkey.lifeStages.2.labelFemalePlural>
+  <Turkey.lifeStages.2.labelMale>mereka</Turkey.lifeStages.2.labelMale>
+  <Turkey.lifeStages.2.labelMalePlural>Kalkun</Turkey.lifeStages.2.labelMalePlural>
+  <Turkey.lifeStages.2.labelPlural>Kalkun</Turkey.lifeStages.2.labelPlural>
+  
+</LanguageData>

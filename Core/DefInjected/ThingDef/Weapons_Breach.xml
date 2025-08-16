@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: thump bomb -->
+  <Bullet_ThumpCannon.label>Blow Pump</Bullet_ThumpCannon.label>
+  
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.label>Meniup ngarai</Gun_ThumpCannon.label>
+  <!-- EN: A breaching explosive launcher used by mechanoids. It fires a concussion bomb that is extremely effective against walls and structures, but does much less damage to small targets. -->
+  <Gun_ThumpCannon.description>Pitcher eksplosif yang digunakan oleh Mecanoides.Cobalah bom kejutan yang sangat efektif terhadap dinding dan struktur, tetapi tidak lebih sedikit kerusakan pada tujuan kecil.</Gun_ThumpCannon.description>
+  <!-- EN: barrel -->
+  <Gun_ThumpCannon.tools.barrel.label>Canon</Gun_ThumpCannon.tools.barrel.label>
+  <!-- EN: thump cannon -->
+  <Gun_ThumpCannon.verbs.Verb_Shoot.label>Meniup ngarai</Gun_ThumpCannon.verbs.Verb_Shoot.label>
+  
+</LanguageData>

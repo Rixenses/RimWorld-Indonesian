@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> Salvagers [Spaceadj]</li>
+    <li>R_name-> Scalvengers [Spaceadj]</li>
+    <li>r_name-> [SpaceAdj] [AnimalBadass]</li>
+    <li>R_name-> [Spaceadj] [AnimalBadass]</li>
+    <li>r_name-> [Spaceadj] [musuh] s</li>
+    <li>r_name-> [Spacenoun] [musuh] s</li>
+    <li>r_name-> [Spacenoun] [GroupName]</li>
+    <li>r_name-> [SpaceAdj] [GroupName]</li>
+    <li>r_name-> [ColorBadass] [Spacenoun]</li>
+    <li>r_name-> [AdjectiveBadass] [Spacenoun]</li>
+    <li>r_name-> [ColorBadass] [SpacecollectiveVoloun]</li>
+    <li>r_name-> [AdjectiveBadass] [SpacecollectiveNoun]</li>
+    <li>r_name-> [Spacenoun] dari [ConceptBadass]</li>
+    <li>r_name (p = 2)-> [nameperson] [spacenoun] s</li>
+    <li>r_name (p = 2)-> [Nameperson] [SpacecollectiveNoun]</li>
+    <li>r_name (p = 2)-> [nameperson] [spaceadj] [spacecollectivenoun]</li>
+    <li>Spaceadj-> Orbital</li>
+    <li>Spaceadj-> Cosmic</li>
+    <li>Spaceadj-> Astral</li>
+    <li>Spaceadj-> Solar</li>
+    <li>Spaceadj-> Celestial</li>
+    <li>Spacenoun-> Star</li>
+    <li>Spacenoun-> bulan</li>
+    <li>Spacenoun-> Comet</li>
+    <li>Spacenoun-> Asteroid</li>
+    <li>Spacenoun-> Eclipse</li>
+    <li>SpacecollectiveNoun-> Armada</li>
+    <li>SpacecollectiveNoun-> Fleet</li>
+    <li>SpacecollectiveNoun-> Flotilla</li>
+    <li>SpacecollectiveNoun-> Fleet</li>
+    <li>SpacecollectiveNoun-> Corsairs</li>
+    <li>SpacecollectiveNoun-> Pirates</li>
+    <li>SpacecollectiveNoun-> Marauders</li>
+    <li>SpacecollectiveNoun-> Reaper</li>-><NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>R_name-> kolektor [SpaceAdj]</li>
+    <li>R_name-> Scangers [SpaceAdj]</li>
+    <li>r_name-> [animalbadass_plural] [SpaceAdj]</li>
+    <li>R_name-> los [animalAdass_plural] [spaceadj]</li>
+    <li>r_name-> los [musuh] s [spaceadj]</li>
+    <li>r_name-> los [musuh] s [spacenoun]</li>
+    <li>R_name-> l [groupName] [SpacenonBar]</li>
+    <li>r_name-> el [nama grup] [Space Ajvar]</li>
+    <li>r_name-> los [spacenoun1] [spacecolor]</li>
+    <li>r_name-> los [spacenoun1] [adjectivebadass_plural]</li>
+    <li>r_name-> los [SpacecollectiveNoun] [Spacecolor]</li>
+    <li>r_name-> los [SpacecollectiveNoun] [AdjectiveBadass_plural]</li>
+    <li>r_name-> los [spacenoun1] del [ConceptBadass]</li>
+    <li>R_name (p = 2)-> los [spacenoun1] de [nameperson]</li>
+    <li>R_name (p = 2)-> los [spacecollectivenoun] de [nameperson]</li>
+    <li>r_name (p = 2)-> la [spacecollectivenounfem] de [nameperson]</li>
+    <li>r_name (p = 2)-> los [spacecolectivenoun] [spaceadj] de [nameperson]</li>
+    <li>r_name (p = 2)-> la [spacecollectivenounfem] [spaceadjvar] de [nameperson]</li>
+    <li>Spaceadj-> Orbitales</li>
+    <li>Spaceadj-> Cosmic</li>
+    <li>Spaceadj-> Astrales</li>
+    <li>Spaceadj-> Solares</li>
+    <li>Spaceadj-> Celestial</li>
+    <li>Spaceadjvar-> Celestial</li>
+    <li>Spaceadjvar-> Orbital</li>
+    <li>Spaceadjvar-> Cosmic</li>
+    <li>Spaceadjvar-> Astral</li>
+    <li>Spaceadjvar-> Solar</li>
+    <li>Spaceunoun-> Stars</li>
+    <li>Spacenoun-> Lunares</li>
+    <li>Spaceunoun-> Comets</li>
+    <li>Spacenoun-> Asteroides</li>
+    <li>Spacenoun1-> Tubuh Surgawi</li>
+    <li>spacenoun1-> sol</li>
+    <li>Spaceun1-> komet</li>
+    <li>Spacenoun1-> Asteroides</li>
+    <li>Spacenounvar-> Eclipse</li>
+    <li>Spacenounvar-> Star</li>
+    <li>Spacenounvar-> lunar</li>
+    <li>Spacenounvar-> Comet</li>
+    <li>spacenounvar-> asteroide</li>
+    <li>Spacecollectivenounfem-> Armada</li>
+    <li>Spacecollectivenounfem-> Flota</li>
+    <li>Spacecollectivenounfem-> Flotilla</li>
+    <li>Spacecollectivenounfem-> Flota</li>
+    <li>SpacecollectiveNoun-> Corsarios</li>
+    <li>SpacecollectiveNoun-> Piratas</li>
+    <li>SpacecollectiveNoun-> Merodeadores</li>
+    <li>SpacecollectiveNoun-> Segadores</li>
+    <li>Spacecolor-> Negros</li>
+    <li>Spacecolor-> Dark</li>
+    <li>Spacecolor-> Red</li>
+    <li>Spacecolor-> Grises</li>
+    <li>Spacecolor-> Golden</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [TradeAJ] [Tradenoun]</li>
+    <li>tradeadj-> pedagang</li>
+    <li>Tradeadj-> orbital</li>
+    <li>Tradeadj-> perdagangan</li>
+    <li>Tradeadj-> spacer</li>
+    <li>Tradeadj-> spasi</li>
+    <li>Tradeadj-> Cosmic</li>
+    <li>Tradeadj-> skyflight</li>
+    <li>Tradeadj-> voidborn</li>
+    <li>Tradeadj-> exo</li>
+    <li>tradenoun-> guild</li>
+    <li>Tradenoun-> Konsorsium</li>
+    <li>Tradenoun-> Syndicate</li>
+    <li>Tradenoun-> Alliance</li>
+    <li>Tradenoun-> kartel</li>
+    <li>Tradenoun-> Koalisi</li>
+    <li>Tradenoun-> Federasi</li>
+    <li>tradenoun-> konglomerat</li>
+    <li>Tradenoun-> Corporation</li>
+    <li>Tradenoun-> Company</li>
+    <li>Mereka dimiringkan-> neatork</li>
+    <li>Tradenoun-> Exchange</li>
+    <li>Tradenoun-> bazaar</li>
+    <li>Tradenoun-> Emporium</li>
+    <li>Tradenoun-> Nexus</li>-><NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name-> [Tradenoun]</li>
+    <li>tradeadj-> dari pedagang</li>
+    <li>Tradeadj-> orbital</li>
+    <li>Tradeadj-> komersial</li>
+    <li>Tradeadj-> del navegante</li>
+    <li>Tradeadj-> espacial</li>
+    <li>Tradeadj-> Cosmic</li>
+    <li>Tradeadj-> penerbangan</li>
+    <li>Tradeadj-> born of the void</li>
+    <li>Tradeadj-> exo</li>
+    <li>Tradenoun-> lap</li>
+    <li>Tradunoun-> Konsorsium</li>
+    <li>Tradunoun-> Union</li>
+    <li>Tradunoun-> Alliance</li>
+    <li>Tradunoun-> kartel</li>
+    <li>Tradunoun-> Koalisi</li>
+    <li>Tradunoun-> Federasi</li>
+    <li>Tradunoun-> konglomerat</li>
+    <li>Tradunoun-> Corporation</li>
+    <li>Tradunoun-> Perusahaan</li>
+    <li>tradenoun-> merah</li>
+    <li>Tradunoun-> Exchange</li>
+    <li>TARDEN> BAZAR</li>
+    <li>Mereka membuang-> perdagangan</li>
+    <li>Tradenen-> nexo</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [platadj] [platform]</li>
+    <li>Platadj-> Starlight</li>
+    <li>Platadj-> Sunshine</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Stardust</li>
+    <li>Platadj-> Orion</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> Galaxy</li>
+    <li>Platadj-> Cosmos</li>
+    <li>Platadj-> void</li>
+    <li>Platadj-> Asteroid</li>
+    <li>Platadj-> Comet</li>
+    <li>Platadj-> Eclipse</li>
+    <li>Platadj-> quasar</li>
+    <li>Platadj-> tekan</li>
+    <li>Platadj-> Meteor</li>
+    <li>Platadj-> Zenith</li>
+    <li>Platadj-> lunar</li>
+    <li>Platadj-> Solar</li>
+    <li>Platadj-> Celestial</li>
+    <li>Platadj-> moonbeam</li>
+    <li>Platadj-> Sunburst</li>
+    <li>Platadj-> Starfield</li>
+    <li>Platadj-> Cosmic</li>
+    <li>Platadj-> Astral</li>
+    <li>Platadj-> aurora</li>
+    <li>Platadj-> Luminary</li>
+    <li>Platadj-> Corona</li>
+    <li>Platform-> Platform</li>
+    <li>Platform-> Stasiun</li>
+    <li>platform-> hub</li>
+    <li>Platform-> Stasiun</li>
+    <li>Platform-> Base</li>
+    <li>Platform-> Dock</li>
+    <li>Platform-> Ring</li>-><NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name-> [platform] [Platadj]</li>
+    <li>Platadj-> dari Light Stellar</li>
+    <li>Platadj-> Sunlight</li>
+    <li>Platadj-> Nebula</li>
+    <li>Platadj-> Debu bintang</li>
+    <li>Platadj-> dari Orion</li>
+    <li>Platadj-> Horizon</li>
+    <li>Platadj-> dari Galaxy</li>
+    <li>Platadj-> dari Cosmos</li>
+    <li>Platadj-> Vakum</li>
+    <li>Platadj-> Asteroid</li>
+    <li>Platadj-> dari Comet</li>
+    <li>Platadj-> dari Eclipse</li>
+    <li>Platadj-> dari quasar</li>
+    <li>Platadj-> dari pulsar</li>
+    <li>Platadj-> meteorit</li>
+    <li>Platadj-> dari Cénit</li>
+    <li>Platadj-> lunar</li>
+    <li>Platadj-> Solar</li>
+    <li>Platadj-> Celestial</li>
+    <li>Platadj-> dari Lunar Ray</li>
+    <li>Platadj-> Solar Flash</li>
+    <li>Platadj-> dari Lapangan Bintang</li>
+    <li>Platadj-> Cosmic</li>
+    <li>Platadj-> Astral</li>
+    <li>Platadj-> Aurora</li>
+    <li>Platadj-> dari Luminar</li>
+    <li>Platadj-> Crown</li>
+    <li>Platform-> PlataForma</li>
+    <li>Platform-> Stasiun</li>
+    <li>Platform-> Centro</li>
+    <li>Platform-> Stasiun</li>
+    <li>Platform-> Base</li>
+    <li>Platform-> Muelle</li>
+    <li>Platform-> Ring</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
+  
+</LanguageData>

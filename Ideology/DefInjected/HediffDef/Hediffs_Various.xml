@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Biosculpting sickness -->
+  <BiosculptingSickness.label>penyakit biosculpting</BiosculptingSickness.label>
+  <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
+  <BiosculptingSickness.description>Efek setelah siklus biosculpting yang tidak lengkap. Itu menyebabkan mual, pusing dan pikiran yang membingungkan.</BiosculptingSickness.description>
+
+  <!-- EN: blindfolded -->
+  <Blindfold.label>mata tertutup</Blindfold.label>
+  <!-- EN: A blindfold is blocking this person's vision. -->
+  <Blindfold.description>Perban memblokir visi orang ini.</Blindfold.description>
+  
+  <!-- EN: neural supercharge -->
+  <NeuralSupercharge.label>penguatan neural</NeuralSupercharge.label>
+  <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
+  <NeuralSupercharge.description>Peningkatan sensitivitas eksternal dan sinkronisasi neuron. Ini meningkatkan kesadaran dan laju pembelajaran dengan imbalan peningkatan nafsu makan.</NeuralSupercharge.description>
+
+  <!-- EN: torture crown -->
+  <TortureCrown.label>mahkota penyiksaan</TortureCrown.label>
+  <!-- EN: A crown-like headpiece with stubby spikes that poke the head uncomfortably. It is used to put the wearer in pain. -->
+  <TortureCrown.description>Topi mirip dengan mahkota dengan sup tebal yang menyentuh kepala mereka secara ilegal.</TortureCrown.description>
+  
+  <!-- EN: work focus -->
+  <WorkFocus.label>fokus kerja</WorkFocus.label>
+  <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
+  <WorkFocus.description>Orang ini termotivasi oleh ritual atau peristiwa di mana ia telah berpartisipasi. Motivasi ini berarti Anda dapat bekerja lebih keras.</WorkFocus.description>
+
+</LanguageData>

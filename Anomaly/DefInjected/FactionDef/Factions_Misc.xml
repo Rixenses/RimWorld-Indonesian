@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entities -->
+  <Entities.label>entitas</Entities.label>
+  <!-- EN: Dark entities -->
+  <Entities.fixedName>entitas kegelapan</Entities.fixedName>
+  <!-- EN: leader -->
+  <Entities.leaderTitle>pemimpin</Entities.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Entities.messageDefendersAttacking>{0} dari {1} sedang menyerang {2} milikmu.</Entities.messageDefendersAttacking>
+  <!-- EN: entity -->
+  <Entities.pawnSingular>entitas</Entities.pawnSingular>
+  <!-- EN: entities -->
+  <Entities.pawnsPlural>entitas</Entities.pawnsPlural>
+  
+  <!-- EN: horax cult -->
+  <HoraxCult.label>KULTUS HORAX</HoraxCult.label>
+  <!-- EN: God of the Void -->
+  <HoraxCult.deityPresets.0.nameType.type>Tuhan Kehampaan</HoraxCult.deityPresets.0.nameType.type>
+  <!-- EN: The Servants of Horax -->
+  <HoraxCult.fixedName>Para Pelayan Horax</HoraxCult.fixedName>
+  <!-- EN: You see space as a grid, pure and mathematical. We know it is only the glassy surface of a black ocean of nightmares buried under every place and every moment. We know the mind who reigns from the deep. Its thoughts reach up from the boiling darkness and reward those who serve its will. -->
+  <HoraxCult.ideoDescription>Kamu melihat ruang sebagai kisi-kisi yang murni dan matematis. Kami tahu itu hanyalah permukaan kaca dari samudra hitam penuh mimpi buruk yang terkubur di setiap tempat dan setiap waktu. Kami mengenal pikiran yang berkuasa dari kedalaman. Pikirannya menjulur dari kegelapan yang mendidih dan memberi ganjaran bagi mereka yang melayani kehendaknya.</HoraxCult.ideoDescription>
+  <!-- EN: Nightmare Deep -->
+  <HoraxCult.ideoName>Kedalaman Mimpi Buruk</HoraxCult.ideoName>
+  <!-- EN: leader -->
+  <HoraxCult.leaderTitle>pemimpin</HoraxCult.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <HoraxCult.messageDefendersAttacking>{0} dari {1} sedang menyerang {2} milikmu.</HoraxCult.messageDefendersAttacking>
+  <!-- EN: member -->
+  <HoraxCult.pawnSingular>kultus</HoraxCult.pawnSingular>
+  <!-- EN: cultists -->
+  <HoraxCult.pawnsPlural>kultus</HoraxCult.pawnsPlural>
+  
+</LanguageData>

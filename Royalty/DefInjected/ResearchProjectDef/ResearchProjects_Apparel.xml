@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <CataphractArmor.label>Serverarmadura CataFrracta</CataphractArmor.label>
+  <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
+  <CataphractArmor.description>Ini memproduksi servoarmadura yang dapat diserahkan, servoarmadura berat yang memperlambat pengguna tetapi juga dapat menyerap kerusakan ekstrem.Catatan: Membutuhkan komponen canggih.</CataphractArmor.description>
+  <!-- EN:
+    <li>Subjek-> Armor Cataphract</li>
+    <li>Subject_story-> pertama kali dikembangkan armor setara [anypawn_possessive] sebagai metode menjelajahi gunung berapi aktif</li>
+    <li>Subject_story-> ditugaskan untuk menghasilkan set khusus Armor Cataphract untuk Partai Asrama Kekaisaran</li>
+    <li>Subject_story-> Bertempur dengan Pemberontak dan mempelajari baju besi Cataphract yang ditangkap</li>
+    <li>Subject_gerund-> Crafting Cataphract Armor</li>-><CataphractArmor.generalRules.rulesStrings>
+    <li>Subjek-> Servoarmadura Catafracta</li>
+    <li>Subjek_Def-> de la Serverarmadura katalog</li>
+    <li>Subject_story-> dikembangkan untuk pertama kalinya baju besi yang setara dengan CataFracta sebagai metode untuk menjelajahi gunung berapi aktif</li>
+    <li>Subject_story-> bertugas memproduksi set servo-rooking yang dipersonalisasi untuk kekuatan pendekatan kekaisaran</li>
+    <li>Subject_story-> Bertempur dengan Pemberontak dan mempelajari baju besi Cataphral yang ditangkap</li>
+    <li>Subject_gerund-> forjar serverarda catafracta</li>
+  </CataphractArmor.generalRules.rulesStrings>
+  
+  <!-- EN: gunlink -->
+  <Gunlink.label>Penampil lanjutan</Gunlink.label>
+  <!-- EN: Build wearable gunlinks to enhance your soldiers' shooting accuracy. -->
+  <Gunlink.description>Bangun jendela bidik canggih untuk meningkatkan akurasi penembakan tentara Anda.</Gunlink.description>
+  <!-- EN:
+    <li>Subjek-> Peningkatan Akurasi</li>
+    <li>Subject_story-> dikonversi implan okular glitterworld menjadi komputer penargetan yang lebih umum</li>
+    <li>Subject_story-> senang dengan kinerja ikatan senjata pabrik, meskipun peningkatan tingkat kematian akibat kehilangan helm meresahkan</li>
+    <li>Subject_story-> Gunlink yang dibeli massal untuk penembak jitu di Angkatan Darat, melarang mereka untuk prajurit garis depan</li>
+    <li>Subject_gerund-> Meningkatkan akurasi dengan penautan</li>-><Gunlink.generalRules.rulesStrings>
+    <li>Subjek-> Perbaikan Presisi</li>
+    <li>Subjek_def-> dari perbaikan presisi</li>
+    <li>Subject_story-> membuat implan mata mundobrillante menjadi perangkat peningkatan tujuan yang lebih umum</li>
+    <li>Subject_story-> Saya senang dengan kinerja pemirsa lanjutan dari pabrik, meskipun peningkatan tingkat kematian akibat hilangnya helm membuatnya khawatir</li>
+    <li>Subject_story-> dibeli dalam jumlah besar pemirsa lanjutan untuk penembak jitu di Angkatan Darat, melarang mereka dari tentara lini pertama</li>
+    <li>Subject_gerund-> Tingkatkan presisi dengan pemirsa lanjutan</li>
+  </Gunlink.generalRules.rulesStrings>
+  
+  <!-- EN: jump packs -->
+  <JumpPack.label>Jetpack</JumpPack.label>
+  <!-- EN: Build jump packs to perform aerial assaults during combat. -->
+  <JumpPack.description>Jetpacks memproduksi untuk meningkatkan serangan udara selama pertempuran.</JumpPack.description>
+  <!-- EN:
+    <li>Subjek-> Jump Packs</li>
+    <li>Subjek-> Penerbangan jarak pendek</li>
+    <li>Subjek_Story-> mengoperasikan taman hiburan yang berfokus pada pengalaman ekstrem, termasuk kursus Boomrat Petting dan Jump Pack</li>
+    <li>Subject_story-> Ran Mountaineering Tours di planet-planet low-grav, di mana paket lompatan dan topeng oksigen wajib</li>
+    <li>Subject_story-> Melewati pertahanan Turret dari pelatihan petugas dengan serangan paket lompatan</li>
+    <li>Subject_gerund-> melakukan serangan udara</li>
+    <li>Subject_gerund-> Paket lompatan kerajinan</li>-><JumpPack.generalRules.rulesStrings>
+    <li>Subjek-> Jumping Driver</li>
+    <li>Subjek-> Penerbangan dalam jarak pendek</li>
+    <li>Subjek_def-> dari lompatan</li>
+    <li>Subjek_def-> dari penerbangan pada jarak pendek</li>
+    <li>Subject_story-> Taman hiburan yang berfokus pada pengalaman ekstrem, termasuk kursus ratabum dan jetpack yang dioperasikan</li>
+    <li>Subject_story-> Dia mengarahkan tur Montañismo di planet gravitasi rendah, di mana jetpack dan topeng oksigen wajib</li>
+    <li>Subject_story-> mengejek pertahanan Torrett pelatihan petugas dengan serangan menggunakan jetpacks</li>
+    <li>Subjek gerund-> melakukan perampokan udara</li>
+    <li>Subject_gerund-> Fabricar Jetpacks</li>
+  </JumpPack.generalRules.rulesStrings>
+  
+  <!-- EN: noble apparel -->
+  <NobleApparel.label>Pakaian mulia</NobleApparel.label>
+  <!-- EN: Tailor noble-specific apparel like formal shirts and top hats. -->
+  <NobleApparel.description>Jadikan bangsawan bangsawan, seperti kemeja dengan selebaran dan celana berkemah.</NobleApparel.description>
+  <!-- EN:
+    <li>Subjek-> Pakaian Formal</li>
+    <li>Subjek-> Pakaian Noble</li>
+    <li>Subjek_Story-> Koretri formal yang dibuat untuk lulusan siswa urbworld</li>
+    <li>Subject_story-> dipekerjakan oleh rumah yang mulia untuk membentuk topi topnya</li>
+    <li>Subject_story-> menemukan gaya baret baru yang merupakan hal yang sangat populer untuk seluruh musim</li>
+    <li>subjek_gerund-> menjahit untuk kaum bangsawan</li>
+    <li>Subject_gerund-> Crafting Noble Apparel</li>-><NobleApparel.generalRules.rulesStrings>
+    <li>Subjek-> Vestmen formal</li>
+    <li>Subjek-> bangsawan</li>
+    <li>Subjek_def-> pakaian formal</li>
+    <li>Subjek_def-> dari pakaian mulia</li>
+    <li>Subject_story-> membuat korset formal untuk kelulusan mahasiswa dunia perkotaan</li>
+    <li>Subjek_story-> digunakan oleh rumah yang mulia untuk membentuk topi cangkirnya</li>
+    <li>Subjek_story-> menemukan gaya baret baru yang merupakan sensasi selama musim penuh</li>
+    <li>Subject_gerund-> membuat pakaian untuk kaum bangsawan</li>
+    <li>Subjek gerund-> membuat pakaian mulia</li>
+  </NobleApparel.generalRules.rulesStrings>
+  
+  <!-- EN: royal apparel -->
+  <RoyalApparel.label>pakaian sungguhan</RoyalApparel.label>
+  <!-- EN: Tailor royal apparel of the highest tier, like royal robes and crowns. -->
+  <RoyalApparel.description>Buat pakaian nyata dengan kualitas terbaik, seperti gaun dan jubah kerajaan, dan mahkota.</RoyalApparel.description>
+  <!-- EN:
+    <li>Subjek-> Pakaian Kerajaan</li>
+    <li>Subject_story-> bekerja selama satu tahun penuh untuk membuat jubah kerajaan untuk penobatan</li>
+    <li>Subject_story-> mempelajari persyaratan heraldrik dari berbagai kelompok mulia untuk memastikan pakaian apa pun yang sesuai</li>
+    <li>Subject_story-> diangkat ke bangsawan kekaisaran dan menugaskan jubah dan koronet mereka sendiri</li>
+    <li>subjek_gerund-> menjahit untuk raja</li>
+    <li>Subject_gerund-> Crafting Royal Apparel</li>-><RoyalApparel.generalRules.rulesStrings>
+    <li>Subjek-> Realesta</li>
+    <li>Subjek_def-> pakaian asli</li>
+    <li>Subject_story-> bekerja selama satu tahun penuh untuk membuat jubah nyata untuk penobatan</li>
+    <li>Subject_story-> mempelajari persyaratan heraldik dari berbagai kelompok mulia untuk memastikan bahwa pakaian apa pun yang sesuai</li>
+    <li>Subject_story-> diangkat ke bangsawan kekaisaran dan menugaskan jubah dan mahkotanya sendiri</li>
+    <li>Subjek gerund-> membuat pakaian untuk raja</li>
+    <li>Subject_gerund-> manufacture realesta</li>
+  </RoyalApparel.generalRules.rulesStrings>
+  
+</LanguageData>

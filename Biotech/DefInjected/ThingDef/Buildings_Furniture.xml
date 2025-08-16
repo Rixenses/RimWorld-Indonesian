@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: baby decoration -->
+  <BabyDecoration.label>kuda</BabyDecoration.label>
+  <!-- EN: A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas. -->
+  <BabyDecoration.description>Dekorasi untuk bayi.Dekorasi bayi meningkatkan kecepatan bayi memuaskan kebutuhan mereka untuk bermain ketika orang dewasa bermain dengan mereka.Tempatkan mereka di sekitar area bermain anak -anak Anda.</BabyDecoration.description>
+  
+  <!-- EN: baby sleeping spot -->
+  <BabySleepingSpot.label>Tempat tidur (bayi)</BabySleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should leave a baby. Not comfortable. -->
+  <BabySleepingSpot.description>Menunjuk tempat di tanah tempat orang harus meninggalkan bayi.Itu tidak nyaman.</BabySleepingSpot.description>
+  
+  <!-- EN: blackboard -->
+  <Blackboard.label>papan</Blackboard.label>
+  <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
+  <Blackboard.description>Permukaan datar mirip dengan batu untuk ditulis dengan kapur.Ditempatkan di dekat meja, papan meningkatkan laju belajar anak -anak selama kelas.Hingga tiga papan tulis dapat digunakan secara bersamaan.</Blackboard.description>
+  <!-- EN: Learning rate -->
+  <Blackboard.comps.CompInspectStringBlackboard.inspectString>Tingkat pembelajaran</Blackboard.comps.CompInspectStringBlackboard.inspectString>
+  
+  <!-- EN: crib -->
+  <Crib.label>buaian</Crib.label>
+  <!-- EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
+  <Crib.description>Tempat tidur yang nyaman dengan sisi yang aman, sempurna untuk bayi yang mengantuk.Cradle berkualitas tinggi akan membuat bayi bahagia.Beberapa boks dapat ditempatkan di kamar tidur tanpa mengubahnya menjadi barak.</Crib.description>
+  
+  <!-- EN: school desk -->
+  <SchoolDesk.label>meja</SchoolDesk.label>
+  <!-- EN: A desk where adults can teach lessons to children. -->
+  <SchoolDesk.description>Meja di mana orang dewasa dapat memberikan pelajaran kepada anak -anak.</SchoolDesk.description>
+  <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>Pengganda kecepatan yang dipelajari anak -anak selama kelas saat menggunakannya.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+  <!-- EN: Learning rate bonus -->
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>Bonus Tingkat Pembelajaran</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+  <!-- EN: Learning rate bonus -->
+  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>Bonus Tingkat Pembelajaran</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
+  
+  <!-- EN: toy box -->
+  <ToyBox.label>Kotak mainan</ToyBox.label>
+  <!-- EN: A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play. -->
+  <ToyBox.description>Sebuah kotak yang berisi banyak mainan kecil.Kotak mainan dapat digunakan untuk bermain dengan bayi, memuaskan kebutuhan mereka untuk bermain.</ToyBox.description>
+  
+</LanguageData>

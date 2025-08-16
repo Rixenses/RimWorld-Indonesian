@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Fisik_description_root-> Perabotan ini diukir dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Furnitur ini memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sebuah ukiran pada furnitur ini [menggambarkan] [gambar].[desc_sentence_group]</li>-><ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>Fisik_description_root-> Perabotan ini telah merekam [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> este mueble conttiene una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sebuah ukiran di furnitur ini [menggambarkan] ke [gambar].[desc_sentence_group]</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Fisik_description_root-> Sarcophagus diukir dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sarcophagus memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sarcophagus diukir dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sebuah ukiran pada sarkofagus ini [menggambarkan] [gambar].[desc_sentence_group]</li>-><ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>Fisik_description_root-> Sarcophagus telah merekam [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sarcophagus memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sarcophagus telah merekam [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> yang direkam dalam sarkofagus ini [berangkat] ke [gambar].[desc_sentence_group]</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Fisik_description_root-> ini [patung] [menggambarkan] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> ini [patung] memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> pada [patung] ini adalah [penggambaran] dari [gambar].[desc_sentence_group]</li>
+    <li>Patung-> Patung</li>
+    <li>patung-> kerja</li>
+    <li>Patung-> Sepotong</li>
+    <li>patung-> ukiran</li>-><ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>Fisik_description_root-> Esta [patung] [menggambarkan] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_Description_root-> ESTA [Patung] Tiene Una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> en esta [patung] hay una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> este [sculpture1] [menggambarkan] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> este [sculpture1] tiene una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> en este [sculpture1] hay una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Patung-> Patung</li>
+    <li>patung1-> bekerja</li>
+    <li>Patung-> Sepotong</li>
+    <li>Patung1-> Diukir</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Fisik_description_root-> Senjata ini diukir dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Senjata ini memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sebuah ukiran pada senjata ini [menggambarkan] [gambar].[desc_sentence_group]</li>-><ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>Fisik_description_root-> Senjata ini memiliki [penggambaran] [gambar] yang direkam.[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Esta Arma Contiene Una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> ukiran dalam senjata ini [berangkat] [gambar].[desc_sentence_group]</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Fisik_description_root-> Senjata ini diukir dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Senjata ini memiliki [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Sebuah ukiran pada senjata ini [menggambarkan] [gambar].[desc_sentence_group]</li>-><ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>Fisik_description_root-> Senjata ini direkam dengan [penggambaran] [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> Esta Arma Contiene Una [penggambaran] de [gambar].[desc_sentence_group]</li>
+    <li>Fisik_description_root-> ukiran dalam senjata ini [berangkat] [gambar].[desc_sentence_group]</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+  
+</LanguageData>

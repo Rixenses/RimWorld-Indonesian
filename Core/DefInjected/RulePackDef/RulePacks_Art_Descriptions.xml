@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_description-> [physical_description_root] [context_sentence]</li>
+    <li>SITUCTANCE_GROUP-> [SITUCSANCE_PHRASE]</li>
+    <li>desc_sentence_group-> [desc_sentence] [style_group]</li>
+    <li>context_sentence-> ini [penggambaran] mengacu pada [Tale_noun] pada [tanggal].</li>
+    <li>context_sentence-> [penggambaran] ini berkaitan dengan [Tale_noun] pada [tanggal].</li>
+    <li>context_sentence-> ini [penggambaran] menceritakan kisah [Tale_noun] pada [tanggal].</li>-><ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description-> [physical_description_root] [context_sentence]</li>
+    <li>SITUCTANCE_GROUP-> [SITUCSANCE_PHRASE]</li>
+    <li>desc_sentence_group-> [desc_sentence] [style_group]</li>
+    <li>Context_sentennce-> [penggambaran] ini mengacu pada apa yang terjadi [tanggal], ketika [Tale_noun].</li>
+    <li>Kalimat Konteks-> [Penggambaran] ini berkaitan dengan apa yang terjadi [tanggal], ketika [Tale_noun].</li>
+    <li>Konteks sentente-> [penggambaran] ini menceritakan kisah [tanggal], ketika [noun kisah].</li>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_description-> [Fisik_Description_root]</li>
+    <li>desc_sentence_group-> [style_group]</li>-><ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description-> [Fisik_Description_root]</li>
+    <li>desc_sentence_group-> [style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>style_group-> [artextra_clause].[style_clause].</li>
+    <li>style_group-> [style_clause].[Artconjunction] [Artextra_Clause].</li>
+    <li>style_group-> [style_clause].</li>
+    <li>style_group-> [artextra_clause].</li>
+    <li>style_group-></li>
+    <li>Artconjunction (p = 6)-></li>
+    <li>artconjunction-> sebagai kontras yang menarik,</li>
+    <li>artconjunction-> melengkapi karya,</li>
+    <li>Artconjunction-> Selain itu,</li>
+    <li>artconjunction-> mencolok,</li>
+    <li>artconjunction-> provokatif,</li>
+    <li>artconjunction-> luar biasa untuk jenis karya ini,</li>
+    <li>artconjunction-> meskipun sedikit yang mengharapkannya,</li>
+    <li>artconjunction-> selain itu,</li>
+    <li>Artextra_Clause-> Gambar dibatasi oleh [SubimagePlural]</li>
+    <li>Artextra_Clause-> di tepi gambar adalah [SubimagePlural]</li>
+    <li>Artextra_Clause-> Ada [SubImagesingle] [Side_Position]</li>
+    <li>Artextra_Clause-> Subjek ada di depan [SubimageAny]</li>
+    <li>Artextra_Clause-> Bagian bawah gambar didominasi oleh [SubimageAny]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di tengah [komunitas]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di pinggiran [komunitas]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di dalam [komunitas] yang dibangun di dekat [fitur medan]</li>
+    <li>artextra_clause-> [karakter] [idles] [Side_Position]</li>
+    <li>artextra_clause-> A [Pawn_adj] [karakter] [idles] [Side_Position]</li>
+    <li>artextra_clause-> [quantity_adjphrase] [karakter] s muncul [side_position]</li>
+    <li>artextra_clause-> [quantity_adjphrase] [pawn_adj] [karakter] s muncul [side_position]</li>
+    <li>Artextra_Clause-> A [hewan] [idles] [Side_Position]</li>
+    <li>Artextra_Clause-> Jika Anda menyipitkan mata, komposisi [komposisi] gambar mengungkapkan garis besar [SubimageAny]</li>
+    <li>Artextra_Clause-> The [Emosional_Expression] Kepala [Pawn_adj] [Personjob] mengawasi semua</li>
+    <li>artextra_clause-> A [Pawn_adj] [Personjob] mengawasi semua sementara [Emosional_Expression]</li>
+    <li>artextra_clause-> Kepala [Pawn_adj] [Personjob] mengawasi semua</li>
+    <li>Artextra_Clause-> Seluruh gambar digambarkan oleh pengaturan yang cermat dari [SubimagePlural]</li>
+    <li>SubimageAyy-> [SubimageSingle]</li>
+    <li>SubimageAyy-> [SubimagePlural]</li>
+    <li>subimagesingle (p = 4)-> a [karakter]</li>
+    <li>SubimageSingle-> [terrainfeature]</li>
+    <li>SubimageSingle-> [Komunitas]</li>
+    <li>SubimageSingle-> pohon [Treetype]</li>
+    <li>SubimageSingle-> [Sayuran]</li>
+    <li>SubimageSingle-> [kelompok hewan] dari [hewan</li>
+    <li>SubimagePlural (p = 3)-> [kuantitas frase adj] [Karakter</li>
+    <li>Subimageplural-> [Quantity_adjphrase] [Sayuran] s</li>
+    <li>Subhamgaplural-> [quantity_dzfarus] [ular] s</li>
+    <li>Pawn_adj-> Mati</li>
+    <li>Pawn_adj-> sekarat</li>
+    <li>Pawn_adj-> Cedera</li>
+    <li>Pawn_adj-> tidur</li>
+    <li>Pawn_adj-> berdiri</li>
+    <li>Pawn_adj-> Duduk</li>
+    <li>Pawn_adj-> Crazy</li>
+    <li>Pawn_adj-> Young</li>
+    <li>Pawn_adj-> tua</li>
+    <li>Pawn_adj-> [gore] -covered</li>
+    <li>Pawn_adj-> kotor</li>
+    <li>Pawn_adj-> [Pakaian] -Wearing</li>
+    <li>Pawn_adj-> [senjata] -lieling</li>
+    <li>Pawn_adj-> [Sayuran] -Eating</li>
+    <li>Emosional_Expression-> tersenyum</li>
+    <li>Emosional_Expression-> mengerutkan kening</li>
+    <li>Emosional_Expression-> Scowling</li>
+    <li>Emosional_expression-> tertawa</li>
+    <li>emosional_expression-> menatap</li>
+    <li>emosional_expression-> menangis</li>
+    <li>Emosional_Expression-> berteriak</li>
+    <li>Emosional_Expression-> terlalu gembira</li>
+    <li>idles-> duduk</li>
+    <li>Idles-> berdiri</li>
+    <li>Idles-> Waits</li>
+    <li>Idles-> Smiles</li>
+    <li>Idles-> Lies</li>
+    <li>Idles-> berpose</li>
+    <li>idles-> muncul</li>
+    <li>Idles-> ditampilkan</li>
+    <li>idles-> memudar</li>
+    <li>idles-> floats</li>
+    <li>side_position-> off ke satu sisi</li>
+    <li>side_position-> di latar belakang</li>
+    <li>side_position-> di kejauhan</li>
+    <li>side_position-> di bagian bawah gambar</li>
+    <li>side_position-> di bagian atas gambar</li>
+    <li>side_position-> di sebelah kiri adegan utama</li>
+    <li>side_position-> di sebelah kanan adegan utama</li>
+    <li>side_position-> di dekat tepi gambar</li>
+    <li>side_position-> di dekat subjek utama</li>
+    <li>side_position-> jauh dari subjek utama</li>
+    <li>side_position-> di bawah subjek utama</li>
+    <li>side_position-> di belakang titik fokus</li>
+    <li>style_clause (p = 4)-> karya [melambangkan] [ConceptAnd]</li>
+    <li>Artextra_Clause-> [SubImagesingle] [Side_Position] [melambangkan] [ConceptAnd]</li>
+    <li>style_clause-> Karya ini diresapi dengan gagasan [ConceptAry] dan dilakukan dengan gaya [artstyle_adj]</li>
+    <li>style_clause-> karya ini dieksekusi dalam gaya [artstyle_adj]</li>
+    <li>style_clause-> gaya [artstyle_adj] dari adegan pusat bentrokan dengan penggambaran latar belakang [artstyle_adj]</li>
+    <li>style_clause-> karya ini memiliki perasaan [artstyle_adj] dan struktur [komposisi]</li>
+    <li>style_clause-> komposisi keseluruhan adalah [komposisi]</li>
+    <li>style_clause-> gayanya [artstyle_adj] dengan elemen [artstyle_adj]</li>
+    <li>style_clause-> Gambar entah bagaimana mengekspresikan [ConceptAny] dan [ConceptAnd]</li>
+    <li>style_clause-> gambar kontras [ConceptAry] dengan [ConceptAnd]</li>
+    <li>style_clause-> struktur [komposisi] gambar hampir bertentangan dengan gaya [artstyle_adj] -nya</li>
+    <li>style_clause-> Karya ini diarsir dalam warna [warna] dan [warna]</li>
+    <li>style_clause-> hampir setiap bentuk dalam gambar tampaknya [komposisi]</li>
+    <li>melambangkan-> melambangkan</li>
+    <li>melambangkan-> tampaknya melambangkan</li>
+    <li>melambangkan-> mewakili</li>
+    <li>melambangkan-> tampaknya mewakili</li>
+    <li>melambangkan-> tampaknya mengekspresikan</li>
+    <li>melambangkan-> mengingatkan penonton</li>
+    <li>melambangkan-> menyampaikan emosi</li>
+    <li>melambangkan-> membuat pemirsa berpikir</li>
+    <li>melambangkan-> mewakili artis</li>
+    <li>melambangkan-> menyarankan konsep</li>
+    <li>menggambarkan-> menggambarkan</li>
+    <li>menggambarkan-> menunjukkan</li>
+    <li>menggambarkan-> menggambarkan</li>
+    <li>menggambarkan-> menyerupai</li>
+    <li>menggambarkan-> menggambarkan</li>
+    <li>menggambarkan-> mewakili</li>
+    <li>menggambarkan-> berbentuk seperti</li>
+    <li>Penggambaran-> Penggambaran</li>
+    <li>penggambaran-> gambar</li>
+    <li>Penggambaran-> Penggambaran</li>
+    <li>Penggambaran-> Representasi</li>
+    <li>Penggambaran-> Ilustrasi</li>
+    <li>Penggambaran-> Karya Seni</li>
+    <li>komposisi-> segitiga</li>
+    <li>komposisi-> persegi panjang</li>
+    <li>Komposisi-> Square</li>
+    <li>komposisi-> tidak seimbang</li>
+    <li>Komposisi-> Keseimbangan yang sangat baik</li>
+    <li>Komposisi-> Dinamis</li>
+    <li>komposisi-> statis</li>
+    <li>komposisi-> vertikal</li>
+    <li>Komposisi-> Horizontal</li>
+    <li>komposisi-> fokus</li>
+    <li>artstyle_adj-> unoriginal</li>
+    <li>artstyle_adj-> sederhana</li>
+    <li>artstyle_adj-> kompleks dan realistis</li>
+    <li>artstyle_adj-> surealistic</li>
+    <li>artstyle_adj-> klasik</li>
+    <li>artstyle_adj-> modern</li>
+    <li>artstyle_adj-> simbolik</li>
+    <li>artstyle_adj-> amatir namun menarik</li>
+    <li>artstyle_adj-> berorientasi detail</li>
+    <li>artstyle_adj-> blocky</li>
+    <li>artstyle_adj-> cubist</li>
+    <li>artstyle_adj-> impresionistik</li>
+    <li>artstyle_adj-> ekspresionis</li>
+    <li>Artstyle_adj-> Fotografi</li>
+    <li>artstyle_adj-> baroque</li>
+    <li>artstyle_adj-> Dadaist</li>
+    <li>artstyle_adj-> Glitch-art</li>
+    <li>artstyle_adj-> pixelated</li>
+    <li>artstyle_adj-> fauvist</li>
+    <li>artstyle_adj-> folksy</li>
+    <li>artstyle_adj-> figuratif</li>
+    <li>artstyle_adj-> Sinuous</li>
+    <li>artstyle_adj-> geometrik</li>
+    <li>artstyle_adj-> abstrak</li>
+    <li>artstyle_adj-> hiper-realistis</li>
+    <li>artstyle_adj-> seni pop</li>
+    <li>artstyle_adj-> minimalis</li>
+    <li>artstyle_adj-> neoclassical</li>
+    <li>artstyle_adj-> cel-shaded</li>
+    <li>artstyle_adj-> pasca-impresionistik</li>
+    <li>artstyle_adj-> purist</li>
+    <li>artstyle_adj-> rococo</li>
+    <li>artstyle_adj-> romanesque</li>
+    <li>artstyle_adj-> romantis</li>
+    <li>artstyle_adj-> seperti grafiti</li>
+    <li>artstyle_adj-> erotis</li>
+    <li>artstyle_adj-> sensual</li>
+    <li>artstyle_adj-> Heartfelt</li>-><ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group-> [artextra_clause].[style_clause].</li>
+    <li>style_group-> [style_clause].[Artconjunction] [Artextra_Clause].</li>
+    <li>style_group-> [style_clause].</li>
+    <li>style_group-> [artextra_clause].</li>
+    <li>style_group-></li>
+    <li>Artconjunction (p = 6)-></li>
+    <li>artconjunction-> sebagai kontras yang menarik,</li>
+    <li>artconjunction-> untuk menyelesaikan karya,</li>
+    <li>Artconjunction-> Selain itu,</li>
+    <li>Artconjunction-> Selain itu,</li>
+    <li>artconjunction-> provocativamente,</li>
+    <li>Artconjunction-> luar biasa untuk jenis karya ini</li>
+    <li>Artconjunction-> Tanpa diduga,</li>
+    <li>Artonjunction-> Sin Embargo,</li>
+    <li>Artextra_Clause-> Gambar dibatasi oleh [SubimagePlural]</li>
+    <li>artextra_clause-> di tepi gambar ada [subimageeplural]]</li>
+    <li>artextra_clause-> hay [subimagesingle] [side_position]</li>
+    <li>Artextra_Clause-> Para protagonis ada di depan [SubimageAny]</li>
+    <li>Artextra_Clause-> Bagian bawah gambar didominasi oleh [SubimageAny]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di tengah [CommunityIndef]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di pinggiran [CommunityIndef]</li>
+    <li>Artextra_Clause-> Adegan berlangsung di dalam [CommunityIndef] dekat [TerrainfeatureIndef]</li>
+    <li>artextra_clause-> [karakterIndef] [idles] [Side_Position]</li>
+    <li>artextra_clause-> [karakterIndefmas] [pawn_adj] [idles] [side_position]</li>
+    <li>artextra_clause-> [karakterIndeffem] [pawn_adj_fem] [idles] [side_position]</li>
+    <li>artextra_clause-> [quantity_adjphrase] [karakterenemyplural] se ven [side_position]</li>
+    <li>artextra_clause-> [quantity_adjphrase] [karakterenemyplural] [pawn_adj] s se ven [side_position]</li>
+    <li>artextra_clause-> [animalIndef] [idles] [Side_Position]</li>
+    <li>Artextra_Clause-> Jika Anda mempersempit mata Anda, Anda dapat melihat bahwa komposisi gambar mengungkapkan siluet [SubimageAny]</li>
+    <li>artextra_clause->la cabeza de un [PersonJob] [emotional_expression] [PAWN_adj] lo observa todo</li>
+    <li>artextra_clause-> Kepala [personjob_fem] [emosional_expression] [pawn_adj_fem] mengamati segalanya</li>
+    <li>artextra_clause-> A [personjob] [Pawn_adj] mengamati semuanya [Emosional_Expression]</li>
+    <li>Artextra_Clause-> A [personjob] [pawn_adj] melihat semuanya dari ketinggian</li>
+    <li>artextra_clause-> a [personjob_fem] [pawn_adj_fem] mengamati semuanya [Emosional_Expression]</li>
+    <li>artextra_clause-> A [personjob_fem] [Pawn_adj_fem] melihat semuanya dari ketinggian</li>
+    <li>Artextra_Clause-> Gambar lengkap dibentuk oleh pengaturan yang cermat dari [subimagePlural]]</li>
+    <li>SubimageAyy-> [SubimageSingle]</li>
+    <li>SubimageAyy-> [SubimagePlural]</li>
+    <li>SubimageSingle (p = 4)-> [karakterIndef]</li>
+    <li>SubimageSingle-> [TerrainfeatureIndef]</li>
+    <li>SubimageSingle-> [CommunityIndef]</li>
+    <li>SubimageSingle-> [TreeetypeIndef]</li>
+    <li>SubimageSingle-> [sayuran]</li>
+    <li>SubimageSingle-> [AnimalIndef]</li>
+    <li>subimagePlural (p = 3)-> [quantity_adjphrase] [karakter_plural]</li>
+    <li>Subimageplural-> [Quantity_adjphrase] [VegetableAny] s</li>
+    <li>Subhamgaplural-> [quantity_dzfarus] [snake_papural]</li>
+    <li>Pawn_adj-> tersenyum</li>
+    <li>Pawn_adj-> tidur</li>
+    <li>Pawn_adj-> Mati</li>
+    <li>Pawn_adj-> loco</li>
+    <li>Pawn_adj-> Joven</li>
+    <li>Pawn_adj-> Viejo</li>
+    <li>Pawn_adj-> Lunatic</li>
+    <li>Pawn_adj-> marah</li>
+    <li>Pawn_Adj-> hamil</li>
+    <li>Pawn_adj-> Ditutupi dengan [gore_plural]</li>
+    <li>Pawn_adj-> gugup</li>
+    <li>Pawn_adj-> Dressing [Opparelindef]</li>
+    <li>Pawn_adj-> Soft [WeaponIndef]</li>
+    <li>Pawn_adj-> Makan [sayuran]</li>
+    <li>Pawn_adjpl-> tersenyum</li>
+    <li>Pawn_adjpl-> tidur</li>
+    <li>Pawn_adjpl-> muertos</li>
+    <li>Pawn_adjpl-> locos</li>
+    <li>Pawn_adjpl-> Young</li>
+    <li>Pawn_adjpl-> tua</li>
+    <li>Pawn_adjpl-> Lunatics</li>
+    <li>Pawn_adjpl-> marah</li>
+    <li>Pawn_adjpl-> hamil</li>
+    <li>Pawn_adjpl-> tertutup [gore_plural]</li>
+    <li>Pawn_adjpl-> Nerviosos</li>
+    <li>Pawn_adj_fem-> tersenyum</li>
+    <li>Pawn_adj_fem-> tidur</li>
+    <li>Pawn_adj_fem-> Mati</li>
+    <li>Pawn_adj_fem-> loca</li>
+    <li>Pawn_adj_fem-> Joven</li>
+    <li>Pawn_adj_fem-> vieja</li>
+    <li>Pawn_adj_fem-> Lunatic</li>
+    <li>Pawn_adj_fem-> marah</li>
+    <li>Pawn_adj_fem-> hamil</li>
+    <li>Pawn_adj_fem-> [gore_plural]</li>
+    <li>Pawn_adj_fem-> gugup</li>
+    <li>Pawn_adj_fem-> Dressing [Opparelindef]</li>
+    <li>Pawn_adj_fem-> menggunakan [WeaponIndef]</li>
+    <li>Pawn_adj_fem-> makan [sayuran]</li>
+    <li>Emosional_Expression-> sonriendo</li>
+    <li>Emosional_expression-> menangis</li>
+    <li>Emosional_expression-> menggeram</li>
+    <li>Emosional_Expression-> Riendo</li>
+    <li>Emosional_Expression-> Yawning</li>
+    <li>Emosional_Expression-> gritando</li>
+    <li>Emosional_Expression-> aulllando</li>
+    <li>Emosional_Expression-> Jumping</li>
+    <li>Idles-> duduk</li>
+    <li>Idles-> berdiri</li>
+    <li>Idles-> tunggu</li>
+    <li>Idles-> Smiles</li>
+    <li>Idles-> itu jatuh</li>
+    <li>Idles-> pose</li>
+    <li>Idles-> muncul</li>
+    <li>Idles-> ditampilkan</li>
+    <li>Idles-> Break</li>
+    <li>idles-> float</li>
+    <li>Side_posion-> di latar belakang</li>
+    <li>Side_position-> jarak</li>
+    <li>Side_posion-> di gambar bawah</li>
+    <li>Side_posion-> di bagian atas gambar</li>
+    <li>Side_posion-> di sebelah kiri adegan utama</li>
+    <li>Side_posion-> di sebelah kanan adegan utama</li>
+    <li>Side_posion-> di dekat tepi gambar</li>
+    <li>Side_posion-> di dekat tema utama</li>
+    <li>Side_posion-> jauh dari tema utama</li>
+    <li>Side_posion-> di bawah tema utama</li>
+    <li>Side_posion-> di bawah titik fokus</li>
+    <li>Style_clause (p = 4)-> work [melambangkan] [ConceptAndef]</li>
+    <li>artextra_clause-> [SubImagesingle] [Side_Position] que [melambangkan] [ConceptAndef]</li>
+    <li>Style_clause-> Karya ini direndam dengan gagasan [ConceptAndef] dan dibuat dalam gaya [artstyle_adj]]</li>
+    <li>Style_clause-> Karya itu dieksekusi dalam gaya [artstyle_adj]</li>
+    <li>Style_clause-> gaya [artstyle_adj] dari adegan pusat kontras dengan gaya latar belakang [artstyle_adj]</li>
+    <li>Style_clause-> karya terasa [artstyle_adj] dan memiliki struktur [komposisi] [komposisi]</li>
+    <li>Style_clause-> Komposisi umum adalah [komposisi]</li>
+    <li>Style_clause-> gayanya [artstyle_adj] dengan elemen [artstyle_adj] s</li>
+    <li>Style_clause-> Gambar, dalam beberapa hal, mengekspresikan [ConceptArtulll] dan [ConceptArtulll]</li>
+    <li>Style_clause-> gambar kontras [ConceptArtanFull] dengan [ConceptArtull]</li>
+    <li>Style_clause-> Struktur [komposisi] gambar hampir bertentangan dengan gaya [artstyle_adj]</li>
+    <li>Style_clause-> work memiliki nada [warna] dan [warna]</li>
+    <li>Style_clause-> setiap siluet tampaknya [komposisi]</li>
+    <li>melambangkan-> melambangkan</li>
+    <li>melambangkan-> tampaknya melambangkan</li>
+    <li>melambangkan-> representa</li>
+    <li>melambangkan-> tampaknya mewakili</li>
+    <li>Melambangkan-> tampaknya mengekspresikan</li>
+    <li>Melambangkan-> Ingat penonton</li>
+    <li>Simbolis-> mengekspresikan</li>
+    <li>melambangkan-> menyarankan</li>
+    <li>melambangkan-> mewakili gagasan seniman</li>
+    <li>melambangkan-> menyarankan konsep</li>
+    <li>Berangkat-> sampel</li>
+    <li>Defiksi-> WillusStras</li>
+    <li>menggambarkan-> representa</li>
+    <li>Cacat-> diangkat</li>
+    <li>menggambarkan-> cetak</li>
+    <li>menggambarkan-> expone</li>
+    <li>Cacat-> Revela</li>
+    <li>Penggambaran-> Imagen</li>
+    <li>Definisi-> Usia</li>
+    <li>Penggambaran-> Representasi</li>
+    <li>Penggambaran-> Ilustrasi</li>
+    <li>Penggambaran-> stempel</li>
+    <li>Penggambaran-> figura</li>
+    <li>komposisi-> segitiga</li>
+    <li>komposisi-> persegi panjang</li>
+    <li>Komposisi-> Square</li>
+    <li>komposisi-> tidak seimbang</li>
+    <li>Komposisi-> Balanceada</li>
+    <li>Komposisi-> Dinamis</li>
+    <li>Komposisi-> statis</li>
+    <li>komposisi-> vertikal</li>
+    <li>Komposisi-> Horizontal</li>
+    <li>Komposisi-> fokus</li>
+    <li>artstyle_adj-> poco asli</li>
+    <li>artstyle_adj-> sederhana</li>
+    <li>artstyle_adj-> kompleks dan realistis</li>
+    <li>artstyle_adj-> Surrealist</li>
+    <li>Artstyle_adj-> clásico</li>
+    <li>Artstyle_adj-> modern</li>
+    <li>Artstyle_adj-> simbolik</li>
+    <li>artstyle_adj-> amatir</li>
+    <li>artstyle_adj-> Detail</li>
+    <li>artstyle_adj-> anguloso</li>
+    <li>Artstyle_adj-> cubist</li>
+    <li>artstyle_adj-> impresionis</li>
+    <li>artstyle_adj-> ekspresionis</li>
+    <li>Artstyle_adj-> dramatis</li>
+    <li>artstyle_adj-> barroco</li>
+    <li>artstyle_adj-> dadaista</li>
+    <li>Artstyle_adj-> claroscuro</li>
+    <li>artstyle_adj-> pixelado</li>
+    <li>Artstyle_adj-> fabiano</li>
+    <li>artstyle_adj-> tradisional</li>
+    <li>Artstyle_adj-> figure</li>
+    <li>Artstyle_adj-> sinuoso</li>
+    <li>Artstyle_adj-> geometrik</li>
+    <li>artstyle_adj-> abstrak</li>
+    <li>artstyle_adj-> hyperrealist</li>
+    <li>artstyle_adj-> gelap</li>
+    <li>artstyle_adj-> minimalista</li>
+    <li>Artstyle_adj-> neoklastik</li>
+    <li>artstyle_adj-> Caricaturesco</li>
+    <li>artstyle_adj-> posimpresionista</li>
+    <li>artstyle_adj-> tekan</li>
+    <li>artstyle_adj-> rococó</li>
+    <li>artstyle_adj-> romanesco</li>
+    <li>artstyle_adj-> romantis</li>
+    <li>ArtStyle_adj-> tipe grafiti</li>
+    <li>Artstyle_adj-> erotis</li>
+    <li>artstyle_adj-> sensual</li>
+    <li>artstyle_adj-> jujur</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  
+</LanguageData>

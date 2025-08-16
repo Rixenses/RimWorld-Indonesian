@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kibble -->
+  <Kibble.label>Menurut saya</Kibble.label>
+  <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
+  <Kibble.description>Makanan untuk hewan dari bahan hewan dan tumbuhan.Manusia bisa memakannya, tetapi mereka tidak suka apa pun.</Kibble.description>
+  
+  <!-- EN: fine meal -->
+  <MealFine.label>makanan enak</MealFine.label>
+  <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
+  <MealFine.description>Hidangan yang disiapkan dengan hati -hati dengan hati -hati menggunakan berbagai pilihan bahan.</MealFine.description>
+  
+  <!-- EN: carnivore fine meal -->
+  <MealFine_Meat.label>Makanan yang enak dengan karnivora</MealFine_Meat.label>
+  <!-- EN: A complex dish assembled with care from meat ingredients. -->
+  <MealFine_Meat.description>Hidangan perakitan yang kompleks dengan hati -hati dari bahan -bahan daging.</MealFine_Meat.description>
+  
+  <!-- EN: vegetarian fine meal -->
+  <MealFine_Veg.label>Makanan vegetarian yang enak</MealFine_Veg.label>
+  <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
+  <MealFine_Veg.description>Hidangan kompleks yang dibuat dengan hati -hati dari bahan -bahan vegetarian.</MealFine_Veg.description>
+  
+  <!-- EN: lavish meal -->
+  <MealLavish.label>makanan gourmet</MealLavish.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish.description>Karya seni kuliner, makanan ini memberi makan tubuh, pikiran, dan jiwa.</MealLavish.description>
+  
+  <!-- EN: carnivore lavish meal -->
+  <MealLavish_Meat.label>Makanan karnivora gourmet</MealLavish_Meat.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Meat.description>Karya seni kuliner, makanan ini memelihara tubuh, pikiran, dan jiwa.</MealLavish_Meat.description>
+  
+  <!-- EN: vegetarian lavish meal -->
+  <MealLavish_Veg.label>Makanan vegetarian gourmet</MealLavish_Veg.label>
+  <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
+  <MealLavish_Veg.description>Karya seni kuliner, makanan ini memelihara tubuh, pikiran, dan jiwa.</MealLavish_Veg.description>
+  
+  <!-- EN: nutrient paste meal -->
+  <MealNutrientPaste.label>Pasta Nutrisi</MealNutrientPaste.label>
+  <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
+  <MealNutrientPaste.description>Campuran sintetis protein, karbohidrat, vitamin, asam amino dan mineral.Segala sesuatu yang dibutuhkan tubuh, tetapi benar -benar menjijikkan.</MealNutrientPaste.description>
+  
+  <!-- EN: simple meal -->
+  <MealSimple.label>Makanan sederhana</MealSimple.label>
+  <!-- EN: A simple meal quickly cooked from one main ingredient. -->
+  <MealSimple.description>Makanan sederhana yang dimasak dengan cepat dan dengan sedikit bahan.</MealSimple.description>
+  
+  <!-- EN: packaged survival meal -->
+  <MealSurvivalPack.label>Jatah kelangsungan hidup yang dikemas</MealSurvivalPack.label>
+  <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
+  <MealSurvivalPack.description>Makanan kemasan berkualitas tinggi, diproduksi untuk digunakan dalam situasi bertahan hidup.Bahkan jika Anda tidak pernah membusuk, itu dapat dimanjakan jika dibiarkan di luar ruangan.Bagus untuk bepergian.</MealSurvivalPack.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>pemmican</Pemmican.label>
+  <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
+  <Pemmican.description>Pure yang disiapkan dari campuran makanan lemak dan sayuran.Dia tidak tahu luar biasa, tetapi dia bertahan setahun tanpa pendinginan.Bagus untuk bepergian.</Pemmican.description>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic harmonizer -->
+  <PsychicHarmonizer.label>Harmonizer psikis</PsychicHarmonizer.label>
+  <!-- EN: This brain implant projects the user's mood in a spherical psychic field, forcing others nearby to feel a blurred, simplified version of their emotions. It can be a powerful tool to keep morale high, but if the user becomes unhappy, it can lead to collective disaster. -->
+  <PsychicHarmonizer.description>Implan otak ini memproyeksikan suasana hati pengguna di bidang psikis bola, memaksa orang lain yang hampir merasakan citra emosi mereka yang kabur dan disederhanakan.Ini bisa menjadi alat yang ampuh untuk mempertahankan moral tinggi, tetapi jika pengguna menjadi tidak bahagia, ia dapat menyebabkan bencana kolektif.</PsychicHarmonizer.description>
+  
+  <!-- EN: psychic reader -->
+  <PsychicReader.label>Pembaca Psikis</PsychicReader.label>
+  <!-- EN: Gives limited mind-reading ability, improving the user's ability to get the upper hand in negotiations and social situations. The effect is proportional to the user's psychic sensitivity. -->
+  <PsychicReader.description>Ini memberikan keterampilan membaca mental yang terbatas, yang meningkatkan tingkat keberhasilan untuk mendapatkan keuntungan dalam negosiasi dan interaksi sosial.Efek ini sebanding dengan sensitivitas psikis pengguna.</PsychicReader.description>
+  
+  <!-- EN: psychic sensitizer -->
+  <PsychicSensitizer.label>Sensitizer psikis</PsychicSensitizer.label>
+  <!-- EN: This brain implant stimulates growth in the regions of the brain related to psychic interaction, thus increasing psychic sensitivity. -->
+  <PsychicSensitizer.description>Implan otak ini merangsang pertumbuhan di daerah otak yang diperlukan untuk interaksi psikis, meningkatkan sensitivitas psikologis.</PsychicSensitizer.description>
+  
+</LanguageData>

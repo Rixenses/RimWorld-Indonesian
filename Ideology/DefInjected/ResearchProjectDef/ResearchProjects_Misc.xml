@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioregeneration -->
+  <Bioregeneration.label>Biorgregenerasi</Bioregeneration.label>
+  <!-- EN: Unlock the biosculpter pod's bioregeneration cycle. This cycle heals old scars, regenerates small lost body parts like fingers and toes, and cures many of the physical maladies that come with old age. -->
+  <Bioregeneration.description>Buka kunci siklus bioregenerasi dari kapsul bio -sculpture.Siklus ini menyembuhkan bekas luka lama, meregenerasi bagian -bagian kecil dari kehilangan tubuh seperti jari -jari tangan dan kaki dan menyembuhkan banyak penyakit fisik yang datang dengan usia tua.</Bioregeneration.description>
+  <!-- EN:
+    <li>Subjek-> Bioregenerasi</li>
+    <li>Subject_story-> mempelajari pertumbuhan kembali tanduk boomalope untuk paralel dengan regenerasi manusia</li>
+    <li>Subject_story-> Data genetik salamander yang disambung ke dalam tubuh [anypawn_possessive] sendiri</li>
+    <li>Subject_story-> dilatih di rumah sakit glitterworld</li>
+    <li>Subject_story-> menyelesaikan kursus korespondensi dalam estetika glitterworld</li>
+    <li>subjek_gerund-> meregenerasi bentuk manusia</li>
+    <li>Subject_gerund-> Mengaktifkan regenerasi dengan biosculpers</li>-><Bioregeneration.generalRules.rulesStrings>
+    <li>Subjek-> biorregenerasi</li>
+    <li>Subjek_def-> dari bioregenerasi</li>
+    <li>Subject_story-> mempelajari pertumbuhan tanduk bumalop untuk mencari komponen yang memungkinkan regenerasi manusia</li>
+    <li>Subject_story-> Data genetik salamandra menskinum dengan tubuhnya sendiri</li>
+    <li>Subject_story-> dilatih di rumah sakit mundobrillante</li>
+    <li>Subject_story-> menyelesaikan kursus korespondensi dalam estetika mundobrillante</li>
+    <li>Subjek gerund-> meregenerasi tubuh manusia</li>
+    <li>Subject_gerund-> Aktifkan Regenerasi dengan Kapsul Bio-Patung</li>
+  </Bioregeneration.generalRules.rulesStrings>
+  
+  <!-- EN: biosculpting -->
+  <Biosculpting.label>Bio -culpted</Biosculpting.label>
+  <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
+  <Biosculpting.description>Bangun kapsul bio -sculptor yang dapat melakukan berbagai perubahan biologis untuk pemukim.Mereka sangat penting bagi orang percaya transhumanisme.</Biosculpting.description>
+  <!-- EN:
+    <li>Subjek-> Biosculpting</li>
+    <li>Subject_story-> Pod biosculpter yang dibangun pada kontrak untuk berbagai koloni</li>
+    <li>Subject_story-> mempelajari sila transhumanis, termasuk perlunya biosculpture</li>
+    <li>subjek_story-> meneliti perubahan biologis mana yang dapat dilakukan dengan aman</li>
+    <li>Subject_story-> lolos dari pertanian pendukung glitterworld dengan rencana ini</li>
+    <li>Subject_story-> disambut ke dalam koloni transhumanist</li>
+    <li>Subject_gerund-> Membangun Pod Biosculpter</li>
+    <li>subjek_gerund-> memahat bentuk manusia</li>-><Biosculpting.generalRules.rulesStrings>
+    <li>Subjek-> Bioesculpido</li>
+    <li>subjek_def-> del biosculpido</li>
+    <li>Subject_story-> Kapsul Bio-Esculpy di bawah kontrak untuk beberapa koloni</li>
+    <li>Subject_story-> mempelajari sila transhumanis, termasuk kebutuhan untuk menggunakan kapsul bio-sculpted</li>
+    <li>Subjek_story-> menyelidiki perubahan biologis yang dapat dilakukan dengan aman</li>
+    <li>Subject_story-> lolos dari pertanian pendukung mundobrillante dengan rencana ini</li>
+    <li>Subject_story-> Selamat Datang di lingkungan transhumanist</li>
+    <li>Subject_gerund-> membangun kapsul bioesculpted</li>
+    <li>Subjek gerund-> bio memahat bentuk manusia</li>
+  </Biosculpting.generalRules.rulesStrings>
+  
+  <!-- EN: neural supercharger -->
+  <NeuralSupercharger.label>Supercargador Neural</NeuralSupercharger.label>
+  <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
+  <NeuralSupercharger.description>Bangun perangkat supercargae saraf.Superkargator saraf meningkatkan kesadaran dan kecepatan belajar, tetapi juga meningkatkan kelaparan dan efek harus mendingin setiap hari.Transhumanis sering menganggap kelebihan saraf sebagai praktik penting.</NeuralSupercharger.description>
+  <!-- EN:
+    <li>Subjek-> Supercharger saraf</li>
+    <li>Subject_story-> Diimplementasikan Supercharger Neural di sekolah asrama [anypawn_possessive]</li>
+    <li>Subject_story-> supercharged neuron klon pertanian untuk mempercepat perkembangan mereka secara besar-besaran</li>
+    <li>subjek_story-> berusaha melarang supercharging saraf di kursus universitas [anypawn_pronoun] diajarkan</li>
+    <li>Subject_story-> bergabung dengan sekte transhumanis di mana supercharging saraf adalah wajib</li>
+    <li>subjek_gerund-> supercharging kecerdasan manusia</li>
+    <li>Subject_gerund-> Membangun Superchargers Saraf</li>-><NeuralSupercharger.generalRules.rulesStrings>
+    <li>Subjek-> Supercargator saraf</li>
+    <li>Subjek_def-> dari supercargers saraf</li>
+    <li>Subject_story-> Diimplementasikan Supercargers Neural di sekolah internalnya</li>
+    <li>Subject_story-> Klon yang kelebihan beban dibudidayakan untuk mempercepat perkembangan mereka secara besar-besaran</li>
+    <li>Subject_story-> mencoba melarang supercargae saraf di kursus universitas yang dia ajarkan</li>
+    <li>Subject_story-> bergabung dengan sekte transhumanis di mana supercargae saraf wajib</li>
+    <li>Subjek_gerund-> kelebihan intelek manusia</li>
+    <li>Subject_gerund-> Build Neural Supercargers</li>
+  </NeuralSupercharger.generalRules.rulesStrings>
+  
+</LanguageData>

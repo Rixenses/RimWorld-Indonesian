@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite tea -->
+  <PsychiteTea.label>teh psikoid</PsychiteTea.label>
+  <!-- EN: A fragrant tea infused with leaves of the psychoid plant. Drinking it induces a subtle psychite euphoria. This tea is easy to produce at cooking facilities, but can produce psychite addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals. -->
+  <PsychiteTea.description>Teh segar dari daun tanaman psikoid.Minumnya menginduksi euforia psikotik yang halus.Teh ini mudah diproduksi, tetapi dapat menyebabkan kecanduan psikit jika terlalu sering dikonsumsi.</PsychiteTea.description>
+  <!-- EN: Drink {0} -->
+  <PsychiteTea.ingestible.ingestCommandString>Minum {0}</PsychiteTea.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <PsychiteTea.ingestible.ingestReportString>Minum {0}.</PsychiteTea.ingestible.ingestReportString>
+  
+</LanguageData>

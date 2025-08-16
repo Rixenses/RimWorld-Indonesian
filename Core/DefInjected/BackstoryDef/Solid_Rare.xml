@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats. -->
+  <CynapseCustomAdulthood.description>[PAWN_NamaDef] menghabiskan sebagian besar waktunya di rumah, jauh dari manusia lain. Untuk bertahan hidup, dia melatih dan menjual tikus-tikus pembawa pesan.</CynapseCustomAdulthood.description>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.title>pertapa</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleFemale>pertapa</CynapseCustomAdulthood.titleFemale>
+  <!-- EN: hermit -->
+  <CynapseCustomAdulthood.titleShort>pertapa</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomAdulthood.titleShortFemale>pertapa</CynapseCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] time disassembling and reassembling electronic devices in order to figure out how they function. [PAWN_nameDef] became so preoccupied with [PAWN_possessive] tinkering that [PAWN_pronoun] forgot to develop social relationships with other humans. -->
+  <CynapseCustomChildhood.description>[PAWN_NamaDef] menghabiskan sebagian besar waktunya untuk membongkar dan memasang kembali perangkat elektronik untuk memahami cara kerjanya. Dia menjadi sangat terobsesi dengan gadgetnya sehingga dia lupa untuk mengembangkan hubungan sosial dengan manusia lain.</CynapseCustomChildhood.description>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.title>tukang</CynapseCustomChildhood.title>
+  <!-- EN: tinkerer -->
+  <CynapseCustomChildhood.titleShort>tukang</CynapseCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
+  <FeyCustomAdulthood.description>[PAWN_nameDef] menghabiskan seluruh waktunya untuk bermain game role-playing di atas meja sebagai cara untuk terhubung secara sosial dengan orang lain. Permainan ini berubah setiap tahun, dan para pemain lain selalu menyukai dunia dan cerita yang ia ciptakan.</FeyCustomAdulthood.description>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.title>Game Master</FeyCustomAdulthood.title>
+  <!-- EN: game master -->
+  <FeyCustomAdulthood.titleShort>Game Master</FeyCustomAdulthood.titleShort>
+  
+  <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
+  <FeyCustomChildhood.description>Tumbuh besar di tempat penampungan dunia perkotaan, [PAWN_nameDef] mengalihkan perhatiannya dengan bermain game perang dan melukis miniatur. Meskipun ia tidak pernah pandai dalam permainan itu sendiri, namun hal ini membantunya terhubung dengan orang lain.</FeyCustomChildhood.description>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.title>Penggemar game perang</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleFemale>Penggemar game perang</FeyCustomChildhood.titleFemale>
+  <!-- EN: wargame fanatic -->
+  <FeyCustomChildhood.titleShort>Fanatik</FeyCustomChildhood.titleShort>
+  <FeyCustomChildhood.titleShortFemale>Fanatik</FeyCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a hobbyist game developer who lived in an endless cycle of unfinished projects and lofty ideas. -->
+  <JoeCustomAdulthood.description>[PAWN_nameDef] adalah seorang pengembang game amatir yang hidup dalam siklus tanpa akhir dari proyek-proyek yang belum selesai dan ide-ide jangka panjang.</JoeCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <JoeCustomAdulthood.title>pengembang game</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleFemale>pengembang game</JoeCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <JoeCustomAdulthood.titleShort>pengembang</JoeCustomAdulthood.titleShort>
+  <JoeCustomAdulthood.titleShortFemale>pengembang</JoeCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a family of musicians. When hard times came, [PAWN_pronoun] was forced to play the drum in a traveling band. -->
+  <JoeCustomChildhood.description>[Pawn_namedef] lahir dalam keluarga musik.Ketika datang untuk datang, ia harus bermain drum di sebuah band di sekitar.</JoeCustomChildhood.description>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.title>drummer</JoeCustomChildhood.title>
+  <!-- EN: drummer -->
+  <JoeCustomChildhood.titleShort>drummer</JoeCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
+  <LiamCustomAdulthood.description>[PAWN_nameDef] bekerja di dunia yang cerah dan damai dengan mengembangkan perangkat lunak simulasi kejahatan perang yang sangat realistis.</LiamCustomAdulthood.description>
+  <!-- EN: simulation developer -->
+  <LiamCustomAdulthood.title>pengembang simulasi</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleFemale>pengembang simulasi</LiamCustomAdulthood.titleFemale>
+  <!-- EN: sim dev -->
+  <LiamCustomAdulthood.titleShort>pengembang</LiamCustomAdulthood.titleShort>
+  <LiamCustomAdulthood.titleShortFemale>pengembang</LiamCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
+  <LiamCustomChildhood.description>Lahir dan dibesarkan di dunia yang gemerlap, [PAWN_nameDef] terobsesi dengan perangkat lunak simulasi. Dia menghabiskan terlalu banyak waktu online.</LiamCustomChildhood.description>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.title>kecanduan simulator</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleFemale>kecanduan simulator</LiamCustomChildhood.titleFemale>
+  <!-- EN: sim addict -->
+  <LiamCustomChildhood.titleShort>kecanduan simulator</LiamCustomChildhood.titleShort>
+  <LiamCustomChildhood.titleShortFemale>kecanduan simulator</LiamCustomChildhood.titleShortFemale>
+  
+  <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
+  <MateCustomAdulthood.description>Setelah dipecat oleh perusahaan besar antarplanet, [PAWN_NamaDef] menghabiskan beberapa tahun dalam kekecewaan dan berjuang melawan kecanduan alkohol, [PAWN_NamaDef] akhirnya bermain musik jalanan di atas pesawat luar angkasa, memainkan gitar yang sudah usang dan menghibur para kru dengan lagu-lagu blues dan lagu-lagu daerah dari masa lalu.</MateCustomAdulthood.description>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.title>musisi keliling</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleFemale>musik seluler</MateCustomAdulthood.titleFemale>
+  <!-- EN: busker -->
+  <MateCustomAdulthood.titleShort>musisi</MateCustomAdulthood.titleShort>
+  <MateCustomAdulthood.titleShortFemale>musik</MateCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood dreaming of becoming a famous artist who could impress people with [PAWN_possessive] creations. -->
+  <MateCustomChildhood.description>[PAWN_NAMEDef] menghabiskan sebagian besar masa kecilnya dengan bermimpi menjadi seorang seniman terkenal yang bisa membuat orang terkesan dengan karyanya.</MateCustomChildhood.description>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.title>anak yang ingin tahu</MateCustomChildhood.title>
+  <MateCustomChildhood.titleFemale>anak yang ingin tahu</MateCustomChildhood.titleFemale>
+  <!-- EN: curious kid -->
+  <MateCustomChildhood.titleShort>anak yang ingin tahu</MateCustomChildhood.titleShort>
+  <MateCustomChildhood.titleShortFemale>anak yang ingin tahu</MateCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <NathanCustomAdulthood.description>[PAWN_NamaDef] menggali rumah-rumah di bawah tanah dan mengambil mineral dari lereng-lereng bukit dan lereng-lereng gunung. Akhirnya dia belajar membuat rumah sendiri dengan menggali bebatuan dan memperkuat dinding gua.</NathanCustomAdulthood.description>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.title>penggali</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleFemale>penggali</NathanCustomAdulthood.titleFemale>
+  <!-- EN: digger -->
+  <NathanCustomAdulthood.titleShort>penggali</NathanCustomAdulthood.titleShort>
+  <NathanCustomAdulthood.titleShortFemale>penggali</NathanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <NathanCustomChildhood.description>[PAWN_NamaDef] tumbuh besar di sebuah kompleks gua yang besar dan rumit yang membentang jauh ke sisi gunung. [PAWN_kata ganti] membantu orang dewasa memelihara dan memperbaiki gua-gua yang dalam.</NathanCustomChildhood.description>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.title>anak gua</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleFemale>gadis gua</NathanCustomChildhood.titleFemale>
+  <!-- EN: cave child -->
+  <NathanCustomChildhood.titleShort>anak gua</NathanCustomChildhood.titleShort>
+  <NathanCustomChildhood.titleShortFemale>gadis gua</NathanCustomChildhood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good. -->
+  <OskarCustomAdulthood.description>[Suatu malam, dalam sebuah mimpi buruk, [PAWN_nameDef] dihadapkan pada semua pria dan wanita yang mati demi pekerjaannya. Pada saat itu, dia memutuskan untuk melakukan perjalanan ke dunia perbatasan dan menggunakan kemampuannya untuk melakukan kebaikan.</OskarCustomAdulthood.description>
+  <!-- EN: mod designer -->
+  <OskarCustomAdulthood.title>Perencana Moder</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleFemale>Perencana Moder</OskarCustomAdulthood.titleFemale>
+  <!-- EN: modder -->
+  <OskarCustomAdulthood.titleShort>lumpur</OskarCustomAdulthood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
+  <OskarCustomChildhood.description>[Pawn_namedef] lahir di sisi gelap dunia perkotaan yang memutar sinkronisasi.Setelah berkelahi, Ayah [Pawn_Namedef] menjualnya ke distrik setempat sebagai seorang bocah artis.Terpaksa membuat karya seni atau menghukum, dia melarikan diri, tetapi tidak bisa menjalin hubungan dengan orang lain.</OskarCustomChildhood.description>
+  <!-- EN: art slave -->
+  <OskarCustomChildhood.title>Artis Anak Laki -Laki</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleFemale>Artis Anak Laki -Laki</OskarCustomChildhood.titleFemale>
+  <!-- EN: artist -->
+  <OskarCustomChildhood.titleShort>Artis</OskarCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
+  <TynanCustomAdulthood.description>[PAWN_namaDef] adalah {PAWN_jenis_kelamin ? developer : pengembang game independen}. Setelah sukses di awal, kariernya dengan cepat merosot menjadi sirkus miskonsepsi, kesepakatan yang salah, dan aksi humas yang putus asa dan gagal.</TynanCustomAdulthood.description>
+  <!-- EN: game developer -->
+  <TynanCustomAdulthood.title>pengembang game</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleFemale>pengembang video game</TynanCustomAdulthood.titleFemale>
+  <!-- EN: game dev -->
+  <TynanCustomAdulthood.titleShort>pengembang</TynanCustomAdulthood.titleShort>
+  <TynanCustomAdulthood.titleShortFemale>pengembang</TynanCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
+  <TynanCustomChildhood.description>[PAWN_NamaDef] menghabiskan masa kecilnya dengan menjual rokok imitasi kepada anak-anak berusia 15 tahun. Rokoknya sering diisi dengan rumput yang telah dipotong.</TynanCustomChildhood.description>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.title>punk</TynanCustomChildhood.title>
+  <!-- EN: punk -->
+  <TynanCustomChildhood.titleShort>punk</TynanCustomChildhood.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
+  <WillCustomAdulthood.description>[Pawn_namedef] Desain Labirin Hiburan Kompleks untuk Dunia yang Berkilauan.Bahkan sekarang, dia tidak memikirkan hal lain.</WillCustomAdulthood.description>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.title>Perencana Labirin</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleFemale>Perencana Labirin</WillCustomAdulthood.titleFemale>
+  <!-- EN: labyrinth maker -->
+  <WillCustomAdulthood.titleShort>desainer</WillCustomAdulthood.titleShort>
+  <WillCustomAdulthood.titleShortFemale>desainer</WillCustomAdulthood.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
+  <WillCustomChildhood.description>[PAWN_NAMEDef] dibesarkan di sebuah kamp penelitian di dunia yang sudah mati. Orang tuanya adalah ahli astrobiologi yang mempelajari formasi labirin misterius di bawah kerak planet. [PAWN_NamaGanti] menghabiskan sebagian besar waktunya menjelajahi terowongan-terowongan ini, bertanya-tanya entitas dunia lain seperti apa yang bisa menciptakannya.</WillCustomChildhood.description>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.title>anak labirin</WillCustomChildhood.title>
+  <WillCustomChildhood.titleFemale>gadis labirin</WillCustomChildhood.titleFemale>
+  <!-- EN: maze child -->
+  <WillCustomChildhood.titleShort>anak labirin</WillCustomChildhood.titleShort>
+  <WillCustomChildhood.titleShortFemale>gadis labirin</WillCustomChildhood.titleShortFemale>
+  
+</LanguageData>

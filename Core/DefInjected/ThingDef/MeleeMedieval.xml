@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gladius -->
+  <MeleeWeapon_Gladius.label>pedang</MeleeWeapon_Gladius.label>
+  <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
+  <MeleeWeapon_Gladius.description>Pedang pendek desain lama.Bagus untuk menusuk atau menusuk.Ini ringan dan gesit, yang kadang -kadang memungkinkan Anda untuk mengatasi senjata terbesar dan berat.</MeleeWeapon_Gladius.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Gladius.tools.handle.label>buah mangga</MeleeWeapon_Gladius.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Gladius.tools.point.label>Punta</MeleeWeapon_Gladius.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Gladius.tools.edge.label>filo</MeleeWeapon_Gladius.tools.edge.label>
+  
+  <!-- EN: longsword -->
+  <MeleeWeapon_LongSword.label>pedang panjang</MeleeWeapon_LongSword.label>
+  <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
+  <MeleeWeapon_LongSword.description>Senjata kuno para raja, pedang panjang dapat digunakan untuk memotong atau menusuk dan di tangan yang baik bisa mematikan.</MeleeWeapon_LongSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_LongSword.tools.handle.label>buah mangga</MeleeWeapon_LongSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_LongSword.tools.point.label>Punta</MeleeWeapon_LongSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_LongSword.tools.edge.label>filo</MeleeWeapon_LongSword.tools.edge.label>
+  
+  <!-- EN: mace -->
+  <MeleeWeapon_Mace.label>laki -laki</MeleeWeapon_Mace.label>
+  <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
+  <MeleeWeapon_Mace.description>Klub yang disempurnakan, yang dirancang untuk menjadi lunak dan mematikan saat berdampak.</MeleeWeapon_Mace.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Mace.tools.handle.label>buah mangga</MeleeWeapon_Mace.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Mace.tools.head.label>kepala</MeleeWeapon_Mace.tools.head.label>
+  
+</LanguageData>

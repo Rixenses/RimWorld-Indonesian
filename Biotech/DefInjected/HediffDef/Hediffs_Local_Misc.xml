@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodfeeder mark -->
+  <BloodfeederMark.label>Merek Chupasangre</BloodfeederMark.label>
+  <!-- EN: Two small puncture wounds. -->
+  <BloodfeederMark.description>Dua luka tajam kecil.</BloodfeederMark.description>
+  <!-- EN: a bloodfeeder mark -->
+  <BloodfeederMark.labelNoun>Merek Chupasangre</BloodfeederMark.labelNoun>
+  
+  <!-- EN: implanted IUD -->
+  <ImplantedIUD.label>Diu ditanamkan</ImplantedIUD.label>
+  <!-- EN: A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
+  <ImplantedIUD.description>Perangkat logam kecil telah diimplementasikan dalam rahim orang ini, yang mencegah kehamilan.Dalam kebanyakan kasus ini dapat dibalik secara pembedahan, tetapi ada kemungkinan sterilisasi permanen.</ImplantedIUD.description>
+  
+  <!-- EN: tox gas -->
+  <ToxGasExposure.label>gas beracun</ToxGasExposure.label>
+  <!-- EN: Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death. -->
+  <ToxGasExposure.description>Efek paparan gas beracun, bahan kimia beracun.Itu membakar paru -paru dan mata, menyebabkan kesulitan sementara untuk bernafas dan pengurangan penglihatan.Paparan gas beracun yang berkelanjutan menyebabkan akumulasi toksik dan, akhirnya, kematian</ToxGasExposure.description>
+  <!-- EN: mild -->
+  <ToxGasExposure.stages.mild.label>hidup</ToxGasExposure.stages.mild.label>
+  <!-- EN: moderate -->
+  <ToxGasExposure.stages.moderate.label>Sedang</ToxGasExposure.stages.moderate.label>
+  <!-- EN: severe -->
+  <ToxGasExposure.stages.severe.label>kuburan</ToxGasExposure.stages.severe.label>
+  
+  <!-- EN: tubal ligation -->
+  <TubalLigation.label>ligasi tuba</TubalLigation.label>
+  <!-- EN: This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus. -->
+  <TubalLigation.description>Bagian reproduksi individu ini telah diblokir dengan menutup tuba fallopi, mencegah ovula dari ovarium ke rahim.</TubalLigation.description>
+  
+  <!-- EN: vasectomy -->
+  <Vasectomy.label>Vasektomi</Vasectomy.label>
+  <!-- EN: This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
+  <Vasectomy.description>Bagian reproduksi dari makhluk ini telah dinonaktifkan dengan memotong dan menyegel deferens, tabung yang membawa sperma ke uretra.Ini dapat dikembalikan secara pembedahan dalam banyak kasus, tetapi ada kemungkinan sterilisasi permanen.</Vasectomy.description>
+  
+</LanguageData>

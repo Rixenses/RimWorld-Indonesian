@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pants at most -->
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>setidaknya celana</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+  <!-- EN: Women should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>Wanita harus menutupi selangkangan mereka, tetapi tidak lebih.Alat utilitas seperti perisai, ikat pinggang, atau jetpack dapat diterima, serta mengenakan pakaian selama suhu yang tidak aman.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  
+  <!-- EN: fully nude -->
+  <Nudity_Female_Mandatory.label>benar -benar telanjang</Nudity_Female_Mandatory.label>
+  <!-- EN: Women must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
+  <Nudity_Female_Mandatory.description>Wanita harus sepenuhnya telanjang sepanjang waktu.Alat utilitas seperti perisai, ikat pinggang, atau jetpack dapat diterima, serta mengenakan pakaian selama suhu yang tidak aman.</Nudity_Female_Mandatory.description>
+  
+  <!-- EN: no rules -->
+  <Nudity_Female_NoRules.label>Tidak ada aturan</Nudity_Female_NoRules.label>
+  <!-- EN: A woman may display or cover any part of her body. -->
+  <Nudity_Female_NoRules.description>Seorang wanita dapat memilih untuk memiliki bagian tubuhnya.</Nudity_Female_NoRules.description>
+  
+  <!-- EN: totally covered -->
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>benar -benar tertutup</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <!-- EN: Women must cover their entire body, including their hair and face. -->
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>Wanita harus menutupi seluruh tubuh mereka.Termasuk wajah dan rambut Anda.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  
+  <!-- EN: pants, shirt, and hat -->
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>Celana, kemeja dan topi</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
+  <!-- EN: Women must cover their entire body and hair. The face may be covered, or not. -->
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>Wanita harus menutupi seluruh tubuh mereka.Wajah dapat ditutup atau tidak.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  
+  <!-- EN: pants -->
+  <Nudity_Female_UncoveredGroinDisapproved.label>celana</Nudity_Female_UncoveredGroinDisapproved.label>
+  <!-- EN: Women must cover their groin. The rest of the body may be covered, or not. -->
+  <Nudity_Female_UncoveredGroinDisapproved.description>Wanita harus menutupi selangkangan mereka.Sisa tubuh dapat ditutup atau tidak.</Nudity_Female_UncoveredGroinDisapproved.description>
+  
+  <!-- EN: pants and shirt -->
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>Celana dan kemeja</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
+  <!-- EN: Women must cover their groin and chest. The rest of the body may be covered, or not. -->
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>Wanita harus menutupi selangkangan dan dada mereka.Sisa tubuh dapat ditutup atau tidak.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  
+  <!-- EN: pants at most -->
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>setidaknya celana</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+  <!-- EN: Men should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>Pria harus menutupi selangkangan mereka, tetapi tidak lebih.Alat utilitas seperti perisai, ikat pinggang, atau jetpack dapat diterima, serta mengenakan pakaian selama suhu yang tidak aman.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  
+  <!-- EN: fully nude -->
+  <Nudity_Male_Mandatory.label>benar -benar telanjang</Nudity_Male_Mandatory.label>
+  <!-- EN: Men must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable, as is wearing clothing during unsafe temperatures. -->
+  <Nudity_Male_Mandatory.description>Pria harus sepenuhnya telanjang sepanjang waktu.Alat utilitas seperti perisai, ikat pinggang, atau jetpack dapat diterima, serta mengenakan pakaian selama suhu yang tidak aman.</Nudity_Male_Mandatory.description>
+  
+  <!-- EN: no rules -->
+  <Nudity_Male_NoRules.label>Tidak ada aturan</Nudity_Male_NoRules.label>
+  <!-- EN: A man may display or cover any part of his body. -->
+  <Nudity_Male_NoRules.description>Seorang pria dapat memilih untuk memiliki bagian tubuhnya.</Nudity_Male_NoRules.description>
+  
+  <!-- EN: totally covered -->
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>Benar -benar tertutup</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <!-- EN: Men must cover their entire body, including their hair and face. -->
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>Pria harus menutupi seluruh tubuh mereka.Termasuk wajah dan rambut Anda.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  
+  <!-- EN: pants, shirt, and hat -->
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>Celana, kemeja dan topi</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
+  <!-- EN: Men must cover their entire body and hair. The face may be covered, or not. -->
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>Pria harus menutupi seluruh tubuh mereka.Wajah dapat ditutup atau tidak.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  
+  <!-- EN: pants -->
+  <Nudity_Male_UncoveredGroinDisapproved.label>celana</Nudity_Male_UncoveredGroinDisapproved.label>
+  <!-- EN: Men must cover their groin. The rest of the body may be covered, or not. -->
+  <Nudity_Male_UncoveredGroinDisapproved.description>Pria harus menutupi selangkangan mereka.Sisa tubuh dapat ditutup atau tidak.</Nudity_Male_UncoveredGroinDisapproved.description>
+  
+  <!-- EN: pants and shirt -->
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>Celana dan kemeja</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
+  <!-- EN: Men must cover their groin and chest. The rest of the body may be covered, or not. -->
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>Pria harus menutupi selangkangan dan dada mereka.Sisa tubuh dapat ditutup atau tidak.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  
+</LanguageData>

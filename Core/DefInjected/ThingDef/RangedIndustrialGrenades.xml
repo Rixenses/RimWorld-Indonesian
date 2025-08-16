@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EMP grenade -->
+  <Proj_GrenadeEMP.label>PEM Granada</Proj_GrenadeEMP.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadeFrag.label>Granat fragmentasi</Proj_GrenadeFrag.label>
+  
+  <!-- EN: molotov cocktail -->
+  <Proj_GrenadeMolotov.label>Cóctel Molotov</Proj_GrenadeMolotov.label>
+  
+  <!-- EN: EMP grenades -->
+  <Weapon_GrenadeEMP.label>Granades PE</Weapon_GrenadeEMP.label>
+  <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
+  <Weapon_GrenadeEMP.description>Granat pulsa elektromagnetik yang menyebabkan kerusakan pada peralatan elektronik.</Weapon_GrenadeEMP.description>
+  <!-- EN: throw EMP grenade -->
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>PEM Granada</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  
+  <!-- EN: frag grenades -->
+  <Weapon_GrenadeFrag.label>Granat fragmentasi</Weapon_GrenadeFrag.label>
+  <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+  <Weapon_GrenadeFrag.description>Granat Higgage dari Sekolah Lama.Mereka dapat dilemparkan pada jarak pendek, di mana mereka akan meledak merusak apa pun dan siapa pun.</Weapon_GrenadeFrag.description>
+  <!-- EN: throw frag grenade -->
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>Granat fragmentasi</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  
+  <!-- EN: molotov cocktails -->
+  <Weapon_GrenadeMolotov.label>Koktail Molotov</Weapon_GrenadeMolotov.label>
+  <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
+  <Weapon_GrenadeMolotov.description>Botol kristal penuh dengan cairan yang mudah terbakar, dengan kain yang naik di leher Anda.Salah satu senjata yang disukai oleh pengacau dan gerilyawan.</Weapon_GrenadeMolotov.description>
+  <!-- EN: throw molotov -->
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>Cóctel Molotov</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>hutan boreal</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>Hutan jenis konifera. Meskipun musim dingin yang keras, hutan boreal mendukung beragam populasi hewan besar dan kecil, dan musim panasnya hangat.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>rawa dingin</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>Lahan basah yang penuh dengan pepohonan dan semak-semak. Sebagian besar lahan rawa di sini tidak dapat menopang struktur berat, dan pergerakan melalui area ini lambat karena vegetasi yang mencekik. Penyakit merupakan endemik di ekosistem yang lebat dan basah ini.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>membekukan</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>Permukaannya ditutupi oleh lapisan es yang tebalnya bisa mencapai beberapa kilometer. Tidak ada tanah untuk tanaman tumbuh. Satu-satunya hewan yang terlihat di sini adalah hewan yang bermigrasi ke tempat lain - atau tersesat.</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>Lapisan es sangat tidak ramah. Tidak ada tanah untuk tanaman dan hampir tidak ada kehidupan hewan. Bertahan hidup dalam jangka panjang adalah sebuah tantangan.</IceSheet.settleWarning>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>laut beku</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>Lapisan es permanen mengapung di atas lautan. Tidak ada tanah untuk tanaman tumbuh, tidak ada mineral untuk ditambang, dan hampir tidak ada kehidupan hewan.</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>Es laut sangat tidak ramah. Tidak ada tanah untuk tanaman dan hampir tidak ada kehidupan hewan. Bertahan hidup dalam jangka panjang adalah sebuah tantangan.</SeaIce.settleWarning>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>tundra</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>Dataran yang hampir membeku ini hanya memiliki sedikit pepohonan dan vegetasi yang jarang. Beberapa hewan kecil diselingi oleh kawanan besar herbivora yang bermigrasi dan predatornya.</Tundra.description>
+  
+</LanguageData>

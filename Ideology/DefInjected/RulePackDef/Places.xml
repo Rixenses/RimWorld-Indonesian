@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Place_personalweapon-> Assault Rifle</li>
+    <li>place_massweapon-> Inverter massal Archotech</li>
+    <li>Seismicdevice-> Perangkat gempa seismik</li>
+    <li>anempattack-> mogok emp ke sistem pendukung kehidupan</li>-><PlaceMakerCommon.rulePack.rulesStrings>
+    <li>Place_personalweapon-> Assault Rifle</li>
+    <li>Place_massweapon-> inverter adonan archeoteca</li>
+    <li>Perangkat Sixmic-> Perangkat Pembuatan Gempa Bumi</li>
+    <li>Anempattack-> serangan PEM pada sistem pendukung kehidupan</li>
+  </PlaceMakerCommon.rulePack.rulesStrings>
+  
+</LanguageData>

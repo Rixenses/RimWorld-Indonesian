@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Anomaly -->
+  <DifficultyAnomalySection>Anomali</DifficultyAnomalySection>
+  <!-- EN: Anomaly threats -->
+  <Difficulty_AnomalyThreats_Label>Ancaman anomali</Difficulty_AnomalyThreats_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related. -->
+  <Difficulty_AnomalyThreats_Info>Sesuaikan persentase ancaman utama yang akan terkait dengan anomali.</Difficulty_AnomalyThreats_Info>
+  <!-- EN: Anomaly threats (inactive) -->
+  <Difficulty_AnomalyThreatsInactive_Label>Ancaman anomali (tidak aktif)</Difficulty_AnomalyThreatsInactive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
+  <Difficulty_AnomalyThreatsInactive_Info>Sesuaikan persentase ancaman utama yang akan terkait dengan anomali ketika monolit tidak aktif.Hanya insiden kecil anomali tertentu yang dapat terjadi ketika monolit tidak aktif.</Difficulty_AnomalyThreatsInactive_Info>
+  <!-- EN: Anomaly threats (active) -->
+  <Difficulty_AnomalyThreatsActive_Label>Ancaman anomali (aktif)</Difficulty_AnomalyThreatsActive_Label>
+  <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
+  <Difficulty_AnomalyThreatsActive_Info>Sesuaikan persentase ancaman utama yang akan terkait dengan anomali ketika monolit aktif.Dengan konfigurasi saat ini: \ n - {0} dari ancaman utama akan terkait dengan kelainan level 1 dan 5 dari monolith \ n - {1} dari ancaman utama akan terkait dengan kelainan level 2-4 dari monolith</Difficulty_AnomalyThreatsActive_Info>
+  <!-- EN: Study efficiency -->
+  <Difficulty_StudyEfficiency_Label>Efisiensi studi</Difficulty_StudyEfficiency_Label>
+  <!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
+  <Difficulty_StudyEfficiency_Info>Tambahkan pengganda ke penelitian yang diperoleh dengan mempelajari entitas antinatural.</Difficulty_StudyEfficiency_Info>
+
+  <!-- EN: Child shamblers -->
+  <Difficulty_ChildShamblersAllowed_Label>Anak -anak berjalan</Difficulty_ChildShamblersAllowed_Label>
+  <!-- EN: Reanimated child shamblers will sometimes appear. -->
+  <Difficulty_ChildShamblersAllowed_Info>Terkadang pejalan kaki yang diresusitasi akan muncul.</Difficulty_ChildShamblersAllowed_Info>
+  
+  <!-- EN: Anomaly settings -->
+  <AnomalySettings>Penyesuaian anomali</AnomalySettings>
+  <!-- EN: Choose how you'd like to integrate Anomaly horror into your game: -->
+  <ChooseAnomalyPlaystyle>Pilih bagaimana Anda ingin mengintegrasikan kengerian Anomaly ke dalam permainan Anda:</ChooseAnomalyPlaystyle>
+  <!-- EN: Update Anomaly storyteller settings. These can be modified during the game -->
+  <CanBeEditedInStorytellerSettings>Perbarui pengaturan narator anomali.Mereka dapat dimodifikasi selama pertandingan</CanBeEditedInStorytellerSettings>
+  <!-- EN: Set to standard playstyle -->
+  <SetToStandardPlaystyle>Menetapkan gaya permainan standar</SetToStandardPlaystyle>
+
+</LanguageData>

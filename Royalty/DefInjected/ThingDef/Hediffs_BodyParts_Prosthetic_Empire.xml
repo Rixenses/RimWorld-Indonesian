@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drill arm -->
+  <DrillArm.label>Bor lengan</DrillArm.label>
+  <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <DrillArm.description>Pengganti lengan mekanis untuk mempercepat ekstraksi batuan.Ini memiliki sapuan -in dalam yang memungkinkan Minero untuk dengan cepat menemukan dan mengeksploitasi titik lemah di batu.Lengan juga memiliki manipulator multi -pospose terintegrasi, yang tidak sepenuhnya tidak berguna untuk tugas sehari -hari, tetapi lebih buruk daripada tangan alami.</DrillArm.description>
+  
+  <!-- EN: elbow blade -->
+  <ElbowBlade.label>Bilah siku</ElbowBlade.label>
+  <!-- EN: A razor-sharp blade that extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
+  <ElbowBlade.description>Pisau tajam yang dapat diperpanjang sesuka hati dari lubang tersembunyi di ujung siku.Karena dapat muncul kapan saja tanpa pemberitahuan sebelumnya, serangan pemotongan yang menghancurkan dapat dilakukan.</ElbowBlade.description>
+  
+  <!-- EN: field hand -->
+  <FieldHand.label>Tangan Harvester</FieldHand.label>
+  <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
+  <FieldHand.description>Penggantian mekanis dari satu tangan ini dilakukan untuk mempercepat kegiatan seperti penanaman dan pemanenan.Beberapa benda berbentuk jari yang dapat diperpanjang dapat dipanen secara bersamaan dari beberapa tempat tanaman, atau secara tepat menabur beberapa lubang di tanah pada saat yang sama.Penggantian tangan juga dapat digunakan untuk kegiatan lain, tetapi tidak seefektif tangan alami.</FieldHand.description>
+  
+  <!-- EN: hand talon -->
+  <HandTalon.label>memacu</HandTalon.label>
+  <!-- EN: A razor-sharp talon which extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
+  <HandTalon.description>Cakar tajam yang dapat diperpanjang dari lubang tersembunyi antara jari -jari tengah dan annular.Meskipun taji lebih panjang dari telapak tangan, itu menjadi fleksibel saat menarik kembali, memungkinkan pengguna untuk mengacaukannya dan menyembunyikannya sepenuhnya di tangannya.</HandTalon.description>
+  
+  <!-- EN: knee spike -->
+  <KneeSpike.label>tulang belakang lutut</KneeSpike.label>
+  <!-- EN: A spike that extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
+  <KneeSpike.description>Pisau yang dapat diperpanjang dari lubang tersembunyi di lutut seperti yang diinginkan.Karena dapat muncul kapan saja tanpa pemberitahuan sebelumnya, dapat digunakan untuk melakukan serangan yang menghancurkan.</KneeSpike.description>
+  
+  <!-- EN: mindscrew -->
+  <Mindscrew.label>mental kain karung</Mindscrew.label>
+  <!-- EN: Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
+  <Mindscrew.description>Mengepalai nyeri terus menerus kepada pengguna.Beberapa pihak berwenang menggunakan kuku saraf sebagai hukuman jangka panjang.Beberapa bahkan secara sukarela memasangnya sebagai demonstrasi pengabdian ideologis atau agama.</Mindscrew.description>
+  
+  <!-- EN: venom fangs -->
+  <VenomFangs.label>taring beracun</VenomFangs.label>
+  <!-- EN: A pair of injectors implanted through the canine teeth, connected to a venom pump. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
+  <VenomFangs.description>Beberapa injektor kecil yang ditanamkan melalui gigi anjing, terhubung ke pompa racun.Pengguna dapat menggigit musuh, memperluas injektor dan memompa racun ke target.</VenomFangs.description>
+  
+  <!-- EN: venom talon -->
+  <VenomTalon.label>taji beracun</VenomTalon.label>
+  <!-- EN: A retractable finger talon connected to a venom pump in the lower arm. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
+  <VenomTalon.description>Cakar jari yang dapat ditarik terhubung ke pompa racun di bagian bawah lengan.Pengguna dapat menggaruk musuh sambil melemparkan racun ke dalam luka.Claw dirancang untuk menetap di jari tengah.</VenomTalon.description>
+  
+</LanguageData>

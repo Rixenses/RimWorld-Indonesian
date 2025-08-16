@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_weapon_name (p = 2)-> [senjata_adjective] [senjata_noun]</li>
+    <li>r_weapon_name (p = 0,5)-> [senjata_type] dari [badass_concept]</li>
+    <li>r_weapon_name (p = 0.5)-> [senjata_adjective] [weapon_type]</li>
+    <li>r_weapon_name (p = 0,5)-> [badass_concept] [weapon_type]</li>
+    <li>r_weapon_name (p = 0.3)-> [anypawn_nameindef] [weapon_noun]</li>
+    <li>r_weapon_name (p = 0.3)-> [anypawn_nameindef] [weapon_adjective] [weapon_noun]</li>
+    <li>r_weapon_name (p = 0.3)-> [badass_concept] dari [anypawn_nameindef]</li>
+    <li>weapon_noun (p = 2)-> [weapon_type]</li>
+    <li>weapon_noun-> [badass_noun]</li>
+    <li>weapon_noun-> [badass_concept]</li>
+    <li>weapon_adjective (p = 2)-> [trait_adjective]</li>
+    <li>weapon_adjective-> [badass_adjective]</li>
+    <li>Badass_adjective-> Grim</li>
+    <li>badass_adjective-> abadi</li>
+    <li>badass_adjective-> malam</li>
+    <li>Badass_adjective-> Grave</li>
+    <li>badass_adjective-> luar biasa</li>
+    <li>Badass_adjective-> Deadly</li>
+    <li>Badass_adjective-> Infamous</li>
+    <li>badass_adjective-> custom</li>
+    <li>Badass_adjective-> Deadly</li>
+    <li>Badass_adjective-> Thunderous</li>
+    <li>Badass_adjective-> Terkutuk</li>
+    <li>Badass_adjective-> Hebat</li>
+    <li>Badass_noun-> Reaper</li>
+    <li>badass_noun-> end</li>
+    <li>badass_noun-> howl</li>
+    <li>badass_noun-> Tempest</li>
+    <li>Badass_noun-> Phantom</li>
+    <li>badass_noun-> janda</li>
+    <li>badass_noun-> titan</li>
+    <li>Badass_noun-> Juggernaut</li>
+    <li>Badass_noun-> Serpent</li>
+    <li>badass_noun-> anvil</li>
+    <li>Badass_noun-> Killer</li>
+    <li>badass_noun-> kekasih</li>
+    <li>Badass_noun-> Beast</li>
+    <li>Badass_nun-> Catch</li>
+    <li>badass_noun-> lengan</li>
+    <li>badass_noun-> tanduk</li>
+    <li>badass_concept-> keadilan</li>
+    <li>Badass_concept-> Revenge</li>
+    <li>badass_concept-> pembalasan</li>
+    <li>badass_concept-> nyeri</li>
+    <li>badass_concept-> penderitaan</li>
+    <li>badass_concept-> siksaan</li>
+    <li>badass_concept-> legenda</li>
+    <li>Badass_concept-> Delight</li>
+    <li>Badass_concept-> Penyesalan</li>
+    <li>Badass_concept-> Pride</li>
+    <li>badass_concept-> combe</li>
+    <li>badass_concept-> kehormatan</li>
+    <li>Badass_concept-> Fury</li>
+    <li>badass_concept-> reckoning</li>
+    <li>Badass_concept-> Serenity</li>
+    <li>badass_concept-> cinta</li>
+    <li>Badass_concept-> tawa</li>-><NamerUniqueWeapon.rulePack.rulesStrings>
+    <li>r_weapon_name (p = 2)-> [senjata_type] [trait_adjective]</li>
+    <li>r_weapon_name (p = 2)-> [senjata_noun] [senjata_adjective]</li>
+    <li>r_weapon_name (p = 0.5)-> [senjata_type] del [badass_concept]</li>
+    <li>r_weapon_name (p = 0.5)-> [senjata_type] de la [badass_conceptf]</li>
+    <li>r_weapon_name (p = 0.5)-> [senjata_type] [senjata_adjective]</li>
+    <li>r_weapon_name (p = 0.3)-> [senjata_noun] de [anypawn_nameindef]</li>
+    <li>r_weapon_name (p = 0.3)-> [senjata_noun] [senjata_adjective] de [anypawn_nameindef]</li>
+    <li>r_weapon_name (p = 0.3)-> [badass_concept] de [anypawn_nameindef]</li>
+    <li>r_weapon_name (p = 0.3)-> [badass_conceptf] de [anypawn_nameindef]</li>
+    <li>weapon_noun (p = 2)-> [weapon_type]</li>
+    <li>weapon_noun-> [badass_noun]</li>
+    <li>weapon_noun-> [badass_concept]</li>
+    <li>weapon_noun-> [badass_conceptf]</li>
+    <li>weapon_adjective-> del [konsep]</li>
+    <li>weapon_adjective-> de la [Conceptf]</li>
+    <li>badass_adjective-> letal</li>
+    <li>badass_adjective-> brutal</li>
+    <li>badass_adjective-> final</li>
+    <li>badass_adjective-> fatal</li>
+    <li>kata sifat badass-> kejam</li>
+    <li>badass_adjective-> inmortal</li>
+    <li>badass_adjective-> abismal</li>
+    <li>badass_adjective-> tenaz</li>
+    <li>Badass_adjective-> Demente</li>
+    <li>badass_adjective-> brutalista</li>
+    <li>badass_adjective-> Salvaje</li>
+    <li>Badass_adjective-> Infernal</li>
+    <li>Badass_adjective-> dekaden</li>
+    <li>Basss_adjective-> Stellar</li>
+    <li>badass_adjective-> feroz</li>
+    <li>badass_adjective-> excepcional</li>
+    <li>Badass_adjective-> Infame</li>
+    <li>badass_adjective-> Genial</li>
+    <li>Konsep-> Penghakiman</li>
+    <li>Conceptf-> Sombra</li>
+    <li>Konsep-> Tujuan</li>
+    <li>Konsep-> Keheningan</li>
+    <li>Konsep-> Vakum</li>
+    <li>Konsep-> Infinito</li>
+    <li>Konsep-> Temor</li>
+    <li>Konsep-> Api</li>
+    <li>Konsep-> Eco</li>
+    <li>Konsep-> Penyebab</li>
+    <li>Conceptf-> Revenge</li>
+    <li>Konsep-> Tormento</li>
+    <li>Konsep-> dilupakan</li>
+    <li>Konsep-> Kematian</li>
+    <li>Konsep-> Kutukan</li>
+    <li>Konsep-> Tujuan</li>
+    <li>Conceptf-> Ruina</li>
+    <li>Badss_noun-> Reaper</li>
+    <li>badass_noun-> final</li>
+    <li>nouns badass-> aullador</li>
+    <li>Badass_nun-> Tempestad</li>
+    <li>badass_noun-> fantasma</li>
+    <li>Badass_nun-> viuda</li>
+    <li>Badass_noun-> titan</li>
+    <li>badass_noun-> coloso</li>
+    <li>Badss_noun-> Snake</li>
+    <li>Badass_nun-> yunque</li>
+    <li>Badass_noun-> asession</li>
+    <li>Badass_noun-> amance</li>
+    <li>Badass_nun-> Bestia</li>
+    <li>Badass_noun-> colmillo</li>
+    <li>Badass_noun-> Brazo</li>
+    <li>Badss_noun-> Horn</li>
+    <li>weapon_noun-> filo</li>
+    <li>weapon_noun-> puño</li>
+    <li>Weapon_noun-> Judgment</li>
+    <li>weapon_noun-> eclipse</li>
+    <li>Weapon_noun-> colmillo</li>
+    <li>senjata_noun-> caos</li>
+    <li>weapon_noun-> trueno</li>
+    <li>weapon_noun-> eco</li>
+    <li>Weapon_noun-> abism</li>
+    <li>weapon_noun-> tormento</li>
+    <li>weapon_noun-> fin</li>
+    <li>weapon_noun-> vakum</li>
+    <li>ohhhhhhhhhhhhhhhhhhhhhhh</li>
+    <li>weapon_noun-> kilat</li>
+    <li>Weapon_noun-> bgitar</li>
+    <li>weapon_noun-> azote</li>
+    <li>WEapon_noun-> Terror</li>
+    <li>badass_conceptf-> justicia</li>
+    <li>badass_conceptf-> vantanza</li>
+    <li>BADSS_CONCEPTF-> Remunerasi</li>
+    <li>badass_concept-> nyeri</li>
+    <li>Badss_conceptf-> Agony</li>
+    <li>badass_concept-> tormento</li>
+    <li>badass_conceptf-> leyenda</li>
+    <li>Konsep Badass-> Delight</li>
+    <li>BADSS_CONCEPT-> Pertobatan</li>
+    <li>Badass_concept-> Pride</li>
+    <li>BADSS_CONCEPTF-> Kesombongan</li>
+    <li>badass_concept-> kehormatan</li>
+    <li>Badass_conceptff-> furia</li>
+    <li>BADSS_CONCEPTF-> Serenity</li>
+    <li>badass_concept-> amor</li>
+    <li>badass_conceptf-> risa</li>
+  </NamerUniqueWeapon.rulePack.rulesStrings>
+  
+</LanguageData>

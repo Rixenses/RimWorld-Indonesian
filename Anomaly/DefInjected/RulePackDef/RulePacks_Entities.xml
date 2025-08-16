@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] melompat ke [subjek_definite] dan mulai mencerna [subjek_objective].</li>-><Event_DevourerConsumeLeap.rulePack.rulesStrings>
+    <li>R_logentry-> [initiator_definite] memantul pada [subjek_definite] y pekerjaan untuk mencerna [subjek_objective].</li>
+  </Event_DevourerConsumeLeap.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] muntah [subjek_definite] up.</li>-><Event_DevourerDigestionAborted.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] vomitó {ganti: a [subjek_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+  </Event_DevourerDigestionAborted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] Digerna [subjek_definite].</li>-><Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] digirió {ganti: a [subjek_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+  </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] masukkan [subjek_definite] ke dalam trance.</li>-><Event_Hypnotized.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] Puso {ganti: a [subjek_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en un trance.</li>
+  </Event_Hypnotized.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] muncul dari [subjek_definite].</li>-><Event_MetalhorrorEmerged.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] muncul {ganti: dari [subjek_definite];"dari & lt; color =#d09b61ff>"-"& lt; color =#d09b61ff> dari"}.</li>
+  </Event_MetalhorrorEmerged.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] secara psikis membakar otak [subjek_definite].</li>-><Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] secara psikis membakar otak {ganti: dari [subjek_definite];"dari & lt; color =#d09b61ff>"-"& lt; color =#d09b61ff> dari"}.</li>
+  </Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>kata kerja-> pernapasan</li>
+    <li>kata kerja-> menggigil</li>
+    <li>kata kerja-> menggigil</li>
+    <li>kata kerja-> berderit</li>
+    <li>kata kerja> serak</li>
+    <li>verb-> Mengikis</li>
+    <li>verb-> mendesis</li>
+    <li>kata kerja-> mengerang</li>
+    <li>kata kerja> menggerutu</li>
+    <li>kata kerja> obrolan</li>
+    <li>kata kerja-> mengklik</li>
+    <li>kata kerja> mengi</li>
+    <li>kata kerja-> berderak</li>
+    <li>kata kerja-> berkedut</li>
+    <li>verb-> menggerogoti</li>
+    <li>kata kerja> batuk</li>-><RevenantNoises.rulePack.rulesStrings>
+    <li>Kata kerja-> pernapasan</li>
+    <li>kata kerja-> menggigil</li>
+    <li>kata kerja-> gemetar</li>
+    <li>kata kerja-> melengking</li>
+    <li>kata kerja> menggerutu</li>
+    <li>kata kerja-> menggaruk</li>
+    <li>kata kerja> Siseando</li>
+    <li>kata kerja> erangan</li>
+    <li>kata kerja-> mengeluh</li>
+    <li>kata kerja-> mengobrol</li>
+    <li>kata kerja> obrolan</li>
+    <li>Kata kerja-> terengah-engah</li>
+    <li>kata kerja-> cascbeleando</li>
+    <li>verb-> contrayndosis</li>
+    <li>kata kerja-> penggilingan</li>
+    <li>kata kerja-> Carraspeando</li>
+  </RevenantNoises.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <ChildLabor_Disapproved.label>tidak disetujui</ChildLabor_Disapproved.label>
+  <!-- EN: Childhood is sacred. We should let kids be kids. -->
+  <ChildLabor_Disapproved.description>Masa kecil itu sakral.Kita harus membiarkan anak -anak menjadi anak -anak.</ChildLabor_Disapproved.description>
+  <!-- EN: Children assigned work -->
+  <ChildLabor_Disapproved.comps.0.description>Pekerjaan yang ditugaskan untuk anak -anak</ChildLabor_Disapproved.comps.0.description>
+  
+  <!-- EN: encouraged -->
+  <ChildLabor_Encouraged.label>termotivasi</ChildLabor_Encouraged.label>
+  <!-- EN: Children build character through work. It's important for everyone to contribute. -->
+  <ChildLabor_Encouraged.description>Anak -anak memalsukan karakter mereka melalui pekerjaan.Penting bagi semua orang berkontribusi.</ChildLabor_Encouraged.description>
+  <!-- EN: Children assigned recreation -->
+  <ChildLabor_Encouraged.comps.0.description>Waktu luang yang ditugaskan untuk anak -anak</ChildLabor_Encouraged.comps.0.description>
+  
+</LanguageData>

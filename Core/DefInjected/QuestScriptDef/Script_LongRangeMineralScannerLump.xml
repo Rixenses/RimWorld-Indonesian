@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Menggunakan pemindai mineral jarak jauh Anda, [Worker_Definite] telah menemukan segumpal [targetMinable_label] di dekatnya. \ n \ nunfort, itu tidak akan bertahan-orang lain akan menambangnya terlebih dahulu di [timeoutticks_duration] jika kita tidak melakukannya.</li>-><LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>QuesteScription-> Menggunakan pemindai mineral jarak jauh, [Worker_Definite] telah menemukan [targetMinable_labelvar] sangat dekat dengan lokasi Anda. oleh musuh Anda. [Lumpthreatdscription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [benjolan] dari [targetMineablething_label]</li>
+    <li>QuestName-> [TargetMineableThing_label] [Lump]</li>
+    <li>QuestName-> [TargetMineablething_label] [Lump]</li>
+    <li>QuestName-> [adj] [targetMineablething_label]</li>
+    <li>QuestName-> [TargetMineableThing_label] [ditemukan]</li>
+    <li>lump-> benjolan</li>
+    <li>lump-> tiang</li>
+    <li>Lump-> Deposit</li>
+    <li>lump-> jahitan</li>
+    <li>lump-> chunk</li>
+    <li>lump-> tiang</li>
+    <li>adj-> jauh</li>
+    <li>adj-> jauh</li>
+    <li>adj-> tidak diketahui</li>
+    <li>adj-> dipindai</li>
+    <li>ditemukan-> ditemukan</li>
+    <li>Ditemukan-> terdeteksi</li>
+    <li>ditemukan-> ditemukan</li>
+    <li>Ditemukan-> dipindai</li>-><LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>QuestName-> [lump] de [targetMineablething_labelvar]</li>
+    <li>QuestName-> setoran besar [targetMineablething_labelvar]</li>
+    <li>QuestName-> Veta dari [TargetMinelabing_labelvar] [adj]</li>
+    <li>QuestName-> Veta dari [TargetMineablething_labelvar] [ditemukan]</li>
+    <li>lump-> adonan</li>
+    <li>Lump-> tumpukan</li>
+    <li>lump-> deposit</li>
+    <li>lump-> vena</li>
+    <li>lump->Un trozo</li>
+    <li>lump-> porsi</li>
+    <li>adj-> jauh</li>
+    <li>adj-> remota</li>
+    <li>adj-> tidak diketahui</li>
+    <li>adj-> dipindai</li>
+    <li>ditemukan-> ditemukan</li>
+    <li>Discoved-></li>
+    <li>Discoved-> ditemukan</li>
+    <li>Ditemukan-> dipindai</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>Yang lain telah mengekstraksi sumber daya [targetMinable_labelvar].Misi [menyelesaikan saya] telah kedaluwarsa.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

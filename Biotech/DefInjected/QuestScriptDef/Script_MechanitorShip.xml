@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Mechanitorshuttlecrashedletterlabel-> Mechanitor Ship</li>
+    <li>Mechanitorshuttlecrashedlettertext-> Kapal mechanitor yang berisi mekanoid liar telah jatuh di dekatnya.Mechanoids akan keluar dari kapal yang jatuh dan bersiap untuk bertarung.</li>
+    <li>AssaultBeginletterLabel-> Mechanoid Attack</li>
+    <li>AssaultBeginLetTerText-> The Feral Mechanoids datang untuk menyerang koloni!</li>
+    <li>MechLinkAvailableletterLabel-> [Mechanitor_Namedef] Mechlink tersedia</li>
+    <li>MechLinkAvailableletterText-> kapal yang jatuh berisi mayat mekanitor kuno. \ n \ nextract [mechanitor_possessive] mechlink dengan memilih seorang kolonis dan mengklik kanan mayat.</li>-><MechanitorShip.questContentRules.rulesStrings>
+    <li>Mechanitorshuttlecrashedletterlabel-> la nave del mecanitor</li>
+    <li>Mechanitorshuttcrashedlettext-> Sebuah kapal mechanizer yang berisi mecanoids liar telah jatuh di dekatnya.Mecanoids akan meninggalkan bintang dan bersiap untuk bertarung.</li>
+    <li>AssaultBeginletterLabel-> Ataque Mecanoide</li>
+    <li>AssaultBeginLettext-> The Wild Mecanoids datang untuk menyerang koloni!</li>
+    <li>mechlinkavailableletterlabel-> mecaenlace de [mechanitor_namedef] Disponible</li>
+    <li>Mechlinkavaillalettext-> The Star Ship berisi tubuh mekanitor tua.</li>
+  </MechanitorShip.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendekripsi transponder kuno, mengungkapkan lokasi kapal mechanoid di orbit.Kapal itu rusak parah tetapi Anda dapat memberi sinyal untuk mendarat di dekatnya. \ N \ n Kapal berisi sisa-sisa mekanitor yang sudah lama mati.Mechanitor dapat membuat dan mengontrol mekanoid untuk bekerja dan bertarung.Dengan mengekstraksi mechlink mechanitor yang meninggal, Anda dapat mengubah salah satu penjajah Anda sendiri menjadi mekanitor. \ N \ nBeware - kapal juga berisi mekanoid yang bermusuhan.Kelompok mechanoid terdiri dari: \ n \ n [mechlist]</li>-><MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah menguraikan transponden kuno yang mengungkapkan lokasi kapal mecanoid di orbit.Kapal sangat rusak, tetapi Anda dapat membuat sinyal untuk mendarat di dekatnya.Mekaner dapat membuat dan mengontrol mechanoides untuk bekerja dan bertarung.Jika Anda mengekstrak mecanlace dari mechanitor yang meninggal, Anda dapat mengubah salah satu pemukim menjadi mekanitor.Kelompok mecanoid terdiri dari: \ n \ n [mechlist]</li>
+  </MechanitorShip.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [ShipAdjective] [Shipnoun]</li>
+    <li>ShipAdjective-> Mechanitor</li>
+    <li>ShipAdjective-> Pengawas</li>
+    <li>Shipadjective-> kuno</li>
+    <li>ShipAdjective-> mechanoid</li>
+    <li>Shipnoun-> kapal</li>
+    <li>Shipnoun-> Shuttle</li>
+    <li>Shipnoun-> Craft</li>
+    <li>Shipnoun-> Wreck</li>
+    <li>Shipnoun-> reruntuhan</li>
+    <li>Shipnoun-> Transport</li>-><MechanitorShip.questNameRules.rulesStrings>
+    <li>QuestName-> [Shipnoun] [ShipAdjective]</li>
+    <li>ShipAdjective-> del Mecanitor</li>
+    <li>ShipAdjective-> Del Supervisor</li>
+    <li>Shipadjective-> Leluhur</li>
+    <li>ShipAdjective-> Mecanoide</li>
+    <li>Shipnoun-> la nave</li>
+    <li>Shipnoun-> The Ferry</li>
+    <li>Shipnoun-> The Shuttle</li>
+    <li>Shipnoun-> The Wreck</li>
+    <li>Shipnoun-> The Spaceship</li>
+    <li>Shipnoun-> Transport</li>
+  </MechanitorShip.questNameRules.rulesStrings>
+  
+</LanguageData>

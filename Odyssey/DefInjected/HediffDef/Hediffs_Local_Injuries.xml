@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: porcupine quill -->
+  <PorcupineQuill.label>lonjakan landak</PorcupineQuill.label>
+  <!-- EN: A sharp spine from a porcupine. While generally not fatal, these are incredibly painful. It must be surgically removed. -->
+  <PorcupineQuill.description>Duri tajam dari porcospine.Meskipun umumnya tidak mematikan, itu sangat menyakitkan.Itu harus diekstraksi dengan pembedahan.</PorcupineQuill.description>
+  
+  <!-- EN: vacuum burn -->
+  <VacuumBurn.label>bakar vakum</VacuumBurn.label>
+  <!-- EN: Tissue damage caused by exposure to the vacuum of space. It can be extremely painful. -->
+  <VacuumBurn.description>Kerusakan jaringan yang disebabkan oleh paparan ruang hampa.Ini bisa sangat menyakitkan.</VacuumBurn.description>
+  <!-- EN: treated -->
+  <VacuumBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>diperlakukan</VacuumBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: treated -->
+  <VacuumBurn.comps.HediffComp_TendDuration.labelTendedWell>diperlakukan</VacuumBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: treated -->
+  <VacuumBurn.comps.HediffComp_TendDuration.labelTendedWellInner>diperlakukan</VacuumBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: a vacuum burn -->
+  <VacuumBurn.labelNoun>Pembakaran kekosongan</VacuumBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VacuumBurn.labelNounPretty>{0} di {1_gender?EL:} {1}</VacuumBurn.labelNounPretty>
+  
+</LanguageData>

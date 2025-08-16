@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_rolename-> createRizer</li>
+    <li>r_rolename-> animalor</li>
+    <li>firstpart-> fur</li>
+    <li>firstpart-> paw</li>
+    <li>firstpart-> hoof</li>
+    <li>FirstPart-> Tail</li>
+    <li>FirstPart-> Whisker</li>
+    <li>FirstPary-> Catch</li>
+    <li>firstpart-> feral</li>
+    <li>FirstPart-> SNOUT</li>
+    <li>SecondPart (p = 4)-> Kin</li>
+    <li>SecondPart (p = 4)-> Touch</li>-><NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+    <li>R_rolename-> createRizer</li>
+    <li>r_rolename-> hewan</li>
+    <li>Funct-> dari bulu</li>
+    <li>FirstPart-> de Garrars</li>
+    <li>Pertama kuku</li>
+    <li>Priver pertama> COAs</li>
+    <li>Firsttart-> fanatik</li>
+    <li>FirstPart-> dari Colmillos</li>
+    <li>Pertama dari kebiadaban</li>
+    <li>Pertama dari moncong</li>
+    <li>SecondPart (p = 4)-> Kin</li>
+    <li>Bagian kedua (p = 4)-> halus</li>
+  </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename-> Berserker</li>
+    <li>FirstPart-> Slash</li>
+    <li>FirstPart-> Fist</li>
+    <li>firstpart-> memar</li>
+    <li>FirstPart-> Blade</li>
+    <li>FirstPart-> Brawl</li>
+    <li>FirstPart-> Knuckle</li>
+    <li>FirstPart-> Spear</li>
+    <li>FirstPart-> Sword</li>
+    <li>FirstPart-> Club</li>
+    <li>FirstPart-> Edge</li>
+    <li>firstpart-> cut</li>
+    <li>FirstPart-> Smash</li>
+    <li>FirstPart-> Crush</li>-><NamerRoleBrawler.rulePack.rulesStrings>
+    <li>r_rolename-> Berserker</li>
+    <li>Pertama dari kunci</li>
+    <li>Buah-> memar</li>
+    <li>Pisau pertama</li>
+    <li>Pertama dari perjuangan</li>
+    <li>Pertama-tulang</li>
+    <li>FirstPart-> de Lanzas</li>
+    <li>FirstPart-> dari Espadas</li>
+    <li>FirstPart-> de Filos</li>
+    <li>Pertama Priven-> The Cortes</li>
+  </NamerRoleBrawler.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>firstpart-> kesehatan</li>
+    <li>firstpart-> sembuh</li>
+    <li>firstpart-> hati</li>
+    <li>FirstPart-> Medi</li>
+    <li>firstpart-> pisau bedah</li>
+    <li>FirstPart-> Sanito</li>
+    <li>FirstPart-> Surgo</li>
+    <li>FirstPart-> Clinic</li>-><NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+    <li>FirstPart-> de Salud</li>
+    <li>Pertama-healing</li>
+    <li>FirstPart-> Cardiovascular</li>
+    <li>FirstPart-> de Medicina</li>
+    <li>FirstPart-> de Bisturí</li>
+    <li>Perawatan Berpikir Pertama</li>
+    <li>Pihak Pertama-> Pembedahan</li>
+    <li>firstpart-> de clínica</li>
+  </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename-> spelunker</li>
+    <li>FirstPart-> Mine</li>
+    <li>FirstPart-> Deep</li>
+    <li>firstpart-> kedalaman</li>
+    <li>firstpart-> rock</li>
+    <li>FirstPart-> Cave</li>
+    <li>firstpart-> pick</li>
+    <li>FirstPart-> Bor</li>
+    <li>FirstPart-> Under</li>
+    <li>FirstPart-> Stone</li>
+    <li>FirstPart-> Hill</li>
+    <li>firstpart-> hole</li>
+    <li>FirstPart-> Tunnel</li>
+    <li>firstpart-> crack</li>-><NamerRoleMiner.rulePack.rulesStrings>
+    <li>R_rolename-> espeleólogo</li>
+    <li>Fracst-> pertambangan</li>
+    <li>Pertama> dari kedalaman</li>
+    <li>FirstPart-> dari Rocas</li>
+    <li>First-> Cuevas</li>
+    <li>Bagian pertama</li>
+    <li>Fracst-> Perforasi</li>
+    <li>FirstPart-> de Piedras</li>
+    <li>FirstPart-> de Colinas</li>
+    <li>FirstPart-> de Hoyos</li>
+    <li>Firstpart-> dari tuibheles</li>
+    <li>Flash-> dari retakan</li>
+  </NamerRoleMiner.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename (p = 4)-> [Mememoralist]</li>
+    <li>r_rolename (p = 2)-> [memeadjective] [Mememoralist]</li>
+    <li>r_rolename-> [Mememoralist] dari [chosentheme]</li>
+    <li>r_rolename-> [Mememoralist] dari [KeyDeity]</li>
+    <li>r_rolename-> [Mememoralist] dari [Memeconscept]</li>
+    <li>r_rolename-> [Mememoralist] dari [chosenideoname]</li>
+    <li>r_rolename-> [terpilih Tjok] [Mememoralist]</li>
+    <li>R_ROLENAME-> [KeyDeity] [Mememoralist]</li>-><NamerRoleMoralist.rulePack.rulesStrings>
+    <li>r_rolename (p = 4)-> [Mememoralist]</li>
+    <li>r_rolename (p = 2)-> [Mememoralist] [memeadjective]</li>
+    <li>r_rolename-> [Mememoralist] de [chosentheme]</li>
+    <li>r_rolename-> [Mememoralist] de [Keydeity]</li>
+    <li>r_rolename-> [Mememoralist] de [MemeconceptDef]</li>
+    <li>r_rolename-> [Mememoralist] de [chosenideoname]</li>
+    <li>r_rolename-> [Mememoralist] [ChosenAdjective]</li>
+    <li>r_rolename-> [Mememoralist] de [Keydeity]</li>
+  </NamerRoleMoralist.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename-> produsen</li>
+    <li>r_rolename-> Handyman</li>
+    <li>R_ROLENAME-> Maker</li>
+    <li>FirstPart-> Make</li>
+    <li>FirstPart-> Craft</li>
+    <li>firstpart-> build</li>
+    <li>firstpart-> manu</li>
+    <li>FirstPart-> Make</li>-><NamerRoleProductionSpecialist.rulePack.rulesStrings>
+    <li>R_rolename-> produsen</li>
+    <li>R_rolename-> manitas</li>
+    <li>R_rolename-> preparator</li>
+    <li>Penciptaan pertama</li>
+    <li>Klest-> pakaian</li>
+    <li>Konstruksi terlebih dahulu</li>
+    <li>Manufaktur dulu</li>
+  </NamerRoleProductionSpecialist.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename-> HighMind</li>
+    <li>r_rolename-> Cogitor</li>
+    <li>r_rolename-> pemikir</li>
+    <li>r_rolename-> pelajar</li>
+    <li>firstpart-> mind</li>
+    <li>firstpart-> berpikir</li>
+    <li>FirstPart-> Focus</li>
+    <li>firstpart-> neuro</li>
+    <li>FirstPart-> Cogito</li>
+    <li>firstpart-> ide</li>-><NamerRoleResearcher.rulePack.rulesStrings>
+    <li>r_rolename-> erudite</li>
+    <li>R_rolename-> bijak</li>
+    <li>R_rolename-> pemikir</li>
+    <li>R_rolename-> Apprentice</li>
+    <li>Bagian pertama dari pemahaman</li>
+    <li>Refleksi pertama</li>
+    <li>firstpart-> de neuronas</li>
+    <li>FirstStart-> Ide</li>
+    <li>Pikiran berpikiran pertama</li>
+  </NamerRoleResearcher.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>FirstPart-> Gun</li>
+    <li>firstPart->shot</li>
+    <li>FirstPart-> Trigger</li>
+    <li>FirstPart-> Bullet</li>
+    <li>firstpart-> shell</li>
+    <li>FirstPart-> AIM</li>
+    <li>firstpart-> snipe</li>
+    <li>firstpart-> point</li>
+    <li>FirstPart-> Shoot</li>
+    <li>SecondPart (p = 4)-> Slinger</li>-><NamerRoleShooter.rulePack.rulesStrings>
+    <li>FirstStart-> The Armas</li>
+    <li>Firstpart-> de disparos</li>
+    <li>FirstPart-> de Gatillos</li>
+    <li>FirstPart-> de Balas</li>
+    <li>Proyektil pertama</li>
+    <li>Tujuan pertama</li>
+    <li>FirstPart-> de Tiros</li>
+  </NamerRoleShooter.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename-> pupuk</li>
+    <li>firstpart-> daun</li>
+    <li>FirstPart-> Plant</li>
+    <li>FirstPart-> Green</li>
+    <li>FirstPart-> Sprout</li>
+    <li>FirstPart-> Garden</li>
+    <li>FirstPart-> Flora</li>
+    <li>FirstPart-> Herb</li>
+    <li>firstpart-> crop</li>
+    <li>FirstPart-> Farm</li>
+    <li>firstpart-> tanah</li>
+    <li>FirstPart-> Dirt</li>
+    <li>firstpart-> seed</li>
+    <li>firstpart-> tanah</li>
+    <li>firstpart-> root</li>-><NamerRoleSower.rulePack.rulesStrings>
+    <li>R_rolename-> pupuk</li>
+    <li>Lemak-> daun</li>
+    <li>FirstPart-> de Plantas</li>
+    <li>FirstPart-> de Brotes</li>
+    <li>FirstPart-> de Jardines</li>
+    <li>FirstPart-> de Flores</li>
+    <li>FirstSpart-> The Hierbas</li>
+    <li>FirstPart-> dari Cultivos</li>
+    <li>FirstStart-> The Granjas</li>
+    <li>FirstPart-> de Tierras</li>
+    <li>firstpart-> dari semillas</li>
+    <li>FirstPart-> of Raís</li>
+  </NamerRoleSower.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_rolename (p = 7)-> [FirstPart] [SecondPart]</li>
+    <li>SecondPart-> Master</li>
+    <li>SecondPart-> Crat</li>
+    <li>SecondPart-> Flame</li>
+    <li>SecondPart-> Mind</li>
+    <li>bagian kedua-> kepala</li>
+    <li>SecondPart-> Eye</li>
+    <li>bagian kedua-> tangan</li>
+    <li>Bagian kedua-> fungsi</li>
+    <li>Secondpart-> Brain</li>
+    <li>SecondPart-> pemegang</li>
+    <li>SecondPart-> Bringer</li>
+    <li>SecondPart-> Talker</li>
+    <li>SecondPart-> Speaker</li>
+    <li>SecondPart-> Knower</li>
+    <li>SecondPart-> Lover</li>
+    <li>SecondPart-> pengguna</li>
+    <li>bagian kedua-> satu</li>
+    <li>SecondPart-> pert</li>
+    <li>SecondPart-> itor</li>
+    <li>Bagian kedua-> siapa pun</li>
+    <li>SecondPart-> Alor</li>
+    <li>Bagian kedua-> atau</li>
+    <li>SecondPart-> Izer</li>
+    <li>SecondPart-> iner</li>-><NamerRoleSpecialistUtility.rulePack.rulesStrings>
+    <li>r_rolename (p = 7)-> [SecondPart] [FirstPart]</li>
+    <li>SecondPart-> Maestro</li>
+    <li>SecondPart-> Produsen</li>
+    <li>SecondPart-> Mentor</li>
+    <li>SecondPart-> Genius</li>
+    <li>SecondPart-> Observer</li>
+    <li>operator kedua</li>
+    <li>kedua> resmi</li>
+    <li>SecondPart-> operator</li>
+    <li>SecondPart-> Charlatán</li>
+    <li>SecondPart-> pemegang</li>
+    <li>SecondPart-> Connoisseur</li>
+    <li>kedua> kekasih</li>
+    <li>kedua-> praktisi</li>
+    <li>Pakar kedua></li>
+  </NamerRoleSpecialistUtility.rulePack.rulesStrings>
+  
+</LanguageData>

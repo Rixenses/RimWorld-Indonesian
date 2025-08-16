@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi perusahaan tentara bayaran yang terkenal.Tentara kuno ini berasal dari era yang sudah lama terlupakan dalam sejarah planet ini.Mereka baru -baru ini terbangun dari Cryptosleep dan menyebabkan masalah di daerah tersebut. \ N \ n Perusahaan dipimpin oleh [Leader_Namedef], yang memiliki senjata [Weapon_Quality] yang unik.Grup berisi: \ n \ n [MercenaryList] \ n \ nif Anda dapat menangkap atau membunuh pemimpin, Anda dapat mengambil senjata unik. \ N \ n [Lokasi]</li>
+    <li>Lokasi (Atlandmark == Benar)-> Para prajurit bersembunyi dalam struktur kuno di [LandmarkName].</li>
+    <li>Lokasi (atlandmark == false)-> Para prajurit bersembunyi dalam struktur kuno.</li>-><OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi kelompok tentara bayaran yang terkenal.Para prajurit kuno ini berada dari era membuat waktu lama dilupakan dalam sejarah planet ini.Baru -baru ini mereka terbangun dari cryptosueño mereka dan menyebabkan masalah di daerah tersebut.Kelompok ini terdiri dari: \ n \ n [Mercearylist] \ n \ nsi Anda berhasil menangkap atau membunuh pemimpin, Anda dapat mengambil senjata mereka. \ N \ n [Lokasi]</li>
+    <li>Lokasi</li>
+    <li>Lokasi (atlandmark == false)-> Tentara bersembunyi di struktur lama.</li>
+  </OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [kuno] [tentara bayaran]</li>
+    <li>QuestName-> [kuno] [tentara bayaran]</li>
+    <li>Kuno-> Kuno</li>
+    <li>Kuno-> Bangun</li>
+    <li>Kuno-> Cryptosleep</li>
+    <li>tentara bayaran-> tentara bayaran</li>
+    <li>tentara bayaran-> tentara</li>
+    <li>tentara bayaran-> prajurit</li>
+    <li>tentara bayaran-> pejuang</li>-><OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+    <li>QuestName-> The [Mercenaries] [kuno]</li>
+    <li>QuestName-> [Mercenaries] [kuno]</li>
+    <li>Kuno-> Kuno</li>
+    <li>Kuno-> terbangun</li>
+    <li>Kuno-> Cryptodespected</li>
+    <li>Tentara bayaran-> tentara bayaran</li>
+    <li>Tentara bayaran-> tentara</li>
+    <li>Tentara bayaran-> prajurit</li>
+    <li>tentara bayaran-> pejuang</li>
+  </OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> tentara bayaran kuno</li>
+    <li>Subjek-> Tentara Kuno</li>
+    <li>subjek-> kuno</li>
+    <li>QuestMapFeature-> Garnisun Militer</li>
+    <li>QuestMapfeature-> menggambar seorang prajurit kuno</li>
+    <li>QuestMapFeature-> Sketsa seorang pria dari waktu lain</li>
+    <li>QuestMaptext-> Mereka bangun</li>
+    <li>QuestMaptext-> Dangerous Ancients</li>
+    <li>QuestMaptext-> senjata kuno</li>-><OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+    <li>Subjek-> tentara bayaran kuno</li>
+    <li>Subjek-> tentara Antiguos</li>
+    <li>Subjek-> Antiguos</li>
+    <li>QuestMapFeature-> Military Garnition</li>
+    <li>QuestMapfeature-> menggambar seorang prajurit tua</li>
+    <li>QuestMapFeature-> Sketsa dari satu orang dari waktu lain</li>
+    <li>QuestMaptext-> Are Awake</li>
+    <li>QuestMaptext-> kuno berbahaya</li>
+    <li>QuestMaptext-> senjata kuno</li>
+  </OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+  
+</LanguageData>

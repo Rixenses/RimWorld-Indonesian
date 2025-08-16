@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body mastery -->
+  <BodyMastery.degreeDatas.body_mastery.label>Guru Tubuh</BodyMastery.degreeDatas.body_mastery.label>
+  <!-- EN: {PAWN_nameDef} doesn't have basic needs like eating, sleeping, or comfort. {PAWN_possessive} body is driven by some unknown mechanism, which has turned {PAWN_possessive} eyes completely white. -->
+  <BodyMastery.degreeDatas.body_mastery.description>{Pawn_namedef} tidak memiliki kebutuhan dasar seperti makan, tidur atau merasa nyaman {Pawn_gender?O: A}.Tubuhnya bergerak melalui beberapa mekanisme yang tidak diketahui, yang telah membuat matanya benar -benar putih.</BodyMastery.degreeDatas.body_mastery.description>
+  
+  <!-- EN: disturbing -->
+  <Disturbing.degreeDatas.disturbing.label>mengganggu</Disturbing.degreeDatas.disturbing.label>
+  <!-- EN: {PAWN_nameDef} is a peculiar person who seems fixated on horrendous ideas. Talking to {PAWN_objective} is often upsetting. -->
+  <Disturbing.degreeDatas.disturbing.description>{Pawn_namedef} adalah orang aneh yang tampaknya terobsesi dengan ide -ide mengerikan.Berbicara dengan {Pawn_pronoun} biasanya menjengkelkan.</Disturbing.degreeDatas.disturbing.description>
+  <Disturbing.degreeDatas.disturbing.labelFemale>mengganggu</Disturbing.degreeDatas.disturbing.labelFemale>
+  
+  <!-- EN: joyous -->
+  <Joyous.degreeDatas.joyous.label>memotivasi</Joyous.degreeDatas.joyous.label>
+  <!-- EN: {PAWN_nameDef} has the ability to make everyone feel better and inspire them to be the best version of themselves. -->
+  <Joyous.degreeDatas.joyous.description>{Pawn_namedef} memiliki kemampuan untuk membuat semua orang merasa lebih baik dan menginspirasi mereka untuk menjadi versi terbaik dari diri mereka sendiri.</Joyous.degreeDatas.joyous.description>
+  <Joyous.degreeDatas.joyous.labelFemale>Memotivasi</Joyous.degreeDatas.joyous.labelFemale>
+  
+  <!-- EN: occultist -->
+  <Occultist.degreeDatas.occultist.label>okultis</Occultist.degreeDatas.occultist.label>
+  <!-- EN: {PAWN_nameDef} has deep knowledge of the twisted patterns of dark psychic energy. {PAWN_pronoun} can study unnatural entities faster than others. {PAWN_pronoun} will also periodically teach this inhuman knowledge to others when {PAWN_pronoun} gets the chance. -->
+  <Occultist.degreeDatas.occultist.description>{Pawn_namedef} memiliki pengetahuan yang mendalam tentang pola -pola energi psikis gelap yang bengkok.Anda dapat mempelajari entitas antinatural lebih cepat dari yang lain dan juga secara berkala mengajarkan pengetahuan yang tidak manusiawi ini kepada orang lain ketika Anda memiliki kesempatan.</Occultist.degreeDatas.occultist.description>
+  
+  <!-- EN: perfect memory -->
+  <PerfectMemory.degreeDatas.perfect_memory.label>Memori yang sempurna</PerfectMemory.degreeDatas.perfect_memory.label>
+  <!-- EN: {PAWN_nameDef} has outstanding memory, both in terms of retaining information but also muscle memory. {PAWN_possessive} skills will never decay. -->
+  <PerfectMemory.degreeDatas.perfect_memory.description>{Pawn_namedef} memiliki memori yang luar biasa, baik dalam hal retensi informasi dan memori otot.Keterampilan Anda tidak akan pernah membusuk.</PerfectMemory.degreeDatas.perfect_memory.description>
+  
+  <!-- EN: void fascination -->
+  <VoidFascination.degreeDatas.void_fascination.label>Kekosongan daya tarik</VoidFascination.degreeDatas.void_fascination.label>
+  <!-- EN: {PAWN_nameDef} is strangely intrigued by unnatural entities and is easily enthralled by them. -->
+  <VoidFascination.degreeDatas.void_fascination.description>{Pawn_namedef} merasa anehnya tertarik {Pawn_gender?O: A} oleh entitas antinatural dan mudah dipikat oleh mereka.</VoidFascination.degreeDatas.void_fascination.description>
+  
+</LanguageData>

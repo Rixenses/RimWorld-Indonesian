@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge blaster turret -->
+  <Gun_ChargeBlasterTurret.label>Muat Minorreta</Gun_ChargeBlasterTurret.label>
+  <!-- EN: A small charge blaster designed for use on a defense turret. -->
+  <Gun_ChargeBlasterTurret.description>Menara beban kecil yang dirancang untuk penggunaan defensif.</Gun_ChargeBlasterTurret.description>
+  <!-- EN: charge blaster turret -->
+  <Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>Muat Minorreta</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: apocriton -->
+  <Mech_Apocriton.label>Apokriton</Mech_Apocriton.label>
+  <!-- EN: A mechanoid commander designed to coordinate and motivate other mechs during long extermination campaigns. Its most obvious power is its ability to resurrect recently-killed mechs by supercharging their self-repair processes. Less obviously, it is intelligent and psychically present, radiating hatred into the minds of anyone in a wide radius. It can also move quickly with its built-in jump launcher.\n\nWhile all mechanoids have a dim psychically-present intelligence, only the apocriton and a few others truly feel hatred for their victims and understand the suffering they inflict. -->
+  <Mech_Apocriton.description>Seorang komandan mecanoid yang dirancang untuk mengoordinasikan dan memotivasi MECA lainnya selama kampanye pemusnahan panjang.Kekuatannya yang paling jelas adalah kemampuan mereka untuk membangkitkan kembali Mecas yang mati baru -baru ini, yang terlalu besar, proses penentuan nasib sendiri.Dengan cara yang jelas, itu cerdas dan memiliki kehadiran psikis, memancarkan kebencian dalam pikiran siapa pun di radio yang luas. Anda juga dapat bergerak cepat dengan lompatan -in -in.</Mech_Apocriton.description>
+  <!-- EN: head -->
+  <Mech_Apocriton.tools.head.label>kepala</Mech_Apocriton.tools.head.label>
+  
+  <!-- EN: centurion -->
+  <Mech_Centurion.label>Centurion</Mech_Centurion.label>
+  <!-- EN: An ultraheavy mech with a built-in shield bubble generator. The centurion carries a point-defense bulb turret capable of firing while the mechanoid is moving. -->
+  <Mech_Centurion.description>Mekah ultrapesado dengan generator pelindung -in -in.Centurion membawa menara pompa pertahanan spesifik yang mampu menembak sementara mecanoid bergerak.</Mech_Centurion.description>
+  <!-- EN: head -->
+  <Mech_Centurion.tools.head.label>kepala</Mech_Centurion.tools.head.label>
+  
+  <!-- EN: diabolus -->
+  <Mech_Diabolus.label>Diábolus</Mech_Diabolus.label>
+  <!-- EN: An ultra-heavy mechanoid with an ultra-powerful hellsphere cannon. Made for siegebreaking, its hellsphere cannon takes time to charge up a shot, but can melt concrete and vaporize bone. The diabolus dissipates the hellsphere cannon's waste power in a heat column mounted on its back, which can pulse to ignite flammable objects nearby.\n\nThis mech's name comes from a thousand-year-old poem written by a Haspian monk who survived the erasure of his monastery. His religiously-tinged work describes a razor-bodied fiend pulsing with flesh-searing heat as it crushed scorched bodies under massive claws. The few who have faced a diabolus and survived tend to agree with this depiction. -->
+  <Mech_Diabolus.description>Mecanoid ultrapesado dengan meriam bola ultra -pola.Diproduksi untuk pengepungan, bidang infernalnya membutuhkan waktu untuk memuat bidikan, tetapi dapat melelehkan beton dan menguapkan tulang.Diabolus menghilangkan energi residu dari meriam bola infernal dalam kolom panas yang dipasang di punggungnya, yang dapat menekan untuk menyalakan benda yang mudah terbakar.Karyanya, dengan pewarna religius, menggambarkan iblis dengan tubuh yang ditutupi dengan bilah yang diklik dengan panas daging yang abadi sambil menghancurkan tubuh di bawah cakar besar.Beberapa yang menghadapi diabolus dan selamat setuju dengan deskripsi ini.</Mech_Diabolus.description>
+  <!-- EN: head -->
+  <Mech_Diabolus.tools.head.label>kepala</Mech_Diabolus.tools.head.label>
+  
+  <!-- EN: war queen -->
+  <Mech_Warqueen.label>ratu perang</Mech_Warqueen.label>
+  <!-- EN: An ultra-heavy mech with a built-in mech gestator. Fed with appropriate resources, the war queen can form small war urchin combat mechs within its massive carapace and deploy them into combat.\n\nEven more than other mechanoids, the war queen resembles a giant, living insect. All war mechs can be terrifying, but humans tend to find the war queen disturbing on a deeper level. -->
+  <Mech_Warqueen.description>Mekah Ultrapesado dengan Gestator yang dibangun -di Mecas.Dihadapkan dengan sumber daya yang sesuai, ratu perang dapat membentuk landak kecil di dalam cangkangnya yang besar dan menampilkannya dalam pertempuran.Semua mecas perang bisa menakutkan, tetapi manusia cenderung menemukan ratu perang yang mengganggu pada tingkat yang lebih dalam.</Mech_Warqueen.description>
+  <!-- EN: head -->
+  <Mech_Warqueen.tools.head.label>kepala</Mech_Warqueen.tools.head.label>
+  
+</LanguageData>

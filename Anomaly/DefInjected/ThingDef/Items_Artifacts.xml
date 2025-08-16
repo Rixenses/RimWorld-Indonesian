@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biomutation pulser -->
+  <BiomutationPulser.label>Tombol biomutasi</BiomutationPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector created from a dark archotech shard. The device creates a pulse that reshapes the musculature of every animal within the region, turning them into terrifying creatures. Animals currently under your control will not be affected. -->
+  <BiomutationPulser.description>Efektor gelombang psikis yang digunakan luas dibuat dari perpustakaan Archeoteca yang gelap.Perangkat ini menciptakan denyut nadi yang merombak otot -otot semua hewan di wilayah tersebut, mengubahnya menjadi makhluk yang menakutkan.Hewan yang berada di bawah kendali Anda tidak akan terpengaruh.</BiomutationPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <BiomutationPulser.comps.CompUsable.useLabel>Aktifkan {0_label}</BiomutationPulser.comps.CompUsable.useLabel>
+  
+  <!-- EN: shard animal pulser -->
+  <ShardAnimalPulser.label>Bill Spirla Hewan</ShardAnimalPulser.label>
+  <!-- EN: A one-use broad-wave psychic effector created from a dark archotech shard. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
+  <ShardAnimalPulser.description>Efektor gelombang psikis yang digunakan luas dibuat dari perpustakaan Archeoteca yang gelap.Denyut nadi psikis memenuhi pikiran yang lebih rendah dari gambar -gambar yang menakutkan, membawa semua hewan di wilayah tersebut ke perburuan kemarahan.Hewan yang berada di bawah kendali Anda tidak akan terpengaruh.</ShardAnimalPulser.description>
+  <!-- EN: Activate {0_label} -->
+  <ShardAnimalPulser.comps.CompUsable.useLabel>Aktifkan {0_label}</ShardAnimalPulser.comps.CompUsable.useLabel>
+  
+</LanguageData>

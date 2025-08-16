@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Uncontrolled mechs -->
+  <AlertMechLacksOverseer>Mengukur tidak ada kontroldade</AlertMechLacksOverseer>
+  <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
+  <AlertMechLacksOverseerDesc>Satu atau lebih dari mecanoid Anda tidak dikendalikan.Hubungkan mecanoid Anda ke pemesinan dengan bandwidth yang cukup untuk mengendalikannya.Ketika ini terjadi, mereka akan bergabung {0} dan menjadi bermusuhan terhadap Anda.Jika mecanoid menjadi liar, ia akan menyeret dengan mecanoids terdekat lainnya.</AlertMechLacksOverseerDesc>
+  <!-- EN: The following mechanoids are uncontrolled -->
+  <AlertMechLacksOverseerUncontrolled>Mecas berikut tidak dikendalikan</AlertMechLacksOverseerUncontrolled>
+  <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->
+  <AlertMechLacksOverseerMayGoFeral>Mecas berikut tidak dikendalikan dan dapat menjadi bermusuhan kapan saja</AlertMechLacksOverseerMayGoFeral>
+
+  <!-- EN: {0} is low on resources -->
+  <AlertWarqueenHasLowResources>{0} memiliki sedikit sumber daya</AlertWarqueenHasLowResources>
+  <!-- EN: One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources. -->
+  <AlertWarqueenHasLowResourcesDesc>Satu atau lebih {0} kehabisan sumber daya.Mereka tidak akan dapat menghasilkan mecas jika mereka kehabisan sumber daya.</AlertWarqueenHasLowResourcesDesc>
+
+  <!-- EN: {PAWN} needs deathrest -->
+  <AlertLowDeathrestPawn>{Pawn} perlu mematikan</AlertLowDeathrestPawn>
+  <!-- EN: {NUMCULPRITS} colonists need deathrest -->
+  <AlertLowDeathrestPawns>{Numulprits} pemukim membutuhkan yang mematikan</AlertLowDeathrestPawns>
+  <!-- EN: A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS} -->
+  <AlertLowDeathrestDesc>Seorang pemukim tidak memiliki waktu yang mematikan untuk waktu yang lama.Jika Anda menghabiskan terlalu lama tanpa itu, Anda akan menderita kelelahan yang mematikan.</AlertLowDeathrestDesc>
+
+  <!-- EN: Low hemogen -->
+  <AlertLowHemogen>Hemogen rendah</AlertLowHemogen>
+  <!-- EN: A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen -->
+  <AlertLowHemogenDesc>Seorang pemukim memiliki hemogen kecil.Jika mencapai nol, Anda akan mengembangkan retak hemogen yang menyakitkan.Anda bisa mendapatkan paket ini menggunakan operasi medis "Extract Hemogenic Pack" pada manusia non -hemogenik.</AlertLowHemogenDesc>
+
+  <!-- EN: Recharger full -->
+  <AlertRechargerFull>Pengisi daya penuh</AlertRechargerFull>
+  <!-- EN: Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it. -->
+  <AlertRechargerFullDesc>Beberapa pengisi daya Mekah telah mencapai paket limbah beracun maksimum mereka.Mecas tidak akan dapat menggunakannya sampai paket dilepas.</AlertRechargerFullDesc>
+
+  <!-- EN: Need mech rechargers -->
+  <AlertNeedMechChargers>Anda membutuhkan loader mekah</AlertNeedMechChargers>
+  <!-- EN: You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers. -->
+  <AlertNeedMechChargersDesc>Anda tidak memiliki loader untuk semua mecas Anda.Jika kiblat kehabisan energi, itu akan memasuki keadaan isi ulang pasif yang sangat lambat saat Hibern.Sedang atau berat membutuhkan loader besar.</AlertNeedMechChargersDesc>
+  <!-- EN: Research basic mechtech or higher to build rechargers. -->
+  <AlertNeedMechChargerBasicMechtech>Selidiki Technomeca dasar atau lebih tinggi untuk membangun loader.</AlertNeedMechChargerBasicMechtech>
+
+  <!-- EN: Reimplantation available -->
+  <AlertReimplantationAvailable>Reimplantasi tersedia</AlertReimplantationAvailable>
+  <!-- EN: {0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists. -->
+  <AlertReimplantationAvailableDesc>{0_namedef} menunggu untuk mengimplantasi xenogermen Anda di salah satu pemukim Anda.</AlertReimplantationAvailableDesc>
+
+  <!-- EN: Low baby food -->
+  <AlertLowBabyFood>Makanan bayi kecil</AlertLowBabyFood>
+  <!-- EN: You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}. -->
+  <AlertLowBabyFoodDesc>Tingkat makanan bayi Anda sangat rendah.Ini termasuk {2}.</AlertLowBabyFoodDesc>
+  <!-- EN: No baby feeders -->
+  <AlertNoBabyFeeder>Tidak ada pengumpan bayi</AlertNoBabyFeeder>
+  <!-- EN: No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed. -->
+  <AlertNoBabyFeederDesc>Tidak ada {felion_pawnsplural} yang ditugaskan untuk memberi makan bayi, atau tidak mampu. lumpuh.</AlertNoBabyFeederDesc>
+  <!-- EN: Abandoned baby -->
+  <AlertAbandonedBaby>Bayi yang ditinggalkan</AlertAbandonedBaby>
+  <!-- EN: There are abandoned babies nearby with no closeby caregivers.  If you don't adopt the babies, they'll probably starve to death.\n\nTo adopt a baby, select it and then select "{0}". -->
+  <AlertAbandonedBabyDesc>Ada bayi yang ditinggalkan di dekatnya tanpa pengasuh di dekatnya.Jika Anda tidak mengadopsi bayi, mereka cenderung kelaparan.</AlertAbandonedBabyDesc>
+
+  <!-- EN: No baby food in caravan -->
+  <AlertNoBabyFoodCaravan>Tidak ada makanan bayi di karavan</AlertNoBabyFoodCaravan>
+  <!-- EN: Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them. -->
+  <AlertNoBabyFoodCaravanDesc>Bayi karavan ini tidak memiliki makanan atau ada {faction_pawnplural} dalam menyusui ditugaskan untuk memberi makan mereka.</AlertNoBabyFoodCaravanDesc>
+
+  <!-- EN: Toxic buildup -->
+  <AlertToxicBuildup>Akumulasi beracun</AlertToxicBuildup>
+  <!-- EN: These colonists have serious toxic buildup:\n\n{0}\n\nMove them away from toxic sources.\n\nToxic buildup can be caused by many things including toxic fallout, tox gas, and polluted terrain. -->
+  <AlertToxicBuildupDesc>Pemukim ini memiliki akumulasi beracun yang parah: \ n \ n {0} \ n \ naléjallos dari sumber beracun.</AlertToxicBuildupDesc>
+
+  <!-- EN: Need baby cribs -->
+  <AlertNeedBabyCribs>Anda membutuhkan boks</AlertNeedBabyCribs>
+  <!-- EN: You have more babies than cribs.\n\nMake more cribs or, if you have no resources to spare, place some baby sleeping spots for free. -->
+  <AlertNeedBabyCribsDesc>Anda memiliki lebih banyak bayi daripada boks.</AlertNeedBabyCribsDesc>
+  <!-- EN: Need slave cribs -->
+  <AlertNeedSlaveCribs>Anda membutuhkan buaian budak</AlertNeedSlaveCribs>
+  <!-- EN: You have more slave babies than you have cribs marked for slave use.\n\nEither make more cribs or change a colonist crib to a slave crib.\n\nIf you have no resources, baby sleeping spots are free and can be placed instantly. -->
+  <AlertNeedSlaveCribsDesc>Anda memiliki lebih banyak budak daripada boks yang ditandai untuk penggunaan budak.</AlertNeedSlaveCribsDesc>
+
+  <!-- EN: Polluted terrain -->
+  <AlertPollutedTerrain>Tanah yang terkontaminasi</AlertPollutedTerrain>
+  <!-- EN: A person or animal is suffering toxic buildup and is on polluted terrain. Any time someone is on polluted terrain, their toxic buildup will increase over time until they die.\n\nThese people or animals are affected:\n\n{0}\n\nKeep people off polluted terrain, or find a way to protect them from its effects. Certain apparel, implants and gene modifications can protect from toxic buildup. Polluted terrain cannot be covered using a floor, but it can be cleaned by hand and other methods. -->
+  <AlertPollutedTerrainDesc>Seseorang atau hewan menderita akumulasi beracun dan berada di medan yang terkontaminasi.Ketika seseorang berada di medan yang terkontaminasi, mereka akan mengumpulkan kadar racun sampai mereka mati. Beberapa pakaian, implan atau modifikasi genetik dapat melindungi dari akumulasi beracun.Medan yang terkontaminasi tidak dapat ditutupi menggunakan tanah, tetapi dapat dibersihkan dengan tangan atau dengan cara lain.</AlertPollutedTerrainDesc>
+
+  <!-- EN: Mechanoid missing part -->
+  <AlertMechMissingBodyPart>Mekah dengan bagian yang hilang</AlertMechMissingBodyPart>
+  <!-- EN: Mechanoids missing parts -->
+  <AlertMechsMissingBodyPart>Mecas dengan bagian yang hilang</AlertMechsMissingBodyPart>
+  <!-- EN: One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are -->
+  <AlertMechMissingBodyPartDesc>Satu atau lebih dari mecas Anda kekurangan bagian tubuh.Seorang mekanitor dapat memperbaiki potongan yang hilang. \ N \ nlos mecas dengan bagian yang hilang</AlertMechMissingBodyPartDesc>
+
+  <!-- EN: Mechanoid repair needed -->
+  <AlertMechNeedsRepair>Mecas perlu diperbaiki</AlertMechNeedsRepair>
+  <!-- EN: These mechanoids are damaged and need repair -->
+  <AlertMechNeedsRepairDescPrefix>Mecas ini rusak dan perlu diperbaiki</AlertMechNeedsRepairDescPrefix>
+  <!-- EN: Order a mechanitor to repair them, or select the mech and turn on auto-repair. Repairing a mechanoid requires energy. If a mechanoid's energy is so low it can't move, someone must carry it to a recharger. -->
+  <AlertMechNeedsRepairDesc>Pesan mekanitor untuk memperbaikinya, atau pilih MECA dan mengaktifkan penentuan diri.Memperbaiki MECA membutuhkan energi.Jika energi kiblat sangat rendah sehingga tidak dapat bergerak, seseorang harus membawanya ke pengisi daya.</AlertMechNeedsRepairDesc>
+  
+  <!-- EN: {0} stopped -->
+  <AlertToxifierGeneratorStopped>{0} berhenti</AlertToxifierGeneratorStopped>
+  <!-- EN: Your {0} is not producing power because it has no nearby fertile terrain to convert.\n\nClean polluted terrain with pollution pumps, or by assigning a pollution removal area. -->
+  <AlertToxifierGeneratorStoppedDesc>{0} Anda tidak menghasilkan energi karena tidak memiliki tanah subur yang erat untuk dikonversi.</AlertToxifierGeneratorStoppedDesc>
+
+  <!-- EN: Psychic bond distance -->
+  <AlertPsychicBondedPawnsSeparated>Ikatan psikis yang jauh</AlertPsychicBondedPawnsSeparated>
+  <!-- EN: Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected -->
+  <AlertPsychicBondedPawnsSeparatedDesc>Beberapa pemukim dengan ikatan psikis telah dipisahkan dan merasakan efek negatif dari jarak jauh.Untuk menghindari hal ini, orang dengan tautan psikis harus berada di kotak peta, karavan atau kendaraan yang sama.Selain itu, mereka tidak boleh berada di cryptosueño atau animasi suspensi lainnya. \ N \ nlas Mengikuti orang terpengaruh</AlertPsychicBondedPawnsSeparatedDesc>
+
+  <!-- EN: Gene bank needs power -->
+  <AlertGenebankUnpowered>Bank genetik tanpa energi</AlertGenebankUnpowered>
+  <!-- EN: A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it. -->
+  <AlertGenebankUnpoweredDesc>Bank genetik tidak memiliki energi, sehingga gen interior akan memburuk secara perlahan.Ini membangun kembali energi ke bank untuk menghindarinya.</AlertGenebankUnpoweredDesc>
+
+  <!-- EN: {0} incoming -->
+  <AlertBossgroupIncoming>{0} akan datang</AlertBossgroupIncoming>
+  <!-- EN: Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days. -->
+  <AlertBossgroupIncomingDesc>Diberitahu oleh Mechanitor Anda, pendekatan Mecca {0} yang bermusuhan dengan pengawalan tempurnya.Bersiaplah, ini tidak akan menjadi pertarungan yang mudah.Mecas yang bermusuhan akan tiba dalam beberapa jam atau hari.</AlertBossgroupIncomingDesc>
+
+  <!-- EN: Deathrest complete -->
+  <AlertDeathrestComplete>Mortisueño selesai</AlertDeathrestComplete>
+  <!-- EN: The following people have completed their deathrest and can wake up safely -->
+  <AlertDeathrestCompleteDesc>Para pemukim berikut telah menyelesaikan mortisueño mereka dan dapat dibangunkan dengan aman</AlertDeathrestCompleteDesc>
+
+</LanguageData>

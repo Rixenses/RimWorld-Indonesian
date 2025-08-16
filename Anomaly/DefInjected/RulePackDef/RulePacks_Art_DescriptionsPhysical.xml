@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_art_description-> ini [cubework] [cubedepicts] [ACUBE].[cube_style_group]</li>
+    <li>cube_style_group (p = 2)-> [cubedescsentence].[cubeextrasentence].</li>
+    <li>cube_style_group (p = 3)-> [cubedescsentence].</li>
+    <li>cube_style_group-></li>
+    <li>cubedescsentence (p = 3)-> [cubelocation], [Apawn] [MEMULAITHECUBE]</li>
+    <li>cubedescsentence (p = 3)-> [cubelocation], [Pawnsplural] adalah [WorshippingTheCube]</li>
+    <li>cubedescsentence-> The [cubework] mengundang pemirsa untuk memulai [Worshippingthecube]</li>
+    <li>cubedescsentence-> angka [Worshippingthecube] dari pusat [cubework] ini</li>
+    <li>cubework-> Bekerja</li>
+    <li>cubework-> patung</li>
+    <li>cubework-> karya seni</li>
+    <li>cubework-> sepotong</li>
+    <li>Acube-> Sebuah kubus abstrak</li>
+    <li>Acube-> Cube yang sempurna</li>
+    <li>Acube-> Kubus miring</li>
+    <li>Acube-> Cube bergaya</li>
+    <li>Acube-> Kubus Multiplying</li>
+    <li>Acube-> kubus mentah</li>
+    <li>Acube-> kubus yang terdistorsi</li>
+    <li>Acube-> kubus yang menakutkan</li>
+    <li>Acube-> A Dark Cube</li>
+    <li>Cubelocation-> Dekat Pusat</li>
+    <li>Cubelocation-> di setiap wajah kubus</li>
+    <li>Cubelocation-> di pusat wajah</li>
+    <li>Cubelocation-> Di atas angka utama</li>
+    <li>Cubelocation-> di bawah angka utama</li>
+    <li>Cubelocation-> Di belakang sosok utama</li>
+    <li>Cubelocation-> Di dekat tepi</li>
+    <li>Cubelocation-> di sepanjang tepi</li>
+    <li>Cubelocation-> di sepanjang tepi</li>
+    <li>CubeDepicts-> menggambarkan</li>
+    <li>cubedepicts-> menunjukkan</li>
+    <li>cubedepicts-> display</li>
+    <li>CubeDepicts-> menggambarkan</li>
+    <li>Apawn-> Potret diri seniman</li>
+    <li>Apawn-> Thumbo</li>
+    <li>Apawn-> sosok manusia yang kurus dengan terlalu banyak mata</li>
+    <li>Apawn-> salah satu penjajah Anda</li>
+    <li>Apawn-> a neanderthal</li>
+    <li>Apawn-> pemimpin glitterworld</li>
+    <li>Apawn-> sosok yang tidak jelas</li>
+    <li>Apawn-> Dukun suku</li>
+    <li>Apawn-> sanguophage berkerudung</li>
+    <li>Apawn-> seorang putri abad pertengahan</li>
+    <li>Apawn-> Pemimpin [komunitas] yang jauh</li>
+    <li>Apawn-> a [senjata]-wanita-yang melingkupi</li>
+    <li>Apawn-> Prosesi Robed</li>
+    <li>Pawnsplural-> Kolonis Anda</li>
+    <li>Pawnsplural-> sekelompok perampok</li>
+    <li>Pawnsplural-> Kongregasi suku</li>
+    <li>Pawnsplural-> segerombolan mekanoid</li>
+    <li>Pawnsplural-> geng bajak laut</li>
+    <li>Pawnsplural-> petani pedesaan</li>
+    <li>Payudara jamak [kelompok hewan] dari [hewan</li>
+    <li>Pawnsplural-> Grup dari [komunitas] terdekat</li>
+    <li>Pawnsplural-> [quantity_adjphrase] orang</li>
+    <li>Worshippingthecube-> Menyembah kubus</li>
+    <li>Worshippingthecube-> membungkuk ke Cube</li>
+    <li>Worshippingthecube-> berlutut sebelum kubus</li>
+    <li>Worshippingthecube-> Piringan Kubus</li>
+    <li>Worshippingthecube-> Memuji kubus</li>
+    <li>Worshippingthecube-> gemetar kagum kubus</li>
+    <li>WorshippingTheCube-> memohon dengan kubus</li>
+    <li>WorshippingTheCube-> menangis sebelum kubus</li>
+    <li>Worshippingthecube-> bermain dengan kubus</li>
+    <li>WorshippingTheCube-> berteman dengan kubus</li>
+    <li>Worshippingthecube-> Mengamati kubus</li>
+    <li>WorshippingTheCube-> Terobsesi dengan kubus</li>
+    <li>Worshippingthecube-> Mengorbankan ke kubus</li>
+    <li>WorshippingTheCube-> Membuat Penawaran ke Kubus</li>
+    <li>WorshippingTheCube-> Railing melawan kubus</li>
+    <li>Worshippingthecube-> Menghormati kubus</li>
+    <li>Worshippingthecube-> Mengubur kubus</li>
+    <li>Worshippingthecube-> Menempatkan kubus di atas alas</li>
+    <li>Worshippingthecube-> Menyalin kubus</li>
+    <li>WorshippingTheCube-> Membawa kubus ke dunia lain</li>
+    <li>Menyembah oleh Cube</li>
+    <li>Menyembah dengan Busur ke Kubus</li>
+    <li>Menyembah dengan THELE-> LNEELS SEBELUM CUBE</li>
+    <li>Menyembah oleh Cube</li>
+    <li>Menyembah oleh Cube</li>
+    <li>Menyembah oleh THECUBE-> gemetar dengan kagum kubus</li>
+    <li>Menyembah dengan Mohon dengan kubus</li>
+    <li>Menyembah oleh Cries sebelum kubus</li>
+    <li>Menyembah oleh Cube-> bermain dengan kubus</li>
+    <li>Menyembah dengan jelas-> berteman dengan kubus</li>
+    <li>Menyembahlah-> mengamati kubus</li>
+    <li>Menyembah dengan jelas> terobsesi dengan kubus</li>
+    <li>Menyembahlah-> Pengorbanan ke kubus</li>
+    <li>SUPPSHECTHECUBE-> Membuat persembahan ke kubus</li>
+    <li>Menyembah oleh Rails Against The Cube</li>
+    <li>Menyembah oleh Cube</li>
+    <li>Menyembahlah-> mengubur kubus</li>
+    <li>Menyembah oleh Cube Tempat di atas alas</li>
+    <li>Menyembah oleh Cube</li>
+    <li>SUPPLETTHECUBE-> Membawa kubus ke dunia lain</li>
+    <li>cubeextrasentence-> The Cube tampaknya [cubeemotion] dengan ini</li>
+    <li>cubeextrasentence-> [Pawnsplural] mendekati untuk melakukan hal yang sama</li>
+    <li>cubeextrasentence-> [Apawn] pendekatan untuk melakukan hal yang sama</li>
+    <li>Cubeextrasentence-> [Apawn] Pange dengan sedih di tempat kejadian</li>
+    <li>cubeextrasentence-> [Pawnsplural] sedang mencoba mencuri kubus</li>
+    <li>cubeextrasentence-> Cube tampaknya berkilau lembut</li>
+    <li>Cubeemotion-> tidak terpengaruh</li>
+    <li>Cubeemotion-> senang</li>
+    <li>cubeemotion-> kesal</li>
+    <li>Cubeemotion-> tidak tergerak</li>
+    <li>Cubeemotion-> Marah</li>
+    <li>cubeemotion-> terpesona</li>
+    <li>Cubeemotion-> diperburuk</li>-><ArtDescription_CubeSculpture.rulePack.rulesStrings>
+    <li>r_art_description-> este [cubework] [Cube menggambarkan] [sebuah kubus].[cube_style_group]</li>
+    <li>r_art_description-> ESTA [CubeWorld] [Cube menggambarkan] [sebuah kubus].[cube_style_group]</li>
+    <li>cube_style_group (p = 2)-> [cubedescsentence].[cubeextrasentence].</li>
+    <li>cube_style_group (p = 3)-> [cubedescsentence].</li>
+    <li>cube_style_group-></li>
+    <li>cubedescsentence (p = 3)-> [cubelocation], [Apawn] [MEMULAITHECUBE]</li>
+    <li>Cubedescsentence (p = 3)-> [Cubelocation], [Pawnsplural] adalah [WorshippingTheCube]</li>
+    <li>Cubedescsentnce-> [cubeworkm] mengundang pemirsa untuk memulai [worshippingthecubev]</li>
+    <li>Cubedescsentnce-> [cubeworkf] mengundang pemirsa untuk memulai [worshippingthecubev]</li>
+    <li>Cubedescsentnce-> angka [worshippingthecube] dari pusat [cubeworkm] ini</li>
+    <li>Cubedescsentnce-> angka [worshippingthecube] dari pusat [cubeworkf] ini</li>
+    <li>Cubeworkm-> bekerja</li>
+    <li>CubeWarkf-> Patung</li>
+    <li>Cubewarkf-> karya seni</li>
+    <li>Cubeworkf-> sepotong</li>
+    <li>Acube-> kubus abstrak</li>
+    <li>Acube-> kubus yang sempurna</li>
+    <li>Acube-> kubus cacat</li>
+    <li>Acube-> Cube Bergaya</li>
+    <li>Acube-> Kubus Pengganda</li>
+    <li>Acube-> kubus yang belum sempurna</li>
+    <li>Acube-> kubus yang terdistorsi</li>
+    <li>Acube-> kubus yang menakutkan</li>
+    <li>acube-> sebuah kubus gelap</li>
+    <li>Cubelocation-> Centro Centro</li>
+    <li>Cubelocation-> di setiap wajah kubus</li>
+    <li>Cubelocation-> di pusat wajah</li>
+    <li>Cubelocation-> di atas angka utama</li>
+    <li>Cubelocation-> Di bawah angka utama</li>
+    <li>Cubelocation-> Di belakang sosok utama</li>
+    <li>Cubelocation-> Di dekat tepi</li>
+    <li>Cubelocation-> di sepanjang tepi</li>
+    <li>Cubelocation-> di sepanjang tepi</li>
+    <li>Cubedepicts-> mewakili</li>
+    <li>CubeDepicts-> Sampel</li>
+    <li>CubeDepicts-> Visualisasikan</li>
+    <li>Cubedepicts-></li>
+    <li>Apawn-> potret diri seorang seniman</li>
+    <li>Apawn-> trumbo</li>
+    <li>Apawn-> sosok manusia dengan terlalu banyak mata</li>
+    <li>Apawn-> salah satu pemukim Anda</li>
+    <li>Apawn-> un neandertal</li>
+    <li>Apawn-> pemimpin mundobrillant</li>
+    <li>Apawn-> sosok yang tidak jelas</li>
+    <li>Apawn-> dukun suku</li>
+    <li>Apawn-> Darah berkerudung</li>
+    <li>Apawn-> seorang putri abad pertengahan</li>
+    <li>Apawn-> Pemimpin [komunitas] yang jauh</li>
+    <li>Apawn-> Seorang wanita yang menggunakan [WeaponIndef]</li>
+    <li>Apawn-> prosesi jubah</li>
+    <li>Pawnsplural-> Pemukim Anda</li>
+    <li>Pawnsplural-> sekelompok incursor</li>
+    <li>Pawnsplural-> Kongregasi suku</li>
+    <li>Pawnsplural-> Mechanid Swarm</li>
+    <li>Pawnsplural-> Band of Pirates</li>
+    <li>PionSplural-> Petani Pedesaan</li>
+    <li>Pawnsplural-> [AnimalGroupindef] de [animalanypl]</li>
+    <li>Pawnsplural-> sekelompok [community_fem] di dekatnya</li>
+    <li>Pawnsplural-> sekelompok [komunitas] di dekatnya</li>
+    <li>Pawnsplural-> [kuantitas_adjphrase] Personas</li>
+    <li>Worshippingthecube-> Loving Al Cube</li>
+    <li>WorlshippingTheCub-> membungkuk ke kubus</li>
+    <li>Worlshippingthecub-> berlutut sebelum kubus</li>
+    <li>WorlshippingTheCub-> Rating the Cube</li>
+    <li>Worlshippingthecub-> memuji kubus</li>
+    <li>WorlshippingTheCub-> gemetar dengan takjub di kubus</li>
+    <li>WorlshippingTheCub-> Memperbaiki kubus</li>
+    <li>Worlshippingthecub-> menangis ke kubus</li>
+    <li>WorlshippingTheCub-> bermain dengan kubus</li>
+    <li>WorlshippingTheCub-> Making Friends of the Cube</li>
+    <li>WorlshippingTheCub-> mengamati kubus</li>
+    <li>WorlshippingTheCub-> Menjadi dengan kubus</li>
+    <li>Menyembah dengan RECURE-> Mengorbankan ke kubus</li>
+    <li>Worlshippingthecub-> membuat penawaran ke ember</li>
+    <li>WorlshippingTheCub-> bersandar pada kubus</li>
+    <li>WorlshippingTheCub-> Menghormati kubus</li>
+    <li>WorlshippingTheCub-> Membeli kubus</li>
+    <li>WorlshippingTheCub-> menempatkan kubus di atas alas</li>
+    <li>Worlshippingthecub-> menyalin kubus</li>
+    <li>WorlshippingTheCub-> Membawa ember ke dunia lain</li>
+    <li>WorlshipThecube-> Sembah Kubus</li>
+    <li>WorlshipTHecub-> Bersandar sebelum kubus</li>
+    <li>Memuja-receh-> dia berlutut sebelum kubus</li>
+    <li>Menyembah oleh Cube</li>
+    <li>WorlshipTHecub-> Alaba The Cube</li>
+    <li>Worlships The Cube-> Gemahkan dengan takjub di Cube</li>
+    <li>SUPPERTHECUBE-> Suplica al Cubo</li>
+    <li>Menyembah oleh Cries sebelum kubus</li>
+    <li>Worlships the Cube-> Play With The Cube</li>
+    <li>Worlships the Cube-> menjadi teman kubus</li>
+    <li>WorlshipThecube-> Lihatlah kubus</li>
+    <li>Worlships The Cube-> Terjanggalkan dengan kubus</li>
+    <li>SUPPERTHECUBE-> SE SURCORIFICA AL CUBO</li>
+    <li>WorlshipTHecube-> Buat penawaran ke ember</li>
+    <li>SUPPLETTHECUBE-> bergantung pada kubus</li>
+    <li>WorlshipThecube-> Serang kubus</li>
+    <li>Menyembahlah-> sepulta el cubo</li>
+    <li>Worlships The Cube-> Tempatkan kubus di atas alas</li>
+    <li>WorlshipTHecube-> Salin kubus</li>
+    <li>WorlshipThecube-> Kubus dibawa ke dunia lain</li>
+    <li>WorlshipTHecubev-> Menyembah kubus</li>
+    <li>WorlshipTHecubev-> Bow Before the Cube</li>
+    <li>WorlshipTHecubev-> Ulen sebelum kubus</li>
+    <li>WorlshipTHecubev-> Rod the Cube</li>
+    <li>Memuja-lecet> puji kubus</li>
+    <li>WorlshipTHecubev-> gemetar dengan takjub di kubus</li>
+    <li>SUPPERTHECUBEV-> Suplicar al Cubo</li>
+    <li>WorlshipTHecubev-> Cry Before the Cube</li>
+    <li>WorlshipTHecubev-> Mainkan dengan kubus</li>
+    <li>Worlshipstubev-> berteman dengan kubus</li>
+    <li>WorlshipTHecubev-> Amati kubus</li>
+    <li>WorlshipTHecubev-> menjadi terobsesi dengan kubus</li>
+    <li>WorlshipTHecubev-> Korban terhadap Cubo</li>
+    <li>WorlshipTHeCubev-> Buat persembahan ke ember</li>
+    <li>WorlshipTHecubev-> Dukungan di kubus</li>
+    <li>WorlshipTHecubev-> Serang kubus</li>
+    <li>WorlshipTHecubev-> Bug The Cube</li>
+    <li>WorlshipTHecubev-> Tempatkan kubus di atas alas</li>
+    <li>WorlshipTHecubev-> Salin The Cube</li>
+    <li>WorlshipTHecubev-> Bawa kubus ke dunia lain</li>
+    <li>Cubeexrastentnce-> kubus terlihat [cubeemotion] untuk ini</li>
+    <li>Cubeextrasence-> [Pawnsplural] datang untuk melakukan hal yang sama</li>
+    <li>Cubeexrastentnce-> [Apawn] akan melakukan hal yang sama</li>
+    <li>Cubeextrasence-> [Apawn] Lihatlah adegan itu dengan sedih</li>
+    <li>Cubeextrasence-> [Pawnsplural] sedang mencoba mencuri kubus</li>
+    <li>Cubeextrancence-> Cube tampaknya bersinar dengan lembut</li>
+    <li>Cubeemotion-> tidak ekspresif</li>
+    <li>Cubeemotion-> senang</li>
+    <li>Cubeemotion-> menjengkelkan</li>
+    <li>Cubeemotion-> Impuranf</li>
+    <li>Cubeemotion-> Furioso</li>
+    <li>Cubeemotion-> senang</li>
+    <li>Cubeemotion-> diperburuk</li>
+  </ArtDescription_CubeSculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_art_description-> ini [voidStrange] patung [voidVerbPhrase].[voiddesc]</li>
+    <li>voidstrange-> aneh</li>
+    <li>voidstrange-> mengganggu</li>
+    <li>voidstrange-> meresahkan</li>
+    <li>voidstrange-> menakutkan</li>
+    <li>voidstrange-> Twisted</li>
+    <li>voidstrange-> misshapen</li>
+    <li>voidstrange-> tidak manusiawi</li>
+    <li>voidstrange-> aneh</li>
+    <li>voidVerbphrase-> ikal dalam bentuk yang mengganggu</li>
+    <li>voidVerbphrase-> berputar seolah-olah mencoba menyakiti penonton</li>
+    <li>voidVerbphrase-> tampaknya bergeser di bawah tatapan pemirsa</li>
+    <li>voidVerbphrase-> memancarkan rasa marah</li>
+    <li>voidVerbphrase-> memancarkan rasa depresi dan kesedihan</li>
+    <li>voidVerbphrase-> memprovokasi perasaan takut dan keraguan diri</li>
+    <li>voidVerbphrase-> memperluas secara acak dalam arah yang berbeda dalam pas dan dimulai</li>
+    <li>voidVerbphrase-> tampaknya bergetar sampai Anda melihatnya lurus</li>
+    <li>voidVerbphrase-> hampir terlihat seperti bernafas</li>
+    <li>voidVerbphrase-> tidak menyerupai makhluk hidup</li>
+    <li>voidVerbphrase-> tampaknya menjadi metafora untuk penderitaan</li>
+    <li>voiddesc-> lusinan pelengkap seperti jari menggenggam sosok sentral.</li>
+    <li>voiddesc-> Globes material menghancurkan dan memeras satu sama lain menjadi bentuk yang diregangkan.</li>
+    <li>voiddesc-> segmen Bladelike ditekuk bersama untuk menyerupai wajah berteriak teror.</li>
+    <li>voiddesc-> tonjolan seperti lengan saling memeras, seolah-olah mencoba menghancurkan diri mereka sendiri.</li>
+    <li>voiddesc-> jarum yang menonjol dari permukaan terlihat siap untuk menembak dan menusuk siapa pun yang bergerak di dekatnya.</li>
+    <li>voiddesc-> Permukaan whorls dan roils, bergeser dari tekstur seperti organik ke tepi dan bilah seperti mesin.</li>
+    <li>voiddesc-> Sepertinya ia telah mencukur dirinya menjadi potongan-potongan dengan kekuatan besar, namun entah bagaimana masih menggantung bersama.</li>
+    <li>voiddesc-> pelengkap seperti tangan menunggu seolah siap untuk menjangkau dan menyerang.</li>
+    <li>voiddesc-> sepasang sosok masing-masing tampaknya menembus dan menyiksa yang lain dengan jari-jari bergerigi yang melengkung.</li>
+    <li>voiddesc-> bentuk yang kompleks muncul dari mulut wajah yang menjerit.</li>
+    <li>voiddesc-> Bentuk abstrak yang menyerupai binatang tampaknya merobek salah satu anggota tubuhnya sendiri.</li>
+    <li>voiddesc-> Ratusan objek seperti sosok abstrak kecil mengerumuni dunia besar yang terdistorsi.</li>-><ArtDescription_VoidSculpture.rulePack.rulesStrings>
+    <li>R_art_description-> ESTA [voidstrange] Escultura [voidVerbphrase].[voiddesc]</li>
+    <li>Voidstrange-> aneh</li>
+    <li>voidstrangia-> mengganggu</li>
+    <li>voidstrange-> mengganggu</li>
+    <li>Voidstrange-> menakutkan</li>
+    <li>Voidstrange-> Twisted</li>
+    <li>voidstrange-> DEFORME</li>
+    <li>voidstrange-> inhumana</li>
+    <li>voidstrange-> rara</li>
+    <li>VoidVerbphrase-> Curls dengan cara yang mengganggu</li>
+    <li>VoidVerbphrase-> dipelintir seolah-olah dia ingin merusak penonton</li>
+    <li>VoidVerbphrase-> tampaknya bergerak di bawah tatapan pemirsa</li>
+    <li>VoidVerbphrase-> memancarkan perasaan marah</li>
+    <li>VoidVerbphrase-> emana perasaan depresi dan kesedihan</li>
+    <li>voidVerbphrase-> menyebabkan perasaan takut dan ragu</li>
+    <li>Voidverbphrase-> memperluas secara acak dalam arah trompikon yang berbeda</li>
+    <li>voidVerbphrase-> tampaknya gemetar sampai Anda menatapnya</li>
+    <li>VoidVerbphrase-> sepertinya dia bernafas</li>
+    <li>voidVerbphrase-> tidak menyerupai makhluk hidup</li>
+    <li>VoidVerbphrase-> tampaknya menjadi metafora untuk penderitaan</li>
+    <li>Voiddesc-> lusinan jari mirip dengan jari-jari dengan menyakitkan mengambil sosok sentral.</li>
+    <li>Voiddesc-> Balon material dihancurkan dan diperas satu sama lain dalam bentuk memanjang.</li>
+    <li>voiddesc-> Segmen berbentuk blade dilipat menyerupai wajah yang berteriak teror.</li>
+    <li>Voiddesc-> Benjolan dalam bentuk lengan diperas satu sama lain, seolah-olah mencoba menghancurkan diri mereka sendiri.</li>
+    <li>voiddesc-> jarum yang menonjol dari permukaan tampaknya bersedia dipecat dan menusuk siapa pun yang bergerak di dekatnya.</li>
+    <li>voiddesc-> Surface roller, bergerak dari tekstur organik ke tepi dan pisau mesin.</li>
+    <li>voiddesc-> Sepertinya itu telah dipotong-potong dengan kekuatan besar, tetapi entah bagaimana tetap bersatu.</li>
+    <li>Voiddesc-> Lampiran berbentuk tangan seolah-olah dia siap mencapai dan menyerang.</li>
+    <li>voiddesc-> Beberapa tokoh tampaknya menembus dan menyiksa yang lain dengan jari-jari yang melingkar dan dentated.</li>
+    <li>voiddesc-> bentuk yang kompleks muncul dari mulut wajah yang berteriak.</li>
+    <li>Voiddesc-> bentuk abstrak yang mirip dengan hewan tampaknya memulai salah satu anggota tubuhnya.</li>
+    <li>voiddesc-> Ratusan objek abstrak kecil dalam bentuk sosok yang berkerumun di bola bola besar yang terdistorsi.</li>
+  </ArtDescription_VoidSculpture.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bio-starvation -->
+  <BioStarvation.label>Bioinanity</BioStarvation.label>
+  <!-- EN: This person was in a growth vat which wasn't functioning properly due to lack of power or nutrition feedstock. This has left their body in a state of bio-starvation. -->
+  <BioStarvation.description>Orang ini berada di tangki pertumbuhan yang tidak bekerja dengan baik karena kurangnya energi atau bahan baku nutrisi.Ini telah meninggalkan tubuhnya dalam keadaan bioinisi.</BioStarvation.description>
+  
+  <!-- EN: deathresting -->
+  <Deathrest.label>tanggam</Deathrest.label>
+  <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
+  <Deathrest.description>Tidur nyenyak mirip dengan koma yang berlangsung beberapa hari dan mengembalikan sumber daya tubuh.Gen tertentu menciptakan kebutuhan akan mematikan.Mortisueño juga dapat ditingkatkan dengan beberapa bangunan pendukung yang memberikan bonus khusus kepada mortisant.</Deathrest.description>
+  
+  <!-- EN: deathrest exhaustion -->
+  <DeathrestExhaustion.label>kelelahan mortise</DeathrestExhaustion.label>
+  <!-- EN: This person desperately needs to deathrest to rebalance their metabolism. -->
+  <DeathrestExhaustion.description>Orang ini sangat membutuhkan mematikan untuk menyeimbangkan kembali metabolismenya.</DeathrestExhaustion.description>
+  
+  <!-- EN: chemical dependency -->
+  <GeneticDrugNeed.label>Ketergantungan kimia</GeneticDrugNeed.label>
+  <!-- EN: This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13. -->
+  <GeneticDrugNeed.description>Orang ini memiliki ketergantungan biokimia yang diinduksi secara genetik pada obat tertentu.Tanpa dosis obat yang teratur, tubuhnya tidak dapat dipertahankan dalam keadaan sehat dan akan mengalami degradasi kesehatan dan suasana hati sampai ia meninggal.</GeneticDrugNeed.description>
+  <!-- EN: deficiency -->
+  <GeneticDrugNeed.stages.deficiency.label>ketidakcukupan</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>Koma untuk tidak cukup</GeneticDrugNeed.stages.deficiency.overrideLabel>
+  <!-- EN: deficiency coma -->
+  <GeneticDrugNeed.stages.3.overrideLabel>Koma untuk tidak cukup</GeneticDrugNeed.stages.3.overrideLabel>
+  
+  <!-- EN: hemogen craving -->
+  <HemogenCraving.label>retak hemogen</HemogenCraving.label>
+  <!-- EN: Due to a lack of hemogen, this person's body is breaking down hemogen reserves in their bone marrow. This causes disorientation and a painful craving for human blood. -->
+  <HemogenCraving.description>Karena kurangnya hemogen, tubuh orang ini membusuk cadangan hemogen di sumsum tulangnya.Ini menyebabkan disorientasi dan keinginan yang menyakitkan untuk darah manusia.</HemogenCraving.description>
+  <!-- EN: minor -->
+  <HemogenCraving.stages.minor.label>hidup</HemogenCraving.stages.minor.label>
+  <!-- EN: moderate -->
+  <HemogenCraving.stages.moderate.label>sedang</HemogenCraving.stages.moderate.label>
+  <!-- EN: major -->
+  <HemogenCraving.stages.major.label>kuburan</HemogenCraving.stages.major.label>
+  
+  <!-- EN: interrupted deathrest -->
+  <InterruptedDeathrest.label>Mortisueño terputus</InterruptedDeathrest.label>
+  <!-- EN: Deathrest was interrupted while this person's metabolism was still out of balance. They will be sick for days while regaining equilibrium. -->
+  <InterruptedDeathrest.description>Deadly terganggu sementara metabolisme orang ini masih tidak seimbang.Orang ini akan sakit selama berhari -hari saat memulihkan keseimbangan.</InterruptedDeathrest.description>
+  
+  <!-- EN: psychic bond -->
+  <PsychicBond.label>Tautan psikis</PsychicBond.label>
+  <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
+  <PsychicBond.description>Orang ini memiliki hubungan psikis dengan orang lain berdasarkan gen, tautan psikis.Tautan itu sendiri memberikan beberapa kesadaran psikis yang terbatas, yang memungkinkannya untuk terhubung bahkan dengan orang -orang yang memiliki tuli psikis.</PsychicBond.description>
+  <!-- EN: This person's bonded individual is nearby. -->
+  <PsychicBond.stages.0.extraTooltip>Individu yang terhubung dengan orang ini sudah dekat.</PsychicBond.stages.0.extraTooltip>
+  <!-- EN: psychic bond -->
+  <PsychicBond.stages.0.overrideLabel>Tautan psikis</PsychicBond.stages.0.overrideLabel>
+  <!-- EN: This person feels separated from their bonded individual. -->
+  <PsychicBond.stages.1.extraTooltip>Orang yang terkait dengan individu ini sangat jauh.</PsychicBond.stages.1.extraTooltip>
+  <!-- EN: psychic bond distance -->
+  <PsychicBond.stages.1.overrideLabel>Ikatan psikis yang jauh</PsychicBond.stages.1.overrideLabel>
+  
+  <!-- EN: psychic bond torn -->
+  <PsychicBondTorn.label>Tautan psikis yang rusak</PsychicBondTorn.label>
+  <!-- EN: This person had a psychic bond with another, but the bond was torn when their partner died. -->
+  <PsychicBondTorn.description>Orang ini memiliki ikatan psikis dengan orang lain, tetapi tautan itu pecah ketika rekannya meninggal.</PsychicBondTorn.description>
+  
+  <!-- EN: regeneration coma -->
+  <RegenerationComa.label>Koma regeneratif</RegenerationComa.label>
+  <!-- EN: Had this person not been genetically deathless, they would have already died from their health conditions. Instead, they have fallen into a regeneration coma, during which they will regenerate their body. -->
+  <RegenerationComa.description>Jika orang ini tidak abadi secara genetik, ia akan meninggal karena kesehatannya.Sebaliknya, ia telah jatuh ke dalam koma regeneratif, di mana ia akan meregenerasi tubuhnya.</RegenerationComa.description>
+  
+  <!-- EN: Scanning sickness -->
+  <ScanningSickness.label>Penyakit Pindai</ScanningSickness.label>
+  <!-- EN: This person was scanned by a softscanner to produce a mechanoid subcore. The high-energy scanning device has caused disturbances in their brain chemistry which will take time to resolve themselves. There won't be any long-term damage. -->
+  <ScanningSickness.description>Orang ini dipindai oleh pemindai subnucleus lembut untuk menghasilkan subnuncle mekanis.Perangkat pemindaian energi yang tinggi telah menyebabkan perubahan dalam kimia otaknya yang akan membutuhkan waktu untuk dipecahkan.Tidak akan ada kerusakan jangka panjang.</ScanningSickness.description>
+  
+  <!-- EN: vat growing -->
+  <VatGrowing.label>Tumbuh di dalam tangki</VatGrowing.label>
+  <!-- EN: The growth vat is stimulating this person's body to increase the rate of cell division and aging. -->
+  <VatGrowing.description>Inkubator merangsang tubuh orang ini untuk meningkatkan laju pembelahan sel dan penuaan.</VatGrowing.description>
+  
+  <!-- EN: vat learning -->
+  <VatLearning.label>Belajar di Tank</VatLearning.label>
+  <!-- EN: The growth vat is electrically stimulating this person's brain to induce skill development. This process is not very effective, and will only partially replace the skills missed from not growing in the outside world. -->
+  <VatLearning.description>Inkubator secara elektrik merangsang otak orang ini untuk menginduksi perkembangan keterampilan.Proses ini tidak terlalu efektif dan hanya akan sebagian menggantikan keterampilan yang hilang dengan tidak tumbuh di dunia luar.</VatLearning.description>
+  
+  <!-- EN: xenogermination coma -->
+  <XenogerminationComa.label>Koma Xenogerminación</XenogerminationComa.label>
+  <!-- EN: A xenogerm was implanted in this person. The xenogerm needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the xenogerm keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a xenogerm with better medical facilities and more skilled doctors. -->
+  <XenogerminationComa.description>Xenogermen diimplementasikan pada orang ini.Xenogermen membutuhkan waktu untuk berintegrasi ke dalam host, memodifikasi gen dan kimia beberapa jaringan di seluruh tubuh.Selama waktu ini, orang tersebut tidak dapat bangun dengan aman, sehingga Xenogermen menyimpannya dalam keadaan koma.</XenogerminationComa.description>
+  
+  <!-- EN: gene loss shock -->
+  <XenogermLossShock.label>Kejutan untuk kehilangan gen</XenogermLossShock.label>
+  <!-- EN: This person's genes were recently removed or expelled. This has destabilized the person's metabolism and hormones, leaving them temporarily weak and drowsy, with a weakened immune system. -->
+  <XenogermLossShock.description>Gen orang ini baru -baru ini dihilangkan atau dikeluarkan.Ini telah mengganggu kestabilan metabolisme dan hormon orang tersebut, membuatnya sementara lemah dan mengantuk, dengan sistem kekebalan tubuh yang melemah.</XenogermLossShock.description>
+  
+  <!-- EN: genes regrowing -->
+  <XenogermReplicating.label>Gen Regrying</XenogermReplicating.label>
+  <!-- EN: This person's genetic material is regrowing. This process doesn't have any direct health effects. However, extracting their genes while they are regrowing will kill them. -->
+  <XenogermReplicating.description>Bahan genetik orang ini tumbuh lagi.Proses ini tidak memiliki efek langsung pada kesehatan.Namun, mengekstraksi gen mereka saat mereka tumbuh lagi.</XenogermReplicating.description>
+  <!-- EN: {PAWN_nameDef}'s genes have finished regrowing. -->
+  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>Gen {Pawn_Namedef} telah selesai tumbuh.</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+  
+</LanguageData>

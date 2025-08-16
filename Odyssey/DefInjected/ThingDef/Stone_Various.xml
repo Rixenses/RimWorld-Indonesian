@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacstone blocks -->
+  <BlocksVacstone.label>Blok Lowongan</BlocksVacstone.label>
+  <!-- EN: Blocks of compacted vacstone rock harvested from asteroids. -->
+  <BlocksVacstone.description>Blok batu vacante yang dipadatkan diekstraksi dari asteroid.</BlocksVacstone.description>
+  <!-- EN: vacstone -->
+  <BlocksVacstone.stuffProps.stuffAdjective>Lowongan</BlocksVacstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: vacstone chunk -->
+  <ChunkVacstone.label>Rekanan lowongan</ChunkVacstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkVacstone.description>Blok batu.Itu dapat dipotong menjadi balok batu yang dapat digunakan.</ChunkVacstone.description>
+  
+  <!-- EN: smoothed solid ice -->
+  <SmoothedSolidIce.label>es padat yang dipoles</SmoothedSolidIce.label>
+  <!-- EN: Solid glacial ice. It can be mined through with relative ease. The polished surface glistens a soft light blue. -->
+  <SmoothedSolidIce.description>Es gletser padat.Ini dapat diekstraksi dengan relatif mudah.Permukaan yang dipoles bersinar dengan biru muda lembut.</SmoothedSolidIce.description>
+  
+  <!-- EN: smoothed vacstone -->
+  <SmoothedVacstone.label>Lowongan Pulida</SmoothedVacstone.label>
+  <!-- EN: Smoothed, compacted rock and dust harvested from asteroids. -->
+  <SmoothedVacstone.description>Batuan dan bubuk yang dipadatkan dan dipoles diekstraksi dari asteroid.</SmoothedVacstone.description>
+  
+  <!-- EN: solid ice -->
+  <SolidIce.label>es padat</SolidIce.label>
+  <!-- EN: Solid glacial ice. It can be mined through with relative ease. -->
+  <SolidIce.description>Es gletser padat.Ini dapat diekstraksi dengan relatif mudah.</SolidIce.description>
+  
+  <!-- EN: vacstone -->
+  <Vacstone.label>Lowongan</Vacstone.label>
+  <!-- EN: Compacted rock and dust harvested from asteroids. -->
+  <Vacstone.description>Batuan dan debu yang dipadatkan diekstraksi dari asteroid.</Vacstone.description>
+  
+</LanguageData>

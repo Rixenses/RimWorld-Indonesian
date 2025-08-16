@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: closed the void node -->
+  <ClosedTheVoid.label>node vakum tertutup</ClosedTheVoid.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menutup node void.</li>
+    <li>Image-> [Pawn_namefull] Menyegel koneksi ke kekosongan, memastikan keamanan koloni [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berdiri menantang sebelum node void, bertekad untuk melindungi koloni [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Di tengah-tengah energi berderak</li>
+    <li>SITUCTANCE_PHRASE-> Saat node void memancarkan cahaya yang menghantui</li>
+    <li>SITUKSE_PHRASE-> Sementara kekosongan berbisik di latar belakang</li>
+    <li>desc_sentence-> logam abu-abu menekan dari semua sisi.</li>
+    <li>desc_sentence-> Kolonis lain ditampilkan [Side_Position], dengan cemas menunggu pengembalian [Pawn_Namedef].</li>
+    <li>desc_sentence-> [Pawn_namedef] mengkhianati bahwa [Pawn_pronoun] menyiksa pilihan sebelum [Pawn_objective].</li>-><ClosedTheVoid.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Menutup node void.</li>
+    <li>Image-> [Pawn_namefulull] Menyegel koneksi dengan ruang hampa, menjamin keamanan koloni [SITUMCANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulr] pijakan menantang sebelum node void, bertekad untuk melindungi koloni [soundance_group]</li>
+    <li>SITUKSE_PHRASE-> Di tengah energi yang krepit</li>
+    <li>SITUCTANCE_PHRASE-> Saat node void memancarkan cahaya yang mengganggu</li>
+    <li>SITUCTANCE_PHRASE-> Sementara vakum berbisik di latar belakang</li>
+    <li>Desc_sentence-> logam abu-abu menekan dari semua sisi.</li>
+    <li>Desc_sentence-> Pemukim lain ditampilkan [Side_Position], menunggu dengan cemas untuk kembalinya [Pawn_namedef].</li>
+    <li>Desc_sentence-> Wajah [Pawn_namedef] mengkhianati yang menderita sebelum pemilihan di depannya.</li>
+  </ClosedTheVoid.rulePack.rulesStrings>
+  
+  <!-- EN: embraced the void -->
+  <EmbracedTheVoid.label>Dia mengosongkan yang diterima</EmbracedTheVoid.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Merangkul kekosongan</li>
+    <li>Image-> [pawn_namefull] Memanfaatkan pengetahuan terlarang tentang kekosongan, melampaui batasan fana, [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyerah pada daya pikat void [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] menyerah pada bisikan menyeramkan dari void [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> sebagai sulur dari gulungan energi gelap di sekitar [Pawn_possessive]</li>
+    <li>SITUCTANCE_PHRASE-> Di tengah-tengah pusaran energi yang berputar-putar</li>
+    <li>SITUKSE_PHRASE-> dengan senyum yang meresahkan</li>
+    <li>desc_sentence-> [Pawn_namedef] memancarkan aura kekuatan yang tidak menyenangkan, sebuah bukti pakta [Pawn_possessive] dengan kekosongan.</li>
+    <li>DESC_SENTENCE-> Mata [Pawn_Namedef] mulai bersinar dengan cahaya dunia lain.</li>
+    <li>desc_sentence-> Kolonis lain ditampilkan [Side_Position], mempertanyakan kebijaksanaan pilihan [Pawn_Namedef].</li>-><EmbracedTheVoid.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] menerima kekosongan</li>
+    <li>Image-> [Pawn_namefulull] Mengambil keuntungan dari pengetahuan yang dilarang tentang vakum, melampaui batasan fatal, [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menyerah pada rayuan vakum [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memberikan tanda-tanda void [SICKETANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> serta benang energi gelap dikeringkan di sekitar anggota tubuhnya.</li>
+    <li>SITUKSE_PHRASE-> Di tengah pusaran energi</li>
+    <li>Keadaan_phrase-> dengan senyum yang mengganggu</li>
+    <li>Desc_sentence-> [pawn_namedef] memancarkan aura kekuatan yang mengancam, kesaksian paktanya dengan kekosongan.</li>
+    <li>Keturunan-> Mata [Pawn_Namedef] mulai bersinar dengan cahaya dari dunia lain.</li>
+    <li>Desc_sentence-> Pemukim lain ditampilkan [Side_Posion], mempertanyakan rasa pemilihan [Pawn_namedef].</li>
+  </EmbracedTheVoid.rulePack.rulesStrings>
+  
+  <!-- EN: performed a psychic ritual -->
+  <PerformedPsychicRitual.label>membuat ritual psikis</PerformedPsychicRitual.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] memimpin ritual psikis</li>
+    <li>Image-> [Pawn_namefull] menyalurkan energi yang menari di sekitar [pawn_objective] sebagai [Pawn_pronoun] menenun ritual psikis yang kuat, [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Membaca mantra gelap dan memanfaatkan kekuatan misterius untuk melakukan ritual psikis, [SITUKSE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Memfokuskan tatapan [Pawn_Possessive] sebagai [Pawn_pronoun] melakukan ritual psikis, [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menelusuri simbol rumit di udara, memanfaatkan energi tersembunyi untuk mewujudkan ritual psikis, [SICKECANCE_GROUP]</li>
+    <li>frasa keadaan-> sambil berfokus dengan saksama pada waktu di depan [Pawn_objective]</li>
+    <li>SICKCANCE_PHRASE-> Dengan tekad terfokus, menampilkan penguasaan [Pawn_Possessives] dari seni psikis [Pawn_Possessive]</li>
+    <li>SITUKSE_PHRASE-> dengan senyum yang kejam</li>
+    <li>SITUCTANCE_PHRASE-> Sementara [Pawn_Possessive] Berjuang suara untuk didengar di atas deru energi</li>
+    <li>desc_sentence-> Chanters dapat dilihat [Side_Position] meminjamkan dukungan mereka.</li>
+    <li>desc_sentence-> udara berkilau sebagai [Pawn_namedef] melengkapi ritual psikis.</li>
+    <li>desc_sentence-> Monolith berkilau di latar belakang.</li>
+    <li>desc_sentence-> Lilin di sekitarnya berkedip dan tergagap dalam energi yang berputar-putar.</li>-><PerformedPsychicRitual.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] memimpin ritual psikis</li>
+    <li>Image-> [pawn_namefulr] menyalurkan energi yang menari dengan itu sambil menjalin ritual psikis yang kuat, [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] melafalkan mantra gelap dan menggunakan kekuatan misterius untuk melakukan ritual psikis, [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memfokuskan tatapannya saat melakukan ritual psikis, [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menggambar simbol rumit di udara, mengambil keuntungan dari energi tersembunyi untuk mewujudkan ritual psikis, [keadaan_group]</li>
+    <li>SITUCTANCE_PHRASE-> Saat berfokus secara intens pada volume di depan [Pawn_pronoun]</li>
+    <li>Keadaan_phrase-> dengan tekad terkonsentrasi, menunjukkan domain seni psikisnya</li>
+    <li>SITUKSE_PHRASE-> dengan senyum yang kejam</li>
+    <li>Keadaan_phrase-> sementara suaranya berjuang untuk didengar di atas gemuruh energi</li>
+    <li>Desc_sentence-> Anda dapat melihat penyanyi di [side_position] memberikan dukungan mereka.</li>
+    <li>Descent-> Udara bersinar ketika [Pawn_namedef] melengkapi ritual psikis.</li>
+    <li>Desc_sentence-> Monolith bersinar di latar belakang.</li>
+    <li>Desc_sentence-> Lilin di sekitarnya berkedip dan mendesis dalam pusaran energi.</li>
+  </PerformedPsychicRitual.rulePack.rulesStrings>
+  
+</LanguageData>

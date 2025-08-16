@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blonde hair -->
+  <Hair_Blonde.label>rambut pirang</Hair_Blonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Blonde.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_Blonde.description>
+  
+  <!-- EN: red hair -->
+  <Hair_BrightRed.label>rambut merah</Hair_BrightRed.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_BrightRed.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_BrightRed.description>
+  
+  <!-- EN: dark-black hair -->
+  <Hair_DarkBlack.label>rambut hitam gelap</Hair_DarkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBlack.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_DarkBlack.description>
+  
+  <!-- EN: brown hair -->
+  <Hair_DarkBrown.label>rambut coklat</Hair_DarkBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkBrown.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_DarkBrown.description>
+  
+  <!-- EN: dark-reddish hair -->
+  <Hair_DarkReddish.label>rambut kemerahan gelap</Hair_DarkReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkReddish.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_DarkReddish.description>
+  
+  <!-- EN: dark-brown hair -->
+  <Hair_DarkSaturatedReddish.label>rambut coklat gelap</Hair_DarkSaturatedReddish.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_DarkSaturatedReddish.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_DarkSaturatedReddish.description>
+  
+  <!-- EN: gray hair -->
+  <Hair_Gray.label>rambut abu -abu</Hair_Gray.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Gray.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_Gray.description>
+  
+  <!-- EN: ink-black hair -->
+  <Hair_InkBlack.label>rambut berwarna hitam</Hair_InkBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_InkBlack.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_InkBlack.description>
+  
+  <!-- EN: blue hair -->
+  <Hair_LightBlue.label>rambut biru</Hair_LightBlue.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightBlue.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_LightBlue.description>
+  
+  <!-- EN: green hair -->
+  <Hair_LightGreen.label>rambut hijau</Hair_LightGreen.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightGreen.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_LightGreen.description>
+  
+  <!-- EN: orange hair -->
+  <Hair_LightOrange.label>rambut</Hair_LightOrange.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightOrange.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_LightOrange.description>
+  
+  <!-- EN: purple hair -->
+  <Hair_LightPurple.label>rambut ungu</Hair_LightPurple.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightPurple.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_LightPurple.description>
+  
+  <!-- EN: teal hair -->
+  <Hair_LightTeal.label>rambut pirus</Hair_LightTeal.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_LightTeal.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_LightTeal.description>
+  
+  <!-- EN: mid-black hair -->
+  <Hair_MidBlack.label>rambut hitam sedang</Hair_MidBlack.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_MidBlack.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_MidBlack.description>
+  
+  <!-- EN: pink hair -->
+  <Hair_Pink.label>rambut merah muda</Hair_Pink.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_Pink.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_Pink.description>
+  
+  <!-- EN: reddish-brown hair -->
+  <Hair_ReddishBrown.label>rambut coklat kemerahan</Hair_ReddishBrown.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_ReddishBrown.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_ReddishBrown.description>
+  
+  <!-- EN: sandy-blonde hair -->
+  <Hair_SandyBlonde.label>rambut pirang berpasir</Hair_SandyBlonde.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SandyBlonde.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_SandyBlonde.description>
+  
+  <!-- EN: snow-white hair -->
+  <Hair_SnowWhite.label>rambut putih salju</Hair_SnowWhite.label>
+  <!-- EN: Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected. -->
+  <Hair_SnowWhite.description>Pembawa gen ini memiliki warna rambut tertentu. Dengan banyak gen warna, gen warna acak berlaku.</Hair_SnowWhite.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin1.label>warna kulit</Skin_Melanin1.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin1.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin1.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin2.label>warna kulit</Skin_Melanin2.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin2.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin2.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin3.label>warna kulit</Skin_Melanin3.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin3.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin3.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin4.label>warna kulit</Skin_Melanin4.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin4.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin4.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin5.label>warna kulit</Skin_Melanin5.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin5.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin5.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin6.label>warna kulit</Skin_Melanin6.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin6.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin6.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin7.label>warna kulit</Skin_Melanin7.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin7.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin7.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin8.label>warna kulit</Skin_Melanin8.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin8.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin8.description>
+  
+  <!-- EN: skin color -->
+  <Skin_Melanin9.label>warna kulit</Skin_Melanin9.label>
+  <!-- EN: Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected. -->
+  <Skin_Melanin9.description>Pembawa gen ini memiliki warna kulit tertentu. Dengan banyak gen warna, gen warna yang berlaku secara acak.</Skin_Melanin9.description>
+  
+</LanguageData>

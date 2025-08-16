@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>AncripDescription-> [GameConditionDescriptionFuture].</li>-><Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+    <li>AncripDescription-> [GameConditionDescriptionFuture].</li>
+  </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Ancaman Ancaman-> (*Ancaman) [Hivescount] Sarang serangga (/ancaman) akan menggali dari bawah tanah.</li>-><Util_Infestation.questDescriptionRules.rulesStrings>
+    <li>Ancaman.</li>
+  </Util_Infestation.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Ancamancription-> paket (*ancaman) [animalCount] manhunting [animalkind_labelplural] (/ancaman) akan tiba.</li>-><Util_ManhunterPack.questDescriptionRules.rulesStrings>
+    <li>Ancripdescription-> Herd dari [animalCount] [animalkind_labelplural] berburu akan segera tiba.</li>
+  </Util_ManhunterPack.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Ancaman Ancaman-> Situs baru akan muncul di dekatnya, di mana [AllSitePartsDescriptions] Ancaman ini akan tetap sampai Anda menghancurkannya.</li>
+    <li>DefaultSiteAppearedLetTerText-> Situs baru telah muncul di dekatnya. \ n \ n [AllSitePartSDescriptions]</li>
+    <li>Situs DefaultSiteAppearedLetTerLabel-> muncul: [Site_label]</li>-><Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+    <li>Ancripscription-> Sebuah kamp baru akan muncul tidak jauh, di mana [AllSitePartsDescripts] ancaman ini akan tetap sampai Anda mengurusnya.</li>
+    <li>DefaultSiteAppPearedlettettext-> Sebuah kamp baru telah muncul tidak jauh.</li>
+    <li>DefaultSiteAppPearedLetTerLabel-> Anda menemukan koordinat sebuah kamp: [Site_label]</li>
+  </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

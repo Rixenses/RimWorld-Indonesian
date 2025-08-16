@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> GenEpack ([Geneword] [OtherGenesInfo])</li>
+    <li>OtherGenesInfo (GenEcount == 1)-></li>
+    <li>OtherGenesInfo (Genecount> = 2)-> +[GenEcountMinusone]</li>-><NamerGenepack.rulePack.rulesStrings>
+    <li>r_name-> pack de gen ([Geneword] [OtherGenesInfo])</li>
+    <li>OtherGenesInfo (GenEcount == 1)-></li>
+    <li>OtherGenesInfo (Genecount> = 2)-> +[GenEcountMinusone]</li>
+  </NamerGenepack.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 1)-> [anyprefix] [AnySuffix]</li>
+    <li>r_name (p = 0.1)-> [Wholename]</li>
+    <li>anyprefix (p = 2)-> [GenEprefix]</li>
+    <li>anyprefix-> [CommonPrefix]</li>
+    <li>AnySuffix-> [Genesuffix]</li>
+    <li>AnySuffix (p = 3)-> [Commonsuffix]</li>
+    <li>CommonPrefix-> xeno</li>
+    <li>CommonPrefix-> alt</li>
+    <li>CommonPrefix-> AB</li>
+    <li>CommonPrefix-> out</li>
+    <li>CommonPrefix-> sub</li>
+    <li>CommonPrefix-> exo</li>
+    <li>CommonPrefix-> Tube</li>
+    <li>CommonPrefix-> Lab</li>
+    <li>CommonPrefix-> pod</li>
+    <li>CommonPrefix-> an</li>
+    <li>CommonPrefix-> bon</li>
+    <li>CommonPrefix-> Cel</li>
+    <li>CommonPrefix-> del</li>
+    <li>CommonPrax-> i</li>
+    <li>CommonPrefix-> Fil</li>
+    <li>CommonPrefix-> Gor</li>
+    <li>CommonPrefix-> Hor</li>
+    <li>CommonPrefix-> ich</li>
+    <li>CommonPrefix-> jack</li>
+    <li>CommonPrefix-> KOL</li>
+    <li>CommonPrefix-> LOX</li>
+    <li>CommonPrefix-> Mack</li>
+    <li>CommonPrefix-> NOR</li>
+    <li>CommonPrefix-> Os</li>
+    <li>CommonPrefix-> per</li>
+    <li>CommonPrefix-> quin</li>
+    <li>CommonPrefix-> rax</li>
+    <li>CommonPrefix-> Sil</li>
+    <li>CommonPrefix-> Tel</li>
+    <li>CommonPrefix-> Ultra</li>
+    <li>CommonPrefix-> Vox</li>
+    <li>CommonPrefix-> Whis</li>
+    <li>CommonPrefix-> xen</li>
+    <li>CommumpFix-> a</li>
+    <li>CommonPrefix-> Zel</li>
+    <li>commonsuffix-> jenis</li>
+    <li>commonsuffix-> man</li>
+    <li>commonsuffix-> an</li>
+    <li>commonsuffix-> ar</li>
+    <li>commonsuffix-> dol</li>
+    <li>commonsuffix-> dal</li>
+    <li>Commonswffix (p = 3) -> er</li>
+    <li>Commonswffix (p = 2) -> en</li>
+    <li>Commonsuffix-> Ex</li>
+    <li>commonsuffix-> id</li>
+    <li>commonsuffix-> in</li>
+    <li>commonsuffix-> il</li>
+    <li>Commonsuffix-> ist</li>
+    <li>commonsuffix-> on</li>
+    <li>commonsuffix-> ol</li>
+    <li>Commonsuffix-> Ox</li>
+    <li>Commonsuffix-> Ox</li>
+    <li>Commonsuffix-> UB</li>
+    <li>commonsuffix-> ul</li>
+    <li>commonsuffix-> ur</li>
+    <li>Commonsuffix-> UX</li>-><NamerXenotype.rulePack.rulesStrings>
+    <li>r_name (p = 1)-> [anyprefix] [AnySuffix]</li>
+    <li>r_name (p = 0.1)-> [Wholename]</li>
+    <li>anyprefix (p = 2)-> [GenEprefix]</li>
+    <li>anyprefix-> [CommonPrefix]</li>
+    <li>AnySuffix-> [Genesuffix]</li>
+    <li>AnySuffix (p = 3)-> [Commonsuffix]</li>
+    <li>CommonPrefix-> xeno</li>
+    <li>CommonPrefix-> alt</li>
+    <li>CommonPrefix-> AB</li>
+    <li>CommonPrefix-> out</li>
+    <li>CommonPrefix-> sub</li>
+    <li>CommonPrefix-> exo</li>
+    <li>CommonPrefix-> Tube</li>
+    <li>CommonPrefix-> Lab</li>
+    <li>CommonPrefix-> pod</li>
+    <li>CommonPrefix-> an</li>
+    <li>CommonPrefix-> bon</li>
+    <li>CommonPrefix-> Cel</li>
+    <li>CommonPrefix-> del</li>
+    <li>CommonPrax-> i</li>
+    <li>CommonPrefix-> Fil</li>
+    <li>CommonPrefix-> Gor</li>
+    <li>CommonPrefix-> Hor</li>
+    <li>CommonPrefix-> ich</li>
+    <li>CommonPrefix-> jack</li>
+    <li>CommonPrefix-> KOL</li>
+    <li>CommonPrefix-> LOX</li>
+    <li>CommonPrefix-> Mack</li>
+    <li>CommonPrefix-> NOR</li>
+    <li>CommonPrefix-> Os</li>
+    <li>CommonPrefix-> per</li>
+    <li>CommonPrefix-> quin</li>
+    <li>CommonPrefix-> rax</li>
+    <li>CommonPrefix-> Sil</li>
+    <li>CommonPrefix-> Tel</li>
+    <li>CommonPrefix-> Ultra</li>
+    <li>CommonPrefix-> Vox</li>
+    <li>CommonPrefix-> Whis</li>
+    <li>CommonPrefix-> xen</li>
+    <li>CommumpFix-> a</li>
+    <li>CommonPrefix-> Zel</li>
+    <li>commonsuffix-> jenis</li>
+    <li>commonsuffix-> man</li>
+    <li>commonsuffix-> an</li>
+    <li>commonsuffix-> ar</li>
+    <li>commonsuffix-> dol</li>
+    <li>commonsuffix-> dal</li>
+    <li>Commonswffix (p = 3) -> er</li>
+    <li>Commonswffix (p = 2) -> en</li>
+    <li>Commonsuffix-> Ex</li>
+    <li>commonsuffix-> id</li>
+    <li>commonsuffix-> in</li>
+    <li>commonsuffix-> il</li>
+    <li>Commonsuffix-> ist</li>
+    <li>commonsuffix-> on</li>
+    <li>commonsuffix-> ol</li>
+    <li>Commonsuffix-> Ox</li>
+    <li>Commonsuffix-> Ox</li>
+    <li>Commonsuffix-> UB</li>
+    <li>commonsuffix-> ul</li>
+    <li>commonsuffix-> ur</li>
+    <li>Commonsuffix-> UX</li>
+  </NamerXenotype.rulePack.rulesStrings>
+  
+</LanguageData>

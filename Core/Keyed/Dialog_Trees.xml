@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>{0} meludahkan peringkat kotor tertentu ke mikrofon dan terputus.</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} menuntut Anda membuat isyarat niat baik, seperti membawa hadiah ke salah satu koloni mereka atau membebaskan para tahanan dari faksi mereka yang tidak terluka.Sampai saat itu, {0_pronoun} tidak ingin berbicara.</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} menyapa {negosiator_lallshort} dengan hati -hati dan tanyakan bisnis apa yang ingin Anda perlakukan.</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} Salam ramah untuk {negosiator_lallshort} dan tanyakan apa yang dapat Anda lakukan untuk membantu Anda.</FactionGreetingWarm>
+
+  <!-- EN: won't do {0} -->
+  <WorkTypeDisablesOption>tidak akan melakukan {0}</WorkTypeDisablesOption>
+  <!-- EN: Disconnect -->
+  <Disconnect>Memutuskan</Disconnect>
+
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
+  <OfferGift>Menawarkan hadiah</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>Itu pasti sekutu</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>Anda membutuhkan reputasi</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
+  <NeedSilverLaunchable>Anda membutuhkan perak {0} di dekat suar perdagangan</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
+  <NotEnoughSilver>Tidak ada cukup uang</NotEnoughSilver>
+  <!-- EN: {0} silver for {1} goodwill -->
+  <SilverForGoodwill>{0} perak untuk {1} reputasi</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
+  <SilverGiftSent>{0} Saya berterima kasih. \ N \ n (reputasi yang lebih baik di {1}).</SilverGiftSent>
+
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>Minta Merchant Caravan (biaya: {0} reputasi)</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
+  <ChooseTraderKind>{0} Tanyakan karavan pedagang jenis apa yang Anda butuhkan.</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
+  <TraderSent>{0} menerima untuk mengirimi Anda karavan pedagang.Itu akan tiba dalam beberapa hari.</TraderSent>
+  <!-- EN: wait {0} -->
+  <WaitTime>Tunggu {0}</WaitTime>
+
+  <!-- Orbital trade request -->
+  <!-- EN: Request orbital trader (cost: {0} goodwill) -->
+  <RequestOrbitalTrader>Minta Pedagang Orbital (Biaya: {0} Goodwill)</RequestOrbitalTrader>
+  <!-- EN: {0} asks what kind of orbital trader you want. -->
+  <ChooseOrbitalTraderKind>{0} Tanyakan jenis pedagang orbital apa yang Anda inginkan.</ChooseOrbitalTraderKind>
+  <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
+  <OrbitalTraderSent>{0} akan meminta pedagang orbital untuk mengunjunginya.Itu akan tiba dalam beberapa jam.</OrbitalTraderSent>
+  
+  <!-- AI core request -->
+  <!-- EN: Request the location of a {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>Minta lokasi {0} (biaya: {1} perak)</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>{0} Kirim informasi yang diminta dan berharap Anda beruntung.</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>Tidak ada lagi tempat yang diketahui</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
+  <RequestMilitaryAid>Minta Dukungan Militer Segera ({0} Reputasi)</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
+  <MilitaryAidConfirmMutualEnemy>{0} tidak akan membantu Anda bertarung dengan faksi lain selain musuh Anda.Ini termasuk beberapa yang saat ini mengancam Anda, {1}.Apakah Anda masih ingin meminta bantuan?</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
+  <CallConfirm>Ya, mari kita hubungi mereka.</CallConfirm>
+  <!-- EN: No, never mind. -->
+  <CallCancel>Tidak, lupakan saja.</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
+  <MilitaryAidSent>{0} menerima untuk mengirimi Anda dukungan militer.</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>{0} meminta maaf dan mengatakan mereka tidak akan bisa tiba tepat waktu. \ N \ n (tingkat teknologi faksi ini terlalu rendah untuk memiliki kapsul transportasi)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>Pengunjung yang bermusuhan</HostileVisitorsPresent>
+
+</LanguageData>

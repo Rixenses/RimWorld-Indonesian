@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Dangerous activity levels -->
+  <ActivityMultipleDangerous>Tingkat aktivitas yang berbahaya</ActivityMultipleDangerous>
+  <!-- EN: These entities are at dangerously high activity levels -->
+  <ActivityDangerousDesc>Entitas -entitas ini berada pada tingkat aktivitas yang sangat tinggi</ActivityDangerousDesc>  
+  <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
+  <ActivityDangerousDescAppended>Ketika suatu entitas mencapai aktivitas 100%, entitas berbahaya akan menjadi.</ActivityDangerousDescAppended>
+
+  <!-- EN: Need anomaly project -->
+  <NeedAnomalyProject>Anda membutuhkan proyek anomali</NeedAnomalyProject>
+  <!-- EN: You have an entity marked for study but don't have a matching anomaly research project selected: -->
+  <NeedAnomalyProjectDesc>Anda memiliki entitas yang ditandai untuk belajar, tetapi Anda belum memilih proyek penelitian anomali yang cocok:</NeedAnomalyProjectDesc>
+  <!-- EN: Need {NAME} anomaly research project -->
+  <NeedAnomalyProjectDescLine>Anda membutuhkan proyek penelitian anomali {name}</NeedAnomalyProjectDescLine>
+  <!-- EN: Open the research menu and select a project on the anomaly tab.\n\nYou can have a basic and an advanced research project selected at the same time.\n\n(Click to open the research menu.) -->
+  <NeedAnomalyProjectDescAppended>Buka menu penelitian dan pilih proyek pada tab Anomalies.</NeedAnomalyProjectDescAppended>
+
+  <!-- EN: Visitor ignored -->
+  <CreepJoinerTimeout>Pengunjung yang diabaikan</CreepJoinerTimeout>
+  <!-- EN: The following visitors feel ignored and are becoming increasingly upset -->
+  <CreepJoinerTimeoutDesc>Pengunjung berikut merasa diabaikan dan semakin kesal</CreepJoinerTimeoutDesc>
+  <!-- EN: Select a colonist and right-click on the visitor.\n\nAct quickly... they don't like being ignored. -->
+  <CreepJoinerTimeoutDescAppended>Pilih pemukim dan klik tombol mouse kanan pada pengunjung.</CreepJoinerTimeoutDescAppended>
+
+  <!-- EN: Undercave unstable -->
+  <Alert_UndercaveUnstable>Subcueve yang tidak stabil</Alert_UndercaveUnstable>
+  <!-- EN: The undercave has become unstable and will collapse soon.\n\nGet your colonists out before it's too late. -->
+  <Alert_UndercaveUnstableDesc>Sub -owner menjadi tidak stabil dan akan segera runtuh. \ N \ nsaca ke pemukim Anda sebelum terlambat.</Alert_UndercaveUnstableDesc>
+
+  <!-- EN: Cultist psychic ritual -->
+  <Alert_CultistPsychicRitual>Ritual Psikis Kultus</Alert_CultistPsychicRitual>
+  <!-- EN: {INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire. -->
+  <Alert_CultistPsychicRitualDesc>{Invoker_kinddef} {invoker_namedef} telah mulai melakukan ritual {ritual_definite}.Jika tidak {invoker_objective} menyela, konsekuensinya bisa mengerikan.</Alert_CultistPsychicRitualDesc>
+
+  <!-- EN: Ghoul starvation -->
+  <AlertMeatHunger>Necrophage nake</AlertMeatHunger>
+  <!-- EN: These ghouls hunger for raw meat -->
+  <AlertMeatHungerDesc>Nekrofag ini lapar akan daging mentah</AlertMeatHungerDesc>
+  <!-- EN: They may attack if they're not fed soon. Get them some meat. -->
+  <AlertMeatHungerDescAppended>Mereka dapat menyerang jika mereka tidak segera diberi makan.Berikan daging.</AlertMeatHungerDescAppended>
+  
+  <!-- EN: Pit gate opening -->
+  <AlertEmergingPitGate>Pembukaan tangki vakum</AlertEmergingPitGate>
+  <!-- EN: The ground is collapsing in on itself. A pit gate will soon form. -->
+  <AlertEmergingPitGateDesc>Tanah runtuh dengan sendirinya.Segera lubang vakum akan terbuka.</AlertEmergingPitGateDesc>
+
+  <!-- EN: Insufficient containment -->
+  <Alert_InsufficientContainment>Penahanan yang tidak mencukupi</Alert_InsufficientContainment>
+  <!-- EN: The following entities are being held in rooms that do not meet their minimum containment strength -->
+  <Alert_InsufficientContainmentDesc>Entitas berikut disimpan di kamar yang tidak memenuhi resistensi penahanan minimum mereka</Alert_InsufficientContainmentDesc>
+  <!-- EN: They will escape soon. Build stronger walls, doors, or other containment devices to hold them. -->
+  <Alert_InsufficientContainmentDescAppended>Mereka akan segera melarikan diri.Bangun dinding, pintu atau perangkat penahanan lain yang lebih kuat untuk mempertahankannya.</Alert_InsufficientContainmentDescAppended>
+
+  <!-- EN: Need holding platforms -->
+  <AlertHoldingPlatform>Anda membutuhkan platform penahanan</AlertHoldingPlatform>
+  <!-- EN: Build holding platforms or place holding spots to contain and study captured entities. -->
+  <AlertHoldingPlatformDesc>Membangun platform penahanan atau tempat penahanan tempat untuk mempertahankan dan mempelajari entitas yang ditangkap.</AlertHoldingPlatformDesc>
+
+  <!-- EN: Cube withdrawal -->
+  <AlertCubeWithdrawal>Pantang kubik</AlertCubeWithdrawal>
+  <!-- EN: The following people are suffering from cube withdrawal -->
+  <AlertCubeWithdrawalDesc>Orang -orang berikut menderita pantang kubik</AlertCubeWithdrawalDesc>
+  <!-- EN: Their skin itches and their mind races, craving closeness to the golden cube. Their symptoms will worsen until they can play with the cube.\n\nEnsure that they have free time and can reach the golden cube. -->
+  <AlertCubeWithdrawalDescAppended>Itu menggigit kulit mereka dan pikirannya semakin cepat, keinginan untuk mendekati kubus emas.Gejala mereka akan menjadi lebih buruk sampai mereka bisa bermain dengan kubus.</AlertCubeWithdrawalDescAppended>
+
+  <!-- EN: Devourer digestion -->
+  <AlertDigestion>Melahap mengetik</AlertDigestion>
+  <!-- EN: The following people or creatures are being digested by a devourer -->
+  <AlertDigestionDesc>Orang atau makhluk berikut sedang dicerna dengan melahap</AlertDigestionDesc>
+  <!-- EN: Kill the devourer to release them before it's too late. -->
+  <AlertDigestionDescAppended>Bunuh yang melahap untuk melepaskannya sebelum terlambat.</AlertDigestionDescAppended>
+  
+  <!-- EN: Inhibitor blocked -->
+  <AlertInhibitorBlocked>Inhibitor yang diblokir</AlertInhibitorBlocked>
+  <!-- EN: One of your electric inhibitors is not functional because it's blocked by another building.\n\nClear the space in front of the electric inhibitor. -->
+  <AlertInhibitorBlockedDesc>Salah satu inhibitor listrik Anda tidak berfungsi karena diblokir oleh bangunan lain. \ N \ ndespeja ruang di depan inhibitor listrik.</AlertInhibitorBlockedDesc>
+
+  <!-- EN: Entity treatment needed -->
+  <EntityNeedsTreatment>Pengobatan entitas yang diperlukan</EntityNeedsTreatment>
+  <!-- EN: These entities need medical treatment. Without it, they may die in captivity.\n{0}\n\nSend a doctor to treat them. -->
+  <EntityNeedsTreatmentDesc>Entitas ini membutuhkan perawatan medis.Tanpa dia, mereka bisa mati di penangkaran. \ N {0} \ n \ nenvia Seorang dokter untuk mengobatinya.</EntityNeedsTreatmentDesc>
+
+  <!-- EN: Ghoul hypothermia -->
+  <AlertGhoulHypothermia>Hipotermia</AlertGhoulHypothermia>
+  <!-- EN: These ghouls are suffering from hypothermia:\n{0}\n\nGet them to warmer temperatures. -->
+  <AlertGhoulHypothermiaDesc>Necrophages ini menderita hipotermia: \ n {0} \ n \ nllévalos pada suhu yang lebih hangat.</AlertGhoulHypothermiaDesc>
+  
+  <!-- EN: Gray flesh -->
+  <AlertGrayFleshSample>Daging abu -abu</AlertGrayFleshSample>
+  <!-- EN: You've discovered a strip of fleshy tissue. Analyze it to learn more about the biosignature. -->
+  <AlertGrayFleshSampleDesc>Anda telah menemukan potongan kain berdaging.Analisis untuk mengetahui lebih banyak tentang biofirms.</AlertGrayFleshSampleDesc>
+  <!-- EN: Neural lump -->
+  <AlertNeuralLump>Nódululo Neural</AlertNeuralLump>
+  <!-- EN: A fleshmass nerve bundle has dropped a neural lump. Analyze it to learn how to kill the fleshmass heart. -->
+  <AlertNeuralLumpDesc>Sinar carnimosa yang gugup telah melepaskan curah saraf.Menganalisisnya untuk mengetahui cara membunuh hati Carnimosa.</AlertNeuralLumpDesc>
+  <!-- EN: Revenant flesh -->
+  <AlertRevenantFlesh>Daging dihidupkan kembali</AlertRevenantFlesh>
+  <!-- EN: The wounded revenant left behind a piece of itself. Analyze it to learn how to track the revenant. -->
+  <AlertRevenantFleshDesc>Redivive yang terluka telah meninggalkan sepotong itu sendiri.Menganalisisnya untuk mengetahui cara melacaknya.</AlertRevenantFleshDesc>
+
+</LanguageData>

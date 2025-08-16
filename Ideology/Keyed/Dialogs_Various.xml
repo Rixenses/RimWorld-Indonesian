@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+  <!-- EN: Trading animal products bonus -->
+  <TradingAnimalProduceBonus>Bonus perdagangan produk hewani</TradingAnimalProduceBonus>
+  <!-- EN: Slaves -->
+  <SlavesSection>Budak</SlavesSection>
+  <!-- EN: dominant style -->
+  <DominantStyle>Gaya dominan</DominantStyle>
+  <!-- EN: Date -->
+  <Date>Tanggal</Date>
+  <!-- EN: The following development points will be awarded depending on the ritual outcome -->
+  <RitualDevelopmentPointRewards>Poin pengembangan berikut akan diberikan tergantung pada hasil ritual</RitualDevelopmentPointRewards>
+  <!-- EN: Use global style -->
+  <UseGlobalStyle>Global</UseGlobalStyle>
+  <!-- EN: No style variations available -->
+  <NoStylesAvailable>Tidak ada gaya lain yang tersedia</NoStylesAvailable>
+
+  <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
+  <ChooseStructureMemesInfo>Pilih struktur simbolis ideologis Anda.Ini hanya mempengaruhi simbol, tidak mempengaruhi gameplay.</ChooseStructureMemesInfo>
+  <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
+  <ChooseNormalMemesInfo>Pilih {0}-{1} meme untuk membentuk ide-ide mendasar dari ideolisasi ini.</ChooseNormalMemesInfo>
+  <!-- EN: Choose at least {0} meme. -->
+  <NotEnoughMemes>Pilih setidaknya {0} meme.</NotEnoughMemes>
+  <!-- EN: Choose at most {0} memes. -->
+  <TooManyMemes>Pilih paling banyak {0} meme.</TooManyMemes>
+  <!-- EN: Choose structure. -->
+  <ChooseStructureMeme>Pilih strukturnya.</ChooseStructureMeme>
+  <!-- EN: {0_label} and {1_label} are incompatible. -->
+  <IncompatibleMemes>{0_label} dan {1_label} tidak kompatibel.</IncompatibleMemes>
+  <!-- EN: Some of these have much more gameplay impact than others. -->
+  <SomeMemesHaveMoreImpact>Beberapa dari mereka memiliki lebih banyak dampak pada permainan daripada yang lain.</SomeMemesHaveMoreImpact>
+  <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
+  <ChooseNormalMemesFluidIdeoInfo>Pilih meme untuk membentuk ide awal ideolisasi ini.Anda akan menambahkan lebih banyak meme saat Ideroligion berkembang dari waktu ke waktu.</ChooseNormalMemesFluidIdeoInfo>
+  <!-- EN: Choose a meme or remove a meme. -->
+  <ChooseOrRemoveMeme>Pilih atau hilangkan meme.</ChooseOrRemoveMeme>
+  <!-- EN: Reset changes -->
+  <ReformIdeoResetChanges>Kembalikan perubahan</ReformIdeoResetChanges>
+  <!-- EN: Choose {0} meme. -->
+  <NotEnoughMemesFluidIdeo>Pilih {0} Meme.</NotEnoughMemesFluidIdeo>
+
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>{0} akan secara acak lagi sila yang telah Anda edit.</ChangesRandomizePrecepts>
+  <!-- EN: The following precepts are incompatible with this new meme selection and will be removed:\n\n{0}\n\nDo you wish to continue? -->
+  <ChangesRemovePrecepts>Sila berikut tidak kompatibel dengan pilihan meme baru ini dan akan dihilangkan: \ n \ n {0} \ n \ n ¿DEAS Lanjutkan?</ChangesRemovePrecepts>
+  
+  <!-- EN: Room requirements -->
+  <RoomRequirements>Persyaratan kamar</RoomRequirements>
+  <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
+  <ConfirmChangeMemesForFluidIdeo>Ideoligion yang Anda muat memiliki meme yang tidak kompatibel dengan ideoligasi cairan baru dan meme mereka harus dipilih lagi (ideolithion cairan hanya dapat dimulai dengan meme dampak rendah).</ConfirmChangeMemesForFluidIdeo>
+  <!-- EN: The following memes are incompatible -->
+  <ConfirmIncompatibleMemes>Meme berikut tidak kompatibel</ConfirmIncompatibleMemes>
+  <!-- EN: Would you like to continue? -->
+  <ConfirmChangeMemesForFluidIdeoContinue>Apakah Anda ingin melanjutkan?</ConfirmChangeMemesForFluidIdeoContinue>
+
+  <!-- EN: role -->
+  <Role>peran</Role>
+  <!-- EN: Assign role -->
+  <ChooseRole>Menetapkan peran</ChooseRole>
+  <!-- EN: Choose new role -->
+  <ChooseNewRole>Pilih Peran Baru</ChooseNewRole>
+  <!-- EN: No role assigned -->
+  <NoRoleAssigned>Tidak ada peran yang ditetapkan</NoRoleAssigned>
+  <!-- EN: Children cannot take on roles -->
+  <ChildNoRoleAssigned>Anak -anak tidak dapat mengambil peran</ChildNoRoleAssigned>
+  <!-- EN: Remove {0} role -->
+  <RemoveRole>Hapus peran {0}</RemoveRole>
+  <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
+  <ChooseRoleConfirmAssign>Anda akan menetapkan peran {role_label} a {pawn_lallshort}.</ChooseRoleConfirmAssign>
+  <!-- EN: Are you sure? -->
+  <ChooseRoleConfirmAssignPostfix>Anda yakin?</ChooseRoleConfirmAssignPostfix>
+  <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignReplace>{Pawn_labelshort} saat ini memiliki peran ini dan tidak akan suka kehilangannya.</ChooseRoleConfirmAssignReplace>
+  <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
+  <ChooseRoleConfirmAssignHasOtherRole>{Pawn_labelshort} saat ini memiliki peran {role_label} dan Anda tidak akan suka kehilangannya.</ChooseRoleConfirmAssignHasOtherRole>
+  <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
+  <ChooseRoleConfirmAssignReplaceLeader>Hanya ada seorang pemimpin.Ini akan mengucapkan selamat tinggal pada {pawn_labelshort} dari perannya sebagai {OtherRole_Label}, yang akan membuat {Pawn_pronoun} repot -repot.</ChooseRoleConfirmAssignReplaceLeader>
+  <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
+  <ChooseRoleConfirmUnassign>Anda akan mengucapkan selamat tinggal pada {pawn_labelshort} dari peran {role_label}.{Pawn_objective} ini akan berubah.</ChooseRoleConfirmUnassign>
+  <!-- EN: {PAWN_labelShort} will gain the following abilities -->
+  <ChooseRoleListAbilities>{Pawn_labelshort} akan mendapatkan keterampilan berikut</ChooseRoleListAbilities>
+  <!-- EN: The {ROLE_label} role requires the following apparel -->
+  <ChooseRoleListApparelDemands>Peran {role_label} membutuhkan pakaian berikut</ChooseRoleListApparelDemands>
+  <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
+  <ChooseRoleListWorkTypeRestrictions>{Pawn_labelshort} akan menolak untuk melakukan jenis pekerjaan ini</ChooseRoleListWorkTypeRestrictions>
+  <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
+  <ChooseRoleHint>Terkadang lebih baik menunggu sampai koloni lebih mapan sebelum menetapkan peran.</ChooseRoleHint>
+  <!-- EN: Unlocked by -->
+  <UnlockedByMeme>Dibuka oleh</UnlockedByMeme>
+  <!-- EN: Origin -->
+  <Origin>Origen</Origin>
+  <!-- EN: Unlocked roles -->
+  <MemeUnlocksRoles>Peran yang tidak terkunci</MemeUnlocksRoles>
+  <!-- EN: Unlocked rituals -->
+  <MemeUnlocksRituals>Ritual yang tidak terkunci</MemeUnlocksRituals>
+  <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
+  <ChooseRoleRequiredWorkTagsDisabled>Peringatan: {Pawn_Namedef} tidak dapat melakukan pekerjaan yang diperlukan untuk peran {role_label}.Jika Anda memilih untuk memberikan peran ini, {Pawn_pronoun} tidak dapat menggunakan keterampilan yang terkait dengan {role_label}.Jenis pekerjaan yang hilang</ChooseRoleRequiredWorkTagsDisabled>
+  <!-- EN: Leader bonus -->
+  <YourLeaderTradeBonus>Bonus pemimpin</YourLeaderTradeBonus>
+  <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
+  <CannotNotAddRoleApparelDueToMeme>Meme {meme} mencegah penambahan persyaratan pakaian ke peran.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>Itu tidak dapat digunakan dengan {0_label}</CannotBeWornWith>
+
+  <!-- EN: Certainty reduction -->
+  <AbilityIdeoConvertBreakdownLabel>Pengurangan kepastian</AbilityIdeoConvertBreakdownLabel>
+  <!-- EN: Using {ABILITY} ability -->
+  <AbilityIdeoConvertBreakdownUsingAbility>Menggunakan kemampuan {kemampuan}</AbilityIdeoConvertBreakdownUsingAbility>
+  <!-- EN: {PAWN_labelShort}'s conversion power -->
+  <AbilityIdeoConvertBreakdownConversionPower>Kekuatan Konversi {Pawn_Lallshort}</AbilityIdeoConvertBreakdownConversionPower>
+  <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Faktor Kerugian Khusus {Pawn_lallshort} dari {ideo_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
+  <AbilityIdeoConvertBreakdownRole>{Pawn_labelshort} es {role_label}</AbilityIdeoConvertBreakdownRole>
+  <!-- EN: Trait {TRAIT} -->
+  <AbilityIdeoConvertBreakdownTrait>Rasgo {sifat}</AbilityIdeoConvertBreakdownTrait>
+  <!-- EN: Precept {PRECEPT} -->
+  <AbilityIdeoConvertBreakdownPercept>Sila {sila}</AbilityIdeoConvertBreakdownPercept>
+  <!-- EN: {RELICCOUNT} installed relics on map -->
+  <AbilityIdeoConvertBreakdownRelic>{RelicCount} Relik yang diinstal di peta</AbilityIdeoConvertBreakdownRelic>
+  <!-- EN: {PAWN_labelShort}'s social skill -->
+  <AbilityIdeoConvertBreakdownSocialSkill>keterampilan sosial {Pawn_lallshort}</AbilityIdeoConvertBreakdownSocialSkill>
+  <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
+  <AbilityIdeoConvertBreakdownOpinion>Opini {penerima_lallshort} tentang {initiator_lallshort}</AbilityIdeoConvertBreakdownOpinion>
+  <!-- EN: {PAWN_nameDef}'s ideoligion -->
+  <AbilityIdeoConvertBreakdownPawnIdeo>Ideoligion {Pawn_Namedef}</AbilityIdeoConvertBreakdownPawnIdeo>
+  <!-- EN: {MEME} vs {TRAIT} trait -->
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{Meme} vs fitur {TRAIT}</AbilityIdeoConvertBreakdownMemeVsTrait>
+
+  <!-- EN: {PAWN_labelShort} was already counselled recently. -->
+  <AbilityCantApplyAlreadyCounselled>{Pawn_labelshort} sudah disarankan {Pawn_gender?O: A} baru -baru ini.</AbilityCantApplyAlreadyCounselled>
+
+  <!-- EN: Reform... -->
+  <ReformIdeo>Pembaruan...</ReformIdeo>
+  <!-- EN: Reform ideoligion -->
+  <ReformIdeoligion>Ideoligion reformasi</ReformIdeoligion>
+  <!-- EN: Reform your ideoligion by changing its structure, memes or style. -->
+  <ReformIdeoligionDesc>Reformasi ideolisasi Anda dengan mengubah strukturnya, meme atau gayanya.</ReformIdeoligionDesc>
+  <!-- EN: Change styles -->
+  <ReformIdeoChangeStyles>Ubah gaya</ReformIdeoChangeStyles>
+  <!-- EN: Add or remove a meme -->
+  <ReformIdeoAddOrRemoveMeme>Tambahkan atau hapus meme</ReformIdeoAddOrRemoveMeme>
+  <!-- EN: Add a meme -->
+  <ReformIdeoAddMeme>Tambahkan meme</ReformIdeoAddMeme>
+  <!-- EN: Choose one -->
+  <ReformIdeoChooseOneChange>Pilih satu</ReformIdeoChooseOneChange>
+  <!-- EN: Change structure -->
+  <ReformIdeoChangeStructure>Ubah struktur</ReformIdeoChangeStructure>
+  <!-- EN: Change any of the following -->
+  <ReformIdeoChangeAny>Ubah apapun.dari yang berikut</ReformIdeoChangeAny>
+  <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
+  <ReformIdeoRelicHuntQuestEnd>Relik {0} tidak akan dihormati oleh pemukim Anda setelah mereformasi ideologis ini.Karena misi "{0}" sedang mencari peninggalan ini, akan dinonaktifkan.</ReformIdeoRelicHuntQuestEnd>
+  <!-- EN: The ritual {0} is in progress and will be cancelled. -->
+  <ReformIdeoCancelRituals>Ritual {0} sedang berlangsung dan akan dibatalkan.</ReformIdeoCancelRituals>
+  <!-- EN: Do you wish to continue? -->
+  <ReformIdeoContinue>Apakah Anda ingin melanjutkan?</ReformIdeoContinue>
+
+  <!-- Slavery -->
+  <!-- EN: Slave -->
+  <CannotAssignBedToSlave>Budak</CannotAssignBedToSlave>
+  <!-- EN: Colonist -->
+  <CannotAssignBedToColonist>Pendatang</CannotAssignBedToColonist>
+  <!-- EN: Any slave -->
+  <AnySlave>Budak apapun</AnySlave>
+  <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
+  <NegotiatorWillNotTradeSlaves>{0_namedef} menolak untuk menjual orang sebagai budak sesuai dengan keyakinan mereka.</NegotiatorWillNotTradeSlaves>
+  <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
+  <NegotiatorWillNotTradeSlavesTip>Negosiator, {0_namedef}, tidak akan memperbudak orang karena keyakinan mereka pada {1}.Atau: A} untuk meminta penyelamatan seseorang dari faksi mereka sendiri, tetapi bukankah waktunya? 0_gender?O: A} untuk menjual seseorang ke faksi yang berbeda.</NegotiatorWillNotTradeSlavesTip>
+
+  <!-- EN: Last human meat -->
+  <LastHumanMeat>Daging manusia terakhir</LastHumanMeat>
+  <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
+  <LastHumanMeatDesc>Karena keyakinannya pada {IDEO_NAME}, {Pawn_namedef} dia akan merasa tidak bahagia jika dia melewati lebih dari {durasi} tanpa makan daging manusia.</LastHumanMeatDesc>
+
+  <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
+  <ExectueNeutralFactionSlave>Eksekusi {pawn_lallshort} akan secara negatif mempengaruhi hubungan dengan faksi {faction_name}.</ExectueNeutralFactionSlave>
+
+  <!-- EN: You must assign at least one non-slave colonist who can walk. -->
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>Anda harus menetapkan setidaknya satu pemukim non -lave yang bisa berjalan.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <!-- EN: You must leave at least non-slave colonist who can walk. -->
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Anda harus meninggalkan setidaknya non -lave penjajah yang bisa berjalan.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+
+  <!-- Style -->
+  <!-- EN: Style -->
+  <StylePawn>Gaya</StylePawn>
+  <!-- EN: hair -->
+  <Hair>untuk</Hair>
+  <!-- EN: beard -->
+  <Beard>Barba</Beard>
+  <!-- EN: face tattoo -->
+  <TattooFace>tato wajah</TattooFace>
+  <!-- EN: body tattoo -->
+  <TattooBody>Tato Tubuh</TattooBody>
+  <!-- EN: apparel color -->
+  <ApparelColor>warna pakaian</ApparelColor>
+  <!-- EN: hair color -->
+  <HairColor>Warna rambut</HairColor>
+  <!-- EN: Show headgear -->
+  <ShowHeadgear>Menetas</ShowHeadgear>
+  <!-- EN: Show apparel -->
+  <ShowApparel>Tunjukkan pakaian</ShowApparel>
+  <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
+  <PawnUnhappyWithStyleItems>{Pawn_namedef} akan menjadi ketidakpuasan {Pawn_gender?O: A} dengan yang berikut ini</PawnUnhappyWithStyleItems>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescription>Kategori gaya mempengaruhi penampilan beberapa bangunan, pakaian, dan senjata yang dibuat oleh {ideo_membernameplural}.Jika lebih dari satu kategori mempengaruhi hal yang sama, yang tersisa diterapkan.</StyleCategoryDescription>
+  <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
+  <StyleCategoryDescriptionAbstract>Kategori gaya mempengaruhi penampilan beberapa bangunan, pakaian, dan senjata yang diproduksi oleh koloni Anda.Jika lebih dari satu kategori mempengaruhi hal yang sama, yang lebih jauh ke kiri diterapkan.</StyleCategoryDescriptionAbstract>
+  <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominance>{IDEO_MEBERNAMEPLURAL} akan senang jika mereka mengamati bahwa konstruksi, tanah, dan seni bertepatan dengan gaya ini.</StyleCategoryDescStyleDominance>
+  <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
+  <StyleCategoryDescStyleDominanceAbstract>Anggota Ideoligion akan senang jika mereka mengamati bahwa konstruksi, tanah, dan seni bertepatan dengan gaya ini.</StyleCategoryDescStyleDominanceAbstract>
+  <!-- EN: {0} style category affects -->
+  <StyleCategoryDetails>{0} Kategori gaya mempengaruhi</StyleCategoryDetails>
+  <!-- EN: Overriden by {0} -->
+  <OverriddenByStyle>Dibatalkan oleh {0}</OverriddenByStyle>
+  <!-- EN: New buildables -->
+  <IdeoMakesBuildingBuildable>Konstruksi baru</IdeoMakesBuildingBuildable>
+  <!-- EN: none usable for {PAWN_nameDef} -->
+  <NoneUsableForPawn>Tidak dapat digunakan untuk {pawn_namedef}</NoneUsableForPawn> 
+  <!-- EN: Hair and beards -->
+  <HairAndBeards>Rambut dan janggut</HairAndBeards>
+  <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
+  <HairAndBeardsDesc>Penyesuaian ini menentukan frekuensi masing -masing gaya muncul dalam anggota ideolisasi ini.</HairAndBeardsDesc>
+  <!-- EN: Tattoos -->
+  <Tattoos>Tato</Tattoos>
+  <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
+  <TattoosDesc>Konfigurasi ini menentukan frekuensi masing -masing tato muncul di anggota ideologis ini.</TattoosDesc>
+  <!-- EN: Never -->
+  <StyleItemFrequencyNever>Tidak pernah</StyleItemFrequencyNever>
+  <!-- EN: Rare -->
+  <StyleItemFrequencyRare>Di bawah</StyleItemFrequencyRare>
+  <!-- EN: Uncommon -->
+  <StyleItemFrequencyUncommon>Tidak biasa</StyleItemFrequencyUncommon>
+  <!-- EN: Normal -->
+  <StyleItemFrequencyNormal>Normal</StyleItemFrequencyNormal>
+  <!-- EN: Common -->
+  <StyleItemFrequencyCommon>Comun</StyleItemFrequencyCommon>
+  <!-- EN: Frequent -->
+  <StyleItemFrequencyFrequent>Sering</StyleItemFrequencyFrequent>
+  <!-- EN: Edit appearance -->
+  <EditAppearanceItems>Edit penampilan</EditAppearanceItems>
+  <!-- EN: {0} in use -->
+  <NumAvailable>{0} digunakan</NumAvailable>
+  <!-- EN: Resets all style items to their default values. -->
+  <ResetButtonDesc>Ini mengembalikan semua elemen gaya ke nilai defaultnya.</ResetButtonDesc>
+
+  <!-- Ancient complex mission -->
+  <!-- EN: Send shuttle anyway -->
+  <SendShuttleAnyway>Kirim feri</SendShuttleAnyway>
+  <!-- EN: Re-load shuttle -->
+  <ReLoadShuttle>Transboper Recharger</ReLoadShuttle>
+
+  <!-- Medical settings -->
+  <!-- EN: Slaves -->
+  <MedGroupSlaves>Budak</MedGroupSlaves>
+  <!-- EN: Enslaved members of your colony. -->
+  <MedGroupSlavesDesc>Anggota koloni Anda yang diperbudak.</MedGroupSlavesDesc>
+
+  <!-- Dryad upgrades -->
+  <!-- EN: Choose dryad caste -->
+  <ChangeMode>Pilih Kasta Kering</ChangeMode>
+  <!-- EN: Required memes -->
+  <RequiredMemes>Meme yang diperlukan</RequiredMemes>
+  <!-- EN: Required caste -->
+  <RequiredStage>Diperlukan kasta</RequiredStage>
+  <!-- EN: Missing required memes -->
+  <MissingRequiredMemes>Meme yang diperlukan</MissingRequiredMemes>
+  <!-- EN: Missing required caste -->
+  <MissingRequiredCaste>Kasta yang dibutuhkan hilang</MissingRequiredCaste>
+  <!-- EN: Already selected -->
+  <AlreadySelected>Sudah dipilih</AlreadySelected>
+  <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
+  <ChooseProductionModeInitialDesc>Di sini Anda dapat memilih kasta tetesan mana yang akan membuat {Tree_label} ini. \ N \ nlas driced akan meninggalkan polong yang tumbuh di pangkal pohon.Jumlah maksimum pengering didasarkan pada gaya koneksi antara {Tree_Definite} dan orang yang terhubung.</ChooseProductionModeInitialDesc>
+
+  <!-- Archonexus -->
+  <!-- EN: Choose who to convert to your ideoligion -->
+  <ChooseColonistsForIdeoTitle>Pilih siapa yang mengubah ideolisasi Anda</ChooseColonistsForIdeoTitle>
+  <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
+  <ChooseColonistsForIdeoDesc>Anda dapat mengubah orang menjadi ideologis utama saat Anda membangun koloni baru.</ChooseColonistsForIdeoDesc>
+  <!-- EN: New Colony -->
+  <ChooseThingsForNewColonyTitle>Koloni Baru</ChooseThingsForNewColonyTitle>
+  <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
+  <ChooseThingsForNewColonyDesc>Pilih pemukim, hewan, dan peninggalan mana yang dibawa ke koloni baru.</ChooseThingsForNewColonyDesc>
+  <!-- EN: Choose up to {0} {1}. -->
+  <ChooseThingsDesc>Pilih hingga {0} {1}.</ChooseThingsDesc>
+  <!-- EN: Choose up to {0} people. -->
+  <ChoosePeopleDesc>Pilih hingga {0} orang.</ChoosePeopleDesc>
+  <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
+  <ChooseOnlySlavesInfo>Jika Anda hanya memilih budak, Anda akan bermain dengan mereka sebagai pemukim di koloni berikutnya.</ChooseOnlySlavesInfo>
+  <!-- EN: Confirm decisions -->
+  <ConfirmDecisionsTitle>Konfirmasikan keputusan</ConfirmDecisionsTitle>
+  <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
+  <ShipEscapeWillEndDescription>Pesawat ruang angkasa hibrant yang dilaporkan oleh AI (nama*) Charlon Whitestone (/nama) akan terbang ketika koloni baru didirikan.Tidak mungkin lagi melarikan diri dari planet yang bepergian ke kapal ini.</ShipEscapeWillEndDescription>
+  <!-- EN: No relic was chosen to be brought to the new colony. -->
+  <ArchonexusRelicNotChosen>Tidak ada peninggalan yang dipilih untuk membawanya ke koloni baru.</ArchonexusRelicNotChosen>
+  <!-- EN: {0} out of a possible {1} items were selected to be brought to the new colony. -->
+  <ArchonexusItemsNotChosen>{0} dipilih dari kemungkinan {1} artikel yang akan dibawa ke koloni baru.</ArchonexusItemsNotChosen>
+  <!-- EN: The colony's purchasers will only allow you to take one relic. Any other relics will be left behind (even if equipped by a colonist), including: -->
+  <RemoveEquippedRelicsDescription>Pembeli koloni hanya akan memungkinkan Anda untuk mengambil peninggalan.Relik lain akan ditinggalkan (bahkan jika itu dilengkapi oleh pemukim), termasuk:</RemoveEquippedRelicsDescription>
+  <!-- EN: Would you like to proceed? Past this point, there's no going back. -->
+  <WantToProceed>Apakah Anda ingin melanjutkan?Setelah titik ini, tidak ada jalan untuk kembali.</WantToProceed>
+  <!-- EN: Convert -->
+  <ConvertToPlayerIdeoligion>Mengubah</ConvertToPlayerIdeoligion>
+  <!-- EN: Revert -->
+  <RevertToPreviousIdeoligion>Kembali</RevertToPreviousIdeoligion>
+  <!-- EN: Existing follower -->
+  <ExistingFollowerOfPlayerIdeoligion>Pengikut saat ini</ExistingFollowerOfPlayerIdeoligion>
+  <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
+  <AbandonArchotechStructuresWarningDialog>Mereka meninggalkan situs yang berisi struktur arkeoteknik yang belum dipelajari sepenuhnya.</AbandonArchotechStructuresWarningDialog>
+  <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
+  <ItemQuantityTooltip>{0} Jumlah yang dapat dibawa ke koloni baru. \ N \ nla Diizinkan jumlah maksimum adalah: {1}</ItemQuantityTooltip>
+  <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
+  <SoldColonyDescription>Koloni Anda dijual.Pembeli Anda siap memilih tempat mendarat.</SoldColonyDescription>
+
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
+  <ConfirmHackEnemyTerminal>Memegang {0} ini akan mengingatkan musuh dan membuat mereka menyerang.Apakah Anda benar -benar ingin meretas {0}?</ConfirmHackEnemyTerminal>
+
+  <!-- EN: Relics -->
+  <RelicsSection>Peninggalan</RelicsSection>
+
+  <!-- Food restrictions -->
+  <!-- EN: Vegetarian -->
+  <FoodRestrictionVegetarian>Vegetarian</FoodRestrictionVegetarian>
+  <!-- EN: Carnivore -->
+  <FoodRestrictionCarnivore>Karnivora</FoodRestrictionCarnivore>
+  <!-- EN: Cannibal -->
+  <FoodRestrictionCannibal>Kanibal</FoodRestrictionCannibal>
+  <!-- EN: Insect meat -->
+  <FoodRestrictionInsectMeat>Daging serangga</FoodRestrictionInsectMeat>
+
+  <!-- EN: Styles in use -->
+  <StylesInUse>Gaya digunakan</StylesInUse>
+  <!-- EN: Add a style. -->
+  <StyleCategoryAddDesc>Tambahkan gaya.</StyleCategoryAddDesc>
+</LanguageData>

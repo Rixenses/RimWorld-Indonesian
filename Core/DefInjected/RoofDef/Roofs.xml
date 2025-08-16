@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>Atap yang dibangun</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>bawah tanah</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>Atap batu alami yang halus</RoofRockThin.label>
+  
+</LanguageData>

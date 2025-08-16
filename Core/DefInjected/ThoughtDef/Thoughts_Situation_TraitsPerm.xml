@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: depressive -->
+  <MoodOffsetDepressive.stages.depressive.label>Depresiv {Pawn_gender?O: A}</MoodOffsetDepressive.stages.depressive.label>
+  <!-- EN: Natural penalty from 'depressive' trait. -->
+  <MoodOffsetDepressive.stages.depressive.description>Hukuman alami dari "depresiv {Pawn_gender? O: a}".</MoodOffsetDepressive.stages.depressive.description>
+  
+  <!-- EN: optimist -->
+  <MoodOffsetOptimist.stages.optimist.label>optimis</MoodOffsetOptimist.stages.optimist.label>
+  <!-- EN: Natural bonus from 'optimist' trait. -->
+  <MoodOffsetOptimist.stages.optimist.description>Bonus alami dari sifat "optimis".</MoodOffsetOptimist.stages.optimist.description>
+  
+  <!-- EN: pessimist -->
+  <MoodOffsetPessimist.stages.pessimist.label>pesimistis</MoodOffsetPessimist.stages.pessimist.label>
+  <!-- EN: Natural penalty from 'pessimist' trait. -->
+  <MoodOffsetPessimist.stages.pessimist.description>Hukuman alami dari fitur "pesimistis".</MoodOffsetPessimist.stages.pessimist.description>
+  
+  <!-- EN: sanguine -->
+  <MoodOffsetSanguine.stages.sanguine.label>confiad {Pawn_gender?O: A}</MoodOffsetSanguine.stages.sanguine.label>
+  <!-- EN: Natural bonus from 'sanguine' trait. -->
+  <MoodOffsetSanguine.stages.sanguine.description>Bonus Fitur Alami "Confed {Pawn_gender? O: A}".</MoodOffsetSanguine.stages.sanguine.description>
+  
+  <!-- EN: Tortured artist -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.label>Artis disiksa {Pawn_gender?O: A}</MoodOffsetTorturedArtist.stages.Tortured_artist.label>
+  <!-- EN: Natural penalty from 'tortured artist' trait. -->
+  <MoodOffsetTorturedArtist.stages.Tortured_artist.description>Hukuman alami dari "penyiksaan artis {pawn_gender? O: a}".</MoodOffsetTorturedArtist.stages.Tortured_artist.description>
+  
+</LanguageData>

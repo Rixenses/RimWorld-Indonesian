@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: discover ancient complex -->
+  <DiscoverAncientComplex.label>Temukan Kompleks Kuno</DiscoverAncientComplex.label>
+  <!-- EN: you will discover the location of an ancient complex nearby. -->
+  <DiscoverAncientComplex.effectDesc>Anda akan menemukan posisi kompleks tua di dekatnya.</DiscoverAncientComplex.effectDesc>
+  <!-- EN: You've discovered the location of an ancient complex. -->
+  <DiscoverAncientComplex.letterInfoText>Anda telah menemukan posisi kompleks lama.</DiscoverAncientComplex.letterInfoText>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>Hewan ternak bangun di sekitar daerah</FarmAnimalsWanderIn.label>
+  <!-- EN: a group of farm animals will be attracted and join the colony. -->
+  <FarmAnimalsWanderIn.effectDesc>Sekelompok hewan ternak akan tertarik dan akan bergabung dengan koloni.</FarmAnimalsWanderIn.effectDesc>
+  <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
+  <FarmAnimalsWanderIn.letterInfoText>Hewan ternak yang penasaran berjalan melewati daerah itu, tertarik karena kaget.</FarmAnimalsWanderIn.letterInfoText>
+  <FarmAnimalsWanderIn.requiredMemeList>Ternak, kepribadian hewan, keunggulan alami</FarmAnimalsWanderIn.requiredMemeList>
+  
+  <!-- EN: gauranlen pod sprout -->
+  <GauranlenTreePod.label>Brote de vaina Gauranlen</GauranlenTreePod.label>
+  <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
+  <GauranlenTreePod.effectDesc>Pod Gauranlen akan tumbuh di tempat acak di peta, jika Anda bisa.</GauranlenTreePod.effectDesc>
+  <!-- EN: A Gauranlen pod sprouted nearby. -->
+  <GauranlenTreePod.letterInfoText>Wabah pod Gauranlen tumbuh di dekatnya.</GauranlenTreePod.letterInfoText>
+  <GauranlenTreePod.requiredMemeList>Koneksi arboreal, keunggulan alami</GauranlenTreePod.requiredMemeList>
+  
+  <!-- EN: insect jelly -->
+  <InsectJellyTunnels.label>Jelly Serangga</InsectJellyTunnels.label>
+  <!-- EN: insect jelly deposits will be deposited from underground. -->
+  <InsectJellyTunnels.effectDesc>Deposit jeli serangga disimpan di lapisan tanah.</InsectJellyTunnels.effectDesc>
+  <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
+  <InsectJellyTunnels.letterInfoText>Sebuah koloni insektoid raksasa di lapisan tanah yang disimpan jeli serangga.</InsectJellyTunnels.letterInfoText>
+  
+  <!-- EN: nearby faction goodwill -->
+  <NearbyFactionGoodwill.label>Reputasi faksi terdekat</NearbyFactionGoodwill.label>
+  <!-- EN: you will gain goodwill from the nearest faction base. -->
+  <NearbyFactionGoodwill.effectDesc>Anda akan mendapatkan reputasi basis faksi terdekat.</NearbyFactionGoodwill.effectDesc>
+  <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->
+  <NearbyFactionGoodwill.letterInfoText>Anda memenangkan {jumlah} reputasi dengan faksi {felion_name}.</NearbyFactionGoodwill.letterInfoText>
+  
+  <!-- EN: random recruit -->
+  <RandomRecruit.label>Perekrutan acak</RandomRecruit.label>
+  <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
+  <RandomRecruit.effectDesc>50% cenderung bergabung dengan koloni Anda perekrutan acak dari ideologis yang sama.</RandomRecruit.effectDesc>
+  <!-- EN: A wanderer has arrived and wants to join your colony. -->
+  <RandomRecruit.letterInfoText>Seorang gelandangan telah tiba dan ingin bergabung dengan koloni Anda.</RandomRecruit.letterInfoText>
+  
+</LanguageData>

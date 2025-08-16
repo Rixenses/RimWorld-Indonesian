@@ -1,0 +1,826 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>Aurora</Aurora.label>
+  <!-- EN:
+    <li>Tale_noun-> Waktu aurora muncul di atas [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> The Time Polar Lights Shone Over [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] yang diterangi oleh cahaya aurora</li>
+    <li>gambar-> langit diterangi dalam [warna dan [warna [frasa keadaan]</li>
+    <li>Image-> Pola Sinar [Warna] yang luar biasa [SICKACE_PHRASE]</li>
+    <li>Image-> Jaringan Lampu [Warna] [SITUCING_PHRASE]</li>
+    <li>Image-> [Color] Swooping Arcs dengan [Color] Sorotan [SICKECANCE_PHRASE]</li>
+    <li>Image-> Dancing [Color] Lights [Soundance_Group]</li>
+    <li>SICKATCE_PHRASE-> di atas [terrainfeature]</li>
+    <li>SICKATCE_PHRASE-> menerangi [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> mengambang di atas [komunitas]</li>
+    <li>SICKATICE_PHRASE-> kurung antara [terrainfitur] dan [terrainfeature]</li>
+    <li>desc_sentence-> di bawah ini, [pawn_namedef] memainkan [game] dengan tampilan [kata sifat ramah].</li>
+    <li>desc_sentence-> [pawn_namedef] menonton dengan kekaguman di wajah [Pawn_possessive].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] arloji dari bawah.</li>
+    <li>desc_sentence-> [pawn_namedef] duduk di dekat [terrainfeature], menatap langit.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan berkeliaran dengan damai.</li>
+    <li>desc_sentence-> tidak ada [musuh] yang terlihat.</li>-><Aurora.rulePack.rulesStrings>
+    <li>Tale_noun-> Dawn muncul di [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Talent_noun-> Lampu kutub bersinar di [communitye-off] [pawn_namedef]</li>
+    <li>Tale_noun-> [community_fem] dari [pawn_namedef] diterangi oleh cahaya aurora</li>
+    <li>Gambar-> langit diterangi oleh warna [color_plora] dan [color_plora] [soundance_phrase]</li>
+    <li>Image-> Pola sinar yang luar biasa [Color_plural] [SICKECANCE_PHRASE]</li>
+    <li>Image-> Jaringan Lampu [Color_Lop] [SICKACE_PHRASE]</li>
+    <li>Image-> Arcos [color_plural] melintasi langit [soundance_phrase]</li>
+    <li>Image-> Lights [color_plural] menari [SICKETANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> SOBRE [TerrainfeatureIndef]</li>
+    <li>SITUCSANCE_PHRASE-> ILUMINANDO [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> SOBRE [CommunityIndef]</li>
+    <li>SICKCANCE_PHRASE-> entre [TerrainfeatureIndef] y [TerrainfeatureIndef]</li>
+    <li>Descent-> di bawah, [Pawn_Namedef] Plays {ganti: a [gamedef];"Ke"-"al"} dengan wajah [kata sifat ramah].</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan keheranan di wajahnya.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dari bawah.</li>
+    <li>Desc_sentence-> [pawn_namedef] duduk di dekat [TerrainfeatureIndef], mengamati langit.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] Pasean dengan damai.</li>
+    <li>Descent-> Tanpa [musuh] yang terlihat.</li>
+  </Aurora.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed -->
+  <CaravanAmbushedByHumanlike.label>Karavan disergap</CaravanAmbushedByHumanlike.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] karavan disergap</li>
+    <li>Image-> [pawn_namefull] cowering [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] Bergerak untuk melindungi sekutu [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bergerak untuk Menyerang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyerang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berteriak dengan keras [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menjalankan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bergerak dengan lawan [kelompok keadaan]</li>
+    <li>Image-> [pawn_namefull] membela [pawn_objective] self [soundance_group]</li>
+    <li>Ekspresi SICKACE_PHRASE-> dengan ekspresi [AdjectiveBadass]</li>
+    <li>Ekspresi SICKACE_PHRASE-> dengan ekspresi [AdjectiveBadass]</li>
+    <li>SICKCANCE_PHRASE-> Saat menggunakan senjata [Pawn_Possessives]</li>
+    <li>keadaan_phrase-> sambil berkeringat dengan aktivitas</li>
+    <li>desc_sentence-> [quantity_adjphrase] Angka-angka jauh mendekati dari belakang [terrainfeature].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S dapat dilihat di kejauhan.</li>
+    <li>desc_sentence-> [pawn_namedef] praktis dikelilingi oleh [musuh] s.</li>
+    <li>desc_sentence-> [pawn_namedef] dihadapkan oleh [musuh].</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari adegan konflik dalam ketakutan.</li>
+    <li>desc_sentence-> Di kejauhan, a [personjob] mengamati.</li>-><CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+    <li>Tale_noun-> karavan [Pawn_namedef] disergap</li>
+    <li>Image-> [Pawn_namefulull] Menempatkan penutup [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Bergerak untuk melindungi sekutu [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Bergerak untuk Menyerang [SICKETANCE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Atacando [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Gritando [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] corriendo [soundance_group]</li>
+    <li>Image-> [Pawn_namefulr] Berjuang dengan musuh [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Defendiéndose [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [Adjectivebadass]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> Saat pelindung senjata Anda</li>
+    <li>Keadaan_phrase-> Suding karena kelelahan</li>
+    <li>Angka desc_sentence-> [quantity_adjphrase] sedang mendekati [terrainfeatureIndef].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] S menjauhkan.</li>
+    <li>Desentencio-> [pawn_namedef] adalah rodead [pawn_o_a] oleh [musuh] s.</li>
+    <li>Desc_sentence-> [pawn_namedef] adalah retad [pawn_o_a] untuk [musuh].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] melarikan diri dari tempat konflik dengan ketakutan.</li>
+    <li>Desc_sentence-> jarak, a [personjob] mengamati.</li>
+  </CaravanAmbushedByHumanlike.rulePack.rulesStrings>
+  
+  <!-- EN: caravan ambushed by manhunter -->
+  <CaravanAmbushedByManhunter.label>Karavan disergap oleh pria berburu</CaravanAmbushedByManhunter.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] karavan disergap</li>
+    <li>Image-> [pawn_namefull] cowering [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] Bergerak untuk melindungi sekutu [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bergerak untuk Menyerang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyerang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berteriak dengan keras [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menjalankan [SICKECANCE_GROUP]</li>
+    <li>Ekspresi SICKACE_PHRASE-> dengan ekspresi [AdjectiveBadass]</li>
+    <li>Ekspresi SICKACE_PHRASE-> dengan ekspresi [AdjectiveBadass]</li>
+    <li>SICKCANCE_PHRASE-> Saat menggunakan senjata [Pawn_Possessives]</li>
+    <li>keadaan_phrase-> sambil berkeringat dengan aktivitas</li>
+    <li>SITUCTANCE_PHRASE-> Saat ditutupi dengan [Gore]</li>
+    <li>desc_sentence-> [quantity_adjphrase] pendekatan hewan jauh dari belakang [terrainfeature].</li>
+    <li>desc_sentence-> [gore] mencakup tanah.</li>
+    <li>desc_sentence-> tanah telah diinjak-injak menjadi berantakan [Gore].</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari adegan konflik dalam ketakutan.</li>
+    <li>desc_sentence-> Di kejauhan, a [personjob] mengamati.</li>-><CaravanAmbushedByManhunter.rulePack.rulesStrings>
+    <li>Tale_noun-> karavan [Pawn_namedef] disergap</li>
+    <li>Image-> [Pawn_Namefull] Escondiéndose [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Bergerak untuk melindungi sekutu [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Bergerak untuk Menyerang [SICKETANCE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Atacando [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Gritando [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] corriendo [soundance_group]</li>
+    <li>SICKATICE_PHRASE-> CON un SEMBLANTE [Adjectivebadass]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> Saat pelindung senjata Anda</li>
+    <li>Keadaan_phrase-> Suding karena kelelahan</li>
+    <li>Frasa keadaan-> tertutup [pawn_o_a] dalam tanah</li>
+    <li>Desc_sentence-> [quantity_adjphrase] pendekatan hewan dari belakang [terrainfeatureindef].</li>
+    <li>Cakupan desc_sentence-> a [gore_plural] tersebar di tanah.</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] melarikan diri dari tempat konflik dengan ketakutan.</li>
+    <li>Desc_sentence-> jarak, a [personjob] mengamati.</li>
+  </CaravanAmbushedByManhunter.rulePack.rulesStrings>
+  
+  <!-- EN: caravan demand -->
+  <CaravanDemand.label>karavan terancam</CaravanDemand.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] karavan menerima permintaan</li>
+    <li>Tale_noun-> karavan [Pawn_namedef] terancam</li>
+    <li>Image-> [pawn_namefull] cowering [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] berteriak dengan keras [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berpikir [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Melotot [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull], terancam oleh [personjob], [SITUCSANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] mengacungkan [senjata] [SICKACE_GROUP]</li>
+    <li>Ekspresi SICKACE_PHRASE-> dengan ekspresi [AdjectiveBadass]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveAngsty]</li>
+    <li>keadaan_phrase-> seperti yang orang lain lihat</li>
+    <li>keadaan_phrase-> saat terancam oleh [musuh]</li>
+    <li>desc_sentence-> [pawn_namedef] praktis dikelilingi oleh [musuh] s.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S ada di dekatnya, [aksi].</li>
+    <li>desc_sentence-> matahari terbenam di atas [terrainfeature].</li>
+    <li>desc_sentence-> matahari terbit di atas [terrainfeature].</li>
+    <li>desc_sentence-> Di kejauhan, a [personjob] mengamati.</li>
+    <li>Action-> Mempertajam senjata mereka</li>
+    <li>Aksi-> Menonton bahaya</li>
+    <li>Tindakan-> menjaga sandera</li>
+    <li>Tindakan-> Menunggu keputusan</li>
+    <li>Action-> ejekan [pawn_namedef]</li>-><CaravanDemand.rulePack.rulesStrings>
+    <li>Tale_noun-> karavan [Pawn_namedef] menerima ancaman</li>
+    <li>tale_noun-> karavan [Pawn_namedef] terancam</li>
+    <li>Image-> [Pawn_Namefull] Acobardándose [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Gritando [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Pensando [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Observando [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull], menerima penghinaan dari [Personjob], [Soumtance_Group]</li>
+    <li>Image-> [pawn_namefull] Blandiendo [weaponcacindef] [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [Adjectivebadass]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>SITUCTANCE_PHRASE-> Sementara itu adalah amenanazad [pawn_o_a] oleh [musuh] s</li>
+    <li>Desentencio-> [pawn_namedef] adalah rodead [pawn_o_a] oleh [musuh] s.</li>
+    <li>descent-> [quantity_adjphrase] [musuh] S sudah dekat, [aksi].</li>
+    <li>Desc_sentence-> Matahari tersembunyi di balik [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> Matahari terbit di belakang [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> jarak, a [personjob] mengamati.</li>
+    <li>Aksi-> mengasah senjata mereka</li>
+    <li>Action-> Watching</li>
+    <li>Action-> Vigilating Sandera</li>
+    <li>Tindakan-> Menunggu keputusan</li>
+    <li>Action-> mengancam [Pawn_namedef]</li>
+  </CaravanDemand.rulePack.rulesStrings>
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>Pertemuan karavan</CaravanMeeting.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] karavan yang disambut oleh orang lain</li>
+    <li>Image-> [Pawn_namefull] menyapa [personjob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Memeriksa [Personjob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] memanggil ke [Personjob] [SounIt_Group]</li>
+    <li>Image-> [Pawn_namefull] Berjalan menuju [PersonJob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbicara dengan tenang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berteriak dengan keras [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] bermain [game] dengan [personjob] [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveFriendly]</li>
+    <li>keadaan_phrase-> sementara [Verbem relies]</li>
+    <li>keadaan_phrase-> seperti yang orang lain lihat</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s [event].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s [event].</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan mengelilingi kelompok.</li>
+    <li>desc_sentence-> matahari terbenam di atas [terrainfeature].</li>
+    <li>desc_sentence-> matahari terbit di atas [terrainfeature].</li>
+    <li>desc_sentence-> Di kejauhan, a [personjob] mengamati.</li>
+    <li>Acara-> mengadakan pesta</li>
+    <li>Acara-> Makan Mudah Komunal</li>
+    <li>Acara-> Membahas acara terbaru</li>
+    <li>Event-> menyalakan kembali persahabatan lama</li>
+    <li>Acara-> Berbicara dengan ragu-ragu</li>-><CaravanMeeting.rulePack.rulesStrings>
+    <li>tale_noun-> karavan [Pawn_namedef] menerima kunjungan</li>
+    <li>Image-> [Pawn_namefull] Saludando A UN [Personjob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memeriksa [Personjob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] llamando a un [personjob] [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Berjalan menuju [Personjob] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Berbicara dengan tenang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Saludando a Gritos [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] bermain {ganti: a [gamedef];"Ke"-"al"} dengan [personjob] [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE (Pawn_gender == jantan)-> dan mulai [Verbfriendly]</li>
+    <li>SITUCTANCE_PHRASE (Pawn_gender! = Pria)-> dan mulai [verb friendly_fem]</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob_plural] están [acara].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob_plural] están [acara].</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] di sekitar grup.</li>
+    <li>Desc_sentence-> matahari terbenam di belakang [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> Matahari terbit di belakang [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> jarak, a [personjob] mengamati.</li>
+    <li>Acara-> Mengorganisir pesta</li>
+    <li>Acara-> makan daging panggang</li>
+    <li>Acara-> Membahas Acara Terbaru</li>
+    <li>Acara-> menghidupkan kembali persahabatan lama</li>
+    <li>Event-> berbicara dengan gugup</li>
+  </CaravanMeeting.rulePack.rulesStrings>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>gerhana</Eclipse.label>
+  <!-- EN:
+    <li>Tale_noun-> Eclipse over [Pawn_namedef] [Komunitas]</li>
+    <li>Gambar-> Langit gelap yang tidak wajar, [SITUCTANCE_PHRASE]</li>
+    <li>Image-> A Crepuscular Sky, [Soumtance_Phrase]</li>
+    <li>gambar-> bulan, dikelilingi oleh lingkaran sinar matahari yang samar, [keadaan_phrase]</li>
+    <li>Gambar-> [kuantitas adjphrase] [Hewan] S-milling di sekitar ketidakpastian dalam kegelapan, [frasa keadaan]</li>
+    <li>SITUKSE_PHRASE-> Udara masih dan tenang</li>
+    <li>SICKCANCE_PHRASE-> Twilight menyelimuti [terrainfeature] terdekat]</li>
+    <li>SITUCTANCE_PHRASE-> Twilight Smelleting [quantity_adjphrase] di dekatnya [Terrainfeature] S</li>
+    <li>SITUCTANCE_PHRASE-> dengan bintang yang terlihat</li>
+    <li>desc_sentence-> di bawah ini, [pawn_namedef] memainkan [game] dengan tampilan [kata sifat ramah].</li>
+    <li>desc_sentence-> [pawn_namedef] menonton dengan kekaguman di wajah [Pawn_possessive].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] arloji dari bawah.</li>
+    <li>desc_sentence-> [pawn_namedef] duduk di dekat [terrainfeature], menatap langit.</li>
+    <li>desc_sentence-> [komunitas] penonton mengawasi langit dengan damai.</li>
+    <li>desc_sentence-> tidak ada [musuh] yang terlihat.</li>-><Eclipse.rulePack.rulesStrings>
+    <li>Tale_noun-> Eclipse tentang [CommunityDef] dari [Pawn_Namedef] terjadi]</li>
+    <li>Gambar-> Langit yang anehnya gelap, [SITUCSANCE_PHRASE]</li>
+    <li>Image-> A Twilight Sky, [SITUCTANCE_PHRASE]</li>
+    <li>Gambar-> Bulan, dikelilingi oleh lingkaran tenue sinar matahari, [keadaan_phrase]</li>
+    <li>Gambar-> [quantity_adjphrase] [animalAnypl] Mengamati dengan ketidakpastian dalam gelap, [keadaan_phrase]</li>
+    <li>Keadaan_phrase-> udara masih</li>
+    <li>SITUCSANCE_PHRASE-> Sunset yang menutupi [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> A Twilight Charging [quantity_adjphrase] [TerrainfeaturePlany]</li>
+    <li>Keadaan_phrase-> dengan bintang yang terlihat</li>
+    <li>Descent-> di bawah, [Pawn_Namedef] Plays {ganti: a [gamedef];"Ke"-"al"} dengan wajah [kata sifat ramah].</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan keheranan di wajahnya.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dari bawah.</li>
+    <li>Desc_sentence-> [pawn_namedef] adalah sitad [pawn_o_a] di sebelah [terrainfeatureindef], mengamati langit.</li>
+    <li>Desc_sentence-> [communityIndefcap] dari penonton mengamati langit dengan damai.</li>
+    <li>Descent-> Tanpa musuh yang terlihat.</li>
+  </Eclipse.rulePack.rulesStrings>
+  
+  <!-- EN: journey offer -->
+  <EndGame_ShipEscape.label>Undangan perjalanan</EndGame_ShipEscape.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menerima pesan dari seorang teman lama</li>
+    <li>Tale_noun-> Peluang yang tiba untuk [komunitas Pawn_Namedef] [Komunitas]</li>
+    <li>Image-> [Pawn_namedef] Membuka surat yang dikirimkan oleh [Delivery_method] sementara [Soundance_Group]</li>
+    <li>Image-> [Pawn_namedef] Menggunakan datacrystal yang dikirimkan oleh [Delivery_method] sementara [Sounding_Group]</li>
+    <li>Image-> [pawn_namedef] membuka gulungan gulungan yang dikirimkan oleh [Delivery_method] sementara [Soundance_Group]</li>
+    <li>Image-> [Pawn_namedef] Menerima transmisi dari [transmisi_source] sementara [SICKACE_GROUP]</li>
+    <li>Image-> [pawn_namedef] Menerima pesan dari [transmisi_source] sementara [soundance_group]</li>
+    <li>Image-> [pawn_namedef] Menyetel ke pesan dari [transmisi_source] sementara [soundance_group]</li>
+    <li>Delivery_method-> [hewan]</li>
+    <li>Delivery_method-> [Personjob]</li>
+    <li>Delivery_method-> [Frase Adj Kuantitas] [Hewan</li>
+    <li>transmisi_source-> frekuensi yang jarang digunakan</li>
+    <li>transmisi_source-> pemancar kuno</li>
+    <li>transmisi_source-> sinyal daya rendah</li>
+    <li>transmisi_source-> sinyal jarak jauh</li>
+    <li>transmisi_source-> sinyal misterius</li>
+    <li>frasa keadaan-> berdiri sendiri di dekat [fitur medan]</li>
+    <li>SITUCTANCE_PHRASE-> Menjelajahi [Terrainfeature]</li>
+    <li>SITUCTANCE_PHRASE-> Cenderung tanaman</li>
+    <li>SITUCTANCE_PHRASE-> A [hewan] berkeliaran di masa lalu</li>
+    <li>SITUCTANCE_PHRASE-> Playing [Game]</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan berkeliaran di dekatnya, tidak sadar.</li>
+    <li>desc_sentence-> sebagai [Pawn_pronoun] berbunyi, [Pawn_pronoun] dimulai [Verbem Right].</li>
+    <li>desc_sentence-> spektral [personjob] mengawasi dari awan.</li>
+    <li>desc_sentence-> [pawn_namedef] duduk di dekat [fitur medan].</li>
+    <li>desc_sentence-> [komunitas] terlihat di kejauhan.</li>
+    <li>desc_sentence-> Spaceship terlihat di kejauhan.</li>-><EndGame_ShipEscape.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Menerima pesan dari seorang teman lama</li>
+    <li>Tale_noun-> Peluang yang datang ke [CommunityDef] [Pawn_Namedef]</li>
+    <li>Image-> [pawn_namedef] Membuka surat yang dikirimkan oleh [Delivery_method] sementara [Soundation_Group]</li>
+    <li>Image-> [pawn_namedef] Menggunakan kristal data yang dikirimkan oleh [Delivery_method] sementara [Soundce_Group]</li>
+    <li>Image-> [pawn_namedef] Melepaskan gulungan yang dikirimkan oleh [Delivery_method] sementara [SITUMCANCE_GROUP]</li>
+    <li>Image-> [pawn_namedef] menerima transmisi dari [transmisi_source] sementara [soundance_group]</li>
+    <li>Image-> [pawn_namedef] Menerima pesan dari [transmisi_source] sementara [soundance_group]</li>
+    <li>Image-> [pawn_namedef] Tune dalam pesan di [transmisi_source] sementara [Soundance_Group]</li>
+    <li>Delivery_method-> un ave</li>
+    <li>Delivery_method-> un [personjob]</li>
+    <li>Delivery_method-> [quantity_adjphrase] [animalAnypl]</li>
+    <li>transmisi_source-> sedikit frekuensi yang digunakan</li>
+    <li>transmisi_source-> pemancar tua</li>
+    <li>transmisi_source-> sinyal daya rendah</li>
+    <li>transmisi_source-> sinyal jarak jauh</li>
+    <li>transmisi_source-> sinyal misterius</li>
+    <li>SITUCTANCE_PHRASE-> duduk di sebelah [TerrainfeatureIndef]</li>
+    <li>SITUCSANCE_PHRASE-> Explora [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> menghadiri tanaman</li>
+    <li>SITUKSE_PHRASE-> A [hewan] berjalan dekat</li>
+    <li>SICKACE_PHRASE-> Playing {ganti: a [gamedef];"To el"-"al"}</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] berjalan dekat, tanpa khawatir.</li>
+    <li>Keturunan-> sementara [Pawn_pronoun] berbunyi, mulai [dengan kata lain].</li>
+    <li>Descent-> A [Job] Spectral mengamati dari awan.</li>
+    <li>Desc_sentence-> [pawn_namedef] duduk di sebelah [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> [communityIndefcap] terlihat dari kejauhan.</li>
+    <li>Desc_sentence-> pesawat ruang angkasa terlihat jarak.</li>
+  </EndGame_ShipEscape.rulePack.rulesStrings>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Badai Listrik</Flashstorm.label>
+  <!-- EN:
+    <li>Tale_noun-> Flashstorm yang mengancam [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] yang diancam oleh badai flash yang mematikan</li>
+    <li>Image-> [quantity_adjphrase] pemogokan petir [SICKECANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Dinding Api [SITUCING_PHRASE]</li>
+    <li>Image-> [Perilaku] Dinding [warna] Api [SICKACE_PHRASE]</li>
+    <li>Image-> [Perilaku] Awan abu dan asap [soundance_phrase]</li>
+    <li>Image-> [Perilaku] Gelombang Api [SITUMCANCE_PHRASE]</li>
+    <li>perilaku-> a</li>
+    <li>perilaku-> kemajuan</li>
+    <li>Perilaku-> Sebuah yang mendekat</li>
+    <li>SITUCTANCE_PHRASE-> Maju menuju [komunitas]</li>
+    <li>SITUCTANCE_PHRASE-> di bawah awan yang mengintimidasi</li>
+    <li>SITUCTANCE_PHRASE-> hampir menyelimuti [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> hampir menyelimuti [quantity_adjphrase] [terrainfeature] s</li>
+    <li>desc_sentence-> [pawn_namedef] jam tangan dengan ketakutan yang terlihat.</li>
+    <li>desc_sentence-> [pawn_namedef] menonton dengan kekaguman di wajah [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_namedef] adalah mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] terburu-buru untuk mempersiapkan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>desc_sentence-> Semua kehidupan hewan telah meninggalkan daerah tersebut.</li>-><Flashstorm.rulePack.rulesStrings>
+    <li>Tale_noun-> Badai listrik mengancam [CommunityDef] dari [Pawn_namedef]</li>
+    <li>tale_noun-> [communityedef] dari [pawn_namedef] berurusan dengan ancaman badai listrik yang mematikan</li>
+    <li>Image-> [quantity_adjphrase] Lightning Hit [SICKECANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Pared de Llamas [SITUCTANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Pared de Llamas [Color_FEM] [SICKECANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Ash and Smoke Cloud [Soumtance_Phrase]</li>
+    <li>Image-> [Perilaku] Ola de Llamas [SICKETANCE_PHRASE]</li>
+    <li>perilaku-> satu</li>
+    <li>Perilaku-> cepat</li>
+    <li>Perilaku-> yang mengesankan</li>
+    <li>SITUCTANCE_PHRASE-> Maju menuju [CommunityIndef]</li>
+    <li>SICKCANCE_PHRASE-> di bawah awan yang mengintimidasi</li>
+    <li>SITUCTANCE_PHRASE-> Covering [TerrainfeatureIndef] hampir sepenuhnya</li>
+    <li>keadaan_phrase-> cubriendo [quantity_adjphrase] [terrainfeatureplany] casi completamente</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan ketakutan.</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan keheranan di wajahnya.</li>
+    <li>Desc_sentence-> [pawn_namedef] mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] lari untuk mempersiapkan.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Desc_sentence-> Semua kehidupan hewan telah melarikan diri dari daerah tersebut.</li>
+  </Flashstorm.rulePack.rulesStrings>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>infestasi</Infestation.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] dipenuhi oleh serangga raksasa</li>
+    <li>gambar-> segerombolan kumbang [soundance_phrase]</li>
+    <li>Image-> [quantity_adjphrase] Megaspiders [SICKECANCE_PHRASE]</li>
+    <li>gambar-> gelombang luar biasa dari [warna] serangga [SICKECANCE_PHRASE]</li>
+    <li>Image-> Kabut bintik hitam padat [SITUCTANCE_PHRASE]</li>
+    <li>SITUCTANCE_PHRASE-> Maju atas [terrainfature]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya mengelilingi [komunitas]</li>
+    <li>SITUCTance_Phrase-> menyerang [kuantitas_adjphrase] [personjob] s</li>
+    <li>SITUCTANCE_PHRASE-> meledak keluar dari tanah</li>
+    <li>frasa keadaan-> pembantai [frasa adj kuantitas] [hewan</li>
+    <li>desc_sentence-> [pawn_namedef] mengatur perlawanan.</li>
+    <li>desc_sentence-> [pawn_namedef] memegang [senjata] secara defensif.</li>
+    <li>desc_sentence-> [pawn_namedef] terletak di tanah, terluka.</li>
+    <li>desc_sentence-> [pawn_namedef] membalas dengan [pawn_possessive] [senjata].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveBadass].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveangsty].</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>desc_sentence-> Semua kehidupan hewan telah meninggalkan daerah tersebut.</li>-><Infestation.rulePack.rulesStrings>
+    <li>tale_noun-> [community_fem] dari [pawn_namedef] dipenuhi oleh insektoid</li>
+    <li>Gambar-> segerombolan kumbang [soundance_phrase]</li>
+    <li>gambar-> [quantity_adjphrase] Megarañas [SICKECANCE_PHRASE]</li>
+    <li>Image-> Sejumlah besar insektoid [color_lop] [SICKECANCE_PHRASE]</li>
+    <li>Gambar-> kabut bintik hitam padat [frasa keadaan]</li>
+    <li>SITUCTANCE_PHRASE-> Maju [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> di sekitarnya sepenuhnya [CommunityIndef]</li>
+    <li>SITUCTance_Phrase-> Atacando a [quantity_adjphrase] [personjob_plural]</li>
+    <li>Keadaan_phrase-> meninggalkan tanah</li>
+    <li>SITUCTANCE_PHRASE-> MASACRANDO A [quantity_adjphrase] [animalAnypl]</li>
+    <li>Desc_sentence-> [pawn_namedef] mengatur perlawanan.</li>
+    <li>Desentent-> [pawn_namedef] Blande [weaponcacindef] defensif.</li>
+    <li>Desc_sentence-> [pawn_namedef] berbaring di tanah, herid [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_namedef] ambil pembalasan dengan [weaponIndef].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desentence-> [quantity_adjphrase] [personjob_plural] huyen del area.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Desc_sentence-> Semua kehidupan hewan telah melarikan diri dari daerah tersebut.</li>
+  </Infestation.rulePack.rulesStrings>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>Hand Hunches Manada</ManhunterPack.label>
+  <!-- EN:
+    <li>Tale_noun-> Manhunting Beasts mengancam [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] diserang oleh hewan gila</li>
+    <li>gambar-> kawanan [hewan [frasa keadaan]</li>
+    <li>Gambar-> [Frase Adj Kuantitas] [Hewan [frasa keadaan]</li>
+    <li>Image-> A [AdjecTivelArte] [hewan] [SICKECANCE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] angka bayangan [SICKECANCE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] Shadowy Quadrupeds [SICKECANCE_PHRASE]</li>
+    <li>SITUCTANCE_PHRASE-> Maju atas [terrainfature]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya mengelilingi [komunitas]</li>
+    <li>SITUCTance_Phrase-> menyerang [kuantitas_adjphrase] [personjob] s</li>
+    <li>frasa keadaan-> pembantai [frasa adj kuantitas] [hewan</li>
+    <li>SITUCTANCE_PHRASE-> Dimiliki oleh [hate_emotion]</li>
+    <li>SITUCTANCE_PHRASE-> Tercakup dalam [Gore]</li>
+    <li>Hate_emotion-> kebencian</li>
+    <li>Hate_emotion-> kemarahan</li>
+    <li>Hate_emotion-> Fury</li>
+    <li>desc_sentence-> [pawn_namedef] mengatur perlawanan.</li>
+    <li>desc_sentence-> [pawn_namedef] memegang [senjata] secara defensif.</li>
+    <li>desc_sentence-> [pawn_namedef] terletak di tanah, terluka.</li>
+    <li>desc_sentence-> [pawn_namedef] membalas dengan [pawn_possessive] [senjata].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveBadass].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveangsty].</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>-><ManhunterPack.rulePack.rulesStrings>
+    <li>Tale_noun-> The Beasts Perburuan Terancam [CommunityDef] dari [Pawn_Namedef]</li>
+    <li>Tale_noun-> [communitye</li>
+    <li>Image-> Sekelompok [animal_lopro] [SICKACE_PHRASE]</li>
+    <li>gambar-> [quantity_adjphrase] [animal_plural] [soundance_phrase]</li>
+    <li>Image-> un [AdjectivelArte] [hewan] [SICKECANCE_PHRASE]</li>
+    <li>Image-> [Quantity_adjphrase] Kontur Bayangan [SICKECANCE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] bayangan empat kali lipat [SICKECANCE_PHRASE]</li>
+    <li>SITUCTANCE_PHRASE-> Maju [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya di sekitar [CommunityIndef]</li>
+    <li>SITUCTance_Phrase-> Atacando a [quantity_adjphrase] [personjob_plural]</li>
+    <li>SITUCTANCE_PHRASE-> MASACRANDO A [quantity_adjphrase] [animalAnypl]</li>
+    <li>SITUCTANCE_PHRASE-> Dimiliki oleh [hate_emotion]</li>
+    <li>SITUCTANCE_PHRASE-> Ditutupi dengan [gore_plural]</li>
+    <li>Hate_emotion-> Benci</li>
+    <li>Hate_emotion-> kemarahan</li>
+    <li>hate_emotion-> la furia</li>
+    <li>Desc_sentence-> [pawn_namedef] mengatur perlawanan.</li>
+    <li>Desentent-> [pawn_namedef] Blande [weaponcacindef] defensif.</li>
+    <li>Desc_sentence-> [pawn_namedef] berbaring di tanah, herid [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_namedef] ambil pembalasan dengan [weaponIndef].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desentence-> [quantity_adjphrase] [personjob_plural] huyen del area.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+  </ManhunterPack.rulePack.rulesStrings>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>Dampak meteorit</MeteoriteImpact.label>
+  <!-- EN:
+    <li>Tale_noun-> A Meteorite Falling Near [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> Meteorit yang berdampak di dekat [Pawn_namedef] [Komunitas]</li>
+    <li>Image-> A [AdjectivelArte] Rock Trailing [Color] Api [Airborne_circumstance]</li>
+    <li>Gambar-> Tempat pencahayaan yang cerah [Airborne_circumstance]</li>
+    <li>Image-> A [AdjectivelArarge] [Color] Fireball [Airborne_circumstance]</li>
+    <li>Airborne_circumstance-> Blazing Di Langit</li>
+    <li>Airborne_circumstance-> Jatuh ke tanah di awan abu</li>
+    <li>Airborne_circumstance-> Shedding Rocks and Debris saat terbang</li>
+    <li>Image-> A [AdjectimeVelArge] Monolith, [Ground_circumstance]</li>
+    <li>Image-> A [AdjectivelArarge] [Color] batu hangus, [ground_circumstance]</li>
+    <li>Image-> A [Color] Pillar of Rock, [ground_circumstance]</li>
+    <li>ground_circumstance-> dikelilingi oleh asap dan abu</li>
+    <li>ground_circumstance-> merokok dari panas</li>
+    <li>ground_circumstance-> dikelilingi oleh puing-puing cair</li>
+    <li>ground_circumstance-> sebagian tertanam di tanah</li>
+    <li>ground_circumstance-> berbaring di kawah yang retak</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat terkejut.</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat dengan kegembiraan.</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat kaget.</li>
+    <li>desc_sentence-> [quantity_adjphrase] pendekatan angka dari [terrainfeature] terdekat.</li>
+    <li>desc_sentence-> [quantity_adjphrase] Angka menyiapkan alat dan peralatan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan] S Mill di sekitar ketidakpastian.</li>
+    <li>desc_sentence-> lingkungannya diredam dan kusam.</li>-><MeteoriteImpact.rulePack.rulesStrings>
+    <li>Tale_noun-> A meteorit jatuh di dekat [CommunityDef] dari [Pawn_namedef]</li>
+    <li>tale_noun-> hit meteorit [communitydef] dari [pawn_namedef]</li>
+    <li>Image-> A [Adjectivlarge] Limestone Meteorite [Airborne_circumstance]</li>
+    <li>Gambar-> titik terang [keadaan udara]</li>
+    <li>Image-> A [adjectivlarge_fem] Fireball [FEM Warna] [keadaan udara]</li>
+    <li>Airborne_circumstance-> Surchar the Sky</li>
+    <li>Keadaan di udara-> jatuh ke tanah di awan abu</li>
+    <li>Airborne_circumstance-> Melepaskan batu dan puing-puing saat terbang</li>
+    <li>Image-> un [AdjecTIVELArarge] Monolito, [ground_circumstance]</li>
+    <li>Image-> Un [AdjecTIVELArge] Meteoro [Color], [Ground_circumstance]</li>
+    <li>Gambar-> pilar batu [warna], [keadaan tanah]</li>
+    <li>Ground_circumstance-> dikelilingi oleh asap dan abu</li>
+    <li>ground_circumstance-> humeante</li>
+    <li>Keadaan tanah-> dikelilingi oleh puing-puing yang meleleh</li>
+    <li>Ground_circumstance-> sebagian tertanam di tanah</li>
+    <li>Ground_circumstance-> pemasangan di kawah bermarkas</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan terkejut.</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan emosi.</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan kekhawatiran.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] Siluet mendekati dari [terrainfeature] di dekatnya.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] Siluet menyiapkan alat dan peralatan mereka.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animal_plural] berjalan bingung.</li>
+    <li>Desc_sentence-> atmosfer dalam keheningan dan tanpa kecerahan.</li>
+  </MeteoriteImpact.rulePack.rulesStrings>
+  
+  <!-- EN: raid -->
+  <Raid.label>menyerang</Raid.label>
+  <!-- EN:
+    <li>Tale_noun-> An Raid on [Pawn_Namedef] [Komunitas]</li>
+    <li>Tale_noun-> Serangan pada [Komunitas Pawn_Namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] diserang oleh [musuh] s</li>
+    <li>gambar-> [quantity_adjphrase] [musuh] s [soundance_phrase]</li>
+    <li>Image-> An Army [SITUCTANCE_PHRASE]</li>
+    <li>Image-> Kekuatan luar biasa [SITUMCANCE_PHRASE]</li>
+    <li>Image-> Sebuah Kekuatan Menyerang [SITUCTANCE_PHRASE]</li>
+    <li>Gambar-> Spanduk [warna] bergaya [SITUCTANCE_PHRASE]</li>
+    <li>Image-> Sebuah [musuh] yang sangat besar [SICKACE_PHRASE]</li>
+    <li>SITUCTANCE_PHRASE-> Maju atas [terrainfature]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya mengelilingi [komunitas]</li>
+    <li>SITUCTance_Phrase-> menyerang [kuantitas_adjphrase] [personjob] s</li>
+    <li>SITUCTANCE_PHRASE-> meraung dalam kemenangan</li>
+    <li>SITUCTANCE_PHRASE-> mengacungkan [senjata] s</li>
+    <li>SITUCTANCE_PHRASE-> Tercakup dalam [Gore]</li>
+    <li>desc_sentence-> [pawn_namedef] mengorganisir resistensi sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] memegang [senjata] secara defensif sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] terletak di tanah, terluka.</li>
+    <li>desc_sentence-> [pawn_namedef] membalas dengan [pawn_possessive] [senjata] sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] berdiri setinggi sebuah bangunan, [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveBadass].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveangsty].</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>Defender_circumstance-> berteriak dengan penuh kemenangan</li>
+    <li>DEGENDER_CIRCUMSTANCE-> Glowing [Color]</li>
+    <li>DEGENDER_CIRCUMSTANCE-> Meningkatkan kepalan tangan</li>
+    <li>DEFENDER_CIRCUMSTANCE-> FLEXING [PAWN_POSSESIF] Otot</li>-><Raid.rulePack.rulesStrings>
+    <li>Tale_noun-> [communityedef] dari [pawn_namedef] sedang diserang</li>
+    <li>tale_noun-> [communitydef] dari [pawn_namedef] menerima serangan</li>
+    <li>tale_noun-> [communitydef] dari [Pawn_namedef] menerima serangan [musuh] s</li>
+    <li>gambar-> [quantity_adjphrase] [musuh] s [soundance_phrase]</li>
+    <li>Image-> An Army [SITUCTANCE_PHRASE]</li>
+    <li>Image-> Kekuatan yang kuat [SITUCCANCE_PHRASE]</li>
+    <li>Image-> Force Invasif [SITUCTANCE_PHRASE]</li>
+    <li>Image-> Estandartes [Color_plural] [SICKACE_PHRASE]</li>
+    <li>Image-> un neverorme [musuh] [soundance_phrase]</li>
+    <li>SITUCSANCE_PHRASE-> Maju dekat [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> di sekitarnya sepenuhnya [CommunityIndef]</li>
+    <li>SITUCTance_Phrase-> Atacando a [quantity_adjphrase] [personjob_plural]</li>
+    <li>SITUCTANCE_PHRASE-> meraung dengan emosi</li>
+    <li>SITUCTANCE_PHRASE-> Blandiendo [weaponcac_plural]</li>
+    <li>Keadaan_phrase-> tertutup darah</li>
+    <li>Desc_sentence-> [pawn_namedef] mengatur resistensi sementara [Defender_circumstance].</li>
+    <li>Desc_sentence-> [pawn_namedef] blande [weaponcacidef] bertahan sementara [defending_circumstance].</li>
+    <li>Desc_sentence-> [pawn_namedef] berbaring di tanah, herid [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_namedef] membela dirinya dengan [weaponcacidef] sementara [befender_circumstance].</li>
+    <li>Desc_sentence-> [pawn_namedef] Egerger sebagai alt [pawn_o_a] sebagai bangunan, dan [pertahanan_circumstance].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desentence-> [quantity_adjphrase] [personjob_plural] huyen del area.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Defend_circumstance-> berteriak kemenangan</li>
+    <li>Defend_circumstance-> bersinar dengan aura [color_fem]</li>
+    <li>Defender_circumstance-> Naikkan tinju yang menantang</li>
+    <li>Defend_circumstance-> Tegang otot Anda</li>
+  </Raid.rulePack.rulesStrings>
+  
+  <!-- EN: ship part crash -->
+  <ShipPartCrash.label>Modul Kapal Bintang</ShipPartCrash.label>
+  <!-- EN:
+    <li>Tale_noun-> Bagian kapal kuno yang menabrak di dekat [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> Bagian Kapal Kuno Pendaratan dekat [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> Sebuah bagian pendaratan kapal yang rusak di dekat [Pawn_namedef] [Komunitas]</li>
+    <li>gambar-> segerombolan [mechanoid] s [soundance_phrase]</li>
+    <li>Image-> Pasukan [Mechanoid] S [SITUCTANCE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] [mechanoid] s [Soumtance_Phrase]</li>
+    <li>Image-> A [AdjectivelArte] [Mechanoid] [SICKACE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] [Mechanoid] Silhouettes [SITUCTANCE_PHRASE]</li>
+    <li>Image-> [quantity_adjphrase] [mechanoid] s dengan sensor [warna] bersinar [soundance_phrase]</li>
+    <li>SITUCTANCE_PHRASE-> Maju atas [terrainfature]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya mengelilingi [komunitas]</li>
+    <li>SITUCTance_Phrase-> menyerang [kuantitas_adjphrase] [personjob] s</li>
+    <li>frasa keadaan-> pembantai [frasa adj kuantitas] [hewan</li>
+    <li>SITUCTANCE_PHRASE-> Tercakup dalam [Gore]</li>
+    <li>keadaan_phrase-> penyok dan berkilau</li>
+    <li>desc_sentence-> [pawn_namedef] mengorganisir resistensi sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] memegang [senjata] secara defensif sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] terletak di tanah, terluka.</li>
+    <li>desc_sentence-> [pawn_namedef] membalas dengan [pawn_possessive] [senjata] sementara [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] berdiri setinggi sebuah bangunan, [Defender_circumstance].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveBadass].</li>
+    <li>desc_sentence-> [pawn_namedef] memakai ekspresi [adjectiveangsty].</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> tanah dilapisi dengan logam bekas.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>Defender_circumstance-> berteriak dengan penuh kemenangan</li>
+    <li>DEGENDER_CIRCUMSTANCE-> Glowing [Color]</li>
+    <li>DEGENDER_CIRCUMSTANCE-> Meningkatkan kepalan tangan</li>
+    <li>DEFENDER_CIRCUMSTANCE-> FLEXING [PAWN_POSSESIF] Otot</li>-><ShipPartCrash.rulePack.rulesStrings>
+    <li>Tale_noun-> Sebuah kapal tua jatuh di dekat [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Tale_noun-> Sebuah kapal tua mendarat di dekat [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Tale_noun-> Modul yang rusak dari kapal yang mendarat di dekat [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Gambar-> segerombolan [mechanoidanypl] [soundance_phrase]</li>
+    <li>gambar-> pasukan [mechanoidanypl] [soundance_phrase]</li>
+    <li>gambar-> [quantity_adjphrase] [mechanoidanypl] [soundance_phrase]</li>
+    <li>Image-> un [AdjecTivelArte] [Mechanoid] [Soundance_Phrase]</li>
+    <li>Image-> [quantity_adjphrase] siluetas de [mechanoidanypl] [soundance_phrase]</li>
+    <li>Image-> [quantity_adjphrase] [mechanoidanypl] con sensor [color] brilante [soundance_phrase]</li>
+    <li>SITUCTANCE_PHRASE-> Maju [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> sepenuhnya di sekitar [CommunityIndef]</li>
+    <li>SITUCTance_Phrase-> Atacando a [quantity_adjphrase] [personjob_plural]</li>
+    <li>SITUCTANCE_PHRASE-> MASACRANDO A [quantity_adjphrase] [animalAnypl]</li>
+    <li>SICKCANCE_PHRASE-> dengan cakupan [gore_plural]</li>
+    <li>SITUCTANCE_PHRASE-> ABOLLED DAN MISIZLING</li>
+    <li>Desc_sentence-> [pawn_namedef] mengatur perlawanan.</li>
+    <li>Desentent-> [pawn_namedef] Blande [weaponcacindef] defensif.</li>
+    <li>Desc_sentence-> [pawn_namedef] berbaring di tanah, herid [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_namedef] ambil pembalasan dengan [weaponcacidef].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [pawn_namedef] yergue alt [pawn_o_a] sebagai bangunan, sedangkan [befender_circumstance].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan memo.</li>
+    <li>Desentence-> [quantity_adjphrase] [personjob_plural] huyen del area.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Defend_circumstance-> berteriak kemenangan</li>
+    <li>Defend_circumstance-> bersinar dengan aura [color_fem]</li>
+    <li>Defender_circumstance-> Naikkan tinju yang menantang</li>
+    <li>Defend_circumstance-> Tegang otot Anda</li>
+  </ShipPartCrash.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>angin topan</Tornado.label>
+  <!-- EN:
+    <li>Tale_noun-> Tornado yang mendarat di dekat [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Pawn_namedef] [Komunitas] yang dianamkan oleh Tornado</li>
+    <li>Image-> [Perilaku] Kerucut Udara Twisting [SITUCTANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Tornado [SITUMCANCE_PHRASE]</li>
+    <li>Image-> [Behavior] Hurricane [SITUMCANCE_PHRASE]</li>
+    <li>gambar-> [perilaku] [warna] Cloudformation [frase keadaan]</li>
+    <li>perilaku-> kemajuan</li>
+    <li>Perilaku-> Sebuah yang mendekat</li>
+    <li>perilaku-> bergerak cepat</li>
+    <li>perilaku-> berputar-putar</li>
+    <li>keadaan_phrase-> membawa puing-puing dengannya</li>
+    <li>SITUCSANCE_PHRASE-> Melewati [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> Mengaburkan [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> menyelimuti [terrainfeature]</li>
+    <li>desc_sentence-> [pawn_namedef] jam tangan dengan ketakutan yang terlihat.</li>
+    <li>desc_sentence-> [pawn_namedef] menonton dengan kekaguman di wajah [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_namedef] adalah mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] terburu-buru untuk mempersiapkan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>desc_sentence-> Semua kehidupan hewan telah meninggalkan daerah tersebut.</li>-><Tornado.rulePack.rulesStrings>
+    <li>Tale_noun-> Tornado yang dibentuk di dekat [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Tale_noun-> The [community_fem] dari [pawn_namedef] terancam oleh tornado</li>
+    <li>Image-> [Perilaku] Bergerak kerucut udara [frasa keadaan]</li>
+    <li>Image-> [Perilaku] Tornado [SITUMCANCE_PHRASE]</li>
+    <li>Image-> [Behavior] Huracán [Soumtance_Phrase]</li>
+    <li>Image-> [Behavior1] nube [color_fem] [Soumtance_Phrase]</li>
+    <li>Perilaku-> a</li>
+    <li>Perilaku-> cepat</li>
+    <li>Perilaku-> yang mengesankan</li>
+    <li>Perilaku-> yang kuat</li>
+    <li>perilaku1-> satu</li>
+    <li>Perilaku1-> cepat</li>
+    <li>Perilaku1-> yang mengesankan</li>
+    <li>Perilaku1-> yang kuat</li>
+    <li>SITUKSE_PHRASE-> Menyeret puing-puing di jalurnya</li>
+    <li>SITUCTANCE_PHRASE-> lewat [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> Darkening [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> cubriendo [TerrainfeatureIndef]</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan ketakutan.</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihat dengan keheranan di wajahnya.</li>
+    <li>Desc_sentence-> [pawn_namedef] mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] lari untuk pergi.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Desc_sentence-> Semua kehidupan hewan telah melarikan diri dari daerah tersebut.</li>
+  </Tornado.rulePack.rulesStrings>
+  
+  <!-- EN: tornado -->
+  <TornadoFromItem.label>angin topan</TornadoFromItem.label>
+  <!-- EN:
+    <li>Tale_noun-> Tornado yang mendarat di dekat [Colonist_namedef] [Komunitas]</li>
+    <li>Tale_noun-> [Colonist_namedef] [Komunitas] diancam oleh tornado</li>
+    <li>Image-> [Perilaku] Kerucut Udara Twisting [SITUCTANCE_PHRASE]</li>
+    <li>Image-> [Perilaku] Tornado [SITUMCANCE_PHRASE]</li>
+    <li>Image-> [Behavior] Hurricane [SITUMCANCE_PHRASE]</li>
+    <li>gambar-> [perilaku] [warna] Cloudformation [frase keadaan]</li>
+    <li>perilaku-> kemajuan</li>
+    <li>Perilaku-> Sebuah yang mendekat</li>
+    <li>perilaku-> bergerak cepat</li>
+    <li>perilaku-> berputar-putar</li>
+    <li>keadaan_phrase-> membawa puing-puing dengannya</li>
+    <li>SITUCSANCE_PHRASE-> Melewati [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> Mengaburkan [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> menyelimuti [terrainfeature]</li>
+    <li>desc_sentence-> [colonist_namedef] jam tangan dengan ketakutan yang terlihat.</li>
+    <li>desc_sentence (p = 0,5)-> [colonist_namedef] menonton dengan kekaguman di wajah [colonist_possessive].</li>
+    <li>desc_sentence (p = 0,5)-> [penyerang_namedef] menonton dengan kekaguman di wajah [penyerang_possessive].</li>
+    <li>desc_sentence-> [colonist_namedef] sedang mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>desc_sentence-> [penyerang_namedef] Cackles dengan gembira.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] terburu-buru untuk mempersiapkan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>
+    <li>desc_sentence-> Semua kehidupan hewan telah meninggalkan daerah tersebut.</li>-><TornadoFromItem.rulePack.rulesStrings>
+    <li>Tale_noun-> Tornado yang dibentuk di dekat [CommunityDef] dari [Colonist_namedef]</li>
+    <li>Tale_noun-> [community_fem] dari [colonist_namedef] terancam oleh tornado</li>
+    <li>Image-> [Perilaku] Bergerak kerucut udara [frasa keadaan]</li>
+    <li>Image-> [Perilaku] Tornado [SITUMCANCE_PHRASE]</li>
+    <li>Image-> [Behavior] Huracán [Soumtance_Phrase]</li>
+    <li>Image-> [Behavior1] nube [color_fem] [Soumtance_Phrase]</li>
+    <li>Perilaku-> a</li>
+    <li>Perilaku-> cepat</li>
+    <li>Perilaku-> yang mengesankan</li>
+    <li>Perilaku-> yang kuat</li>
+    <li>perilaku1-> satu</li>
+    <li>Perilaku1-> cepat</li>
+    <li>Perilaku1-> yang mengesankan</li>
+    <li>Perilaku1-> yang kuat</li>
+    <li>SITUKSE_PHRASE-> Menyeret puing-puing di jalurnya</li>
+    <li>SITUCTANCE_PHRASE-> lewat [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> Darkening [TerrainfeatureIndef]</li>
+    <li>SITUCTANCE_PHRASE-> cubriendo [TerrainfeatureIndef]</li>
+    <li>Desc_sentence-> [colonist_namedef] mengamati rasa takut.</li>
+    <li>Desc_sentence (p = 0,5)-> [colonist_namedef] terlihat dengan takjub di wajahnya.</li>
+    <li>Desc_sentence (p = 0,5)-> [penyerang_namedef] mengamati dengan keheranan di wajahnya.</li>
+    <li>Desc_sentence-> [colonist_namedef] sedang mengoordinasikan langkah-langkah pertahanan.</li>
+    <li>Desc_sentence-> [penyerang_namedef] tertawa dengan gembira.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] lari untuk pergi.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+    <li>Desc_sentence-> Semua kehidupan hewan telah melarikan diri dari daerah tersebut.</li>
+  </TornadoFromItem.rulePack.rulesStrings>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Hujan beracun</ToxicFallout.label>
+  <!-- EN:
+    <li>Tale_noun-> Fallout menetap di atas [komunitas Pawn_Namedef] [Komunitas]</li>
+    <li>Tale_noun-> Suasana dekat [Pawn_Namedef] [Komunitas] menjadi beracun</li>
+    <li>Gambar-> Langit yang tidak menyenangkan, [SITUCSANCE_GROUP]</li>
+    <li>Image-> Udara menjadi tebal dan [SITURCANCE_GROUP]</li>
+    <li>Gambar-> Tanah bersinar dengan lembut dan [SITUMCANCE_GROUP]</li>
+    <li>Image-> Fields of Dead Plant [Soumtance_Group]</li>
+    <li>Image-> [quantity_adjphrase] Graves [SICKECANCE_GROUP]</li>
+    <li>keadaan_phrase-> tanpa kehidupan yang terlihat</li>
+    <li>keadaan_phrase-> ditutupi oleh kemilau debu bercahaya samar</li>
+    <li>keadaan_phrase-> diatur dalam pola yang menunjukkan tulang</li>
+    <li>keadaan_phrase-> menunggu racun berhenti</li>
+    <li>desc_sentence-> [pawn_namedef] terletak di tanah, [Pawn_possessive] tubuh terpelintir pada sudut yang tidak biasa.</li>
+    <li>desc_sentence-> [pawn_namedef] bersembunyi di dekat [fitur medan], menatap dengan tampilan [kata sifat angsty].</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat kaget.</li>
+    <li>desc_sentence-> [pawn_namedef] bersandar dengan pelan dengan lapisan keringat di wajah [Pawn_possessive].</li>
+    <li>Kalimat Desc-> [frasa adj kuantitas] mati [hewan berbaring di tanah.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan] S Mill di sekitar ketidakpastian.</li>-><ToxicFallout.rulePack.rulesStrings>
+    <li>Tale_noun-> Hujan beracun jatuh pada [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Talent_noun-> Suasana dekat [CommunityDef] dari [Pawn_namedef] menjadi beracun</li>
+    <li>Gambar-> Langit yang tidak menyenangkan, [SITUCSANCE_GROUP]</li>
+    <li>Image-> Udara Menjadi Keruh dan [SITUMCANCE_GROUP]</li>
+    <li>Image-> Lantai yang bersinar damai dan [SITUMCANCE_GROUP]</li>
+    <li>Image-> Dead Plant Field [SICKACE_GROUP]</li>
+    <li>Image-> [quantity_adjphrase] tumbas [SICKECANCE_GROUP]</li>
+    <li>Frasa keadaan-> tanpa tanda kehidupan yang terlihat</li>
+    <li>SITUCTANCE_PHRASE-> ditutupi oleh lapisan tipis debu cahaya</li>
+    <li>Frasa keadaan-> dengan pola yang terlihat seperti tulang</li>
+    <li>Keadaan_phrase-> menunggu racun berhenti</li>
+    <li>Desc_sentence-> [pawn_namedef] terletak di tanah, tubuhnya yang tidak biasa.</li>
+    <li>Desc_sentence-> [pawn_namedef] bersembunyi di dekat [terrainfeatureindef], melihat dengan menabur [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] terlihat kaget.</li>
+    <li>Desc_sentence-> [pawn_namedef] beristirahat dengan damai dengan lapisan keringat di wajahnya.</li>
+    <li>Desc_sentence-> [kuantitas_adjphrase] tubuh [animalyp] hidup menutupi tanah.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] tubuh [animalAnypl] hidup berbaring.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animaypl] Amati dengan kebingungan.</li>
+  </ToxicFallout.rulePack.rulesStrings>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>musim dingin vulkanik</VolcanicWinter.label>
+  <!-- EN:
+    <li>Tale_noun-> Volcanic Winter dimulai di [Pawn_namedef] [Komunitas]</li>
+    <li>Image-> Langit yang gelap dan dingin, [SITUMCANCE_GROUP]</li>
+    <li>Image-> Udara Mengisi Dengan Ash, [SITUMCANCE_GROUP]</li>
+    <li>gambar-> tandus yang tertutup embun beku [terrainfeature] [SICKECANCE_GROUP]</li>
+    <li>Image-> [quantity_adjphrase] Bidang tanaman yang tertutup abu [SITUCCANCE_GROUP]</li>
+    <li>keadaan_phrase-> tanpa kehidupan yang terlihat</li>
+    <li>keadaan_phrase-> hampir tidak diterangi oleh poros cahaya tipis</li>
+    <li>SITUCTANCE_PHRASE-> dengan jelas diterangi dengan cahaya biru dingin</li>
+    <li>desc_sentence-> [pawn_namedef] meringkuk di dekat api.</li>
+    <li>desc_sentence-> untuk tetap hangat, [pawn_namedef] memakai [quantity_adjphrase] [pakaian] s.</li>
+    <li>desc_sentence-> [pawn_namedef] duduk di dekatnya, tampak kelelahan oleh cobaan itu.</li>
+    <li>desc_sentence-> [pawn_namedef] bersembunyi di dekat [fitur medan], menatap dengan tampilan [kata sifat angsty].</li>
+    <li>Kalimat Desc-> [frasa adj kuantitas] kelaparan [hewan mengelilingi pemandangan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] menggigil [hewan mengelilingi pemandangan.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan] S Mill di sekitar ketidakpastian.</li>-><VolcanicWinter.rulePack.rulesStrings>
+    <li>Tale_noun-> Musim dingin gunung berapi dimulai di [CommunityDef] dari [Pawn_namedef]</li>
+    <li>Gambar-> Langit yang dingin dan gelap, [SITUMCANCE_GROUP]</li>
+    <li>Image-> Udara Mengisi Dengan Ash, [SITUMCANCE_GROUP]</li>
+    <li>Image-> A [fitur medan] Beku dan gelap [Kelompok keadaan]</li>
+    <li>Gambar-> [quantity_adjphrase] Ash Tanam Tanaman Tertutup [SITUCING_GROUP]</li>
+    <li>Keadaan_phrase-> tanpa jejak kehidupan yang terlihat</li>
+    <li>Keadaan_phrase-> hampir tidak diterangi oleh sinar cahaya yang lemah</li>
+    <li>Keadaan_phrase-> hampir tidak diterangi dengan cahaya dingin dan biru</li>
+    <li>Desc_sentence-> [pawn_namedef] ikal di sebelah api.</li>
+    <li>Descent-> Untuk tetap panas, [Pawn_namedef] memakai [quantity_adjphrase] [pakaian] s.</li>
+    <li>Desc_sentence-> [pawn_namedef] adalah sitad [pawn_o_a] tutup, tampak buang [pawn_o_a] untuk masalah ini.</li>
+    <li>Kalimat Desc-> [Pawn_namedef] Bersembunyi tentang [teroinfeatureindef], mengamati dengan wajah [Adjectivengsty].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] kelaparan mengelilingi pemandangan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] gemetar mengelilingi pemandangan.</li>
+    <li>Desc_sentence-> [kuantitas_adjphrase] tubuh [animalyp] hidup menutupi tanah.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animaypl] Amati dengan kebingungan.</li>
+  </VolcanicWinter.rulePack.rulesStrings>
+  
+</LanguageData>

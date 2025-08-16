@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>kesurupan amarah</BerserkTrance.label>
+  <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
+  <BerserkTrance.description>Didorong oleh kepastian moral yang sengit dan kisah-kisah pengaduan ideologis, orang ini telah terbawa oleh kemarahan. Semua otot berada pada kinerja penuh, tetapi sulit untuk mematikan kemarahan.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>mandat pejuang</CombatCommand.label>
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <CombatCommand.description>Dengan mendorong dan memberikan perintah kepada sekutu terdekat, orang ini dapat meningkatkan konsentrasi mereka dalam pertempuran dan, oleh karena itu, kinerja pertempuran mereka.</CombatCommand.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommandBuff.label>mandat pejuang</CombatCommandBuff.label>
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <CombatCommandBuff.description>Keterampilan tempur ditingkatkan berkat menjadi dekat dengan seseorang yang menggunakan mandat tempur.</CombatCommandBuff.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommand.label>mandat budidaya</FarmingCommand.label>
+  <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
+  <FarmingCommand.description>Orang ini menawarkan bimbingan tentang teknik budidaya, meningkatkan keterampilan pertanian dari semua yang dekat.</FarmingCommand.description>
+  
+  <!-- EN: farming command -->
+  <FarmingCommandBuff.label>mandat budidaya</FarmingCommandBuff.label>
+  <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
+  <FarmingCommandBuff.description>Keterampilan budidaya orang ini ditingkatkan berkat dekat dengan seseorang yang menggunakan mandat budaya.</FarmingCommandBuff.description>
+  
+  <!-- EN: immunity drive -->
+  <ImmunityDrive.label>impuls kekebalan</ImmunityDrive.label>
+  <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
+  <ImmunityDrive.description>Orang ini telah menerima dukungan moral yang bersifat ideologis. Kepastian mentalnya telah memberikan energi pada tubuhnya dan telah memperkuat sistem kekebalan tubuhnya.</ImmunityDrive.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>mandat penembak</MarksmanCommand.label>
+  <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
+  <MarksmanCommand.description>Orang ini menggunakan kemampuan khusus untuk memanggil tembakan. Semua orang yang berada pada radius bonus penguatan efek.</MarksmanCommand.description>
+
+  <!-- EN: marksman command -->
+  <MarksmanCommandBuff.label>mandat penembak</MarksmanCommandBuff.label>
+  <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
+  <MarksmanCommandBuff.description>Seseorang menggunakan mandat tujuan di sekitarnya, meningkatkan keterampilan tembakan orang ini.</MarksmanCommandBuff.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>mandat penambangan</MiningCommand.label>
+  <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
+  <MiningCommand.description>Orang ini menawarkan panduan tentang teknik penambangan, mempromosikan kecepatan penambangan untuk semua yang dekat.</MiningCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommandBuff.label>mandat penambangan</MiningCommandBuff.label>
+  <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
+  <MiningCommandBuff.description>Kecepatan penambangan orang ini meningkat berkat fakta bahwa itu dekat dengan seseorang yang menggunakan mandat penambangan.</MiningCommandBuff.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>Doa Kesehatan</PreachHealth.label>
+  <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
+  <PreachHealth.description>Kesediaan untuk bertahan hidup orang ini diperkuat oleh pembicaraan dengan pemandu moral ideologisnya. Kepastian moral itu telah meningkatkan tingkat perolehan penyembuhan dan kekebalannya.</PreachHealth.description>
+
+  <!-- EN: production command -->
+  <ProductionCommand.label>mandat produksi</ProductionCommand.label>
+  <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
+  <ProductionCommand.description>Orang ini menawarkan panduan tentang teknik konstruksi, mempromosikan keterampilan konstruksi dan kerajinan dari semua yang dekat.</ProductionCommand.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommandBuff.label>mandat produksi</ProductionCommandBuff.label>
+  <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
+  <ProductionCommandBuff.description>Kecepatan konstruksi dan elaborasi orang ini ditingkatkan dengan dekat dengan seseorang yang menggunakan mandat produksi.</ProductionCommandBuff.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommand.label>mandat penelitian</ResearchCommand.label>
+  <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
+  <ResearchCommand.description>Orang ini menggunakan kemampuan khusus untuk memberikan saran dan dukungan mental, mempromosikan tingkat penelitian semua yang dekat.</ResearchCommand.description>
+  
+  <!-- EN: research command -->
+  <ResearchCommandBuff.label>mandat penelitian</ResearchCommandBuff.label>
+  <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
+  <ResearchCommandBuff.description>Tingkat penelitian orang ini ditingkatkan dengan dekat dengan seseorang yang menggunakan mandat penelitian.</ResearchCommandBuff.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>Impuls kerja</WorkDrive.label>
+  <!-- EN: The sense of being called upon by a leader to work harder. -->
+  <WorkDrive.description>Perasaan dipanggil oleh seorang pemimpin untuk bekerja lebih keras.</WorkDrive.description>
+  
+</LanguageData>

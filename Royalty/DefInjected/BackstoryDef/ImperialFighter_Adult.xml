@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
+  <Artilleryman28.description>[Pawn_namedef] memuat proyektil dan mengarahkan artileri untuk memukul pasukan musuh dari jauh.</Artilleryman28.description>
+  <!-- EN: artilleryman -->
+  <Artilleryman28.title>penembak</Artilleryman28.title>
+  <!-- EN: artillerywoman -->
+  <Artilleryman28.titleFemale>Artilute</Artilleryman28.titleFemale>
+  <!-- EN: artilleer -->
+  <Artilleryman28.titleShort>penembak</Artilleryman28.titleShort>
+  <Artilleryman28.titleShortFemale>Artilute</Artilleryman28.titleShortFemale>
+  
+  <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
+  <BrokenSoldier29.description>[Pawn_pronoun] adalah {Pawn_gender?Seorang prajurit: Seorang prajurit yang kuat dalam perang panjang.Dalam pertempuran terakhirnya, unitnya dikorbankan untuk menutupi penarikan. [Pawn_namedef] Dia melihat rekan -rekannya mati dan merupakan satu -satunya orang yang bertahan hidup.</BrokenSoldier29.description>
+  <!-- EN: broken soldier -->
+  <BrokenSoldier29.title>Prajurit yang menderita</BrokenSoldier29.title>
+  <BrokenSoldier29.titleFemale>Prajurit yang menderita</BrokenSoldier29.titleFemale>
+  <!-- EN: soldier -->
+  <BrokenSoldier29.titleShort>tentara</BrokenSoldier29.titleShort>
+  <BrokenSoldier29.titleShortFemale>tentara</BrokenSoldier29.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] manufactured and planted explosives used to breach enemy defenses. Dealing with explosives every day taught [PAWN_objective] to keep a level head and steady hand. -->
+  <Demolitionist39.description>[Pawn_namedef] memproduksi dan menanam bahan peledak yang digunakan untuk memecahkan pertahanan musuh.Perlakukan dengan bahan peledak setiap hari [Pawn_objective] diajarkan untuk menjaga tingkat kepala dan tangan yang teguh.</Demolitionist39.description>
+  <!-- EN: demolitionist -->
+  <Demolitionist39.title>menghancurkan</Demolitionist39.title>
+  <Demolitionist39.titleFemale>merusak</Demolitionist39.titleFemale>
+  <!-- EN: demolitionist -->
+  <Demolitionist39.titleShort>menghancurkan</Demolitionist39.titleShort>
+  <Demolitionist39.titleShortFemale>merusak</Demolitionist39.titleShortFemale>
+  
+  <!-- EN: After countless battles for a cause [PAWN_pronoun] did not believe in, [PAWN_nameDef] threw down [PAWN_possessive] arms and deserted. [PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted. -->
+  <Deserter65.description>Setelah pertempuran yang tak terhitung banyaknya untuk alasan yang [Pawn_pronoun] dia tidak percaya, [Pawn_namedef] melemparkan senjatanya dan sepi.[Pawn_namedef] hidup dalam isolasi, dianiaya oleh mereka yang [Pawn_pronoun] telah ditinggalkan.</Deserter65.description>
+  <!-- EN: deserter -->
+  <Deserter65.title>desertir</Deserter65.title>
+  <Deserter65.titleFemale>Desertora</Deserter65.titleFemale>
+  <!-- EN: deserter -->
+  <Deserter65.titleShort>desertir</Deserter65.titleShort>
+  <Deserter65.titleShortFemale>Desertora</Deserter65.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.\n\nWhen [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace. -->
+  <DisgracedOfficer19.description>Pawn_namedef] adalah {Pawn_gender?A: Seorang pejabat} dalam batalion kekaisaran.[Pawn_pronoun] Ia mengembangkan keterampilan sosial dan pertempuran untuk melakukan pekerjaannya dengan baik dan menghormati {Pawn_gender?O: A} oleh petugas lainnya. [Pawn_pronoun] Apakah itu terdegradasi {Pawn_gender?O: A} dan tidak pernah melarikan diri dari kemalangan.</DisgracedOfficer19.description>
+  <!-- EN: disgraced officer -->
+  <DisgracedOfficer19.title>Petugas Dishonored</DisgracedOfficer19.title>
+  <DisgracedOfficer19.titleFemale>Petugas Dishonor</DisgracedOfficer19.titleFemale>
+  <!-- EN: officer -->
+  <DisgracedOfficer19.titleShort>resmi</DisgracedOfficer19.titleShort>
+  <DisgracedOfficer19.titleShortFemale>resmi</DisgracedOfficer19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.\n\nConditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital. -->
+  <Firebomber51.description>[Pawn_namedef] menguji desain perburuan kecil yang berspesialisasi dalam gel pembakar pada tujuan yang mudah terbakar.O: A} Untuk menyukai pemandangan pengaturan, [Pawn_pronoun] datang untuk mencintai api dalam segala bentuknya: perang, dapur, dan bahkan untuk membakar luka di rumah sakit.</Firebomber51.description>
+  <!-- EN: firebomber -->
+  <Firebomber51.title>bombardero</Firebomber51.title>
+  <Firebomber51.titleFemale>pembom</Firebomber51.titleFemale>
+  <!-- EN: firebomber -->
+  <Firebomber51.titleShort>Bombardier</Firebomber51.titleShort>
+  <Firebomber51.titleShortFemale>pembom</Firebomber51.titleShortFemale>
+  
+  <!-- EN: Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels. -->
+  <InfantryEngineer46.description>Meskipun berada di batalion infanteri, [Pawn_namedef] jarang menembakkan senjata.Keistimewaannya adalah konstruksi pertahanan, perangkap, fasilitas defensif, dan terowongan Savia yang cepat.</InfantryEngineer46.description>
+  <!-- EN: infantry engineer -->
+  <InfantryEngineer46.title>Insinyur Infanteri</InfantryEngineer46.title>
+  <InfantryEngineer46.titleFemale>Insinyur Infanteri</InfantryEngineer46.titleFemale>
+  <!-- EN: engineer -->
+  <InfantryEngineer46.titleShort>insinyur</InfantryEngineer46.titleShort>
+  <InfantryEngineer46.titleShortFemale>Insinyur</InfantryEngineer46.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] treated the combat wounds of [PAWN_possessive] fallen comrades. -->
+  <InfantryMedic6.description>[Pawn_namedef] Memperlakukan luka tempur rekan -rekannya yang jatuh.</InfantryMedic6.description>
+  <!-- EN: infantry medic -->
+  <InfantryMedic6.title>Dokter Infanteri</InfantryMedic6.title>
+  <!-- EN: medic -->
+  <InfantryMedic6.titleShort>dokter</InfantryMedic6.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men. -->
+  <InfantryOfficer49.description>[Pawn_namedef] Apakah {Pawn_gender?A: Seorang pejabat} dalam batalion kekaisaran.Dia mengembangkan keterampilan sosial dan tempur untuk melakukan pekerjaannya dengan baik dan sangat menghormati {Pawn_gender?O: A} untuk pria.</InfantryOfficer49.description>
+  <!-- EN: infantry officer -->
+  <InfantryOfficer49.title>Petugas Infanteri</InfantryOfficer49.title>
+  <!-- EN: officer -->
+  <InfantryOfficer49.titleShort>resmi</InfantryOfficer49.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking counterintelligence agent tasked with thwarting enemy spies. -->
+  <IntelligenceAgent21.description>[Pawn_namedef] Apakah {Pawn_gender?A: Komisi agen kontra intelijen tinggi {Pawn_gender?O: A} untuk membuat frustrasi mata -mata musuh.</IntelligenceAgent21.description>
+  <!-- EN: intelligence agent -->
+  <IntelligenceAgent21.title>Agen intelijen</IntelligenceAgent21.title>
+  <!-- EN: intel -->
+  <IntelligenceAgent21.titleShort>agen</IntelligenceAgent21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it. -->
+  <LineInfanteer20.description>[Pawn_namedef] Apakah {Pawn_gender?: A} prajurit infanteri ordinari {Pawn_gender? O: A} dalam Batalion Kekaisaran.Namun, dia tidak pernah mengerti apa yang cukup terjadi di sekitarnya untuk benar -benar mempercayainya.</LineInfanteer20.description>
+  <!-- EN: line infanteer -->
+  <LineInfanteer20.title>prajurit kaki</LineInfanteer20.title>
+  <!-- EN: infanteer -->
+  <LineInfanteer20.titleShort>prajurit kaki</LineInfanteer20.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a janissary in a great lord's army. Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty. -->
+  <LoyalJanissary59.description>[Pawn_namedef] Apakah {Pawn_gender?: a} jenízaro di tentara seorang Tuhan yang agung.Bahkan lebih dari teman -teman pasukannya, [Pawn_pronoun] merasakan tugas yang mendalam, dan memahami apa arti hidup dalam upayanya untuk memenuhi tugasnya.</LoyalJanissary59.description>
+  <!-- EN: loyal janissary -->
+  <LoyalJanissary59.title>Jenízaro Leal</LoyalJanissary59.title>
+  <!-- EN: janissary -->
+  <LoyalJanissary59.titleShort>Jenzaro</LoyalJanissary59.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] stayed with the troops in training and in combat, administering to the dying and reinforcing the faith of the living.\n\nLike all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded. -->
+  <MilitaryChaplain10.description>[Pawn_namedef] Tetap bersama pasukan dalam pelatihan dan pertempuran, mengurus kematian dan memperkuat iman yang hidup.</MilitaryChaplain10.description>
+  <!-- EN: military chaplain -->
+  <MilitaryChaplain10.title>Pendeta Militer</MilitaryChaplain10.title>
+  <MilitaryChaplain10.titleFemale>Kapel Militer</MilitaryChaplain10.titleFemale>
+  <!-- EN: chaplain -->
+  <MilitaryChaplain10.titleShort>pendeta</MilitaryChaplain10.titleShort>
+  <MilitaryChaplain10.titleShortFemale>Capellan</MilitaryChaplain10.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an internal spymaster in an imperial army battalion. [PAWN_pronoun] made sure that the men were loyal, and did not fall back unless ordered. This made [PAWN_objective] unpopular, but [PAWN_pronoun] gained great skill at detecting the slightest dishonesty. -->
+  <MilitaryCommissar71.description>[Pawn_namedef] adalah mata -mata utama di dalam batalion Angkatan Laut Kekaisaran.Diyakinkan bahwa orang -orang itu setia dan tidak pensiun kecuali itu adalah perintahnya.Ini membuat [Pawn_objective] tidak populer, tetapi memungkinkannya untuk mengembangkan kemampuan yang hebat untuk mendeteksi bahkan kebohongan yang paling tidak signifikan.</MilitaryCommissar71.description>
+  <!-- EN: military commissar -->
+  <MilitaryCommissar71.title>Komisaris Militer</MilitaryCommissar71.title>
+  <MilitaryCommissar71.titleFemale>Komisaris Militer</MilitaryCommissar71.titleFemale>
+  <!-- EN: commissar -->
+  <MilitaryCommissar71.titleShort>komisaris</MilitaryCommissar71.titleShort>
+  <MilitaryCommissar71.titleShortFemale>makan</MilitaryCommissar71.titleShortFemale>
+  
+  <!-- EN: They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.\n\nThe job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops. -->
+  <MilitaryCook18.description>Mereka mengatakan tentara berbaris di perutnya.Pekerjaan [Pawn_namedef] adalah menyiapkan makanan untuk mempertahankan pawai unit Anda, terlepas dari kondisi. Pekerjaan mengharuskan Anda memperhatikan kebutuhan gizi dan psikologis pasukan.</MilitaryCook18.description>
+  <!-- EN: military cook -->
+  <MilitaryCook18.title>juru masak militer</MilitaryCook18.title>
+  <MilitaryCook18.titleFemale>Juru masak militer</MilitaryCook18.titleFemale>
+  <!-- EN: army cook -->
+  <MilitaryCook18.titleShort>Koki Angkatan Darat</MilitaryCook18.titleShort>
+  <MilitaryCook18.titleShortFemale>Masak Angkatan Darat</MilitaryCook18.titleShortFemale>
+  
+  <!-- EN: When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion. -->
+  <PiousSoldier67.description>Ketika saya tidak berlatih atau berkelahi, [Pawn_namedef] saya sering berada di sisi pendeta.[Pawn_pronoun] mendedikasikan hidupnya untuk melayani Tuhan dan agamanya.</PiousSoldier67.description>
+  <!-- EN: pious soldier -->
+  <PiousSoldier67.title>Prajurit Piadoso</PiousSoldier67.title>
+  <PiousSoldier67.titleFemale>prajurit saleh</PiousSoldier67.titleFemale>
+  <!-- EN: pious soldier -->
+  <PiousSoldier67.titleShort>Prajurit Piadoso</PiousSoldier67.titleShort>
+  <PiousSoldier67.titleShortFemale>prajurit saleh</PiousSoldier67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies favorably. -->
+  <Propagandist86.description>[Pawn_namedef] Apakah {Pawn_gender?: A} seniman militer dan propagandis yang terampil, di mana ia menciptakan karya seni yang mewakili tuan -tuan dan tentara dengan cara yang menguntungkan.</Propagandist86.description>
+  <!-- EN: propagandist -->
+  <Propagandist86.title>Propagandis</Propagandist86.title>
+  <Propagandist86.titleFemale>Propagandis</Propagandist86.titleFemale>
+  <!-- EN: propagandist -->
+  <Propagandist86.titleShort>Propagandis</Propagandist86.titleShort>
+  <Propagandist86.titleShortFemale>Propagandis</Propagandist86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location. -->
+  <ReconSniper89.description>[Pawn_namedef] Apakah {Pawn_gender?Seorang penembak jitu: Penembak jitu militer profesional.Apakah itu dilatih {Pawn_gender?O: A} Untuk dengan cepat mencapai posisi pemotretan yang tidak terduga, menembak tujuan utama dan melarikan diri sebelum musuh dapat mengidentifikasi lokasi mereka.</ReconSniper89.description>
+  <!-- EN: recon sniper -->
+  <ReconSniper89.title>penembak jitu</ReconSniper89.title>
+  <ReconSniper89.titleFemale>Maturrador</ReconSniper89.titleFemale>
+  <!-- EN: sniper -->
+  <ReconSniper89.titleShort>penembak jitu</ReconSniper89.titleShort>
+  <ReconSniper89.titleShortFemale>Maturrador</ReconSniper89.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] guarded the personal palace of a powerful lord.\n\nWhile violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns. -->
+  <RoyalGuard51.description>[Pawn_namedef] menjaga istana pribadi seorang tuan yang kuat. \ N \ Naunque Kekerasan jarang terjadi, intrik di istana itu konstan.Pekerjaan [Pawn_namedef] mengajarinya untuk menangani kata -kata dan senjata.</RoyalGuard51.description>
+  <!-- EN: royal guard -->
+  <RoyalGuard51.title>Guardia Real</RoyalGuard51.title>
+  <RoyalGuard51.titleFemale>Guardiana Real</RoyalGuard51.titleFemale>
+  <!-- EN: guard -->
+  <RoyalGuard51.titleShort>Guardia</RoyalGuard51.titleShort>
+  <RoyalGuard51.titleShortFemale>Wali</RoyalGuard51.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s role was to launch through the vacuum of space, land on the enemy ship's hull, punch holes to the interior, and conquer it in room-to-room combat. [PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.\n\n[PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress. -->
+  <Shipcracker37.description>Peran [Pawn_namedef] adalah untuk meluncurkan kekosongan ruang, mendarat di lambung kapal musuh, menembus lubang di dalam dan menaklukkannya dalam pertarungan kamar di kamar.[Pawn_pronoun] menjadi sangat bagus {Pawn_gender? O: A} memegang senjata berat Catafracta untuk memotong baja dan daging.</Shipcracker37.description>
+  <!-- EN: shipcracker -->
+  <Shipcracker37.title>navigator</Shipcracker37.title>
+  <Shipcracker37.titleFemale>navigator</Shipcracker37.titleFemale>
+  <!-- EN: shipcracker -->
+  <Shipcracker37.titleShort>navigator</Shipcracker37.titleShort>
+  <Shipcracker37.titleShortFemale>navigator</Shipcracker37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] revelled in bloodshed. Soldiers who served with [PAWN_objective] were terrified of [PAWN_possessive] ferocity. They rarely socialized with [PAWN_nameDef], and [PAWN_pronoun] did not mind the isolation. -->
+  <Warmonger35.description>[Pawn_namedef] senang dengan tumpahan darah.Para prajurit yang [Pawn_objective] melayani takut akan keganasan mereka.Mereka jarang bersosialisasi dengan [Pawn_pronoun], dan [Pawn_pronoun] tidak peduli dengan isolasi.</Warmonger35.description>
+  <!-- EN: warmonger -->
+  <Warmonger35.title>penghasut perang</Warmonger35.title>
+  <Warmonger35.titleFemale>penghasut perang</Warmonger35.titleFemale>
+  <!-- EN: warmonger -->
+  <Warmonger35.titleShort>penghasut perang</Warmonger35.titleShort>
+  <Warmonger35.titleShortFemale>penghasut perang</Warmonger35.titleShortFemale>
+  
+</LanguageData>

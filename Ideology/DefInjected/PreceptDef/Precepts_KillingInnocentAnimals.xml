@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <KillingInnocentAnimals_Abhorrent.label>menyimpang</KillingInnocentAnimals_Abhorrent.label>
+  <!-- EN: To kill an innocent animal is a horrifically inhuman act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation. -->
+  <KillingInnocentAnimals_Abhorrent.description>Membunuh hewan yang tidak bersalah adalah tindakan yang tidak manusiawi yang mengerikan.Hewan yang tidak bersalah adalah mereka yang tidak menyerang, atau yang hanya menyerang oleh provokasi manusia.</KillingInnocentAnimals_Abhorrent.description>
+  <!-- EN: Kill innocent animal -->
+  <KillingInnocentAnimals_Abhorrent.comps.2.description>Tidak bersalah</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  
+  <!-- EN: disapproved -->
+  <KillingInnocentAnimals_Disapproved.label>tidak disetujui</KillingInnocentAnimals_Disapproved.label>
+  <!-- EN: To kill an innocent animal is an ugly act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation. -->
+  <KillingInnocentAnimals_Disapproved.description>Membunuh hewan yang tidak bersalah adalah tindakan yang buruk.Hewan yang tidak bersalah adalah mereka yang tidak menyerang, atau yang hanya menyerang oleh provokasi manusia.</KillingInnocentAnimals_Disapproved.description>
+  <!-- EN: Killed innocent animal -->
+  <KillingInnocentAnimals_Disapproved.comps.0.description>Hewan yang tidak bersalah dibunuh</KillingInnocentAnimals_Disapproved.comps.0.description>
+  <!-- EN: Someone killed an innocent animal -->
+  <KillingInnocentAnimals_Disapproved.comps.2.description>Seseorang membunuh seekor hewan yang tidak bersalah</KillingInnocentAnimals_Disapproved.comps.2.description>
+  
+  <!-- EN: horrible -->
+  <KillingInnocentAnimals_Horrible.label>mengerikan</KillingInnocentAnimals_Horrible.label>
+  <!-- EN: To kill an innocent animal is a horrible act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation. -->
+  <KillingInnocentAnimals_Horrible.description>Membunuh hewan yang tidak bersalah adalah tindakan yang mengerikan.Hewan yang tidak bersalah adalah mereka yang tidak menyerang, atau yang hanya menyerang oleh provokasi manusia.</KillingInnocentAnimals_Horrible.description>
+  <!-- EN: Killed innocent animal -->
+  <KillingInnocentAnimals_Horrible.comps.0.description>Hewan yang tidak bersalah dibunuh</KillingInnocentAnimals_Horrible.comps.0.description>
+  <!-- EN: Someone killed an innocent animal -->
+  <KillingInnocentAnimals_Horrible.comps.2.description>Seseorang membunuh seekor hewan yang tidak bersalah</KillingInnocentAnimals_Horrible.comps.2.description>
+  
+</LanguageData>

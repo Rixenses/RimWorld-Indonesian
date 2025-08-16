@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>jernih</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Hari yang cerah.Tidak ada pengubah atau penalti.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>Ray Storm</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Badai ray sangat berbahaya karena dapat menyebabkan kebakaran dan tidak ada hujan untuk mematikannya.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>kabut</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Kabut mengurangi keakuratan senjata jarak jauh.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>Kabut hujan</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Kurangi keakuratan tembakan dan kecepatan gerakan.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>hujan</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Hujan mengurangi keakuratan senjata jarak jauh, mematikan api dan memperlambat orang.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>Badai hujan</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Sinar akan menyebabkan kebakaran, tetapi hujan akan memperpanjangnya.Hujan juga akan mengurangi kecepatan gerakan dan ketepatan tembakan.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>Nevada</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Salju mengurangi keakuratan tembakan, memadamkan api dan memperlambat orang.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>Badai salju</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Salju mengurangi keakuratan tembakan, memadamkan api dan memperlambat orang.</SnowHard.description>
+  
+  <!-- EN: underground -->
+  <Underground.label>lapisan tanah sebelah bawah</Underground.label>
+  <!-- EN: There is no weather underground. -->
+  <Underground.description>Tidak ada iklim di bawah tanah.</Underground.description>
+  
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>Rubah Arktik</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>Anjing predator kecil yang disesuaikan dengan dingin yang ekstrem.Biasanya berburu bendungan kecil seperti tikus dan musarañas, kadang -kadang mengubur di bawah meter salju untuk menemukan mangsanya.</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>cakar kiri</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.left_claw.labelNoLocation>cakar</Fox_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>Cakar kanan</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Arctic.tools.right_claw.labelNoLocation>cakar</Fox_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>kepala</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>Fénec</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>Seekor rubah kecil yang berasal dari utara benua Afrika di bumi.Memburu makhluk kecil dan memiliki telinga besar yang membantu Anda mendinginkan dalam panas.</Fox_Fennec.description>
+  <!-- EN: fox meat -->
+  <Fox_Fennec.race.meatLabel>Daging rubah</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>cakar kiri</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.left_claw.labelNoLocation>cakar</Fox_Fennec.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>Cakar kanan</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Fennec.tools.right_claw.labelNoLocation>cakar</Fox_Fennec.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>kepala</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>Rubah merah</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>Anjing kecil soliter berevolusi untuk berburu bendungan kecil di iklim beriklim sedang.Peternak ayam membenci rubah karena kemampuan mereka untuk menghancurkan seluruh kandang ayam dalam hitungan menit.</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>cakar kiri</Fox_Red.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.left_claw.labelNoLocation>cakar</Fox_Red.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>Cakar kanan</Fox_Red.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Fox_Red.tools.right_claw.labelNoLocation>cakar</Fox_Red.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>kepala</Fox_Red.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>Serigala Arktik</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>Varian Arktik dari serigala tanah.Sebagai pemburu kawanan, serigala memiliki struktur sosial yang kompleks dan cukup cerdas.</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>cakar kiri</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.left_claw.labelNoLocation>cakar</Wolf_Arctic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>Cakar kanan</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Arctic.tools.right_claw.labelNoLocation>cakar</Wolf_Arctic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>kepala</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>Wolf Pardo</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>Predator kasar yang ditakuti oleh budaya kuno bumi.Sebagai pemburu kawanan, serigala memiliki struktur sosial yang kompleks dan cukup cerdas.</Wolf_Timber.description>
+  <!-- EN: wolf meat -->
+  <Wolf_Timber.race.meatLabel>Daging serigala</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>cakar kiri</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.left_claw.labelNoLocation>cakar</Wolf_Timber.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>Cakar kanan</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Wolf_Timber.tools.right_claw.labelNoLocation>cakar</Wolf_Timber.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>kepala</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

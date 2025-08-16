@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: delicate -->
+  <Delicate.degreeDatas.delicate.label>halus</Delicate.degreeDatas.delicate.label>
+  <!-- EN: {PAWN_nameDef} has fragile skin and bones. {PAWN_pronoun} takes more damage than other people from the same blows. -->
+  <Delicate.degreeDatas.delicate.description>{Pawn_namedef} memiliki kulit dan tulang rapuh.{Pawn_pronoun} menerima lebih banyak kerusakan daripada orang lain untuk pukulan yang sama.</Delicate.degreeDatas.delicate.description>
+  <Delicate.degreeDatas.delicate.labelFemale>halus</Delicate.degreeDatas.delicate.labelFemale>
+  
+  <!-- EN: recluse -->
+  <Recluse.degreeDatas.recluse.label>recluso</Recluse.degreeDatas.recluse.label>
+  <!-- EN: The fewer people in {PAWN_nameDef}'s faction, the happier {PAWN_pronoun} is. Being alone is best of all. -->
+  <Recluse.degreeDatas.recluse.description>Semakin sedikit orang yang ada di faksi {Pawn_namedef}, yang lebih bahagia akan {Pawn_pronoun}.Kesepian adalah apa yang paling dia sukai.</Recluse.degreeDatas.recluse.description>
+  <Recluse.degreeDatas.recluse.labelFemale>pertapa</Recluse.degreeDatas.recluse.labelFemale>
+  
+</LanguageData>

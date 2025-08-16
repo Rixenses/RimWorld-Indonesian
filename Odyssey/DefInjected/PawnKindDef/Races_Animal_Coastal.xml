@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hermit crab -->
+  <HermitCrab.label>Kepiting pertapa</HermitCrab.label>
+  <HermitCrab.labelPlural>Kepiting Hermite</HermitCrab.labelPlural>
+  <HermitCrab.lifeStages.0.label>Breeding kepiting pertapa</HermitCrab.lifeStages.0.label>
+  <HermitCrab.lifeStages.0.labelPlural>Hermit Crab Young</HermitCrab.lifeStages.0.labelPlural>
+  <HermitCrab.lifeStages.1.label>Kepiting Pertapa Muda</HermitCrab.lifeStages.1.label>
+  <HermitCrab.lifeStages.1.labelPlural>Kepiting Hermite Muda</HermitCrab.lifeStages.1.labelPlural>
+  <HermitCrab.lifeStages.2.label>Kepiting pertapa</HermitCrab.lifeStages.2.label>
+  <HermitCrab.lifeStages.2.labelPlural>Kepiting Hermite</HermitCrab.lifeStages.2.labelPlural>
+  
+  <!-- EN: otter -->
+  <Otter.label>nutria</Otter.label>
+  <Otter.labelPlural>Jaring</Otter.labelPlural>
+  <Otter.lifeStages.0.label>BREEDING OTTER</Otter.lifeStages.0.label>
+  <Otter.lifeStages.0.labelPlural>Kari berang -berang</Otter.lifeStages.0.labelPlural>
+  <Otter.lifeStages.1.label>Berang -berang muda</Otter.lifeStages.1.label>
+  <Otter.lifeStages.1.labelPlural>OTori muda</Otter.lifeStages.1.labelPlural>
+  <Otter.lifeStages.2.label>nutria</Otter.lifeStages.2.label>
+  <Otter.lifeStages.2.labelPlural>Jaring</Otter.lifeStages.2.labelPlural>
+  
+  <!-- EN: seal -->
+  <Seal.label>segel</Seal.label>
+  <Seal.labelPlural>focas</Seal.labelPlural>
+  <!-- EN: seal pup -->
+  <Seal.lifeStages.seal_pup.label>segel</Seal.lifeStages.seal_pup.label>
+  <Seal.lifeStages.seal_pup.labelFemale>segel</Seal.lifeStages.seal_pup.labelFemale>
+  <Seal.lifeStages.seal_pup.labelFemalePlural>anjing segel</Seal.lifeStages.seal_pup.labelFemalePlural>
+  <!-- EN: seal pups -->
+  <Seal.lifeStages.seal_pup.labelPlural>anjing segel</Seal.lifeStages.seal_pup.labelPlural>
+  <Seal.lifeStages.1.label>Segel Muda</Seal.lifeStages.1.label>
+  <Seal.lifeStages.1.labelPlural>Segel muda</Seal.lifeStages.1.labelPlural>
+  <Seal.lifeStages.2.label>segel</Seal.lifeStages.2.label>
+  <Seal.lifeStages.2.labelPlural>focas</Seal.lifeStages.2.labelPlural>
+  
+  <!-- EN: sea lion -->
+  <SeaLion.label>singa laut</SeaLion.label>
+  <SeaLion.labelPlural>Singa Laut</SeaLion.labelPlural>
+  <!-- EN: sea lion pup -->
+  <SeaLion.lifeStages.sea_lion_pup.label>Sea Lion Puppy</SeaLion.lifeStages.sea_lion_pup.label>
+  <SeaLion.lifeStages.sea_lion_pup.labelFemale>Puppy Marine León</SeaLion.lifeStages.sea_lion_pup.labelFemale>
+  <SeaLion.lifeStages.sea_lion_pup.labelFemalePlural>León Marino Dogs</SeaLion.lifeStages.sea_lion_pup.labelFemalePlural>
+  <!-- EN: sea lion pups -->
+  <SeaLion.lifeStages.sea_lion_pup.labelPlural>Anak anjing singa laut</SeaLion.lifeStages.sea_lion_pup.labelPlural>
+  <SeaLion.lifeStages.1.label>Leon Marinir Muda</SeaLion.lifeStages.1.label>
+  <SeaLion.lifeStages.1.labelPlural>Singa Laut Muda</SeaLion.lifeStages.1.labelPlural>
+  <SeaLion.lifeStages.2.label>singa laut</SeaLion.lifeStages.2.label>
+  <SeaLion.lifeStages.2.labelPlural>Singa Laut</SeaLion.lifeStages.2.labelPlural>
+  
+  <!-- EN: sea turtle -->
+  <SeaTurtle.label>Tortuga Marina</SeaTurtle.label>
+  <SeaTurtle.labelPlural>penyu</SeaTurtle.labelPlural>
+  <SeaTurtle.lifeStages.0.label>Kura -kura laut</SeaTurtle.lifeStages.0.label>
+  <SeaTurtle.lifeStages.0.labelPlural>Anak anjing kura -kura laut</SeaTurtle.lifeStages.0.labelPlural>
+  <SeaTurtle.lifeStages.1.label>Kura -kura laut muda</SeaTurtle.lifeStages.1.label>
+  <SeaTurtle.lifeStages.1.labelPlural>Kura -kura laut muda</SeaTurtle.lifeStages.1.labelPlural>
+  <SeaTurtle.lifeStages.2.label>Tortuga Marina</SeaTurtle.lifeStages.2.label>
+  <SeaTurtle.lifeStages.2.labelPlural>penyu</SeaTurtle.lifeStages.2.labelPlural>
+  
+  <!-- EN: stone crab -->
+  <StoneCrab.label>kepiting batu</StoneCrab.label>
+  <StoneCrab.labelPlural>cangrejos de piedra</StoneCrab.labelPlural>
+  <StoneCrab.lifeStages.0.label>cría de cangrejo de piedra</StoneCrab.lifeStages.0.label>
+  <StoneCrab.lifeStages.0.labelPlural>crías de cangrejo de piedra</StoneCrab.lifeStages.0.labelPlural>
+  <StoneCrab.lifeStages.1.label>Kepiting Batu Muda</StoneCrab.lifeStages.1.label>
+  <StoneCrab.lifeStages.1.labelPlural>Kepiting Batu Muda</StoneCrab.lifeStages.1.labelPlural>
+  <StoneCrab.lifeStages.2.label>kepiting batu</StoneCrab.lifeStages.2.label>
+  <StoneCrab.lifeStages.2.labelPlural>kepiting batu</StoneCrab.lifeStages.2.labelPlural>
+  
+  <!-- EN: walrus -->
+  <Walrus.label>pegangan</Walrus.label>
+  <Walrus.labelPlural>Morsas</Walrus.labelPlural>
+  <!-- EN: walrus calf -->
+  <Walrus.lifeStages.walrus_calf.label>Anjing morsa</Walrus.lifeStages.walrus_calf.label>
+  <Walrus.lifeStages.walrus_calf.labelFemale>Anjing morsa</Walrus.lifeStages.walrus_calf.labelFemale>
+  <Walrus.lifeStages.walrus_calf.labelFemalePlural>Anjing Morsa</Walrus.lifeStages.walrus_calf.labelFemalePlural>
+  <!-- EN: walrus calves -->
+  <Walrus.lifeStages.walrus_calf.labelPlural>Anjing Morsa</Walrus.lifeStages.walrus_calf.labelPlural>
+  <Walrus.lifeStages.1.label>Morsa Young</Walrus.lifeStages.1.label>
+  <Walrus.lifeStages.1.labelPlural>Morsas muda</Walrus.lifeStages.1.labelPlural>
+  <Walrus.lifeStages.2.label>pegangan</Walrus.lifeStages.2.label>
+  <Walrus.lifeStages.2.labelPlural>Morsas</Walrus.lifeStages.2.labelPlural>
+  
+</LanguageData>

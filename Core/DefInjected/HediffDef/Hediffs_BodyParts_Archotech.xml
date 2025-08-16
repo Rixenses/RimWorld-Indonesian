@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>lengan arkeologi</ArchotechArm.label>
+  <!-- EN: An installed archotech arm. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>Lengan arkeologi dipasang. Lengan ini cukup kuat untuk menghancurkan cabang kayu keras yang tebal dengan tangan, dan cukup presisi untuk menulis soneta di atas sebutir beras. Memiliki tampilan dan nuansa daging alami, tetapi lebih sulit rusak daripada plastisteel. Bahkan jika rusak, kayu ini dapat memperbaiki dirinya sendiri seiring berjalannya waktu. Cara kerjanya adalah misteri bagi semua pikiran manusia.</ArchotechArm.description>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>tinju</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>lengan arkeologi</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>mata arkeologi</ArchotechEye.label>
+  <!-- EN: An installed archotech eye. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
+  <ArchotechEye.description>Mata arkeologi yang dipasang. Mata ini mendeteksi semua jenis radiasi elektromagnetik, termasuk gelombang radio, inframerah, cahaya tampak, sinar-X, dan sinar gamma. Ketajaman visualnya cukup akurat untuk membaca teks pada jarak 20 meter. Alat ini dapat memancarkan berbagai panjang gelombang radiasi seperti senter dan memiliki sub-persona internal yang membantu menyoroti informasi visual yang berguna. Cara kerjanya merupakan misteri bagi pikiran manusia.</ArchotechEye.description>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>mata arkeologi</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>kaki arkeotheque</ArchotechLeg.label>
+  <!-- EN: An installed archotech leg. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>Kaki arkeoteknologi yang dipasang. Kaki palsu ini memiliki tampilan dan rasa seperti daging alami, tetapi sepasang kaki palsu ini dapat menggerakkan penggunanya secepat kendaraan yang layak, dan lebih sulit rusak daripada baja plastis. Bahkan jika rusak, kaki palsu ini dapat memperbaiki dirinya sendiri seiring berjalannya waktu. Cara kerjanya merupakan misteri bagi setiap pikiran manusia.</ArchotechLeg.description>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>Kaki arkeologis</ArchotechLeg.labelNoun>
+  
+</LanguageData>

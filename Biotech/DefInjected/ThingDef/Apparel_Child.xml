@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kid helmet -->
+  <Apparel_KidHelmet.label>Helm Anak</Apparel_KidHelmet.label>
+  <!-- EN: A simple helmet sized for children. It gives moderate protection against sharp attacks. Not effective against blunt weapons. That said, if this is being used in combat something has already gone very wrong. -->
+  <Apparel_KidHelmet.description>Helm sederhana yang dirancang untuk anak -anak.Ini akan memberi mereka perlindungan moderat terhadap serangan akut.Ini tidak efektif melawan senjata tumpul.Yang mengatakan, jika ini digunakan dalam pertempuran sesuatu telah berjalan sangat buruk.</Apparel_KidHelmet.description>
+  
+  <!-- EN: kid pants -->
+  <Apparel_KidPants.label>Celana anak</Apparel_KidPants.label>
+  <!-- EN: A small set of pants sized to fit children. -->
+  <Apparel_KidPants.description>Celana kecil yang sesuai dengan ukuran anak.</Apparel_KidPants.description>
+  
+  <!-- EN: kid parka -->
+  <Apparel_KidParka.label>Anorak sebagai seorang anak</Apparel_KidParka.label>
+  <!-- EN: A heavy jacket for keeping a child warm in cold temperatures. -->
+  <Apparel_KidParka.description>Jaket berat untuk menjaga anak panas pada suhu rendah.</Apparel_KidParka.description>
+  
+  <!-- EN: kid romper -->
+  <Apparel_KidRomper.label>Set anak -anak</Apparel_KidRomper.label>
+  <!-- EN: A combined t-shirt and pants sized for kids, with a snuggly built-in undergarment. Little ones love it! -->
+  <Apparel_KidRomper.description>Kombinasi T -rhirt dan celana untuk anak -anak, dengan pakaian interior yang nyaman.Anak -anak kecil cinta!</Apparel_KidRomper.description>
+  
+  <!-- EN: kid shirt -->
+  <Apparel_KidShirt.label>Anak -anak</Apparel_KidShirt.label>
+  <!-- EN: A small, simple t-shirt sized to fit children. -->
+  <Apparel_KidShirt.description>T -Shirt kecil dan sederhana untuk anak -anak.</Apparel_KidShirt.description>
+  
+  <!-- EN: kid tribalwear -->
+  <Apparel_KidTribal.label>tunik suku anak</Apparel_KidTribal.label>
+  <!-- EN: A one-piece garment sized for kids, crafted using neolithic tools. It provides effective insulation against the elements. -->
+  <Apparel_KidTribal.description>Pakaian satu -satu untuk anak -anak, dibuat dengan alat neolitik.Ini memberikan isolasi yang efektif terhadap elemen -elemen tersebut.</Apparel_KidTribal.description>
+  
+</LanguageData>

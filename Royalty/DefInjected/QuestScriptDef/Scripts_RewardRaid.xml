@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], ingin Anda membantu menyimpan salah satu karavan [asker_possessive].Karavan sedang diburu di dekat [peta_definite] oleh (*ancaman) [numgroupsof] [musuh.[asker_namedef] ingin Anda memberi sinyal [musuh.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], membuat permintaan Anda.[asker_namedef] meminta Anda mengirimi mereka pesan tantangan, menarik mereka untuk menyerang dan menghilangkan ancaman itu sendiri. [EndingCommon]</li>
+    <li>GroupsOf (raidCount == 1, prioritas = 1)-> [musuh .faction_pawnsplural]</li>
+    <li>kelompok-> [num kelompok] [musuh faksi_pawns jamak]</li>
+    <li>EndingCommon (HelterScount == 0)-> \ n \ n [Pawnkindsparagraph] \ n \ nif Anda menerima, [musuh.</li>
+    <li>EndingCommon (HelterScount> = 1)-> \ n \ n [Pawnkindsparagraph] [HelMersParagraph] Jika Anda menerima, [musuh ,_pawnsplural] akan tiba di [firstraiddelayticks_duration].</li>-><ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari faksi [asker_faction_name], ingin bantuan Anda menyimpan salah satu karavannya.Karavan sedang dibuntuti di dekat [peta_definite] oleh (*ancaman) [numgroupsof] [musuh.[Asker_namedef] ingin Anda membuat sinyal ke [musuhfaction_pawnsplural] untuk menjauhkan mereka dari karavan, dan pergi ke arah Anda. [EndingCommon]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefulr], [asker_a] [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], Anda membuat permintaan.[Asker_namedef] meminta Anda untuk mengirimi mereka pesan tantangan kepada para penguntit untuk menarik mereka kepada Anda dan sehingga Anda dapat menghilangkan ancaman ini. [EndingCommon]</li>
+    <li>GroupsOf (raidCount == 1, prioritas = 1)-> [musuh .faction_pawnsplural]</li>
+    <li>kelompok-> [num kelompok] [musuh faksi_pawns jamak]</li>
+    <li>EndingCommon (HelterScount == 0)-> \ n \ n [Pawnkindsparagraph] \ n \ nsi Acepas, los [musuh.</li>
+    <li>EndingCommon (HelterScount> = 1)-> \ n \ n [Pawnkindsparagraph] [HeltersParagraph] Si Acepas, Los [musuh ,_pawnsplural] llegarán en [firstraiddelayticks_duration].</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [musuh .faction_pawnsplural] dari Fortune</li>
+    <li>QuestName-> [kekerasan] dari Fortune</li>
+    <li>QuestName-> [kekerasan] untuk disewa</li>
+    <li>QuestName-> [kekerasan] untuk keuntungan</li>
+    <li>QuestName-> dihargai [kekerasan]</li>
+    <li>QuestName-> dibayar [kekerasan]</li>
+    <li>QuestName-> kompensasi [kekerasan]</li>
+    <li>QuestName (hadiah == RoyalFavor)-> [musuh .faction_pawnsplural] untuk bantuan</li>
+    <li>QuestName (hadiah == royalfavor)-> [kekerasan] untuk bantuan</li>
+    <li>Kekerasan-> Kekerasan</li>
+    <li>kekerasan-> pertempuran</li>
+    <li>kekerasan-> pertempuran</li>
+    <li>Kekerasan-> Perang</li>
+    <li>kekerasan-> pertempuran</li>
+    <li>kekerasan-> pertumpahan darah</li>
+    <li>Kekerasan-> Serangan</li>
+    <li>Kekerasan-> Pertahanan</li>
+    <li>Kekerasan-> Konflik</li>
+    <li>Kekerasan-> Permusuhan</li>
+    <li>Kekerasan-> Peperangan</li>-><ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>QuestName-> [musuh</li>
+    <li>QuestName-> [kekerasan] untuk rampasan</li>
+    <li>QuestName-> [Violencevar] untuk rampasan</li>
+    <li>QuestName-> [kekerasan] untuk disewa</li>
+    <li>QuestName-> [Violencevar] Sewa</li>
+    <li>QuestName-> [kekerasan] untuk keuntungan</li>
+    <li>QuestName-> [Violencevar] untuk mendapatkan keuntungan</li>
+    <li>QuestName-> [kekerasan] menguntungkan</li>
+    <li>QuestName-> [Violencevar] menguntungkan</li>
+    <li>QuestName-> Membayar [Kekerasan]</li>
+    <li>QuestName-> Membayar untuk [Violencevar]</li>
+    <li>QuestName-> [kekerasan] dihargai</li>
+    <li>QuestName-> [Violencevar] dihargai</li>
+    <li>QuestName (hadiah == royalfavor)-> [musuh</li>
+    <li>QuestName (hadiah == royalfavor)-> [kekerasan] untuk kehormatan</li>
+    <li>Kekerasan-> Kekerasan</li>
+    <li>Kekerasan-> pertempuran</li>
+    <li>Violencevar-> Combat</li>
+    <li>Kekerasan-> Guerra</li>
+    <li>Kekerasan-> pertarungan</li>
+    <li>Kekerasan-> Pembantaian</li>
+    <li>Kekerasan-> Serangan</li>
+    <li>Kekerasan-> Pertahanan</li>
+    <li>Violencevar-> konflik</li>
+    <li>Kekerasan-> Permusuhan</li>
+    <li>Kekerasan-> pertarungan</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  
+</LanguageData>

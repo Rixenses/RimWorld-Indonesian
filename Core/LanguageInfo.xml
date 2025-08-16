@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Bahasa Indonesia</friendlyNameNative>
+  <friendlyNameEnglish>Indonesia</friendlyNameEnglish>
+  <canBeTiny>BENAR</canBeTiny>
+  <credits>
+    <!-- Aktif -->
+    <li Class="CreditRecord_Text">
+      <text>Aktif:</text>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>10</height>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_translator</roleKey>
+      <creditee>Ariq S. F. 'Rixenses' Ibrahim</creditee>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>30</height>
+    </li>
+  
+    <!-- Tidak Aktif -->
+    <li Class="CreditRecord_Text">
+      <text>Tidak Aktif:</text>
+    </li>
+    <li Class="CreditRecord_Space">
+      <height>10</height>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_translator</roleKey>
+      <creditee>Jason 'Julianjason' Julian</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_translator</roleKey>
+      <creditee>Equan 'Junwatu' P.</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_translator</roleKey>
+      <creditee>Faryzal 'Faryzal2020' Andyko</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_translator</roleKey>
+      <creditee>Irsyad 'irsyad-a' Akbar</creditee>
+    </li>
+  </credits>
+</LanguageInfo>

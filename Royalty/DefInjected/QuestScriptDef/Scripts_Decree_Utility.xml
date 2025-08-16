@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>DecreeIntro-> [asker_namedef], [asker_bestroyaltitle Anda], telah mengeluarkan keputusan kerajaan.</li>
+    <li>decreethreatinfo-> Jika Anda gagal memenuhi keputusan ini dalam hari [dekritia], [asker_namedef] akan mulai menjadi tidak bahagia.[asker_possessive] Kemarahan akan meningkat dari waktu ke waktu sampai keputusannya dipenuhi.</li>-><DecreeSetup.questDescriptionRules.rulesStrings>
+    <li>DECREE-> [asker_namedef], [asker_bestroyalth] Anda, telah mengeluarkan keputusan nyata.</li>
+    <li>DecreethreatInfo-> Jika Anda tidak mematuhi ketentuan dekrit dalam periode [dekreeday] hari, [asker_namedef] akan mulai terasa tidak bahagia.Kemarahan Anda akan meningkat sampai dekrit dipenuhi.</li>
+  </DecreeSetup.questDescriptionRules.rulesStrings>
+  <!-- EN: [asker_nameDef]'s decree forgotten -->
+  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>Keputusan [asker_namedef] dilupakan</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+  <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[Asker_namedef] telah melupakan keputusannya.</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <!-- EN: Decree cancelled -->
+  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>Dekrit yang Dibatalkan</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+  <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[Asker_namedef] dengan enggan membatalkan dekrit "[resolvedQuestName]", karena tidak dapat dipenuhi.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+  
+</LanguageData>

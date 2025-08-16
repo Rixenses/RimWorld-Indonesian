@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {PAWN_labelShort}'s pregnancy progressed from 1st to 2nd trimester. -->
+  <MessageColonistReaching2ndTrimesterPregnancy>Kehamilan {Pawn_labelshort} berkembang dari kuartal pertama ke kuartal ke -2.</MessageColonistReaching2ndTrimesterPregnancy>
+  <!-- EN: {PAWN_labelShort}'s pregnancy progressed from 2nd to 3rd trimester. -->
+  <MessageColonistReaching3rdTrimesterPregnancy>Kehamilan {Pawn_labelshort} berkembang dari kuartal ke -2 ke kuartal ke -3.</MessageColonistReaching3rdTrimesterPregnancy>
+  <!-- EN: {PAWN_labelShort}'s labor has begun the final stages. -->
+  <MessageColonistInFinalStagesOfLabor>Permaluan {Pawn_labelshort} telah memulai tahap akhirnya.</MessageColonistInFinalStagesOfLabor>
+
+  <!-- EN: A mech charger was destroyed while {PAWN_nameDef} was charging! The power disruption has scrambled its brain, and it is going berserk. -->
+  <MessageMechChargerDestroyedMechGoesBerserk>Pengisi daya mecas dihancurkan sementara {Pawn_namedef} sedang memuat!Gangguan energi menggerakkan otaknya dan sekarang menjadi panik.</MessageMechChargerDestroyedMechGoesBerserk>
+
+  <!-- EN: Cannot use {ABILITY_label} on anyone who would actively resist. -->
+  <MessageCantUseOnResistingPerson>Tidak mungkin digunakan {kemampuan_label} tentang seseorang yang secara aktif menolak.</MessageCantUseOnResistingPerson>
+  <!-- EN: {0_labelShort} already has the {0_xenotype} xenotype. -->
+  <MessageCannotUseOnSameXenotype>{0_labelshort} sudah memiliki xenotype {0_xenotype}.</MessageCannotUseOnSameXenotype>
+  <!-- EN: {0_labelShort} has no available xenogenes to implant. -->
+  <MessagePawnHasNoXenogenes>{0_labelshort} tidak memiliki xenogen yang tersedia untuk diimplementasikan.</MessagePawnHasNoXenogenes>
+  <!-- EN: Xenogerms can only be implanted into colonists, prisoners, and slaves. -->
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerms hanya dapat dilaksanakan di pemukim, tahanan dan budak.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <!-- EN: Cannot implant in temporary faction members. -->
+  <MessageCannotImplantInTempFactionMembers>Itu tidak dapat diimplementasikan pada anggota faksi sementara.</MessageCannotImplantInTempFactionMembers>
+  <!-- EN: A xenogerm has been completed. -->
+  <MessageXenogermCompleted>Xenogermen selesai.</MessageXenogermCompleted>
+  <!-- EN: Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack. -->
+  <MessageXenogermCancelledMissingPack>Pekerjaan xenogermen di {0_labelshort} dibatalkan: Paket gen diperlukan.</MessageXenogermCancelledMissingPack>
+  <!-- EN: Absorbing {PAWN_nameDef}'s xenogerm will anger {0}. -->
+  <MessageAbsorbingXenogermWillAngerFaction>Menyerap xenogermen de {pawn_namedef} akan marah {0}.</MessageAbsorbingXenogermWillAngerFaction>
+  <!-- EN: {ABILITY_label} can only be used on colonists, prisoners, and slaves. -->
+  <MessageCannotUseOnOtherFactions>{Kemampuan_label} hanya dapat digunakan pada pemukim, tahanan dan budak.</MessageCannotUseOnOtherFactions>
+  <!-- EN: {0_labelShort} refuses to become a disliked xenotype. -->
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelshort} menolak untuk menjadi xenotype yang tidak menyenangkan.</MessageCannotBecomeNonPreferredXenotype>
+
+  <!-- EN: Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef} -->
+  <MessageCaravanAddingEscortingMech>Self -Addive ke {mech_namedef} ke karavan, karena dikawal {over overeer_namedef}</MessageCaravanAddingEscortingMech> 
+  <!-- EN: Auto-removing {MECH_nameDef} from the caravan, since it is escorting {OVERSEER_nameDef} -->
+  <MessageCaravanRemovingEscortingMech>Self -Assembly to {mech_namedef} dari karavan, karena dikawal {over overeer_namedef}</MessageCaravanRemovingEscortingMech>
+
+  <!-- EN: {0} was a mechanitor. You can remove {0_possessive} {1_label} and use it on a colonist. -->
+  <MessageMechanitorCasketOpened>{0} adalah seorang mekanitor.Anda dapat mengambil {1_label} Anda dan menggunakannya di pemukim.</MessageMechanitorCasketOpened>
+  
+  <!-- EN: Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction". -->
+  <MessageNoBloodfeedersPrisonerInteractionReset>Mode interaksi beberapa tahanan membutuhkan pengisap.Karena pengisian terakhir telah menghilang, mode interaksinya telah dipulihkan menjadi "tanpa interaksi."</MessageNoBloodfeedersPrisonerInteractionReset>
+
+  <!-- EN: {PAWN_nameDef}'s pregnancy was successfully terminated. -->
+  <MessagePregnancyTerminated>Kehamilan {Pawn_namedef} berhasil diselesaikan.</MessagePregnancyTerminated>
+  
+  <!-- Pollution -->
+  <!-- EN: {0} has been angered ({1}) -->
+  <MessageAngeredPollutedCell>{0} telah marah ({1})</MessageAngeredPollutedCell>
+  <!-- EN: Need unpolluted terrain. -->
+  <MessageWarningPollutedCell>Itu membutuhkan tanah yang tidak terkontaminasi.</MessageWarningPollutedCell>
+  <!-- EN: Need polluted terrain. -->
+  <MessageWarningNotPollutedCell>Anda membutuhkan tanah yang terkontaminasi.</MessageWarningNotPollutedCell>
+  <!-- EN: {0} has died because of pollution. -->
+  <MessagePlantDiedOfPollution>{0} meninggal karena polusi.</MessagePlantDiedOfPollution>
+  <!-- EN: {0} has died because of a lack of pollution. -->
+  <MessagePlantDiedOfNoPollution>{0} telah mati karena kurangnya polusi.</MessagePlantDiedOfNoPollution>
+  <!-- EN: Pollution has increased by {0} at {1}. -->
+  <MessageWorldTilePollutionChanged>Polusi telah meningkat {0} di {1}.</MessageWorldTilePollutionChanged>
+  <!-- EN: A cocoon has been disturbed and is opening! -->
+  <MessageCocoonDisturbed>Chrysalis telah berubah dan dibuka!</MessageCocoonDisturbed>
+  <!-- EN: Cocoons have been disturbed and are opening! -->
+  <MessageCocoonDisturbedPlural>Beberapa chrysalid telah berubah dan dibuka!</MessageCocoonDisturbedPlural>
+  <!-- EN: {0} has rotted due to polluted terrain. -->
+  <MessagePlantDiedOfRot_PollutedTerrain>{0} telah membusuk karena medan yang terkontaminasi.</MessagePlantDiedOfRot_PollutedTerrain>
+
+  <!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm. -->
+  <MessageTargetMustBeDownedToForceReimplant>{Pawn_namedef} harus tidak disadari sebelum dapat memaksa {Pawn_objective} untuk mengimplantasikan xenogermen Anda.</MessageTargetMustBeDownedToForceReimplant>
+
+  <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3}. -->
+  <MessageWorkTypeDisabledAge>{0_namedef} hanya memiliki {1} tahun.Pekerjaan {2} hanya dapat dilakukan dari tahun {3}.</MessageWorkTypeDisabledAge>
+
+  <!-- EN: {PAWN_nameDef} can now wake from deathrest safely. -->
+  <MessageDeathrestingPawnCanWakeSafely>{Pawn_namedef} sekarang dapat bangun dari mematikan dengan aman.</MessageDeathrestingPawnCanWakeSafely>
+
+  <!-- EN: {0_nameDef} has lost control of a {1_kindBase} mech -->
+  <MessageMechanitorLostControlOfMech>{0_namedef} Kehilangan kendali mecca {1_kindbase}</MessageMechanitorLostControlOfMech>
+  <!-- EN: {0_nameDef} has disconnected from {1_nameDef} mech. -->
+  <MessageMechanitorDisconnectedFromMech>{0_namedef} terputus dari mecca {1_namedef}.</MessageMechanitorDisconnectedFromMech>
+
+  <!-- Xenogerm -->
+  <!-- EN: The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}. -->
+  <MetabolismTooLowToCreateXenogerm>Metabolisme total dari gen yang dipilih harus {min} atau lebih besar untuk dilanjutkan, saat ini hanya memiliki {jumlah}.</MetabolismTooLowToCreateXenogerm>
+  <!-- EN: The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}. -->
+  <ComplexityTooHighToCreateXenogerm>Kompleksitas total gen yang dipilih harus {max} atau kurang untuk membuat xenogermen, saat ini hanya memiliki {jumlah}.</ComplexityTooHighToCreateXenogerm>
+  <!-- EN: Cannot create a xenogerm with no genes. -->
+  <MessageNoSelectedGenepacks>Mustahil untuk membuat xenogermen tanpa gen.</MessageNoSelectedGenepacks>
+  <!-- EN: Cannot create a xenotype with no genes. -->
+  <MessageNoSelectedGenes>Mustahil untuk membuat xenotype tanpa gen.</MessageNoSelectedGenes>
+  <!-- EN: {0_label} can only store {1} genepacks. -->
+  <CanOnlyStoreNumGenepacks>{0_label} hanya dapat menyimpan paket gen {1}.</CanOnlyStoreNumGenepacks>
+  <!-- EN: Xenotype name cannot be empty. -->
+  <XenotypeNameCannotBeEmpty>Nama xenotype tidak bisa kosong.</XenotypeNameCannotBeEmpty>
+  <!-- EN: {0} lacks a prerequisite gene -->
+  <MessageGeneMissingPrerequisite>{0} tidak memiliki gen prasyarat</MessageGeneMissingPrerequisite>
+
+  <!-- EN: {PAWN_nameDef}'s deathrest capacity has increased from {OLD} to {NEW}. -->
+  <MessageDeathrestCapacityChanged>Kapasitas mortisueño {pawn_namedef} meningkat dari {old} a {new}.</MessageDeathrestCapacityChanged>
+
+  <!-- EN: The sanguophages will arrive in a few hours for their meeting. -->
+  <SanguophagesArrivingSoon>The Bloody akan tiba dalam beberapa jam untuk pertemuan mereka.</SanguophagesArrivingSoon>
+  <!-- EN: The sanguophages have begun their meeting. -->
+  <SanguophagesBegunMeeting>The Bloody telah memulai pertemuan mereka.</SanguophagesBegunMeeting>
+  <!-- EN: The sanguophages are leaving due to life-threatening temperature. -->
+  <SanguophagesLeavingTemperature>Berdarah akan pergi karena suhu berbahaya.</SanguophagesLeavingTemperature>
+
+  <!-- EN: {PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure. -->
+  <MessagePawnWokenFromSunlight>{Pawn_namedef} terbangun dari mematikannya karena paparan sinar matahari.</MessagePawnWokenFromSunlight>
+  <!-- EN: The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there. -->
+  <MessageBedExposedToSunlight>{Bed_labelshort} yang ditugaskan untuk mortisueño {pawn_namedef} yang terpapar sinar matahari.{Pawn_namedef} Anda tidak akan dapat mengambil mematikan Anda di sini.</MessageBedExposedToSunlight>
+
+  <!-- EN: {PAWN_labelShort} was ejected from a gene extractor due to lack of power. -->
+  <GeneExtractorNoPowerEjectedMessage>{Pawn_labelshort} Apakah itu dikeluarkan {Pawn_gender?O: A} dari ekstraktor gen karena kurangnya energi.</GeneExtractorNoPowerEjectedMessage>
+
+  <!-- Mechanitor -->
+  <!-- EN: {PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner. -->
+  <MessagePawnKilledRipscanner>Otak {Pawn_namedef} dihancurkan oleh Rashacáner subnunic.</MessagePawnKilledRipscanner>
+  <!-- EN: Subcore softscanner completed for {PAWN_nameDef}. -->
+  <MessageSubcoreSoftscannerCompleted>Subnun Flexies telah selesai untuk {Pawn_namedef}.</MessageSubcoreSoftscannerCompleted>
+
+  <!-- EN: Cannot resurrect dessicated corpses. -->
+  <MessageCannotResurrectDessicatedCorpse>Anda tidak dapat membangkitkan kembali tubuh yang dibedah.</MessageCannotResurrectDessicatedCorpse>
+
+  <!-- EN: {0} is about to explode! -->
+  <MessageAboutToExplode>{0} akan meledak.</MessageAboutToExplode>
+
+  <!-- Childcare -->
+  <!-- EN: {FEEDER_labelShort} cannot perform childcare tasks. -->
+  <MessageChildcareDisabled>{Feeded_lallshort} tidak dapat merawat anak -anak.</MessageChildcareDisabled>
+  <!-- EN: {FEEDER_labelShort} is not assigned to do childcare tasks. -->
+  <MessageChildcareNotAssigned>{Feeded_lallshort} tidak ditetapkan {feeder_gender?Atau: A} untuk merawat anak -anak.</MessageChildcareNotAssigned>
+
+  <!-- EN: You already have the maximum number of custom xenotypes. You must delete some if you wish to create more. -->
+  <MessageTooManyCustomXenotypes>Anda sudah memiliki jumlah maksimum xenotipe yang dipersonalisasi.Anda harus menghapus beberapa jika Anda ingin membuat lebih banyak.</MessageTooManyCustomXenotypes>
+  <!-- EN: Cannot save xenotype with multiple conflicting genes. -->
+  <MessageConflictingGenesPresent>Tidak mungkin untuk menyimpan xenotipe dengan beberapa gen yang bertentangan.</MessageConflictingGenesPresent>
+
+  <!-- EN: {BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity). -->
+  <MessageDeathrestBuildingBound>{Building_labelshort} telah ditautkan ke {pawn_namedef} ({cur}/{max} dari kapasitas mortisueño).</MessageDeathrestBuildingBound>
+
+  <!-- EN: Developmental stage selection disabled by scenario. -->
+  <MessageDevelopmentalStageSelectionDisabledByScenario>Pemilihan tahap pengembangan dinonaktifkan oleh panggung.</MessageDevelopmentalStageSelectionDisabledByScenario>
+
+  <!-- EN: {PAWN_nameDef} did not have enough blood to produce a hemogen pack.  -->
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{Pawn_namedef} tidak memiliki cukup darah untuk menghasilkan sebungkus hemogen.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <!-- EN: {PAWN_nameDef} doesn't have enough blood to produce a hemogen pack. -->
+  <MessageCannotStartHemogenExtraction>{Pawn_namedef} tidak memiliki cukup darah untuk menghasilkan paket hemogenon.</MessageCannotStartHemogenExtraction>
+
+  <!-- EN: You must choose how {PAWN_nameDef} will grow now. -->
+  <MessageCannotPostponeGrowthMoment>Anda harus memilih bagaimana {pawn_namedef} sekarang.</MessageCannotPostponeGrowthMoment>
+
+  <!-- EN: Warning: {0_labelShort} is carrying a baby while drafted. -->
+  <MessageDraftedPawnCarryingBaby>PERINGATAN: {0_labelshort} Apakah mengambil bayi saat merekrut {0_gender?O: A}.</MessageDraftedPawnCarryingBaby>
+  <!-- EN: {ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature. -->
+  <MessageTakingBabyToSafeTemperature>{Adult_Namedef} bergerak ke {baby_namedef} ke tempat dengan suhu yang lebih aman.</MessageTakingBabyToSafeTemperature>
+
+  <!-- EN: Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef} -->
+  <MessagePregnancyFailed>Kehamilan jatuh antara {mother_namedef} dan {ayah_namedef}</MessagePregnancyFailed>
+  <!-- EN: {PAWN_nameDef} failed to fertilize ovum -->
+  <MessageFerilizeFailed>{Pawn_namedef} gagal dalam pembuahan ovule</MessageFerilizeFailed>
+  <!-- EN: Combined genes exceeded metabolism limits. -->
+  <CombinedGenesExceedMetabolismLimits>Gen gabungan melebihi batas metabolisme.</CombinedGenesExceedMetabolismLimits>
+
+  <!-- EN: Starting colonists must be capable of violence in tutorial mode. -->
+  <MessageStartingPawnCapableOfViolence>Pemukim awal harus dapat melakukan kekerasan dalam mode tutorial.</MessageStartingPawnCapableOfViolence>
+</LanguageData>

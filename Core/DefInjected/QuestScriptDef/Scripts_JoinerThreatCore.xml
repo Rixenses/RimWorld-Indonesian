@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [Pendahuluan] bernama [joiner_namedef] menelepon dari dekat.[joiner_pronoun] sedang dikejar oleh [musuh musuh.ekor.Kelompok [musuh musuh.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1)-> a [joiner_age] -Year-tua anak</li>
+    <li>PENDAHULUAN-> A [joiner_age] -tahun-tahun [joiner_title]</li>-><ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (joiner_gender! = Wanita)-> [Pendahuluan], disebut [joinMeDef], memanggil Anda dari sekitarnya.Ini sedang dianiaya oleh [musuh, ucapan ganti, faksi [musuh [musuh .faction_name]![Joiner_relationInfo] \ n \ ns yang Anda terima, Anda harus menghadapi [musuh musuh_pawnsplural] yang menginjak tumit mereka.Grup [musuh, \ n \ n [raid/raidpawnkinds] \ n \ n [joiner_namedef] terlalu diubah untuk memberi Anda lebih banyak informasi.</li>
+    <li>QuestDescription (joiner_gender == betina)-> [Pendahuluan], disebut [joiner_namedef], memanggil Anda dari sekitarnya.Ini sedang dianiaya oleh [musuh, ucapan ganti, faksi [musuh [musuh .faction_name]![Joiner_relationInfo] \ n \ ns yang Anda terima, Anda harus menghadapi [musuh musuh_pawnsplural] yang menginjak tumit mereka.Grup [musuh, \ n \ n [raid/raidpawnkinds] \ n \ n [joiner_namedef] terlalu diubah untuk memberi Anda lebih banyak informasi.</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender! = Wanita)-> anak dari [joiner_age] tahun</li>
+    <li>PENDAHULUAN (childcount == 1, prioritas = 1, joiner_gender == wanita)-> seorang gadis dari tahun [joiner_age]</li>
+    <li>PENDAHULUAN (joiner_gerder == betina)-> [jointileIndef] dari [joiner_age] tahun usia</li>
+    <li>PENDAHULUAN (jointer_gender! = Wanita)-> [gabungan] dari [joiner_age] tahun usia</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Saving [RunnerIndef]</li>
+    <li>QuestName-> Keselamatan [RunnerIndef]</li>
+    <li>QuestName-> Membantu [RunnerIndef]</li>
+    <li>QuestName-> Menerima [RunnerIndef]</li>
+    <li>QuestName-> [musuh</li>
+    <li>QuestName-> [RunnerIndef] dalam perjalanan</li>
+    <li>QuestName-> [RunnerIndef] mencari rumah</li>
+    <li>QuestName-> [RunnerIndef] dikejar oleh [musuh</li>
+    <li>QuestName-> [RunnerIndef] dan [musuh</li>
+    <li>runnerIndef-> [joiner_titleindef]</li>
+    <li>runnerIndef-> [joiner_nameindef]</li>
+    <li>runnerIndef-> seorang pengungsi</li>
+    <li>runnerIndef (childcount == 1, prioritas = 1)-> seorang anak</li>-><ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>QuestName-> Saving [RunnerIndef]</li>
+    <li>QuestName-> Keselamatan [RunnerIndef]</li>
+    <li>QuestName-> Membantu [RunnerIndef]</li>
+    <li>QuestName-> Menerima [RunnerIndef]</li>
+    <li>QuestName-> [musuh</li>
+    <li>QuestName-> [RunnerIndef] dalam masalah</li>
+    <li>QuestName-> [RunnerIndef] Cari rumah</li>
+    <li>QuestName-> [RunnerIndef] melarikan diri dari [musuh .faction_pawnsplural]</li>
+    <li>QuestName-> [RunnerIndef] dan [musuh</li>
+    <li>runnerIndef-> [joiner_titleindef]</li>
+    <li>runnerIndef-> [joiner_nameindef]</li>
+    <li>RunnerIndef (joiner_gender! = Wanita)-> seorang pengungsi</li>
+    <li>RunnerIndef (joiner_gender == betina)-> seorang pengungsi</li>
+    <li>runnerIndef (childcount == 1, prioritas = 1, joiner_gender! = wanita)-> un niño</li>
+    <li>runnerIndef (childcount == 1, prioritas = 1, joiner_gender == wanita)-> una niña</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{Baselabel} mengejar [../join_namedef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{Baseotext</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  
+</LanguageData>

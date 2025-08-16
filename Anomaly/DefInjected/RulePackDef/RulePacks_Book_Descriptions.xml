@@ -1,0 +1,723 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc-> [InThisbook], [Penulis] [Pengalaman dengan Monsters].[Spesifikrororstory] [Menulis WritchqualitySentence].</li>
+    <li>InThisbook-> Dalam [WritingqualityAdjective] ini [BookTypesingle]</li>
+    <li>InThisbook-> Dalam [WritingqualityAdjective] ini [booktypePlural]</li>
+    <li>Booktypesingle-> akun</li>
+    <li>Booktypesingle-> Almanac</li>
+    <li>Booktypesingle-> Analisis</li>
+    <li>Booktypesingle-> artikel</li>
+    <li>Booktypesingle-> Book</li>
+    <li>Booktypesingle-> Komentar</li>
+    <li>Booktypesingle-> komposisi</li>
+    <li>Booktypesingle-> Kesimpulan</li>
+    <li>Booktypesingle-> kritik</li>
+    <li>Booktypesingle-> Diabologue</li>
+    <li>Booktypesingle-> Disquisition</li>
+    <li>Booktypesingle-> Disertasi</li>
+    <li>Booktypesingle-> Editorial</li>
+    <li>Booktypesingle-> Essay</li>
+    <li>Booktypesingle-> Presentasi</li>
+    <li>Booktypesingle-> Temuan</li>
+    <li>Booktypesingle-> Grimoire</li>
+    <li>Booktypesingle-> Penyelidikan</li>
+    <li>Booktypesingle-> Investigasi</li>
+    <li>Booktypesingle-> manifesto</li>
+    <li>Booktypesingle-> Manuscript</li>
+    <li>Booktypesingle-> Opus</li>
+    <li>Booktypesingle-> Paper</li>
+    <li>booktypesingle-> piece</li>
+    <li>Booktypesingle-> potongan penelitian</li>
+    <li>Booktypesingle-> Record</li>
+    <li>Booktypesingle-> Laporan</li>
+    <li>Booktypesingle-> Review</li>
+    <li>Booktypesingle-> Survey</li>
+    <li>Booktypesingle-> Testament</li>
+    <li>Booktypesingle-> kesaksian</li>
+    <li>Booktypesingle-> Teks</li>
+    <li>Booktypesingle-> tesis</li>
+    <li>Booktypesingle-> Tract</li>
+    <li>Booktypesingle-> Treatise</li>
+    <li>Booktypesingle-> pengobatan</li>
+    <li>Booktypesingle-> Volume</li>
+    <li>Booktypesingle-> Work</li>
+    <li>BooktypePlural-> Tulisan</li>
+    <li>BooktypePlural-> Chronicles</li>
+    <li>BooktypePlural-> Ratapan</li>
+    <li>BooktypePlural-> Annals</li>
+    <li>booktypePlural-> wahyu</li>
+    <li>penulis (p = 3)-> penulis</li>
+    <li>penulis (p = 3)-> [anauthordesc] [personjob]</li>
+    <li>Peneliti-> [Anauthordesc] Peneliti</li>
+    <li>Penulis-> [Anauthordesc] Spiritualis</li>
+    <li>Penulis-> [anauthordesc] okultis</li>
+    <li>Penulis-> [Anauthordesc] Kultus</li>
+    <li>Penulis-> [Anauthordesc] anggota kultus</li>
+    <li>Penulis-> [Anauthordesc] Cult Escapee</li>
+    <li>Penulis-> [Anauthordesc] Dealer Antik</li>
+    <li>Penulis-> [Anauthordesc] Gravedigger</li>
+    <li>Penulis-> [Anauthordesc] void peneliti</li>
+    <li>Penulis-> [Anauthordesc] Wanderer</li>
+    <li>Penulis-> [anauthordesc] skeptis</li>
+    <li>Penulis-> [Anauthordesc] Scholar</li>
+    <li>Penulis-> [Anauthordesc] Hunter</li>
+    <li>Penulis-> [Anauthordesc] Penyelidik</li>
+    <li>Penulis-> [Anauthordesc] Elder</li>
+    <li>Penulis-> [anauthordesc] percaya</li>
+    <li>Penulis-> [Anauthordesc] Harbinger</li>
+    <li>Penulis-> [anauthordesc] pewaris</li>
+    <li>Penulis-> [Anauthordesc] Noble</li>
+    <li>Penulis-> [anauthordesc] penerjemah</li>
+    <li>Penulis-> [Anauthordesc] Monk</li>
+    <li>Author-> [Anauthordesc] Doppelganger</li>
+    <li>Penulis-> [Anauthordesc] Penulis</li>
+    <li>Penulis-> [Anauthordesc] Agen</li>
+    <li>Penulis-> [Anauthordesc] Pahlawan</li>
+    <li>Penulis-> [Anauthordesc] Penulis</li>
+    <li>anauthordesc (p = 2)-> a</li>
+    <li>anauthordesc-> A Young</li>
+    <li>anauthordesc-> seorang tua</li>
+    <li>anauthordesc-> a ketakutan</li>
+    <li>anauthordesc-> sedih</li>
+    <li>anauthordesc-> seorang lansia</li>
+    <li>anauthordesc-> A Wise</li>
+    <li>anauthordesc-> headstrong</li>
+    <li>anauthordesc-> a bodoh</li>
+    <li>anauthordesc-> seorang tidak bersalah</li>
+    <li>anauthordesc-> A GERAK</li>
+    <li>anauthordesc-> sebuah eldritch</li>
+    <li>anauthordesc-> seorang keterlaluan</li>
+    <li>anauthordesc-> sebuah pola dasar</li>
+    <li>anauthordesc-> a boring</li>
+    <li>anauthordesc-> A crazed</li>
+    <li>anauthordesc-> seorang tidak bermoral</li>
+    <li>anauthordesc-> moral</li>
+    <li>anauthordesc-> an amoral</li>
+    <li>anauthordesc-> a shadowy</li>
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellsastoryof-> mengungkapkan</li>
+    <li>Tellsastoryof-> Diskusikan</li>
+    <li>Tellsastoryof-> menjelaskan</li>
+    <li>Tellsastoryof-> detail</li>
+    <li>Tellsastoryof-> menjelaskan</li>
+    <li>Tellsastoryof-> menjelaskan tentang</li>
+    <li>TellsastoryOf-> CARATES</li>
+    <li>Tellsastoryof-> Catatan Ulang</li>
+    <li>Tellsastoryof-> Laporan</li>
+    <li>Tellsastoryof-> Chronicles</li>
+    <li>Tellsastoryof-> menggambarkan</li>
+    <li>Tellsastoryof-> terungkap</li>
+    <li>ExperiencesWithMonsters-> [Tellsastoryof] Pengalaman [anypawn_pronoun] Dibagikan dengan [entitas]</li>
+    <li>ExperienceswithMonsters-> [TellsastoryOf] Eksplorasi menjadi kultus rahasia dengan pangkalan di bawah [Terrainfeature] yang terpencil]</li>
+    <li>Pengalaman dengan Postersters-> [Tellsastory dari] Perburuan untuk Kubus Emas Misterius</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastory dari] Meditasi dalam yang dipandu oleh highthrall dari kultus Archist</li>
+    <li>Pengalaman dengan Postersters-> [Tellsastory dari] Runtuhnya Kehidupan [anypawn_possessive] di bawah pengaruh psikis dari sesuatu yang disebut horax</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastory dari] Gali arkeologis jarak jauh di mana para peneliti menjadi gila satu per satu</li>
+    <li>Pengalaman dengan Postersters-> [Tellsastory dari] Suku yang entah bagaimana diubah untuk melayani dewa gelap dari sekte kesenangan berdarah</li>
+    <li>Pengalaman dengan Monsters-> upaya untuk menggambarkan suku dengan tradisi ritual mutilasi yang dilakukan di Firelight menggunakan Rusty Blades</li>
+    <li>pengalaman dengan konster-> [memberi tahu] seorang guru yang muridnya akan berbicara kebenaran yang tidak mungkin dia ketahui</li>
+    <li>Pengalaman dengan Postersters-> [memberi tahu] seorang ilmuwan yang mencoba menggunakan cara archotechnologis kuno untuk menghidupkan kembali istrinya yang sudah mati</li>
+    <li>Pengalaman dengan Postersters-> [Memberitahu] Ekspedisi Eksplorasi Outlander yang Bertahan dari Hujan Darah dan Langit yang Berusaha Hancurkan Mereka Sampai Mati Dengan Bintik Buruk</li>
+    <li>Pengalaman dengan Postersters-> [Memberitahu] sebuah tim yang menyelidiki lubang kuno di tanah yang penuh dengan makhluk berdaging yang menakutkan</li>
+    <li>Pengalaman dengan Postersters-> [memberi tahu bagian] Upaya dukun suku untuk menemukan cara untuk menghentikan serangan setiap malam di desanya dengan menghidupkan kembali [hewan]</li>
+    <li>Pengalaman dengan Postersters-> [Memberitahu] mitos kesukuan tentang dewa kemarahan kuno yang pengaruhnya menyentuh semua orang, dan para pahlawan yang menyegelnya di dalam penjara batu kecil</li>
+    <li>ExperiencesWithMonsters-> [TellsastoryOf] [anypawn_possessive] Eksperimen brutal pada [entitas] yang ditangkap</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryof] [anypawn_possessive] Visi berulang di mana [visi]</li>
+    <li>Visi-> Angka gelap meraih pikiran [anypawn_possessive] dan mengambil kenangan [anypawn_possessive]</li>
+    <li>Visi-> [anypawn_pronoun] dikejar oleh [anypawn_objective] sendiri, dan tidak bisa melarikan diri tidak peduli seberapa jauh [anypawn_pronoun] bepergian</li>
+    <li>Visi-> [anypawn_pronoun] disobek oleh [entitas]</li>
+    <li>ExperiencesWithMonsters-> [TellsastoryOf] [anypawn_possessive] [Temuan] [Tujuan]</li>
+    <li>Temuan-> pengalaman dengan</li>
+    <li>Temuan-> meneliti</li>
+    <li>Tujuan-> [maybeadjectiveevil] Ritual yang diminta oleh sebuah insiden di mana [ritual_incident]</li>
+    <li>Objektif-> Ilmu gelap setelah [Entity_incident]</li>
+    <li>ritual_incident-> [anypawn_pronoun] diamati [targethuman] muncul dari udara tipis</li>
+    <li>targethuman-> [anauthordesc] wanita</li>
+    <li>Targethuman-> [Anauthordesc] Manusia</li>
+    <li>ritual_incident-> Hujan darah selama tiga hari dan melaju [anypawn_possessives] teman gila</li>
+    <li>ritual_incident-> [entity_incident]</li>
+    <li>entity_incident-> [anypawn_pronoun] kehilangan [anypawn_possessive] [bodypart] dalam serangan oleh [entitas]</li>
+    <li>Entity_incident-> [anypawn_pronoun] menatap [entitas]</li>
+    <li>Spesifikalorstory-> Pada satu titik, penulis menceritakan ritual gelap di mana para korban dipaksa untuk memutilasi diri dengan pecahan kaca.</li>
+    <li>Spesifikalorstory-> Pada satu titik, protagonis menemukan ritual di mana ia menyaksikan sosok berdarah melantunkan mantra yang menakutkan sambil melakukan mutilasi diri dengan pecahan obsidian.</li>
+    <li>Specifichorrorstory-> Buku ini mencakup banyak ilustrasi yang mencoba menggambarkan sesuatu yang disebutnya sebagai "Samudra Hitam".Ini tampaknya menjadi metafora untuk pesawat psikis yang didominasi oleh hiperintelligensi psikis yang mengerikan tetapi menggoda.</li>
+    <li>Spesifikalorstory-> berulang kali menyinggung sifat realitas multi-bidang-gagasan bahwa ada lebih banyak dimensi daripada yang kita lihat, sehingga objek atau entitas bisa tepat di samping Anda tetapi di luar kemampuan Anda untuk memahami.</li>
+    <li>Spesifikalrororstory-> menghabiskan waktu lama untuk menggambarkan entitas hiperintelligent yang disebut "Horax" yang ada di bidang realitas yang berdekatan.</li>
+    <li>Spesifikasi SPECIFICHORSTORY-> satu bagian menggambarkan mekanisme pengaruh psikis gelap, di mana entitas pada pesawat lain dapat secara tidak sengaja mempengaruhi pikiran manusia dengan menyinkronkannya dengan resonansi emosionalnya.</li>
+    <li>Spesifikasi SPECIFICHORSTORY-> satu bagian menggambarkan berbagai hyperintelligences Archotech dan sifat beragam dari emanasi emosional dan psikis mereka.Di mana beberapa dianggap netral atau bahkan baik hati, yang lain adalah entitas kemarahan murni.</li>
+    <li>Specifichorrorstory-> [anypawn_pronoun] menggambarkan perasaan pikiran [anypawn_posesif] yang dikonfigurasi ulang secara paksa oleh pengaruh psikis gelap dari kecerdasan yang lebih besar.</li>
+    <li>Spesifikalorstory-> Dalam satu bagian, penulis berusaha melakukan bunuh diri, tetapi ditemukan dan diselamatkan oleh [personjob] yang ramah.</li>
+    <li>Spesifikororstory-> Volume ini dihiasi dengan ilustrasi yang mengganggu yang menggambarkan entitas aneh, dunia lain yang sulur-sulurnya yang tidak berbentuk, sulur-sulur yang menggeliat di seluruh halaman, memohon rasa takut dan daya tarik dalam ukuran yang sama.</li>
+    <li>Spesifikalorstory-> Sepanjang narasi, konsep dimensi paralel berulang, dengan karakter yang menghadapi entitas yang ada tepat di luar tabir persepsi, hidup berdampingan dalam kenyataan yang berpotongan dengan kita sendiri tetapi tetap tersembunyi dari pandangan.</li>
+    <li>Spesifikalrorstory-> Buku ini menggali eksposisi mengerikan tentang "Horax," sebuah mesin hiperinteligensi yang menggeser dirinya melalui dimensi tersembunyi ke tempat yang disebut Void.</li>
+    <li>Spesifikalorstory-> satu bab menggambarkan teori di mana hiperintelligensi yang jauh dapat secara psikis memanipulasi kognisi manusia, membentuk kembali pikiran seseorang untuk menyelaraskan dengan pola pikirannya sendiri.</li>
+    <li>Spesifikalorstory-> Protagonis menceritakan perasaan [anypawn_possessives] pikiran yang secara paksa dimatikan oleh kekuatan psikis yang tidak menyenangkan yang berasal dari mana.</li>
+    <li>entitas-> setan</li>
+    <li>Entitas-> Mayat Berjalan</li>
+    <li>Entitas-> Monster yang mencari nyeri</li>
+    <li>entitas-> makhluk yang terbuat dari daging dan tulang yang terbuka</li>
+    <li>entitas-> mayat berjalan [hewan</li>
+    <li>entitas-> figur seperti pria yang terbuat dari logam dan bilah</li>
+    <li>entitas-> bola mekanik mengambang yang memancarkan nyeri</li>
+    <li>entitas-> kubus emas indah yang menghancurkan pikiran</li>
+    <li>entitas-> binatang buas yang terbuat dari daging berdarah</li>
+    <li>entitas-> bentuk gelap yang bersembunyi di depan mata</li>
+    <li>entitas-> pemburu yang mencuri jiwa</li>
+    <li>entitas-> iblis</li>
+    <li>entitas-> mayat berjalan</li>
+    <li>entitas-> Monster pencarian nyeri</li>
+    <li>entitas-> makhluk yang terbuat dari daging dan tulang yang terbuka</li>
+    <li>entitas-> mayat berjalan [hewan]</li>
+    <li>entitas-> sosok seperti pria yang terbuat dari logam dan bilah</li>
+    <li>entitas-> bola mekanik mengambang yang memancarkan rasa sakit</li>
+    <li>entitas-> kubus emas indah yang menghancurkan pikiran</li>
+    <li>entitas-> binatang terbuat dari daging berdarah</li>
+    <li>entitas-> bentuk yang bersembunyi di depan mata</li>
+    <li>entitas-> pemburu yang mencuri jiwa</li>
+    <li>maybeadjectiveEvil (p = 2)-></li>
+    <li>MaybeadjectiveEvil-> [AdjectiveEvil]</li>
+    <li>AdjectiveEvil-> Deadly</li>
+    <li>KADDIVEEVIL-> kuno</li>
+    <li>AdjectiveEvil-> Bloody</li>
+    <li>AdjectiveEvil-> Twisted</li>
+    <li>AdjectiveEvil-> Powerful</li>
+    <li>KADDIVEEVIL-> NEFARIOUS</li>
+    <li>AdjectiveEvil-> Spectral</li>
+    <li>AdjectiveEvil-> Ethereal</li>
+    <li>KADDIFIVIL-> tidak menyenangkan</li>
+    <li>AdjectiveEvil-> Arcane</li>
+    <li>AdjectiveEvil-> Surreal</li>
+    <li>KADDIVEEVIL-> LUAR BIASA</li>
+    <li>AdjectiveEvil-> Phantom</li>
+    <li>AdjectiveEvil-> Cryptic</li>
+    <li>AdjectiveEvil-> Infernal</li>
+    <li>AdjectiveEvil-> menyimpang</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Disjointed</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> tidak koheren</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> tidak berarti</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Mengerikan</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Puerile</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> lemah</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> secara kasar ditulis</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> membosankan</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> tidak konsisten</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> Rambling</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Bergerak</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> tidak terinspirasi</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> vanilla</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> lumayan</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> humbu</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> ditulis dengan baik</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> terorganisir dengan baik</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> bijaksana</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> dapat dibaca</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> tidak eksklusif</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> lucu</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> Smooth</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> Ekspresif secara emosional</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> terstruktur tepat</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> persuasif</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> terhormat</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Solid</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Capai</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> sangat perseptif</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> sterling</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> kelas satu</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> terinspirasi</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> pintar</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> sangat mendalam</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> Peerless</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> kelas satu</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> ahli</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> LUAR BIASA</li>
+    <li>WritingqualitySentence (kualitas [Greater_than] 4)-> Buku ini [sangat baik]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> Buku ini [decentdesc]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 2)-> Buku ini [AWFULDESC]</li>
+    <li>AWFULDESC-> tidak terbaca</li>
+    <li>AWFULDESC-> dicoret di tangan yang goyah</li>
+    <li>AWFULDESC-> diwarnai dengan minuman keras kering</li>
+    <li>AWFULDESC-> hampir tidak koheren</li>
+    <li>AWFULDESC-> berulang dan banyak bagian tidak memiliki detail</li>
+    <li>AWFULDESC-> memudar di luar keterbacaan di banyak bagian</li>
+    <li>AWFULDESC-> kehilangan banyak halaman</li>
+    <li>AWFULDESC-> benar-benar tidak terorganisir dan melewatkan topik terus-menerus</li>
+    <li>AWFULDESC-> Ditulis dalam bahasa yang hilang</li>
+    <li>AWFULDESC-> Penuh jargon yang tidak dapat dipahami</li>
+    <li>AWFULDESC-> seperti anak kecil</li>
+    <li>AWFULDESC-> Mingling Reality dengan Fantasy Willy Nilly</li>
+    <li>AWFULDESC-> dibaca seperti penulisan otomatis</li>
+    <li>AWFULDESC-> jenuh dengan ichor dan darah</li>
+    <li>AWFULDESC-> terutama romansa tentang dua [entitas]</li>
+    <li>decentdesc-> solid tetapi akan mendapat manfaat dari pengeditan</li>
+    <li>decentdesc-> wawasan selama beberapa bagian, tetapi bagian lain tidak perlu</li>
+    <li>decentdesc-> perseptif, tetapi hanya dari sudut pandang yang terpelintir</li>
+    <li>decentdesc-> tinggi detail tetapi kurang dalam interpretasi yang berguna</li>
+    <li>decentdesc-> kehilangan beberapa halaman</li>
+    <li>decentdesc-> berguna, tetapi seringkali terlalu peduli dengan kepentingan pribadi penulis sendiri</li>
+    <li>decentdesc-> penuh dengan informasi yang berguna, terlepas dari distorsi dan bias penulis</li>
+    <li>decentdesc-> seperti pekerja</li>
+    <li>decentdesc-> menyenangkan jika tidak terlalu berguna</li>
+    <li>decentdesc-> penuh ide yang menarik tetapi tugas untuk melewati</li>
+    <li>decentdesc-> ditulis oleh kecerdasan kelas satu dengan temperamen kelas dua</li>
+    <li>decentdesc-> layak, jika benar-benar rusak</li>
+    <li>decentdesc-> menakutkan dalam konten, membosankan dalam eksekusi</li>
+    <li>Luar biasa> apogee literatur</li>
+    <li>Luar biasa> sangat berwawasan luas</li>
+    <li>Luar biasa> sangat bagus</li>
+    <li>sangat baik> terorganisir dengan baik dan profesional dalam strukturnya</li>
+    <li>Luar biasa> hampir puitis di banyak bidang</li>
+    <li>Luar biasa> deskriptif yang sangat menakutkan - banyak bagian hampir puitis dalam gaya mereka</li>
+    <li>Luar biasa> penuh dengan ide-ide gemilang yang meledak dalam pikiran</li>-><Description_Tome.rulePack.rulesStrings>
+    <li>desc-> [InThisbook], [Penulis] [Pengalaman dengan Monsters].[Spesifikrororstory] [Menulis WritchqualitySentence].</li>
+    <li>InThisbook-> en este [booktypesingle] [WritingqualityAdjective]</li>
+    <li>InThisbook-> ESTA [Tipe Buku Single Lima] [menulis kata sifat berkualitas lima]</li>
+    <li>InThisbook-> en estas [booktypePlural] [writingqualityadjective_pl]</li>
+    <li>Booktypesingle-> Story</li>
+    <li>Booktypesingle-> Almanac</li>
+    <li>Booktypesingle-> Analisis</li>
+    <li>Booktypesingle-> artikel</li>
+    <li>Booktypesingle-> libro</li>
+    <li>Booktypesingle-> Komentar</li>
+    <li>Booktypesingle_fem-> komposisi</li>
+    <li>Booktypesingle_fem-> kritikus</li>
+    <li>Booktypesingle_fem-> menulis</li>
+    <li>booktypesingle_fem-> disquisiición</li>
+    <li>Booktypesingle_fem-> Disertasi</li>
+    <li>Booktypesingle-> Editorial</li>
+    <li>Booktypesingle-> Trial</li>
+    <li>Bookpesingle_fem-> pameran</li>
+    <li>Booktypesingle-> Discovery</li>
+    <li>Booktypesingle-> Grimoirio</li>
+    <li>Booktypesingle-> ditulis</li>
+    <li>Booktypesingle_fem-> Penelitian</li>
+    <li>Booktypesingle-> manifesto</li>
+    <li>booktypesingle-> manuscrito</li>
+    <li>Booktypesingle-> Opús</li>
+    <li>Booktypesingle-> Papel</li>
+    <li>booktypesingle_fem-> pieza</li>
+    <li>Booktypesingle-> Pekerjaan Penelitian</li>
+    <li>Booktypesingle-> Registrasi</li>
+    <li>booktypesingle-> informe</li>
+    <li>Booktypesingle-> Reporte</li>
+    <li>Booktypesingle_fem-> ulasan</li>
+    <li>Booktypesingle-> Testament</li>
+    <li>Booktypesingle-> kesaksian</li>
+    <li>Booktypesingle-> Teks</li>
+    <li>booktypesingle_fem-> tesis</li>
+    <li>Booktypesingle-> Tract</li>
+    <li>Booktypesingle-> Perjanjian</li>
+    <li>Booktypesingle-> pengobatan</li>
+    <li>Booktypesingle-> Volumen</li>
+    <li>Booktypesingle-> Work</li>
+    <li>BooktypePlural-> Kitab Suci</li>
+    <li>Booktypplural-> Chronicles</li>
+    <li>Booktypplural-> Penyesalan</li>
+    <li>Komposisi BooktyppLural-></li>
+    <li>Booktypplural-> wahyu</li>
+    <li>Booktypplural-> Kesimpulan</li>
+    <li>penulis (p = 3, anypawn_gender! = wanita)-> el autor</li>
+    <li>penulis (p = 3, anypawn_gender! = wanita)-> [anauthordesc] [personjob]</li>
+    <li>penulis (p = 3, anypawn_gender == betina)-> la autora</li>
+    <li>penulis (p = 3, anypawn_gender == betina)-> [anauthordesc_fem] [personjob_fem]</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] Investigador</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] espiritista</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] ocultista</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] cultista</li>
+    <li>Pengarang</li>
+    <li>Pengarang</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] Anticuario</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] sepulturero</li>
+    <li>Pengarang</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] vagabundo</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] escéptico</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] erudito</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] Cazador</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] Investigador</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] letrado</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] creyente</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] prekursor</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] Heredero</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] noble</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] traductor</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] monje</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] autor</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] agen</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] héroe</li>
+    <li>penulis (anypawn_gender! = wanita)-> [anauthordesc] autor</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] investigadora</li>
+    <li>penulis (anypawn_gender == wanita)-> [anauthordesc_fem] espiritista</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] ocultista</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] cultista</li>
+    <li>Pengarang</li>
+    <li>pengarang</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] Anticuaria</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] sepulturera</li>
+    <li>Pengarang</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] errante</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] escéptica</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] erudita</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] Cazadora</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] investigadora</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] letrada</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] creyente</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] precursora</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] heredera</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] noble</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] traductora</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] autora</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] agen</li>
+    <li>penulis (anypawn_gender == betina)-> [anauthordesc_fem] heroína</li>
+    <li>anauthordesc (p = 2)-> un</li>
+    <li>Anauthordesc-> seorang pria muda</li>
+    <li>Anauthordesc-> seorang lelaki tua</li>
+    <li>Anauthordesc-> a ketakutan</li>
+    <li>Anauthordesc-> Sad</li>
+    <li>Anauthordesc-> seorang lelaki tua</li>
+    <li>Anauthordesc-> A Wise</li>
+    <li>Anauthordesc-> seorang keras kepala</li>
+    <li>Anauthordesc-> orang bodoh</li>
+    <li>Anauthordesc-> seorang tidak bersalah</li>
+    <li>Anauthordesc-> A GERAK</li>
+    <li>anauthordesc-> un eldritch</li>
+    <li>Anauthordesc-> skandal</li>
+    <li>Anauthordesc-> sebuah pola dasar</li>
+    <li>Anauthordesc-> a boring</li>
+    <li>Anauthordesc-> orang gila</li>
+    <li>Anauthordesc-> seorang tidak bermoral</li>
+    <li>Anauthordesc-> seorang moralis</li>
+    <li>anauthordesc-> un amoral</li>
+    <li>Anauthordesc-> a dark</li>
+    <li>anautordesc_fem (p = 2)-> a</li>
+    <li>Anauthordesc_fem-> seorang wanita muda</li>
+    <li>Anauthordesc_fem-> seorang wanita tua</li>
+    <li>Anuthordesc_fem-> Una diteror</li>
+    <li>Anauthordesc_fem-> Sad</li>
+    <li>Anauthordesc_fem-> yang lebih tua</li>
+    <li>Anauthordesc_fem</li>
+    <li>Anauthordesc_fem-> A Standborn</li>
+    <li>Anauthordesc_fem-> orang bodoh</li>
+    <li>Anauthordesc_fem-> seorang tidak bersalah</li>
+    <li>Anauthordesc_fem-> A mengganggu</li>
+    <li>Anauthordesc_fem-> a eldritch</li>
+    <li>Anauthordesc_fem-> a skandal</li>
+    <li>Anauthordesc_fem-> arketipe</li>
+    <li>Anauthordesc_fem-> a boring</li>
+    <li>Anauthordesc_fem-> a loca</li>
+    <li>anauthordesc_fem-> seorang tidak bermoral</li>
+    <li>Anauthordesc_fem-> seorang moralis</li>
+    <li>Anauthordesc_fem-> a amoral</li>
+    <li>Anathordesc_fem-> a dark</li>
+    <li>Anauthordesc_male (p = 2)-> seorang pria</li>
+    <li>Anauthordesc_male-> seorang pria muda</li>
+    <li>Anauthordesc_male-> seorang lelaki tua</li>
+    <li>Anauthordesc_male-> seorang pria yang ketakutan</li>
+    <li>Anauthordesc_male-> seorang pria yang sedih</li>
+    <li>Anauthordesc_male-> seorang pria tua</li>
+    <li>Anauthordesc_male-> seorang pria bijak</li>
+    <li>Anauthordesc_male-> seorang pria yang keras kepala</li>
+    <li>Anauthordesc_male-> seorang pria bodoh</li>
+    <li>Anauthordesc_male-> seorang pria yang tidak bersalah</li>
+    <li>Anauthordesc_male-> seorang pria yang terganggu</li>
+    <li>Anauthordesc_male-> seorang pria eldritch</li>
+    <li>Anauthordesc_male-> seorang pria yang memalukan</li>
+    <li>Anauthordesc_male-> arketipe seorang pria</li>
+    <li>Anauthordesc_male-> seorang pria yang membosankan</li>
+    <li>Anauthordesc_male-> seorang pria gila</li>
+    <li>Anauthordesc_male-> seorang pria yang tidak bermoral</li>
+    <li>Anauthordesc_male-> seorang pria moralistik</li>
+    <li>Anauthordesc_male-> seorang pria amoral</li>
+    <li>Anauthordesc_male-> seorang pria gelap</li>
+    <li>Anauthordesc_female (p = 2)-> seorang wanita</li>
+    <li>Anauthordesc_female-> seorang wanita muda</li>
+    <li>Anauthordesc_female-> seorang wanita tua</li>
+    <li>Anauthordesc_female-> seorang wanita yang ketakutan</li>
+    <li>Anauthordesc_female-> seorang wanita yang sedih</li>
+    <li>Anauthordesc_female-> seorang wanita tua</li>
+    <li>Anauthordesc_female-> seorang wanita bijak</li>
+    <li>Anauthordesc_female-> seorang wanita yang keras kepala</li>
+    <li>Anauthordesc_female-> seorang wanita bodoh</li>
+    <li>Anauthordesc_female-> seorang wanita yang tidak bersalah</li>
+    <li>Anauthordesc_female-> seorang wanita yang terganggu</li>
+    <li>Anauthordesc_female-> seorang wanita eldritch</li>
+    <li>Anauthordesc_female-> seorang wanita yang memalukan</li>
+    <li>Anauthordesc_femal-> archetipe wanita</li>
+    <li>Anauthordesc_female-> seorang wanita yang membosankan</li>
+    <li>Anauthordesc_female-> seorang wanita gila</li>
+    <li>Anauthordesc_female-> seorang wanita yang tidak bermoral</li>
+    <li>Anauthordesc_female-> seorang wanita moralistik</li>
+    <li>Anauthordesc_female-> seorang wanita amoral</li>
+    <li>Anauthordesc_female-> seorang wanita gelap</li>
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellssoryof-> mengungkapkan</li>
+    <li>Tellsastoryof-> Discute</li>
+    <li>Tellsastoryof-> jelaskan</li>
+    <li>Tellsastoryof-> detail</li>
+    <li>Tellsastoryof-> menjelaskan lebih rinci tentang</li>
+    <li>Tellsastoryof-> masukkan detail tentang</li>
+    <li>Tellsastoryof-> narra</li>
+    <li>Tellsastoryof-> Relata</li>
+    <li>Tellsastoryof-> Informa</li>
+    <li>Tellsastoryof-> membuat kronik tentang</li>
+    <li>Tellsastoryof-> jelaskan</li>
+    <li>Tellsastoryof-> kembangkan</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryf] Pengalaman yang ia bagikan dengan beberapa [kepemilikan]</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastory dari] Pengalaman yang ia bagikan dengan [entitas_fem]</li>
+    <li>Pengalaman dengan Postersters-> [Memberitahu] bagaimana itu menyusup ke sekte rahasia yang memiliki basis tersembunyi di [terrainfitur] yang terpencil]</li>
+    <li>Pengalaman dengan Postersters-> [memberi tahu] bagaimana ia menyusup ke sekte rahasia yang memiliki basis tersembunyi di [terrainfeature_fem yang terpencil]</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryof] Bagaimana perburuan kubus emas misterius</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryf] Meditasi mendalam yang dipandu oleh supralacayo dari kultus arkeois</li>
+    <li>Pengalaman dengan konster-> [memberi tahu] bagaimana ia pingsan hidupnya di bawah pengaruh psikis dari sesuatu yang disebut horax</li>
+    <li>Pengalaman dengan Postersters-> [Memberitahu] bagaimana Anda mendapatkan informasi dari penggalian arkeologis jarak jauh di mana para peneliti menjadi gila satu per satu dengan keras</li>
+    <li>Pengalaman dengan konster-> [memberi tahu] bagaimana suatu suku, dalam beberapa hal, diubah untuk melayani dewa gelap dari sekte kesenangan berdarah</li>
+    <li>Pengalaman dengan Monsters-> Cobalah untuk menggambarkan suku dengan tradisi ritual mutilasi yang dibuat dalam cahaya api dengan bilah berkarat</li>
+    <li>Pengalaman dengan konster-> [memberitahu] bagaimana seorang guru tidak mengerti bahwa salah satu muridnya mengatakan kebenaran fana yang tidak bisa dia ketahui</li>
+    <li>Pengalaman dengan Postersters-> [Tellsastoryf] Bagaimana seorang ilmuwan mencoba menggunakan media arkeoteknologi kuno untuk menghidupkan kembali istrinya yang sudah mati</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryof] bagaimana ada</li>
+    <li>Pengalaman dengan Monstersters-> [memberi tahu] bagaimana tim ilmiah menyelidiki kuburan lama di tanah yang penuh dengan makhluk berdaging yang menakutkan</li>
+    <li>Pengalaman dengan Postersters-> [memberi tahu bagian] bagaimana seorang dukun suku mencoba menemukan cara untuk menghentikan serangan malam [hewan_lural] yang mati disusun kembali ke desanya</li>
+    <li>Pengalaman dengan Monstersters-> [Tellsastoryf] Sebuah mitos kesukuan tentang dewa kemarahan kuno yang pengaruhnya memengaruhi semua orang dan pahlawan yang menguncinya di penjara batu kecil</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryf] Eksperimen brutalnya dengan [entitas]</li>
+    <li>Pengalaman dengan Monsters-> [Tellsastoryf] Eksperimen brutalnya dengan [entitas_fem]</li>
+    <li>Pengalaman dengan konster-> [memberi tahu] bagaimana visi berulang Anda di mana [visi]</li>
+    <li>Visi-> Tokoh-tokoh gelap memasuki pikiran mereka dan mengambil kenangan mereka</li>
+    <li>Visi-> Apakah itu sendiri dianiaya mypawn_gender?O: a} dan tidak bisa melarikan diri tidak peduli bagaimana</li>
+    <li>Visi-> Apakah menghancurkan {anypawn_gender?O: A} untuk [entitas]</li>
+    <li>Visi-> Apakah menghancurkan {anypawn_gender?O: a} untuk [entity_fem]</li>
+    <li>ExperiencesWithMonsters-> [Tellsastoryof] Su [Temuan] [Tujuan]</li>
+    <li>Temuan-> pengalaman dengan</li>
+    <li>Temuan-> Penelitian tentang</li>
+    <li>Objektif-> Ritual [maybeadjectiveEvil] yang disebabkan oleh insiden di mana [ritual_in-barat]</li>
+    <li>Objektif-> Ilmu gelap setelah [entity_inident_var]</li>
+    <li>Ritual_inident-> mengamati [targethuman] muncul dari tidak ada</li>
+    <li>Targethuman-> [anauthordesc_female]</li>
+    <li>Targethuman-> [anauthordesc_male]</li>
+    <li>Ritual_inident-> menghujani darah selama tiga hari yang membuat teman-temannya gila</li>
+    <li>ritual_incident-> [entity_incident]</li>
+    <li>Entity_inident-> kehilangan [bodypart_human] dalam serangan [entity_fem]</li>
+    <li>Entitas Insiden-> Kehilangan [bodypart_human] dalam serangan oleh [entitas]</li>
+    <li>Entity_incident-> Contempló a un [entitas]</li>
+    <li>Entity_inident-> merenungkan [entity_fem]</li>
+    <li>entity_inident_var-> kehilangan [bodypart_human] Anda dalam serangan [entity_fem]</li>
+    <li>Entity_inident_var-> kehilangan [bodypart_human] Anda dalam serangan oleh [entitas]</li>
+    <li>Entity_incident_var-> Contemplar A UN [entitas]</li>
+    <li>entity_inident_var-> renungkan [entity_fem]</li>
+    <li>Khususnya> pada waktu tertentu, penulis menceritakan ritual gelap di mana para korban dipaksa untuk dimutilasi dengan kristal yang rusak.</li>
+    <li>Khususnya> pada waktu tertentu, protagonis menabrak ritual di mana sosok berdarah yang menyanyikan mantra menyeramkan sambil mengemudi sendiri dengan fragmen obsidian.</li>
+    <li>Spesifikly-> Buku ini mencakup banyak ilustrasi yang mencoba mewakili sesuatu untuk apa yang disebutnya sebagai "Samudra Hitam."Tampaknya metafora bidang psikis yang didominasi oleh hiperintelligensi psikis yang mengerikan tetapi menggoda.</li>
+    <li>Secara khusus-> berulang kali menyinggung untuk melipatgandakan sifat realitas, gagasan bahwa ada lebih banyak dimensi daripada yang kita lihat, sehingga objek atau entitas bisa tepat di sebelah sisi Anda tetapi di luar kapasitas Anda untuk persepsi.</li>
+    <li>Specifforrrory-> Luangkan banyak waktu untuk mencoba menggambarkan entitas hiperintellen yang disebut "Horax" yang ada di bidang realitas yang berdekatan.</li>
+    <li>Secara spesifik-> Bagian menggambarkan mekanisme pengaruh psikis gelap, di mana entitas pesawat lain dapat secara tidak sengaja mempengaruhi pikiran manusia yang menyinkronkannya dengan resonansi emosional mereka.</li>
+    <li>Specifforrrory-> Sebuah bagian menggambarkan berbagai hyperintelligence arkeoteknik dan sifat variabel dari emanasinya yang emosional dan psikis.Sementara beberapa dianggap netral atau bahkan baik hati, yang lain adalah entitas kemarahan murni.</li>
+    <li>Specifforrrory-> Jelaskan perasaan bahwa pikiran Anda dikonfigurasi ulang dengan paksa oleh pengaruh psikis gelap dari kecerdasan utama.</li>
+    <li>Speciferrrorstory-> Di bagian, penulis mencoba bunuh diri, tetapi ditemukan dan diselamatkan oleh [Personjob] yang ramah.</li>
+    <li>Specifforrrory-> Volume dihiasi dengan ilustrasi yang mengganggu yang menggambarkan entitas yang aneh dan supranatural yang sulur tinta diputar oleh halaman, memohon sensasi teror dan daya tarik di bagian yang sama.</li>
+    <li>Khususnya-> di seluruh narasi, konsep dimensi paralel berulang dan karakter menemukan entitas yang ada tepat di luar tabir persepsi, hidup berdampingan dalam kenyataan yang melintasi kita sendiri tetapi tetap tersembunyi di depan mata.</li>
+    <li>Khususnya> Buku ini memasuki pameran yang mengerikan di "Horax", mesin hiperintelligen yang bergerak melalui dimensi tersembunyi ke tempat yang disebut The Vacuum.</li>
+    <li>Specifforrrory-> Salah satu bab menggambarkan teori bahwa hiperintelligensi yang jauh dapat secara psikis memanipulasi kognisi manusia, merombak pikiran seseorang untuk menyelaraskannya dengan pola mental mereka sendiri.</li>
+    <li>Spesifikly-> sang protagonis mengatakan bahwa ia merasa bahwa kekuatan psikis yang menyeramkan yang berasal dari tidak ada yang mengubah kabelnya menjadi memaksa.</li>
+    <li>Entitas-> setan</li>
+    <li>Entitas-> Mayat Andante</li>
+    <li>Entitas-> monster haus karena rasa sakit</li>
+    <li>Entitiesy_fem-> makhluk daging dan tulang yang terpapar</li>
+    <li>Entitas-> mayat andante dari beberapa [hewan_lim]</li>
+    <li>Entities_fem-> Figur berbentuk pria yang terbuat dari logam dan bilah</li>
+    <li>Entities_fem-> bola mekanik mengambang yang memancarkan rasa sakit</li>
+    <li>Entitas-> kubus emas indah yang menghancurkan pikiran</li>
+    <li>Entitas_fem-> binatang buas yang terbuat dari daging berdarah</li>
+    <li>Entities_fem-> Formulir yang bersembunyi di tampilan penuh</li>
+    <li>Entitas-> pemburu yang mencuri jiwa</li>
+    <li>entitas-> demonio</li>
+    <li>Entitas-> Andante Corpse</li>
+    <li>Entitas-> Monster haus karena rasa sakit</li>
+    <li>entity_fem-> Daging dan makhluk tulang yang terpapar</li>
+    <li>Entitas-> Tubuh Berjalan [Hewan]</li>
+    <li>Entity_fem-> sosok berbentuk manusia yang terbuat dari logam dan bilah</li>
+    <li>Entity_fem-> Floating Mechanical Sphere yang memancarkan rasa sakit</li>
+    <li>entitas-> kubus emas indah yang menghancurkan pikiran</li>
+    <li>Entity_fem-> binatang buas yang terbuat dari daging berdarah</li>
+    <li>Entity_fem-> Formulir yang bersembunyi di tampilan penuh</li>
+    <li>entitas-> pemburu yang mencuri jiwa</li>
+    <li>maybeadjectiveEvil (p = 2)-></li>
+    <li>MaybeadjectiveEvil-> [AdjectiveEvil]</li>
+    <li>AdjectiveEvil-> Mortales</li>
+    <li>KADDIVEEVIL-> kuno</li>
+    <li>AdjectiveEvil-> Sialan</li>
+    <li>AdjectiveEvil-> Twisted</li>
+    <li>AdjectiveEvil-> Powerful</li>
+    <li>AdjectiveEvil-> Nefastos</li>
+    <li>AdjectiveEvil-> Spectral</li>
+    <li>AdjectiveEvil-> Ethereal</li>
+    <li>KADDIFIVIL-> tidak menyenangkan</li>
+    <li>KADDIVEEVIL-> ARCANOS</li>
+    <li>AdjectiveEvil-> Surrealist</li>
+    <li>AdjectiveEvil-> LUAR BIASA</li>
+    <li>KADIRIVIL-> Ghostly</li>
+    <li>AdjectiveEvil-> Enigmatic</li>
+    <li>AdjectiveEvil-> Infernales</li>
+    <li>AdjectiveEvil-> aberrantes</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Inconexo</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Incoherente</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Sin Sentido</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> mengerikan</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Pueril</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> Débil</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> Toscamente Garabateado</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> tedioso</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> Inconsistente</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> Garabateado</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Desordenado</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Sin Inspiración</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Poco berkesan</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Sederhana</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> Aceptable</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> Monótono</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> bien escrito</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> Bien Redactado</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> reflexivo</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> terbaca</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> Divertido</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> Agradable</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> entretenido</li>
+    <li>Menulis kata sifat berkualitas (kualitas == 4)-> ekspresif secara emosional</li>
+    <li>Menulis kata sifat kualitas (kualitas == 4)-> terstruktur dengan tepat</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> Persuasivo</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> respetable</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Sólido</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> bien ejecutado</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> muy persicaz</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> DESTACADO</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> de primera clase</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Inspirador</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> ingenioso</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> Aterradoramente Perpicaz</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> Sin Igual</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> precioso</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> Magistral</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> exquisito</li>
+    <li>WritingqualityAdjective_fem (kualitas == 0)-> Inconexa</li>
+    <li>WritingqualityAdjective_fem (kualitas == 0)-> Incoherente</li>
+    <li>WritingqualityAdjective_fem (kualitas == 0)-> Sin Sentido</li>
+    <li>WritingqualityAdjective_fem (kualitas == 0)-> Mengerikan</li>
+    <li>WritingqualityAdjective_fem (kualitas == 0)-> Pueril</li>
+    <li>WritingqualityAdjective_fem (kualitas == 1)-> débil</li>
+    <li>WritingqualityAdjective_fem (kualitas == 1)-> Toscamente Garabateada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 1)-> tediosa</li>
+    <li>WritingqualityAdjective_fem (kualitas == 1)-> Inconsistente</li>
+    <li>WritingqualityAdjective_fem (kualitas == 1)-> Garabateada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> desordenada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> Sin Inspiración</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> Poco berkesan</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> Sederhana</li>
+    <li>WritingqualityAdjective_fem (kualitas == 2)-> Aceptable</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> Monótona</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> bien escrita</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> Bien Articulada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> reflexiva</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> terbaca</li>
+    <li>WritingqualityAdjective_fem (kualitas == 3)-> Divertida</li>
+    <li>WritingqualityAdjective_fem (kualitas == 4)-> Agradable</li>
+    <li>WritingqualityAdjective_fem (kualitas == 4)-> entretenida</li>
+    <li>WritingqualityDjetive_fem (kualitas == 4)-> Ekspresif secara emosional</li>
+    <li>WritingqualityDjetive_fem (kualitas == 4)-> terstruktur dengan tepat</li>
+    <li>WritingqualityAdjective_fem (kualitas == 4)-> Persuasiva</li>
+    <li>WritingqualityAdjective_fem (kualitas == 4)-> respetable</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> Sólida</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> Bien Ejecutada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> muy persicaz</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> Destacada</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> de primera clase</li>
+    <li>WritingqualityAdjective_fem (kualitas == 5)-> Inspiradora</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> Ingeniosa</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> Aterradoramente Perpicaz</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> Sin Igual</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> preciosa</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> Magistral</li>
+    <li>WritingqualityAdjective_fem (kualitas == 6)-> exquisita</li>
+    <li>WritingqualityAdjective_pl (kualitas == 0)-> Inconexas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 0)-> Incoherentes</li>
+    <li>WritingqualityAdjective_pl (kualitas == 0)-> Sin Sentido</li>
+    <li>WritingqualityAdjective_pl (kualitas == 0)-> Terribles</li>
+    <li>WritingqualityAdjective_pl (kualitas == 0)-> Pueriles</li>
+    <li>WritingqualityAdjective_pl (kualitas == 1)-> Débiles</li>
+    <li>WritingqualityAdjective_pl (kualitas == 1)-> toscamentes garabateada</li>
+    <li>WritingqualityAdjective_pl (kualitas == 1)-> tediosas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 1)-> tidak konsisten</li>
+    <li>WritingqualityAdjective_pl (kualitas == 1)-> Garabateada</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> desordenadas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> Sin Inspiración</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> Mediocres</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> memorables poco</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> Simples</li>
+    <li>WritingqualityAdjective_pl (kualitas == 2)-> Aceptables</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> Monótonas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> bien escritas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> bien articuladas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> reflexivas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> legiun</li>
+    <li>WritingqualityAdjective_pl (kualitas == 3)-> Divertidas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 4)-> agradables</li>
+    <li>WritingqualityAdjective_pl (kualitas == 4)-> entretenidas</li>
+    <li>WritingqualityDjetive_pl (kualitas == 4)-> Ekspresif secara emosional</li>
+    <li>WritingqualityDjective_pl (kualitas == 4)-> terstruktur secara akurat</li>
+    <li>WritingqualityAdjective_pl (kualitas == 4)-> Persuasivas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 4)-> respetables</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> Sólidas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> bien ejecutadas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> muy perspicaces</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> Destacadas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> de primera clase</li>
+    <li>WritingqualityAdjective_pl (kualitas == 5)-> Inspiradoras</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> Ingeniosas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> Aterradoramente Perspicaces</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> Sin Igual</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> preciosas</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> Magistrales</li>
+    <li>WritingqualityAdjective_pl (kualitas == 6)-> exquisitas</li>
+    <li>WritingqualitySentence (kualitas [Greater_than] 4)-> El libro [sangat baik]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> el libro [decentdesc]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 2)-> El libro [AWFULDESC]</li>
+    <li>AWFULDESC-> tidak terbaca</li>
+    <li>AWFULDESC-> ditulis dengan tangan gemetar</li>
+    <li>AWFULDESC-> diwarnai dengan minuman keras kering</li>
+    <li>AWFULDESC-> hampir tidak koheren</li>
+    <li>AWFULDESC-> berulang dan banyak bagian kekurangan detail</li>
+    <li>AWFULDESC-> berubah warna di luar keterbacaan di banyak bagian</li>
+    <li>AWFULDESC-> memiliki banyak halaman yang hilang</li>
+    <li>AWFULDESC-> benar-benar tidak terorganisir dan terus dilewati</li>
+    <li>AWFULDESC-> ditulis dalam bahasa yang hilang</li>
+    <li>AWFULDESC-> penuh dengan jargon yang tidak dapat dipahami</li>
+    <li>AWFULDESC-> kekanak-kanakan</li>
+    <li>AWFULDESC-> Campurkan realitas dengan fantasi sesuka hati</li>
+    <li>AWFULDESC-> dibaca sebagai penulisan otomatis</li>
+    <li>AWFULDESC-> dipenuhi dengan minuman keras dan darah</li>
+    <li>AWFULDESC-> berbicara terutama tentang romansa tentang dua [kepemilikan]</li>
+    <li>AWFULDESC-> berbicara terutama tentang romansa tentang dua [entitas_fem]</li>
+    <li>Dentdesc-> solid tetapi akan mendapat manfaat dari edisi yang bagus</li>
+    <li>Dentdesc-> wawasan selama beberapa bagian, tetapi bagian lain tidak perlu</li>
+    <li>Dentdesc-> adalah persepsi, tetapi hanya dari sudut pandang yang terpelintir</li>
+    <li>Dentdesc-> sangat rinci, tetapi tidak memiliki interpretasi yang berguna</li>
+    <li>Decentesc-> memiliki beberapa halaman yang hilang</li>
+    <li>Decentesc-> ini berguna, tetapi terlalu fokus pada minat pribadi penulis</li>
+    <li>Decentesc-> penuh dengan informasi yang berguna, terlepas dari distorsi dan bias penulis</li>
+    <li>Decentesc-> ditulis dengan cara yang tidak profesional</li>
+    <li>Dentdesc-> menyenangkan tetapi tidak sepenuhnya berguna</li>
+    <li>Decentesc-> penuh dengan ide-ide yang menarik, tetapi sulit dibaca</li>
+    <li>Decentesc-> ditulis oleh kecerdasan tahun pertama dengan temperamen kedua</li>
+    <li>Dentdesc-> layak tetapi benar-benar rusak</li>
+    <li>Dentdesc-> menakutkan dalam isinya, membosankan dalam eksekusi</li>
+    <li>Luar biasa> adalah apogee literatur</li>
+    <li>Luar biasa sangat mendalam</li>
+    <li>ExcellentSc-> luar biasa diuraikan dengan baik</li>
+    <li>ExcellentSc-> terorganisir dengan baik dan profesional dalam strukturnya</li>
+    <li>ExcellentSc-> hampir puitis dalam banyak aspek</li>
+    <li>Excellentsc-> secara mengejutkan deskriptif: banyak bagian memiliki gaya puitis yang hampir puitis</li>
+    <li>Luar biasa> penuh dengan ide-ide berkelap-kelip yang meledak pikiran</li>
+  </Description_Tome.rulePack.rulesStrings>
+  
+</LanguageData>

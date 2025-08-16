@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black -->
+  <UniqueWeapon_Black.label>Negro</UniqueWeapon_Black.label>
+  
+  <!-- EN: cream -->
+  <UniqueWeapon_Cream.label>crema</UniqueWeapon_Cream.label>
+  
+  <!-- EN: dark brown -->
+  <UniqueWeapon_DarkBrown.label>coklat tua</UniqueWeapon_DarkBrown.label>
+  
+  <!-- EN: electric blue -->
+  <UniqueWeapon_EMP.label>biru listrik</UniqueWeapon_EMP.label>
+  
+  <!-- EN: fire orange -->
+  <UniqueWeapon_Fire.label>Api oranye</UniqueWeapon_Fire.label>
+  
+  <!-- EN: gold -->
+  <UniqueWeapon_Gold.label>Dorado</UniqueWeapon_Gold.label>
+  
+  <!-- EN: gray -->
+  <UniqueWeapon_Gray.label>gris</UniqueWeapon_Gray.label>
+  
+  <!-- EN: green -->
+  <UniqueWeapon_Green.label>verde</UniqueWeapon_Green.label>
+  
+  <!-- EN: ice blue -->
+  <UniqueWeapon_IceBlue.label>Ice Blue</UniqueWeapon_IceBlue.label>
+  
+  <!-- EN: jade -->
+  <UniqueWeapon_Jade.label>giok</UniqueWeapon_Jade.label>
+  
+  <!-- EN: limestone -->
+  <UniqueWeapon_Limestone.label>batu kapur</UniqueWeapon_Limestone.label>
+  
+  <!-- EN: muted blue -->
+  <UniqueWeapon_MutedBlue.label>Biru</UniqueWeapon_MutedBlue.label>
+  
+  <!-- EN: muted green -->
+  <UniqueWeapon_MutedGreen.label>Green Off</UniqueWeapon_MutedGreen.label>
+  
+  <!-- EN: muted purple -->
+  <UniqueWeapon_MutedPurple.label>Ungu Off</UniqueWeapon_MutedPurple.label>
+  
+  <!-- EN: muted red -->
+  <UniqueWeapon_MutedRed.label>Merah</UniqueWeapon_MutedRed.label>
+  
+  <!-- EN: purple -->
+  <UniqueWeapon_Purple.label>ungu</UniqueWeapon_Purple.label>
+  
+  <!-- EN: red -->
+  <UniqueWeapon_Red.label>rojo</UniqueWeapon_Red.label>
+  
+  <!-- EN: sandstone -->
+  <UniqueWeapon_Sandstone.label>batu pasir</UniqueWeapon_Sandstone.label>
+  
+  <!-- EN: toxic green -->
+  <UniqueWeapon_Tox.label>Hijau beracun</UniqueWeapon_Tox.label>
+  
+  <!-- EN: white -->
+  <UniqueWeapon_White.label>Blanco</UniqueWeapon_White.label>
+  
+</LanguageData>

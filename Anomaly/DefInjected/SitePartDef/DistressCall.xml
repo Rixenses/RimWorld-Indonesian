@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {FACTION_name} distress signal -->
+  <DistressCall_Fleshbeasts.label>Sinyal socorro {felion_name}</DistressCall_Fleshbeasts.label>
+  <!-- EN: You've intercepted a distress signal from this outpost. The threat is unknown, but the caller offered everything in the camp as a reward for help. -->
+  <DistressCall_Fleshbeasts.description>Anda telah mencegat sinyal bantuan dari posisi lanjutan ini.Ancaman itu tidak diketahui, tetapi yang disebutnya menawarkan segala sesuatu di kamp sebagai hadiah atas bantuan Anda.</DistressCall_Fleshbeasts.description>
+  <!-- EN: Investigating {0}. -->
+  <DistressCall_Fleshbeasts.approachingReportString>Investigasi {0}.</DistressCall_Fleshbeasts.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <DistressCall_Fleshbeasts.approachOrderString>Selidiki {0}</DistressCall_Fleshbeasts.approachOrderString>
+  
+</LanguageData>

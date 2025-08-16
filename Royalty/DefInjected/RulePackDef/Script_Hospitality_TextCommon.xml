@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>alllodgerInfo-> [healthinfo] [minmoodinfo] [workinfo] [termasuk anak-anak]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT == 1)-> [LODGER0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT> = 2)-> [LODGERSLABELLLURAL]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT == 1)-> [LODGERS0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT> = 2)-> [LODGERSLABELLLURAL]</li>
+    <li>termasuk anak (prioritas = -999)-></li>
+    <li>termasuk anak-anak (childcount == 1)-> \ n \ tidak ada [LodgersLabelsingorPluralDef] adalah seorang anak.</li>
+    <li>termasuk anak-anak (childcount> = 2)-> \ n \ nSome dari [lodgerslabelsingorpluraldef] adalah anak-anak.</li>
+    <li>healthinfo-></li>
+    <li>HealthInfo (Lodgershavebloodrotandparalysis == true, prioritas = 1)-> \ n \ n [lumpuhedinfo] \ n \ n [Bloodrotinfo]</li>
+    <li>healthinfo (lodgersareParalyzed == true, prioritas = 1)-> \ n \ n [lumpuhedinfo]</li>
+    <li>HealthInfo (Lodgershavebloodrot == true, prioritas = 1)-> \ n \ n [Bloodrotinfo]</li>
+    <li>lumpuhedinfo-> [lodgerslabelsingorpluraldef] [areis] menderita abasia paralitik dan harus disimpan di tempat tidur.</li>
+    <li>Bloodrotinfo-> [LodgersLabelsingorPluralDef] [Areis] Sakit dengan busuk darah dan akan membutuhkan perawatan setiap hari.Penyakit ini dapat diperlambat dengan perawatan dan obat-obatan berkualitas tinggi, tetapi umumnya tidak dapat disembuhkan secara langsung.Jika penyakitnya menjadi parah, [LodgersLabelsingorpluralDef] akan mati, jadi pastikan Anda memiliki persediaan medis yang diperlukan.</li>
+    <li>minmoodinfo-></li>
+    <li>MinMoodInfo (LodgersCountWithMoodThreshold> 0, Prioritas = 1)-> \ n \ nyou harus menjaga suasana hati [LodgersLabelSingorpluralDef] di atas [lodgersmoodthreshold_percent].</li>
+    <li>workinfo-></li>
+    <li>workInfo (lodgerswillnotwork == true, prioritas = 1)-> \ n \ n [lodgerslabelsingorpluraldef] tidak akan melakukan pekerjaan apa pun.</li>
+    <li>Commondescending-> [HelperSParagraph]</li>
+    <li>EnemyGroupsparagraph-> [ancamancriptionParagraph]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman == 1)-> akan ada (*ancaman) penggerebekan (/ancaman) kira-kira ukuran ini: \ n \ n [ancaman]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman> 1)-> akan ada (*ancaman) penggerebekan (/ancaman) kekuatan [ancaman] x dan kira-kira ukuran ini: \ n \ n [ancaman contoh]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, ancaman> 1, ancaman == 1)-> akan ada (*ancaman) [ancaman] penggerebekan (/ancaman) kira-kira ukurannya: \ n \ n [ancaman contoh]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancaman> 1, ancaman> 1)-> akan ada (*ancaman) [ancaman] penggerebekan (/ancaman) kekuatan [ancaman] x dan kira-kira ukurannya: \ n \ n [ancaman contoh]</li>
+    <li>ancamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman == 1)-> (*ancaman) kluster mech (/ancaman) akan mengerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 2, ancaman == 1)-> (*ancaman) Dua kelompok mech (/ancaman) akan mengerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman> 1)-> (*ancaman) kluster mech (/ancaman) dari ukuran [ancaman] x akan dikerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 2, ancaman> 1)-> (*ancaman) dua kelompok mech (/ancaman) dari ukuran [ancaman] x akan dikerahkan di dekatnya.</li>
+    <li>AncromSinfomechClusterssinglehuman-> [lodgers0_namedef] Baru-baru ini [mechviolation], dan telah ditargetkan oleh kawanan mekanoid yang mengorbit.</li>
+    <li>AncromSinfomechclustersmultiprisoners-> Para tahanan baru-baru ini [mechviolation], dan telah ditargetkan oleh segerombolan mekanoid yang mengorbit.</li>
+    <li>AncromSinfomechraidssinglehuman-> [Lodgers0_Namedef] Baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.</li>
+    <li>Ancromsinfomechraidsmultihuman-> Mereka baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.</li>
+    <li>mechviolation-> membuat marah kepribadian mesin</li>
+    <li>mechviolation-> melanggar terminal superkomputer kuno</li>
+    <li>mechviolation-> membunuh seorang anak manusia yang disukai oleh archotech</li>
+    <li>mechviolation-> mencoba meretas node kontrol mechanoid</li>
+    <li>mechviolation-> mencoba mencuri dari lokasi penyimpanan kuno</li>
+    <li>Lettersubject-> {subjek_definite}</li>
+    <li>Lodgershashave (Lodgerscount == 1)-> Have</li>
+    <li>Lodgershashave (Lodgerscount> = 2)-> Have</li>
+    <li>LodgersObjective (LodgersCount == 1)-> [Lodgers0_Objective]</li>
+    <li>LodgersObjective (Lodgerscount> = 2)-> mereka</li>
+    <li>areis (lodgerscount == 1)-> is</li>
+    <li>areis (lodgerscount> = 2)-> are</li>
+    <li>sisawillnowlave (lodgerscount == 1)-></li>
+    <li>Sisawillnowlive (Lodgerscount> = 2)-> Setiap [LodgersLabelplural yang tersisa] sekarang akan pergi.</li>
+    <li>failletterendingquest-> Anda telah gagal pencarian '[resolvedQuestName]'.</li>
+    <li>failletterendingCommon (askerisnull == true, prioritas = 1)-> [failletterendingquest]</li>
+    <li>failletterendingCommon-> [failletterendingquest] \ n \ nyour hubungan dengan [asker_faction_name] telah menurun dengan [goodwillpenalty].</li>-><QuestHospitalityCommon.rulePack.rulesStrings>
+    <!-- <li>alllodgerInfo-> [healthinfo] [minmoodinfo] [workinfo] [termasuk anak-anak]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT == 1)-> [LODGER0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT> = 2)-> [LODGERSLABELLLURAL]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT == 1)-> [LODGERS0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT> = 2)-> [LODGERSLABELLLURAL]</li>
+    <li>healthinfo-><li>termasuk anak (prioritas = -999)-></li>
+    <li>termasuk anak-anak (childcount == 1)-> \ n \ tidak ada [LodgersLabelsingorPluralDef] adalah seorang anak.</li>
+    <li>termasuk anak-anak (childcount> = 2)-> \ n \ nSome dari [lodgerslabelsingorpluraldef] adalah anak-anak.</li></li>-><li>alllodgerInfo-> [healthinfo] [minmoodinfo] [workinfo] [termasuk anak-anak]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT == 1)-> [LODGER0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURAL (LODGERSCOUNT> = 2)-> [LODGERSLABELLLURAL]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT == 1)-> [LODGERS0_NAMEDEF]</li>
+    <li>LODGERSLABELSINGORPLURALDEF (LODGERSCOUNT> = 2)-> LOS [LODGERSLABELLLURAL]</li>
+    <li>termasuk anak (prioritas = -999)-></li>
+    <li>Termasuk anak-anak (childcount == 1)-> \ n \ nuno dari [LodgerslassingorpluralDef] adalah seorang anak.</li>
+    <li>Termasuk anak-anak (childcount> = 2)-> \ in \ beberapa [lodgaberslallabelsingorpluraldef] adalah anak-anak.</li>
+    <li>healthinfo-></li>
+    <!--<li>HealthInfo (Lodgershavebloodrotandparalysis == true, prioritas = 1)-> \ n \ n [lumpuhedinfo] \ n \ n [Bloodrotinfo]</li>
+    <li>healthinfo (lodgersareParalyzed == true, prioritas = 1)-> \ n \ n [lumpuhedinfo]</li>
+    <li>HealthInfo (Lodgershavebloodrot == true, prioritas = 1)-> \ n \ n [Bloodrotinfo]</li>
+    <li>lumpuhedinfo-> [lodgerslabelsingorpluraldef] [areis] menderita abasia paralitik dan harus disimpan di tempat tidur.</li>
+    <li>Bloodrotinfo-> [LodgersLabelsingorPluralDef] [Areis] Sakit dengan busuk darah dan akan membutuhkan perawatan setiap hari.Penyakit ini dapat diperlambat dengan perawatan dan obat-obatan berkualitas tinggi, tetapi umumnya tidak dapat disembuhkan secara langsung.Jika penyakit ini menjadi parah [LodgersLabelsingorpluralDef] akan mati, jadi pastikan Anda memiliki persediaan medis yang diperlukan.</li>
+    <li>minmoodinfo-></li>
+    <li>MinMoodInfo (LodgersCountWithMoodThreshold> 0, Prioritas = 1)-> \ n \ nyou harus menjaga suasana hati [LodgersLabelSingorpluralDef] di atas [lodgersmoodthreshold_percent].</li>
+    <li>workinfo-></li>
+    <li>workInfo (lodgerswillnotwork == true, prioritas = 1)-> \ n \ n [lodgerslabelsingorpluraldef] tidak akan melakukan pekerjaan apa pun.</li>
+    <li>Commondescending-> [HelperSParagraph]</li>-><li>HealthInfo (Lodgershavebloodrotandparalysis == true, prioritas = 1)-> \ n \ n [lumpuhedinfo] \ n \ n [Bloodrotinfo]</li>
+    <li>healthinfo (lodgersareParalyzed == true, prioritas = 1)-> \ n \ n [lumpuhedinfo]</li>
+    <li>HealthInfo (Lodgershavebloodrot == true, prioritas = 1)-> \ n \ n [Bloodrotinfo]</li>
+    <li>Lumpuhedinfo-> [lodgerslabelsingorpluraldef] [areis] menderita paralitik abasia dan [must_be] tetap di tempat tidur.</li>
+    <li>Bloodrotinfo-> [lodgerslabelsingorpluraldef] [areis] [sakit] dengan pembusukan darah dan [will_require] dari perawatan harian.Penyakit ini dapat diperlambat dengan perawatan dan obat -obatan berkualitas tinggi, tetapi secara umum tidak dapat disembuhkan segera.Jika penyakit menjadi serius, [LodgersLabelSingorPluralDef] [Will_die], jadi pastikan Anda memiliki persediaan medis yang diperlukan.</li>
+    <li>minmoodinfo-></li>
+    <li>MinMoodinfo (Lodgerscountwithmoodthreshold> 0, Prioritas = 1)-> \ n \ ndebes mantener el humor de [lodgerslabelsingingorpluraldef] por encima de [lodgersmoodthreshold_percent].</li>
+    <li>workinfo-></li>
+    <li>workInfo (lodgerswillnotwork == true, prioritas = 1)-> \ n \ n [lodgerslabelsingorpluraldef] Tidak ada [will_not_do] ningún trabajo.</li>
+    <li>Commondescending-> [HelperSParagraph]</li>
+    <!--<li>EnemyGroupsparagraph-> [ancamancriptionParagraph]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman == 1)-> akan ada (*ancaman) penggerebekan (/ancaman) kira-kira ukuran ini: \ n \ n [ancaman]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman> 1)-> akan ada (*ancaman) penggerebekan (/ancaman) kekuatan [ancaman] x dan kira-kira ukuran ini: \ n \ n [ancaman contoh]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, ancaman> 1, ancaman == 1)-> akan ada (*ancaman) [ancaman] penggerebekan (/ancaman) kira-kira ukurannya: \ n \ n [ancaman contoh]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancaman> 1, ancaman> 1)-> akan ada (*ancaman) [ancaman] penggerebekan (/ancaman) kekuatan [ancaman] x dan kira-kira ukurannya: \ n \ n [ancaman contoh]</li>
+    <li>ancamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman == 1)-> (*ancaman) kluster mech (/ancaman) akan mengerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 2, ancaman == 1)-> (*ancaman) Dua kelompok mech (/ancaman) akan mengerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman> 1)-> (*ancaman) kluster mech (/ancaman) dari ukuran [ancaman] x akan dikerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 2, ancaman> 1)-> (*ancaman) dua kelompok mech (/ancaman) dari ukuran [ancaman] x akan dikerahkan di dekatnya.</li>
+    <li>AncromSinfomechClusterssinglehuman-> [lodgers0_namedef] Baru-baru ini [mechviolation], dan telah ditargetkan oleh kawanan mekanoid yang mengorbit.</li>
+    <li>AncromSinfomechclustersmultiprisoners-> Para tahanan baru-baru ini [mechviolation], dan telah ditargetkan oleh segerombolan mekanoid yang mengorbit.</li>
+    <li>AncromSinfomechraidssinglehuman-> [Lodgers0_Namedef] Baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.</li>
+    <li>Ancromsinfomechraidsmultihuman-> Mereka baru-baru ini [mechviolation], dan telah ditargetkan oleh sarang mekanoid.</li>-><li>EnemyGroupsparagraph-> [ancamancriptionParagraph]</li>
+    <li>ancamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman == 1)-> akan ada (*ancaman) serangan (/ancaman) kira-kira ukuran ini: \ n \ n [ancaman]]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, ancamancount == 1, ancaman> 1)-> akan ada (*ancaman) serangan (/ancaman) kekuatan [ancaman] x dan kira-kira dari ukuran ini: \ n \ n [Contoh Ancaman]]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, Ancamancount> 1, ancaman == 1)-> habrán (*ancaman) [ancaman] serbuan (/ancaman) de aproximadamente este tamaño: \ n \ n [contoh ancaman]]</li>
+    <li>AncamancriptionParagraph (ancamantype == RAIDS, ancaman> 1, ancaman> 1)-> habrán (*ancaman) [ancaman] serbuan (/ancaman) de fuerza [ancaman] x aproksimadamen de este tamaño: \ n \ n [ancaman] aproksimadamente de este tamaño: \ n \ n [Ancaman contoh]]]]</li>
+    <li>ancamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman == 1)-> (*ancaman) Sekelompok MECAS (/ancaman) akan dikerahkan di dekatnya.</li>
+    <li>AncamancriptionParagraph (ancaman == mechclusters, ancamancount == 2, ancaman == 1)-> (*ancaman) Dua kelompok MECAS (/ancaman) akan dikerahkan di sekitarnya.</li>
+    <li>AncamancriptionParagraph (ancamantype == mechclusters, ancamancount == 1, ancaman> 1)-> (*ancaman) sekelompok mecas (/ancaman) dari ukuran [ancaman] x akan digunakan di sekitarnya.</li>
+    <li>AncamancriptionParagraph (ancaman == mechclusters, ancamancount == 2, ancaman> 1)-> (*ancaman) dua kelompok MECA (/ancaman) dari ukuran [ancaman] x akan digunakan di sekitarnya.</li>
+    <li>ancamaninfomechclustersinglehuman-> [lodgers0_namedef] Baru-baru ini [mechviolation], dan merupakan tujuan kawanan mecanoid di orbit.</li>
+    <li>Ancromsinfomechclustersmultiprisoners-> Baru-baru ini tahanan [mechviolationMulhuman], dan merupakan tujuan dari kawanan mecanoid di orbit.</li>
+    <li>ancamaninfomechraidssinglehuman-> [lodgers0_namedef] Baru-baru ini [mechviolation], dan merupakan tujuan sarang mecanoid.</li>
+    <li>Ancromsinfomechraidsmultihuman-> Mereka baru-baru ini [MechviolationMulhuman], dan menjadi sasaran sarang mecanoid.</li>
+    <!--<li>mechviolation-> membuat marah kepribadian mesin</li>
+    <li>mechviolation-> melanggar terminal superkomputer kuno</li>
+    <li>mechviolation-> membunuh seorang anak manusia yang disukai oleh archotech</li>
+    <li>mechviolation-> mencoba meretas node kontrol mechanoid</li>
+    <li>mechviolation-> mencoba mencuri dari lokasi penyimpanan kuno</li>
+    <li>Lettersubject-> {subjek_definite}</li>
+    <li>Lodgershashave (Lodgerscount == 1)-> Have</li>
+    <li>Lodgershashave (Lodgerscount> = 2)-> Have</li>
+    <li>LodgersObjective (LodgersCount == 1)-> [Lodgers0_Objective]</li>
+    <li>LodgersObjective (Lodgerscount> = 2)-> mereka</li>-><li>Mechviolation-> dia entah bagaimana membuat marah kecerdasan buatan</li>
+    <li>Mechviolation-> happy ancestral superordinate terminal</li>
+    <li>Pelanggaran mech-> membunuh anak manusia yang sangat berarti bagi seorang archeoteca</li>
+    <li>Mechviolation-> cobalah untuk meretas node kontrol mechanid</li>
+    <li>Mechviolation-> Saya mencoba mencuri beberapa deposit leluhur</li>
+    <li>mechviolationmulhuman-> mereka entah bagaimana mencapai kecerdasan buatan</li>
+    <li>mechviolationmulhuman-> mereka meretas terminal superorder leluhur</li>
+    <li>Pelanggaran Mech Multihuman-> Mereka membunuh seorang anak manusia yang sangat berarti bagi seorang Archeoteca</li>
+    <li>mechviolationmulhuman-> mereka mencoba meretas simpul kontrol mecanoid</li>
+    <li>mechviolationmulhuman-> mereka mencoba mencuri beberapa deposit leluhur</li>
+    <li>Lettersubject-> {subjek_definite}</li>
+    <li>Lodgershashave (lodgerscount == 1)-> ha</li>
+    <li>Lodgershashave (Lodgerscount> = 2)-> Han</li>
+    <li>LodgersObjective (LodgersCount == 1)-> [Lodgers0_Objective]</li>
+    <li>LodgersObjective (Lodgerscount> = 2)-> Ellos</li>
+    <li>Lodgersarrived (lodgerscount == 1)-> dia tiba</li>
+    <li>Lodgersarrived (Lodgerscount> = 2)-> llegaron</li>
+    <li>LodgersProtect (Lodgerscount == 1)-> Protégele</li>
+    <li>LodgersProtect (Lodgerscount> = 2)-> CARA CREATGELES</li>
+    <!--<li>areis (lodgerscount == 1)-> is</li>
+    <li>areis (lodgerscount> = 2)-> are</li>
+    <li>sisawillnowlave (lodgerscount == 1)-></li>
+    <li>Sisawillnowlive (Lodgerscount> = 2)-> Setiap [LodgersLabelplural yang tersisa] sekarang akan pergi.</li>
+    <li>failletterendingquest-> Anda telah gagal pencarian '[resolvedQuestName]'.</li>
+    <li>failletterendingCommon (askerisnull == true, prioritas = 1)-> [failletterendingquest]</li>
+    <li>failletterendingCommon-> [failletterendingquest] \ n \ nyour hubungan dengan [asker_faction_name] telah menurun dengan [goodwillpenalty].</li>-><li>(Lodgerscount == 1)-></li>
+    <li>Areis (lodgerscount> = 2)-> are</li>
+    <li>must_be (lodgerscount == 1)-> debe</li>
+    <li>must_be (lodgerscount> = 2)-> deben</li>
+    <li>disimpan (lodgerscount == 1)-> mantenido</li>
+    <li>Simpan (Lodgerscount> = 2)-> mantenidos</li>
+    <li>sakit (lodgerscount == 1)-> enfermo</li>
+    <li>Sick (Lodgerscount> = 2)-> Enfermos</li>
+    <li>Will_require (Lodgerscount == 1)-> REQUERIRá</li>
+    <li>Will_require (Lodgerscount> = 2)-> akan membutuhkan</li>
+    <li>Will_die (lodgerscount == 1)-> akan mati</li>
+    <li>Will_die (lodgerscount> = 2)-> mereka akan mati</li>
+    <li>will_not_do (lodgerscount == 1)-> hará</li>
+    <li>will_not_do (lodgerscount> = 2)-> harán</li>
+    <li>sisawillnowlave (lodgerscount == 1)-></li>
+    <li>Sisawillnowlive (Lodgerscount> = 2)-> Setiap sisa dari [LodgersLabelplural] sekarang akan pergi.</li>
+    <li>Faillettendingquest-> Anda telah gagal dalam misi "[resolvedQuestName]".</li>
+    <li>failletterendingCommon (askerisnull == true, prioritas = 1)-> [failletterendingquest]</li>
+    <li>failllettendendCommon-> [failleTtendingQuest] \ n \ ntus hubungan dengan faksi [asker_faction_name] telah menurun dengan [goodwillpenalty].</li>
+  </QuestHospitalityCommon.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infant illness -->
+  <InfantIllness.label>Penyakit anak -anak</InfantIllness.label>
+  <!-- EN: Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover. -->
+  <InfantIllness.description>Efek dari berbagai komplikasi persalinan.Jika bayi dapat bertahan hidup selama 10 hari, itu akan cukup kuat untuk pulih sendiri.</InfantIllness.description>
+  <!-- EN: {PAWN_labelShort}'s infant illness went from {1} to {2}. -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>Penyakit anak -anak {pawn_labelshort} berubah dari {1} a {2}.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+  <!-- EN: that are life threatening without exceptional medical care and glitterworld medicine. -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>Kehidupan yang membahayakan tanpa perawatan medis yang luar biasa dan obat mundobrillant.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+  <!-- EN: grave -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>kuburan</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+  <!-- EN: that are life threatening without good medical care and standard medicine. -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>Kehidupan yang membahayakan tanpa perawatan medis yang baik dan obat standar.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+  <!-- EN: bad -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>ruang</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+  <!-- EN: that can be life threatening without basic medicine and tending. -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>yang bisa menjadi ancaman bagi kehidupan tanpa obat dan perhatian dasar.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+  <!-- EN: common -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>Comun</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+  <!-- EN: which make the baby slightly ill but, at this rate, they will recover on their own. -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>Itu membuat bayi itu sedikit sakit tetapi, pada ritme ini, ia akan pulih sendiri.</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <!-- EN: mild -->
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>hidup</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+  <!-- EN: Effects of various birth complications -->
+  <InfantIllness.descriptionShort>Efek dari berbagai komplikasi persalinan</InfantIllness.descriptionShort>
+  <!-- EN: minor -->
+  <InfantIllness.stages.minor.label>hidup</InfantIllness.stages.minor.label>
+  <!-- EN: major -->
+  <InfantIllness.stages.major.label>kuburan</InfantIllness.stages.major.label>
+  <!-- EN: extreme -->
+  <InfantIllness.stages.extreme-0.label>ekstrim</InfantIllness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <InfantIllness.stages.extreme-1.label>ekstrim</InfantIllness.stages.extreme-1.label>
+  
+  <!-- EN: lactating -->
+  <Lactating.label>laktasi</Lactating.label>
+  <!-- EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant. -->
+  <Lactating.description>Kondisi bisa menyusui bayi.Payudara memproduksi dan menyimpan susu secara aktif.Keadaan menyusui dimulai ketika ibu melahirkan dan berlanjut tanpa batas waktu saat menyusui bayi setidaknya sekali setiap 10 hari.</Lactating.description>
+  <!-- EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} tidak lagi menyusui karena belum disusui selama 10 hari.</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <!-- EN: milk fullness {CHARGEFACTOR_percentage} -->
+  <Lactating.comps.HediffComp_Lactating.labelInBrackets>Cadangan susu {chargefactor_percantage}</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+  <!-- EN: {0} is no longer lactating due to malnutrition. -->
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>{0} tidak lagi menyusui karena kekurangan gizi.</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  
+  <!-- EN: morning sickness -->
+  <MorningSickness.label>mual pagi</MorningSickness.label>
+  <!-- EN: This is a common side effect of pregnancy, and despite the name isn't limited to mornings. While this is ongoing, the person suffers from nausea, dizziness, and fuzzy thinking. -->
+  <MorningSickness.description>Ini adalah efek samping yang umum dari kehamilan dan, terlepas dari namanya, tidak terbatas pada pagi hari.Sementara ini terjadi, orang tersebut menderita mual, pusing dan pikiran yang membingungkan.</MorningSickness.description>
+  
+  <!-- EN: ovum extracted -->
+  <OvumExtracted.label>Telur yang diekstraksi</OvumExtracted.label>
+  <!-- EN: This woman recently underwent an ovum extraction procedure. No more ova can be extracted until some time has passed. -->
+  <OvumExtracted.description>Wanita ini baru -baru ini diserahkan ke prosedur ekstraksi ovula.Anda tidak dapat mengekstrak lebih banyak ovula sampai waktu berlalu.</OvumExtracted.description>
+  
+  <!-- EN: pollution stimulus -->
+  <PollutionStimulus.label>Stimulus pencemaran</PollutionStimulus.label>
+  <!-- EN: This creature has been energized by exposure to pollution.\n\nThe pollution-stimulus response was originally engineered to help giant insects in their role as anti-mechanoid bioweapons. However, the gene has since been used to help people function in polluted areas as well. -->
+  <PollutionStimulus.description>Makhluk ini telah diberi energi dengan paparan polusi.Namun, gen telah digunakan sejak saat itu untuk membantu orang juga berfungsi di daerah yang terkontaminasi.</PollutionStimulus.description>
+  <!-- EN: This creature has been energized by exposure to pollution. -->
+  <PollutionStimulus.descriptionShort>Makhluk ini telah diberi energi dengan paparan polusi.</PollutionStimulus.descriptionShort>
+  <!-- EN: minor -->
+  <PollutionStimulus.stages.minor.label>hidup</PollutionStimulus.stages.minor.label>
+  <!-- EN: moderate -->
+  <PollutionStimulus.stages.moderate.label>sedang</PollutionStimulus.stages.moderate.label>
+  <!-- EN: maximum -->
+  <PollutionStimulus.stages.maximum.label>maksimum</PollutionStimulus.stages.maximum.label>
+  
+  <!-- EN: postpartum exhaustion -->
+  <PostpartumExhaustion.label>Kelelahan pascapersalinan</PostpartumExhaustion.label>
+  <!-- EN: General after-effects of giving birth. This mother needs some time to physically recover. -->
+  <PostpartumExhaustion.description>General Sequelae dari persalinan.Ibu ini membutuhkan waktu untuk pulih secara fisik.</PostpartumExhaustion.description>
+  
+  <!-- EN: labor (dilation) -->
+  <PregnancyLabor.label>upaya (pelebaran)</PregnancyLabor.label>
+  <!-- EN: The condition of being about to give birth. Labor moves through multiple stages with different levels of pain and contractions. Each labor is different, and pain can rise and fall unpredictably over time. Labor ends when the baby is born. -->
+  <PregnancyLabor.description>Kondisi akan melahirkan.Upaya persalinan melewati berbagai tahap dengan berbagai tingkat rasa sakit dan kontraksi.Setiap kelahiran berbeda, dan rasa sakit dapat meningkat dan berkurang secara tidak terduga dari waktu ke waktu.Kelahiran berakhir ketika bayi dilahirkan.</PregnancyLabor.description>
+  <!-- EN: {PAWN_labelShort}'s labor went from {1} to {2}. -->
+  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>Upaya persalinan {pawn_labelshort} berubah dari {1} a {2}.</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+  <!-- EN: mild -->
+  <PregnancyLabor.stages.mild.label>hidup</PregnancyLabor.stages.mild.label>
+  <!-- EN: intense -->
+  <PregnancyLabor.stages.intense.label>intens</PregnancyLabor.stages.intense.label>
+  <!-- EN: debilitating -->
+  <PregnancyLabor.stages.debilitating.label>melemahkan</PregnancyLabor.stages.debilitating.label>
+  
+  <!-- EN: labor (pushing) -->
+  <PregnancyLaborPushing.label>upaya (mendorong)</PregnancyLaborPushing.label>
+  <!-- EN: The baby is descending the birth canal and the mother has a strong urge to push. The birth is imminent. -->
+  <PregnancyLaborPushing.description>Bayi turun melalui saluran persalinan dan ibu memiliki kebutuhan yang kuat untuk mendorong.Permaluan sudah dekat.</PregnancyLaborPushing.description>
+  
+  <!-- EN: pregnancy mood -->
+  <PregnancyMood.label>Suasana hati kehamilan</PregnancyMood.label>
+  <!-- EN: This common side effect of pregnancy represents a rising and falling mood caused by unbalanced hormones. -->
+  <PregnancyMood.description>Efek samping yang umum dari kehamilan ini mewakili suasana hati yang naik dan turun yang disebabkan oleh ketidakseimbangan hormon.</PregnancyMood.description>
+  
+  <!-- EN: pregnant -->
+  <PregnantHuman.label>hamil</PregnantHuman.label>
+  <!-- EN: A baby growing inside a woman, preparing to be born. In humans, pregnancy lasts for 18 days and is divided into 3 trimesters. As the pregnancy grows it will reduce the mother's mobility. For some mothers, pregnancy may induce nausea or mood swings that can be hard to deal with. -->
+  <PregnantHuman.description>Seorang bayi yang tumbuh di dalam seorang wanita, bersiap untuk dilahirkan.Pada manusia, kehamilan berlangsung 18 hari dan dibagi menjadi 3 perempat.Saat kehamilan tumbuh, mobilitas ibu akan berkurang.Untuk beberapa ibu, kehamilan dapat menyebabkan mual atau perubahan humor yang sulit ditangani.</PregnantHuman.description>
+  <!-- EN: {0_labelShort} pregnant -->
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>{0_labelshort} hamil</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
+  <!-- EN: {0_labelShort} is pregnant! -->
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>{0_labelshort} hamil!</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
+  <!-- EN: pregnancy -->
+  <PregnantHuman.labelNoun>kehamilan</PregnantHuman.labelNoun>
+  <!-- EN: first trimester -->
+  <PregnantHuman.stages.first_trimester.label>Kuartal pertama</PregnantHuman.stages.first_trimester.label>
+  <!-- EN: second trimester -->
+  <PregnantHuman.stages.second_trimester.label>kuartal kedua</PregnantHuman.stages.second_trimester.label>
+  <!-- EN: third trimester -->
+  <PregnantHuman.stages.third_trimester.label>Kuartal ketiga</PregnantHuman.stages.third_trimester.label>
+  
+  <!-- EN: stillborn -->
+  <Stillborn.label>mortinate</Stillborn.label>
+  <!-- EN: This baby died due to non-specific complications during pregnancy. -->
+  <Stillborn.description>Bayi ini meninggal karena komplikasi yang tidak spesifik selama kehamilan.</Stillborn.description>
+  
+</LanguageData>

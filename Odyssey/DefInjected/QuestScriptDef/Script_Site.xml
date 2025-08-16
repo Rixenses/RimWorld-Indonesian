@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>serangan rumus-> mengklaim pemindai survei dikirim untuk memata-matai ritual rahasia mereka</li>
+    <li>menyerang-> mengatakan situs survei melanggar di wilayah mereka</li>
+    <li>menyerang-> mengatakan mereka dikirim untuk menghancurkan pemindai sebagai pengembalian</li>
+    <li>AccreadReason-> mengklaim pemindai survei terlalu dekat dengan salah satu simpanan tersembunyi mereka</li>
+    <li>AccreadReason-> ingin membatalkan peralatan survei untuk bagian-bagiannya</li>
+    <li>serangan rumus-> klaim bahwa pemindai survei diam-diam merupakan senjata dan aktivasinya telah menyebabkan gangguan psikis</li>-><SurveySite.questContentRules.rulesStrings>
+    <li>Acarmlason-> mengklaim bahwa pemindai jajak pendapat dikirim untuk memata-matai ritual rahasia mereka</li>
+    <li>Asightlason-> berpendapat bahwa area studi mengganggu wilayahnya</li>
+    <li>Menyerang-> mereka mengatakan mereka dikirim untuk menghancurkan pemindai sebagai pembalasan</li>
+    <li>Acarmlason-> mengklaim bahwa pemindai survei terlalu dekat dengan salah satu tempat persembunyiannya yang tersembunyi</li>
+    <li>Acarmlason-> ingin memakai peralatan eksplorasi untuk mendapatkan potongan</li>
+    <li>Serangan mereka mengatakan bahwa pemindai survei menyembunyikan senjata rahasia dan bahwa ketika diaktifkan menyebabkan gangguan psikis</li>
+  </SurveySite.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> ANonim AI telah meminta bantuan Anda untuk membela peralatan survei di situs jarak jauh.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] telah mendengar desas-desus tentang gravship Anda.[asker_pronoun] ingin mensurvei daerah yang jauh dan meminta Anda melindungi peralatan survei [asker_possessive].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], a [asker_royaltitleincurrentfaction] dari [asker_faction_name], meminta agar Anda melindungi operasi survei [asker_possessives].Jika Anda melakukannya, [asker_pronoun] akan memberi Anda hadiah dengan baik.</li>-><SurveySite.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Anonim telah meminta bantuan Anda untuk mempertahankan tim eksplorasi di tempat yang jauh. Operasi eksplorasi \ n \ nla akan memakan waktu sepuluh hingga lima belas hari dan membutuhkan perjalanan ke tujuan terpencil.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_a] [asker_faction_leadertitle] disebut [asker_o_a] [asker_namefull] dari faksi [asker_faction_name] Dia telah mendengar desas-desus tentang gravinave Anda.Dia ingin menjelajahi wilayah yang jauh dan meminta Anda untuk melindungi tim eksplorasi. Eksplorasi \ n \ nla akan memakan waktu sepuluh hingga lima belas hari dan membutuhkan perjalanan ke tujuan terpencil.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_a] [asker_royaltitlecurrentInfaction] dari faksi [asker_faction_name], meminta Anda melindungi operasi eksplorasi Anda.Jika Anda melakukannya, [asker_pronoun] Anda akan memberi Anda hadiah dengan murah hati. Eksplorasi \ n \ nla akan memakan waktu sepuluh hingga lima belas hari dan membutuhkan perjalanan ke tujuan terpencil.</li>
+  </SurveySite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Survey [Situs]</li>
+    <li>QuestName-> [Remote] Survey</li>
+    <li>QuestName (p = 0,5)-> Membela pemindai</li>
+    <li>QuestName (p = 0,5)-> Perlindungan Jarak Jauh</li>
+    <li>Situs-> Situs</li>
+    <li>Situs-> Stasiun</li>
+    <li>Situs-> Pertahanan</li>
+    <li>Situs-> Operasi</li>
+    <li>remote-> remote</li>
+    <li>remote-> regional</li>
+    <li>remote-> jauh</li>-><SurveySite.questNameRules.rulesStrings>
+    <li>QuestName-> Menjelajahi [Situs web]</li>
+    <li>QuestName-> Eksplorasi [remote]</li>
+    <li>QuestName (P = 0,5)-> Membela Pemindai</li>
+    <li>QuestName (P = 0,5)-> Perlindungan Jarak Jauh</li>
+    <li>Situs-> Situs</li>
+    <li>Situs-> Stasiun</li>
+    <li>Situs-> Pertahanan</li>
+    <li>Situs-> Operasi</li>
+    <li>remote-> remota</li>
+    <li>remote-> regional</li>
+    <li>Remote-> jauh</li>
+  </SurveySite.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <SurveySite.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</SurveySite.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The scanner has gone offline. The quest [resolvedQuestName] has expired. -->
+  <SurveySite.LetterTextQuestExpired.slateRef>Pemindai telah terputus.Misi [menyelesaikan saya] telah kedaluwarsa.</SurveySite.LetterTextQuestExpired.slateRef>
+  <!-- EN: {BASETEXT}\n\nThe [enemyFaction_pawnsPlural] [attackReason]. -->
+  <SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>{BASETEXT} \ n \ nLOS [musuh.</SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>
+  <!-- EN: Quest completed -->
+  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>Misi Selesai</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>
+  <!-- EN: You have successfully completed the quest '[resolvedQuestName]'! -->
+  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>Anda telah berhasil menyelesaikan misi "[ResolvedQuestName]"!</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

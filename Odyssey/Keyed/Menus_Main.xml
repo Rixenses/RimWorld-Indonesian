@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Create/review world -->
+  <!-- EN: Landmarks -->
+  <PlanetLandmarkDensity>Tempat menarik</PlanetLandmarkDensity>
+  <!-- EN: Sparse -->
+  <PlanetLandmarkDensity_Low>Langka</PlanetLandmarkDensity_Low>
+  <!-- EN: Normal -->
+  <PlanetLandmarkDensity_Normal>Normal</PlanetLandmarkDensity_Normal>
+  <!-- EN: Crowded -->
+  <PlanetLandmarkDensity_High>Melimpah</PlanetLandmarkDensity_High>
+  
+  <!-- EN: Preparing for takeoff -->
+  <GeneratingGravship>Mempersiapkan Take -Off</GeneratingGravship>
+  <!-- EN: Preparing for landing -->
+  <PreparingForLanding>Mempersiapkan pendaratan</PreparingForLanding>
+
+  <!-- EN: Subject -->
+  <Subject>Perselingkuhan</Subject>
+
+  <!-- EN: Fishing yield -->
+  <Difficulty_FishingYieldFactor_Label>Kinerja memancing</Difficulty_FishingYieldFactor_Label>
+  <!-- EN: Adjust how many fish are caught when fishing. -->
+  <Difficulty_FishingYieldFactor_Info>Sesuaikan berapa banyak ikan yang ditangkap saat memancing.</Difficulty_FishingYieldFactor_Info>
+
+  <!-- EN: Disabling {0} will make it impossible to complete major Odyssey quests. -->
+  <OdysseyFactionDisabledContentWarning>Nonaktifkan {0} akan membuat tidak mungkin bagi misi utama Odyssey.</OdysseyFactionDisabledContentWarning>
+</LanguageData>

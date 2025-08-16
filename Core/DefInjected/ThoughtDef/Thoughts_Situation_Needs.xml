@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireFascination.stages.chemical_want.label>Keinginan kimia</DrugDesireFascination.stages.chemical_want.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
+  <DrugDesireFascination.stages.chemical_want.description>Saya merasa tertarik dengan narkoba.Saya ingin mengalami lebih banyak.</DrugDesireFascination.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireFascination.stages.chemical_hunger.label>Kelaparan kimia</DrugDesireFascination.stages.chemical_hunger.label>
+  <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
+  <DrugDesireFascination.stages.chemical_hunger.description>Saya merasa tertarik dengan narkoba.Saya ingin mengalami lebih banyak lagi.</DrugDesireFascination.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireFascination.stages.chemical_starvation.label>sekarat untuk mendapatkan</DrugDesireFascination.stages.chemical_starvation.label>
+  <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
+  <DrugDesireFascination.stages.chemical_starvation.description>Saya merasa tertarik dengan narkoba.Saya ingin mendapatkan lebih banyak lagi!</DrugDesireFascination.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>Kenyamanan kimia</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>Saya merasa tertarik dengan narkoba, dan saya suka mendapatkan apa yang saya inginkan.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>Kepuasan kimia</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>Saya merasa terpesona dengan narkoba, dan saya sepenuhnya puas {Pawn_gender?O: A}.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: chemical want -->
+  <DrugDesireInterest.stages.chemical_want.label>Keinginan kimia</DrugDesireInterest.stages.chemical_want.label>
+  <!-- EN: I'm interested in drugs. I want to try more. -->
+  <DrugDesireInterest.stages.chemical_want.description>Saya merasa tertarik dengan narkoba.Saya ingin mengalami lebih banyak.</DrugDesireInterest.stages.chemical_want.description>
+  <!-- EN: chemical hunger -->
+  <DrugDesireInterest.stages.chemical_hunger.label>Kelaparan kimia</DrugDesireInterest.stages.chemical_hunger.label>
+  <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
+  <DrugDesireInterest.stages.chemical_hunger.description>Saya merasa tertarik dengan narkoba.Saya ingin mengalami lebih banyak lagi.</DrugDesireInterest.stages.chemical_hunger.description>
+  <!-- EN: chemical starvation -->
+  <DrugDesireInterest.stages.chemical_starvation.label>sekarat untuk mendapatkan</DrugDesireInterest.stages.chemical_starvation.label>
+  <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
+  <DrugDesireInterest.stages.chemical_starvation.description>Saya merasa tertarik dengan narkoba.Saya ingin mendapatkan lebih banyak lagi!</DrugDesireInterest.stages.chemical_starvation.description>
+  
+  <!-- EN: chemical comfort -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>Kenyamanan kimia</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>Saya merasa tertarik dengan narkoba, dan sangat menyenangkan mendapatkan apa yang saya inginkan.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  <!-- EN: chemical satisfaction -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>Kepuasan kimia</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>Saya merasa terpesona dengan narkoba, dan saya sepenuhnya puas {Pawn_gender?Atau: A} dengan semua yang saya masukkan.</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  
+  <!-- EN: hideous environment -->
+  <NeedBeauty.stages.hideous_environment.label>lingkungan yang mengerikan</NeedBeauty.stages.hideous_environment.label>
+  <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
+  <NeedBeauty.stages.hideous_environment.description>Tempat ini sangat aneh.Saya tidak bisa terus mencari di sini.</NeedBeauty.stages.hideous_environment.description>
+  <!-- EN: ugly environment -->
+  <NeedBeauty.stages.ugly_environment.label>Lingkungan yang buruk</NeedBeauty.stages.ugly_environment.label>
+  <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
+  <NeedBeauty.stages.ugly_environment.description>Tempat ini sangat jelek.Saya tidak perlu melakukan ini lagi.</NeedBeauty.stages.ugly_environment.description>
+  <!-- EN: unsightly environment -->
+  <NeedBeauty.stages.unsightly_environment.label>Lingkungan yang tidak menyenangkan</NeedBeauty.stages.unsightly_environment.label>
+  <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
+  <NeedBeauty.stages.unsightly_environment.description>Tempat ini adalah uteote.Saya lebih suka tidak harus berada di sini.</NeedBeauty.stages.unsightly_environment.description>
+  <!-- EN: pretty environment -->
+  <NeedBeauty.stages.pretty_environment.label>Lingkungan yang bagus</NeedBeauty.stages.pretty_environment.label>
+  <!-- EN: This place looks nice. -->
+  <NeedBeauty.stages.pretty_environment.description>Tempat ini menyenangkan.</NeedBeauty.stages.pretty_environment.description>
+  <!-- EN: beautiful environment -->
+  <NeedBeauty.stages.beautiful_environment.label>Lingkungan yang indah</NeedBeauty.stages.beautiful_environment.label>
+  <!-- EN: I really like this place. It's beautiful. -->
+  <NeedBeauty.stages.beautiful_environment.description>Saya sangat suka tempat ini.Itu indah.</NeedBeauty.stages.beautiful_environment.description>
+  <!-- EN: gorgeous environment -->
+  <NeedBeauty.stages.gorgeous_environment.label>Lingkungan yang indah</NeedBeauty.stages.gorgeous_environment.label>
+  <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
+  <NeedBeauty.stages.gorgeous_environment.description>Tempat ini indah.Dia mengangkat saya dan membuat saya mencintai kehidupan.</NeedBeauty.stages.gorgeous_environment.description>
+  
+  <!-- EN: uncomfortable -->
+  <NeedComfort.stages.uncomfortable.label>tidak nyaman {Pawn_gender?O: A}</NeedComfort.stages.uncomfortable.label>
+  <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
+  <NeedComfort.stages.uncomfortable.description>Apakah saya pernah ke sesuatu yang tidak nyaman {Pawn_gender?O: A} belakangan ini.Kita harus menempatkan sesuatu yang lembut untuk duduk di sini.</NeedComfort.stages.uncomfortable.description>
+  <!-- EN: comfortable -->
+  <NeedComfort.stages.comfortable.label>Cómod {Pawn_gender?O: A}</NeedComfort.stages.comfortable.label>
+  <!-- EN: I've been comfortable recently. -->
+  <NeedComfort.stages.comfortable.description>Apakah saya merasa nyaman {Pawn_gender?O: A} belakangan ini.</NeedComfort.stages.comfortable.description>
+  <!-- EN: quite comfortable -->
+  <NeedComfort.stages.quite_comfortable.label>Sangat nyaman {Pawn_gender?O: A}</NeedComfort.stages.quite_comfortable.label>
+  <!-- EN: I've been very comfortable recently. -->
+  <NeedComfort.stages.quite_comfortable.description>Saya sangat nyaman {Pawn_gender?O: A} belakangan ini.</NeedComfort.stages.quite_comfortable.description>
+  <!-- EN: extremely comfortable -->
+  <NeedComfort.stages.extremely_comfortable.label>sangat nyaman {Pawn_gender?O: A}</NeedComfort.stages.extremely_comfortable.label>
+  <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
+  <NeedComfort.stages.extremely_comfortable.description>Akhir -akhir ini saya mewah.Tempat ini sangat nyaman!</NeedComfort.stages.extremely_comfortable.description>
+  <!-- EN: luxuriantly comfortable -->
+  <NeedComfort.stages.luxuriantly_comfortable.label>{Pawn_gender yang sangat nyaman?O: A}</NeedComfort.stages.luxuriantly_comfortable.label>
+  <!-- EN: I am resting on clouds of heaven. -->
+  <NeedComfort.stages.luxuriantly_comfortable.description>Saya beristirahat di awan.</NeedComfort.stages.luxuriantly_comfortable.description>
+  
+  <!-- EN: hungry -->
+  <NeedFood.stages.hungry.label>Hambrient {Pawn_gender?O: A}</NeedFood.stages.hungry.label>
+  <!-- EN: I'm really hungry. -->
+  <NeedFood.stages.hungry.description>Saya sangat akrab {Pawn_gender?O: A}.</NeedFood.stages.hungry.description>
+  <!-- EN: ravenously hungry -->
+  <NeedFood.stages.ravenously_hungry.label>vorazmente hambrient {Pawn_gender?O: A}</NeedFood.stages.ravenously_hungry.label>
+  <!-- EN: These hunger pangs are hard to ignore. -->
+  <NeedFood.stages.ravenously_hungry.description>Suara nyali saya sulit diabaikan.</NeedFood.stages.ravenously_hungry.description>
+  <!-- EN: malnourished -->
+  <NeedFood.stages.malnourished.label>desnutrid {Pawn_gender?O: A}</NeedFood.stages.malnourished.label>
+  <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
+  <NeedFood.stages.malnourished.description>Sudah lama sejak saya makan.Saya melihat semuanya kabur dan sulit bagi saya untuk berkonsentrasi.Tubuh saya mulai dikonsumsi.</NeedFood.stages.malnourished.description>
+  <!-- EN: badly malnourished -->
+  <NeedFood.stages.badly_malnourished.label>sangat malnutrid {Pawn_gender?O: A}</NeedFood.stages.badly_malnourished.label>
+  <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
+  <NeedFood.stages.badly_malnourished.description>Saya bisa merasakan tubuh saya memakan.Perutku sakit tidak seperti sebelumnya.</NeedFood.stages.badly_malnourished.description>
+  <!-- EN: starving -->
+  <NeedFood.stages.starving.label>Famelic {Pawn_gender?O: A}</NeedFood.stages.starving.label>
+  <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
+  <NeedFood.stages.starving.description>Saya hampir tidak bisa memikirkan sesuatu yang lain selain makanan.Kulit saya membentang di tulang saya.Apakah saya akan mati?</NeedFood.stages.starving.description>
+  <!-- EN: advanced starvation -->
+  <NeedFood.stages.advanced_starvation.label>kelaparan yang parah</NeedFood.stages.advanced_starvation.label>
+  <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
+  <NeedFood.stages.advanced_starvation.description>Saya hampir tidak bisa bergerak atau memikirkan sesuatu selain makanan.Perutku sakit tidak seperti sebelumnya.Saya merasa pingsan.</NeedFood.stages.advanced_starvation.description>
+  <!-- EN: extreme starvation -->
+  <NeedFood.stages.extreme_starvation.label>kelaparan ekstrem</NeedFood.stages.extreme_starvation.label>
+  <!-- EN: Food... food... anything... please... -->
+  <NeedFood.stages.extreme_starvation.description>Makanan ... makanan ... apapun ... tolong ...</NeedFood.stages.extreme_starvation.description>
+  
+  <!-- EN: just outdoors -->
+  <NeedIndoors.stages.just_outdoors.label>di luar rumah</NeedIndoors.stages.just_outdoors.label>
+  <!-- EN: I shouldn't be outdoors. -->
+  <NeedIndoors.stages.just_outdoors.description>Saya seharusnya tidak keluar</NeedIndoors.stages.just_outdoors.description>
+  <!-- EN: outdoors -->
+  <NeedIndoors.stages.outdoors.label>Beberapa waktu di luar ruangan</NeedIndoors.stages.outdoors.label>
+  <!-- EN: I've been outside too much recently. -->
+  <NeedIndoors.stages.outdoors.description>Saya menghabiskan terlalu lama akhir -akhir ini</NeedIndoors.stages.outdoors.description>
+  <!-- EN: long outdoors -->
+  <NeedIndoors.stages.long_outdoors.label>Waktu yang lama di luar ruangan</NeedIndoors.stages.long_outdoors.label>
+  <!-- EN: Being outside so much is wrong for me. -->
+  <NeedIndoors.stages.long_outdoors.description>Tidak baik bagi saya untuk keluar begitu lama.</NeedIndoors.stages.long_outdoors.description>
+  <!-- EN: very long outdoors -->
+  <NeedIndoors.stages.very_long_outdoors.label>terlalu banyak waktu di luar ruangan</NeedIndoors.stages.very_long_outdoors.label>
+  <!-- EN: I've been outside way too much recently. This open space is so disturbing. -->
+  <NeedIndoors.stages.very_long_outdoors.description>Akhir -akhir ini saya terlalu lama.Begitu banyak ruang terbuka yang mengganggu.</NeedIndoors.stages.very_long_outdoors.description>
+  <!-- EN: brutal outdoors -->
+  <NeedIndoors.stages.brutal_outdoors.label>Waktu luar yang berlebihan</NeedIndoors.stages.brutal_outdoors.label>
+  <!-- EN: These open spaces are driving me insane! -->
+  <NeedIndoors.stages.brutal_outdoors.description>Ruang terbuka ini membuatku gila!</NeedIndoors.stages.brutal_outdoors.description>
+  
+  <!-- EN: recreation-starved -->
+  <NeedJoy.stages.recreationstarved.label>Wishes {Pawn_gender?O: a} menyenangkan</NeedJoy.stages.recreationstarved.label>
+  <!-- EN: It's been so long since I did anything for fun on my own time. -->
+  <NeedJoy.stages.recreationstarved.description>Sudah lama sejak saya melakukan sesuatu untuk bersenang -senang sederhana di waktu luang saya.</NeedJoy.stages.recreationstarved.description>
+  <!-- EN: recreation-deprived -->
+  <NeedJoy.stages.recreationdeprived.label>private {Pawn_gender?O: a} menyenangkan</NeedJoy.stages.recreationdeprived.label>
+  <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
+  <NeedJoy.stages.recreationdeprived.description>Kami membutuhkan lebih banyak variasi dalam kegiatan rekreasi, dan saya perlu waktu untuk menikmatinya.Tempat ini sangat membosankan.</NeedJoy.stages.recreationdeprived.description>
+  <!-- EN: recreation unfulfilled -->
+  <NeedJoy.stages.recreation_unfulfilled.label>waktu luang yang tidak puas</NeedJoy.stages.recreation_unfulfilled.label>
+  <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
+  <NeedJoy.stages.recreation_unfulfilled.description>Kami membutuhkan lebih banyak variasi dalam kegiatan rekreasi, dan saya perlu waktu untuk menikmatinya.</NeedJoy.stages.recreation_unfulfilled.description>
+  <!-- EN: recreation satisfied -->
+  <NeedJoy.stages.recreation_satisfied.label>waktu luang yang puas</NeedJoy.stages.recreation_satisfied.label>
+  <!-- EN: I've been having a great time doing various things I like to do. -->
+  <NeedJoy.stages.recreation_satisfied.description>Saya bersenang -senang melakukan beberapa hal yang ingin saya lakukan.</NeedJoy.stages.recreation_satisfied.description>
+  <!-- EN: recreation fully satisfied -->
+  <NeedJoy.stages.recreation_fully_satisfied.label>waktu luang yang sepenuhnya puas</NeedJoy.stages.recreation_fully_satisfied.label>
+  <!-- EN: I've been enjoying myself so much, I love it! -->
+  <NeedJoy.stages.recreation_fully_satisfied.description>Saya telah memiliki menakutkan, saya menyukainya!</NeedJoy.stages.recreation_fully_satisfied.description>
+  
+  <!-- EN: entombed underground -->
+  <NeedOutdoors.stages.entombed_underground.label>Septitly {Pawn_gender?O: A} Underground</NeedOutdoors.stages.entombed_underground.label>
+  <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
+  <NeedOutdoors.stages.entombed_underground.description>Saya sudah terlalu lama di bawah tanah.Saya merasa bahwa berat gunung ini menghancurkan saya.Saya perlu melihat langit dan merasakan angin.</NeedOutdoors.stages.entombed_underground.description>
+  <!-- EN: trapped underground -->
+  <NeedOutdoors.stages.trapped_underground.label>Saya menjebak {Pawn_gender?O: A} Underground</NeedOutdoors.stages.trapped_underground.label>
+  <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
+  <NeedOutdoors.stages.trapped_underground.description>Sudah berapa lama saya di bawah tanah?Saya harus pergi ke luar dan meluangkan waktu di bawah langit.</NeedOutdoors.stages.trapped_underground.description>
+  <!-- EN: cabin fever -->
+  <NeedOutdoors.stages.cabin_fever.label>Claustrophobia</NeedOutdoors.stages.cabin_fever.label>
+  <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
+  <NeedOutdoors.stages.cabin_fever.description>Sudahkah saya menghabiskan begitu banyak waktu di {Pawn_gender?Atau: A} Saya merasa seolah -olah atapnya turun.Saya harus keluar dan melihat langit.</NeedOutdoors.stages.cabin_fever.description>
+  <!-- EN: trapped indoors -->
+  <NeedOutdoors.stages.trapped_indoors.label>Saya menjebak {Pawn_gender?O: A} di dalam ruangan</NeedOutdoors.stages.trapped_indoors.label>
+  <!-- EN: It's been too long since I've seen the sky. -->
+  <NeedOutdoors.stages.trapped_indoors.description>Sudah lama sejak saya melihat langit.</NeedOutdoors.stages.trapped_indoors.description>
+  <!-- EN: stuck indoors -->
+  <NeedOutdoors.stages.stuck_indoors.label>Encerrad {Pawn_gender?O: A}</NeedOutdoors.stages.stuck_indoors.label>
+  <!-- EN: I'd like to go outside and get some fresh air. -->
+  <NeedOutdoors.stages.stuck_indoors.description>Saya ingin pergi untuk sedikit udara segar.</NeedOutdoors.stages.stuck_indoors.description>
+  
+  <!-- EN: drowsy -->
+  <NeedRest.stages.drowsy.label>Adormilad {Pawn_gender?O: A}</NeedRest.stages.drowsy.label>
+  <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
+  <NeedRest.stages.drowsy.description>Saya sudah lama tidak tidur.Sulit untuk mempertahankan konsentrasi.</NeedRest.stages.drowsy.description>
+  <!-- EN: tired -->
+  <NeedRest.stages.tired.label>Sangat lelah {Pawn_gender?O: A}</NeedRest.stages.tired.label>
+  <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
+  <NeedRest.stages.tired.description>Saya sangat lelah {Pawn_gender?O: A}.Saya hanya ingin tidur dan istirahat beberapa menit ...</NeedRest.stages.tired.description>
+  <!-- EN: exhausted -->
+  <NeedRest.stages.exhausted.label>Knalpot {Pawn_gender?O: A}</NeedRest.stages.exhausted.label>
+  <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
+  <NeedRest.stages.exhausted.description>Saya sangat kelelahan {Pawn_gender?Atau: A} yang hampir tidak bisa saya tahan.Kelopak mata berbobot seperti timah.Biarkan aku tidur ...</NeedRest.stages.exhausted.description>
+  
+  <!-- EN: confined interior -->
+  <NeedRoomSize.stages.confined_interior.label>mengurangi interior</NeedRoomSize.stages.confined_interior.label>
+  <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
+  <NeedRoomSize.stages.confined_interior.description>Ruang ini kecil.Saya merasa seperti tikus di kandang.</NeedRoomSize.stages.confined_interior.description>
+  <!-- EN: cramped interior -->
+  <NeedRoomSize.stages.cramped_interior.label>interior sempit</NeedRoomSize.stages.cramped_interior.label>
+  <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
+  <NeedRoomSize.stages.cramped_interior.description>Kamar ini terlalu kecil.Saya berharap saya memiliki lebih banyak ruang untuk bergerak dan bernafas.</NeedRoomSize.stages.cramped_interior.description>
+  <!-- EN: spacious interior -->
+  <NeedRoomSize.stages.spacious_interior.label>interior yang luas</NeedRoomSize.stages.spacious_interior.label>
+  <!-- EN: This room is so expansive, I feel free. -->
+  <NeedRoomSize.stages.spacious_interior.description>Kamar ini sangat luas sehingga saya merasa bebas.</NeedRoomSize.stages.spacious_interior.description>
+  
+</LanguageData>

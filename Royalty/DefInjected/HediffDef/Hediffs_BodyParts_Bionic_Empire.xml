@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aesthetic nose -->
+  <AestheticNose.label>Hidung estetika</AestheticNose.label>
+  <!-- EN: An installed aesthetic nose. Can be shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
+  <AestheticNose.description>Hidung estetika terpasang.Ini dapat dicetak ke bentuk yang diinginkan pengguna, bertepatan dengan standar kecantikan yang dominan dan meningkatkan kesan fisik.</AestheticNose.description>
+  <!-- EN: an aesthetic nose -->
+  <AestheticNose.labelNoun>Hidung estetika</AestheticNose.labelNoun>
+  
+  <!-- EN: aesthetic shaper -->
+  <AestheticShaper.label>Pembentuk estetika</AestheticShaper.label>
+  <!-- EN: An installed aesthetic shaper. A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user's taste - or that of their partner. -->
+  <AestheticShaper.description>Cetakan estetika terpasang.Paket hormonal dan mekanit yang canggih membentuk otot -otot dan lemak tubuh, menambahkan jaringan estetika non -fungsional jika perlu untuk mencapai penampilan yang diinginkan.Implan ini dapat dikonfigurasi untuk membentuk berbagai bentuk tubuh sesuai dengan selera pengguna (atau pasangan Anda).</AestheticShaper.description>
+  <!-- EN: an aesthetic shaper -->
+  <AestheticShaper.labelNoun>Cetakan estetika</AestheticShaper.labelNoun>
+  
+  <!-- EN: armorskin gland -->
+  <ArmorskinGland.label>Kelenjar baju besi kulit</ArmorskinGland.label>
+  <!-- EN: An installed armorskin gland. Releases chemicals and nanomachines that toughen the skin and add flexible subdermal keratin plates at strategic points. This makes the user more resistant to damage across their whole body. Unfortunately, these changes make the skin appear leathery, with wrinkles across the whole body and face, which is generally considered ugly. -->
+  <ArmorskinGland.description>Kelenjar pelindung kulit yang terpasang.Lepaskan bahan kimia dan nanomáquin yang memperkuat kulit dan tambahkan pelat keratin subdermal yang fleksibel di titik -titik strategis.Ini membuat pengguna lebih tahan terhadap kerusakan di seluruh tubuhnya.Sayangnya, perubahan ini membuat kulit terlihat seperti kulit, kerutan yang muncul di seluruh tubuh dan wajah, yang biasanya tidak menyenangkan untuk dilihat.</ArmorskinGland.description>
+  <!-- EN: a armorskin gland -->
+  <ArmorskinGland.labelNoun>Kelenjar pelindung kulit.</ArmorskinGland.labelNoun>
+  
+  <!-- EN: circadian assistant -->
+  <CircadianAssistant.label>Asisten Biorritm</CircadianAssistant.label>
+  <!-- EN: An installed circadian assistant. Produces chemicals and nanomachines that clear toxin buildup from the brain. -->
+  <CircadianAssistant.description>Asisten Biorritm terpasang.Ini menghasilkan bahan kimia dan nanomatik yang menghilangkan akumulasi racun otak.</CircadianAssistant.description>
+  <!-- EN: a circadian assistant -->
+  <CircadianAssistant.labelNoun>Asisten bioritmo</CircadianAssistant.labelNoun>
+  
+  <!-- EN: circadian half-cycler -->
+  <CircadianHalfCycler.label>penekan tidur</CircadianHalfCycler.label>
+  <!-- EN: An installed circadian half-cycler. Isolates half of the brain, allowing the other half to sleep while the user remains outwardly awake. By alternating brain halves, the user never needs to sleep. Unfortunately, two hemispheres are better than one - working with half a brain causes a reduction in consciousness. -->
+  <CircadianHalfCycler.description>Penekan tidur terpasang.Saya mengisolasi setengah dari otak yang lain, memungkinkan setengah lainnya untuk tidur sementara pengguna tetap terjaga.Saat bergantian antara belahan otak, pengguna tidak perlu tidur.Sayangnya, dua belahan lebih baik dari satu: bekerja dengan setengah otak menyebabkan pengurangan kesadaran.</CircadianHalfCycler.description>
+  <!-- EN: a circadian half-cycler -->
+  <CircadianHalfCycler.labelNoun>Penekan tidur</CircadianHalfCycler.labelNoun>
+  
+  <!-- EN: coagulator -->
+  <Coagulator.label>koagulan</Coagulator.label>
+  <!-- EN: An installed coagulator implant. Releases coagulating factors in response to blood loss, reducing bleeding rates significantly. -->
+  <Coagulator.description>Implan koagulator terpasang.Faktor koagulasi bebas dalam menanggapi kehilangan darah, secara signifikan mengurangi laju perdarahan.</Coagulator.description>
+  <!-- EN: a coagulator -->
+  <Coagulator.labelNoun>Koagulator</Coagulator.labelNoun>
+  
+  <!-- EN: sterilizing stomach -->
+  <DetoxifierStomach.label>Detoksifikasi perut</DetoxifierStomach.label>
+  <!-- EN: An installed sterilizing stomach. Allows the user to eat almost anything without ever worrying about food poisoning. -->
+  <DetoxifierStomach.description>Detoksifikasi lambung terpasang.Ini memungkinkan pengguna untuk makan hampir semua hal tanpa khawatir tentang keracunan makanan.</DetoxifierStomach.description>
+  <!-- EN: a sterilizing stomach -->
+  <DetoxifierStomach.labelNoun>Detoksifikasi perut</DetoxifierStomach.labelNoun>
+  
+  <!-- EN: gastro-analyzer -->
+  <GastroAnalyzer.label>Gastroanizer</GastroAnalyzer.label>
+  <!-- EN: An installed gastro-analyzer. Enhances the sense of smell, with a focus towards food-related smells. A multi-layered ultrafine absorption mesh detects compounds in the air. A microprocessor formats the readings into an olfactory nerve signal to send to the brain through a nerve-link interface. The result is that the user can smell foods with a depth, richness, and precision unknown among unenhanced humans, allowing them to cook more effectively. The whole unit is small enough to be installed in the nose without affecting the user's appearance. -->
+  <GastroAnalyzer.description>Pemasangan gastroanizer.Meningkatkan makna bau, dengan pendekatan bau terkait makanan.Mesh penyerapan ultrafine multicapa mendeteksi senyawa di udara.Seorang mikroprosesor memformat pembacaan dalam sinyal saraf penciuman untuk dikirim ke otak melalui antarmuka ikatan saraf.Hasilnya adalah bahwa pengguna dapat mencium bau makanan dengan kedalaman, kekayaan dan presisi yang tidak diketahui di antara manusia yang tidak lebih baik yang memungkinkan mereka untuk memasak lebih efektif.Seluruh unit cukup kecil untuk menetap di hidung tanpa mempengaruhi penampilan pengguna.</GastroAnalyzer.description>
+  <!-- EN: a gastro-analyzer -->
+  <GastroAnalyzer.labelNoun>Gata -gas</GastroAnalyzer.labelNoun>
+  
+  <!-- EN: healing enhancer -->
+  <HealingEnhancer.label>Penambah Penyembuhan</HealingEnhancer.label>
+  <!-- EN: An installed healing enhancer implant. Releases nanomachines and healing factors that speed up wound healing. This implant only helps with physical wounds, and does nothing to combat disease or other health problems. -->
+  <HealingEnhancer.description>Penambah penyembuhan terpasang.Gunakan nanomatik untuk mempercepat proses penyembuhan luka.Implan ini hanya membantu dengan luka fisik, tidak dapat melakukan apa pun terhadap penyakit atau masalah kesehatan lainnya.</HealingEnhancer.description>
+  <!-- EN: a healing enhancer -->
+  <HealingEnhancer.labelNoun>Penambah penyembuhan</HealingEnhancer.labelNoun>
+  
+  <!-- EN: immunoenhancer -->
+  <Immunoenhancer.label>Immuno-Potenciar</Immunoenhancer.label>
+  <!-- EN: An installed immunoenhancer. An analysis computer which inspects the bloodstream, classifies pathogens, and rapidly prompts the body's natural immune system to respond to them faster than it could alone. This speeds immunity gain significantly. -->
+  <Immunoenhancer.description>Pemasangan immuno terpasang.Ini adalah alat analisis yang memeriksa aliran darah, mengklasifikasikan patogen dan dengan cepat merangsang sistem kekebalan tubuh alami tubuh untuk merespons lebih cepat daripada yang bisa dilakukan sendiri.Ini secara signifikan mempercepat perolehan kekebalan.</Immunoenhancer.description>
+  <!-- EN: an immunoenhancer -->
+  <Immunoenhancer.labelNoun>Seorang immuno-potentiator</Immunoenhancer.labelNoun>
+  
+  <!-- EN: learning assistant -->
+  <LearningAssistant.label>Asisten Pembelajaran</LearningAssistant.label>
+  <!-- EN: An installed learning assistant. A sensory recording system that replays important experiences during sleep, strengthening the formation of new memories. -->
+  <LearningAssistant.description>Asisten Pembelajaran Terinstal.Ini adalah sistem perekaman sensorik yang mengulangi pengalaman penting dalam tidur dan memperkuat generasi kenangan.</LearningAssistant.description>
+  <!-- EN: a learning assistant -->
+  <LearningAssistant.labelNoun>Asisten pembelajaran</LearningAssistant.labelNoun>
+  
+  <!-- EN: love enhancer -->
+  <LoveEnhancer.label>Penambah seksual</LoveEnhancer.label>
+  <!-- EN: An installed love enhancer. Makes physical and chemical changes to the body which enhance the experience of lovin' for both partners - both physically and psychologically. The implant unit can adapt to enhance both men and women upon being implanted. -->
+  <LoveEnhancer.description>Penambah seksual terpasang.Implan ini membuat perubahan fisik dan kimia dalam tubuh yang meningkatkan pengalaman mencintai kedua anggota pasangan baik fisik maupun psikologis.Unit implan dapat disesuaikan untuk meningkatkan pria dan wanita saat ditanamkan.</LoveEnhancer.description>
+  <!-- EN: a love enhancer -->
+  <LoveEnhancer.labelNoun>Penambah seksual</LoveEnhancer.labelNoun>
+  
+  <!-- EN: neurocalculator -->
+  <Neurocalculator.label>Neurocalculator</Neurocalculator.label>
+  <!-- EN: An installed neurocalculator. A non-intelligent microcomputer controlled by a visual/tactile neural interface. It assists with memory and calculation, like a calculator and notepad embedded in the brain. -->
+  <Neurocalculator.description>Neurocalculator terpasang.Microorder yang tidak cerdas yang memiliki antarmuka neuron visual / fisik.Bantu pengguna mengingat dan menghitung.Ini pada dasarnya seperti kalkulator dan koran yang ditanamkan di otak.</Neurocalculator.description>
+  <!-- EN: a neurocalculator -->
+  <Neurocalculator.labelNoun>Neurocalculator</Neurocalculator.labelNoun>
+  
+  <!-- EN: nuclear stomach -->
+  <NuclearStomach.label>Perut nuklir</NuclearStomach.label>
+  <!-- EN: An installed nuclear stomach. A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artificial stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
+  <NuclearStomach.description>Perut nuklir terpasang.Reaktor mikro-nuklir yang dikombinasikan dengan sintesis kimia yang kompleks menggantikan kebutuhan untuk tubuh makanan.Makanan hanya diperlukan untuk mengganti masalah tubuh yang hilang, mengurangi kebutuhan konsumsi pengguna secara signifikan.Namun, ada sedikit ruang untuk mengisolasi reaktor, sehingga radiasi meningkatkan risiko kanker.</NuclearStomach.description>
+  <!-- EN: a nuclear stomach -->
+  <NuclearStomach.labelNoun>Perut nuklir</NuclearStomach.labelNoun>
+  
+  <!-- EN: reprocessor stomach -->
+  <ReprocessorStomach.label>Reprosesor Perut</ReprocessorStomach.label>
+  <!-- EN: An installed reprocessor stomach. Includes an advanced chemical processing system breaks down nutrients the body could normally never use, leading to increased efficiency. -->
+  <ReprocessorStomach.description>Reprosesor perut terpasang.Sistem pemrosesan kimia canggih yang memecah nutrisi yang biasanya tidak dapat digunakan tubuh, sehingga meningkatkan efisiensi asupan makanan.</ReprocessorStomach.description>
+  <!-- EN: a reprocessor stomach -->
+  <ReprocessorStomach.labelNoun>Reprosesor perut</ReprocessorStomach.labelNoun>
+  
+  <!-- EN: stoneskin gland -->
+  <StoneskinGland.label>Kelenjar dermorrokosa</StoneskinGland.label>
+  <!-- EN: An installed stoneskin gland. Releases chemical and nanomachines that transform the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone using this implant, the plates and hard skin significantly reduces the user's physical attractiveness. -->
+  <StoneskinGland.description>Kelenjar dermorroki terpasang.Lepaskan bahan kimia dan nanomatik yang mengubah kulit pengguna menjadi baju besi yang dibangun.Seluruh epidermis mengental dan mengeras untuk menahan luka bakar, sementara pelat keratin eksternal yang diartikulasikan terbentuk di mana -mana, termasuk kepala dan wajah.Meskipun sangat sulit untuk secara fisik membahayakan seseorang yang menggunakan implan ini, piring dan kulit keras secara signifikan mengurangi daya tarik fisik pengguna.</StoneskinGland.description>
+  <!-- EN: a stoneskin gland -->
+  <StoneskinGland.labelNoun>Kelenjar dermorrokosa</StoneskinGland.labelNoun>
+  
+  <!-- EN: toughskin gland -->
+  <ToughskinGland.label>Kelenjar kulit</ToughskinGland.label>
+  <!-- EN: An installed toughskin gland. Releases chemicals and nanomachines that toughen the skin, making it somewhat more resistant to damage. While it doesn't add as much protection as some other skin-hardening glands, the toughskin gland has the advantage of not noticeably altering the user's appearance. -->
+  <ToughskinGland.description>Kelenjar leleh terpasang.Kelenjar bionik ini melepaskan bahan kimia dan nanomatik yang mengeraskan kulit, membuatnya lebih tahan terhadap kerusakan.Meskipun tidak memberikan perlindungan sebanyak beberapa kelenjar lain yang mengeraskan kulit, ia memiliki keuntungan tidak secara signifikan mengubah penampilan pengguna.</ToughskinGland.description>
+  <!-- EN: a toughskin gland -->
+  <ToughskinGland.labelNoun>Kelenjar yang tahan kulit</ToughskinGland.labelNoun>
+  
+</LanguageData>

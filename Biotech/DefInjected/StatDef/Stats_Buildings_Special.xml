@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: work speed factor -->
+  <AssemblySpeedFactor.label>Faktor Vel.pekerjaan</AssemblySpeedFactor.label>
+  <!-- EN: The speed at which people assemble genes here is multiplied by this value. -->
+  <AssemblySpeedFactor.description>Kecepatan di mana gen bertemu di sini dikalikan dengan nilai ini.</AssemblySpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <AssemblySpeedFactor.parts.Room_cleanliness.customLabel>pembersihan kamar</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
+  
+  <!-- EN: baby play power -->
+  <BabyPlayGainFactor.label>Bayi yang menyenangkan kemanjuran</BabyPlayGainFactor.label>
+  <!-- EN: How effectively this object can be used to fulfill a baby's need for play. -->
+  <BabyPlayGainFactor.description>Efektivitas objek ini untuk memenuhi kebutuhan untuk bermain dari bayi.</BabyPlayGainFactor.description>
+  
+  <!-- EN: birth quality offset -->
+  <BirthRitualQualityOffset.label>kualitas lahir</BirthRitualQualityOffset.label>
+  <!-- EN: This alters the quality of a birth when this is used as a birth place. Birth quality affects the chance of the baby being born healthy. -->
+  <BirthRitualQualityOffset.description>Ini mengubah kualitas persalinan saat digunakan sebagai tempat kelahiran.Kualitas persalinan mempengaruhi kemungkinan bahwa bayi dilahirkan sehat.</BirthRitualQualityOffset.description>
+  
+  <!-- EN: genetic complexity increase -->
+  <GeneticComplexityIncrease.label>Peningkatan kompleksitas genetik</GeneticComplexityIncrease.label>
+  <!-- EN: When placed near a gene assembler, this building increases the maximum genetic complexity that can be assembled at once. -->
+  <GeneticComplexityIncrease.description>Ketika ditempatkan di dekat rakitan gen, bangunan ini meningkatkan kompleksitas genetik maksimum yang dapat dirakit pada saat yang sama.</GeneticComplexityIncrease.description>
+  
+</LanguageData>

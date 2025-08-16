@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psilocap hallucinations -->
+  <PsilocapHigh.label>halusinasi oleh psilofungo</PsilocapHigh.label>
+  <!-- EN: Chemicals from psilocap spores, possibly inhaled from the air, are causing this person to experience subtle hallucinations that distort their perception of reality. -->
+  <PsilocapHigh.description>Komponen spora psilofungo, yang mungkin dihirup dari udara, menyebabkan orang ini bereksperimen untuk mendistorsi persepsi mereka tentang realitas.</PsilocapHigh.description>
+  <!-- EN: minor -->
+  <PsilocapHigh.stages.minor.label>hidup</PsilocapHigh.stages.minor.label>
+  <!-- EN: moderate -->
+  <PsilocapHigh.stages.moderate.label>sedang</PsilocapHigh.stages.moderate.label>
+  <!-- EN: extreme -->
+  <PsilocapHigh.stages.extreme.label>ekstrim</PsilocapHigh.stages.extreme.label>
+  
+  <!-- EN: psilocap tolerance -->
+  <PsilocapTolerance.label>Toleransi Psilofungo</PsilocapTolerance.label>
+  <!-- EN: An acquired tolerance to psilocap. The more severe this tolerance is, the more psilocap it takes to get the same effect. -->
+  <PsilocapTolerance.description>Toleransi yang diperoleh terhadap Psilofungo.Semakin parah toleransi ini, semakin psilofungo diperlukan untuk mendapatkan efek yang sama.</PsilocapTolerance.description>
+  <!-- EN: small -->
+  <PsilocapTolerance.stages.small.label>kecil</PsilocapTolerance.stages.small.label>
+  <!-- EN: large -->
+  <PsilocapTolerance.stages.large.label>Grande</PsilocapTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsilocapTolerance.stages.massive.label>Besar sekali</PsilocapTolerance.stages.massive.label>
+  
+</LanguageData>

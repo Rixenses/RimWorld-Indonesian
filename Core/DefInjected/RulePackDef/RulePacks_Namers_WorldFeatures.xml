@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> isle [narrative_name]</li>
+    <li>terrain_word (p = 4)-> pulau</li>
+    <li>Terrain_word (p = 3)-> Isles</li>
+    <li>terrain_word (p = 3)-> kepulauan</li>
+    <li>Terrain_word-> Reef</li>
+    <li>terrain_word-> atoll</li>
+    <li>terrain_word-> batu</li>
+    <li>terrain_word-> pulau</li>
+    <li>Poin terrain_word-></li>
+    <li>rantai terrain_word-></li>-><NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> isla [narrative_name]</li>
+    <li>Terrain_word (p = 4)-> Islas</li>
+    <li>terrain_word (p = 3)-> islas</li>
+    <li>Terrain_word (p = 3)-> kepulauan</li>
+    <li>Terrain_word-> Arrecife</li>
+    <li>Terrain_word-> atolón</li>
+    <li>Terrain_word-> atolón</li>
+    <li>terrain_word-> islotes</li>
+    <li>terrain_word-> islotes</li>
+    <li>Terrain_word-> Arrecife</li>
+  </NamerArchipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 4)-> semak</li>
+    <li>terrain_word (p = 4)-> scrubland</li>
+    <li>terrain_word (p = 2)-> dataran tinggi</li>
+    <li>terrain_word (p = 2)-> scrub</li>
+    <li>terrain_word-> gurun</li>
+    <li>Terrain_word-> Bush</li>
+    <li>terrain_word-> sikat</li>
+    <li>terrain_word-> barrens</li>-><NamerAridShrubland.rulePack.rulesStrings>
+    <li>Terrain_word (p = 4)-> Maturral</li>
+    <li>Terrain_word (p = 4)-> Sabana</li>
+    <li>terrain_word (p = 2)-> knoy</li>
+    <li>Terrain_word (p = 2)</li>
+    <li>Terrain_word-> desierto</li>
+    <li>terrain_word-> yermo</li>
+    <li>Terain_word-> paramo</li>
+    <li>Terrain_word-> dioppulasikan</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> Teluk [narrative_name]</li>
+    <li>terrain_word (p = 6)-> bay</li>
+    <li>terrain_word-> bight</li>
+    <li>Terrain_word-> Teluk</li>
+    <li>terrain_word-> anchorage</li>
+    <li>Terrain_word-> Cove</li>-><NamerBay.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> golfo de [narrative_name]</li>
+    <li>field_word (p = 6)-> bahía</li>
+    <li>terrain_word-> ensenada</li>
+    <li>Terrain_word-> golfo</li>
+    <li>terrain_word-> fondeadero</li>
+    <li>Terrain_word-> golfo</li>
+  </NamerBay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 6)-> hutan</li>
+    <li>terrain_word (p = 3)-> taiga</li>
+    <li>terrain_word-> grove</li>
+    <li>terrain_word-> Woodland</li>
+    <li>terrain_word-> woods</li>
+    <li>Terrain_word-> Tangle</li>
+    <li>terrain_word-> belukar</li>-><NamerBorealForest.rulePack.rulesStrings>
+    <li>Terrain_word (p = 6)-> Bosque</li>
+    <li>terrain_word (p = 3)-> bosque boreal</li>
+    <li>terrain_word-> taiga</li>
+    <li>terrain_word-> arboleda</li>
+    <li>Terrain_word-> berhutan</li>
+    <li>Terrain_word-> Parque</li>
+    <li>Terrain_word-> hutan</li>
+  </NamerBorealForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> [desert_adjective] [narrative_name]</li>
+    <li>desert_adjective-> flat</li>
+    <li>desert_adjective-> putih</li>
+    <li>desert_adjective-> Tanpa Akhir</li>
+    <li>desert_adjective-> heartless</li>
+    <li>Desert_adjective-> Parched</li>
+    <li>desert_adjective-> kering</li>
+    <li>desert_adjective-> panjang</li>
+    <li>desert_adjective-> Sunburned</li>
+    <li>desert_adjective-> cerah</li>
+    <li>desert_adjective-> mempesona</li>
+    <li>desert_adjective-> hot</li>
+    <li>desert_adjective-> berkeringat</li>
+    <li>desert_adjective-> sandy</li>
+    <li>desert_adjective-> Rocky</li>
+    <li>terrain_word (p = 6)-> gurun</li>
+    <li>terrain_word-> dataran tinggi</li>
+    <li>terrain_word-> flats</li>
+    <li>terrain_word-> baskom</li>
+    <li>terrain_word-> limbah</li>
+    <li>Terrain_word-> Wasteland</li>
+    <li>terrain_word-> barrens</li>-><NamerDesert.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> [narrative_name] [desert_adjective]</li>
+    <li>desert_adjective-> llano</li>
+    <li>desert_adjective-> blanco</li>
+    <li>Desert_adjective-> Sin Fin</li>
+    <li>desert_adjective-> Cruel</li>
+    <li>DERT_ADJETIVE-> Sialan</li>
+    <li>Dert_adjective-> Spinal</li>
+    <li>desert_adjective-> dari orang mati</li>
+    <li>desert_adjective-> requemado</li>
+    <li>Dert_adjective-> Soled</li>
+    <li>DERT_ADJETIVE-> DAZZLING</li>
+    <li>desert_adjective-> caliente</li>
+    <li>DERT_ADJETIVE-> Ahumado</li>
+    <li>DERT_ADJETIVE-> Sandy</li>
+    <li>desert_adjective-> rocoso</li>
+    <li>Terrain_word (p = 6)-> desierto</li>
+    <li>terrain_word-> altiplano</li>
+    <li>terrain_word-> booty</li>
+    <li>Terrain_word-> Baldías Lands</li>
+    <li>terrain_word-> erial</li>
+    <li>Terrain_word-> Wasteland</li>
+    <li>terrain_word-> yermo</li>
+  </NamerDesert.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 6)-> hutan</li>
+    <li>terrain_word-> grove</li>
+    <li>terrain_word-> Woodland</li>
+    <li>terrain_word-> belukar</li>-><NamerForest.rulePack.rulesStrings>
+    <li>Terrain_word (p = 6)-> Bosque</li>
+    <li>terrain_word-> arboleda</li>
+    <li>Terrain_word-> Maturral</li>
+    <li>Terrain_word-> hutan</li>
+  </NamerForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word-> sheet</li>
+    <li>terrain_word-> expanse</li>
+    <li>terrain_word (p = 0,5)-> jangkauan</li>
+    <li>terrain_word (p = 0.3)-> bidang</li>
+    <li>terrain_word (p = 0.3)-> span</li>
+    <li>terrain_word (p = 0.3)-> bidang</li>
+    <li>terrain_word (p = 0,3)-> peregangan</li>
+    <li>terrain_word (p = 0,3)-> traktat</li>-><NamerIceSheet.rulePack.rulesStrings>
+    <li>Terrain_word-> Glaciar</li>
+    <li>terrain_word-> macizo</li>
+    <li>terrain_word (p = 0,5)-> macizo</li>
+    <li>Terrain_word (p = 0.3)-> Glaciar</li>
+    <li>terrain_word (p = 0.3)-> fiordo</li>
+    <li>terrain_word (p = 0.3)-> fiordo</li>
+    <li>terrain_word (p = 0.3)-> macizo</li>
+    <li>Terrain_word (p = 0,3)-> es abadi</li>
+  </NamerIceSheet.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> isle [narrative_name]</li>
+    <li>terrain_word (p = 4)-> pulau</li>
+    <li>Terrain_word (p = 2)-> Isle</li>
+    <li>Terrain_word-> Reef</li>
+    <li>terrain_word-> atoll</li>
+    <li>terrain_word-> rock</li>
+    <li>terrain_word-> pulau</li>
+    <li>Point terrain_word-> point</li>-><NamerIsland.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> isla [narrative_name]</li>
+    <li>Terrain_word (p = 4)-> Isla</li>
+    <li>Terrain_word (p = 2)-> Isla</li>
+    <li>Terrain_word-> Arrecife</li>
+    <li>Terrain_word-> atolón</li>
+    <li>terrain_word-> islote</li>
+    <li>terrain_word-> islote</li>
+    <li>Terrain_word-> farallon</li>
+  </NamerIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> danau [narrative_name]</li>
+    <li>terrain_word (p = 6)-> danau</li>
+    <li>terrain_word-> pond</li>
+    <li>terrain_word-> baskom</li>
+    <li>terrain_word-> reservoir</li>
+    <li>terrain_word (p = 0.3)-> genangan air</li>
+    <li>terrain_word (p = 0.3)-> loch</li>-><NamerLake.rulePack.rulesStrings>
+    <li>r_name-> lago [narrative_name]</li>
+    <li>terrain_word (p = 6)-> lago</li>
+    <li>terrain_word-> laguna</li>
+    <li>terrain_word-> lago</li>
+    <li>Terrain_word-> Cuenca</li>
+    <li>terrain_word-> reservorio</li>
+    <li>Terrain_word (p = 0.3)-> charca</li>
+    <li>Terrain_word (p = 0.3)-> Laguna</li>
+    <li>terrain_word (p = 0.3)-> lago</li>
+  </NamerLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> mount [narrative_name]</li>
+    <li>terrain_word (p = 5)-> gunung</li>
+    <li>terrain_word (p = 2)-> rentang</li>
+    <li>Terrain_word-> Puncak</li>
+    <li>terrain_word-> bukit</li>
+    <li>terrain_word-> tebing</li>-><NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> cordillera [narrative_name]</li>
+    <li>Terrain_word (p = 5)-> Montañas</li>
+    <li>Terrain_word (p = 2)-> Sierra</li>
+    <li>terrain_word-> alpes</li>
+    <li>terrain_word-> colinas</li>
+    <li>Terrain_word-> Cliff</li>
+  </NamerMountainRange.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> [Ocean_adjective] [narrative_name]</li>
+    <li>Ocean_adjective-> Biru</li>
+    <li>Ocean_adjective-> White</li>
+    <li>Ocean_adjective-> Grey</li>
+    <li>Ocean_adjective-> Clear</li>
+    <li>Ocean_adjective-> Windy</li>
+    <li>Ocean_adjective-> Stormy</li>
+    <li>Ocean_adjective-> Tenang</li>
+    <li>Ocean_adjective-> Broad</li>
+    <li>Ocean_adjective-> Tanpa Akhir</li>
+    <li>Ocean_adjective-> flat</li>
+    <li>Ocean_adjective-> masih</li>
+    <li>Ocean_adjective-> Wavy</li>
+    <li>Ocean_adjective-> lembut</li>
+    <li>terrain_word (p = 6)-> laut</li>
+    <li>terrain_word (p = 3)-> laut</li>
+    <li>terrain_word-> expanse</li>-><NamerOcean.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> [narrative_name] [Ocean_adjective]</li>
+    <li>Ocean_adjective-> azul</li>
+    <li>Ocean_adjective-> Blanco</li>
+    <li>Ocean_adjective-> gris</li>
+    <li>Ocean_adjective-> Negro</li>
+    <li>Ocean_adjective-></li>
+    <li>Ocean_adjective-></li>
+    <li>Ocean_adjective-> Calmado</li>
+    <li>kata sifat laut-> jangkar</li>
+    <li>Ocean_adjective-> Sin Fin</li>
+    <li>Ocean_adjective-> tenang</li>
+    <li>Ocean_adjective-> Sereno</li>
+    <li>Ocean_Adjective-> gelisah</li>
+    <li>Ocean_adjective-> gentil</li>
+    <li>terrain_word (p = 6)-> océano</li>
+    <li>terrain_word (p = 3)-> mar</li>
+    <li>terrain_word-> océano</li>
+  </NamerOcean.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> point [narrative_name]</li>
+    <li>r_name (p = 0.2)-> cape [narrative_name]</li>
+    <li>Terrain_word (p = 5)-> Semenanjung</li>
+    <li>terrain_word (p = 2)-> point</li>
+    <li>terrain_word-> cape</li>
+    <li>terrain_word-> headland</li>
+    <li>terrain_word-> tanduk</li>-><NamerPeninsula.rulePack.rulesStrings>
+    <li>StandardName (p = 0.2)-> Punta [narrative_name]</li>
+    <li>StandardName (p = 0.2)-> Cabo [narrative_name]</li>
+    <li>Terain_word (p = 5)-> semenanjung</li>
+    <li>Terain_word (p = 2)-> semenanjung</li>
+    <li>terrain_word-> Cabo</li>
+    <li>terrain_word-> punta</li>
+    <li>Terrain_word-> tanduk</li>
+  </NamerPeninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 6)-> laut</li>
+    <li>terrain_word-> laguna</li>
+    <li>terrain_word-> laut</li>-><NamerSea.rulePack.rulesStrings>
+    <li>StandardName (p = 0.1)-> mar [narrative_name]</li>
+    <li>terrain_word (p = 6)-> mar</li>
+    <li>terrain_word-> océano</li>
+  </NamerSea.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.1)-> fen [narrative_name]</li>
+    <li>r_name (p = 0.3)-> [swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective-> basah</li>
+    <li>swamp_adjective-> Steamy</li>
+    <li>swamp_adjective-> tersedak</li>
+    <li>Swamp_adjective-> Rotten</li>
+    <li>swamp_adjective-> membusuk</li>
+    <li>swamp_adjective-> ditumbuhi</li>
+    <li>swamp_adjective-> tangled</li>
+    <li>Kata sifat rawa-> vinyl</li>
+    <li>swamp_adjective-> Thorny</li>
+    <li>terrain_word (p = 6)-> rawa</li>
+    <li>terrain_word-> baskom</li>
+    <li>terrain_word-> lahan basah</li>
+    <li>terrain_word-> bayou</li>
+    <li>terrain_word-> rawa</li>
+    <li>terrain_word-> Marsh</li>
+    <li>terrain_word-> fen</li>-><NamerSwamp.rulePack.rulesStrings>
+    <li>StandardName (p = 0.1)-> Pantano [narrative_name]</li>
+    <li>StandardName (p = 0.3)-> [narrative_name] [swamp_adjective]</li>
+    <li>Swamp_adjective-> húmedo</li>
+    <li>swamp_adjective-> nebuloso</li>
+    <li>swamp_adjective-> asfixiante</li>
+    <li>swamp_adjective-> podrido</li>
+    <li>swamp_adjective-> gris</li>
+    <li>swamp_adjective-> verde</li>
+    <li>Swamp_adjective-> terjerat</li>
+    <li>Swamp_adjective-> Turbio</li>
+    <li>swamp_adjective-> espinoso</li>
+    <li>terrain_word (p = 6)-> Pantano</li>
+    <li>terrain_word-> cenagal</li>
+    <li>terrain_word-> humedal</li>
+    <li>istilah-of-> ual</li>
+    <li>terrain_word-> humedal</li>
+    <li>terrain_word-> cenagal</li>
+    <li>terrain_word-> lodazal</li>
+  </NamerSwamp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.3)-> [RainForest_Adjective] [narrative_name]</li>
+    <li>Rainforest_adjective-> basah</li>
+    <li>Rainforest_adjective-> Steamy</li>
+    <li>Rainforest_adjective-> tersedak</li>
+    <li>Rainforest_adjective-> ditumbuhi</li>
+    <li>Rainforest_adjective-> Tangled</li>
+    <li>Kata sifat hutan hujan-> vinyl</li>
+    <li>Rainforest_adjective-> Thorny</li>
+    <li>Terrain_word (p = 6)-> Rainforest</li>
+    <li>Terrain_word (p = 3)-> Jungle</li>
+    <li>terrain_word-> hutan</li>
+    <li>terrain_word-> grove</li>
+    <li>terrain_word-> Woodland</li>
+    <li>Terrain_word-> Tangle</li>-><NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>StandardName (p = 0.3)-> [narrative_name] [Rainforest_adjective]</li>
+    <li>Rainforest_adjective-> húmeda</li>
+    <li>Rainforest_adjective-> Grande</li>
+    <li>Rainforest_adjective-> virgen</li>
+    <li>Rainforest_adjective-> Negra</li>
+    <li>Rainforest_adjective-> Perdida</li>
+    <li>Rainforest_adjective-> ominosa</li>
+    <li>Rainforest_adjective-> Espinosa</li>
+    <li>terrain_word (p = 6)-> junl</li>
+    <li>terrain_word (p = 3)-> selva</li>
+    <li>terrain_word-> selva</li>
+    <li>field_word-> jungla</li>
+    <li>field_word-> jungla</li>
+    <li>terrain_word-> selva</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 4)-> dataran tinggi</li>
+    <li>Terrain_word (p = 4)-> Barrens</li>
+    <li>terrain_word (p = 2)-> taiga</li>
+    <li>terrain_word-> scrub</li>
+    <li>terrain_word-> semak</li>
+    <li>terrain_word-> scrubland</li>
+    <li>Terrain_word-> Bush</li>
+    <li>terrain_word-> sikat</li>
+    <li>terrain_word-> barrens</li>
+    <li>terrain_word-> expanse</li>
+    <li>terrain_word-> padang rumput</li>
+    <li>terrain_word-> flats</li>-><NamerTundra.rulePack.rulesStrings>
+    <li>terrain_word (p = 4)-> meseta</li>
+    <li>terrain_word (p = 4)-> tundra</li>
+    <li>terrain_word (p = 2)-> taiga</li>
+    <li>terrain_word-> booty</li>
+    <li>terrain_word-> booty</li>
+    <li>Terrain_word-> polos</li>
+    <li>terrain_word-> pradera</li>
+    <li>Terain_word-> expansión</li>
+    <li>terrain_word-> tundra</li>
+    <li>Terain_word-> expansión</li>
+    <li>terrain_word-> pradera</li>
+    <li>Terrain_word-> polos</li>
+  </NamerTundra.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [narrative_name] [terrain_word]</li>
+    <li>r_name (p = 0,05)-> [StoryName] [Terrain_word]</li>
+    <li>narrative_name (p = 12)-> [wordtribal]</li>
+    <li>narrative_name (p = 12)-> [Placeoutlander]</li>
+    <li>narrative_name-> [Color] [NaturalObject]</li>
+    <li>narrative_name-> [AdjectiveCural] [BodyPart]</li>
+    <li>narrative_name-> [hewan]</li>
+    <li>narrative_name-> [Color]</li>
+    <li>narrative_name-> [color] [hewan]</li>
+    <li>narrative_name-> [AdjectiveCural] [hewan]</li>
+    <li>narrative_name-> [hewan] [bodypart]</li>
+    <li>narrative_name-> [color] [hewan]</li>
+    <li>narrative_name-> [AdjectiveCural] [hewan]</li>
+    <li>narrative_name-> [hewan] [bodypart]</li>
+    <li>StoryName (p = 50)-> [Subjek] [Story_Result]</li>
+    <li>StoryName (p = 2)-> [Subjek] [BodyPart]</li>
+    <li>StoryName-> [subjek] [gore]</li>
+    <li>Subjek (p = 5)-> [Nameperson]</li>
+    <li>Subjek-> [Hewan]</li>
+    <li>Subjek-> [Wordtribal]</li>
+    <li>Subjek-> [Placeoutlander]</li>
+    <li>Story_Result-> Folly</li>
+    <li>Story_Result-> Wakil</li>
+    <li>Story_result-> Lunacy</li>
+    <li>Story_result-> kesalahan</li>
+    <li>Story_result-> kesalahan</li>
+    <li>Story_result-> salah langkah</li>
+    <li>Story_Result-> Delusion</li>
+    <li>Story_Result-> Joy</li>
+    <li>Story_result-> Delight</li>
+    <li>Story_result-> Wonder</li>
+    <li>Story_result-> Pride</li>
+    <li>Story_result-> Jewel</li>
+    <li>Story_result-> hadiah</li>
+    <li>Story_result-> Bounty</li>
+    <li>Story_Result-> Kehormatan</li>
+    <li>Story_result-> jackpot</li>
+    <li>Story_Result-> Trophy</li>
+    <li>Story_result-> combe</li>
+    <li>Story_Result-> Arogance</li>
+    <li>Story_result-> stand</li>
+    <li>Story_result-> kehilangan</li>
+    <li>Story_result-> hutang</li>
+    <li>Story_result-> runtuh</li>
+    <li>Story_result-> Penghancuran</li>
+    <li>Story_Result-> Cataclysm</li>
+    <li>Story_result-> Ruin</li>
+    <li>Story_result-> Ruination</li>
+    <li>Story_result-> Undoing</li>
+    <li>Story_Result-> Kejatuhan</li>
+    <li>Story_result-> end</li>
+    <li>Story_Result-> Pensiun</li>
+    <li>Story_Result-> Prestasi</li>
+    <li>Story_result-> finale</li>
+    <li>Story_result-> Bluff</li>
+    <li>Story_result-> Ruse</li>
+    <li>Story_Result-> Penipuan</li>
+    <li>Story_result-> fasad</li>
+    <li>Story_result-> Fraud</li>-><WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name-> [terrain_word] [narrative_name]</li>
+    <li>r_name (p = 0,05)-> [terrain_word] [StoryName]</li>
+    <li>narrative_name (p = 12)-> [wordtribal_cap]</li>
+    <li>narrative_name (p = 12)-> [Placeoutlander]</li>
+    <li>narrative_name-> [NaturalObject] [Color]</li>
+    <li>narrative_name-> [naturalobject_fem] [color_fem]</li>
+    <li>narrative_name-> el [bodypart] [AdjectiveNatural]</li>
+    <li>narrative_name-> la [bodypartfem] [AdjectiveRaturalFem]</li>
+    <li>narrative_name-> [animalany]</li>
+    <li>narrative_name-> [Colorany]</li>
+    <li>narrative_name-> el [hewan] [warna]</li>
+    <li>narrative_name-> la [animal_fem] [color_fem]</li>
+    <li>narrative_name-> [hewan] [Adjectiveatural]</li>
+    <li>narrative_name-> [animal_fem] [AdjectiveRaturalFem]</li>
+    <!-- Para animal y partes del cuerpo, pendiente crear dos archivos de partes del cuerpo de animales y dividirlos en aves y mamiferos 
+    <li>narrative_name-> [hewan] [bodypart]</li>Tinggalkan komentar untuk membuat file -file itu -><li>narrative_name-> el [hewan] [warna]</li>
+    <li>narrative_name-> la [animal_fem] [color_fem]</li>
+    <li>narrative_name-> [hewan] [Adjectiveatural]</li>
+    <li>StoryName (p = 50)-> [Story_Result] de [subjek]</li>
+    <li>StoryName (p = 2)-> [Bodypartany] de [subjek]</li>
+    <li>StoryName-> [gore] de [subjek]</li>
+    <li>Subjek (p = 5)-> [Nameperson]</li>
+    <li>Subjek-> [animalany]</li>
+    <li>Subjek-> [wordtribal_cap]</li>
+    <li>Subjek-> [Placeoutlander]</li>
+    <li>Story_result-> locura</li>
+    <li>Story_result-> vicio</li>
+    <li>Story_result-> berbeda</li>
+    <li>Story_Result-> Kesalahan</li>
+    <li>Story_result-> Falla</li>
+    <li>Story_Result-> Mal Paso</li>
+    <li>Story_result-> kekecewaan</li>
+    <li>Story_Result-> Joy</li>
+    <li>Story_result-> Delicia</li>
+    <li>Story_Result-> Disfrute</li>
+    <li>Story_result-> orgullo</li>
+    <li>Story_result-> Joya</li>
+    <li>Story_result-> premio</li>
+    <li>Story_result-> triunfo</li>
+    <li>Story_Result-> Kehormatan</li>
+    <li>Story_result-> Tesoro</li>
+    <li>Story_result-> trofeo</li>
+    <li>Story_Result-> Gloria</li>
+    <li>Story_result-> Arogancia</li>
+    <li>Story_result-> defensa</li>
+    <li>Story_Result-></li>
+    <li>Story_result-> deuda</li>
+    <li>Story_result-> colapso</li>
+    <li>Story_result-> Penghancuran</li>
+    <li>Story_result-> kataclismo</li>
+    <li>Story_Result-> Ruina</li>
+    <li>Story_Result-> Destrozo</li>
+    <li>Story_Result-> Perdition</li>
+    <li>Story_Result-> Fallen</li>
+    <li>Story_result-> final</li>
+    <li>Story_result-> retiro</li>
+    <li>Story_result-> Logro</li>
+    <li>Story_Result-> Pemakaman</li>
+    <li>Story_result-> Batalla</li>
+    <li>Story_Result-> Engaño</li>
+    <li>Story_result-> mentira</li>
+    <li>Story_result-> trampa</li>
+    <li>Story_Result-> Fraude</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  
+</LanguageData>

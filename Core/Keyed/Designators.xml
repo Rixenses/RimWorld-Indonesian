@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cancel -->
+  <DesignatorCancel>Membatalkan</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
+  <DesignatorCancelDesc>Batalkan semua penunjukan seperti bangunan, penambangan, pengangkutan, panen, dan semua penunjukan lainnya.</DesignatorCancelDesc>
+
+  <!-- EN: Cut plants -->
+  <DesignatorCutPlants>Potong tanaman</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
+  <DesignatorCutPlantsDesc>Menandai tanaman untuk dipotong dan dihancurkan. Tanaman akan dihapus sepenuhnya, dan hasil makanan atau sumber daya apa pun akan dipanen.</DesignatorCutPlantsDesc>
+
+  <!-- EN: Deconstruct -->
+  <DesignatorDeconstruct>Dekonstruksi</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
+  <DesignatorDeconstructDesc>Dekonstruksi ini dan reklamasi sebagian sumber dayanya.</DesignatorDeconstructDesc>
+
+  <!-- EN: Deconstruct conduit -->
+  <DesignatorDeconstructConduit>Dekonstruksi saluran</DesignatorDeconstructConduit>
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
+  <DesignatorDeconstructConduitDesc>Dekonstruksi saluran listrik dan reklamasi sebagian sumber dayanya</DesignatorDeconstructConduitDesc>
+
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>Hapus instalan</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc>Hapus instalan objek ini agar dapat dipindahkan, dijual, atau dipasang di tempat lain.</DesignatorUninstallDesc>
+
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>Ekstrak pohon</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>Ekstrak pohon ini sambil menjaga agar tetap hidup sehingga dapat ditanam kembali di tempat lain.</DesignatorExtractTreeDesc>
+
+  <!-- EN: Harvest -->
+  <DesignatorHarvest>Panen</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
+  <DesignatorHarvestDesc>Menandai tanaman untuk dipanen demi mendapatkan makanan atau produk lainnya.</DesignatorHarvestDesc>
+
+  <!-- EN: Chop wood -->
+  <DesignatorHarvestWood>Potong kayu</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
+  <DesignatorHarvestWoodDesc>Menandai pohon untuk dipotong untuk mendapatkan kayu.</DesignatorHarvestWoodDesc>
+
+  <!-- EN: Haul things -->
+  <DesignatorHaulThings>Mengangkut barang</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
+  <DesignatorHaulThingsDesc>Menandai potongan batu dan barang lainnya untuk diangkut ke area pembuangan. Ini tidak diperlukan untuk barang seperti makanan atau mayat, yang selalu dapat diangkut.</DesignatorHaulThingsDesc>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables>Hanya dapat menandai barang yang dapat diangkut tetapi tidak selalu diangkut (seperti potongan batu).</MustHaulHaulables>
+
+  <!-- EN: Hunt -->
+  <DesignatorHunt>Berburu</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <DesignatorHuntDesc>Menandai hewan yang akan diburu oleh pemburu Anda.\n\nHanya pemburu dengan senjata jarak jauh yang sesuai yang akan berburu.</DesignatorHuntDesc>
+
+  <!-- EN: Mine -->
+  <DesignatorMine>Menambang</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
+  <DesignatorMineDesc>Menandai area batu untuk ditambang.</DesignatorMineDesc>
+
+  <!-- EN: Mine vein -->
+  <DesignatorMineVein>Menambang sampai habis</DesignatorMineVein>
+  <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
+  <DesignatorMineVeinDesc>Menandai area batu untuk ditambang. Kolonis akan terus menambang sampai semua batu yang terhubung dari jenis yang sama telah ditambang.</DesignatorMineVeinDesc>
+
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>Menghaluskan permukaan</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>Menandai medan batu kasar dan dinding yang akan dihaluskan.</DesignatorSmoothSurfaceDesc>
+  <!-- EN: Smooth walls -->
+  <DesignatorSmoothWalls>Haluskan dinding</DesignatorSmoothWalls>
+  <!-- EN: Designate rough stone walls to be smoothed. -->
+  <DesignatorSmoothWallsDesc>Menandai dinding batu kasar yang akan dihaluskan</DesignatorSmoothWallsDesc>
+  <!-- EN: Smooth terrain -->
+  <DesignatorSmoothFloors>Sederhanakan bidang</DesignatorSmoothFloors>
+  <!-- EN: Designate rough stone terrain to be smoothed. -->
+  <DesignatorSmoothFloorsDesc>Menandai medan batu kasar yang akan dihaluskan.</DesignatorSmoothFloorsDesc>
+
+  <!-- EN: Plan -->
+  <DesignatorPlan>Merencanakan</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
+  <DesignatorPlanDesc>Tempatkan penunjukan perencanaan. Ini tidak melakukan apa-apa kecuali membantu Anda merencanakan ekspansi di masa depan.\n\nKlik kanan untuk menyembunyikan atau menampilkan semua zona perencanaan.</DesignatorPlanDesc>
+
+  <!-- EN: Remove plans -->
+  <DesignatorPlanRemove>Menghapus perencanaan</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
+  <DesignatorPlanRemoveDesc>Menghapus penunjukan perencanaan.</DesignatorPlanRemoveDesc>
+
+  <!-- EN: Forbid -->
+  <DesignatorForbid>Melarang</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>Menandai item yang dipilih sebagai terlarang. Kolonis tidak akan dapat berinteraksi dengan item yang ditunjuk.</DesignatorForbidDesc>
+
+  <!-- EN: Allow -->
+  <DesignatorUnforbid>Perbolehkan</DesignatorUnforbid>
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>Menandai item yang dipilih sebagai tidak terlarang. Kolonis akan dapat berinteraksi dengan item yang ditunjuk.</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
+  <DesignatorAreaHomeExpand>Memperluas area rumah</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc>Kolonis hanya akan memperbaiki bangunan, membersihkan lantai, dan memadamkan api yang berada di area rumah.</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
+  <DesignatorAreaHomeClear>Menghapus area rumah</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc>Menghapus area rumah yang dipilih. Kolonis tidak akan lagi membersihkan, memperbaiki, atau memadamkan api di sini.</DesignatorAreaHomeClearDesc>
+
+  <!-- EN: Build roof area -->
+  <DesignatorAreaBuildRoofExpand>Membangun area atap</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc>Koloni akan membangun atap di area ini.</DesignatorAreaBuildRoofExpandDesc>
+
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>Menghapus area atap</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>Koloni akan menghapus atap di area ini (kecuali gunung di atas, yang tidak dapat dihapus).</DesignatorAreaNoRoofExpandDesc>
+
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>Mengabaikan area atap</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>Koloni akan mengabaikan atap di area ini.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Snow removal area -->
+  <DesignatorAreaSnowClearExpand>Daerah penghilangan salju</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>Membuat area yang koloni akan jaga agar tetap bersih dari salju.</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow removal area -->
+  <DesignatorAreaSnowClearClear>Menghapus daerah penghilangan salju</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>Menghapus daerah penghilangan salju. Koloni tidak akan lagi mencoba menjaga area ini tetap bersih dari salju.</DesignatorAreaSnowClearClearDesc>
+
+  <!-- EN: Expand allowed area -->
+  <DesignatorExpandAreaAllowed>Perluas area yang diizinkan</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>Perluas area yang diizinkan.\n\nArea yang diizinkan adalah area yang telah ditentukan yang dapat anda tetapkan untuk para koloni. Para koloni tidak akan menerima pekerjaan atau memenuhi kebutuhan mereka di luar area yang diizinkan</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
+  <DesignatorClearAreaAllowed>Menghapus area yang diizinkan</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>Menghapus area yang ditentukan. Jika Anda menghapus area sepenuhnya, koloni atau hewan yang sebelumnya ditugaskan ke area ini akan dibebaskan.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
+  <ManageAreas>Kelola area...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>Kelola pemotongan otomatis...</ManageAutoSlaughter>
+
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc>Buat zona di mana koloni Anda akan mencoba menanam jenis tanaman tertentu.</DesignatorGrowingZoneDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageResourcesDesc>Buatlah persediaan tempat para koloni anda akan menyimpan sumberdaya. Alat ini juga dapat memperluas persediaan yang sudah ada</DesignatorZoneCreateStorageResourcesDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageDumpingDesc>Buatlah persediaan tempat para koloni anda akan menyimpan barang-barang yang tidak terpakai. Alat ini juga dapat memperluas persediaan yang sudah ada.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <!-- EN: Shrink zones -->
+  <DesignatorZoneDelete>Kecilkan area</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>Kecilkan area tersebut</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc>Hapus area, seperti area penyimpanan atau area pertumbuhan.</DesignatorZoneDeleteDesc>
+
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>Perluas area</DesignatorZoneExpand>
+
+  <!-- EN: Claim -->
+  <DesignatorClaim>Klaim</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc>Klaim struktur netral untuk koloni, termasuk reruntuhan kuno dan basis pengepungan yang ditinggalkan. Struktur yang diklaim dapat diperbaiki dan dipelihara oleh kolonis Anda.</DesignatorClaimDesc>
+
+  <!-- EN: Remove floor -->
+  <DesignatorRemoveFloor>Hapus lantai</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>Hapus lantai buatan agar tanah di bawahnya terlihat.</DesignatorRemoveFloorDesc>
+
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>Hapus jembatan</DesignatorRemoveBridge>
+  <!-- EN: Deconstruct bridges to reclaim partial resources. -->
+  <DesignatorRemoveBridgeDesc>Hancurkan jembatan untuk mendapatkan kembali sebagian sumber daya.</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
+  <DesignatorStrip>Melucuti</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc>Melucuti pakaian dari mayat dan yang terluka.</DesignatorStripDesc>
+
+  <!-- EN: Open -->
+  <DesignatorOpen>Buka</DesignatorOpen>
+  <!-- EN: Open containers. -->
+  <DesignatorOpenDesc>Buka kontener.</DesignatorOpenDesc>
+  
+  <!-- EN: Eject fuel -->
+  <DesignatorEjectFuel>Hapus bahan bakar</DesignatorEjectFuel>
+  <!-- EN: Eject all contained fuel onto the ground. -->
+  <DesignatorEjectFuelDesc>Lepaskan semua bahan bakar ke tanah</DesignatorEjectFuelDesc>
+
+  <!-- EN: Slaughter -->
+  <DesignatorSlaughter>Pembantaian</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc>Sembelih hewan jinak.</DesignatorSlaughterDesc>
+
+  <!-- EN: Tame -->
+  <DesignatorTame>Menjinakan</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
+  <DesignatorTameDesc>Menjinakan hewan liar.</DesignatorTameDesc>
+  <!-- EN: Scaria infected animals can't be tamed. -->
+  <CantTameScaria>Hewan yang terinfeksi Scaria tidak dapat dijinakkan.</CantTameScaria>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>Setelah satwa liar</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>Lepaskan hewan kembali ke alam liar.</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>Studi</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>Mempelajari objek ini untuk mengetahui lebih lanjut.</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>Melukis bangunan ...</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>Desain dinding dan bangunan untuk dicat menggunakan pewarna dari tanaman tinctoria, yang dapat Anda tanam. Hanya bangunan tertentu yang dapat dicat.</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>Mengecat lantai...</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>Desain lantai untuk dicat menggunakan pewarna dari tanaman tinctoria, yang dapat Anda tanam. Hanya lantai tertentu yang dapat dicat.</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>Hapus cat</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>Hapus cat dari dinding, bangunan, dan lantai.</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>Hapus cat lantai</DesignatorRemoveFloorPaint>
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>Hapus cat dari lantai.</DesignatorRemoveFloorPaintDesc>
+  <!-- EN: Paint -->
+  <Paint>Kucing</Paint>
+  <!-- EN: Color -->
+  <Color>Warna</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>Pilih warna</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>Pilih warna yang ada</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>Pilih warna dari sebuah bangunan.</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>Pilih warna dari sebuah karpet.</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>Pilih sebuah bangunan yang dicat.</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>Pilih sebuah karpet yang dicat.</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>Pilih</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>Warna yang dipilih</GrabbedColor>
+
+  <!-- EN: Expand plan -->
+  <DesignatorExpandPlan>Perluas rencana</DesignatorExpandPlan>
+  <!-- EN: New plan -->
+  <NewPlan>Rencana baru</NewPlan>
+  
+  <!-- EN: Shrink plan -->
+  <DesignatorPlanShrinkSingular>Kecilkan rencana</DesignatorPlanShrinkSingular>
+  <!-- EN: Remove plans. -->
+  <DesignatorPlanShrinkDesc>Hapus rencana.</DesignatorPlanShrinkDesc>
+
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
+  <UnchosenStuff>Material tidak dipilih</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
+  <TooCloseToMapEdge>Terlalu dekat dengan tepi peta.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
+  <OutOfBounds>Di luar batas.</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered>Tidak dapat ditempatkan di area yang belum ditemukan.</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>Poin interaksi diblokir oleh {1_labelShort}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds>Poin interaksi berada di luar batas.</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>Poin interaksi akan diblokir oleh {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot>{0} akan memblokir poin interaksi {1}.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
+  <TerrainIsAlready>Tanah di sini adalah {0}.</TerrainIsAlready>
+  <!-- EN: There is already foundation here. -->
+  <FoundationAlreadyExists>Sudah ada fondasi di sini.</FoundationAlreadyExists>
+  <!-- EN: The existing terrain here cannot be removed. -->
+  <TerrainUnremovable>Tanah yang ada di sini tidak dapat dihapus.</TerrainUnremovable>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>Permukaan sudah ditandai untuk diratakan.</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
+  <IdenticalThingExists>Sudah ada yang identik di sini.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists>Sudah ada cetak biru yang identik di sini.</IdenticalBlueprintExists>
+  <!-- EN: {0_label} cannot be built on this terrain. -->
+  <TerrainCannotSupport>{0_label} tidak dapat dibangun di tanah ini.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label} memerlukan tanah yang mendukung: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (ketika terbuat dari {2_label}) memerlukan tanah yang mendukung: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <!-- EN: Space already occupied. -->
+  <SpaceAlreadyOccupied>Ruang sudah terisi.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>Ruang sedang diratakan.</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>Harus menargetkan lantai yang dapat dihapus.</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>Roda air harus berada di atas air yang mengalir.</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>Poin interaksi akan tumpang tindih dengan poin interaksi {1_labelShort}.</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>Poin interaksi tumpang tindih dengan poin interaksi {1_labelShort}.</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>Tidak dapat menempatkan monumen di atas: {0}.</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>Tidak dapat membangun di: {0}.</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>Tidak dapat menempatkan monumen di atas: {0}.</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>Tidak dapat menempatkan monumen di sebelah: {0}.</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>Tidak dapat menanam di sini.</CannotBePlantedHere>
+
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
+  <ExpandOrCreateZone>Perluas {0} atau\nBuat {1} baru</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
+  <CreateNewZone>Buat {0} baru</CreateNewZone>
+  
+  <!-- EN: Expand {0} or\nCreate new plan -->
+  <ExpandOrCreatePlan>Perluas {0} atau\nBuat rencana baru</ExpandOrCreatePlan>
+  <!-- EN: Create new plan -->
+  <CreateNewPlan>Buat rencana baru</CreateNewPlan>
+  
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
+  <TransmitsPower>Mentransmisikan listrik</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>Perlu konstruksi</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithSkillTip>Tidak ada {0} yang memiliki keterampilan ini.</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>Membutuhkan {0}</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>Tidak ada {0} yang memiliki semua keterampilan yang diperlukan.</NoColonistWithAllSkillsForConstructing>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithSkillHaveDisabledConstructingTip>Tidak ada {0} yang memiliki keterampilan ini yang ditugaskan ke {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- EN: Extract skull -->
+  <DesignatorExtractSkull>Ekstrak tengkorak</DesignatorExtractSkull>
+  <!-- EN: Extract the skull from a corpse. -->
+  <DesignatorExtractSkullDesc>Ekstrak tengkorak dari mayat.</DesignatorExtractSkullDesc>
+
+</LanguageData>

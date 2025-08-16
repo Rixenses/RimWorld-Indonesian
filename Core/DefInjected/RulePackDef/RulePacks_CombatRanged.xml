@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>awalan-> [blast] [dari] [inisiator pasti] 'a [proyektil]</li>
+    <li>awalan-> [blast] [fromof] [initiator_definite] [weapon_label]</li>
+    <li>awalan-> [blast] [dari] [inisiator pasti] 'a [proyektil]</li>
+    <li>awalan-> [blast] [fromof] [initiator_definite] [weapon_label]</li>
+    <li>awalan-> [initiator_definite] [blast]</li>
+    <li>awalan-> [initiator_definite] [proyektil] [blast]</li>
+    <li>awalan-> [initiator_definite] [weapon_label] [blast]</li>
+    <li>awalan-> [initiator_definite] [proyektil]</li>
+    <li>awalan-> [initiator_definite] [weapon_label]</li>
+    <li>r_logentry-> [awalan] [cedera] [penerima_definite].</li>
+    <li>r_logentry-> [prefix] [hancur_past] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry-> [prefix] [hancur_past] [penerima_definite] [dihancurkan_targets] [strikeadv].</li>
+    <li>r_logentry-> [prefix] [strikeadv] [dihancurkan_past] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry-> [prefix] [dihancurkan_past] [penerima_definite] s [dihancurkan_targets] dan [rusak_past] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] [RArpaged_past] [penerima_definite] s [rusak_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] [RArpaged_past] [penerima_definite] s [racaged_targets] [strikeadv].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] [strikeAdv] [ruckaged_past] [penerima_definite] [rusak_targets].</li>
+    <li>r_logentry-> [penerima_definite] adalah [RURGADE_PAST] oleh [initiator_definite].</li>
+    <li>r_logentry-> [penerima_definite] adalah [RURGADE_PAST] [strikeadv] oleh [initiator_definite].</li>
+    <li>r_logentry-> [penerima_definite] adalah [RURGADE_PAST].</li>
+    <li>r_logentry (p = 0,001)-> [penerima_definite] terperangkap dalam ledakan.</li>
+    <li>r_logentry (p = 0,001)-> [penerima_definite] dipukul oleh ledakan.</li>
+    <li>ledakan-> ledakan</li>
+    <li>Blast-> Blast</li>
+    <li>Blast-> Shockwave</li>
+    <li>Blast-> Detonation</li>
+    <li>Blast-> debit</li>
+    <li>ledakan-> dampak</li>
+    <li>dari-> dari</li>
+    <li>dari> dari</li>-><Combat_ExplosionImpact.rulePack.rulesStrings>
+    <li>awalan-> [blastdefcap] {ganti: [proyektil];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>prefix-> [blastdefcap] {ganti: [senjata_definite];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>awalan-> [blastdefcap] {ganti: [proyektil];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>prefix-> [blastdefcap] {ganti: [senjata_definite];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>awalan-> [blastdefcap] {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>awalan-> [blastdefcap] {ganti: [proyektil];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>prefix-> [blastdefcap] {ganti: [senjata_definite];">"-"> dari"} {ganti: dari [initiator_definite];">"-"> dari"}</li>
+    <li>awalan-> [projectiled] {ganti: de [initiator_definite];"> el"-"> del"}</li>
+    <li>awalan-> [senjata_definite] {ganti: de [initiator_definite];"> el"-"> del"}</li>
+    <li>r_logentry-> [prefix] ha [cedera] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry-> [prefix] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry-> [prefix] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} [strikeadv].</li>
+    <li>r_logentry-> [prefix] ha [dihancurkan_past] [strikeadv] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry-> [prefix] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} y también ha [ravaged_past] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] ha [rArpaged_past] [ruckaged_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] ha [rArpaged_past] [ruckaged_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} [strikeadv].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [prefix] ha [rusak_past] [strikeAdv] [rusak_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry-> [initiator_definite] ha [ruckaged_past] [strikeadv] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (penerima_gender! = wanita)-> [penerima_definite] fue [rusak_past1] o.</li>
+    <li>R_logentry (p = 0,001, penerima_gender! = Wanita)-> [penerima_definite] terperangkap dalam ledakan.</li>
+    <li>R_logentry (p = 0,001, penerima_gender! = Wanita)-> [penerima_definite] dipukuli oleh ledakan.</li>
+    <li>r_logentry (penerima_gender == betina)-> [penerima_definite] fue [ruckaged_past1] a.</li>
+    <li>r_logentry (p = 0,001, penerima_gender == wanita)-> [penerima_definite] terperangkap dalam ledakan.</li>
+    <li>r_logentry (p = 0,001, penerima_gender == betina)-> [penerima_definite] dipukuli oleh ledakan.</li>
+    <li>ledakan-> ledakan</li>
+    <li>Blastmas-> Burst</li>
+    <li>Blast-> Wave Expansive</li>
+    <li>Blast-> Detonation</li>
+    <li>Blast-> Unduh</li>
+    <li>Blastmas-> Dampak</li>
+    <li>blastdefcap-> la [ledakan]</li>
+    <li>Blastdefcap-> [blastmas]</li>
+    <li>Fromof-> de</li>
+    <li>Fromof-> de</li>
+    <li>terluka-> terluka</li>
+    <li>terluka-> terluka</li>
+    <li>terluka-> terluka</li>
+    <!--OJO "herid", "Lastimad" No es un error, se complementa con otras reglas para establecer el sexo del colono, damaged_past = herido o herida y así con el resto de damaged_past (zerstrick 16-10-2020) -->
+    <li>RURGAGED_PAST1-> HERID</li>
+    <li>RURGAGED_PAST1-> lastimad</li>
+    <li>RURGAGED_PAST1-> Perforad</li>
+    <li>RURGAGED_PAST1-> Dañad</li>
+    <li>RURGADE_PAST1-> ATRAVESAD</li>
+  </Combat_ExplosionImpact.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Proyektil (senjata hilang == Benar, P3)-> [Label Proyektil]</li>
+    <li>Proyektil-> [weapon_projectile_label]</li>-><Combat_RangedBase.rulePack.rulesStrings>
+    <li>Proyektil (senjata hilang == Benar, P3)-> [Label Proyektil]</li>
+    <li>Projectile1-> [weapon_projectile_label]</li>
+    <li>Proyektil (senjata hilang == Benar, P3)-> [Proyektil Tidak Tentu]</li>
+    <li>Proyektil-> [weapon_projectile_indefinite]</li>
+    <li>Proyektil (senjata hilang == Benar, P3)-> [Definisi Proyektil]</li>
+    <li>Projectiled-> [weapon_projectile_definite]</li>
+  </Combat_RangedBase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [proyektil] [dihancurkan_past] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry-> [initiator_definite] [proyektil] [dihancurkan_past] [penerima_definite] [dihancurkan_targets] [to] [dihancurkan_suffix].</li>
+    <li>r_logentry (p = 2)-> [initiator_definite] [proyektil] [terlewatkan] [asliTarget_definite] dan [dihancurkan_past] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry (p = 2)-> [initiator_definite] [proyektil] [terlewatkan] [originalTarget_definite], [hancur_present] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry-> [penerima_definite] [dihancurkan_targets] [dihancurkan_past] oleh [initiator_definite] [proyektil].</li>
+    <li>r_logentry-> [penerima_definite] [dihancurkan_targets] [dihancurkan_past] menjadi [dihancurkan_suffix] oleh [initiator_definite] [proyektil].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [initiator_definite] [Proyektil] [RURGADE_PAST] [penerima_definite] S [RAVADED_TARGETS].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0, p = 2)-> [initiator_definite] [proyektil] [terlewatkan] [originaltarget_definite] dan [rusak_past] [penerima_definite] [redred_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0, p = 2)-> [initiator_definite] [proyektil] [terlewatkan] [originalTarget_definite], [rusak_present] [penerima_definite] s [rapaged_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [penerima_definite] [RURGAGED_TARGETS] adalah [RURGAGE_PAST] oleh [inisiator_definite] [proyektil].</li>
+    <li>r_logentry (p = 3)-> [initiator_definite] [proyektil] [dihancurkan_past] [penerima_definite] [dihancurkan_targets] dan [rusak_past] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry(p=6)->[INITIATOR_definite]'s [projectile] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] tekan [penerima_definite] dengan [proyektil].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] [proyektil] tekan [penerima_definite].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [terlewatkan] [asliTarget_Definite] dan tekan [penerima_definite] dengan [proyektil].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [proyektil] [terlewatkan] [originalTarget_definite] dan tekan [penerima_definite].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] tekan [penerima_definite] dengan [proyektil] yang ditujukan untuk [asliTarget_Definite].</li>
+    <li>Proyektil (p = 0,05)-> tembakan</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dilenyapkan</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> ditusuk</li>
+    <li>dihancurkan_past-> berlubang</li>
+    <li>dihancurkan_past-> tertusuk</li>
+    <li>hancur_present-> hancur</li>
+    <li>hancur_present-> crushing</li>
+    <li>dihancurkan_present-> Obliterating</li>
+    <li>dihancurkan_present-> dimusnahkan</li>
+    <li>dihancurkan_present-> penindikan</li>
+    <li>dihancurkan_present-> perforasi</li>
+    <li>dihancurkan_present-> menusuk</li>
+    <li>dihancurkan_Suffix-> Potongan</li>
+    <li>dihancurkan_suffix-> bit</li>
+    <li>dihancurkan_suffix-> kabut yang bagus</li>
+    <li>dihancurkan_suffix-> fragmen</li>
+    <li>dihancurkan_suffix (p = 0,5)-> kekacauan berlubang</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid, p = 0.2)-> daging sapi ground</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> terluka</li>
+    <li>Rusak_past-> ditusuk</li>
+    <li>Rusak_past-> rusak</li>
+    <li>Rusak_past-> bidikan</li>
+    <li>Rusak_present-> COURING</li>
+    <li>RAUPAGED_PRESENT-> Cedera</li>
+    <li>RURGADE_PRESENT-> Piercing</li>
+    <li>RURRAGED_PRESENT-> merusak</li>
+    <li>Rusak_present-> pemotretan</li>
+    <li>Rusak_suffix-> dengan cara yang buruk</li>
+    <li>RURGADE_SUFFIX (penerima_flesh! = mechanoid)-> dengan darah yang terlihat</li>
+    <li>RURGADE_SUFFIX (penerima_flesh! = mechanoid)-> dengan daging terlihat</li>
+    <li>The-> the</li>
+    <li>to-> to</li>
+    <li>terlewatkan-> terlewatkan</li>
+    <li>Lewatkan-> nyaris terlewatkan</li>-><Combat_RangedDamage.rulePack.rulesStrings>
+    <li>r_logentry-> [proyektil] de [initiator_definite] ha [dihancurkan_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry-> [proyektil] de [initiator_definite] ha [dihancurkan_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} [to] [hancur_suffix].</li>
+    <li>r_logentry (p = 2)-> [proyektil] de [initiator_definite] [terlewatkan] A [asliTarget_Definite] y ha [dihancurkan_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry (p = 2)-> [proyektil] de [initiator_definite] [terlewatkan] A [asliTarget_Definite], [dihancurkan_present] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry-> [dihancurkan_targetsdef1] {ganti: dari [penerima_definite];"dari & lt; color =#d09b61ff>"-"& lt; color =#d09b61ff> dari"} adalah [dihancurkan_past] untuk [proyektil] dari [initiator_definite].</li>
+    <li>r_lotentry-> [dihancurkan_targetsdef2] {ganti: dari [penerima_definite];"dari & lt; color =#d09b61ff>"-"& lt; color =#d09b61ff> dari"} adalah [dihancurkan_past] s per [proyektil] [initiator_definite].</li>
+    <li>r_logentry-> [dihancurkan_targetsdef1] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} fue [dihancurkan_past] en [hancur_suffix] por [proyektil] de [initiator_definite].</li>
+    <li>r_lotentry-> [dihancurkan_targetsdef2] {ganti: dari [penerima_definite];"dari & lt; color =#d09b61ff>"-"& lt; color =#d09b61ff> dari"} adalah [dihancurkan_past] s di [hancur_suffix] dengan [proyektil] dari [initiator_definite].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [Proyektil] de [initiator_definite] ha [rusak_past] [rusak_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0, p = 2)-> [proyektil] de [initiator_definite] [terlewatkan] [originalTarget_definite] y ha [rusak_past] [rusak_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0, p = 2)-> [proyektil] de [initiator_definite] [terlewatkan] [originalTarget_definite], [rusak_present] [rusak_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logEntry (penerima_part_destroyed_count == 0)-> [RArpaged_TargetSDef1] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} fue [ruckaged_past] por [proyektil] de [initiator_definite].</li>
+    <li>r_logentry (p = 3)-> [proyektil] de [initiator_definite] ha [dihancurkan_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} y [rusak_past] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (p = 6)-> [proyektil] de [initiator_definite] [terlewatkan] A [asliTarget_Definite], [hancur_present] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}, [ruckaged_present] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] le dio {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [proyektil].</li>
+    <li>r_lotentry (p = 0.2)-> [proyektil] dari [initiator_definite] mencapai {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> the"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [terlewatkan] [asliTarget_definite] y alcanzó {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [proyektil].</li>
+    <li>r_logentry (p = 0.4)-> [proyektil] de [initiator_definite] [terlewatkan] [asliTarget_definite] y alcanzó {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] tekan {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> the"-"& lt; color =#d09b61ff> al"} dengan [proyektil] yang ditakdirkan untuk [originalarget_definite].</li>
+    <li>Weapon_projectile_label (p = 0,05)-> disparo</li>
+    <!--Dejar WEAPON_projectile_indefinite con este nombre aunque no sea indefinido zerstrick(5/3/2022) -->
+    <li>Weapon_projectile_indefinite (p = 0,05)-> tembakan</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> borrado</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> perforado</li>
+    <li>dihancurkan_past-> disilangkan</li>
+    <li>Dihancurkan_past-> membungkuk</li>
+    <li>dihancurkan_present-> nodazando</li>
+    <li>dihancurkan_present-> aplastando</li>
+    <li>dihancurkan_present-> borrando</li>
+    <li>Hancurkan Present-> Imnilating</li>
+    <li>dihancurkan_present-> perforando</li>
+    <li>Dihancurkan_present-> Crossing</li>
+    <li>Dihancurkan_present-> penindikan</li>
+    <li>dihancurkan_suffix-> piezas</li>
+    <li>dihancurkan_suffix-> Trozos</li>
+    <li>dihancurkan_suffix-> kabut yang bagus</li>
+    <li>dihancurkan_suffix-> fragmentos</li>
+    <li>dihancurkan_suffix (p = 0,5)-> polvo</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid, p = 0.2)-> carne molida</li>
+    <li>RURGAGED_PAST-> HERIDO</li>
+    <li>Rusak_past-> terluka</li>
+    <li>RURGAGED_PAST-> Perforado</li>
+    <li>Ravaged_past (p = 0,5)-> rusak</li>
+    <li>RURGADE_PAST (P = 0,5)-> Atravesado</li>
+    <li>RURGAGED_PRESENT-> Hiriendo</li>
+    <li>RURGAGED_PRESENT-> LASTIMANDO</li>
+    <li>RAVAGED_PRESENT-> Perforando</li>
+    <li>RURRAGED_PRESENT-> merusak</li>
+    <li>RAVADED_PRESENT (P = 0,5)-> Baleando</li>
+    <li>RURGADE_SUFFIX-> HORRIBLEMEN</li>
+    <li>RURGADE_SUFFIX (penerima_flesh! = Mechanoid)-> Menampilkan cairan vital Anda</li>
+    <li>Kerusakan sufiks (daging penerima! = Mechanoid)-> dengan daging yang terbuka</li>
+    <li>to-> a</li>
+    <li>dua-> satu</li>
+    <li>Rindu-> haw haw</li>
+    <li>Lewat-> Telah Gagal Sedikit</li>
+  </Combat_RangedDamage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [Proyektil] [RArpaged_past] [penerima_definite] [rArpaged_target] [Deflected_result].</li>
+    <li>r_logentry (p = 2)-> [initiator_definite] [proyektil] [terlewatkan] [originalTarget_definite] dan [rusak_past] [penerima_definite] [rusak_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry-> [penerima_definite] [ruckaged_target_possessive_opt] adalah [RURGADE_PAST] oleh [initiator_definite] [proyektil] [Deflected_Result].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] tekan [penerima_definite] [rusak_target_possessive_opt] dengan [proyektil] [Deflected_result].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] s [proyektil] tekan [penerima_definite] [ruckaged_target_possessive_opt] [Deflected_result].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [terlewatkan] [originalTarget_definite] dan tekan [penerima_definite] [rusak_target_possessive_opt] dengan [proyektil] [Deflected_result].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [Proyektil] [terlewatkan] [asliTarget_Definite] dan tekan [penerima_definite] [rusak_target_possive_opt] [Deflected_result].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] tekan [penerima_definite] [rusak_target_possessive_opt] dengan [proyektil] yang ditujukan untuk [asliTarget_Definite] [Deflected_result].</li>
+    <li>Proyektil (p = 0,05)-> tembakan</li>
+    <li>RURGADE_TARGET_POSSESIF_OPT-></li>
+    <li>RURGADD_TARGET_POSSESSIF_OPT (penerima_part_damaged0_outside == true)-> [penerima_part_damaged0_label]</li>
+    <li>Deflected_result-> [adverb_deflected]</li>
+    <li>Deflected_result->, [Deflected_consepteence]</li>
+    <li>adverb_deflected_opt (p = 4)-></li>
+    <li>adverb_deflected_opt-> [adverb_deflected]</li>
+    <li>adverb_deflected-> tidak berbahaya</li>
+    <li>adverb_deflected-> tidak berguna</li>
+    <li>Deflected_conseptence-> Tapi itu [scraped_past] off [adverb_deflected_opt]</li>
+    <li>Deflected_conseptence-> [scraped_present] OFF [penerima_possessive] armor [adverb_deflected_opt]</li>
+    <li>scraped_past-> memantul</li>
+    <li>scraped_present-> ricocheting</li>
+    <li>terlewatkan-> terlewatkan</li>
+    <li>Lewatkan-> nyaris terlewatkan</li>-><Combat_RangedDeflect.rulePack.rulesStrings>
+    <li>r_logentry-> [Proyektil] de [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} [ruckaged_targetsdef] [Deflected_result].</li>
+    <li>r_logentry (p = 2)-> [proyektil] de [initiator_definite] [terlewatkan] [originalTarget_definite] y ha [rusak_past] [rusak_target_possessive_opt] [penerima_definite] [Deflected_result].</li>
+    <li>r_logentry-> [ruckaged_target_possessive_opt] fue [ruckaged_past] por [proyektil] de [initiator_definite] [Deflected_result].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] golpeó a [ruckaged_target_possessive_opt] con [proyektil] [Deflected_result].</li>
+    <li>r_logentry (p = 0.2)-> [proyektil] de [initiator_definite] golpeó a [ruckaged_target_possessive_opt] [Deflected_result].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [terlewatkan] {ganti: a [asliTarget_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} y golpeó a [rusak_target_possessive_opt] con [proyektil] [Deflected_result].</li>
+    <li>r_logentry (p = 0.4)-> [proyektil] de [initiator_definite] [terlewatkan] {ganti: a [asliTarget_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} y golpeó a [rusak_target_possessive_opt] [Deflected_result].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] golpeó a [rusak_target_possessive_opt] con [proyektil] que iba destinado a [originalTarget_definite] [diam-diam_result].</li>
+    <li>Weapon_projectile_label (p = 0,05)-> disparo</li>
+    <li>Proyektil (p = 0,05)-> bidikan</li>
+    <li>rArpaged_target_possessive_opt-> {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}</li>
+    <li>RURGADE_TARGET_POSSESSIF_OPT (penerima_part_damaged0_outside == true)-> [penerima_part_damaged0_definite] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}</li>
+    <li>Deflected_result-> [adverb_deflected]</li>
+    <li>Deflected_result->, [Deflected_consepteence]</li>
+    <li>adverb_deflected_opt (p = 4)-></li>
+    <li>adverb_deflected_opt-> [adverb_deflected]</li>
+    <li>adverb_deflected-> inofensivamente</li>
+    <li>adverb_defleced-> tanpa bahaya</li>
+    <li>Deflected_consequence-> pero [scraped_past] [adverb_deflected_opt]</li>
+    <li>Deflected_conseptence-> [scraped_present] en su armadura [adverb_deflected_opt]</li>
+    <li>scraped_past-> terpental</li>
+    <li>scraped_present-> rebotando</li>
+    <li>Rindu-> haw haw</li>
+    <li>Rona-> Gagal Sedikit</li>
+  </Combat_RangedDeflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [shotat] [penerima_definite] dengan [initiator_possessive] [senjata_label].</li>
+    <li>r_logentry-> [initiator_definite] [shot] [initiator_possessive] [weapon_label] di [penerima_definite].</li>
+    <li>r_logentry-> [initiator_definite] [shotat] [penerima_definite].</li>
+    <li>r_logentry-> [initiator_definite] [shot_a] [proyektil] [burst] di [penerima_definite].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [shot_a] [proyektil].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [shot] [initiator_possessive] [senjata_label].</li>
+    <li>shot_a (p = 2)-> [verb_shot] a</li>
+    <li>shot_a-> [skilladv] [verb_shot] a</li>
+    <li>Shot (p = 2)-> [verb_shot]</li>
+    <li>Shot-> [SkillAdv] [verb_shot]</li>
+    <li>shotat-> shot [aburst] di</li>
+    <li>shotat-> [skilladv] tembak [aburst] di</li>
+    <li>shotat (p = 0,5)-> mencoba menembak [aburst] di</li>
+    <li>shotat (p = 0,3)-> mengambil gambar</li>
+    <li>shotat (p = 0,2)-> [skilladv] mengambil gambar</li>
+    <li>shotat-> dipecat [aburst] di</li>
+    <li>shotat-> dipecat [aburst] [skilladv] di</li>
+    <li>shotat (p = 0,5)-> bertujuan dan dipecat [aburst] di</li>
+    <li>shotat (p = 0,5)-> [SkillAdv] ditujukan dan dipecat [aburst] di</li>
+    <li>shotat (p = 0,3)-> dibuka di</li>
+    <li>Aburst-></li>
+    <li>aburst (burst == true, p = 3)-> Burst</li>
+    <li>Burst-></li>
+    <li>Burst (burst == true, p = 3)-> burst</li>
+    <li>verb_shot-> bidikan</li>
+    <li>verb_shot-> dipecat</li>
+    <li>verb_shot (p = 0.2)-> dikeluarkan</li>-><Combat_RangedFire.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] [shotat] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [initiator_possessive] [weapon_label].</li>
+    <li>r_logentry-> [initiator_definite] [shotatc] [penerima_indefinite] con [initiator_possessive] [senjata_label].</li>
+    <li>r_logentry-> [initiator_definite] [shot] [initiator_possessive] [weapon_label] contra [penerima_indefinite].</li>
+    <li>r_logentry-> [initiator_definite] [shotat] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry-> [initiator_definite] [shotatc] [penerima_indefinite].</li>
+    <li>r_logentry (p = 0,5)-> [initiator_definite] [shot_an] contra [penerima_definite] con una [burst] de [proyektil].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [shot_a] [proyektile_indefinite].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [shot] [initiator_possessive] [senjata_label].</li>
+    <li>shot_an (p = 2)-> [verb_shot]</li>
+    <li>shot_an-> [skilladv] [verb_shot]</li>
+    <li>shot_a (p = 2)-> [verb_shot]</li>
+    <li>shot_a-> [skilladv] [verb_shot]</li>
+    <li>Shot (p = 2)-> [verb_shot]</li>
+    <li>Shot-> [SkillAdv] [verb_shot]</li>
+    <li>Shotat-> shot [aburs]</li>
+    <li>Shotat-> [skilladv] tembakan [abur]</li>
+    <li>Shotat (p = 0,5)-> mencoba menembak [aburst]</li>
+    <li>Shotat (p = 0,3)-> menembaknya</li>
+    <li>Shotat (p = 0,2)-> [skilladv] menembaknya</li>
+    <li>Shotat-> shot [aburs]</li>
+    <li>Shotat-> shot [aburs] [skilladv]</li>
+    <li>Ditembak pada (p = 0,5)-> dia menunjuk dan menembak [abur]</li>
+    <li>Shotat (p = 0,5)-> [skilladv] runcing dan dipecat [abur]</li>
+    <li>Shotatc (p = 0,3)-> tembak terbuka terhadap</li>
+    <li>Aburst-></li>
+    <li>Aburst (burst == true, p = 3)-> Burst</li>
+    <li>Burst (burst == true, p = 0,5)-> descarga</li>
+    <li>Burst (burst == true, p = 3)-> ráfaga</li>
+    <li>verb_shot-> bidikan</li>
+    <li>verb_shot-> buka api</li>
+    <li>verb_shot (p = 0.2)-> diunduh</li>
+  </Combat_RangedFire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [lempar] [initiator_possessive] [proyektil] di [penerima_definite].</li>
+    <li>r_logentry-> [initiator_definite] [lempar_a] [proyektil] di [penerima_definite].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [lempar] [initiator_possessive] [proyektil].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [lempar_a] [proyektil].</li>
+    <li>threw_a-> [adverb_threw] [verb_threw] a</li>
+    <li>threw_a (p = 2)-> [verb_threw] a</li>
+    <li>melempar (p = 2)-> [verb_threw]</li>
+    <li>lempar-> [adverb_threw] [verb_threw]</li>
+    <li>kata kerja melempar-> melalui</li>
+    <li>verb_threw-> terlempar</li>
+    <li>verb_threw-> diluncurkan</li>
+    <li>adverb_threw-> dengan hati-hati</li>
+    <li>adverb_threw-> dengan cepat</li>
+    <li>adverb_threw-> Tepatnya</li>
+    <li>adverb_threw-> dengan sengaja</li>
+    <li>adverb_threw (initiator_flesh! = mechanoid)-> dengan hati-hati</li>
+    <li>adverb_threw-> Tepatnya</li>
+    <li>adverb_threw (initiator_flesh! = mechanoid)-> warily</li>
+    <li>ADjective_threw-> Hati-hati</li>
+    <li>ADJECTIVE_THREW-> CEPAT</li>
+    <li>Adjective_threw-> disengaja</li>
+    <li>ADjective_threw-> precise</li>
+    <li>adjective_threw (initiator_flesh! = mechanoid)-> waspada</li>-><Combat_RangedFire_Thrown.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] [lempar] [initiator_possessive] [proyektil1] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry-> [initiator_definite] [lempar_a] [proyektil] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [lempar] [initiator_possessive] [proyektil1].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [lempar_a] [proyektil].</li>
+    <li>threw_a-> [adjective_threw] [verb_threw]</li>
+    <li>Threw_a-> [adverb_threw] [verb_threw]</li>
+    <li>threw_a (p = 2)-> [verb_threw]</li>
+    <li>melempar (p = 2)-> [verb_threw]</li>
+    <li>lempar-> [adverb_threw] [verb_threw]</li>
+    <li>verb_threw-> diluncurkan</li>
+    <li>verb_threw-> dia melempar</li>
+    <li>verb_threw-> lempar</li>
+    <li>adverb_threw-> dengan hati-hati</li>
+    <li>adverb_threw-> dengan cepat</li>
+    <li>adverb_threw-> sempurna</li>
+    <li>adverb_threw-> deliberadamente</li>
+    <li>adverb_threw (initiator_flesh! = mechanoid)-> cautelosamente</li>
+    <li>adverb_threw (initiator_flesh! = mechanoid)-> prudentemente</li>
+    <li>Adjective_threw-> Hati-hati</li>
+    <li>Adjective_threw-> con rapidez</li>
+    <li>adjective_threw-></li>
+    <li>Adjective_threw-> Tepatnya</li>
+    <li>Adjective_threw (initiator_flesh! = Mechanoid)-> Con Cautela</li>
+  </Combat_RangedFire_Thrown.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [proyektil] [terlewatkan].</li>
+    <li>r_logentry-> [initiator_definite] terlewatkan [asliTarget_Definite].</li>
+    <li>r_logentry-> [asliTarget_Definite] [penghindaran], [initiator_definite] [proyektil] [hilang].</li>
+    <li>terlewatkan (p = 4)-> terlewatkan</li>
+    <li>terjawab (p = 2)-> dilewatkan dengan margin kecil</li>
+    <li>terjawab (p = 2)-> dilewatkan dengan margin lebar</li>
+    <li>Rindu-> melebar</li>
+    <li>ketinggalan-> terbang ke udara</li>
+    <li>ketinggalan-> terbang tinggi ke udara</li>
+    <li>melewatkan-> menggali ke tanah</li>
+    <li>terlewatkan-> dilewati dari tanah dan tersesat</li>
+    <li>melewatkan-> menggali divot dari tanah</li>
+    <li>terlewatkan (p = 0.2)-> lulus dalam milimeter [asliTarget_Definite]</li>
+    <li>Lewatkan-> Lulus dalam sentimeter dari [asliTarget_Definite]</li>
+    <li>Lewat-> Lulus dalam satu meter dari [asliTarget_Definite]</li>
+    <li>Rona-> diterbangkan di luar jalur</li>
+    <li>hilang-> hilang</li>
+    <li>hilang-> hilang dengan margin kecil</li>
+    <li>hilang-> hilang dengan selisih lebar</li>
+    <li>hilang-> melebar</li>
+    <li>hilang-> terbang ke udara</li>
+    <li>hilang-> terbang tinggi ke udara</li>
+    <li>hilang-> menggali ke tanah</li>
+    <li>hilang-> melewatkan tanah dan menjadi tersesat</li>
+    <li>hilang-> menggali divot dari tanah</li>
+    <li>Hilang (p = 0,2)-> lewat dalam milimeter [asliTarget_Definite]</li>
+    <li>Hilang-> lewat dalam sentimeter dari [asliTarget_Definite]</li>
+    <li>Hilang-> lewat dalam satu meter dari [asliTarget_Definite]</li>
+    <li>Hilang-> Meniup Offcourse</li>
+    <li>penghindaran (originalTarget_mobile == true, p = 2)-> [dipindahkan] ke samping pada saat terakhir [momen]</li>
+    <li>penghindaran (originalTarget_mobile == true, p = 0.3)-> [ducked] di belakang [cover_definite]</li>
+    <li>Pindah-> Pindah</li>
+    <li>Pindah-> tersentak</li>
+    <li>Pindah-> tersentak</li>
+    <li>pindah-> merunduk</li>
+    <li>momen-> momen</li>
+    <li>momen-> kedua</li>
+    <li>momen-> instan</li>
+    <li>Diundang-> Diundang</li>
+    <li>Dundubed-> berjongkok</li>
+    <li>merunduk-> membungkuk</li>
+    <li>DEPPED-> HID</li>-><Combat_RangedMiss.rulePack.rulesStrings>
+    <li>r_logentry-> [projectiled] {ganti: de [initiator_definite];"> el"-"> del"} [terlewat].</li>
+    <li>r_logentry-> [initiator_definite] falló [penerima_nameal].</li>
+    <li>r_lotentry-> [asliTarget_Definite] [penghindaran], menyebabkan [proyektil] {ganti: [initiator_definite];">"-"> dari"} [hilang].</li>
+    <li>terjawab (p = 4) -> fallo</li>
+    <li>Terjawab (p = 2)-> dia gagal dengan margin kecil</li>
+    <li>Terjawab (p = 2)-> dia gagal dengan margin yang luas</li>
+    <li>Merindukan-> Dia pergi jauh</li>
+    <li>Lewatkan-> Terbang Tinggi Di Udara</li>
+    <li>Lewatkan-> Terbang ke Surga</li>
+    <li>Lewat-> dimakamkan di tanah</li>
+    <li>Ketinggalan-> bergegas ke tanah dan kalah</li>
+    <li>melewatkan-> lubang yang digali di tanah</li>
+    <li>Terlewatkan (p = 0.2)-> diteruskan ke kurang dari beberapa milimeter {ganti: dari [originalrget_definite];">"-"> dari"}</li>
+    <li>RESS-> diteruskan ke kurang dari beberapa sentimeter {ganti: dari [originalArget_Definite];">"-"> dari"}</li>
+    <li>RESS-> diteruskan ke kurang dari satu meter {ganti: dari [originalrget_definite];">"-"> dari"}</li>
+    <li>ketinggalan-> meninggalkan kursusnya</li>
+    <li>hilang-> fallara</li>
+    <li>Hilang-> akan gagal untuk margin kecil</li>
+    <li>Hilang-> akan gagal untuk margin yang lebar</li>
+    <li>Hilang-> dia pergi</li>
+    <li>Hilang-> akan terbang ke udara</li>
+    <li>Hilang-> akan terbang ke surga</li>
+    <li>Hilang-> akan mencari tahu di tanah</li>
+    <li>Hilang-> bergegas ke tanah dan hilang</li>
+    <li>Hilang-> cavara lubang di tanah</li>
+    <li>Hilang (p = 0,2)-> pasara di milimeter [asliTarget_Definite]</li>
+    <li>Hilang-> akan beralih ke kurang sentimeter dari [asliTarget_Definite]</li>
+    <li>Hilang-> akan melewati kurang dari satu meter [originalArget_Definite]</li>
+    <li>Hilang-> akan meninggalkan kursus</li>
+    <li>Penghindaran (originaltartget_mobile == true, p = 2)-> [dipindahkan] ke samping di [momen] terakhir]</li>
+    <li>penghindaran (originalTarget_mobile == true, p = 0.3)-> [ducked] detrás de [cover_definite]</li>
+    <li>Pindah-> Pindah</li>
+    <li>Pindah-> Pindah</li>
+    <li>Pindah-> bersandar</li>
+    <li>Pindah (p = 0,05)-> dia membungkuk</li>
+    <li>Momen-> momen</li>
+    <li>Momen-> kedua</li>
+    <li>momen-> instan</li>
+    <li>merunduk-> se agachó</li>
+    <li>Dianjap-> ditutupi</li>
+    <li>Merunduk-> ditempatkan</li>
+    <li>DEPPED-> HID</li>
+  </Combat_RangedMiss.rulePack.rulesStrings>
+  
+</LanguageData>

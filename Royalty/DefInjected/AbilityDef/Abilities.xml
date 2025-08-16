@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beckon -->
+  <Beckon.label>menarik</Beckon.label>
+  <!-- EN: Psychically command the target to approach the caster. -->
+  <Beckon.description>Secara psikis memerintahkan tujuan untuk mendekati pelempar denyut nadi psikis.</Beckon.description>
+  
+  <!-- EN: berserk -->
+  <Berserk.label>gila</Berserk.label>
+  <!-- EN: Induce an angry psychosis in the target's mind, causing them to attack anyone nearby. -->
+  <Berserk.description>Ini menginduksi psikosis kemarahan dalam pikiran tujuan, yang membuat mereka menyerang orang dekat.</Berserk.description>
+  
+  <!-- EN: berserk pulse -->
+  <BerserkPulse.label>denyut nadi gila</BerserkPulse.label>
+  <!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. -->
+  <BerserkPulse.description>Ini menghasilkan longsoran kemarahan yang luar biasa bagi semua orang yang dekat dengan titik target.</BerserkPulse.description>
+  
+  <!-- EN: blinding pulse -->
+  <BlindingPulse.label>denyut nadi buta</BlindingPulse.label>
+  <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. -->
+  <BlindingPulse.description>Ini menginduksi kebisingan di pusat -pusat visual otak, mengaburkan visi semua orang di dekat titik target.</BlindingPulse.description>
+  
+  <!-- EN: skipshield -->
+  <BulletShield.label>PSYCHO -Evidence</BulletShield.label>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
+  <BulletShield.description>Ini menghasilkan bidang bola yang mengirimkan semua proyektil yang melintasi ke permukaan tanah ke posisi yang jauh.Orang dan benda tidak terpengaruh.</BulletShield.description>
+  
+  <!-- EN: burden -->
+  <Burden.label>memuat</Burden.label>
+  <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
+  <Burden.description>Kecepatan target berkurang untuk jangka waktu yang singkat menekan aktivitas motorik di otak.</Burden.description>
+  
+  <!-- EN: chaos skip -->
+  <ChaosSkip.label>caoskinesis</ChaosSkip.label>
+  <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
+  <ChaosSkip.description>Teletransport ke target ke posisi acak di dekat tempat itu.</ChaosSkip.description>
+  
+  <!-- EN: chunk skip -->
+  <Chunkskip.label>psikokinesis</Chunkskip.label>
+  <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <Chunkskip.description>Teletransporta 5 potongan batu atau puing -puing untuk mendistribusikannya di dekat posisi objektif.Ini berfungsi untuk membuat cakupan selama operasi ofensif.</Chunkskip.description>
+  
+  <!-- EN: neural heat dump -->
+  <EntropyDump.label>neurodescarga</EntropyDump.label>
+  <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
+  <EntropyDump.description>Secara instan mengubah semua pemanasan saraf Anda di tempat lain.Sebagai efek samping, tujuan akan jatuh ke dalam koma yang akan melemahkannya tetapi tidak akan menyebabkan kerusakan permanen, selama sehari.Tujuan harus secara aktif menerima invasi psikis, sehingga hanya dapat diluncurkan pada sekutu sadar.</EntropyDump.description>
+  
+  <!-- EN: farskip -->
+  <Farskip.label>Transposisi Sekutu</Farskip.label>
+  <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <Farskip.description>Teletransporta kepada pengguna, bersama dengan siapa pun yang dekat dengannya, ke posisi sekutu di lokasi yang jauh.Ini dapat mengirim orang ke sisi lain planet ini, tetapi hanya berfungsi jika ada sekutu yang bersedia membuat navigasi suar ke sisi lain.Orang yang diteleportasi akan selalu muncul di dekat sekutu acak di lokasi target.</Farskip.description>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Badai Listrik</Flashstorm.label>
+  <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+  <Flashstorm.description>Gunakan tekanan rendah di atmosfer untuk menghasilkan badai yang terletak.Badai akan mencambuk area dengan petir untuk beberapa waktu sebelum menghilang.</Flashstorm.description>
+  
+  <!-- EN: focus -->
+  <Focus.label>konsentrasi</Focus.label>
+  <!-- EN: Psychically focus the target's mind, boosting their sight, hearing and moving capacities. -->
+  <Focus.description>Secara psikis berfokus pada pikiran tujuan, meningkatkan kapasitas visual, pendengaran dan gerakannya.</Focus.description>
+  
+  <!-- EN: invisibility -->
+  <Invisibility.label>tembus pandang</Invisibility.label>
+  <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
+  <Invisibility.description>Secara psikis memanipulasi pusat -pusat visual dari semua yang dekat, membuat mereka tidak dapat memandang seseorang secara khusus untuk waktu yang singkat.</Invisibility.description>
+  
+  <!-- EN: manhunter pulse -->
+  <ManhunterPulse.label>Puls Hunting Hombres</ManhunterPulse.label>
+  <!-- EN: Drive nearby animals into a manhunting rage using a psychic pulse. -->
+  <ManhunterPulse.description>Ini menyebabkan hewan yang dekat dengan kemarahan liburan menggunakan denyut nadi psikis.</ManhunterPulse.description>
+  
+  <!-- EN: mass chaos skip -->
+  <MassChaosSkip.label>Beberapa chaoskinesis</MassChaosSkip.label>
+  <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
+  <MassChaosSkip.description>Telerasport semua tentang titik objektif ke lokasi acak terdekat.</MassChaosSkip.description>
+  
+  <!-- EN: neuroquake -->
+  <Neuroquake.label>Neurosisme</Neuroquake.label>
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <Neuroquake.description>Dia menemukan diskontinuitas di bidang psikis dan "pembukaan", melepaskan energi psikis dalam jumlah besar.Setiap makhluk di peta di luar area aman di sekitar pembicara akan sangat gila.Berbicara, kemampuan ini membutuhkan 12 detik meditasi berkelanjutan, dan kemudian conjurator akan jatuh ke dalam koma psikis selama 5 hari.Gema yang mengganggu yang disebabkan oleh resonansi neurisme akan menimbulkan rasa sakit mental pada setiap kilometer, menyebabkan konsekuensi diplomatik dengan semua faksi.</Neuroquake.description>
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <Neuroquake.confirmationDialogText>Jika Anda memprovokasi neurisme, siapa pun di wilayah tersebut akan merasakan gema neurisme dan Anda akan kehilangan reputasi dengan faksi yang tidak hostil.Conjurator juga akan jatuh ke dalam koma psikis selama 5 hari.</Neuroquake.confirmationDialogText>
+  
+  <!-- EN: painblock -->
+  <Painblock.label>tanpa rasa sakit</Painblock.label>
+  <!-- EN: Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
+  <Painblock.description>Blokir jalur nyeri di otak target untuk waktu yang singkat.Ini dapat memungkinkan seseorang untuk bergerak dan bertindak bahkan dengan cedera serius yang biasanya melumpuhkannya.</Painblock.description>
+  
+  <!-- EN: skip -->
+  <Skip.label>teleportasi</Skip.label>
+  <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
+  <Skip.description>Teletransportes ke target posisi yang diinginkan tidak jauh dari titik awalnya.</Skip.description>
+  
+  <!-- EN: smokepop -->
+  <Smokepop.label>gumpalan asap</Smokepop.label>
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <Smokepop.description>Angkat partikel debu dari bawah permukaan tanah untuk membentuk awan tebal.Ini mengurangi keakuratan setiap bidikan yang dimaksudkan dan mencegah menara menunjuk dengan jelas.</Smokepop.description>
+  
+  <!-- EN: solar pinhole -->
+  <SolarPinhole.label>Mata surya</SolarPinhole.label>
+  <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+  <SolarPinhole.description>Ini menghasilkan mikro-portal yang terkait dengan nukleus bintang terdekat.Materi matahari melarikan diri melalui lubang ruang-waktu kecil ini, menerangi dan memanaskan ke daerah sekitarnya sampai "mata" ditutup.Cahaya ini cukup untuk bekerja, tetapi tidak cukup untuk menanam tanaman.</SolarPinhole.description>
+  
+  <!-- EN: throne speech -->
+  <Speech.label>Pidato Tahta</Speech.label>
+  <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
+  <Speech.description>Mulailah pidato dari takhta.Semua pemukim akan datang untuk mendengarkannya.Jika semuanya berjalan dengan baik, pendengar akan merasa terinspirasi, dan akan mendapatkan rasa hormat terhadap pelapor.Salah, wacana akan menimbulkan kerusakan sosial.Hasilnya tergantung pada keterampilan sosial pelapor.</Speech.description>
+  
+  <!-- EN: stun -->
+  <Stun.label>setrum</Stun.label>
+  <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
+  <Stun.description>Sesaat mengganggu fungsi motorik di otak target, menghindari gerakan apa pun.</Stun.description>
+  
+  <!-- EN: vertigo pulse -->
+  <VertigoPulse.label>denyut nadi vertigo</VertigoPulse.label>
+  <!-- EN: Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance. Flesh creatures will become extremely nauseous as well. -->
+  <VertigoPulse.description>Mengganggu rasa orientasi spasial dari semua titik target, menyebabkan hilangnya keseimbangan yang terputus -putus.Makhluk daging juga akan menjadi sangat mual.</VertigoPulse.description>
+  
+  <!-- EN: wallraise -->
+  <Wallraise.label>Psikomida</Wallraise.label>
+  <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
+  <Wallraise.description>Ini membentuk dinding sementara yang menaikkan puing -puing dan mengangkat bumi dari kedalaman tanah.</Wallraise.description>
+  
+  <!-- EN: waterskip -->
+  <Waterskip.label>acuakinesis</Waterskip.label>
+  <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
+  <Waterskip.description>Semprotkan area target dengan air, memadamkan api.Air dipisahkan pada tingkat arkeoteknologi dari badan air atau akuifer bawah tanah lainnya.</Waterskip.description>
+  
+  <!-- EN: word of inspiration -->
+  <WordOfInspiration.label>kata -kata inspirasi</WordOfInspiration.label>
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+  <WordOfInspiration.description>Memicu kreativitas secara verbal sementara secara psikis membebani pikiran tujuan dengan ide -ide baru.Tujuannya akan mengalami inspirasi acak yang tepat.</WordOfInspiration.description>
+  
+  <!-- EN: word of joy -->
+  <WordOfJoy.label>kata -kata sukacita</WordOfJoy.label>
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <WordOfJoy.description>Anda mendorong seseorang dengan kata -kata yang meyakinkan dan nada bahagia, sementara Anda menggunakan saran psikis untuk menerapkan lingkaran kebahagiaan dalam pikiran mereka.Loop ini akan menekan pikiran dan sensasi negatif dalam tujuan dan meningkatkan suasana hatinya.Ini memiliki efek samping mengurangi indera dan pengambilan keputusan, yang mengurangi kesadaran.</WordOfJoy.description>
+  
+  <!-- EN: word of love -->
+  <WordOfLove.label>Kata -kata cinta</WordOfLove.label>
+  <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
+  <WordOfLove.description>Anda berbicara tentang kebajikan seseorang saat menggunakan saran psikis untuk mendorong ketertarikan romantis di penerima.Untuk hari -hari berikutnya, penerima akan merasakan ketertarikan romantis yang diinduksi secara fisik terhadap orang lain.Ini sangat meningkatkan pendapat tentang yang lain dan membuat mereka lebih mungkin untuk mencoba maju dalam hubungan mereka atau mengusulkan pernikahan jika kesempatan diberikan.Kekuatan ini dapat digunakan untuk terhubung ke dua orang lain, mendorong cinta kepada pengguna, atau memaksa diri untuk mencintai orang lain.</WordOfLove.description>
+  
+  <!-- EN: word of serenity -->
+  <WordOfSerenity.label>Kata -kata ketenangan</WordOfSerenity.label>
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+  <WordOfSerenity.description>Gunakan kata -kata santai dan saran psikis untuk mengakhiri keruntuhan mental seseorang.Tujuannya akan jatuh ke dalam mimpi psikis yang singkat.Biaya kekuatan mental ini tergantung pada keparahan keruntuhan mental tujuan.</WordOfSerenity.description>
+  
+  <!-- EN: word of trust -->
+  <WordOfTrust.label>kata -kata kepercayaan</WordOfTrust.label>
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
+  <WordOfTrust.description>Anda berbicara dengan tahanan saat Anda menggunakan saran psikis untuk mengurangi perlawanan terhadap persimpangan.Ini hanya dapat mengurangi perlawanan tahanan, tetapi tidak dapat merekrutnya.</WordOfTrust.description>
+  
+</LanguageData>

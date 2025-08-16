@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Royalty -->
+  <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
+  <RequestChangeRoyalHeir>Ubah ahli waris dengan judul {title}, dimiliki oleh {holder_labelshort}, {heir_labelshort}</RequestChangeRoyalHeir>
+  <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
+  <RequestSetRoyalHeir>Tunjuk pewaris judul {title}, dimiliki oleh {holder_labelshort}</RequestSetRoyalHeir>
+  <!-- EN: already in progress for {PAWN_labelShort} -->
+  <RequestChangeRoyalHeirAlreadyInProgress>terfokus {doaShitshot}</RequestChangeRoyalHeirAlreadyInProgress>
+  
+</LanguageData>

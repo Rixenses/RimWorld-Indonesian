@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>VID MIFFOCATING</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatly slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>MONTONE OF VININE dengan liana dan duri yang digulung dalam massa besar di sepanjang tanah.Vine yang mencekik sangat memperlambat siapa pun yang bergerak untuk itu.Banyak suku bercerita tentang tanaman merambat yang mencekik mencekik anak -anak di malam hari, untuk membuat mereka kembali ke rumah sebelum menjadi gelap.</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>pohon cemara</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>Pohon konifer tinggi yang biasanya ditemukan di rawa.Meskipun pertumbuhannya lambat, penanaman pohon -pohon ini dapat menguntungkan karena mereka menghasilkan banyak kayu yang dapat digunakan.</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>Pohon arce</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>Pohon umum, ukuran sedang, mudah diidentifikasi dengan karakteristik lembar tiga yang ditunjuk.</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>Pohon saus</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>Salah satu pohon bayangan yang tumbuh paling cepat, yang menyediakan kanopi yang indah, tebal dan berdaun.Itu tidak menghasilkan banyak kayu yang dapat digunakan.</Plant_TreeWillow.description>
+  
+</LanguageData>

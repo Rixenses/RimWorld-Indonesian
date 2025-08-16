@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: glucosoid rush -->
+  <GlucosoidRush.label>Pendakian glukosoid</GlucosoidRush.label>
+  <!-- EN: Move speed is increased because this person used a glucosoid pump while deathresting. This effect lasts until the next deathrest. -->
+  <GlucosoidRush.description>Kecepatan gerakan meningkat karena orang ini telah menggunakan pompa glukosa sambil mematikan.Efek ini berlangsung hingga yang berikutnya mematikan.</GlucosoidRush.description>
+  <!-- EN: Lasts until the next deathrest. -->
+  <GlucosoidRush.extraTooltip>Itu berlangsung sampai yang berikutnya mematikan.</GlucosoidRush.extraTooltip>
+  
+  <!-- EN: hemogen amplified -->
+  <HemogenAmplified.label>Hemogen yang diamplifikasi</HemogenAmplified.label>
+  <!-- EN: All hemogen gains are multiplied up because this person used a hemogen amplifier while deathresting. This effect lasts until the next deathrest. -->
+  <HemogenAmplified.description>Semua perolehan hemogen berlipat ganda karena orang ini menggunakan amplifier hemogenik sambil mematikan.Efek ini berlangsung hingga yang berikutnya mematikan.</HemogenAmplified.description>
+  <!-- EN: Lasts until the next deathrest. -->
+  <HemogenAmplified.extraTooltip>Itu berlangsung sampai yang berikutnya mematikan.</HemogenAmplified.extraTooltip>
+  
+  <!-- EN: psychofluid rush -->
+  <PsychofluidRush.label>Psikofluido memanjat</PsychofluidRush.label>
+  <!-- EN: Psychic sensitivity is enhanced because this person used a psychofluid pump while deathresting. This effect lasts until the next deathrest. -->
+  <PsychofluidRush.description>Sensitivitas psikis ditambah karena orang ini menggunakan pompa psikofluid sambil mematikan.Efek ini berlangsung hingga yang berikutnya mematikan.</PsychofluidRush.description>
+  <!-- EN: Lasts until the next deathrest. -->
+  <PsychofluidRush.extraTooltip>Itu berlangsung sampai yang berikutnya mematikan.</PsychofluidRush.extraTooltip>
+  
+</LanguageData>

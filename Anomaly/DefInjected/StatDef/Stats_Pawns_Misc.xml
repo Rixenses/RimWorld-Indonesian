@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: activity suppression speed -->
+  <ActivitySuppressionRate.label>vel.penindasan aktivitas</ActivitySuppressionRate.label>
+  <!-- EN: The speed at which this person can suppress unnatural entities. A higher speed means they take less time to suppress each entity. -->
+  <ActivitySuppressionRate.description>Kecepatan di mana orang ini dapat menekan entitas antinatural.Kecepatan yang lebih tinggi berarti bahwa mereka membutuhkan lebih sedikit untuk menekan setiap entitas.</ActivitySuppressionRate.description>
+  <!-- EN: {0} per hour -->
+  <ActivitySuppressionRate.formatString>{0} per jam</ActivitySuppressionRate.formatString>
+  
+  <!-- EN: entity study rate -->
+  <EntityStudyRate.label>Tingkat studi entitas</EntityStudyRate.label>
+  <!-- EN: The rate at which this person generates knowledge from studying unnatural entities. -->
+  <EntityStudyRate.description>Ritme yang membuat orang ini menghasilkan pengetahuan dari studi entitas antinatural.</EntityStudyRate.description>
+  
+  <!-- EN: study efficiency -->
+  <StudyEfficiency.label>Efisiensi studi</StudyEfficiency.label>
+  <!-- EN: A multiplier on how much knowledge a person gets when studying unnatural entities. -->
+  <StudyEfficiency.description>Pengganda jumlah pengetahuan yang diperoleh seseorang ketika mempelajari entitas antinatural.</StudyEfficiency.description>
+  
+</LanguageData>

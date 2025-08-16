@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Anomaly -->
+  <TheAnomaly.label>Anomali</TheAnomaly.label>
+  <!-- EN: Your research expedition has finally arrived at the source of the anomalous signal: an ancient archotech monolith on a distant planet. As you survey the structure from orbit, the scanner's audio feed forms garbled syllables which repeat your own name over and over. Your crewmate screams as her flesh begins flowing and reforming. A blinding beam of energy reaches up from the planet and tears your research vessel apart. You have disturbed something ancient and inhuman.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheAnomaly.description>Ekspedisi penelitian Anda akhirnya mencapai sumber sinyal abnormal: Monolith Archeoteca lama di planet yang jauh.Saat Anda memeriksa struktur dari orbit, sinyal audio pemindai memancarkan suku kata membingungkan yang mengulangi nama Anda berulang kali.Bagian kru Anda berteriak saat daging Anda mulai tumpah dan mereformasi.Sinar energi yang menyilaukan muncul dari planet ini dan merobek kapal riset Anda.Anda telah mengganggu sesuatu yang kuno dan tidak manusiawi. \ N \ nnota: Ini adalah skenario yang sulit.Tidak disarankan untuk pemain tanpa timbal.</TheAnomaly.description>
+  <!-- EN: Your research expedition has finally arrived at the source of the anomalous signal: an ancient archotech monolith on a distant planet. As you survey the structure from orbit, the scanner's audio feed forms garbled syllables which repeat your own name over and over. Your crewmate screams as her flesh begins flowing and reforming. A blinding beam of energy reaches up from the planet and tears your research vessel apart. You have disturbed something ancient and inhuman.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheAnomaly.scenario.description>Ekspedisi penelitian Anda akhirnya mencapai sumber sinyal abnormal: Monolith Archeoteca lama di planet yang jauh.Saat Anda memeriksa struktur dari orbit, sinyal audio pemindai memancarkan suku kata membingungkan yang mengulangi nama Anda berulang kali.Bagian kru Anda berteriak saat daging Anda mulai tumpah dan mereformasi.Sinar energi yang menyilaukan muncul dari planet ini dan merobek kapal riset Anda.Anda telah mengganggu sesuatu yang kuno dan tidak manusiawi. \ N \ nnota: Ini adalah skenario yang sulit.Tidak disarankan untuk pemain tanpa timbal.</TheAnomaly.scenario.description>
+  <!-- EN: The Anomaly -->
+  <TheAnomaly.scenario.name>Anomali</TheAnomaly.scenario.name>
+  <!-- EN: The ancient monolith unleashed an energy pulse that tore your research vessel apart and mutated your crew. Only a few of you made it to the escape pods.\n\nDespite the setback, your mission is far from over. If you can learn more about the monolith, perhaps you can find a way to shut it down - or harness its inhuman power. -->
+  <TheAnomaly.scenario.parts.GameStartDialog.text>Monolith lama melepaskan pulsa energi yang menghancurkan kapal riset Anda dan bermutasi kru Anda.Hanya sedikit dari Anda yang dapat mencapai kapsul buang.Jika Anda dapat mengetahui lebih banyak hal tentang monolit, Anda mungkin menemukan cara untuk mematikannya atau memanfaatkan kekuatan tidak manusiawi Anda.</TheAnomaly.scenario.parts.GameStartDialog.text>
+  <!-- EN: Start with one ghoul and three colonists. -->
+  <TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>Anda mulai dengan nekrofag dan tiga pemukim.</TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>
+  <!-- EN: Three researchers and a ghoul investigate an ancient monolith. -->
+  <TheAnomaly.scenario.summary>Tiga peneliti dan nekrofag menyelidiki monolit tua.</TheAnomaly.scenario.summary>
+  
+</LanguageData>

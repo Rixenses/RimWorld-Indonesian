@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Need slave beds -->
+  <NeedSlaveBeds>Anda membutuhkan tempat tidur untuk budak</NeedSlaveBeds>
+  <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedSlaveBedsDesc>Anda memiliki lebih banyak budak daripada tempat tidur untuk mereka.Seseorang akan kekurangan tempat tidur.</NeedSlaveBedsDesc>
+
+  <!-- EN: Slave unsuppressed -->
+  <SlavesUnsuppressedLabel>Budak Unpriment</SlavesUnsuppressedLabel>
+  <!-- EN: {0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling. -->
+  <SlavesUnsuppressedDesc>Tingkat represi {0_namedef} sangat rendah.Ada banyak kemungkinan untuk memberontak.Para penjaga akan menekan budak secara berkala untuk menghindari pemberontakan.</SlavesUnsuppressedDesc>
+  <!-- EN: Slave unattended -->
+  <SlaveUnattendedLabel>Budak tanpa pengawasan</SlaveUnattendedLabel>
+  <!-- EN: Slaves unattended -->
+  <SlaveUnattendedMultipleLabel>Budak yang tidak dijaga</SlaveUnattendedMultipleLabel>
+  <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
+  <SlavesUnattendedDesc>Beberapa budak sendirian di peta tanpa penjaga mereka.</SlavesUnattendedDesc>
+
+  <!-- EN: {0} opportunity -->
+  <RitualOpportunity>Peluang: {0}</RitualOpportunity>
+  <!-- EN: {0} opportunity for {1} -->
+  <RitualOpportunityFor>Peluang: {0} untuk {1}</RitualOpportunityFor>
+  <!-- EN: Expires in {0}, on {1}. -->
+  <RitualExpiresIn>Ini kedaluwarsa di {0}, {1}.</RitualExpiresIn>
+  <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
+  <RitualSingleTargetDesc>Untuk memulai ritual, pilih {focus_indefinite}.Kemudian, klik perintah "Mulai {Ritual_Label}".</RitualSingleTargetDesc>
+  <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
+  <RitualMultiTargetDesc>Untuk memulai ritual, pilih salah satu opsi berikut dan klik perintah "Mulai {Ritual_Label}".</RitualMultiTargetDesc>
+  <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
+  <RitualTargetsExplanation>Untuk memulai ritual, pilih objek pendekatan dan klik pada perintah "start {ritual_label}" yang berikut ini adalah objek pendekatan yang valid: \ n {1}</RitualTargetsExplanation>
+  <!-- EN: Click to jump to targets -->
+  <RitualJumpToTargets>Klik untuk pergi ke tujuan</RitualJumpToTargets>
+  <!-- EN: In order to perform {0} you need to fill these roles -->
+  <RitualUnfilledRoles>Untuk melakukan {0} perlu untuk menempati peran ini</RitualUnfilledRoles>
+
+  <!-- EN: {0} desired -->
+  <IdeoBuildingMissing>{0} diinginkan</IdeoBuildingMissing>
+  <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingMissingDesc>{IDEO_NAME} mengharuskan Anda memiliki {0} di koloni Anda selama {2} atau superior. \ N \ n {0} adalah varian dari {baseebuilding_label}.{BuildingInfo} \ n \ Neste Persyaratan hanya aktif jika {ideo_name} adalah ideolisasi utama dari faksi Anda, atau jika ada {minbelievers} percaya dalam faksi Anda. {4} \ n \ nsi Persyaratan tidak terpenuhi, orang -orang percaya ini tidak akan bahagia: \ n {3}</IdeoBuildingMissingDesc>
+  <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
+  <IdeoBuildingArchitectTabDesc>Anda dapat menemukan bangunan dengan membuka tab "{TabName}" dari menu Arsitek.</IdeoBuildingArchitectTabDesc>
+  <!-- EN:  It can be created at:\n{0}. -->
+  <IdeoBuildingCanBeCraftedAt>Itu dapat dibuat di: \ n {0}.</IdeoBuildingCanBeCraftedAt>
+  <!-- EN: In order to dignify {0}, these room requirements must be met -->
+  <IdeoBuildingRoomRequirementsDesc>{0} perlu bermartabat, persyaratan ruangan ini harus dipenuhi</IdeoBuildingRoomRequirementsDesc>
+  <!-- EN: expectations are -->
+  <IdeoBuildingExpectations>Harapannya adalah</IdeoBuildingExpectations>
+
+  <!-- EN: {0} disrespected -->
+  <IdeoBuildingDisrespected>{0} no respetado</IdeoBuildingDisrespected>
+  <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingDisrespectedDesc>{0} mensyaratkan bahwa {1} berada di kamar yang bermartabat.Persyaratan kamar ini harus dipenuhi: \ n {2} \ n \ nsi Persyaratan kamar {1} tidak terpenuhi, orang -orang percaya ini tidak akan bahagia: \ n {3}</IdeoBuildingDisrespectedDesc>
+  
+  <!-- EN: Raids arriving in {0} -->
+  <QuestPartRaidsDelay>Serbuan tiba di {0}</QuestPartRaidsDelay>
+  <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
+  <QuestPartRaidsDelayDesc>Pemberitaan akan mulai tiba di {0}. Penyerang \ n \ nlos akan menunjuk ke drone luar angkasa dan mencoba menghancurkannya.Lindungi drone ruang sehingga pemukim Anda dapat meretas komputer Anda dan memulihkan data.</QuestPartRaidsDelayDesc>
+
+  <!-- EN: {0} role unfilled -->
+  <IdeoRoleEmpty>Peran kosong: {0}</IdeoRoleEmpty>
+  <!-- EN: {0} roles unfilled -->
+  <IdeoRolesEmpty>Lowongan: {0}</IdeoRolesEmpty>
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
+  <IdeoRolesEmptyDesc>Peran ini adalah lowongan: \ n {0} \ n \ npuedes menetapkan peran kepada seseorang di tab sosial mereka.Anda juga dapat memilih tempat ritual atau altar dan klik "Mulai Perubahan Peran".</IdeoRolesEmptyDesc>
+
+  <!-- EN: Security threats activated in {0} -->
+  <AncientAltarThreatsWaking>Ancaman keamanan diaktifkan dalam {0}</AncientAltarThreatsWaking>
+  <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
+  <AncientAltarThreatsWakingDesc>Ancaman keamanan akan diaktifkan di {0}.Mereka akan menyerang siapa pun yang dapat mengancam peninggalan.</AncientAltarThreatsWakingDesc>
+
+  <!-- EN: Ritual opportunity soon -->
+  <AlertRitualComing>Peluang ritual segera</AlertRitualComing>
+  <!-- EN: A ritual opportunity is coming soon for following rituals -->
+  <AlertRitualComingDesc>Segera akan ada kesempatan untuk melakukan ritual berikut</AlertRitualComingDesc>
+  <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
+  <AlertRitualComingExtra>Peluang berakhir setelah {0} hari, dan ulangi hari yang sama setiap tahun.</AlertRitualComingExtra>
+  <!-- EN: {0} on {1}, {2} before opportunity arises -->
+  <AlertRitualComingEntry>{0} di {1}, {2} sebelum kesempatan muncul</AlertRitualComingEntry>
+
+  <!-- EN: Age reversal demanded -->
+  <AlertAgeReversalDemandNear>Pembalikan usia yang diperlukan</AlertAgeReversalDemandNear>
+  <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
+  <AlertAgeReversalDemandDesc>Karena keyakinan mereka, beberapa pemukim Anda menuntut perawatan pembalikan usia reguler dalam kapsul bio -skulptur.Jika mereka tidak menerima perawatan, mereka akan jijik.</AlertAgeReversalDemandDesc>
+  <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Recruit>{Pawn} bergabung {facion} baru -baru ini, dan ingin memulai perawatan pengembalian usia dalam {durasi}.</AlertAgeReversalDemandDesc_Recruit>
+  <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Next>{Pawn} menginginkan perawatan Anda berikutnya dalam {durasi}.</AlertAgeReversalDemandDesc_Next>
+  <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Initial>{Pawn} menginginkan perawatan pertamanya dalam {durasi}.</AlertAgeReversalDemandDesc_Initial>
+  <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
+  <AlertAgeReversalDemandDesc_Overdue>Perlakuan {pawn} tertunda {durasi}.</AlertAgeReversalDemandDesc_Overdue>
+
+  <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Keyakinan {pawn_namedef} di {ideo_name} mencegah Anda makan daging {hewan}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <!-- EN: Dryad caste not set -->
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Kasta kering tidak diperbaiki</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Satu atau lebih pohon Gauranlen tidak memiliki dríadas yang mapan.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <!-- EN: Connector not assigned to plant cutting -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Konektor tidak ditugaskan untuk memotong tanaman</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Anda memiliki pohon Gauranlen yang dijadwalkan dipangkas, tetapi konektor mereka tidak ditugaskan untuk memangkas.</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <!-- EN: Fuel node explodes in {0} -->
+  <AlertFuelNodeIgniting>Node bahan bakar akan meledak di {0}</AlertFuelNodeIgniting>
+  <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
+  <AlertFuelNodeIgnitingDesc>Node bahan bakar terbakar!Ini akan meleleh dan meledak segera. \ N \ naléje dan bersiaplah untuk memerangi atau melarikan diri dari api.</AlertFuelNodeIgnitingDesc>
+
+  <!-- EN: Insects arriving in {0} -->
+  <AlertInfestationArriving>Insektoid tiba di {0}</AlertInfestationArriving>
+  <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
+  <AlertInfestationArrivingDesc>Insektoid raksasa telah mendeteksi aktivitas Anda dan meninggalkan lapisan tanah untuk menyerang.Infestasi akan dimulai.</AlertInfestationArrivingDesc>
+
+  <!-- EN: {0_pawnsPlural} waking in {1} -->
+  <AlertHostilesWakingUp>{0_pawnsplural} bangun di {1}</AlertHostilesWakingUp>
+  <!-- EN: One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you. -->
+  <AlertHostilesWakingUpDesc>Satu atau lebih {0_pawnsplural} bangun. \ N \ nte akan menyerang jika mereka menemukan Anda.</AlertHostilesWakingUpDesc>
+
+  <!-- EN: Cryptosleep caskets opening in {0} -->
+  <AlertCasketOpening>Cryptosueño Sarcophagi membuka di {0}</AlertCasketOpening>
+  <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
+  <AlertCasketOpeningDesc>Beberapa cryptosueño Sarcophagi akan dibuka dengan ancaman yang tidak diketahui.</AlertCasketOpeningDesc>
+
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>Kemungkinan pemberontakan budak</AlertSlaveRebellionLikely>
+  <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
+  <AlertSlaveRebellionLikelyRebelliousCount>Ada {rebelliouscount} budak cenderung memulai pemberontakan.</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>Pemberontakan budak diharapkan terjadi kira -kira sekali masing -masing {gabungan waktu}.Perlu diingat bahwa probabilitas pemberontakan masing -masing budak independen, jadi jika salah satu dari mereka pemberontak, itu dapat membawa orang lain bersamanya.Faktor -faktor berikut mempengaruhi frekuensi mereka memberontak:</AlertSlaveRebellionLikelyMostRebellious>
+  
+</LanguageData>

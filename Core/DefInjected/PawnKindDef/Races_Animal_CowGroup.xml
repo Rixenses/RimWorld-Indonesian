@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>banteng</Bison.label>
+  <!-- EN: bison -->
+  <Bison.labelPlural>banteng</Bison.labelPlural>
+  <!-- EN: bison calf -->
+  <Bison.lifeStages.bison_calf.label>betis bison</Bison.lifeStages.bison_calf.label>
+  <Bison.lifeStages.bison_calf.labelFemale>bison sapi</Bison.lifeStages.bison_calf.labelFemale>
+  <Bison.lifeStages.bison_calf.labelFemalePlural>betis bison</Bison.lifeStages.bison_calf.labelFemalePlural>
+  <Bison.lifeStages.bison_calf.labelMale>betis bison</Bison.lifeStages.bison_calf.labelMale>
+  <Bison.lifeStages.bison_calf.labelMalePlural>betis bison</Bison.lifeStages.bison_calf.labelMalePlural>
+  <!-- EN: bison calves -->
+  <Bison.lifeStages.bison_calf.labelPlural>betis bison</Bison.lifeStages.bison_calf.labelPlural>
+  <Bison.lifeStages.1.label>Steer bison</Bison.lifeStages.1.label>
+  <Bison.lifeStages.1.labelFemale>Bisonte Novilla</Bison.lifeStages.1.labelFemale>
+  <Bison.lifeStages.1.labelFemalePlural>Sapi jantan bison</Bison.lifeStages.1.labelFemalePlural>
+  <Bison.lifeStages.1.labelMale>Steer bison</Bison.lifeStages.1.labelMale>
+  <Bison.lifeStages.1.labelMalePlural>Steer bison</Bison.lifeStages.1.labelMalePlural>
+  <Bison.lifeStages.1.labelPlural>Steer bison</Bison.lifeStages.1.labelPlural>
+  <Bison.lifeStages.2.label>banteng</Bison.lifeStages.2.label>
+  <Bison.lifeStages.2.labelPlural>banteng</Bison.lifeStages.2.labelPlural>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>Bumalope</Boomalope.label>
+  <Boomalope.labelPlural>Bumalop</Boomalope.labelPlural>
+  <!-- EN: boomalope calf -->
+  <Boomalope.lifeStages.boomalope_calf.label>Pemuliaan bumalope</Boomalope.lifeStages.boomalope_calf.label>
+  <!-- EN: boomalope calves -->
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>Keturunan Bumalope</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.lifeStages.1.label>Bumalope Joven</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.1.labelPlural>Bumalope Young</Boomalope.lifeStages.1.labelPlural>
+  <Boomalope.lifeStages.2.label>Bumalope</Boomalope.lifeStages.2.label>
+  <Boomalope.lifeStages.2.labelPlural>Bumalop</Boomalope.lifeStages.2.labelPlural>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>karibu</Caribou.label>
+  <!-- EN: caribou -->
+  <Caribou.labelPlural>Karibun</Caribou.labelPlural>
+  <!-- EN: caribou calf -->
+  <Caribou.lifeStages.caribou_calf.label>BREEDING KARIBU</Caribou.lifeStages.caribou_calf.label>
+  <!-- EN: caribou calves -->
+  <Caribou.lifeStages.caribou_calf.labelPlural>Keturunan Caribú</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.lifeStages.1.label>Karibu muda</Caribou.lifeStages.1.label>
+  <Caribou.lifeStages.1.labelPlural>Karibu muda</Caribou.lifeStages.1.labelPlural>
+  <Caribou.lifeStages.2.label>karibu</Caribou.lifeStages.2.label>
+  <Caribou.lifeStages.2.labelPlural>Karibun</Caribou.lifeStages.2.labelPlural>
+  
+  <!-- EN: cow -->
+  <Cow.label>vaca</Cow.label>
+  <Cow.labelFemale>vaca</Cow.labelFemale>
+  <Cow.labelFemalePlural>sapi</Cow.labelFemalePlural>
+  <!-- EN: bull -->
+  <Cow.labelMale>mengunjungi</Cow.labelMale>
+  <Cow.labelMalePlural>Toros</Cow.labelMalePlural>
+  <Cow.labelPlural>sapi</Cow.labelPlural>
+  <!-- EN: calf -->
+  <Cow.lifeStages.calf.label>anak sapi</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.labelFemale>daging sapi muda</Cow.lifeStages.calf.labelFemale>
+  <Cow.lifeStages.calf.labelFemalePlural>Terneras</Cow.lifeStages.calf.labelFemalePlural>
+  <Cow.lifeStages.calf.labelMale>anak sapi</Cow.lifeStages.calf.labelMale>
+  <Cow.lifeStages.calf.labelMalePlural>anak sapi</Cow.lifeStages.calf.labelMalePlural>
+  <!-- EN: calves -->
+  <Cow.lifeStages.calf.labelPlural>anak sapi</Cow.lifeStages.calf.labelPlural>
+  <Cow.lifeStages.1.label>steer</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelFemale>Heifer</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.1.labelFemalePlural>Helles</Cow.lifeStages.1.labelFemalePlural>
+  <Cow.lifeStages.1.labelMale>steer</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelMalePlural>sapi jantan</Cow.lifeStages.1.labelMalePlural>
+  <Cow.lifeStages.1.labelPlural>sapi jantan</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.2.label>vaca</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelFemale>vaca</Cow.lifeStages.2.labelFemale>
+  <Cow.lifeStages.2.labelFemalePlural>sapi</Cow.lifeStages.2.labelFemalePlural>
+  <Cow.lifeStages.2.labelMale>mengunjungi</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelMalePlural>Toros</Cow.lifeStages.2.labelMalePlural>
+  <Cow.lifeStages.2.labelPlural>sapi</Cow.lifeStages.2.labelPlural>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>PANTAT</Donkey.label>
+  <Donkey.labelFemale>Asa</Donkey.labelFemale>
+  <Donkey.labelFemalePlural>Asnas</Donkey.labelFemalePlural>
+  <Donkey.labelMale>PANTAT</Donkey.labelMale>
+  <Donkey.labelMalePlural>keledai</Donkey.labelMalePlural>
+  <Donkey.labelPlural>keledai</Donkey.labelPlural>
+  <!-- EN: donkey foal -->
+  <Donkey.lifeStages.donkey_foal.label>Asno foal</Donkey.lifeStages.donkey_foal.label>
+  <Donkey.lifeStages.donkey_foal.labelFemale>Asno Potrilla</Donkey.lifeStages.donkey_foal.labelFemale>
+  <Donkey.lifeStages.donkey_foal.labelFemalePlural>Asno foals</Donkey.lifeStages.donkey_foal.labelFemalePlural>
+  <Donkey.lifeStages.donkey_foal.labelMale>Asno foal</Donkey.lifeStages.donkey_foal.labelMale>
+  <Donkey.lifeStages.donkey_foal.labelMalePlural>Asno foals</Donkey.lifeStages.donkey_foal.labelMalePlural>
+  <Donkey.lifeStages.donkey_foal.labelPlural>Asno foals</Donkey.lifeStages.donkey_foal.labelPlural>
+  <Donkey.lifeStages.1.label>Pantat muda</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelFemale>Pantat muda</Donkey.lifeStages.1.labelFemale>
+  <Donkey.lifeStages.1.labelFemalePlural>Asas muda</Donkey.lifeStages.1.labelFemalePlural>
+  <Donkey.lifeStages.1.labelMale>Pantat muda</Donkey.lifeStages.1.labelMale>
+  <Donkey.lifeStages.1.labelMalePlural>Keledai muda</Donkey.lifeStages.1.labelMalePlural>
+  <Donkey.lifeStages.1.labelPlural>Keledai muda</Donkey.lifeStages.1.labelPlural>
+  <Donkey.lifeStages.2.label>PANTAT</Donkey.lifeStages.2.label>
+  <Donkey.lifeStages.2.labelFemale>Asa</Donkey.lifeStages.2.labelFemale>
+  <Donkey.lifeStages.2.labelFemalePlural>Asnas</Donkey.lifeStages.2.labelFemalePlural>
+  <Donkey.lifeStages.2.labelMale>PANTAT</Donkey.lifeStages.2.labelMale>
+  <Donkey.lifeStages.2.labelMalePlural>keledai</Donkey.lifeStages.2.labelMalePlural>
+  <Donkey.lifeStages.2.labelPlural>keledai</Donkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedaris</Dromedary.label>
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>dromedarios</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>Payudara dromedaris</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>Lempung dromedaris</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.1.label>Dromario Joven</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.1.labelPlural>Dromedari muda</Dromedary.lifeStages.1.labelPlural>
+  <Dromedary.lifeStages.2.label>dromedaris</Dromedary.lifeStages.2.label>
+  <Dromedary.lifeStages.2.labelPlural>dromedarios</Dromedary.lifeStages.2.labelPlural>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>gajah</Elephant.label>
+  <Elephant.labelPlural>Gajah</Elephant.labelPlural>
+  <!-- EN: elephant calf -->
+  <Elephant.lifeStages.elephant_calf.label>BREEPHANT BREEDING</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.elephant_calf.labelPlural>Keturunan gajah</Elephant.lifeStages.elephant_calf.labelPlural>
+  <Elephant.lifeStages.1.label>Gajah muda</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.1.labelPlural>Gajah muda</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.2.label>gajah</Elephant.lifeStages.2.label>
+  <Elephant.lifeStages.2.labelPlural>Gajah</Elephant.lifeStages.2.labelPlural>
+  
+  <!-- EN: elk -->
+  <Elk.label>Uapiti</Elk.label>
+  <!-- EN: elk -->
+  <Elk.labelPlural>Uapitis</Elk.labelPlural>
+  <!-- EN: elk calf -->
+  <Elk.lifeStages.elk_calf.label>Pemuliaan uapití</Elk.lifeStages.elk_calf.label>
+  <!-- EN: elk calves -->
+  <Elk.lifeStages.elk_calf.labelPlural>Uapití bermain</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.lifeStages.1.label>Uapití muda</Elk.lifeStages.1.label>
+  <Elk.lifeStages.1.labelPlural>Upitis Young</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.2.label>Uapiti</Elk.lifeStages.2.label>
+  <Elk.lifeStages.2.labelPlural>Uapitis</Elk.lifeStages.2.labelPlural>
+  
+  <!-- EN: goat -->
+  <Goat.label>kambing</Goat.label>
+  <!-- EN: goat doe -->
+  <Goat.labelFemale>kambing</Goat.labelFemale>
+  <Goat.labelFemalePlural>Kambing</Goat.labelFemalePlural>
+  <Goat.labelMale>anak</Goat.labelMale>
+  <Goat.labelMalePlural>Kambing</Goat.labelMalePlural>
+  <Goat.labelPlural>Kambing</Goat.labelPlural>
+  <!-- EN: baby goat -->
+  <Goat.lifeStages.baby_goat.label>pembiakan kambing</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.baby_goat.labelPlural>keturunan kambing</Goat.lifeStages.baby_goat.labelPlural>
+  <Goat.lifeStages.1.label>Kambing Muda</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelFemale>Kambing Muda</Goat.lifeStages.1.labelFemale>
+  <Goat.lifeStages.1.labelFemalePlural>Kambing Muda</Goat.lifeStages.1.labelFemalePlural>
+  <Goat.lifeStages.1.labelMale>Anak muda</Goat.lifeStages.1.labelMale>
+  <Goat.lifeStages.1.labelMalePlural>Anak -anak muda</Goat.lifeStages.1.labelMalePlural>
+  <Goat.lifeStages.1.labelPlural>Kambing Muda</Goat.lifeStages.1.labelPlural>
+  <Goat.lifeStages.2.label>kambing</Goat.lifeStages.2.label>
+  <Goat.lifeStages.2.labelFemale>kambing</Goat.lifeStages.2.labelFemale>
+  <Goat.lifeStages.2.labelFemalePlural>Kambing</Goat.lifeStages.2.labelFemalePlural>
+  <Goat.lifeStages.2.labelMale>anak</Goat.lifeStages.2.labelMale>
+  <Goat.lifeStages.2.labelMalePlural>Kambing</Goat.lifeStages.2.labelMalePlural>
+  <Goat.lifeStages.2.labelPlural>Kambing</Goat.lifeStages.2.labelPlural>
+  
+  <!-- EN: horse -->
+  <Horse.label>kuda</Horse.label>
+  <!-- EN: mare -->
+  <Horse.labelFemale>kuda betina</Horse.labelFemale>
+  <Horse.labelFemalePlural>Yeguas</Horse.labelFemalePlural>
+  <!-- EN: stallion -->
+  <Horse.labelMale>kuda jantan</Horse.labelMale>
+  <Horse.labelMalePlural>kuda jantan</Horse.labelMalePlural>
+  <Horse.labelPlural>Kuda</Horse.labelPlural>
+  <!-- EN: foal -->
+  <Horse.lifeStages.foal.label>Potro</Horse.lifeStages.foal.label>
+  <Horse.lifeStages.foal.labelFemale>Bisa</Horse.lifeStages.foal.labelFemale>
+  <Horse.lifeStages.foal.labelFemalePlural>tembikar</Horse.lifeStages.foal.labelFemalePlural>
+  <Horse.lifeStages.foal.labelMale>Potro</Horse.lifeStages.foal.labelMale>
+  <Horse.lifeStages.foal.labelMalePlural>Potros</Horse.lifeStages.foal.labelMalePlural>
+  <Horse.lifeStages.foal.labelPlural>Potros</Horse.lifeStages.foal.labelPlural>
+  <Horse.lifeStages.1.label>Kuda muda</Horse.lifeStages.1.label>
+  <Horse.lifeStages.1.labelFemale>Kuda muda</Horse.lifeStages.1.labelFemale>
+  <Horse.lifeStages.1.labelFemalePlural>Kuda muda</Horse.lifeStages.1.labelFemalePlural>
+  <Horse.lifeStages.1.labelMale>Kuda jantan muda</Horse.lifeStages.1.labelMale>
+  <Horse.lifeStages.1.labelMalePlural>kuda jantan muda</Horse.lifeStages.1.labelMalePlural>
+  <Horse.lifeStages.1.labelPlural>Kuda muda</Horse.lifeStages.1.labelPlural>
+  <Horse.lifeStages.2.label>kuda</Horse.lifeStages.2.label>
+  <Horse.lifeStages.2.labelFemale>kuda betina</Horse.lifeStages.2.labelFemale>
+  <Horse.lifeStages.2.labelFemalePlural>Yeguas</Horse.lifeStages.2.labelFemalePlural>
+  <Horse.lifeStages.2.labelMale>kuda jantan</Horse.lifeStages.2.labelMale>
+  <Horse.lifeStages.2.labelMalePlural>kuda jantan</Horse.lifeStages.2.labelMalePlural>
+  <Horse.lifeStages.2.labelPlural>Kuda</Horse.lifeStages.2.labelPlural>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>Whe</Muffalo.label>
+  <Muffalo.labelFemale>Whe</Muffalo.labelFemale>
+  <Muffalo.labelFemalePlural>mumi</Muffalo.labelFemalePlural>
+  <Muffalo.labelMale>Whe</Muffalo.labelMale>
+  <Muffalo.labelMalePlural>mumi</Muffalo.labelMalePlural>
+  <!-- EN: muffalo -->
+  <Muffalo.labelPlural>mumi</Muffalo.labelPlural>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>anak sapi mupalo</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.labelFemale>Mufalo Veal</Muffalo.lifeStages.muffalo_calf.labelFemale>
+  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>Anak sapi mupalo</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
+  <Muffalo.lifeStages.muffalo_calf.labelMale>anak sapi mupalo</Muffalo.lifeStages.muffalo_calf.labelMale>
+  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>Anak sapi mupalo</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>Anak sapi mupalo</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.1.label>Mufalo Steer</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.1.labelFemale>Mufalo Novilla</Muffalo.lifeStages.1.labelFemale>
+  <Muffalo.lifeStages.1.labelFemalePlural>Sapi jantan mufalo</Muffalo.lifeStages.1.labelFemalePlural>
+  <Muffalo.lifeStages.1.labelMale>Mufalo Steer</Muffalo.lifeStages.1.labelMale>
+  <Muffalo.lifeStages.1.labelMalePlural>Mufalo mengarahkan</Muffalo.lifeStages.1.labelMalePlural>
+  <Muffalo.lifeStages.1.labelPlural>Mufalo mengarahkan</Muffalo.lifeStages.1.labelPlural>
+  <Muffalo.lifeStages.2.label>Whe</Muffalo.lifeStages.2.label>
+  <Muffalo.lifeStages.2.labelPlural>mumi</Muffalo.lifeStages.2.labelPlural>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>badak</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>Badak</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>Badak</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelPlural>badak</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.1.label>Badak muda</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.1.labelPlural>Badak muda</Rhinoceros.lifeStages.1.labelPlural>
+  <Rhinoceros.lifeStages.2.label>badak</Rhinoceros.lifeStages.2.label>
+  <Rhinoceros.lifeStages.2.labelPlural>Badak</Rhinoceros.lifeStages.2.labelPlural>
+  
+  <!-- EN: yak -->
+  <Yak.label>yak</Yak.label>
+  <!-- EN: yak -->
+  <Yak.labelMale>yak</Yak.labelMale>
+  <Yak.labelPlural>yak</Yak.labelPlural>
+  <!-- EN: yak calf -->
+  <Yak.lifeStages.yak_calf.label>Betis yak</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.labelFemale>Yak Veal</Yak.lifeStages.yak_calf.labelFemale>
+  <Yak.lifeStages.yak_calf.labelFemalePlural>Betis yak</Yak.lifeStages.yak_calf.labelFemalePlural>
+  <Yak.lifeStages.yak_calf.labelMale>Betis yak</Yak.lifeStages.yak_calf.labelMale>
+  <Yak.lifeStages.yak_calf.labelMalePlural>Betis yak</Yak.lifeStages.yak_calf.labelMalePlural>
+  <!-- EN: yak calves -->
+  <Yak.lifeStages.yak_calf.labelPlural>Betis yak</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.lifeStages.1.label>Steer Yak</Yak.lifeStages.1.label>
+  <Yak.lifeStages.1.labelFemale>Yak Novilla</Yak.lifeStages.1.labelFemale>
+  <Yak.lifeStages.1.labelFemalePlural>Yak Novillas</Yak.lifeStages.1.labelFemalePlural>
+  <Yak.lifeStages.1.labelMale>Steer Yak</Yak.lifeStages.1.labelMale>
+  <Yak.lifeStages.1.labelMalePlural>Yak Steers</Yak.lifeStages.1.labelMalePlural>
+  <Yak.lifeStages.1.labelPlural>Yak Steers</Yak.lifeStages.1.labelPlural>
+  <Yak.lifeStages.2.label>yak</Yak.lifeStages.2.label>
+  <Yak.lifeStages.2.labelPlural>yak</Yak.lifeStages.2.labelPlural>
+  
+</LanguageData>

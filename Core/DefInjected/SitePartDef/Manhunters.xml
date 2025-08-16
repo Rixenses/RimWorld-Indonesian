@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>Berburu Manada</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>Kawanan hewan berburu.</Manhunters.description>
+  <!-- EN: There are scaria-infected manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>Ada hewan berburu yang berkeliaran.</Manhunters.arrivedLetter>
+  
+</LanguageData>

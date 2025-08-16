@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install psychic harmonizer -->
+  <InstallPsychicHarmonizer.label>Pasang Harmonizer Psikis</InstallPsychicHarmonizer.label>
+  <!-- EN: Install a psychic harmonizer. -->
+  <InstallPsychicHarmonizer.description>Instal Harmonizer Psikis.</InstallPsychicHarmonizer.description>
+  <!-- EN: Installing psychic harmonizer. -->
+  <InstallPsychicHarmonizer.jobString>Menginstal Harmonizer Psikis.</InstallPsychicHarmonizer.jobString>
+  
+  <!-- EN: install psychic reader -->
+  <InstallPsychicReader.label>Pasang pembaca psikis</InstallPsychicReader.label>
+  <!-- EN: Install a psychic reader. -->
+  <InstallPsychicReader.description>Instal pembaca psikis.</InstallPsychicReader.description>
+  <!-- EN: Installing psychic reader. -->
+  <InstallPsychicReader.jobString>Menginstal Pembaca Psikis.</InstallPsychicReader.jobString>
+  
+  <!-- EN: install psychic sensitizer -->
+  <InstallPsychicSensitizer.label>Pasang Sensitizer Psikis</InstallPsychicSensitizer.label>
+  <!-- EN: Install a psychic sensitizer. -->
+  <InstallPsychicSensitizer.description>Pasang Sensitizer Psikis.</InstallPsychicSensitizer.description>
+  <!-- EN: Installing psychic sensitizer. -->
+  <InstallPsychicSensitizer.jobString>Memasang Sensitizer Psikis.</InstallPsychicSensitizer.jobString>
+  
+  <!-- EN: remove psychic harmonizer -->
+  <RemovePsychicHarmonizer.label>Ekstrak Harmonizer Psikis</RemovePsychicHarmonizer.label>
+  <!-- EN: Remove psychic harmonizer. -->
+  <RemovePsychicHarmonizer.description>Mengekstrak harmonizer psikis.</RemovePsychicHarmonizer.description>
+  <!-- EN: Removing psychic harmonizer. -->
+  <RemovePsychicHarmonizer.jobString>Mengekstraksi Harmonizer Psikis.</RemovePsychicHarmonizer.jobString>
+  
+  <!-- EN: remove psychic reader -->
+  <RemovePsychicReader.label>Ekstrak pembaca psikis</RemovePsychicReader.label>
+  <!-- EN: Remove psychic reader. -->
+  <RemovePsychicReader.description>Ekstrak pembaca psikis.</RemovePsychicReader.description>
+  <!-- EN: Removing psychic reader. -->
+  <RemovePsychicReader.jobString>Mengekstraksi pembaca psikis.</RemovePsychicReader.jobString>
+  
+  <!-- EN: remove psychic sensitizer -->
+  <RemovePsychicSensitizer.label>Ekstrak Sensitizer Psikis</RemovePsychicSensitizer.label>
+  <!-- EN: Remove psychic sensitizer. -->
+  <RemovePsychicSensitizer.description>Mengekstrak sensitizer psikis.</RemovePsychicSensitizer.description>
+  <!-- EN: Removing psychic sensitizer. -->
+  <RemovePsychicSensitizer.jobString>Sensitizer psikis yang mengekstran.</RemovePsychicSensitizer.jobString>
+  
+</LanguageData>

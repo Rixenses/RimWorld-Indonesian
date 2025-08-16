@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>Megascarabo</Megascarab.label>
+  <!-- EN: A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Megascarab.description>Kumbang yang dimodifikasi secara genetik.Sebelumnya itu adalah kasta kerja ekosistem insektoid buatan yang dirancang untuk melawan invasi mecanoids, sekarang sering terlihat tanpa sepupu insektoid yang paling mematikan.Meski begitu, ukurannya dan cangkang kerasnya membuatnya berbahaya ketika menyerang.Makhluk eusosial tidak dapat bereproduksi secara individual.</Megascarab.description>
+  <!-- EN: mandibles -->
+  <Megascarab.tools.mandibles.label>mulut</Megascarab.tools.mandibles.label>
+  <!-- EN: head -->
+  <Megascarab.tools.head.label>kepala</Megascarab.tools.head.label>
+  
+  <!-- EN: megaspider -->
+  <Megaspider.label>Megaraña</Megaspider.label>
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Megaspider.description>Ini bukan laba -laba.Megaraña adalah insektoid raksasa seukuran beruang, dimodifikasi secara genetik untuk melakukan pekerjaan berat dan pertempuran.Armor kitinosa kasar membuatnya sulit dibunuh, sementara bilahnya yang panjang membuatnya mematikan pada jarak pendek.Namun, cukup lambat di medan terbuka.</Megaspider.description>
+  <!-- EN: insect meat -->
+  <Megaspider.race.meatLabel>Daging serangga</Megaspider.race.meatLabel>
+  <!-- EN: head claw -->
+  <Megaspider.tools.head_claw.label>cakar kranial</Megaspider.tools.head_claw.label>
+  <!-- EN: head -->
+  <Megaspider.tools.head.label>kepala</Megaspider.tools.head.label>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>dimanja</Spelopede.label>
+  <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
+  <Spelopede.description>Insektoid yang didesain biodasi sedang, ukuran domba.Espelópedo adalah kasta rata -rata sarang, mengurus sebagian besar tugas kerja, serta berkelahi dengan cakar mereka yang menggali.Ini berbahaya dalam pertempuran, tetapi lambat di lapangan terbuka.</Spelopede.description>
+  <!-- EN: head claw -->
+  <Spelopede.tools.head_claw.label>cakar kranial</Spelopede.tools.head_claw.label>
+  <!-- EN: head -->
+  <Spelopede.tools.head.label>kepala</Spelopede.tools.head.label>
+  
+</LanguageData>

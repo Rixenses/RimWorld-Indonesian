@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Main -->
+  <Main.label>Menu</Main.label>
+  <!-- EN: Unlock new technologies by researching at a research bench. You can only have one active project at a time. -->
+  <Main.generalDescription>Ini membuka teknologi baru yang menyelidiki dalam tabel penelitian.Anda hanya dapat memiliki proyek aktif secara bersamaan.</Main.generalDescription>
+  <!-- EN: Main research projects -->
+  <Main.generalTitle>Proyek Penelitian Utama</Main.generalTitle>
+  
+</LanguageData>

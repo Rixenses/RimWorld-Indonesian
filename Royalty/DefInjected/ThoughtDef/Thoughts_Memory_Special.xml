@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decree failed -->
+  <DecreeFailed.stages.decree_failed.label>Kegagalan untuk mematuhinya</DecreeFailed.stages.decree_failed.label>
+  <!-- EN: My noble authority has not been respected as it should be. -->
+  <DecreeFailed.stages.decree_failed.description>Otoritas mulia saya tidak dihormati seperti yang seharusnya.</DecreeFailed.stages.decree_failed.description>
+  
+  <!-- EN: decree satisfied -->
+  <DecreeMet.stages.decree_satisfied.label>Keputusan terpenuhi</DecreeMet.stages.decree_satisfied.label>
+  <!-- EN: My noble authority has been respected as it should be. -->
+  <DecreeMet.stages.decree_satisfied.description>Otoritas mulia saya dihormati.Sebagaimana mestinya.</DecreeMet.stages.decree_satisfied.description>
+  
+  <!-- EN: disinherited -->
+  <Disinherited.stages.disinherited.label>Disinitited</Disinherited.stages.disinherited.label>
+  <!-- EN: I was disinherited of my title. Do I need to get medieval on these people? -->
+  <Disinherited.stages.disinherited.description>Saya terpisah dari gelar saya.Haruskah saya menunjukkan kebrutalan saya kepada orang -orang ini?</Disinherited.stages.disinherited.description>
+  
+  <!-- EN: neuroquake echo -->
+  <NeuroquakeEcho.stages.neuroquake_echo.label>Replika neurisme</NeuroquakeEcho.stages.neuroquake_echo.label>
+  <!-- EN: Distant, unfamilliar echoes of terror and grief. It makes me feel nervous and shaky. -->
+  <NeuroquakeEcho.stages.neuroquake_echo.description>Gema teror dan penalti yang jauh.Mereka membuat saya merasa gugup dan getaran.</NeuroquakeEcho.stages.neuroquake_echo.description>
+  
+</LanguageData>

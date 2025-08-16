@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slaughtered fish -->
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.label>Ikan yang dikorbankan</SlaughteredFish_Disapproved.stages.slaughtered_fish.label>
+  <!-- EN: I had to kill fish. It was an ugly thing to do. -->
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.description>Saya harus membunuh ikan.Itu sesuatu yang mengerikan untuk dilakukan.</SlaughteredFish_Disapproved.stages.slaughtered_fish.description>
+  
+  <!-- EN: killed fish -->
+  <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>membunuh ikan</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
+  
+  <!-- EN: fish slaughtered -->
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>Ikan yang dikorbankan</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>
+  <!-- EN: Someone is killing fish! We should protect these beautiful creatures. -->
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>Seseorang membunuh ikan!Kita harus melindungi makhluk -makhluk cantik ini.</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>
+  
+  <!-- EN: killed fish -->
+  <SlaughteredFish_Know_Prohibited.stages.killed_fish.label>membunuh ikan</SlaughteredFish_Know_Prohibited.stages.killed_fish.label>
+  
+  <!-- EN: fish slaughtered -->
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>Ikan yang dikorbankan</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>
+  <!-- EN: Someone is killing fish! Our slippery brothers and sisters are dying. -->
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>Seseorang membunuh ikan!Saudara dan saudari kami yang licin sedang sekarat.</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>
+  
+  <!-- EN: fished recently -->
+  <SlaughteredFish_Sacred.stages.fished_recently.label>Ikan baru -baru ini</SlaughteredFish_Sacred.stages.fished_recently.label>
+  <!-- EN: Fishing puts me on the right path - at least for a little while. -->
+  <SlaughteredFish_Sacred.stages.fished_recently.description>Memancing membantu saya menemukan kedamaian, bahkan untuk sesaat.</SlaughteredFish_Sacred.stages.fished_recently.description>
+  
+  <!-- EN: not enough fish -->
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>Tidak ada cukup ikan</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>
+  <!-- EN: I wish we were somewhere we could fish. -->
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>Saya berharap kami berada di suatu tempat di mana kami bisa memancing.</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>
+  
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deathrest accelerator -->
+  <DeathrestAccelerator.label>Mortisueño Accelerator</DeathrestAccelerator.label>
+  <!-- EN: This device connects with a deathresting person and makes deathrest complete quicker. It enhances the effect of the deathrest casket using finer blood analysis and more powerful chemicals. It must be connected to a deathrest casket to function. -->
+  <DeathrestAccelerator.description>Perangkat ini terhubung dengan seseorang yang getes dan membuat proses sepenuhnya lengkap.Meningkatkan efek mortisueño sarkophagus menggunakan analisis darah yang lebih baik dan bahan kimia yang lebih kuat.Itu harus terhubung ke mortisueño sarkophagus untuk bekerja.</DeathrestAccelerator.description>
+  
+  <!-- EN: deathrest casket -->
+  <DeathrestCasket.label>Mortisueño sarkophagus</DeathrestCasket.label>
+  <!-- EN: An enclosed med-casket that accelerates the process of deathrest. It can connect to other devices which confer additional bonuses on the deathrester. The number of devices that can connect depends on the person's deathrest capacity, which can be seen by selecting them.\n\nOnly those with the deathrest gene can use the deathrest casket. -->
+  <DeathrestCasket.description>Sarkofagus medis yang mempercepat proses mematikan.Ini dapat terhubung ke perangkat lain yang memberikan bonus tambahan ke mematikan.Jumlah perangkat yang dapat dihubungkan tergantung pada kapasitas resusitasi orang tersebut, yang dapat dilihat saat memilihnya.</DeathrestCasket.description>
+  
+  <!-- EN: glucosoid pump -->
+  <GlucosoidPump.label>Bomba glucosoide</GlucosoidPump.label>
+  <!-- EN: This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function. -->
+  <GlucosoidPump.description>Perangkat ini memungkinkan yang mematikan untuk bergerak lebih cepat setelah menyelesaikan mortisueño.Pompa tubuh dengan faktor pensinyalan otot tambahan sambil membersihkan produk limbah jaringan otot.Efeknya berlangsung sampai individu mengulangi proses lagi.Itu harus terhubung ke sarkofagus yang mematikan untuk bekerja.</GlucosoidPump.description>
+  <!-- EN: Hemogen -->
+  <GlucosoidPump.comps.CompRefuelable.fuelLabel>Haemogeno</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: hemogen amplifier -->
+  <HemogenAmplifier.label>penguat hemogen</HemogenAmplifier.label>
+  <!-- EN: This device leaves a deathrester in a hemogen-amplified state so they gain more hemogen from any hemogen source. Using a gland probe and blood analyzer, it links with a deathresting person, stimulating hemogen glands into a more active state. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
+  <HemogenAmplifier.description>Perangkat ini meninggalkan mortisant dalam keadaan amplifikasi hemogen untuk mendapatkan lebih banyak hemogen dari sumber hemogen mana pun.Menggunakan probe kelenjar dan penganalisa darah, itu terhubung dengan orang yang malas, merangsang kelenjar hemogen dalam keadaan yang lebih aktif.Itu harus terhubung ke sarkofagus yang mematikan agar berfungsi. Bangunan NSTE perlu mengkonsumsi hemogen untuk bekerja.</HemogenAmplifier.description>
+  <!-- EN: Hemogen -->
+  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>Haemogeno</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: hemopump -->
+  <Hemopump.label>Hemobomba</Hemopump.label>
+  <!-- EN: This blood-refining pump increases the amount of hemogen a deathresting person can store in their body. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
+  <Hemopump.description>Pompa olahan darah ini meningkatkan jumlah hemogen yang dapat disimpan oleh seseorang yang dapat disimpan dalam tubuhnya.Itu harus terhubung ke mortisueño sarkophagus untuk bekerja. Bangunan NSTE perlu mengkonsumsi hemogen untuk bekerja.</Hemopump.description>
+  <!-- EN: Hemogen -->
+  <Hemopump.comps.CompRefuelable.fuelLabel>Haemogeno</Hemopump.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: psychofluid pump -->
+  <PsychofluidPump.label>Pompa psikofluid</PsychofluidPump.label>
+  <!-- EN: This device enhances the psychic sensitivity of a deathresting person by rhythmically stimulating neural tissues. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
+  <PsychofluidPump.description>Perangkat ini meningkatkan sensitivitas psikis seseorang yang menggetarkan melalui stimulasi berirama dari jaringan neuron.Itu harus terhubung ke sarkofagus yang mematikan agar berfungsi. Bangunan NSTE perlu mengkonsumsi hemogen untuk bekerja.</PsychofluidPump.description>
+  <!-- EN: Hemogen -->
+  <PsychofluidPump.comps.CompRefuelable.fuelLabel>Haemogeno</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+  
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (sitefaction == Pirate)-> Pirates telah mengatur pos terdekat [MAP_DEFINITE] untuk melecehkan Anda.[AllSitePartSDescriptions] \ n \ n post -pos akan tetap sampai Anda mengirim tim ke sana untuk menyerang dan menghancurkannya.</li>
+    <li>QuestDescription (sitefaction == mechanoid)-> Cluster mechanoid telah mendarat tidak jauh dari [MAP_DEFINITE].[AllSitePartsDescriptions] \ n \ n Cluster mech akan tetap sampai Anda mengirim tim ke sana untuk menyerang dan menghancurkannya.</li>-><ProblemCauser.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (sitefaction == Pirate)-> Pirates telah mendirikan pos penjaga di dekat [MAP_Definite] untuk melecehkan Anda.[AllsiteParts Decipts] \ n \ nel Posisi akan tetap sampai Anda mengirim tim untuk menyerang dan menghancurkannya.</li>
+    <li>QuestDescription (sitefaction == mechanoid)-> sekelompok mecanoids telah mendarat tidak jauh dari [MAP_DEFINITE].[AllSiteParts Decipts] \ n \ nel Mecanoid Group akan tetap sampai Anda mengirim tim untuk menyerang dan menghancurkannya.</li>
+  </ProblemCauser.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (Sitefaction == Pirate)-> Pirates dengan [ProblemCaUserLabel]</li>
+    <li>QuestName (sitefaction == mechanoid)-> mech cluster dengan [ProblemCaUserLabel]</li>-><ProblemCauser.questNameRules.rulesStrings>
+    <li>QuestName (Sitefaction == Pirate)-> Pirates dengan [ProblemCaUserLabel]</li>
+    <li>QuestName (sitefaction == mechanoid)-> grup mecanoid dengan [ProblemCaUserLabel]</li>
+  </ProblemCauser.questNameRules.rulesStrings>
+  <!-- EN: [problemCauserLabel] destroyed -->
+  <ProblemCauser.LetterLabelSuccess.slateRef>[ProblemCaUserLabel] telah dihancurkan</ProblemCauser.LetterLabelSuccess.slateRef>
+  <!-- EN: You have destroyed the [problemCauserLabel] that was affecting [map_definite]! -->
+  <ProblemCauser.LetterTextSuccess.slateRef>Anda telah menghancurkan [ProblemCaUserLabel] yang mempengaruhi [MAP_DEFINITE]!</ProblemCauser.LetterTextSuccess.slateRef>
+  
+</LanguageData>

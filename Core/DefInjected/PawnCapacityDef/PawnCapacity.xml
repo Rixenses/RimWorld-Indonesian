@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>Penyaringan darah</BloodFiltration.label>
+  <!-- EN: pneumatics -->
+  <BloodFiltration.labelDrones>pneumatik</BloodFiltration.labelDrones>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>Cairan pemrosesan ulang</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>Pemompaan darah</BloodPumping.label>
+  <!-- EN: battery integrity -->
+  <BloodPumping.labelDrones>Integritas baterai</BloodPumping.labelDrones>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>Produksi energi</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>pernafasan</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>Kesadaran</Consciousness.label>
+  <!-- EN: Sentience -->
+  <Consciousness.labelAnomalyEntity>Sintesia</Consciousness.labelAnomalyEntity>
+  <!-- EN: Performance -->
+  <Consciousness.labelDrones>Pertunjukan</Consciousness.labelDrones>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Pengolahan data</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>makanan</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>Audición</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>penanganan</Manipulation.label>
+  
+  <!-- EN: digestion -->
+  <Metabolism.label>metabolisme</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>gerakan</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>Vista</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>berbicara</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>komunikasi</Talking.labelMechanoids>
+  
+</LanguageData>

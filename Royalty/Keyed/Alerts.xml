@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Room requirements -->
+  <!-- EN: Need throneroom -->
+  <NeedThroneAssigned>Butuh Ruang Tahta</NeedThroneAssigned>
+  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
+  <NeedThroneAssignedDesc>Salah satu dari Anda memiliki judul yang membutuhkan ruang singgasana, tetapi tidak ada yang ditugaskan.Ruang tahta harus sesuai dengan ukuran dan dekorasi untuk memenuhi persyaratan judul.</NeedThroneAssignedDesc>
+
+  <!-- EN: Undignified bedroom -->
+  <UndignifiedBedroom>Kamar tidur yang tidak layak</UndignifiedBedroom>
+  <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
+  <UndignifiedBedroomDesc>Salah satu dari Anda memiliki gelar bangsawan yang membutuhkan kamar dengan persyaratan khusus.Atau tidak memiliki kamar tidur yang ditugaskan, atau kamar yang ditugaskan tidak layak untuk memenuhi persyaratannya.</UndignifiedBedroomDesc>
+
+  <!-- EN: Title requires bedroom -->
+  <NeedBedroomAssigned>Judulnya membutuhkan kamar tidur</NeedBedroomAssigned>
+  <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
+  <NeedBedroomAssignedDesc>Salah satu pemukim Anda memiliki gelar bangsawan yang membutuhkan kamar tidur pribadi, tetapi tidak memiliki satu yang ditetapkan. \ Ndebes menetapkan ruang pribadi.Kamar tidur harus sesuai dengan ukuran dan dekorasi untuk memenuhi persyaratan judul.</NeedBedroomAssignedDesc>
+
+  <!-- EN: Undignified throneroom -->
+  <UndignifiedThroneroom>Aula Tahta Indigna</UndignifiedThroneroom>
+  <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
+  <UndignifiedThroneroomDesc>Salah satu dari Anda memiliki gelar bangsawan dan tahta, tetapi Ruang Tahta tidak memenuhi persyaratan judul.</UndignifiedThroneroomDesc>
+  
+  <!-- EN: No acceptable food -->
+  <RoyalNoAcceptableFood>Tak layak</RoyalNoAcceptableFood>
+  <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
+  <RoyalNoAcceptableFoodDesc>Salah satu dari Anda memiliki gelar mulia dengan kebutuhan makanan khusus.Namun, tidak ada makanan yang tersedia untuk memenuhi persyaratan ini.</RoyalNoAcceptableFoodDesc>
+
+  <!-- EN: {0} days until requirement begins -->
+  <RoomRequirementGracePeriodDesc>{0} hari sampai persyaratan diperlukan</RoomRequirementGracePeriodDesc>
+
+  <!-- EN: Throne not usable -->
+  <ThroneroomInvalidConfiguration>Tahta yang tidak dapat dikembalikan</ThroneroomInvalidConfiguration>
+  <!-- EN: A throne is not usable because of how it is set up: -->
+  <ThroneroomInvalidConfigurationDesc>Tahta tidak dapat digunakan karena bagaimana itu diatur:</ThroneroomInvalidConfigurationDesc>
+  
+  <!-- EN: Monument missing blueprints -->
+  <MonumentMarkerMissingBlueprints>Monumen Draffects hilang</MonumentMarkerMissingBlueprints>
+  <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
+  <MonumentMarkerMissingBlueprintsDesc>Monumen tidak akan diselesaikan karena tidak ada draft awal yang ditempatkan untuk semua bagiannya.</MonumentMarkerMissingBlueprintsDesc>
+
+  <!-- EN: Beacon unusable -->
+  <ShipLandingBeaconUnusable>Suar yang tidak dapat digunakan</ShipLandingBeaconUnusable>
+  <!-- EN: A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
+  <ShipLandingBeaconUnusableDesc>Suar pendaratan kapal menerima energi, tetapi tidak dapat digunakan.Untuk melakukan ini, letakkan satu di setiap sudut persegi setidaknya 8 kotak lebar, bebas dari halangan, tanpa konstruksi, manusia dan hewan.</ShipLandingBeaconUnusableDesc>
+
+  <!-- EN: Need meditation spot -->
+  <NeedMeditationSpotAlert>Diperlukan titik meditasi</NeedMeditationSpotAlert>
+  <!-- EN: These colonists have a psyfocus need or are scheduled to meditate, but don't have any meditation spots available for them.\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. Colonists won't meditate in another colonist's bedroom. -->
+  <NeedMeditationSpotAlertDesc>Para pemukim ini membutuhkan psifoco, tetapi tidak ada titik meditasi yang tersedia untuk mereka. \ N {0} \ n \ ncoloca titik meditasi dan pastikan itu dapat diakses dan dapat digunakan.Para pemukim lebih suka titik meditasi yang dekat dengan objek fokus terbaik yang dapat mereka gunakan.Para pemukim tidak akan bermeditasi di kamar tidur pemukim lain.</NeedMeditationSpotAlertDesc>
+
+  <!-- EN: Unusable meditation focus -->
+  <UnusableMeditationFocusAlert>Fokus meditasi yang tidak dapat digunakan</UnusableMeditationFocusAlert>
+  <!-- EN: These colonists are meditating near a focus object they can't use.\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
+  <UnusableMeditationFocusAlertDesc>Para pemukim ini bermeditasi di dekat objek fokus yang tidak dapat mereka gunakan. Ini tergantung pada latar belakang, sifat, dan judul mereka.Untuk melihat jenis lampu meditasi seseorang, periksa jendela informasi mereka dengan memilih orang itu dan mengklik tombol "i".</UnusableMeditationFocusAlertDesc>
+
+  <!-- EN: Permit choice ready -->
+  <PermitChoiceReadyAlert>Pilihan izin</PermitChoiceReadyAlert>
+  <!-- EN: {PAWN_nameDef} can choose a new permit. -->
+  <PermitChoiceReadyAlertDesc>{Pawn_namedef} Anda dapat memilih izin baru.</PermitChoiceReadyAlertDesc>
+  
+  <!-- EN: Bestower waiting -->
+  <BestowerWaitingAlert>Memberikan menunggu</BestowerWaitingAlert>
+  <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
+  <BestowerWaitingAlertDesc>Seorang pemberi menunggu untuk memulai upacara kenaikan.</BestowerWaitingAlertDesc>
+  
+  <!-- EN: Anima linking ceremony ready -->
+  <AnimaLinkingReadyLabel>Daftar Upacara Tautan</AnimaLinkingReadyLabel>
+  <!-- EN: An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists -->
+  <AnimaLinkingReadyDesc>Pohon jiwa memiliki cukup banyak rumput herba untuk melakukan upacara ikatan dan leveling</AnimaLinkingReadyDesc>
+  <!-- EN: In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use. -->
+  <AnimaLinkingReadyDescExtra>Untuk memulai upacara, pilih pemukim, klik tombol "Mulai menghubungkan dengan Soul Tree" dan pilih pohon jiwa yang ingin Anda gunakan.</AnimaLinkingReadyDescExtra>
+  
+</LanguageData>

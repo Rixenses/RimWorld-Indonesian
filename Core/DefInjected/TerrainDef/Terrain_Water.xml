@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: marsh -->
+  <Marsh.label>rawa</Marsh.label>
+  <!-- EN: water -->
+  <Marsh.tools.water.label>Agua</Marsh.tools.water.label>
+  <!-- EN: mud -->
+  <Marsh.tools.mud.label>lumpur</Marsh.tools.mud.label>
+  
+  <!-- EN: deep water -->
+  <WaterDeep.label>air yang dalam</WaterDeep.label>
+  <!-- EN: water -->
+  <WaterDeep.tools.water.label>Agua</WaterDeep.tools.water.label>
+  
+  <!-- EN: chest-deep moving water -->
+  <WaterMovingChestDeep.label>Air arus yang dalam</WaterMovingChestDeep.label>
+  <!-- EN: water -->
+  <WaterMovingChestDeep.tools.water.label>Agua</WaterMovingChestDeep.tools.water.label>
+  
+  <!-- EN: shallow moving water -->
+  <WaterMovingShallow.label>air arus yang dangkal</WaterMovingShallow.label>
+  <!-- EN: water -->
+  <WaterMovingShallow.tools.water.label>Agua</WaterMovingShallow.tools.water.label>
+  
+  <!-- EN: deep ocean water -->
+  <WaterOceanDeep.label>Air samudera yang dalam</WaterOceanDeep.label>
+  <!-- EN: water -->
+  <WaterOceanDeep.tools.water.label>Agua</WaterOceanDeep.tools.water.label>
+  
+  <!-- EN: shallow ocean water -->
+  <WaterOceanShallow.label>air samudera yang dangkal</WaterOceanShallow.label>
+  <!-- EN: water -->
+  <WaterOceanShallow.tools.water.label>Agua</WaterOceanShallow.tools.water.label>
+  
+  <!-- EN: shallow water -->
+  <WaterShallow.label>perairan dangkal</WaterShallow.label>
+  <!-- EN: water -->
+  <WaterShallow.tools.water.label>Agua</WaterShallow.tools.water.label>
+  
+</LanguageData>

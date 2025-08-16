@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>scraped_present-> melirik</li>
+    <li>scraped_present-> memantul</li>
+    <li>scraped_present-> penggembalaan</li>
+    <li>scraped_present-> caroming</li>
+    <li>scraped_present-> lewati</li>
+    <li>scraped_present-> skating</li>
+    <li>scraped_past-> melirik</li>
+    <li>scraped_past-> terpental</li>
+    <li>scraped_past-> digembalakan</li>
+    <li>scraped_past-> caromed</li>
+    <li>scraped_past-> dilewati</li>
+    <li>scraped_past-> skated</li>-><Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>Scraped_present-> memukul dan mengalihkan</li>
+    <li>scraped_present-> rebotando</li>
+    <li>scraped_present-> raspando</li>
+    <li>SCRUDE PRESENT-> HITTING dan BOUNCING</li>
+    <li>scraped_present-> Saltando</li>
+    <li>scraped_present-> skating in</li>
+    <li>scraped_past-> memukulnya dan dialihkan</li>
+    <li>scraped_past-> atas</li>
+    <li>scraped_past-> telah menggoresnya</li>
+    <li>scraped_past-> atas</li>
+    <li>scraped_past-> telah melompat</li>
+    <li>goresan_youth dan dihapus</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Action-> [initiator_definite] [dicoba] ke [ruckaged_inf] [penerima_definite]</li>
+    <li>Action-> [initiator_definite] [dicoba] ke [ruckaged_inf] [penerima_definite] dengan [implement]]</li>
+    <li>Action-> [initiator_definite] [dicoba] untuk menggunakan [implement] untuk [rusak_inf] [penerima_definite]</li>
+    <li>Action-> [initiator_definite] berayun [initiator_possessive] [senjata_label] di [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] [verb_genericattack] [ke depan] [penerima_definite] dengan [implement]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] [verb_genericattack] [ke depan] [penerima_definite]</li>
+    <li>Tindakan (p = 0.3)-> [initiator_definite] [verb_genericattack] dengan [implement]</li>
+    <li>menuju ke> menuju</li>
+    <li>menuju-> at</li>
+    <li>verb_genericattack-> diayunkan</li>
+    <li>verb_genericattack-> gagal</li>
+    <li>verb_genericattack-> dihancurkan</li>
+    <li>dicoba-> dicoba</li>
+    <li>mencoba-> dicoba</li>-><Combat_FailIncludes.rulePack.rulesStrings>
+    <li>Action-> [initiator_definite] [dicoba] [ruckaged_inf] A [penerima_definite]</li>
+    <li>Action-> [initiator_definite] [dicoba] [ruckaged_inf] a [penerima_definite] con [implement]]</li>
+    <li>Action-> [initiator_definite] [dicoba] usar [implement] paragraf [rusak_inf] a [penerima_definite]</li>
+    <li>Action-> [initiator_definite] Balanceó su [senjata_label], rozando a [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] se ha [verb_genericattack] [ke arah atas] [penerima_definite] con [implement]]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] se ha [verb_genericattack] [ke depan] [penerima_definite]</li>
+    <li>Tindakan (p = 0.3)-> [initiator_definite] se ha [verb_genericattack] con [implement]</li>
+    <li>Menuju ke arah a</li>
+    <li>menuju ke> en torno a</li>
+    <li>verb_genericattack-> girado</li>
+    <li>verb_genericattack-> movido</li>
+    <li>verb_genericattack-> seimbang</li>
+    <li>dicoba-> dicoba</li>
+    <li>dicoba-> dicoba</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Hasil (p = 1)-> [RURGADE_PRESENT] [penerima_possessive] [TargetList]</li>
+    <li>Hasil (p = 0.2)-> [RURGADE_PRESENT] [penerima_possessive] [TargetList] dan [flavortext_consequence]</li>
+    <li>Hasil (p = 0,1)-> [RArpaged_Present] [penerima_possessive] [TargetList] [StrikeAdv]</li>
+    <li>Strikeadv-> dengan menyakitkan</li>
+    <li>Strikeadv-> mengerikan</li>
+    <li>StrikeAdv-> dengan kejam</li>
+    <li>Strikeadv-> dengan kejam</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan luka yang menjijikkan</li>
+    <li>flavortext_consequence-> meninggalkan luka yang mengerikan</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> membuat [penerima_objective] [wince] [PainEvent]</li>
+    <li>flavortext_consequence (p = 0.2)-> melempar [penerima_objective] off balance</li>-><Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>Hasil (p = 1)-> [RURGADE_PRESENT] SU [TargetList]</li>
+    <li>Hasil (p = 0.2)-> [RURGADE_PRESENT] SU [TargetList] y [flavortext_consequence]</li>
+    <li>Hasil (p = 0,1)-> [RURGADE_PRESENT] SU [TargetList] [StrikeAdv]</li>
+    <li>Strikeadv-> dengan menyakitkan</li>
+    <li>Strikeadv-> mengerikan</li>
+    <li>StrikeAdv-> dengan kejam</li>
+    <li>Strikeadv-> dengan kejam</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> Meninggalkan luka yang menjijikkan</li>
+    <li>flavortext_consequence-> meninggalkan luka yang mengerikan</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> haciéndo [penerima_objective] [wince] [PainEvent]</li>
+    <li>flavortext_consequence (p = 0.2)-> desequilibrándo [penerima_objective]</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [Action], [hasil].</li>
+    <li>r_logentry (prioritas = -10)-> [tindakan].</li>
+    <li>Implement (implementowner_type == senjata, p = 2)-> [initiator_possessive] [weapon_label] [Tool_label]</li>
+    <li>implement (implementowner_type == senjata, p = 1)-> [initiator_possessive] [weapon_label]</li>
+    <li>implement (implementowner_type == senjata, p = 1)-> [weapon_label] s [tool_label]</li>
+    <li>Implement (implementowner_type == senjata, p = 0,5)-> [weapon_label]</li>
+    <li>implement (implementowner_type == bodypart, p = 2)-> [initiator_possessive] [tool_label]</li>
+    <li>Implement (implementowner_type == hediff, p = 2)-> [initiator_possessive] [weapon_label] s [tool_label]</li>
+    <li>Implement (implementowner_type == hediff, p = 1)-> [initiator_possessive] [weapon_label]</li>
+    <li>implement (implementowner_type == hediff, p = 1)-> [initiator_possessive] [tool_label]</li>
+    <li>TargetList (penerima_part_count == 1)-> [penerima_part0_label]</li>
+    <li>TargetList (penerima_part_count == 2)-> [penerima_part0_label] dan [penerima_part1_label]</li>
+    <li>TargetList (penerima_part_count == 3)-> [penerima_part0_label], [penerima_part1_label], dan [penerima_part2_label]</li>
+    <li>TargetList-> [penerima_part0_label], [penerima_part1_label], [penerima_part2_label], dan [penerima_part3_label]</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Wounding</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Cedera</li>
+    <li>dihancurkan (p = 0,5)-> hancur</li>
+    <li>dihancurkan (p = 0,5)-> dihancurkan</li>
+    <li>dihancurkan (p = 0,5)-> hancur</li>
+    <li>dihancurkan (p = 0,5)-> hancur</li>
+    <li>Penggantiran (penerima_flesh == Normal)-> WINCE</li>
+    <li>Wache (penerima_flesh == Normal)-> GRIMACE</li>
+    <li>Penggiliran (penerima_flesh == normal)-> ngeri</li>
+    <li>Penggantiran (penerima_flesh == Normal)-> erangan</li>
+    <li>Penggantiran (penerima_flesh! = Mechanoid)-> Scream</li>
+    <li>Pln (penerima_flesh! = Mechanoid)-> Shout</li>
+    <li>meringis-> mundur</li>
+    <li>Minuman-> tersandung</li>
+    <li>susah payah-> di</li>
+    <li>susah payah-> dengan</li>
+    <li>susah payah-> dari</li>
+    <li>PainEvent (penerima_flesh! = Mechanoid)-> [Pusat] Nyeri</li>
+    <li>PainEvent (penerima_flesh! = Mechanoid)-> [Pusat] penderitaan</li>
+    <li>PainEvent (penerima_flesh == normal)-> dengan kesengsaraan</li>
+    <li>PainEvent-> dari cedera</li>
+    <li>PainEvent-> dari luka</li>
+    <li>The-> the</li>
+    <li>to-> to</li>-><Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry-> [Action], [hasil].</li>
+    <li>r_logentry (prioritas = -10)-> [tindakan].</li>
+    <li>implement (implementowner_type == senjata, p = 2)-> [tool_definite] de su [weapon_label]</li>
+    <li>implement (implementowner_type == senjata, p = 1)-> su [senjata_label]</li>
+    <li>implement (implementowner_type == senjata, p = 1)-> [tool_definite] de [weapon_indefinite]</li>
+    <li>Implement (implementowner_type == senjata, p = 0,5)-> [weapon_indefinite]</li>
+    <li>Implement (implementowner_type == bodypart, p = 2)-> su [tool_label]</li>
+    <li>implement (implementowner_type == hediff, p = 2)-> [tool_definite] de su [weapon_label]</li>
+    <li>Implement (implementowner_type == hediff, p = 1)-> su [senjata_label]</li>
+    <li>Implement (implementowner_type == hediff, p = 1)-> su [tool_label]</li>
+    <li>TargetList (penerima_part_count == 1)-> [penerima_part0_label]</li>
+    <li>TargetList (penerima_part_count == 2)-> [penerima_part0_label] y [penerima_part1_label]</li>
+    <li>TargetList (penerima_part_count == 3)-> [penerima_part0_label], [penerima_part1_label], y [penerima_part2_label]</li>
+    <li>TargetList-> [penerima_part0_label], [penerima_part1_label], [penerima_part2_label], y [penerima_part3_label]</li>
+    <li>RAVAGED_PRESENT (Deflected! = True)-> Hiriendo</li>
+    <li>RAVAGED_PRESENT (Deflected! = True)-> lesionando</li>
+    <li>Hancur (p = 0,5)-> hancur</li>
+    <li>dihancurkan (p = 0,5)-> demolido</li>
+    <li>Hancur (p = 0,5)-> hancur</li>
+    <li>Hancur (p = 0,5)-> hancur</li>
+    <li>Wach (penerima_flesh == normal)-> bergidik</li>
+    <li>WCINCE (penerima_flesh == Normal)-> untuk memelintir</li>
+    <li>Wached (penerima_flesh == normal)-> menyusut</li>
+    <li>Penggiliran (penerima_flesh == Normal)-> Gemir</li>
+    <li>Penggantiran (penerima_flesh! = Mechanoid)-> Gritar</li>
+    <li>Penggantiran (penerima_flesh! = Mechanoid)-> chillar</li>
+    <li>meraihnya-> retroceder</li>
+    <li>Penggiliran-> Tropezar</li>
+    <li>Susah payah-> oleh</li>
+    <li>susah payah-> com</li>
+    <li>susah payah-> del</li>
+    <li>Pusat1-> com</li>
+    <li>Pusat 1-></li>
+    <li>Pusat 1-></li>
+    <li>PainEvent (penerima_flesh! = Mechanoid)-> [Pusat] Dolor</li>
+    <li>PainEvent (penerima_flesh! = Mechanoid)-> [Painstate1] Agonía</li>
+    <li>PainEvent (penerima_flesh == normal)-> miserablemente</li>
+    <li>PainEvent-> dengan menyakitkan</li>
+    <li>PainEvent-> Agonically</li>
+    <li>to-> a</li>
+    <li>dua-> satu</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>SkillDescMelee-> [Wielding] [initiator_possessive] [weapon_label] [SkillAdv]</li>
+    <li>SkillDescMelee-> [menggunakan] [implement] [SkillAdv]</li>
+    <li>menggunakan (p = 4)-> menggunakan</li>
+    <li>menggunakan (p = 3)-> menggunakan</li>
+    <li>menggunakan (p = 2)-> penanganan</li>
+    <li>menggunakan-> mengacungkan</li>
+    <li>menggunakan-> memanipulasi</li>
+    <li>menggunakan (p = 4)-> menggunakan</li>
+    <li>menggunakan-> mengemudi</li>
+    <li>Menggunakan-> Dorong</li>
+    <li>menggunakan-> memanfaatkan</li>
+    <li>menggunakan-> bergerak</li>
+    <li>SkillAdv (initiator_skill<=3)->tidak kompeten</li>
+    <li>SkillAdv (initiator_skill<=3)->tidak kompeten</li>
+    <li>SkillAdv (initiator_skill<=3)->liar</li>
+    <li>SkillAdv (initiator_skill<=3)->secara acak</li>
+    <li>SkillAdv (initiator_skill<=3)->dengan padat</li>
+    <li>SkillAdv (initiator_skill<=4)->canggung</li>
+    <li>SkillAdv (initiator_skill<=4)->canggung</li>
+    <li>SkillAdv (initiator_skill<=5)->dengan takut</li>
+    <li>SkillAdv (initiator_skill<=5)->dgn gagap</li>
+    <li>SkillAdv (initiator_skill<=5)->bodohnya</li>
+    <li>SkillAdv (initiator_skill<=6)->dengan ragu -ragu</li>
+    <li>SkillAdv (initiator_skill<=6)->dengan enggan</li>
+    <li>SkillAdv (initiator_skill<=6)->perlahan-lahan</li>
+    <li>SkillAdv (initiator_skill<=6)->untuk sementara</li>
+    <li>SkillAdv (initiator_skill<=6)->tidak berpengalaman</li>
+    <li>SkillAdv (initiator_skill<=6)->Amatiris</li>
+    <li>SkillAdv (initiator_skill<=6)->dengan takut -takut</li>
+    <li>SkillAdv (initiator_skill<=8)->dengan antusias</li>
+    <li>SkillAdv (initiator_skill> = 6, initiator_skill<=10)->dengan mahir</li>
+    <li>SkillAdv (initiator_skill> = 6, initiator_skill<=10)->kompeten</li>
+    <li>SkillAdv (initiator_skill> = 8)-> secara profesional</li>
+    <li>SkillAdv (initiator_skill> = 8)-> Deftly</li>
+    <li>SkillAdv (initiator_skill> = 8)-> tepat</li>
+    <li>SkillAdv (initiator_skill> = 8)-> Cleverly</li>
+    <li>SkillAdv (initiator_skill> = 8)-> dengan cekatan</li>
+    <li>SkillAdv (initiator_skill> = 8)-> terampil</li>
+    <li>SkillAdv (initiator_skill> = 10)-> mahir</li>
+    <li>SkillAdv (initiator_skill> = 10)-> Slickly</li>
+    <li>SkillAdv (initiator_skill> = 12)-> ahli</li>
+    <li>SkillAdv (initiator_skill> = 12)-> tepatnya</li>
+    <li>SkillAdv (initiator_skill> = 14)-> mahir</li>
+    <li>SkillAdv (initiator_skill> = 16)-> secara artistik</li>
+    <li>SkillAdv (initiator_skill> = 16)-> dengan anggun</li>
+    <li>SkillAdv (initiator_flesh == mechanoid)-> secara mekanis</li>
+    <li>SkillAdv (initiator_flesh == mechanoid)-> robot</li>
+    <li>SkillAdv (initiator_flesh == mechanoid)-> secara langsung</li>-><Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>SkillDescMelee-> [Wielding] Su [weapon_label] [SkillAdv]</li>
+    <li>SkillDescMelee-> [menggunakan] [implement] [SkillAdv]</li>
+    <li>Menggunakan (p = 4)-> lunak</li>
+    <li>menggunakan (p = 3)-> usando</li>
+    <li>Menggunakan (p = 2)-> Mengelola</li>
+    <li>Menggunakan-> Blando</li>
+    <li>Menggunakan-> memanipulasi</li>
+    <li>Menggunakan (p = 4)-> menggunakan</li>
+    <li>Menggunakan-> mengelola</li>
+    <li>Menggunakan-></li>
+    <li>Menggunakan-> menggunakan</li>
+    <li>Menggunakan-> bergerak</li>
+    <li>SkillAdv (initiator_skill & lt; = 3)-> Incompetentemente</li>
+    <li>SkillAdv (initiator_skill & lt; = 3) -> Ineptamente</li>
+    <li>Skilladv (initiator_skill & lt; = 3)-> liar</li>
+    <li>Keterampilan (Keterampilan Inisiator & Lt; = 3)-> Aleatoriamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 3)-> agitadamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 4)-> torpemente</li>
+    <li>Skilladv (initiator_skill & lt; = 4)-> bodoh</li>
+    <li>SkillAdv (initiator_skill & lt; = 5)-> temerosamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 5)-> kekosongan</li>
+    <li>SkillAdv (initiator_skill & lt; = 5)-> neciamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> titubeante</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> dengan enggan</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> lentamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> tentativamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> tidak berpengalaman</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> AficionAdamente</li>
+    <li>SkillAdv (initiator_skill & lt; = 6)-> pemalu</li>
+    <li>SkillAdv (initiator_skill & lt; = 8)-> antusiasmnadament</li>
+    <li>SkillAdv (initiator_skill> = 6, initiator_skill & lt; = 10)-> hábilmente</li>
+    <li>skillAdv (initiator_skill> = 6, initiator_skill & lt; = 10)-> kompeten</li>
+    <li>SkillAdv (initiator_skill> = 8)-> Profesionalmente</li>
+    <li>SkillAdv (initiator_skill> = 8)-> Diestity</li>
+    <li>SkillAdv (initiator_skill> = 8)-> AdecuAdamente</li>
+    <li>SkillAdv (initiator_skill> = 8)-> Intigenement</li>
+    <li>SkillAdv (initiator_skill> = 8)-> terampil</li>
+    <li>SkillAdv (initiator_skill> = 8)-> habilidosamente</li>
+    <li>SkillAdv (initiator_skill> = 10)-> ExperienciAdamente</li>
+    <li>Skilladv (initiator_skill> = 10)-> terampil</li>
+    <li>SkillAdv (initiator_skill> = 12)-> Expertamente</li>
+    <li>SkillAdv (initiator_skill> = 12)-> AcertAdamente</li>
+    <li>SkillAdv (initiator_skill> = 14)-> Magistralmente</li>
+    <li>SkillAdv (initiator_skill> = 16)-> secara artistik</li>
+    <li>SkillAdv (initiator_skill> = 16)-> AgraciAdamente</li>
+    <li>SkillAdv (initiator_flesh == mechanoid)-> secara mekanis</li>
+    <li>SkillAdv (initator_flesh == mechanoid)-> robot</li>
+    <li>SkillAdv (initiator_flesh == mechanoid)-> secara langsung</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 1)-> [penerima_part_destroyed0_label]</li>
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 2)-> [penerima_part_destroyed0_label] dan [penerima_part_destroyed1_label]</li>
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 3)-> [penerima_part_destroyed0_label], [penerima_part_destroyed1_label], dan [penerima_part_destroyed2_label]]</li>
+    <li>dihancurkan_targets-> [penerima_part_destroyed0_label], [penerima_part_destroyed1_label], [penerima_part_destroyed2_label], dan [penerima_part_destroyed3_label]]</li>
+    <li>RURGAGED_TARGETS (penerima_part_damaged_count == 1)-> [penerima_part_damaged0_label]</li>
+    <li>RURGAGED_TARGETS (penerima_part_damaged_count == 2)-> [penerima_part_damaged0_label] dan [penerima_part_damaged1_label]</li>
+    <li>RArpaged_targets (penerima_part_damaged_count == 3)-> [penerima_part_damaged0_label], [penerima_part_damaged1_label], dan [penerima_part_damaged2_label]]</li>
+    <li>RAVADED_TARGETS-> [penerima_part_damaged0_label], [penerima_part_damaged1_label], [penerima_part_damaged2_label], dan [penerima_part_damaged3_label]]</li>-><Combat_WoundIncludes.rulePack.rulesStrings>
+    <!--definidos-->
+    <li>dihancurkan_targetsdef (penerima_part_destroyed_count == 1)-> [penerima_part_destroyed0_definite]</li>
+    <li>dihancurkan_targetsdef (penerima_part_destroyed_count == 2)-> [penerima_part_destroyed0_definite] y [penerima_part_destroyed1_definite]</li>
+    <li>dihancurkan_targetsdef (penerima_part_destroyed_count == 3)-> [penerima_part_destroyed0_definite], [penerima_part_destroyed1_definite], y [penerima_part_destroyed2_definite]]</li>
+    <li>dihancurkan_targetsdef-> [penerima_part_destroyed0_definite], [penerima_part_destroyed1_definite], [penerima_part_destroyed2_definite], y [penerima_part_destroyed3_definite]]</li>
+    <li>RURGADE_TARGETSDEF (penerima_part_damaged_count == 1)-> [penerima_part_damaged0_definite]</li>
+    <li>RArpaged_TargetSDEF (penerima_part_damaged_count == 2)-> [penerima_part_damaged0_definite] y [penerima_part_damaged1_definite]</li>
+    <li>RArpaged_targetsdef (penerima_part_damaged_count == 3)-> [penerima_part_damaged0_definite], [penerima_part_damaged1_definite], y [penerima_part_damaged2_definite]]</li>
+    <li>RURGADE_TARGETSDEF-> [penerima_part_damaged0_label], [penerima_part_damaged1_definite], [penerima_part_damaged2_definite], y [penerima_part_damaged3_definite]]</li>
+    <!--Definido para combat Ranged-->
+    <li>dihancurkan_targetsdef1 (penerima_part_destroyed_count == 1)-> [penerima_part_destroyed0_definite]</li>
+    <li>dihancurkan_targetsdef2 (penerima_part_destroyed_count == 2)-> [penerima_part_destroyed0_definite] y [penerima_part_destroyed1_definite]</li>
+    <li>dihancurkan_targetsdef2 (penerima_part_destroyed_count == 3)-> [penerima_part_destroyed0_definite], [penerima_part_destroyed1_definite], y [penerima_part_destroyed2_definite]]</li>
+    <li>dihancurkan_targetsdef2-> [penerima_part_destroyed0_definite], [penerima_part_destroyed1_definite], [penerima_part_destroyed2_definite], y [penerima_part_destroyed3_definite]], y [penerima_part_destroyed3_definite]]</li>
+    <li>RArpaged_TargetSDEF1 (penerima_part_damaged_count == 1)-> [penerima_part_damaged0_definite]</li>
+    <li>RArpaged_TargetSDef2 (penerima_part_damaged_count == 2)-> [penerima_part_damaged0_definite] y [penerima_part_damaged1_definite]</li>
+    <li>RArpaged_TargetSDef2 (penerima_part_damaged_count == 3)-> [penerima_part_damaged0_definite], [penerima_part_damaged1_definite], y [penerima_part_damaged2_definite]]</li>
+    <li>RArpaged_TargetSDef2-> [penerima_part_draSmaged0_label], [penerima_part_damaged1_definite], [penerima_part_damaged2_definite], y [penerima_part_damaged3_definite]]</li>
+    <!--Sin definir-->
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 1)-> [penerima_part_destroyed0_label]</li>
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 2)-> [penerima_part_destroyed0_label] y [penerima_part_destroyed1_label]</li>
+    <li>dihancurkan_targets (penerima_part_destroyed_count == 3)-> [penerima_part_destroyed0_label], [penerima_part_destroyed1_label], y [penerima_part_destroyed2_label]]</li>
+    <li>dihancurkan_targets-> [penerima_part_destroyed0_label], [penerima_part_destroyed1_label], [penerima_part_destroyed2_label], y [penerima_part_destroyed3_label]]</li>
+    <li>RURGAGED_TARGETS (penerima_part_damaged_count == 1)-> [penerima_part_damaged0_label]</li>
+    <li>RArpaged_targets (penerima_part_damaged_count == 2)-> [penerima_part_damaged0_label] y [penerima_part_damaged1_label]</li>
+    <li>RArpaged_targets (penerima_part_damaged_count == 3)-> [penerima_part_damaged0_label], [penerima_part_damaged1_label], y [penerima_part_damaged2_label]]</li>
+    <li>RURGADE_TARGETS-> [penerima_part_damaged0_label], [penerima_part_damaged1_label], [penerima_part_damaged2_label], y [penerima_part_damaged3_label]]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
+  
+</LanguageData>

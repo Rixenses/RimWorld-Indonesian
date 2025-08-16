@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioferrite harvester -->
+  <BioferriteHarvester.label>Harvester Bioferrita</BioferriteHarvester.label>
+  <!-- EN: When placed near a holding platform, this device draws biomass from the held entity and converts it to bioferrite. The harvester creates more bioferrite than manual extraction.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester; however, each harvester can connect to multiple platforms. -->
+  <BioferriteHarvester.description>Ketika ditempatkan di dekat platform penahanan, perangkat ini mengekstraksi biomassa dari entitas yang ditahan dan membuatnya bioferrita.The Harvester menciptakan lebih banyak bioferrita daripada ekstraksi manual.Entitas yang lebih besar biasanya menghasilkan lebih banyak bioferrita. Namun, bagi sebagian besar makhluk, prosesnya menyebabkan ketidaknyamanan yang ekstrem, yang membuat entitas lebih sulit untuk mengandung.</BioferriteHarvester.description>
+  
+  <!-- EN: bioferrite shaper -->
+  <BioferriteShaper.label>Bioferrita cetakan</BioferriteShaper.label>
+  <!-- EN: A work bench used to craft bioferrite products. This bench uses heat and electromagnetic stimulation to temporarily coax bioferrite into a pliable state, allowing a worker to shape it into complex shapes and combine it with other materials. -->
+  <BioferriteShaper.description>Bank yang berfungsi untuk membuat produk bioferrita.Bank ini menggunakan stimulasi panas dan elektromagnetik untuk sementara waktu membentuk bioferrita dan membuatnya fleksibel, yang memungkinkan pekerja memberikan bentuk yang kompleks dan menggabungkannya dengan bahan lainnya.</BioferriteShaper.description>
+  
+  <!-- EN: serum lab -->
+  <SerumCentrifuge.label>Laboratorium Sor</SerumCentrifuge.label>
+  <!-- EN: A workbench that uses scavenged archotechnology to create single-use injectable serums. Serums produce diverse and exotic effects through the use of exotic archotech mechanites. -->
+  <SerumCentrifuge.description>Bank kerja yang menggunakan arkeoteknologi yang dipulihkan untuk membuat sera injeksi tunggal digunakan.Sor menghasilkan efek yang beragam dan eksotis melalui penggunaan mekanisme arkeoteca eksotis.</SerumCentrifuge.description>
+  
+</LanguageData>

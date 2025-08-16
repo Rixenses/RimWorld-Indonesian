@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call drop pods -->
+  <CallDropPods.label>Hubungi kapsul peluncuran</CallDropPods.label>
+  <!-- EN: Summon drop pods that you can use to travel to another location. -->
+  <CallDropPods.description>Ajak kapsul peluncuran yang dapat Anda gunakan untuk bepergian ke lokasi lain.</CallDropPods.description>
+  
+  <!-- EN: call mechanoids -->
+  <CallMechanoids.label>Hubungi Mecanoides</CallMechanoids.label>
+  <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
+  <CallMechanoids.description>Menyerang mecanoids bermusuhan ke lokasi menggunakan kapsul peluncuran.Mereka akan menyerang semua manusia dekat, baik teman atau musuh.</CallMechanoids.description>
+  
+  <!-- EN: deactivate mechanoid -->
+  <DeactivateMechanoid.label>Nonaktifkan mecanoid</DeactivateMechanoid.label>
+  <!-- EN: Permanently disable a hostile mechanoid. -->
+  <DeactivateMechanoid.description>Secara permanen menonaktifkan mecanoid yang bermusuhan.</DeactivateMechanoid.description>
+  
+  <!-- EN: egg spew -->
+  <EggSpew.label>Ludah telur</EggSpew.label>
+  <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
+  <EggSpew.description>Meluncurkan karung telur dan taburan lumpur asam di area target.Lumpur akan menempel pada tujuan dan membakarnya.</EggSpew.description>
+  
+  <!-- EN: sludge spew -->
+  <SludgeSpew.label>Ludah lumpur</SludgeSpew.label>
+  <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
+  <SludgeSpew.description>Semprotkan lumpur asam di seluruh area target.Lumpur akan menempel pada tujuan dan membakarnya.</SludgeSpew.description>
+  
+  <!-- EN: terror roar -->
+  <TerrorRoar.label>Raungan teror</TerrorRoar.label>
+  <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
+  <TerrorRoar.description>Ini melepaskan raungan yang menakutkan yang memiliki kemungkinan kehabisan untuk dibuang manusia dan dekat hewan yang bermusuhan.</TerrorRoar.description>
+  
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>Trumbo Roar</ThrumboRoar.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <ThrumboRoar.description>Ini melepaskan raungan yang kuat yang dapat membuat manusia dan hewan yang bermusuhan gemetar ketakutan, mengurangi kecepatan gerakan dan manipulasi mereka.</ThrumboRoar.description>
+  
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>Trumpet Perang</WarTrumpet.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <WarTrumpet.description>Ini melepaskan raungan yang kuat yang memiliki kemungkinan gemetar karena takut akan manusia dan hewan yang bermusuhan, mengurangi kecepatan gerakan dan manipulasi.</WarTrumpet.description>
+  
+</LanguageData>

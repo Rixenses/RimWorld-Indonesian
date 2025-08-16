@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: absorbing xenogerm from TargetA. -->
+  <AbsorbXenogerm.reportString>Penyerap Kartu Xenogerm.</AbsorbXenogerm.reportString>
+  
+  <!-- EN: hauling TargetA to TargetB. -->
+  <CarryGenepackToContainer.reportString>mengangkut kartu ke target.</CarryGenepackToContainer.reportString>
+  
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToBuilding.reportString>Mengambil target ke arah kartu.</CarryToBuilding.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityGoToThing.reportString>Melakukan sesuatu.</CastAbilityGoToThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingWithoutWeapon.reportString>Melakukan sesuatu.</CastAbilityOnThingWithoutWeapon.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>Melakukan sesuatu.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  
+  <!-- EN: cleaning pollution. -->
+  <ClearPollution.reportString>polusi membersihkan</ClearPollution.reportString>
+  
+  <!-- EN: taking control of TargetA. -->
+  <ControlMech.reportString>Mengambil kontrol kartu.</ControlMech.reportString>
+  
+  <!-- EN: creating xenogerm. -->
+  <CreateXenogerm.reportString>membuat xenogermen.</CreateXenogerm.reportString>
+  
+  <!-- EN: deathresting. -->
+  <Deathrest.reportString>tanggam</Deathrest.reportString>
+  
+  <!-- EN: disassembling TargetA. -->
+  <DisassembleMech.reportString>Kartu Pembongkaran.</DisassembleMech.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterBuilding.reportString>memasuki scarry.</EnterBuilding.reportString>
+  
+  <!-- EN: absorbing xenogerm from TargetA. -->
+  <GetReimplanted.reportString>Penyerap Kartu Xenogerm.</GetReimplanted.reportString>
+  
+  <!-- EN: hauling TargetA to charger. -->
+  <HaulMechToCharger.reportString>mengangkut target ke pengisi daya.</HaulMechToCharger.reportString>
+  
+  <!-- EN: installing TargetA. -->
+  <InstallMechlink.reportString>Menginstal kartu.</InstallMechlink.reportString>
+  
+  <!-- EN: charging. -->
+  <MechCharge.reportString>pengisian daya.</MechCharge.reportString>
+  
+  <!-- EN: feeding on TargetA. -->
+  <PrisonerBloodfeed.reportString>memberi makan kartu.</PrisonerBloodfeed.reportString>
+  
+  <!-- EN: decrypting TargetA. -->
+  <ReadDatacore.reportString>Menguraikan Targeta.</ReadDatacore.reportString>
+  
+  <!-- EN: releasing mechanoids. -->
+  <ReleaseMechs.reportString>Melepaskan Mechanoids.</ReleaseMechs.reportString>
+  
+  <!-- EN: Doing something. -->
+  <RemoveMechlink.reportString>Melakukan sesuatu.</RemoveMechlink.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <RepairMech.reportString>Kartu Perbaikan.</RepairMech.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <RepairMechRemote.reportString>Kartu Perbaikan.</RepairMechRemote.reportString>
+  
+  <!-- EN: dormant self-charging. -->
+  <SelfShutdown.reportString>Memuat hibernasi</SelfShutdown.reportString>
+  
+  <!-- EN: shielding TargetA. -->
+  <ShieldMech.reportString>kartu pelindung.</ShieldMech.reportString>
+  
+  <!-- EN: romancing TargetA. -->
+  <TryRomance.reportString>Kartu jatuh.</TryRomance.reportString>
+  
+  <!-- EN: waiting. -->
+  <Wait_WithSleeping.reportString>menunggu.</Wait_WithSleeping.reportString>
+  
+</LanguageData>

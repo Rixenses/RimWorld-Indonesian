@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>kiper</Tribal_Archer.label>
+  <Tribal_Archer.labelFemale>Arquera</Tribal_Archer.labelFemale>
+  <Tribal_Archer.labelPlural>Pemanah</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>Bersérer</Tribal_Berserker.label>
+  <Tribal_Berserker.labelPlural>Bersérer</Tribal_Berserker.labelPlural>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>Kepala Bersérker</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelFemale>Lempar Bersrker</Tribal_ChiefMelee.labelFemale>
+  <Tribal_ChiefMelee.labelPlural>Bos Bersérker</Tribal_ChiefMelee.labelPlural>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>Kepala Archer</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelFemale>Kepala Archera</Tribal_ChiefRanged.labelFemale>
+  <Tribal_ChiefRanged.labelPlural>Kepala busur</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>Pemanah berat</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.labelFemale>Archera berat</Tribal_HeavyArcher.labelFemale>
+  <Tribal_HeavyArcher.labelPlural>Pemanah Berat</Tribal_HeavyArcher.labelPlural>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>pemburu</Tribal_Hunter.label>
+  <Tribal_Hunter.labelFemale>pemburu wanita</Tribal_Hunter.labelFemale>
+  <Tribal_Hunter.labelPlural>Pemburu</Tribal_Hunter.labelPlural>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>menyesal</Tribal_Penitent.label>
+  <Tribal_Penitent.labelPlural>menyesal</Tribal_Penitent.labelPlural>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>pedagang</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>pedagang</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>Guerrero</Tribal_Warrior.label>
+  <Tribal_Warrior.labelFemale>Prajurit</Tribal_Warrior.labelFemale>
+  <Tribal_Warrior.labelPlural>Prajurit</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

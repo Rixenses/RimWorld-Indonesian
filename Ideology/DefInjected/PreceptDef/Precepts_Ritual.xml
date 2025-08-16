@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blinding -->
+  <BlindingCeremony.label>menyilaukan</BlindingCeremony.label>
+  <!-- EN: A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care. -->
+  <BlindingCeremony.description>Pembatasan akan membutakan tujuan secara ritual.Publik akan berfungsi sebagai audiensi sementara Curtor memberikan pidato, memotong kedua mata target dan mengatakan beberapa kata terakhir.Tujuannya akan berdarah dan akan membutuhkan perhatian medis segera.</BlindingCeremony.description>
+  
+  <!-- EN: dance party -->
+  <Classic_DanceParty.label>pesta dansa</Classic_DanceParty.label>
+  <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
+  <Classic_DanceParty.description>Pertemuan perayaan bagi para pemukim Anda untuk bersenang -senang.Seorang pemimpin akan memberikan suasana hati dan kemudian semuanya bersosialisasi untuk sementara waktu.</Classic_DanceParty.description>
+  
+  <!-- EN: drum party -->
+  <Classic_DrumParty.label>Pesta drum</Classic_DrumParty.label>
+  <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
+  <Classic_DrumParty.description>Pertemuan perayaan bagi para pemukim Anda untuk bersenang -senang.Seorang pemimpin akan memberikan suasana hati dan kemudian semuanya bersosialisasi untuk sementara waktu.</Classic_DrumParty.description>
+  
+  <!-- EN: conversion ritual -->
+  <Conversion.label>Ritual konversi</Conversion.label>
+  <!-- EN: Try to persuade someone into joining your ideoligion. -->
+  <Conversion.description>Cobalah untuk membujuk seseorang untuk bergabung dengan ideolisasi Anda.</Conversion.description>
+  
+  <!-- EN: christmas tree party -->
+  <DateRitualConsumable.label>Pesta Natal</DateRitualConsumable.label>
+  <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
+  <DateRitualConsumable.description>Pertemuan perayaan bagi para pemukim Anda untuk bersenang -senang.Seorang pemimpin akan memberikan suasana hati dan kemudian semuanya bersosialisasi untuk sementara waktu.</DateRitualConsumable.description>
+  
+  <!-- EN: public execution -->
+  <Execution.label>eksekusi publik</Execution.label>
+  <!-- EN: An executioner will publicly execute a prisoner. The executioner will give a short speech, execute the prisoner by cutting, and say some closing words. Spectating slaves will become afraid and intimidated, and colonists will feel exhilarated or disgusted depending on their beliefs. -->
+  <Execution.description>Seorang algojo akan secara terbuka mengeksekusi seorang tahanan.Algojo akan mengucapkan pidato singkat, akan mengeksekusi tahanan melalui potongan dan mengucapkan beberapa kata terakhir.Para penonton akan merasa takut dan terintimidasi, dan para pemukim akan merasa bersemangat atau jijik, tergantung pada keyakinan mereka.</Execution.description>
+  <!-- EN: Public execution -->
+  <Execution.tipLabelOverride>Eksekusi publik</Execution.tipLabelOverride>
+  
+  <!-- EN: social festival -->
+  <Festival.label>Partai Sosial</Festival.label>
+  <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
+  <Festival.description>Pertemuan perayaan bagi para pemukim Anda untuk bersenang -senang.Seorang pemimpin akan memberikan pidato yang menggembirakan dan kemudian semuanya bersosialisasi untuk sementara waktu.</Festival.description>
+  
+  <!-- EN: funeral -->
+  <Funeral.label>pemakaman</Funeral.label>
+  <!-- EN: A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals. -->
+  <Funeral.description>Bertemu yang terjadi di sekitar makam orang percaya setelah mati dan dimakamkan.Jika tubuh dihancurkan, kuburan kosong dapat digunakan.Budak tidak menerima pemakaman.</Funeral.description>
+  <!-- EN: {PAWN_nameDef} should be buried and given a funeral so {PAWN_possessive} friends and family can say farewell. -->
+  <Funeral.extraTextPawnDeathLetter>{Pawn_namedef} Haruskah itu dimakamkan {Pawn_gender?O: A} dan menerima pemakaman sehingga teman dan keluarga mereka dapat mengucapkan selamat tinggal.</Funeral.extraTextPawnDeathLetter>
+  
+  <!-- EN: funeral (no corpse) -->
+  <FuneralNoCorpse.label>pemakaman (tanpa mayat)</FuneralNoCorpse.label>
+  <!-- EN: A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals. -->
+  <FuneralNoCorpse.description>Bertemu yang terjadi di sekitar makam orang percaya setelah mati dan dimakamkan.Jika tubuh dihancurkan, kuburan kosong dapat digunakan.Budak tidak menerima pemakaman.</FuneralNoCorpse.description>
+  
+  <!-- EN: gladiator duel -->
+  <GladiatorDuel.label>Gladiator Duel</GladiatorDuel.label>
+  <!-- EN: A duel between prisoners or slaves. The organizer will give a speech to excite the crowd, then the duelists will fight until one of them falls or time runs out. If weapons are in the arena, the duelists will pick up and use them. -->
+  <GladiatorDuel.description>Duel antara tahanan atau budak.Penyelenggara akan memberikan pidato untuk mendorong orang banyak, dan kemudian Duelists akan bertarung sampai salah satu dari mereka jatuh atau waktu yang kelelahan.Jika ada senjata di pasir, Duelists akan mengambilnya dan menggunakannya.</GladiatorDuel.description>
+  <!-- EN: Prisoner/slave gladiator duel -->
+  <GladiatorDuel.tipLabelOverride>Gladiator Duel antara tahanan atau laki -laki</GladiatorDuel.tipLabelOverride>
+  
+  <!-- EN: leader speech -->
+  <LeaderSpeech.label>Pidato pemimpin</LeaderSpeech.label>
+  <!-- EN: A rousing speech intended to improve morale. Colonists will gather, and the leader will speak for a few hours. If all goes well, listeners will feel inspired, and gain respect for the leader. If it goes poorly, the speech will do social damage. -->
+  <LeaderSpeech.description>Pidato energik dimaksudkan untuk meningkatkan moralitas.Para pemukim akan bertemu dan pemimpin akan berbicara selama beberapa jam.Jika semuanya berjalan dengan baik, para pendengar akan merasa terinspirasi dan memenangkan rasa hormat kepada pemimpin.Jika salah, pidato akan menyebabkan kerusakan sosial.</LeaderSpeech.description>
+  
+  <!-- EN: role change -->
+  <RoleChange.label>Perubahan Peran</RoleChange.label>
+  <!-- EN: A ceremony for changing social roles. The person changing roles will give a speech while others gather around. The required number of spectators must attend. -->
+  <RoleChange.description>Upacara Perubahan Peran Sosial.Orang yang mengubah peran akan memberikan pidato sementara yang lain bertemu.Jumlah penonton yang diperlukan harus hadir.</RoleChange.description>
+  
+  <!-- EN: scarification -->
+  <ScarificationCeremony.label>Scarifikasi</ScarificationCeremony.label>
+  <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
+  <ScarificationCeremony.description>Ritual bekas luka di mana pembatas mencatat simbol -simbol ideoligasi dalam suatu tujuan.Publik akan mengamati bagaimana kurator mengucapkan pidato, membuat merek dan kemudian mengatakan beberapa kata terakhir.</ScarificationCeremony.description>
+  
+  <!-- EN: tree connection ritual -->
+  <TreeConnection.label>Koneksi Ritual Refroborea</TreeConnection.label>
+  <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
+  <TreeConnection.description>Konektor akan terhubung dengan pohon Gauranlen.Konektor akan memainkan pohon Gauranlen dan berbicara dengan Anda, membentuk tautan permanen.Yang lain bertemu dalam lingkaran untuk mengamati dan menambah kekuatan pada ritual.</TreeConnection.description>
+  
+  <!-- EN: trial -->
+  <Trial.label>keputusan</Trial.label>
+  <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators. -->
+  <Trial.description>Percobaan untuk tuduhan yang mengerikan.Inisiator akan menuduh seseorang melakukan kesalahan besar dan mengumpulkan orang untuk diadili.Para penonton akan mendengarkan bagaimana penuduh dan terdakwa mendiskusikan, dan kemudian memutuskan apakah tuduhan itu benar.Jika terdakwa dihukum, ia dapat dibuang, ditangkap atau dieksekusi dengan bebas dan tidak ada yang peduli.Kemungkinan hukuman tergantung pada keterampilan sosial terdakwa dan penuduh, dan jumlah penonton.</Trial.description>
+  
+  <!-- EN: trial -->
+  <TrialMentalState.label>keputusan</TrialMentalState.label>
+  <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators. -->
+  <TrialMentalState.description>Percobaan untuk tuduhan yang mengerikan.Inisiator akan menuduh seseorang melakukan kesalahan besar dan mengumpulkan orang untuk diadili.Para penonton akan mendengarkan bagaimana penuduh dan terdakwa mendiskusikan, dan kemudian memutuskan apakah tuduhan itu benar.Jika terdakwa dihukum, ia dapat dibuang, ditangkap atau dieksekusi dengan bebas dan tidak ada yang peduli.Kemungkinan hukuman tergantung pada keterampilan sosial terdakwa dan penuduh, dan jumlah penonton.</TrialMentalState.description>
+  
+  <!-- EN: trial -->
+  <TrialPrisoner.label>keputusan</TrialPrisoner.label>
+  <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilites of the accused and accuser, and the number of spectators. -->
+  <TrialPrisoner.description>Percobaan untuk tuduhan yang mengerikan.Inisiator akan menuduh seseorang melakukan kesalahan besar dan mengumpulkan orang untuk diadili.Para penonton akan mendengarkan bagaimana penuduh dan terdakwa mendiskusikan, dan kemudian memutuskan apakah tuduhan itu benar.Jika terdakwa dihukum, ia dapat dibuang, ditangkap atau dieksekusi dengan bebas dan tidak ada yang peduli.Kemungkinan hukuman tergantung pada keterampilan sosial terdakwa dan penuduh, dan jumlah penonton.</TrialPrisoner.description>
+  
+</LanguageData>

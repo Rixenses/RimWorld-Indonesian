@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install aesthetic nose -->
+  <InstallAestheticNose.label>Pasang hidung estetika</InstallAestheticNose.label>
+  <!-- EN: Install an aesthetic nose. -->
+  <InstallAestheticNose.description>Pasang hidung estetika.</InstallAestheticNose.description>
+  <!-- EN: Installing aesthetic nose. -->
+  <InstallAestheticNose.jobString>Memasang hidung estetika.</InstallAestheticNose.jobString>
+  
+  <!-- EN: install aesthetic shaper -->
+  <InstallAestheticShaper.label>Pasang cetakan tubuh</InstallAestheticShaper.label>
+  <!-- EN: Install an aesthetic shaper. -->
+  <InstallAestheticShaper.description>Pasang cetakan tubuh.</InstallAestheticShaper.description>
+  <!-- EN: Installing aesthetic shaper. -->
+  <InstallAestheticShaper.jobString>Memasang cetakan tubuh.</InstallAestheticShaper.jobString>
+  
+  <!-- EN: install armorskin gland -->
+  <InstallArmorskinGland.label>Pasang kelenjar pelindung kulit</InstallArmorskinGland.label>
+  <!-- EN: Install an armorskin gland. -->
+  <InstallArmorskinGland.description>Pasang kelenjar pelindung kulit.</InstallArmorskinGland.description>
+  <!-- EN: Installing armorskin gland. -->
+  <InstallArmorskinGland.jobString>Memasang kelenjar pelindung kulit.</InstallArmorskinGland.jobString>
+  
+  <!-- EN: install circadian assistant -->
+  <InstallCircadianAssistant.label>Instal BiorRitm Assistant</InstallCircadianAssistant.label>
+  <!-- EN: Install a circadian assistant. -->
+  <InstallCircadianAssistant.description>Pasang asisten biorritm.</InstallCircadianAssistant.description>
+  <!-- EN: Installing circadian assistant. -->
+  <InstallCircadianAssistant.jobString>Menginstal BiorRitm Assistant.</InstallCircadianAssistant.jobString>
+  
+  <!-- EN: install circadian half-cycler -->
+  <InstallCircadianHalfCycler.label>Pasang penekan tidur</InstallCircadianHalfCycler.label>
+  <!-- EN: Install a circadian half-cycler. -->
+  <InstallCircadianHalfCycler.description>Pasang penekan tidur.</InstallCircadianHalfCycler.description>
+  <!-- EN: Installing circadian half-cycler. -->
+  <InstallCircadianHalfCycler.jobString>Memasang penekan tidur.</InstallCircadianHalfCycler.jobString>
+  
+  <!-- EN: install coagulator -->
+  <InstallCoagulator.label>Pasang koagulator</InstallCoagulator.label>
+  <!-- EN: Install a coagulator. -->
+  <InstallCoagulator.description>Pasang koagulator.</InstallCoagulator.description>
+  <!-- EN: Installing coagulator. -->
+  <InstallCoagulator.jobString>Memasang koagulator.</InstallCoagulator.jobString>
+  
+  <!-- EN: install sterilizing stomach -->
+  <InstallDetoxifierStomach.label>Pasang detoksifikasi perut</InstallDetoxifierStomach.label>
+  <!-- EN: Install a sterilizing stomach. -->
+  <InstallDetoxifierStomach.description>Pasang detoksifikasi perut.</InstallDetoxifierStomach.description>
+  <!-- EN: Installing sterilizing stomach. -->
+  <InstallDetoxifierStomach.jobString>Memasang detoksifikasi perut.</InstallDetoxifierStomach.jobString>
+  
+  <!-- EN: install gastro-analyzer -->
+  <InstallGastroAnalyzer.label>Pasang gastroanizer</InstallGastroAnalyzer.label>
+  <!-- EN: Install a gastro-analyzer. -->
+  <InstallGastroAnalyzer.description>Pasang gastroanizer.</InstallGastroAnalyzer.description>
+  <!-- EN: Installing gastro-analyzer. -->
+  <InstallGastroAnalyzer.jobString>Memasang gastroanizer.</InstallGastroAnalyzer.jobString>
+  
+  <!-- EN: install healing enhancer -->
+  <InstallHealingEnhancer.label>Pasang Potentator Penyembuhan</InstallHealingEnhancer.label>
+  <!-- EN: Install a healing enhancer. -->
+  <InstallHealingEnhancer.description>Pasang penambah penyembuhan.</InstallHealingEnhancer.description>
+  <!-- EN: Installing healing enhancer. -->
+  <InstallHealingEnhancer.jobString>Memasang Penambah Penyembuhan.</InstallHealingEnhancer.jobString>
+  
+  <!-- EN: install immunoenhancer -->
+  <InstallImmunoenhancer.label>Pasang pemotongan immuno</InstallImmunoenhancer.label>
+  <!-- EN: Install an immunoenhancer. -->
+  <InstallImmunoenhancer.description>Pasang pemotongan immuno.</InstallImmunoenhancer.description>
+  <!-- EN: Installing immunoenhancer. -->
+  <InstallImmunoenhancer.jobString>Pasang pemotongan immuno.</InstallImmunoenhancer.jobString>
+  
+  <!-- EN: install learning assistant -->
+  <InstallLearningAssistant.label>Instal Pembelajaran Wizard</InstallLearningAssistant.label>
+  <!-- EN: Install a learning assistant. -->
+  <InstallLearningAssistant.description>Instal Wisaya Belajar.</InstallLearningAssistant.description>
+  <!-- EN: Installing learning assistant. -->
+  <InstallLearningAssistant.jobString>Menginstal Wisaya Belajar.</InstallLearningAssistant.jobString>
+  
+  <!-- EN: install love enhancer -->
+  <InstallLoveEnhancer.label>Pasang penambah seksual</InstallLoveEnhancer.label>
+  <!-- EN: Install a love enhancer. -->
+  <InstallLoveEnhancer.description>Pasang penambah seksual.</InstallLoveEnhancer.description>
+  <!-- EN: Installing love enhancer. -->
+  <InstallLoveEnhancer.jobString>Memasang penambah seksual.</InstallLoveEnhancer.jobString>
+  
+  <!-- EN: install neurocalculator -->
+  <InstallNeurocalculator.label>Pasang neurocalculator</InstallNeurocalculator.label>
+  <!-- EN: Install a neurocalculator. -->
+  <InstallNeurocalculator.description>Pasang neurocalculator.</InstallNeurocalculator.description>
+  <!-- EN: Installing neurocalculator. -->
+  <InstallNeurocalculator.jobString>Memasang neurocalculator.</InstallNeurocalculator.jobString>
+  
+  <!-- EN: install nuclear stomach -->
+  <InstallNuclearStomach.label>Pasang lambung nuklir</InstallNuclearStomach.label>
+  <!-- EN: Install a nuclear stomach. -->
+  <InstallNuclearStomach.description>Pasang perut nuklir.</InstallNuclearStomach.description>
+  <!-- EN: Installing nuclear stomach. -->
+  <InstallNuclearStomach.jobString>Memasang lambung nuklir.</InstallNuclearStomach.jobString>
+  
+  <!-- EN: install reprocessor stomach -->
+  <InstallReprocessorStomach.label>Pasang reprosoror perut</InstallReprocessorStomach.label>
+  <!-- EN: Install a reprocessor stomach. -->
+  <InstallReprocessorStomach.description>Pasang reprosesor perut.</InstallReprocessorStomach.description>
+  <!-- EN: Installing reprocessor stomach. -->
+  <InstallReprocessorStomach.jobString>Memasang Reprosesor Perut.</InstallReprocessorStomach.jobString>
+  
+  <!-- EN: install stoneskin gland -->
+  <InstallStoneskinGland.label>Pasang kelenjar dermorrocose</InstallStoneskinGland.label>
+  <!-- EN: Install a stoneskin gland. -->
+  <InstallStoneskinGland.description>Pasang kelenjar dermorrocose.</InstallStoneskinGland.description>
+  <!-- EN: Installing stoneskin gland. -->
+  <InstallStoneskinGland.jobString>Memasang kelenjar dermorrocose.</InstallStoneskinGland.jobString>
+  
+  <!-- EN: install toughskin gland -->
+  <InstallToughskinGland.label>Pasang kelenjar tahan kulit</InstallToughskinGland.label>
+  <!-- EN: Install a toughskin gland. -->
+  <InstallToughskinGland.description>Pasang kelenjar tahan kulit.</InstallToughskinGland.description>
+  <!-- EN: Installing toughskin gland. -->
+  <InstallToughskinGland.jobString>Memasang kelenjar leleh.</InstallToughskinGland.jobString>
+  
+  <!-- EN: remove aesthetic nose -->
+  <RemoveAestheticNose.label>Ekstrak hidung estetika</RemoveAestheticNose.label>
+  <!-- EN: Remove aesthetic nose. -->
+  <RemoveAestheticNose.description>Mengekstrak hidung estetika</RemoveAestheticNose.description>
+  <!-- EN: Removing aesthetic nose. -->
+  <RemoveAestheticNose.jobString>Mengekstraksi hidung estetika</RemoveAestheticNose.jobString>
+  
+  <!-- EN: remove aesthetic shaper -->
+  <RemoveAestheticShaper.label>Ekstrak cetakan tubuh</RemoveAestheticShaper.label>
+  <!-- EN: Remove aesthetic shaper. -->
+  <RemoveAestheticShaper.description>Ekstrak cetakan tubuh.</RemoveAestheticShaper.description>
+  <!-- EN: Removing aesthetic shaper. -->
+  <RemoveAestheticShaper.jobString>Mengekstraksi cetakan tubuh.</RemoveAestheticShaper.jobString>
+  
+  <!-- EN: remove armorskin gland -->
+  <RemoveArmorskinGland.label>Ekstrak kelenjar pelindung kulit</RemoveArmorskinGland.label>
+  <!-- EN: Remove armorskin gland. -->
+  <RemoveArmorskinGland.description>Mengekstrak kelenjar baju besi kulit.</RemoveArmorskinGland.description>
+  <!-- EN: Removing armorskin gland. -->
+  <RemoveArmorskinGland.jobString>Mengekstraksi kelenjar pelindung kulit.</RemoveArmorskinGland.jobString>
+  
+  <!-- EN: remove circadian assistant -->
+  <RemoveCircadianAssistant.label>Ekstrak asisten biorritm</RemoveCircadianAssistant.label>
+  <!-- EN: Remove circadian assistant. -->
+  <RemoveCircadianAssistant.description>Ekstrak asisten biorritm.</RemoveCircadianAssistant.description>
+  <!-- EN: Removing circadian assistant. -->
+  <RemoveCircadianAssistant.jobString>Asisten biorritm yang asyik.</RemoveCircadianAssistant.jobString>
+  
+  <!-- EN: remove circadian half-cycler -->
+  <RemoveCircadianHalfCycler.label>Ekstrak penekan tidur</RemoveCircadianHalfCycler.label>
+  <!-- EN: Remove circadian half-cycler. -->
+  <RemoveCircadianHalfCycler.description>Ekstrak penekan tidur.</RemoveCircadianHalfCycler.description>
+  <!-- EN: Removing circadian half-cycler. -->
+  <RemoveCircadianHalfCycler.jobString>Mengekstrada penekan tidur.</RemoveCircadianHalfCycler.jobString>
+  
+  <!-- EN: remove coagulator -->
+  <RemoveCoagulator.label>Ekstrak koagulator</RemoveCoagulator.label>
+  <!-- EN: Remove coagulator. -->
+  <RemoveCoagulator.description>Ekstrak koagulator.</RemoveCoagulator.description>
+  <!-- EN: Removing coagulator. -->
+  <RemoveCoagulator.jobString>Koagulator ekstra.</RemoveCoagulator.jobString>
+  
+  <!-- EN: remove gastro-analyzer -->
+  <RemoveGastroAnalyzer.label>Ekstrak gastroanizer</RemoveGastroAnalyzer.label>
+  <!-- EN: Remove gastro-analyzer. -->
+  <RemoveGastroAnalyzer.description>Mengekstrak gastroanizer.</RemoveGastroAnalyzer.description>
+  <!-- EN: Removing gastro-analyzer. -->
+  <RemoveGastroAnalyzer.jobString>Mengekstraksi Gataanizer.</RemoveGastroAnalyzer.jobString>
+  
+  <!-- EN: remove healing enhancer -->
+  <RemoveHealingEnhancer.label>Ekstrak Penambah Penyembuhan</RemoveHealingEnhancer.label>
+  <!-- EN: Remove healing enhancer. -->
+  <RemoveHealingEnhancer.description>Mengekstrak penanda penyembuhan.</RemoveHealingEnhancer.description>
+  <!-- EN: Removing healing enhancer. -->
+  <RemoveHealingEnhancer.jobString>Mengekstraksi Penambah Penyembuhan.</RemoveHealingEnhancer.jobString>
+  
+  <!-- EN: remove immunoenhancer -->
+  <RemoveImmunoenhancer.label>Ekstrak immuno-potentiator</RemoveImmunoenhancer.label>
+  <!-- EN: Remove immunoenhancer. -->
+  <RemoveImmunoenhancer.description>Ekstrak pemotongan immuno.</RemoveImmunoenhancer.description>
+  <!-- EN: Removing immunoenhancer. -->
+  <RemoveImmunoenhancer.jobString>Extraning Immuno-Potentiator.</RemoveImmunoenhancer.jobString>
+  
+  <!-- EN: remove learning assistant -->
+  <RemoveLearningAssistant.label>Ekstrak Asisten Pembelajaran</RemoveLearningAssistant.label>
+  <!-- EN: Remove learning assistant. -->
+  <RemoveLearningAssistant.description>Ekstrak asisten pembelajaran.</RemoveLearningAssistant.description>
+  <!-- EN: Removing learning assistant. -->
+  <RemoveLearningAssistant.jobString>Mengekstraksi Asisten Pembelajaran.</RemoveLearningAssistant.jobString>
+  
+  <!-- EN: remove love enhancer -->
+  <RemoveLoveEnhancer.label>Mengekstrak penambah seksual</RemoveLoveEnhancer.label>
+  <!-- EN: Remove love enhancer. -->
+  <RemoveLoveEnhancer.description>Mengekstrak penambah seksual.</RemoveLoveEnhancer.description>
+  <!-- EN: Removing love enhancer. -->
+  <RemoveLoveEnhancer.jobString>Mengekstraksi penambah seksual.</RemoveLoveEnhancer.jobString>
+  
+  <!-- EN: remove neurocalculator -->
+  <RemoveNeurocalculator.label>Ekstrak neurocalculator</RemoveNeurocalculator.label>
+  <!-- EN: Remove neurocalculator. -->
+  <RemoveNeurocalculator.description>Ekstrak neurocalculator.</RemoveNeurocalculator.description>
+  <!-- EN: Removing neurocalculator. -->
+  <RemoveNeurocalculator.jobString>Ekstra neurocalculator.</RemoveNeurocalculator.jobString>
+  
+  <!-- EN: remove stoneskin gland -->
+  <RemoveStoneskinGland.label>Ekstrak kelenjar dermorrocose</RemoveStoneskinGland.label>
+  <!-- EN: Remove stoneskin gland. -->
+  <RemoveStoneskinGland.description>Ekstrak kelenjar dermorrosyous.</RemoveStoneskinGland.description>
+  <!-- EN: Removing stoneskin gland. -->
+  <RemoveStoneskinGland.jobString>Kelenjar ekstramorrokosa.</RemoveStoneskinGland.jobString>
+  
+  <!-- EN: remove toughskin gland -->
+  <RemoveToughskinGland.label>Ekstrak kelenjar derory</RemoveToughskinGland.label>
+  <!-- EN: Remove toughskin gland. -->
+  <RemoveToughskinGland.description>Mengekstrak kelenjar tahan kulit.</RemoveToughskinGland.description>
+  <!-- EN: Removing toughskin gland. -->
+  <RemoveToughskinGland.jobString>Kelenjar tahan dermor ekstraning.</RemoveToughskinGland.jobString>
+  
+</LanguageData>

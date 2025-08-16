@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription -> [DiscoveryMethod] Kompleks kuno di dekatnya yang dikatakan mengandung harta karun. \ n \ nyou dapat masuk untuk mengumpulkan rampasan di dalamnya.Selain itu, aktivitas Anda di kompleks mungkin menarik perhatian yang tidak diinginkan.</li>-><OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [DiscoveryMethod] Kompleks lama dekat yang dikatakan berisi harta.Selain itu, aktivitas Anda di kompleks dapat menarik perhatian yang tidak diinginkan.</li>
+  </OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 3)-> [ComplexAdj] [Complex] [Finalword]</li>
+    <li>QuestName-> [Complex] [Finalword]</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> Misterius</li>
+    <li>Complexadj-> kuno</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Tersembunyi</li>
+    <li>Complexadj-> Mati</li>
+    <li>kompleks-> kompleks</li>
+    <li>Instalasi Kompleks-></li>
+    <li>Kompleks-> struktur</li>
+    <li>kata final-> harta karun</li>
+    <li>kata final-> kekayaan</li>
+    <li>kata final-> trove</li>
+    <li>Kata final-> cache</li>
+    <li>kata final-> rampasan</li>
+    <li>kata final-> merampok</li>
+    <li>kata final-> penjarahan</li>
+    <li>kata final-> raiding</li>
+    <li>kata final-> pencurian</li>
+    <li>kata final-> pencurian</li>
+    <li>kata final-> caper</li>
+    <li>Finalword-> Booty</li>-><OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+    <li>QuestName (p = 3)-> [Finalword] del [kompleks] [ComplexAdj]</li>
+    <li>nama ini (p = 3)-> [lipat kata] dari [complexfem] [kompleks.</li>
+    <li>QuestName (p = 3)-> [finalwordvar] al [kompleks] [complexadj]</li>
+    <li>QuestName (p = 3)-> [finalwordvar] a la [complexfem] [complexadj]</li>
+    <li>QuestName-> [Finalword] Del [Kompleks]</li>
+    <li>QuestName-> [Finalword] dari [ComplexFem]</li>
+    <li>QuestName-> [finalwordvar] al [kompleks]</li>
+    <li>QuestName-> [EndWordVar] ke [ComplexFem]</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> Misterius</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Oculture</li>
+    <li>Complexadj-> fana</li>
+    <li>Complexadjfem-> Rahasia</li>
+    <li>Complexadjfem-> MISTERIOSA</li>
+    <li>Complexadjfem-> antigua</li>
+    <li>Complexadjfem-> vieja</li>
+    <li>complexadjfem-> tersembunyi</li>
+    <li>complexadjfem-> fana</li>
+    <li>kompleks-> kompleks</li>
+    <li>ComplexFem-> Instalasi</li>
+    <li>ComplexFem-> struktur</li>
+    <li>Kata final-> The Treasury</li>
+    <li>Kata final-> kekayaan</li>
+    <li>Kata final-> Koleksi</li>
+    <li>Kata final-> reservasi</li>
+    <li>Finalword-> The Botín</li>
+    <li>finalwordvar-> robo</li>
+    <li>Finalwordvar-> penjarahan</li>
+    <li>Finalwordvar-> In-in-incursion</li>
+    <li>Finalwordvar-> pencurian</li>
+    <li>Finalwordvar-> perampokan</li>
+    <li>Finalwordvar-> blow</li>
+  </OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Kompleks</li>
+    <li>subjek-> kompleks</li>
+    <li>Subjek-> Sinyal Kompleks</li>
+    <li>QuestMapFeature-> Small Complex</li>
+    <li>QuestMapFeature-> Fasilitas</li>
+    <li>QuestMaptext-> Harta Kuno</li>
+    <li>QuestMaptext-> hilang pemulung</li>-><OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+    <li>Subjek-> Complejos</li>
+    <li>Subjek-> Complejo</li>
+    <li>Subjek-> Sinyal Kompleks</li>
+    <li>QuestMapFeature-> Small Complex</li>
+    <li>QuestMapFeature-> Instalasi</li>
+    <li>QuestMaptext-> Harta Kuno</li>
+    <li>QuestMaptext-> hilang pemulung</li>
+  </OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+  
+</LanguageData>

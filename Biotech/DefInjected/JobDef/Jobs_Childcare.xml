@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: playing with TargetA. -->
+  <BabyPlay.reportString>Bermain dengan kartu.</BabyPlay.reportString>
+  
+  <!-- EN: feeding from TargetA. -->
+  <BabySuckle.reportString>memberi makan kartu.</BabySuckle.reportString>
+  
+  <!-- EN: feeding TargetB to TargetA. -->
+  <BottleFeedBaby.reportString>kartu makan dengan kartu.</BottleFeedBaby.reportString>
+  
+  <!-- EN: breastfeeding TargetA. -->
+  <Breastfeed.reportString>Menyusui ke kartu.</Breastfeed.reportString>
+  
+  <!-- EN: carrying TargetA to TargetB. -->
+  <BreastfeedCarryToMom.reportString>Membawa ke kartu untuk ditargetkan.</BreastfeedCarryToMom.reportString>
+  
+  <!-- EN: putting TargetA somewhere safe. -->
+  <BringBabyToSafety.reportString>Menempatkan kartu di tempat yang aman.</BringBabyToSafety.reportString>
+  
+  <!-- EN: putting TargetA somewhere safe. -->
+  <BringBabyToSafetyUnforced.reportString>Menempatkan target A di tempat yang aman.</BringBabyToSafetyUnforced.reportString>
+  
+  <!-- EN: carrying TargetA to TargetB. -->
+  <CarryToMomAfterBirth.reportString>Membawa ke kartu untuk ditargetkan.</CarryToMomAfterBirth.reportString>
+  
+  <!-- EN: fertilizing TargetA. -->
+  <FertilizeOvum.reportString>kartu pemupukan.</FertilizeOvum.reportString>
+  
+</LanguageData>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>Leluhur Barril</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>Laras tua rusak yang tampaknya berisi beberapa jenis limbah.Satu -satunya hal yang mengandung sekarang adalah noda lumpur kering.</AncientBarrel.description>
+  
+  <!-- EN: ancient basic recharger -->
+  <AncientBasicRecharger.label>Pengisi daya dasar leluhur</AncientBasicRecharger.label>
+  <!-- EN: An ancient basic recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBasicRecharger.description>Pengisi daya dasar lama.Potongan berharga hilang dan sisanya memburuk menjadi tidak berguna.</AncientBasicRecharger.description>
+  
+  <!-- EN: ancient bed -->
+  <AncientBed.label>leluhur Cama</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>Kasur tua membusuk di bingkai berkarat.Meskipun tidak nyaman, masih bisa digunakan, tetapi terlalu memburuk untuk mengembalikannya.</AncientBed.description>
+  
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>Kotak leluhur</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>Kotak tua dan rusak.Objek nilai yang terkandung terdegradasi sampai tidak berguna.</AncientCrate.description>
+  
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>Monitor Kuno</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>Antarmuka komputer lama.Bagian berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientDisplayBank.description>
+  
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>Blok Peralatan Leluhur</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>Koleksi blok tim lama fungsi yang tidak diketahui.Potongan berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientEquipmentBlocks.description>
+  
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>Generator Leluhur</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>Generator listrik tua.Bagian -bagiannya yang bermanfaat dihancurkan atau dijarah sejak lama, dan sisanya teroksidasi sampai tidak dapat digunakan.</AncientGenerator.description>
+  
+  <!-- EN: ancient kitchen sink -->
+  <AncientKitchenSink.label>wastafel tua</AncientKitchenSink.label>
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <AncientKitchenSink.description>Wastafel dapur tua yang terbuat dari beberapa bahan lembar serat non -metalik.Ini sangat memburuk dan tidak ada cara untuk menyimpan apa pun darinya.</AncientKitchenSink.description>
+  
+  <!-- EN: ancient lamp -->
+  <AncientLamp.label>Lampu kuno</AncientLamp.label>
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <AncientLamp.description>Lampu makan sendiri yang lama.Catu daya internalnya sangat kelelahan, tetapi masih memancarkan cahaya yang lemah.</AncientLamp.description>
+  
+  <!-- EN: ancient large mech gestator -->
+  <AncientLargeMechGestator.label>Gestator Mecas leluhur yang hebat</AncientLargeMechGestator.label>
+  <!-- EN: An ancient large mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientLargeMechGestator.description>Gestator Mecas tua yang hebat.Bagian berharga hilang dan sisanya memburuk menjadi tidak berguna.</AncientLargeMechGestator.description>
+  
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>Kantor Tiket Leluhur</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>Bank kantor tiket tua dan berkarat.Semua kantor tiket dipaksakan dan tidak mengandung nilai.</AncientLockerBank.description>
+  
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>mesin leluhur</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>Kotak mesin tua besar penuh dengan mesin yang tidak dikenal.Potongan berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientMachine.description>
+  
+  <!-- EN: ancient mech drop beacon -->
+  <AncientMechDropBeacon.label>Mecabalize Pendaratan Leluhur</AncientMechDropBeacon.label>
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <AncientMechDropBeacon.description>Kulit suar pendaratan mecanoid yang rusak.Komponen -komponennya yang berguna hilang dan cangkangnya memburuk setelah bertahun -tahun.</AncientMechDropBeacon.description>
+  
+  <!-- EN: ancient mech gestator -->
+  <AncientMechGestator.label>Gestator Mecas Leluhur</AncientMechGestator.label>
+  <!-- EN: An ancient mech gestator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMechGestator.description>Seorang manajer MECAS lama.Bagian berharga hilang dan sisanya memburuk menjadi tidak berguna.</AncientMechGestator.description>
+  
+  <!-- EN: ancient mech vat -->
+  <AncientMechGestatorTank.label>Tank Mekah Leluhur</AncientMechGestatorTank.label>
+  <!-- EN: An ancient device capable of forming new mechanoids, and sustaining injured mechanoids while they rejuvenate. -->
+  <AncientMechGestatorTank.description>Perangkat lama yang mampu membentuk mechanoides baru dan mempertahankan mecanoids yang terluka saat meremajakan.</AncientMechGestatorTank.description>
+  <!-- EN: A {0_labelShort} has emerged from a mech vat. -->
+  <AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>A {0_labelshort} telah meninggalkan tangki mecanoid.</AncientMechGestatorTank.comps.CompMechGestatorTank.triggeredMessage>
+  
+  <!-- EN: ancient microwave -->
+  <AncientMicrowave.label>Microwave tua</AncientMicrowave.label>
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientMicrowave.description>Perangkat lama untuk memanaskan makanan.Hancur dan teroksidasi, sekarang sama sekali tidak berguna.</AncientMicrowave.description>
+  
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>Kotak Militer Kuno</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>Laci penampilan militer tua.Itu rusak sejak lama dan objek nilai yang mereka dikandung dijarah.</AncientMilitaryCrate.description>
+  
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>Meja Operasi Leluhur</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>Tabel yang sebelumnya digunakan untuk operasi bedah.Sudah lama memburuk sampai tidak dapat digunakan.</AncientOperatingTable.description>
+  
+  <!-- EN: ancient oven -->
+  <AncientOven.label>oven tua</AncientOven.label>
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <AncientOven.description>Oven tua.Hancur dan teroksidasi, sekarang sama sekali tidak berguna.</AncientOven.description>
+  
+  <!-- EN: ancient refrigerator -->
+  <AncientRefrigerator.label>Kulkas kuno</AncientRefrigerator.label>
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <AncientRefrigerator.description>Kulkas tua.Itu dilucuti dari bagian yang berguna sejak lama.</AncientRefrigerator.description>
+  
+  <!-- EN: ancient security turret -->
+  <AncientSecurityTurret.label>Torreta Keamanan Lama</AncientSecurityTurret.label>
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <AncientSecurityTurret.description>Menara keamanan kuno dan patah.Semua bagian yang berharga dijarah atau hancur.</AncientSecurityTurret.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>Kotak Luar Angkasa Kuno</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>Kotak tua dan rusak.Objek nilai yang terkandung diambil untuk waktu yang lama.</AncientSpacerCrate.description>
+  
+  <!-- EN: ancient standard recharger -->
+  <AncientStandardRecharger.label>Pengisi Daya Standar Leluhur</AncientStandardRecharger.label>
+  <!-- EN: An ancient standard recharger. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStandardRecharger.description>Pengisi daya standar lama.Bagian berharga hilang dan sisanya memburuk menjadi tidak berguna.</AncientStandardRecharger.description>
+  
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>Silinder penyimpanan leluhur</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>Perangkat lama yang tampaknya pernah menyimpan beberapa jenis cairan.Bagian berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientStorageCylinder.description>
+  
+  <!-- EN: ancient stove -->
+  <AncientStove.label>Dapur Kuno</AncientStove.label>
+  <!-- EN: An old stove. Smashed and rusted, it is now completely useless. -->
+  <AncientStove.description>Dapur tua.Hancur dan teroksidasi, sekarang sama sekali tidak berguna. Sulit untuk mengetahui bagaimana itu datang ke sini.</AncientStove.description>
+  
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>Sistem rak leluhur</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>Unit rak lama yang penuh dengan perangkat yang tidak dapat diidentifikasi.Potongan berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientSystemRack.description>
+  
+</LanguageData>

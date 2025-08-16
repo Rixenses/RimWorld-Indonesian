@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked member -->
+  <AttackedMember.label>anggota diserang</AttackedMember.label>
+  
+  <!-- EN: tended to member -->
+  <FriendlyExitedMapTended.label>anggota yang dilayani</FriendlyExitedMapTended.label>
+  
+  <!-- EN: guilty prisoner died -->
+  <GuiltyPrisonerDied.label>Tahanan yang bersalah meninggal</GuiltyPrisonerDied.label>
+  
+  <!-- EN: innocent prisoner died -->
+  <InnocentPrisonerDied.label>Tahanan yang tidak bersalah meninggal</InnocentPrisonerDied.label>
+  
+  <!-- EN: member captured -->
+  <MemberCaptured.label>anggota yang ditangkap</MemberCaptured.label>
+  
+  <!-- EN: member crushed -->
+  <MemberCrushed.label>anggota badan yang hancur</MemberCrushed.label>
+  
+  <!-- EN: member exited map healthy -->
+  <MemberExitedMapHealthy.label>anggota meninggalkan peta dalam keadaan sehat</MemberExitedMapHealthy.label>
+  
+  <!-- EN: member killed -->
+  <MemberKilled.label>anggota tewas</MemberKilled.label>
+  
+  <!-- EN: member died -->
+  <MemberNeutrallyDied.label>anggota meninggal</MemberNeutrallyDied.label>
+  
+  <!-- EN: member sold -->
+  <MemberSold.label>anggota terjual</MemberSold.label>
+  
+  <!-- EN: member stripped -->
+  <MemberStripped.label>anggota menanggalkan pakaian</MemberStripped.label>
+  
+  <!-- EN: harmful surgery on member -->
+  <PerformedHarmfulSurgery.label>operasi berbahaya pada anggota</PerformedHarmfulSurgery.label>
+  
+  <!-- EN: prisoner died -->
+  <PrisonerDied.label>tahanan meninggal</PrisonerDied.label>
+  
+  <!-- EN: harmed member -->
+  <UsedHarmfulItem.label>anggota yang terluka</UsedHarmfulItem.label>
+  
+  <!-- EN: member's xenogerm absorbed -->
+  <XenogermAbsorbed.label>xenogerm dari anggota yang diserap</XenogermAbsorbed.label>
+  
+</LanguageData>

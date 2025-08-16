@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureNamewithArticle].Anda dapat menjarah struktur untuk sumber daya yang berharga. \ N \ nBe diperingatkan, struktur kuno dapat berisi berbagai ancaman.</li>
+    <li>structureNamewitharticle-> Penyelesaian yang terinfeksi</li>-><Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureMeWitharicle].Anda dapat menjarah struktur untuk mendapatkan sumber daya yang berharga. \ N \ ntan, karena jenis struktur ini dapat menampung ancaman yang berbeda.</li>
+    <li>Strukturemewitharicle-> penyelesaian yang terinfestasi</li>
+  </Opportunity_AncientInfestedSettlement.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [kuno] [Structurename]</li>
+    <li>QuestName-> [kuno] [Structurename]</li>
+    <li>QuestName-> Ditemukan [Strukturename]</li>
+    <li>QuestName-> [Structurename] Discovery</li>
+    <li>kuno (p = 2)-> kuno</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukturename-> Penyelesaian yang terinfestasi</li>-><Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+    <li>QuestName-> El [Structurename] [kuno]</li>
+    <li>QuestName-> [Structurename] [kuno]</li>
+    <li>QuestName-> [Struktur] Ditemukan</li>
+    <li>QuestName-> Penemuan [Struktur]</li>
+    <li>Kuno (P = 2)-> Antiguo</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukture-> Penyelesaian yang Dipahami</li>
+  </Opportunity_AncientInfestedSettlement.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Bangunan Kuno</li>
+    <li>subjek-> landmark yang hilang</li>
+    <li>Subjek-> Struktur Kuno</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> Scavenging Target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Kuno Berbahaya</li>
+    <li>QuestMaptext-> Waspadai perangkap</li>
+    <li>Subjek-> Sarang Serangga</li>
+    <li>subjek-> infestasi</li>
+    <li>QuestMapFeature-> serangga sarang</li>
+    <li>QuestMapFeature-> Gambar anatomi dari megaspider</li>
+    <li>QuestMaptext-> Serangga di mana-mana</li>-><Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+    <li>Subjek-> Bangunan Tua</li>
+    <li>Subjek-> Poin Minat yang Hilang</li>
+    <li>Subjek-> Struktur Lama</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> penjarahan target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Lama Berbahaya</li>
+    <li>QuestMaptext-> Care With the Traps</li>
+    <li>Subjek-> Colmenes Insektoid</li>
+    <li>Subjek-> infestasi</li>
+    <li>QuestMapFeature-> Hive Insektoid</li>
+    <li>QuestMapFeature-> Gambar Anatomi Megaaraña</li>
+    <li>QuestMaptext-> Insectoids Everywhere</li>
+  </Opportunity_AncientInfestedSettlement.questSubjectRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureNamewithArticle].Anda dapat menjarah struktur untuk sumber daya yang berharga. \ N \ nBe diperingatkan, struktur kuno dapat berisi berbagai ancaman.</li>
+    <li>structurenameWitharticle-> kilang chemfuel kuno</li>-><Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureMeWitharicle].Anda dapat menjarah struktur untuk mendapatkan sumber daya yang berharga. \ N \ ntan, karena jenis struktur ini dapat menampung ancaman yang berbeda.</li>
+    <li>Strukturenemewitharicle-> Kilang Biofuel Lama</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [kuno] [Structurename]</li>
+    <li>QuestName-> [kuno] [Structurename]</li>
+    <li>QuestName-> Ditemukan [Strukturename]</li>
+    <li>QuestName-> [Structurename] Discovery</li>
+    <li>kuno (p = 2)-> kuno</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukturename-> Chemfuel Refinery</li>-><Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+    <li>QuestName-> LA [Structurename] [kuno]</li>
+    <li>QuestName-> [Structurename] [kuno]</li>
+    <li>QuestName-> [Struktur] Ditemukan</li>
+    <li>QuestName-> Discovery of [structurename]</li>
+    <li>Kuno (P = 2)-> Antigua</li>
+    <li>Kuno-> Hilang</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Bangunan Kuno</li>
+    <li>subjek-> landmark yang hilang</li>
+    <li>Subjek-> Struktur Kuno</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> Scavenging Target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Kuno Berbahaya</li>
+    <li>QuestMaptext-> Waspadai perangkap</li>
+    <li>Subjek-> Kilang Kuno</li>
+    <li>Subjek-> Chemplants</li>
+    <li>QuestMapFeature-> ChemFuel Refinery</li>
+    <li>QuestMapfeature-> Gambar tangki chemfuel</li>
+    <li>QuestMapFeature-> Sketsa Peralatan Kilang</li>
+    <li>QuestMaptext-> ChemFuel Depot</li>
+    <li>QuestMaptext-> Chemfuel di sini</li>-><Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+    <li>Subjek-> Bangunan Tua</li>
+    <li>Subjek-> Poin Minat yang Hilang</li>
+    <li>Subjek-> Struktur Lama</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> penjarahan target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Lama Berbahaya</li>
+    <li>QuestMaptext-> Care With the Traps</li>
+    <li>Subjek-> Kilang Kuno</li>
+    <li>Subjek-> Tanaman Kimia</li>
+    <li>QuestMapfeature-> Biofuel Refinery</li>
+    <li>QuestMapFeature-> Gambar tangki biofuel</li>
+    <li>QuestMapFeature-> Kilang Sketsa</li>
+    <li>QuestMaptext-> Biofuel Tank</li>
+    <li>QuestMaptext-> Biofuel di sini</li>
+  </Opportunity_AncientStructureChemfuelRefinery.questSubjectRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureNamewithArticle].Anda dapat menjarah struktur untuk sumber daya yang berharga. \ N \ nBe diperingatkan, struktur kuno dapat berisi berbagai ancaman.</li>
+    <li>structurenameWitharticle-> sebuah garnisun kuno</li>-><Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureMeWitharicle].Anda dapat menjarah struktur untuk mendapatkan sumber daya yang berharga. \ N \ ntan, karena jenis struktur ini dapat menampung ancaman yang berbeda.</li>
+    <li>Strukturenemewitharicle-> sebuah garnisun tua</li>
+  </Opportunity_AncientStructureGarrison.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [kuno] [Structurename]</li>
+    <li>QuestName-> [kuno] [Structurename]</li>
+    <li>QuestName-> Ditemukan [Strukturename]</li>
+    <li>QuestName-> [Structurename] Discovery</li>
+    <li>kuno (p = 2)-> kuno</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukturename-> Garrison</li>-><Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+    <li>QuestName-> LA [Structurename] [kuno]</li>
+    <li>QuestName-> [Structurename] [kuno]</li>
+    <li>QuestName-> [Struktur] Ditemukan</li>
+    <li>QuestName-> penemuan [Strukturename]</li>
+    <li>Kuno (P = 2)-> Antigua</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukture-> Garrison</li>
+  </Opportunity_AncientStructureGarrison.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Bangunan Kuno</li>
+    <li>subjek-> landmark yang hilang</li>
+    <li>Subjek-> Struktur Kuno</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> Scavenging Target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Kuno Berbahaya</li>
+    <li>QuestMaptext-> Waspadai perangkap</li>
+    <li>Subjek-> Situs Militer Kuno</li>
+    <li>subjek-> garnisun kuno</li>
+    <li>QuestMapFeature-> Garrison</li>
+    <li>QuestMapFeature-> Gambar rak senjata</li>
+    <li>QuestMapFeature-> Sketsa arang senapan serbu</li>
+    <li>QuestMaptext-> Fasilitas Senjata</li>
+    <li>QuestMaptext-> Ancient Armory</li>
+    <li>QuestMaptext-> banyak peralatan militer</li>-><Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+    <li>Subjek-> Bangunan Tua</li>
+    <li>Subjek-> Poin Minat yang Hilang</li>
+    <li>Subjek-> Struktur Lama</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> penjarahan target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Lama Berbahaya</li>
+    <li>QuestMaptext-> Care With the Traps</li>
+    <li>Subjek-> Situs Militer Kuno</li>
+    <li>Subjek-> garnisun kuno</li>
+    <li>QuestMapFeature-> Garrison</li>
+    <li>QuestMapFeature-> Gambar Senjata</li>
+    <li>QuestMapFeature-> Batubara Sketsa senapan serbu</li>
+    <li>QuestMaptext-> Instalasi Senjata</li>
+    <li>QuestMaptext-> kuno Armería</li>
+    <li>QuestMaptext-> banyak tim militer</li>
+  </Opportunity_AncientStructureGarrison.questSubjectRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureNamewithArticle].Anda dapat menjarah struktur untuk sumber daya yang berharga. \ N \ nBe diperingatkan, struktur kuno dapat berisi berbagai ancaman.</li>
+    <li>structureNamewitharticle-> situs peluncuran kuno</li>-><Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureMeWitharicle].Anda dapat menjarah struktur untuk mendapatkan sumber daya yang berharga. \ N \ ntan, karena jenis struktur ini dapat menampung ancaman yang berbeda.</li>
+    <li>Strukturemewitharicle-> situs peluncuran lama</li>
+  </Opportunity_AncientStructureLaunchSite.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [kuno] [Structurename]</li>
+    <li>QuestName-> [kuno] [Structurename]</li>
+    <li>QuestName-> Ditemukan [Strukturename]</li>
+    <li>QuestName-> [Structurename] Discovery</li>
+    <li>kuno (p = 2)-> kuno</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukturename-> situs peluncuran</li>-><Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+    <li>QuestName-> El [Structurename] [kuno]</li>
+    <li>QuestName-> [Structurename] [kuno]</li>
+    <li>QuestName-> [Struktur] Ditemukan</li>
+    <li>QuestName-> Discovery of [structurename]</li>
+    <li>Kuno (P = 2)-> Antiguo</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukture-> situs peluncuran</li>
+  </Opportunity_AncientStructureLaunchSite.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Bangunan Kuno</li>
+    <li>subjek-> landmark yang hilang</li>
+    <li>Subjek-> Struktur Kuno</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> Scavenging Target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Kuno Berbahaya</li>
+    <li>QuestMaptext-> Waspadai perangkap</li>
+    <li>Subjek-> Situs Peluncuran Kuno</li>
+    <li>Subjek-> Spaceports</li>
+    <li>QuestMapFeature-> Situs Peluncuran</li>
+    <li>QuestMapFeature-> Diagram alat pengisian ulang antar-jemput</li>
+    <li>QuestMapFeature-> Sketsa harta karun dimuat ke dalam pod transportasi</li>
+    <li>QuestMaptext-> mereka memiliki bahan bakar</li>-><Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+    <li>Subjek-> Bangunan Tua</li>
+    <li>Subjek-> Poin Minat yang Hilang</li>
+    <li>Subjek-> Struktur Lama</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> penjarahan target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Lama Berbahaya</li>
+    <li>QuestMaptext-> Care With the Traps</li>
+    <li>Subjek-> Platform Peluncuran Lama</li>
+    <li>Subjek-> Port Ruang</li>
+    <li>QuestMapFeature-> Lange Platform</li>
+    <li>QuestMapFeature-> Transferorders Resaging Diagram</li>
+    <li>QuestMapFeature-> Treasury Sketch Charging dalam Kapsul Transportasi</li>
+    <li>QuestMaptext-> memiliki bahan bakar</li>
+  </Opportunity_AncientStructureLaunchSite.questSubjectRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureNamewithArticle].Anda dapat menjarah struktur untuk sumber daya yang berharga. \ N \ nBe diperingatkan, struktur kuno dapat berisi berbagai ancaman.</li>
+    <li>structurenameWitharticle-> sebuah gudang kuno</li>-><Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi [StructureMeWitharicle].Anda dapat menjarah struktur untuk mendapatkan sumber daya yang berharga. \ N \ ntan, struktur lama dapat menampung ancaman yang berbeda.</li>
+    <li>StructureMeWitharicle-> sebuah gudang tua</li>
+  </Opportunity_AncientStructureWarehouse.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [kuno] [Structurename]</li>
+    <li>QuestName-> [kuno] [Structurename]</li>
+    <li>QuestName-> Ditemukan [Strukturename]</li>
+    <li>QuestName-> [Structurename] Discovery</li>
+    <li>kuno (p = 2)-> kuno</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukturename-> Gudang</li>-><Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+    <li>QuestName-> El [Structurename] [kuno]</li>
+    <li>QuestName-> [Structurename] [kuno]</li>
+    <li>QuestName-> [Struktur] Ditemukan</li>
+    <li>QuestName-> Discovery of [structurename]</li>
+    <li>Kuno (P = 2)-> Antiguo</li>
+    <li>Kuno-> Hilang</li>
+    <li>Strukture-> Gudang</li>
+  </Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Bangunan Kuno</li>
+    <li>subjek-> landmark yang hilang</li>
+    <li>Subjek-> Struktur Kuno</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> Scavenging Target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Kuno Berbahaya</li>
+    <li>QuestMaptext-> Waspadai perangkap</li>
+    <li>Subjek-> gudang kuno</li>
+    <li>Subjek-> Gudang</li>
+    <li>QuestMapFeature-> Warehouse</li>
+    <li>QuestMapfeature-> Diagram rak diisi dengan kotak</li>
+    <li>QuestMapFeature-> Sketsa forklift</li>
+    <li>QuestMaptext-> Bangunan Kuno Masif</li>-><Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+    <li>Subjek-> Bangunan Tua</li>
+    <li>Subjek-> Poin Minat yang Hilang</li>
+    <li>Subjek-> Struktur Lama</li>
+    <li>QuestMapFeature-> menggambar bangunan lama</li>
+    <li>QuestMaptext-> penjarahan target</li>
+    <li>QuestMaptext-> Situs Eksplorasi</li>
+    <li>QuestMaptext-> Struktur Lama Berbahaya</li>
+    <li>QuestMaptext-> Care With the Traps</li>
+    <li>Subjek-> Gudang Tua</li>
+    <li>Subjek-> Almacenes</li>
+    <li>QuestMapFeature-> Warehouse</li>
+    <li>QuestMapfeature-> Diagram rak penuh kotak</li>
+    <li>QuestMapFeature-> Sketsa dari forklift</li>
+    <li>QuestMaptext-> Bangunan Tua Besar</li>
+  </Opportunity_AncientStructureWarehouse.questSubjectRules.rulesStrings>
+  
+</LanguageData>

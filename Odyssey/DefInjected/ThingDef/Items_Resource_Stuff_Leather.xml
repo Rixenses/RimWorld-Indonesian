@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: thrumbomane -->
+  <Leather_AlphaThrumbo.label>Trumbo Mane</Leather_AlphaThrumbo.label>
+  <!-- EN: The furry pelt of an alpha thrumbo. It is extraordinarily durable and luxurious - one can almost feel a psychic echo of the animal's ancient story through the gossamer fur.\n\nIt is used for the highest-quality crafts for its insulation and strength. -->
+  <Leather_AlphaThrumbo.description>Kulit berbulu dari alpha trumbo.Ini luar biasa bertahan lama dan mewah; Seseorang hampir dapat merasakan gema psikis dari sejarah kuno hewan melalui bulunya.</Leather_AlphaThrumbo.description>
+  
+  <!-- EN: armadillo leather -->
+  <Leather_Armadillo.label>Kulit Armadillo</Leather_Armadillo.label>
+  <!-- EN: Tanned, dried, scraped armadillo skin. It's tough, but offers little protection against the elements. -->
+  <Leather_Armadillo.description>Kulit Armadillo yang kecokelatan, kering, dan tergores.Itu tahan, tetapi menawarkan sedikit perlindungan terhadap elemen.</Leather_Armadillo.description>
+  
+  <!-- EN: hippo leather -->
+  <Leather_Hippo.label>Kulit kuda nil</Leather_Hippo.label>
+  <!-- EN: Tanned, dried, scraped hippo skin. While extremely durable, it provides little protection from extreme weather. -->
+  <Leather_Hippo.description>Kecil, kering dan dikikis kuda kuda.Meskipun sangat tahan lama, ia menawarkan sedikit perlindungan terhadap iklim ekstrem.</Leather_Hippo.description>
+  
+  <!-- EN: mastodon leather -->
+  <Leather_Mastodon.label>kulit mastodon</Leather_Mastodon.label>
+  <!-- EN: Tanned, dried, scraped mastodon skin. It's tough and an excellent insulator against the cold. -->
+  <Leather_Mastodon.description>Kulit mastodon yang kecokelatan, kering, dan tergores.Ini tahan dan isolator yang sangat baik melawan dingin.</Leather_Mastodon.description>
+  
+  <!-- EN: mink fur -->
+  <Leather_Mink.label>Kulit penglihatan</Leather_Mink.label>
+  <!-- EN: Tanned, dried, scraped mink skin. Soft, sleek, and subtly luxurious, mink is used in premium winter clothing and high-end furnishings, meaning it fetches a high price. -->
+  <Leather_Mink.description>Kulit penglihatan yang kecokelatan, kering, dan tergores.Lembut, elegan dan halus mewah, digunakan dalam pakaian musim dingin yang mewah dan furnitur tinggi, sehingga mencapai harga tinggi.</Leather_Mink.description>
+  
+  <!-- EN: sealskin -->
+  <Leather_Sealskin.label>Kulit Pinnípedo</Leather_Sealskin.label>
+  <!-- EN: The tanned skin of various pinnipeds, such as seals, sea lions, and walruses. It's not particularly tough but it is extremely well insulated. Sealskin is luxuriously soft to the touch, fetching a high price. -->
+  <Leather_Sealskin.description>Kulit kecokelatan beberapa pinnípedos, seperti segel, singa laut dan morsas.Ini tidak terlalu tahan tetapi sangat terisolasi.Kulit segel sangat lembut saat disentuh, yang meningkatkan nilainya.</Leather_Sealskin.description>
+  
+</LanguageData>

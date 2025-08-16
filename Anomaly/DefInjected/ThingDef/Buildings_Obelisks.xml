@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warped obelisk -->
+  <WarpedObelisk_Abductor.label>Obelisk cacat</WarpedObelisk_Abductor.label>
+  <!-- EN: A large metallic pillar that emanates a putrid psychic energy. The pillar hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Abductor.description>Pilar logam besar yang memancarkan energi psikis yang kuat.Pilar Zumba dengan tidak menyenangkan dan tampaknya meningkatkan aktivitasnya.Tidak jelas apa yang akan terjadi ketika kapasitas maksimumnya mencapai.Anda juga dapat menandai obelisk untuk mempelajarinya dan mencoba mengetahui tujuannya dan, mungkin, memanfaatkannya.</WarpedObelisk_Abductor.description>
+  <!-- EN: Obelisk study progress -->
+  <WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.0.label>Kemajuan studi obelisk</WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.0.label>
+  <!-- EN: Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can't tell what will happen when the device fully activates. -->
+  <WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.0.text>Penelitian Obelisk telah mengungkapkan informasi tertentu.Ini adalah perangkat arkeoteknologi yang tampaknya berinteraksi dengan makhluk organik jarak jauh.Mungkin ini adalah bagian dari struktur archaoteca yang jauh lebih besar yang dihancurkan atau dibongkar sejak lama.Mesin nukleusnya sangat kompleks dan kuat.Tujuan dan metode tindakannya tetap benar -benar misterius. \ N \ nsi tidak ditekan, tingkat aktivitasnya akan meningkat dari waktu ke waktu.Tidak diketahui apa yang akan terjadi ketika perangkat sepenuhnya diaktifkan.</WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.0.text>
+  <!-- EN: Obelisk study complete -->
+  <WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.1.label>Studi Obelisk selesai</WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.1.label>
+  <!-- EN: You've completed your investigation of the obelisk. It creates a bridge to a point in a spacetime void separated from ours along usually inaccessible spatial dimensions.\n\nThe void plane is filled with a gray labyrinthine structure of astronomical scale. Someone trapped there could return by finding the obelisk's mirror version inside the gray rooms and hallways.\n\nThe gray structures seem to have been created by an archotech superintelligence, but there's no way to know their purpose, age, or spatial limits.\n\nThe obelisk is damaged and unstable, so its energy level rises unless suppressed. If it were to fully activate, it could begin to abduct individuals at random.\n\nYou can now intentionally provoke a response from the warped obelisk. -->
+  <WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.1.text>Anda telah menyelesaikan penelitian Anda tentang obelisk.Ini menciptakan jembatan ke kekosongan ruangwaktu yang terpisah dari kita di sepanjang dimensi spasial yang biasanya tidak dapat diakses.Seseorang yang terjebak di sana dapat kembali dengan menemukan versi cermin dari obelisk di dalam kamar dan aula abu -abu. Jika benar -benar diaktifkan, itu bisa mulai menculik individu secara acak.\ N \ nahora Anda dapat dengan sengaja menyebabkan respons obelisk yang cacat.</WarpedObelisk_Abductor.comps.CompStudyUnlocks.studyNotes.1.text>
+  <!-- EN: Transport a willing person to a distant spatial dimension. It may be difficult for them to return. -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activateDescString>Ini mengangkut seseorang yang diatur ke dimensi spasial yang jauh.Sulit untuk kembali.</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activateDescString>
+  <!-- EN: Teleport... -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activateLabelString>Teletransport ...</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activateLabelString>
+  <!-- EN: triggering obelisk teleportation: {1}s -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingString>Mengaktifkan Teleporte del Obelisk: {1} s</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingString>
+  <!-- EN: triggering obelisk teleportation -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingStringPending>Mengaktifkan teleportasi del obelisk</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.guiLabelString>
+  <!-- EN: Trigger teleportation -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.jobString>Aktifkan teleportasi</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully triggered obelisk teleportation. -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCompletedString>{Pawn_namedef} telah berhasil mengaktifkan Teleport Obelisk.</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!-- EN: The warped obelisk is ready to use again. -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCooldownEnded>Obelisk yang cacat siap digunakan lagi.</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!-- EN: Teleportation cooldown -->
+  <WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.onCooldownString>Teleransport dalam pendinginan</WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.onCooldownString>
+  
+  <!-- EN: corrupted obelisk -->
+  <WarpedObelisk_Duplicator.label>Obelisk korup</WarpedObelisk_Duplicator.label>
+  <!-- EN: A large metallic pillar that emanates a putrid psychic energy. The pillar hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Duplicator.description>Pilar logam besar yang memancarkan energi psikis yang kuat.Pilar Zumba dengan tidak menyenangkan dan tampaknya meningkatkan aktivitasnya.Tidak jelas apa yang akan terjadi ketika kapasitas maksimumnya mencapai.Anda juga dapat menandai obelisk untuk mempelajarinya dan mencoba mengetahui tujuannya dan, mungkin, memanfaatkannya.</WarpedObelisk_Duplicator.description>
+  <!-- EN: Obelisk study progress -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.0.label>Kemajuan studi obelisk</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.0.label>
+  <!-- EN: Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can't tell what will happen when the device fully activates. -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.0.text>Penelitian Obelisk telah mengungkapkan informasi tertentu.Ini adalah perangkat arkeoteknologi yang tampaknya berinteraksi dengan makhluk organik jarak jauh.Mungkin ini adalah bagian dari struktur archaoteca yang jauh lebih besar yang dihancurkan atau dibongkar sejak lama.Mesin nukleusnya sangat kompleks dan kuat.Tujuan dan metode tindakannya tetap benar -benar misterius. \ N \ nsi tidak ditekan, tingkat aktivitasnya akan meningkat dari waktu ke waktu.Tidak diketahui apa yang akan terjadi ketika perangkat sepenuhnya diaktifkan.</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.0.text>
+  <!-- EN: Obelisk study progress -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.1.label>Kemajuan studi obelisk</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.1.label>
+  <!-- EN: You've learned more about the obelisk. The device has the power to duplicate intelligent creatures. In theory, it can produce duplicates without limit.\n\nThe obelisk appears damaged and unstable, so its energy level rises unless suppressed. If it were to fully activate, it would go into a duplication loop, chaotically pumping out a large number of flawed human duplicates.\n\n{PAWN_nameDef} thinks that it may be possible to safely shut down the obelisk but this will need significantly more study.\n\nYou can now intentionally provoke a response from the corrupted obelisk. -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.1.text>Anda telah belajar lebih banyak tentang obelisk.Perangkat ini memiliki kekuatan untuk menggandakan makhluk cerdas.Secara teori, ia dapat menghasilkan duplikat tanpa batas.Obelisk \ n \ nel tampaknya rusak dan tidak stabil, sehingga tingkat energi Anda akan meningkat kecuali ditekan. Jika benar -benar diaktifkan, itu akan memasuki loop duplikasi, memompa sejumlah besar duplikat manusia yang rusak.</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.1.text>
+  <!-- EN: Obelisk study complete -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.2.label>Studi Obelisk selesai</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.2.label>
+  <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} investigation of the corrupted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it. -->
+  <WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.2.text>{Pawn_namedef} telah menyelesaikan penelitiannya tentang obelisk yang korup.Dia telah menemukan metode untuk menonaktifkan obelisk dengan aman menggunakan percikan arkeoteknik. \ N \ nya Anda tidak akan dapat mempelajari obelisk setelah menonaktifkannya.</WarpedObelisk_Duplicator.comps.CompStudyUnlocks.studyNotes.2.text>
+  <!-- EN: Provoke the obelisk into duplicating a willing person. -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activateDescString>Menyebabkan obelisk menggandakan seseorang diatur.</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activateDescString>
+  <!-- EN: Duplicate... -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activateLabelString>Dobel...</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activateLabelString>
+  <!-- EN: triggering obelisk duplication: {1}s -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingString>Mengaktifkan duplikasi obelisk: {1} s</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingString>
+  <!-- EN: triggering obelisk duplication -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingStringPending>Mengaktifkan duplikasi obelisk</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.guiLabelString>
+  <!-- EN: Trigger duplication -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.jobString>Aktifkan duplikasi</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.jobString>
+  <!-- EN: The corrupted obelisk is ready to use again. -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>Obelisk yang korup siap digunakan lagi.</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!-- EN: Duplication cooldown -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.onCooldownString>Duplikasi dalam pendinginan</WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!-- EN: Permanently and safely disable the corrupted obelisk. This will prevent it from activating, and from being studied further.\n\nRequires 2 shards. -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activateDescString>Menonaktifkan secara permanen dan aman untuk obelisk yang korup.Ini akan mencegahnya diaktifkan dan terus belajar.</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activateDescString>
+  <!-- EN: Deactivate... -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activateLabelString>Menonaktifkan...</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activateLabelString>
+  <!-- EN: deactivating obelisk: {1}s -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingString>Menonaktifkan obelisk: {1} s</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingString>
+  <!-- EN: deactivating obelisk -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>menonaktifkan obelisk</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.guiLabelString>
+  <!-- EN: Deactivate obelisk -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.jobString>Nonaktifkan obelisk</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deactivated the obelisk. -->
+  <WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{Pawn_namedef} telah berhasil menonaktifkan obelisk.</WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
+  
+  <!-- EN: warped obelisk -->
+  <WarpedObelisk_Labyrinth.label>Obelisk cacat</WarpedObelisk_Labyrinth.label>
+  <!-- EN: A large metallic pillar that emanates a psychic energy. It can be activated to return home. -->
+  <WarpedObelisk_Labyrinth.description>Pilar logam besar yang memancarkan energi psikis.Ini dapat diaktifkan untuk kembali ke rumah.</WarpedObelisk_Labyrinth.description>
+  <!-- EN: Activate the obelisk. -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activateDescString>Aktifkan obelisk.</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activateDescString>
+  <!-- EN: Activate... -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activateLabelString>Mengaktifkan...</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activateLabelString>
+  <!-- EN: activating obelisk: {1}s -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activatingString>Mengaktifkan obelisk: {1} s</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activatingString>
+  <!-- EN: activating obelisk -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activatingStringPending>Mengaktifkan obelisk</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.guiLabelString>
+  <!-- EN: Activate obelisk -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.jobString>Aktifkan obelisk</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.jobString>
+  <!-- EN: The obelisk has begun to activate. -->
+  <WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>Obelisk telah mulai diaktifkan.</WarpedObelisk_Labyrinth.comps.CompObelisk_Labyrinth.messageActivating>
+  
+  <!-- EN: twisted obelisk -->
+  <WarpedObelisk_Mutator.label>Obelisk terpelintir</WarpedObelisk_Mutator.label>
+  <!-- EN: A large metallic pillar that emanates a putrid psychic energy. The pillar hums ominously and appears to be increasing in activity. It's not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Mutator.description>Pilar logam besar yang memancarkan energi psikis yang kuat.Pilar Zumba dengan tidak menyenangkan dan tampaknya meningkatkan aktivitasnya.Tidak jelas apa yang akan terjadi ketika kapasitas maksimumnya mencapai.Anda juga dapat menandai obelisk untuk mempelajarinya dan mencoba mengetahui tujuannya dan, mungkin, memanfaatkannya.</WarpedObelisk_Mutator.description>
+  <!-- EN: Obelisk study progress -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.0.label>Kemajuan studi obelisk</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.0.label>
+  <!-- EN: Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can't tell what will happen when the device fully activates. -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.0.text>Penelitian Obelisk telah mengungkapkan informasi tertentu.Ini adalah perangkat arkeoteknologi yang tampaknya berinteraksi dengan makhluk organik jarak jauh.Mungkin ini adalah bagian dari struktur archaoteca yang jauh lebih besar yang dihancurkan atau dibongkar sejak lama.Mesin nukleusnya sangat kompleks dan kuat.Tujuan dan metode tindakannya tetap benar -benar misterius. \ N \ nsi tidak ditekan, tingkat aktivitasnya akan meningkat dari waktu ke waktu.Tidak diketahui apa yang akan terjadi ketika perangkat sepenuhnya diaktifkan.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.0.text>
+  <!-- EN: Obelisk study progress -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.1.label>Kemajuan studi obelisk</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.1.label>
+  <!-- EN: You've learned more about the obelisk. It is an archotech machine that transforms flesh creatures into different forms. The device is damaged, so the new forms would be chaotic and unstable - a person or animal so transformed would become something totally unrecognizable.\n\nThe obelisk's energy level rises unless suppressed. If it fully activates, it could transform an endless number of creatures, creating a nightmarish horde of flesh mutants.\n\n{PAWN_nameDef} thinks that it may be possible to safely shut down the obelisk but this will need significantly more study.\n\nYou can now intentionally provoke a response from the twisted obelisk. -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.1.text>Anda telah belajar lebih banyak tentang obelisk.Ini adalah mesin Archeoteca yang mengubah makhluk daging dan darah menjadi bentuk yang berbeda.Perangkat ini rusak, sehingga bentuk -bentuk baru akan kacau dan tidak stabil, seseorang atau hewan yang diubah akan menjadi sesuatu yang sama sekali tidak dapat dikenali.Jika benar -benar diaktifkan, itu bisa mengubah sejumlah makhluk yang tak terbatas, menciptakan gerombolan mimpi buruk mutan daging.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.1.text>
+  <!-- EN: Obelisk study complete -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>Studi Obelisk selesai</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.label>
+  <!-- EN: {PAWN_nameDef} has completed {PAWN_possessive} investigation of the twisted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it. -->
+  <WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>{Pawn_namedef} telah menyelesaikan penelitiannya tentang obelisk yang terpelintir.Dia telah menemukan metode untuk menonaktifkan obelisk dengan aman menggunakan percikan arkeoteknik. \ N \ nya Anda tidak akan dapat mempelajari obelisk setelah menonaktifkannya.</WarpedObelisk_Mutator.comps.CompStudyUnlocks.studyNotes.2.text>
+  <!-- EN: Induce rapid cellular growth in a person causing them to grow a tentacle or fleshmass organ. -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>Menginduksi pertumbuhan sel yang cepat pada seseorang dengan menumbuhkan tentakel atau organ carnimosa.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateDescString>
+  <!-- EN: Mutate... -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateLabelString>Mutar...</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activateLabelString>
+  <!-- EN: triggering obelisk mutation: {1}s -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingString>Mengaktifkan mutasi obelisk: {1} s</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingString>
+  <!-- EN: triggering obelisk mutation -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingStringPending>Mengaktifkan mutasi obelisk</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.guiLabelString>
+  <!-- EN: Trigger mutation -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.jobString>Mutasi Activa</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully triggered obelisk mutation. -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>{Pawn_namedef} telah berhasil mengaktifkan mutasi obelisk.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!-- EN: The twisted obelisk is ready to use again. -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>Obelisk yang dipelintir siap digunakan lagi.</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!-- EN: Mutation cooldown -->
+  <WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>Mutasi pendingin</WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!-- EN: Permanently and safely disable the twisted obelisk. This will prevent it from activating and being studied further.\n\nRequires 2 shards. -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>Permanen dan dengan aman menonaktifkan obelisk yang dipelintir.Ini akan mencegahnya diaktifkan dan masih belajar.</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateDescString>
+  <!-- EN: Deactivate... -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateLabelString>Menonaktifkan...</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activateLabelString>
+  <!-- EN: deactivating obelisk: {1}s -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingString>Menonaktifkan obelisk: {1} s</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingString>
+  <!-- EN: deactivating obelisk -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingStringPending>Menonaktifkan Obelisk:</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.guiLabelString>Pilih siapa yang harus melakukannya</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.guiLabelString>
+  <!-- EN: Deactivate obelisk -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.jobString>Nonaktifkan obelisk</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deactivated the obelisk. -->
+  <WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{Pawn_namedef} telah berhasil menonaktifkan obelisk.</WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
+  
+</LanguageData>

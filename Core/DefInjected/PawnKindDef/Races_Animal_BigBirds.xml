@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>Casuario</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>Casuararios</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>Policulolo dari Casuals</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.0.labelFemale>Ayam Casuario</Cassowary.lifeStages.0.labelFemale>
+  <Cassowary.lifeStages.0.labelFemalePlural>Ayam Casuarian</Cassowary.lifeStages.0.labelFemalePlural>
+  <Cassowary.lifeStages.0.labelPlural>Anak ayam Casuario</Cassowary.lifeStages.0.labelPlural>
+  <Cassowary.lifeStages.1.label>Casuario muda</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.1.labelPlural>Casuar Muda</Cassowary.lifeStages.1.labelPlural>
+  <Cassowary.lifeStages.2.label>Casuario</Cassowary.lifeStages.2.label>
+  <Cassowary.lifeStages.2.labelPlural>Casuararios</Cassowary.lifeStages.2.labelPlural>
+  
+  <!-- EN: emu -->
+  <Emu.label>emú</Emu.label>
+  <Emu.labelPlural>Emú</Emu.labelPlural>
+  <Emu.lifeStages.0.label>ayam emu</Emu.lifeStages.0.label>
+  <Emu.lifeStages.0.labelFemale>ayam emu</Emu.lifeStages.0.labelFemale>
+  <Emu.lifeStages.0.labelFemalePlural>Ayam emu</Emu.lifeStages.0.labelFemalePlural>
+  <Emu.lifeStages.0.labelMale>ayam emu</Emu.lifeStages.0.labelMale>
+  <Emu.lifeStages.0.labelMalePlural>Ayam emu</Emu.lifeStages.0.labelMalePlural>
+  <Emu.lifeStages.0.labelPlural>Ayam emu</Emu.lifeStages.0.labelPlural>
+  <Emu.lifeStages.1.label>Emu Young</Emu.lifeStages.1.label>
+  <Emu.lifeStages.1.labelPlural>emúes jóvenes</Emu.lifeStages.1.labelPlural>
+  <Emu.lifeStages.2.label>emú</Emu.lifeStages.2.label>
+  <Emu.lifeStages.2.labelPlural>Emú</Emu.lifeStages.2.labelPlural>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>burung unta</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>avestruces</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>cewek burung unta</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.0.labelFemale>polluela de avestruz</Ostrich.lifeStages.0.labelFemale>
+  <Ostrich.lifeStages.0.labelFemalePlural>polluelas de avestruz</Ostrich.lifeStages.0.labelFemalePlural>
+  <Ostrich.lifeStages.0.labelPlural>Anak -anak burung unta</Ostrich.lifeStages.0.labelPlural>
+  <Ostrich.lifeStages.1.label>Burung unta muda</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.1.labelPlural>Burung unta muda</Ostrich.lifeStages.1.labelPlural>
+  <Ostrich.lifeStages.2.label>burung unta</Ostrich.lifeStages.2.label>
+  <Ostrich.lifeStages.2.labelPlural>burung unta</Ostrich.lifeStages.2.labelPlural>
+  
+</LanguageData>

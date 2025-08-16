@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_statue_description-> patung ini [statuDePicts] [subjek_namefull] [patungbectDesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> a [statueadj] patung yang menggambarkan [subjek_namefull] [patungbjectdesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> a [carvedadverb] [carvedVerb] patung [subjek_namefull].Itu [stateedepicts] [subjek_indefinite] [patungbjectdesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> Patung yang menunjukkan [subjek_namefull] [patungbjectdesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> a [statueAdj] patung [subjek_namefull].[statuefacedesc] [style_group_statue]</li>
+    <li>Patung STATUUESTDESC-> berdiri tegak memegang [prop] dengan kedua tangan</li>
+    <li>Patung STATUUESTDESC-> berdiri tegak dan menatap dengan mulia ke kejauhan</li>
+    <li>Patung Sejek</li>
+    <li>Patung Sejek</li>
+    <li>Patung SejektDesc-> condong ke samping seolah-olah akan menjatuhkan [mungkin insult]</li>
+    <li>Patung STATUUESTDESC-> Berdiri di atas satu kaki [mungkin insult]</li>
+    <li>Patung STATUUESTDESC-> membungkuk secara mendalam</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> berlutut dalam doa</li>
+    <li>Patung STATUUESTDESC-> dengan tangan yang diangkat seolah-olah dalam doa</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> Berjalan dengan kecepatan tertinggi</li>
+    <li>Patung STATUUESTDESC-> dengan lengan terbuka, melihat ke arah langit</li>
+    <li>Patung STATUUESTDESC-> dengan tangan yang beristirahat di pinggul</li>
+    <li>Patung STATUUESTDESC-> dengan lengan terangkat dalam kemenangan</li>
+    <li>PatungeBjectDesc-> Memegang [prop] di satu tangan [Maybeotherhand]</li>
+    <li>Patung Sejektject-> Saluting dengan satu tangan [Maybeotherhand]</li>
+    <li>PatungeBjectDesc-> menunjuk ke arah cakrawala [mungkin orang lain]</li>
+    <li>PatungeBjectDesc-> mengulurkan tangan di Welcome [Maybeothand]</li>
+    <li>Patung Sejektject-> Menunjuk ke cakrawala dengan satu tangan [mungkin orang lain]</li>
+    <li>Patung STATUUESTDESC-> menari secara menggoda</li>
+    <li>Patung Sejek</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> melompat ke udara, beku mid-jump</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> makan makanan mewah</li>
+    <li>Patung SiljectDesc-> Mid-Struggle, Breaking Free From Chains</li>
+    <li>Patung STATUUESTDESC-> Membisik</li>
+    <li>Patung STATUUESTDESC-> menatap bintang-bintang, mata dipenuhi dengan keajaiban</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> merobek selembar kertas dalam tindakan menantang</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> Memegang [prop] besar di kedua tangan</li>
+    <li>Patung SiljectDesc-> tanpa gigi [mungkin insult]</li>
+    <li>Patung STATUUESTDESC-> menyipit ke matahari [mungkin insult]</li>
+    <li>Patung STATUUESTDESC-> mencium karangan bunga [maybenonose]</li>
+    <li>mungkin orang lain->.[Otherhand]</li>
+    <li>mungkin orang lain-></li>
+    <li>Otherhand-> The Statue's Hand lainnya memegang [prop]</li>
+    <li>lainnya-> Tangan Patung lainnya terletak di pinggulnya</li>
+    <li>Lainnya-> Tangan Patung yang Lainnya adalah membuat isyarat cabul</li>
+    <li>OtherHand-> The Statue's Hand lainnya hilang [mungkin insult]</li>
+    <li>maybenonose->.Patung itu tidak memiliki hidung [mungkin insult]</li>
+    <li>maybenonose-></li>
+    <li>Mungkin Ininsult->.Ini adalah penghinaan yang jelas</li>
+    <li>Mungkin Ininsult->.Tidak jelas apakah ini sedikit oleh artis atau kesalahan sederhana</li>
+    <li>Mungkin Ininsult->.Ini menunjukkan bahwa artis itu menghina subjek</li>
+    <li>MaybeInsult (p = 3)-></li>
+    <li>statuefacedesc (p = 2)-> wajah patung memiliki tampilan [faciallook].</li>
+    <li>statuefacedesc (p = 2)-> [faciallook] dapat dilihat di wajah [subjek_indefinite].</li>
+    <li>statuefacedesc-> [subjek_indefinite] memiliki tampilan [faciallook].</li>
+    <li>statuefacedesc-> wajah [subjek_indefinite] [menggambarkan] [faciallook].</li>
+    <li>Patuefacedesc-> [subjek_indefinite] memiliki wajah yang bijak dan bijaksana.</li>
+    <li>Patuefacedesc-> [Subject_indefinite] menangis, mulut ternganga dalam teriakan diam-diam.</li>
+    <li>statuefacedesc-> [subjek_indefinite] terlihat sedih ke kejauhan.</li>
+    <li>statuefacedesc-> patung [menggambarkan] [subjek_indefinite] dengan tampilan tanda tangan penentuan.</li>
+    <li>Patuefacedesc-> patung [menggambarkan] [subjek_indefinite] tertawa gila-gilaan.</li>
+    <li>statuefacedesc-> [subjek_indefinite] memiliki [facialfeature].</li>
+    <li>Patuefacedesc-> patung memiliki [facialfeature].</li>
+    <li>Patufacedesc-> Khususnya, patung ini memiliki [facialfeature].</li>
+    <li>faciallook-> sukacita sejati</li>
+    <li>faciallook-> teror murni</li>
+    <li>faciallook-> ekstasi murni</li>
+    <li>faciallook-> kebahagiaan murni</li>
+    <li>faciallook-> kejutan dan rasa malu</li>
+    <li>faciallook-> hiburan</li>
+    <li>faciallook-> kesedihan yang tak terhitung</li>
+    <li>faciallook-> kontemplasi yang dalam</li>
+    <li>faciallook-> kebingungan</li>
+    <li>faciallook-> kebanggaan dan kepuasan</li>
+    <li>faciallook-> hiburan</li>
+    <li>faciallook-> jijik</li>
+    <li>faciallook-> Defiance</li>
+    <li>facialfeature-> seringai menyenangkan</li>
+    <li>facialfeature-> alis berkerut</li>
+    <li>facialfeature-> alis terangkat, seolah menanyai artis</li>
+    <li>fitur wajah-> lidah panjang mencuat</li>
+    <li>facialfeature-> wajah terpelintir dalam kesedihan</li>
+    <li>facialfeature-> mata yang tampak binar</li>
+    <li>fitur wajah-> kedua mata tertutup, seolah-olah dalam damai</li>
+    <li>fitur wajah-> pipi kembung seolah meniup udara</li>
+    <li>fitur wajah-> mata manik dan bibir yang menggeram</li>
+    <li>style_group_statue-> [artextra_clause_statue].[style_clause].</li>
+    <li>style_group_statue-> [style_clause].[artextra_clause_statue].</li>
+    <li>style_group_statue-> [style_clause].</li>
+    <li>style_group_statue-> [artextra_clause_statue].</li>
+    <li>style_group_statue-></li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Pedestal patung dibatasi oleh [SubimagePlural]</li>
+    <li>Artextra_Clause_Statue-> Diukir ke dalam kulit subjek adalah [SubimagePlural]</li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Beberapa ukiran yang lebih kecil mengelilingi patung.Masing -masing menyerupai [subimagesingle]</li>
+    <li>Artextra_Clause_Statue-> Kaki patung itu dikaburkan oleh [SubimagePlural]</li>
+    <li>artextra_clause_statue-> [carvedverb] ke wajah patung adalah gambar [SubimageAny]</li>
+    <li>artextra_clause_statue-> [subjek_indefinite] berdiri di tengah [komunitas]</li>
+    <li>artextra_clause_statue-> Pangkalan patung tampaknya menjadi [terrainfeature]</li>
+    <li>artextra_clause_statue-> [subjek_indefinite] tampaknya bangkit dari [terrainfeature]</li>
+    <li>artextra_clause_statue-> [karakter] kecil muncul [side_position_statue]</li>
+    <li>artextra_clause_statue-> a [pawn_adj] [karakter] muncul [side_position_statue]</li>
+    <li>artextra_clause_statue-> [quantity_adjphrase] [karakter] s muncul [side_position_statue]</li>
+    <li>artextra_clause_statue-> [kuantitas frase adj] [pawn adj] [karakter muncul [side_position_statue]</li>
+    <li>artextra_clause_statue-> A [hewan] diukir [side_position_statue]</li>
+    <li>artextra_clause_statue-> dari kejauhan, komposisi [komposisi] patung mengungkapkan garis besar [SubimageAny]</li>
+    <li>Artextra_Clause_Statue-> Patung itu memegang [hewan] di bawah satu lengan</li>
+    <li>artextra_clause_statue-> patung ini memegang [quantity_adjphrase] [pawn_adj] [karakter] s</li>
+    <li>Artextra_Clause_Statue-> [Subject_indefinite] [StatuebodyPart] dibagi terbuka.Di dalam Anda dapat melihat [subimagePlural]</li>
+    <li>carvedadverb-> dengan hati-hati</li>
+    <li>carvedadverb-> dengan cepat</li>
+    <li>carvedadverb-> kasar</li>
+    <li>carvedadverb-> cermat</li>
+    <li>carvedadverb-> cermat</li>
+    <li>ukir-> diukir</li>
+    <li>carvedVerb-> terpahat</li>
+    <li>carvedVerb-> dipahat</li>
+    <li>STATUEADJ-> lebih besar dari kehidupan</li>
+    <li>STATUEADJ-> Towering</li>
+    <li>STATUEADJ-> Grand</li>
+    <li>STATUEADJ-> BESAR</li>
+    <li>STATUEADJ-> LifeLike</li>
+    <li>STATUEADJ-> SIDEMN</li>
+    <li>STATUEADJ-> bermartabat</li>
+    <li>STATUEADJ-> SIDEMN</li>
+    <li>STATUEADJ-> NOBLE</li>
+    <li>STATUEADJ-> Serene</li>
+    <li>STATUEADJ-> REMBURAN</li>
+    <li>STATUEADJ-> sederhana</li>
+    <li>STATUEADJ-> Mengungkap</li>
+    <li>STATUEADJ-> Mentah</li>
+    <li>STATUEADJ-> Titillating</li>
+    <li>PATURUEADJ-> provokatif</li>
+    <li>PATURUEADJ-> Sugestif</li>
+    <li>STATUEADJ-> aneh</li>
+    <li>STATUEADJ-> menakutkan</li>
+    <li>STATUEADJ-> Majestic</li>
+    <li>Patung menggambarkan-> menggambarkan</li>
+    <li>statuedepicts-> menunjukkan</li>
+    <li>Patung menggambarkan-> menggambarkan</li>
+    <li>side_position_statue-> di pangkalan</li>
+    <li>side_position_statue-> di atas alas di samping [subjek_indefinite]</li>
+    <li>side_position_statue-> di bawah tumit [subjek_indefinite]</li>
+    <li>side_position_statue-> di lengan [subjek_indefinite]</li>
+    <li>side_position_statue-> di atas kepala [subjek_indefinite]</li>
+    <li>side_position_statue-> di bahu [subjek_indefinite]</li>
+    <li>side_position_statue-> di belakang patung pusat</li>
+    <li>side_position_statue-> di lubang berukir ke dalam [statuebodypart] gambar itu</li>
+    <li>side_position_statue-> di telapak tangan [Subject_indefinite]</li>
+    <li>side_position_statue-> meledak dari [subjek_indefinite] [statuebodypart]</li>
+    <li>side_position_statue-> Muncul dari mulut [subjek_indefinite]</li>
+    <li>side_position_statue-> di belakang [subjek_indefinite]</li>
+    <li>statuebodypart-> dada</li>
+    <li>statuebodypart-> perut</li>
+    <li>statuebodypart-> kembali</li>
+    <li>statuebodypart-> head</li>
+    <li>statuebodypart-> mata</li>
+    <li>Prop-> Buku</li>
+    <li>Prop-> Pedang</li>
+    <li>Prop-> Spear</li>
+    <li>Prop-> Gun</li>
+    <li>Prop-> Relik Psikis</li>
+    <li>Prop-> Hati Manusia</li>-><ArtDescription_Statue.rulePack.rulesStrings>
+    <li>r_statue_description-> estatua [statuedepicts] A [subjek_namefull] [patung sasaran].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_descript-> patung UNA [patung] yang mewakili [subjek_namefull] [patungbjectdesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> la estatua de [subjek_namefull] [carvedVerb] [carvedadverb].[Subject_objective] [StatEdepicts] [PatungeubjectDesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_descript-> bergabunglah dengan patung yang bermutasi [subjek_namefull] [patungbjectdesc].[statuefacedesc] [style_group_statue]</li>
+    <li>r_statue_description-> la estatua de [subjek_namefull] [statueadj].[statuefacedesc] [style_group_statue]</li>
+    <li>Patung STATUUESTDESC-> berdiri memegang [prop] dengan kedua tangan</li>
+    <li>Patung SejektDesc-> berdiri memegang [propofem] dengan kedua tangan</li>
+    <li>Patung Sejek</li>
+    <li>Patung Sejek</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> bersandar ke samping seolah-olah mereka akan jatuh [mungkin insult]</li>
+    <li>Patung SejektDesc-> de pie sobre un solo pie [MaybeInsult]</li>
+    <li>Patung STATUUESTDESC-> membungkuk secara mendalam</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> Doa</li>
+    <li>Patung Sejek</li>
+    <li>Patung STATUUESTDESC-> dengan tangan yang ketat dengan rasa terima kasih</li>
+    <li>Patung STATUUESTDESC-> Berjalan dengan kecepatan penuh</li>
+    <li>Patung STATUUESTDESC-> dengan lengan terbuka, melihat ke langit</li>
+    <li>Patung STATUUESTDESC-> Dengan tangan Anda bertumpu di pinggul</li>
+    <li>Patung SiljectDesc-> dengan lengan terangkat dalam kemenangan</li>
+    <li>PatungeBjectDesc-> Memegang [prop] di satu tangan [Maybeothherhand]</li>
+    <li>PatungeBjectDesc-> Memegang [propofem] di satu tangan [Maybeotherhand]</li>
+    <li>Patung STATUUESTDESC-> Salam dengan satu tangan [Maybeotherhand]</li>
+    <li>PatungeBjectDesc-> menunjuk ke arah cakrawala [mungkin orang lain]</li>
+    <li>PatungeBjectDesc-> mengulurkan tangan di Welcome [Maybeothand]</li>
+    <li>PatungeBjectDesc-> Menunjuk cakrawala dengan satu tangan [Maybeothherhand]</li>
+    <li>Patung STATUUESTDESC-> menari secara menggoda</li>
+    <li>Patung subjectddesc-> bersantai dengan cara yang menggoda</li>
+    <li>Patung STATUUESTDESC-> Bersiap untuk bertarung</li>
+    <li>Patung SiljectDesc-> melompat di udara, setengah lompatan beku</li>
+    <li>Patung STATUUESTDESC-> menuangkan jaringan ke perairan yang tidak terlihat</li>
+    <li>Patung STATUEUSEBLECCESC-> Mencicipi makanan mewah</li>
+    <li>Patung SiljectDesc-> dalam pertarungan penuh, membebaskan dari rantai</li>
+    <li>Patung STATUUESTDESC-> Membisik</li>
+    <li>Patung STATUUESTDESC-> Melihat bintang-bintang dengan matanya yang penuh keheranan</li>
+    <li>Patung Sejek</li>
+    <li>Patung Sejek</li>
+    <li>Statusubjectdesc-> perairan dalam</li>
+    <li>Patung STATUUESTDESC-> Memegang [prop] yang bagus dengan kedua tangan</li>
+    <li>Patung Sejektject-> Memegang [propofem] yang bagus dengan kedua tangan</li>
+    <li>Patung SejektDesc-> Sin Dientes [MaybeInsult]</li>
+    <li>Patung SejektDesc-> Memperkuat mata ke Matahari [mungkin insult]</li>
+    <li>Patung STATUUESTDESC-> mencium karangan bunga [maybenonose]</li>
+    <li>mungkin orang lain->.[Otherhand]</li>
+    <li>mungkin orang lain-></li>
+    <li>Lainnya-> Tangan lain dari patung itu memegang [prop]</li>
+    <li>Lainnya-> Tangan lain dari patung itu memegang [propofem]</li>
+    <li>Lainnya-> Tangan lain dari patung itu bersandar di pinggulnya</li>
+    <li>Lainnya-> Tangan Patung yang lain adalah membuat gerakan cabul</li>
+    <li>OtherHand-> patung itu tidak memiliki tangan lain [mungkin insult]</li>
+    <li>Maybenonose->.Patung itu tidak memiliki hidung [mungkin insult]</li>
+    <li>maybenonose-></li>
+    <li>Mungkin Ininsult->.Ini adalah penghinaan yang jelas</li>
+    <li>Mungkin Ininsult->.Tidak jelas apakah itu adalah kerusakan artis atau kesalahan sederhana</li>
+    <li>Mungkin Ininsult->.Ini menunjukkan bahwa artis itu menghina subjek</li>
+    <li>MaybeInsult (p = 3)-></li>
+    <li>Statuefacedesc (p = 2)-> wajah patung memiliki ekspresi [faciallook].</li>
+    <li>Statuefacedesc (p = 2)-> dapat dilihat di muka [subjek_indefinite] [faciallook].</li>
+    <li>Statuefacedesc-> [subjek_indefinite] memiliki tampilan [faciallook].</li>
+    <li>Statuefacedesc-> el rostro de [subjek_indefinite] [menggambarkan] [faciallook].</li>
+    <li>Patuefacedesc-> [subjek_indefinite] memiliki wajah yang bijak dan reflektif.</li>
+    <li>Statuefacedesc-> [subjek_indefinite] berteriak, mulut terbuka dengan tangisan diam.</li>
+    <li>Statuefacedesc-> [subjek_indefinite] terlihat sedih di kejauhan.</li>
+    <li>Patuefacedesc-> patung [berangkat] [subjek_indefinite] dengan tampilan penentuan yang khas.</li>
+    <li>Patung statuefacedesc-> la [menggambarkan] [subjek_indefinite] tertawa ke bangkai.</li>
+    <li>statuefacedesc-> [subjek_indefinite] tiene [facialfeature].</li>
+    <li>Patung menghadapi-> di estatua tiene [fitur wajah].</li>
+    <li>Patuefacedesc-> khususnya, patung ini memiliki [fitur wajah].</li>
+    <li>Faciallook-> sukacita sejati</li>
+    <li>faciallook-> teror murni</li>
+    <li>faciallook-> ekstasi murni</li>
+    <li>faciallook-> kebahagiaan murni</li>
+    <li>Faciallook-> kejutan dan rasa malu</li>
+    <li>faciallook-> menyenangkan</li>
+    <li>Faciallook-> rasa sakit yang tak terkatakan</li>
+    <li>faciallook-> kontemplasi yang dalam</li>
+    <li>Faciallook-> kebingungan</li>
+    <li>Faciallook-> kebanggaan dan kepuasan</li>
+    <li>Faciallook-> bersukacita</li>
+    <li>faciallook-> asco</li>
+    <li>Faciallook-> tantangan</li>
+    <li>facialfeature-> senyuman menyenangkan</li>
+    <li>facialfeature-> cemberut</li>
+    <li>Fitur wajah-> alis terangkat, seperti menanyai artis</li>
+    <li>Fitur facial-> lidah panjang yang menonjol</li>
+    <li>facialfeature-> The Twisted Face of Meduling</li>
+    <li>Fitur facial-> mata yang tampak berkilau</li>
+    <li>Fitur facial-> Dua mata tertutup, seperti dalam damai</li>
+    <li>Fitur facial-> pipi yang meningkat seolah-olah meniup udara</li>
+    <li>Fitur facial-> slip dan mata bibir</li>
+    <li>style_group_statue-> [artextra_clause_statue].[style_clause].</li>
+    <li>style_group_statue-> [style_clause].[artextra_clause_statue].</li>
+    <li>style_group_statue-> [style_clause].</li>
+    <li>style_group_statue-> [artextra_clause_statue].</li>
+    <li>style_group_statue-></li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Pedestal patung dibatasi oleh [SubimagePlural]</li>
+    <li>artextra_clause_statue-> diukir di kulit subjek adalah [subimageeplural]]</li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Beberapa ukuran yang lebih kecil mengelilingi patung.Masing -masing menyerupai [subimageingle]</li>
+    <li>Artextra_Clause_Statue-> Kaki patung disembunyikan oleh [SubimagePlural]</li>
+    <li>artextra_clause_statue-> [carvedverb] di muka patung adalah gambar [SubimageAny]</li>
+    <li>artextra_clause_statue-> [subjek_indefinite] berada di tengah [komunitas]</li>
+    <li>artextra_clause_statue-> [subjek_indefinite] berada di tengah [communities_fem]</li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Basis patung tampaknya menjadi [fitur medan]</li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Basis patung tampaknya menjadi [terrainfeature_fem]</li>
+    <li>Artextra_Clause patung-> [subjek tidak terbatas] tampaknya muncul dari un [fitur terain]</li>
+    <li>artextra_clause_statue-> [subjek tidak terbatas] tampaknya muncul dari [fitur terain fem]</li>
+    <li>artextra_clause_statue-> [karakter] kecil muncul [side_position_statue]</li>
+    <li>Artextra_Clause_Statue-> A Kecil [karakter_fem] muncul [Side_Position_Statue]</li>
+    <li>artextra_clause_statue-> un [karakter] [pawn_adj] aparece [side_position_statue]</li>
+    <li>artextra_clause_statue-> [quantity_adjphrase] [karakter_plural] aparecen [side_position_statue]</li>
+    <li>artextra_clause_statue-> [quantity_adjphrase] [karakter_plural] [pawn_adjpl] aparecen [side_position_statue]</li>
+    <li>Artextra_Clause_Statue-> an [hewan] diukir [side_position_statue]</li>
+    <li>artextra_clause_statue-> a [animal_fem] diukir [side_posion_statue]</li>
+    <li>artextra_clause_statue-> dari jauh, komposisi [komposisi] patung mengungkapkan kontur [subimagenany]</li>
+    <li>ARTEXTRA_CLAUCE_STATUE-> Patung itu memegang [hewan]</li>
+    <li>Artextra_Clause_Statue-> Patung itu memegang [animal_fem] di bawah satu lengan</li>
+    <li>artextra_clause_statue-> la estatua sostiene [quantity_adjphrase] [karakter_plural] [pawn_adjpl]</li>
+    <li>artextra_clause_statue-> [statuebodypart] dari [subjek_indefinite] terbuka.Di dalam Anda dapat melihat [SubimagePlural]</li>
+    <li>artextra_clause_statue-> [statuebodypartfem] dari [subjek_indefinite] terbuka.Di dalam Anda dapat melihat [SubimagePlural]</li>
+    <li>Carvedadverb-> dengan hati-hati</li>
+    <li>Carveadverb-> dengan cepat</li>
+    <li>Carvedadverb-> dengan hati-hati</li>
+    <li>Carveadverb-> cermat</li>
+    <li>Carveadverb-> cermat</li>
+    <li>carvedverb-> tallada</li>
+    <li>CarvedVerb-> terpahat</li>
+    <li>CarvedVerb-> cincelada</li>
+    <li>STATUEADJ-> BESAR DARI KEHIDUPAN</li>
+    <li>STATUEADJ-> Sangat tinggi</li>
+    <li>STATUEADJ-> enormi</li>
+    <li>STATUEADJ-> Grande</li>
+    <li>STATUEADJ-> Realistis</li>
+    <li>STATUEADJ-> SOLEM</li>
+    <li>STATUEADJ-> bermartabat</li>
+    <li>STATUEADJ-> SOLEM</li>
+    <li>STATUEADJ-> NOBLE</li>
+    <li>STATUEADJ-> Serena</li>
+    <li>STATUEADJ-> REMBURAN</li>
+    <li>STATUEADJ-> MODESTA</li>
+    <li>STATUEADJ-> Mengungkap</li>
+    <li>PATSEEAD-> CRUDA</li>
+    <li>STATUEADJ-> Menyenangkan</li>
+    <li>PATURUEADJ-> provokatif</li>
+    <li>PATURUEADJ-> Sugestif</li>
+    <li>STATUEADJ-> GROTESCA</li>
+    <li>STATUEADJ-> Slabber</li>
+    <li>STATUEADJ-> Majestic</li>
+    <li>stateedepicts-> jelaskan</li>
+    <li>Statuedepicts-> sampel</li>
+    <li>statuedepicts-> potret</li>
+    <li>side_position_statue-> di pangkalan</li>
+    <li>side_position_statue-> en el alas di sebelah [subjek_indefinite]</li>
+    <li>Side_posion_statue-> di bawah tumit [subjek_indefinite]</li>
+    <li>side_position_statue-> en brazos de [subjek_indefinite]</li>
+    <li>Side_posion_statue-> di kepala [subjek_indefinite]</li>
+    <li>Side_posion_statue-> di pundak [subjek_indefinite]</li>
+    <li>Side_posion_statue-> di belakang patung pusat</li>
+    <li>Side_posion_statue-> di lubang ukiran pada gambar [statuebodypart]</li>
+    <li>Side_posion_statue-> dalam lubang ukiran pada gambar [statuebodypart]</li>
+    <li>Side_posion_statue-> di telapak [subjek_indefinite]</li>
+    <li>side_position_statue-> brotando del [statuebodypart] de [subjek_indefinite]</li>
+    <li>side_position_statue-> brotando de la [statuebodypartfem] de [subjek_indefinite]</li>
+    <li>Side_posion_statue-> Meninggalkan mulut [subjek_indefinite]</li>
+    <li>side_position_statue->sobre la espalda de [SUBJECT_indefinite]</li>
+    <li>statueBodyPart->pecho</li>
+    <li>Statuebodypart-> perut</li>
+    <li>statuebodypartfem-> espalda</li>
+    <li>Statuebodypartfem-> Cabeza</li>
+    <li>statuebodypart-> ojo</li>
+    <li>Prop-> Buku</li>
+    <li>Prophem-> Sword</li>
+    <li>Prophem-> Spear</li>
+    <li>Prop-> Arma</li>
+    <li>Prophem-> Relik Psikis</li>
+    <li>Prop-> Hati Manusia</li>
+  </ArtDescription_Statue.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_statue_name (p = 4)-> [subjek_namefull]</li>
+    <li>r_statue_name-> patung [Subject_indefinite]</li>
+    <li>r_statue_name-> Studi [subjek_indefinite]</li>
+    <li>r_statue_name-> Sebuah studi di [Patungeidea]</li>
+    <li>r_statue_name-> [statueadj] [subjek_indefinite]</li>
+    <li>r_statue_name-> [Subject_indefinite], [statueAdj]</li>
+    <li>r_statue_name-> [StatueAdj] [SubjectNoun]</li>
+    <li>r_statue_name-> [statueadj] [SubjectNoun]</li>
+    <li>r_statue_name-> figur [patung]</li>
+    <li>r_statue_name-> [StatueIdea] dan [SubjectNoun]</li>
+    <li>r_statue_name-> [Subject_indefinite] [SubjectNoun]</li>
+    <li>r_statue_name-> [subjek_indefinite], [SubjectNoun]</li>
+    <li>r_statue_name-> [SubjectNoun]</li>
+    <li>r_statue_name-> [SubjectNoun] dari [Patungeidea]</li>
+    <li>r_statue_name-> [subjek_indefinite] dan [talkTopIChICheVyFile]</li>
+    <li>STATUEADJ (p = 5)-> [AdjectiveAny]</li>
+    <li>STATUEADJ-> Pahat</li>
+    <li>STATUEADJ-> SILENT</li>
+    <li>STATUEADJ-> abadi</li>
+    <li>STATUEADJ-> SEMPURNA</li>
+    <li>STATUEADJ-> Dipahat</li>
+    <li>STATUEADJ-> Tak ladang</li>
+    <li>STATUEADJ-> tidak terputus</li>
+    <li>STATUEADJ-> ECHOING</li>
+    <li>STATUEADJ-> Ideal</li>
+    <li>STATUEADJ-> Human</li>
+    <li>STATUEADJ-> cacat</li>
+    <li>STATUEADJ-> Watchful</li>
+    <li>STATUEADJ-> ECHOING</li>
+    <li>STATUEADJ-> Fournful</li>
+    <li>STATUEADJ-> FROZEN</li>
+    <li>STATUEADJ-> REMBURAN</li>
+    <li>SubjectNoun (p = 2)-> [personjob]</li>
+    <li>SubjectNoun (p = 2)-> [Personfamily]</li>
+    <li>SubjectNoun (p = 2)-> [secara pribadi]</li>
+    <li>SubjectNoun (p = 2)-> [personbadass]</li>
+    <li>Subjeknoun-> Watcher</li>
+    <li>Subjeknoun-> Pahlawan</li>
+    <li>Subjeknoun-> Legenda</li>
+    <li>subjekNoun-> bek</li>
+    <li>Subjeknoun-> Sentinel</li>
+    <li>Subjeknoun-> Adonis</li>
+    <li>Subjeknoun-> Spirit</li>
+    <li>Subjeknoun-> figure</li>
+    <li>subjeknoun-> gambar</li>
+    <li>Subjeknoun-> Soul</li>
+    <li>subjeknoun-> body</li>
+    <li>SubjectNoun-> Visage</li>
+    <li>subjeknoun-> kontemplasi</li>
+    <li>SubjekNoun-> Formulir</li>
+    <li>Subjeknoun-> Angel</li>
+    <li>Subjeknoun-> patung</li>
+    <li>Subjeknoun-> Mirage</li>
+    <li>statueIdea(p=3)->[ConceptPositive]</li>
+    <li>PatungeIdea (p = 3)-> [ConceptBadass]</li>
+    <li>PatungeIdea (p = 3)-> [Conceptangsy]</li>
+    <li>PatungeIdea (p = 3)-> [Conceptangsy]</li>
+    <li>Patung-patung> Kekuatan</li>
+    <li>Patung-patung> Kebijaksanaan</li>
+    <li>patung> licik</li>
+    <li>patung> heroisme</li>
+    <li>Patung-patung> Kekuatan</li>
+    <li>Patung-patung> memori</li>
+    <li>Patung> roh</li>
+    <li>Patung-patung> Cahaya</li>
+    <li>Patung-patung> Patriotisme</li>
+    <li>Patungan-> Cahaya Pagi</li>
+    <li>Patung-patung> Langit malam</li>
+    <li>patung> matahari terbit</li>
+    <li>Patung-patung> Sand yang melayang</li>
+    <li>Patung-patung> cinta abadi</li>
+    <li>Patung-patung> Gairah</li>-><NamerStatue.rulePack.rulesStrings>
+    <li>r_statue_name (p = 4)-> [subjek_namefull]</li>
+    <li>R_statue_name-> [subjek_indefinite] patung]</li>
+    <li>R_statue_name-> [subjek_indefinite] Studio</li>
+    <li>r_statue_name-> Sebuah studi di [Patungeidea]</li>
+    <li>r_statue_name-> [subjek_indefinite] [statueAdj]</li>
+    <li>r_statue_name-> [subjek_indefinite], la [statueAdj]</li>
+    <li>r_statue_name-> el [subjeknounmasc] [statueAdj]</li>
+    <li>r_state_name-> la [SubjectNoun] [tatatuadj]</li>
+    <li>R_statue_name-> name-> figurasi [tatueida]</li>
+    <li>r_statue_name-> [Statueidea] y [SubjectNoun]</li>
+    <li>r_statue_name-> [SubjectNoun] de [subjek_indefinite]</li>
+    <li>r_statue_name-> [subjek_indefinite], el [subjeknoun]</li>
+    <li>R_state_name-> la [SubjectNoun]</li>
+    <li>r_statue_name-> [SubjectNoun] de [Patungeidea]</li>
+    <li>r_statue_name-> [subjek_indefinite] y [talkTopIChICheVyFile]</li>
+    <li>STATUEADJ (p = 5)-> [AdjectiveAny]</li>
+    <li>STATUEADJ-> Pahat</li>
+    <li>STATUEADJ-> SILENT</li>
+    <li>STATUEADJ-> ETERNA</li>
+    <li>STATUEADJ-> SEMPURNA</li>
+    <li>STATUEADJ-> Dipahat</li>
+    <li>STATUEADJ-> Atemporal</li>
+    <li>STATUEADJ-> utuh</li>
+    <li>PATURUEADJ-> Resonant</li>
+    <li>STATUEADJ-> Ideal</li>
+    <li>STATUEADJ-> Human</li>
+    <li>STATUEADJ-> Imperfecta</li>
+    <li>PATURUEADJ-> Resonant</li>
+    <li>STATUEADJ-> MOURNING</li>
+    <li>STATUEADJ-> FROZEN</li>
+    <li>STATUEADJ-> crash</li>
+    <li>SubjectNoun (p = 2)-> [personjob]</li>
+    <li>SubjectNoun (p = 2)-> [Personfamily]</li>
+    <li>SubjectNoun (p = 2)-> [secara pribadi]</li>
+    <li>SubjectNoun (p = 2)-> [personbadass]</li>
+    <li>SubjekNoun-> Vigilante</li>
+    <li>Subjeknoun-> Leandanda</li>
+    <li>Subjeknoun-> centinela</li>
+    <li>subjeknoun-> figura</li>
+    <li>SubjectNoun-> Imagen</li>
+    <li>subjeknoun-> alma</li>
+    <li>Subjeknoun-> kontemplasi</li>
+    <li>Subjek kata benda-> formulir</li>
+    <li>subjeknoun-> state</li>
+    <li>SubjekNounMasc-> Adonis</li>
+    <li>subjekNounMasc-> héroe</li>
+    <li>SubjekNounMasc-> Defensor</li>
+    <li>SubjekNounMasc-> Spirit</li>
+    <li>SubjekNounMasc-> Cuerpo</li>
+    <li>subjekNounMasc-> rostro</li>
+    <li>subjekNounMasc-> ángel</li>
+    <li>SubjekNounMasc-> Mirage</li>
+    <li>PatungeIdea (p = 3)-> [ConceptPositive]</li>
+    <li>PatungeIdea (p = 3)-> [ConceptBadass]</li>
+    <li>PatungeIdea (p = 3)-> [Conceptangsy]</li>
+    <li>PatungeIdea (p = 3)-> [Conceptangsy]</li>
+    <li>Patung-patung> Fortaleza</li>
+    <li>Patung-patung> Kebijaksanaan</li>
+    <li>patung> licik</li>
+    <li>patung> heroisme</li>
+    <li>Patung-patung> Kekuatan</li>
+    <li>Patung-patung> memori</li>
+    <li>patung> roh</li>
+    <li>Patung-patung> Cahaya</li>
+    <li>Patung-patung> Patriotisme</li>
+    <li>Patungan-> Cahaya Pagi</li>
+    <li>Patung-patung> Langit malam</li>
+    <li>Patung-patung> Dawn</li>
+    <li>Patung-patung> Penjahat Arena</li>
+    <li>Patung> cinta abadi</li>
+    <li>Patung-patung> Gairah</li>
+  </NamerStatue.rulePack.rulesStrings>
+  
+</LanguageData>

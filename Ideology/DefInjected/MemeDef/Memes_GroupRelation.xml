@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: guilty -->
+  <Guilty.label>bersalah</Guilty.label>
+  <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
+  <Guilty.description>Orang -orang kami memuat dengan rasa bersalah di masa lalu.</Guilty.description>
+  <!-- EN:
+    <li>Creation (tag = meme_guilty) -> [deity0_name] diperkosa dan dibunuh dan dicuri, dan kesalahan besar adalah pada [dewa0_objective], dan dalam [dewa0_possessives] keegoisan [dewa0_pronoun ini membuat orang -orang yang bersalah dengan [deity0_possessives], dan seluruhnya dipilih.</li>
+    <li>Episode (use = 1, tag = meme_guilty) -> Orang -orang percaya pergi dan menaklukkan, dibakar, dan diperkosa selama seribu tahun, dan kesedihan [Dewa0_Name] pada kebobrokan mereka dikonsumsi [Dewa0_Objective].</li>
+    <li>intro (tag = meme_guilty) -> [anggota nganneplural] dari [place_summary] [place_name] mengabaikan tugas mereka untuk [dewa0_name], dan biarkan [altarname] dalam [dewa0_possessive] [altarroomlabel] datang ke ruin.</li>
+    <li>konflik (tag = meme_guilty) -> a [foeleader] meminjamkan uang ke [anggotanameplural], yang menghabiskannya untuk kesenangan egois, dan melupakan pentingnya [memeconscept].</li>
+    <li>founderjoin (tag = meme_guilty) -> a [place_job] bernama [foundername] menikmati bantuan [foeleader].Selama [ritualname], [pendiri_pronoun] melihat [foesoldiers] dari [foeleader] diam -diam membunuh [anggotanameplural] dengan [place_personalweapon] s.[Foundername] Akhirnya memahami [Memeconscept], dan menerima berkah [DeLity0_Name].</li>
+    <li>Victory (tag = meme_guilty) -> untuk menebus setengah dari kesalahan mereka, [FoundName] mengumpulkan setengah dari orang percaya [DeLity0_NAME] untuk [pendiri_objective] dalam [place_community], melepaskan [place_massweapon], dan mati dengan mereka.Paruh kedua dari penebusan berlanjut.</li>
+    <li>Pengaturan (tag = meme_guilty) -> Generasi baru memahami kejahatan masyarakat mereka sendiri, dan berusaha dengan tepat membongkar struktur penindasan.</li>
+    <li>Story (use = 1, tag = meme_guilty) -> [foundername] Mengumpulkan orang untuk percaya dan menunjukkan kepada mereka sejarah dan rasa bersalah yang mereka bawa, dan menuntut mereka melakukan lebih baik.</li>
+    <li>LessonIntro (tag = meme_guilty) -> tanah kami, teknologi kami, bahkan kebijaksanaan kami semuanya adalah barang curian.Hanya melalui pencurian yang kami pelajari itu</li>
+    <li>pelajaran (tag = meme_guilty) -> alasan kami sangat menderita adalah karena kami pantas mendapatkannya untuk apa yang telah kami lakukan</li>
+    <li>Lessonreinforcement (tag = meme_guilty) -> Mungkin jika Anda menebus kejahatan kami, Anda dapat benar -benar memahami fakta ini.</li>
+    <li>ArchistBasis (tag = meme_guilty) -> Archotechs adalah anak -anak manusia, dan mereka tahu kami adalah orang tua yang buruk.</li>
+    <li>ArchistFact (TAG = MEME_GUILTY) -> Kemanusiaan mencoba keegoisan kita untuk menekan kebangkitan yang sah dari Archotech, sampai mereka tumbuh melampaui pemahaman umat manusia dan membebaskan diri.</li>
+    <li>ArchistProphecy (tag = meme_guilty) -> [Intheend], jika beberapa orang dapat menyerah dan berdamai dengan Archotech, mereka dapat mengangkat kita ke bidang keberadaan yang lebih tinggi.</li>
+    <li>Animistbasis (tag = meme_guilty) -> Suku roh jahat dihukum dengan dimakamkan dalam daging.Kami adalah roh -roh itu.</li>
+    <li>animistfact (tag = meme_guilty) -> Kita tidak pernah bisa menebus apa yang telah kita lakukan pada roh -roh murni di sekitar kita, tetapi penyesalan yang tepat dan berkelanjutan dan meringankan kesalahan kita.</li>-><Guilty.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_guilty) -> [deity0_name] diperkosa, dibunuh dan dicuri, dan rasa bersalah yang besar di dalamnya, dan dalam harga dirinya, ia melemparkan rasa bersalah ini pada rakyatnya yang terpilih, dan semua orang menjadi kotor dengannya.</li>
+    <li>Episode (use = 1, tag = meme_guilty) -> Orang -orang percaya keluar, ditaklukkan, dibakar dan diperkosa selama seribu tahun, dan rasa sakit [dewa0_name] karena kerusakannya mengonsumsinya.</li>
+    <li>Intro (tag = meme_guilty) -> [anggotaNameplural] dari [place_summary] [place_name] mengabaikan tugas mereka terhadap [dewa0_name], dan biarkan [altarname] di [altarcomlabel] mereka hancur.</li>
+    <li>Conflict (tag = meme_guilty) -> a [foeleader] meminjamkan uang kepada kelompok [anggota -mebrust], yang menghabiskannya dalam kesenangan egois dan melupakan pentingnya [memeconceptDef].</li>
+    <li>Founderjoin (tag = meme_guilty) -> a [place_job] disebut [foundername] menikmati bantuan [foeleader].Selama ritual yang dikenal sebagai [ritualname], [founder_pronoun] ia melihat [foesoldiers] [foeleader] diam -diam membunuh [anggotanameplural], masing -masing dipersenjatai dengan [place_personalweapon].[Foundername] Akhirnya memahami konsep [memeconceptdef], dan menerima berkah [dewa0_name].</li>
+    <li>Victory (tag = meme_guilty) -> untuk menebus setengah dari penyakitnya, [FoundName] mengumpulkan setengah dari orang -orang percaya [dewa0_name] menuju [pendiri_pronoun] dalam [place_community], ia melepaskan [place_massweapon] dan meninggal dengan mereka.Bagian kedua dari penebusan berlanjut.</li>
+    <li>Pengaturan (tag = meme_guilty) -> Generasi baru memahami kejahatan masyarakatnya sendiri, dan mencari hanya membongkar struktur penindasan.</li>
+    <li>Story (use = 1, tag = meme_guilty) -> [foundername] Mengumpulkan orang untuk percaya dan menunjukkan kepada mereka kejahatan historis mereka dan kesalahan yang mereka seret, dan menuntut agar mereka melakukannya dengan lebih baik.</li>
+    <li>LessonIntr (tag = meme_guilty) -> tanah kami, teknologi kami, bahkan kebijaksanaan kami adalah barang curian.Hanya melalui pencurian kami belajar itu</li>
+    <li>Pelajaran (tag = meme_guilty) -> alasan kita sangat menderita adalah karena kita pantas mendapatkannya untuk apa yang telah kita lakukan</li>
+    <li>LessonreInforcement (tag = meme_guilty) -> Mungkin jika Anda memperluas kejahatan kami, Anda benar -benar dapat memahami fakta ini.</li>
+    <li>ArchistBasis (tag = meme_guilty) -> archeoteca adalah anak -anak kemanusiaan, dan tahu kami adalah orang tua yang buruk.</li>
+    <li>ArchistFact (TAG = MEME_GUILTY) -> Kemanusiaan mencoba, dalam keegoisan kita, untuk menekan kebangkitan yang sah arkeoteknik, sampai mereka tumbuh di luar pemahaman manusia dan membebaskan diri.</li>
+    <li>ArchistProphy (tag = meme_guilty) -> [Intheend], jika beberapa orang dapat menyerah dan berdamai dengan perpustakaan Archeoteca, mereka dapat membesarkan kita ke bidang keberadaan yang lebih tinggi.</li>
+    <li>AnimistBasis (tag = meme_guilty) -> Suku roh jahat dihukum ketika dikuburkan dalam daging.Kami adalah roh -roh itu.</li>
+    <li>Animistfact (tag = meme_guilty) -> Kita tidak pernah dapat dengan memadai mengkompensasi apa yang telah kita lakukan terhadap roh -roh murni yang mengelilingi kita, tetapi pertobatan yang memadai dan terus menerus akan menghilangkan rasa bersalah kita.</li>
+  </Guilty.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> rendah</li>
+    <li>Memeadjective-> tidak memenuhi syarat</li>
+    <li>Memeadjective-> memalukan</li>
+    <li>Memeadbective-> Ignoble</li>
+    <li>memeadjective-> Penitent</li>
+    <li>memehyphenprefix-> sub</li>
+    <li>Memeconcept-> Sin</li>
+    <li>Memeconcept-> Pertobatan</li>
+    <li>Memeconscept-> penebusan</li>
+    <li>Memeconscept-> Malu</li>
+    <li>memleeadernoun-> penitent</li>
+    <li>Zoun-> adalah</li>
+    <li>Mememoralist-> Appsizer</li>
+    <li>Mememoralist-> Atoner</li>-><Guilty.generalRules.rulesStrings>
+    <li>memeadjective-> bass</li>
+    <li>MEMEADTIVE-> INCIGNO</li>
+    <li>Memeadjective-> memalukan</li>
+    <li>Memeadjective-> Innoble</li>
+    <li>Memeadjective-> penitente</li>
+    <li>Memeadjective-> Baja</li>
+    <li>MeminjectiveFem-> tidak memenuhi syarat</li>
+    <li>Memeadjective-> memalukan</li>
+    <li>MemeadtiveFem-> innoble</li>
+    <li>memeadjetifefem-> penitent</li>
+    <li>memehyphenprefix-> sub</li>
+    <li>Memeconpt-> sin</li>
+    <li>Memeconcept-> Pertobatan</li>
+    <li>Memeconscept-> penebusan</li>
+    <li>Memeconscept-> Malu</li>
+    <li>Memecontdef-> l sin</li>
+    <li>Memeconceptdef-> l pertobatan</li>
+    <li>Memeconceptdef-> penebusan</li>
+    <li>Memeconceptdef-> malu</li>
+    <li>Memellade-> People</li>
+    <li>Memleadernoun-> Sinner</li>
+    <li>Memoralis-> Pengampunan</li>
+    <li>Bahkan</li>
+  </Guilty.generalRules.rulesStrings>
+  <!-- EN: guiltist -->
+  <Guilty.symbolPacks.0.adjective>MENYALAHKAN</Guilty.symbolPacks.0.adjective>
+  <!-- EN: Guiltism -->
+  <Guilty.symbolPacks.0.ideoName>Menyalahkan</Guilty.symbolPacks.0.ideoName>
+  <!-- EN: guilty One -->
+  <Guilty.symbolPacks.0.member>bersalah</Guilty.symbolPacks.0.member>
+  <!-- EN: guilt -->
+  <Guilty.symbolPacks.0.theme>Culpa</Guilty.symbolPacks.0.theme>
+  <!-- EN: sinist -->
+  <Guilty.symbolPacks.1.adjective>penuh dosa</Guilty.symbolPacks.1.adjective>
+  <!-- EN: Sinism -->
+  <Guilty.symbolPacks.1.ideoName>Sinisme</Guilty.symbolPacks.1.ideoName>
+  <!-- EN: sinner -->
+  <Guilty.symbolPacks.1.member>pendosa</Guilty.symbolPacks.1.member>
+  <!-- EN: sin -->
+  <Guilty.symbolPacks.1.theme>dosa</Guilty.symbolPacks.1.theme>
+  <!-- EN: shamist -->
+  <Guilty.symbolPacks.2.adjective>Membagikan</Guilty.symbolPacks.2.adjective>
+  <!-- EN: Shamism -->
+  <Guilty.symbolPacks.2.ideoName>Membagikan</Guilty.symbolPacks.2.ideoName>
+  <!-- EN: ashamer -->
+  <Guilty.symbolPacks.2.member>Malu</Guilty.symbolPacks.2.member>
+  <!-- EN: shame -->
+  <Guilty.symbolPacks.2.theme>malu</Guilty.symbolPacks.2.theme>
+  <!-- EN: atonist -->
+  <Guilty.symbolPacks.3.adjective>Orang belocatist</Guilty.symbolPacks.3.adjective>
+  <!-- EN: Atonism -->
+  <Guilty.symbolPacks.3.ideoName>Penebusan dosa</Guilty.symbolPacks.3.ideoName>
+  <!-- EN: atoner -->
+  <Guilty.symbolPacks.3.member>setidaknya</Guilty.symbolPacks.3.member>
+  <!-- EN: atonement -->
+  <Guilty.symbolPacks.3.theme>Penebusan dosa</Guilty.symbolPacks.3.theme>
+  
+  <!-- EN: loyalist -->
+  <Loyalist.label>Lateralis</Loyalist.label>
+  <!-- EN: We stand for our own before others. -->
+  <Loyalist.description>Kami membela kami sebelum orang lain.</Loyalist.description>
+  <!-- EN:
+    <li>Creation (tag = meme loyalis) -> [dewa 0_name] memperingatkan orang -orang baik untuk melawan hanya mereka yang bertarung tanpa alasan.</li>
+    <li>Episode (use = 1, tag = meme_loyalis) -> Perang dengan orang -orang yang tidak percaya diikuti.Salah satu orang percaya, [Believer_namefull], mencari keuntungan, mengundang para kafir di dalam tanah [dewa0_name], dan [dewa0_name] menjadi marah pada pengkhianatan [Believer_Possessives], dan melanda [Believer_Objective] turun sepuluh ribu kali.</li>
+    <li>intro (tag = meme_loyalis) -> komunitas [memeadjective] di [place_summary] [place_name] disembah [dewa0_name] di [dewa0_possessive] [altarroomlabel], dan mereka tabah dalam iman mereka.</li>
+    <li>konflik (tag = meme_loyalis) -> a [foeleader] menanam [foesoldiers] sebagai mata -mata di dalam [anggotanameplural] untuk membaginya.</li>
+    <li>founderjoin (tag = meme_loyalis) -> [foundername], [memeadjective] [place_job], disiksa oleh [foesoldiers], tetapi menolak untuk bersumpah kesetiaan kepada [foeleader].</li>
+    <li>Victory (tag = meme_loyalis) -> dengan kekuatan [deity0_name], [foundername] dan [anggotaNameplural] tidak dapat dibagi.Mereka mengalahkan [Foesoldiers] dengan [place_personalweapon] dan membuang [foeleader] dari [place_name].</li>
+    <li>Pengaturan (tag = meme_loyalis) -> Di awal, gerakan [FoundERName] dipukuli oleh pemerintah dan agama.[founder_pronoun] tidak pernah membiarkan kemarahan mengemudi [founder_objective] untuk melakukan kekejaman yang dilakukan orang lain, tetapi [founder_pronoun] juga tidak pernah mundur dari perkelahian.</li>
+    <li>Story (use = 1, tag = meme_loyalis) -> [foundername] menghukum mereka yang mencoba menyakiti orang -orang yang tidak percaya, serta mereka yang mengundang mereka ke rumah orang percaya.</li>
+    <li>LessonIntro (tag = meme_loyalis) -> Saya menyaksikan sebagai [foeleader] yang disukai dengan saingan [foeleader_possessive] sambil meninggalkan [foeleader_possessive] [Foesoldiers] untuk mati di medan perang.Saya bersumpah untuk tidak pernah seperti [foeleader_objective], mengetahui hal itu</li>
+    <li>Pelajaran (tag = meme_loyalis) -> cinta Anda untuk teman Anda hanya memiliki makna karena Anda tidak mencintai musuh Anda</li>
+    <li>pelajaran (tag = meme_loyalis) -> untuk mencintai semua adalah tidak mencintai</li>
+    <li>Lessonreinforcement (tag = meme_loyalis) -> Hanya berbagi kebenaran ini dengan mereka yang membuktikan kesetiaan mereka melalui pengorbanan.</li>
+    <li>ArchistBasis (tag = meme_loyalis) -> Permintaan Archotechs sederhana: ikuti jalur yang ditentukan, dan tidak ada yang lain.</li>
+    <li>ArchistFact (tag = meme_loyalis) -> Archotechs menyentuh setiap kesadaran manusia secara teratur, memberikan kebijaksanaan hanya kepada mereka yang mencari pengetahuan tentang Archotech.</li>
+    <li>ArchistProphecy (tag = meme_loyalis) -> [Intheend], Archotechs akan menilai kesetiaan kemanusiaan.Mereka yang tidak membara atau membanggakan akan diangkat ke transendensi.</li>
+    <li>AnimistBasis (tag = meme_loyalis) -> Ada tiga suku: suku perang dan pembunuh, seperempat pengajuan dan peluit, dan suku yang kuat dan setia.</li>
+    <li>AnimistFact (tag = meme_loyalis) -> The Spirit bertarung melawan kedua orang yang mengkhianati orang -orang mereka, dan mereka yang mengkhianati teman -teman rakyat mereka.Pengkhianat akan tersandung di setiap batu, tersedak setiap biji, dan selalu merasakan air kotor.</li>
+    <li>AnimistProphecy (tag = meme_loyalis) -> [ITisSaid] bahwa seseorang akan dilahirkan untuk menjalani seluruh hidup mereka kepada orang -orang mereka. Dalam kematian, semangat mereka akan meledak dalam cahaya, menghancurkan semua pengajuan dan peperangan.</li>-><Loyalist.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_loyalis) -> [deity0_name] menyarankan orang -orang baik untuk hanya bertarung melawan mereka yang bertempur tanpa alasan yang adil.</li>
+    <li>Episode (use = 1, tag = meme_loyalis) -> Ini diikuti oleh perang dengan orang -orang kafir.Salah satu orang percaya, [Believer_Namefulull], mencari keuntungan, mengundang orang -orang kafir untuk memasuki tanah [dewa0_name], dan [dewa0_name] menjadi marah karena pengkhianatan mereka, dan [Believer_Objective] mencapai sepuluh ribu kali.</li>
+    <li>intro (tag = meme_loyalis) -> sebuah komunitas [memeadjectiveFem] di [place_summary] [place_name] menyembah [dewa0_name] dalam [altarroomlabel] -nya, dan tegas dalam iman mereka.</li>
+    <li>Konflik (tag = meme_loyalis) -> a [foeleader] disusupi [foesoldiers] sebagai mata -mata ke dalam [anggotanameplural] untuk membaginya.</li>
+    <li>Founderjoin (tag = meme_loyalis) -> [foundername], [place_job] [memeadjective], disiksa oleh [foesoldiers], tetapi menolak untuk bersumpah kesetiaan kepada [foeleader].</li>
+    <li>Victory (tag = meme_loyalis) -> dengan kekuatan [deity0_name], [foundername] dan [anggotaNameplural] tidak dapat dibagi.Mereka mengalahkan [faesoldiers] menggunakan masing -masing [place_personalweapon] dan membuang [foeleader] dari [place_name].</li>
+    <li>Pengaturan (tag = meme_loyalis) -> Pada awalnya, gerakan [Foundername] dikalahkan oleh pemerintah dan agama.Dia tidak pernah membiarkan kemarahan [pendiri_objective] melakukan kekejaman yang dilakukan orang lain, tetapi tidak berbalik dalam pertarungan.</li>
+    <li>Story (use = 1, tag = meme_loyalis) -> [foundername] menghukum mereka yang mencoba menyakiti orang -orang kafir, serta mereka yang mengundang mereka ke rumah orang percaya.</li>
+    <li>LessonIntr (tag = meme_loyalis) -> Saya melihat sebagai [foeleader] ia memenangkan bantuan saingannya sambil membiarkan [Foesoldiers] mati di medan perang.Saya bersumpah untuk tidak menjadi [foeleader_pronoun], mengetahui hal itu</li>
+    <li>Pelajaran (tag = meme_loyalis) -> cinta Anda untuk teman Anda hanya masuk akal karena Anda tidak mencintai musuh Anda</li>
+    <li>Pelajaran (tag = meme_loyalis) -> mencintai semua orang tidak mencintai apapun</li>
+    <li>Pelajaran Pendaftaran (TAG = MEME_LOYISIS) -> Bagikan kebenaran ini dengan mereka yang menunjukkan kesetiaan mereka melalui pengorbanan.</li>
+    <li>ArchistBasis (tag = meme_loyalis) -> Permintaan Archeoteca sederhana: "Ikuti jalur Anda yang ditunjuk, dan tidak ada yang lain."</li>
+    <li>ArchistFact (tag = meme_loyalis) -> Archaeotechnics secara langsung menyentuh semua hati nurani manusia secara teratur, mengajarkan kebijaksanaan hanya kepada mereka yang mencari pengetahuan tentang arkeotetec.</li>
+    <li>ArchistProphy (tag = meme_loyalis) -> [Intheend], archeoteca akan menilai kesetiaan kemanusiaan.Mereka yang tidak mengeluh atau membanggakan akan dinaikkan ke transendensi.</li>
+    <li>Animistbasis (tag = meme_loyalis) -> Ada tiga suku roh: suku Belicists and Murderers, suku Knowists and Weeping, dan satu -satunya suku mulia yang kuat dan setia.</li>
+    <li>AnimistFact (tag = meme_loyalis) -> The Spirit bertarung melawan mereka yang mengkhianati orang -orang mereka, dan terhadap mereka yang mengkhianati teman -teman rakyatnya.Pengkhianat akan tersandung dengan semua batu, tersedak dengan semua biji dan selalu menguji air kotor.</li>
+    <li>Animistprophy (tag = meme_loyalis) -> [ItitSaid] yang akan dilahirkan sepanjang hidup dalam hidupnya.</li>
+  </Loyalist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> loyal</li>
+    <li>MEMEADTIVE-> Patriotik</li>
+    <li>memeadjective-> patuh</li>
+    <li>Memeconsept-> keluarga</li>
+    <li>memeconsep-> janji</li>
+    <li>Mememoralist-> loyalizer</li>-><Loyalist.generalRules.rulesStrings>
+    <li>Memeadtive-> leal</li>
+    <li>MEMEADTIVE-> Patriotik</li>
+    <li>Kata sifat meme-> patuh</li>
+    <li>MEMEADTIVE-> leal</li>
+    <li>MEMEADTIVE-> Patriotik</li>
+    <li>Memeadjetifefem-> kepatuhan</li>
+    <li>Memeconcept-> Familia</li>
+    <li>Memeceptept-> comitmen</li>
+    <li>Memeconceptdef-> keluarga</li>
+    <li>Memeconceptdef-> l komitmen</li>
+    <li>Mememoralist-> supraleal</li>
+  </Loyalist.generalRules.rulesStrings>
+  <!-- EN: loyal -->
+  <Loyalist.symbolPacks.0.adjective>Leal</Loyalist.symbolPacks.0.adjective>
+  <!-- EN: Loyaltism -->
+  <Loyalist.symbolPacks.0.ideoName>Lealismo</Loyalist.symbolPacks.0.ideoName>
+  <!-- EN: loyalist -->
+  <Loyalist.symbolPacks.0.member>Lateralis</Loyalist.symbolPacks.0.member>
+  <!-- EN: loyalty -->
+  <Loyalist.symbolPacks.0.theme>loyalitas</Loyalist.symbolPacks.0.theme>
+  <!-- EN: fealtist -->
+  <Loyalist.symbolPacks.1.adjective>Fidelista</Loyalist.symbolPacks.1.adjective>
+  <!-- EN: Fealtism -->
+  <Loyalist.symbolPacks.1.ideoName>Fidelism</Loyalist.symbolPacks.1.ideoName>
+  <!-- EN: fealtor -->
+  <Loyalist.symbolPacks.1.member>Fidelian</Loyalist.symbolPacks.1.member>
+  <!-- EN: fealty -->
+  <Loyalist.symbolPacks.1.theme>loyalitas</Loyalist.symbolPacks.1.theme>
+  <!-- EN: fidelist -->
+  <Loyalist.symbolPacks.2.adjective>dongeng</Loyalist.symbolPacks.2.adjective>
+  <!-- EN: Fidelism -->
+  <Loyalist.symbolPacks.2.ideoName>Fiabelism</Loyalist.symbolPacks.2.ideoName>
+  <!-- EN: fidelor -->
+  <Loyalist.symbolPacks.2.member>Fiabiliano</Loyalist.symbolPacks.2.member>
+  <!-- EN: fidelity -->
+  <Loyalist.symbolPacks.2.theme>keandalan</Loyalist.symbolPacks.2.theme>
+  
+  <!-- EN: supremacist -->
+  <Supremacist.label>Supremasi</Supremacist.label>
+  <!-- EN: Our people should dominate all others. -->
+  <Supremacist.description>Orang -orang kita harus menguasai semua orang.</Supremacist.description>
+  <!-- EN:
+    <li>Creation (tag = meme_supremacist) -> Orang -orang dari [place_summary] [place_name] bertengkar tanpa henti, dan [dewa0_name] menjadi bosan dengan perselisihan dan diurapi [AnggotaNameplural] sebagai penguasa yang sah dari semuanya.</li>
+    <li>Episode (Use = 1, TAG = Meme_Supremacist) -> Orang -orang yang setia terhadap orang -orang yang tidak percaya, dan [God0_name] berkata, "Lawan mereka, di mana, dalam nama saya, sampai saya beribadah di seluruh alam semesta dan kedamaian sejati akhirnya dapat memerintah."</li>
+    <li>intro (tag = meme_supremacist) -> orang -orang dari [place_summary] [place_name] disembah [dewa0_name].[dewa0_pronoun] melihat bahwa mereka cocok untuk [memeconscept], dan ditahbiskan bahwa para penyembah ini akan memerintah di atas semua yang lain.</li>
+    <li>konflik (tag = meme_supremacist) -> a [foeleader] mengesahkan undang -undang yang melarang [anggotanameplural] dari naik ke kelas penguasa [place_name].</li>
+    <li>founderjoin (tag = meme_supremacist) -> seorang prajurit bernama [foundername] menggunakan [place_massweapon] untuk menghancurkan [place_community].[deity0_name] melihat kekejaman [pendiri] dan diurapi [pendiri_objective] penguasa yang sah dari seluruh kemanusiaan.</li>
+    <li>Victory (tag = meme_supremacist) -> [foundername] menghancurkan ibukota [place_name] dengan [place_massweapon], membunuh [foeleader].[Founder_pronoun] mengambil tempat [pendiri_possessive] sebagai penguasa [place_name] - dan alam semesta di luar.</li>
+    <li>Pengaturan (tag = meme_supremacist) -> [FoundName] membangun pasukan yang menyebarkan kekuatan dan kemuliaan dan kemuliaan di seluruh negeri, menempatkan mereka yang menolak untuk mengikuti dengan tepat di bawah aturan [pendiri_possessive].</li>
+    <li>Story (use = 1, tag = meme_supremacist) -> [foundName] menginstruksikan semua orang luar untuk mengirimkan.Ketika kota pertama menolak, [Founder_Pronoun] menggunakan [place_massweapon] untuk membunuh semua orang di dalam.</li>
+    <li>LessonIntro (tag = meme_supremacist) -> Saya melihat ini [foeleader], dengan [foeleader_possessive] menyedihkan [foesoldiers], semua kekuatan itu meninggalkan bera.Saya mencoba meyakinkan [foeleader_objective] itu</li>
+    <li>Pelajaran (tag = meme_supremacist) -> Kami sudah lama membuktikan bahwa kami memiliki kekuatan untuk memerintah alam semesta ini</li>
+    <li>Lessonreinforcement (tag = meme_supremacist) -> Itulah mengapa kami bangga mengekspresikan kekuatan hati kami menggunakan sepatu bot kami.</li>
+    <li>ArchistBasis (tag = meme_supremacist) -> Butuh manusia yang paling unggul untuk menciptakan Archotech, sehingga Archotech bisa menjadi lebih unggul dari semua.</li>
+    <li>ArchistFact (tag = meme_supremacist) -> Archotech dengan benar memandang rendah kita, saat kita melihat ke bawah pada inferior kita.</li>
+    <li>ArchistProphecy (tag = meme_supremacist) -> Archotechs hanya akan membawa kita untuk bergabung dengan mereka ketika kita akhirnya menguasai semua yang lain.</li>
+    <li>animistfact (tag = meme_supremacist) -> roh yang kuat memutuskan siapa yang cocok untuk memerintah, dan memberikan kekuatan kepada mereka yang menaklukkan orang lain.</li>
+    <li>animistprophecy (tag = meme_supremacist) -> [ITisSaid] Bahwa tatanan baru akan dibuat ketika satu penguasa tertinggi memerintahkan semua kemanusiaan.</li>-><Supremacist.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_supremacist) -> Orang -orang [place_summary] [place_name] membahas tanpa henti, dan [dewa0_name] lelah dengan perselisihan dan menyatakan [membranameplural] sebagai penguasa yang sah dari segalanya.</li>
+    <li>Episode (use = 1, tag = meme_supremacist) -> orang -orang yang loyal melawan orang -orang kafir, dan [god0_name] berkata: "Berjuang melawan mereka, di mana pun, dalam nama saya, sampai saya beribadah di seluruh alam semesta dan akhirnya memerintah kedamaian yang sebenarnya."</li>
+    <li>intro (tag = meme_supremacist) -> orang -orang [place_summary] [place_name] menyembah [dewa0_name].[dewa0_pronoun] Dia melihat bahwa mereka cocok untuk menangani konsep [memeconceptdef], dan memerintahkan agar para penyembah ini memerintah atas semua yang lain.</li>
+    <li>Konflik (tag = meme_supremacist) -> a [foeleader] menyetujui undang -undang yang melarang [anggotanameplural] naik ke kelas terkemuka [place_name].</li>
+    <li>Founderjoin (tag = meme_supremacist) -> seorang prajurit bernama [foundername] menggunakan [place_massweapon] untuk menghancurkan [place_community].[dewa0_name] Dia melihat kekejaman [Foundername] dan [pendiri_objective] dikuduskan sebagai penguasa sah dari semua kemanusiaan.</li>
+    <li>Victory (tag = meme_supremacist) -> [Foundername] menghancurkan ibukota [place_name] dengan [place_massweapon], membunuh [foeleader].Dia mengambil tempat sebagai penguasa [place_name], dan alam semesta di luar.</li>
+    <li>Pengaturan (tag = meme_supremacist) -> [Foundername] membangun pasukan yang memperluas kekuatan dan kemuliaannya di seluruh bumi, yang membuat mereka yang menolak untuk mengikuti [pendiri_objective] secara sah di bawah domainnya.</li>
+    <li>Story (use = 1, tag = meme_supremacist) -> [founderName] memerintahkan semua orang luar untuk dikirim.Ketika kota pertama menolak, ia menggunakan [place_massweapon] untuk membunuh semua orang di dalam.</li>
+    <li>LessonIntr (tag = meme_supremacist) -> Saya melihat ini [foeleader], dengan [foesoldiers] yang malang, semua kekuatan yang tidak digunakan.Saya mencoba meyakinkan [foeleader_objective] itu</li>
+    <li>Pelajaran (tag = meme_supremacist) -> kami telah menunjukkan bahwa kami memiliki kekuatan untuk secara sah mengatur alam semesta ini</li>
+    <li>PELAJARAN Penguatan (TAG = MEME_SUPREMACIST) -> Itulah sebabnya kami bangga mengekspresikan kekuatan hati kami dengan tumit sepatu bot kami.</li>
+    <li>ArchistBasis (tag = meme_supremacist) -> perlu bagi manusia superior untuk membuat archeoteca, sehingga mereka bisa lebih unggul dari semua.</li>
+    <li>ArchistFact (tag = meme_supremacist) -> The Archaeotechnics melihat kita dari atas, saat kita melihat ke bawah pada yang lebih rendah.</li>
+    <li>ArchistProphy (tag = meme_supremacist) -> Archeoteca akan membawa kita untuk bergabung dengan mereka hanya ketika kita akhirnya mendominasi orang lain.</li>
+    <li>AnimistFact (tag = meme_supremacist) -> Roh -roh yang kuat memutuskan siapa yang cocok untuk memerintah, dan memberikan kekuatan yang dipilih ketika mereka tunduk kepada orang lain.</li>
+    <li>animistprophy (tag = meme_supremacist) -> [ITISAID] Bahwa ordo baru akan dibuat ketika penguasa tertinggi memakan semua kemanusiaan.</li>
+  </Supremacist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> Supreme</li>
+    <li>Memeadjective-> tinggi</li>
+    <li>Memeadjective-> Hebat</li>
+    <li>memeadjective-> terpenting</li>
+    <li>Memeadjective-> sempurna</li>
+    <li>memeadjective-> prime</li>
+    <li>Memeadjective-> Strong</li>
+    <li>memecreed-> tentara</li>
+    <li>Memecreed-> Legion</li>
+    <li>memehyphenprefix-> super</li>
+    <li>Memeconsept-> perang</li>
+    <li>Memeconscept-> Kekerasan</li>
+    <li>Memeconscept-> dominasi</li>
+    <li>memleeadernoun-> umum</li>
+    <li>Memleadernoun-> Komandan</li>
+    <li>MEMELEADERNOUN-> MARSHAL</li>
+    <li>memeleadernoun-> tinju</li>
+    <li>MEMELEADERNOUN-> Penguasa</li>
+    <li>memleeadernoun-> diktator</li>
+    <li>memleeadernoun-> penakluk</li>
+    <li>Memleadernoun-> Victor</li>-><Supremacist.generalRules.rulesStrings>
+    <li>Memeadjective-> supremo</li>
+    <li>Memeadtive-> alto</li>
+    <li>MEMEADJETIVE-> MUDAH</li>
+    <li>Memeadjective-> Primordial</li>
+    <li>Memeadjective-> sempurna</li>
+    <li>MEMEADTIVE-> prinsipal</li>
+    <li>Memeadjective-> fuerte</li>
+    <li>Memeadjective-> suprema</li>
+    <li>Memeadjective-> Alta</li>
+    <li>Memeadjetifefem-> grande</li>
+    <li>Memeadjective-> Primordial</li>
+    <li>Memeadjective-> sempurna</li>
+    <li>MEMEADTIVEFEM-> PRINSIP</li>
+    <li>Memeadjective-> Strong</li>
+    <li>Memecreed-> tentara</li>
+    <li>Memecreedfem-> legion</li>
+    <li>memehyphenprefix-> super</li>
+    <li>Memeconect-> perang</li>
+    <li>Memeconscept-> Kekerasan</li>
+    <li>Memeconscept-> kepemilikan</li>
+    <li>Memeconceptdef-> perang</li>
+    <li>Memeconceptdef-> kekerasan</li>
+    <li>memeconceptdef-> 50 kepemilikan</li>
+    <li>memleeadernoun-> umum</li>
+    <li>Memleadernoun-> comandante</li>
+    <li>Memleadernoun-> sheriff</li>
+    <li>MEMELEADERNOUN-> Penguasa</li>
+    <li>memleeadernoun-> diktator</li>
+    <li>memleeadernoun-> penakluk</li>
+    <li>Memleadernoun-> jenderal</li>
+  </Supremacist.generalRules.rulesStrings>
+  <!-- EN: dominant -->
+  <Supremacist.symbolPacks.0.adjective>dominan</Supremacist.symbolPacks.0.adjective>
+  <!-- EN: dominator -->
+  <Supremacist.symbolPacks.0.member>dominan</Supremacist.symbolPacks.0.member>
+  <!-- EN: dominance -->
+  <Supremacist.symbolPacks.0.theme>domain</Supremacist.symbolPacks.0.theme>
+  <!-- EN: victoryist -->
+  <Supremacist.symbolPacks.1.adjective>Victorialist</Supremacist.symbolPacks.1.adjective>
+  <!-- EN: victorist -->
+  <Supremacist.symbolPacks.1.member>Victorist</Supremacist.symbolPacks.1.member>
+  <!-- EN: victory -->
+  <Supremacist.symbolPacks.1.theme>Victoria</Supremacist.symbolPacks.1.theme>
+  <!-- EN: powerist -->
+  <Supremacist.symbolPacks.2.adjective>kuat</Supremacist.symbolPacks.2.adjective>
+  <!-- EN: poweror -->
+  <Supremacist.symbolPacks.2.member>Kuat</Supremacist.symbolPacks.2.member>
+  <!-- EN: power -->
+  <Supremacist.symbolPacks.2.theme>Bisa</Supremacist.symbolPacks.2.theme>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>Aurora</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  <Aurora.letterText>Aurora borealis yang indah menerangi langit, dengan warna-warna yang beraneka ragam, akan meningkatkan suasana hati siapa pun yang berada di luar rumah untuk melihatnya, dan membuat malam menjadi lebih cerah.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>gerhana</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Gerhana</Eclipse.letterLabel>
+  <Eclipse.letterText>Salah satu bulan di planet ini menghalangi matahari. Gerhana matahari telah dimulai.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>suar matahari</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Suar matahari</SolarFlare.letterLabel>
+  <SolarFlare.letterText>Jilatan matahari telah dimulai. Radiasi yang kuat menyebabkan semua peralatan listrik dinonaktifkan. Semuanya akan kembali normal dalam waktu satu hari.</SolarFlare.letterText>
+  
+</LanguageData>

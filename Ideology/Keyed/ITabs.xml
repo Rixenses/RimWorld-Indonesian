@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Character -->
+  <!-- EN: Overrides some precepts related to -->
+  <OverridesSomePrecepts>Membatalkan beberapa sila yang terkait dengan</OverridesSomePrecepts>
+  <!-- EN: Agrees with memes -->
+  <AgreeableMemes>Menurut meme</AgreeableMemes>
+  <!-- EN: Conflicts with memes -->
+  <DisagreeableMemes>Konflik dengan meme</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <!-- EN: Slave -->
+  <TabSlave>Budak</TabSlave>
+  <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
+  <SlaveReleaseRelationGainsDesc>Faksi yang akan Anda menangkan jika Anda melepaskan budak.Ini dipengaruhi oleh kesehatan fisik dan mental budak.</SlaveReleaseRelationGainsDesc>
+  <!-- EN: Relations gain on release -->
+  <SlaveReleasePotentialRelationGains>Perolehan hubungan saat membebaskan</SlaveReleasePotentialRelationGains>
+  <!-- EN: Slave rebellion interval -->
+  <SlaveRebellionMTBDays>Interval pemberontakan budak</SlaveRebellionMTBDays>
+  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map. -->
+  <SlaveRebellionMTBDaysDescription>Jumlah rata -rata hari di antara upaya pemberontakan budak.Hanya waktu terjaga yang dihitung.Ini dipengaruhi oleh penindasan, humor, kesehatan, kedekatan dengan senjata, jumlah budak di peta dan keberadaan pemukim di peta.</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <!-- EN: Suppression -->
+  <Suppression>Perwakilan</Suppression>
+  <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
+  <SuppressionDesc>Penindasan adalah efek psikologis dari ketakutan dan kontrol atas seorang budak.Jika penindasan rendah, budak lebih cenderung memberontak.</SuppressionDesc>
+  <!-- EN: Suppression fall rate -->
+  <SuppressionFallRate>Tingkat Penurunan Penindasan</SuppressionFallRate>
+  <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
+  <SuppressionFallRateDesc>Represi berkurang dari waktu ke waktu tergantung pada levelnya saat ini: \ n \ n- {1}+ represi: {0} sehari \ n- {4}- {3} represi: {2} sehari \ n- {6}- represi: {5} caner a day a day \ n \ nla cluns dan teror dan terror.Perhitungan penurunan kecepatan budak ini adalah</SuppressionFallRateDesc>
+  <!-- EN: Cannot emancipate -->
+  <CannotEmancipate>Anda tidak bisa membebaskan</CannotEmancipate>
+  <!-- EN: Cannot imprison -->
+  <CannotImprison>Tidak bisa dipenjara</CannotImprison>
+  <!-- EN: Current suppression -->
+  <CurrentSuppression>Penindasan saat ini</CurrentSuppression>
+  <!-- EN: Terror -->
+  <Terror>Teror</Terror>
+  <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
+  <TerrorDescription>Teror adalah cara untuk mempertahankan budak yang tertekan.Meningkat ketika budak menghabiskan waktu di dekat hal -hal menakutkan seperti patung horor.Seorang budak hanya dapat dipengaruhi oleh tiga sumber teror pada saat yang sama.</TerrorDescription>
+  <!-- EN: Recent terrifying observations -->
+  <TerrorCurrentThoughts>Pengamatan menakutkan baru -baru ini</TerrorCurrentThoughts>
+
+  <!-- EN: Base interval -->
+  <SuppressionBaseInterval>Basis</SuppressionBaseInterval>
+  <!-- EN: Moving capacity -->
+  <SuppressionMovingCapacityFactor>Kapasitas pergerakan</SuppressionMovingCapacityFactor>
+  <!-- EN: Suppression -->
+  <SuppressionFactor>Perwakilan</SuppressionFactor>
+  <!-- EN: Mood -->
+  <SuppressionMoodFactor>Humor</SuppressionMoodFactor>
+  <!-- EN: Slave count -->
+  <SuppressionSlaveCountFactor>Hitungan budak</SuppressionSlaveCountFactor>
+  <!-- EN: Escape route -->
+  <SuppressionEscapeFactor>Rute Knalpot</SuppressionEscapeFactor>
+  <!-- EN: Weapon proximity -->
+  <SuppressionWeaponProximityFactor>Kedekatan senjata</SuppressionWeaponProximityFactor>
+  <!-- EN: Final interval -->
+  <SuppressionFinalInterval>Interval akhir</SuppressionFinalInterval>
+  <!-- EN: Unattended -->
+  <SuppressionUnattendedByColonists>Tanpa pengawasan</SuppressionUnattendedByColonists>
+  <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
+  <SuppressionRebellionAnySlave>Diharapkan bahwa setidaknya salah satu dari {0} budak peta ini akan memberontak rata -rata masing -masing {1}.</SuppressionRebellionAnySlave>
+
+  <!-- EN: Will -->
+  <WillLevel>Tekad</WillLevel>
+  <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
+  <WillLevelDesc>Berapa banyak tahanan yang diputuskan untuk tidak tunduk.Ketika ini mencapai nol, mereka dapat diperbudak.</WillLevelDesc>
+  <!-- EN: {0} base will -->
+  <WillFromPawnKind>Basis akan {0}</WillFromPawnKind>
+  <!-- EN: Target ideoligion -->
+  <IdeoConversionTarget>Ideoligion objektif</IdeoConversionTarget>
+  <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
+  <IdeoConversionTargetDesc>Ideoligion tempat penjaga Anda akan mencoba mengubah tahanan ini.</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <!-- EN: Change per day due to mood -->
+  <CertaintyChangePerDay>Ubah per hari karena humor</CertaintyChangePerDay>
+  <!-- EN: Change rate based on mood -->
+  <MoodChangeRate>Perubahan ritme tergantung pada humor</MoodChangeRate>
+  <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
+  <CertaintyInIdeo>Kepastian {pawn_namedef} di {ideo_name}</CertaintyInIdeo>
+  <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
+  <RoleDesc>Status khusus yang dimiliki orang ini dalam ideolisasi mereka.Jika Anda mengubah atau mengambil peran ini, Anda akan merasa tidak bahagia.</RoleDesc>
+  <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
+  <RoleAssignmentTip>Perubahan peran membutuhkan ritual perubahan peran.Pilih tempat ritual atau altar apa pun dan klik "Mulai Perubahan Peran".</RoleAssignmentTip>
+  <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
+  <ConversionWeakerDueToTraitAgreements>Upaya konversi akan lebih lemah karena sifat/meme kesesuaian</ConversionWeakerDueToTraitAgreements>
+  <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
+  <ConversionStrongerDueToTraitAgreements>Upaya konversi akan lebih kuat karena konflik sifat/meme</ConversionStrongerDueToTraitAgreements>
+
+  <!-- EN: Cut -->
+  <Cut>Memotong</Cut>
+  <!-- EN: Cut both eyes -->
+  <CutBothEyes>Potong kedua mata</CutBothEyes>
+
+</LanguageData>

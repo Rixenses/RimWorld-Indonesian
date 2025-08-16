@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: awoken corpse -->
+  <AwokenCorpse.label>mayat yang terangsang</AwokenCorpse.label>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>Necrófago</Ghoul.label>
+  <!-- EN: A person who has been turned into a ghoul.\n\nAbout ghouls: Ghouls are engineered murder machines, twisted by dark psychic influences.\n\nGhouls are very dangerous in melee combat. However, the process of their creation leaves them incapable of higher levels of thought, preventing them from holding weapons or tools. They cannot work and outside combat they wander in a half-conscious stupor.\n\nMany people find the constant twitching of ghouls disturbing. More disturbing is their dependence on raw meat. If they go hungry they will turn hostile, even attacking their creators to sate their hunger. -->
+  <Ghoul.description>Seseorang yang telah diubah menjadi necrophagus. Mereka tidak bisa bekerja dan, di luar pertarungan, mereka berkeliaran sepak bola yang setengah sadar.Yang lebih mengganggu adalah ketergantungannya pada daging mentah.Jika mereka kelaparan, mereka menjadi bermusuhan dan bahkan menyerang pencipta mereka untuk memuaskan kelaparan mereka.</Ghoul.description>
+  <!-- EN: One of your ghouls has died. -->
+  <Ghoul.deathLetter>Salah satu nekrofag Anda telah mati.</Ghoul.deathLetter>
+  <!-- EN: Unlike regular colonists, ghouls do not need to be buried and their death will not upset others. You may choose to bury them should you wish. -->
+  <Ghoul.deathLetterExtra>Tidak seperti pemukim normal, nekrofag tidak perlu dimakamkan dan kematian mereka tidak akan mengganggu orang lain.Jika diinginkan, Anda bisa menguburnya.</Ghoul.deathLetterExtra>
+  <!-- EN: teeth -->
+  <Ghoul.tools.teeth.label>gigi</Ghoul.tools.teeth.label>
+  <!-- EN: left claw -->
+  <Ghoul.tools.left_claw.label>cakar kiri</Ghoul.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Ghoul.tools.left_claw.labelNoLocation>cakar</Ghoul.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Ghoul.tools.right_claw.label>Cakar kanan</Ghoul.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Ghoul.tools.right_claw.labelNoLocation>cakar</Ghoul.tools.right_claw.labelNoLocation>
+  
+  <!-- EN: shambler -->
+  <Shambler.label>pejalan</Shambler.label>
+  <!-- EN: A creature who has been raised from the dead by corrupted nano-scale archites.\n\nAbout shamblers: Shamblers are corpses which have been reanimated by archotechnology. They attack living creatures relentlessly and their immunity to pain makes them difficult to kill. However, the archites which animate them cannot sustain the rotting body for long, so shamblers expire after a few days of movement.\n\nThere are ways to raise your own shamblers and make yourself invisible to them, so they attack only outsiders. -->
+  <Shambler.description>Makhluk yang telah dibangkitkan dari antara orang mati oleh arsitek nanosiler yang korup.Mereka tanpa henti menyerang makhluk hidup dan kekebalan terhadap rasa sakit membuat mereka sulit dibunuh.Namun, para arsitek yang telah menyadarkan mereka tidak dapat menjaga tubuh busuk untuk waktu yang lama, sehingga pejalan kaki jatuh setelah beberapa hari aktivitas.</Shambler.description>
+  <!-- EN: shambler  -->
+  <Shambler.namePrefix>pejalan</Shambler.namePrefix>
+  <!-- EN: Shambler wounds -->
+  <Shambler.renderNodeProperties.0.debugLabel>Luka Walker</Shambler.renderNodeProperties.0.debugLabel>
+  <!-- EN: Shambler wounds -->
+  <Shambler.renderNodeProperties.1.debugLabel>Luka Walker</Shambler.renderNodeProperties.1.debugLabel>
+  <!-- EN: teeth -->
+  <Shambler.tools.teeth.label>gigi</Shambler.tools.teeth.label>
+  <!-- EN: left hand -->
+  <Shambler.tools.left_hand.label>tangan kiri</Shambler.tools.left_hand.label>
+  <!-- EN: hand -->
+  <Shambler.tools.left_hand.labelNoLocation>ribu</Shambler.tools.left_hand.labelNoLocation>
+  <!-- EN: right hand -->
+  <Shambler.tools.right_hand.label>tangan kanan</Shambler.tools.right_hand.label>
+  <!-- EN: hand -->
+  <Shambler.tools.right_hand.labelNoLocation>ribu</Shambler.tools.right_hand.labelNoLocation>
+  
+</LanguageData>

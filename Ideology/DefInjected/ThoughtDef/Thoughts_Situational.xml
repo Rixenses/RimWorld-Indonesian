@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: look change desired -->
+  <LookChangeDesired.stages.look_change_desired.label>penampilan yang diinginkan</LookChangeDesired.stages.look_change_desired.label>
+  <!-- EN: The way I look doesn't match who I am today. I want to change it. -->
+  <LookChangeDesired.stages.look_change_desired.description>Penampilan saya tidak sesuai dengan apa saya hari ini.Saya ingin mengubahnya.</LookChangeDesired.stages.look_change_desired.description>
+  
+  <!-- EN: masochist body strapped -->
+  <MasochistWearingBodyStrap.stages.masochist_body_strapped.label>Tubuh masokis yang dikelola</MasochistWearingBodyStrap.stages.masochist_body_strapped.label>
+  <!-- EN: The straps press in and calm my soul. -->
+  <MasochistWearingBodyStrap.stages.masochist_body_strapped.description>Tali tali menekan dan menenangkan jiwaku.</MasochistWearingBodyStrap.stages.masochist_body_strapped.description>
+  
+  <!-- EN: masochist collared -->
+  <MasochistWearingCollar.stages.masochist_collared.label>Masokis dengan kalung</MasochistWearingCollar.stages.masochist_collared.label>
+  <!-- EN: Such restrictive discomfort... Delightful. -->
+  <MasochistWearingCollar.stages.masochist_collared.description>Ketidaknyamanan yang sangat ketat ... Saya menyukainya.</MasochistWearingCollar.stages.masochist_collared.description>
+  
+  <!-- EN: wearing favorite color -->
+  <WearingColor_Favorite.stages.wearing_favorite_color.label>membawa warna favorit</WearingColor_Favorite.stages.wearing_favorite_color.label>
+  <!-- EN: I just love this color. -->
+  <WearingColor_Favorite.stages.wearing_favorite_color.description>Saya suka warna ini.</WearingColor_Favorite.stages.wearing_favorite_color.description>
+  
+  <!-- EN: wearing ideoligion color -->
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>membawa warna ideoligion</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
+  <!-- EN: My apparel coloring is properly expressing my beliefs. -->
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.description>Warna pakaian saya dengan benar mengungkapkan keyakinan saya.</WearingColor_Ideo.stages.wearing_ideoligion_color.description>
+  
+</LanguageData>

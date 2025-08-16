@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> Kutukan [Nameperson]</li>
+    <li>terrain_word (p = 2)-> kota</li>
+    <li>TERRAIN_WORD-> Outpost</li>
+    <li>Terrain_word-> Ghost Town</li>-><NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> Kutukan [Nameperson]</li>
+    <li>terrain_word (p = 2)-> pueblo</li>
+    <li>Terrain_word-> posisi lanjutan</li>
+    <li>Terrain_word-> orang hantu</li>
+  </NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> desa</li>
+    <li>terrain_word-> Camp</li>-><NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+    <li>terrain_word (p = 2)-> aldea</li>
+    <li>Terrain_word-> Campamento</li>
+  </NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> ventilasi panas</li>
+    <li>terrain_word-> ventilasi termal</li>
+    <li>terrain_word-> ventilasi infernal</li>
+    <li>terrain_word-> lubang neraka</li>
+    <li>terrain_word-> saluran panas</li>-><NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+    <li>Terrain_word (p = 2)-> ventilasi panas</li>
+    <li>Terrain_word-> ventilasi termal</li>
+    <li>Terrain_word-> ventilasi infernal</li>
+    <li>Terrain_word-> Lubang Infernal</li>
+    <li>Terrain_word-> saluran panas</li>
+  </NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> situs penggalian</li>
+    <li>terrain_word-> quarry</li>
+    <li>terrain_word-> tambang</li>
+    <li>terrain_word-> lubang rock</li>-><NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> situs penggalian</li>
+    <li>field_word-> cantera</li>
+    <li>terrain_word-> minas</li>
+    <li>Terrain_word-> sumur rock</li>
+  </NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> saluran buang</li>
+    <li>terrain_word-> ventilasi</li>
+    <li>Terrain_word-> fumaroles</li>
+    <li>terrain_word-> cerobong asap</li>
+    <li>terrain_word-> cerobong asap</li>-><NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+    <li>Terrain_word (p = 2)-> saluran knalpot</li>
+    <li>Terrain_word-> ventilasi</li>
+    <li>Terrain_word-> fumarolas</li>
+    <li>terrain_word-> chimeneas</li>
+    <li>Terrain_word-> cerobong industri</li>
+  </NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terrain_word (p = 2)-> ventilasi TOX</li>
+    <li>terrain_word-> ventilasi racun</li>
+    <li>terrain_word-> ventilasi berbahaya</li>
+    <li>terrain_word-> saluran beracun</li>
+    <li>terrain_word-> ventilasi fume</li>-><NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+    <li>Terrain_word (p = 2)-> ventilasi beracun</li>
+    <li>Terrain_word-> pernapasan beracun</li>
+    <li>Terrain_word-> ventilasi berbahaya</li>
+    <li>Terrain_word-> saluran beracun</li>
+    <li>Terrain_word-> ventilasi asap</li>
+  </NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> isle [narrative_name]</li>
+    <li>terrain_word (p = 4)-> pulau</li>
+    <li>Terrain_word (p = 3)-> Isles</li>
+    <li>terrain_word (p = 3)-> kepulauan</li>
+    <li>Terrain_word-> Reef</li>
+    <li>terrain_word-> batu</li>
+    <li>terrain_word-> pulau</li>
+    <li>Poin terrain_word-></li>
+    <li>rantai terrain_word-></li>-><NamerLandmark_Archipelago.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> isla [narrative_name]</li>
+    <li>Terrain_word (p = 4)-> Islas</li>
+    <li>terrain_word (p = 3)-> islotes</li>
+    <li>Terrain_word (p = 3)-> kepulauan</li>
+    <li>Terrain_word-> Arrecife</li>
+    <li>terrain_word-> rocas</li>
+    <li>terrain_word-> islotes</li>
+    <li>terrain_word-> puntos</li>
+    <li>terrain_word-> cadena</li>
+  </NamerLandmark_Archipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word-> atoll</li>
+    <li>terrain_word-> lingkaran</li>-><NamerLandmark_Atoll.rulePack.rulesStrings>
+    <li>Terrain_word-> atolón</li>
+    <li>Terain_word-> lingkaran</li>
+  </NamerLandmark_Atoll.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> baskom</li>
+    <li>Terrain_word-> Danau Alpine</li>-><NamerLandmark_Basin.rulePack.rulesStrings>
+    <li>Terrain_word (p = 2)-> Cuenca</li>
+    <li>Terrain_word-> Danau Alpine</li>
+  </NamerLandmark_Basin.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> Teluk [narrative_name]</li>
+    <li>terrain_word (p = 6)-> bay</li>
+    <li>terrain_word-> bight</li>
+    <li>Terrain_word-> Teluk</li>
+    <li>terrain_word-> anchorage</li>
+    <li>Terrain_word-> Cove</li>-><NamerLandmark_Bay.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> golfo [narrative_name]</li>
+    <li>field_word (p = 6)-> bahía</li>
+    <li>terrain_word-> ensenada</li>
+    <li>Terrain_word-> golfo</li>
+    <li>Terrain_word-> jangkar</li>
+    <li>terrain_word-> caleta</li>
+  </NamerLandmark_Bay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>R_name (p = 0.2)-> gua [Nameperson]</li>
+    <li>terrain_word (p = 2)-> gua</li>
+    <li>terrain_word-> terowongan</li>
+    <li>terrain_word-> jaringan gua</li>
+    <li>terrain_word-> gua-gua</li>-><NamerLandmark_Cavern.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> gua [nameperson]</li>
+    <li>Terrain_word (p = 2)-> Caverna</li>
+    <li>Terrain_word-> tuel</li>
+    <li>Terrain_word-> jaringan cuevas</li>
+    <li>Terrain_word-> Cavernas</li>
+  </NamerLandmark_Cavern.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word-> jurang</li>
+    <li>Terrain_word-> Sinkhole</li>
+    <li>terrain_word-> fraktur</li>-><NamerLandmark_Chasm.rulePack.rulesStrings>
+    <li>Terain_word-> Abyss</li>
+    <li>terrain_word-> dolina</li>
+    <li>terrain_word-> fraktura</li>
+  </NamerLandmark_Chasm.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [nameperson] [terrain_word]</li>
+    <li>terrain_word (p = 2)-> kilang</li>
+    <li>terrain_word-> tanaman</li>
+    <li>terrain_word-> chemplant</li>-><NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> [terrain_word] de [nameperson]</li>
+    <li>Terrain_word (p = 2)-> kilang</li>
+    <li>terrain_word-> planta</li>
+    <li>Terain_word-> tanaman kimia</li>
+  </NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [Nameperson] akhir</li>
+    <li>terrain_word (p = 2)-> tebing</li>
+    <li>terrain_word-> rampart</li>
+    <li>terrain_word-> dinding</li>-><NamerLandmark_Cliffs.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> akhir [nameperson]</li>
+    <li>Terrain_word (p = 2)-> tebing</li>
+    <li>terrain_word-> muralla</li>
+    <li>terrain_word-> muro</li>
+  </NamerLandmark_Cliffs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> isle [narrative_name]</li>
+    <li>terrain_word (p = 4)-> pulau</li>
+    <li>Terrain_word (p = 2)-> Isle</li>
+    <li>terrain_word-> pulau</li>-><NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> isla [narrative_name]</li>
+    <li>Terrain_word (p = 4)-> Isla</li>
+    <li>terrain_word (p = 2)-> islote</li>
+    <li>terrain_word-> islote</li>
+  </NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 3)-> crevasse</li>
+    <li>terrain_word-> break</li>
+    <li>terrain_word-> fissure</li>-><NamerLandmark_Crevasse.rulePack.rulesStrings>
+    <li>terrain_word (p = 3)-> grieta</li>
+    <li>terrain_word-> fraktura</li>
+    <li>terrain_word-> fisura</li>
+  </NamerLandmark_Crevasse.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word-> Danau kering</li>
+    <li>Terrain_word-> Sand Lake</li>
+    <li>terrain_word-> flat garam</li>
+    <li>Terrain_word-> Danau Tandus</li>
+    <li>Terrain_word-> Sand Pit</li>-><NamerLandmark_DryLake.rulePack.rulesStrings>
+    <li>terrain_word-> lago seco</li>
+    <li>terrain_word-> lago de arena</li>
+    <li>Terrain_word-> Salina</li>
+    <li>field_word-> lago esteril</li>
+    <li>Terrain_word-> pasir dengan baik</li>
+  </NamerLandmark_DryLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terrain_word (p = 2)-> Bukit pasir</li>
+    <li>terrain_word-> limbah</li>-><NamerLandmark_Dunes.rulePack.rulesStrings>
+    <li>terrain_word (p = 2)-> dunas</li>
+    <li>Terrain_word-> desierto</li>
+  </NamerLandmark_Dunes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> fjord</li>
+    <li>terrain_word-> inlet</li>
+    <li>terrain_word-> suara</li>-><NamerLandmark_Fjord.rulePack.rulesStrings>
+    <li>terrain_word (p = 2)-> fiordo</li>
+    <li>field_word-> Masuk</li>
+    <li>Terrain_word-> sempit</li>
+  </NamerLandmark_Fjord.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> [ruin_adjective] [narrative_name]</li>
+    <li>Ruin_adjective-> Ruined</li>
+    <li>Ruin_adjective-> Frozen</li>
+    <li>terrain_word (p = 2)-> reruntuhan beku</li>
+    <li>terrain_word-> Ice City</li>
+    <li>terrain_word-> City</li>-><NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> [narrative_name] [ruin_adjective]</li>
+    <li>Ruin_adjective-> di reruntuhan</li>
+    <li>Ruin_adjective-> di bawah es</li>
+    <li>Terrain_word (p = 2)-> reruntuhan beku</li>
+    <li>Terrain_word-> Ice City</li>
+    <li>terrain_word-> ciudad</li>
+  </NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> fort [narrative_name]</li>
+    <li>r_name (p = 0.4)-> [Nameperson] [terrain_word]</li>
+    <li>Terrain_word (p = 2)-> Garrison</li>
+    <li>terrain_word-> gudang senjata</li>
+    <li>stasiun terrain_word-></li>
+    <li>terrain_word-> base</li>
+    <li>terrain_word-> fort</li>
+    <li>terrain_word (p = 0,5)-> benteng</li>
+    <li>terrain_word (p = 0,5)-> pangkalan militer</li>-><NamerLandmark_Garrison.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> fuerte [narrative_name]</li>
+    <li>r_name (p = 0.4)-> [terrain_word] de [nameperson]</li>
+    <li>Terrain_word (p = 2)> The Guarding</li>
+    <li>Terrain_word-> El Arsenal</li>
+    <li>Terrain_word-> stasiun</li>
+    <li>field_word-> basis</li>
+    <li>Terrain_word-> benteng</li>
+    <li>Terrain_word (p = 0,5)-> benteng</li>
+    <li>field_word (p = 0,5)-> basis militer</li>
+  </NamerLandmark_Garrison.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> port [nameperson]</li>
+    <li>terrain_word-> Harbor</li>
+    <li>terrain_word-> port</li>-><NamerLandmark_Harbor.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> pues [nameperson]</li>
+    <li>terrain_word-> puerto</li>
+    <li>terrain_word-> puerto</li>
+  </NamerLandmark_Harbor.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> persembunyian [Nameperson]</li>
+    <li>terrain_word-> hollow</li>-><NamerLandmark_Hollow.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> tempat persembunyian [Nameperson]</li>
+    <li>Terrain_word-> depresi</li>
+  </NamerLandmark_Hollow.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [Nameperson]</li>
+    <li>terrain_word (p = 2)-> pegas panas</li>
+    <li>Terrain_word (p = 2)-> Hot Springs</li>
+    <li>terrain_word-> spring</li>
+    <li>Terrain_word-> Springs</li>-><NamerLandmark_HotSprings.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> kamar mandi [nameperson]</li>
+    <li>terrain_word (p = 2)-> fuente termal</li>
+    <li>Terrain_word (p = 2)-> sumber termal</li>
+    <li>terrain_word-> manantial</li>
+    <li>terrain_word-> manantiales</li>
+  </NamerLandmark_HotSprings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> gunung es</li>
+    <li>Terrain_word-> Berg</li>-><NamerLandmark_Iceberg.rulePack.rulesStrings>
+    <li>terrain_word (p = 2)-> gunung es</li>
+    <li>Terrain_word-> Ice Mountain</li>
+  </NamerLandmark_Iceberg.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terrain_word-> Ice Dunes</li>
+    <li>Terrain_word-> Ice Mounds</li>
+    <li>terrain_word-> bukit beku</li>-><NamerLandmark_IceDunes.rulePack.rulesStrings>
+    <li>Terrain_word-> Ice Dunas</li>
+    <li>Terrain_word-> Ice Mounds</li>
+    <li>Terrain_word-> bukit beku</li>
+  </NamerLandmark_IceDunes.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 18)-> [fallen] [townname_wordgen]</li>
+    <li>r_name (p = 18)-> [townname_wordgen] Hive</li>
+    <li>jatuh-> jatuh</li>
+    <li>jatuh-> terinfestasi</li>-><NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> [townname_wordgen] [jatuh]</li>
+    <li>R_name (p = 0.2)-> Hive [townname_wordgen]</li>
+    <li>Jatuh-> jatuh</li>
+    <li>Jatuh-> terinfestasi</li>
+  </NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 4)-> danau</li>
+    <li>terrain_word-> reservoir</li>
+    <li>terrain_word-> loch</li>-><NamerLandmark_Lake.rulePack.rulesStrings>
+    <li>terrain_word (p = 4)-> lago</li>
+    <li>terrain_word-> embalse</li>
+    <li>terrain_word-> laguna</li>
+  </NamerLandmark_Lake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> [Nameperson] [terrain_word]</li>
+    <li>terrain_word (p = 2)-> situs peluncuran</li>
+    <li>Terrain_word-> Pads peluncuran</li>-><NamerLandmark_LaunchSite.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> [terrain_word] [narrative_name]</li>
+    <li>Terrain_word (p = 2)-> situs peluncuran</li>
+    <li>Terrain_word-> Platform peluncuran</li>
+  </NamerLandmark_LaunchSite.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [Nameperson] Hellscape</li>
+    <li>r_name (p = 0.2)-> [Nameperson] Inferno</li>
+    <li>Terrain_word-> Aliran Vulkanik</li>
+    <li>terrain_word-> aliran lava</li>-><NamerLandmark_LavaFlow.rulePack.rulesStrings>
+    <li>R_name (p = 0.2)-> neraka [nameperson]</li>
+    <li>R_name (p = 0.2)-> Averno de [Nameperson]</li>
+    <li>Terrain_word-> Aliran Vulkanik</li>
+    <li>Terain_word-> tangisan lava</li>
+  </NamerLandmark_LavaFlow.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 2)-> kawah</li>
+    <li>terrain_word-> tungku</li>
+    <li>Terrain_word-> Inferno</li>
+    <li>terrain_word-> lava pool</li>-><NamerLandmark_LavaLake.rulePack.rulesStrings>
+    <li>Terrain_word (p = 2)-> crotr</li>
+    <li>terrain_word-> horno</li>
+    <li>terrain_word-> infierno</li>
+    <li>Terrain_word-> lava dengan baik</li>
+  </NamerLandmark_LavaLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 4)-> oasis</li>
+    <li>terrain_word-> haven</li>
+    <li>Terrain_word-> Perlindungan</li>-><NamerLandmark_Oasis.rulePack.rulesStrings>
+    <li>terrain_word (p = 4)-> oasis</li>
+    <li>Terrain_word-> Refugio</li>
+    <li>Terrain_word-> Refugio</li>
+  </NamerLandmark_Oasis.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> point [narrative_name]</li>
+    <li>r_name (p = 0.2)-> cape [narrative_name]</li>
+    <li>Terrain_word (p = 5)-> Semenanjung</li>
+    <li>terrain_word (p = 2)-> point</li>
+    <li>terrain_word-> cape</li>
+    <li>terrain_word-> headland</li>
+    <li>terrain_word-> tanduk</li>-><NamerLandmark_Peninsula.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> punto [narrative_name]</li>
+    <li>r_name (p = 0.2)-> Cabo [narrative_name]</li>
+    <li>Terain_word (p = 5)-> semenanjung</li>
+    <li>Terrain_word (p = 2)-> point</li>
+    <li>terrain_word-> Cabo</li>
+    <li>terrain_word-> promontorio</li>
+    <li>Terrain_word-> tanduk</li>
+  </NamerLandmark_Peninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word-> dataran tinggi</li>
+    <li>terrain_word-> mesa</li>
+    <li>terrain_word-> gunung</li>
+    <li>terrain_word-> rise</li>
+    <li>terrain_word-> butte</li>-><NamerLandmark_Plateau.rulePack.rulesStrings>
+    <li>terrain_word-> meseta</li>
+    <li>terrain_word-> mesa</li>
+    <li>Terrain_word-> Montaña</li>
+    <li>Terrain_word-> ketinggian</li>
+    <li>terrain_word-> colina</li>
+  </NamerLandmark_Plateau.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word (p = 4)-> kolam</li>
+    <li>terrain_word-> genangan</li>
+    <li>terrain_word-> pool</li>
+    <li>Terrain_word-> Waterhole</li>-><NamerLandmark_Pond.rulePack.rulesStrings>
+    <li>terrain_word (p = 4)-> charca</li>
+    <li>terrain_word-> charco</li>
+    <li>terrain_word-> piscina</li>
+    <li>Terrain_word-> Depresi air</li>
+  </NamerLandmark_Pond.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.4)-> [ruin_adjective] [narrative_name]</li>
+    <li>r_name (p = 0.2)-> [Nameperson] [Story_Result]</li>
+    <li>Ruin_adjective-> Ruined</li>
+    <li>ruin_adjective-> bobrok</li>
+    <li>terrain_word (p = 2)-> reruntuhan</li>
+    <li>terrain_word-> City</li>
+    <li>terrain_word-> town</li>-><NamerLandmark_Ruins.rulePack.rulesStrings>
+    <li>r_name (p = 0.4)-> [narrative_name] [ruin_adjective]</li>
+    <li>r_name (p = 0.2)-> [Story_resultella] de [Nameperson]</li>
+    <li>Story_resultella-> Joy</li>
+    <li>Story_resultella-> The Delight</li>
+    <li>Story_resultella-> heran</li>
+    <li>Story_resultella-> Pride</li>
+    <li>Story_resultella-> The Jewel</li>
+    <li>Story_resultella-> Hadiahnya</li>
+    <li>Story_resultella-> The Recompensa</li>
+    <li>Story_resultella-> el honor</li>
+    <li>Story_resultella-> trofi</li>
+    <li>Story_resultella-> Penghancuran</li>
+    <li>Story_resultella-> Cataclysm</li>
+    <li>Story_resultella-> The Ruina</li>
+    <li>Story_resultella-> Deception</li>
+    <li>Story_resultella-> la fasad</li>
+    <li>Story_resultella-> el fraude</li>
+    <li>Ruin_adjective-> di reruntuhan</li>
+    <li>ruin_adjective-> tidak dapat diperbaiki</li>
+    <li>terrain_word (p = 2)-> ruinas</li>
+    <li>terrain_word-> ciudad</li>
+    <li>terrain_word-> pueblo</li>
+  </NamerLandmark_Ruins.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.3)-> [nameperson] [terrain_word]</li>
+    <li>r_name (p = 0.2)-> [nameperson] [kesalahan]</li>
+    <li>r_name (p = 0.2)-> [besar] [terrain_word]</li>
+    <li>r_name (p = 0.1)-> [Dread] [terrain_word]</li>
+    <li>r_name (p = 0,05)-> [terrain_word]</li>
+    <li>terrain_word (p = 3)-> bekas luka</li>
+    <li>terrain_word-> rift</li>
+    <li>terrain_word-> sundering</li>
+    <li>terrain_word-> luka</li>
+    <li>terrain_word-> kesalahan</li>
+    <li>terrain_word-> howl</li>
+    <li>kesalahan-> kesalahan</li>
+    <li>kesalahan-> kebodohan</li>
+    <li>kesalahan-> khayalan</li>
+    <li>kesalahan-> cacat</li>
+    <li>Besar-> Hebat</li>
+    <li>Besar-> Grand</li>
+    <li>Dread-> Dread</li>
+    <li>Dread-> Grim</li>
+    <li>Dread-> Vile</li>
+    <li>Dread-> Dark</li>-><NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+    <li>r_name (p = 0.3)-> [terrain_word] dari [nameperson]</li>
+    <li>r_name (p = 0.3)-> el [terrain_wordmale] de [nameperson]</li>
+    <li>R_name (p = 0.2)-> [kesalahan] [Nameperson]</li>
+    <li>r_name (p = 0.2)-> dia [mysketfe] oleh [nampason]</li>
+    <li>r_name (p = 0.2)-> la [besar] [terrain_word]</li>
+    <li>r_name (p = 0.2)-> la [largefem] [terrain_word]</li>
+    <li>r_name (p = 0.2)-> el [besar] [terrain_wordmale]</li>
+    <li>r_name (p = 0.1)-> [terrain_word] [Dread]</li>
+    <li>r_name (p = 0,05)-> la [terrain_word]</li>
+    <li>terrain_word (p = 3)-> cicatriz</li>
+    <li>terrain_word-> grieta</li>
+    <li>terrain_word-> ruptura</li>
+    <li>terrain_word-> herida</li>
+    <li>terrain_word-> falla</li>
+    <li>Terrain_wordmale-> howl</li>
+    <li>Kesalahan-> Kesalahan</li>
+    <li>Kesalahanfem-> kegilaan</li>
+    <li>Kesalahan-> Delirium</li>
+    <li>Kesalahan-> kegagalan</li>
+    <li>besar-> gran</li>
+    <li>Largefem-> grande</li>
+    <li>Dread-> Tibible</li>
+    <li>Dread-> Slaria</li>
+    <li>Dread-> Will</li>
+    <li>Draad-> gelap</li>
+  </NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0,05)-> Racun [Nameperson]</li>
+    <li>r_name (p = 0,05)-> [Nameperson] Blight</li>
+    <li>r_name (p = 0,05)-> [nameperson] tempat pembuangan</li>
+    <li>Terrain_word-> Danau Beracun</li>
+    <li>Terrain_word-> Danau Poison</li>-><NamerLandmark_ToxicLake.rulePack.rulesStrings>
+    <li>R_name (p = 0,05)-> racun [nameperson]</li>
+    <li>r_name (p = 0,05)-> “Nampason] Plate]</li>
+    <li>R_name (p = 0,05)-> TPA [Nameperson]</li>
+    <li>Terain_word-> danau beracun</li>
+    <li>Terrain_word-> Danau Venenoso</li>
+  </NamerLandmark_ToxicLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terrain_word (p = 4)-> Valley</li>
+    <li>terrain_word (p = 3)-> jurang</li>
+    <li>terrain_word (p = 3)-> ngarai</li>
+    <li>terrain_word-> vale</li>
+    <li>terrain_word-> ravine</li>
+    <li>terrain_word-> ngarai</li>
+    <li>terrain_word-> gulch</li>
+    <li>terrain_word-> Divide</li>-><NamerLandmark_Valley.rulePack.rulesStrings>
+    <li>Terrain_word (p = 4)-> Valle</li>
+    <li>Terain_word (p = 3)-> rusak</li>
+    <li>Terrain_word (p = 3)-> Huntel</li>
+    <li>Terrain_word-> Valle</li>
+    <li>Terrain_word-> Barranco</li>
+    <li>Terrain_word-> ngarai</li>
+    <li>Terain_word-> rusak</li>
+  </NamerLandmark_Valley.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [Nameperson] [Terrain_word]</li>
+    <li>terrain_word (p = 2)-> gudang</li>
+    <li>terrain_word-> depot</li>
+    <li>terrain_word-> gudang</li>-><NamerLandmark_Warehouse.rulePack.rulesStrings>
+    <li>r_name-> el [terrain_word] de [nameperson]</li>
+    <li>r_name-> la [ground_wordf fune] [nameperson]</li>
+    <li>terrain_word (p = 2)-> almacén</li>
+    <li>Terrain_word-> setoran</li>
+    <li>Terrain_wordfem-> bodega</li>
+  </NamerLandmark_Warehouse.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 0.2)-> [nameperson] [terrain_word]</li>
+    <li>terrain_word (p = 2)-> lahan basah</li>
+    <li>terrain_word-> Marsh</li>
+    <li>Terrain_word-> Quagmire</li>
+    <li>terrain_word-> rawa</li>
+    <li>terrain_word-> fen</li>-><NamerLandmark_Wetland.rulePack.rulesStrings>
+    <li>r_name (p = 0.2)-> los [terrain_wordpl] de [nameperson]</li>
+    <li>r_name (p = 0.1) -> la [ground_wordf -menu] [Nameperson]</li>
+    <li>r_name (p = 0.1) -> el di ground_wordf fune] [nameperson]</li>
+    <li>terrain_wordpl (p = 2)-> humedales</li>
+    <li>terrain_word-> Pantano</li>
+    <li>VESSES</li>
+    <li>terrain_wordfem-> turbera</li>
+    <li>Istilah kurang-kurang</li>
+  </NamerLandmark_Wetland.rulePack.rulesStrings>
+  
+</LanguageData>

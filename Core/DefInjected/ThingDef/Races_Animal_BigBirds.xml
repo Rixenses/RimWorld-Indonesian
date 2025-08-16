@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>Casuario</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>Burung besar non -flying dengan bulu berwarna cerah.Meskipun terlihat indah, tendangannya sengit.Ia dikenal sebagai agresif ketika terluka oleh kekerasan atau dihadapkan oleh hewan yang tidak kompeten.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>Daging burung</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>cakar</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>pico</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>kepala</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>emu</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Seekor burung besar tidak bisa terbang, dengan leher panjang, mata berkaca dan wajah jelek.Dengan sikapnya yang buruk, itu adalah patán dunia hewan.Archionemigo dari Earthlings Australia kuno.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>cakar</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>pico</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>kepala</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>burung unta</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>Spesies burung yang lebih besar yang tidak dimodifikasi, burung unta dikenal karena kecepatannya yang luar biasa, telur besar mereka dan tendangan mereka yang kuat.Itu mudah marah.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>cakar</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>pico</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>kepala</Ostrich.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: victory by noble weapon -->
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>Victoria Melalui Senjata Mulia</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
+  <!-- EN: I have claimed victory while wielding a noble weapon! -->
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>Saya mengklaim kemenangan memegang senjata yang mulia!</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+  
+  <!-- EN: used despised weapon -->
+  <UsedDespisedWeapon.stages.used_despised_weapon.label>Menggunakan senjata tercela</UsedDespisedWeapon.stages.used_despised_weapon.label>
+  <!-- EN: I used a filthy weapon which ought never to be used. How humiliating. -->
+  <UsedDespisedWeapon.stages.used_despised_weapon.description>Saya menggunakan senjata menjijikkan yang tidak boleh digunakan.Betapa memalukannya.</UsedDespisedWeapon.stages.used_despised_weapon.description>
+  
+  <!-- EN: wielding {WEAPON} -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>menggunakan {senjata}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+  <!-- EN: I am wielding {WEAPON_indefinite}. Such a noble weapon! -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>Saya menggunakan {weapon_indefinite}.Sungguh senjata yang mulia!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+  <!-- EN: wielding {WEAPON} -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>menggunakan {senjata}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+  <!-- EN: I am wielding {WEAPON_indefinite}. Such a detestable weapon! -->
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>Saya menggunakan {weapon_indefinite}.Sungguh senjata yang menjijikkan!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
+  
+</LanguageData>

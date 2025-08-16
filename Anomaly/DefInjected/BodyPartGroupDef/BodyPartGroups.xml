@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: left fin -->
+  <LeftFin.label>sirip kiri</LeftFin.label>
+  <!-- EN: fin -->
+  <LeftFin.labelShort>sirip</LeftFin.labelShort>
+  
+  <!-- EN: left flesh club -->
+  <LeftFleshClub.label>daging kiri</LeftFleshClub.label>
+  <!-- EN: flesh club -->
+  <LeftFleshClub.labelShort>daging</LeftFleshClub.labelShort>
+  
+  <!-- EN: right fin -->
+  <RightFin.label>sirip kanan</RightFin.label>
+  <!-- EN: fin -->
+  <RightFin.labelShort>sirip</RightFin.labelShort>
+  
+  <!-- EN: right flesh club -->
+  <RightFleshClub.label>daging kanan</RightFleshClub.label>
+  <!-- EN: flesh club -->
+  <RightFleshClub.labelShort>daging</RightFleshClub.labelShort>
+  
+</LanguageData>

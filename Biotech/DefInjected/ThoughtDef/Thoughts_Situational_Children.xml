@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: my baby {BABY_nameDef} is sick -->
+  <BabySick.stages.my_baby_is_sick.label>Bayi saya {baby_namedef} sakit</BabySick.stages.my_baby_is_sick.label>
+  <!-- EN: My baby is sick. I'm terrified something bad will happen to my baby. -->
+  <BabySick.stages.my_baby_is_sick.description>Bayi saya sakit.Saya khawatir sesuatu yang buruk akan terjadi pada bayi saya.</BabySick.stages.my_baby_is_sick.description>
+  <!-- EN: my babies are sick -->
+  <BabySick.stages.my_babies_are_sick.label>Bayi saya sakit</BabySick.stages.my_babies_are_sick.label>
+  <!-- EN: My babies are sick. I'm terrified something bad will happen to them. -->
+  <BabySick.stages.my_babies_are_sick.description>Bayi saya sakit.Saya takut sesuatu yang buruk terjadi pada mereka.</BabySick.stages.my_babies_are_sick.description>
+  
+  <!-- EN: my child is in a growth vat -->
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>Anak saya berada di inkubator</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+  <!-- EN: I miss my child. It's hard knowing they're floating in that machine, bypassing their childhood. -->
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>Saya merindukan anak saya.Sulit untuk mengetahui bahwa dia mengambang di mesin itu, melompati masa kecilnya.</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+  
+  <!-- EN: good crib -->
+  <CribQuality.stages.good_crib.label>Boks yang bagus</CribQuality.stages.good_crib.label>
+  <!-- EN: This crib is comfy. -->
+  <CribQuality.stages.good_crib.description>Boks ini nyaman.</CribQuality.stages.good_crib.description>
+  <!-- EN: excellent crib -->
+  <CribQuality.stages.excellent_crib.label>Boks yang sangat baik</CribQuality.stages.excellent_crib.label>
+  <!-- EN: This crib is very comfy. -->
+  <CribQuality.stages.excellent_crib.description>Boks ini sangat nyaman.</CribQuality.stages.excellent_crib.description>
+  <!-- EN: masterwork crib -->
+  <CribQuality.stages.masterwork_crib.label>Boks Magistral</CribQuality.stages.masterwork_crib.label>
+  <!-- EN: This crib is amazing. So comfortable. -->
+  <CribQuality.stages.masterwork_crib.description>Boks ini luar biasa.Itu sangat nyaman.</CribQuality.stages.masterwork_crib.description>
+  <!-- EN: legendary crib -->
+  <CribQuality.stages.legendary_crib.label>Boks legendaris</CribQuality.stages.legendary_crib.label>
+  <!-- EN: This crib is wonderful. So very comfortable. Perfect for naps. -->
+  <CribQuality.stages.legendary_crib.description>Boks ini luar biasa.Sangat nyaman.Sempurna untuk tidur siang.</CribQuality.stages.legendary_crib.description>
+  
+  <!-- EN: enslaved child -->
+  <EnslavedChild.stages.enslaved_child.label>anak yang diperbudak</EnslavedChild.stages.enslaved_child.label>
+  <!-- EN: It breaks my heart to see my child forced to serve others. -->
+  <EnslavedChild.stages.enslaved_child.description>Saya menghancurkan hati saya melihat putra saya dipaksa untuk melayani orang lain.</EnslavedChild.stages.enslaved_child.description>
+  
+  <!-- EN: my child {CHILD_nameDef} is happy -->
+  <MyChildHappy.stages.my_child_is_happy.label>Anak -anak saya {child_gender?O: a} {child_namedef} senang</MyChildHappy.stages.my_child_is_happy.label>
+  <!-- EN: Nothing makes me feel better than my kid being happy. -->
+  <MyChildHappy.stages.my_child_is_happy.description>Tidak ada yang membuat saya lebih baik karena anak saya bahagia.</MyChildHappy.stages.my_child_is_happy.description>
+  
+  <!-- EN: my children are happy -->
+  <MyChildrenHappy.stages.my_children_are_happy.label>Anak -anak saya senang</MyChildrenHappy.stages.my_children_are_happy.label>
+  <!-- EN: Nothing makes me feel better than my kids being happy. -->
+  <MyChildrenHappy.stages.my_children_are_happy.description>Tidak ada yang membuat saya merasa lebih baik daripada melihat anak -anak saya yang bahagia.</MyChildrenHappy.stages.my_children_are_happy.description>
+  
+  <!-- EN: my children are unhappy -->
+  <MyChildrenSad.stages.my_children_are_unhappy.label>Anak -anak saya tidak bahagia</MyChildrenSad.stages.my_children_are_unhappy.label>
+  <!-- EN: I worry about my children. If they're not happy, I'm not happy. -->
+  <MyChildrenSad.stages.my_children_are_unhappy.description>Anak -anak saya mengkhawatirkan saya.Jika mereka tidak senang, saya tidak senang.</MyChildrenSad.stages.my_children_are_unhappy.description>
+  
+  <!-- EN: my child {CHILD_nameDef} is unhappy -->
+  <MyChildSad.stages.my_child_is_unhappy.label>Anak -anak saya {child_gender?O: a} {child_namedef} tidak bahagia</MyChildSad.stages.my_child_is_unhappy.label>
+  <!-- EN: I worry about my child. If they're not happy, I'm not happy. -->
+  <MyChildSad.stages.my_child_is_unhappy.description>Anak saya membuat saya khawatir.Jika tidak senang, saya tidak senang.</MyChildSad.stages.my_child_is_unhappy.description>
+  
+  <!-- EN: parent is happy -->
+  <MyParentHappy.stages.parent_is_happy.label>Ayah saya senang</MyParentHappy.stages.parent_is_happy.label>
+  <!-- EN: I'm happy when my parents are happy. -->
+  <MyParentHappy.stages.parent_is_happy.description>Saya senang saat orang tua saya bahagia.</MyParentHappy.stages.parent_is_happy.description>
+  
+  <!-- EN: parents are happy -->
+  <MyParentsHappy.stages.parents_are_happy.label>Orang tua yang bahagia</MyParentsHappy.stages.parents_are_happy.label>
+  <!-- EN: I'm happy when my parents are happy. -->
+  <MyParentsHappy.stages.parents_are_happy.description>Saya senang saat orang tua saya bahagia.</MyParentsHappy.stages.parents_are_happy.description>
+  
+  <!-- EN: happy youngsters -->
+  <YoungstersHappy.stages.happy_youngsters.label>Anak -anak yang bahagia</YoungstersHappy.stages.happy_youngsters.label>
+  <!-- EN: It's nice to see that the young folk are doing well. -->
+  <YoungstersHappy.stages.happy_youngsters.description>Senang melihat orang -orang muda baik -baik saja.</YoungstersHappy.stages.happy_youngsters.description>
+  
+  <!-- EN: sad youngsters -->
+  <YoungstersSad.stages.sad_youngsters.label>anak -anak yang sedih</YoungstersSad.stages.sad_youngsters.label>
+  <!-- EN: It's sad to see that the young folk are struggling. -->
+  <YoungstersSad.stages.sad_youngsters.description>Sangat menyedihkan melihat bahwa kaum muda mengalami kesulitan.</YoungstersSad.stages.sad_youngsters.description>
+  
+</LanguageData>

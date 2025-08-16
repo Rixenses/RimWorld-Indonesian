@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: water and marsh -->
+  <TerrainTagWater>Air dan rawa</TerrainTagWater>
+  <!-- EN: river -->
+  <TerrainTagRiver>Río</TerrainTagRiver>
+  <!-- EN: ocean -->
+  <TerrainTagOcean>laut</TerrainTagOcean>
+  <!-- EN: ice -->
+  <TerrainTagIce>es</TerrainTagIce>
+  <!-- EN: fine floor -->
+  <TerrainTagFineFloor>tanah halus</TerrainTagFineFloor>
+  <!-- EN: soil -->
+  <TerrainTagSoil>Tierra</TerrainTagSoil>
+  <!-- EN: road -->
+  <TerrainTagRoad>Camino</TerrainTagRoad>
+  <!-- EN: floor -->
+  <TerrainTagFloor>lantai</TerrainTagFloor>
+  <!-- EN: substructure -->
+  <TerrainTagSubstructure>Substruktur</TerrainTagSubstructure>
+  <!-- EN: insect -->
+  <TerrainTagInsect>serangga</TerrainTagInsect>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archonexus -->
+  <Archonexus.label>Archeonexo</Archonexus.label>
+  <!-- EN: An ancient archotech device. Some say it is capable of invoking the power of the machine god. -->
+  <Archonexus.description>Artefak Archeoteca tua.Ada yang bilang dia bisa memohon kekuatan mesin.</Archonexus.description>
+  <!-- EN: Investigating {0}. -->
+  <Archonexus.approachingReportString>Investigasi {0}.</Archonexus.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <Archonexus.approachOrderString>Selidiki {0}</Archonexus.approachOrderString>
+  
+</LanguageData>

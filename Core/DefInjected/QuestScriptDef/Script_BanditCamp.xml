@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], telah mengirimi kami pesan.Rupanya, [sitefaction_pawnsplural] yang berbasis di kamp terdekat telah menggerebek karavan mereka.Kamp dikendalikan oleh [sitefaction_name]. \ N \ n [asker_namedef] meminta kami untuk menghancurkan kamp, yang berarti menghilangkan semua musuh dan menara.[asker_label] mengatakan bahwa [sitepart0_description].</li>-><OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [asker_namefull], [asker_faction_leadertitle] dari faksi [asker_faction_name], telah mengirimi kami pesan.Rupanya, [sitefaction_pawnsplural] menetap di sebuah kamp terdekat mereka telah menyerang karavan mereka.Kamp dikendalikan oleh faksi [sitefaction_name]. \ N \ n [asker_namedef] meminta kami untuk menghancurkan kamp, yang berarti menghilangkan semua musuh dan menara.[Asker_label] mengatakan bahwa [sitepart0_description].</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [Bandit] [Camp]</li>
+    <li>QuestName-> [Bandit] [Camp]</li>
+    <li>QuestName-> [asker_namedef] dan [kamp]</li>
+    <li>CAMP-> CAMP</li>
+    <li>Camp-> Outpost</li>
+    <li>Camp-> Lair</li>
+    <li>Kamp-> Perkemahan</li>
+    <li>bandit-> bandit</li>
+    <li>bandit-> raider</li>
+    <li>bandit-> Outlaw</li>
+    <li>Bandit-> apeatado</li>
+    <li>bandit-> buron</li>
+    <li>bandit-> perampok</li>
+    <li>bandit-> perampok</li>
+    <li>Bandit-> brigand</li>-><OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>QuestName-> [Camp] dari [Bandit]</li>
+    <li>QuestName-> [camp_indef] [bandit]</li>
+    <li>QuestName-> [asker_namedef] dan [camp_def]</li>
+    <li>Camp-> The Camping</li>
+    <li>Kamp-> Posisi Lanjutan</li>
+    <li>Camp-> The Den</li>
+    <li>Kamp-> The Camp</li>
+    <li>Camp_def-> berkemah</li>
+    <li>Camp_def-> posisi lanjutan</li>
+    <li>Camp_def-> The Den</li>
+    <li>Camp_def-> The Camp</li>
+    <li>Camp_indef-> berkemah</li>
+    <li>Camp_indef-> posisi lanjutan</li>
+    <li>Camp_indef-> a sarang</li>
+    <li>Camp_indf-> berkemah</li>
+    <li>Bandit-> bandit</li>
+    <li>Bandit-> asaltantes</li>
+    <li>Bandit-> Outlaws</li>
+    <li>Bandit-> penjahat</li>
+    <li>Bandit-> fugitivos</li>
+    <li>Bandit-> Merodeadores</li>
+    <li>Bandit-> pencuri</li>
+    <li>Bandit-> penjahat</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>Kamp bandids telah berkemas dan pindah.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Misi Gagal: [ResolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Setelah ditemukan, kamp bandit mengemas barang -barangnya dan pergi.Misi [SolvedQuestName] telah berakhir.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Pembayaran telah tiba</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>Anda telah mengalahkan kamp Bandidos! \ Dalam \ Pembayaran untuk membantu faksi [asker_faction_name] telah tiba.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalfavorlabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>Para pemukim ini berpartisipasi dalam kemenangan misi [SolvedQuestName].[Asker_definite] ingin tahu siapa yang harus menerima [royalfavorreward_amount] dari [asker_faction_royalfavorlabel] untuk layanan ini.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

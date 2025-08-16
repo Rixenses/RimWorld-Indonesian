@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slave -->
+  <Slave.label>budak</Slave.label>
+  <Slave.labelPlural>budak</Slave.labelPlural>
+  
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>Orang luar hitam</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>Wanita kulit hitam</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>Pria kulit hitam</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>Orang luar hitam</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man -->
+  <WildMan.label>pria liar</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>Wanita liar</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>Wanita liar</WildMan.labelFemalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>pria liar</WildMan.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>lengan bionik</BionicArm.label>
+  <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>Lengan bionik yang terpasang. Servomotor mini yang tidak bersuara memberikan kekuatan yang luar biasa, sementara tautan saraf bio-gel memberikan kontrol yang luar biasa. Sistem penyembuhan bubuk retikuler memungkinkannya pulih dari kerusakan. Ini lebih baik daripada lengan biologis dalam hampir semua hal.</BionicArm.description>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>tinju</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>lengan bionik</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>pendengaran bionik</BionicEar.label>
+  <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>Telinga bionik yang terpasang. Array mikrofon subdermal yang tidak terlihat menangkap suara dan mentransmisikannya ke antarmuka saraf biogel yang terhubung langsung ke saraf pendengaran. Alat ini cukup sensitif untuk mendengar kucing sebelum Anda melihatnya, tidak rusak oleh suara keras, dan secara otomatis menyetel sendiri untuk menangkap suara penting di lingkungan yang bising.</BionicEar.description>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>telinga bionik</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>mata bionik</BionicEye.label>
+  <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>Mata bionik yang dipasang. Dengan sambungan saraf bio-gel, pra-pemroses sinyal internal dan sensor spektrum luas, mata ini lebih baik daripada mata biologis dalam hampir semua hal. Sistem penyembuhan bubuk retikuler memungkinkannya pulih dari kerusakan.</BionicEye.description>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>mata bionik</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>jantung bionik</BionicHeart.label>
+  <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>Jantung bionik dipasang. Jantung ini dilengkapi serat otot sintetis untuk detak jantung yang realistis, ditambah pompa aliran tinggi untuk sirkulasi yang cepat dalam situasi stres tinggi. Alat ini lebih baik daripada jantung biologis dalam hampir semua hal.</BionicHeart.description>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>jantung bionik</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>rahang bionik</BionicJaw.label>
+  <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>Rahang bionik yang dipasang. Terbuat dari tulang biosintetik, dengan pengganti gigi dari baja plastik dan satu set servomotor mikro untuk berbagai macam gerakan.</BionicJaw.description>
+  <!-- EN: a bionic jaw -->
+  <BionicJaw.labelNoun>rahang bionik</BionicJaw.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>Kaki Bionik</BionicLeg.label>
+  <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>Kaki bionik yang dipasang. Dengan sambungan saraf bio-gel, servo mini yang kuat, dan sistem penyembuhan bubuk retikuler, kaki bionik ini lebih baik daripada kaki biologis dalam hampir semua hal.</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>Kaki Bionik</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>tulang belakang bionik</BionicSpine.label>
+  <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>Tulang belakang bionik dipasang. Sekumpulan saraf biogel berjalan melalui inti plastisteel yang diartikulasikan, dikelilingi oleh sistem penyembuhan bubuk retikuler. Ini sesuai dengan kinerja tulang belakang biologis.</BionicSpine.description>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>tulang belakang bionik</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>perut bionik</BionicStomach.label>
+  <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>Perut bionik dipasang. Seseorang dengan sistem ini jauh lebih kecil kemungkinannya untuk mengalami keracunan makanan, dan kebal terhadap beberapa penyakit perut. Sistem penyembuhan bubuk retikuler yang terintegrasi secara otomatis memperbaiki kerusakan pada organ buatan. Ini lebih baik daripada perut biologis dalam hampir semua hal.</BionicStomach.description>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>perut bionik</BionicStomach.labelNoun>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>lidah bionik</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>Lidah bionik yang terpasang. Terbuat dari serat sintetis yang halus dan terhubung melalui antarmuka neurogel, sehingga dapat menyamai kinerja lidah alami dalam berbicara, makan, dan mengecap.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>lidah bionik</BionicTongue.labelNoun>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>pengasaman post-mortem</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>Alat pengasaman mayat yang dipasang. Setelah kematian penggunanya, alat ini melepaskan bahan kimia yang kuat yang melarutkan peralatan yang bersentuhan dengan tubuh pengguna. Alat ini tidak membahayakan orang di sekitarnya.</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
+  <DeathAcidifier.labelNoun>pengasaman post-mortem</DeathAcidifier.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient drop pod (incoming) -->
+  <DropPodIncomingAncient.label>kapsul buang leluhur (tiba)</DropPodIncomingAncient.label>
+  
+  <!-- EN: mechanoid drop pod (incoming) -->
+  <DropPodIncomingMechanoidSoft.label>Kapsul transportasi (tiba)</DropPodIncomingMechanoidSoft.label>
+  
+  <!-- EN: ancient drop pod (leaving) -->
+  <DropPodLeavingAncient.label>kapsul buang leluhur (berangkat)</DropPodLeavingAncient.label>
+  
+  <!-- EN: mechanoid drop pod (leaving) -->
+  <DropPodLeavingMechanoid.label>Kapsul Transportasi Mecanoid (Meninggalkan)</DropPodLeavingMechanoid.label>
+  
+  <!-- EN: lava rock (incoming) -->
+  <LavaRockIncoming.label>Lava Rock (tiba)</LavaRockIncoming.label>
+  
+  <!-- EN: passenger shuttle (incoming) -->
+  <PassengerShuttleIncoming.label>transfer penumpang (tiba)</PassengerShuttleIncoming.label>
+  
+  <!-- EN: passenger shuttle (leaving) -->
+  <PassengerShuttleLeaving.label>Transfer Penumpang (Meninggalkan)</PassengerShuttleLeaving.label>
+  
+</LanguageData>

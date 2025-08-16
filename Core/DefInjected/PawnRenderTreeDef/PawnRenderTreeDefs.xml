@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Carried thing -->
+  <Animal.root.children.1.debugLabel>Objek yang dimuat</Animal.root.children.1.debugLabel>
+  
+  <!-- EN: Body tattoo -->
+  <Humanlike.root.children.0.children.0.debugLabel>Tato Tubuh</Humanlike.root.children.0.children.0.debugLabel>
+  <!-- EN: Wounds - pre apparel -->
+  <Humanlike.root.children.0.children.1.debugLabel>Luka - Pra -RetaM</Humanlike.root.children.0.children.1.debugLabel>
+  <!-- EN: Baby swaddle -->
+  <Humanlike.root.children.0.children.2.debugLabel>Bungkus bayi</Humanlike.root.children.0.children.2.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.0.children.3.debugLabel>Root pakaian</Humanlike.root.children.0.children.3.debugLabel>
+  <!-- EN: Wounds - post apparel -->
+  <Humanlike.root.children.0.children.4.debugLabel>Luka - Posting -Selap</Humanlike.root.children.0.children.4.debugLabel>
+  <!-- EN: Head stump -->
+  <Humanlike.root.children.1.debugLabel>Batang kepala</Humanlike.root.children.1.debugLabel>
+  <!-- EN: Head tattoo -->
+  <Humanlike.root.children.2.children.0.debugLabel>Tato Kepala</Humanlike.root.children.2.children.0.debugLabel>
+  <!-- EN: Head wounds -->
+  <Humanlike.root.children.2.children.3.debugLabel>Luka kepala</Humanlike.root.children.2.children.3.debugLabel>
+  <!-- EN: Apparel root -->
+  <Humanlike.root.children.2.children.4.debugLabel>Root pakaian</Humanlike.root.children.2.children.4.debugLabel>
+  <!-- EN: Status overlay -->
+  <Humanlike.root.children.2.children.6.debugLabel>Superposisi Negara</Humanlike.root.children.2.children.6.debugLabel>
+  <!-- EN: Weapon/carried thing -->
+  <Humanlike.root.children.3.debugLabel>Senjata/objek</Humanlike.root.children.3.debugLabel>
+  
+  <!-- EN: Weapon/carried thing -->
+  <Misc.root.children.1.debugLabel>Senjata/objek</Misc.root.children.1.debugLabel>
+  
+</LanguageData>

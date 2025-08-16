@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Reading management -->
+  <!-- EN: {0} max mental break chance -->
+  <MaxMentalBreakChance>{0} Kemungkinan maksimum keruntuhan mental</MaxMentalBreakChance>
+  <!-- EN: Tomes -->
+  <TomePolicy>Volume</TomePolicy>
+
+  <!-- Caravan -->
+  <!-- EN: Entities -->
+  <EntitiesSection>Entitas</EntitiesSection>
+  
+  <!-- Hidden items filter -->
+  <!-- EN: Undiscovered -->
+  <UndiscoveredItemLabel>Tidak dikenal</UndiscoveredItemLabel>
+  <!-- EN: This item has not been discovered yet. -->
+  <UndiscoveredItemDesc>Artikel ini belum ditemukan.</UndiscoveredItemDesc>
+
+  <!-- Medical settings -->
+  <!-- EN: Entities -->
+  <MedGroupEntities>Entitas</MedGroupEntities>
+  <!-- EN: Anomalous entities and their variations. -->
+  <MedGroupEntitiesDesc>Entitas anomali dan variasinya.</MedGroupEntitiesDesc>
+
+  <!-- EN: Ghouls -->
+  <MedGroupGhouls>Necrophy</MedGroupGhouls>
+  <!-- EN: Ghouls belonging to your colony. -->
+  <MedGroupGhoulsDesc>Necrophages milik koloni Anda.</MedGroupGhoulsDesc>
+
+  <!-- EN: Turning {PAWN_nameDef} into a ghoul is irreversible. {PAWN_pronoun} will be left in a half-conscious stupor and be incapable of work.\n\nAre you sure you want to turn {PAWN_nameDef} into a ghoul? -->
+  <GhoulConfirmation>Konversi {pawn_namedef} menjadi necrophage tidak dapat diubah.Itu akan tetap dalam keadaan pingsan setengah sadar dan tidak akan bisa bekerja.</GhoulConfirmation>
+
+  <!-- EN: no anomaly buildings allowed -->
+  <RoomRequirementNoAnomalyBuildings>Bangunan anomali tidak diperbolehkan</RoomRequirementNoAnomalyBuildings>
+
+  <!-- EN: Entity codex -->
+  <EntityCodex>Entitas Codex</EntityCodex>
+  <!-- EN: View all discovered entities. Discover new entities to advance the monolith and reveal new research projects. -->
+  <EntityCodexGizmoTip>Lihat semua entitas yang ditemukan.Temukan entitas baru untuk maju dengan monolith dan mengungkapkan proyek penelitian baru.</EntityCodexGizmoTip>
+  <!-- EN: Research unlocks -->
+  <ResearchUnlocks>Penelitian membuka kunci</ResearchUnlocks>
+  <!-- EN: This page lists all known entities which are related to the dark void. Discover new entities using the “void provocation” psychic ritual. Discovering new entities reveals new research projects, and allows you to advance the void monolith. -->
+  <EntityCodexDesc>Halaman ini mencantumkan semua entitas yang diketahui terkait dengan kekosongan gelap.Temukan entitas baru menggunakan ritual psikis "provokasi kekosongan".Menemukan entitas baru mengungkapkan proyek penelitian baru dan memungkinkan Anda untuk maju dengan monolit kekosongan.</EntityCodexDesc>
+  <!-- EN: Undiscovered entity -->
+  <UndiscoveredEntity>Tidak ditemukan entitas</UndiscoveredEntity>
+  <!-- EN: You have not discovered this entity. -->
+  <UndiscoveredEntityDesc>Anda belum menemukan entitas ini.Anda dapat menemukan entitas baru menggunakan ritual psikis "provokasi kekosongan".</UndiscoveredEntityDesc>
+  <!-- EN: View entity codex -->
+  <ViewEntityCodex>Lihat Entitas Codex</ViewEntityCodex>
+
+</LanguageData>

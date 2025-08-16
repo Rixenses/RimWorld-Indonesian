@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood rain -->
+  <BloodRain.label>Hujan berdarah</BloodRain.label>
+  <!-- EN: Blood rain -->
+  <BloodRain.letterLabel>Hujan berdarah</BloodRain.letterLabel>
+  
+  <!-- EN: creepjoiner join -->
+  <CreepJoinerJoin.label>Medium adalah a</CreepJoinerJoin.label>
+  
+  <!-- EN: creepjoiner join -->
+  <CreepJoinerJoin_Metalhorror.label>Medium adalah a</CreepJoinerJoin_Metalhorror.label>
+  
+  <!-- EN: death pall -->
+  <DeathPall.label>decer</DeathPall.label>
+  <!-- EN: Death pall -->
+  <DeathPall.letterLabel>Decer</DeathPall.letterLabel>
+  
+  <!-- EN: fleshmass heart -->
+  <FleshmassHeart.label>Hati Carnimosa</FleshmassHeart.label>
+  <!-- EN: Something from below -->
+  <FleshmassHeart.letterLabel>Sesuatu di bawah ini</FleshmassHeart.letterLabel>
+  <!-- EN: A small circle of terrain has begun to shift and crack apart. Something is digging up towards the surface. Rhythmic pulsations shake the ground from underneath. -->
+  <FleshmassHeart.letterText>Lingkaran kecil tanah telah mulai bergerak dan retak.Sesuatu menggali ke arah permukaan.Pulsasi berirama mengguncang tanah dari bawah.</FleshmassHeart.letterText>
+  
+  <!-- EN: distress signal -->
+  <GiveQuest_DistressCall.label>Sinyal socorro</GiveQuest_DistressCall.label>
+  <!-- EN: Distress signal -->
+  <GiveQuest_DistressCall.letterLabel>Sinyal socorro</GiveQuest_DistressCall.letterLabel>
+  
+  <!-- EN: golden cube arrival -->
+  <GoldenCubeArrival.label>Kedatangan Kubus Emas</GoldenCubeArrival.label>
+  
+  <!-- EN: harbinger tree -->
+  <HarbingerTreeProvoked.label>pohon pertanda</HarbingerTreeProvoked.label>
+  <!-- EN: Harbinger tree sprout -->
+  <HarbingerTreeProvoked.letterLabel>Wabah pohon Omen</HarbingerTreeProvoked.letterLabel>
+  <!-- EN: A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky. -->
+  <HarbingerTreeProvoked.letterText>Pohon pertanda telah tumbuh di dekatnya.Pohon -pohon yang dipelintir ini ditutupi dengan korteks berdaging, dan dapat memakan tubuh dan daging mentah di ujung jari Anda.Jika mereka memberi makan dengan benar, hutan akan terus tumbuh.Mitos berakhir ketika Tuhan keluar dari air dan mengetuk langit.</HarbingerTreeProvoked.letterText>
+  
+  <!-- EN: metalhorror implantation -->
+  <MetalhorrorImplantation.label>Implementasi Metalhorror</MetalhorrorImplantation.label>
+  
+  <!-- EN: mysterious cargo cube -->
+  <MysteriousCargoCube.label>Kubus Beban Misterius</MysteriousCargoCube.label>
+  
+  <!-- EN: mysterious cargo revenant spine -->
+  <MysteriousCargoRevenantSpine.label>Tulang belakang beban misterius dari redivive</MysteriousCargoRevenantSpine.label>
+  
+  <!-- EN: mysterious cargo corpse -->
+  <MysteriousCargoUnnaturalCorpse.label>beban misterius</MysteriousCargoUnnaturalCorpse.label>
+  
+  <!-- EN: nociosphere -->
+  <Nociosphere.label>Nonguather</Nociosphere.label>
+  <!-- EN: Nociosphere -->
+  <Nociosphere.letterLabel>Nonguather</Nociosphere.letterLabel>
+  <!-- EN: A strange metallic sphere has appeared. It hurts to be near it.\n\nYou could attack it, though you're not sure how it might defend itself. Or, you could capture it using a holding platform and learn to make use of its power.\n\nIt seems quiet for now, but it is gaining energy over time. You can suppress the sphere when it is captured to a holding platform, reducing its energy. -->
+  <Nociosphere.letterText>Bola logam yang aneh telah muncul.Sakitnya dekat dengannya.Anda juga bisa menangkapnya menggunakan platform penahanan dan belajar memanfaatkan kekuatannya.Anda dapat menekan bola saat ditangkap pada platform penahanan, mengurangi energinya.</Nociosphere.letterText>
+  
+  <!-- EN: pit gate -->
+  <PitGate.label>Lubang vakum</PitGate.label>
+  <!-- EN: Pit gate opening -->
+  <PitGate.letterLabel>Pembukaan tangki vakum</PitGate.letterLabel>
+  <!-- EN: A wide piece of terrain has begun sinking into the depths, forming a deepening hole. At this rate, it will deepen out of sight within a day. You can hear inhuman shrieks rising from the depths.\n\nMove buildings and items away from the emergence point. -->
+  <PitGate.letterText>Sebuah tanah yang luas telah mulai tenggelam ke kedalaman, membentuk lubang yang semakin dalam.Pada tingkat ini, Anda akan kehilangan pandangan sehari.Teriakan tidak manusiawi yang timbul dari kedalaman didengar. \ N \ naleja bangunan dan objek kemunculan.</PitGate.letterText>
+  
+  <!-- EN: revenant emergence -->
+  <RevenantEmergence.label>muncul kembali muncul</RevenantEmergence.label>
+  <!-- EN: Revenant spine humming -->
+  <RevenantEmergence.letterLabel>Tulang belakang redivive buzz</RevenantEmergence.letterLabel>
+  <!-- EN: The revenant spine is becoming more active and emitting an ominous hum. Destroy it or restrain it on a holding platform before it's too late. -->
+  <RevenantEmergence.letterText>Tulang belakang redivistik semakin aktif dan memancarkan dengungan yang tidak menyenangkan.Menghancurkannya atau menahannya di platform penahanan sebelum terlambat.</RevenantEmergence.letterText>
+  
+  <!-- EN: unnatural corpse arrival -->
+  <UnnaturalCorpseArrival.label>Kedatangan mayat yang tidak wajar</UnnaturalCorpseArrival.label>
+  
+  <!-- EN: unnatural darkness -->
+  <UnnaturalDarkness.label>Kegelapan antinatural</UnnaturalDarkness.label>
+  
+  <!-- EN: warped obelisk -->
+  <WarpedObelisk_Abductor.label>Obelisk cacat</WarpedObelisk_Abductor.label>
+  <!-- EN: Warped obelisk -->
+  <WarpedObelisk_Abductor.letterLabel>Obelisk cacat</WarpedObelisk_Abductor.letterLabel>
+  <!-- EN: A mysterious obelisk has crashed nearby.\n\nThe obelisk hums with putrid psychic energy, gradually intensifying as it approaches some dangerous limit. You can send colonists to suppress the obelisk to prevent it from activating.\n\nYou can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can always attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Abductor.letterText>Obelisk misterius telah jatuh di dekatnya.Anda dapat mengirim pemukim untuk menekan obelisk agar tidak diaktifkan.</WarpedObelisk_Abductor.letterText>
+  
+  <!-- EN: corrupted obelisk -->
+  <WarpedObelisk_Duplicator.label>Obelisk korup</WarpedObelisk_Duplicator.label>
+  <!-- EN: Corrupted obelisk -->
+  <WarpedObelisk_Duplicator.letterLabel>Obelisk korup</WarpedObelisk_Duplicator.letterLabel>
+  <!-- EN: A mysterious obelisk has crashed nearby.\n\nThe obelisk hums with putrid psychic energy, gradually intensifying as it approaches some dangerous limit. You can send colonists to suppress the obelisk to prevent it from activating.\n\nYou can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can always attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Duplicator.letterText>Obelisk misterius telah jatuh di dekatnya.Anda dapat mengirim pemukim untuk menekan obelisk agar tidak diaktifkan.</WarpedObelisk_Duplicator.letterText>
+  
+  <!-- EN: twisted obelisk -->
+  <WarpedObelisk_Mutator.label>Obelisk terpelintir</WarpedObelisk_Mutator.label>
+  <!-- EN: Twisted obelisk -->
+  <WarpedObelisk_Mutator.letterLabel>Obelisk terpelintir</WarpedObelisk_Mutator.letterLabel>
+  <!-- EN: A mysterious obelisk has crashed nearby.\n\nThe obelisk hums with putrid psychic energy, gradually intensifying as it approaches some dangerous limit. You can send colonists to suppress the obelisk to prevent it from activating.\n\nYou can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can always attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena. -->
+  <WarpedObelisk_Mutator.letterText>Obelisk misterius telah jatuh di dekatnya.Anda dapat mengirim pemukim untuk menekan obelisk agar tidak diaktifkan.</WarpedObelisk_Mutator.letterText>
+  
+</LanguageData>

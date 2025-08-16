@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spacedrone -->
+  <Spacedrone.label>Drone luar angkasa</Spacedrone.label>
+  <!-- EN: An ancient ultratech spacedrone. -->
+  <Spacedrone.description>Drone ruang ultrathcnological lama</Spacedrone.description>
+  <!-- EN: Hack to access computer. -->
+  <Spacedrone.comps.CompHackable.notHackedInspectString>Hack untuk mengakses sistem.</Spacedrone.comps.CompHackable.notHackedInspectString>
+  
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blind fog -->
+  <BlindFog.label>kabut padat</BlindFog.label>
+  <!-- EN: A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range. -->
+  <BlindFog.description>Kabut tebal yang mengurangi keakuratan senjata jarak jauh, serta ruang lingkup maksimumnya.</BlindFog.description>
+  <!-- EN: Blind fog -->
+  <BlindFog.letterLabel>Kabut padat</BlindFog.letterLabel>
+  <!-- EN: A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced. -->
+  <BlindFog.letterText>Sebuah kabut tebal sedang mengendap, secara drastis mengurangi visibilitas.Senjata jarak jauh akan kurang tepat dan ruang lingkup maksimumnya akan berkurang.</BlindFog.letterText>
+  
+  <!-- EN: blizzard -->
+  <Blizzard.label>Badai salju</Blizzard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Blizzard.description>Salju mengurangi keakuratan senjata jarak jauh, mematikan api dan memperlambat orang.</Blizzard.description>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>orbit</Orbit.label>
+  <!-- EN: There is no weather in orbit. -->
+  <Orbit.description>Tidak ada iklim di orbit.</Orbit.description>
+  
+  <!-- EN: overcast -->
+  <Overcast.label>berawan</Overcast.label>
+  <!-- EN: Thick clouds obscure the sky, reducing light levels. -->
+  <Overcast.description>Awan tebal yang gelap di langit, mengurangi tingkat cahaya.</Overcast.description>
+  
+  <!-- EN: sandstorm -->
+  <Sandstorm.label>Badai pasir</Sandstorm.label>
+  <!-- EN: Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere. -->
+  <Sandstorm.description>Badai pasir mengurangi keakuratan senjata jarak jauh, memperlambat orang dan mengisi semuanya dengan pasir.</Sandstorm.description>
+  
+  <!-- EN: torrential rain -->
+  <TorrentialRain.label>hujan deras</TorrentialRain.label>
+  <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <TorrentialRain.description>Hujan deras menyebabkan banjir.Ini juga mengurangi keakuratan senjata jarak jauh, mematikan api dan memperlambat orang.</TorrentialRain.description>
+  <!-- EN: Torrential rain -->
+  <TorrentialRain.letterLabel>Hujan deras</TorrentialRain.letterLabel>
+  <!-- EN: Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading. -->
+  <TorrentialRain.letterText>Hujan yang intens mulai turun.Ini akan menyebabkan banjir sementara di sekitar badan air.Bangun penghalang untuk mencegah penyebaran air banjir.</TorrentialRain.letterText>
+  
+  <!-- EN: tox rain -->
+  <ToxRain.label>Hujan beracun</ToxRain.label>
+  <!-- EN: Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxRain.description>Hujan beracun sakit bagi makhluk dengan akumulasi beracun.Ini juga mengurangi keakuratan senjata jarak jauh, mematikan api dan memperlambat orang.</ToxRain.description>
+  <!-- EN: Tox rain -->
+  <ToxRain.letterLabel>Hujan beracun</ToxRain.letterLabel>
+  <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
+  <ToxRain.letterText>Hujan beracun sudah mulai turun.Dia perlahan akan mendapatkan siapa pun yang menyentuh.Jaga agar pemukim Anda tetap di atap untuk menghindarinya.</ToxRain.letterText>
+  
+  <!-- EN: windy -->
+  <Windy.label>berangin</Windy.label>
+  <!-- EN: Strong winds reduce movement speed. -->
+  <Windy.description>Angin kencang mengurangi kecepatan gerakan.</Windy.description>
+  
+</LanguageData>

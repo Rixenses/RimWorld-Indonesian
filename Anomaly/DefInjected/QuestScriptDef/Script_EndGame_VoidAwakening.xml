@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>DarknessstartedLetterLabel-> kegelapan yang tidak wajar</li>
+    <li>DarknessstartedLetText-> kegelapan yang tidak wajar telah turun.Hal -hal yang tidak manusiawi bergerak tepat di luar cahaya.Simpan penjajah di daerah yang cukup terang.</li>
+    <li>StrukturarrivingalertLabel-> Struktur void tiba</li>
+    <li>StrukturarrivingAlertExplanation-> Batas antara dunia kita dan kekosongan rusak.Segera, struktur batal akan terwujud di dekatnya.Untuk sepenuhnya membangkitkan monolith void, Anda harus mengaktifkannya. \ N \ nPrepare untuk kedatangan mereka.</li>
+    <li>voidstruktureTterLabel-> struktur void</li>
+    <li>VoidStructuresLeTText-> Beberapa struktur bengkok muncul, tampaknya entah dari mana.Mereka berdenyut dengan energi psikis gelap yang dipenuhi kehidupan tanaman di dekatnya. \ N \ nactivate struktur untuk maju lebih lanjut.</li>
+    <li>GLEAMINGMONOLITHWARNINGETTERLabel-> Twisting mengintensifkan</li>
+    <li>GLEAMINGMONOLITHWARNINGETTERTEXT-> Bentuk monolith telah mulai mendistorsi dan bergeser dengan intensitas yang tumbuh.Sesuatu akan terjadi ...</li>
+    <li>Gleamingmonolithletterlabel-> void monolith</li>
+    <li>GLEAMINGMONOLITHLETTERTEXT-> Monolith telah sepenuhnya terbangun.Vortex gelap yang berputar -putar berada di atas puncaknya, membentuk saluran ke kekosongan. \ N \ ngo ke monolith dan menggunakannya untuk melewati ke sisi lain.Melakukan hal itu akan mengakhiri kegelapan yang tidak wajar dan mengakhiri serangan horor.</li>
+    <li>monolithtwistingalertlabel-> monolith twisting</li>
+    <li>monolithtwistingalertexplanation-> Monolith berputar tanpa bergerak, membungkuk sendiri dan pikiran orang-orang yang melihatnya.Sesuatu sedang terjadi - bersiaplah.</li>-><EndGame_VoidAwakening.questContentRules.rulesStrings>
+    <li>DarknesssstartTetterLabel-> kegelapan supernatural</li>
+    <li>DarknesssstartTetterText-> telah menurun kegelapan supernatural.Hal -hal yang tidak manusiawi keluar dari cahaya.Jaga agar pemukim tetap di area yang diterangi dengan baik.</li>
+    <li>StrukturarrivingalertLabel-> Struktur Vakum akan datang</li>
+    <li>Strukturarrivingalexplanation-> Perbatasan antara dunia kita dan kekosongan sedang pecah.Segera, struktur vakum akan terwujud di sekitarnya.Untuk benar -benar membangkitkan monolit kekosongan, Anda harus mengaktifkannya. \ N \ nPrepárate untuk kedatangan Anda.</li>
+    <li>voidstruktureTterLabel-> struktur vakum</li>
+    <li>Void BodyStterText-> Beberapa struktur bengkok muncul, tampaknya tidak ada.Mereka meresepkan dengan energi psikis gelap yang menahan tanaman di dekatnya. \ N \ Lahir Struktur untuk terus maju.</li>
+    <li>GLEAMINGMONOLITHWARNINGETTERLabel-> Torsion meningkat</li>
+    <li>Monolithwarninglettext-> Bentuk monolit telah mulai mendistorsi dan berubah dengan meningkatnya intensitas.Sesuatu akan terjadi ...</li>
+    <li>Gleamingmonolithletterlabel-> vacuum monolith</li>
+    <li>GLEAMINGMONOLITHLETTEXT-> Monolith telah benar-benar terbangun.Vortex gelap dan berpakaian duduk di puncaknya, membentuk saluran menuju kekosongan.Dengan melakukan itu Anda akan mengakhiri kegelapan supernatural dan mengakhiri serangan horor.</li>
+    <li>Monolithtwistingalertlabel-> torsion monolith</li>
+    <li>Monolithtwistingalexplanation-> Monolith dipelintir tanpa bergerak, membungkuk dirinya sendiri dan pikiran orang-orang yang memandangnya.Sesuatu sedang terjadi: Bersiaplah.</li>
+  </EndGame_VoidAwakening.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-></li>-><EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-></li>
+  </EndGame_VoidAwakening.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> void Awakening</li>-><EndGame_VoidAwakening.questNameRules.rulesStrings>
+    <li>QuestName-> Vacuum Awakaning</li>
+  </EndGame_VoidAwakening.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-></li>-><EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-></li>
+  </EndGame_VoidMonolith.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Anomaly Monolith</li>-><EndGame_VoidMonolith.questNameRules.rulesStrings>
+    <li>QuestName-> Anomalies Monolith</li>
+  </EndGame_VoidMonolith.questNameRules.rulesStrings>
+  
+</LanguageData>

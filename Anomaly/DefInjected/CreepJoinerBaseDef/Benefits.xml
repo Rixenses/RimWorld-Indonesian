@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alchemist -->
+  <Alchemist.label>alkemis</Alchemist.label>
+  <!-- EN: {PAWN_nameDef} claims an extensive knowledge of alchemical practice. {PAWN_pronoun} can, using unknown archotechnological influence, transmute steel into various valuable resources. -->
+  <Alchemist.letterExtra>{PAWN_nameDef} mengaku memiliki pengetahuan luas tentang praktik alkimia. Dengan menggunakan pengaruh arkeoteknologi yang tidak dikenal, {PAWN_pronoun} dapat mengubah baja menjadi berbagai sumber daya berharga.</Alchemist.letterExtra>
+  
+  <!-- EN: body mastery -->
+  <BodyMastery.label>penguasaan tubuh</BodyMastery.label>
+  <!-- EN: {PAWN_nameDef}'s eyes are pure white. Using local folk knowledge, {PAWN_pronoun} has mastered {PAWN_possessive} metabolic and circadian rhythms. At least, that's what {PAWN_pronoun} claims. {PAWN_nameDef} never sleeps and doesn't need to eat, though in {PAWN_possessive} eyes you see a primal hunger. -->
+  <BodyMastery.letterExtra>Mata {PAWN_nameDef} berwarna putih murni. Dengan memanfaatkan pengetahuan rakyat setempat, {PAWN_pronoun} telah menguasai ritme metabolisme dan sirkadian {PAWN_possessive}. Setidaknya, itulah yang {PAWN_pronoun} klaim. {PAWN_nameDef} tidak pernah tidur dan tidak perlu makan, meski di matanya terlihat kelaparan yang primitif.</BodyMastery.letterExtra>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusal.label>penolakan kematian</DeathRefusal.label>
+  <!-- EN: As the former subject of a cultist ritual, {PAWN_nameDef} has the ability to defy death. Black archotechnology courses throughout {PAWN_possessive} body, allowing {PAWN_objective} to self-resurrect. When {PAWN_pronoun} does, {PAWN_possessive} flesh rapidly reforms, replacing missing organs and healing wounds. The process is, however, imperfect. -->
+  <DeathRefusal.letterExtra>Sebagai pensiunan subjek ritual pemujaan, {PAWN_nameDef} memiliki kemampuan untuk menantang kematian. Arkeoteknologi hitam mengalir di seluruh tubuh {PAWN_possessive}, memungkinkannya untuk membangkitkan diri sendiri. Saat melakukannya, daging {PAWN_possessive} dengan cepat terbentuk kembali, menggantikan organ yang hilang dan menyembuhkan luka. Namun, proses ini tidak sempurna.</DeathRefusal.letterExtra>
+  
+  <!-- EN: fleshcrafter -->
+  <Fleshcrafter.label>perajin daging</Fleshcrafter.label>
+  <!-- EN: {PAWN_nameDef} claims to be gifted with the dark art of animating dead flesh. {PAWN_pronoun} can turn corpses into hideous fleshbeasts. -->
+  <Fleshcrafter.letterExtra>{PAWN_nameDef} mengaku memiliki bakat dalam seni gelap menghidupkan daging mati. {PAWN_pronoun} dapat mengubah mayat menjadi carnibestia yang mengerikan.</Fleshcrafter.letterExtra>
+  
+  <!-- EN: joybringer -->
+  <Joybringer.label>kesenangan</Joybringer.label>
+  <!-- EN: {PAWN_nameDef} is a bringer of joy and serenity whose abilities go beyond mere charisma. {PAWN_pronoun} lifts spirits and inspires others by telling jokes and spreading blissful thoughts. -->
+  <Joybringer.letterExtra>{PAWN_nameDef} adalah pembawa sukacita dan ketenangan yang kemampuannya melampaui sekadar karisma. {PAWN_pronoun} mengangkat semangat dan menginspirasi orang lain dengan menceritakan lelucon serta menyebarkan pikiran yang menenangkan.</Joybringer.letterExtra>
+  
+  <!-- EN: occultist -->
+  <Occultist.label>okultis</Occultist.label>
+  <!-- EN: {PAWN_pronoun} is deeply knowledgeable of all things related to the void. {PAWN_pronoun} can study unnatural phenomena faster than others and will also teach others when {PAWN_pronoun} gets the chance. -->
+  <Occultist.letterExtra>{PAWN_nameDef} memiliki pengetahuan mendalam tentang segala hal yang berkaitan dengan kehampaan. {PAWN_pronoun} dapat mempelajari fenomena yang tidak wajar lebih cepat daripada yang lain, dan juga akan mengajarkan kepada orang lain saat ada kesempatan.</Occultist.letterExtra>
+  
+  <!-- EN: perfect human -->
+  <PerfectHuman.label>manusia sempurna</PerfectHuman.label>
+  <!-- EN: {PAWN_nameDef} is skilled in everything to an unnatural degree. Regardless of the subject, {PAWN_pronoun} has mastered it. In addition, {PAWN_possessive} work ethic is remarkable. {PAWN_pronoun} appears to be the perfect worker. -->
+  <PerfectHuman.letterExtra>{PAWN_nameDef} terampil dalam segala hal hingga tingkat yang tidak wajar. Apapun bidangnya, {PAWN_pronoun} telah menguasainya. Selain itu, etos kerja {PAWN_possessive} sangat mengagumkan. {PAWN_pronoun} tampak seperti pekerja sempurna.</PerfectHuman.letterExtra>
+  
+  <!-- EN: psychic butcher -->
+  <PsychicButcher.label>tukang jagal psikis</PsychicButcher.label>
+  <!-- EN: Animals are skittish around {PAWN_nameDef}. {PAWN_pronoun} has the unnatural power to deform the flesh of living creatures, causing them to erupt into piles of twisted meat. {PAWN_nameDef} claims to use {PAWN_possessive} gift only to butcher animals - but it's clear {PAWN_pronoun} could just as easily butcher a person. -->
+  <PsychicButcher.letterExtra>Hewan-hewan gelisah saat berada di dekat {PAWN_nameDef}. {PAWN_pronoun} memiliki kekuatan tidak wajar untuk memutarbalikkan daging makhluk hidup, membuatnya meledak menjadi tumpukan daging yang terpelintir. {PAWN_nameDef} mengaku hanya menggunakan kemampuannya untuk menyembelih hewan, tetapi jelas {PAWN_pronoun} bisa saja menyembelih manusia dengan mudah.</PsychicButcher.letterExtra>
+  
+  <!-- EN: shambler overlord -->
+  <ShamblerOverlord.label>penguasa shambler</ShamblerOverlord.label>
+  <!-- EN: {PAWN_nameDef}'s body is riddled with corrupt archites. {PAWN_pronoun} can release them at will, creating a cloud of deadlife dust which can reanimate nearby corpses. -->
+  <ShamblerOverlord.letterExtra>Tubuh {PAWN_nameDef} dipenuhi dengan arkite yang rusak. {PAWN_pronoun} dapat melepaskannya kapan saja, menciptakan awan debu necrovita yang dapat menghidupkan kembali mayat di sekitarnya.</ShamblerOverlord.letterExtra>
+  
+  <!-- EN: unnatural healing -->
+  <UnnaturalHealing.label>Penyembuhannya tidak pantas</UnnaturalHealing.label>
+  <!-- EN: {PAWN_pronoun} offers to use {PAWN_possessive} healing power to help you. -->
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun} menawarkan untuk menggunakan kekuatan penyembuhan {PAWN_possessive} untuk membantumu.</UnnaturalHealing.letterExtra>
+  
+</LanguageData>

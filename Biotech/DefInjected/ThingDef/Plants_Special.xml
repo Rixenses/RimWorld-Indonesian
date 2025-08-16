@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chopped polux stump -->
+  <ChoppedStump_Polux.label>Tunggul antipolu yang diikat</ChoppedStump_Polux.label>
+  <!-- EN: A stump left behind after a polux tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Polux.description>Tunggul yang tersisa setelah penebangan pohon antipolu.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</ChoppedStump_Polux.description>
+  
+  <!-- EN: polux tree -->
+  <Plant_TreePolux.label>Pohon antipolu</Plant_TreePolux.label>
+  <!-- EN: After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks. -->
+  <Plant_TreePolux.description>Setelah generasi paparan, pohon -pohon ini telah berevolusi untuk memetabolisme polutan.Dengan mengekstraksi polutan tanah melalui jaringan akar lebar, mereka perlahan membersihkan medan yang terkontaminasi di sekitarnya.Namun, mereka tidak dapat melakukannya jika bangunan dibangun di atas akar mereka.</Plant_TreePolux.description>
+  
+  <!-- EN: polux seed -->
+  <PoluxSeed.label>Benih Antipolu</PoluxSeed.label>
+  <!-- EN: The seed of a polux tree. It can be planted to create a new polux tree which will absorb pollution from nearby terrain. -->
+  <PoluxSeed.description>Benih pohon antipolu.Ini dapat ditanam untuk membuat pohon antipolu baru yang akan menyerap kontaminasi tanah di dekatnya.</PoluxSeed.description>
+  
+  <!-- EN: smashed polux stump -->
+  <SmashedStump_Polux.label>Tunggul antipolu yang rusak</SmashedStump_Polux.label>
+  <!-- EN: The remnants of a polux tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Polux.description>Sisa -sisa pohon antipolu dihancurkan oleh kerusakan.Itu jelek.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</SmashedStump_Polux.description>
+  
+</LanguageData>

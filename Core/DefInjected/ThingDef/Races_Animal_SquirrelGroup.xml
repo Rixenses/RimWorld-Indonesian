@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>Ratbu</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>Atau karena modifikasi genetik bersenjata, atau karena mekanisme pertahanan yang tidak biasa, makhluk hewan pengerat ini menyebabkan ledakan pembakar yang kuat saat sekarat.</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>cakar kiri</Boomrat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.left_claw.labelNoLocation>cakar</Boomrat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>Cakar kanan</Boomrat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Boomrat.tools.right_claw.labelNoLocation>cakar</Boomrat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>kepala</Boomrat.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguana</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Kadal besar ini biasanya memakan bahan tanaman.Namun, ketika mereka marah, kulit keras mereka dan cakar tajam mereka membuat mereka cukup berbahaya. \ N \ nlas Iguanas beristirahat dengan kepala tinggi, memberi mereka penampilan yang menyenangkan dan bangga.Tapi mereka tidak bangga;Mereka hanya mencoba melihat predator sehingga mereka tidak memakannya.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>cakar kiri</Iguana.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.left_claw.labelNoLocation>cakar</Iguana.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>Cakar kanan</Iguana.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Iguana.tools.right_claw.labelNoLocation>cakar</Iguana.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>kepala</Iguana.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>rakun</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>Hewan kecil dan tahan yang memanjang di sepanjang hutan dan semak.Senang saat Anda memasuki wadah sampah atau dapur Anda untuk makan hampir semua hal.</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>cakar kiri</Raccoon.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.left_claw.labelNoLocation>cakar</Raccoon.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>Cakar kanan</Raccoon.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Raccoon.tools.right_claw.labelNoLocation>cakar</Raccoon.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>kepala</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>Rata</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>Seorang hewan pengerat yang dibenci oleh semua orang, yang dikenal karena dapur kotor dan menyebarkan penyakit.Tikus berhasil mengikuti manusia ke mana pun mereka pergi.Makan hampir semua hal dan tinggal hampir di mana saja.</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>cakar kiri</Rat.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.left_claw.labelNoLocation>cakar</Rat.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>Cakar kanan</Rat.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Rat.tools.right_claw.labelNoLocation>cakar</Rat.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Rat.tools.head.label>kepala</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>tupai</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>Salah satu dari banyak spesies tikus yang mengikuti kemanusiaan di mana -mana di mana ia menyebar.Tupai dibedakan oleh ekornya yang padat, yang mereka gunakan sebagai payung saat itu adalah waktu yang salah.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>cakar kiri</Squirrel.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.left_claw.labelNoLocation>cakar</Squirrel.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>Cakar kanan</Squirrel.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Squirrel.tools.right_claw.labelNoLocation>cakar</Squirrel.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>kepala</Squirrel.tools.head.label>
+  
+</LanguageData>

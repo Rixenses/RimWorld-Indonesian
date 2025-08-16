@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crisis of belief -->
+  <IdeoChange.label>Krisis iman</IdeoChange.label>
+  <!-- EN: Mental state: Crisis of belief -->
+  <IdeoChange.baseInspectLine>Keadaan mental: krisis iman</IdeoChange.baseInspectLine>
+  <!-- EN: {PAWN_nameDef}'s spirit has broken. As a result, {PAWN_pronoun} was forced to question everything. -->
+  <IdeoChange.beginLetter>Semangat {Pawn_namedef} telah rusak.Akibatnya, semuanya mulai mempertanyakan.</IdeoChange.beginLetter>
+  
+  <!-- EN: rebelling -->
+  <Rebellion.label>Rebeling</Rebellion.label>
+  <!-- EN: Mental state: Rebelling -->
+  <Rebellion.baseInspectLine>Keadaan mental: Rebeling</Rebellion.baseInspectLine>
+  <!-- EN: {0} has reached a psychological limit and is going to induce other slaves to rebel. -->
+  <Rebellion.beginLetter>{0} telah mencapai batas dan akan mendorong anak laki -laki lain untuk memberontak.</Rebellion.beginLetter>
+  <!-- EN: rebel -->
+  <Rebellion.beginLetterLabel>pemberontak</Rebellion.beginLetterLabel>
+  
+</LanguageData>

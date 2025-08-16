@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 6)-> [namefile]</li>
+    <li>r_name-> [ExoticName]</li>
+    <li>ExoticName (p = 2)-> [AdjectiveBadass]</li>
+    <li>ExoticName (p = 2)-> [Personbadass]</li>
+    <li>ExoticName-> [musuh]</li>
+    <li>ExoticName-> [ConceptAnd]</li>
+    <li>ExoticName-> [Color]</li>-><NamerMech.rulePack.rulesStrings>
+    <li>r_name (p = 6)-> [namefile]</li>
+    <li>r_name-> [ExoticName]</li>
+    <li>ExoticName (p = 2)-> [AdjectiveBadass]</li>
+    <li>ExoticName (p = 2)-> [Personbadass]</li>
+    <li>ExoticName-> [musuh]</li>
+    <li>ExoticName-> [ConceptAnd]</li>
+    <li>ExoticName-> [Color]</li>
+  </NamerMech.rulePack.rulesStrings>
+  
+</LanguageData>

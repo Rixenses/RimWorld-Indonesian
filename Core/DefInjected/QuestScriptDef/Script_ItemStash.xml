@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> Kami telah mencegat pesan tentang kumpulan item berharga yang bernilai [itemstashContentsValue] tidak jauh dari [MAP_Definite].Koleksi ini terdiri dari: \ n \ n [itemStashContents] \ n \ nit tampaknya [AllSitePartSDescriptionSExceptFirst]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namedef], [asker_faction_leadertitle] dari [asker_faction_name], telah memberi tahu kami tentang koleksi barang berharga yang bernilai [itemstashcontentsValue] tidak jauh dari kami.Koleksi ini terdiri dari: \ n \ n [itemStashContents] \ n \ n [asker_label] mengatakan bahwa [allsitePartsDescriptionSExceptFirst]</li>-><OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Kami telah mencegat pesan tentang kumpulan artikel yang mungkin menarik minat Anda, dihargai dalam [itemshcontentsValue] tidak jauh dari [MAP_Definite].Koleksi ini terdiri dari: \ n \ n [itemsshcontents] \ n \ nparece bahwa [AllSiteparts deciptionSexceptFirst]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namedef], [asker_faction_leadertitle] dari faksi [asker_faction_name], ia memberi tahu kami tentang koleksi barang-barang penting, yang dihargai dalam [itemsshcontentsValue] tidak jauh dari kami.Koleksi ini terdiri dari: \ n \ n [itemshcontents] \ n \ n [asker_label] mengatakan bahwa [AllSitePartSDescriptionExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (prioritas = 1)-> [asker_namedef] [simpanan] dari [harta karun]</li>
+    <li>QuestName-> [simpanan] dari [harta karun]</li>
+    <li>simpanan> simpanan</li>
+    <li>Stash-> Cache</li>
+    <li>Koleksi Stash-></li>
+    <li>Stash-> Shack</li>
+    <li>harta karun-> harta karun</li>
+    <li>Harta karun-> barang berharga</li>
+    <li>harta karun-> keberuntungan</li>
+    <li>harta karun-> barang</li>
+    <li>harta karun-> persediaan</li>-><OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>QuestName (prioritas = 1)-> el [simpanan] [harta karun] de [asker_namedef]</li>
+    <li>QuestName-> el [simpanan] [harta karun]</li>
+    <li>Simpanan> simpanan</li>
+    <li>Stash-> Escondite</li>
+    <li>Simpanan-> aman</li>
+    <li>Simpanan> rampasan</li>
+    <li>Harta karun-> del treaso</li>
+    <li>Harta karun-> dari barang dagangan</li>
+    <li>Harta karun-> dari keberuntungan</li>
+    <li>Treasure-> of Goods</li>
+    <li>Harta karun-> persediaan</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa simpanan artikel telah diklaim oleh orang lain.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

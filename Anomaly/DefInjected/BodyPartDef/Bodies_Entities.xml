@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fin -->
+  <Fin.label>sirip</Fin.label>
+  
+  <!-- EN: flesh club -->
+  <FleshClub_Gorehulk.label>daging</FleshClub_Gorehulk.label>
+  
+  <!-- EN: core -->
+  <FleshmassNucleusCore.label>inti</FleshmassNucleusCore.label>
+  
+  <!-- EN: arm -->
+  <MetalhorrorArm.label>lengan</MetalhorrorArm.label>
+  
+  <!-- EN: blade -->
+  <MetalhorrorBlade.label>bilah</MetalhorrorBlade.label>
+  
+  <!-- EN: mind core -->
+  <MetalhorrorBrain.label>inti pikiran</MetalhorrorBrain.label>
+  
+  <!-- EN: core -->
+  <MetalhorrorCore.label>inti</MetalhorrorCore.label>
+  
+  <!-- EN: eye -->
+  <MetalhorrorEye.label>mata</MetalhorrorEye.label>
+  
+  <!-- EN: foot -->
+  <MetalhorrorFoot.label>mengais</MetalhorrorFoot.label>
+  
+  <!-- EN: head -->
+  <MetalhorrorHead.label>kepala</MetalhorrorHead.label>
+  
+  <!-- EN: leg -->
+  <MetalhorrorLeg.label>mengais</MetalhorrorLeg.label>
+  
+  <!-- EN: neck -->
+  <MetalhorrorNeck.label>leher</MetalhorrorNeck.label>
+  
+  <!-- EN: arm -->
+  <MetalhorrorShoulder.label>bahu</MetalhorrorShoulder.label>
+  
+  <!-- EN: torso -->
+  <MetalhorrorTorso.label>kerangka tubuh</MetalhorrorTorso.label>
+  
+  <!-- EN: body -->
+  <MovingBody.label>tubuh</MovingBody.label>
+  
+  <!-- EN: core -->
+  <NociosphereCore.label>inti</NociosphereCore.label>
+  
+  <!-- EN: shell -->
+  <NociosphereShell.label>cangkang</NociosphereShell.label>
+  
+  <!-- EN: claw -->
+  <NoctolClaw.label>cakar</NoctolClaw.label>
+  
+  <!-- EN: shell section -->
+  <ShellSection.label>bagian cangkang</ShellSection.label>
+  
+  <!-- EN: spine cluster -->
+  <SpineLauncher_Gorehulk.label>gugus tulang belakang</SpineLauncher_Gorehulk.label>
+  
+</LanguageData>

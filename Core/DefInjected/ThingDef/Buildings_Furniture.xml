@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed -->
+  <AnimalBed.label>tempat tidur (binatang)</AnimalBed.label>
+  <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
+  <AnimalBed.description>Tempat tidur lembut untuk hewan.Hewan apa pun cocok.</AnimalBed.description>
+  
+  <!-- EN: animal sleeping box -->
+  <AnimalSleepingBox.label>Laci tidur</AnimalSleepingBox.label>
+  <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
+  <AnimalSleepingBox.description>Sebuah kotak di mana seekor binatang bisa tidur.Hewan kecil seperti ayam, kucing atau anjing kecil.</AnimalSleepingBox.description>
+  
+  <!-- EN: animal sleeping spot -->
+  <AnimalSleepingSpot.label>Tempat Tidur (Hewan)</AnimalSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where animals should sleep. -->
+  <AnimalSleepingSpot.description>Menunjuk tempat di tanah di mana hewan peliharaan akan tidur.</AnimalSleepingSpot.description>
+  
+  <!-- EN: armchair -->
+  <Armchair.label>kursi</Armchair.label>
+  <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
+  <Armchair.description>Kursi yang besar, lembut dan nyaman.Sangat baik untuk bersantai.Ini dapat digunakan di sebelah meja, stasiun kerja dan lainnya.</Armchair.description>
+  
+  <!-- EN: bed -->
+  <Bed.label>Cama</Bed.label>
+  <!-- EN: A cozy mattress and sheets on a frame for resting. -->
+  <Bed.description>Kasur nyaman dengan lembaran pada struktur untuk beristirahat.</Bed.description>
+  
+  <!-- EN: bedroll -->
+  <Bedroll.label>kantong tidur</Bedroll.label>
+  <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <Bedroll.description>Tempat tidur sederhana yang ditempatkan di lantai, biasanya terbuat dari kain atau kulit, sering dilapisi dengan kulit.Ini ringan dan dapat didaftarkan untuk memfasilitasi transportasi, tetapi tidak senyaman tempat tidur yang khas.Karavan bisa memakai kantong tidur sambil bergerak lebih nyenyak.</Bedroll.description>
+  
+  <!-- EN: double bedroll -->
+  <BedrollDouble.label>Kantong tidur ganda</BedrollDouble.label>
+  <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
+  <BedrollDouble.description>Tempat tidur ganda sederhana yang terletak di lantai, biasanya terbuat dari kain atau kulit, sering dilapisi dengan kulit.Ini ringan dan dapat didaftarkan untuk memfasilitasi transportasi, tetapi tidak senyaman tempat tidur yang khas. Karavan bisa memakai kantong tidur saat mereka bergerak lebih nyenyak.</BedrollDouble.description>
+  
+  <!-- EN: bookcase -->
+  <Bookcase.label>toko buku</Bookcase.label>
+  <!-- EN: A wide bookcase for storing and displaying up to ten books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <Bookcase.description>Toko buku yang luas untuk disimpan dan menunjukkan hingga sepuluh buku.Buku -buku yang disimpan di sini akan secara pasif meningkatkan pekerjaan akademik yang dilakukan di dekat dan meningkatkan keindahan toko buku.Buku -buku yang disimpan tidak akan pernah memburuk.</Bookcase.description>
+  
+  <!-- EN: small bookcase -->
+  <BookcaseSmall.label>Toko buku kecil</BookcaseSmall.label>
+  <!-- EN: A narrow bookcase for storing and displaying up to five books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
+  <BookcaseSmall.description>Perpustakaan sempit untuk disimpan dan muncul hingga lima buku.Buku -buku yang disimpan di sini akan secara pasif meningkatkan pekerjaan akademik yang dilakukan di dekat dan meningkatkan keindahan toko buku.Buku -buku yang disimpan tidak akan pernah memburuk.</BookcaseSmall.description>
+  
+  <!-- EN: couch -->
+  <Couch.label>sofa</Couch.label>
+  <!-- EN: A large double-wide seat which is cushioned for maximum comfort. Perfect for a luxurious rec room or a homey reading nook. -->
+  <Couch.description>Kursi ganda besar dan besar yang empuk untuk memberikan kenyamanan maksimal.Sempurna untuk ruang rekreasi mewah atau sudut baca yang nyaman di rumah.</Couch.description>
+  
+  <!-- EN: dining chair -->
+  <DiningChair.label>kursi makan</DiningChair.label>
+  <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
+  <DiningChair.description>Kursi yang nyaman dan menyenangkan.Ini dapat digunakan di sebelah meja, stasiun kerja dan lainnya.</DiningChair.description>
+  
+  <!-- EN: double bed -->
+  <DoubleBed.label>dobel bed</DoubleBed.label>
+  <!-- EN: A simple double-wide bed that fits two people. -->
+  <DoubleBed.description>Tempat tidur pernikahan sederhana untuk dua orang.</DoubleBed.description>
+  
+  <!-- EN: double sleeping spot -->
+  <DoubleSleepingSpot.label>Tempat tidur ganda</DoubleSleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
+  <DoubleSleepingSpot.description>Menunjuk tempat di tanah di mana dua orang harus tidur bersama.Itu tidak nyaman.</DoubleSleepingSpot.description>
+  
+  <!-- EN: dresser -->
+  <Dresser.label>Nyaman</Dresser.label>
+  <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
+  <Dresser.description>Ini memberikan bonus kenyamanan kecil untuk semua tempat tidur terdekat.Tempatkan lebih dari satu nyaman di dekat tempat tidur yang sama tidak akan berpengaruh.</Dresser.description>
+  
+  <!-- EN: end table -->
+  <EndTable.label>meja samping tempat tidur</EndTable.label>
+  <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
+  <EndTable.description>Meja malam kecil yang membuat tempat tidur di dekatnya sedikit lebih nyaman.Itu harus ditempatkan tepat di sebelah kepala tempat tidur.Tempatkan lebih dari satu meja samping tempat tidur tidak akan berpengaruh.</EndTable.description>
+  
+  <!-- EN: flood light -->
+  <FloodLight.label>Lampu luar ruangan</FloodLight.label>
+  <!-- EN: A high-intensity light that's good for large outdoor spaces. -->
+  <FloodLight.description>Cahaya intensitas tinggi yang cocok untuk ruang luar yang besar.</FloodLight.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Tempat tidur rumah sakit</HospitalBed.label>
+  <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
+  <HospitalBed.description>Tempat tidur yang ditunjuk khusus untuk digunakan di rumah sakit.Ini cocok dengan pasien dan memiliki peralatan yang memadai, meningkatkan kemungkinan perawatan medis yang berhasil.</HospitalBed.description>
+  
+  <!-- EN: plant pot -->
+  <PlantPot.label>pot bunga</PlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
+  <PlantPot.description>Tanam bunga dekoratif di sini untuk meningkatkan humor penjajah yang dekat.</PlantPot.description>
+  
+  <!-- EN: royal bed -->
+  <RoyalBed.label>kerajaan</RoyalBed.label>
+  <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
+  <RoyalBed.description>Tempat tidur mewah dengan lapisan emas, layak bagi kaum bangsawan.Sangat nyaman dan indah, ini adalah karya seni itu sendiri.Ruang untuk dua.</RoyalBed.description>
+  
+  <!-- EN: shelf -->
+  <Shelf.label>rak</Shelf.label>
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <Shelf.description>Rak yang dapat berisi objek tiga kali lebih banyak daripada tanah kosong.Objek yang disimpan di dalam tidak akan pernah memburuk dan tidak akan mempengaruhi keindahan lingkungan.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>rak kecil</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>Rak kecil yang dapat berisi objek tiga kali lebih banyak daripada tanah kosong.Objek yang disimpan di dalam tidak akan pernah memburuk dan tidak akan mempengaruhi keindahan lingkungan.</ShelfSmall.description>
+  
+  <!-- EN: sleeping spot -->
+  <SleepingSpot.label>Tempat tidur</SleepingSpot.label>
+  <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
+  <SleepingSpot.description>Menunjuk tempat di tanah di mana orang akan tidur.Itu tidak nyaman.</SleepingSpot.description>
+  
+  <!-- EN: standing lamp -->
+  <StandingLamp.label>Lampu kaki</StandingLamp.label>
+  <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
+  <StandingLamp.description>Lampu kaki yang menerangi suatu daerah.Orang membutuhkan cahaya untuk berjalan dan bekerja lebih cepat.</StandingLamp.description>
+  
+  <!-- EN: stool -->
+  <Stool.label>bangku</Stool.label>
+  <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <Stool.description>Platform sederhana untuk duduk.Ini tidak terlalu nyaman, tetapi lebih baik dari apa pun.Ini dapat digunakan di sebelah meja, stasiun kerja dan lainnya.</Stool.description>
+  
+  <!-- EN: sun lamp -->
+  <SunLamp.label>Lampu surya</SunLamp.label>
+  <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
+  <SunLamp.description>Lampu industri yang secara cemerlang menerangi daerah yang cukup untuk menanam tanaman, tetapi mengonsumsi banyak energi.Keluar secara otomatis di malam hari.</SunLamp.description>
+  <!-- EN: Off for plant resting period -->
+  <SunLamp.comps.CompSchedule.offMessage>OFF karena periode sisa tanaman</SunLamp.comps.CompSchedule.offMessage>
+  
+  <!-- EN: table (1x2) -->
+  <Table1x2c.label>Tabel (1x2)</Table1x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table1x2c.description>Orang -orang makan di sebelah meja ketika kursi ditempatkan di depan mereka.</Table1x2c.description>
+  
+  <!-- EN: table (2x2) -->
+  <Table2x2c.label>Tabel (2x2)</Table2x2c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x2c.description>Orang -orang makan di sebelah meja ketika kursi ditempatkan di depan mereka.</Table2x2c.description>
+  
+  <!-- EN: table (2x4) -->
+  <Table2x4c.label>Tabel (2x4)</Table2x4c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table2x4c.description>Orang -orang makan di sebelah meja ketika kursi ditempatkan di depan mereka.</Table2x4c.description>
+  
+  <!-- EN: table (3x3) -->
+  <Table3x3c.label>Tabel (3x3)</Table3x3c.label>
+  <!-- EN: People eat off tables when chairs are placed facing them. -->
+  <Table3x3c.description>Orang -orang makan di sebelah meja ketika kursi ditempatkan di depan mereka.</Table3x3c.description>
+  
+  <!-- EN: torch lamp -->
+  <TorchLamp.label>obor</TorchLamp.label>
+  <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
+  <TorchLamp.description>Obor kayu yang menerangi suatu daerah.Orang membutuhkan cahaya untuk bergerak dan bekerja dengan kecepatan normal.Itu dapat secara otomatis dilanjutkan dengan kayu.Ini menghasilkan sedikit panas.</TorchLamp.description>
+  
+  <!-- EN: wall torch lamp -->
+  <TorchWallLamp.label>obor dinding</TorchWallLamp.label>
+  <!-- EN: A wall-mounted wooden torch for lighting an area. It is not as bright as a regular torch lamp, but it can be mounted on walls. Produces a small amount of heat. -->
+  <TorchWallLamp.description>Obor kayu yang dipasang di dinding untuk menerangi suatu daerah.Ini tidak seterang lampu obor biasa, tetapi dapat dipasang di dinding.Itu menghasilkan sedikit panas.</TorchWallLamp.description>
+  
+  <!-- EN: wall lamp -->
+  <WallLamp.label>Lampu dinding</WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <WallLamp.description>Lampu yang dipasang di dinding yang menerangi area menggunakan listrik.Ini kurang kuat dari lampu kaki, tetapi dapat dipasang di dinding.</WallLamp.description>
+  
+</LanguageData>

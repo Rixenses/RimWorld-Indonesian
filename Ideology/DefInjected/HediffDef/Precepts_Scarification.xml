@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scarification -->
+  <Scarification.label>scarifikasi</Scarification.label>
+  <!-- EN: An artistic scar carefully carved into the flesh for ritual or artistic purposes. -->
+  <Scarification.description>Luka artistik yang dipahat dengan hati-hati pada daging untuk tujuan ritual atau seni.</Scarification.description>
+  <!-- EN: scarification -->
+  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>scarifikasi</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a scarification -->
+  <Scarification.labelNoun>scarifikasi</Scarification.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Scarification.labelNounPretty>{0} dari {1}</Scarification.labelNounPretty>
+  
+</LanguageData>

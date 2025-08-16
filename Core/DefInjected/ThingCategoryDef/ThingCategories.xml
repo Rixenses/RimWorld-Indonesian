@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>Hewan Origen</AnimalProductRaw.label>
+  
+  <!-- EN: animals -->
+  <Animals.label>Hewan</Animals.label>
+  
+  <!-- EN: apparel -->
+  <Apparel.label>pakaian</Apparel.label>
+  
+  <!-- EN: armor -->
+  <ApparelArmor.label>baja</ApparelArmor.label>
+  
+  <!-- EN: misc -->
+  <ApparelMisc.label>aneka ragam</ApparelMisc.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>Pakaian mulia</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>kegunaan</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>helm</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>Artefak</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>Bagian tubuh</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>Archeoteca</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>Bionik</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>Teknologi Mekah</BodyPartsMechtech.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>alami</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>prostetik</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>sederhana</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>Ultrathcnological</BodyPartsUltra.label>
+  
+  <!-- EN: bookEffects -->
+  <BookEffects.label>Bookeffects</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>buku</Books.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>bangunan</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>seni</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>mebel</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>seru</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>beberapa</BuildingsMisc.label>
+  
+  <!-- EN: power -->
+  <BuildingsPower.label>energi</BuildingsPower.label>
+  
+  <!-- EN: production -->
+  <BuildingsProduction.label>produksi</BuildingsProduction.label>
+  
+  <!-- EN: security -->
+  <BuildingsSecurity.label>keamanan</BuildingsSecurity.label>
+  
+  <!-- EN: special -->
+  <BuildingsSpecial.label>khusus</BuildingsSpecial.label>
+  
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>suhu</BuildingsTemperature.label>
+  
+  <!-- EN: chunks -->
+  <Chunks.label>bagian-bagian</Chunks.label>
+  
+  <!-- EN: corpses -->
+  <Corpses.label>mayat</Corpses.label>
+  
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>Mayat Hewan</CorpsesAnimal.label>
+  
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>Mayat humanoid</CorpsesHumanlike.label>
+  
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>Mayat insektoid</CorpsesInsect.label>
+  
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>Tubuh mecanoid</CorpsesMechanoid.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>obat</Drugs.label>
+  
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>Telur (fert.)</EggsFertilized.label>
+  
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>Telur (tidak fert.)</EggsUnfertilized.label>
+  
+  <!-- EN: meals -->
+  <FoodMeals.label>makanan</FoodMeals.label>
+  
+  <!-- EN: raw food -->
+  <FoodRaw.label>Makanan mentah</FoodRaw.label>
+  
+  <!-- EN: foods -->
+  <Foods.label>makanan</Foods.label>
+  
+  <!-- EN: grenades -->
+  <Grenades.label>granat</Grenades.label>
+  
+  <!-- EN: headgear -->
+  <Headgear.label>Topi</Headgear.label>
+  
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>Topi</HeadgearNoble.label>
+  
+  <!-- EN: inert relics -->
+  <InertRelics.label>sisa lembam</InertRelics.label>
+  
+  <!-- EN: items -->
+  <Items.label>objek</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>aneka ragam</ItemsMisc.label>
+  
+  <!-- EN: leathers -->
+  <Leathers.label>Kulit</Leathers.label>
+  
+  <!-- EN: manufactured -->
+  <Manufactured.label>Pabrikan</Manufactured.label>
+  
+  <!-- EN: meat -->
+  <MeatRaw.label>Carne</MeatRaw.label>
+  
+  <!-- EN: medicine -->
+  <Medicine.label>obat</Medicine.label>
+  
+  <!-- EN: mortar shells -->
+  <MortarShells.label>proyektil mortir</MortarShells.label>
+  
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>Neuroentreners</Neurotrainers.label>
+  
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>Psycho -Child</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>bankir</NeurotrainersSkill.label>
+  
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>sayuran</PlantFoodRaw.label>
+  
+  <!-- EN: plant matter -->
+  <PlantMatter.label>Materi tanaman</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>tanaman</Plants.label>
+  
+  <!-- EN: research -->
+  <ResearchGain.label>penyelidikan</ResearchGain.label>
+  
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>bahan baku</ResourcesRaw.label>
+  
+  <!-- EN: root -->
+  <Root.label>akar</Root.label>
+  
+  <!-- EN: skill gain -->
+  <SkillGain.label>Keuntungan keterampilan</SkillGain.label>
+  
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>Blok batu</StoneBlocks.label>
+  
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>Potongan Batu</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>tunggul</Stumps.label>
+  
+  <!-- EN: techprints -->
+  <Techprints.label>Tecnoplanos</Techprints.label>
+  
+  <!-- EN: textiles -->
+  <Textiles.label>tekstil</Textiles.label>
+  
+  <!-- EN: unfinished -->
+  <Unfinished.label>Tanpa selesai</Unfinished.label>
+  
+  <!-- EN: weapons -->
+  <Weapons.label>Armas</Weapons.label>
+  
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>Senjata jarak dekat</WeaponsMelee.label>
+  
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>senjata tepi tertaut</WeaponsMeleeBladelink.label>
+  
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>senjata jarak jauh</WeaponsRanged.label>
+  
+  <!-- EN: unique weapons -->
+  <WeaponsUnique.label>senjata unik</WeaponsUnique.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>mutch</Wools.label>
+  
+</LanguageData>

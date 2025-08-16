@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>malnutrisi</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>Menunjukkan berat badan yang tidak normal dan lemak tubuh yang rendah, biasanya disebabkan oleh kekurangan makanan. Kekurangan gizi selalu sangat tidak menyenangkan, tetapi efek awalnya ringan. Tanpa makanan, makhluk yang kekurangan gizi akan terbuang sia-sia, kehilangan massa otot dan kemampuannya. Jika dibiarkan tanpa penanganan, ia akan mati, dan setelah diberi makan lagi, pada akhirnya akan pulih kembali. Makhluk yang kekurangan gizi memiliki nafsu makan yang lebih besar dari biasanya.</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>minimum</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>lampu</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>sedang</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>parah</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>ekstrim</Malnutrition.stages.extreme.label>
+  
+</LanguageData>

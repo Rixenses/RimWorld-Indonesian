@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>obat yang diberikan</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>pemberian obat keras</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>memberikan obat rekreasi</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>makan daging manusia</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>membangun gedung</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>pekerja yang ditolak</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>pohon yang ditebang</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>dinding alami yang hancur</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>menggunakan narkoba</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>menggunakan obat keras</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>menggunakan obat rekreasi</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>Prosthesis terpasang</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>ditambang</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>pohon mati</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>riset</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>tanaman pangan yang ditanam</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>menabur tanaman</SowedPlant.label>
+  
+</LanguageData>

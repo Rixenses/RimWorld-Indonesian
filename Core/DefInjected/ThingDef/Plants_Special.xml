@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned stump -->
+  <BurnedTree.label>Pohon yang terbakar</BurnedTree.label>
+  <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
+  <BurnedTree.description>Pohon yang terbakar.Itu jelek dan tidak menghasilkan kayu yang dapat digunakan.</BurnedTree.description>
+  
+  <!-- EN: chopped stump -->
+  <ChoppedStump.label>potong pohon</ChoppedStump.label>
+  <!-- EN: A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump.description>Sebuah tunggul pohon yang telah tumbang.Tunggul dapat dihilangkan tetapi akan menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan itu akan memburuk seiring waktu.</ChoppedStump.description>
+  
+  <!-- EN: dye -->
+  <Dye.label>warna</Dye.label>
+  <!-- EN: Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more. -->
+  <Dye.description>Pewarna diekstraksi dari tanaman Tintoria.Ini dapat digunakan untuk mengubah warna dinding, konstruksi dan banyak lagi.</Dye.description>
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_Ambrosia.label>Ambrosia Shrub</Plant_Ambrosia.label>
+  <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_Ambrosia.description>Bush liar yang langka yang menghasilkan buah ambrosia.Ambrosia lezat dan menghasilkan peningkatan humor yang mirip dengan obat -obatan. Ambrosia tidak dapat dibudidayakan, yang menyebabkan pohon pohon menjadi sangat berharga.</Plant_Ambrosia.description>
+  
+  <!-- EN: timbershroom -->
+  <Plant_Timbershroom.label>Gaya</Plant_Timbershroom.label>
+  <!-- EN: A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance. -->
+  <Plant_Timbershroom.description>Jamur tinggi dan coklat dengan batang panjang.Saat memanen, itu menghasilkan zat seperti kayu.</Plant_Timbershroom.description>
+  
+  <!-- EN: tinctoria -->
+  <Plant_Tinctoria.label>pewarna</Plant_Tinctoria.label>
+  <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
+  <Plant_Tinctoria.description>Budaya rekayasa genetika mirip dengan bunga yang memisahkan pewarna yang dapat diubah secara otomatis.Pewarna Tintoria dapat diwarnai dalam berbagai warna dan digunakan untuk mengubah warna dinding, bangunan, dll.</Plant_Tinctoria.description>
+  
+  <!-- EN: smashed stump -->
+  <SmashedStump.label>Tunggul hancur</SmashedStump.label>
+  <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump.description>Sisa -sisa pohon yang dihancurkan oleh kerusakan.Itu jelek.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, itu akan memburuk seiring waktu.</SmashedStump.description>
+  
+</LanguageData>

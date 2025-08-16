@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>DeliveredLetTerLabel-> Misterius Cargo</li>
+    <li>DeliveredLetTerText (PawnonMap == True)-> The Mysterious Cargo telah dikirimkan.Ini adalah kubus sederhana yang bersinar seperti emas tetapi tidak mungkin untuk menggaruk.Itu ringan dan hangat saat disentuh.Cara cahaya bermain di permukaannya menawan. \ N \ n [Pawn_namedef] terasa tak dapat dijelaskan tertarik pada kubus.</li>
+    <li>DeliveredLetTerText (pawnonmap == false)-> The Mysterious Cargo telah dikirimkan.Ini adalah kubus sederhana yang bersinar seperti emas tetapi tidak mungkin untuk menggaruk.Itu ringan dan hangat saat disentuh.Cara cahaya bermain di permukaannya menawan.</li>-><MysteriousCargoCube.questContentRules.rulesStrings>
+    <li>Deliveredletterlabel-> The Mysterious Cargo</li>
+    <li>DeliveredLetText (pawnonmap == true)-> The Mysterious Cargo telah dikirimkan.Ini adalah ember sederhana yang bersinar seperti emas, tetapi tidak mungkin untuk menggaruk.Itu ringan dan hangat saat disentuh. Cara cahaya bermain di permukaannya menawan.</li>
+    <li>DeliveredLetText (PawnonMap == false)-> The Mysterious Cargo telah dikirimkan.Ini adalah ember sederhana yang bersinar seperti emas, tetapi tidak mungkin untuk menggaruk.Itu ringan dan hangat saat disentuh.Cara cahaya bermain di permukaannya menawan.</li>
+  </MysteriousCargoCube.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> AI anonim telah menjangkau dengan permintaan aneh.Ingin Anda menerima kargo yang tidak ditentukan.Ini menghindari semua pertanyaan Anda tentang kargo. \ N \ nif yang Anda terima, itu akan memberikan misteri kargo dengan pod transport.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] memiliki permintaan ganjil.[asker_pronoun] ingin Anda menerima kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name] memiliki permintaan aneh.[asker_pronoun] menuntut Anda menerima beberapa kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>-><MysteriousCargoCube.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Anonim telah tiba dengan permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.AI menghindari semua pertanyaan Anda tentang beban.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefulull], [asker_a] [asker_faction_leadertitle] dari faksi [asker_faction_name], memiliki permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+    <li>QuestDescription (asker_royalincurrentFaction == true)-> [asker_namepul] [asker_a] [asker_royaltitlecurrentfaction], dari faksi [asker_faction_name], memiliki permintaan yang aneh.Itu mengharuskan Anda untuk menerima kargo yang tidak diperjual.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+  </MysteriousCargoCube.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Cargo Misterius</li>-><MysteriousCargoCube.questNameRules.rulesStrings>
+    <li>QuestName-> The Mysterious Cargo</li>
+  </MysteriousCargoCube.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>DeliveredLetTerLabel-> Misterius Cargo</li>
+    <li>DeliveredLetTerText-> The Mysterious Cargo telah dikirimkan.Ini menyerupai tulang belakang manusia tebal dan bergerigi yang terbuat dari logam hitam kasar.Sepertinya itu ditutupi dengan cairan gelap. \ N \ n Tulang belakang bergetar sebagai respons terhadap sentuhan dan memutar dengan marah.Anda dapat mempelajarinya pada platform penampung untuk mempelajari lebih lanjut.</li>-><MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+    <li>Deliveredletterlabel-> The Mysterious Cargo</li>
+    <li>DeliverEdleText-> The Mysterious Cargo telah dikirimkan.Sepertinya tebal dan gigi yang terbuat dari logam hitam kotor yang dibuat.Tampaknya ditutupi dengan cairan gelap. \ N \ nla tulang belakang bergetar sebagai respons terhadap sentuhan dan putar dengan kemarahan.Anda dapat mempelajarinya pada platform penahanan untuk mengetahui lebih banyak.</li>
+  </MysteriousCargoRevenantSpine.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> AI anonim telah menjangkau dengan permintaan aneh.Ingin Anda menerima kargo yang tidak ditentukan.Ini menghindari semua pertanyaan Anda tentang kargo. \ N \ nif yang Anda terima, itu akan memberikan misteri kargo dengan pod transport.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] memiliki permintaan ganjil.[asker_pronoun] ingin Anda menerima kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name] memiliki permintaan aneh.[asker_pronoun] menuntut Anda menerima beberapa kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>-><MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Anonim telah tiba dengan permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.AI menghindari semua pertanyaan Anda tentang beban.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefulull], [asker_a] [asker_faction_leadertitle] dari faksi [asker_faction_name], memiliki permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+    <li>QuestDescription (asker_royalincurrentFaction == true)-> [asker_namepul] [asker_a] [asker_royaltitlecurrentfaction], dari faksi [asker_faction_name], memiliki permintaan yang aneh.Itu mengharuskan Anda untuk menerima kargo yang tidak diperjual.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+  </MysteriousCargoRevenantSpine.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Cargo Misterius</li>-><MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+    <li>QuestName-> The Mysterious Cargo</li>
+  </MysteriousCargoRevenantSpine.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>DeliveredLetTerLabel-> Misterius Cargo</li>
+    <li>DeliveredLetTerText (PawnonMap == True)-> The Mysterious Cargo telah dikirimkan.Tampaknya menjadi mayat manusia. \ N \ non -inspeksi lebih lanjut, mayat tampak identik dengan [Pawn_namedef].Kulitnya terasa lilin dan hangat saat disentuh.[Pawn_namedef] sangat gelisah dengan kehadirannya.</li>
+    <li>DeliveredLetTerText (pawnonmap == false)-> The Mysterious Cargo telah dikirimkan.Tampaknya menjadi mayat manusia. \ N \ non -inspeksi lebih lanjut, mayat tampak identik dengan [Pawn_namedef].Kulitnya terasa lilin dan hangat saat disentuh.[Pawn_namedef] akan sangat gelisah dengan kehadirannya.</li>-><MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+    <li>Deliveredletterlabel-> The Mysterious Cargo</li>
+    <li>DeliveredLetText (pawnonmap == true)-> The Mysterious Cargo telah dikirimkan.Tampaknya itu adalah tubuh manusia. \ N \ nen inspeksi yang lebih rinci, tubuh tampaknya identik dengan [Pawn_namedef].Kulit Anda cerosa dan hangat untuk disentuh.[Pawn_namedef] sangat gelisah [Pawn_o_a] untuk kehadirannya. \ n \ nestudia tubuh untuk mengetahui lebih banyak tentang itu.</li>
+    <li>DeliveredLetText (PawnonMap == false)-> The Mysterious Cargo telah dikirimkan.Tampaknya itu adalah tubuh manusia. \ N \ nen inspeksi yang lebih rinci, tubuh tampaknya identik dengan [Pawn_namedef].Kulit Anda cerosa dan hangat untuk disentuh.[Pawn_namedef] sangat gelisah [Pawn_o_a] untuk kehadirannya \ n \ nestudia tubuh untuk mengetahui lebih banyak tentang hal itu.</li>
+  </MysteriousCargoUnnaturalCorpse.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> AI anonim telah menjangkau dengan permintaan aneh.Ingin Anda menerima kargo yang tidak ditentukan.Ini menghindari semua pertanyaan Anda tentang kargo. \ N \ nif yang Anda terima, itu akan memberikan misteri kargo dengan pod transport.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] memiliki permintaan ganjil.[asker_pronoun] ingin Anda menerima kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name] memiliki permintaan aneh.[asker_pronoun] menuntut Anda menerima beberapa kargo yang tidak ditentukan.Ketika ditekan untuk detail lebih lanjut, [asker_pronoun] menghindari pertanyaan.Ada keputusasaan dalam suara [asker_possessive]. \ N \ nif Anda menerima, [asker_namefull] akan mengirimkan muatan misteri dengan pod transport.</li>-><MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Anonim telah tiba dengan permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.AI menghindari semua pertanyaan Anda tentang beban.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefulull], [asker_a] [asker_faction_leadertitle] dari faksi [asker_faction_name], memiliki permintaan yang aneh.Dia ingin Anda menerima kargo yang ditentukan PBB.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+    <li>QuestDescription (asker_royalincurrentFaction == true)-> [asker_namepul] [asker_a] [asker_royaltitlecurrentfaction], dari faksi [asker_faction_name], memiliki permintaan yang aneh.Itu mengharuskan Anda untuk menerima kargo yang tidak diperjual.Ketika detail lebih lanjut diajukan, pertanyaannya menghindari. Anda merasa putus asa dengan suara Anda.</li>
+  </MysteriousCargoUnnaturalCorpse.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Cargo Misterius</li>-><MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+    <li>QuestName-> The Mysterious Cargo</li>
+  </MysteriousCargoUnnaturalCorpse.questNameRules.rulesStrings>
+  
+</LanguageData>

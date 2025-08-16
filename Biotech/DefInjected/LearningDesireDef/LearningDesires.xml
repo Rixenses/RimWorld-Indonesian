@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floor drawing -->
+  <Floordrawing.label>Mengecat tanah</Floordrawing.label>
+  <!-- EN: Draw designs on the ground using chalk. A cleaner will eventually remove the drawings. -->
+  <Floordrawing.description>Desain yang ditarik di tanah menggunakan kapur.Pembersih pada akhirnya dapat menghilangkan gambar.</Floordrawing.description>
+  
+  <!-- EN: lesson taking -->
+  <Lessontaking.label>Pelajaran</Lessontaking.label>
+  <!-- EN: An adult assigned to childcare will teach about various topics. This gives experience in skills. Requires a school desk. -->
+  <Lessontaking.description>Orang dewasa yang ditugaskan untuk perawatan seorang anak akan mengajarinya tentang beberapa topik.Ini akan memberi Anda pengalaman dalam keterampilan.Itu membutuhkan meja sekolah.</Lessontaking.description>
+  
+  <!-- EN: nature running -->
+  <NatureRunning.label>warga asli</NatureRunning.label>
+  <!-- EN: Explore the local outdoors. Requires access to the outdoors. -->
+  <NatureRunning.description>Jelajahi lokasi eksterior.Itu membutuhkan akses ke luar.</NatureRunning.description>
+  
+  <!-- EN: radio talking -->
+  <Radiotalking.label>Bicara di radio</Radiotalking.label>
+  <!-- EN: Chat with people over the radio. Requires a powered comms console. -->
+  <Radiotalking.description>Bicaralah dengan orang -orang melalui komunikasi radio.Itu membutuhkan konsol komunikasi Fed.</Radiotalking.description>
+  
+  <!-- EN: reading -->
+  <Reading.label>mengajukan</Reading.label>
+  <!-- EN: Find a book and practice reading. -->
+  <Reading.description>Temukan buku untuk dibaca.</Reading.description>
+  
+  <!-- EN: sky dreaming -->
+  <Skydreaming.label>Mimpi Melihat Langit</Skydreaming.label>
+  <!-- EN: Find a spot outside and watch the sky. Requires access to the outdoors. -->
+  <Skydreaming.description>Temukan tempat luar ruangan dan lihat langit.Itu membutuhkan akses ke luar.</Skydreaming.description>
+  
+  <!-- EN: work watching -->
+  <Workwatching.label>Amati pekerjaannya</Workwatching.label>
+  <!-- EN: Follow an adult and watch them as they work. This gives experience in skills. -->
+  <Workwatching.description>Ikuti orang dewasa dan amati cara mereka bekerja.Ini akan memberikan pengalaman dalam keterampilan.</Workwatching.description>
+  
+</LanguageData>

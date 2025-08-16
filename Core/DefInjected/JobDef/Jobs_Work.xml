@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>Menganalisis TargetA</AnalyzeItem.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <Arrest.reportString>Ditangkap di Tarjeta.</Arrest.reportString>
+  
+  <!-- EN: building roof. -->
+  <BuildRoof.reportString>Atap bangunan.</BuildRoof.reportString>
+  
+  <!-- EN: capturing TargetA. -->
+  <Capture.reportString>Menangkap Kartu.</Capture.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>kartu pemuatan.</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>kartu pemuatan.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>kartu pemuatan</CarryDownedPawnToPortal.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasket.reportString>Membawa ke Targeta ke Cryptosueño Sarkophagus.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>Membawa ke Targeta ke Cryptosueño Sarkophagus.</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>Ditangkap di Tarjeta.</CarryToPrisonerBedDrafted.reportString>
+  
+  <!-- EN: cleaning TargetA. -->
+  <Clean.reportString>kartu pembersih.</Clean.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlant.reportString>memotong targeta.</CutPlant.reportString>
+  
+  <!-- EN: cutting TargetA. -->
+  <CutPlantDesignated.reportString>memotong targeta.</CutPlantDesignated.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <Deconstruct.reportString>mendekonstruksi targeta.</Deconstruct.reportString>
+  
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>Kartu Pelucutan.</DeconstructForBlueprint.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <DeliverFood.reportString>memberi makan target dengan kartu.</DeliverFood.reportString>
+  
+  <!-- EN: doing bill at TargetA. -->
+  <DoBill.reportString>melakukan tugas pada kartu.</DoBill.reportString>
+  
+  <!-- EN: escorting prisoner TargetA. -->
+  <EscortPrisonerToBed.reportString>Tahanan Kartu Ekstravanding.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>Mengekstraksi tengkorak kartu</ExtractSkull.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>Mengekstraksi targeta.</ExtractTree.reportString>
+  
+  <!-- EN: feeding TargetA to TargetB. -->
+  <FeedPatient.reportString>memberi makan target dengan kartu.</FeedPatient.reportString>
+  
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>mengisi target.</FillIn.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <FinishFrame.reportString>Membangun Targeta.</FinishFrame.reportString>
+  
+  <!-- EN: replacing broken components in TargetA. -->
+  <FixBrokenDownBuilding.reportString>Ganti komponen kartu yang rusak.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>Mereka berlari ke kartu.</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>Hacking Targeta.</Hack.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>Menuai Targeta.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>Menuai Targeta.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>Mengangkut scarry.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>Mengangkut scarry.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>Kartu Cazando.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>Kartu penculikan.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>Target Meman susu.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>Minendo Targeta.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>Pengeboran kartu.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>memindai kartu.</OperateScanner.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>Kartu lukisan.</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>Kartu lukisan.</PaintFloor.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>Membangun Targeta.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>menanam target.</PlantSeed.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>Mereka mencoba merekrut kartu.</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>Mereka berlari ke kartu.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>melepaskan alam ke targeta.</ReleaseAnimalToWild.reportString>
+  
+  <!-- EN: releasing TargetA. -->
+  <ReleasePrisoner.reportString>Melepaskan scarry.</ReleasePrisoner.reportString>
+  
+  <!-- EN: removing floor. -->
+  <RemoveFloor.reportString>menghapus tanah.</RemoveFloor.reportString>
+  
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>menghapus yayasan.</RemoveFoundation.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>menghapus cat kartu.</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>menghapus cat kartu.</RemovePaintFloor.reportString>
+  
+  <!-- EN: removing roof. -->
+  <RemoveRoof.reportString>menghapus atap.</RemoveRoof.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <Repair.reportString>Kartu Perbaikan.</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>Mengganti TargetA.</Replant.reportString>
+  
+  <!-- EN: rescuing TargetA. -->
+  <Rescue.reportString>menyelamatkan kartu.</Rescue.reportString>
+  
+  <!-- EN: researching. -->
+  <Research.reportString>Investigasi.</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>membawa targeta ke titik memuat.</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>membawa TargetA ke TargetC.</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>membawa TargetA ke TargetC.</RopeToPen.reportString>
+  
+  <!-- EN: shearing TargetA. -->
+  <Shear.reportString>Rone ke kartu.</Shear.reportString>
+  
+  <!-- EN: slaughtering TargetA. -->
+  <Slaughter.reportString>mengorbankan scarry.</Slaughter.reportString>
+  
+  <!-- EN: smoothing floor. -->
+  <SmoothFloor.reportString>Smoothing Sello.</SmoothFloor.reportString>
+  
+  <!-- EN: smoothing wall. -->
+  <SmoothWall.reportString>meluruskan dinding Roca.</SmoothWall.reportString>
+  
+  <!-- EN: sowing TargetA. -->
+  <Sow.reportString>menabur target.</Sow.reportString>
+  
+  <!-- EN: stealing TargetA. -->
+  <Steal.reportString>mencuri kartu.</Steal.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyInteract.reportString>Kartu belajar.</StudyInteract.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyItem.reportString>Kartu belajar.</StudyItem.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>Targeta terkemuka ke tempat tidur.</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>Targeta terkemuka ke tempat tidur.</TakeToBedToOperate.reportString>
+  
+  <!-- EN: taking wounded prisoner TargetA. -->
+  <TakeWoundedPrisonerToBed.reportString>Mengambil target tahanan yang terluka itu.</TakeWoundedPrisonerToBed.reportString>
+  
+  <!-- EN: taming TargetA. -->
+  <Tame.reportString>domestik targeta.</Tame.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendPatient.reportString>Kartu Mengobati.</TendPatient.reportString>
+  
+  <!-- EN: training TargetA. -->
+  <Train.reportString>kartu pelatihan.</Train.reportString>
+  
+  <!-- EN: uninstalling TargetA. -->
+  <Uninstall.reportString>kartu uninstalling.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>Melepaskan Targeta.</Unrope.reportString>
+  
+  <!-- EN: using comms console. -->
+  <UseCommsConsole.reportString>menggunakan konsol komunikasi.</UseCommsConsole.reportString>
+  
+</LanguageData>

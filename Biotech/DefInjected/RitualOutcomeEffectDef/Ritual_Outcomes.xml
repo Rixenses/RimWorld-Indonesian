@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: All quality factors determine how healthy the mom and baby are going to be. -->
+  <ChildBirth.description>Semua faktor kualitas menentukan kesehatan ibu dan bayinya.</ChildBirth.description>
+  <!-- EN: {PAWN_labelShort}'s age -->
+  <ChildBirth.comps.0.label>Usia de {Pawn_labelshort}</ChildBirth.comps.0.label>
+  <!-- EN: mother's age -->
+  <ChildBirth.comps.0.labelAbstract>Usia ibu</ChildBirth.comps.0.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s medicine skill -->
+  <ChildBirth.comps.1.label>Keterampilan Kedokteran {Pawn_labelshort}</ChildBirth.comps.1.label>
+  <!-- EN: doctor's medicine skill -->
+  <ChildBirth.comps.1.labelAbstract>Keterampilan Kedokteran Dokter</ChildBirth.comps.1.labelAbstract>
+  <!-- EN: loved one present -->
+  <ChildBirth.comps.2.label>Dicintai hadir</ChildBirth.comps.2.label>
+  <!-- EN: loved one absent -->
+  <ChildBirth.comps.2.labelNotMet>Tidak ada</ChildBirth.comps.2.labelNotMet>
+  <!-- EN: indoors -->
+  <ChildBirth.comps.3.label>pedalaman</ChildBirth.comps.3.label>
+  <!-- EN: room cleanliness -->
+  <ChildBirth.comps.4.label>pembersihan kamar</ChildBirth.comps.4.label>
+  <!-- EN: bed health effects -->
+  <ChildBirth.comps.5.label>Efek kesehatan tempat tidur</ChildBirth.comps.5.label>
+  <!-- EN: Additionally, the mother will have a {0_percentage} chance to die during birth. -->
+  <ChildBirth.extraOutcomeDescriptions.0.description>Selain itu, ibu akan memiliki {0_percountage} probabilitas untuk mati selama persalinan.</ChildBirth.extraOutcomeDescriptions.0.description>
+  <!-- EN: Still -->
+  <ChildBirth.outcomeChances.0.label>mati</ChildBirth.outcomeChances.0.label>
+  <!-- EN: {MOTHER_labelShort}'s baby was stillborn. -->
+  <ChildBirth.outcomeChances.0.description>Bayi {mother_lallshort} lahir mati.</ChildBirth.outcomeChances.0.description>
+  <!-- EN: Sick -->
+  <ChildBirth.outcomeChances.1.label>sakit</ChildBirth.outcomeChances.1.label>
+  <!-- EN: {MOTHER_labelShort} gave birth to a baby. Unfortunately, the baby is sick. -->
+  <ChildBirth.outcomeChances.1.description>{Mother_labelshort} telah melahirkan bayi.Sayangnya, bayinya sakit.</ChildBirth.outcomeChances.1.description>
+  <!-- EN: Healthy -->
+  <ChildBirth.outcomeChances.2.label>sehat</ChildBirth.outcomeChances.2.label>
+  <!-- EN: {MOTHER_labelShort} gave birth to a healthy baby! -->
+  <ChildBirth.outcomeChances.2.description>{Mother_labelshort} telah melahirkan bayi yang sehat!</ChildBirth.outcomeChances.2.description>
+  
+</LanguageData>

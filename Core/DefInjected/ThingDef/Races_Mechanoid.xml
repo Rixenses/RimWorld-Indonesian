@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>Menghancurkan Centípedo</Mech_CentipedeBlaster.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBlaster.description>Mecanoides tempur berat yang meluncur di atas lusinan kaki kecil.Lapisan tebal dan kekuatan api mereka membuat mereka sangat efektif melawan pembela statis.Mereka rentan terhadap taktik memukul dan melarikan diri.</Mech_CentipedeBlaster.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBlaster.tools.head.label>kepala</Mech_CentipedeBlaster.tools.head.label>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>Cent Incendiary</Mech_CentipedeBurner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeBurner.description>Mecanoides tempur berat yang meluncur di atas lusinan kaki kecil.Cangkang tebal dan kekuatan api mereka membuat mereka sangat efektif terhadap pertahanan statis yang dikelompokkan.Mereka rentan terhadap serangan seluler dan taktik penerbangan.Mereka rentan terhadap taktik memukul dan melarikan diri.</Mech_CentipedeBurner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeBurner.tools.head.label>kepala</Mech_CentipedeBurner.tools.head.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>Centípeda Gunner</Mech_CentipedeGunner.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_CentipedeGunner.description>Mecanoides tempur berat yang meluncur di atas lusinan kaki kecil.Lapisan tebal dan kekuatan api mereka membuat mereka sangat efektif melawan pembela statis.Mereka rentan terhadap taktik memukul dan melarikan diri.</Mech_CentipedeGunner.description>
+  <!-- EN: head -->
+  <Mech_CentipedeGunner.tools.head.label>kepala</Mech_CentipedeGunner.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>Lancer</Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
+  <Mech_Lancer.description>Mecanoid tempur manusia dengan sensor optik besar di wajah untuk membidik senjata jarak jauh.Meskipun efektif pada kejauhan, lebih lemah dalam pertempuran jarak dekat.Veteran Perang Mecanoid tahu bahwa sering kali, yang paling aman melawan Lancer adalah memuat.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>Tinju kiri</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.left_fist.labelNoLocation>tinju</Mech_Lancer.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>kepalan tangan kanan</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Lancer.tools.right_fist.labelNoLocation>tinju</Mech_Lancer.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>kepala</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>Pikeman</Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
+  <Mech_Pikeman.description>Mekanid tempur canggung dari beberapa kaki khusus untuk menjadi platform senjata panjang.Meskipun efektif di kejauhan, itu lemah dalam pertempuran pada jarak pendek dan dalam pertempuran jarak dekat.</Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <Mech_Pikeman.tools.front_left_leg.label>Kaki depan kanan</Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>Pata</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Pikeman.tools.front_right_leg.label>Depan kiri</Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>Pata</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Pikeman.tools.head.label>kepala</Mech_Pikeman.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>lebih sulit</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Mecanoids tempur cepat, tipis dan manusia, berspesialisasi dalam pertempuran cepat dan pendek.Tubuh mereka ditutupi dengan ujung dan bilah, tetapi mereka kebanyakan menggunakan bilah kedua lengan mereka untuk memotong anggota atau membuat korban hidup mereka.</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>Bilah kiri</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.left_blade.labelNoLocation>bilah</Mech_Scyther.tools.left_blade.labelNoLocation>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>Bilah kanan</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Scyther.tools.right_blade.labelNoLocation>bilah</Mech_Scyther.tools.right_blade.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>kepala</Mech_Scyther.tools.head.label>
+  
+  <!-- EN: termite -->
+  <Mech_Termite.label>termita</Mech_Termite.label>
+  <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
+  <Mech_Termite.description>Mekanid ukuran sedang.Rayap berspesialisasi dalam menggali, menggali dan melintasi struktur defensif.Para pembela harus memutuskan apakah mereka mencoba menghilangkan rayap sebelum mereka dapat menggali pertahanan mereka, atau jika mereka membawanya ke tempat yang muncul.</Mech_Termite.description>
+  <!-- EN: head -->
+  <Mech_Termite.tools.head.label>kepala</Mech_Termite.tools.head.label>
+  
+</LanguageData>

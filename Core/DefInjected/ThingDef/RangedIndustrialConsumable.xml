@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: doomsday rocket -->
+  <Bullet_DoomsdayRocket.label>Roket apokaliptik</Bullet_DoomsdayRocket.label>
+  
+  <!-- EN: rocket -->
+  <Bullet_Rocket.label>roket</Bullet_Rocket.label>
+  
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.label>Peluncur roket apokaliptik</Gun_DoomsdayRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_DoomsdayRocket.description>Luncurkan satu -penggunaan yang memicu proyektil eksplosif besar.Baik melawan kelompok besar tujuan lemah. Itu menyebabkan kebakaran.</Gun_DoomsdayRocket.description>
+  <!-- EN: barrel -->
+  <Gun_DoomsdayRocket.tools.barrel.label>Canon</Gun_DoomsdayRocket.tools.barrel.label>
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>Peluncur roket apokaliptik</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.label>Triple Runcocohetes</Gun_TripleRocket.label>
+  <!-- EN: A single-use rocket launcher that fires three large-bore explosive rockets. Good against small groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_TripleRocket.description>Peluncur tunggal yang menggunakan sekelompok tiga bahan peledak kaliber besar.Baik melawan kelompok kecil target keras.</Gun_TripleRocket.description>
+  <!-- EN: barrel -->
+  <Gun_TripleRocket.tools.barrel.label>Canon</Gun_TripleRocket.tools.barrel.label>
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>Triple Runcocohetes</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  
+</LanguageData>

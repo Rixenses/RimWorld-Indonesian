@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulbfreak -->
+  <Bulbfreak.label>Púrtrido Engendro</Bulbfreak.label>
+  <!-- EN: A horrid oozing amalgamation of many smaller fleshbeasts, all controlled by a linked nervous system. It has two large claws which it uses to tear through its victims. Bulbfreaks are often smelled before they are seen, giving off an overwhelming odor of rancid meat. They are relatively slow and easy to kill, but once they die, they explode into a horde of smaller fleshbeasts. -->
+  <Bulbfreak.description>Amalgam yang mengerikan yang mengalir banyak binatang daging yang lebih kecil, semuanya dikendalikan oleh sistem saraf yang terhubung.Dia memiliki dua cakar besar yang dia gunakan untuk merobek korbannya.Púrtridos biasanya berbau sebelum terlihat, karena mereka mengeluarkan bau daging tengik yang luar biasa.Mereka relatif lambat dan mudah dibunuh, tetapi begitu mereka mati, mereka meledak dalam gerombolan daging yang lebih kecil.</Bulbfreak.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <Bulbfreak.comps.CompInspectStringEmergence.inspectString>Di Emergy de</Bulbfreak.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: tentacle -->
+  <Bulbfreak.tools.tentacle-0.label>sungut</Bulbfreak.tools.tentacle-0.label>
+  <!-- EN: tentacle -->
+  <Bulbfreak.tools.tentacle-1.label>sungut</Bulbfreak.tools.tentacle-1.label>
+  <!-- EN: tentacle -->
+  <Bulbfreak.tools.tentacle-2.label>sungut</Bulbfreak.tools.tentacle-2.label>
+  <!-- EN: tentacle -->
+  <Bulbfreak.tools.tentacle-3.label>sungut</Bulbfreak.tools.tentacle-3.label>
+  <!-- EN: tentacle -->
+  <Bulbfreak.tools.tentacle-4.label>sungut</Bulbfreak.tools.tentacle-4.label>
+  <!-- EN: head -->
+  <Bulbfreak.tools.head.label>kepala</Bulbfreak.tools.head.label>
+  
+  <!-- EN: dreadmeld -->
+  <Dreadmeld.label>Terrofusion</Dreadmeld.label>
+  <!-- EN: A gargantuan amalgamation of dozens of smaller fleshbeasts linked together by a loosely shared central nervous system. It uses its massive claws to dig tunnels through solid rock. Fleshbeast dreadmelds are rarely seen above ground, instead sheltering in caverns built from living flesh. They share a psychic connection with the flesh used to create their burrow. -->
+  <Dreadmeld.description>Amalgam chip dari lusinan carnibesties kecil yang dihubungkan oleh sistem saraf pusat yang umum.Gunakan cakarnya yang besar untuk menggali terowongan melalui batuan padat.Carnibesties jarang terlihat di permukaan, tetapi berlindung di gua -gua yang dibangun dengan daging hidup.Mereka berbagi hubungan psikis dengan daging yang digunakan untuk membuat liang mereka.</Dreadmeld.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <Dreadmeld.comps.CompInspectStringEmergence.inspectString>Di Emergy de</Dreadmeld.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: Dreadmeld released -->
+  <Dreadmeld.comps.CompLetterOnRevealed.label>Terrofusion dirilis</Dreadmeld.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered a fleshbeast dreadmeld! This mammoth creature seems to be made up of dozens of smaller fleshbeasts.\n\nIt appears to have some psychic connection to the fleshmass that supports this cavern. Killing it may destabilize the entire cave system. -->
+  <Dreadmeld.comps.CompLetterOnRevealed.text>Anda telah menemukan Carnibsty Terrofusion.Makhluk mamut ini tampaknya dibentuk oleh lusinan carnibesties yang lebih kecil.Pembunuhan dapat mengacaukan seluruh sistem gua.</Dreadmeld.comps.CompLetterOnRevealed.text>
+  <!-- EN: left spike -->
+  <Dreadmeld.tools.left_spike.label>Tusuk sate</Dreadmeld.tools.left_spike.label>
+  <!-- EN: spike -->
+  <Dreadmeld.tools.left_spike.labelNoLocation>mencubit</Dreadmeld.tools.left_spike.labelNoLocation>
+  <!-- EN: right spike -->
+  <Dreadmeld.tools.right_spike.label>Tusuk sate kanan</Dreadmeld.tools.right_spike.label>
+  <!-- EN: spike -->
+  <Dreadmeld.tools.right_spike.labelNoLocation>mencubit</Dreadmeld.tools.right_spike.labelNoLocation>
+  <!-- EN: head -->
+  <Dreadmeld.tools.head.label>kepala</Dreadmeld.tools.head.label>
+  
+  <!-- EN: fingerspike -->
+  <Fingerspike.label>Espigocanis</Fingerspike.label>
+  <!-- EN: A fleshy dog-sized creature with a single spiked limb. Despite their short legs, fingerspikes can move remarkably fast. -->
+  <Fingerspike.description>Makhluk berdaging dari ukuran anjing dengan satu anggota tubuh dengan tusuk sate.Meskipun kaki pendek mereka, Spygocanis dapat bergerak dengan kecepatan tinggi.</Fingerspike.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <Fingerspike.comps.CompInspectStringEmergence.inspectString>Di Emergy de</Fingerspike.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: spike -->
+  <Fingerspike.tools.spike.label>mencubit</Fingerspike.tools.spike.label>
+  <!-- EN: spike -->
+  <Fingerspike.tools.spike.labelNoLocation>mencubit</Fingerspike.tools.spike.labelNoLocation>
+  <!-- EN: head -->
+  <Fingerspike.tools.head.label>kepala</Fingerspike.tools.head.label>
+  
+  <!-- EN: toughspike -->
+  <Toughspike.label>Espigodurum</Toughspike.label>
+  <!-- EN: A fleshy man-sized creature with two spiked limbs and an armored carapace. Toughspikes throw hardened keratin spikes to take down victims from a distance.\n\nToughspike corpses will dissolve into puddles of liquefied flesh if they're not butchered quickly. -->
+  <Toughspike.description>Makhluk berdaging dari ukuran seorang pria dengan dua anggota badan dengan tusuk sate dan cangkang lapis baja.Espigodurum meluncurkan tusuk satin yang tidak berbahaya untuk menghancurkan korban mereka dari kejauhan.</Toughspike.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <Toughspike.comps.CompInspectStringEmergence.inspectString>Di Emergy de</Toughspike.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: left spike -->
+  <Toughspike.tools.left_spike.label>Tusuk sate</Toughspike.tools.left_spike.label>
+  <!-- EN: spike -->
+  <Toughspike.tools.left_spike.labelNoLocation>mencubit</Toughspike.tools.left_spike.labelNoLocation>
+  <!-- EN: right spike -->
+  <Toughspike.tools.right_spike.label>Tusuk sate kanan</Toughspike.tools.right_spike.label>
+  <!-- EN: spike -->
+  <Toughspike.tools.right_spike.labelNoLocation>mencubit</Toughspike.tools.right_spike.labelNoLocation>
+  <!-- EN: head -->
+  <Toughspike.tools.head.label>kepala</Toughspike.tools.head.label>
+  
+  <!-- EN: trispike -->
+  <Trispike.label>Espigotribus</Trispike.label>
+  <!-- EN: A man-sized amalgamation of several smaller fleshbeasts. Each of the creature's limbs is capable of surviving independently. On death, trispikes may split into separate fingerspikes as each limb rips free and attacks. -->
+  <Trispike.description>Sebuah campuran dari beberapa carnibesties yang lebih kecil seukuran seorang pria.Setiap anggota makhluk mampu bertahan secara mandiri.Saat sekarat, spyrotribus dapat dibagi menjadi spimani bahwa ketika mereka memisahkan setiap anggota dapat menyerang dengan bebas.</Trispike.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <Trispike.comps.CompInspectStringEmergence.inspectString>Di Emergy de</Trispike.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: left spike -->
+  <Trispike.tools.left_spike.label>Tusuk sate</Trispike.tools.left_spike.label>
+  <!-- EN: spike -->
+  <Trispike.tools.left_spike.labelNoLocation>mencubit</Trispike.tools.left_spike.labelNoLocation>
+  <!-- EN: right spike -->
+  <Trispike.tools.right_spike.label>Tusuk sate kanan</Trispike.tools.right_spike.label>
+  <!-- EN: spike -->
+  <Trispike.tools.right_spike.labelNoLocation>mencubit</Trispike.tools.right_spike.labelNoLocation>
+  <!-- EN: top spike -->
+  <Trispike.tools.top_spike.label>Tusuk sate atas</Trispike.tools.top_spike.label>
+  <!-- EN: spike -->
+  <Trispike.tools.top_spike.labelNoLocation>mencubit</Trispike.tools.top_spike.labelNoLocation>
+  <!-- EN: head -->
+  <Trispike.tools.head.label>kepala</Trispike.tools.head.label>
+  
+</LanguageData>

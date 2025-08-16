@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Hate chant drone level -->
+  <!-- EN: none -->
+  <HateChantDroneLevel_None>tidak ada</HateChantDroneLevel_None>
+  <!-- EN: whispers -->
+  <HateChantDroneLevel_VeryLow>berbisik</HateChantDroneLevel_VeryLow>
+  <!-- EN: quiet -->
+  <HateChantDroneLevel_Low>diam</HateChantDroneLevel_Low>
+  <!-- EN: moderate -->
+  <HateChantDroneLevel_Medium>sedang</HateChantDroneLevel_Medium>
+  <!-- EN: loud -->
+  <HateChantDroneLevel_High>bising</HateChantDroneLevel_High>
+  <!-- EN: extreme -->
+  <HateChantDroneLevel_Extreme>ekstrim</HateChantDroneLevel_Extreme>
+
+  <!-- EN: Disabled -->
+  <MonolithGenerationMethod_Disabled>Dengan disabilitas</MonolithGenerationMethod_Disabled>
+  <!-- EN: Near colonists -->
+  <MonolithGenerationMethod_NearColonists>Pemukim terdekat</MonolithGenerationMethod_NearColonists>
+
+</LanguageData>

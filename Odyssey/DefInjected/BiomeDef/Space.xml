@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbit -->
+  <Orbit.label>orbit</Orbit.label>
+  <!-- EN: Empty space a few hundred kilometers above the surface of the world. -->
+  <Orbit.description>Ruang kosong beberapa ratus kilometer di permukaan dunia.</Orbit.description>
+  
+  <!-- EN: space -->
+  <Space.label>ruang angkasa</Space.label>
+  <!-- EN: Empty void. -->
+  <Space.description>Kekosongan total.</Space.description>
+  
+</LanguageData>

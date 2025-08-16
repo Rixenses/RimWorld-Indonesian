@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
+  <Castaway57.description>PAWN_namaDef] adalah satu-satunya orang yang selamat dari kecelakaan kapalnya di dunia hewan. Selama bertahun-tahun sebelum dia direkatad{PAWN_jenis_kelamin ? or : a}, dia berhasil bertahan hidup dengan apa pun yang bisa dia temukan. Kemampuan bertahan hidupnya semakin terasah, namun menghabiskan begitu banyak waktu sendirian{PAWN_jenis_kelamin ? or : a} sangat mempengaruhi kemampuan komunikasinya.</Castaway57.description>
+  <!-- EN: castaway -->
+  <Castaway57.title>terbuang</Castaway57.title>
+  <Castaway57.titleFemale>terbuang</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>terbuang</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>terbuang</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.description>Di antara para penggali terowongan, mereka yang memiliki penglihatan sekuat [PAWN_namaDef] dihormati sebagai orang yang bijak. [PAWN_kata ganti] menandai jalan, menunjukkan tempat untuk menggali dengan jamur bioluminescent dan mengingatkan orang lain akan bahaya yang akan datang.</CaveworldIlluminator95.description>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>Gua Illuminator</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>Gua Illuminator</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>Menerangi</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>Menerangi</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.description>[PAWN_NAMEDef] berpartisipasi dalam penyelesaian planet koloni.</ColonySettler53.description>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>pemukim</ColonySettler53.title>
+  <ColonySettler53.titleFemale>usus besar</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>pemukim</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>usus besar</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.description>[PAWN_namaDef] melakukan pekerjaan kotor dan melelahkan untuk menambang logam dari asteroid di platform luar angkasa yang dalam. [PAWN_nama_kata ganti] menggunakan keterampilan industrinya setiap hari dan juga tidak terlalu buruk dalam perkelahian di bar.</DeepSpaceMiner3.description>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>penambang ruang angkasa</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleFemale>penambangan ruang angkasa</DeepSpaceMiner3.titleFemale>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>penambang</DeepSpaceMiner3.titleShort>
+  <DeepSpaceMiner3.titleShortFemale>Minera</DeepSpaceMiner3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.description>[PAWN_NamaDef] melakukan pekerjaan kasar dan tidak terampil di sebuah pabrik industri. Pekerjaannya juga termasuk menjaga keledai dan kuda yang mengangkut barang.</FactoryWorker58.description>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>pekerja pabrik</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>pekerja pabrik</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>karyawan</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>karyawan</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.description>[PAWN_nameDef] memiliki ingatan yang sangat baik dan bakat untuk melakukan perhitungan yang rumit di kepalanya. Seorang diktator di dunia industri memutuskan untuk mempekerjakannya untuk menjalankan keuangan negara, karena komputer terlalu rentan terhadap peretasan.</HumanComputer83.description>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>komputer manusia</HumanComputer83.title>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>komputer</HumanComputer83.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.description>[PAWN_nameDef] bekerja di laboratorium di dunia perkotaan yang mengembangkan program wire joy mutakhir untuk memaksimalkan kesenangan pengguna. Ketika pemerintah setempat memberlakukan pembatasan ketat terhadap pembuatan wire joy, dia mulai menjual produknya di pasar gelap.</JoywireArtist8.description>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>seniman kawat yang menyenangkan</JoywireArtist8.title>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>kebahagiaan</JoywireArtist8.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.description>[PAWN_NamaDef] adalah anggota tingkat tinggi dari sindikat kriminal di dunia perkotaan. [PAWN_kata ganti] menyuap para petugas, menjaga kesetiaan bawahannya, dan meminta bayaran dengan cara apa pun.</MafiaBoss17.description>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>Bos Mafia</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>Bos Mafia</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>kepala</MafiaBoss17.titleShort>
+  <MafiaBoss17.titleShortFemale>Kepala</MafiaBoss17.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.description>[PAWN_nameDef] menghabiskan sebagian besar masa dewasanya di rumah sakit jiwa. Dunia industrinya memiliki pemahaman yang buruk tentang penyakit mental, dan dia diperlakukan lebih seperti binatang daripada manusia. Meskipun akhirnya dia pulih dan mendapatkan kebebasan, pengalamannya menghalangi perkembangan normal keterampilan dasarnya.</PsychiatricPatient94.description>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>pasien kejiwaan</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleFemale>pasien kejiwaan</PsychiatricPatient94.titleFemale>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>pasien</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>pasien</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.description>[PAWN_namaDef] adalah {PAWN_jenis_kelamin ? penegak hukum di sebuah kota industri yang terpencil. Dia dikenal memiliki sikap arogan dan tatapan yang tajam. Dia menolak untuk mengangkat satu jari pun kecuali untuk uang, alkohol, atau balas dendam.</Sheriff52.description>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>Sheriff</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>Sheriff</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.description>[PAWN_namaDef] bergabung dengan angkatan laut luar angkasa di sistem yang tidak stabil, yang terganggu oleh perang antar planet berskala besar. [PAWN_kata ganti] ternyata memiliki pikiran yang tajam untuk bertempur, dan menjadi ahli {PAWN_jenis kelamin ? a} dalam memimpin unit tempur dengan sangat baik.</SpaceTactician28.description>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>Ahli strategi luar luar</SpaceTactician28.title>
+  <SpaceTactician28.titleFemale>Ahli strategi luar luar</SpaceTactician28.titleFemale>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>guru</SpaceTactician28.titleShort>
+  <SpaceTactician28.titleShortFemale>guru</SpaceTactician28.titleShortFemale>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.description>Sementara penumpang lain menghabiskan waktu bertahun-tahun di antara tata surya dengan tidur nyenyak di sarkofagus cryptosleep mereka, [PAWN_nameDef] harus bangun secara berkala untuk melakukan pemeriksaan, memeriksa sistem navigasi, dan memberi oli pada mekanoid.</StarshipJanitor33.description>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>Penjaga gudang</StarshipJanitor33.title>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>pengurus</StarshipJanitor33.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] traveled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.description>[PAWN_nameDef] melakukan perjalanan antar sistem, mempelajari dan mengklasifikasikan tanaman dan hewan yang ia temui dengan harapan dapat menciptakan katalog lengkap kehidupan.</Taxonomist0.description>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>ahli taksonomi</Taxonomist0.title>
+  <Taxonomist0.titleFemale>ahli taksonomi</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>ahli taksonomi</Taxonomist0.titleShort>
+  <Taxonomist0.titleShortFemale>ahli taksonomi</Taxonomist0.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.description>[PAWN_nameDef] berfungsi sebagai drone konstruksi yang tidak memiliki pemikiran di dunia perkotaan yang luas. Meskipun dia sekarang bebas dari eksperimen sosial brutal yang menjadi sasarannya, dia masih belum mampu berpikir kreatif dan memimpin.</UrbworldDrone32.description>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>drone perkotaan</UrbworldDrone32.title>
+  <UrbworldDrone32.titleFemale>drone perkotaan</UrbworldDrone32.titleFemale>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>pesawat tak berawak</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.description>Di dunia perkotaan, sebagian besar menderita. Tetapi seseorang harus memimpin perusahaan. [PAWN_NamaDef] mempelajari keterampilan perdagangan, penyuapan, dan analisis teknisnya. Dia adalah mesin sosio-intelektual.</UrbworldEntrepreneur14.description>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>pengusaha perkotaan</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleFemale>pengusaha perkotaan</UrbworldEntrepreneur14.titleFemale>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>pengusaha</UrbworldEntrepreneur14.titleShort>
+  <UrbworldEntrepreneur14.titleShortFemale>pengusaha</UrbworldEntrepreneur14.titleShortFemale>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.description>Sebagian besar orang di dunia [PAWN_nameDef] melepaskan individualitas mereka untuk bersatu dalam sarang online. [PAWN_nameDef] bergabung dengan faksi pemberontak yang menolak teknologi sama sekali.</UrbworldRebel56.description>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>pemberontak perkotaan</UrbworldRebel56.title>
+  <UrbworldRebel56.titleFemale>pemberontak perkotaan</UrbworldRebel56.titleFemale>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>pemberontak</UrbworldRebel56.titleShort>
+  
+</LanguageData>

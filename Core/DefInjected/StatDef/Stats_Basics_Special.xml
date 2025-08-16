@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cleaning time multiplier -->
+  <CleaningTimeFactor.label>Pengganda Waktu Pembersihan</CleaningTimeFactor.label>
+  <!-- EN: A multiplier on how long it takes to clean filth from this surface. -->
+  <CleaningTimeFactor.description>Pengganda waktu yang membersihkan kotoran permukaan ini.</CleaningTimeFactor.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>Kecepatan konstruksi</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>Kecepatan di mana konstruksi yang dibangun dengan bahan ini dikalikan dengan nilai ini.Beberapa bahan, seperti batu, lambat dibangun, sementara yang lain, seperti kayu, cepat.</ConstructionSpeedFactor.description>
+  <!-- EN: construction speed (material factor) -->
+  <ConstructionSpeedFactor.labelForFullStatList>Kecepatan konstruksi (faktor material)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: filth multiplier -->
+  <FilthMultiplier.label>pengali tanah</FilthMultiplier.label>
+  <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. This only applies to organic filth. -->
+  <FilthMultiplier.description>Betapa rentannya permukaan ini terhadap tanah.Jika ini kurang dari 100%, bagian dari tanah yang disimpan di sini akan hilang.</FilthMultiplier.description>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>potensi medis</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Hal yang efektif adalah digunakan untuk mengobati luka dan penyakit, atau untuk melakukan operasi.</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>kualitas perawatan medis maksimum</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>Kualitas tertinggi dalam perawatan medis yang dapat dicapai dengan penggunaannya.</MedicalQualityMax.description>
+  
+  <!-- EN: meditation psyfocus bonus -->
+  <MeditationFocusStrength.label>Bonus pSifoco saat bermeditasi</MeditationFocusStrength.label>
+  <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
+  <MeditationFocusStrength.description>Kuantitas psifoca ekstra yang didapat seseorang ketika berkonsentrasi pada objek ini selama meditasi, di samping laju dasar mereka sendiri dari gain psifoco.</MeditationFocusStrength.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatString>{0} / día</MeditationFocusStrength.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / día</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <!-- EN: neural heat limit offset -->
+  <PsychicEntropyMaxOffset.label>Mod.batas c.saraf</PsychicEntropyMaxOffset.label>
+  <!-- EN: An offset applied to the user's neural heat limit. -->
+  <PsychicEntropyMaxOffset.description>Penyesuaian yang diterapkan pada batas pemanasan saraf pengguna.</PsychicEntropyMaxOffset.description>
+  
+  <!-- EN: neural heat recovery rate offset -->
+  <PsychicEntropyRecoveryRateOffset.label>mod.tingkat reg.dari c.saraf</PsychicEntropyRecoveryRateOffset.label>
+  <!-- EN: An offset applied to the user's neural heat recovery rate. -->
+  <PsychicEntropyRecoveryRateOffset.description>Pengubah yang diterapkan pada tingkat regenerasi pemanas saraf pengguna.</PsychicEntropyRecoveryRateOffset.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRateOffset.formatString>{0}/s</PsychicEntropyRecoveryRateOffset.formatString>
+  
+  <!-- EN: psychic sensitivity factor -->
+  <PsychicSensitivityFactor.label>Faktor sensitivitas psikis</PsychicSensitivityFactor.label>
+  <!-- EN: A factor applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityFactor.description>Faktor yang diterapkan pada sensitivitas psikis pengguna.</PsychicSensitivityFactor.description>
+  
+  <!-- EN: psychic sensitivity offset -->
+  <PsychicSensitivityOffset.label>Pengubah sensitivitas psikis</PsychicSensitivityOffset.label>
+  <!-- EN: An offset applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityOffset.description>Modifikasi yang diterapkan pada sensitivitas psikis pengguna.</PsychicSensitivityOffset.description>
+  
+</LanguageData>

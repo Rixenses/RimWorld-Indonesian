@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ability -->
+  <Ability.label>Kemampuan</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>Produktivitas hewan</AnimalProductivity.label>
+  
+  <!-- EN: animal -->
+  <Animals.label>Hewan</Animals.label>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>Pakaian</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Dasar</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsImportant.label>Dasar</BasicsImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Dasar</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>Dasar</BasicsNonPawnImportant.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Dasar</BasicsPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>Dasar</BasicsPawnImportant.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Konstruksi</Building.label>
+  
+  <!-- EN: effects -->
+  <CapacityEffects.label>efek</CapacityEffects.label>
+  
+  <!-- EN: Drug -->
+  <Drug.label>Obat</Drug.label>
+  
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>Kecanduan narkoba</DrugAddiction.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Variasi saat melengkapi</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>Genetika</Genetics.label>
+  
+  <!-- EN: Implant -->
+  <Implant.label>Menanamkan</Implant.label>
+  
+  <!-- EN: Mechanoid -->
+  <Mechanoid.label>Mecanoide</Mechanoid.label>
+  
+  <!-- EN: Meditation -->
+  <Meditation.label>Meditasi</Meditation.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>Bertarung</PawnCombat.label>
+  
+  <!-- EN: Food -->
+  <PawnFood.label>Makanan</PawnFood.label>
+  
+  <!-- EN: Health -->
+  <PawnHealth.label>Kesehatan</PawnHealth.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Beberapa</PawnMisc.label>
+  
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>Psychophocked</PawnPsyfocus.label>
+  
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>Resistensi dan kepekaan</PawnResistances.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Sosial</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>Pekerjaan</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>Asal konten</Source.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Pengganda untuk peralatan bahan ini</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Pengganda yang harus dibuat dari ini</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Variasi yang dibuat dari materi ini</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Bedah</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>tanah</Terrain.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Arma</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Senjata (Melee)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Senjata (di kejauhan)</Weapon_Ranged.label>
+  
+</LanguageData>

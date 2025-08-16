@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>polo</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>Burung pertanian yang paling tradisional.Ayam dibesarkan oleh daging dan telurnya.Tumbuh sangat cepat dan sering meletakkan telur.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>cakar</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>pico</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>kepala</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>pato</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>Jenis burung pertanian yang sangat umum yang juga terlihat di alam liar.Bebek dibesarkan oleh dagingnya yang lezat.Tumbuh dengan cepat tetapi menempatkan telur dengan sedikit frekuensi.</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>cakar</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>pico</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>kepala</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>angsa</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>Burung domestik yang berguna untuk produksi telur dan daging.Ini membuat telur sangat sering, meskipun mereka membutuhkan waktu lama untuk pecah.</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>cakar</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>pico</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>kepala</Goose.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>mereka</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>Seekor burung kecil dan gemuk tidak bisa terbang, dikenal karena graz yang lucu.Dia telah menjinakkan sejak zaman kuno, tetapi juga tinggal di alam liar.</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>cakar</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>pico</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>kepala</Turkey.tools.head.label>
+  
+</LanguageData>

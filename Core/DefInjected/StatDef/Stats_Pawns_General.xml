@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>Faktor Pembelajaran Hewan</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>Pengganda untuk tingkat pembelajaran keterampilan hewan.</AnimalsLearningFactor.description>
+  
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>Pengganda dari tingkat kelaparan berbohong</BedHungerRateFactor.label>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>Kecepatan mengemudi karavan</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>Pengganda diterapkan pada kecepatan pergerakan seseorang ketika memasang hewan ini sebagai bagian dari karavan.Hewan hanya dapat dipasang di karavan.</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>kapasitas muatan</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Jumlah hal yang dapat dibawa oleh makhluk ini di tangan, mulut, atau lampiran lainnya.Ini tidak tergantung pada kapasitas beban dalam perjalanan panjang dengan peta dunia.</CarryingCapacity.description>
+  
+  <!-- EN: max comfortable temperature -->
+  <ComfyTemperatureMax.label>Suhu maksimum yang diinginkan</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Di atas suhu ini karakter tidak akan senang.</ComfyTemperatureMax.description>
+  
+  <!-- EN: min comfortable temperature -->
+  <ComfyTemperatureMin.label>Suhu minimum yang diinginkan</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Di bawah suhu ini, karakter tidak akan senang.</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>Kecepatan saat menyeret</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>Kecepatan perpindahan saat merangkak ke dalam sel per detik.</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>{0} C/S.</CrawlSpeed.formatString>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>Kecepatan konsumsi</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Faktor pada kecepatan konsumsi makanan.</EatingSpeed.description>
+  
+  <!-- EN: EMP resistance -->
+  <EMPResistance.label>Resistensi PEM</EMPResistance.label>
+  <!-- EN: This mechanoid has special shielding and shock-dissipation filaments that reduce the effect of EMP damage by this percentage. This reduces the duration of stuns caused by EMP. -->
+  <EMPResistance.description>Mecanoid ini memiliki filamen pelindung khusus dan bentrokan disipasi yang mengurangi efek kerusakan PEM pada persentase ini.Ini mengurangi durasi yang menakjubkan yang disebabkan oleh PEM.</EMPResistance.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>Tingkat Kotoran</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>Berapa banyak kotoran menghasilkan makhluk ini.</FilthRate.description>
+  
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>Pendinginan penerbangan</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>Waktu istirahat yang diperlukan sebelum makhluk ini bisa terbang lagi.</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>{0} s</FlightCooldown.formatString>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>jumlah makanan makanan ternak</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Jumlah harian pakan ternak yang akan diperoleh orang ini saat bepergian di karavan.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>Faktor Pembelajaran Global</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Faktor indeks pembelajaran untuk semua keterampilan.</GlobalLearningFactor.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>Kecepatan imunisasi</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Kecepatan di mana karakter ini mengembangkan kekebalan terhadap penyakit.Jika sangat rendah, karakter akan meninggal karena penyakit sebelum dapat diimunisasi.</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>Faktor Penyembuhan Luka</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>Pengganda berlaku untuk tingkat penyembuhan luka orang tersebut.</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>laju penurunan rekreasi</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>Pengganda kecepatan di mana waktu luang seseorang perlu berkurang.</JoyFallRateFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>jumlah kulit</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>Jumlah kulit yang akan Anda dapatkan saat makhluk ini bangun.</LeatherAmount.description>
+  
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>Faktor Harapan Hidup</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>Faktor harapan hidup mengubah harapan hidup yang efektif dari pemendekan makhluk atau memperpanjang waktu hingga mengembangkan penyakit terkait usia.Faktor harapan hidup yang lebih besar dari 100% menunda penampilan penyakit dan meningkatkan harapan hidup total, sementara harapan hidup kurang dari 100% mempercepat penampilan penyakit dan mengurangi harapan hidup.</LifespanFactor.description>
+  
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>Max.</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>Jumlah maksimum waktu yang dapat diteruskan oleh makhluk ini sebelum mendarat.</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>{0} s</MaxFlightTime.formatString>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>Nutrisi maksimum</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>Jumlah nutrisi yang diperlukan untuk sepenuhnya mengisi perut makhluk ini.</MaxNutrition.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>Jumlah daging</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>Jumlah daging yang akan Anda dapatkan saat makhluk ini bangun.Nilai ini dikurangi jika makhluk itu tidak dikorbankan dengan bersih atau jika terluka saat mati.</MeatAmount.description>
+  
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>Keuntungan Meditasi Pasifik</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>Jumlah psifoco yang dimenangkan seseorang untuk meditasi per hari, mengabaikan bonus objek fokus.</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>{0} / día</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0} / día</MeditationFocusGain.formatStringUnfinalized>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>Ambang batas keruntuhan mental</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Sementara keadaan humor seseorang berada di bawah level ini, berisiko menderita keruntuhan mental.Tingkat keparahan keruntuhan akan tergantung pada bagaimana di bawah ambang batas ditemukan.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>Keterampilan perawatan hewan minimum</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Makhluk ini tidak dapat dijinakkan, terlatih, atau dikirim dalam pertempuran oleh siapa pun dengan tingkat keterampilan yang lebih rendah.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>Kecepatan Gerakan</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Kecepatan gerakan dalam kotak per detik.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} C/S.</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>Ambang kejut untuk rasa sakit</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>Tingkat yang diruntuhkan oleh makhluk ini oleh rasa sakit.</PainShockThreshold.description>
+  
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>batas pemanasan saraf</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>Jumlah maksimum pemanasan saraf yang dapat ditoleransi oleh seseorang dengan aman.</PsychicEntropyMax.description>
+  
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>Pengurangan Calentam.saraf</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>Tingkat orang ini mengurangi pemanasan saraf mereka.</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/diri mereka sendiri</PsychicEntropyRecoveryRate.formatString>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>Sensitivitas psikis</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Pengganda tentang dampak fenomena psikis yang mempengaruhi orang ini.Orang yang paling sensitif menderita lebih dari efek psikis negatif dan mendapat manfaat lebih dari yang positif.</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>Tingkat tidur</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>Pengganda dari kecepatan di mana kebutuhan seseorang untuk tidur berkurang.</RestFallRateFactor.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>Pengganda Tingkat Keruh</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>Pengganda dari kecepatan yang dimiliki makhluk saat tidur.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>resistensi terhadap lingkungan beracun</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against tox gas, rot stink, toxic fallout, and polluted terrain, but not against direct attacks with venom or injected poison. When this value is higher, exposure to pollution produces proportionally less toxic buildup in the body. -->
+  <ToxicEnvironmentResistance.description>Resistensi makhluk ini untuk efek racun lingkungan.Ini melindungi terhadap gas beracun, bau busuk, hujan beracun dan tanah yang terkontaminasi, tetapi tidak terhadap serangan langsung dengan racun atau racun yang disuntikkan.Ketika nilai ini lebih tinggi, paparan polusi menghasilkan akumulasi toksik yang lebih sedikit secara proporsional.</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>Resistensi beracun</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>Betapa baik makhluk ini menolak akumulasi racun.</ToxicResistance.description>
+  
+  <!-- EN: wildness -->
+  <Wildness.label>kebiadaban</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>Makhluk terliar, pada dasarnya, lebih sulit untuk dijinakkan, melatih dan menangani.</Wildness.description>
+  
+</LanguageData>

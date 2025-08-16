@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: It looks like they want to besiege the colony and pound you with mortars from a distance. You can try to wait them out - or go get them. -->
+  <Siege.arrivalTextEnemy>Tampaknya mereka ingin mengepung koloni dan mengurangi Anda menjadi abu dengan mortir mereka.Anda dapat menahan pengepungan Anda, atau pergi untuk mereka.</Siege.arrivalTextEnemy>
+  <!-- EN: It looks like they want to use siege tactics to help you. -->
+  <Siege.arrivalTextFriendly>Tampaknya mereka ingin menggunakan pengepungan Taticas untuk mendukung Anda.</Siege.arrivalTextFriendly>
+  <!-- EN: Siege -->
+  <Siege.letterLabelEnemy>Pengepungan</Siege.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <Siege.letterLabelFriendly>Sekutu</Siege.letterLabelFriendly>
+  
+</LanguageData>

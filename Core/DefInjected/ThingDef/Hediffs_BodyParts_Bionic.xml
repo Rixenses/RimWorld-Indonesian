@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>Lengan bionik</BionicArm.label>
+  <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>Lengan buatan canggih.Miniseri empuk memberikan resistensi yang besar, sementara tautan saraf Bioel memberikan kontrol yang sangat indah.Sistem penyembuhan debu reticular memungkinkan Anda pulih dari kerusakan.Ini lebih baik daripada lengan biologis dalam hampir segala hal.</BionicArm.description>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>telinga bionik</BionicEar.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>Telinga buatan canggih.Kumpulan mikrofon subdermal yang tidak terlihat menangkap suara dan mengirimkannya ke antarmuka saraf biogel yang terhubung langsung ke saraf pendengaran.Cukup sensitif untuk mendengarkan kucing sebelum Anda melihatnya, tidak dapat rusak oleh suara -suara yang kuat, dan secara otomatis disetel untuk memilih suara -suara signifikan di lingkungan yang bising.</BionicEar.description>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>Mata bionik</BionicEye.label>
+  <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>Mata buatan yang canggih.Dengan ikatan bioelnya yang gugup, preprocessor sinyal internal dan sensor spektrum lebar, itu lebih baik daripada mata biologis di hampir semua indera.Sistem penyembuhan debu reticular memungkinkan Anda pulih dari kerusakan.</BionicEye.description>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>Hati bionik</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>Hati buatan yang canggih.Ini memiliki serat otot sintetis untuk detak jantung yang realistis, selain pompa aliran tinggi untuk sirkulasi cepat selama stres.Ini lebih baik daripada hati biologis dalam hampir segala hal.</BionicHeart.description>
+  
+  <!-- EN: bionic jaw -->
+  <BionicJaw.label>rahang bionik</BionicJaw.label>
+  <!-- EN: An artificial jaw replacement. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
+  <BionicJaw.description>Rahang pengganti buatan.Terbuat dari tulang biosintesis, dengan penggantian gigi plattif dan satu set microservomotores untuk mencapai rentang gerakan penuh.</BionicJaw.description>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>kaki bionik</BionicLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>Kaki buatan canggih.Dengan ikatan bioelnya yang gugup, minisi dari jangkauan besar, dan sistem penyembuhan debu reticular, itu lebih baik daripada kaki biologis di hampir setiap indera.</BionicLeg.description>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>Tulang belakang bionik</BionicSpine.label>
+  <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>Tulang belakang buatan canggih.Balok saraf biogel berjalan melalui inti pasteel yang diartikulasikan, dikelilingi oleh sistem penyembuhan debu reticular.Ini bertepatan dengan kinerja tulang belakang biologis.</BionicSpine.description>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>Perut bionik</BionicStomach.label>
+  <!-- EN: An advanced artificial stomach with sensors and chemical synthesizers that efficiently digest nearly any energy-bearing foodstuff. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>Perut buatan canggih.Satu set sensor kimia dan synthesizer secara efisien mencerna hampir semua makanan yang mengandung energi.Sistem penyembuhan debu yang terintegrasi secara otomatis memperbaiki kerusakan yang disebabkan oleh asam yang kuat.Ini lebih baik daripada perut biologis dalam hampir segala hal.</BionicStomach.description>
+  
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>bahasa bionik</BionicTongue.label>
+  <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>Penggantian Bahasa Buatan.Terbuat dari serat sintetis yang lembut dan terhubung melalui antarmuka neurogel, Anda dapat mencocokkan kinerja bahasa alami saat berbicara, makan dan menikmati.</BionicTongue.description>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>Asam post-mortem</DeathAcidifier.label>
+  <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
+  <DeathAcidifier.description>Implan di bagasi yang mencegah musuh dibuat dengan tim yang ditangkap.Pada saat kematian pembawa, ia melepaskan bahan kimia yang kuat yang melarutkan semua bahan yang bersentuhan dengan tubuh pembawa.Itu tidak menyebabkan kerusakan pada hal lain.</DeathAcidifier.description>
+  
+</LanguageData>

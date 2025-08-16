@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anomaly research -->
+  <AnomalyResearch.label>penelitian anomali</AnomalyResearch.label>
+  <!-- EN: You must advance Anomaly research by studying unnatural entities.\n\nThere are two types of Anomaly research: BASIC and ADVANCED. Basic research projects progress when you study any entity; advanced projects only progress when you study advanced entities.\n\nYou can have a basic and an advanced project active at the same time. If no advanced project is active, advanced research will contribute to a basic project instead. -->
+  <AnomalyResearch.helpText>Kamu harus memajukan penelitian anomali dengan mempelajari entitas yang tidak wajar.\n\nAda dua jenis penelitian anomali: DASAR dan LANJUT. Proyek penelitian dasar akan berkembang saat kamu mempelajari entitas apa pun; proyek lanjutan hanya akan berkembang saat kamu mempelajari entitas tingkat lanjut.\n\nKamu bisa memiliki satu proyek dasar dan satu proyek lanjutan aktif secara bersamaan. Jika tidak ada proyek lanjutan yang aktif, penelitian lanjutan akan otomatis berkontribusi ke proyek dasar.</AnomalyResearch.helpText>
+  
+  <!-- EN: capturing entities -->
+  <CapturingEntities.label>menangkap entitas</CapturingEntities.label>
+  <!-- EN: When an entity is downed but alive, you can CAPTURE it. To capture, select a colonist, right-click on the entity, and select 'Capture'. You'll need an empty holding platform or spot.\n\nOnce the entity has been brought to the holding platform, you can study it to gain Anomaly research.\n\nTend an injured entity's wounds to make sure it survives. -->
+  <CapturingEntities.helpText>Jika entitas dalam keadaan roboh tapi masih hidup, kamu bisa MENANGKAPnya. Untuk menangkap, pilih salah satu kolonimu, klik kanan entitas tersebut, lalu pilih "Tangkap". Kamu memerlukan platform penahanan atau area penahanan yang kosong.\n\nSetelah entitas dibawa ke platform penahanan, kamu bisa mempelajarinya untuk mendapatkan kemajuan penelitian anomali.\n\nRawat luka entitas yang terluka agar tetap hidup.</CapturingEntities.helpText>
+  
+  <!-- EN: ghouls -->
+  <ColonyGhouls.label>setan kubur</ColonyGhouls.label>
+  <!-- EN: Ghouls are humans twisted by bioferrite. They can quickly regenerate injuries, making them useful as melee fighters. However, they are incapable of work.\n\nGhouls only eat corpses and raw meat. If they go hungry, they can turn hostile. -->
+  <ColonyGhouls.helpText>Ghoul adalah manusia yang berubah bentuk karena bioferrite. Mereka bisa meregenerasi luka dengan cepat, menjadikannya petarung jarak dekat yang mematikan. Namun, mereka tidak mampu melakukan pekerjaan lain.\n\nGhoul hanya memakan mayat dan daging mentah. Jika kelaparan, mereka bisa berubah menjadi agresif.</ColonyGhouls.helpText>
+  
+  <!-- EN: containing entities -->
+  <ContainingEntities.label>menahan entitas</ContainingEntities.label>
+  <!-- EN: It's best to hold entities in secure chambers with high CONTAINMENT STRENGTH or they'll soon escape. Containment strength is increased by:\n\n - Strong walls and doors\n - Good lighting\n - Electric inhibitors (needs research)\n - Bioferrite plate floors (needs research)\n\nOpen the entity's 'Entity' tab to configure how your colonists will interact with it. -->
+  <ContainingEntities.helpText>Tempatkan entitas di ruang tahanan yang aman dengan KEKUATAN PENAHANAN tinggi, jika tidak mereka akan segera kabur. Kekuatan penahanan meningkat dengan:\n\n - Dinding dan pintu yang kuat\n - Pencahayaan yang baik\n - Inhibitor listrik (perlu penelitian)\n - Lantai pelat bioferrite (perlu penelitian)\n\nBuka tab "Entitas" untuk mengatur bagaimana kolonimu berinteraksi dengan mereka.</ContainingEntities.helpText>
+  
+  <!-- EN: entity codex -->
+  <EntityCodex.label>kodeks entitas</EntityCodex.label>
+  <!-- EN: Use the entity codex to track which entities you've discovered.\n\nDiscovering new entities will reveal hidden Anomaly research projects. Once enough entities have been discovered, you can increase the void monolith's level.\n\nOpen the entity codex using the entity codex icon in the lower right of the screen. -->
+  <EntityCodex.helpText>Gunakan kodeks entitas untuk melacak entitas apa saja yang sudah kamu temukan.\n\nMenemukan entitas baru akan membuka proyek penelitian anomali tersembunyi. Setelah cukup banyak entitas ditemukan, kamu bisa meningkatkan level monolit kehampaan.\n\nBuka kodeks entitas lewat ikon kodeks di pojok kanan bawah layar.</EntityCodex.helpText>
+  
+  <!-- EN: studying entities -->
+  <StudyingEntities.label>mempelajari entitas</StudyingEntities.label>
+  <!-- EN: Colonists assigned to 'Dark study' work will STUDY diverse entities including creatures and structures.\n\nStudy structures like the void monolith by selecting it and toggling the 'Study' option. Some entities must be captured to a holding platform or spot before they can be studied.\n\nStudying advances Anomaly research projects. Open the 'Research' tab, then select the 'Anomaly' sub-tab to view Anomaly research projects. -->
+  <StudyingEntities.helpText>Kolonis yang ditugaskan pada pekerjaan "Studi Gelap" akan MEMPELAJARI berbagai entitas, termasuk makhluk dan struktur.\n\nPelajari struktur seperti monolit kehampaan dengan memilihnya lalu mengaktifkan opsi "Pelajari". Beberapa entitas harus ditangkap ke platform atau area penahanan sebelum bisa dipelajari.\n\nMempelajari entitas akan memajukan proyek penelitian anomali. Buka tab "Penelitian", lalu pilih sub-tab "Anomali" untuk melihat proyeknya.</StudyingEntities.helpText>
+  
+  <!-- EN: suppressing entities -->
+  <SuppressingEntities.label>menekan entitas</SuppressingEntities.label>
+  <!-- EN: Some entities become more active over time, even in captivity. If an entity's activity bar fills completely, it will do something extremely dangerous.\n\nTo prevent full activation, you must periodically SUPPRESS it. Wardens will suppress entities. -->
+  <SuppressingEntities.helpText>Beberapa entitas menjadi lebih aktif seiring waktu, bahkan saat ditahan. Jika bilah aktivitasnya penuh, mereka akan melakukan sesuatu yang sangat berbahaya.\n\nUntuk mencegah aktivasi penuh, kamu harus secara berkala MENEKAN mereka. Penjaga akan melakukan penekanan ini.</SuppressingEntities.helpText>
+  
+  <!-- EN: void provocation -->
+  <VoidProvocation.label>provokasi kehampaan</VoidProvocation.label>
+  <!-- EN: Use the void provocation psychic ritual to discover and capture new entities.\n\nDiscovering entities will let you advance the void monolith to higher levels, and unlock new research projects. Capturing more entities will let you complete Anomaly research projects faster.\n\nPlace a psychic ritual spot in order to perform the void provocation ritual. -->
+  <VoidProvocation.helpText>Gunakan ritual psikis provokasi kehampaan untuk menemukan dan menangkap entitas baru.\n\nMenemukan entitas akan memajukan level monolit kehampaan dan membuka proyek penelitian baru. Menangkap lebih banyak entitas akan mempercepat penyelesaian proyek penelitian anomali.\n\nTempatkan titik ritual psikis untuk melakukan ritual provokasi kehampaan.</VoidProvocation.helpText>
+  
+</LanguageData>

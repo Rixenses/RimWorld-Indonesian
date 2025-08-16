@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter occupant speed -->
+  <BiosculpterOccupantSpeed.label>vel.del bio -sculptor (penghuni)</BiosculpterOccupantSpeed.label>
+  <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
+  <BiosculpterOccupantSpeed.description>Pengganda dari kecepatan yang dengannya orang ini akan menyelesaikan siklus dalam kapsul bio -sculpture.</BiosculpterOccupantSpeed.description>
+  
+  <!-- EN: global certainty loss factor -->
+  <CertaintyLossFactor.label>Kepastian global</CertaintyLossFactor.label>
+  <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
+  <CertaintyLossFactor.description>Pengganda kepastian yang kehilangan pemukim ini ketika seseorang mencoba untuk mengubahnya dan memindahkannya dari ideoligion mereka.</CertaintyLossFactor.description>
+  
+  <!-- EN: conversion power -->
+  <ConversionPower.label>kekuatan konversi</ConversionPower.label>
+  <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
+  <ConversionPower.description>Kemanjuran orang ini ketika mengubah orang lain menjadi ideologis mereka sendiri.Ketika orang ini mencoba untuk mengonversi orang lain, nilai ini melipatgandakan jumlah kepastian yang kalah.</ConversionPower.description>
+  
+  <!-- EN: melee dodge chance indoors dark -->
+  <MeleeDodgeChanceIndoorsDarkOffset.label>prob.CAC interior gelap</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors in the dark. -->
+  <MeleeDodgeChanceIndoorsDarkOffset.description>Koreksi probabilitas menghindari jarak dekat jika tujuannya ada di dalam dan dalam kegelapan penuh.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance indoors lit -->
+  <MeleeDodgeChanceIndoorsLitOffset.label>prob.Menghindar interior yang diterangi</MeleeDodgeChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is indoors and lit. -->
+  <MeleeDodgeChanceIndoorsLitOffset.description>Koreksi probabilitas menghindari jarak dekat jika tujuannya ada di dalam dan diterangi.</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors night -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>prob.Dodge CAC Malam Luar</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors at night. -->
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>Koreksi probabilitas menghindari jarak dekat jika tujuannya di luar ruangan di malam hari.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee dodge chance outdoors day -->
+  <MeleeDodgeChanceOutdoorsLitOffset.label>prob.Dodge CAC Hari Luar</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee dodge chance if the target is outdoors during the day. -->
+  <MeleeDodgeChanceOutdoorsLitOffset.description>Koreksi kemungkinan menghindari jarak dekat jika tujuannya di luar ruangan di siang hari.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance indoors dark -->
+  <MeleeHitChanceIndoorsDarkOffset.label>prob.untuk mencapai kegelapan batin</MeleeHitChanceIndoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors in the dark. -->
+  <MeleeHitChanceIndoorsDarkOffset.description>Koreksi probabilitas dampak pada jarak dekat jika tujuan ada di dalam dan dalam gelap.</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance indoors lit -->
+  <MeleeHitChanceIndoorsLitOffset.label>prob.CAC bagian dalam yang diterangi</MeleeHitChanceIndoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is indoors and lit. -->
+  <MeleeHitChanceIndoorsLitOffset.description>Koreksi terhadap probabilitas memukul jarak dekat jika tujuannya ada di dalam dan diterangi.</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <!-- EN: melee hit chance outdoors dark -->
+  <MeleeHitChanceOutdoorsDarkOffset.label>prob.memukul kegelapan luar</MeleeHitChanceOutdoorsDarkOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors at night. -->
+  <MeleeHitChanceOutdoorsDarkOffset.description>Koreksi kemungkinan memukul jarak dekat jika tujuannya di luar malam.</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <!-- EN: melee hit chance outdoors lit -->
+  <MeleeHitChanceOutdoorsLitOffset.label>prob.CAC eksterior yang diterangi</MeleeHitChanceOutdoorsLitOffset.label>
+  <!-- EN: An offset on melee hit chance if the target is outdoors during the day. -->
+  <MeleeHitChanceOutdoorsLitOffset.description>Pengubah dalam probabilitas memukul jarak dekat jika tujuannya di luar ruangan di siang hari.</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy indoors dark -->
+  <ShootingAccuracyIndoorsDarkOffset.label>Penembakan interior kegelapan presisi</ShootingAccuracyIndoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors in the dark. -->
+  <ShootingAccuracyIndoorsDarkOffset.description>Koreksi dalam keakuratan bidikan jika tujuannya ada di dalam dan gelap.</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy indoors lit -->
+  <ShootingAccuracyIndoorsLitOffset.label>Presisi penembakan interior yang diterangi</ShootingAccuracyIndoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is indoors and lit. -->
+  <ShootingAccuracyIndoorsLitOffset.description>Koreksi dalam keakuratan bidikan jika tujuan ada di dalam dan diterangi.</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors dark -->
+  <ShootingAccuracyOutdoorsDarkOffset.label>Pemotretan luar ruangan Presisi Darkness</ShootingAccuracyOutdoorsDarkOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors at night. -->
+  <ShootingAccuracyOutdoorsDarkOffset.description>Koreksi dalam ketepatan tembakan jika gol di luar malam.</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <!-- EN: shooting accuracy outdoors lit -->
+  <ShootingAccuracyOutdoorsLitOffset.label>Presisi pemotretan luar ruangan yang diterangi</ShootingAccuracyOutdoorsLitOffset.label>
+  <!-- EN: An offset on shooting accuracy if the target is outdoors during the day. -->
+  <ShootingAccuracyOutdoorsLitOffset.description>Koreksi dalam keakuratan bidikan jika tujuannya di luar ruangan di siang hari.</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <!-- EN: ideoligion spread chance -->
+  <SocialIdeoSpreadFrequencyFactor.label>Probabilitas menyebarkan ideologis</SocialIdeoSpreadFrequencyFactor.label>
+  <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
+  <SocialIdeoSpreadFrequencyFactor.description>Pengganda probabilitas bahwa orang ini mencoba mengubah orang lain menjadi ideologis mereka sendiri.</SocialIdeoSpreadFrequencyFactor.description>
+  
+</LanguageData>

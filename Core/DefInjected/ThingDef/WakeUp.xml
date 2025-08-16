@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up -->
+  <WakeUp.label>bangun</WakeUp.label>
+  <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
+  <WakeUp.description>Stimulan sintetis.Awakening memenuhi kebutuhan pengguna untuk istirahat dan memungkinkan Anda bekerja untuk waktu yang lama tanpa lelah.Psi-Emitor di bawah efek kebangkitan mendapatkan lebih banyak pendekatan psikis saat bermeditasi pada apa yang biasanya mereka dapatkan. Namun, penggunaan berulang melibatkan risiko kecanduan.</WakeUp.description>
+  <!-- EN: Take {0} -->
+  <WakeUp.ingestible.ingestCommandString>Konsumsi {0}</WakeUp.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <WakeUp.ingestible.ingestReportString>Menelan {0}.</WakeUp.ingestible.ingestReportString>
+  
+</LanguageData>

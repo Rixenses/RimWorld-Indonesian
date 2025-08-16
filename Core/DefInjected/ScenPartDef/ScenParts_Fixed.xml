@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starting people -->
+  <ConfigPage_ConfigureStartingPawns.label>orang awal</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: forced map -->
+  <ForcedMap.label>Peta paksa</ForcedMap.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayerFixed.label>Jenis Lapisan Planet</PlanetLayerFixed.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>Faksi pemain</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
+  <PlayerPawnsArriveMethod.label>metode kedatangan</PlayerPawnsArriveMethod.label>
+  
+  <!-- EN: surface layer type -->
+  <SurfaceLayerFixed.label>Jenis Lapisan Permukaan</SurfaceLayerFixed.label>
+  
+</LanguageData>

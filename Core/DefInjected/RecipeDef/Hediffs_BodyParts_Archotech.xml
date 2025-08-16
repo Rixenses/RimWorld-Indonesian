@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech arm -->
+  <InstallArchotechArm.label>Menerapkan lengan Archeoteca</InstallArchotechArm.label>
+  <!-- EN: Install an archotech arm. -->
+  <InstallArchotechArm.description>Implan Lengan Archeoteca.</InstallArchotechArm.description>
+  <!-- EN: Installing archotech arm. -->
+  <InstallArchotechArm.jobString>Menerapkan lengan Archeoteca.</InstallArchotechArm.jobString>
+  
+  <!-- EN: install archotech eye -->
+  <InstallArchotechEye.label>Menerapkan Eye Archeoteca</InstallArchotechEye.label>
+  <!-- EN: Install an archotech eye. -->
+  <InstallArchotechEye.description>Implan mata archeoteca.</InstallArchotechEye.description>
+  <!-- EN: Installing archotech eye. -->
+  <InstallArchotechEye.jobString>Menerapkan Eye Archeoteca.</InstallArchotechEye.jobString>
+  
+  <!-- EN: install archotech leg -->
+  <InstallArchotechLeg.label>Menerapkan kaki Archeoteca</InstallArchotechLeg.label>
+  <!-- EN: Install an archotech leg. -->
+  <InstallArchotechLeg.description>Implan kaki archeoteca.</InstallArchotechLeg.description>
+  <!-- EN: Installing archotech leg. -->
+  <InstallArchotechLeg.jobString>Menerapkan kaki Archeoteca.</InstallArchotechLeg.jobString>
+  
+</LanguageData>

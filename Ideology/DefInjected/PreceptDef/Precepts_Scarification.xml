@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extreme -->
+  <Scarification_Extreme.label>ekstrim</Scarification_Extreme.label>
+  <!-- EN: Every person ought to bear the ritual scars - all over. -->
+  <Scarification_Extreme.description>Semua orang harus membawa bekas luka ritual, di mana -mana.</Scarification_Extreme.description>
+  <!-- EN: Scarification (5 scars required) -->
+  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 5 bekas luka)</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarification (5 scars required) -->
+  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 5 bekas luka)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+  
+  <!-- EN: heavy -->
+  <Scarification_Heavy.label>kuat</Scarification_Heavy.label>
+  <!-- EN: Every person ought to bear the ritual scars - many of them. -->
+  <Scarification_Heavy.description>Setiap orang harus membawa bekas luka ritual, banyak dari mereka.</Scarification_Heavy.description>
+  <!-- EN: Scarification (3 scars required) -->
+  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 3 bekas luka)</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarification (3 scars required) -->
+  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 3 bekas luka)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+  
+  <!-- EN: horrible -->
+  <Scarification_Horrible.label>mengerikan</Scarification_Horrible.label>
+  <!-- EN: Scarifying people for ideoligious reasons is horrible. -->
+  <Scarification_Horrible.description>Orang -orang yang menakutkan karena alasan ideoligasi mengerikan.</Scarification_Horrible.description>
+  <!-- EN: someone got scarified -->
+  <Scarification_Horrible.comps.0.description>Seseorang itu Scartified</Scarification_Horrible.comps.0.description>
+  
+  <!-- EN: minor -->
+  <Scarification_Minor.label>hidup</Scarification_Minor.label>
+  <!-- EN: Every person ought to bear a ritual scar. -->
+  <Scarification_Minor.description>Setiap orang harus membawa bekas luka ritual.</Scarification_Minor.description>
+  <!-- EN: Scarification (1 scar required) -->
+  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 1 bekas luka)</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+  <!-- EN: Scarification (1 scar required) -->
+  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>Scarifikasi (membutuhkan 1 bekas luka)</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
+  
+</LanguageData>

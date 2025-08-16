@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deadlife pack -->
+  <Apparel_DeadlifePack.label>Paket Debu Necrovita</Apparel_DeadlifePack.label>
+  <!-- EN: A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection. -->
+  <Apparel_DeadlifePack.description>Paket tunggal -guna yang meluncurkan kapsul yang mengeksploitasi bubuk necrovite.Debu mendorong tubuh manusia dan hewan sebagai pejalan kaki yang hanya akan menyerang musuh Anda.Ketika mereka menyentuh tubuh, mereka mendorong kebangkitan yang kacau dan kejam.</Apparel_DeadlifePack.description>
+  <!-- EN: charge -->
+  <Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>memuat</Apparel_DeadlifePack.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: deploy deadlife dust -->
+  <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>Tampilkan debu necrovite</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
+  
+  <!-- EN: disruptor flare pack -->
+  <Apparel_DisruptorFlarePack.label>Paket tebu yang mengganggu</Apparel_DisruptorFlarePack.label>
+  <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
+  <Apparel_DisruptorFlarePack.description>Ransel utilitarian yang memicu suar yang mengganggu.Saat berdampak, Benggala membakar kapsul bioferrita, yang menciptakan kilatan cerah yang kuat dan gangguan psikis lokal.Makhluk yang peka secara psikis ini setrum ini, mengungkapkan mereka yang tidak terlihat dan mengurangi kesadaran dan kecepatan gerakan mereka selama beberapa saat.Kemudian, Bengal terus membakar, menerangi area yang luas untuk beberapa waktu.</Apparel_DisruptorFlarePack.description>
+  <!-- EN: flare -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>Benggala</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy flare -->
+  <Apparel_DisruptorFlarePack.verbs.deploy_flare.label>Tampilkan Bengal</Apparel_DisruptorFlarePack.verbs.deploy_flare.label>
+  
+  <!-- EN: turret pack -->
+  <Apparel_PackTurret.label>drop -down Turret</Apparel_PackTurret.label>
+  <!-- EN: A wearable pack that allows the user to deploy a battery-powered turret. The pack contains a propulsion device, letting the user launch the turret a short distance. These turrets are effective for flanking and distracting enemies. However, the turret's limited AI can't be directly controlled, so it can cause friendly fire incidents. The turret battery lasts for several hours. -->
+  <Apparel_PackTurret.description>Ransel portabel yang memungkinkan pengguna untuk menampilkan menara baterai.Ransel berisi perangkat propulsi yang memungkinkan pengguna untuk meluncurkan menara pada jarak pendek.Menara ini efektif untuk mengapit dan mengalihkan perhatian musuh.Namun, terbatasnya IA dari menara tidak dapat dikendalikan secara langsung, sehingga dapat menyebabkan insiden api ramah.Baterai Torreta berlangsung beberapa jam.</Apparel_PackTurret.description>
+  <!-- EN: charge -->
+  <Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>memuat</Apparel_PackTurret.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <!-- EN: deploy turret -->
+  <Apparel_PackTurret.verbs.deploy_turret.label>Tampilkan Turreta</Apparel_PackTurret.verbs.deploy_turret.label>
+  
+  <!-- EN: disruptor flare -->
+  <DisruptorFlare.label>tongkat yang mengganggu</DisruptorFlare.label>
+  
+  <!-- EN: deadlife capsule -->
+  <Grenade_Deadlife.label>Kapsul Necrovite</Grenade_Deadlife.label>
+  
+  <!-- EN: disruptor flare -->
+  <Grenade_DisruptorFlare.label>tongkat yang mengganggu</Grenade_DisruptorFlare.label>
+  
+  <!-- EN: turret pack capsule -->
+  <Grenade_TurretPack.label>drop -down kapsul torrett</Grenade_TurretPack.label>
+  
+</LanguageData>

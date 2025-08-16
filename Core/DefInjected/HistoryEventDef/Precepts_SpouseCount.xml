@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: married to one or fewer spouses -->
+  <GotMarried_SpouseCount_OneOrFewer.label>Menikah dengan satu pasangan atau lebih sedikit</GotMarried_SpouseCount_OneOrFewer.label>
+  
+  <!-- EN: married to two or more spouses -->
+  <GotMarried_SpouseCount_Two.label>menikah dengan dua atau lebih pasangan</GotMarried_SpouseCount_Two.label>
+  
+</LanguageData>

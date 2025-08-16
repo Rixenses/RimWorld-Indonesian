@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> pesan misterius telah tiba.Tampaknya ditransmisikan oleh persona mesin yang menolak menyebutkan nama itu sendiri.Pesan tersebut meminta Anda membangun monumen yang sangat spesifik. \ N \ n [Commonending]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leaderTitle] [asker_namefull] dari [asker_faction_name] meminta Anda membangun monumen [buildreason]. \ n \ n [Commonending]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_royaltitleincurrentfaction] [asker_namefull] dari [asker_faction_name] meminta Anda membangun monumen [buildreason]. \ n \ n [biasa]</li>
+    <li>asker2 (askerisnull == true)-> archotech</li>
+    <li>asker2 (asker_factionleader == true)-> [asker_namedef]</li>
+    <li>asker2 (asker_royalincurrentfaction == true)-> [asker_royaltitleincurrentfaction]</li>
+    <li>BuildReason-> Untuk memperingati [pribadi] [asker_possessive] [keluarga orang]</li>
+    <li>BuildReason-> Untuk memperingati [asker_possessive] sendiri [PribadiCaracteristic]</li>
+    <li>BuildReason-> Untuk menghina saingan [pribadi] dari saingan [asker_possessive]</li>
+    <li>Buildreason-> Untuk mengurangi perasaan [Conceptangsty] di antara orang-orang</li>
+    <li>BuildReason-> untuk mengungkapkan bagaimana [AdjectiveBadass] [asker_pronoun]</li>
+    <li>buildreason-> untuk memperingati [asker_possessive] [asker_faction_pawnsplural] yang telah jatuh dalam pertempuran</li>
+    <li>buildreason-> untuk menghormati [asker_possessive] [keluarga orang]</li>
+    <li>buildreason-> untuk menghormati pekerjaan [personjob]</li>
+    <li>BuildReason-> Untuk menyebarkan gambar [asker_possessive] [Kemuliaan] di seluruh negeri</li>
+    <li>Kemuliaan-> Kemuliaan</li>
+    <li>Kemuliaan-> Kehormatan Martial</li>
+    <li>Kemuliaan-> Kemenangan</li>
+    <li>Glory-> Throne</li>
+    <li>Glory-> Great Ship</li>
+    <li>Kemuliaan-> Kekayaan</li>
+    <li>Kemuliaan-> Keluarga</li>
+    <li>failletterendingCommon (askerisnull == true, prioritas = 1)-> Anda telah gagal pencarian '[resolvedQuestName]'.</li>
+    <li>failletterendingCommon-> Anda telah gagal dalam pencarian '[resolvedQuestName]'. \ n \ nyour hubungan dengan [asker_faction_name] telah menurun dengan [goodwillpenalty].</li>-><QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+    <!-- <li>QuestDescription (askerisnull == true)-> pesan misterius telah tiba.Tampaknya ditransmisikan oleh persona mesin yang menolak menyebutkan nama itu sendiri.Pesan tersebut meminta Anda membangun monumen yang sangat spesifik. \ N \ n [Commonending]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leaderTitle] [asker_namefull] dari [asker_faction_name] meminta Anda membangun monumen [buildreason]. \ n \ n [biasa]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_royaltitleincurrentfaction] [asker_namefull] dari [asker_faction_name] meminta Anda membangun monumen [buildreason]. \ n \ n [biasa]</li>
+    <li>asker2 (askerisnull == true)-> archotech</li>
+    <li>asker2 (asker_factionleader == true)-> [asker_namedef]</li>
+    <li>asker2 (asker_royalincurrentfaction == true)-> [asker_royaltitleincurrentfaction]</li>-><li>QuestDescription (askerisnull == true)-> pesan misterius telah tiba.Tampaknya itu dikirim oleh AI yang menolak untuk mengungkapkan namanya.Pesan tersebut meminta Anda untuk membangun monumen tertentu. \ N \ n [Commonling]</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_a] [asker_faction_leadertitle] de la facción [asker_faction_name], te pide que construyas un monumento [buildreason]. \ n \ n [commonening]]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_the] [asker_royaltitleincurrentfaction] [asker_namefull], de la facción [asker_faction_name] Te pide que construya un monumento [buildreason].</li>
+    <li>Asker2 (askerismnull == true)-> la ia archaeração</li>
+    <li>asker2 (asker_factionleader == true)-> [asker_namedef]</li>
+    <li>asker2 (asker_royalincurrentfaction == true)-> [asker_the] [asker_royaltitleincurrentfaction]</li>
+    <!--<li>BuildReason-> Untuk memperingati [pribadi] [asker_possessive] [keluarga orang]</li>
+    <li>BuildReason-> Untuk memperingati [asker_possessive] sendiri [PribadiCaracteristic]</li>
+    <li>BuildReason-> Untuk menghina saingan [pribadi] dari saingan [asker_possessive]</li>
+    <li>Buildreason-> Untuk mengurangi perasaan [Conceptangsty] di antara orang-orang</li>
+    <li>BuildReason-> untuk mengungkapkan bagaimana [AdjectiveBadass] [asker_pronoun]</li>
+    <li>buildreason-> untuk memperingati [asker_possessive] [asker_faction_pawnsplural] yang telah jatuh dalam pertempuran</li>
+    <li>buildreason-> untuk menghormati [asker_possessive] [keluarga orang]</li>
+    <li>buildreason-> untuk menghormati pekerjaan [personjob]</li>
+    <li>BuildReason-> Untuk menyebarkan gambar [asker_possessive] [Kemuliaan] di seluruh negeri</li>-><li>Buildrelason-> untuk memperingati [karakteristik pribadi] dari [keluarga orang]</li>
+    <li>Buildrelason-> untuk memperingati [personcharacteristicfem] dari [keluarga personanya]</li>
+    <li>Buildrelason-> Untuk memperingati [karakteristik pribadinya] sendiri</li>
+    <li>Buildrelason-> Untuk memperingati [personcharacteristic_femnya sendiri]</li>
+    <li>Buildrelason-> untuk menghina [karakteristik pribadi] dari saingannya</li>
+    <li>Buildrelason-> untuk menghina [personcharacteristic_fem] dari saingannya</li>
+    <li>Buildreson-> untuk mengurangi perasaan [konseptang] di antara orang-orang</li>
+    <li>Buildrelason (asker_gerder == jantan)-> untuk mengekspresikan apa [asker_pronoun] dari [adjectivubadss]]</li>
+    <li>BuildReason (asker_gerder == betina)-> Untuk mengekspresikan apa [asker_pronoun] dari [adjectivebads_fem] adalah [asker_pronoun]</li>
+    <li>Buildrelason (asker_gerder == tidak ada)-> untuk mengekspresikan apa [asker_pronoun] dari [Adjectivebads]</li>
+    <li>BuildReason-> Untuk memperingati [asker_faction_pawnsplural mereka] yang telah jatuh ke dalam pertempuran</li>
+    <li>Buildrelason-> untuk menghormati [keluarga personanya]</li>
+    <li>Buildreason-> untuk menghormati pekerjaan [Personjob]</li>
+    <li>Buildrelason-> untuk menyebarkan gambar [kemuliaan ]nya melalui wilayah tersebut</li>
+    <!--<li>Kemuliaan-> Kemuliaan</li>
+    <li>Kemuliaan-> Kehormatan Martial</li>
+    <li>Kemuliaan-> Kemenangan</li>
+    <li>Glory-> Throne</li>
+    <li>Glory-> Great Ship</li>
+    <li>Kemuliaan-> Kekayaan</li>
+    <li>Kemuliaan-> Keluarga</li>
+    <li>failletterendingCommon (askerisnull == true, prioritas = 1)-> Anda telah gagal pencarian '[resolvedQuestName]'.</li>
+    <li>failletterendingCommon-> Anda telah gagal dalam pencarian '[resolvedQuestName]'. \ n \ nyour hubungan dengan [asker_faction_name] telah menurun dengan [goodwillpenalty].</li>-><li>Glory-> Gloria</li>
+    <li>Kemuliaan-> Kehormatan Marcial</li>
+    <li>Glory-> Victoria</li>
+    <li>Glory-> Throne</li>
+    <li>Glory-> nave</li>
+    <li>Kemuliaan-> kekayaan</li>
+    <li>Glory-> Familia</li>
+    <li>FaillettendendCommon (askerisnull == true, prioritas = 1)-> Anda telah gagal misi "[resolvedQuestName]".</li>
+    <li>FaillettendendCommon-> Anda telah gagal misi "[diselesaikan questname]". \ Dalam \ Hubungan Anda dengan faksi [asker_faction_name] telah menurun dengan [Goodwillpenalty].</li>
+  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestName-> [constadj] [konstruksi]</li>
+    <li>QuestName-> [constadj] [konstruksi]</li>
+    <li>QuestName-> [ConstAdj] [Konstruksi]</li>
+    <li>constadj (p = 20)-> [AdjectivelArge]</li>
+    <li>constadj-> mengerikan</li>
+    <li>Constadj-> Hebat</li>
+    <li>Constadj-> Grand</li>
+    <li>Constadj-> Berbahaya</li>
+    <li>constadj-> monumental</li>
+    <li>constadj-> boros</li>
+    <li>constadj-> firasat</li>
+    <li>Constadj-> menakutkan</li>
+    <li>Constadj-> mengerikan</li>
+    <li>Constadj-> Takut</li>
+    <li>constadj-> mengagumkan</li>
+    <li>Constadj-> Nubuat</li>
+    <li>Constadj-> mengerikan</li>
+    <li>constadj-> berkilauan</li>
+    <li>constadj-> bersinar</li>
+    <li>constadj-> luar biasa</li>
+    <li>Konstruksi (P = 3)-> Konstruksi</li>
+    <li>Konstruksi (P = 2)-> Struktur</li>
+    <li>Konstruksi (P = 2)-> Bangunan</li>
+    <li>Konstruksi-> Monumen</li>
+    <li>Konstruksi-> Bangun</li>
+    <li>Konstruksi-> Cetak Biru</li>
+    <li>Konstruksi-> Majelis</li>-><QuestConstructionNameCommon.rulePack.rulesStrings>
+    <li>QuestName-> [ConstructionFem] [ConstAdJfem]</li>
+    <li>QuestName-> [konstruksi] [constadj]</li>
+    <li>QuestName-> A [konstruksi] [constadj]</li>
+    <li>QuestName-> [ConstructionFem] [ConstAdJfem]</li>
+    <li>QuestName-> [konstruksi] [constadj]</li>
+    <li>QuestName-> [ConstructionFem] [constadjfem]</li>
+    <li>constadj (p = 20)-> [AdjectivelArge]</li>
+    <li>constadj-> mengerikan</li>
+    <li>Constadj-> Genial</li>
+    <li>Constadj-> LUAR BIASA</li>
+    <li>Constadj-> Berbahaya</li>
+    <li>constadj-> monumental</li>
+    <li>Constadj-> boros</li>
+    <li>Constadj-> suram</li>
+    <li>Considj-> Terrador</li>
+    <li>constadj-> mengerikan</li>
+    <li>Kejam</li>
+    <li>Consadordj-> fantastis</li>
+    <li>Considj-> Nubuat</li>
+    <li>Constadj-> hancur</li>
+    <li>Constadj-> berkilau</li>
+    <li>Constadj-> Bright</li>
+    <li>Constadj-> apotheosic</li>
+    <li>Constadj-> luar biasa</li>
+    <li>AKHIR</li>
+    <li>constadjfem-> mengerikan</li>
+    <li>constadjfem-> genial</li>
+    <li>Constadjfem-> luar biasa</li>
+    <li>Constadjfem-> berbahaya</li>
+    <li>constadjfem-> monumental</li>
+    <li>Constadjfem-> boros</li>
+    <li>Constadjfem-> teduh</li>
+    <li>Constadjfem-> menakutkan</li>
+    <li>constadjfem-> mengerikan</li>
+    <li>constadjfem-> Cruel</li>
+    <li>Constadjfem-> fantastis</li>
+    <li>Constadjfem-> Prabety</li>
+    <li>Constadjfem-> hancur</li>
+    <li>Constadjfem-> berkilau</li>
+    <li>Constadjfem-> brilian</li>
+    <li>Constadjfem-> apotheosic</li>
+    <li>Constadjfem-> luar biasa</li>
+    <li>Constadjfem-> tidak terdengar</li>
+    <li>ConstructionFEM (P = 3)-> Konstruksi</li>
+    <li>konstruksi (p = 2)-> estruktur</li>
+    <li>Konstruksi (p = 2)-> bangunan</li>
+    <li>Konstruksi-> Monumento</li>
+    <li>Konstruksi-> Bangunan</li>
+    <li>Konstruksi-> Draft</li>
+  </QuestConstructionNameCommon.rulePack.rulesStrings>
+  
+</LanguageData>

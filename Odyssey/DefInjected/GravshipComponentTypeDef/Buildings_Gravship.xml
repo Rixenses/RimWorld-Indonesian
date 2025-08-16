@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: controls -->
+  <Controls.label>Kontrol</Controls.label>
+  
+  <!-- EN: fuel tank -->
+  <FuelStorage.label>Tangki bahan bakar</FuelStorage.label>
+  
+  <!-- EN: power cell -->
+  <PowerCell.label>Sel energi</PowerCell.label>
+  
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>inhibitor sinyal</SignalJammer.label>
+  
+  <!-- EN: thruster -->
+  <Thruster.label>bahan pembakar</Thruster.label>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blunt damage -->
+  <BluntDamageMultiplier.label>multi.kerusakan kuat</BluntDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->
+  <BluntDamageMultiplier.description>Pengganda diterapkan pada kerusakan serangan yang kuat.</BluntDamageMultiplier.description>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeWeapon_AverageArmorPenetration.label>Penetrasi Armor CAC</MeleeWeapon_AverageArmorPenetration.label>
+  <!-- EN: Average armor penetration in melee combat. -->
+  <MeleeWeapon_AverageArmorPenetration.description>Penetrasi baju besi rata -rata dalam pertempuran jarak dekat.</MeleeWeapon_AverageArmorPenetration.description>
+  
+  <!-- EN: melee damage per second -->
+  <MeleeWeapon_AverageDPS.label>Kerusakan CAC per detik</MeleeWeapon_AverageDPS.label>
+  <!-- EN: Average damage dealt per second in melee combat, if all attacks hit. -->
+  <MeleeWeapon_AverageDPS.description>Kerusakan rata -rata yang ditimbulkan per detik dalam pertempuran jarak dekat, jika semua serangan berdampak.</MeleeWeapon_AverageDPS.description>
+  
+  <!-- EN: melee cooldown -->
+  <MeleeWeapon_CooldownMultiplier.label>tubuh sejuk</MeleeWeapon_CooldownMultiplier.label>
+  <!-- EN: A multiplier on attack delay for weapons made of this material. -->
+  <MeleeWeapon_CooldownMultiplier.description>Serang pengali menunggu untuk senjata yang terbuat dari materi ini.</MeleeWeapon_CooldownMultiplier.description>
+  
+  <!-- EN: melee damage multiplier -->
+  <MeleeWeapon_DamageMultiplier.label>multi.kerusakan jarak dekat</MeleeWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to melee combat. -->
+  <MeleeWeapon_DamageMultiplier.description>Pengganda kerusakan yang diterapkan pada pertempuran jarak dekat.</MeleeWeapon_DamageMultiplier.description>
+  
+  <!-- EN: sharp damage -->
+  <SharpDamageMultiplier.label>multi.kerusakan pemotongan</SharpDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from sharp-type attacks for weapons made of this material. -->
+  <SharpDamageMultiplier.description>Pengganda diterapkan pada kerusakan dengan serangan senjata yang dibuat dari bahan ini.</SharpDamageMultiplier.description>
+  
+</LanguageData>

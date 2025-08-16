@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Ideoligion forbids -->
+  <IdeoligionForbids>Ideoligion melarangnya</IdeoligionForbids>
+  <!-- EN: Only {0}s can build -->
+  <OnlyMembersCanBuild>Hanya {0} yang dapat membangun</OnlyMembersCanBuild>
+  <!-- EN: {0} is already in progress. -->
+  <CantStartRitualAlreadyInProgress>{0} sudah berlangsung.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>{Ritual} tidak dapat dilakukan {gerund} {layer}.</CantStartRitualLayer>
+  <!-- EN: One or more participants can't join due to extreme temperature. -->
+  <CantJoinRitualInExtremeWeather>Satu atau lebih peserta tidak dapat bergabung karena suhu ekstrem.</CantJoinRitualInExtremeWeather>
+  <!-- EN: {0} is already participating in a ritual. -->
+  <CantStartRitualTargetIsAlreadyInRitual>{0} sudah berpartisipasi dalam ritual.</CantStartRitualTargetIsAlreadyInRitual>
+  <!-- EN: You must assign the role of {0} in order to start this ritual. -->
+  <CantStartRitualRoleNotAssigned>Anda harus menetapkan peran {0} untuk memulai ritual ini.</CantStartRitualRoleNotAssigned>
+  <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
+  <CantStartRitualNoConvertee>Tidak ada yang bisa mengubah {0}.Anda membutuhkan pemukim, tahanan atau budak ideolisasi lain.</CantStartRitualNoConvertee>
+  <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
+  <CantStartRitualSelectedPawnCannotBeRole>{Pawn_namedef} tidak dapat {role}.</CantStartRitualSelectedPawnCannotBeRole>
+  <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
+  <CantStartRitualSelectedPawnMustBeMember>{Pawn_namedef} harus {Pawn_gender?A: A} {IDEO_MEMANNAME}.</CantStartRitualSelectedPawnMustBeMember>
+  <!-- EN: {PAWN_nameDef} is psychically deaf. -->
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{Pawn_namedef} Apakah tuli secara psikis {Pawn_gender?O: A}.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelSpectators>Tidak ada cukup ruang untuk penonton.Harus ada lingkaran radio yang jelas {minradius}.Setidaknya {1} Tempat diperlukan untuk berdiri di jari -jari itu.</CantStartNotEnoughSpaceDuelSpectators>
+  <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelDuelists>Tidak ada cukup ruang untuk duelists.Harus ada lingkaran radio yang jelas {minradius}.Setidaknya {1} Tempat diperlukan untuk berdiri di jari -jari itu.</CantStartNotEnoughSpaceDuelDuelists>
+  <!-- EN: Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}. -->
+  <CantStartNotEnoughSpaceDuelSpeaker>Tidak ada cukup ruang untuk speaker.Harus ada lingkaran radio yang jelas {minradius}.</CantStartNotEnoughSpaceDuelSpeaker>
+  <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
+  <CantStartFuneralForSlave>{0_labelshort} adalah {0_gender?Seorang budak: seorang budak}.Budak tidak memiliki pemakaman.</CantStartFuneralForSlave>
+  <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
+  <NoSlaveBed>Anda membutuhkan tempat tidur budak yang dapat diakses, tidak dipesan, dan dalam suhu yang aman.</NoSlaveBed>
+  <!-- EN: Return to slave bed -->
+  <ReturnToSlaveBed>Budak</ReturnToSlaveBed>
+  <!-- EN: not allowed for faction -->
+  <NotAllowedForFaction>Itu tidak diperbolehkan untuk faksi</NotAllowedForFaction>
+
+  <!-- EN: Remove precept -->
+  <RemovePrecept>Menghilangkan sila</RemovePrecept>
+  <!-- EN: Regenerate -->
+  <Regenerate>Diperbarui</Regenerate>
+  <!-- EN: Cannot edit -->
+  <CannotEdit>Tidak dapat diedit</CannotEdit>
+  <!-- EN: No choices available -->
+  <NoChoicesAvailable>Tidak ada opsi yang tersedia</NoChoicesAvailable>
+  <!-- EN: Required by meme {0} -->
+  <RequiredByMeme>Diperlukan oleh meme {0}</RequiredByMeme>
+  <!-- EN: Required -->
+  <Required>Diminta</Required>
+  <!-- EN: Style category -->
+  <StyleCategory>Kategori gaya</StyleCategory>
+  <!-- EN: Add style category -->
+  <AddStyleCategory>Tambahkan kategori gaya</AddStyleCategory>
+  <!-- EN: Can't add more than {0} rituals. -->
+  <MaxRitualCount>Anda tidak dapat menambahkan lebih dari {0} ritual.</MaxRitualCount>
+  <!-- EN: Can't add more than {0} relics. -->
+  <MaxRelicCount>Anda tidak dapat menambahkan lebih dari {0} peninggalan.</MaxRelicCount>
+  <!-- EN: can't have more than {0} specialists. -->
+  <MaxMultiRolesCount>Anda tidak dapat memiliki lebih dari {0} spesialis.</MaxMultiRolesCount>
+  <!-- EN: max {0} -->
+  <MaxPreceptCount>Max.{0}</MaxPreceptCount>
+  <!-- EN: Set gender -->
+  <SetTargetGender>Pilih jenis kelamin</SetTargetGender>
+  <!-- EN: must be {0} faction -->
+  <RoleApparelRequirementIncompatibleFaction>Itu harus dari faksi {0}</RoleApparelRequirementIncompatibleFaction>
+  <!-- EN: tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>kesukuan</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <!-- EN: non-tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>tidak ada suku</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <!-- EN: requires any of these memes -->
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>membutuhkan meme ini</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <!-- EN: cannot be worn with assigned apparel -->
+  <BodyPartAlreadyCovered>tidak bisa mengambil pakaian yang ditugaskan</BodyPartAlreadyCovered>
+  <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
+  <NoteRoleApparelRequirementEffects>Para pemukim bersukacita ketika persyaratan pakaian mereka dipenuhi dan sedih ketika mereka dilanggar.</NoteRoleApparelRequirementEffects>
+  <!-- EN: supercharge not ready -->
+  <NeuralSuperchargeNotReady>Supercard belum siap</NeuralSuperchargeNotReady>
+  <!-- EN: already getting -->
+  <NeuralSuperchargeAlreadyGetting>sudah selesai</NeuralSuperchargeAlreadyGetting>
+  <!-- EN: Set type -->
+  <SetApparelType>Menetapkan jenis</SetApparelType>
+
+  <!-- EN: change style -->
+  <ChangeStyle>Ubah gaya</ChangeStyle>
+  <!-- EN: {0} {DEITYNOUN} required -->
+  <DeitiesRequired>{0} {deitynoun} diperlukan</DeitiesRequired>
+  <!-- EN: deity -->
+  <Deity>dewa</Deity>
+  <!-- EN: requires meme -->
+  <RequiresMeme>Membutuhkan meme</RequiresMeme>
+  <!-- EN: requires one of -->
+  <RequiresOneOfMemes>membutuhkan salah satunya</RequiresOneOfMemes>
+  <!-- EN: conflicts with meme -->
+  <ConflictsWithMeme>konflik dengan meme itu</ConflictsWithMeme>
+  <!-- EN: conflicts with memes -->
+  <ConflictsWithMemes>Konflik dengan meme</ConflictsWithMemes>
+  <!-- EN: can only have one altar/ideogram -->
+  <IdeoAlreadyHasAltar>Anda hanya dapat memiliki altar/ideogram</IdeoAlreadyHasAltar>
+  <!-- EN: recolor apparel -->
+  <RecolorApparel>Pakaian yang diulang kembali</RecolorApparel>
+
+  <!-- EN: Install {0} -->
+  <InstallRelic>Instal {0}</InstallRelic>
+  <!-- EN: Extract {0} -->
+  <ExtractRelic>Ekstrak {0}</ExtractRelic>
+  <!-- EN: Extract {0} to inventory ({1}) -->
+  <ExtractRelicToInventory>Ekstrak {0} ke inventaris ({1})</ExtractRelicToInventory>
+  <!-- EN: No relic to install -->
+  <NoRelicToInstall>Tidak ada peninggalan untuk dipasang</NoRelicToInstall>
+  <!-- EN: Install in reliquary -->
+  <InstallInReliquary>Memasang</InstallInReliquary>
+  <!-- EN: no empty accessible reliquary -->
+  <NoEmptyReliquary>Tidak ada kekosongan yang dapat diakses</NoEmptyReliquary>
+
+  <!-- EN: No {MEMBERNAME} warden -->
+  <NoWardenOfIdeo>Tanpa {anggota} waspada</NoWardenOfIdeo>
+
+  <!-- EN: Remove current role -->
+  <RemoveCurrentRole>Menghilangkan peran saat ini</RemoveCurrentRole>
+
+  <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
+  <EnterBiosculpterPod>Masukkan kapsul bio -culpture untuk siklus {0} ({1})</EnterBiosculpterPod>
+  <!-- EN: Biotuned to someone else. -->
+  <BiosculpterBiotunedToAnother>Biocalibrating orang lain.</BiosculpterBiotunedToAnother>
+  <!-- EN: Must be {0} years old for age reversal. -->
+  <UnderMinBiosculpterAgeReversalAge>Anda harus memiliki {0} tahun untuk pembalikan usia.</UnderMinBiosculpterAgeReversalAge>
+  <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
+  <CarryToBiosculpterPod>Ambil {Pawn_labelshort} ke bio -culpture capsule ({siklus})</CarryToBiosculpterPod>
+  <!-- EN: Cannot carry to biosculpter pod -->
+  <CannotCarryToBiosculpterPod>Itu tidak dapat dibawa ke kapsul bio -sculpture</CannotCarryToBiosculpterPod>
+  <!-- EN: No available biosculpter pod. -->
+  <NoBiosculpterPod>Tidak ada kapsul bio -sculpture yang tersedia.</NoBiosculpterPod>
+  <!-- EN: Nutrition not loaded -->
+  <BiosculpterNutritionNotLoaded>Nutrisi tidak dimuat</BiosculpterNutritionNotLoaded>
+  <!-- EN: Occupied -->
+  <BiosculpterOccupied>Sibuk</BiosculpterOccupied>
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Itu tidak bisa masuk</CannotEnter>
+  <!-- EN: Cannot start {0} cycle -->
+  <BiosculpterCannotStartCycle>Anda tidak dapat memulai siklus {0}</BiosculpterCannotStartCycle>
+  <!-- EN: Cannot find cycle ingredients ({INGREDIENTS}) -->
+  <BiosculpterMissingIngredients>Bahan siklus tidak ditemukan ({bahan})</BiosculpterMissingIngredients>
+  <!-- EN: Nobody around can use this -->
+  <BiosculpterNoEligiblePawns>Tidak ada orang di sekitar yang bisa menggunakan ini</BiosculpterNoEligiblePawns>
+  <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
+  <BiosculpterNoEligiblePawnsBiotuned>Biocalibrada untuk {Pawn_labelshort}, tapi {Pawn_pronoun} tidak tersedia</BiosculpterNoEligiblePawnsBiotuned>
+  <!-- EN: Auto load nutrition -->
+  <BiosculpterAutoLoadNutritionLabel>Nutrisi sendiri</BiosculpterAutoLoadNutritionLabel>
+  <!-- EN: Automatically load the nutrition required to run a cycle -->
+  <BiosculpterAutoLoadNutritionDescription>Secara otomatis memuat nutrisi yang diperlukan untuk melakukan siklus</BiosculpterAutoLoadNutritionDescription>
+  <!-- EN: Auto age reversal for {PAWN_labelShort} -->
+  <BiosculpterAutoAgeReversalLabel>Pengembalian Usia Otomatis untuk {Pawn_lallshort}</BiosculpterAutoAgeReversalLabel>
+  <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+  <BiosculpterAutoAgeReversalDescription>Secara otomatis memenuhi keinginan {pawn_lallshort} untuk melakukan perawatan pengembalian usia tahunan dalam kapsul ini, menurut keyakinan mereka.{Nextreatment}</BiosculpterAutoAgeReversalDescription>
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <BiosculpterAutoAgeReversalDescriptionFuture>Jika diaktifkan, {pawn_labelshort} akan secara otomatis mengambil perawatan Anda berikutnya di {time} jika kapsul sudah siap.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
+  <BiosculpterAutoAgeReversalDescriptionNow>{Pawn_labelshort} sudah menginginkan perawatan berikutnya dan akan mulai secara otomatis jika diaktifkan.</BiosculpterAutoAgeReversalDescriptionNow>
+  <!-- EN: Collecting ingredients for biosculpter cycle -->
+  <BiosculpterJobReportCollectIngredients>Mengumpulkan sumber daya untuk siklus bio -sculpture</BiosculpterJobReportCollectIngredients>
+</LanguageData>

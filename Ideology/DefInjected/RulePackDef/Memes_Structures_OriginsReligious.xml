@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deitytype-> pencipta [semua]</li>
+    <li>r_deityType-> [adj] dewa</li>
+    <li>semua-> semuanya</li>
+    <li>semua-> semua</li>
+    <li>semua-> alam semesta</li>
+    <li>adj-> semua-kuat</li>
+    <li>adj-> Mahakuasa</li>
+    <li>adj-> universal</li>-><DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+    <li>r_deitytype-> creador [semua]</li>
+    <li>r_deytypetype-> dis [adj]</li>
+    <li>Semua-> dari segalanya</li>
+    <li>All-> of Life</li>
+    <li>Semua-> alam semesta</li>
+    <li>adj-> semua kuat</li>
+    <li>adj-> Mahakuasa</li>
+    <li>adj-> universal</li>
+  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityname (3)-> Darah</li>
+    <li>r_deityname-> Christ-lord</li>
+    <li>r_deityname-> Kristus</li>
+    <li>r_deityname-> [Color] Jesus</li>
+    <li>r_deityname-> [Color] Christ</li>-><NamerDeityChristian.rulePack.rulesStrings>
+    <li>r_deityname (3)-> Tuhan</li>
+    <li>r_dejyme-> Dontthus Christ</li>
+    <li>r_deityname-> Kristus</li>
+    <li>R_dename-> donname-jesus [warna]</li>
+    <li>r_deityname-> cristo [Color]</li>
+  </NamerDeityChristian.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityname (8)-> Allah</li>
+    <li>r_deityname-> al-Ilah</li>
+    <li>r_deityname-> The Re-Rahman</li>
+    <li>r_deityname-> al-Malik</li>
+    <li>r_deityname-> al-qudus</li>
+    <li>r_deityname-> as-salam</li>
+    <li>r_deitynam-> al-Mumine</li>
+    <li>r_deityname-> assis</li>
+    <li>r_deityname-> al-Jabbar</li>
+    <li>p_deetnam-> al-Halia</li>
+    <li>r_deityname-> al-Ghaffar</li>
+    <li>r_deitymahar</li>
+    <li>r_deityname-> al-whab</li>
+    <li>R_deityname-> al-fattah</li>
+    <li>r_deityname-> al-ALIM</li>
+    <li>r_deyyname-> al-Hakam</li>-><NamerDeityIslamic.rulePack.rulesStrings>
+    <li>r_deityname (8)-> Allah</li>
+    <li>r_deityname-> al-Ilah</li>
+    <li>r_deityname-> The Re-Rahman</li>
+    <li>r_deityname-> al-Malik</li>
+    <li>r_deityname-> al-qudus</li>
+    <li>r_deityname-> as-salam</li>
+    <li>r_deitynam-> al-Mumine</li>
+    <li>r_deityname-> assis</li>
+    <li>r_deityname-> al-Jabbar</li>
+    <li>p_deetnam-> al-Halia</li>
+    <li>r_deityname-> al-Ghaffar</li>
+    <li>r_deitymahar</li>
+    <li>r_deityname-> al-whab</li>
+    <li>R_deityname-> al-fattah</li>
+    <li>r_deityname-> al-ALIM</li>
+    <li>r_deyyname-> al-Hakam</li>
+  </NamerDeityIslamic.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chitchat -->
+  <Chitchat.label>obrolan</Chitchat.label>
+  <!-- EN:
+    <li>r_logentry-> [INITIATOR_namaDef] dan [RECIPIENT_namaDef] [pembicaraan] [subjek].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] [pembicaraan] [subjek] dengan [RECIPIENT_namaDef].</li>
+    <li>r_logentry (p = 0.8)-> [initiator_namadef] [CommentEbout] [subjek] ke [penerima_namadef].</li>
+    <li>subjek (initiator_cubeInterest = false) -> [TalkTopiclight].</li>
+    <li>subjek (initiator_cubeInterest = true) -> [TalkTopicCube].</li>
+    <li>talkedabout(p=4)->membicarakan tentang</li>
+    <li>talkedabout-> berbagi cerita tentang</li>
+    <li>berbicara tentang-> berbicara tentang</li>
+    <li>dibicarakan->dibicarakan tentang</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> bercanda</li>
+    <li>Talkedabout-> menyindir</li>
+    <li>berkomentar di luar> mengatakan sesuatu tentang</li>
+    <li>berkomentar di atas-> mengucapkan sepatah kata pun tentang</li>
+    <li>berkomentar di atas-> berkomentar tentang</li>
+    <li>berkomentar di atas-> berkomentar tentang</li>
+    <li>berkomentar di atas-> bercanda tentang</li>-><Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] y [penerima_namedef] [talkedabout] [subjek].</li>
+    <li>r_logentry-> [initiator_namedef] [talkEdabout1] [subjek] con [penerima_namedef].</li>
+    <li>r_logentry (p = 0.8)-> [initiator_namedef] [CommentEbout] [subjek] A [penerima_namedef].</li>
+    <li>subjek (initiator_cubeInterest == false)-> [TalkTopiclight]</li>
+    <li>subjek (initiator_cubeInterest == true)-> [TalkTopicCube]</li>
+    <li>TalkedObout (p = 4)-> Mereka berbicara tentang</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> CHATTED ON</li>
+    <li>Berbicara tentang-> mereka berbisik</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> bercanda</li>
+    <li>TalkedObout-> mereka membuat lelucon tentang</li>
+    <li>TalkEdabout1 (p = 4)-> mengomentari sesuatu</li>
+    <li>TalkedObout1-> Tell On</li>
+    <li>TalkedObout1-> mengatakan sesuatu tentang</li>
+    <li>Dibicarakan 1-> membisikkan sesuatu tentang</li>
+    <li>TalkedObout1-> mengomentari sesuatu tentang</li>
+    <li>Dibicarakan1-> dia bercanda</li>
+    <li>TalkedoBout1-> membuat lelucon tentang</li>
+    <li>Berkomentar</li>
+    <li>Berkomentar</li>
+    <li>Commeadabout-> Comment on</li>
+    <li>Commentedoabout-> Commented on</li>
+    <li>Commeadabout-> bercanda tentang</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: deep talk -->
+  <DeepTalk.label>berbincang mendalam</DeepTalk.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] dan [penerima_namedef] [talkedabout] [subjek].</li>
+    <li>r_logentry-> [initiator_namedef] [talkedabout] [subjek] dengan [penerima_namedef].</li>
+    <li>Talkedabout-> Pikiran yang dikomunikasikan tentang</li>
+    <li>Talkedabout-> bertukar pikiran tentang</li>
+    <li>Talkedabout-> bertukar ide tentang</li>
+    <li>Talkedabout-> Views On</li>
+    <li>Talkedabout-> BERTAMPAI BERSAMA DI</li>
+    <li>Talkedabout-> membahas topik</li>
+    <li>Talkedabout-> berbicara tentang</li>
+    <li>Talkedabout-> berbicara dengan tenang</li>
+    <li>Talkedabout-> berbicara secara mendalam tentang</li>
+    <li>Talkedabout-> terhubung pada topik</li>
+    <li>subjek (initiator_cubeInterest == false)-> [TalkTopICheavy]</li>
+    <li>subjek (initiator_cubeInterest == true)-> [TalkTopicCube]</li>-><DeepTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] y [penerima_namedef] [talkedabout] [subjek].</li>
+    <li>r_logentry-> [initiator_namedef] [talkedabout_var] [subjek] con [penerima_namedef].</li>
+    <li>TalkedObout-> Ide Berbagi tentang</li>
+    <li>Talkedabout-> Opp Opinies Tentang</li>
+    <li>Talkedabout-> CHATTED ON</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> dibahas</li>
+    <li>TalkedObout-> Mereka berbicara secara mendalam tentang</li>
+    <li>Talkedabout-> dibahas</li>
+    <li>Talkedabout-> berbagi pandangan mereka</li>
+    <li>Berbicara tentang-> membagikan ide-ide mereka tentang</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout_var-> Ide-ide yang dibagikan tentang</li>
+    <li>TalkEdabout_var-> bertukar pendapat tentang</li>
+    <li>Talkedabout_var-> chatted on</li>
+    <li>Talkedabout_var-> membicarakannya</li>
+    <li>Talkedabout_var-> dibahas</li>
+    <li>Talkedobout_var-> berbicara secara mendalam tentang</li>
+    <li>Talkedabout_var-> opini sesuatu tentang</li>
+    <li>Talkedobout_var-> membagikan pandangannya</li>
+    <li>talkedabout_var->compartió sus ideas sobre</li>
+    <li>Talkedabout_var-> membicarakannya</li>
+    <li>subjek (initiator_cubeInterest == false)-> [TalkTopICheavy]</li>
+    <li>subjek (initiator_cubeInterest == true)-> [TalkTopicCube]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: insult -->
+  <Insult.label>stroke</Insult.label>
+  <!-- EN:
+    <li>r_logentry (p = 3)-> [initiator_namedef] [dihina] [target] [karakteristik].</li>
+    <li>r_logentry-> [initiator_namedef] membandingkan [target] dengan [penghinaan].</li>
+    <li>r_logentry-> [initiator_namedef] disebut [target] [penghinaan].</li>
+    <li>r_logentry (initiator_cubeInterest == false, penerima_cubeInterest == true)-> [initiator_namedef] disebut [target] penyembah berhala palsu.</li>
+    <li>r_logentry (initiator_cubeInterest == false, penerima_cubeInterest == true)-> [initiator_namedef] menyiratkan bahwa [target] telah didorong gila oleh kubus emas.</li>
+    <li>r_logentry (initiator_cubeInterest == false, penerima_cubeInterest == true)-> [initiator_namedef] [dihina] kubus emas.</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Personalcharacteristic]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> [PersonalcharacteristicCube]</li>
+    <li>target (p = 4)-> [penerima_namedef]</li>
+    <li>Target-> [penerima_namedef] [keluarga orang]</li>
+    <li>dihina (p = 3)-> dihina</li>
+    <li>dihina-> secara terbuka dihina</li>
+    <li>dihina-> dengan keras menghina</li>
+    <li>penghinaan-> menghina dengan sangat baik</li>
+    <li>dihina-> secara langsung dihina</li>
+    <li>dihina-> menghina dengan kejam</li>
+    <li>dihina-> dengan sangat tidak dihormati</li>
+    <li>dihina-> fitnah</li>
+    <li>Invektif yang dihina-> dilemparkan</li>
+    <li>dihina-> diejek</li>
+    <li>menghina (initiator_cubeInterest == false, p = 2)-> a [hewan]</li>
+    <li>menghina (initiator_cubeInterest == false)-> a [musuh]</li>
+    <li>menghina (initiator_cubeInterest == true)-> sebuah bola</li>
+    <li>menghina (initiator_cubeInterest == true)-> Sesuatu yang sama sekali tidak ada gunanya</li>
+    <li>menghina (initiator_cubeInterest == true)-> Objek platonik non-kubik</li>-><Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry (p = 3)-> [initiator_namedef] [dihina] {ganti: de [karakteristik];"de el"-"del"} de [target].</li>
+    <li>r_logentry-> [initiator_namedef] membandingkan [target] dengan [penghinaan Indef].</li>
+    <li>r_logentry-> [initiator_namedef] disebut [target] [penghinaan].</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Karakteristik Def]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> su [personalcharacteristiccube]</li>
+    <li>Karakteristik Def-> la [personalcharacteristic_fem]</li>
+    <li>Karakteristik Def-> el [pribadi orang lain]</li>
+    <li>Karakteristik Def-> de la [personalcharacteristic_fem]</li>
+    <li>Def- Karakteristik> Hapus [Karakteristik Pribadi]</li>
+    <li>target (p = 4)-> [penerima_namedef]</li>
+    <li>Target-> [Familyfamily] de [penerima_namedef]</li>
+    <li>Dihina (p = 3)-> dihina</li>
+    <li>Dihina-> secara terbuka dihina</li>
+    <li>dihina-> secara terbuka tersinggung</li>
+    <li>dihina-> diejek secara langsung</li>
+    <li>dihina-> dihina secara langsung</li>
+    <li>dihina-> dibenci</li>
+    <li>menghina-> dihina</li>
+    <li>menghina-> mengolok-olok</li>
+    <li>InsultComparisonIndef (initiator_cubeInterest == false, p = 2)-> [animalIndef]</li>
+    <li>InsultComparisonIndef (initiator_cubeInterest == false)-> [musuh]</li>
+    <li>InsultComparisonIndef (initiator_cubeInterest == true) -> single esfera</li>
+    <li>InsultComparisonIndef (initiator_cubeInterest == true)-> Sesuatu yang benar-benar bodoh</li>
+    <li>menghina (initiator_cubeInterest == false, p = 2)-> [animalany]</li>
+    <li>menghina (initiator_cubeInterest == false)-> [musuh]</li>
+    <li>menghina (initiator_cubeInterest == true)-> Objek platonik non-kubik</li>
+    <li>InsultCompanison (initator_cubeInterest == true)-> Gambar geometris dalam kubik</li>
+  </Insult.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: kind words -->
+  <KindWords.label>kebaikan</KindWords.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [Dipuji] [penerima_namedef] [Karakteristik].</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Personalcharacteristic]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> [PersonalcharacteristicCube]</li>
+    <li>Dipuji (p = 3)-> Dipuji</li>
+    <li>memuji-> dipuji</li>
+    <li>Dipuji-> Dipuji</li>
+    <li>Dipuji-> dipuji</li>
+    <li>memuji-> bertepuk tangan</li>
+    <li>Dipuji-> dirayakan</li>
+    <li>Dipuji-> Salut</li>
+    <li>Dipuji-> berbicara dengan ramah</li>
+    <li>memuji-> diungkapkan hal-hal baik tentang</li>
+    <li>memuji-> kata-kata yang ditawarkan tentang</li>
+    <li>Dipuji-> dihargai secara verbal</li>
+    <li>Dipuji-> Penghargaan yang Disampaikan untuk</li>
+    <li>memuji-> mengatakan hal-hal baik tentang</li>-><KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [Dipuji] [karakteristik] de [penerima_namedef].</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Karakteristik Def]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> su [personalcharacteristiccube]</li>
+    <li>Karakteristik Def-> la [personalcharacteristic_fem]</li>
+    <li>Karakteristik Def-> el [pribadi orang lain]</li>
+    <li>Memuji (p = 3)-> dipuji</li>
+    <li>Dipuji-> Alabó</li>
+    <li>Memuji-> dipuji</li>
+    <li>Dipuji-> ditinggikan</li>
+    <li>Memuji-> bertepuk tangan</li>
+    <li>Dipuji-> dirayakan</li>
+    <li>Memuji-> diungkapkan hal-hal baik tentang</li>
+    <li>Memuji-> menghargai</li>
+    <li>Memuji-> mengatakan hal-hal baik tentang</li>
+    <li>Memuji-> dipuji</li>
+    <li>Memuji-> bertepuk tangan</li>
+    <li>Memuji-> diungkapkan hal-hal baik tentang</li>
+    <li>Memuji-> mengatakan hal-hal baik tentang</li>
+  </KindWords.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: slight -->
+  <Slight.label>pelanggaran</Slight.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [madefunof] [target] [karakteristik].</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Personalcharacteristic]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> [PersonalcharacteristicCube]</li>
+    <li>target (p = 4)-> [penerima_namedef]</li>
+    <li>Target-> [penerima_namedef] [keluarga orang]</li>
+    <li>madefunof-> mengolok-olok</li>
+    <li>madefunof-> tidak dihargai</li>
+    <li>madefunof-> secara halus dicemooh</li>
+    <li>madefunof-> secara halus dipermalukan</li>
+    <li>madefunof-> berbicara dengan buruk</li>
+    <li>madefunof-> berbicara secara negatif tentang</li>
+    <li>Madefunof-> Tertawal</li>
+    <li>madefunof-> terkecuali di</li>
+    <li>madefunof-> hal-hal negatif tersirat tentang</li>
+    <li>Madefunof-> Belastled</li>
+    <li>madefunof-> membuat komentar menghina tentang</li>
+    <li>madefunof-> menawarkan pujian backhanded tentang</li>-><Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [madefunof] [karakteristik] de [target].</li>
+    <li>Karakteristik (initiator_cubeInterest == false)-> [Karakteristik Def]</li>
+    <li>Karakteristik (initiator_cubeInterest == true)-> de su [personalcharacteristiccube]</li>
+    <li>Karakteristik Def-> de la [personalcharacteristic_fem]</li>
+    <li>Def- Karakteristik> Hapus [Karakteristik Pribadi]</li>
+    <li>target (p = 4)-> [penerima_namedef]</li>
+    <li>Target-> [Familyfamily] de [penerima_namedef]</li>
+    <li>Madefunof-> mengolok-olok</li>
+    <li>Madefunof-> mengolok-olok</li>
+    <li>Madefunof-> membuat lelucon</li>
+    <li>Madefunof-> mengolok-olok</li>
+    <li>Madefunof-> berbicara dengan buruk</li>
+    <li>Madefunof-> berbicara secara negatif</li>
+    <li>Madefunof-> tertawa</li>
+    <li>Madefunof-> tertawa</li>
+    <li>Madefunof-> dia berbicara dengan meremehkan</li>
+    <li>Madefunof-> berbicara dengan mengejek</li>
+    <li>Madefunof-> membuat komentar mengejek</li>
+    <li>Madefunof-> berbicara secara negatif</li>
+  </Slight.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

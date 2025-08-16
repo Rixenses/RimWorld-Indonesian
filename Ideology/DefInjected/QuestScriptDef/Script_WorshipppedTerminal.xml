@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terminalhackedmessage-> terminal diretas.Anda telah mengumpulkan informasi dan sekarang dapat pergi.</li>-><Hack_WorshippedTerminal.questContentRules.rulesStrings>
+    <li>Pesan yang diretas-> Terminal Hackeada.Anda telah mengumpulkan informasi dan sekarang Anda dapat pergi.</li>
+  </Hack_WorshippedTerminal.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah belajar tentang terminal kuno yang berisi informasi tentang [Relic_name].Namun, terminal dikelilingi oleh desa suku, dan penduduk setempat memuliakannya.Mereka bukan bagian dari faksi utama. \ N \ n [Visitinfo]</li>
+    <li>VisitInfo (AllowviolentQuests == true) -> Mereka bersedia untuk membiarkan Anda mengunjungi kepura -puraan menyembahnya, tetapi mereka akan menyerang ketika Anda menyentuhnya.bala bantuan.</li>
+    <li>VisitInfo (AllowViolentQuests == false)-> Mereka bersedia membiarkan Anda berkunjung.</li>-><Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah belajar tentang keberadaan terminal lama yang berisi informasi tentang peninggalan [relic_name].Namun, terminal dikelilingi oleh kota suku, dan penduduk setempat memuliakannya.Penduduk setempat ini bukan bagian dari faksi penting. \ N \ n [visitinfo]</li>
+    <li>VisitInfo (AllowiolentQuest == Benar)-> Mereka bersedia membiarkan mereka mengunjungi mereka dengan menerima dalih Anda untuk menyembah peninggalan, tetapi mereka akan menyerang ketika Anda menyentuhnya. Atau Anda membangun sesuatu yang dekat dengannya, penduduk setempat akan menyerang, dan memanggil bala bantuan.</li>
+    <li>VisitInfo (allowiolentquest == false)-> Mereka bersedia membiarkan mereka mengunjungi mereka.</li>
+  </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [adj] [terminalName]</li>
+    <li>adj-> disembah</li>
+    <li>adj-> dihormati</li>
+    <li>adj-> kuno</li>
+    <li>adj-> penduduk desa</li>
+    <li>adj-> desa</li>
+    <li>adj-> kesukuan</li>
+    <li>adj-> rahasia</li>
+    <li>terminalName (p = 4)-> terminal</li>
+    <li>terminalName-> mesin</li>
+    <li>TerminalName-> Perangkat</li>
+    <li>TerminalName-> Screen</li>
+    <li>Nama Terminal-> Komputer</li>
+    <li>terminalName-> databank</li>
+    <li>TerminalName-> Database</li>
+    <li>terminalname-> silikon</li>-><Hack_WorshippedTerminal.questNameRules.rulesStrings>
+    <li>QuestName-> LA [terminalName] [adj]</li>
+    <li>QuestName-> [terminaleName1] [adj1]</li>
+    <li>adj-> disembah</li>
+    <li>adj-> dihormati</li>
+    <li>adj-> antigua</li>
+    <li>adj-> sakral</li>
+    <li>adj-> dari orang</li>
+    <li>adj-> kesukuan</li>
+    <li>Adj-> Secreta</li>
+    <li>adj1-> disembah</li>
+    <li>adj1-> dihormati</li>
+    <li>Adj1-> tua</li>
+    <li>Adj1-> sakral</li>
+    <li>adj1-> dari orang</li>
+    <li>adj1-> suku</li>
+    <li>adj1-> rahasia</li>
+    <li>terminalName (p = 4)-> terminal</li>
+    <li>Terminal-> mesin</li>
+    <li>Terminal1-> perangkat</li>
+    <li>Terminal-> Layar</li>
+    <li>Terminal-> komputer</li>
+    <li>TerminalName1-> Bank Data</li>
+    <li>Basis Terminaname-> Tanggal</li>
+    <li>Termname1-> silikon</li>
+  </Hack_WorshippedTerminal.questNameRules.rulesStrings>
+  
+</LanguageData>

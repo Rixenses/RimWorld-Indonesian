@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Memleadernoun (prioritas = 1)-> [CultureLeAdernoun]</li>
+    <li>CultureLeaderTitle-> [CultureLeAderAdjective] [CultureLeArnoun]</li>
+    <li>CultureLeAderAdjective-> Great</li>
+    <li>CultureLeaderAdjective-> High</li>
+    <li>CultureLeAderAdjective-> pertama</li>
+    <li>CultureLeaderAdjective-> Grand</li>
+    <li>cultureLeArnoun-> kepala</li>-><LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+    <li>Memleadernoun (prioritas = 1)-> [CultureLeAdernoun]</li>
+    <li>CultureLeaderTitle-> [CultureLeArnoun] [CultureLeaderAdjective]</li>
+    <li>CultureLeaderTitle-> [CultureLeaderAdjective1] [CultureLeArnoun]</li>
+    <li>CultureLeaderAdjective-> supremo</li>
+    <li>CultureLeaderAdjective1-> gran</li>
+    <li>CultureLeAderAdjective1-> primer</li>
+    <li>kultural</li>
+    <li>CultureLeAdernoún-> Chief</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>CultureLeaderAdjective-> High</li>
+    <li>CultureLeAderAdjective-> Great</li>
+    <li>CultureLeAderAdjective-> pertama</li>
+    <li>cultureLeaderAdjective-> prime</li>
+    <li>CultureLeArnoun-> Presiden</li>
+    <li>CultureLeArnoun-> Direktur</li>
+    <li>CultureLeArnoun-> Gubernur</li>
+    <li>cultureLeArnoun-> pemimpin</li>-><LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+    <li>CultureLeaderAdjective1-> gran</li>
+    <li>CultureLeaderAdjective-> supremo</li>
+    <li>CultureLeAderAdjective1-> primer</li>
+    <li>CultureLeaderAdjective-> Principal</li>
+    <li>cultureLeArnoun-> presidente</li>
+    <li>CultureLeArnoun-> Direktur</li>
+    <li>CultureLeAdernoún-> Gubernur</li>
+    <li>CultureLeadernoún-> pemimpin</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_leaderTitle (p = 6)-> [memeLeaderAdjective] [memleeadernoun]</li>
+    <li>r_leaderTitle (p = 3)-> [CultureLeAderAdjective] [MemeleAdernoun]</li>
+    <li>r_leaderTitle (p = 1)-> [memleeaderadjective] [CultureLeArnoun]</li>
+    <li>r_leaderTitle (p = 1)-> [CultureLeaderTitle]</li>-><LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+    <li>r_leaderTitle (p = 6)-> [memleeadernoun] [memleeaderadjective]</li>
+    <li>r_leaderTitle (p = 3)-> [memleeadernoun] [cultureLeaderAdjective]</li>
+    <li>r_leaderTitle (p = 3)-> [CultureLeAderAdjective1] [Memleadernoun]</li>
+    <li>r_leaderTitle (p = 1)-> [CultureLeAdernoun] [MemeLeaderAdjective]</li>
+    <li>r_leaderTitle (p = 1)-> [CultureLeaderTitle]</li>
+  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Memleadernoun (prioritas = 1)-> [CultureLeAdernoun]</li>
+    <li>CultureLeaderTitle-> [CultureLeAderAdjective] [CultureLeArnoun]</li>
+    <li>CultureLeAderAdjective-> Big</li>
+    <li>cultureLeaderAdjective-> Top</li>
+    <li>CultureLeaderAdjective-> Full</li>
+    <li>bos CultureLeAdernoun-></li>
+    <li>cultureLeArnoun-> thug</li>
+    <li>CultureLeArnoun-> Cheese</li>
+    <li>CultureLeArnoun-> Gun</li>
+    <li>CultureLeArnoun-> Dog</li>-><LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+    <li>Memleadernoun (prioritas = 1)-> [CultureLeAdernoun]</li>
+    <li>CultureLeaderTitle-> [CultureLeArnoun] [CultureLeaderAdjective]</li>
+    <li>CultureLeAderAdjective-> Mortal</li>
+    <li>CultureLeaderAdjective-> supremo</li>
+    <li>CultureLeAderAdjective-> Intelectual</li>
+    <li>CultureLeAdernoún-> Chief</li>
+    <li>CultureLeArnoun-> Mafioso</li>
+    <li>CULTERGENTER Schoount-> Proments</li>
+    <li>CultureLeArnoun-> Pistolero</li>
+    <li>CultureLeArnoun-> Gangster</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>CultureLeaderTitle-> [CultureLeAderAdjective] [CultureLeArnoun]</li>
+    <li>cultureLeaderAdjective-> prime</li>
+    <li>CultureLeAderAdjective-> pertama</li>
+    <li>CultureLeArnoun-> Anggota Dewan</li>
+    <li>cultureLeArnoun-> pemimpin</li>
+    <li>CultureLeArnoun-> Menteri</li>
+    <li>cultureLeArnoun-> panduan</li>
+    <li>CULLURUREADERNOUN-> Steersman</li>-><LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+    <li>CultureLeaderTitle-> [CultureLeArnoun] [CultureLeaderAdjective]</li>
+    <li>CultureLeaderAdjective-> Principal</li>
+    <li>CultureLeaderAdjective-> supremo</li>
+    <li>CultureLeAdernoún-> Counselor</li>
+    <li>CultureLeadernoún-> pemimpin</li>
+    <li>CultureLeArnoun-> Ministro</li>
+    <li>CultureLeArnoun-> panduan</li>
+    <li>CultureLeArnoun-> Timonero</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_leaderTitle-> Stellarch Tinggi</li>-><LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+    <li>R_leaderTitle-> Great Star</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+  
+</LanguageData>

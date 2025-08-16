@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: spark slave rebellion -->
+  <SparkSlaveRebellion.label>Pemberontakan anak laki -laki</SparkSlaveRebellion.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] menyarankan mereka membuat istirahat untuk itu.</li>
+    <li>r_logentry-> [initiator_namedef] mendorong [penerima_namedef] untuk mengambil kembali kebebasan [penerima_possessive].</li>
+    <li>r_logentry-> [initiator_namedef] berbicara tentang mengakhiri perbudakan mereka dan membuat istirahat untuk itu.</li>
+    <li>r_logentry-> [initiator_namedef] berbicara tentang kehidupan di luar perbudakan dan mendorong [penerima_namedef] untuk melarikan diri.</li>
+    <li>r_logentry-> [initiator_namedef] Berbisik bahwa keamanannya lemah dan sekarang akan menjadi waktu yang tepat untuk melarikan diri.</li>-><SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] menyarankan agar mereka memulai kebocoran.</li>
+    <li>r_logentry-> [initiator_namedef] mendorong [penerima_namedef] untuk memulihkan kebebasannya.</li>
+    <li>r_logentry-> [initiator_namedef] berbicara tentang mengakhiri perbudakannya dan memulai kebocoran.</li>
+    <li>r_logentry-> [initiator_namedef] berbicara tentang kehidupan di luar perbudakan dan mendorong [penerima_namedef] untuk melarikan diri.</li>
+    <li>r_logentry-> [initiator_namedef] Berbisik bahwa keamanan itu buruk dan sekarang akan menjadi saat yang tepat untuk melarikan diri.</li>
+  </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: suppress -->
+  <Suppress.label>menekan</Suppress.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mengatakan kepada [penerima_namedef] akan ada hukuman untuk pemberontakan.</li>
+    <li>r_logentry-> [initiator_namedef] memperingatkan [penerima_namedef] bahwa ketidaktaatan akan dihukum.</li>
+    <li>r_logentry-> [initiator_namedef] memperingatkan [penerima_namedef] terhadap pelanggaran dalam bentuk apa pun.</li>
+    <li>r_logentry-> [initiator_namedef] menyarankan agar [penerima_namedef] mengikuti pesanan dan tidak mengajukan pertanyaan.</li>-><Suppress.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] mengatakan kepada [penerima_namedef] bahwa akan ada hukuman untuk memberontak.</li>
+    <li>r_logentry-> [initiator_namedef] memperingatkan [penerima_namedef] bahwa ketidaktaatan akan dihukum.</li>
+    <li>r_logentry-> [initiator_namedef] memperingatkan [penerima_namedef] tentang pelanggaran dalam bentuk apa pun.</li>
+    <li>r_logentry-> [initiator_namedef] menyarankan agar [penerima_namedef] mengikuti pesanan dan tidak mengajukan pertanyaan.</li>
+  </Suppress.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: component box -->
+  <AncientBox_ComponentIndustrial.label>kotak komponen</AncientBox_ComponentIndustrial.label>
+  <!-- EN: A box filled with valuable components. Some are intact and useable. -->
+  <AncientBox_ComponentIndustrial.description>Kotak penuh komponen berharga.Beberapa masih utuh dan dapat digunakan.</AncientBox_ComponentIndustrial.description>
+  
+  <!-- EN: advanced component box -->
+  <AncientBox_ComponentSpacer.label>Kotak Komponen Lanjutan</AncientBox_ComponentSpacer.label>
+  <!-- EN: A box of advanced components, well-preserved and potentially valuable. -->
+  <AncientBox_ComponentSpacer.description>Kotak komponen canggih, diawetkan dengan baik dan berpotensi berharga.</AncientBox_ComponentSpacer.description>
+  
+  <!-- EN: steel scrap box -->
+  <AncientBox_SteelSlag.label>Kotak memo baja</AncientBox_SteelSlag.label>
+  <!-- EN: A box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
+  <AncientBox_SteelSlag.description>Kotak penuh memo baja.Ini berat tetapi bisa mengandung beberapa logam yang dapat dipulihkan.</AncientBox_SteelSlag.description>
+  
+  <!-- EN: chemfuel canister -->
+  <AncientChemfuelCanister.label>Biofuel bisa</AncientChemfuelCanister.label>
+  <!-- EN: A sealed canister of chemfuel. It might still contain usable fuel. -->
+  <AncientChemfuelCanister.description>Wadah tertutup biofuel.Itu masih bisa mengandung bahan bakar yang dapat digunakan.</AncientChemfuelCanister.description>
+  
+  <!-- EN: steel scrap pallet -->
+  <AncientPallet_SteelSlag.label>Mow memo baja</AncientPallet_SteelSlag.label>
+  <!-- EN: A pallet stacked with steel scrap. It could still hold some recoverable metal. -->
+  <AncientPallet_SteelSlag.description>Palet bertumpuk dengan sampah baja.Itu masih bisa mengandung beberapa logam yang dapat dipulihkan.</AncientPallet_SteelSlag.description>
+  
+  <!-- EN: rusted safe -->
+  <AncientSafe.label>Teroksidasi aman</AncientSafe.label>
+  <!-- EN: A locked safe. It's heavily rusted, making it easy to open. It may hold valuable items inside. -->
+  <AncientSafe.description>Brankas tertutup.Ini sangat teroksidasi, yang membuatnya mudah dibuka.Ini dapat berisi benda -benda berharga di dalamnya.</AncientSafe.description>
+  
+  <!-- EN: sealed container -->
+  <AncientSealedContainer.label>wadah tertutup</AncientSealedContainer.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer.description>Wadah besar disegel.Ini mungkin berisi persediaan yang berharga.</AncientSealedContainer.description>
+  
+  <!-- EN: sealed container -->
+  <AncientSealedContainer_GravshipUpgrade.label>wadah tertutup</AncientSealedContainer_GravshipUpgrade.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer_GravshipUpgrade.description>Wadah besar disegel.Ini mungkin berisi persediaan yang berharga.</AncientSealedContainer_GravshipUpgrade.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate.label>kotak tertutup</AncientSealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate.description>Sebuah kotak kecil masih disegel.Mungkin ada benda berharga di dalamnya.</AncientSealedCrate.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Gravlite.label>kotak tertutup</AncientSealedCrate_Gravlite.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Gravlite.description>Sebuah kotak kecil masih disegel.Mungkin ada benda berharga di dalamnya.</AncientSealedCrate_Gravlite.description>
+  
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Shells.label>kotak tertutup</AncientSealedCrate_Shells.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Shells.description>Sebuah kotak kecil masih disegel.Mungkin ada benda berharga di dalamnya.</AncientSealedCrate_Shells.description>
+  
+  <!-- EN: malfunctioning transport pod -->
+  <MalfunctioningTransportPod.label>Kapsul transportasi dengan kegagalan</MalfunctioningTransportPod.label>
+  <!-- EN: A cargo pod with a faulty release mechanism. It's still sealed, holding unknown contents. -->
+  <MalfunctioningTransportPod.description>Kapsul beban dengan mekanisme pelepasan yang rusak.Masih disegel, berisi konten yang tidak diketahui.</MalfunctioningTransportPod.description>
+  
+  <!-- EN: medicine pallet -->
+  <Pallet_Medicine.label>Palé dari persediaan medis</Pallet_Medicine.label>
+  <!-- EN: A pallet containing old medical supplies. Some items might still be usable. -->
+  <Pallet_Medicine.description>Palet yang berisi persediaan medis lama.Beberapa elemen masih bisa digunakan.</Pallet_Medicine.description>
+  
+  <!-- EN: survival meal pallet -->
+  <Pallet_SurvivalMeals.label>Palet makanan bertahan hidup</Pallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing survival meals. The contents are damaged but some meals might still be salvageable. -->
+  <Pallet_SurvivalMeals.description>Pallet yang berisi makanan bertahan hidup.Isinya rusak, tetapi beberapa makanan masih bisa digunakan.</Pallet_SurvivalMeals.description>
+  
+  <!-- EN: sealed crate -->
+  <SealedCrate.label>kotak tertutup</SealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <SealedCrate.description>Sebuah kotak kecil masih disegel.Mungkin ada benda berharga di dalamnya.</SealedCrate.description>
+  
+</LanguageData>

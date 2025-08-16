@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal chat -->
+  <AnimalChat.label>pembicaraan binatang</AnimalChat.label>
+  <!-- EN:
+    <li>r_logentry(p=5)->[INITIATOR_namaDef] [dijinakkan] [namaPenerimaDef].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] duduk di dekat [RECIPIENT_namaDef] dan berbicara dengan [INITIATOR_tujuan] tentang [TalkTopicAny].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] mendekati [RECIPIENT_namaDef] sambil berbisik pada [INITIATOR_tujuan] tentang [TalkTopicAny].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] mendekati [RECIPIENT_namaDef] ketika berbicara dengan [INITIATOR_tujuan] tentang [TalkTopicAny].</li>
+    <li>jinak-> membuat suara yang menenangkan</li>
+    <li>Jin-> menawarkan gerakan yang lambat dan ramah</li>
+    <li>dijinakkan-> membuat suara-suara yang meredam di</li>
+    <li>dijinakkan-> membuat suara klik yang menyenangkan di</li>
+    <li>jinak-> memberi isyarat dengan lembut dan mendekat</li>
+    <li>jinak-> perlahan-lahan mendekat</li>
+    <li>Tamed-> disentuh dengan lembut</li>
+    <li>jinak-> tenang dan didorong</li>
+    <li>dijinakkan-> pernapasan yang cocok dengan</li>
+    <li>jinak-> mengambil posisi rendah saat mendekat</li>
+    <li>Jin-> tidak menunjukkan rasa takut atau kemarahan</li>
+    <li>dijinakkan-> tidak memperhatikan terhadap</li>
+    <li>dijinakkan-> menyenandungkan lagu dengan lembut di</li>
+    <li>Tamed-> menyanyikan lagu-lagu tidur lama di</li>
+    <li>Tamed-> disentuh dengan keras tapi lembut</li>
+    <li>jinak-> menunjukkan sikap santai terhadap</li>
+    <li>jinak-> duduk dengan sabar di dekat</li>
+    <li>Jin-> Membisikkan sebuah cerita tentang [TalkTopicany] to</li>-><AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_namaDef] [dijinakkan] [namaPenerimaDef].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] duduk di sebelah [RECIPIENT_namaDef] dan berbicara kepada dirinya sendiri [INITIATOR_o_a] tentang [TalkTopicAny].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mendekati [RECIPIENT_nameDef] sambil berbisik pada dirinya sendiri [INITIATOR_o_a] tentang [TalkTopicAny].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mendekati [RECIPIENT_nameDef] sambil berbicara pada dirinya sendiri [INITIATOR_o_a] tentang [TalkTopicAny].</li>
+    <li>jinak-> membuat suara yang menenangkan untuk</li>
+    <li>jinak-> dia membuat gerakan lambat dan ramah untuk</li>
+    <li>dijinakkan-> dibungkam</li>
+    <li>Tamed-> membuat klik ceria</li>
+    <li>jinak-> dia membuat gerakan ramah dan mendekati</li>
+    <li>jinak-> perlahan-lahan mendekat</li>
+    <li>Tamed-> disentuh dengan lembut</li>
+    <li>jinak-> tenang dan didorong</li>
+    <li>dijinakkan-> mencocokkan pernapasannya dengan pernapasan</li>
+    <li>dijinakkan-> dia berjongkok saat dia mendekati</li>
+    <li>Jin-> tidak menunjukkan rasa takut atau kemarahan</li>
+    <li>dijinakkan-> tidak memperhatikan terhadap</li>
+    <li>jinak->dengan lembut ia menyenandungkan sebuah lagu a</li>
+    <li>Tamed-> menyanyikan lagu anak-anak untuk</li>
+    <li>Tamed-> disentuh dengan keras dan lembut</li>
+    <li>jinak-> menunjukkan sikap santai terhadap</li>
+    <li>Tamed-> duduk dengan sabar di samping</li>
+    <li>Jin-> Membisikkan sebuah cerita tentang [TalkTopicany] to</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: nuzzle -->
+  <Nuzzle.label>membelai</Nuzzle.label>
+  <!-- EN:
+    <li>r_logentry (p = 2)-> [initiator_namadef] [nuzzleadverb] [nuzzled] [penerima_namadef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] [nuzzleadverb] menggosokkan hidung [INITIATOR_possessive] ke [RECIPIENT_nameDef] [rubbedpart].</li>
+    <li>mengendus (p = 2) -> mengendus</li>
+    <li>meringkuk-> meringkuk hingga</li>
+    <li>kata keterangan hidung (p = 4) -></li>
+    <li>nuzzleadverb-> dengan lembut</li>
+    <li>kata keterangan nuzzle->mendorong</li>
+    <li>nuzzleadverb->senang</li>
+    <li>nuzzleadverb-> dengan lembut</li>
+    <li>nuzzleadverb-> mendukung</li>
+    <li>nuzzleadverb-> ringan</li>
+    <li>nuzzleadverb-> hangat</li>
+    <li>kata keterangan hidung-> dengan sedih</li>
+    <li>nuzzleadverb-> dengan penuh kasih</li>
+    <li>nuzzleadverb-> dengan penuh kasih</li>
+    <li>bagian yang digosok-> kaki</li>
+    <li>bagian yang digosok-> lutut</li>
+    <li>bagian yang digosok-> kaki</li>
+    <li>bagian yang digosok-> siku</li>
+    <li>RubbedPart-> Hip</li>
+    <li>bagian yang digosok-> bahu</li>
+    <li>bagian yang digosok-> tangan</li>
+    <li>bagian yang digosok-> sisi</li>
+    <li>bagian yang digosok-> lengan</li>-><Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry (p = 2)-> [initiator_namadef] [nuzzled] [nuzzleadverb] ke [penerima_namadef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] membelai [nuzzleadverb] dengan hidungnya [rubbedpart] dari [RECIPIENT_nameDef].</li>
+    <li>Mengendus (p = 2)-> dibelai</li>
+    <li>mengendus-> mengendus</li>
+    <li>kata keterangan hidung (p = 4) -></li>
+    <li>nuzzleadverb-> dengan lembut</li>
+    <li>kata keterangan nuzzle->mendorong</li>
+    <li>nuzzleadverb->senang</li>
+    <li>nuzzleadverb-> sedikit</li>
+    <li>nuzzleadverb->secara padat</li>
+    <li>nuzzleadverb-> sedikit</li>
+    <li>nuzzleadverb-> secara afektif</li>
+    <li>nuzzleadverb-> hangat</li>
+    <li>nuzzleadverb-> dengan penuh kasih</li>
+    <li>nuzzleadverb-> secara afektif</li>
+    <li>bagian yang digosok-> kaki</li>
+    <li>bagian yang digosok-> lutut</li>
+    <li>bagian yang digosok-> kaki</li>
+    <li>bagian yang digosok-> siku</li>
+    <li>bagian yang digosok-> pinggul</li>
+    <li>bagian yang digosok-> bahu</li>
+    <li>bagian yang digosok-> tangan</li>
+    <li>bagian yang digosok-> sisi</li>
+    <li>bagian yang digosok-> lengan</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>melepaskan hewan</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry-> [perpisahan] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis</li>
+    <li>perpisahan-> [INITIATOR_nameDef] dengan lembut mengelus [PENERIMA_nameDef] untuk terakhir kalinya</li>
+    <li>perpisahan-> [INITIATOR_namaDef] mengucapkan beberapa kata sambutan kepada [PENERIMA_namaDef].</li>
+    <li>perpisahan-> [INITIATOR_nameDef] melepas kalung [RECIPIENT_nameDef]</li>
+    <li>perpisahan-> [INITIATOR_namaDef] mengenang masa-masa indah yang pernah dialami [INITIATOR_pronomina] dengan [RECIPIENT_namaDef].</li>
+    <li>Disemoni-> dan lepaskan [penerima_objective] ke alam liar.</li>
+    <li>Dirilis-> dan set [penerima_objective] bebas.</li>
+    <li>dirilis-> dan mengirim [RECIPIENT_objective] off.</li>
+    <li>Delu-> dan biarkan [penerima_objective] pergi.</li>
+    <li>Disembunyikan-> lalu putar dan biarkan [penerima_objective] tinggalkan koloni.</li>
+    <li>dirilis-> sebelum melepaskan [PENERIMA_Tujuan] untuk hidup dalam kebebasan.</li>-><ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [perpisahan] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis] [dirilis</li>
+    <li>perpisahan-> [INISIATOR_nameDef] dengan lembut membelai [PENERIMA_nameDef] untuk terakhir kalinya</li>
+    <li>perpisahan-> [INISIATOR_namaDef] mengucapkan beberapa kata penuh kasih sayang kepada [PENERIMA_namaDef].</li>
+    <li>perpisahan-> [INITIATOR_namaDef] menghapus kerah dari [PENERIMA_namaDef].</li>
+    <li>perpisahan-> [INITIATOR_namaDef] mengenang masa-masa indah yang ia alami bersama [PENERIMA_namaDef].</li>
+    <li>Disemoni-> dan [penerima_objective] dilepaskan ke alam.</li>
+    <li>Disemoni-> dan [penerima_objective] yang Anda bebas.</li>
+    <li>dirilis-> dan [PENERIMA_Tujuan] lepaskan.</li>
+    <li>Disemoni-> dan mengucapkan selamat tinggal dengan merilis [recipien_objective].</li>
+    <li>dirilis-> kemudian berbalik dan [RECIPIENT_objective] dikeluarkan dari koloni.</li>
+    <li>Dirilis-> Sebelum membiarkannya hidup dalam kebebasan.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>upaya penjinakan</TameAttempt.label>
+  <!-- EN:
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba menjinakkan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba mengendalikan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba untuk meng-collar [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meminta kepatuhan dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_namaDef] memanggil [RECIPIENT_namaDef] untuk sampai ke [INITIATOR_tujuan].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba membuat [RECIPIENT_nameDef] diam.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menangkap [RECIPIENT_nameDef] dengan tajam dan mengeluarkan perintah.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba menahan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meneriakkan sebuah perintah pada [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menampar [RECIPIENT_nameDef] untuk menunjukkan dominasi.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mengarahkan [RECIPIENT_nameDef] kembali ke komunitas.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk kembali ke komunitas.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menyentuh bagian tubuh yang rentan dari [RECIPIENT_nameDef], menuntut kepatuhan.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menunjuk ke tanah, meminta [RECIPIENT_nameDef] datang.</li>
+    <li>r_logentry-> [initiator_namedef] memberikan urutan pertama kepada [penerima_namedef].</li>-><TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba menjinakkan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba mengontrol [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba memasang kerah pada [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meminta kepatuhan dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk didekati.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba membuat [RECIPIENT_nameDef] duduk.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meraih [RECIPIENT_nameDef] dan meneriakkan sebuah perintah.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] mencoba untuk menahan [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] meneriakkan perintah ke [RECIPIENT_nameDef].</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menampar [RECIPIENT_nameDef] untuk menunjukkan superioritas.</li>
+    <li>r_logentry-> [Instatory_amenef] Meattlefield [recipal_namef] Ke coloni.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk kembali ke koloni.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menyentuh bagian yang rentan dari [RECIPIENT_nameDef], dan menuntut kepatuhan.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] menunjuk ke tanah dan meminta [RECIPIENT_nameDef] untuk pergi.</li>
+    <li>r_logentry-> [INITIATOR_nameDef] memberikan perintah pertama ke [RECIPIENT_nameDef].</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>upaya pelatihan</TrainAttempt.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namadef] [terlatih] [penerima_namadef].</li>
+    <li>trained(p=2)->[mencoba] untuk melatih</li>
+    <li>trained-> [mencoba] untuk menunjukkan trik baru kepada</li>
+    <li>dilatih-> [mencoba] untuk mendisiplinkan</li>
+    <li>terlatih-> [mencoba] untuk mengajar</li>
+    <li>dilatih-> [mencoba] untuk mendorong keterampilan baru dalam</li>
+    <li>dilatih-> mendemonstrasikan keterampilan untuk</li>
+    <li>terlatih-> mendorong respon baru dari</li>
+    <li>mencoba-> mencoba</li>
+    <li>mencoba-> mencoba</li>-><TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namadef] [terlatih] [penerima_namadef].</li>
+    <li>melatih(p=2)->[mencoba] melatih a</li>
+    <li>terlatih-> [mencoba] tampilkan trik baru a</li>
+    <li>dilatih-> [mencoba] untuk mendisiplinkan</li>
+    <li>trained-> [mencoba] menginstruksikan</li>
+    <li>terlatih-> [mencoba] mengajarkan keterampilan baru kepada</li>
+    <li>dilatih-> mendemonstrasikan sebuah trik untuk</li>
+    <li>terlatih-> mengajarkan sesuatu untuk</li>
+    <li>mencoba-> mencoba</li>
+    <li>mencoba-> mencoba untuk</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

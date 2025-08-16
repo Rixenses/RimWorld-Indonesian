@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <Child27.description>[Pawn_namedef] adalah {pawn_jenis_kelamin?Pria: Wanita}.Kisah masa kecilnya masih ditulis.</Child27.description>
+  <!-- EN: child -->
+  <Child27.title>anak</Child27.title>
+  <Child27.titleFemale>gadis</Child27.titleFemale>
+  <!-- EN: child -->
+  <Child27.titleShort>anak</Child27.titleShort>
+  <Child27.titleShortFemale>gadis</Child27.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <ChildTribal.description>[Pawn_namedef] adalah {pawn_jenis_kelamin?Pria: Wanita}.Kisah masa kecilnya masih ditulis.</ChildTribal.description>
+  <!-- EN: child -->
+  <ChildTribal.title>anak</ChildTribal.title>
+  <ChildTribal.titleFemale>gadis</ChildTribal.titleFemale>
+  <!-- EN: child -->
+  <ChildTribal.titleShort>anak</ChildTribal.titleShort>
+  <ChildTribal.titleShortFemale>gadis</ChildTribal.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our colony. [PAWN_possessive] story is still being written. -->
+  <Colonist97.description>[PAWN_NamaDef] menjadi dewasa di koloni kami. Kisahnya masih terus ditulis.</Colonist97.description>
+  <!-- EN: colonist -->
+  <Colonist97.title>pemukim</Colonist97.title>
+  <!-- EN: colonist -->
+  <Colonist97.titleShort>pemukim</Colonist97.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our colony. -->
+  <ColonyChild59.description>[PAWN_NamaDef] dibesarkan di koloni kami.</ColonyChild59.description>
+  <!-- EN: colony child -->
+  <ColonyChild59.title>anak pemukim</ColonyChild59.title>
+  <ColonyChild59.titleFemale>anak pemukim</ColonyChild59.titleFemale>
+  <!-- EN: colonist -->
+  <ColonyChild59.titleShort>pemukim</ColonyChild59.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is a baby. [PAWN_possessive] life revolves around milk and naps. -->
+  <Newborn79.description>[Pawn_namedef] adalah bayi.Hidupnya hanya tentang susu dan tidur.</Newborn79.description>
+  <!-- EN: newborn -->
+  <Newborn79.title>bayi baru lahir</Newborn79.title>
+  <Newborn79.titleFemale>bayi baru lahir</Newborn79.titleFemale>
+  <!-- EN: newborn -->
+  <Newborn79.titleShort>bayi baru lahir</Newborn79.titleShort>
+  <Newborn79.titleShortFemale>bayi baru lahir</Newborn79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our tribe. -->
+  <TribeChild19.description>[PAWN_NamaDef] dibesarkan di suku kami.</TribeChild19.description>
+  <!-- EN: tribe child -->
+  <TribeChild19.title>anak suku</TribeChild19.title>
+  <TribeChild19.titleFemale>gadis suku</TribeChild19.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild19.titleShort>suku</TribeChild19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our tribe. [PAWN_possessive] story is still being written. -->
+  <TribeMember57.description>[PAWN_NamaDef] menjadi dewasa di suku kami. Kisahnya masih terus ditulis.</TribeMember57.description>
+  <!-- EN: tribe member -->
+  <TribeMember57.title>anggota suku</TribeMember57.title>
+  <!-- EN: tribal -->
+  <TribeMember57.titleShort>suku</TribeMember57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood in a growth vat. -->
+  <VatgrownChild11.description>[PAWN_NamaDef] menghabiskan seluruh masa kecilnya di dalam inkubator.</VatgrownChild11.description>
+  <!-- EN: vatgrown child -->
+  <VatgrownChild11.title>tukik</VatgrownChild11.title>
+  <VatgrownChild11.titleFemale>tukik</VatgrownChild11.titleFemale>
+  <!-- EN: child -->
+  <VatgrownChild11.titleShort>anak</VatgrownChild11.titleShort>
+  <VatgrownChild11.titleShortFemale>gadis</VatgrownChild11.titleShortFemale>
+  
+</LanguageData>

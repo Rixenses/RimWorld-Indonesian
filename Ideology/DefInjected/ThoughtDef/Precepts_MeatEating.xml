@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Abhorrent.stages.ate_meat.label>Dia makan daging</AteMeat_Abhorrent.stages.ate_meat.label>
+  <!-- EN: I had to eat meat. It was an abhorrent violation of everything I believe. -->
+  <AteMeat_Abhorrent.stages.ate_meat.description>Saya harus makan daging.Itu adalah pelanggaran menjijikkan dari semua yang saya yakini.</AteMeat_Abhorrent.stages.ate_meat.description>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Disapproved.stages.ate_meat.label>Dia makan daging</AteMeat_Disapproved.stages.ate_meat.label>
+  <!-- EN: I had to eat meat. It's not something I approve of. -->
+  <AteMeat_Disapproved.stages.ate_meat.description>Saya harus makan daging.Itu bukan sesuatu yang menyetujui.</AteMeat_Disapproved.stages.ate_meat.description>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Horrible.stages.ate_meat.label>Dia makan daging</AteMeat_Horrible.stages.ate_meat.label>
+  <!-- EN: I had to eat meat. It was a horrible violation of my beliefs. -->
+  <AteMeat_Horrible.stages.ate_meat.description>Saya harus makan daging.Itu adalah pelanggaran yang mengerikan dari keyakinan saya.</AteMeat_Horrible.stages.ate_meat.description>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Know_Abhorrent.stages.ate_meat.label>Dia makan daging</AteMeat_Know_Abhorrent.stages.ate_meat.label>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Know_Disapproved.stages.ate_meat.label>Dia makan daging</AteMeat_Know_Disapproved.stages.ate_meat.label>
+  
+  <!-- EN: ate meat -->
+  <AteMeat_Know_Horrible.stages.ate_meat.label>Dia makan daging</AteMeat_Know_Horrible.stages.ate_meat.label>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an abhorrent violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay. -->
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>Saya makan makanan bebas daging.Itu adalah pelanggaran keji terhadap diet karnivora yang memadai.Beberapa telur, susu atau makanan olahan tanpa sayuran juga baik -baik saja.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an unacceptable deviation from the proper carnivore diet. Some eggs, milk, or processed food without vegetables or would have also been okay. -->
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>Saya makan makanan bebas daging.Itu adalah penyimpangan yang tidak dapat diterima dari diet karnivora yang sesuai.Beberapa telur, susu atau makanan olahan tanpa sayuran juga baik -baik saja.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <!-- EN: I ate a meal without any meat. It was an horrible violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay. -->
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>Saya makan makanan bebas daging.Itu adalah pelanggaran mengerikan dari diet karnivora yang memadai.Beberapa telur, susu atau makanan olahan tanpa sayuran juga baik -baik saja.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+  
+  <!-- EN: ate vegetarian -->
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>Dia makan makanan vegetarian</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
+  
+</LanguageData>

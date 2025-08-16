@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Die (subjek_flesh! = Mechanoid, p = 2)-> Die</li>
+    <li>Die (subjek_flesh! = mechanoid)-> binasa</li>
+    <li>Die (subjek_flesh! = mechanoid)-> kedaluwarsa</li>
+    <li>Die (subjek_flesh == mechanoid)-> Matikan</li>
+    <li>Die (subjek_flesh == mechanoid)-> stop functioning</li>
+    <li>Die (subjek_flesh == mechanoid)-> kehilangan daya</li>
+    <li>mati (subjek_flesh! = mechanoid, p = 2)-> mati</li>
+    <li>mati (subjek_flesh! = mechanoid)-> binasa</li>
+    <li>mati (subjek_flesh! = mechanoid)-> kedaluwarsa</li>
+    <li>mati (subjek_flesh == mechanoid)-> dimatikan</li>
+    <li>mati (subjek_flesh == mechanoid)-> berhenti berfungsi</li>
+    <li>mati (subjek_flesh == mechanoid)-> Lost Power</li>-><Transition_Died.rulePack.rulesStrings>
+    <li>Die (subjek_flesh! = mechanoid, p = 2)-> muera</li>
+    <li>Die (subjek_flesh! = Mechanoid)-> fallezca</li>
+    <li>Die (subjek_flesh! = mechanoid)-> tekan</li>
+    <li>Die (subjek_flesh == mechanoid)-> shoot</li>
+    <li>Die (subjek_flesh == mechanoid)-> deje</li>
+    <li>Die (subjek_flesh == mechanoid)-> kehilangan energi</li>
+    <li>mati (subjek_flesh! = mechanoid, p = 2)-> murió</li>
+    <li>mati (subjek_flesh! = mechanoid)-> falleció</li>
+    <li>mati (subjek_flesh! = mechanoid)-> ha muerto</li>
+    <li>Mati (subjek_flesh == mechanoid)-> jika dihapus</li>
+    <li>mati (subjek_flesh == mechanoid)-> berhenti bekerja</li>
+    <li>mati (subjek_flesh == mechanoid)-> hilang energi</li>
+  </Transition_Died.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Die (p = 3)-> meledak [rasa]</li>
+    <li>Die (p = 3)-> meledak [FlavorSuffix]</li>
+    <li>Die-> meledakkan [rasa]</li>
+    <li>Die-> Detonate [FlavorSuffix]</li>
+    <li>Die-> Burst [rasa]</li>
+    <li>Die-> Burst [FlavorSuffix]</li>
+    <li>mati (p = 3)-> meledak [rasa]</li>
+    <li>mati-> [rasa] yang diledakkan</li>
+    <li>mati-> meledak [rasa]</li>
+    <li>rasa (p = 0,2)-> dalam bahan kimia [bola api]</li>
+    <li>rasa-> dalam [warna] [Fireball]</li>
+    <li>rasa-> dalam [kata sifat] [Fireball]</li>
+    <li>rasa (p = 4)-> dalam [fireball]</li>
+    <li>rasa (p = 4)-></li>
+    <li>flavorsuffix->, hamburan [potongan] [di mana-mana]</li>
+    <li>FlavorSuffix (subjek_flesh! = mechanoid, p = 2)->, hamburan [gore] [di mana-mana]</li>
+    <li>FlavorSuffix (subjek_flesh! = Mechanoid)->, meninggalkan tumpukan kecil [Gore]</li>
+    <li>flavorsuffix->, meninggalkan kawah kecil</li>
+    <li>FlavorSuffix (p = 4)-></li>
+    <li>Fireball (P = 3)-> Fireball</li>
+    <li>Fireball-> FlameBall</li>
+    <li>Fireball-> Shockwave</li>
+    <li>Fireball-> kebakaran</li>
+    <li>Potongan-> Potongan</li>
+    <li>Potongan-> Fragmen</li>
+    <li>Di mana-mana-> di mana-mana</li>
+    <li>Di mana-mana-> jauh dan luas</li>-><Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>Die (p = 3)-> penjelasan [rasa]</li>
+    <li>Die (p = 3)-> SCREXT [FlavorSuffix]</li>
+    <li>Die-> detone [rasa]</li>
+    <li>Die-> Detone [FlavorSuffix]</li>
+    <li>Die-> Stalle [rasa]</li>
+    <li>Die-> Estalle [FlavorSuffix]</li>
+    <li>mati (p = 3)-> meledak [rasa]</li>
+    <li>mati-> deton [rasa]</li>
+    <li>mati-> meledak [rasa]</li>
+    <li>Fland (p = 0,2)-> dalam kimia [Fireball]</li>
+    <li>flap-> dalam [fireball] [color_fem]</li>
+    <li>Flavour-> Dalam [Fireball] [Adjectivlarge_fem]</li>
+    <li>rasa (p = 4)-></li>
+    <li>Fland (p = 4)-> dalam [Fireball]</li>
+    <li>FlavorSuffix (p = 4)-></li>
+    <li>FlavorSuffix->, Esparciendo [Pieces] [Di Mana Saja]</li>
+    <li>FlavorSuffix (subjek_flesh! = mechanoid, p = 2)->, esparciendo [goremech] s [di mana-mana]</li>
+    <li>FlavorSuffix (subjek_flesh! = mechanoid, p = 2)->, esparciendo [goremechpl] [di mana-mana]</li>
+    <li>FlavorSuffix (subjek_flesh! = Mechanoid)->, meninggalkan banyak [goremech] s</li>
+    <li>FlavorSuffix (subjek_flesh! = Mechanoid)->, meninggalkan banyak [goremechpl]</li>
+    <li>Flavorsuffix->, meninggalkan kawah kecil</li>
+    <li>Fireball (P = 3)-> Fire Ball</li>
+    <li>Fireball-> Fire Ball</li>
+    <li>Fireball-> Shock Wave</li>
+    <li>Fireball-> Kolom Api</li>
+    <li>Potongan-> Potongan</li>
+    <li>Pieces-> Fragmentos</li>
+    <li>di mana-mana-> untuk semua sisi</li>
+    <li>Di mana-mana-> di mana-mana</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 1.5)-> [Culprithediff_labelnoun] disebabkan [subjek_definite] menjadi [mati].</li>
+    <li>r_logentry (p = 1.5)-> [Culprithediff_labelnounpretty] disebabkan [subjek_definite] menjadi [mati].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [duetoa] [Culprithediff_labelnoun] [FlavorSuffix].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [duetoa] [Culprithediff_labelnounpretty] [FlavorSuffix].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [flavorsuffix].</li>-><Transition_DiedInclude.rulePack.rulesStrings>
+    <li>R_logentry (p = 1.5)-> [Culprithediff_labelnoun] ada penyebab [subjek_definite] [die].</li>
+    <li>R_logentry (p = 1.5)-> [Culprithediff_labelnounpretty] telah menyebabkan [subjek_definite] [die].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [duetoa] [Culprithediff_labelnoun] [FlavorSuffix].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [duetoa] [Culprithediff_labelnounpretty] [FlavorSuffix].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal].</li>
+    <li>r_logentry-> [subjek_definite] [meninggal] [flavorsuffix].</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [Culprithediff_labelnoun] disebabkan [subjek_definite] menjadi [collapsemeta].</li>
+    <li>r_logentry-> [Culprithediff_labelnounpretty] disebabkan [subjek_definite] menjadi [collapsemeta].</li>
+    <li>r_logentry-> [Culprithediff_labelnoun] membuat [subjek_definite] [collapsemeta].</li>
+    <li>r_logentry-> [Culprithediff_labelnounpretty] membuat [subjek_definite] [collapsemeta].</li>
+    <li>r_logentry-> [subjek_definite] [collapsedMeta] [duetoa] [Culprithediff_labelnoun].</li>
+    <li>r_logentry-> [subjek_definite] [collapsedMeta] [duetoa] [Culprithediff_labelnounpretty].</li>
+    <li>r_logentry (p = 0,1)-> [subjek_definite] [collapsedMeta].</li>
+    <li>runtuh-> runtuh</li>
+    <li>runtuh-> drop</li>
+    <li>runtuh (subjek_flesh! = mechanoid)-> crumple</li>
+    <li>runtuh (subjek_flesh == mechanoid)-> crash</li>
+    <li>runtuh (subjek_flesh == mechanoid)-> lock up</li>
+    <li>runtuh (subjek_flesh == mechanoid)-> kehilangan daya utama</li>
+    <li>Runtuh-> Runtuh</li>
+    <li>runtuh-> jatuh</li>
+    <li>PUTIR (subjek_flesh! = Mechanoid)-> Crumpled</li>
+    <li>PUTIR (subjek_flesh == mechanoid)-> Crashed</li>
+    <li>Dipotong (subjek_flesh == mechanoid)-> terkunci</li>
+    <li>PUTIP (subjek_flesh == mechanoid)-> Kekuatan utama yang hilang</li>
+    <li>Tidak berdaya-> tanpa daya</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid)-> tidak sadar</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid)-> lemah</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid)-> lemah</li>
+    <li>Tidak berdaya (subjek_flesh == mechanoid)-> tidak terkendali</li>
+    <li>Collapsemeta-> [runtuh]</li>
+    <li>collapsemeta (p = 0,5)-> [collapse] [tanpa daya]]</li>
+    <li>CollapsedMeta-> [runtuh]</li>
+    <li>CollapsedMeta (p = 0,5)-> [runtuh] [tidak berdaya]]</li>-><Transition_Downed.rulePack.rulesStrings>
+    <li>R_logentry-> [Culprithediff_labelnoun] telah menyebabkan [subjek_definite] [collapsemeta].</li>
+    <li>R_logentry-> [Culprithediff_labelnounpretty] telah menyebabkan [subjek_definite] [collapsemeta].</li>
+    <li>r_logentry-> [Culprithediff_labelnoun] Hizo que [subjek_definite] [collapsemeta].</li>
+    <li>r_logentry-> [Culprithediff_labelnounpretty] Hizo que [subjek_definite] [collapsemeta].</li>
+    <li>r_logentry-> [subjek_definite] [collapsedMeta] [duetoa] [Culprithediff_labelnoun].</li>
+    <li>r_logentry-> [subjek_definite] [collapsedMeta] [duetoa] [Culprithediff_labelnounpretty].</li>
+    <li>r_logentry (p = 0,1)-> [subjek_definite] [collapsedMeta].</li>
+    <li>Runtuh-> runtuh</li>
+    <li>Runtuh-> jatuh</li>
+    <li>runtuh (subjek_flesh! = mechanoid)-> se desmaye</li>
+    <li>runtuh (subjek_flesh == mechanoid)-> se estrelle</li>
+    <li>Runtuh (subjek_flesh == mechanoid)-> diblokir</li>
+    <li>runtuh (subjek_flesh == mechanoid)-> se apague</li>
+    <li>Runtuh-> Runtuh</li>
+    <li>Runtuh-> jatuh</li>
+    <li>Runtuh (subjek_flesh! = Mechanoid)-> dia pingsan</li>
+    <li>Runtuh (subjek_flesh == mechanoid)-> crashed</li>
+    <li>PUTIR (subjek_flesh == mechanoid)-> itu diblokir</li>
+    <li>PUTIR (subjek_flesh == mechanoid)-> keluar</li>
+    <li>Tidak berdaya-> tunawisma</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid)-> Inconsciente</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid)-> débilmente</li>
+    <li>Tidak berdaya (subjek_flesh! = mechanoid, p = 2)-> inctrolablemente</li>
+    <li>Tidak berdaya (subjek_flesh == mechanoid)-> débilmente</li>
+    <li>Collapsemeta-> [runtuh]</li>
+    <li>collapsemeta (p = 0,5)-> [collapse] [tanpa daya]]</li>
+    <li>CollapsedMeta-> [runtuh]</li>
+    <li>CollapsedMeta (p = 0,5)-> [runtuh] [tidak berdaya]]</li>
+  </Transition_Downed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>duetoa-> karena</li>
+    <li>duetoa (p = 0,5)-> karena</li>
+    <li>duetoa (p = 0,5)-> terima kasih</li>-><Transition_Include.rulePack.rulesStrings>
+    <li>duet-> karena</li>
+    <li>Duetoa (p = 0,5)-> karena</li>
+    <li>Duetoa (p = 0,5)-> terima kasih</li>
+  </Transition_Include.rulePack.rulesStrings>
+  
+</LanguageData>

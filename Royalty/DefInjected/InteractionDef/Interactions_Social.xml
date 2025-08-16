@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: word of inspiration -->
+  <WordOfInspiration.label>kata -kata inspirasi</WordOfInspiration.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] menggunakan kata-kata dan saran psikis untuk menginspirasi [penerima_namedef].</li>-><WordOfInspiration.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] menggunakan kata-kata dan saran psikis untuk menginspirasi [penerima_namedef].</li>
+  </WordOfInspiration.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of joy -->
+  <WordOfJoy.label>Kata -kata napas</WordOfJoy.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] secara psikis menghipnotis [penerima_namedef] menjadi keadaan pikiran yang hangat dan menyenangkan.</li>-><WordOfJoy.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] secara psikis menghipnotis [penerima_namedef] menuju kondisi mental yang hangat dan menyenangkan.</li>
+  </WordOfJoy.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of love -->
+  <WordOfLove.label>Kata -kata cinta</WordOfLove.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] secara psikis menyarankan bahwa [penerima_namedef] harus merasakan keinginan romantis baru.</li>-><WordOfLove.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] Secara psikis menyarankan bahwa [penerima_namedef] harus merasakan daya tarik romantis baru.</li>
+  </WordOfLove.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of serenity -->
+  <WordOfSerenity.label>kata -kata tenang</WordOfSerenity.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] secara psikis menyarankan agar [penerima_namedef] tenang, mengakhiri istirahat mental [penerima_possessive].</li>-><WordOfSerenity.logRulesInitiator.rulesStrings>
+    <li>r_lotentry-> [initiator_namedef] Secara psikis menyarankan agar [penerima_namedef] tenang, mengakhiri keruntuhan mentalnya.</li>
+  </WordOfSerenity.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: word of trust -->
+  <WordOfTrust.label>kata -kata kepercayaan</WordOfTrust.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] Secara psikis menyarankan agar [penerima_namedef] drop [penerima_possesif] penjaga.</li>-><WordOfTrust.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] Secara psikis menyarankan bahwa [penerima_namedef] menurunkan penjaga.</li>
+  </WordOfTrust.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

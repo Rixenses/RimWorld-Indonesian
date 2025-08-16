@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite blocks -->
+  <BlocksGranite.label>Blok granit</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
+  <BlocksGranite.description>Blok Granit Masso.Batu gandum yang sangat keras.</BlocksGranite.description>
+  <!-- EN: granite -->
+  <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
+  
+  <!-- EN: limestone blocks -->
+  <BlocksLimestone.label>Blok batu kapur</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
+  <BlocksLimestone.description>Blok padat batu kapur.</BlocksLimestone.description>
+  <!-- EN: limestone -->
+  <BlocksLimestone.stuffProps.stuffAdjective>batu kapur</BlocksLimestone.stuffProps.stuffAdjective>
+  
+  <!-- EN: marble blocks -->
+  <BlocksMarble.label>Blok marmer</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
+  <BlocksMarble.description>Blok marmer padat.Marmer adalah batu yang lembut dan indah, dikenal mudah dipahat.</BlocksMarble.description>
+  <!-- EN: marble -->
+  <BlocksMarble.stuffProps.stuffAdjective>marmer</BlocksMarble.stuffProps.stuffAdjective>
+  
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>Blok batu pasir</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>Blok batu pasir besar.Batu pasir relatif lembut dan mudah pecah.</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>batu pasir</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>Blok Slate</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>Blok Slate Solid.Batu penampilan anodin yang mudah pecah.</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>papan</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>Sepotong granit</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>Sepotong batu.Dimungkinkan untuk memotong balok batu yang dapat digunakan.</ChunkGranite.description>
+  
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>Sepotong batu kapur</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>Sepotong batu.Dimungkinkan untuk memotong balok batu yang dapat digunakan.</ChunkLimestone.description>
+  
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>Sepotong marmer</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>Sepotong batu.Dimungkinkan untuk memotong balok batu yang dapat digunakan.</ChunkMarble.description>
+  
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>Sepotong batu pasir</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>Sepotong batu.Dimungkinkan untuk memotong balok batu yang dapat digunakan.</ChunkSandstone.description>
+  
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>Puing logam</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>Sepotong baja baja.Ini tidak terlalu berguna dalam bentuk saat ini tetapi dimungkinkan untuk mendapatkan baja darinya.</ChunkSlagSteel.description>
+  
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>Sepotong batu tulis</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>Sepotong batu.Dimungkinkan untuk memotong balok batu yang dapat digunakan.</ChunkSlate.description>
+  
+  <!-- EN: granite -->
+  <Granite.label>granit</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>Batuan beku yang sangat keras.</Granite.description>
+  
+  <!-- EN: limestone -->
+  <Limestone.label>batu kapur</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>Batuan sedimen yang terdiri dari sisa -sisa cangkang laut tua yang dipadatkan.</Limestone.description>
+  
+  <!-- EN: marble -->
+  <Marble.label>marmer</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>Batuan metamorf yang lembut.</Marble.description>
+  
+  <!-- EN: sandstone -->
+  <Sandstone.label>batu pasir</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>Batuan sedimen yang terdiri dari partikel pasir terkompresi.</Sandstone.description>
+  
+  <!-- EN: slate -->
+  <Slate.label>papan</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>Batuan metamorf dari warna gelap.Lapisan tipisnya adalah contoh representatif dari karakteristik geologis yang disebut blackbillos.</Slate.description>
+  
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>Granit kecil</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>Batuan beku yang sangat keras.Permukaan yang cerah penuh dengan mosaik bintik -bintik hitam, putih dan merah muda.</SmoothedGranite.description>
+  
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>Batu kapur Alisada</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>Batuan sedimen yang terbentuk dari sisa -sisa kerang laut tua yang dipadatkan.Ini bersinar putih halus, dengan sedikit pola kotoran yang tergantung di dalam.</SmoothedLimestone.description>
+  
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>Marmer Alisado</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>Batuan metamorf yang lembut.Batuan semi -transparan ini tampaknya bersinar dengan cahaya batinnya sendiri.</SmoothedMarble.description>
+  
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>Alisada Sandstone</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>Batuan sedimen yang terdiri dari partikel pasir yang dikompres satu sama lain.Lapisan pasir telah dipoles sampai permukaan datar dan halus diperoleh.</SmoothedSandstone.description>
+  
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>Alisada Pizarra</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>Batu metamorf yang gelap.Lapisan tipisnya adalah lambang garis leher batu tulis.Strata interior terlihat jelas melalui permukaan yang dipoles.</SmoothedSlate.description>
+  
+</LanguageData>

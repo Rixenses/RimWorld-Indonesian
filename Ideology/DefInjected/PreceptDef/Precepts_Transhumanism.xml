@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Demanded -->
+  <AgeReversal_Demanded.label>penggugat</AgeReversal_Demanded.label>
+  <!-- EN: Why get old? If over age 25, one must have a once-yearly age reversal treatment in the biosculpter pod. -->
+  <AgeReversal_Demanded.description>Mengapa usia?Jika Anda berusia lebih dari 25 tahun, Anda harus menjalani perawatan pembalikan usia setahun sekali dalam kapsul bio -skulptur.</AgeReversal_Demanded.description>
+  
+  <!-- EN: despised -->
+  <BioSculpter_Despised.label>diabaikan</BioSculpter_Despised.label>
+  <!-- EN: Biosculpter pods violate the purity human flesh and should never be used. -->
+  <BioSculpter_Despised.description>Kapsul bio -culpture melanggar kemurnian daging manusia dan tidak dapat digunakan.</BioSculpter_Despised.description>
+  
+  <!-- EN: Accelerated -->
+  <Biosculpting_Accelerated.label>dipercepat</Biosculpting_Accelerated.label>
+  <!-- EN: All biosculpting cycles take half the usual time. -->
+  <Biosculpting_Accelerated.description>Semua siklus bioscule bagian terakhir dari waktu yang biasa.</Biosculpting_Accelerated.description>
+  
+  <!-- EN: preferred -->
+  <NeuralSupercharge_Preferred.label>lebih disukai</NeuralSupercharge_Preferred.label>
+  <!-- EN: Having a neural supercharge is the new standard. Without it, you're obsolete. -->
+  <NeuralSupercharge_Preferred.description>Memiliki supercarga saraf adalah standar baru.Tanpa itu, Anda sudah usang.</NeuralSupercharge_Preferred.description>
+  
+  <!-- EN: preferred -->
+  <SleepAccelerator_Preferred.label>lebih disukai</SleepAccelerator_Preferred.label>
+  <!-- EN: One should always use a sleep accelerator. Slow-sleeping is just foolishly wasting your potential. -->
+  <SleepAccelerator_Preferred.description>Anda selalu harus menggunakan akselerator tidur.Tidur perlahan menyia -nyiakan potensi Anda.</SleepAccelerator_Preferred.description>
+  
+</LanguageData>

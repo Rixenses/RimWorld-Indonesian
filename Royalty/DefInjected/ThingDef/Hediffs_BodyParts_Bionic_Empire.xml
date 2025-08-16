@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aesthetic nose -->
+  <AestheticNose.label>Hidung estetika</AestheticNose.label>
+  <!-- EN: The nose is shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
+  <AestheticNose.description>Hidung dalam bentuk yang diinginkan pengguna, yang sesuai dengan cita -cita kecantikan yang dominan dan meningkatkan kesan visual.</AestheticNose.description>
+  
+  <!-- EN: aesthetic shaper -->
+  <AestheticShaper.label>Pembentuk estetika</AestheticShaper.label>
+  <!-- EN: A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user's taste - or that of their partner. -->
+  <AestheticShaper.description>Paket pengaruh hormonal dan mekanis yang canggih membentuk otot -otot dan lemak tubuh, menambahkan jaringan estetika non -fungsional jika perlu untuk mencapai penampilan yang diinginkan.Implan ini dapat dikonfigurasi untuk membentuk beberapa bentuk tubuh sesuai dengan selera pengguna atau pasangan mereka.</AestheticShaper.description>
+  
+  <!-- EN: armorskin gland -->
+  <ArmorskinGland.label>Kelenjar baju besi kulit</ArmorskinGland.label>
+  <!-- EN: This bionic gland releases chemicals and nanomachines that toughen the skin and add flexible subdermal keratin plates at strategic points. This makes the user more resistant to damage across their whole body. Unfortunately, these changes make the skin appear leathery, with wrinkles across the whole body and face, which is generally considered ugly. -->
+  <ArmorskinGland.description>Kelenjar bionik ini melepaskan bahan kimia dan nanomatik yang mengeraskan kulit dan menambahkan pelat keratin subdermal yang fleksibel dalam titik -titik strategis.Ini membuat pengguna lebih tahan terhadap kerusakan di seluruh tubuhnya.Sayangnya, perubahan ini membuat kulit terlihat Coriacea, dengan kerutan di seluruh tubuh dan wajah, yang umumnya dianggap jelek.</ArmorskinGland.description>
+  
+  <!-- EN: circadian assistant -->
+  <CircadianAssistant.label>Asisten Biorritm</CircadianAssistant.label>
+  <!-- EN: An artificial gland. Produces chemicals and nanomachines that clear toxin buildup from the brain. -->
+  <CircadianAssistant.description>Kelenjar buatan.Ini menghasilkan bahan kimia dan nanomatik yang menghilangkan akumulasi toksik otak.</CircadianAssistant.description>
+  
+  <!-- EN: circadian half-cycler -->
+  <CircadianHalfCycler.label>penekan tidur</CircadianHalfCycler.label>
+  <!-- EN: A signal redirector which isolates half of the brain, allowing the other half to sleep while the user remains outwardly awake. By alternating brain halves, the user never needs to sleep. Unfortunately, two hemispheres are better than one - working with half a brain causes a reduction in consciousness. -->
+  <CircadianHalfCycler.description>Redirektor sinyal yang mengisolasi setengah dari otak, memungkinkan setengah lainnya untuk tidur sementara pengguna tetap terjaga.Saat bergantian antara belahan otak, pengguna tidak perlu tidur.Sayangnya, dua belahan lebih baik dari satu: bekerja dengan setengah otak menyebabkan pengurangan kesadaran.</CircadianHalfCycler.description>
+  
+  <!-- EN: coagulator -->
+  <Coagulator.label>koagulan</Coagulator.label>
+  <!-- EN: Releases coagulating factors in response to blood loss, reducing bleeding rates significantly. -->
+  <Coagulator.description>Taburkan zat koagulasi darah dan secara signifikan mengurangi laju perdarahan.</Coagulator.description>
+  
+  <!-- EN: sterilizing stomach -->
+  <DetoxifierStomach.label>Detoksifikasi perut</DetoxifierStomach.label>
+  <!-- EN: An artificial stomach replacement with a broad-spectrum filtration and sterilization system. It allows the user to eat almost anything without ever worrying about food poisoning. -->
+  <DetoxifierStomach.description>Penggantian lambung buatan dengan filter racun yang sangat efektif dan sistem netralisasi.Ini memungkinkan pengguna untuk makan hampir semua hal, tanpa khawatir keracunan makanan.</DetoxifierStomach.description>
+  
+  <!-- EN: gastro-analyzer -->
+  <GastroAnalyzer.label>Gastroanizer</GastroAnalyzer.label>
+  <!-- EN: This bionic nose implant enhances the sense of smell, with a focus towards food-related smells. A multi-layered ultrafine absorption mesh detects compounds in the air. A microprocessor formats the readings into an olfactory nerve signal to send to the brain through a nerve-link interface. The result is that the user can smell foods with a depth, richness, and precision unknown among unenhanced humans, allowing them to cook more effectively. The whole unit is small enough to be installed in the nose without affecting the user's appearance. -->
+  <GastroAnalyzer.description>Implan hidung bionik ini meningkatkan makna bau, dengan pendekatan bau terkait makanan.Mesh penyerapan ultrafine multicapa mendeteksi senyawa di udara.Seorang mikroprosesor memformat pembacaan dalam sinyal saraf penciuman untuk dikirim ke otak melalui antarmuka ikatan saraf.Hasilnya adalah bahwa pengguna dapat mencium bau makanan dengan kedalaman, kekayaan dan presisi yang tidak diketahui di antara manusia yang tidak lebih baik yang memungkinkan mereka untuk memasak lebih efektif.Seluruh unit cukup kecil untuk menetap di hidung tanpa mempengaruhi penampilan pengguna.</GastroAnalyzer.description>
+  
+  <!-- EN: healing enhancer -->
+  <HealingEnhancer.label>Penambah Penyembuhan</HealingEnhancer.label>
+  <!-- EN: Releases nanomachines and healing factors that speed up wound healing. This implant only helps with physical wounds, and does nothing to combat disease or other health problems. -->
+  <HealingEnhancer.description>Gunakan nanomatik untuk mempercepat proses penyembuhan luka.Implan ini hanya membantu dengan luka fisik, tidak dapat melakukan apa pun terhadap penyakit atau masalah kesehatan lainnya.</HealingEnhancer.description>
+  
+  <!-- EN: immunoenhancer -->
+  <Immunoenhancer.label>Immuno-Potenciar</Immunoenhancer.label>
+  <!-- EN: An analysis computer inspects the bloodstream, classifies pathogens, and rapidly prompts the body's natural immune system to respond to them faster than it could alone. This speeds immunity gain significantly. -->
+  <Immunoenhancer.description>Komputer analisis memantau aliran darah, mengklasifikasikan patogen dan memastikan bahwa sistem kekebalan tubuh alami meresponsnya secepat mungkin.Ini secara signifikan mempercepat tingkat imunisasi.</Immunoenhancer.description>
+  
+  <!-- EN: learning assistant -->
+  <LearningAssistant.label>Asisten Pembelajaran</LearningAssistant.label>
+  <!-- EN: A sensory recording system that replays important experiences during sleep, strengthening the formation of new memories. -->
+  <LearningAssistant.description>Sistem perekaman sensorik yang mengulangi pengalaman penting dalam tidur dan memperkuat generasi kenangan.</LearningAssistant.description>
+  
+  <!-- EN: love enhancer -->
+  <LoveEnhancer.label>Penambah seksual</LoveEnhancer.label>
+  <!-- EN: Humans have always tried to use every new technology to enhance sexual satisfaction. Bionics were no exception. This implant makes physical and chemical changes to the body which enhance the experience of lovin' for both partners - both physically and psychologically. The implant unit can adapt to enhance both men and women upon being implanted. -->
+  <LoveEnhancer.description>Manusia selalu mencoba menggunakan semua teknologi baru untuk meningkatkan kepuasan seksual.Bionic tidak terkecuali.Implan ini membuat perubahan fisik dan kimia dalam tubuh yang meningkatkan pengalaman mencintai kedua anggota pasangan baik fisik maupun psikologis.Unit implan dapat disesuaikan untuk meningkatkan pria dan wanita saat ditanamkan.</LoveEnhancer.description>
+  
+  <!-- EN: neurocalculator -->
+  <Neurocalculator.label>Neurocalculator</Neurocalculator.label>
+  <!-- EN: A non-intelligent microcomputer controlled by a visual/tactile neural interface. It assists with memory and calculation, like a calculator and notepad embedded in the brain. -->
+  <Neurocalculator.description>Microorden yang tidak cerdas, yang memiliki antarmuka neuron visual / fisik.Bantu pengguna mengingat dan menghitung.Ini pada dasarnya seperti kalkulator dan koran yang ditanamkan di otak.</Neurocalculator.description>
+  
+  <!-- EN: nuclear stomach -->
+  <NuclearStomach.label>Perut nuklir</NuclearStomach.label>
+  <!-- EN: A micro-nuclear reactor combined with complex chemical synthesis replaces the body's need for food energy. Food is required only to replace matter lost from the body, reducing the user's intake needs significantly. This artificial stomach cannot get food poisoning. However, there is little room to shield the reactor, so the radiation increases the risk of cancer. -->
+  <NuclearStomach.description>Reaktor mikro-nuklir yang dikombinasikan dengan sintesis kimia yang kompleks menggantikan kebutuhan untuk tubuh makanan.Makanan hanya diperlukan untuk mengganti masalah tubuh yang hilang, mengurangi kebutuhan konsumsi pengguna secara signifikan.Namun, ada sedikit ruang untuk mengisolasi reaktor, sehingga radiasi meningkatkan risiko kanker.</NuclearStomach.description>
+  
+  <!-- EN: reprocessor stomach -->
+  <ReprocessorStomach.label>Reprosesor Perut</ReprocessorStomach.label>
+  <!-- EN: An advanced chemical processing system breaks down nutrients the body could normally never use, leading to increased efficiency. -->
+  <ReprocessorStomach.description>Sistem pemrosesan kimia canggih yang memecahkan nutrisi yang biasanya tidak dapat digunakan oleh tubuh, sehingga meningkatkan efisiensi asupan makanan.</ReprocessorStomach.description>
+  
+  <!-- EN: stoneskin gland -->
+  <StoneskinGland.label>Kelenjar dermorrokosa</StoneskinGland.label>
+  <!-- EN: This bionic gland releases chemical and nanomachines that transform the user's skin into a built-in suit of armor. The whole epidermis thickens and hardens to resist burns, while jointed exterior keratin plates form everywhere they can - including the head and face. While it's very difficult to physically hurt someone using this implant, the plates and hard skin significantly reduces the user's physical attractiveness. -->
+  <StoneskinGland.description>Kelenjar bionik ini melepaskan bahan kimia dan nanomatik yang mengubah kulit pengguna menjadi baju besi yang digabungkan.Seluruh epidermis mengental dan mengeras untuk menahan luka bakar, sementara pelat keratin eksternal yang diartikulasikan terbentuk di mana -mana, termasuk kepala dan wajah.Meskipun sangat sulit untuk secara fisik membahayakan seseorang yang menggunakan implan ini, piring dan kulit keras secara signifikan mengurangi daya tarik fisik pengguna.</StoneskinGland.description>
+  
+  <!-- EN: toughskin gland -->
+  <ToughskinGland.label>Kelenjar kulit</ToughskinGland.label>
+  <!-- EN: This bionic gland releases chemicals and nanomachines that toughen the skin, making it somewhat more resistant to damage. While it doesn't add as much protection as some other skin-hardening glands, the toughskin gland has the advantage of not noticeably altering the user's appearance. -->
+  <ToughskinGland.description>Kelenjar bionik ini melepaskan bahan kimia dan nanomatik yang mengeraskan kulit, membuatnya lebih tahan terhadap kerusakan.Meskipun tidak memberikan perlindungan sebanyak beberapa kelenjar lain yang mengeraskan kulit, ia memiliki keuntungan tidak secara signifikan mengubah penampilan pengguna.</ToughskinGland.description>
+  
+</LanguageData>

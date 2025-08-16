@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [syl] [end]</li>
+    <li>END-> Cate</li>
+    <li>Dan-> memotong</li>
+    <li>End-> mengutip</li>
+    <li>End-> fide</li>
+    <li>End-> gite</li>
+    <li>End-> line</li>
+    <li>End-> milikku</li>
+    <li>End-> tungau</li>
+    <li>End-> na</li>
+    <li>End-> nate</li>
+    <li>End-> in</li>
+    <li>End-> net</li>
+    <li>End-> bohong</li>
+    <li>End-> liter</li>
+    <li>End-> rift</li>
+    <li>End-> rit</li>
+    <li>End-> rock</li>
+    <li>End-> ryl</li>
+    <li>End-> garam</li>
+    <li>End-> situs</li>
+    <li>End-> simpan</li>
+    <li>End-> spora</li>
+    <li>End-> jumlah</li>
+    <li>End-> tite</li>
+    <li>End-> Turf</li>
+    <li>End-> vena</li>
+    <li>End-> vel</li>
+    <li>End-> Vine</li>
+    <li>Akhir> dengan cepat</li>
+    <li>End-> zite</li>
+    <li>End-> drite</li>-><NamerPersonDirtmole_Female.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [syl] [end]</li>
+    <li>END-> Cate</li>
+    <li>Dan-> memotong</li>
+    <li>End-> mengutip</li>
+    <li>End-> fide</li>
+    <li>End-> gite</li>
+    <li>End-> line</li>
+    <li>End-> milikku</li>
+    <li>End-> tungau</li>
+    <li>End-> na</li>
+    <li>End-> nate</li>
+    <li>End-> in</li>
+    <li>END-> RED</li>
+    <li>End-> bohong</li>
+    <li>End-> liter</li>
+    <li>End-> retak</li>
+    <li>End-> rit</li>
+    <li>End-> roca</li>
+    <li>End-> ryl</li>
+    <li>End-> sal</li>
+    <li>End-> Place</li>
+    <li>End-> simpan</li>
+    <li>End-> spur</li>
+    <li>End-> jumlah</li>
+    <li>End-> tite</li>
+    <li>End-> Turf</li>
+    <li>End-> vena</li>
+    <li>End-> velo</li>
+    <li>End-> Vine</li>
+    <li>Akhir> dengan cepat</li>
+    <li>End-> zite</li>
+    <li>End-> drite</li>
+  </NamerPersonDirtmole_Female.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [syl] [end]</li>
+    <li>END-> Cate</li>
+    <li>Dan-> memotong</li>
+    <li>End-> mengutip</li>
+    <li>End-> fide</li>
+    <li>End-> gite</li>
+    <li>End-> line</li>
+    <li>End-> milikku</li>
+    <li>End-> tungau</li>
+    <li>End-> na</li>
+    <li>End-> nate</li>
+    <li>End-> in</li>
+    <li>End-> net</li>
+    <li>End-> bohong</li>
+    <li>End-> liter</li>
+    <li>End-> rift</li>
+    <li>End-> rit</li>
+    <li>End-> rock</li>
+    <li>End-> ryl</li>
+    <li>End-> garam</li>
+    <li>End-> situs</li>
+    <li>End-> simpan</li>
+    <li>End-> spora</li>
+    <li>End-> jumlah</li>
+    <li>End-> tite</li>
+    <li>End-> Turf</li>
+    <li>End-> vena</li>
+    <li>End-> vel</li>
+    <li>End-> Vine</li>
+    <li>Akhir> dengan cepat</li>
+    <li>End-> zite</li>
+    <li>End-> drite</li>-><NamerPersonDirtmole_Male.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [syl] [end]</li>
+    <li>END-> Cate</li>
+    <li>Dan-> memotong</li>
+    <li>End-> mengutip</li>
+    <li>End-> fide</li>
+    <li>End-> gite</li>
+    <li>End-> line</li>
+    <li>End-> milikku</li>
+    <li>End-> tungau</li>
+    <li>End-> na</li>
+    <li>End-> nate</li>
+    <li>END-> RED</li>
+    <li>End-> net</li>
+    <li>End-> bohong</li>
+    <li>End-> liter</li>
+    <li>End-> berteriak</li>
+    <li>End-> rit</li>
+    <li>End-> roca</li>
+    <li>End-> ryl</li>
+    <li>End-> sal</li>
+    <li>End-> situs</li>
+    <li>End-> simpan</li>
+    <li>End-> spur</li>
+    <li>End-> jumlah</li>
+    <li>End-> tite</li>
+    <li>End-> Turf</li>
+    <li>End-> vena</li>
+    <li>End-> velo</li>
+    <li>End-> Vine</li>
+    <li>Akhir> dengan cepat</li>
+    <li>End-> zite</li>
+    <li>End-> drite</li>
+  </NamerPersonDirtmole_Male.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>FirstName (p = 0,5)-> [Syli]</li>
+    <li>firstName (p = 2)-> [syli] [nameend]</li>
+    <li>FirstName-> [Syli] [Syli] [Nameend]</li>
+    <li>LastName (p = 2)-> [Syli] [Nameend]</li>
+    <li>LastName-> [Syli] [Namend]</li>
+    <li>Untuk menelepon> [ciley]</li>
+    <li>pengetahuan</li>
+    <li>nameend-> i</li>
+    <li>nameEnd->izz</li>
+    <li>Namen Deen-> In</li>
+    <li>nameend-> ox</li>
+    <li>nameend-> ov</li>
+    <li>Nameend-> Drow</li>
+    <li>Nameend-> rath</li>
+    <li>Nameend-> Rat</li>
+    <li>Nameend-> lagi</li>
+    <li>Naminad-> rosage</li>
+    <li>nameend-> ron</li>
+    <li>Namend-> vin</li>
+    <li>Nama-> oleh</li>
+    <li>Namenden-> vozz</li>
+    <li>Nameaned-> itu</li>
+    <li>Naminad-> nowe</li>
+    <li>Nameaned-> novo</li>
+    <li>Naminad-> nav</li>
+    <li>nameend-> naz</li>
+    <li>Nameend-> nath</li>-><NamerPersonImpid.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>FirstName (p = 0,5)-> [Syli]</li>
+    <li>firstName (p = 2)-> [syli] [nameend]</li>
+    <li>FirstName-> [Syli] [Syli] [Nameend]</li>
+    <li>LastName (p = 2)-> [Syli] [Nameend]</li>
+    <li>LastName-> [Syli] [Namend]</li>
+    <li>Untuk menelepon> [ciley]</li>
+    <li>pengetahuan</li>
+    <li>nameend-> i</li>
+    <li>nameEnd->izz</li>
+    <li>Namen Deen-> In</li>
+    <li>nameend-> ox</li>
+    <li>nameend-> ov</li>
+    <li>Nameend-> Drow</li>
+    <li>Nameend-> rath</li>
+    <li>Nameend-> Rat</li>
+    <li>Nameend-> lagi</li>
+    <li>Naminad-> rosage</li>
+    <li>nameend-> ron</li>
+    <li>Namend-> vin</li>
+    <li>Nama-> oleh</li>
+    <li>Namenden-> vozz</li>
+    <li>Nameaned-> itu</li>
+    <li>Naminad-> nowe</li>
+    <li>Nameaned-> novo</li>
+    <li>Naminad-> nav</li>
+    <li>nameend-> naz</li>
+    <li>Nameend-> nath</li>
+  </NamerPersonImpid.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>r_name-> [FirstName] '[NickName]' [LastName]</li>
+    <li>Mungkinhyphen (p = 4)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>firstName (p = 1)-> [sylp] [nameend]</li>
+    <li>firstName (p = 3)-> [sylp] [nameend]</li>
+    <li>Nama panggilan-> [Nicknamepig]</li>
+    <li>LastName (p = 3)-> [LastGenerated]</li>
+    <li>Lastgenerated-> [sylp] [namenden]</li>
+    <li>Lastgenerated-> [sylp] [Maybyhyphen] [sylp] [namevent]</li>
+    <li>Nameend-> and</li>
+    <li>Nama-> Ag</li>
+    <li>nameend-> up</li>
+    <li>Dinamai-> bekerja</li>
+    <li>Nameend-> org</li>
+    <li>Namenden-> en</li>
+    <li>nameend-> er</li>
+    <li>Nameend-> UB</li>
+    <li>Nama -> OPP</li>
+    <li>Namenden-> is</li>
+    <li>nameend-> ow</li>
+    <li>Naminad-> kamu</li>
+    <li>Nama-> Ag</li>
+    <li>nameend-> and</li>
+    <li>Namend-> ogg</li>
+    <li>Nama-> OBB</li>
+    <li>Nama end-> oli</li>
+    <li>nameend-> oin</li>-><NamerPersonPigskin.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>r_name-> [FirstName] "[NickName]" [LastName]</li>
+    <li>Mungkinhyphen (p = 4)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>firstName (p = 1)-> [sylp] [nameend]</li>
+    <li>firstName (p = 3)-> [sylp] [nameend]</li>
+    <li>Nama panggilan-> [Nicknamepig]</li>
+    <li>LastName (p = 3)-> [LastGenerated]</li>
+    <li>Lastgenerated-> [sylp] [namenden]</li>
+    <li>Lastgenerated-> [sylp] [Maybyhyphen] [sylp] [namevent]</li>
+    <li>Nameend-> and</li>
+    <li>Nama-> Ag</li>
+    <li>nameend-> up</li>
+    <li>Dinamai-> bekerja</li>
+    <li>Nameend-> org</li>
+    <li>Namenden-> en</li>
+    <li>nameend-> er</li>
+    <li>Nameend-> UB</li>
+    <li>Nama -> OPP</li>
+    <li>Namenden-> is</li>
+    <li>nameend-> ow</li>
+    <li>Naminad-> kamu</li>
+    <li>Nama-> Ag</li>
+    <li>nameend-> and</li>
+    <li>Namend-> ogg</li>
+    <li>Nama-> OBB</li>
+    <li>nameend-> oinc</li>
+    <li>nameend-> oin</li>
+  </NamerPersonPigskin.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>r_name-> [FirstName] '[Nicknamewaster]' [LastName]</li>
+    <li>FirstName-> [Syl] [Syl]</li>
+    <li>FirstName-> [Syl]</li>
+    <li>LastName-> [syl] [end]</li>
+    <li>End-> iklan</li>
+    <li>End-> dan</li>
+    <li>End-> ank</li>
+    <li>End-> ash</li>
+    <li>End-> eek</li>
+    <li>End-> satu</li>
+    <li>End-> ketat</li>
+    <li>End-> is</li>
+    <li>End-> esk</li>
+    <li>End-> ini</li>
+    <li>End-> Gun</li>
+    <li>Akhir> saya</li>
+    <li>End-> ip</li>
+    <li>END-> ISK</li>
+    <li>End-> ix</li>
+    <li>End-> dari</li>
+    <li>End-> bunuh</li>
+    <li>END-> KIN</li>
+    <li>End-> ling</li>
+    <li>End-> man</li>
+    <li>End-> pria</li>
+    <li>End-> nik</li>
+    <li>End-> ox</li>
+    <li>End-> skow</li>
+    <li>End-> asap</li>
+    <li>End-> limbah</li>
+    <li>End-> y</li>-><NamerPersonWaster.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>r_name-> [FirstName] "[Nicknamewaster]" [LastName]</li>
+    <li>FirstName-> [Syl] [Syl]</li>
+    <li>FirstName-> [Syl]</li>
+    <li>LastName-> [syl] [end]</li>
+    <li>End-> iklan</li>
+    <li>End-> dan</li>
+    <li>End-> ank</li>
+    <li>End-> ash</li>
+    <li>End-> eek</li>
+    <li>End-> satu</li>
+    <li>End-> ketat</li>
+    <li>End-> is</li>
+    <li>End-> esk</li>
+    <li>End-> ini</li>
+    <li>End-> Gun</li>
+    <li>Akhir> saya</li>
+    <li>End-> ip</li>
+    <li>END-> ISK</li>
+    <li>End-> ix</li>
+    <li>End-> dari</li>
+    <li>End-> bunuh</li>
+    <li>END-> KIN</li>
+    <li>End-> ling</li>
+    <li>End-> man</li>
+    <li>End-> pria</li>
+    <li>End-> nik</li>
+    <li>End-> ox</li>
+    <li>End-> skow</li>
+    <li>End-> asap</li>
+    <li>End-> limbah</li>
+    <li>End-> y</li>
+  </NamerPersonWaster.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>FirstName (p = 0,5)-> [Syly]</li>
+    <li>FirstName (p = 2)-> [Syly] [NameEnd]</li>
+    <li>FirstName-> [Syly] [Syly] [Name]</li>
+    <li>Nama Belakang (P = 2)-> [Style] [Name End]</li>
+    <li>LastName-> [Syly] [Syly] [Name]</li>
+    <li>Terakhir-> Kin '[Syly]</li>
+    <li>Nama Belakang-> Wyn '[Sylet] [bernama]</li>
+    <li>Namend (p = 3)-> ttt</li>
+    <li>Lelucon-> ish</li>
+    <li>namend-> disana</li>
+    <li>Namend-> osh</li>
+    <li>Namenden-> ark</li>
+    <li>Namenden-> enck</li>
+    <li>Naminad-></li>
+    <li>nameend-> uk</li>
+    <li>Na</li>
+    <li>Namenden-> en</li>
+    <li>Nameend-></li>
+    <li>ed-ed-> a</li>
+    <li>nameend-> ysh</li>
+    <li>nameend-> ys</li>
+    <li>baru</li>-><NamerPersonYttakin.rulePack.rulesStrings>
+    <li>r_name-> [FirstName] [LastName]</li>
+    <li>FirstName (p = 0,5)-> [Syly]</li>
+    <li>FirstName (p = 2)-> [Syly] [NameEnd]</li>
+    <li>FirstName-> [Syly] [Syly] [Name]</li>
+    <li>Nama Belakang (P = 2)-> [Style] [Name End]</li>
+    <li>LastName-> [Syly] [Syly] [Name]</li>
+    <li>Terakhir-> Kin '[Syly]</li>
+    <li>Nama Belakang-> Wyn '[Sylet] [bernama]</li>
+    <li>Namend (p = 3)-> ttt</li>
+    <li>Lelucon-> ish</li>
+    <li>namend-> disana</li>
+    <li>Namend-> osh</li>
+    <li>Namenden-> ark</li>
+    <li>Namenden-> enck</li>
+    <li>Naminad-></li>
+    <li>nameend-> uk</li>
+    <li>Na</li>
+    <li>Namenden-> en</li>
+    <li>Nameend-></li>
+    <li>ed-ed-> a</li>
+    <li>nameend-> ysh</li>
+    <li>nameend-> ys</li>
+    <li>baru</li>
+  </NamerPersonYttakin.rulePack.rulesStrings>
+  
+</LanguageData>

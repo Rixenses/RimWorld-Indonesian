@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulk goods trader -->
+  <Caravan_Outlander_BulkGoods.label>pedagang grosir</Caravan_Outlander_BulkGoods.label>
+  
+  <!-- EN: combat supplier -->
+  <Caravan_Outlander_CombatSupplier.label>Pedagang Senjata</Caravan_Outlander_CombatSupplier.label>
+  
+  <!-- EN: exotic goods trader -->
+  <Caravan_Outlander_Exotic.label>Pedagang produk eksotis</Caravan_Outlander_Exotic.label>
+  
+  <!-- EN: slaver -->
+  <Caravan_Outlander_PirateMerchant.label>pengedar narkoba</Caravan_Outlander_PirateMerchant.label>
+  
+</LanguageData>

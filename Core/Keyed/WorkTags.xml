@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>tidak ada</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>intelektual</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>Pekerjaan kotor</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>Pekerjaan yang memenuhi syarat</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>kekerasan</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>menembak</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>peduli</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>sosialisasi</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>Hewan</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>seni</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>manufaktur</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>memasak</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>Lawan api</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>pembersihan</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>mengangkut</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>pertanian</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>pertambangan</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>Caza</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>konstruksi</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>Pekerjaan Plebeian</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>Tidak ada pekerjaan</WorkTagAllWork>
+
+</LanguageData>

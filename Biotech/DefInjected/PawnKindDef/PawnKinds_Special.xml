@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechanitor -->
+  <Mechanitor.label>Mecanator</Mechanitor.label>
+  
+  <!-- EN: mechanitor -->
+  <Mechanitor_Basic.label>Mecanator</Mechanitor_Basic.label>
+  
+  <!-- EN: sanguophage -->
+  <Sanguophage.label>darah</Sanguophage.label>
+  
+  <!-- EN: sanguophage -->
+  <Sanguophage_Player.label>darah</Sanguophage_Player.label>
+  
+  <!-- EN: thrall -->
+  <SanguophageThrall.label>budak</SanguophageThrall.label>
+  
+  <!-- EN: villager -->
+  <Tribal_Child.label>orang desa</Tribal_Child.label>
+  
+  <!-- EN: villager -->
+  <Villager_Child.label>orang desa</Villager_Child.label>
+  
+</LanguageData>

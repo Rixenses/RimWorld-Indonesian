@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship range -->
+  <GravshipRange.label>rentang gravinave</GravshipRange.label>
+  <!-- EN: The maximum distance this gravship can travel with its connected substructure. -->
+  <GravshipRange.description>Jarak maksimum yang dapat ditempuh pajak ini dengan substruktur yang terhubung.</GravshipRange.description>
+  
+  <!-- EN: substructure support -->
+  <SubstructureSupport.label>Dukungan substruktur</SubstructureSupport.label>
+  <!-- EN: The maximum amount of substructure supported by this gravship. -->
+  <SubstructureSupport.description>Jumlah maksimum substruktur yang didukung oleh gravinave ini.</SubstructureSupport.description>
+  
+</LanguageData>

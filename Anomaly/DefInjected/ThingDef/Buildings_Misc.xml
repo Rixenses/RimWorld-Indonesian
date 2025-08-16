@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: atmospheric heater -->
+  <AtmosphericHeater.label>Pemanas atmosfer</AtmosphericHeater.label>
+  <!-- EN: A thermal projection device powered by scavenged shards of dark archotechnology. The device burns bioferrite to agitate gas molecules in the atmosphere, raising the local outdoor temperature. The building itself also produces huge amounts of waste heat. -->
+  <AtmosphericHeater.description>Perangkat proyeksi termal yang diumpankan oleh fragmen yang dipulihkan dari arkeoteknologi gelap.Perangkat pembakaran bioferrita untuk mengaduk molekul gas di atmosfer, menaikkan suhu eksternal lokal.Bangunan itu sendiri juga menghasilkan sejumlah besar panas.</AtmosphericHeater.description>
+  <!-- EN: Target outdoor temperature -->
+  <AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>Suhu eksterior yang diinginkan</AtmosphericHeater.comps.Comp_AtmosphericHeater.inspectString>
+  
+  <!-- EN: tactical turret bullet -->
+  <Bullet_TacticalTurret.label>Peluru menara taktis</Bullet_TacticalTurret.label>
+  
+  <!-- EN: delayed metalhorror emerge -->
+  <DelayedMetalhorrorEmerger.label>timbul dari tertunda metalhorr</DelayedMetalhorrorEmerger.label>
+  
+  <!-- EN: dirt cube sculpture -->
+  <DirtCubeSculpture.label>Patung kubus kotor</DirtCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <DirtCubeSculpture.description>Patung yang dibangun dengan tergesa -gesa yang menyerupai kubus.</DirtCubeSculpture.description>
+  
+  <!-- EN: electric inhibitor -->
+  <ElectricInhibitor.label>Inhibitor listrik</ElectricInhibitor.label>
+  <!-- EN: A device that emits a specially tuned electromagnetic field which numbs the neural activity of captured entities. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals. -->
+  <ElectricInhibitor.description>Perangkat yang memancarkan medan elektromagnetik yang disetel khusus yang mematikan aktivitas neuron dari entitas yang ditangkap.Meskipun terhubung, ia meningkatkan kekuatan retensi dari platform penahanan apa pun yang menunjuknya.Medan listrik tidak mempengaruhi manusia atau hewan normal.</ElectricInhibitor.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit2x2c.label>lubang yang tak ada habisnya</EndlessPit2x2c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit2x2c.description>Sebuah lubang dengan sisi halus yang memanjang turun tanpa batas.</EndlessPit2x2c.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit3x2c.label>lubang yang tak ada habisnya</EndlessPit3x2c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit3x2c.description>Sebuah lubang dengan sisi halus yang memanjang turun tanpa batas.</EndlessPit3x2c.description>
+  
+  <!-- EN: endless pit -->
+  <EndlessPit3x3c.label>lubang yang tak ada habisnya</EndlessPit3x3c.label>
+  <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
+  <EndlessPit3x3c.description>Sebuah lubang dengan sisi halus yang memanjang turun tanpa batas.</EndlessPit3x3c.description>
+  
+  <!-- EN: floor etching -->
+  <FloorEtching.label>ukiran tanah</FloorEtching.label>
+  <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
+  <FloorEtching.description>Sketsa kasar yang ditarik di tanah. \ N \ Dengan waktu yang cukup, Anda mungkin dapat menguraikannya.Pilih pemukim dan klik tombol kanan untuk memeriksanya.</FloorEtching.description>
+  <!-- EN: Choose someone to decipher this floor etching. -->
+  <FloorEtching.comps.CompFloorEtching.activateDescString>Pilih seseorang untuk menguraikan ukiran ini dari tanah.</FloorEtching.comps.CompFloorEtching.activateDescString>
+  <!-- EN: Decipher... -->
+  <FloorEtching.comps.CompFloorEtching.activateLabelString>Menguraikan...</FloorEtching.comps.CompFloorEtching.activateLabelString>
+  <!-- EN: Deciphering floor etching: {1}s -->
+  <FloorEtching.comps.CompFloorEtching.activatingString>Menguraikan ukiran tanah: {1} s</FloorEtching.comps.CompFloorEtching.activatingString>
+  <!-- EN: Deciphering floor etching -->
+  <FloorEtching.comps.CompFloorEtching.activatingStringPending>Menguraikan ukiran tanah</FloorEtching.comps.CompFloorEtching.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FloorEtching.comps.CompFloorEtching.guiLabelString>Pilih siapa yang harus melakukannya</FloorEtching.comps.CompFloorEtching.guiLabelString>
+  <!-- EN: Send a colonist to decipher this. -->
+  <FloorEtching.comps.CompFloorEtching.inspectString>Kirim pemukim untuk menguraikan ini.</FloorEtching.comps.CompFloorEtching.inspectString>
+  <!-- EN: Decipher floor etching -->
+  <FloorEtching.comps.CompFloorEtching.jobString>Menguraikan ukiran tanah</FloorEtching.comps.CompFloorEtching.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
+  <FloorEtching.comps.CompFloorEtching.messageCompletedString>{Pawn_namedef} telah berhasil menguraikan ukiran tanah.</FloorEtching.comps.CompFloorEtching.messageCompletedString>
+  
+  <!-- EN: floor etching -->
+  <FloorEtchingRambling.label>ukiran tanah</FloorEtchingRambling.label>
+  <!-- EN: A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it. -->
+  <FloorEtchingRambling.description>Sketsa kasar yang ditarik di tanah. \ N \ Dengan waktu yang cukup, Anda mungkin dapat menguraikannya.Pilih pemukim dan klik tombol kanan untuk memeriksanya.</FloorEtchingRambling.description>
+  <!-- EN: Choose someone to decipher this floor etching. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>Pilih seseorang untuk menguraikan ukiran ini dari tanah.</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateDescString>
+  <!-- EN: Decipher... -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>Menguraikan...</FloorEtchingRambling.comps.CompFloorEtchingRambling.activateLabelString>
+  <!-- EN: Deciphering floor etching: {1}s -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>Menguraikan ukiran tanah: {1} s</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingString>
+  <!-- EN: Deciphering floor etching -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>Menguraikan ukiran tanah</FloorEtchingRambling.comps.CompFloorEtchingRambling.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>Pilih siapa yang harus melakukannya</FloorEtchingRambling.comps.CompFloorEtchingRambling.guiLabelString>
+  <!-- EN: Send a colonist to decipher this. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>Kirim pemukim untuk menguraikan ini.</FloorEtchingRambling.comps.CompFloorEtchingRambling.inspectString>
+  <!-- EN: Decipher floor etching -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>Menguraikan ukiran tanah</FloorEtchingRambling.comps.CompFloorEtchingRambling.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully deciphered the floor etching. -->
+  <FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>{Pawn_namedef} telah berhasil menguraikan ukiran tanah.</FloorEtchingRambling.comps.CompFloorEtchingRambling.messageCompletedString>
+  
+  <!-- EN: frenzy inducer -->
+  <FrenzyInducer.label>Induktor hiruk -pikuk</FrenzyInducer.label>
+  <!-- EN: A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent. -->
+  <FrenzyInducer.description>Sebuah archeoteca yang dipulihkan dipotong dalam bingkai stimulasi listrik.Perangkat ini menciptakan getaran psikis yang panik di daerah lokal yang merangsang semua yang dekat untuk bergerak dan bekerja lebih cepat.Namun, setiap gangguan mental yang mereka derita akan kejam.</FrenzyInducer.description>
+  
+  <!-- EN: gray box -->
+  <GrayBox.label>Kotak abu -abu</GrayBox.label>
+  <!-- EN: A strange gray container. It is featureless and the surfaces are smooth. The material is not metal, concrete, or any other identifiable material. -->
+  <GrayBox.description>Wadah abu -abu yang aneh.Tidak memiliki fitur dan permukaannya halus.Bahannya bukan logam, beton atau bahan yang dapat diidentifikasi lainnya.</GrayBox.description>
+  
+  <!-- EN: door -->
+  <GrayDoor.label>Puerta</GrayDoor.label>
+  <!-- EN: A strange gray door. -->
+  <GrayDoor.description>Pintu abu -abu yang aneh.</GrayDoor.description>
+  <!-- EN: Choose someone to force this door open. -->
+  <GrayDoor.comps.CompLabyrinthDoor.activateDescString>Pilih seseorang untuk memaksa pintu ini.</GrayDoor.comps.CompLabyrinthDoor.activateDescString>
+  <!-- EN: Force open... -->
+  <GrayDoor.comps.CompLabyrinthDoor.activateLabelString>Memaksa keterbukaan ...</GrayDoor.comps.CompLabyrinthDoor.activateLabelString>
+  <!-- EN: forcing door open: {1}s -->
+  <GrayDoor.comps.CompLabyrinthDoor.activatingString>Memaksa pintu: {1} s</GrayDoor.comps.CompLabyrinthDoor.activatingString>
+  <!-- EN: forcing door open -->
+  <GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>Memaksa pintu</GrayDoor.comps.CompLabyrinthDoor.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <GrayDoor.comps.CompLabyrinthDoor.guiLabelString>Pilih siapa yang harus melakukannya</GrayDoor.comps.CompLabyrinthDoor.guiLabelString>
+  <!-- EN: Force this door open -->
+  <GrayDoor.comps.CompLabyrinthDoor.jobString>Memaksa pintu ini</GrayDoor.comps.CompLabyrinthDoor.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the door open. -->
+  <GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>{Pawn_namedef} telah berhasil memaksa pintu untuk membukanya.</GrayDoor.comps.CompLabyrinthDoor.messageCompletedString>
+  
+  <!-- EN: gray statue -->
+  <GrayStatueDeadlifeDust.label>Patung abu -abu</GrayStatueDeadlifeDust.label>
+  <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->
+  <GrayStatueDeadlifeDust.description>Patung aneh dan bengkok yang mengadopsi cara yang mengganggu.Zumba dengan lembut dengan energi internal yang aneh.</GrayStatueDeadlifeDust.description>
+  <!-- EN: Gray statue activated -->
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>Patung abu -abu yang diaktifkan</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterLabel>
+  <!-- EN: Reacting to {PAWN_nameDef}'s presence, the strange statue has begun to release a cloud of deadlife dust!\n\nThis dust-like substance will settle on nearby corpses and raise them as dangerous shamblers. -->
+  <GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>Bereaksi terhadap keberadaan {Pawn_Namedef}, patung aneh telah mulai melepaskan awan debu necrovite.</GrayStatueDeadlifeDust.comps.CompGrayStatueGas.letterText>
+  
+  <!-- EN: gray statue -->
+  <GrayStatueTeleporter.label>Patung abu -abu</GrayStatueTeleporter.label>
+  <!-- EN: A strange, twisted sculpture shaped into a disturbing form. It hums gently with some strange internal energy. -->
+  <GrayStatueTeleporter.description>Patung aneh dan bengkok yang mengadopsi cara yang mengganggu.Zumba dengan lembut dengan energi internal yang aneh.</GrayStatueTeleporter.description>
+  <!-- EN: {PAWN_nameDef} teleported -->
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>{Pawn_namedef} teletransportad {pawn_gender?O: A}</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterLabel>
+  <!-- EN: After approaching the strange statue, {PAWN_nameDef} blinked and found {PAWN_objective}self transported to a new location. -->
+  <GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>Setelah mendekati patung yang aneh, {Pawn_namedef} menjentikkan dan ditemukan transportasi {Pawn_gender?O: A} ke tempat baru.</GrayStatueTeleporter.comps.CompGrayStatueTeleporter.letterText>
+  
+  <!-- EN: wall -->
+  <GrayWall.label>dinding</GrayWall.label>
+  <!-- EN: An impassable gray wall. -->
+  <GrayWall.description>Dinding abu -abu yang sulit</GrayWall.description>
+  
+  <!-- EN: tactical turret gun -->
+  <Gun_TacticalTurret.label>Senjata menara taktis</Gun_TacticalTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_TacticalTurret.description>Pistol otomatis sederhana yang dibuat untuk dipasang di atas menara.</Gun_TacticalTurret.description>
+  <!-- EN: tactical turret gun -->
+  <Gun_TacticalTurret.verbs.Verb_Shoot.label>Senjata menara taktis</Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: holding platform -->
+  <HoldingPlatform.label>platform penahanan</HoldingPlatform.label>
+  <!-- EN: A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices. -->
+  <HoldingPlatform.description>Platform untuk mengandung entitas berbahaya.Sudut -sudutnya memiliki lubang di mana rantai yang kuat dapat berlabuh.Tingkatkan kekuatan penahanan dengan membangun dinding dan pintu yang tahan dan perangkat penahanan khusus lainnya.</HoldingPlatform.description>
+  
+  <!-- EN: holding spot -->
+  <HoldingSpot.label>Tempat penahanan</HoldingSpot.label>
+  <!-- EN: A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices. -->
+  <HoldingSpot.description>Tempat untuk menahan entitas berbahaya.Tidak sebagus platform penahanan baja, tetapi jauh lebih baik dari apa pun.Tingkatkan kekuatan penahanan dengan membangun dinding dan pintu yang kuat, dan perangkat penahanan khusus lainnya.</HoldingSpot.description>
+  
+  <!-- EN: noctolith -->
+  <Noctolith.label>Noctolito</Noctolith.label>
+  <!-- EN: A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.\n\nIf you destroy the pillar, you can recover a shard of dark archotech. -->
+  <Noctolith.description>Pilar bengkok dari struktur pelat gigi yang terbuat dari logam gelap dan berminyak.Kalahkan dengan energi, diumpankan oleh arkeoteknologi gelap dalam nukleusnya.</Noctolith.description>
+  <!-- EN: Contains: Unknown\nDestroy noctoliths to end the unnatural darkness. -->
+  <Noctolith.comps.CompInspectString.inspectString>Itu berisi: tidak diketahui \ ndasttruye malam untuk mengakhiri kegelapan antinatural.</Noctolith.comps.CompInspectString.inspectString>
+  
+  <!-- EN: pit burrow -->
+  <PitBurrow.label>Tangki Burrow</PitBurrow.label>
+  <!-- EN: A small hole connecting to some unseen cave network deep under the surface. The walls are too steep to climb. It is inherently unstable and will collapse after some time. -->
+  <PitBurrow.description>Lubang kecil yang terhubung dengan jaringan gua yang tersembunyi di bawah permukaan.Dindingnya terlalu curam untuk memanjatnya.Secara intrinsik tidak stabil dan akan runtuh setelah beberapa saat.</PitBurrow.description>
+  
+  <!-- EN: underground emergence -->
+  <PitBurrowSpawner.label>kemunculan bawah tanah</PitBurrowSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <PitBurrowSpawner.description>Sesuatu muncul dari tanah di sini.</PitBurrowSpawner.description>
+  
+  <!-- EN: pit gate -->
+  <PitGate.label>Lubang vakum</PitGate.label>
+  <!-- EN: A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below. -->
+  <PitGate.description>Lubang besar dan premonitori yang menghubungkan permukaan dengan jaringan gelap gua bawah tanah.Dimungkinkan untuk turun ke gua -gua bawah tanah.</PitGate.description>
+  <!-- EN: Fleshbeast lair -->
+  <PitGate.portal.enteredLetterLabel>Guarida dari Carnibestias</PitGate.portal.enteredLetterLabel>
+  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
+  <PitGate.portal.enteredLetterText>Di kedalaman lubang vakum, Anda telah menemukan sistem besar gua yang dipenuhi karnibstia. Serangan Carnimosa untuk menghancurkannya.\ N \ ntodo Sistem gua tampaknya tidak stabil.Jika Anda menemukan apa yang tersembunyi di balik carnimase, Anda dapat runtuh terowongan dan menutup lubang vakum.</PitGate.portal.enteredLetterText>
+  
+  <!-- EN: pit gate exit -->
+  <PitGateExit.label>Keberangkatan Pit Vakum</PitGateExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <PitGateExit.description>Garis string yang terhubung dengan permukaan atas.</PitGateExit.description>
+  
+  <!-- EN: underground emergence -->
+  <PitGateSpawner.label>kemunculan bawah tanah</PitGateSpawner.label>
+  <!-- EN: Something is emerging from the ground here. -->
+  <PitGateSpawner.description>Sesuatu muncul dari tanah di sini.</PitGateSpawner.description>
+  <!-- EN: Pit gate opened -->
+  <PitGateSpawner.building.groundSpawnerLetterLabel>Tangki vakum terbuka</PitGateSpawner.building.groundSpawnerLetterLabel>
+  <!-- EN: The shifting terrain has fallen into the depths below, forming a massive hole.\n\nThis pit gate will remain open until you collapse its entrance. Explore the pit gate to find a way to collapse it from underneath and to find useful items in the undercaves. -->
+  <PitGateSpawner.building.groundSpawnerLetterText>Gerakan ini telah jatuh ke kedalaman, membentuk lubang besar. Pintu NSTA akan tetap terbuka sampai tanah longsor.Jelajahi lubang vakum untuk menemukan cara untuk memecahkannya dari bawah dan menemukan objek yang berguna di gua -gua bawah tanah.</PitGateSpawner.building.groundSpawnerLetterText>
+  
+  <!-- EN: proximity detector -->
+  <ProximityDetector.label>Detektor kedekatan</ProximityDetector.label>
+  <!-- EN: A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius. -->
+  <ProximityDetector.description>Pemindai yang mampu mendeteksi makhluk tak terlihat.Perangkat memancarkan alarm ketika mendeteksi keberadaan Biosheasians yang tidak terlihat secara psikis di dalam radionya.</ProximityDetector.description>
+  
+  <!-- EN: sand cube sculpture -->
+  <SandCubeSculpture.label>Patung kubus pasir</SandCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <SandCubeSculpture.description>Patung yang dibangun dengan tergesa -gesa yang menyerupai kubus.</SandCubeSculpture.description>
+  
+  <!-- EN: scrap cube sculpture -->
+  <ScrapCubeSculpture.label>Scrap Cube Sculpture</ScrapCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <ScrapCubeSculpture.description>Patung yang dibangun dengan tergesa -gesa yang menyerupai kubus.</ScrapCubeSculpture.description>
+  
+  <!-- EN: security door -->
+  <SecurityDoor.label>Pintu keamanan</SecurityDoor.label>
+  <!-- EN: A heavily reinforced door. It is slow to open and requires electricity, but is very strong. It's a good choice if you want to keep something dangerous out - or in. The door requires walls on either side to function. -->
+  <SecurityDoor.description>Pintu yang sangat diperkuat.Buka perlahan dan membutuhkan listrik, tetapi sangat tahan.Ini adalah pilihan yang baik jika Anda ingin menjaga sesuatu yang berbahaya di luar ... atau di dalam.Pintu membutuhkan dinding di kedua sisi untuk bekerja.</SecurityDoor.description>
+  
+  <!-- EN: shard inhibitor -->
+  <ShardInhibitor.label>cincang inhibitor</ShardInhibitor.label>
+  <!-- EN: A shard of dark archotechnology that resonates with psychic energy, increasing the containment strength of any holding platform or spot within its radius.\n\nThe effect does not stack. -->
+  <ShardInhibitor.description>Chip arkeoteknologi gelap yang beresonansi dengan energi psikis, meningkatkan kekuatan retensi dari platform atau penahanan apa pun dalam radiusnya. Efek \ n \ nel tidak kumulatif.</ShardInhibitor.description>
+  
+  <!-- EN: sleep suppressor -->
+  <SleepSuppressor.label>Inhibitor tidur</SleepSuppressor.label>
+  <!-- EN: A scavenged archotech shard mounted in an electrical control frame. The device creates a psychic pulsation in the local area which alters the brain chemistry of those nearby, halting the buildup of fatigue toxins and removing the need for sleep. However, it also irritates anyone nearby. -->
+  <SleepSuppressor.description>Chip Archeoteca yang dipulihkan dalam kerangka kontrol listrik.Perangkat ini menciptakan denyut psikis di daerah lokal yang mengubah kimia otak mereka yang dekat, menghentikan akumulasi racun kelelahan dan menghilangkan kebutuhan untuk tidur.Namun, juga menjengkelkan mereka yang dekat.</SleepSuppressor.description>
+  
+  <!-- EN: stone cube sculpture -->
+  <StoneCubeSculpture.label>Patung batu batu</StoneCubeSculpture.label>
+  <!-- EN: A hastily constructed sculpture resembling a cube. -->
+  <StoneCubeSculpture.description>Patung yang dibangun dengan tergesa -gesa yang menyerupai kubus.</StoneCubeSculpture.description>
+  
+  <!-- EN: IED deadlife trap -->
+  <TrapIED_Deadlife.label>Necrovita Mine</TrapIED_Deadlife.label>
+  <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
+  <TrapIED_Deadlife.description>Sepasang proyektil Necrovita yang terhubung ke pemicu yang meledakkannya saat menyentuhnya atau dengan dampak peluru.Seperti tersembunyi di bidang sekitarnya, itu tidak dapat ditempatkan di sebelah perangkap lainnya. Hewan mungkin merasakan mereka saat mereka tenang.</TrapIED_Deadlife.description>
+  
+  <!-- EN: tactical turret -->
+  <Turret_TacticalTurret.label>Menara taktis</Turret_TacticalTurret.label>
+  <!-- EN: A short-range turret. It will stop functioning once its battery runs out. If damaged sufficiently, it may explode. -->
+  <Turret_TacticalTurret.description>Turret pendek -range.Ini akan berhenti bekerja saat baterai habis.Jika cukup rusak, itu bisa meledak.</Turret_TacticalTurret.description>
+  <!-- EN: Battery power -->
+  <Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>Baterai</Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>Turret ini memiliki durasi baterai yang terbatas.Ketika habis, itu akan berhenti bekerja sepenuhnya.</Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

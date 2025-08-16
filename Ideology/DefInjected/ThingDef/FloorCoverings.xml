@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animalist slab (broad) -->
+  <AnimalistSlab_Broad.label>Pelat hewan (lebar)</AnimalistSlab_Broad.label>
+  <!-- EN: A wooden bas relief of animalist imagery for decorating a floor. -->
+  <AnimalistSlab_Broad.description>Basorel kayu dengan gambar hewan untuk menghiasi tanah.</AnimalistSlab_Broad.description>
+  
+  <!-- EN: animalist slab (medium) -->
+  <AnimalistSlab_Medium.label>Pelat kebialis (sedang)</AnimalistSlab_Medium.label>
+  <!-- EN: A wooden bas relief of animalist imagery for decorating a floor. -->
+  <AnimalistSlab_Medium.description>Basorel kayu dengan gambar hewan untuk menghiasi tanah.</AnimalistSlab_Medium.description>
+  
+  <!-- EN: morbid slab (broad) -->
+  <MorbidSlab_Broad.label>Slab Morbid (Lebar)</MorbidSlab_Broad.label>
+  <!-- EN: A stone bas relief of morbid imagery for decorating a floor. -->
+  <MorbidSlab_Broad.description>Batu berjemur dengan gambar -gambar yang tidak wajar untuk menghiasi tanah.</MorbidSlab_Broad.description>
+  
+  <!-- EN: morbid slab (medium) -->
+  <MorbidSlab_Medium.label>Slab Morbida (median)</MorbidSlab_Medium.label>
+  <!-- EN: A stone bas relief of morbid imagery for decorating a floor. -->
+  <MorbidSlab_Medium.description>Batu berjemur dengan gambar -gambar yang tidak wajar untuk menghiasi tanah.</MorbidSlab_Medium.description>
+  
+  <!-- EN: rustic rug (broad) -->
+  <RusticRug_Broad.label>karpet pedesaan (lebar)</RusticRug_Broad.label>
+  <!-- EN: A homey rug with a rustic-style pattern, for decorating a floor. -->
+  <RusticRug_Broad.description>Karpet rumah dengan pola gaya pedesaan, untuk menghiasi tanah.</RusticRug_Broad.description>
+  
+  <!-- EN: rustic rug (medium) -->
+  <RusticRug_Medium.label>karpet pedesaan (median)</RusticRug_Medium.label>
+  <!-- EN: A homey rug with a rustic-style pattern, for decorating a floor. -->
+  <RusticRug_Medium.description>Karpet rumah dengan pola gaya pedesaan, untuk menghiasi tanah.</RusticRug_Medium.description>
+  
+  <!-- EN: spikecore floor-star (broad) -->
+  <SpikecoreFloorStar_Broad.label>Bintang Tanah Picopunta (Lebar)</SpikecoreFloorStar_Broad.label>
+  <!-- EN: A radial arrangement of metal pieces in a spikecore style, for decorating a floor. -->
+  <SpikecoreFloorStar_Broad.description>Susunan radial potongan logam dalam bentuk picopunta, untuk menghiasi tanah.</SpikecoreFloorStar_Broad.description>
+  
+  <!-- EN: spikecore floor-star (medium) -->
+  <SpikecoreFloorStar_Medium.label>Bintang Tanah Picopunta (Median)</SpikecoreFloorStar_Medium.label>
+  <!-- EN: A radial arrangement of metal pieces in a spikecore style, for decorating a floor. -->
+  <SpikecoreFloorStar_Medium.description>Susunan radial potongan logam dalam bentuk picopunta, untuk menghiasi tanah.</SpikecoreFloorStar_Medium.description>
+  
+  <!-- EN: totemic slab (broad) -->
+  <TotemicSlab_Broad.label>tonemic slab (lebar)</TotemicSlab_Broad.label>
+  <!-- EN: A wooden bas relief of totemic imagery for decorating a floor. -->
+  <TotemicSlab_Broad.description>Basorel kayu dengan gambar totemik untuk menghiasi tanah.</TotemicSlab_Broad.description>
+  
+  <!-- EN: totemic slab (medium) -->
+  <TotemicSlab_Medium.label>Slab Tonemic (Media)</TotemicSlab_Medium.label>
+  <!-- EN: A wooden bas relief of totemic imagery for decorating a floor. -->
+  <TotemicSlab_Medium.description>Basorel kayu dengan gambar totemik untuk menghiasi tanah.</TotemicSlab_Medium.description>
+  
+</LanguageData>

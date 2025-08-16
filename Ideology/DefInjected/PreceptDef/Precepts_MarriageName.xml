@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: always man's -->
+  <MarriageName_AlwaysMans.label>Selalu pria itu</MarriageName_AlwaysMans.label>
+  <!-- EN: Couples must share the man's name. -->
+  <MarriageName_AlwaysMans.description>Pasangan harus mengambil nama keluarga manusia.</MarriageName_AlwaysMans.description>
+  
+  <!-- EN: always woman's -->
+  <MarriageName_AlwaysWomans.label>Selalu wanita itu</MarriageName_AlwaysWomans.label>
+  <!-- EN: Couples must share the woman's name. -->
+  <MarriageName_AlwaysWomans.description>Pasangan harus mengambil nama belakang wanita itu.</MarriageName_AlwaysWomans.description>
+  
+  <!-- EN: keep names -->
+  <MarriageName_KeepNames.label>Mereka menyimpan nama belakang mereka</MarriageName_KeepNames.label>
+  <!-- EN: Both partners keep their names upon marriage. -->
+  <MarriageName_KeepNames.description>Kedua pasangan mempertahankan nama keluarga mereka dalam pernikahan.</MarriageName_KeepNames.description>
+  
+  <!-- EN: random -->
+  <MarriageName_Random.label>acak</MarriageName_Random.label>
+  <!-- EN: Couples randomly choose whether to share a name, and which name to share. -->
+  <MarriageName_Random.description>Pasangan secara acak memilih nama belakang siapa yang harus dibawa dan yang harus dibagikan.</MarriageName_Random.description>
+  
+  <!-- EN: usually woman's -->
+  <MarriageName_UsuallyWomans.label>Biasanya wanita itu</MarriageName_UsuallyWomans.label>
+  <!-- EN: Most couples share the woman's name. -->
+  <MarriageName_UsuallyWomans.description>Sebagian besar pernikahan berbagi nama belakang wanita.</MarriageName_UsuallyWomans.description>
+  
+</LanguageData>

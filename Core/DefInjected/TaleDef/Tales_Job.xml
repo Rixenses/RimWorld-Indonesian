@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended party -->
+  <AttendedParty.label>menghadiri pesta</AttendedParty.label>
+  <!-- EN:
+    <li>Tae_noun -> [attauter_) menempati pesta [Organizer_ameding]</li>
+    <li>Tale_noun-> [attender_namedef] bersantai dengan [organizer_namedef] di sebuah pesta</li>
+    <li>Image-> [attender_namefull] melakukan percakapan dengan [organizer_namefull] [soundance_group]</li>
+    <li>Image-> [attender_namefull] Mendapatkan minuman dari [organizer_namefull] [SITUKSE_GROUP]</li>
+    <li>Image-> [attender_namefull] Mengobrol dengan [organizer_namefull] [Soundance_Group]</li>
+    <li>Image-> [organizer_namefull] Menyambut [attender_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [organizer_namefull] Memperkenalkan [attender_namefull] ke teman [soundance_group]</li>
+    <li>keadaan_phrase-> dengan senyum lebar</li>
+    <li>SITUCTANCE_PHRASE-> TERTAWA</li>
+    <li>SITUCTANCE_PHRASE-> dengan senyuman [kata sifat]</li>
+    <li>SITUKSE_PHRASE-> Sambil tertawa terbahak-bahak</li>
+    <li>SITUCTANCE_PHRASE-> sementara [AdjectiveFriendly]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s terlibat dalam percakapan.</li>
+    <li>desc_sentence-> Area ini dihiasi dengan [warna] dan [warna].</li>
+    <li>Kalimat Desc-> [kuantitas frase adj] [Hewan bermain di dekatnya.</li>-><AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun-> [attender_namedef] menghadiri pesta [Organisasi_Namedef]</li>
+    <li>tale_noun-> [attender_namedef] santai dengan [Organisasi_Namedef] Di sebuah pesta</li>
+    <li>Image-> [attender_namefull] Conversa con [organizer_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [attender_namefulull] menerima minuman [Organisasi_Nameful] [SICKECANCE_GROUP]</li>
+    <li>Image-> [attender_namefull] adalah charlando con [organizer_namefull] [soundance_group]</li>
+    <li>Image-> [organizer_namefulr] menyambut [attender_nameful] [SICKECANCE_GROUP]</li>
+    <li>Image-> [organizer_namefulull] mempresentasikan untuk [attender_nameful] kepada teman [soundance_group]</li>
+    <li>Keadaan_phrase-> dengan senyum lebar</li>
+    <li>Keadaan_phrase-> sambil tertawa</li>
+    <li>SITUCTANCE_PHRASE-> dengan senyuman [kata sifat ramah_fem]</li>
+    <li>Keadaan_phrase-> sambil tertawa</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] ada dalam percakapan.</li>
+    <li>Desc_sentence-> Area ini dihiasi dengan nada [color_plural] dan [color_plural].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Mainkan dekat.</li>
+  </AttendedParty.rulePack.rulesStrings>
+  
+  <!-- EN: built snowman -->
+  <BuiltSnowman.label>Pria salju</BuiltSnowman.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] Membangun manusia salju</li>
+    <li>Tale_noun-> [Pawn_namedef] Bermain di salju</li>
+    <li>Image-> [Pawn_namefull] Membentuk bola salju [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menggulung bola salju raksasa di tanah [SICKECANCE_GROUP]</li>
+    <li>Gambar-> [Pawn_namefull] Mengatur [sayuran menjadi wajah manusia yang kasar [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di salju [SITUCCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Saat diselimuti di [quantity_adjphrase] parkas</li>
+    <li>SITUKSE_PHRASE-> Saat dikaburkan dalam badai salju ringan</li>
+    <li>Teman-teman SICKCANCE_PHRASE-> sementara</li>
+    <li>Teman-teman SICKCANCE_PHRASE-> sementara</li>
+    <li>desc_sentence-> A [warna] Aurora bersinar di latar belakang.</li>
+    <li>desc_sentence-> Di kejauhan, [komunitas] ditutupi dengan salju.</li>
+    <li>desc_sentence-> Bidang [sayuran] S hampir tidak terlihat melalui salju.</li>
+    <li>desc_sentence-> [terrainfeature] yang tertutup salju dapat dilihat jauh.</li>-><BuiltSnowman.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Membangun manusia salju</li>
+    <li>Tale_noun-> [Pawn_namedef] Dimainkan di salju</li>
+    <li>Image-> [Pawn_namefulr] membentuk bola salju [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulr] Menggulung bola salju raksasa di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Mengakomodasi [sayuran] untuk membentuk wajah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Doing in the Snow [kelompok keadaan]</li>
+    <li>SITUCTANCE_PHRASE-> DEBAJO de [kuantitas_adjphrase] Anoraks</li>
+    <li>Frasa keadaan-> saat badai salju menggelapkan langit</li>
+    <li>SITUCTANCE_PHRASE-> Saat teman Anda membangun benteng</li>
+    <li>SITUCTANCE_PHRASE-> Sementara teman Anda membangun manusia salju lainnya</li>
+    <li>Desc_sentence-> a aurora [color_fem] bersinar di latar belakang.</li>
+    <li>Desc_sentence-> jarak, [CommunityIndef] ditutupi dengan salju.</li>
+    <li>Desc_sentence-> Bidang [sayuran] S hampir tidak terlihat melalui salju.</li>
+    <li>Desc_sentence-> [TerrainfeatureIndefcap] dengan cakupan salju yang diamati di kejauhan.</li>
+  </BuiltSnowman.rulePack.rulesStrings>
+  
+  <!-- EN: buried corpse -->
+  <BuriedCorpse.label>tubuh terkubur</BuriedCorpse.label>
+  <!-- EN:
+    <li>tale_noun-> [digger_namedef] mengubur [corpse_namedef]</li>
+    <li>tale_noun-> [digger_namedef] meletakkan [corpse_namedef] untuk istirahat</li>
+    <li>Image-> [Digger_namefull] Berdiri di sebelah kuburan [Corpse_Namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Digger_namefull] Duduk di sebelah kuburan [Corpse_Namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Digger_namefull] bersandar pada kuburan [Corpse_Namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Digger_namefull] Teks Scribing di Grave [Corpse_Namefull] [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Digger_namefull] Menggambar seni di kuburan [Corpse_Namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Digger_namefull] Menempatkan tubuh [Corpse_Namefull] di dalam kuburan [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> dan dikonsumsi dalam pemikiran</li>
+    <li>SICKATICE_PHRASE-> Sambil menatap [terrainfeature] yang jauh</li>
+    <li>SITUKSE_PHRASE-> dan berbicara dengan tenang dengan peringatan itu</li>
+    <li>desc_sentence-> A [warna] Aurora bersinar di latar belakang.</li>
+    <li>desc_sentence-> Di kejauhan, [komunitas] ditutupi dengan salju.</li>
+    <li>desc_sentence-> gambar spektral [corpse_namedef] melihat ke atas adegan dengan ekspresi [kata sifat ramah].</li>
+    <li>desc_sentence-> gambar spektral [corpse_namedef] berdiri di sebelah [digger_namedef], mengenakan ekspresi [kata sifat ramah].</li>
+    <li>desc_sentence-> gambar spektral [corpse_namedef] melihat ke atas adegan dengan ekspresi [adjectiveangsty].</li>
+    <li>desc_sentence-> gambar spektral [corpse_namedef] berdiri di sebelah [digger_namedef], mengenakan ekspresi [kata sifat].</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat di dekat tempat kejadian.</li>-><BuriedCorpse.rulePack.rulesStrings>
+    <li>Tale_noun-> [Digger_Namedef] Terkubur [Corpse_Namedef]</li>
+    <li>Tae_noun -> [digger_nenedef] a (corpse_amenef]</li>
+    <li>Image-> [Digger_namefull] De Pie Junto a la tumba de [corpse_namefull] [soundance_group]</li>
+    <li>Image-> [Digger_namefulr] duduk di sebelah makam [corpse_namefulr] [soundance_group]</li>
+    <li>Image-> [Digger_nameful] Mengisi ulang di makam [corpse_namefulr] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Digger_namefulr] Menulis sesuatu di batu nisan [corpse_namefulr] [soundance_group]</li>
+    <li>Image-> [Digger_namefulr] Menggambar di batu nisan [corpse_namefulr] [soundance_group]</li>
+    <li>Image-> [Digger_namefulr] menyetor tubuh [corpse_nameful] di kuburan [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> berkeliaran di pikiran mereka</li>
+    <li>SITUCTANCE_PHRASE-> Saat merenungkan [terrainfeature] yang jauh</li>
+    <li>Keadaan_phrase-> dan berbicara dengan tenang ke batu nisan</li>
+    <li>Desc_sentence-> aurora [color_fem] menerangi latar belakang.</li>
+    <li>Desc_sentence-> jarak, [CommunityIndef] ditutupi dengan salju.</li>
+    <li>Desc_sentence-> gambar spektral [corpse_namedef] melihat adegan dengan menabur [kata sifat ramah].</li>
+    <li>Desc_sentence-> gambar spektral [corpse_namedef] berada di sebelah [visitor_namedef], dengan menabur [kata sifat ramah].</li>
+    <li>Desc_sentence-> gambar hantu [corpse_namedef] mengamati adegan dengan menabur [kata sifat].</li>
+    <li>Desc_sentence-> gambar hantu [corpse_namedef] berada di sebelah [visitor_namedef], dengan menabur [kata sifat].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] beristirahat di dekat tempat kejadian.</li>
+  </BuriedCorpse.rulePack.rulesStrings>
+  
+  <!-- EN: completed long construction project -->
+  <CompletedLongConstructionProject.label>Proyek Konstruksi Lengkap yang Hebat</CompletedLongConstructionProject.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] menyelesaikan konstruksi pada [Object_label]</li>
+    <li>Image-> [pawn_namefull] Membangun [Object_label] [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_Namefull] Menyusun [Object_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Memoles permukaan [Object_label] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] menuliskan nama [pawn_possessive] pada [object_label] [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dengan kilau di mata [Pawn_possessive]</li>
+    <li>SICKCANCE_PHRASE-> Saat menghapus keringat dari dahi [Pawn_Possessives]</li>
+    <li>keadaan_phrase-> saat tertutup kotoran</li>
+    <li>keadaan_phrase-> sambil tersenyum bangga</li>
+    <li>SICKECANCE_PHRASE-> Dengan ekspresi yang puas pada wajah [Pawn_Possessive]</li>
+    <li>desc_sentence-> [Object_label] tampaknya menara di atas [Pawn_namedef].</li>
+    <li>desc_sentence-> [Object_label] memancarkan [warna] lembut.</li>
+    <li>desc_sentence-> [Object_label] detail secara rumit.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s Marvel di [objek_label].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S tatapan dengan kagum.</li>-><CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] menyelesaikan konstruksi [Object_indefinite]</li>
+    <li>Image-> [pawn_namefull] construyendo [objek_indefinite] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] menggabungkan bagian [objek_indefinite] [SITUCTance_Group]</li>
+    <li>Image-> [pawn_namefull] Puliendo la Superficie de [Object_indefinite] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] merekam nama Anda di [Object_indefinite] [SITUKSE_GROUP]</li>
+    <li>Keadaan_phrase-> dengan kilau di matanya</li>
+    <li>Keadaan_phrase-> saat membersihkan keringat dahi Anda</li>
+    <li>Keadaan_phrase-> dengan kotoran ke leher</li>
+    <li>Frasa keadaan-> tersenyum dengan bangga</li>
+    <li>Keadaan_phrase-> dengan ekspresi kepuasan di wajahnya</li>
+    <li>Desc_sentence-> [Object_definite] tampaknya jauh lebih besar dari [Pawn_namedef].</li>
+    <li>Desc_sentence-> [objek_definite] bersinar dengan nada lembut [warna].</li>
+    <li>Desc_sentence-> [Object_definite] memiliki banyak detail rumit.</li>
+    <li>Desentencio-> [quantity_adjphrase] [personjob_plural] se maravillan con [objek_definite].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dengan takjub.</li>
+  </CompletedLongConstructionProject.rulePack.rulesStrings>
+  
+  <!-- EN: completed long crafting project -->
+  <CompletedLongCraftingProject.label>Proyek manufaktur yang lengkap</CompletedLongCraftingProject.label>
+  <!-- EN:
+    <li>tale_noun-> [Pawn_namedef] Menyelesaikan pekerjaan pada [Object_label]</li>
+    <li>Image-> [Pawn_namefull] Bekerja pada [Object_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Memoles permukaan [Object_label] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Menambahkan detail permukaan ke [Object_label] [Soundance_Group]</li>
+    <li>Image-> [pawn_namefull] menuliskan nama [pawn_possessive] pada [object_label] [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dengan kilau di mata [Pawn_possessive]</li>
+    <li>SICKCANCE_PHRASE-> Saat menghapus keringat dari dahi [Pawn_Possessives]</li>
+    <li>keadaan_phrase-> saat tertutup kotoran</li>
+    <li>keadaan_phrase-> sambil tersenyum bangga</li>
+    <li>SICKECANCE_PHRASE-> Dengan ekspresi yang puas pada wajah [Pawn_Possessive]</li>
+    <li>desc_sentence-> [Object_label] memancarkan [warna] lembut.</li>
+    <li>desc_sentence-> [Object_label] detail secara rumit.</li>
+    <li>desc_sentence-> [pawn_namedef] mengangkat [Object_label] tampaknya tanpa usaha.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s Marvel di perangkat.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S tatapan dengan kagum.</li>-><CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] mengakhiri pembuatan [Object_indefinite]</li>
+    <li>Image-> [pawn_namefull] trabajando en [Object_indefinite] [SICKACE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Puliendo la Superficie de [Object_indefinite] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] Menambahkan detail ke permukaan [Object_indefinite] [SICKACE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] merekam nama Anda di [Object_indefinite] [SITUKSE_GROUP]</li>
+    <li>Keadaan_phrase-> dengan kecerahan di matanya</li>
+    <li>Keadaan_phrase-> saat membersihkan keringat dahi Anda</li>
+    <li>Keadaan_phrase-> dengan kotoran ke leher</li>
+    <li>Frasa keadaan-> tersenyum dengan bangga</li>
+    <li>Keadaan_phrase-> dengan ekspresi yang puas di wajahnya</li>
+    <li>Desc_sentence-> [Object_definite] tampaknya jauh lebih besar dari [Pawn_namedef].</li>
+    <li>Desc_sentence-> [objek_definite] bersinar dengan nada lembut [warna].</li>
+    <li>Desc_sentence-> [Object_definite] memiliki banyak detail rumit.</li>
+    <li>Desentencio-> [quantity_adjphrase] [personjob_plural] se maravillan con [objek_definite].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dengan takjub.</li>
+  </CompletedLongCraftingProject.rulePack.rulesStrings>
+  
+  <!-- EN: entered cryptosleep -->
+  <EnteredCryptosleep.label>Memasuki cryptosueño</EnteredCryptosleep.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Memasuki Cryptosleep</li>
+    <li>Image-> [Pawn_namefull] Berbaring di dalam peti cryptosleep [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Membuka peti cryptosleep kosong [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyegel diri mereka di dalam peti cryptosleep [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Melihat melalui dinding peti cryptosleep di dunia yang akan mereka tinggalkan [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveAngsty]</li>
+    <li>keadaan_phrase-> saat dikonsumsi dalam pemikiran</li>
+    <li>SICKATICE_PHRASE-> Sambil menatap [terrainfeature] yang jauh</li>
+    <li>keadaan_phrase-> dan berbicara dengan tenang untuk diri mereka sendiri</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat di dekat tempat kejadian.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S mendekati area tersebut.</li>
+    <li>desc_sentence-> [pawn_namedef] memancarkan tekad.</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat terluka.</li>
+    <li>desc_sentence-> A [warna] Aurora bersinar di latar belakang.</li>
+    <li>desc_sentence-> [quantity_adjphrase] mengisukan peti cryptosleep mengelilingi pemandangan.</li>-><EnteredCryptosleep.rulePack.rulesStrings>
+    <li>Tale_noun-> [pawn_namedef] memasuki cryptosueño sarkophagus</li>
+    <li>Image-> [Pawn_namefulull] Berbaring di dalam cryptosueño sarkophagus [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Membuka Cryptosueño Sarkophagus kosong [SITUCSANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] Menutup cryptosueño sarkophagus [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Melihat dinding melalui jendela cryptosueño sarkophagus ke dunia yang akan meninggalkan [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>Keadaan_phrase-> dengan pikiran yang diserap dalam pikiran mereka</li>
+    <li>SITUCTANCE_PHRASE-> Saat merenungkan [terrainfeature] yang jauh</li>
+    <li>Keadaan_phrase-> bergumam tanpa ada yang mendengarnya</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] restanus pagar.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] mendekati tempat itu.</li>
+    <li>Desc_sentence-> [pawn_namedef] memancarkan tekad.</li>
+    <li>Desc_sentence-> [pawn_namedef] dengan luka yang terbuka.</li>
+    <li>Desc_sentence-> a aurora [color_fem] bersinar di latar belakang.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] cryptosueño sarkophagi mengelilingi pemandangan.</li>
+  </EnteredCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill -->
+  <GainedMasterSkillWithoutPassion.label>Kemampuan magistral</GainedMasterSkillWithoutPassion.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menjadi master di [skill_label] Tugas</li>
+    <li>Image-> [Pawn_namefull] Berlatih Keterampilan [skill_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Membaca buku tebal di [skill_label] Metode [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menerima pelatihan dalam [skill_label] Keterampilan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bekerja dengan tergesa-gesa [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyelesaikan proyek [SICKECANCE_GROUP]</li>
+    <li>keadaan_phrase-> saat tertutup keringat</li>
+    <li>keadaan_phrase-> dengan kelelahan yang terlihat</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveAngsty]</li>
+    <li>keadaan_phrase-> dengan ekspresi bosan</li>
+    <li>desc_sentence-> Adegan dikelilingi oleh [quantity_adjphrase] Eksperimen yang gagal.</li>
+    <li>desc_sentence-> Adegan dikelilingi oleh buku [quantity_adjphrase].</li>
+    <li>Desc_sentence-> [Pawn_Possessive] Keterampilan terlihat dalam pekerjaan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] S Watch dengan takjub.</li>
+    <li>Kalimat Desc-> [kuantitas adj frase] [Hewan menonton dengan takjub.</li>
+    <li>desc_sentence-> [quantity_adjphrase] roh halus dari tuan kuno mengawasi dari atas.</li>-><GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] mencapai keterampilan maksimal di [skill_label]</li>
+    <li>Image-> [Pawn_namefulull] mempraktikkan kemampuan [skill_label] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Membaca buku tentang [label keterampilan] [Kelompok keadaan] Metode]</li>
+    <li>Image-> [Pawn_namefulull] Menerima pelatihan di [skill_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulr] Bekerja dengan sungguh-sungguh [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menyelesaikan proyek [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan tubuh Anda tertutup keringat</li>
+    <li>Keadaan_phrase-> dengan kelelahan yang terlihat</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>Keadaan_phrase-> dengan ekspresi membosankan</li>
+    <li>Desc_sentence-> Adegan dikelilingi oleh [quantity_adjphrase] Eksperimen yang gagal.</li>
+    <li>Desc_sentence-> Adegan dikelilingi oleh buku [quantity_adjphrase].</li>
+    <li>Desc_sentence-> Kemampuan Anda terlihat di tempat kerja.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dengan takjub.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Amati dengan takjub.</li>
+    <li>Desc_sentence-> [quantity_adjprase] roh halus dari guru kuno mengamati dari surga.</li>
+  </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  
+  <!-- EN: gained master skill with passion -->
+  <GainedMasterSkillWithPassion.label>Kemampuan Magistral dengan hasrat</GainedMasterSkillWithPassion.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menjadi master di [skill_label] Tugas</li>
+    <li>Image-> [Pawn_namefull] Berlatih Keterampilan [skill_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Membaca buku tebal di [skill_label] Metode [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menerima pelatihan untuk keterampilan [skill_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bekerja dengan tergesa-gesa [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyelesaikan proyek [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveFriendly]</li>
+    <li>keadaan_phrase-> dengan ekspresi gembira</li>
+    <li>keadaan_phrase-> sementara [Verbem relies]</li>
+    <li>keadaan_phrase-> dengan teriakan yang bersemangat</li>
+    <li>keadaan_phrase-> saat tertutup keringat</li>
+    <li>keadaan_phrase-> dengan kelelahan yang terlihat</li>
+    <li>desc_sentence-> subjek dikelilingi oleh hasil eksperimen yang gagal [kuantitas_adjprase].</li>
+    <li>desc_sentence-> subjek dikelilingi oleh buku [quantity_adjphrase].</li>
+    <li>Desc_sentence-> [Pawn_Possessive] Keterampilan terlihat dalam pekerjaan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] S Watch dengan takjub.</li>
+    <li>Kalimat Desc-> [kuantitas adj frase] [Hewan menonton dengan takjub.</li>
+    <li>desc_sentence-> [quantity_adjphrase] roh halus dari tuan kuno mengawasi dari atas.</li>-><GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] mencapai keterampilan maksimal di [skill_label]</li>
+    <li>Image-> [Pawn_namefulull] mempraktikkan kemampuan [skill_label] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Membaca buku tentang [label keterampilan] [Kelompok keadaan] Metode]</li>
+    <li>Image-> [Pawn_namefulull] Menerima pelatihan di [skill_label] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulr] Bekerja dengan sungguh-sungguh [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menyelesaikan proyek [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUKSE_PHRASE-> dengan ekspresi periang</li>
+    <li>Keadaan_phrase-> sementara [Verbem relies]</li>
+    <li>Keadaan_phrase-> berteriak dengan emosi</li>
+    <li>SITUCTANCE_PHRASE-> dengan tubuh Anda tertutup keringat</li>
+    <li>Keadaan_phrase-> dengan kelelahan yang terlihat</li>
+    <li>Desc_sentence-> Adegan dikelilingi oleh [quantity_adjphrase] Eksperimen yang gagal.</li>
+    <li>Desc_sentence-> Adegan dikelilingi oleh buku [quantity_adjphrase].</li>
+    <li>Desc_sentence-> Kemampuan Anda terlihat di tempat kerja.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dengan takjub.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Amati dengan takjub.</li>
+    <li>Desc_sentence-> [quantity_adjprase] roh halus dari guru kuno mengamati dari surga.</li>
+  </GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  
+  <!-- EN: increased menagerie -->
+  <IncreasedMenagerie.label>menanam kawanan</IncreasedMenagerie.label>
+  <!-- EN:
+    <li>tale_noun (p = 3)-> [human_namedef] merekrut hewan lain untuk [human_possessive] menanam [animalgroup]</li>
+    <li>tale_noun-> [human_namedef] diikuti oleh [animalgroup]</li>
+    <li>Tae_noun -> [human_namecedf] menjinakkan [animal_amef]</li>
+    <li>Image-> [Human_namefull] Taming [animal_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Human_namefull] Menawarkan potongan makanan untuk [animal_namefull] [soundance_group]</li>
+    <li>Image-> [Human_namefull] Berbisik ke [hewan_label] yang gelisah [SICKACE_GROUP]</li>
+    <li>Image-> [Human_namefull] Menenangkan [hewan_label] [SICKACE_GROUP]</li>
+    <li>keadaan_phrase-> dengan sangat hati-hati dan hati-hati</li>
+    <li>SITUCTANCE_PHRASE-> dengan senyuman</li>
+    <li>keadaan_phrase-> saat kelelahan tapi bahagia</li>
+    <li>SITUCTANCE_PHRASE-> dengan [AnimalGroup] di latar belakang</li>
+    <li>desc_sentence-> [human_namedef] dikelilingi oleh [hewan] yang tak terhitung.</li>
+    <li>desc_sentence-> [animal_namedef] bergerak untuk bergabung dengan [animalgroup] kerabatnya.</li>
+    <li>desc_sentence-> Adegan ini dikemas dengan [hewan] dan [hewan] s.</li>
+    <li>desc_sentence-> garis [hewan] yang tak terhitung tunggu untuk dijinakkan oleh [human_namedef].</li>-><IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun (p = 3)-> [human_namedef] merekrut hewan lain untuk tumbuh [kelompok hewan]</li>
+    <li>tale_noun-> [human_namedef] diikuti [animalgroupindef] untuk domestikasi</li>
+    <li>Tale_noun -> [human_namef] domestikóó</li>
+    <li>Image-> [human_namefull] domestik dan a [animal_nameindef] [soundance_group]</li>
+    <li>Image-> [Human_namefulull] Menawarkan suguhan untuk [animal_nameindef] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Human_namefull] Menggumam [animal_nameindef] Agil keras dari [SITUCSANCE_GROUP]</li>
+    <li>Image-> [human_nameful] menenangkan [animal_nameindef] liar [soundance_group]</li>
+    <li>Keadaan_phrase-> dengan sangat hati-hati dan hati-hati</li>
+    <li>Keadaan_phrase-> dengan senyuman</li>
+    <li>Frasa keadaan-> dengan kelelahan dan kebahagiaan</li>
+    <li>SITUCTANCE_PHRASE-> dengan [AnimalGroupindef] di latar belakang</li>
+    <li>Desc_sentence-> [human_namedef] Mereka mengelilingi dia [animalAnypl] yang tak terhitung jumlahnya.</li>
+    <li>Desc_sentence-> [animal_namedef] berjalan menuju [animalGroupindef] dari spesiesnya untuk bergabung.</li>
+    <li>Desc_sentence-> Adegan memiliki banyak [animaypl] dan [animaypl].</li>
+    <li>Desc_sentence-> deretan [animalAnypl] yang tak terhitung jumlahnya untuk dijinakkan oleh [human_namedef].</li>
+  </IncreasedMenagerie.rulePack.rulesStrings>
+  
+  <!-- EN: meditated -->
+  <Meditated.label>meditasi</Meditated.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] Meditasi</li>
+    <li>Image-> [Pawn_namefull] Duduk di bawah pohon [Treeetype], [Sounce_Group]</li>
+    <li>Image-> [Pawn_namefull] Duduk dengan pelan, [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] menatap ke kejauhan dan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menutup [Pawn_Possessives] mata dan [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> READIATING SERENITY</li>
+    <li>keadaan_phrase-> dengan senyum yang tenang</li>
+    <li>SITUCTANCE_PHRASE-> dengan senyum [kata-kata]</li>
+    <li>SITUCTANCE_PHRASE-> Glowing dengan lembut</li>
+    <li>keadaan_phrase-> dikelilingi oleh aura [warna]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S pandangan ke [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_pronoun] dikelilingi oleh [quantity_adjprase] [hewan] s.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat dengan damai.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S terpesona oleh adegan.</li>-><Meditated.rulePack.rulesStrings>
+    <li>Tale_noun-> [pnamen_met] Meditas</li>
+    <li>Image-> [Pawn_namefulull] Duduk dekat dengan [TreeTypeIndef], [Soundsance_Group]</li>
+    <li>Image-> [Pawn_namefulull] Duduk dengan tenang, [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Merenungkan jarak dan [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menutup matanya dan [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> mengeluarkan ketenangan</li>
+    <li>Keadaan_phrase-> dengan senyum yang tenang</li>
+    <li>SITUCTANCE_PHRASE (Pawn_gender == Pria)-> Dengan wajahnya yang bahagia ia mulai [dengan kata ramah]</li>
+    <li>SITUCTANCE_PHRASE (Pawn_gender! = Pria)-> Dengan wajahnya yang bahagia ia mulai [verb friendly_fem]</li>
+    <li>SITUCTANCE_PHRASE-> Brilando tenuemente</li>
+    <li>SITUCTANCE_PHRASE-> rodead [Pawn_o_a] oleh aura [color_fem]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob_plural] le obvan.</li>
+    <li>Desentencio-> adalah rodead [pawn_o_a] oleh [quantity_adjphrase] [animalAnypl].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] beristirahat dengan damai.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] diserap oleh pemandangan.</li>
+  </Meditated.rulePack.rulesStrings>
+  
+  <!-- EN: mined valuable -->
+  <MinedValuable.label>mineral berharga</MinedValuable.label>
+  <!-- EN:
+    <li>tale_noun-> [Pawn_namedef] Menambang nada kaya [material_label]</li>
+    <li>Image-> [Pawn_namefull] mengerjakan dinding [material_label] dengan alat pertambangan, [SounStance_Group]</li>
+    <li>Image-> [Pawn_namefull] Memegang sepotong [material_label], [SounITance_Group]</li>
+    <li>Image-> [pawn_namefull] Beristirahatlah di dinding [material_label], [Soumtance_Group]</li>
+    <li>Image-> [Pawn_namefull] Mengkoordinasikan tim penggalian melawan nada yang kaya [material_label], [SITUGNCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Dengan hati-hati memeriksa nada yang kaya [Material_label], [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Berkeringat berat</li>
+    <li>SITUCTANCE_PHRASE-> Mengenakan ekspresi [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> Mengenakan ekspresi [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> tersenyum bangga</li>
+    <li>SITUCTANCE_PHRASE-> Ekspresi yang puas pada wajah [Pawn_Possessive]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] s assist.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan mengembara di daerah tersebut.</li>
+    <li>desc_sentence-> Ada [komunitas] di latar belakang.</li>
+    <li>desc_sentence-> [quantity_adjphrase] vena lebih lanjut terlihat di kejauhan.</li>
+    <li>desc_sentence-> [terrainfeature] terlihat di kejauhan.</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat dan kotor dari pekerjaan.</li>-><MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun-> [pawn_namedef] minó vena yang kaya [material_label]</li>
+    <li>Image-> [pawn_namefulr] mengerjakan dinding [material_label] dengan alat pertambangan, [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Meninjau sepotong [material_label], [SounITance_Group]</li>
+    <li>Image-> [Pawn_namefulull] Beristirahat di dinding [bahan label], [kelompok keadaan]</li>
+    <li>Image-> [pawn_namefulull] mengoordinasikan tim penggalian menuju dinding [material_label], [soundance_group]</li>
+    <li>Image-> [pawn_namefulull] Memeriksa nada yang kaya [material_label], [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> Suding deras</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> tersenyum bangga</li>
+    <li>Keadaan_phrase-> dengan ekspresi yang puas di wajahnya</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] s Ayudan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] berjalan melalui area tersebut.</li>
+    <li>Desc_sentence-> Ada [CommunityIndef] di latar belakang.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] vetas lebih banyak diamati pada kejauhan.</li>
+    <li>Desc_sentence-> [TerrainfeatureIndefcap] diamati dari kejauhan.</li>
+    <li>Desc_sentence-> [pawn_namedef] adalah supian [pawn_o_a] dan saci [pawn_o_a] untuk bekerja sangat banyak.</li>
+  </MinedValuable.rulePack.rulesStrings>
+  
+  <!-- EN: played game -->
+  <PlayedGame.label>bermain bermain</PlayedGame.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] bersantai di [Object_label]</li>
+    <li>tale_noun-> [Pawn_namedef] bermain game di [Object_label]</li>
+    <li>tale_noun-> [Pawn_namedef] Menikmati [Pawn_objective] Self di [Object_label]</li>
+    <li>Image-> [Pawn_namefull] Menunggu di kursi, [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] siap di atas [Object_label], [SITUKSE_GROUP]</li>
+    <li>Image-> [pawn_namefull] duduk di sebelah [Object_label], [Soundance_Group]</li>
+    <li>Image-> [pawn_namefull] menang di [Object_label], [Soundance_Group]</li>
+    <li>Image-> [Pawn_namefull] Kehilangan di [Object_label], [Soundance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> TENSE With Energy</li>
+    <li>Tubuh SICKACE_PHRASE-> [Pawn_Possessives] longgar dan rileks</li>
+    <li>SICKCANCE_PHRASE-> PERENCANAAN [PAWN_POSSESIF] Tindakan berikutnya</li>
+    <li>SICKECANCE_PHRASE-> ARTH ARTIGE [PAWN_POSSESSIF] dengan lembut</li>
+    <li>SICKTANCE_PHRASE-> [AngstyVerb] dengan ekspresi [AdjectiveAngsty]</li>
+    <li>SITUCTANCE_PHRASE-> Mengenakan tampilan [AdjectiveAngsty]</li>
+    <li>SITUCTANCE_PHRASE-> [ANGSTYVER]</li>
+    <li>desc_sentence-> A [warna] Aurora bersinar di latar belakang.</li>
+    <li>desc_sentence-> Di kejauhan, [komunitas] terlihat.</li>
+    <li>desc_sentence-> Di kejauhan, [terrainfeature] terlihat.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s bermain juga.</li>
+    <li>Kalimat Desc-> [kuantitas frase adj] [Hewan bermain di dekatnya.</li>
+    <li>desc_sentence-> [pawn_namedef] bersinar dengan aura [warna].</li>
+    <li>fitur desc_sentence-> [Pawn_namedef] dibesar-besarkan.</li>
+    <li>desc_sentence-> [pawn_namedef] menara di atas tempat kejadian.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] s merosot dalam kekalahan.</li>-><PlayedGame.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_nemedef] Santai di [Object_indefinite]</li>
+    <li>tale_noun-> [Pawn_namedef] Dimainkan di [Object_indefinite]</li>
+    <li>Tale_noun-> [Pawn_namedef] dinikmati di [Object_indefinite]</li>
+    <li>Image-> [pawn_namefull] Sentad [pawn_o_a] en una silla, [soundance_group]</li>
+    <li>Image-> [pawn_namefull] recargad [pawn_o_a] en [object_indefinite], [soundance_group]</li>
+    <li>Image-> [pawn_namefull] ObservAdo [Object_indefinite], [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memenangkan game di [Object_indefinite], [SounITance_Group]</li>
+    <li>Image-> [Pawn_namefulull] Kehilangan game di [Object_indefinite], [Soundation_Group]</li>
+    <li>SITUKSE_PHRASE-> dengan otot tegang</li>
+    <li>SITUKSE_PHRASE-> Tubuh Anda yang rileks</li>
+    <li>circumstance_phrase->planeando su siguiente acción</li>
+    <li>Keadaan_phrase-> memijat tangannya</li>
+    <li>SITUCTANCE_PHRASE-> CON un SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUCTANCE_PHRASE-> bergumam untuk dirinya sendiri</li>
+    <li>Desc_sentence-> a Aurora [color_fem] bersinar di kejauhan.</li>
+    <li>Desc_sentence-> jarak diamati [CommunityIndef].</li>
+    <li>DESC_SENTENCE-> Jarak diamati [TerrainfeatureIndef].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] juga bermain.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Mainkan dekat.</li>
+    <li>Desc_sentence-> [pawn_namedef] bersinar dengan aura [color_fem].</li>
+    <li>Descent-> Faksi [Pawn_Namedef] dibesar-besarkan.</li>
+    <li>Desc_sentence-> [pawn_namedef] memaksakan pada adegan itu.</li>
+    <li>Desentent-> [quantity_adjphrase] [personjob_plural] jika dikalahkan.</li>
+  </PlayedGame.rulePack.rulesStrings>
+  
+  <!-- EN: prayed -->
+  <Prayed.label>doa</Prayed.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Berdoa</li>
+    <li>Tale_noun-> [Pawn_namedef] Berdoa untuk kekuatan yang lebih tinggi</li>
+    <li>Image-> [Pawn_namefull] menatap ke kejauhan dan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menutup [Pawn_Possessives] mata dan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mengepotkan tangan [Pawn_possessive] dan [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Melihat ke langit dan [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> READIATING SERENITY</li>
+    <li>SITUCTANCE_PHRASE-> Whispering dengan lembut</li>
+    <li>SITUKSE_PHRASE-> Mengenakan ekspresi penuh harapan</li>
+    <li>SITUCTANCE_PHRASE-> Glowing dengan lembut</li>
+    <li>keadaan_phrase-> dikelilingi oleh aura [warna]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S pandangan ke [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_pronoun] dikelilingi oleh [quantity_adjprase] [hewan] s.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat dengan damai.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S terpesona oleh adegan.</li>-><Prayed.rulePack.rulesStrings>
+    <li>Youth _> [Pawn anddeef Assement</li>
+    <li>Tale_noun-> [Pawn_namedef] Berdoa untuk Kekuatan Ilahi</li>
+    <li>Image-> [Pawn_namefulull] Merenungkan jarak dan [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menutup matanya dan [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Bergabung dengan tangannya dan [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Melihat langit dan [SITUCING_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Menyebarkan Serenity</li>
+    <li>Frasa keadaan-> murning dengan lembut</li>
+    <li>SITUCTANCE_PHRASE-> Menampilkan wajah kontemplatif</li>
+    <li>SITUCTANCE_PHRASE-> Brilando tenuemente</li>
+    <li>SITUCTANCE_PHRASE-> rodead [Pawn_o_a] de un aura [color_fem]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob_plural] le obvan.</li>
+    <li>Desentencio-> [Pawn_pronoun] adalah rodead [pawn_o_a] oleh [quantity_adjphrase] [animalAnypl].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] beristirahat dengan damai.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] diserap oleh pemandangan.</li>
+  </Prayed.rulePack.rulesStrings>
+  
+  <!-- EN: put into cryptosleep -->
+  <PutIntoCryptosleep.label>dibawa ke cryptosueño</PutIntoCryptosleep.label>
+  <!-- EN:
+    <li>tale_noun-> [carrier_namedef] menempatkan [sleeper_namedef] ke dalam cryptosleep</li>
+    <li>Image-> [Carrier_namefull] Menempatkan [sleeper_namedef] Di dalam peti cryptosleep [SounTUS_GROUP]</li>
+    <li>Image-> [Carrier_namefull] Membuka peti mati cryptosleep kosong saat mendukung [sleeper_namedef] [Sounation_Group]</li>
+    <li>Image-> [Carrier_namefull] Sealing [sleeper_namedef] Di dalam peti cryptosleep [soundance_group]</li>
+    <li>Image-> [Carrier_namefull] berjalan pergi seperti [sleeper_namedef] melihat melalui dinding peti cryptosleep [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE (p = 3)-> dengan ekspresi [AdjectiveANy]</li>
+    <li>keadaan_phrase-> saat dikonsumsi dalam pemikiran</li>
+    <li>SICKATICE_PHRASE-> Sambil menatap [terrainfeature] yang jauh</li>
+    <li>keadaan_phrase-> dengan ketegangan yang terlihat di antara keduanya</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat di dekat tempat kejadian.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S mendekati area tersebut.</li>
+    <li>desc_sentence-> [carrier_namedef] memancarkan tekad.</li>
+    <li>desc_sentence-> [sleeper_namedef] terlihat terluka.</li>
+    <li>desc_sentence-> [sleeper_namedef] terlihat kelelahan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] mengisukan peti cryptosleep mengelilingi pemandangan.</li>-><PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun-> [carrier_namedef] menyebabkan [sleopeper_namedef] ke cryptosueño sarkophagus</li>
+    <li>Image-> [Carrier_namefulull] Menempatkan [SLEOPEPER_NAMEDEF] di dalam cryptosueño sarkophagus [SICKECANCE_GROUP]</li>
+    <li>Image-> [Carrier_namefulr] Membuka Cryptosueño Sarkophagus kosong saat memuat [SLEOPEPER_NAMEDEF] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Carrier_namefulr] menyegel [SLEOPEPER_NAMEDEF] di dalam cryptosueño sarkophagus [SICKECANCE_GROUP]</li>
+    <li>Image-> [Carrier_namefulr] Bergerak menjauh sementara [SLEOPEPER_NAMEDEF] mengamati melalui jendela cryptosueño sarkophagus [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveANy]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> Saat merenungkan [terrainfeature] yang jauh</li>
+    <li>Keadaan_phrase-> di gua yang gelap</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] restanus pagar.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] S mendekati area tersebut.</li>
+    <li>Desc_sentence-> [carrier_namedef] memancarkan tekad.</li>
+    <li>Desc_sentence-> [sleeper_namedef] terlihat terluka [sleeper_o_a].</li>
+    <li>desc_sentence-> [sleeper_namedef] se ve knalpot [sleeper_o_a].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] cryptosueño sarkophagi mengelilingi pemandangan.</li>
+  </PutIntoCryptosleep.rulePack.rulesStrings>
+  
+  <!-- EN: stripped -->
+  <Stripped.label>tak berpakaian</Stripped.label>
+  <!-- EN:
+    <li>tale_noun-> [taker_namedef] stripping [stripped_namedef]</li>
+    <li>Image-> [Taker_namefull] Disrobing [stripped_namefull] Di publik [SICKECANCE_GROUP]</li>
+    <li>Image-> [Taker_namefull] Menghapus pakaian [stripped_namefull] [Soundance_Group]</li>
+    <li>Image-> [Taker_namefull] Memegang setumpuk [pakaian] saat berdiri di sebelah [stripped_namefull], yang benar-benar telanjang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Taker_namefull] Menunggu dengan sabar karena [stripped_namefull] menghapus [stripped_possessive] pakaian [soundance_group]</li>
+    <li>keadaan_phrase-> dengan rasa tujuan</li>
+    <li>keadaan_phrase-> tanpa sedikit pun rasa malu</li>
+    <li>keadaan_phrase-> sementara yang lain melihat</li>
+    <li>SITUKSE_PHRASE-> tanpa alasan yang jelas</li>
+    <li>keadaan_phrase-> sementara hewan yang bingung terlihat</li>
+    <li>desc_sentence-> [stripped_namedef] tampak terangsang.</li>
+    <li>desc_sentence-> [stripped_namedef] ditutupi dengan kelembaban yang tidak dapat dijelaskan.</li>
+    <li>desc_sentence-> [stripped_namedef] terengah-engah tanpa alasan yang jelas.</li>
+    <li>desc_sentence-> [stripped_namedef] membelai semak.</li>
+    <li>desc_sentence-> [stripped_namedef] hanya mengenakan ekspresi [adjectiveangsty].</li>-><Stripped.rulePack.rulesStrings>
+    <li>tale_noun-> [taker_namedef] desvistió a [stripped_namedef]</li>
+    <li>Image-> [Taker_namefull] desvistiendo a [stripped_namefull] en público [soundance_group]</li>
+    <li>Image-> [Taker_namefull] Retirando La Ropa de [stripped_namefull] [SICKETANCE_GROUP]</li>
+    <li>Image-> [Taker_namefulull] Memegang beberapa [pakaian], berdiri di sebelah [stripped_namefulr], yang tanpa pakaian [keadaan_group]</li>
+    <li>Image-> [Taker_nameful] menunggu dengan sabar saat [stripped_nameful] menghapus pakaian [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dengan tekad</li>
+    <li>SITUKSE_PHRASE-> Tanpa malu</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>Keadaan_phrase-> tanpa alasan yang jelas</li>
+    <li>Keadaan_phrase-> sementara beberapa hewan mengamati bingung</li>
+    <li>Desc_sentence-> [stripped_namedef] tampak bersemangat.</li>
+    <li>Desc_sentence-> [stripped_namedef] mencakup kelembaban yang tidak dapat dijelaskan.</li>
+    <li>Desc_sentence-> [stripped_namedef] terengah-engah tanpa alasan.</li>
+    <li>Desc_sentence-> [stripped_namedef] sedang grobing semak.</li>
+    <li>Desc_sentence-> [stripped_namedef] memiliki wajah [AdjectiveAngsty].</li>
+  </Stripped.rulePack.rulesStrings>
+  
+  <!-- EN: visited grave -->
+  <VisitedGrave.label>tumba visitada</VisitedGrave.label>
+  <!-- EN:
+    <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>
+    <li>image->[VISITOR_nameFull] standing next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] sitting next to [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>image->[VISITOR_nameFull] leaning against [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>Image-> [visitor_namefull] Membaca teks di kuburan [Corpse_Namefull] [SITUCTANCE_GROUP]</li>
+    <li>image->[VISITOR_nameFull] looking at the art on [CORPSE_nameFull]'s grave [circumstance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> dan dikonsumsi dalam pemikiran</li>
+    <li>SICKATICE_PHRASE-> Sambil menatap [terrainfeature] yang jauh</li>
+    <li>circumstance_phrase->and talking quietly to the memorial</li>
+    <li>desc_sentence-> A [warna] Aurora bersinar di latar belakang.</li>
+    <li>desc_sentence-> Di kejauhan, [komunitas] ditutupi dengan salju.</li>
+    <li>desc_sentence-> gambar spektral [corpse_namedef] melihat ke atas adegan dengan ekspresi [kata sifat ramah].</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveFriendly] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] looks over the scene with a [AdjectiveAngsty] expression.</li>
+    <li>desc_sentence->A spectral image of [CORPSE_nameDef] stands next to [VISITOR_nameDef], wearing a [AdjectiveAngsty] expression.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan beristirahat di dekat tempat kejadian.</li>-><VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[VISITOR_nameDef] visitó la tumba de [CORPSE_nameDef]</li>
+    <li>tale_noun->[VISITOR_nameDef] visitó a [CORPSE_nameDef] en su tumba</li>
+    <li>image->[VISITOR_nameFull] de pie junto a la tumba de [CORPSE_nameFull] [circumstance_group]</li>
+    <li>Image-> [visitor_namefulr] duduk di sebelah makam [corpse_namefulr] [soundance_group]</li>
+    <li>Image-> [visitor_nameful] Mengisi ulang di makam [corpse_namefulr] [soundance_group]</li>
+    <li>Image-> [visitor_namefulr] Membaca epitaph di batu nisan [Corpse_Namefulull] [SITUCTANCE_GROUP]</li>
+    <li>Image-> [visitor_namefulull] Merenungkan seni di makam [corpse_namefulr] [SITUGNCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> CON SEMBLANTE [AdjectiveAngsty]</li>
+    <li>SITUKSE_PHRASE-> berkeliaran di pikiran mereka</li>
+    <li>Keadaan_phrase-> saat merenungkan [terrainfitur] jauh</li>
+    <li>Keadaan_phrase-> dan berbicara dengan tenang ke batu nisan</li>
+    <li>Desc_sentence-> aurora [color_fem] menerangi latar belakang.</li>
+    <li>Desc_sentence-> jarak, [CommunityIndef] ditutupi dengan salju.</li>
+    <li>Desc_sentence-> gambar spektral [corpse_namedef] mengamati adegan dengan wajah [kata sifat ramah].</li>
+    <li>Desc_sentence-> gambar spektral [corpse_namedef] di sebelah [visitor_namedef], dengan menabur [kata sifat ramah].</li>
+    <li>Desc_sentence-> gambar hantu [corpse_namedef] mengamati adegan dengan menabur [kata sifat].</li>
+    <li>Desc_sentence-> gambar hantu [corpse_namedef] berada di sebelah [visitor_namedef], dengan menabur [kata sifat].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] beristirahat di dekat tempat kejadian.</li>
+  </VisitedGrave.rulePack.rulesStrings>
+  
+</LanguageData>

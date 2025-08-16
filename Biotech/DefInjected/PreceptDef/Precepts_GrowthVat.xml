@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: essential -->
+  <GrowthVat_Essential.label>penting</GrowthVat_Essential.label>
+  <!-- EN: We have the technology for safer childbirth and faster childhoods. Believers will develop faster in growth vats but will be unhappy if their children are not in a vat. -->
+  <GrowthVat_Essential.description>Kami memiliki teknologi untuk pengiriman yang lebih aman dan masa kecil yang lebih cepat.Orang percaya akan berkembang lebih cepat dalam inkubator, tetapi mereka tidak akan senang jika anak -anak mereka tidak dalam satu.</GrowthVat_Essential.description>
+  <!-- EN: Natural pregnancy -->
+  <GrowthVat_Essential.comps.0.description>Kehamilan alami</GrowthVat_Essential.comps.0.description>
+  <!-- EN: Child not in growth vat -->
+  <GrowthVat_Essential.comps.1.description>Anak tidak berada dalam inkubator</GrowthVat_Essential.comps.1.description>
+  
+  <!-- EN: prohibited -->
+  <GrowthVat_Prohibited.label>terlarang</GrowthVat_Prohibited.label>
+  <!-- EN: Growth vats rob children of their childhood. -->
+  <GrowthVat_Prohibited.description>Inkubator mencuri masa kanak -kanak untuk anak -anak</GrowthVat_Prohibited.description>
+  <!-- EN: Build growth vat -->
+  <GrowthVat_Prohibited.comps.0.description>Bangun Inkubator</GrowthVat_Prohibited.comps.0.description>
+  <!-- EN: Growth vat in colony -->
+  <GrowthVat_Prohibited.comps.1.description>Inkubator di Colonia</GrowthVat_Prohibited.comps.1.description>
+  <!-- EN: My child in a growth vat -->
+  <GrowthVat_Prohibited.comps.2.description>Anak saya di inkubator</GrowthVat_Prohibited.comps.2.description>
+  <!-- EN: Child not in growth vat -->
+  <GrowthVat_Prohibited.comps.3.description>Anak tidak berada dalam inkubator</GrowthVat_Prohibited.comps.3.description>
+  
+</LanguageData>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonded animal {0} lost -->
+  <BondedAnimalLost.stages.bonded_animal_lost.label>Tautan hewan {0} hilang</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <!-- EN: Such a tender, unique animal. This universe is evil! -->
+  <BondedAnimalLost.stages.bonded_animal_lost.description>Seekor binatang yang begitu lembut dan unik.Alam semesta ini jahat!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <!-- EN: bonded animal {0} released -->
+  <BondedAnimalReleased.stages.bonded_animal_released.label>Hewan tertaut {0} dirilis</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <!-- EN: Such a tender, unique animal. Why did it have to go? -->
+  <BondedAnimalReleased.stages.bonded_animal_released.description>Seekor binatang yang begitu lembut dan unik.Kenapa dia harus pergi?</BondedAnimalReleased.stages.bonded_animal_released.description>
+  
+  <!-- EN: colonist lost -->
+  <ColonistLost.stages.colonist_lost.label>hunian</ColonistLost.stages.colonist_lost.label>
+  <!-- EN: We just lost someone of our colony in a tragic way. -->
+  <ColonistLost.stages.colonist_lost.description>Kami baru saja kehilangan seseorang dari koloni kami secara tragis.</ColonistLost.stages.colonist_lost.description>
+  
+  <!-- EN: my aunt {0} lost -->
+  <MyAuntLost.stages.my_aunt_lost.label>Saya kehilangan bibi saya {0}</MyAuntLost.stages.my_aunt_lost.label>
+  <!-- EN: My aunt has gone lost. I hope she will get back to us someday. -->
+  <MyAuntLost.stages.my_aunt_lost.description>Bibiku telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyAuntLost.stages.my_aunt_lost.description>
+  
+  <!-- EN: my brother {0} lost -->
+  <MyBrotherLost.stages.my_brother_lost.label>Saya kehilangan kakak saya {0}</MyBrotherLost.stages.my_brother_lost.label>
+  <!-- EN: My brother has gone lost. I hope he will get back to us someday. -->
+  <MyBrotherLost.stages.my_brother_lost.description>Saudaraku telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyBrotherLost.stages.my_brother_lost.description>
+  
+  <!-- EN: my cousin {0} lost -->
+  <MyCousinLost.stages.my_cousin_lost.label>Saya kehilangan prim {1_gender saya?O: a} {0}</MyCousinLost.stages.my_cousin_lost.label>
+  <!-- EN: My cousin has gone lost. -->
+  <MyCousinLost.stages.my_cousin_lost.description>Prim {oherpaown_gender saya?O: A} telah hilang.</MyCousinLost.stages.my_cousin_lost.description>
+  
+  <!-- EN: my daughter {0} lost -->
+  <MyDaughterLost.stages.my_daughter_lost.label>Saya kehilangan putri saya {0}</MyDaughterLost.stages.my_daughter_lost.label>
+  <!-- EN: My daughter has gone lost. I hope she will get back to us someday. -->
+  <MyDaughterLost.stages.my_daughter_lost.description>Putri saya telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  <!-- EN: my father {0} lost -->
+  <MyFatherLost.stages.my_father_lost.label>Saya kehilangan ayah saya {0}</MyFatherLost.stages.my_father_lost.label>
+  <!-- EN: My father has gone lost. I hope he will get back to us someday. -->
+  <MyFatherLost.stages.my_father_lost.description>Ayah saya telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyFatherLost.stages.my_father_lost.description>
+  
+  <!-- EN: my fiancée {0} lost -->
+  <MyFianceeLost.stages.my_fiance_lost.label>Saya kehilangan tunangan saya {0}</MyFianceeLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiancée has gone lost. I hope she will get back to us someday. -->
+  <MyFianceeLost.stages.my_fiance_lost.description>Tunangan saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my fiance {0} lost -->
+  <MyFianceLost.stages.my_fiance_lost.label>Saya kehilangan tunangan saya {0}</MyFianceLost.stages.my_fiance_lost.label>
+  <!-- EN: My fiance has gone lost. I hope he will get back to us someday. -->
+  <MyFianceLost.stages.my_fiance_lost.description>Tunangan saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyFianceLost.stages.my_fiance_lost.description>
+  
+  <!-- EN: my grandchild {0} lost -->
+  <MyGrandchildLost.stages.my_grandchild_lost.label>Saya kehilangan niet {1_gender saya?O: a} {0}</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <!-- EN: My grandchild has gone lost. I hope they will get back to us someday. -->
+  <MyGrandchildLost.stages.my_grandchild_lost.description>Niet {oherpaown_gender saya?O: A} telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  <!-- EN: my grandparent {0} lost -->
+  <MyGrandparentLost.stages.my_grandparent_lost.label>Saya kehilangan kakek saya {1_gender?O: a} {0}</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <!-- EN: My grandparent has gone lost. -->
+  <MyGrandparentLost.stages.my_grandparent_lost.description>Kakek saya {oherpaown_gender?O: A} telah hilang.</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  <!-- EN: my half-sibling {0} lost -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>Saya kehilangan media {1_gender saya?O: A} Herman {1_gender?O: a} {0}</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <!-- EN: My half-sibling has gone lost. -->
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>Media saya {Otherpaown_gender?O: A} Herman {OtherPawn_Gender?O: A} telah hilang.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  <!-- EN: my husband {0} lost -->
+  <MyHusbandLost.stages.my_husband_lost.label>Saya kehilangan suami saya {0}</MyHusbandLost.stages.my_husband_lost.label>
+  <!-- EN: My husband has gone lost. I hope he will get back to us someday. -->
+  <MyHusbandLost.stages.my_husband_lost.description>Suamiku telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyHusbandLost.stages.my_husband_lost.description>
+  
+  <!-- EN: my kin {0} lost -->
+  <MyKinLost.stages.my_kin_lost.label>Saya kehilangan kerabat saya {0}</MyKinLost.stages.my_kin_lost.label>
+  <!-- EN: My kin has gone lost. -->
+  <MyKinLost.stages.my_kin_lost.description>Kerabat saya telah hilang.</MyKinLost.stages.my_kin_lost.description>
+  
+  <!-- EN: my lover {0} lost -->
+  <MyLoverLost.stages.my_lover_lost.label>Saya kehilangan kekasih saya {0}</MyLoverLost.stages.my_lover_lost.label>
+  <!-- EN: My lover has gone lost. I hope he will get back to us someday. -->
+  <MyLoverLost.stages.my_lover_lost.description>Kekasih saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyLoverLost.stages.my_lover_lost.description>
+  
+  <!-- EN: my mother {0} lost -->
+  <MyMotherLost.stages.my_mother_lost.label>Saya kehilangan ibu saya {0}</MyMotherLost.stages.my_mother_lost.label>
+  <!-- EN: My mother has gone lost. I hope she will get back to us someday. -->
+  <MyMotherLost.stages.my_mother_lost.description>Ibu saya telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyMotherLost.stages.my_mother_lost.description>
+  
+  <!-- EN: my nephew {0} lost -->
+  <MyNephewLost.stages.my_nephew_lost.label>Saya kehilangan keponakan saya {0}</MyNephewLost.stages.my_nephew_lost.label>
+  <!-- EN: My nephew has gone lost. I hope he will get back to us someday. -->
+  <MyNephewLost.stages.my_nephew_lost.description>Keponakan saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyNephewLost.stages.my_nephew_lost.description>
+  
+  <!-- EN: my niece {0} lost -->
+  <MyNieceLost.stages.my_niece_lost.label>Saya kehilangan keponakan saya {0}</MyNieceLost.stages.my_niece_lost.label>
+  <!-- EN: My niece has gone lost. I hope she will get back to us someday. -->
+  <MyNieceLost.stages.my_niece_lost.description>Keponakan saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MyNieceLost.stages.my_niece_lost.description>
+  
+  <!-- EN: my sister {0} lost -->
+  <MySisterLost.stages.my_sister_lost.label>Saya kehilangan saudara perempuan saya {0}</MySisterLost.stages.my_sister_lost.label>
+  <!-- EN: My sister has gone lost. I hope she will get back to us someday. -->
+  <MySisterLost.stages.my_sister_lost.description>Adikku telah kalah.Saya harap saya kembali ke kami suatu hari nanti.</MySisterLost.stages.my_sister_lost.description>
+  
+  <!-- EN: my son {0} lost -->
+  <MySonLost.stages.my_son_lost.label>Saya kehilangan anak saya {0}</MySonLost.stages.my_son_lost.label>
+  <!-- EN: My son has gone lost. I hope he will get back to us someday. -->
+  <MySonLost.stages.my_son_lost.description>Anak saya telah hilang.Saya harap saya kembali ke kami suatu hari nanti.</MySonLost.stages.my_son_lost.description>
+  
+  <!-- EN: my uncle {0} lost -->
+  <MyUncleLost.stages.my_uncle_lost.label>Saya kehilangan paman saya {0}</MyUncleLost.stages.my_uncle_lost.label>
+  <!-- EN: My uncle has gone lost. I hope he will get back to us someday. -->
+  <MyUncleLost.stages.my_uncle_lost.description>Paman saya telah kalah.Saya harap saya kembali ke kami suatu hari nanti.</MyUncleLost.stages.my_uncle_lost.description>
+  
+  <!-- EN: my wife {0} lost -->
+  <MyWifeLost.stages.my_wife_lost.label>Saya kehilangan istri saya {0}</MyWifeLost.stages.my_wife_lost.label>
+  <!-- EN: My wife has gone lost. I hope she will get back to us someday. -->
+  <MyWifeLost.stages.my_wife_lost.description>Istri saya telah tersesat.Saya harap saya kembali ke kami suatu hari nanti.</MyWifeLost.stages.my_wife_lost.description>
+  
+  <!-- EN: my rival {0} lost -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>Saya kehilangan saingan saya {0}</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <!-- EN: Serves them right. At least there's some justice in this world. -->
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>Dia pantas mendapatkannya.Setidaknya ada beberapa keadilan di dunia ini.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  <!-- EN: my friend {0} lost -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>Saya kehilangan teman saya {1_gender?O: a} {0}</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <!-- EN: Such a wonderful person, lost. The universe gets darker every day. -->
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>Orang yang luar biasa dan hilang.Semesta menjadi lebih gelap setiap hari.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+  
+</LanguageData>

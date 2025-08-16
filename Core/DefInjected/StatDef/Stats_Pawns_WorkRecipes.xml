@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butchery efficiency -->
+  <ButcheryFleshEfficiency.label>Efisiensi bilas</ButcheryFleshEfficiency.label>
+  <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
+  <ButcheryFleshEfficiency.description>Jumlah daging yang diproduksi dengan memecat makhluk dengan daging. \ N \ nla Kuantitas nyata juga terkait dengan ukuran makhluk itu.</ButcheryFleshEfficiency.description>
+  
+  <!-- EN: butchery speed -->
+  <ButcheryFleshSpeed.label>Kecepatan mengedipkan mata</ButcheryFleshSpeed.label>
+  <!-- EN: The speed at which this person butchers flesh creatures. -->
+  <ButcheryFleshSpeed.description>Kecepatan di mana orang ini menunjukkan makhluk organik.</ButcheryFleshSpeed.description>
+  
+  <!-- EN: mechanoid shredding efficiency -->
+  <ButcheryMechanoidEfficiency.label>Efisiensi pembongkaran</ButcheryMechanoidEfficiency.label>
+  <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
+  <ButcheryMechanoidEfficiency.description>Jumlah bahan yang dihasilkan ketika orang ini menghancurkan mecanoid mati untuk mendapatkan sumber daya. Jumlah nyata \ n \ nLA juga terkait dengan ukuran mechanoid.</ButcheryMechanoidEfficiency.description>
+  
+  <!-- EN: mechanoid shredding speed -->
+  <ButcheryMechanoidSpeed.label>Kecepatan pembongkaran</ButcheryMechanoidSpeed.label>
+  <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
+  <ButcheryMechanoidSpeed.description>Kecepatan di mana orang ini dapat menghancurkan mekanoid untuk mendapatkan sumber daya.</ButcheryMechanoidSpeed.description>
+  
+  <!-- EN: cooking speed -->
+  <CookSpeed.label>Kecepatan memasak</CookSpeed.label>
+  <!-- EN: The speed at which this person cooks meals. -->
+  <CookSpeed.description>Kecepatan orang ini menyiapkan makanan.</CookSpeed.description>
+  
+  <!-- EN: drug cooking speed -->
+  <DrugCookingSpeed.label>vel.Saat membuat narkoba</DrugCookingSpeed.label>
+  <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
+  <DrugCookingSpeed.description>Kecepatan di mana orang ini menyiapkan bir dan teh, atau memproduksi produk obat sederhana seperti sambungan jet daun.</DrugCookingSpeed.description>
+  
+  <!-- EN: drug synthesis speed -->
+  <DrugSynthesisSpeed.label>Kecepatan yang disintesis</DrugSynthesisSpeed.label>
+  <!-- EN: How fast this character synthesizes complex chemical drugs. -->
+  <DrugSynthesisSpeed.description>Kecepatan karakter ini mensintesis obat kimia yang kompleks.</DrugSynthesisSpeed.description>
+  
+  <!-- EN: food poison chance -->
+  <FoodPoisonChance.label>prob.Keracunan makanan</FoodPoisonChance.label>
+  <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
+  <FoodPoisonChance.description>Probabilitas bahwa karakter ini secara tidak sengaja meracuni makanan yang menyiapkan. \ N \ nla keracunan makanan sementara melemahkan siapa pun yang menderita itu.</FoodPoisonChance.description>
+  <!-- EN: food poison chance (chance to poison a meal) -->
+  <FoodPoisonChance.labelForFullStatList>Probabilitas Keracunan Makanan (Probabilitas Keracunan Makanan)</FoodPoisonChance.labelForFullStatList>
+  
+  <!-- EN: general labor speed -->
+  <GeneralLaborSpeed.label>Tingkat kerja umum</GeneralLaborSpeed.label>
+  <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
+  <GeneralLaborSpeed.description>Kecepatan orang ini melakukan karya -karya umum seperti membuat balok batu, membuat chemicombust mudah dalam kilang, membakar artikel, membuat pakaian, menciptakan seni, membuat baju besi dan senjata atau casting slag.Statistik ini berlaku untuk kedua kegiatan yang tidak menyiratkan keterampilan apa pun, dan bagi mereka di mana keterampilan mempengaruhi kualitas produk alih -alih kecepatan produksi.</GeneralLaborSpeed.description>
+  
+  <!-- EN: smelting speed -->
+  <SmeltingSpeed.label>Kecepatan pengecoran</SmeltingSpeed.label>
+  <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
+  <SmeltingSpeed.description>Kecepatan di mana orang ini melelehkan hal -hal.</SmeltingSpeed.description>
+  
+</LanguageData>

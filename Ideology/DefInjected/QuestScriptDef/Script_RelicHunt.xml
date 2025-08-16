@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (classicmode == true)-> Anda telah belajar bahwa peninggalan yang berharga ada di dekatnya. \ n \ nThe [Relic_name] adalah salah satu objek kuno [RelicglobalCount] yang dihormati oleh banyak orang.Jika Anda bisa mengumpulkannya, Anda dapat membangun relik untuk membuat penjajah Anda bahagia dan menarik peziarah kaya.</li>
+    <li>QuestDescription (classicmode == false)-> Anda telah belajar bahwa peninggalan [IDEO_NAME] ada di dekatnya. \ n \ nThe [Relic_name] adalah objek kuno yang dihormati oleh semua [IDEO_MANNAMEPLURAL].Jika Anda bisa mengumpulkannya, Anda dapat membangun relik yang bagus untuk membuat [IDEO_MEMANNAMEPLURAL] bahagia, menarik peziarah kaya, dan membawa lebih banyak orang ke [IDEO_NAME].</li>
+    <li>QuestDescriptionPartBeforedIscovery-> First, Anda perlu menemukan [Relic_name].Perhatikan kesempatan untuk mengumpulkan informasi tentang hal itu.</li>-><RelicHunt.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (classicmode == true)-> Anda telah belajar bahwa peninggalan yang berharga sudah dekat.Jika Anda bisa mengambilnya, Anda dapat membangun relik untuk membuat pemukim Anda bahagia dan menarik peziarah yang kaya.</li>
+    <li>QuestDescription (classicmode == false)-> Anda telah belajar bahwa peninggalan ideoligion [IDEO_NAME] sudah dekat.Jika Anda bisa mengambilnya, Anda dapat membangun relik yang bagus untuk membuat [IDEO_MemberNeNeplural] senang, menarik peziarah yang kaya dan membawa lebih banyak orang ke ideolithion [IDEO_NAME].</li>
+    <li>Quest DescriptionPartBoredIscovary-> Anda harus terlebih dahulu menemukan Relic [Relic_name].Cari peluang untuk mengumpulkan informasi tentang dia.</li>
+  </RelicHunt.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Perburuan] untuk [item]</li>
+    <li>QuestName-> [itemadj] [item]</li>
+    <li>QuestName (classicmode == false)-> [item] dari [ideo_name]</li>
+    <li>Hunt-> Hunt</li>
+    <li>Hunt-> Cari</li>
+    <li>Hunt-> Quest</li>
+    <li>Item (p = 4)-> [Relic_name]</li>
+    <li>Item-> Relic</li>
+    <li>Item-> Artefak</li>
+    <li>itemadj-> kuno</li>
+    <li>itemadj-> dihormati</li>
+    <li>itemadj-> dihormati</li>-><RelicHunt.questNameRules.rulesStrings>
+    <li>QuestName-> [Hunt] untuk menemukan [item]</li>
+    <li>QuestName-> di [Hunt1] dari [item1]</li>
+    <li>QuestName (classicmode == false)-> [item] dari [IDEO_NAME]</li>
+    <li>QuestName-> [item] [itemadj]</li>
+    <li>Hunt-> Hunt</li>
+    <li>Hunt1-> Search</li>
+    <li>Hunt-> Mission</li>
+    <li>Item-> la reliquia [relic_name]</li>
+    <li>Item (p = 4) -> la tetap</li>
+    <li>Item (p = 4) -> el -artefacto</li>
+    <li>item1-> la reliquia [relic_name]</li>
+    <li>item1 (p = 4) -> la tetap</li>
+    <li>Item1 (p = 4) -> 50 -Pedefacto</li>
+    <li>itemadj-> leluhur</li>
+    <li>Itamadj-> dihormati</li>
+    <li>itemadj-> dihormati (a)</li>
+  </RelicHunt.questNameRules.rulesStrings>
+  
+</LanguageData>

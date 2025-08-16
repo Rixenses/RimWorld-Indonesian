@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harp -->
+  <Harp.label>Arpa</Harp.label>
+  <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
+  <Harp.description>Ini memproduksi harpa, alat musik stasioner sederhana yang populer di kalangan bangsawan budaya tertentu.</Harp.description>
+  <!-- EN:
+    <li>Subjek-> Harps</li>
+    <li>Subjek-> Instrumen String Sederhana</li>
+    <li>Subjek_Story-> Dilatih di Sekolah Musik</li>
+    <li>Subject_story-> Membangun harpa dari bahan dunia liar umum</li>
+    <li>Subject_story-> melakukan solo harpa untuk kaum bangsawan kekaisaran</li>
+    <li>Subject_story-> Glissandos yang dipraktikkan setiap hari</li>
+    <li>Subject_story-> Meneliti signifikansi budaya penggunaan instrumen senar</li>
+    <li>Subject_gerund-> Memainkan harpa</li>-><Harp.generalRules.rulesStrings>
+    <li>subjek-> arpas</li>
+    <li>Subjek-> Instrumen Cuerda Sederhana</li>
+    <li>Subject_def-> dari Harps</li>
+    <li>Subjek_def-> dari instrumen string sederhana</li>
+    <li>Subjek_Story-> dibentuk di sekolah musik</li>
+    <li>Subject_story-> membangun harpa menggunakan bahan umum dari dunia liar</li>
+    <li>Subjek_story-> membuat harpa tunggal untuk kaum bangsawan kekaisaran</li>
+    <li>Subjek_story-> dia berlatih glissandos setiap hari</li>
+    <li>Subject_story-> menyelidiki makna budaya dari penggunaan instrumen string</li>
+    <li>Subjek_gudund-> tocar el arpa</li>
+  </Harp.generalRules.rulesStrings>
+  
+  <!-- EN: harpsichord -->
+  <Harpsichord.label>Clavecín</Harpsichord.label>
+  <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
+  <Harpsichord.description>Ini memproduksi anyelir, alat musik stasioner yang kompleks.</Harpsichord.description>
+  <!-- EN:
+    <li>Subjek-> Harpsichord</li>
+    <li>Subject_story-> memimpin kebangkitan di harpsichord di sistem coreworld</li>
+    <li>Subject_story-> Tuned harpsichord untuk penggunaan konser di glitterworlds</li>
+    <li>Subject_story-> berperan sebagai Harpischordist utama untuk Philharmonic setempat</li>
+    <li>Subject_story-> HARPSICHORD DUAL-KUNCI DROWKED Fokus pada harmonik</li>
+    <li>Subject_gerund-> Memainkan harpsichord</li>-><Harpsichord.generalRules.rulesStrings>
+    <li>Subjek-> Clavecín</li>
+    <li>Subject_def-> del clavecín</li>
+    <li>Subject_story-> memimpin kebangkitan Clavecín di sistem pusat</li>
+    <li>Subject_story-> Clavecine yang disesuaikan untuk digunakan dalam konser di dunia yang brilian.</li>
+    <li>Subject_story-> menjabat sebagai Carnapinis utama untuk Philharmonic setempat</li>
+    <li>Subject_story-> Closers keyboard ganda yang dibangun berpusat pada harmonik</li>
+    <li>Subjek_gerund-> sentuh clavecín</li>
+  </Harpsichord.generalRules.rulesStrings>
+  
+  <!-- EN: piano -->
+  <Piano.label>piano</Piano.label>
+  <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
+  <Piano.description>Memproduksi piano, alat musik stasioner canggih.</Piano.description>
+  <!-- EN:
+    <li>Subjek-> Piano</li>
+    <li>Subject_story-> berkenalan dengan seluruh korpus instrumen senar</li>
+    <li>subjek_story-> bergabung dengan akademi musik, di mana para siswa belajar tentang komposer seperti halnya piano itu sendiri</li>
+    <li>Subject_story-> Piano yang diangkut antara Coreworlds</li>
+    <li>Subject_story-> merekam teknik beberapa pianis utama</li>
+    <li>Subject_story-> Membangun piano yang aneh</li>
+    <li>subjek_gerund-> bermain piano</li>-><Piano.generalRules.rulesStrings>
+    <li>Subjek-> Piano</li>
+    <li>subjek_def-> del piano</li>
+    <li>Subject_story-> akrab dengan seluruh korpus instrumen string</li>
+    <li>Subjek_Story-> Bergabung dengan Akademi Musik, di mana siswa belajar komposer dan piano itu sendiri</li>
+    <li>Subject_story-> piano yang diangkut antara dunia tengah</li>
+    <li>Subjek_Story-> merekam teknik beberapa guru piano</li>
+    <li>Subject_story-> membangun piano yang aneh</li>
+    <li>Subjek gerund-> sentuh piano</li>
+  </Piano.generalRules.rulesStrings>
+  
+</LanguageData>

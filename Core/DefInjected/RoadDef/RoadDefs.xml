@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>Jalan Raya Aspal Kuno</AncientAsphaltHighway.label>
+  
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>Jalan Aspal Kuno</AncientAsphaltRoad.label>
+  
+  <!-- EN: dirt path -->
+  <DirtPath.label>Jalan Bumi</DirtPath.label>
+  
+  <!-- EN: dirt road -->
+  <DirtRoad.label>jalan tanah</DirtRoad.label>
+  
+  <!-- EN: stone road -->
+  <StoneRoad.label>Jalan Batu</StoneRoad.label>
+  
+</LanguageData>

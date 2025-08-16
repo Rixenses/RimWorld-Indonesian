@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi thrumbo alpha. \ n \ nalpha thrumbos adalah makhluk yang sangat langka, diyakini oleh banyak orang sebagai fiksi belaka.Terlalu liar untuk sebagian besar jinak dan terlalu kuat untuk diburu, tanduk mereka lebih berharga daripada beratnya dalam emas.</li>-><OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi alpha trumbo.Mereka hampir mustahil untuk jinak dan terlalu berbahaya untuk berburu mereka, tetapi tanduk mereka lebih berharga daripada berat badan mereka dalam emas.</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Alpha Thrumbo</li>-><OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+    <li>QuestNname-> Trumbo Alfa</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Alpha Thrumbos</li>
+    <li>Subjek-> Thrumbos</li>
+    <li>Subjek-> Thrumbos langka</li>
+    <li>Subjek-> Hewan Langka</li>
+    <li>Subjek-> makhluk legendaris</li>
+    <li>QuestMapFeature-> Gambar Thumbo</li>
+    <li>QuestMapFeature-> Sketsa Thrumbo yang tampak aneh</li>
+    <li>QuestMaptext-> Thrumbo Habitat</li>
+    <li>QuestMaptext-> Alpha Thrumbo</li>
+    <li>QuestMaptext-> Ditemukan binatang buas</li>
+    <li>QuestMaptext-> Mereka nyata</li>-><OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+    <li>Subjek-> Trumbos Alpha</li>
+    <li>Subjek-> Trumbos</li>
+    <li>Subjek-> Trucbs langka</li>
+    <li>Subjek-> Hewan Langka</li>
+    <li>Subjek-> makhluk legendaris</li>
+    <li>QuestMapFeature-> Gambar Trumbo</li>
+    <li>QuestMapFeature-> Sketsa Trumbo yang tampak aneh</li>
+    <li>QuestMaptext-> Trumb Habitat</li>
+    <li>QuestMaptext-> Trumbo Alfa</li>
+    <li>QuestMaptext-> Ditemukan binatang buas</li>
+    <li>QuestMaptext-> Real</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Anda telah menemukan</OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>Misi telah kedaluwarsa: [SecirvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the alpha thrumbo has moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa Trumbo Alfa telah pindah.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

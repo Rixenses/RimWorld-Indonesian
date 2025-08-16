@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic harmony: {HARMONIZER_labelShort} -->
+  <PsychicHarmonization.stages.psychic_harmony.label>Harmoni psikis: {harmonizer_labelshort}</PsychicHarmonization.stages.psychic_harmony.label>
+  <!-- EN: The psychic harmonizer implant makes me feel some of the emotions of the person using it as long as we're close together. -->
+  <PsychicHarmonization.stages.psychic_harmony.description>Harmonizer psikis memungkinkan saya untuk merasakan beberapa emosi pembawa ketika kita cukup dekat.</PsychicHarmonization.stages.psychic_harmony.description>
+  
+</LanguageData>

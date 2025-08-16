@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>Ratbu</Boomrat.label>
+  <Boomrat.labelPlural>ratas-bum</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>Ratabum breeding</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.0.labelPlural>Keturunan Ratabum</Boomrat.lifeStages.0.labelPlural>
+  <Boomrat.lifeStages.1.label>Ratabum muda</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.1.labelPlural>Rat-bum muda</Boomrat.lifeStages.1.labelPlural>
+  <Boomrat.lifeStages.2.label>Ratbu</Boomrat.lifeStages.2.label>
+  <Boomrat.lifeStages.2.labelPlural>ratas-bum</Boomrat.lifeStages.2.labelPlural>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguana</Iguana.label>
+  <Iguana.labelPlural>iguana</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>Pemuliaan iguana</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelPlural>Keturunan Iguana</Iguana.lifeStages.0.labelPlural>
+  <Iguana.lifeStages.1.label>Iguana muda</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.1.labelPlural>Iguana muda</Iguana.lifeStages.1.labelPlural>
+  <Iguana.lifeStages.2.label>iguana</Iguana.lifeStages.2.label>
+  <Iguana.lifeStages.2.labelPlural>iguana</Iguana.lifeStages.2.labelPlural>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>rakun</Raccoon.label>
+  <Raccoon.labelPlural>Mapaches</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>Pemuliaan mapache</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.0.labelPlural>Keturunan Mapache</Raccoon.lifeStages.0.labelPlural>
+  <Raccoon.lifeStages.1.label>Mapache muda</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.1.labelPlural>Modaches muda</Raccoon.lifeStages.1.labelPlural>
+  <Raccoon.lifeStages.2.label>rakun</Raccoon.lifeStages.2.label>
+  <Raccoon.lifeStages.2.labelPlural>Mapaches</Raccoon.lifeStages.2.labelPlural>
+  
+  <!-- EN: rat -->
+  <Rat.label>Rata</Rat.label>
+  <Rat.labelPlural>roda</Rat.labelPlural>
+  <Rat.lifeStages.0.label>pemuliaan tikus</Rat.lifeStages.0.label>
+  <Rat.lifeStages.0.labelPlural>Tikus muda</Rat.lifeStages.0.labelPlural>
+  <Rat.lifeStages.1.label>Tikus muda</Rat.lifeStages.1.label>
+  <Rat.lifeStages.1.labelPlural>Tikus Muda</Rat.lifeStages.1.labelPlural>
+  <Rat.lifeStages.2.label>Rata</Rat.lifeStages.2.label>
+  <Rat.lifeStages.2.labelPlural>roda</Rat.lifeStages.2.labelPlural>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>tupai</Squirrel.label>
+  <Squirrel.labelPlural>tupai</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>Pembiakan tupai</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.0.labelPlural>Pembiakan tupai</Squirrel.lifeStages.0.labelPlural>
+  <Squirrel.lifeStages.1.label>Tupai muda</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.1.labelPlural>Squirillas muda</Squirrel.lifeStages.1.labelPlural>
+  <Squirrel.lifeStages.2.label>tupai</Squirrel.lifeStages.2.label>
+  <Squirrel.lifeStages.2.labelPlural>tupai</Squirrel.lifeStages.2.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [narrative_name]</li>
+    <li>r_name (p = 1)-> [narrative_name] [ship_word]</li>
+    <li>r_name (p = 0,5)-> [ship_prefix] [warna] [ship_word]</li>
+    <li>r_name (p = 0,5)-> [ship_prefix] [AdjectiveBadass] [Ship_Word]</li>
+    <li>r_name (p = 0,5)-> [ship_prefix] [AdjectiveBadass] [Burung]</li>
+    <li>r_name (p = 0,5)-> [ship_prefix] [AdjectiveFriendly] [Ship_Word]</li>
+    <li>r_name (p = 0,5)-> [ship_prefix] [flying_adjective] [animalBadass]</li>
+    <li>r_name (p = 0,5)-> [StoryName]</li>
+    <li>r_name (p = 0.2)-> [warna] [greekmyth_noun]</li>
+    <li>r_name (p = 0.2)-> [ship_prefix] [greekmyth_noun]</li>
+    <li>Ship_prefix (p = 2)-> the</li>
+    <li>Ship_prefix (p = 2)-></li>
+    <li>narrative_name-> [Adjectiveatural] [thing_badass]</li>
+    <li>narrative_name-> [Adjectivelarge] [thing_badass]</li>
+    <li>narrative_name-> [arah] [thing_badass]</li>
+    <li>narrative_name-> [thing_badass]</li>
+    <li>Thing_badass-> [AnimalBadass]</li>
+    <li>thing_badass-> [animalBadass] -hunter</li>
+    <li>Thing_badass-> Triumph</li>
+    <li>Thing_badass-> Victory</li>
+    <li>thing_badass-> balas dendam</li>
+    <li>thing_badass-> penderitaan</li>
+    <li>thing_badass-> siksaan</li>
+    <li>thing_badass-> pembalasan</li>
+    <li>thing_badass-> kesedihan</li>
+    <li>thing_badass-> kesengsaraan</li>
+    <li>thing_badass-> tirani</li>
+    <li>thing_badass-> teror</li>
+    <li>thing_badass-> kekacauan</li>
+    <li>thing_badass-> anarki</li>
+    <li>StoryName (p = 50)-> [Subjek] [Story_Result]</li>
+    <li>StoryName (p = 2)-> [Subjek] [BodyPart]</li>
+    <li>StoryName-> [subjek] [gore]</li>
+    <li>Subjek (p = 5)-> [Nameperson]</li>
+    <li>Subjek-> [Hewan]</li>
+    <li>Subjek-> [Wordtribal]</li>
+    <li>Subjek-> [Placeoutlander]</li>
+    <li>Story_Result-> Joy</li>
+    <li>Story_result-> Delight</li>
+    <li>Story_result-> Wonder</li>
+    <li>Story_result-> Pride</li>
+    <li>Story_result-> Jewel</li>
+    <li>Story_result-> hadiah</li>
+    <li>Story_result-> Bounty</li>
+    <li>Story_Result-> Kehormatan</li>
+    <li>Story_result-> jackpot</li>
+    <li>Story_Result-> Trophy</li>
+    <li>Story_result-> Penghancuran</li>
+    <li>Story_Result-> Cataclysm</li>
+    <li>Story_result-> Ruin</li>
+    <li>Story_Result-> Penipuan</li>
+    <li>Story_result-> fasad</li>
+    <li>Story_result-> Fraud</li>
+    <li>greekmyth_noun-> odyssey</li>
+    <li>greekmyth_noun-> odysseus</li>
+    <li>Greekmyth_noun-> Penelope</li>
+    <li>Greekmyth_noun-> Telemachus</li>
+    <li>greekmyth_noun-> athena</li>
+    <li>Greekmyth_noun-> Poseidon</li>
+    <li>greekmyth_noun-> scylla</li>
+    <li>Greekmyth_noun-> Hermes</li>
+    <li>greekmyth_noun-> argonaut</li>
+    <li>Greekmyth_noun-> Hermes</li>
+    <li>greekmyth_noun-> helios</li>
+    <li>greekmyth_noun-> achilles</li>
+    <li>greekmyth_noun-> siren</li>
+    <li>greekmyth_noun-> cyclops</li>
+    <li>Greekmyth_noun-> Medusa</li>
+    <li>greekmyth_noun-> gorgon</li>
+    <li>Burung-> Falcon</li>
+    <li>Burung-> Elang</li>
+    <li>Burung-> Hawk</li>
+    <li>Burung-> Kestrel</li>
+    <li>Burung-> Hering</li>
+    <li>flying_adjective (p = 2)-> terbang</li>
+    <li>flying_adjective-> Airborne</li>
+    <li>flying_adjective-> hovering</li>
+    <li>flying_adjective-> bersayap</li>
+    <li>ship_word(p=5)->ship</li>
+    <li>Ship_word (p = 5)-> Gravship</li>
+    <li>Ship_word (p = 2)-> [AdjectiveRatural] kapal</li>
+    <li>Ship_word-> Warship</li>
+    <li>Ship_word-> Frigate</li>
+    <li>kapal_word-> kapal</li>
+    <li>Ship_word-> Shuttle</li>
+    <li>Ship_word-> Cruiser</li>
+    <li>Ship_word-> Transport</li>
+    <li>Ship_word-> Galley</li>
+    <li>Ship_word-> Galleon</li>
+    <li>Ship_word-> Longship</li>
+    <li>Ship_word-> kapal barang</li>
+    <li>Ship_word-> Junker</li>
+    <li>Ship_word-> trireme</li>
+    <li>Ship_word-> Zephyr</li>-><NamerGravship.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> el [narrative_name]</li>
+    <li>r_name (p = 2)-> la [narrative_namefem]</li>
+    <li>r_name (p = 1)-> [ship_word] [narrative_name]</li>
+    <li>r_name (p = 1.5)-> [ship_wordfem] [narrative_namefem]</li>
+    <li>r_name (p = 0,5)-> [ship_prefex] [ship_word] [warna]</li>
+    <li>r_name (p = 0,5)-> [ship_prefexfem] [ship_wordfem] [color_fem]</li>
+    <li>r_name (p = 0,5)-> [ship_prefex] [ship_word] [AdjectiveBadass]</li>
+    <li>r_name (p = 0,5)-> [ship_prefexfem] [ship_wordfem] [adjectiveBadass_fem]</li>
+    <li>r_name (p = 0.5)-> [ship_prefex] [burung] [AdjectiveBadass]</li>
+    <li>r_name (p = 0,5)-> [ship_prefex] [ship_word] [AdjectiveFriendly]</li>
+    <li>r_name (p = 0,5)-> [ship_prefexfem] [ship_wordfem] [AdjectiveFriendly_fem]</li>
+    <li>r_name (p = 0,5)-> [ship_prefex] [animalBadass] [flying_adjective]</li>
+    <li>r_name (p = 0,5)-> [StoryName]</li>
+    <li>r_name (p = 0.2)-> [greekmyth_noun] [warna]</li>
+    <li>r_name (p = 0.2)-> [greekmyth_nounfem] [color_fem]</li>
+    <li>r_name (p = 0.2)-> [ship_prefex] [greekmyth_noun]</li>
+    <li>r_name (p = 0.2)-> [ship_prefexfem] [greekmyth_nounfem]</li>
+    <li>Ship_prefex (p = 2)-> el</li>
+    <li>Ship_prefex (p = 2)-></li>
+    <li>ship_prefexfem (p = 2)-> la</li>
+    <li>Ship_prefexfem (p = 2)-></li>
+    <li>narrative_name-> [thing_badass] [AdjectiveNatural]</li>
+    <li>narrative_namefem-> [thing_badassfem] [adjectiveVeraturalFem]</li>
+    <li>narrative_name-> [thing_badass] [AdjectivelArge]</li>
+    <li>narrative_namefem-> [thing_badassfem] [Adjectivelarge_fem]</li>
+    <li>narrative_name-> [thing_badass] [arah]</li>
+    <li>narrative_namefem-> [thing_badassfem] [arah]</li>
+    <li>narrative_name-> [thing_badass]</li>
+    <li>narrative_namefem-> [thing_badassfem]</li>
+    <li>Thing_badass-> [AnimalBadass]</li>
+    <li>thing_badass-> [animalBadass] Cazador</li>
+    <li>thing_badass-> triunfo</li>
+    <li>thing_badassfem-> victoria</li>
+    <li>thing_badassfem-> visaza</li>
+    <li>Thing_badassfem-> penderitaan</li>
+    <li>thing_badass-> tormento</li>
+    <li>thing_badassfem-> visaza</li>
+    <li>Thing_badasssfem-> kesedihan</li>
+    <li>thing_badassfem-> miseria</li>
+    <li>Thing_badassfem-> tyranny</li>
+    <li>thing_badass-> teror</li>
+    <li>thing_badass-> caos</li>
+    <li>Thing_badassfem-> anarchy</li>
+    <li>StoryName (p = 50)-> [Story_Result] de [subjek]</li>
+    <li>StoryName (p = 2)-> [Bodypart] de [subjek]</li>
+    <li>StoryName-> [gore] de [subjek]</li>
+    <li>Subjek (p = 5)-> [Nameperson]</li>
+    <li>Subjek-> [Hewan]</li>
+    <li>Subjek-> [Wordtribal]</li>
+    <li>Subjek-> [Placeoutlander]</li>
+    <li>Story_Result-> Joy</li>
+    <li>Story_result-> deleite</li>
+    <li>Story_result-> maravilla</li>
+    <li>Story_result-> orgullo</li>
+    <li>Story_result-> Joya</li>
+    <li>Story_result-> premio</li>
+    <li>Story_result-> Recompensa</li>
+    <li>Story_Result-> Kehormatan</li>
+    <li>Story_result-> Bote</li>
+    <li>Story_result-> trofeo</li>
+    <li>Story_result-> Penghancuran</li>
+    <li>Story_result-> kataclismo</li>
+    <li>Story_Result-> Ruina</li>
+    <li>Story_Result-> Engaño</li>
+    <li>Story_result-> fasad</li>
+    <li>Story_Result-> Fraude</li>
+    <li>Greekmyth_nounfem-> odyssey</li>
+    <li>Greekmyth_noun-> odisiete</li>
+    <li>greekmyth_nounfem-> penélope</li>
+    <li>Grempmy_nun-nou-> tes</li>
+    <li>Greekmyth_nounfem-> athena</li>
+    <li>Greekmyth_noun-> poseidón</li>
+    <li>Mitos Yunani Kata benda Em-> Escola</li>
+    <li>Greekmyth_noun-> Hermes</li>
+    <li>Greekmyth_noun-> argonauta</li>
+    <li>Greekmyth_noun-> Hermes</li>
+    <li>greekmyth_noun-> helio</li>
+    <li>Greekmyth_noun-> Aquiles</li>
+    <li>Greatmithnfm> Harga kami</li>
+    <li>Greeknoun-> Cíclope</li>
+    <li>Greekmyth_nounfem-> Medusa</li>
+    <li>Greatmithnfm> jarjna</li>
+    <li>Burung-> Falcon</li>
+    <li>Burung-> Elang</li>
+    <li>Burung-> Burung Hantu</li>
+    <li>Burung-> Grifo</li>
+    <li>Burung-> Buitre</li>
+    <li>flying_adjective (p = 2)-> lebih jauh</li>
+    <li>flying_adjetive-> aero</li>
+    <li>flying_adjetive-> flotant</li>
+    <li>flying_adjetive-> bersayap</li>
+    <li>ship_wordfem (p = 5)-> nave</li>
+    <li>Ship_wordfem (P = 5)-> Gravinave</li>
+    <li>ship_wordfem (p = 2)-> nave [adjectiveViLaturalFem]</li>
+    <li>Kapal_word-> kapal perang</li>
+    <li>Ship_wordfem-> fragata</li>
+    <li>Ship_wordfem-> Boat</li>
+    <li>Ship_word-> Transbordador</li>
+    <li>ship_word-> crucero</li>
+    <li>Ship_word-> Transporte</li>
+    <li>Ship_wordfem-> galera</li>
+    <li>Ship_word-> Galeón</li>
+    <li>Ship_word-> Drakkar</li>
+    <li>Ship_word-> Carguero</li>
+    <li>Ship_wordfem-> Barcaza</li>
+    <li>Ship_word-> trirreme</li>
+    <li>Ship_word-> Céfiro</li>
+  </NamerGravship.rulePack.rulesStrings>
+  
+</LanguageData>

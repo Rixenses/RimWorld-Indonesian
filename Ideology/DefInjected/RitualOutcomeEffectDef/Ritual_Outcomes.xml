@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedFuneral.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</AttendedFuneral.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneral.comps.0.label>Panduan Moral Hadir</AttendedFuneral.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneral.comps.1.label>peserta</AttendedFuneral.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneral.outcomeChances.0.label>Sangat buruk</AttendedFuneral.outcomeChances.0.label>
+  <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneral.outcomeChances.0.description>{0} mengerikan!Semua orang merasa dihina karena harus menanggungnya.</AttendedFuneral.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneral.outcomeChances.1.label>Biasa -biasa saja</AttendedFuneral.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneral.outcomeChances.1.description>{0} biasa -biasa saja.Pembicaraan itu membosankan dan tidak mengirimkan emosi apa pun.</AttendedFuneral.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneral.outcomeChances.2.label>Baik</AttendedFuneral.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneral.outcomeChances.2.description>{0} layak.Kata -kata terakhir pembicara memberi jalan bagi semua orang untuk bergerak maju.</AttendedFuneral.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneral.outcomeChances.3.label>Sentuhan</AttendedFuneral.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneral.outcomeChances.3.description>{0} sedang bergerak.Pembicaraan itu menawan dan tulus, semua orang akan mengingat saat -saat indah.</AttendedFuneral.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedFuneralNoCorpse.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</AttendedFuneralNoCorpse.description>
+  <!-- EN: moral guide present -->
+  <AttendedFuneralNoCorpse.comps.0.label>Panduan Moral Hadir</AttendedFuneralNoCorpse.comps.0.label>
+  <!-- EN: participant count -->
+  <AttendedFuneralNoCorpse.comps.1.label>peserta</AttendedFuneralNoCorpse.comps.1.label>
+  <!-- EN: Terrible -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>Sangat buruk</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <!-- EN: The {0} was a terrible! Everyone felt insulted for having had to endure it. -->
+  <AttendedFuneralNoCorpse.outcomeChances.0.description>{0} mengerikan!Semua orang merasa dihina karena harus menanggungnya.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>Biasa -biasa saja</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The speech was long-winded and failed to resolve any emotions. -->
+  <AttendedFuneralNoCorpse.outcomeChances.1.description>{0} biasa -biasa saja.Pembicaraan itu membosankan dan tidak mengirimkan emosi apa pun.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>Baik</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The speaker's final words provided a path for everyone move on. -->
+  <AttendedFuneralNoCorpse.outcomeChances.2.description>{0} layak.Kata -kata terakhir pembicara memberi jalan bagi semua orang untuk bergerak maju.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <!-- EN: Heartwarming -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>Sentuhan</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <!-- EN: The {0} was heartwarming. The speech was captivating and heartfelt, and everyone came away focused on good memories. -->
+  <AttendedFuneralNoCorpse.outcomeChances.3.description>{0} sedang bergerak.Pembicaraan itu menawan dan tulus, semua orang akan mengingat saat -saat indah.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <BlindingCeremony.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</BlindingCeremony.description>
+  <!-- EN: moral guide present -->
+  <BlindingCeremony.comps.2.label>Panduan Moral Hadir</BlindingCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <BlindingCeremony.comps.3.label>peserta</BlindingCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <BlindingCeremony.comps.4.label>Dimulai di altar</BlindingCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <BlindingCeremony.comps.4.expectedThingLabelTip>Altar</BlindingCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: If the {0} is satisfying, the blinded person might get a psylink upgrade or unlock new psychic powers. -->
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Jika {0} memuaskan, orang yang menyilaukan bisa mendapatkan peningkatan psikos mereka atau membuka kekuatan psikis baru.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <BlindingCeremony.outcomeChances.0.label>Sangat buruk</BlindingCeremony.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
+  <BlindingCeremony.outcomeChances.0.description>{0} mengerikan!Pembicaraan itu lambat dan tidak koheren.Teknik menyilaukan adalah kegagalan.Semua orang menunggunya berakhir.</BlindingCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <BlindingCeremony.outcomeChances.1.label>Bosan</BlindingCeremony.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the blinding technique was noticeably flawed. It just didn't feel dignified. -->
+  <BlindingCeremony.outcomeChances.1.description>{0} bosan.Pembicaraan itu berulang dan teknik menyilaukan jelas rusak.Dia merasa tidak ada yang layak.</BlindingCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <BlindingCeremony.outcomeChances.2.label>Memuaskan</BlindingCeremony.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
+  <BlindingCeremony.outcomeChances.2.description>{0} memuaskan.Pembicaraan itu terasa memuaskan, dan teknik menyilaukan itu tepat dan bermartabat.</BlindingCeremony.outcomeChances.2.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Orang yang menyilaukan akan mendapatkan peningkatan psikosnya atau membuka kekuatan psikis baru.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <BlindingCeremony.outcomeChances.3.label>Spektakuler</BlindingCeremony.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy just as the eye came out with a satisfying wet noise. -->
+  <BlindingCeremony.outcomeChances.3.description>{0} sangat spektakuler!Pembicaraan membawa semua orang ke tepi hiruk -pikuk tepat ketika mata keluar dengan suara basah yang memuaskan.</BlindingCeremony.outcomeChances.3.description>
+  <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Orang yang menyilaukan akan mendapatkan peningkatan psikosnya atau membuka kekuatan psikis baru.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebratedDate.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</CelebratedDate.description>
+  <!-- EN: leader present -->
+  <CelebratedDate.comps.2.label>Pemimpin sekarang</CelebratedDate.comps.2.label>
+  <!-- EN: participant count -->
+  <CelebratedDate.comps.3.label>peserta</CelebratedDate.comps.3.label>
+  <!-- EN: started at altar -->
+  <CelebratedDate.comps.4.label>Dimulai di altar</CelebratedDate.comps.4.label>
+  <!-- EN: an altar -->
+  <CelebratedDate.comps.4.expectedThingLabelTip>Altar</CelebratedDate.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <CelebratedDate.outcomeChances.0.label>Sangat buruk</CelebratedDate.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam pembicaraan singkat dan bergumam sambil menunggu untuk berakhir.</CelebratedDate.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate.outcomeChances.1.label>Bosan</CelebratedDate.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate.outcomeChances.1.description>{0} membosankan.Semua orang merasa sangat tidak nyaman untuk membuka dan tertawa.</CelebratedDate.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate.outcomeChances.2.label>Lucu</CelebratedDate.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate.outcomeChances.2.description>{0} itu menyenangkan.Semua orang menghargai kesempatan untuk bersantai dan lucu bersama.</CelebratedDate.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate.outcomeChances.3.label>Tak terlupakan</CelebratedDate.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar tentang orang lain dan merasa seperti keluarga.</CelebratedDate.outcomeChances.3.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebratedDate_Consumable.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</CelebratedDate_Consumable.description>
+  <!-- EN: participant count -->
+  <CelebratedDate_Consumable.comps.0.label>peserta</CelebratedDate_Consumable.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebratedDate_Consumable.comps.1.label>Dampak Kamar</CelebratedDate_Consumable.comps.1.label>
+  <!-- EN: If the {0} is satisfying, one participant might gain an inspiration. -->
+  <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>Jika {0} memuaskan, peserta bisa mendapatkan inspirasi.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebratedDate_Consumable.outcomeChances.0.label>Sangat buruk</CelebratedDate_Consumable.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <CelebratedDate_Consumable.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam pembicaraan singkat dan bergumam sambil menunggu untuk berakhir.</CelebratedDate_Consumable.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebratedDate_Consumable.outcomeChances.1.label>Bosan</CelebratedDate_Consumable.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <CelebratedDate_Consumable.outcomeChances.1.description>{0} membosankan.Semua orang merasa sangat tidak nyaman untuk membuka dan tertawa.</CelebratedDate_Consumable.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebratedDate_Consumable.outcomeChances.2.label>Lucu</CelebratedDate_Consumable.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <CelebratedDate_Consumable.outcomeChances.2.description>{0} itu menyenangkan.Semua orang menghargai kesempatan untuk bersantai dan lucu bersama.</CelebratedDate_Consumable.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>Ada kemungkinan 5% bahwa peserta acak memenangkan inspirasi.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebratedDate_Consumable.outcomeChances.3.label>Tak terlupakan</CelebratedDate_Consumable.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <CelebratedDate_Consumable.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar tentang orang lain dan merasa seperti keluarga.</CelebratedDate_Consumable.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa peserta acak memenangkan inspirasi.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationPartyDanceDrum.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</CelebrationPartyDanceDrum.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceDrum.comps.0.label>peserta</CelebrationPartyDanceDrum.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceDrum.comps.1.label>Dampak Kamar</CelebrationPartyDanceDrum.comps.1.label>
+  <!-- EN: played drum count -->
+  <CelebrationPartyDanceDrum.comps.2.label>drum bekas</CelebrationPartyDanceDrum.comps.2.label>
+  <!-- EN: started at campfire -->
+  <CelebrationPartyDanceDrum.comps.3.label>dimulai dengan api</CelebrationPartyDanceDrum.comps.3.label>
+  <!-- EN: a campfire -->
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>Api</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>Jika {0} menyenangkan atau tak terlupakan, peserta dapat meningkatkan kecepatan kerja mereka untuk sementara waktu.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>Sangat buruk</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceDrum.outcomeChances.0.description>{0} mengerikan!Percakapan yang tidak nyaman, lelucon buruk, tarian yang mengerikan, dan musik soda.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>Bosan</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceDrum.outcomeChances.1.description>{0} membosankan.Tarian sederhana dan musik berulang mengubah ini menjadi buang -buang waktu.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>Lucu</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.description>{0} itu menyenangkan.Semua orang menikmati sehari -hari dan bersenang -senang bersama.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>Semua orang merasa menyegarkan setelah tarian itu.Peserta akan bekerja lebih cepat untuk sementara waktu.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>Tak terlupakan</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.description>{0} tak terlupakan!Para penari kehilangan diri dalam musik, dan saat menyatukan semuanya.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Semua orang merasa menyegarkan setelah tarian itu.Peserta akan bekerja lebih cepat untuk sementara waktu.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationPartyDanceTech.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</CelebrationPartyDanceTech.description>
+  <!-- EN: participant count -->
+  <CelebrationPartyDanceTech.comps.0.label>peserta</CelebrationPartyDanceTech.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <CelebrationPartyDanceTech.comps.1.label>Dampak Kamar</CelebrationPartyDanceTech.comps.1.label>
+  <!-- EN: active speaker count -->
+  <CelebrationPartyDanceTech.comps.2.label>speaker aktif</CelebrationPartyDanceTech.comps.2.label>
+  <!-- EN: started at lightball -->
+  <CelebrationPartyDanceTech.comps.3.label>dimulai dengan bola berputar</CelebrationPartyDanceTech.comps.3.label>
+  <!-- EN: a lightball -->
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>Bola berputar</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <!-- EN: If the {0} is fun or unforgettable, participants may gain increased work speed for a while. -->
+  <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Jika {0} menyenangkan atau tak terlupakan, peserta dapat meningkatkan kecepatan kerja mereka untuk sementara waktu.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationPartyDanceTech.outcomeChances.0.label>Sangat buruk</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Awkward conversation, bad jokes, atrocious dancing, and dull music. -->
+  <CelebrationPartyDanceTech.outcomeChances.0.description>{0} mengerikan!Percakapan yang tidak nyaman, lelucon buruk, tarian yang mengerikan, dan musik soda.</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <CelebrationPartyDanceTech.outcomeChances.1.label>Bosan</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Bad dancing and so-so music made the whole thing feel like a waste of time. -->
+  <CelebrationPartyDanceTech.outcomeChances.1.description>{0} membosankan.Tarian sederhana dan musik berulang mengubah ini menjadi buang -buang waktu.</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <CelebrationPartyDanceTech.outcomeChances.2.label>Lucu</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <!-- EN: The {0} was fun. Everyone enjoyed the break from everyday life and got in some good dancing together. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.description>{0} itu menyenangkan.Semua orang menikmati sehari -hari dan bersenang -senang bersama.</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>Semua orang merasa menyegarkan setelah tarian itu.Peserta akan bekerja lebih cepat untuk sementara waktu.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationPartyDanceTech.outcomeChances.3.label>Tak terlupakan</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! The dancers forgot themselves in the music, and the experience brought everyone together. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.description>{0} tak terlupakan!Para penari kehilangan diri dalam musik, dan saat menyatukan semuanya.</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <!-- EN: Everyone felt refreshed after their trance-like dancing experience. Participants will work faster for a while. -->
+  <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Semua orang merasa menyegarkan setelah tarian itu.Peserta akan bekerja lebih cepat untuk sementara waktu.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <CelebrationSkyLanterns.description>Bergantung pada kualitas ritual, para peserta akan menang antara {minmood} dan {maxMood} dari humor untuk {mooddays} hari.</CelebrationSkyLanterns.description>
+  <!-- EN: participant count -->
+  <CelebrationSkyLanterns.comps.0.label>peserta</CelebrationSkyLanterns.comps.0.label>
+  <!-- EN: Each participant will make a lantern out of 4 wood. -->
+  <CelebrationSkyLanterns.extraInfoLines.0>Setiap peserta akan memproduksi lentera dengan 4 kayu.</CelebrationSkyLanterns.extraInfoLines.0>
+  <!-- EN: If the {0} is beautiful or unforgettable, the skylanterns might attract a group of friendly visitors. -->
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Jika {0} spektakuler atau tak terlupakan, lentera dapat menarik pengunjung yang ramah.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <CelebrationSkyLanterns.outcomeChances.0.label>Sangat buruk</CelebrationSkyLanterns.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! People kept getting annoyed making the lanterns and they looked like garbage on the wind. -->
+  <CelebrationSkyLanterns.outcomeChances.0.description>{0} mengerikan!Orang -orang membuat frustrasi lentera dan tampak seperti sampah di angin.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <!-- EN: Unimpressive -->
+  <CelebrationSkyLanterns.outcomeChances.1.label>Sedikit mengesankan</CelebrationSkyLanterns.outcomeChances.1.label>
+  <!-- EN: The {0} was unimpressive. Lantern-making took too long and it all felt rather pointless. -->
+  <CelebrationSkyLanterns.outcomeChances.1.description>{0} tidak mengesankan.Membuat lentera membutuhkan waktu lama dan pada akhirnya dia merasa tidak berguna.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <!-- EN: Beautiful -->
+  <CelebrationSkyLanterns.outcomeChances.2.label>Spektakuler</CelebrationSkyLanterns.outcomeChances.2.label>
+  <!-- EN: The {0} was beautiful. The drifting lanterns made everyone feel at peace. -->
+  <CelebrationSkyLanterns.outcomeChances.2.description>{0} sangat spektakuler.Lentera melayang membuat semua orang merasa sendirian.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Lentera terangkat tinggi dan bersinar.Beberapa pengunjung yang ramah bisa melihat mereka dan mendapatkan hadiah.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <CelebrationSkyLanterns.outcomeChances.3.label>Tak terlupakan</CelebrationSkyLanterns.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Making the lanterns was a time of laughter, and everyone's spirits rose with them. -->
+  <CelebrationSkyLanterns.outcomeChances.3.description>{0} tak terlupakan!Membuat lentera membawa sukacita, dan semangat semua orang dibesarkan bersama mereka.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Lentera terangkat tinggi dan bersinar.Beberapa pengunjung yang ramah bisa melihat mereka dan mendapatkan hadiah.</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The connector will connect to the tree. -->
+  <ConnectToTree.description>Konektor akan terhubung ke pohon.</ConnectToTree.description>
+  <!-- EN: participant count -->
+  <ConnectToTree.comps.0.label>peserta</ConnectToTree.comps.0.label>
+  <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Konektor akan dimulai dengan gaya koneksi 25-45%, tergantung pada kualitas ritual.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Every 2% increase in quality will grow a patch of Gauranlen moss around the tree, beautifying the area. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>Setiap kualitas peningkatan 2% akan menumbuhkan noda lumut tanpa gauran di sekitar pohon, memperindah daerah tersebut.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+  
+  <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
+  <Conversion.description>Jika berjalan dengan baik, kepastian ideolisasi tujuan akan dikurangi atau akan menjadi.Jika dia salah, dia akan mendapatkan kepastian dalam keyakinan lamanya.</Conversion.description>
+  <!-- EN: room impressiveness -->
+  <Conversion.comps.0.label>Dampak Kamar</Conversion.comps.0.label>
+  <!-- EN: participant count -->
+  <Conversion.comps.1.label>peserta</Conversion.comps.1.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <Conversion.comps.2.label>Dampak Sosial {Pawn_labshort}</Conversion.comps.2.label>
+  <!-- EN: speaker's social impact -->
+  <Conversion.comps.2.labelAbstract>Dampak Sosial Pembicara</Conversion.comps.2.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <Conversion.comps.3.label>Harapan {Pawn_labelshort}</Conversion.comps.3.label>
+  <!-- EN: convertee's expectations -->
+  <Conversion.comps.3.labelAbstract>ekspektasi konversi</Conversion.comps.3.labelAbstract>
+  <!-- EN: Terrible -->
+  <Conversion.outcomeChances.0.label>Sangat buruk</Conversion.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
+  <Conversion.outcomeChances.0.description>{0} mengerikan!Itu adalah perdebatan yang tidak berarti dari kata pertama.Itu diperpanjang untuk waktu yang malu.</Conversion.outcomeChances.0.description>
+  <!-- EN: Ineffective -->
+  <Conversion.outcomeChances.1.label>Tidak efektif</Conversion.outcomeChances.1.label>
+  <!-- EN: The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense. -->
+  <Conversion.outcomeChances.1.description>{0} tidak efektif.Sebagian besar argumen tidak jelas, dan konversi membalas mereka yang masuk akal.</Conversion.outcomeChances.1.description>
+  <!-- EN: Effective -->
+  <Conversion.outcomeChances.2.label>Uang tunai</Conversion.outcomeChances.2.label>
+  <!-- EN: The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well. -->
+  <Conversion.outcomeChances.2.description>{0} efektif.Pidato itu tidak hanya memberikan argumen yang kuat dan secara nyata memengaruhi pemikiran orang -orang yang bertobat, tetapi juga terus menghibur orang banyak.</Conversion.outcomeChances.2.description>
+  <!-- EN: Masterful -->
+  <Conversion.outcomeChances.3.label>Jalan raya</Conversion.outcomeChances.3.label>
+  <!-- EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
+  <Conversion.outcomeChances.3.description>{0} sangat ahli!Keyakinan lama tampaknya larut dengan mudah dan tak terhindarkan, pengetahuan kita yang sebenarnya diterima.</Conversion.outcomeChances.3.description>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding.description>Tujuan ritual akan dihancurkan.</DestroyConsumableBuilding.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding.comps.0.label>peserta</DestroyConsumableBuilding.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding.comps.1.label>Dampak Kamar</DestroyConsumableBuilding.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding.outcomeChances.0.label>Sangat buruk</DestroyConsumableBuilding.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam mengepal rahang mereka sambil menunggu mereka berakhir.</DestroyConsumableBuilding.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding.outcomeChances.1.label>Bosan</DestroyConsumableBuilding.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding.outcomeChances.1.description>{0} membosankan.Semua orang merasa terlalu tidak nyaman untuk membuka dan tertawa.</DestroyConsumableBuilding.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding.outcomeChances.2.label>Lucu</DestroyConsumableBuilding.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding.outcomeChances.2.description>{0} bagus.Semua orang berterima kasih kepada kesempatan untuk bersantai dan bersenang -senang bersama.</DestroyConsumableBuilding.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding.outcomeChances.3.label>Tak terlupakan</DestroyConsumableBuilding.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar dari orang lain dan merasa seperti keluarga.</DestroyConsumableBuilding.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa seorang peserta mendapatkan inspirasi.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Burnbong.description>Tujuan ritual akan dihancurkan.</DestroyConsumableBuilding_Burnbong.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>peserta</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>Dampak Kamar</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>Sangat buruk</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam mengepal rahang mereka sambil menunggu mereka berakhir.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>Bosan</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0} membosankan.Semua orang merasa terlalu tidak nyaman untuk membuka dan tertawa.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>Lucu</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>{0} bagus.Semua orang berterima kasih kepada kesempatan untuk bersantai dan bersenang -senang bersama.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>Tak terlupakan</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar dari orang lain dan merasa seperti keluarga.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa seorang peserta mendapatkan inspirasi.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_CannibalPlatter.description>Tujuan ritual akan dihancurkan.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>peserta</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>Dampak Kamar</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>Sangat buruk</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam mengepal rahang mereka sambil menunggu mereka berakhir.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>Bosan</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0} membosankan.Semua orang merasa terlalu tidak nyaman untuk membuka dan tertawa.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>Lucu</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>{0} bagus.Semua orang berterima kasih kepada kesempatan untuk bersantai dan bersenang -senang bersama.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>Tak terlupakan</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar dari orang lain dan merasa seperti keluarga.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa seorang peserta mendapatkan inspirasi.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_ChristmasTree.description>Tujuan ritual akan dihancurkan.</DestroyConsumableBuilding_ChristmasTree.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>peserta</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>Dampak Kamar</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>Sangat buruk</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam mengepal rahang mereka sambil menunggu mereka berakhir.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>Bosan</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0} membosankan.Semua orang merasa terlalu tidak nyaman untuk membuka dan tertawa.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>Lucu</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>{0} bagus.Semua orang berterima kasih kepada kesempatan untuk bersantai dan bersenang -senang bersama.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>Tak terlupakan</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar dari orang lain dan merasa seperti keluarga.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: The ritual target will be destroyed. -->
+  <DestroyConsumableBuilding_Pyre.description>Tujuan ritual akan dihancurkan.</DestroyConsumableBuilding_Pyre.description>
+  <!-- EN: participant count -->
+  <DestroyConsumableBuilding_Pyre.comps.0.label>peserta</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <!-- EN: room impressiveness -->
+  <DestroyConsumableBuilding_Pyre.comps.1.label>Dampak Kamar</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <!-- EN: Terrible -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>Sangat buruk</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Participants endured hours of jaw-clenching small talk while waiting for it to end. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0} mengerikan!Para peserta mengalami berjam -jam menggigit lidah mereka sambil menunggu mereka berakhir.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>Bosan</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0} membosankan.Semua orang merasa terlalu tidak nyaman untuk membuka dan tertawa.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>Lucu</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>{0} bagus.Semua orang berterima kasih kepada kesempatan untuk bersantai dan bersenang -senang bersama.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Unforgettable -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>Tak terlupakan</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone learned about each other and felt like a family. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>{0} tak terlupakan!Semua orang belajar dari orang lain dan merasa seperti keluarga.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance a random participant gains an inspiration. -->
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa seorang peserta mendapatkan inspirasi.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <Execution.description>Budak yang menonton akan 100%ditekan.Bergantung pada kualitas ritual, para peserta akan memperoleh antara {minmood} dan {maxmood} dari humor selama {mooddays} hari.</Execution.description>
+  <!-- EN: participant count -->
+  <Execution.comps.0.label>peserta</Execution.comps.0.label>
+  <!-- EN: started at altar or ideogram -->
+  <Execution.comps.1.label>Dimulai di altar atau ideogram</Execution.comps.1.label>
+  <!-- EN: an altar or an ideogram -->
+  <Execution.comps.1.expectedThingLabelTip>altar atau ideogram</Execution.comps.1.expectedThingLabelTip>
+  <!-- EN: Awkward -->
+  <Execution.outcomeChances.0.label>Tidak nyaman</Execution.outcomeChances.0.label>
+  <!-- EN: The {0} was awkward. The speech dragged on and when it came time to strike, the executioner slipped and barely recovered. None of it felt justified. -->
+  <Execution.outcomeChances.0.description>{0} tidak nyaman.Pidato itu diperpanjang dan ketika tiba saatnya untuk memukul, algojo itu tergelincir dan nyaris tidak pulih.Tidak ada yang tampaknya dapat dibenarkan.</Execution.outcomeChances.0.description>
+  <!-- EN: Satisfying -->
+  <Execution.outcomeChances.1.label>Memuaskan</Execution.outcomeChances.1.label>
+  <!-- EN: The {0} was satisfying. Everyone could feel that justice was being upheld. -->
+  <Execution.outcomeChances.1.description>{0} memuaskan.Semua orang bisa merasa keadilan selesai.</Execution.outcomeChances.1.description>
+  <!-- EN: Spectacular -->
+  <Execution.outcomeChances.2.label>Spektakuler</Execution.outcomeChances.2.label>
+  <!-- EN: The {0} was spectacular! One smooth strike was all it took, and everyone felt a rush of justice and power. -->
+  <Execution.outcomeChances.2.description>{0} sangat spektakuler!Pukulan lembut sudah cukup bagi semua orang untuk merasakan ledakan keadilan dan kekuasaan.</Execution.outcomeChances.2.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <GladiatorDuel.description>Bergantung pada kualitas ritual, para peserta akan mendapatkan humor antara {minmood} dan {maxmood} selama {mooddays} hari.</GladiatorDuel.description>
+  <!-- EN: participant count -->
+  <GladiatorDuel.comps.0.label>peserta</GladiatorDuel.comps.0.label>
+  <!-- EN: leader present -->
+  <GladiatorDuel.comps.1.label>Pemimpin sekarang</GladiatorDuel.comps.1.label>
+  <!-- EN: duelist dies -->
+  <GladiatorDuel.comps.2.label>Duelist mati</GladiatorDuel.comps.2.label>
+  <!-- EN: weapon used -->
+  <GladiatorDuel.comps.3.label>senjata bekas</GladiatorDuel.comps.3.label>
+  <!-- EN: Duelists and viewers will gain melee combat experience. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.0>Duelists dan penonton akan mendapatkan pengalaman pertempuran jarak dekat.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Spectators will gain a mood boost and fill their recreation bars. -->
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.1>Para penonton akan mendapatkan dorongan dorongan dan mengisi bar rekreasi mereka.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+  <!-- EN: Terrible -->
+  <GladiatorDuel.outcomeChances.0.label>Sangat buruk</GladiatorDuel.outcomeChances.0.label>
+  <!-- EN: The duel was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
+  <GladiatorDuel.outcomeChances.0.description>Duel itu mengerikan.Para pejuang memberi goyangan, tidak saling menghindari satu sama lain dalam sampel pengecut dan kelemahan yang berkepanjangan.Melihat dia hanya membuat orang sedih.</GladiatorDuel.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <GladiatorDuel.outcomeChances.1.label>Bosan</GladiatorDuel.outcomeChances.1.label>
+  <!-- EN: The duel was boring. The fighters wouldn't commit, so there were no exciting moments. -->
+  <GladiatorDuel.outcomeChances.1.description>Duel itu membosankan.Para pejuang tidak berkompromi, jadi tidak ada momen yang menyenangkan.</GladiatorDuel.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <GladiatorDuel.outcomeChances.2.label>Baik</GladiatorDuel.outcomeChances.2.label>
+  <!-- EN: The duel was good. The fighters went for blood and showed real heart. -->
+  <GladiatorDuel.outcomeChances.2.description>Duel itu layak.Para pejuang pergi untuk darah dan menunjukkan hati yang sebenarnya.</GladiatorDuel.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <GladiatorDuel.outcomeChances.3.label>Tak terlupakan</GladiatorDuel.outcomeChances.3.label>
+  <!-- EN: The duel was unforgettable! Both fighters gave all they had, and the death showed their dedication. -->
+  <GladiatorDuel.outcomeChances.3.description>Duel itu tak terlupakan.Kedua pejuang memberikan semua yang mereka miliki, dan kematian menunjukkan dedikasi mereka.</GladiatorDuel.outcomeChances.3.description>
+  
+  <!-- EN: A new role will be assigned to a colonist. -->
+  <RoleChange.description>Peran baru akan ditugaskan ke pemukim.</RoleChange.description>
+  <!-- EN: required spectator count -->
+  <RoleChange.comps.0.label>penonton yang dibutuhkan</RoleChange.comps.0.label>
+  <!-- EN: The required number of spectators must attend for the role change to apply. -->
+  <RoleChange.extraPredictedOutcomeDescriptions.0>Untuk menerapkan perubahan peran, perlu untuk menghadiri jumlah penonton yang diperlukan.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Failed -->
+  <RoleChange.outcomeChances.0.label>Gagal</RoleChange.outcomeChances.0.label>
+  <!-- EN: The role change was not attended by enough {IDEO_memberNamePlural}. -->
+  <RoleChange.outcomeChances.0.description>Mereka tidak cukup menghadiri {ideo_mebernameplural} untuk perubahan peran.</RoleChange.outcomeChances.0.description>
+  <!-- EN: Successful -->
+  <RoleChange.outcomeChances.1.label>Sukses</RoleChange.outcomeChances.1.label>
+  <!-- EN: The role change ritual was completed. -->
+  <RoleChange.outcomeChances.1.description>Ritual Perubahan Peran selesai.</RoleChange.outcomeChances.1.description>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <Sacrifice.description>Bergantung pada kualitas ritual, para peserta akan mendapatkan humor antara {minmood} dan {maxmood} selama {mooddays} hari.</Sacrifice.description>
+  <!-- EN: moral guide present -->
+  <Sacrifice.comps.2.label>Panduan Moral Hadir</Sacrifice.comps.2.label>
+  <!-- EN: participant count -->
+  <Sacrifice.comps.3.label>peserta</Sacrifice.comps.3.label>
+  <!-- EN: started at altar -->
+  <Sacrifice.comps.4.label>Dimulai di altar</Sacrifice.comps.4.label>
+  <!-- EN: an altar -->
+  <Sacrifice.comps.4.expectedThingLabelTip>Altar</Sacrifice.comps.4.expectedThingLabelTip>
+  <!-- EN: If the {0} is satisfying, one of the participants might gain an inspiration. -->
+  <Sacrifice.extraPredictedOutcomeDescriptions.0>Jika {0} memuaskan, salah satu peserta dapat memperoleh inspirasi.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+  <!-- EN: Terrible -->
+  <Sacrifice.outcomeChances.0.label>Sangat buruk</Sacrifice.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The victim took far too long to die - everyone was waiting for it to end. -->
+  <Sacrifice.outcomeChances.0.description>{0} mengerikan!Pidato itu terputus -putus dan tidak koheren, dan teknik pembunuhan itu dieksekusi dengan buruk.Korban terlalu banyak mati, semua orang menunggunya berakhir.</Sacrifice.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <Sacrifice.outcomeChances.1.label>Bosan</Sacrifice.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. It just didn't feel dignified. -->
+  <Sacrifice.outcomeChances.1.description>{0} membosankan.Pidato itu berulang -ulang dan teknik pembunuhannya sangat rusak.Dia tidak merasa layak.</Sacrifice.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <Sacrifice.outcomeChances.2.label>Memuaskan</Sacrifice.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the killing technique was precise and dignified. -->
+  <Sacrifice.outcomeChances.2.description>{0} memuaskan.Pidato itu masuk akal, dan teknik pembunuhan itu tepat dan bermartabat.</Sacrifice.outcomeChances.2.description>
+  <!-- EN: There's a 5% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>Ada 5% peluang bahwa peserta mendapatkan inspirasi.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+  <!-- EN: Spectacular -->
+  <Sacrifice.outcomeChances.3.label>Spektakuler</Sacrifice.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy just as the blade came down perfectly, and the spurting blood was like cleansing waters for the spirit. -->
+  <Sacrifice.outcomeChances.3.description>{0} sangat spektakuler!Pidato itu membawa semua orang ke tepi hiruk -pikuk tepat ketika bilah turun dengan sempurna, dan darah yang tumbuh seperti memurnikan air untuk roh.</Sacrifice.outcomeChances.3.description>
+  <!-- EN: There's a 10% chance that a random participant gets an inspiration. -->
+  <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Ada kemungkinan 10% bahwa seorang peserta mendapatkan inspirasi.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <ScarificationCeremony.description>Bergantung pada kualitas ritual, para peserta akan mendapatkan humor antara {minmood} dan {maxmood} selama {mooddays} hari.</ScarificationCeremony.description>
+  <!-- EN: moral guide present -->
+  <ScarificationCeremony.comps.2.label>Panduan Moral Hadir</ScarificationCeremony.comps.2.label>
+  <!-- EN: participant count -->
+  <ScarificationCeremony.comps.3.label>peserta</ScarificationCeremony.comps.3.label>
+  <!-- EN: started at altar -->
+  <ScarificationCeremony.comps.4.label>Dimulai di altar</ScarificationCeremony.comps.4.label>
+  <!-- EN: an altar -->
+  <ScarificationCeremony.comps.4.expectedThingLabelTip>Altar</ScarificationCeremony.comps.4.expectedThingLabelTip>
+  <!-- EN: Terrible -->
+  <ScarificationCeremony.outcomeChances.0.label>Sangat buruk</ScarificationCeremony.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the scarification technique was botched. Everyone was waiting for it to end. -->
+  <ScarificationCeremony.outcomeChances.0.description>{0} mengerikan!Pidato itu terputus -putus dan tidak koheren, dan teknik skarifikasi dieksekusi dengan buruk.Semua orang menunggunya berakhir.</ScarificationCeremony.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <ScarificationCeremony.outcomeChances.1.label>Bosan</ScarificationCeremony.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech was repetitive and the scarification technique was noticeably flawed. It just didn't feel dignified. -->
+  <ScarificationCeremony.outcomeChances.1.description>{0} bosan.Pidato itu berulang -ulang dan teknik skarifikasi sangat rusak.Dia hanya tidak merasa layak.</ScarificationCeremony.outcomeChances.1.description>
+  <!-- EN: Satisfying -->
+  <ScarificationCeremony.outcomeChances.2.label>Memuaskan</ScarificationCeremony.outcomeChances.2.label>
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and the scarification technique was precise and dignified. -->
+  <ScarificationCeremony.outcomeChances.2.description>{0} memuaskan.Pidato itu masuk akal, dan teknik skarifikasi tepat dan bermartabat.</ScarificationCeremony.outcomeChances.2.description>
+  <!-- EN: Spectacular -->
+  <ScarificationCeremony.outcomeChances.3.label>Spektakuler</ScarificationCeremony.outcomeChances.3.label>
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy as the bladeholder artfully rended living flesh. -->
+  <ScarificationCeremony.outcomeChances.3.description>{0} sangat spektakuler!Pidato itu membawa semua orang ke tepi hiruk -pikuk sementara pembawa daun meruntuhkan daging yang hidup.</ScarificationCeremony.outcomeChances.3.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <Trial.description>Kualitas uji coba menentukan probabilitas bahwa terdakwa dihukum.</Trial.description>
+  <!-- EN: participant count -->
+  <Trial.comps.0.label>peserta</Trial.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <Trial.comps.1.label>Negosiasi {pawn_lallshort}</Trial.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <Trial.comps.1.labelAbstract>Negosiasi pemimpin</Trial.comps.1.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <Trial.comps.2.label>Negosiasi {pawn_lallshort}</Trial.comps.2.label>
+  <!-- EN: Defendant's negotiation ability -->
+  <Trial.comps.2.labelAbstract>Negosiasi terdakwa</Trial.comps.2.labelAbstract>
+  <!-- EN: exonerated -->
+  <Trial.outcomeChances.0.label>dibebaskan</Trial.outcomeChances.0.label>
+  <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
+  <Trial.outcomeChances.0.description>Argumen {Prosecator_Gender?Del: dari fiskal} jaksa penuntut_labelshort} gagal meyakinkan siapa pun.A {Pawn_labelshort} telah dinyatakan tidak bersalah.</Trial.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <Trial.outcomeChances.1.label>dikutuk</Trial.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
+  <Trial.outcomeChances.1.description>Kantor Kejaksaan meyakinkan semua orang dari kesalahan {Pawn_labelshort}.{Pawn_labelshort} Apakah condemnad {Pawn_gender?O: A} dan sekarang bisa menjadi hukuman {Pawn_gender?O: A}.Anda dapat menjalankan {pawn_objective} atau membuang {Pawn_objective} dan tidak ada yang akan peduli.</Trial.outcomeChances.1.description>
+  
+  <!-- EN: The trial quality determines the chance that the defendant will be convicted. -->
+  <TrialMentalState.description>Kualitas uji coba menentukan probabilitas bahwa terdakwa dihukum.</TrialMentalState.description>
+  <!-- EN: participant count -->
+  <TrialMentalState.comps.0.label>jumlah peserta</TrialMentalState.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s negotiation ability -->
+  <TrialMentalState.comps.1.label>Negosiasi {pawn_lallshort}</TrialMentalState.comps.1.label>
+  <!-- EN: Leader's negotiation ability -->
+  <TrialMentalState.comps.1.labelAbstract>Negosiasi pemimpin</TrialMentalState.comps.1.labelAbstract>
+  <!-- EN: exonerated -->
+  <TrialMentalState.outcomeChances.0.label>dibebaskan</TrialMentalState.outcomeChances.0.label>
+  <!-- EN: The prosecutor {PROSECUTOR_labelShort}'s arguments failed to convince anyone. {PAWN_labelShort} was exonerated. -->
+  <TrialMentalState.outcomeChances.0.description>Argumen {Prosecator_Gender?Del: dari fiskal} jaksa penuntut_labelshort} gagal meyakinkan siapa pun.A {Pawn_labelshort} telah dinyatakan tidak bersalah.</TrialMentalState.outcomeChances.0.description>
+  <!-- EN: convicted -->
+  <TrialMentalState.outcomeChances.1.label>dikutuk</TrialMentalState.outcomeChances.1.label>
+  <!-- EN: The prosecution convinced everyone of {PAWN_labelShort}'s guilt. {PAWN_labelShort} was convicted and can now be punished. You may execute or banish {PAWN_objective} and nobody will mind. -->
+  <TrialMentalState.outcomeChances.1.description>Kantor Kejaksaan meyakinkan semua orang dari kesalahan {Pawn_labelshort}.{Pawn_labelshort} Apakah condemnad {Pawn_gender?O: A} dan sekarang bisa menjadi hukuman {Pawn_gender?O: A}.Anda dapat menjalankan {pawn_objective} atau membuang {Pawn_objective} dan tidak ada yang akan peduli.</TrialMentalState.outcomeChances.1.description>
+  
+</LanguageData>

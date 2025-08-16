@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Catfish escape -->
+  <CatfishEscape.letterLabel>Tas melarikan diri</CatfishEscape.letterLabel>
+  <!-- EN: While attempting to wrangle a catfish, {PAWN_nameDef} stumbled and lost the slippery fish in the murky waters. -->
+  <CatfishEscape.letterText>Saat mencoba menangkap ikan lele, {Pawn_namedef} tersandung dan kehilangan ikan yang licin di perairan keruh.</CatfishEscape.letterText>
+  
+  <!-- EN: Catfish spine -->
+  <CatfishSpine.letterLabel>Bagasi Tulang Belakang</CatfishSpine.letterLabel>
+  <!-- EN: While handling a catfish, {PAWN_nameDef} was stung by one of the fish's toxic dorsal spines, causing {PAWN_objective} to drop the fish. -->
+  <CatfishSpine.letterText>Saat memanipulasi ikan lele, {Pawn_namedef} dipotong oleh salah satu tulang belakang beracun ikan, yang menyebabkan ikan dilepaskan.</CatfishSpine.letterText>
+  
+  <!-- EN: Dogfish bite -->
+  <DogfishBite.letterLabel>Cazón Bite</DogfishBite.letterLabel>
+  <!-- EN: While reeling in a dogfish, {PAWN_nameDef} was bitten.\n\nThe fish managed to escape. -->
+  <DogfishBite.letterText>Saat memancing cazón, {pawn_namedef} Apakah menggigit {pawn_gender?O: A}. Ikan ikan berhasil melarikan diri.</DogfishBite.letterText>
+  
+  <!-- EN: Dogfish escape -->
+  <DogfishEscape.letterLabel>Knalpot Cazón</DogfishEscape.letterLabel>
+  <!-- EN: While reeling in a dogfish, {PAWN_nameDef} nearly bitten by the thrashing creature.\n\nThe fish escaped in the confusion. -->
+  <DogfishEscape.letterText>Saat memancing untuk cazón, {pawn_namedef} hampir menggigit {Pawn_gender?O: A} untuk makhluk yang sulit dipahami. Ikan \ n \ nl melarikan diri dalam kebingungan.</DogfishEscape.letterText>
+  
+  <!-- EN: Flying frostfish -->
+  <FrostfishAttack.letterLabel>Ikan terbang</FrostfishAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} was suddenly hit by a frostfish leaping out of the water. This caused {PAWN_objective} to lose {PAWN_possessive} catch. -->
+  <FrostfishAttack.letterText>Saat memancing, {Pawn_namedef} apakah dia memukul {Pawn_gender?Atau: A} Tiba -tiba oleh seorang fishheld yang melompat keluar dari air.Ini menyebabkan dia kehilangan penangkapan.</FrostfishAttack.letterText>
+  
+  <!-- EN: Guppy escape -->
+  <GuppyEscape.letterLabel>Escape Del Guppy</GuppyEscape.letterLabel>
+  <!-- EN: While attempting to catch a guppy, {PAWN_nameDef} fumbled the small slippery fish, allowing it to escape. -->
+  <GuppyEscape.letterText>Saat mencoba menangkap guppy, {Pawn_namedef} ikan kecil yang licin jatuh, memungkinkannya untuk melarikan diri.</GuppyEscape.letterText>
+  
+  <!-- EN: Marlin attack -->
+  <MarlinAttack.letterLabel>Serangan marlin</MarlinAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} was attacked by a giant marlin and was skewered by its spear-like snout. The fish escaped. -->
+  <MarlinAttack.letterText>Saat memancing, {pawn_namedef} adalah serangan {Pawn_gender?Atau: A} untuk marlin raksasa yang menusuk moncongnya dalam bentuk tombak.Ikan melarikan diri.</MarlinAttack.letterText>
+  
+  <!-- EN: Giant fish -->
+  <MarlinEscape.letterLabel>Ikan raksasa</MarlinEscape.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} saw the shadow of a massive fish beneath the water. The shadow startled {PAWN_nameDef}, causing {PAWN_objective} to lose {PAWN_possessive} catch. -->
+  <MarlinEscape.letterText>Saat memancing, {pawn_namedef} melihat bayangan ikan besar di bawah air.Shadow {Pawn_objective} takut, menyebabkan dia kehilangan penangkapan.</MarlinEscape.letterText>
+  
+  <!-- EN: Piranha attack -->
+  <PiranhaAttack.letterLabel>Serangan piraña</PiranhaAttack.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} got too close to the water and was attacked by a frenzied school of piranha!\n\nThe fish managed to escape. -->
+  <PiranhaAttack.letterText>Saat memancing, {Pawn_namedef} dia terlalu mendekati air dan sedang menyerang_gender?O: A} untuk bank Pirañas yang panik! Ikan ikan berhasil melarikan diri.</PiranhaAttack.letterText>
+  
+  <!-- EN: Piranha bite -->
+  <PiranhaBite.letterLabel>Piraña menggigit</PiranhaBite.letterLabel>
+  <!-- EN: While fishing, {PAWN_nameDef} got too close to the water and was bitten by a piranha!\n\nThe fish escaped. -->
+  <PiranhaBite.letterText>Saat memancing, {pawn_namedef} terlalu dekat dengan air dan apakah menggigit {Pawn_gender?O: A} untuk piranha! \ n \ nel ikan melarikan diri.</PiranhaBite.letterText>
+  
+  <!-- EN: Tuna escape -->
+  <TunaEscape.letterLabel>Tuna Escape</TunaEscape.letterLabel>
+  <!-- EN: While attempting to reel in a tuna, {PAWN_nameDef}'s line snapped, causing {PAWN_objective} to lose the catch. -->
+  <TunaEscape.letterText>Saat mencoba mengumpulkan tuna, garis {Pawn_namedef} pecah, menyebabkan penangkapan kalah.</TunaEscape.letterText>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: butcher creature -->
+  <ButcherCorpseFlesh.label>Makhluk pembersih</ButcherCorpseFlesh.label>
+  <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
+  <ButcherCorpseFlesh.description>Makhluk untuk mendapatkan dagingnya dengan cara yang bermanfaat.</ButcherCorpseFlesh.description>
+  <!-- EN: Butchering. -->
+  <ButcherCorpseFlesh.jobString>Menampilkan.</ButcherCorpseFlesh.jobString>
+  
+  <!-- EN: shred mechanoid or drone -->
+  <ButcherCorpseMechanoid.label>Mecanoid atau drone</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid or drone to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Bongkar mecanoid atau drone mati untuk mengekstrak komponennya.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
+  <ButcherCorpseMechanoid.jobString>Melucuti Mecanoid.</ButcherCorpseMechanoid.jobString>
+  
+  <!-- EN: smash mechanoid or drone -->
+  <SmashCorpseMechanoid.label>Hancurkan mecanoid atau drone</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid or drone with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Menghancurkan mecanoid atau drone mati menggunakan alat yang belum sempurna untuk mengekstrak bahan yang bermanfaat.</SmashCorpseMechanoid.description>
+  <!-- EN: Smashing mechanoid. -->
+  <SmashCorpseMechanoid.jobString>Menghancurkan mecanoid.</SmashCorpseMechanoid.jobString>
+  
+</LanguageData>

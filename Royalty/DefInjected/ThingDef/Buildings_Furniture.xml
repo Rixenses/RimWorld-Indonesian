@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brazier -->
+  <Brazier.label>anglo</Brazier.label>
+  <!-- EN: A bowl-shaped furnishing used to hold a fire. Will light the surroundings and create heat. -->
+  <Brazier.description>Furnitur berbentuk mangkuk di mana api dapat dipertahankan.Ini akan menerangi lingkungan dan menghasilkan panas.</Brazier.description>
+  
+  <!-- EN: darklight brazier -->
+  <DarklightBrazier.label>Gelap Brazier</DarklightBrazier.label>
+  <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
+  <DarklightBrazier.description>Seorang yang lebih kasar yang menerangi lingkungannya dengan cahaya gelap dan menghasilkan panas.Memenuhi kebutuhan sebenarnya dari seorang yang lebih kasar.</DarklightBrazier.description>
+  
+  <!-- EN: drape -->
+  <Drape.label>Cortina</Drape.label>
+  <!-- EN: A decorative sheet hanging from a vertical wooden frame. Appropriate for royal rooms. -->
+  <Drape.description>Tirai dekoratif yang menggantung dari dukungan kayu.Apopiardo untuk Kamar Royalti.</Drape.description>
+  
+  <!-- EN: grand meditation throne -->
+  <GrandThrone.label>Tahta meditasi yang bagus</GrandThrone.label>
+  <!-- EN: A massive, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+  <GrandThrone.description>Kursi yang sangat besar dan ornamen, yang dirancang untuk psyumer yang bermartabat dirasakan dan direnungkan.Pemerintahan dari Tahta adalah bentuk meditasi yang membangun psifoco.Untuk pasien dengan fokus yang bermartabat, singgasana meditasi dan kamar singgasana yang lebih mengesankan meningkatkan tingkat penguatan psifokus.</GrandThrone.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Pemilik takhta harus seseorang dengan judul nyata.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  
+  <!-- EN: meditation throne -->
+  <Throne.label>Tahta Meditasi</Throne.label>
+  <!-- EN: A large, ornate chair designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
+  <Throne.description>Kursi besar dan hiasan yang dirancang untuk dirasakan dan bermeditasi psyumer yang bermartabat.Pemerintahan di atas takhta adalah bentuk meditasi yang membangun psifoco.Untuk psi-emisor dengan fokus yang bermartabat, meditasi yang paling mengesankan dan ruang singgasana meningkatkan tingkat penguatan psifoco.</Throne.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Pemilik takhta harus seseorang dengan judul nyata.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  
+</LanguageData>

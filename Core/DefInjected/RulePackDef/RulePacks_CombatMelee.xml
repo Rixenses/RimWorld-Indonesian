@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0.5)-> [initiator_definite] [rArpaged_past] [atmaybe] [penerima_definite] di [penerima_part0_label] [Deflected_Result].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [SkillAdvmaybe] [ruckaged_past] [atmaybe] [penerima_definite] dengan [implement] [Deflected_result].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [SkillAdvmaybe] [ruckaged_past] [atmaybe] [penerima_definite] [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite], [SkillDescMelee], [RURGAGE_PAST] [penerima_definite] di [penerima_part0_label] [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite] tekan [penerima_definite] dengan [rusak_inf] dari [implement] [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite] [SkillAdvmaybe] menggunakan [implement] untuk [rusak_inf] [penerima_definite] [Deflected_Result].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>atmaybe-></li>
+    <li>atmaybe-> at</li>
+    <li>Deflected_result->, tetapi [tool_label] [Deflected] OFF [tidak berbahaya_opt]</li>
+    <li>Deflected_result->, [Deflecting] OFF [penerima_possessive] Armor [tidak berbahaya_opt]</li>
+    <li>Harmlessly_opt (p = 4)-></li>
+    <li>tidak berbahaya_opt-> [tidak berbahaya]</li>
+    <li>tanpa berbahaya-> tidak berbahaya</li>
+    <li>Tanpa berbahaya-> tidak berguna</li>
+    <li>Deflected-> Deflected</li>
+    <li>Deflected-> scraped</li>
+    <li>Deflected-> Slid</li>
+    <li>Deflected-> Grazed</li>
+    <li>dibelokkan-> terpental</li>
+    <li>Deflected-> melirik</li>
+    <li>Deflecting-> Deflecting</li>
+    <li>Deflecting-> Mengikis</li>
+    <li>Deflecting-> Sliding</li>
+    <li>Deflecting-> penggembalaan</li>
+    <li>Deflecting-> memantul</li>
+    <li>Deflecting-> melirik</li>-><Combat_Deflect.rulePack.rulesStrings>
+    <li>r_logentry (p = 0.5)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite] [Deflected_result].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [SkillAdvmaybe] ha [rusak_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [implement] [Deflected_result].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [SkillAdvmaybe] ha [rusak_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite] [SkillDescMelee], ha [ravaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite] [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite] Atacó {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} para [ruckaged_inf] [penerima_objective] con [implement] [Deflected_result].</li>
+    <li>r_logentry (p = 0.1)-> [initiator_definite] [SkillAdvmaybe] usó [implement] paragraf [ruckaged_inf] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} [Deflected_result].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>Deflected_result->, pero [tool_definite] [Deflected] [tidak berbahaya]</li>
+    <li>Deflected_result->, [Deflecting] en su armadura [tidak berbahaya_opt]</li>
+    <li>Harmlessly_opt (p = 4)-></li>
+    <li>tidak berbahaya_opt-> [tidak berbahaya]</li>
+    <li>Tanpa berbahaya-> tidak berbahaya</li>
+    <li>Tanpa berbahaya-> tidak berguna</li>
+    <li>Defleced-> menyimpang</li>
+    <li>Deflected-> le raspó</li>
+    <li>Defleced-> Dia meluncur</li>
+    <li>Defected-> menyentuhnya</li>
+    <li>Defleced-> terpental</li>
+    <li>Defleced-> Dia menggaruknya</li>
+    <li>Deflecting-> Mengalihkan</li>
+    <li>Deflecting-> Mengikis</li>
+    <li>Deflecting-> Sliding</li>
+    <li>Deflecting-> rozando</li>
+    <li>Deflecting-> rebotando</li>
+    <li>Deflecting-> merobek</li>
+  </Combat_Deflect.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0,5)-> [penerima_definite] [SkillAdvmaybe] Menggerakkan [initiator_definite] dari [RArpaged_inf] dari [Implement].</li>
+    <li>r_logentry (p = 0.5)-> [penerima_definite] [SkillAdvmaybe] Menggerakkan [initiator_definite] [rusak_inf].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>Hasil-> Tapi [penerima_definite] melompat keluar dari jalan</li>
+    <li>Hasil-> tetapi ditipu oleh feint [penerima_definite]</li>
+    <li>Hasil-> Tapi serangan itu secara cerdik dihindari</li>-><Combat_Dodge.rulePack.rulesStrings>
+    <li>r_lotentry (p = 0,5)-> [penerima_definite] [SkillAdvmaybe] dicegah [initiator_definite] menjadi [racaged_inf] dengan [implementasi].</li>
+    <li>r_lotentry (p = 0,5)-> [penerima_definite] [SkillAdvmaybe] dicegah [initiator_definite] menjadi [racaged_inf].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>Hasil-> Tapi [penerima_definite] melompat keluar dari jalan</li>
+    <li>Hasil-> tetapi jatuh ke dalam penipuan feint {ganti: dari [penerima_definite];"of & lt; color =#d09b61ff> the"-"& lt; color =#d09b61ff> of"}</li>
+    <li>Hasil-> Tapi serangan itu jelas dihindari</li>
+  </Combat_Dodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 1.0)-> [initiator_definite] [ruckaged_past] [penerima_definite] di [penerima_part0_label].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [rArpaged_past] [penerima_definite] di [penerima_part0_label] [strikeadv].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [rArpaged_past] [penerima_definite] di [penerima_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite], [SkillDescMelee], [RURGAGE_PAST] [penerima_definite] di [penerima_part0_label].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite], [SkilldescMelee], [strikeAdv] [rArpaged_past] [penerima_definite] di [penerima_part0_label].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [hancur_past] [penerima_definite] [dihancurkan_targets].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [hancur_past] [penerima_definite] [dihancurkan_targets] [dihancurkan_suffix].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] [dihancurkan_past] [penerima_definite ]'s [dihancurkan_targets] dengan [implementasi].</li>
+    <li>r_logentry (p = 1, penerima_part_count == 0)-> [initiator_definite] [ruckaged_past] [penerima_definite] dengan [implement].</li>
+    <li>r_logentry (p = 0.4, penerima_part_count == 0)-> [initiator_definite] [skillAdv] [rArpaged_past] [penerima_definite] dengan [implement].</li>
+    <li>Hasil (p = 1, penerima_part_damaged_count == 0)-> [dihancurkan_present] [penerima_possessive] [dihancurkan_targets]</li>
+    <li>Hasil (p = 1, penerima_part_destroyed_count == 0)-> [RURGADE_PRESENT] [penerima_possessive] [RURGADE_TARGETS]</li>
+    <li>Hasil (p = 1)-> [dihancurkan_present] [penerima_possessive] [dihancurkan_targets] dan [rusak_present] [penerima_possessive] [racaged_targets]</li>
+    <li>Action (p = 1.0)-> [initiator_definite] [rArpaged_past] [penerima_definite] dengan [implement]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] [rArpaged_past] [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite], [SkillDescMelee], [RURGAGE_PAST] [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] tekan [penerima_definite] dengan [racaged_inf] dari [implement]</li>
+    <li>Action (p = 0.3)-> [initiator_definite], [SkillDescMelee], tekan [penerima_definite] dengan [RAVAGED_INF] dari [Implement]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] menggunakan [implement] untuk [ruckaged_inf] [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] menggunakan [implement] [skillAdv] untuk [ruckaged_inf] [penerima_definite]</li>-><Combat_Hit.rulePack.rulesStrings>
+    <li>r_logentry (p = 1.0)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite] [strikeadv].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite], [flavortext_consequence].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite], [SkilldescMelee], ha [rusak_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite], [skilldescmelee], ha [rusak_past] [strikeadv] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} en [penerima_part0_definite].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"}.</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} [dihancurkan_suffix].</li>
+    <li>r_logentry (p = 0.4)-> [initiator_definite] ha [hancur_past] [dihancurkan_targetsdef] {ganti: de [penerima_definite];"de & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> del"} con [implement].</li>
+    <li>r_logentry (p = 1, penerima_part_count == 0)-> [initiator_definite] ha [rusak_past] {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [implement].</li>
+    <li>r_logentry (p = 0.4, penerima_part_count == 0)-> [initiator_definite] [skillAdv] ha [rArpaged_past] {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [implement].</li>
+    <li>Hasil (p = 1, penerima_part_damaged_count == 0)-> [dihancurkan_present] [penerima_possessive] [dihancurkan_targets]</li>
+    <li>Hasil (p = 1, penerima_part_destroyed_count == 0)-> [RURGADE_PRESENT] [penerima_possessive] [RURGADE_TARGETS]</li>
+    <li>Hasil (p = 1)-> [dihancurkan_present] con [penerima_possessive] [dihancurkan_targets] y [rusak_present] [penerima_possessive] [rusak_targets]</li>
+    <li>Action (p = 1.0)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [implement]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}</li>
+    <li>Action (p = 0.3)-> [initiator_definite], [SkillDescMelee], ha [ruckaged_past] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}</li>
+    <li>action (p = 0.3)-> [initiator_definite] golpeó {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} lOgrando [rusak_inf] [penerima_objective] con [implementasikan]</li>
+    <li>Action (p = 0.3)-> [initiator_definite], [SkillDescMelee], Golpeó {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} lOgrando [rusak_inf] [penerima_objective] con [implementasikan]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] usó [implement] paragra [ruckaged_inf] a [penerima_definite]</li>
+    <li>Action (p = 0.3)-> [initiator_definite] usó [implement] [skilladv] para [ruckaged_inf] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}</li>
+  </Combat_Hit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0.3)-> [penerima_definite] menghindari [initiator_definite] [weapon_label] [rusak_inf].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] melewatkan [penerima_definite] dengan [rusak_inf] dari [implement].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [failType] Saat mencoba [racaged_inf] [penerima_definite] dengan [implement].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [failType] Saat mencoba untuk [rusak_inf] [penerima_definite].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] mencoba [skillAdvmaybe] untuk [rusak_inf] [penerima_definite], tetapi [failType].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>FailType (p = 5)-> terlewatkan</li>
+    <li>FailType-> tersandung</li>
+    <li>FailType-> tersandung</li>
+    <li>FailType-> gagal</li>
+    <li>FailType-> Floundered</li>
+    <li>Hasil (p = 4)-> tetapi terlewatkan</li>
+    <li>Hasil-> Tapi hanya tekan udara</li>
+    <li>Hasil-> Tapi ayunannya melebar</li>
+    <li>Hasil-> tetapi tersandung pada detik terakhir</li>
+    <li>Hasil (inisiator_flesh! = mechanoid)-> tetapi ragu-ragu pada detik terakhir</li>-><Combat_Miss.rulePack.rulesStrings>
+    <li>r_logentry (p = 0.3)-> [penerima_definite] Mencegah [weapon_definite] dari [initiator_definite] dapat [rusak_inf].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] falló {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} y tidak ada pudo [rusak_inf] [penerima_objective] con [implement].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [failType] mientras intentaba [rusak_inf] {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con [implement].</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] [failType] mientras intentaba [rusak_inf] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (p = 0.3)-> [initiator_definite] intentó [ruckaged_inf] [skilladvmaybe] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}, pero [failType].</li>
+    <li>skilladvmaybe-></li>
+    <li>SkillAdvmaybe-> [SkillAdv]</li>
+    <li>FailType (p = 5)-> jatuh</li>
+    <li>FailType-> ragu-ragu</li>
+    <li>FailType-> tersandung</li>
+    <li>FailType-> terhuyung-huyung</li>
+    <li>FailType-> Dia tergelincir</li>
+    <li>Hasil (p = 4)-> tetapi gagal</li>
+    <li>hasil-> tetapi hanya dewa di aire</li>
+    <li>Hasil-> Tapi penyeimbangan diperpanjang</li>
+    <li>Hasil-> tetapi tersandung di detik terakhir</li>
+    <li>Hasil (initiator_flesh! = Mechanoid)-> Tapi dia ragu pada saat terakhir</li>
+  </Combat_Miss.rulePack.rulesStrings>
+  
+</LanguageData>

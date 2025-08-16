@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>proyektil antimateri</Bullet_Shell_AntigrainWarhead.label>
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>Proyektil PEM</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>Proyektil Firewall</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>Proyektil yang sangat eksplosif</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>proyektil pembakar</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: smoke shell -->
+  <Bullet_Shell_Smoke.label>proyektil asap</Bullet_Shell_Smoke.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>proyektil antimateri</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>Kepala ultra-teknis yang digerakkan oleh biji-bijian antimateri.Biasanya digunakan oleh pesawat ruang angkasa atau perang mundobrillant, menciptakan ledakan besar dan menyebabkan kebakaran di sekitar target.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>Proyektil PEM</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>Proyektil yang penuh dengan baterai dan antena, untuk menghasilkan pulsa emp saat dihentikan.Pulsa elektromagnetik untuk sementara menonaktifkan perangkat listrik dan mecanoids.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>Proyektil Firewall</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>Proyektil bertekanan yang penuh dengan busa pemadam api.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>Proyektil yang sangat eksplosif</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>Proyektil yang penuh dengan bahan peledak kekuatan besar.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>proyektil pembakar</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>Proyektil yang penuh dengan gel yang mudah terbakar dan beban peledak kecil.Itu menyebabkan api saat berhenti.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_Incendiary.description>
+  
+  <!-- EN: smoke shell -->
+  <Shell_Smoke.label>proyektil asap</Shell_Smoke.label>
+  <!-- EN: A shell that generates a cloud of smoke when detonated, obscuring incoming shots and preventing turrets from locking on. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Smoke.description>Sebuah proyektil yang menghasilkan awan asap dengan meledak, gelap area untuk tembakan dan mencegah menara untuk mengarah ke dalamnya.Ini dapat dipicu dari mortir atau dipasang sebagai perangkap.Itu meledak saat rusak.</Shell_Smoke.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anomaly research -->
+  <AllowAnomalyResearch.label>Penelitian Anomali</AllowAnomalyResearch.label>
+  <!-- EN: Allow books with information that advances anomaly research. -->
+  <AllowAnomalyResearch.description>Ini memungkinkan buku dengan informasi yang membantu dalam penelitian anomali.</AllowAnomalyResearch.description>
+  
+  <!-- EN: allow unnatural corpses -->
+  <AllowCorpsesUnnatural.label>Mayat Antinatural</AllowCorpsesUnnatural.label>
+  <!-- EN: Allow strange and unnatural dead bodies. -->
+  <AllowCorpsesUnnatural.description>Ini memungkinkan mayat yang aneh dan tidak alami.</AllowCorpsesUnnatural.description>
+  
+</LanguageData>

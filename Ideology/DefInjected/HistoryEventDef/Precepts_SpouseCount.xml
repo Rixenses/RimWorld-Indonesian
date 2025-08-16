@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: married to five or more spouses -->
+  <GotMarried_SpouseCount_FiveOrMore.label>menikahi lima atau lebih istri</GotMarried_SpouseCount_FiveOrMore.label>
+  
+  <!-- EN: married to four or more spouses -->
+  <GotMarried_SpouseCount_Four.label>menikahi empat istri atau lebih</GotMarried_SpouseCount_Four.label>
+
+  <!-- EN: married to three or more spouses -->
+  <GotMarried_SpouseCount_Three.label>menikahi tiga atau lebih istri</GotMarried_SpouseCount_Three.label>
+
+</LanguageData>

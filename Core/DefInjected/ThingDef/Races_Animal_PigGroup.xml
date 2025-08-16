@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>Chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>Hewan pengerat kecil tapi gesit.Kulitnya lebih lembut dari pada dasarnya apa pun di alam semesta, menjadikannya artikel komersial yang sangat berharga.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>cakar kiri</Chinchilla.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.left_claw.labelNoLocation>cakar</Chinchilla.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>Cakar kanan</Chinchilla.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Chinchilla.tools.right_claw.labelNoLocation>cakar</Chinchilla.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>kepala</Chinchilla.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>rusa</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Herbivora berukuran sedang yang lebih suka hidup dalam kawanan di hutan campuran dan dataran.Rusa itu sangat cepat.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>Daging Venado</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>Kiri Hoove</Deer.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.left_hoof.labelNoLocation>menerjang</Deer.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>Hoove yang benar</Deer.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Deer.tools.right_hoof.labelNoLocation>menerjang</Deer.tools.right_hoof.labelNoLocation>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>gigi</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>kepala</Deer.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>Gazelle</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>Antílope kecil dan sangat cepat yang dikenal karena lompatannya yang sangat panjang.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>Kiri Hoove</Gazelle.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.left_hoof.labelNoLocation>menerjang</Gazelle.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>Hoove yang benar</Gazelle.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Gazelle.tools.right_hoof.labelNoLocation>menerjang</Gazelle.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>kepala</Gazelle.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>ibex</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Leluhur liar kambing domestik.Kambing gunung tinggal di wilayah marjinal di mana sebagian besar kijang tidak bisa bertahan hidup, makan lumut dan beberapa tanaman di pegunungan.Mereka terkenal karena lompatan batu gesit mereka di batu di tebing yang berbahaya - dan karena cornadas mereka yang kejam.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>Kiri Hoove</Ibex.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.left_hoof.labelNoLocation>menerjang</Ibex.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>Hoove yang benar</Ibex.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Ibex.tools.right_hoof.labelNoLocation>menerjang</Ibex.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>kepala</Ibex.tools.head.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>babi</Pig.label>
+  <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
+  <Pig.description>Babi itu adalah salah satu hewan pertama yang dijinakkan oleh manusia.Ini biasanya dibesarkan untuk konsumsi daging, dan mudah diberi makan karena diet omnivora.Meskipun babi pada dasarnya egois, mereka dapat dilatih dalam tugas -tugas kompleks.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>Daging babi</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>kepala</Pig.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>babi hutan</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Omnivora berbulu ini turun dari babi liar dan telah berevolusi untuk hidup di alam.Sayangnya, terlalu tidak disiplin untuk dilatih dalam tugas yang lebih kompleks.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>gading</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>kepala</WildBoar.tools.head.label>
+  
+</LanguageData>

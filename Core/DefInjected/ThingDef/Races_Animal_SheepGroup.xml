@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America. -->
+  <Alpaca.description>Ungulate berukuran sedang yang terkait erat dengan nyala api, alpaka biasanya dinaikkan oleh wolnya yang sangat lembut dan isolasi.Alpaka juga telah digunakan sebagai hewan kargo.Diketahui bahwa mereka mengangkut beban di jalur curam pegunungan Amerika Selatan kuno.</Alpaca.description>
+  <!-- EN: left hoof -->
+  <Alpaca.tools.left_hoof.label>Kiri Hoove</Alpaca.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.left_hoof.labelNoLocation>cakar</Alpaca.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Alpaca.tools.right_hoof.label>Hoove yang benar</Alpaca.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Alpaca.tools.right_hoof.labelNoLocation>cakar</Alpaca.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Alpaca.tools.head.label>kepala</Alpaca.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>Capybara</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Hewan pengerat alami terbesar, Capibara sangat baik disesuaikan dengan atmosfer hutan tropis yang hangat dan lembab.</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>cakar kiri</Capybara.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.left_claw.labelNoLocation>cakar</Capybara.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>Cakar kanan</Capybara.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Capybara.tools.right_claw.labelNoLocation>cakar</Capybara.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>kepala</Capybara.tools.head.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>Megaprezoso</Megasloth.label>
+  <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
+  <Megasloth.description>Herbivora raksasa dan kesepian dengan dua cakar raksasa untuk melindungi diri dari ancaman.Punah untuk waktu yang lama setelah dimusnahkan oleh penduduk asli benua Amerika di bumi, megapezoso dihidupkan kembali menggunakan kloning lanjutan dan kehamilan buatan.Bulu tebalnya sangat kuat dan isolasi, dan itu adalah kulit besar untuk pakaian cuaca dingin.Sangat damai jika Anda pergi sendiri, tetapi akan menghancurkan siapa pun yang mengganggunya dengan cakar besar mereka.</Megasloth.description>
+  <!-- EN: left claw -->
+  <Megasloth.tools.left_claw.label>cakar kiri</Megasloth.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.left_claw.labelNoLocation>cakar</Megasloth.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Megasloth.tools.right_claw.label>Cakar kanan</Megasloth.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Megasloth.tools.right_claw.labelNoLocation>cakar</Megasloth.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Megasloth.tools.head.label>kepala</Megasloth.tools.head.label>
+  
+  <!-- EN: sheep -->
+  <Sheep.label>domba</Sheep.label>
+  <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
+  <Sheep.description>Ternak UFO adalah karena sebagian besar dunia yang dihuni, meskipun baru -baru ini diperkenalkan di dunia yang berbatasan.Domba domestik adalah herbivora yang relatif kecil, biasanya dengan wol kekuningan dan tanduk berukuran sedang.</Sheep.description>
+  <!-- EN: head -->
+  <Sheep.tools.head.label>kepala</Sheep.tools.head.label>
+  <!-- EN: left hoof -->
+  <Sheep.tools.left_hoof.label>Kiri Hoove</Sheep.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.left_hoof.labelNoLocation>menerjang</Sheep.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Sheep.tools.right_hoof.label>Hoove yang benar</Sheep.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Sheep.tools.right_hoof.labelNoLocation>menerjang</Sheep.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

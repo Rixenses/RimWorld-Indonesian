@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: head -->
+  <FleshbeastHead.label>kepala</FleshbeastHead.label>
+  
+  <!-- EN: tentacle -->
+  <FleshbeastLeg.label>tentakel</FleshbeastLeg.label>
+  
+  <!-- EN: spike -->
+  <FleshbeastSpike.label>duri</FleshbeastSpike.label>
+  
+  <!-- EN: body -->
+  <MovingBodyFleshbeast.label>tubuh</MovingBodyFleshbeast.label>
+  
+  <!-- EN: tentacle -->
+  <Tentacle.label>tentakel</Tentacle.label>
+  
+</LanguageData>

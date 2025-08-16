@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> \ nin untuk menguduskan membuat [titleheir_namefull] pewaris judul [titleHolder_namefull], Anda harus membangun monumen.[MonumentRequiredResourcesmarketValue_Money]): \ n \ n [MonumentRequiredResources] \ n \ n -failing untuk menyelesaikan monumen dalam waktu 20 hari dianggap mencemarkan ritual.Hubungan Anda dengan [asker_factionname] akan turun 25, dan ahli waris tidak akan diubah. \ N \ nif Monumen dihancurkan di dalam [KeepMonumentticks_duration] beberapa hari setelah penyelesaian, hubungan Anda dengan [asker_factionname] akan jatuh oleh [GoodwillChangeifMonumentroyed].</li>-><ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> \ ncon Tujuan Kudapan Penunjukan [TitleHeir_Namefulull] sebagai pewaris [titleHolder_namefulull], Anda harus membangun monumen. [MonumentreredResourcesmarketValue_money]): \ n \ n [MonumentreredResources] \ n \ nfracasar dalam menyelesaikan monumen dalam 20 hari ke depan dianggap menodai ritual.Hubungan Anda dengan [asker_factioname] akan menurun di 25, dan penunjukan ahli waris tidak akan terjadi. [GoodwillChangeifmonumentdestroyed].</li>
+  </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [TitleHeir_Namedef] adalah warisan</li>-><ChangeRoyalHeir.questNameRules.rulesStrings>
+    <li>QuestName-> Succession to [TitleHeir_Namedef]</li>
+  </ChangeRoyalHeir.questNameRules.rulesStrings>
+  <!-- EN: Time left: {0} -->
+  <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Sisa waktu: {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
+  <!-- EN: [titleHolder_nameDef]'s heir change failed -->
+  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>Perubahan pewaris ke [titleHolder_namedef] tidak terjadi</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
+  <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
+  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[Asker_namedef] merasa terhina karena Anda berjanji untuk menghormati garis keturunan baru, tetapi Anda tidak dapat membangun monumen pada waktunya.</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
+  <!-- EN: Title holder died: {SUBJECT_definite} -->
+  <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>Pemegangnya telah mati: {subjek_definite}</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
+  <!-- EN: {SUBJECT_definite}, whose heir was in the process of being changed, has died. -->
+  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>{Subjek_Definite}, yang pewarisnya sedang dalam proses ditunjuk, telah mati.</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
+  <!-- EN: Designated heir died: {SUBJECT_definite} -->
+  <ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>Pewaris yang ditunjuk mati: {subjek_definite}</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
+  <!-- EN: {SUBJECT_definite}, who was supposed to become heir to a title, has died. -->
+  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>{Subject_Definite}, yang akan menjadi pewaris judul, telah meninggal.</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
+  <!-- EN: Monument destroyed -->
+  <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>Monumen yang hancur</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
+  <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but allowed the monument to be ruined soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
+  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>[Asker_namedef] merasa terhina karena Anda berjanji untuk menghormati garis keturunan baru, tetapi Anda membiarkan monumen itu dinodai tak lama setelah menyelesaikannya.</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
+  <!-- EN: New heir: [titleHeir_nameDef] -->
+  <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>Pewaris Baru: [TitleHeir_Namedef]</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
+  <!-- EN: [titleHeir_nameDef] is the new heir of [titleHolder_nameDef]. -->
+  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[Titleheir_namedef] adalah pewaris baru [titleHolder_namedef].</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>Jangan menghancurkan monumen di {0}</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>Jangan menghancurkan monumen di {0}</ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>
+  <!-- EN: Keep monument {0} -->
+  <ChangeRoyalHeir.KeepMonument.slateRef>Simpan monumen {0}</ChangeRoyalHeir.KeepMonument.slateRef>
+  
+</LanguageData>

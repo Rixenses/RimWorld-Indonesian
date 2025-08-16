@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>air ketuban</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>Kotoran binatang</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>abu</Filth_Ash.label>
+  
+  <!-- EN: blast mark -->
+  <Filth_BlastMark.label>Merek ledakan</Filth_BlastMark.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>sangre</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>Darah Serangga</Filth_BloodInsect.label>
+  
+  <!-- EN: blood smear -->
+  <Filth_BloodSmear.label>Noda darah</Filth_BloodSmear.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>mayat bilis</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>kotoran</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>busa firewall</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>Bahan bakar genangan air</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Bahan bakar kimia yang mudah terbakar.</Filth_Fuel.description>
+  
+  <!-- EN: gestation fluid -->
+  <Filth_GestationFluid.label>Cairan kehamilan</Filth_GestationFluid.label>
+  
+  <!-- EN: hair -->
+  <Filth_Hair.label>untuk</Filth_Hair.label>
+  
+  <!-- EN: loose ground -->
+  <Filth_LooseGround.label>Tanah longgar</Filth_LooseGround.label>
+  
+  <!-- EN: machine bits -->
+  <Filth_MachineBits.label>Fragmen mesin</Filth_MachineBits.label>
+  
+  <!-- EN: ragged uniform -->
+  <Filth_MoldyUniform.label>seragam telanjang</Filth_MoldyUniform.label>
+  
+  <!-- EN: oil smear -->
+  <Filth_OilSmear.label>Noda minyak</Filth_OilSmear.label>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>puing</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>puing batu</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>arena</Filth_Sand.label>
+  
+  <!-- EN: scattered documents -->
+  <Filth_ScatteredDocuments.label>dokumen yang tersebar</Filth_ScatteredDocuments.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>Baba</Filth_Slime.label>
+  
+  <!-- EN: spent acid -->
+  <Filth_SpentAcid.label>asam bekas</Filth_SpentAcid.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>limbah</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>muntah</Filth_Vomit.label>
+  
+  <!-- EN: water puddle -->
+  <Filth_Water.label>Genangan air</Filth_Water.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>kantong pasir yang tersebar</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>SCORA tetap ada</SlagRubble.label>
+  
+</LanguageData>

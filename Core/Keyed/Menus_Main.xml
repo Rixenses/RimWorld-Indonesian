@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <Tutorial>Tutorial</Tutorial>
+  <NewColony>Koloni baru</NewColony>
+  <BackToGame>Kembali ke Game</BackToGame>
+  <ReviewScenario>Tinjau skenario</ReviewScenario>
+  <Save>Toko</Save>
+  <LoadGame>Cocok dengan game</LoadGame>
+  <Options>Opsi</Options>
+  <Mod>Mod</Mod>
+  <Mods>Mod</Mods>
+  <SaveTranslationReport>Simpan Laporan Terjemahan</SaveTranslationReport>
+  <GeneratingTranslationReport>Menghasilkan laporan terjemahan</GeneratingTranslationReport>
+  <CleanupTranslationFiles>Bersihkan berkas terjemahan</CleanupTranslationFiles>
+  <TranslationFilesTKeyUpdate>Perbarui berkas terjemahan (TKey)</TranslationFilesTKeyUpdate>
+  <CleaningTranslationFiles>Membersihkan berkas terjemahan</CleaningTranslationFiles>
+  <DevQuickTest>Uji cepat pengembang</DevQuickTest>
+  <Credits>Kredit</Credits>
+  <QuitToMainMenu>Kembali ke menu utama</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Simpan dan Keluar ke Menu</SaveAndQuitToMainMenu>
+  <QuitToOS>Keluar ke OS</QuitToOS>
+  <SaveAndQuitToOS>Simpan dan Keluar ke OS</SaveAndQuitToOS>
+  <FictionPrimer>Pengantar fiksi</FictionPrimer>
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
+  <Forums>Forum</Forums>
+  <OfficialWiki>Wiki resmi</OfficialWiki>
+  <TynansTwitter>Twitter Tynan</TynansTwitter>
+  <TynansDesignBook>Buku desain Tynan</TynansDesignBook>
+  <HelpTranslate>Bantu menerjemahkan RimWorld</HelpTranslate>
+  <BuySoundtrack>Beli soundtrack</BuySoundtrack>
+  <CreateWorld>Membuat dunia</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <TranslationThanks>Semua terjemahan Rimworld dibuat oleh penggemar.Terjemahan kipas ini dibuat oleh sukarelawan hebat berikut: \ n \ n {0}</TranslationThanks>
+  <TranslationHowToContribute>Kamu juga bisa berkontribusi. Klik di bawah untuk mempelajari lebih lanjut (peramban web akan terbuka).</TranslationHowToContribute>
+  <LearnMore>Pelajari lebih lanjut</LearnMore>
+
+  <!-- Main menu dev build -->
+  <DevBuildWarning>Peringatan: Ini adalah build pengembangan yang tidak stabil. Ini berarti kami menjalankan eksperimen desain dan melakukan pengembangan teknis.\n\nBeberapa hal akan sengaja tidak seimbang untuk sementara. Ini adalah metode desain gim klasik di mana kami sengaja melampaui batas perubahan keseimbangan untuk lebih memahami batas-batasnya. Lalu kami dapat menggunakan informasi itu untuk menentukan titik keseimbangan akhir.\n\nAkan ada bug, termasuk yang merusak gim. Kompatibilitas simpanan bisa rusak kapan saja.\n\nJika kamu setuju dengan semua ini, terima kasih sudah menguji! Jika tidak ingin menjadi bagian dari eksperimen kami, silakan mainkan versi stabil terbaru.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <ReviewWorld>Tinjau dunia</ReviewWorld>
+  <WorldGenerate>Memproduksi dunia</WorldGenerate>
+  <WorldSaveAndFinish>Simpan dan selesaikan</WorldSaveAndFinish>
+  <ResetFactions>Atur ulang faksi</ResetFactions>
+  <PlanetCoverage>Cakupan permukaan</PlanetCoverage>
+  <PlanetRainfall>Curah hujan rata-rata</PlanetRainfall>
+  <PlanetTemperature>Suhu rata-rata</PlanetTemperature>
+  <PlanetPopulation>Populasi</PlanetPopulation>
+  <PlanetRainfall_Low>Rendah</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Tinggi</PlanetRainfall_High>
+  <PlanetTemperature_Low>Rendah</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Tinggi</PlanetTemperature_High>
+  <PlanetPopulation_Low>Jarang</PlanetPopulation_Low>
+  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
+  <PlanetPopulation_High>Padat</PlanetPopulation_High>
+  <WorldSeed>Benih</WorldSeed>
+  <RandomizeSeed>Acak benih</RandomizeSeed>
+  <PlanetCoverageTip>Planet selalu berdiameter sama, tetapi karena jauh lebih besar daripada yang dibutuhkan untuk bermain, kami tidak menghasilkan seluruh permukaan karena dapat memakan waktu sangat lama. Ini adalah persentase permukaan yang ingin kamu hasilkan.</PlanetCoverageTip>
+  <WorldFactionsTab>Faksi</WorldFactionsTab>
+  <AdvancedSettings>Pengaturan lanjutan</AdvancedSettings>
+
+  <!-- Select world -->
+  <SelectWorld>Pilih dunia</SelectWorld>
+  <WorldChooseButton>Pilih</WorldChooseButton>
+  <NoWorldsFilesFound>Tidak ditemukan berkas dunia. Buat dunia terlebih dahulu.</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <BuildNowAvailable>Versi {0} sekarang tersedia. Cek ludeon.com untuk informasi lebih lanjut.</BuildNowAvailable>
+  <BuildUpToDate>Versi sudah terbaru.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Galat saat mengambil info versi: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Memuat info versi...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <GenerateWorld>Memproduksi dunia</GenerateWorld>
+
+  <!-- Mods config -->
+  <OpenSteamWorkshop>Buka Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Dapatkan mod dari forum</GetModsFromForum>
+  <OpenModsDataFolder>Buka folder data mod</OpenModsDataFolder>
+  <ShowModsDataLocation>Tampilkan lokasi data mod</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>Yakin ingin menonaktifkan mod inti (Core)? Gim tidak akan berfungsi sama sekali kecuali kamu punya mod lain yang menggantikan seluruh fungsionalitas inti.\n\nIngat, mod lain dapat menimpa defs di mod inti dengan menggunakan defName yang sama.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Yakin ingin menghapus semua konten untuk {0}?</ConfirmDeleteMod>
+  <ResolveModOrder>Urutkan mod otomatis</ResolveModOrder>
+  <SaveModChanges>Simpan dan terapkan perubahan</SaveModChanges>
+  <DiscardModChanges>Perubahan mod belum disimpan. Yakin ingin lanjut?</DiscardModChanges>
+  <ModReorderConflict_MustLoadAfter>Tidak dapat memindahkan {0}: Harus dimuat setelah {1}.</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadBefore>Tidak dapat memindahkan {0}: Harus dimuat sebelum {1}.</ModReorderConflict_MustLoadBefore>
+  <Unsubscribe>Berhenti berlangganan</Unsubscribe>
+  <ConfirmUnsubscribe>Yakin ingin berhenti berlangganan?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>Yakin ingin berhenti berlangganan dari {0}?</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFromMultiple>Yakin ingin berhenti berlangganan dari:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <Author>Penulis</Author>
+  <Enabled>Diaktifkan</Enabled>
+  <Disabled>Dinonaktifkan</Disabled>
+  <Enable>Aktifkan</Enable>
+  <Disable>Nonaktifkan</Disable>
+  <GetMods>Dapatkan mod dari...</GetMods>
+  <UnsubscribeMultiple>Berhenti langganan dari...</UnsubscribeMultiple>
+  <SaveLoadList>Simpan / Muat ...</SaveLoadList>
+  <SaveModList>Simpan daftar mod</SaveModList>
+  <LoadModList>Muat register mode</LoadModList>
+  <AddedModsList>Mod yang ditambahkan</AddedModsList>
+  <MissingModsList>Mode yang hilang</MissingModsList>
+  <SharedModsList>Mode timbal balik</SharedModsList>
+  <ModWebsite>Situs web</ModWebsite>
+  <ModFolder>Buka folder</ModFolder>
+  <ModOptions>Opsi mod</ModOptions>
+  <FromWorkshop>Bengkel</FromWorkshop>
+  <FromForum>Forum</FromForum>
+  <MoreActions>Lanjutan...</MoreActions>
+  <AllSelectedMods>Semua mode yang dipilih</AllSelectedMods>
+  <AllDisabledMods>Semua mod dinonaktifkan</AllDisabledMods>
+  <AllIncompatibleMods>Semua mod tidak kompatibel</AllIncompatibleMods>
+  <WorkshopPage>Halaman Workshop</WorkshopPage>
+  <UploadToSteamWorkshop>Unggah ke Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Perbarui di Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Pengunggahan sedang berlangsung.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Pengiriman ke Workshop gagal.\n\nAlasan: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Berhasil mengunggah {0}.</WorkshopUploadSucceeded>
+  <Downloading>Mengunduh</Downloading>
+  <WorkshopId>Lokakarya ID</WorkshopId>
+  <ModDisplayFulfilledRequirements>Tampilkan persyaratan yang terpenuhi</ModDisplayFulfilledRequirements>
+  <ModClickToSelect>Klik untuk memilih.</ModClickToSelect>
+  <ModClickToGoToWebsite>Klik untuk pergi ke situs web.</ModClickToGoToWebsite>
+  <Source>Sumber</Source>
+  <ModTargetVersion>Versi gym</ModTargetVersion>
+  <ModVersion>Ayat mod</ModVersion>
+  <ModPackageId>PENGENAL</ModPackageId>
+  <ModMustLoadBefore>Harus dimuat sebelum: {0}.</ModMustLoadBefore>
+  <ModMustLoadAfter>Harus dimuat setelah: {0}.</ModMustLoadAfter>
+  <ModDependsOn>Tergantung pada: {0}</ModDependsOn>
+  <ModIncompatibleWith>Tidak kompatibel dengan: {0}</ModIncompatibleWith>
+  <ModIncompatibleWithTip>Mod ini tidak kompatibel dengan: {0}.</ModIncompatibleWithTip>
+  <ModOrderingWarning>Mod ini dimuat dalam urutan yang salah relatif terhadap mod lain. Gunakan tombol 'urutkan otomatis', atau urutkan manual.</ModOrderingWarning>
+  <ModWithSameIdAlreadyActive>Mode lain yang aktif dalam ID yang sama: {0}.</ModWithSameIdAlreadyActive>
+  <ModCyclicDependency>Terdapat siklus ketergantungan mod yang dimulai dari {0}.</ModCyclicDependency>
+  <ModUnsatisfiedDependency>Ini membutuhkan mod berikut agar berfungsi: {0}.</ModUnsatisfiedDependency>
+  <ModNotMadeForThisVersion>Mode ini tidak dibuat untuk versi RimWorld ini dan mungkin tidak berfungsi dengan baik.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersionShort>Mode ini tidak dibuat untuk versi RimWorld ini.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersion_Newer>Mode ini dibuat untuk versi RimWorld yang lebih baru, dan kemungkinan itu tidak akan berfungsi dengan baik.</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>Mod memerlukan informasi versi yang didukung dengan format yang benar di berkas "About.xml". Contoh: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion> sudah usang. Periksa log untuk info lebih lanjut.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedPackageId>Mod memerlukan packageId yang unik dan terformat dengan benar di "About.xml". Harus memenuhi:\n\n  - Hanya karakter alfanumerik dan titik.\n  - Tanpa spasi.\n  - Minimal satu titik.\n  - Tidak ada titik ganda berurutan, atau diawali/diakhiri titik.\n  - 60 karakter atau kurang.\n  - Tidak boleh memuat kata "Ludeon".\n\nContoh:\n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId></MessageModNeedsWellFormattedPackageId>
+  <ModHadLoadFolderIssues>Ada masalah di "LoadFolders.xml" yang harus kamu selesaikan sebelum mengunggah mod ini.</ModHadLoadFolderIssues>
+  <ModLoadFolderDoesntExist>Folder {0} yang ditentukan untuk versi {1} tidak ada.</ModLoadFolderDoesntExist>
+  <ModLoadFolderMalformedVersion>String versi salah format "{0}". Format yang benar adalah Major.Minor (mis. 1.1)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderListEmpty>Daftar Folder Folder untuk Versi {0}.</ModLoadFolderListEmpty>
+  <ModLoadFolderRepeatingFolder>Versi {0} mencantumkan folder yang sama lebih dari sekali: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderOutOfOrder>Urutan versi tidak valid: {0} harus muncul sebelum {1}.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrderDefault>Urutan versi tidak valid: "default" harus didefinisikan pertama.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderDefaultDeprecated>Penggunaan "default" di folder muat sudah usang. Harap definisikan folder untuk tiap versi menggunakan tag &lt;v...>.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versi {0} didefinisikan di folder muat, tetapi tidak tercantum di 'supportedVersions' pada About.xml mod.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <DragToReorder>Seret untuk mengurutkan</DragToReorder>
+
+  <!-- Select scenario -->
+  <ChooseScenario>Pilih skenario</ChooseScenario>
+  <ScenariosCustom>Kustom</ScenariosCustom>
+  <ScenariosSteamWorkshop>Lokakarya Uap</ScenariosSteamWorkshop>
+  <ScenarioEditor>Editor skenario</ScenarioEditor>
+  <Delete>Senang</Delete>
+  
+  <!-- Scenario editor -->
+  <Seed>benih</Seed>
+  <Load>Bugar</Load>
+  <EditMode>Edit Mode</EditMode>
+  <Summary>Ringkasan</Summary>
+  <AddPart>Tambah bagian</AddPart>
+  <TextFieldsMustBeFilled>Semua kolom teks harus diisi.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Yakin ingin mengunggah ini ke Steam Workshop?\n\nKamu harus setuju dengan ketentuan layanan Steam Workshop. Ketentuan lengkap di:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Jelas kamu hanya boleh mengunggah konten yang kamu buat sendiri.\n\nApakah kamu pembuat konten ini?</ConfirmContentAuthor>
+  <Incompatible>Tidak kompatibel</Incompatible>
+  <TagAsTranslation>Tandai sebagai terjemahan</TagAsTranslation>
+  <TooMany>Terlalu banyak (maks {0}):</TooMany>
+  <CanBeUpdatedOnWorkshop>Dapat diperbarui di Workshop, karena kamu adalah penulisnya.</CanBeUpdatedOnWorkshop>
+  <ScenarioChangedSavePrompt>Skenario ini telah diubah.\n\nSimpan sebelum melanjutkan?</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <ChooseAIStoryteller>Pilih pendongeng</ChooseAIStoryteller>
+  <HowStorytellersWork>AI Pencerita membuat peristiwa seperti serangan bajak laut, jatuhan sumber daya, atau serangan hewan. Pilihannya akan memengaruhi cerita kolonimu. Kamu bisa mengubah pengaturan ini kapan saja.</HowStorytellersWork>
+  <MustChooseDifficulty>Silakan pilih tingkat kesulitan.</MustChooseDifficulty>
+  <Difficulty>Kesulitan</Difficulty>
+  <CommitmentMode>Mode komitmen</CommitmentMode>
+  <ReloadAnytimeMode>Mode muat ulang kapan saja</ReloadAnytimeMode>
+  <MustChoosePermadeath>Silakan pilih mode: "Komitmen" atau "Muat ulang kapan saja".</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>Kamu dapat menyimpan dan memuat permainan kapan saja.\n\nPilihan ini cocok jika kamu masih belajar, sesuai gaya bermainmu, memakai mod yang mungkin merusak permainan, atau berniat menegakkan mode komitmen sendiri.</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>Kamu hanya bisa menyimpan saat keluar dari gim.\n\nKarena RimWorld adalah penghasil cerita, bahkan kehilangan semua orang kecuali satu bukanlah akhir gim - itu bagian dari cerita. Gim dirancang agar kamu bisa pulih dari kekalahan.\n\nMenjalani situasi buruk ini menciptakan kisah dengan tragedi dan kemenangan. Begitulah RimWorld dirancang untuk dimainkan.\n\nAda alasan Luke Skywalker tidak berhenti dan memuat ulang saat keluarganya terbunuh - kehilangan dan pemulihan itu dramatis.</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>Pencerita dan gaya bermain dapat diubah kapan saja.</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <DifficultyCustomSectionLabel>Pengaturan gaya bermain kustom</DifficultyCustomSectionLabel>
+  <DifficultyReset>Atur ke gaya bermain standar...</DifficultyReset>
+  
+  <DifficultyThreatSection>Ancaman</DifficultyThreatSection>
+  <Difficulty_ThreatScale_Label>Skala ancaman</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Info>Sesuaikan ukuran ancaman seperti penyerbuan dan infestasi, serta kesulitan misi.</Difficulty_ThreatScale_Info>
+  <Difficulty_AllowBigThreats_Label>Ancaman besar</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Info>Izinkan ancaman besar seperti penyerbuan, infestasi, kawanan pemburu manusia, kapal mekanid jatuh, dan lainnya.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowViolentQuests_Label>Ancaman pada misi</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Info>Izinkan misi berisi ancaman dan tantangan kekerasan. Jika dinonaktifkan, misi akan diubah agar non-kekerasan.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowIntroThreats_Label>Ancaman awal</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Info>Aktifkan ancaman pembuka tetap yang muncul dekat awal permainan.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Label>Predator dapat memburu manusia</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Info>Izinkan predator liar memburu manusia.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Cuaca ekstrem</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Izinkan insiden cuaca ekstrem seperti hujan toksik, musim dingin vulkanik, dan badai kilat.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <DifficultyEconomySection>Ekonomi</DifficultyEconomySection>
+  <Difficulty_TradePriceFactorLoss_Label>Kerugian harga dagang</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Info>Saat berdagang, harga beli dinaikkan sebesar faktor ini sementara harga jual diturunkan sebesar faktor ini.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_CropYieldFactor_Label>Hasil panen</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Info>Sesuaikan jumlah material yang dihasilkan saat memanen tanaman dan hasil bumi. Termasuk menebang pohon.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Label>Hasil tambang</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Info>Sesuaikan jumlah material yang dihasilkan saat menambang.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Label>Hasil memotong</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Info>Sesuaikan jumlah material saat membantai. Termasuk daging, kulit, dan hasil dari mempereteli mekanid.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Label>Kecepatan riset</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Info>Sesuaikan kecepatan riset.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Label>Hadiah misi</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Info>Sesuaikan nilai hadiah misi.\n\nCatatan: Nilai hadiah misi juga diskalakan otomatis untuk mengimbangi skala ancaman. Mengubah pengaturan ini menambah pengali tambahan.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Label>Jarahan penyerbuan</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Info>Sesuaikan nilai jarahan yang dibawa penyerbu.\n\nCatatan: Nilai jarahan juga diskalakan otomatis untuk mengimbangi skala ancaman. Mengubah ini menambah pengali tambahan.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Label>Biaya isi ulang menara</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Info>Sesuaikan biaya mengisi ulang menara.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_ScariaRotChance_Label>Peluang busuk skaria</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Info>Peluang jenazah langsung membusuk saat mati jika makhluk terkena penyakit skaria.\n\nCatatan: Pengaturan bawaan dirancang untuk menyeimbangkan kenaikan jumlah hewan di kesulitan tinggi, sehingga semua pemain mendapat imbalan daging yang sama.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Kematian musuh saat tumbang</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Sesuaikan peluang ekstra musuh langsung mati saat ditumbangkan. Ini memengaruhi peluang menangkap tawanan dan laju pertumbuhan populasi koloni.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <DifficultyGeneralSection>Umum</DifficultyGeneralSection>
+  <Difficulty_ColonistMoodOffset_Label>Suasana hati kolonis</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Info>Penggeser suasana hati permanen untuk setiap kolonis dan tahanan. Suasana hati dasar kolonis adalah 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_FoodPoisonChanceFactor_Label>Peluang keracunan makanan</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Info>Sesuaikan peluang seseorang mengalami keracunan makanan saat memakan makanan yang berpotensi terkontaminasi.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Peluang balas dendam hewan</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Sesuaikan peluang hewan liar menyerang ketika terluka.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Label>Tembakan seorang teman</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Info>Sesuaikan peluang tembakan kawan.\n\nCatatan: Hanya memengaruhi tembakan langsung yang seharusnya mengenai target. Tidak mencegah kerusakan dari ledakan atau tembakan yang memang akan meleset.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_AllowInstantKillChance_Label>Kematian instan kolonis</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Info>Sesuaikan peluang kolonis mati seketika karena serangan. Kerusakan masuk disesuaikan agar hanya menumbangkan, bukan membunuh.\n\nIni hanya mencegah beberapa tipe kematian instan - kolonis tetap bisa tumbang dan mati kehabisan darah, terbakar, ledakan, penyakit, dll.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Peluang infeksi</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Sesuaikan peluang luka menjadi infeksi.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Frekuensi penyakit</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Sesuaikan frekuensi kejadian penyakit acak.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_EnemyReproductionRateFactor_Label>Laju generasi serangga</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Info>Sesuaikan laju sarang serangga yang ada menghasilkan serangga baru. Nilai lebih rendah berarti jeda lebih panjang antar kelahiran.\n\nTidak memengaruhi apakah infestasi terjadi—hanya kecepatan produksi dari sarang aktif.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Infestasi bor dalam</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Sesuaikan peluang pengeboran dalam memicu infestasi.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_PeacefulTemples_Inverted_Label>Ancaman purba saat pembuatan peta</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Info>Bangunan kuno dapat berisi ancaman berbahaya.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_AllowCaveHives_Label>Sarang alami saat pembuatan peta</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Info>Sarang serangga yang tertidur dapat muncul di gua alami.\n\nHanya berlaku saat pembuatan peta dan tidak memengaruhi serangga aktif yang mungkin menggali saat permainan.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_UnwaveringPrisoners_Label>Tambahkan tahanan tak tergoyahkan</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Info>Opsi ini menambahkan tahanan yang bisa ditangkap tetapi tidak bisa direkrut karena loyalitas tak tergoyahkan.\n\nMereka ditambahkan di atas tahanan normal, jadi mematikannya tidak menambah tahanan yang bisa direkrut—hanya menghapus yang tak tergoyahkan.\n\nMereka tetap bisa dibebaskan untuk reputasi, dijual, diperbudak, diambil organnya, atau dimanfaatkan dengan cara lain. Secara umum mereka menambah opsi dan sumber daya, membuat gim sedikit lebih kaya dan mudah.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_NomadicMineableResourcesFactor_Label>Sumber daya tambang nomaden</Difficulty_NomadicMineableResourcesFactor_Label>
+  <Difficulty_NomadicMineableResourcesFactor_Info>Sesuaikan jumlah sumber daya tambang yang dihasilkan pada peta setelah peta koloni pertamamu.\n\nCatatan: Peta koloni pertama selalu dibuat dengan jumlah sumber daya standar.</Difficulty_NomadicMineableResourcesFactor_Info>
+
+  <DifficultyPlayerToolsSection>Peralatan pemain</DifficultyPlayerToolsSection>
+  <Difficulty_AllowTraps_Label>Pemain bisa membangun jebakan</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Info>Pemain dapat membangun jebakan seperti jebakan paku dan IED.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTurrets_Label>Pemain bisa membangun menara</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Info>Pemain dapat membangun menara statis seperti mini-turret, autocannon, dan peluru uranium.\n\nKamu tetap dapat memakai menara yang ditangkap meski opsi ini dimatikan.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowMortars_Label>Pemain bisa membangun mortir</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Info>Pemain dapat membangun mortir.\n\nKamu tetap dapat memakai mortir yang ditangkap meski opsi ini dimatikan.</Difficulty_AllowMortars_Info>
+  <Difficulty_ClassicMortars_Label>Mortir klasik</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Info>Mortir tidak memerlukan laras diperkuat untuk dibuat atau diisi ulang, dan sudah disesuaikan untuk kemudahan akses ini.</Difficulty_ClassicMortars_Info>
+  
+  <DifficultyAdaptationSection>Adaptasi</DifficultyAdaptationSection>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Laju pertumbuhan adaptasi terhadap kerusakan</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Adaptasi berarti pencerita membuat gim makin menantang saat kamu berjalan baik. Skor adaptasi tumbuh seiring waktu dan turun ketika kamu menerima kerusakan.\n\nPengaturan ini menyesuaikan seberapa cepat skor adaptasi tumbuh.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationEffectFactor_Label>Dampak adaptasi terhadap kerusakan</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Info>Adaptasi berarti pencerita membuat gim makin menantang saat kinerjamu baik. Skor adaptasi tumbuh seiring waktu dan turun saat kamu menerima kerusakan.\n\nPengaturan ini menyesuaikan seberapa besar skor adaptasi memengaruhi kesulitan.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_FixedWealthMode_Label>Mode progres independen kekayaan</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Info>BermaIn dalam mode progres yang tidak bergantung pada kekayaan.\n\nPada mode normal, pencerita menskalakan ancaman menurut jumlah kolonis, kekayaan, dan berbagai faktor lain. Mode ini menghapus faktor kekayaan dan menggantinya dengan kurva progres tetap berbasis waktu sejak koloni berdiri.\n\nHanya disarankan bagi pencari tantangan keras. Dalam mode ini, pemulihan dari kekalahan berat hampir mustahil kecuali mendirikan pemukiman baru. Mungkin juga kamu terlalu jauh di depan kurva dan gim menjadi terlalu mudah.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthTimeFactor_Label>Tahun hingga ancaman maksimum</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Info>Jumlah tahun dalam gim hingga mode independen kekayaan mencapai tingkat ancaman maksimum.\n\nPencerita tetap menskalakan ancaman menurut jumlah kolonis dan berbagai faktor lainnya.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <DifficultyIdeologySection>Ideologi</DifficultyIdeologySection>
+  <Difficulty_LowPopConversionBoost_Label>Bonus konversi populasi rendah</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Info>Dengan satu kolonis dari ideoligi awal pemain, peluang konversi ke ideoligi tersebut dikalikan sebesar ini. Upaya konversi terhadap mereka dibagi sebesar itu.\n\nDengan dua kolonis, efeknya setengah.\n\nDengan tiga atau lebih, tidak ada efek.</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <SelectStartingSite>Pilih lokasi awal</SelectStartingSite>
+  <SelectRandomSite>Pilih lokasi acak</SelectRandomSite>
+  <SelectSite>Pilih lokasi</SelectSite>
+  <MustSelectStartingSite>Silakan pilih lokasi.</MustSelectStartingSite>
+  <CannotLandBiome>Kamu tidak dapat mendarat di bioma ini: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Bioma belum diimplementasikan</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Kamu tidak dapat mendarat di pegunungan yang tak dapat dilalui.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} sudah memiliki pemukiman di sini.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Kamu sudah memiliki pemukiman di sini.</YourBaseAlreadyThere>
+  <TileOccupied>Petak ini ditempati.</TileOccupied>
+  <FactionBaseAdjacent>Pemukiman tidak boleh berdampingan langsung.</FactionBaseAdjacent>
+  <Biome>Bioma</Biome>
+  <Terrain>Ketika</Terrain>
+  <Road>Jalan</Road>
+  <River>Sungai</River>
+  <Elevation>Ketinggian</Elevation>
+  <TileMutators>Fitur</TileMutators>
+  <Fertility>Kesuburan</Fertility>
+  <FertilityLower>kesuburan</FertilityLower>
+  <AvgTemp>Suhu rata-rata</AvgTemp>
+  <Rainfall>Curah hujan</Rainfall>
+  <SpecialFeatures>Fitur khusus</SpecialFeatures>
+  <HasCoast0>pesisir utara</HasCoast0>
+  <HasCoast1>pesisir timur</HasCoast1>
+  <HasCoast2>pesisir selatan</HasCoast2>
+  <HasCoast3>pesisir barat</HasCoast3>
+  <HasCaves>Gua</HasCaves>
+  <FactionBase>Pemukiman faksi</FactionBase>
+  <StoneTypesHere>Jenis batu</StoneTypesHere>
+  <TimeZone>Zona waktu</TimeZone>
+  <MovementDifficulty>Kesulitan pergerakan</MovementDifficulty>
+  <AnimalsCanGrazeNow>Pada musim ini hewan dapat merumput</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Frekuensi penyakit rata-rata</AverageDiseaseFrequency>
+  <PerYear>per tahun</PerYear>
+  <Forageability>Dapat dicari makannya</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Tidak ada dari orang terpilih yang dapat melakukan pekerjaan berikut:\n\n{0}\n\nIni dapat membuat permainan lebih sulit dari biasanya. Yakin ingin lanjut?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <TemperatureLower>suhu</TemperatureLower>
+  <LightLower>lampu</LightLower>
+
+  <!-- Character chooser -->
+  <CreateCharacters>Pilih karakter</CreateCharacters>
+  <FirstNameDesc>Nama depan karakter.\n\nHanya ditampilkan di menu tertentu.</FirstNameDesc>
+  <ShortIdentifierDesc>Pengenal singkat karakter.\n\nSelalu ditampilkan. Bisa nama depan/belakang, atau julukan terpisah.</ShortIdentifierDesc>
+  <LastNameDesc>Nama belakang karakter.\n\nHanya ditampilkan di menu tertentu.</LastNameDesc>
+  <Randomize>Acak</Randomize>
+  <AgeIndicator>usia {0}</AgeIndicator>
+  <PawnSummary>{PAWN_race}, {PAWN_ageFull} tahun</PawnSummary>
+  <PawnSummaryWithGender>{Pawn_race}, {Pawn_gender}, {Pawn_agefull} Tahun</PawnSummaryWithGender>
+  <Backstory>Latar belakang</Backstory>
+  <IncapableOf>Tidak mampu</IncapableOf>
+  <Abilities>Kemampuan</Abilities>
+  <IncapableOfTooltipHediff>Disebabkan oleh</IncapableOfTooltipHediff>
+  <IncapableOfTooltipWorkTypes>Jenis kerja dinonaktifkan:</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipBackstory>Karena latar belakang</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipTitle>Karena gelar</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTrait>Karena sifat</IncapableOfTooltipTrait>
+  <IncapableOfTooltipQuest>Karena status misi</IncapableOfTooltipQuest>
+  <IncapableOfTooltipRole>Karena peran</IncapableOfTooltipRole>
+  <IncapableOfTooltipGene>Karena gen</IncapableOfTooltipGene>
+  <IncapableOfTooltipMutant>Disebabkan oleh</IncapableOfTooltipMutant>
+  <Traits>Sifat</Traits>
+  <PermanentMoodEffect>Dampak suasana hati permanen</PermanentMoodEffect>
+  <Skills>Keterampilan</Skills>
+  <NoneLower>tidak ada</NoneLower>
+  <Adulthood>Dewasa</Adulthood>
+  <Childhood>Masa kecil</Childhood>
+  <Male>pria</Male>
+  <Female>wanita</Female>
+  <MaleAndFemale>pria dan wanita</MaleAndFemale>
+  <MaleAnimal>jantan</MaleAnimal>
+  <FemaleAnimal>betina</FemaleAnimal>
+  <Pain>Sakit</Pain>
+  <Health>Kesehatan</Health>
+  <Relations>Relasi</Relations>
+  <Possessions>Kepemilikan</Possessions>
+  <TeamSkills>Keterampilan tim</TeamSkills>
+  <StartingPawnsSelected>Terpilih</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Tertinggal</StartingPawnsLeftBehind>
+  <GuiltyDesc>Orang ini dianggap bersalah. Yang lain tidak akan terganggu jika kamu membuang, mengeksekusi, atau menangkapnya.\n\nRasa bersalah berakhir dalam</GuiltyDesc>
+  
+  <!-- Misc -->
+  <Start>Mulai</Start>
+  <Advanced>Lanjutan</Advanced>
+  <Next>Berikutnya</Next>
+  <Back>Kembali</Back>
+  <ShowMaterials>Ganti material...</ShowMaterials>
+  <Gameplay>Gameplay</Gameplay>
+  <ConfirmQuit>Yakin ingin keluar? Kemajuan yang belum disimpan akan hilang.</ConfirmQuit>
+  <EveryoneNeedsValidName>Setiap orang membutuhkan nama yang valid.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>Tidak ada dari orang terpilih yang dapat melakukan pekerjaan berikut</RequiredWorkTypeDisabledForEveryone>
+  <Quit>Tutup</Quit>
+  <Ignore>Mengabaikan</Ignore>
+  
+  <!-- Progress bar -->
+  <GeneratingWorld>Menghasilkan dunia</GeneratingWorld>
+  <GeneratingPlanet>Menghasilkan planet</GeneratingPlanet>
+  <GeneratingMap>Menghasilkan peta</GeneratingMap>
+  <GeneratingMapForNewEncounter>Menghasilkan peta untuk pertemuan baru</GeneratingMapForNewEncounter>
+
+  <ClickForMoreInfo>Klik untuk info lebih lanjut.</ClickForMoreInfo>
+  <NoMoreInfoAvailable>Tidak ada info lebih lanjut.</NoMoreInfoAvailable>
+  <BestSkillLabel>Keterampilan terbaik</BestSkillLabel>
+  <BestSkillLetterLabel>Stat terbaik {PAWN_nameDef}</BestSkillLetterLabel>
+  <BestSkillInfoLevel>tingkat keterampilan {0}</BestSkillInfoLevel>
+
+  <!-- Factions -->
+  <Factions>Faksi</Factions>
+  <TotalFactionsAllowed>Maksimal {0} faksi dasar diizinkan.</TotalFactionsAllowed>
+  <MaxFactionsForType>maks {0}</MaxFactionsForType>
+  <FactionSelectionDesc>Pilih faksi di dunia. Kamu dapat memilih hingga total {0} faksi.</FactionSelectionDesc>
+  <FactionDisabledContentWarning>Menonaktifkan {0} berarti variasi misi dan konten lain berkurang.</FactionDisabledContentWarning>
+  <InsectsDisabledContentWarning>Menonaktifkan {0} berarti variasi ancaman spontan berkurang.</InsectsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Menonaktifkan {0} berarti variasi misi dan ancaman spontan berkurang.</MechanoidsDisabledContentWarning>
+  <FactionsDisabledWarning>Tanpa faksi lain, penyerbuan, perdagangan, dan misi tidak akan terjadi seperti biasa.</FactionsDisabledWarning>
+  <FactionRemovalDisabled>Tidak dapat dihapus untuk skenario ini.</FactionRemovalDisabled>
+
+</LanguageData>

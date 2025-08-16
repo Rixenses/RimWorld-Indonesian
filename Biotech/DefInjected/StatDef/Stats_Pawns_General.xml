@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bandwidth cost -->
+  <BandwidthCost.label>Biaya broadband</BandwidthCost.label>
+  <!-- EN: How much bandwidth this mech consumes when under mechanitor control. -->
+  <BandwidthCost.description>Berapa banyak broadband yang dikonsumsi MECA ini ketika di bawah kendali mekanitor.</BandwidthCost.description>
+  
+  <!-- EN: cancer rate factor -->
+  <CancerRate.label>Faktor Tingkat Kanker</CancerRate.label>
+  <!-- EN: A multiplier on how likely this person is to develop cancer in any given time frame. -->
+  <CancerRate.description>Pengganda probabilitas bahwa orang ini mengembangkan kanker dalam periode tertentu.</CancerRate.description>
+  
+  <!-- EN: control taking time -->
+  <ControlTakingTime.label>Kontrol waktu tunggu</ControlTakingTime.label>
+  <!-- EN: How many seconds it will take for a mechanitor to take control of this mech. -->
+  <ControlTakingTime.description>Berapa detik yang dibutuhkan mekanitor untuk mengendalikan MECA ini.</ControlTakingTime.description>
+  <!-- EN: {0}s -->
+  <ControlTakingTime.formatString>{0} s</ControlTakingTime.formatString>
+  
+  <!-- EN: fertility -->
+  <Fertility.label>kesuburan</Fertility.label>
+  <!-- EN: Fertility affects the chance of a pregnancy occurring. Pregnancy chance is dependent on the fertility of both partners. This also affects the chance of successfully implanting an embryo in a surrogate. -->
+  <Fertility.description>Kesuburan mempengaruhi kemungkinan kehamilan.Kemungkinan kehamilan tergantung pada kesuburan kedua anggota pasangan.Ini juga mempengaruhi kemungkinan berhasil menanamkan embrio pada ibu sewaan.</Fertility.description>
+  
+  <!-- EN: growth vat occupant speed -->
+  <GrowthVatOccupantSpeed.label>vel.Pertumbuhan inkubator</GrowthVatOccupantSpeed.label>
+  <!-- EN: A multiplier on how quickly this person will grow when in a growth vat. -->
+  <GrowthVatOccupantSpeed.description>Pengganda dari kecepatan yang akan tumbuh ketika berada di dalam inkubator.</GrowthVatOccupantSpeed.description>
+  
+  <!-- EN: hemogen gain multiplier -->
+  <HemogenGainFactor.label>multi.Gain hemogenik</HemogenGainFactor.label>
+  <!-- EN: A multiplier on the amount of hemogen gained. -->
+  <HemogenGainFactor.description>Pengganda jumlah hemogen yang diperoleh.</HemogenGainFactor.description>
+  
+  <!-- EN: learning rate factor -->
+  <LearningRateFactor.label>Faktor Pembelajaran</LearningRateFactor.label>
+  <!-- EN: A multiplier on how quickly a child's learning need is fulfilled by learning activities. -->
+  <LearningRateFactor.description>Pengganda dari kecepatan yang dibutuhkan untuk belajar anak melalui kegiatan belajar dipenuhi.</LearningRateFactor.description>
+  
+  <!-- EN: mech bandwidth -->
+  <MechBandwidth.label>Broadband Mekah</MechBandwidth.label>
+  <!-- EN: How much bandwidth a mechanitor has. More bandwidth allows a mechanitor to produce and control more mechs at the same time.\n\nLosing bandwidth means losing control of mechs, leaving them without an overseer. Such mechs can eventually become feral if not re-dominated. -->
+  <MechBandwidth.description>Berapa banyak broadband yang memiliki mekanitor.Broadband yang lebih besar memungkinkan mekanitor untuk memproduksi dan mengendalikan lebih banyak mecas secara bersamaan. Broadband \ nperder berarti kehilangan kendali atas mecas, meninggalkan mereka tanpa penyelia.Mecas ini bisa menjadi liar jika mereka tidak didominasi lagi.</MechBandwidth.description>
+  
+  <!-- EN: mech control groups -->
+  <MechControlGroups.label>Kelompok Kontrol Meccas</MechControlGroups.label>
+  <!-- EN: How many control groups this mechanitor can direct independently. Each control group can be given its own separate orders. -->
+  <MechControlGroups.description>Berapa banyak kelompok kontrol yang dapat diarahkan oleh mekanitor ini secara mandiri.Setiap kelompok kontrol dapat menerima pesanan mereka sendiri secara terpisah.</MechControlGroups.description>
+  
+  <!-- EN: repair energy cost -->
+  <MechEnergyLossPerHP.label>perbaikan biaya energi</MechEnergyLossPerHP.label>
+  <!-- EN: The amount of energy that this mechanoid loses for every 100 damage repaired. -->
+  <MechEnergyLossPerHP.description>Jumlah energi yang mekanoid ini kehilangan setiap 100 kerusakan diperbaiki.</MechEnergyLossPerHP.description>
+  
+  <!-- EN: energy usage multiplier -->
+  <MechEnergyUsageFactor.label>multi.dari penggunaan energi</MechEnergyUsageFactor.label>
+  <!-- EN: A multiplier on how fast a mechanoid consumes its energy reserves while operating. -->
+  <MechEnergyUsageFactor.description>Pengganda dari kecepatan yang dikonsumsi oleh mecanoid saat bekerja.</MechEnergyUsageFactor.description>
+  
+  <!-- EN: mech gestation speed -->
+  <MechFormingSpeed.label>Kecepatan kehamilan Mecas</MechFormingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this mechanitor can form new mechanoids at a gestator. -->
+  <MechFormingSpeed.description>Pengganda kecepatan di mana mechanitor ini dapat membentuk mechanoides baru di manajer.</MechFormingSpeed.description>
+  
+  <!-- EN: mech remote repair distance -->
+  <MechRemoteRepairDistance.label>jarak perbaikan jarak jauh</MechRemoteRepairDistance.label>
+  <!-- EN: How far away a mech can be during remote repair. -->
+  <MechRemoteRepairDistance.description>Jarak di mana MECA mungkin selama perbaikan jarak jauh.</MechRemoteRepairDistance.description>
+  
+  <!-- EN: mech remote shield distance -->
+  <MechRemoteShieldDistance.label>perisai jarak jauh</MechRemoteShieldDistance.label>
+  <!-- EN: The maximum range at which a mechanitor can place a shield on a mechanoid. -->
+  <MechRemoteShieldDistance.description>Kisaran maksimum di mana mekanitor dapat menempatkan perisai dalam mecanoid.</MechRemoteShieldDistance.description>
+  
+  <!-- EN: mech remote shield energy -->
+  <MechRemoteShieldEnergy.label>Energi perisai jarak jauh</MechRemoteShieldEnergy.label>
+  <!-- EN: The energy a remote shield will have when created by a mechanitor. -->
+  <MechRemoteShieldEnergy.description>Energi yang akan dimiliki oleh perisai jarak jauh saat dibuat oleh seorang mekanitor.</MechRemoteShieldEnergy.description>
+  
+  <!-- EN: mech repair speed -->
+  <MechRepairSpeed.label>vel.Perbaikan Meccas</MechRepairSpeed.label>
+  <!-- EN: A multiplier on how fast a mechanitor can repair mechanoids. -->
+  <MechRepairSpeed.description>Pengganda kecepatan yang dapat memperbaiki mechanitor.</MechRepairSpeed.description>
+  
+  <!-- EN: raw nutrition multiplier -->
+  <RawNutritionFactor.label>multi.nutrisi mentah</RawNutritionFactor.label>
+  <!-- EN: A multiplier on how nutritious raw food is for this person. Note that since meals usually have more nutrition than their raw ingredients, a boost to this stat may only mean the person gets the same nutrition from raw food as if it were cooked. -->
+  <RawNutritionFactor.description>Pengganda tentang bagaimana makanan mentah bergizi untuk orang ini.Perlu diingat bahwa, karena makanan yang dimasak biasanya memiliki lebih banyak nutrisi daripada bahan -bahan mentahnya, peningkatan statistik ini hanya dapat berarti bahwa orang tersebut memperoleh nutrisi makanan mentah yang sama seolah -olah dimasak.</RawNutritionFactor.description>
+  
+  <!-- EN: subcore encoding speed -->
+  <SubcoreEncodingSpeed.label>vel.Subnúcleos Coding</SubcoreEncodingSpeed.label>
+  <!-- EN: A multiplier on how fast a mechanitor can create subcores. -->
+  <SubcoreEncodingSpeed.description>Pengganda dari kecepatan yang dapat membuat Subnúcleos.</SubcoreEncodingSpeed.description>
+  
+  <!-- EN: wastepacks per recharge -->
+  <WastepacksPerRecharge.label>Paket Limbah dengan Isi Ulang</WastepacksPerRecharge.label>
+  <!-- EN: How many toxic wastepacks this mechanoid will generate at a mech recharger when going from 0 to 100% energy. Larger mechanoids will generally create more toxic wastepacks. -->
+  <WastepacksPerRecharge.description>Berapa banyak paket limbah beracun yang akan menghasilkan mecanoid ini dalam pengisian kiblat ketika beralih dari energi 0 hingga 100%.Mekano yang lebih besar sering menghasilkan lebih banyak paket limbah beracun.</WastepacksPerRecharge.description>
+  <WastepacksPerRecharge.statFactorsExplanationHeader>Statistik yang relevan</WastepacksPerRecharge.statFactorsExplanationHeader>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Aktivasi Sinyal Kuno</li>-><AncientSignalActivation.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> Sinyal Aktivasi Kuno</li>
+  </AncientSignalActivation.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Aktivasi Sinyal Kuno</li>-><AncientSignalActivation.questNameRules.rulesStrings>
+    <li>QuestName-> sinyal aktivasi kuno</li>
+  </AncientSignalActivation.questNameRules.rulesStrings>
+  
+</LanguageData>

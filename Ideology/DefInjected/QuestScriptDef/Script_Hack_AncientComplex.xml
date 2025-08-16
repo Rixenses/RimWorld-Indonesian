@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>TerminalHackedMessage-> Terminal diretas. {count} / [terminalCount] lengkap.</li>
+    <li>AllmterShackedMessage-> Anda telah meretas semua terminal dan menemukan informasi rahasia tentang [Relic_name]!Anda sekarang bisa pergi.</li>-><AncientComplex_Standard.questContentRules.rulesStrings>
+    <li>Pesan Terminal Retas-> Akun Terminal Retas} / [Hitungan Terminal].</li>
+    <li>AlltermalShackedMessage-> Anda telah meretas semua terminal dan menemukan informasi rahasia tentang [Relic_name]!Anda bisa pergi.</li>
+  </AncientComplex_Standard.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah belajar tentang kompleks kuno di dekatnya.Dikatakan berisi informasi tentang [Relic_name]. \ N \ nif Anda dapat masuk ke dalam struktur dan meretas komputer di dalam, Anda dapat mengumpulkan informasi. \ N \ nwatch out - Mungkin ada segala macam bahaya di dalam, dan musuh lain juga dapat tertarik dengan aktivitas di struktur.</li>-><AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah belajar tentang kompleks dekat lama.Dikatakan bahwa itu berisi informasi tentang peninggalan yang dikenal sebagai [Relic_name].</li>
+  </AncientComplex_Standard.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 6)-> [ComplexAdj] [Kompleks]</li>
+    <li>QuestName-> The [Dig]</li>
+    <li>Complexadj-> Kuno</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Dusty</li>
+    <li>Complexadj-> Secret</li>
+    <li>Kompleks-> kompleks</li>
+    <li>kompleks-> senyawa</li>
+    <li>Instalasi Kompleks-></li>
+    <li>kamu-> kamu</li>
+    <li>penggalian</li>-><AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>QuestName (p = 6)-> [Kompleks] [ComplexAdj]</li>
+    <li>QuestName (p = 6)-> la [complex1] [complexadj1]</li>
+    <li>QuestName-> The [Dig]</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Dusty</li>
+    <li>Complexadj-> Secret</li>
+    <li>complexadj1-> antigua</li>
+    <li>complexadj1-> Anda</li>
+    <li>Complexadj1-> polvorian</li>
+    <li>Complexadj1-> Secret</li>
+    <li>Kompleks-> kompleks</li>
+    <li>Basis kompleks1-></li>
+    <li>instalasi kompleks1-></li>
+    <li>Penggalian</li>
+    <li>Dig-> Eksplorasi</li>
+  </AncientComplex_Standard.questNameRules.rulesStrings>
+  
+</LanguageData>

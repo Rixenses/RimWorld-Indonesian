@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: security door -->
+  <SecurityDoor.label>Pintu keamanan</SecurityDoor.label>
+  <!-- EN: Build a heavily reinforced door. It is slow to open and requires power, but is very strong. It's a good choice if you want to keep something dangerous out - or in. -->
+  <SecurityDoor.description>Membangun pintu yang sangat diperkuat.Lambat untuk membuka dan membutuhkan energi, tetapi sangat kuat.Ini adalah pilihan yang baik jika Anda ingin menjaga sesuatu yang berbahaya di luar ... atau di dalam.</SecurityDoor.description>
+  <!-- EN:
+    <li>Subjek-> Pintu Keamanan</li>
+    <li>Subject_story-> bekerja sebagai drone keamanan di fasilitas penelitian yang disegel</li>
+    <li>Subject_story-> Perangkat keamanan yang direkayasa untuk pedagang bintang</li>
+    <li>Subject_story-> Ilmu Material yang Diteliti untuk Perusahaan Tentara bayaran</li>
+    <li>Subject_story-> Bekerja di Glitterworld Zoo</li>
+    <li>subjek gerund-> pintu keamanan konstruksi</li>-><SecurityDoor.generalRules.rulesStrings>
+    <li>Subjek-> Pintu Keamanan</li>
+    <li>Subject_def-> dari pintu keamanan</li>
+    <li>Subject_story-> bekerja sebagai penjaga keamanan sederhana dalam instalasi penelitian yang disegel</li>
+    <li>Subjek_Story-> Perangkat keamanan yang dirancang untuk pedagang bintang</li>
+    <li>Subject_story-> mempelajari ilmu materi untuk perusahaan tentara bayaran</li>
+    <li>Subjek cerita-> bekerja di kebun binatang di dunia yang cemerlang</li>
+    <li>Subjek gerund-> membangun pintu keamanan</li>
+  </SecurityDoor.generalRules.rulesStrings>
+  
+  <!-- EN: turret pack -->
+  <TurretPack.label>drop -down Turret</TurretPack.label>
+  <!-- EN: Build a wearable pack that allows the user to deploy a battery-powered turret. -->
+  <TurretPack.description>Fabric A Portable Backpack yang memungkinkan pengguna untuk menampilkan mandiri -cukup elektrik.</TurretPack.description>
+  <!-- EN:
+    <li>Subjek-> menara yang dapat digunakan</li>
+    <li>Subject_story-> membela kastil feralworld dari penyerangan</li>
+    <li>Subject_story-> Bergerak dengan tailgun di dropship kekaisaran</li>
+    <li>Subject_story-> Teknologi Militer yang Dapat Diteliti</li>
+    <li>Subject_story-> Bertempur dalam pertempuran parit perang [WorldName]</li>
+    <li>Subject_gerund-> Crafting Deployable Gun Turret</li>-><TurretPack.generalRules.rulesStrings>
+    <li>Subjek-> Turret drop-down</li>
+    <li>Subjek_def-> dari menara drop-down</li>
+    <li>Subject_story-> membela kastil serangan di dunia liar</li>
+    <li>Subject_story-> Cannon ekor yang dioperasikan di kapal transportasi kekaisaran</li>
+    <li>Subject_story-> Teknologi Militer Seluler yang Diselidiki</li>
+    <li>Subject_story-> bertempur di parit pertempuran dalam perang [WorldName]</li>
+    <li>Subjek gerund-> manufacture drop-down menara</li>
+  </TurretPack.generalRules.rulesStrings>
+  
+</LanguageData>

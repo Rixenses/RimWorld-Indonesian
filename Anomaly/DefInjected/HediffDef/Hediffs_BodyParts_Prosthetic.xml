@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adrenal heart -->
+  <AdrenalHeart.label>jantung adrenal</AdrenalHeart.label>
+  <!-- EN: A modified human heart that can release stress hormones and liquid energy into the bloodstream, allowing a ghoul to move and attack at incredible speeds. -->
+  <AdrenalHeart.description>Sebuah jantung manusia yang dimodifikasi agar dapat melepaskan hormon stres dan energi cair ke aliran darah, memungkinkan ghoul bergerak dan menyerang dengan kecepatan luar biasa.</AdrenalHeart.description>
+  
+  <!-- EN: corrosive heart -->
+  <CorrosiveHeart.label>jantung korosif</CorrosiveHeart.label>
+  <!-- EN: A modified human heart that allows a ghoul to spray corrosive fluid. -->
+  <CorrosiveHeart.description>Sebuah jantung manusia yang dimodifikasi untuk memungkinkan ghoul menyemprotkan cairan korosif.</CorrosiveHeart.description>
+  
+  <!-- EN: fleshmass lung -->
+  <FleshmassLung.label>Paru -paru daging</FleshmassLung.label>
+  <!-- EN: A cancerous mass of semi-sentient flesh. The tissue constantly regrows and replaces itself, making it immune to effects like lung rot and asthma.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
+  <FleshmassLung.description>Sebuah massa daging semi-sadar yang bersifat kanker. Jaringan ini terus tumbuh kembali dan menggantikan dirinya, membuatnya kebal terhadap efek seperti pembusukan paru-paru dan asma.\n\nOrgan ini memiliki struktur saraf sendiri dan dapat menjadi berbahaya jika diangkat.</FleshmassLung.description>
+  <!-- EN: Fleshmass operation -->
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>Operasi daging</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass lung has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
+  <FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>Upaya mengangkat fleshmass lung milik {PAWN_nameDef} telah memicu massa daging yang terpelintir untuk menyerang. Fleshmass tersebut terlepas dari {PAWN_nameDef} dan berubah menjadi fleshbeast!</FleshmassLung.comps.HediffComp_FleshbeastEmerge.letterText>
+  <!-- EN: a fleshmass lung -->
+  <FleshmassLung.labelNoun>sebuah fleshmass lung</FleshmassLung.labelNoun>
+  
+  <!-- EN: fleshmass stomach -->
+  <FleshmassStomach.label>Perut daging</FleshmassStomach.label>
+  <!-- EN: A cancerous mass of semi-sentient flesh. The harsh acid it produces is painful, but strong enough to prevent most food poisoning.\n\nThe organ has its own neural structures and may become dangerous if removed. -->
+  <FleshmassStomach.description>Sebuah massa daging semi-sadar yang bersifat kanker. Asam keras yang dihasilkannya menyakitkan, tetapi cukup kuat untuk mencegah sebagian besar keracunan makanan.\n\nOrgan ini memiliki struktur saraf sendiri dan dapat menjadi berbahaya jika diangkat.</FleshmassStomach.description>
+  <!-- EN: Fleshmass operation -->
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>Operasi daging</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <!-- EN: Attempting to remove {PAWN_nameDef}'s fleshmass stomach has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
+  <FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>Upaya mengangkat fleshmass stomach milik {PAWN_nameDef} telah memicu massa daging yang terpelintir untuk menyerang. Fleshmass tersebut terlepas dari {PAWN_nameDef} dan berubah menjadi fleshbeast!</FleshmassStomach.comps.HediffComp_FleshbeastEmerge.letterText>
+  <!-- EN: a fleshmass stomach -->
+  <FleshmassStomach.labelNoun>sebuah fleshmass stomach</FleshmassStomach.labelNoun>
+  
+  <!-- EN: flesh whip -->
+  <FleshWhip.label>Cambuk Daging</FleshWhip.label>
+  <!-- EN: A fleshy, muscled tentacle with a blade at the end. The flesh whip makes an excellent melee weapon.\n\nIt has its own neural structures and may become dangerous if removed. -->
+  <FleshWhip.description>Sebuah tentakel berdaging dan berotot dengan bilah di ujungnya. Flesh whip adalah senjata jarak dekat yang sangat efektif.\n\nIa memiliki struktur saraf sendiri dan dapat menjadi berbahaya jika diangkat.</FleshWhip.description>
+  <!-- EN: blade -->
+  <FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>bilah</FleshWhip.comps.HediffComp_VerbGiver.tools.blade.label>
+  <!-- EN: Fleshmass operation -->
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>Operasi daging</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <!-- EN: Attempting to remove {PAWN_nameDef}'s flesh whip has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
+  <FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>Upaya mengangkat flesh whip milik {PAWN_nameDef} telah memicu massa daging yang terpelintir untuk menyerang. Fleshmass tersebut terlepas dari {PAWN_nameDef} dan berubah menjadi fleshbeast!</FleshWhip.comps.HediffComp_FleshbeastEmerge.letterText>
+  <!-- EN: a flesh whip -->
+  <FleshWhip.labelNoun>sebuah flesh whip</FleshWhip.labelNoun>
+  
+  <!-- EN: ghoul barbs -->
+  <GhoulBarbs.label>Liga Ghoul</GhoulBarbs.label>
+  <!-- EN: A number of barbed bioferrite spikes have been surgically attached to this ghoul. -->
+  <GhoulBarbs.description>Sejumlah duri bioferrite bergerigi telah dipasang di hantu ini.</GhoulBarbs.description>
+  <!-- EN: Ghoul spikes -->
+  <GhoulBarbs.renderNodeProperties.0.debugLabel>Ghoul Spikes</GhoulBarbs.renderNodeProperties.0.debugLabel>
+  <!-- EN: Ghoul spikes -->
+  <GhoulBarbs.renderNodeProperties.1.debugLabel>Ghoul Spikes</GhoulBarbs.renderNodeProperties.1.debugLabel>
+  
+  <!-- EN: ghoul plating -->
+  <GhoulPlating.label>pelat ghoul</GhoulPlating.label>
+  <!-- EN: A number of large bioferrite plates have been surgically attached to this ghoul. -->
+  <GhoulPlating.description>Sejumlah pelat bioferrite besar telah dipasang secara bedah pada ghoul ini.</GhoulPlating.description>
+  <!-- EN: Ghoul plates -->
+  <GhoulPlating.renderNodeProperties.0.debugLabel>Piring hantu</GhoulPlating.renderNodeProperties.0.debugLabel>
+  
+  <!-- EN: metalblood heart -->
+  <MetalbloodHeart.label>jantung metalblood</MetalbloodHeart.label>
+  <!-- EN: A modified human heart that can pump metalblood into the bloodstream, making the ghoul more resistant to damage for a short period of time. Metalblood also makes the ghoul more vulnerable to fire. -->
+  <MetalbloodHeart.description>Sebuah jantung manusia yang dimodifikasi untuk memompa metalblood ke dalam aliran darah, membuat ghoul lebih tahan terhadap kerusakan untuk sementara waktu. Metalblood juga membuat ghoul lebih rentan terhadap api.</MetalbloodHeart.description>
+  
+  <!-- EN: revenant vertebrae -->
+  <RevenantVertebrae.label>Tulang Belakang Revenant</RevenantVertebrae.label>
+  <!-- EN: An installed prosthetic that allows the user to temporarily become invisible. The prosthetic is crafted from a modified revenant spine, using archotech shards to restrain the dormant revenant. The user can manipulate the visual centers of those nearby, effectively turning themself invisible for a short time. -->
+  <RevenantVertebrae.description>Sebuah prostetik yang memungkinkan penggunanya menjadi tak terlihat sementara. Prostetik ini dibuat dari tulang belakang revenant yang dimodifikasi, menggunakan pecahan archotech untuk menahan revenant yang tertidur. Pengguna dapat memanipulasi pusat visual di sekitar mereka, sehingga membuat diri mereka tak terlihat untuk sementara waktu.</RevenantVertebrae.description>
+  
+  <!-- EN: flesh tentacle -->
+  <Tentacle.label>Tentakel daging</Tentacle.label>
+  <!-- EN: A fleshy, muscled tentacle resembling a partial transformation into a fleshbeast. The tentacle is excellent at manipulation.\n\nThe flesh tentacle has its own neural structures and may become dangerous if removed. -->
+  <Tentacle.description>Sebuah tentakel berdaging dan berotot yang menyerupai transformasi parsial menjadi fleshbeast. Tentakel ini sangat baik untuk manipulasi.\n\nFlesh tentakel ini memiliki struktur saraf sendiri dan dapat menjadi berbahaya jika diangkat.</Tentacle.description>
+  <!-- EN: Fleshmass operation -->
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>Operasi daging</Tentacle.comps.HediffComp_FleshbeastEmerge.letterLabel>
+  <!-- EN: Attempting to remove {PAWN_nameDef}'s tentacle has caused the twisting mass of flesh to attack. The fleshmass has detached from {PAWN_nameDef} and transformed into a fleshbeast! -->
+  <Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>Upaya mengangkat flesh tentakel milik {PAWN_nameDef} telah memicu massa daging yang terpelintir untuk menyerang. Fleshmass tersebut terlepas dari {PAWN_nameDef} dan berubah menjadi fleshbeast!</Tentacle.comps.HediffComp_FleshbeastEmerge.letterText>
+  <!-- EN: a flesh tentacle -->
+  <Tentacle.labelNoun>sebuah flesh tentakel</Tentacle.labelNoun>
+  
+</LanguageData>

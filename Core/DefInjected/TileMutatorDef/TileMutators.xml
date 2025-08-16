@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caves -->
+  <Caves.label>Gua</Caves.label>
+  <!-- EN: Small cave networks can be found within the rocks. -->
+  <Caves.description>Di dalam batu, Anda dapat menemukan jaringan kecil gua.</Caves.description>
+  
+  <!-- EN: coast -->
+  <Coast.label>Costa</Coast.label>
+  <!-- EN: This tile borders the coast. -->
+  <Coast.description>Kotak ini berbatasan dengan pantai.</Coast.description>
+  
+  <!-- EN: mountain -->
+  <Mountain.label>gunung</Mountain.label>
+  <!-- EN: A mountain fills one side of this tile. -->
+  <Mountain.description>Gunung penuh salah satu sisi kotak ini.</Mountain.description>
+  
+  <!-- EN: river -->
+  <River.label>Río</River.label>
+  <!-- EN: A stream of fresh water flows through here. -->
+  <River.description>Arus air tawar mengalir di sini.</River.description>
+  
+  <!-- EN: underground cave -->
+  <UndergroundCave.label>Gua Bawah Tanah</UndergroundCave.label>
+  
+</LanguageData>

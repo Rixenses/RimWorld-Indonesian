@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [cerita] [trans] [senjata]</li>
+    <li>r_name-> [cerita] [trans] [hewan]</li>
+    <li>r_name-> [Story] [trans] [Terrainfeature]</li>
+    <li>r_name-> [cerita] [trans] [personjob] s</li>
+    <li>r_name-> [Story] [trans] [ConceptAnd]</li>
+    <li>r_name-> [ConceptAnd] [Story]</li>
+    <li>r_name-> [cerita] [trans] a [komunitas]</li>
+    <li>r_name-> A [AdjectiveAny] [Story]</li>
+    <li>r_name-> [Story] [trans] [Game]</li>
+    <li>r_name-> [cerita] dalam [warna] dan [warna]</li>
+    <li>r_name-> [color] [Story]</li>
+    <li>r_name-> [Story] [ROMANNUMERAL]</li>-><NamerScenario.rulePack.rulesStrings>
+    <li>r_name-> [Story] [trans] [WeaponIndef]</li>
+    <li>r_name-> [cerita] [trans] [animalIndef]</li>
+    <li>r_name-> [Story] [trans] [TerrainfeatureIndef]</li>
+    <li>r_name-> [cerita] [trans] un [personjob]</li>
+    <li>r_name-> [Story] [trans] [ConceptAnd]</li>
+    <li>r_name-> [conceptany] y [cerita]</li>
+    <li>r_name-> [Story] [trans] [DEF Community]</li>
+    <li>ganti nama-> di (a) [cerita] [kata sifat banyak]</li>
+    <li>r_name-> [cerita] [trans] [gamedef]</li>
+    <li>r_name-> [cerita] en [warna] y [warna]</li>
+    <li>r_name-> [color] [Story]</li>
+    <li>r_name-> [Story] [ROMANNUMERAL]</li>
+  </NamerScenario.rulePack.rulesStrings>
+  
+</LanguageData>

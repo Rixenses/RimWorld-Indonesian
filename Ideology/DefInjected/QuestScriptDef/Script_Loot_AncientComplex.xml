@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah belajar tentang kompleks kuno di dekatnya yang dikatakan mengandung harta kuno. \ n \ nyou dapat menerobos masuk untuk mengumpulkan rampasan di dalamnya.Selain itu, aktivitas Anda di kompleks mungkin menarik perhatian yang tidak diinginkan.</li>-><OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah belajar tentang keberadaan kompleks lama di sekitarnya yang dikatakan berisi harta tua.Selain itu, aktivitas Anda di kompleks dapat menarik perhatian yang tidak diinginkan.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (p = 3)-> [ComplexAdj] [Complex] [Finalword]</li>
+    <li>QuestName-> [Complex] [Finalword]</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> Misterius</li>
+    <li>Complexadj-> kuno</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Tersembunyi</li>
+    <li>Complexadj-> Mati</li>
+    <li>kompleks-> kompleks</li>
+    <li>Instalasi Kompleks-></li>
+    <li>Kompleks-> struktur</li>
+    <li>kata final-> harta karun</li>
+    <li>kata final-> kekayaan</li>
+    <li>kata final-> trove</li>
+    <li>Kata final-> cache</li>
+    <li>kata final-> rampasan</li>
+    <li>kata final-> merampok</li>
+    <li>kata final-> penjarahan</li>
+    <li>kata final-> raiding</li>
+    <li>kata final-> pencurian</li>
+    <li>kata final-> pencurian</li>
+    <li>kata final-> caper</li>
+    <li>Finalword-> Booty</li>-><OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>QuestName (p = 3)-> [Finalword] del [kompleks] [ComplexAdj]</li>
+    <li>nama ini (p = 3)-> [endword] dari [complex1] [complexadj1</li>
+    <li>QuestName-> [Finalword1] Al [Complex]</li>
+    <li>QuestName-> [Finalword1] a la [complex1]</li>
+    <li>Complexadj-> Secret</li>
+    <li>Complexadj-> Misterius</li>
+    <li>Complexadj-> Old</li>
+    <li>Complexadj-> Escondido</li>
+    <li>Complexadj-> fana</li>
+    <li>Complexadj1-> Secret</li>
+    <li>Complexadj1-> MISTERIOSA</li>
+    <li>complexadj1-> antigua</li>
+    <li>Complexadj1-> tersembunyi</li>
+    <li>Complexadj1-> fana</li>
+    <li>kompleks-> kompleks</li>
+    <li>instalasi kompleks1-></li>
+    <li>kompleks1-> struktur</li>
+    <li>Kata final-> harta karun</li>
+    <li>Kata final-> kekayaan</li>
+    <li>Finaword-> aman</li>
+    <li>Kata final-> simpanan</li>
+    <li>Finalword-> Botín</li>
+    <li>Finalword1-> Robo</li>
+    <li>Finalword1-> Assault</li>
+    <li>Finalword1-> serbuan</li>
+    <li>Finalword1-> Rob</li>
+    <li>Finalword1-> pengepungan</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>BuildingName-> altar</li>
+    <li>BuildingName-> Kuil</li>
+    <li>BuildingName-> Chancel</li>
+    <li>BuildingName-> Platform</li>-><NamerAltar.rulePack.rulesStrings>
+    <li>BuildingName-> altar</li>
+    <li>BuildingName-> Sanctuary</li>
+    <li>BuildingName-> Presbytery</li>
+    <li>BuildingName-> Sagrario</li>
+  </NamerAltar.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> Totem</li>
+    <li>BuildingName-> Effigy</li>
+    <li>BuildingName-> Pyre</li>-><NamerBurnTarget.rulePack.rulesStrings>
+    <li>BuildingName-> Totem</li>
+    <li>BuildingName-> Idol</li>
+    <li>BuildingName-> Amuleto</li>
+  </NamerBurnTarget.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> Piring</li>
+    <li>BuildingName-> Dish</li>
+    <li>BuildingName-> Feast</li>
+    <li>BuildingName-> Manpork</li>-><NamerCannibalPlatter.rulePack.rulesStrings>
+    <li>BuildingName-> Fuente</li>
+    <li>BuildingName-> Plato</li>
+    <li>BuildingName-> Feast</li>
+    <li>BuildingName-> Bowl</li>
+  </NamerCannibalPlatter.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> Tree</li>
+    <li>BuildingName-> Pine</li>-><NamerChristmasTree.rulePack.rulesStrings>
+    <li>BuildingName-> Tree</li>
+    <li>BuildingName-> pino</li>
+  </NamerChristmasTree.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ideobuildingName (p = 2)-> [memeadjective] [BuildingName]</li>
+    <li>r_ideobuildingName-> [BuildingName] dari [chosentheme]</li>
+    <li>r_ideoBuildingName-> [terpilih Tjok] [BuildingName]</li>
+    <li>r_ideoBuildingName-> [KeyDeity] [BuildingName]</li>
+    <li>r_ideobuildingName-> [BuildingName] dari [KeyDeity]</li>
+    <li>r_ideoBuildingName-> [BuildingName] dari [Memeconscept]</li>
+    <li>r_ideoBuildingName-> [BuildingName] dari [Chosenideoname]</li>-><NamerIdeoBuilding.rulePack.rulesStrings>
+    <li>r_ideobuildingName (p = 2)-> [BuildingName] [Memeadjective]</li>
+    <li>r_ideobuildingName-> [BuildingName] de [chosentheme]</li>
+    <li>r_ideoBuildingName-> [BuildingName] [ChosenAdjective]</li>
+    <li>r_ideobuildingName-> [BuildingName] de [KeyDeity]</li>
+    <li>r_ideoBuildingName-> [BuildingName] de [memeconceptdef]</li>
+    <li>r_ideobuildingName-> [BuildingName] de [chosenideoname]</li>
+  </NamerIdeoBuilding.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> Ideogram</li>
+    <li>BuildingName-> Simbol</li>
+    <li>BuildingName-> Mark</li>
+    <li>Bentuk BuildingName-> Bentuk</li>
+    <li>BuildingName-> Emblem</li>
+    <li>BuildingName-> figure</li>
+    <li>BuildingName-> Image</li>
+    <li>BuildingName-> Logo</li>-><NamerIdeogram.rulePack.rulesStrings>
+    <li>BuildingName-> Ideogram</li>
+    <li>BuildingName-> Simbol</li>
+    <li>BuildingName-> Grafik</li>
+    <li>BuildingName-> pictograma</li>
+    <li>BuildingName-> tanda</li>
+    <li>BuildingName-> Logo</li>
+  </NamerIdeogram.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> patung</li>
+    <li>BuildingName-> Patung</li>
+    <li>BuildingName-> ukiran</li>
+    <li>BuildingName-> Image</li>
+    <li>Bentuk BuildingName-> Formulir</li>
+    <li>Bentuk BuildingName-> Bentuk</li>-><NamerIdeoSculpture.rulePack.rulesStrings>
+    <li>BuildingName-> Monumen</li>
+    <li>BuildingName-> Bust</li>
+    <li>BuildingName-> Diukir</li>
+    <li>BuildingName-> Potret</li>
+    <li>BuildingName-> Diukir</li>
+  </NamerIdeoSculpture.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>BuildingName-> Smoker</li>
+    <li>BuildingName-> Gasser</li>
+    <li>BuildingName-> Fumer</li>
+    <li>BuildingName-> Smolderer</li>-><NamerSmoker.rulePack.rulesStrings>
+    <li>BuildingName-> Smoker</li>
+    <li>BuildingName-> Gaseador</li>
+    <li>BuildingName-> Merokok</li>
+    <li>BuildingName-> Humeador</li>
+  </NamerSmoker.rulePack.rulesStrings>
+  
+</LanguageData>

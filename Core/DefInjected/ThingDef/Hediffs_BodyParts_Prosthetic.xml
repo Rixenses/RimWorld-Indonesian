@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>Implan pendengaran</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Implan yang menggantikan audisi normal.Mikrofon eksternal mentransmisikan sinyal suara ke elektroda yang mengelilingi saraf pendengaran telinga bagian dalam.Elektroda merangsang saraf sesuai dengan suara, menciptakan sensasi pendengaran.Ini tidak sebagus telinga alami, tetapi jauh lebih baik daripada tuli.</CochlearImplant.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>sukacita</Joywire.label>
+  <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>Implan otak yang merangsang pusat kesenangan otak.Sementara suasana hati pengguna membaik secara dramatis, tempat perlindungan kebahagiaan membuatnya sulit untuk berkonsentrasi pada sesuatu yang nyata.Kegembiraan itu ilegal di banyak dunia, dan dikenal karena menghancurkan seluruh budaya.</Joywire.description>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>warna pendek</Painstopper.label>
+  <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>Implan otak yang menghambat nosisepsi atau sensasi nyeri.Meskipun memungkinkan pengguna untuk mencapai lebih banyak, ternyata rasa sakit memiliki tujuan.Ketika Anda tidak merasakannya, Anda bisa sangat menyakiti Anda.</Painstopper.description>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>cakar hidrolik</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>Penggantian tangan yang berorientasi pertempuran yang terdiri dari tangan mekanis dengan tenaza tajam pada setiap jari.Ini kejam dalam pertempuran, dan layanan mini yang kuat dapat menghancurkan tengkorak saat tangan alami menghancurkan telur.Pisau dapat ditarik kembali, yang menjadikannya sama bermanfaatnya dengan tangan biologis untuk tugas -tugas yang tidak bertempur.</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>Lengan prostetik</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>Prostesis lengan.Meskipun tidak memiliki antarmuka neuron, disposisi kompleks sendi internal memungkinkan Anda untuk meniru gerakan alami yang cukup meyakinkan.Meski begitu, itu lebih buruk dari lengan sungguhan.</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>Hati prostetik</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>Prostesis jantung.Ini mengandung motor listrik yang memompa darah dengan lembut di sekitar tubuh.Pengguna sering melaporkan bahwa mereka merasa lelah, tetapi itu lebih baik daripada alternatifnya.</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>Kaki palsu</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>Prostesis kaki.Meskipun tidak memiliki antarmuka netral, disposisi kompleks sendi internal memungkinkan Anda untuk meniru gerakan alami yang cukup meyakinkan.Meski begitu, itu lebih buruk dari kaki yang sebenarnya.</SimpleProstheticLeg.description>
+  
+</LanguageData>

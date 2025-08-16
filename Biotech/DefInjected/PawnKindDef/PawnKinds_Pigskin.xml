@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pig elite -->
+  <Mercenary_Elite_Pig.label>Pielcerdo Elite</Mercenary_Elite_Pig.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Pig.labelPlural>tentara bayaran elit</Mercenary_Elite_Pig.labelPlural>
+  
+  <!-- EN: pig gunner -->
+  <Mercenary_Gunner_Pig.label>Penembak kulit</Mercenary_Gunner_Pig.label>
+  
+  <!-- EN: town councilman -->
+  <Town_Councilman_Pig.label>konselor</Town_Councilman_Pig.label>
+  <!-- EN: town councilmen -->
+  <Town_Councilman_Pig.labelPlural>Sutradara</Town_Councilman_Pig.labelPlural>
+  
+  <!-- EN: town guard -->
+  <Town_Guard_Pig.label>Guardia</Town_Guard_Pig.label>
+  
+  <!-- EN: town trader -->
+  <Town_Trader_Pig.label>pedagang</Town_Trader_Pig.label>
+  
+  <!-- EN: villager -->
+  <Villager_Child_Pig.label>orang desa</Villager_Child_Pig.label>
+  
+  <!-- EN: villager -->
+  <Villager_Pig.label>orang desa</Villager_Pig.label>
+  
+</LanguageData>

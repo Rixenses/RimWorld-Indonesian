@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>pendatang</Colonist.label>
+  <Colonist.labelPlural>pemukim</Colonist.labelPlural>
+  
+  <!-- EN: member -->
+  <Tribesperson.label>anggota suku</Tribesperson.label>
+  <Tribesperson.labelPlural>anggota suku</Tribesperson.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A ritualistic burning of a hated symbol. Participants will gather around a sacrificial structure, light it on fire, and celebrate as it burns to ash. -->
+  <BurnCircle.descOverride>Pembakaran ritual simbol yang dibenci.Peserta berkumpul di sekitar struktur pengorbanan, membakar dan merayakan bagaimana itu menjadi abu.</BurnCircle.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <BurnCircle.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</BurnCircle.ritualExpectedDesc>
+  <!-- EN: symbol burning -->
+  <BurnCircle.shortDescOverride>pembakaran simbolik</BurnCircle.shortDescOverride>
+  
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyChat.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</CelebrationPartyChat.ritualExpectedDesc>
+  
+  <!-- EN: A dance party with drums. Participants will gather, socialize, play drums, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceDrum.descOverride>Pesta dansa dengan drum.Peserta akan bertemu, bersosialisasi, bermain drum dan menari untuk bersenang -senang dan terhubung dengan orang lain.</CelebrationPartyDanceDrum.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <!-- EN: drum party -->
+  <CelebrationPartyDanceDrum.shortDescOverride>Pesta drum</CelebrationPartyDanceDrum.shortDescOverride>
+  
+  <!-- EN: A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other. -->
+  <CelebrationPartyDanceTech.descOverride>Pesta dansa dengan musik dengan volume penuh.Peserta akan bertemu, bersosialisasi, dan menari untuk bersenang -senang dan terhubung dengan orang lain.</CelebrationPartyDanceTech.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationPartyDanceTech.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <!-- EN: dance party -->
+  <CelebrationPartyDanceTech.shortDescOverride>pesta dansa</CelebrationPartyDanceTech.shortDescOverride>
+  
+  <!-- EN: A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away. -->
+  <CelebrationSkyLanterns.descOverride>Ritual sosial di mana orang melepaskan lentera.Para peserta mengumpulkan lanral dengan pangkalan kayu saat bersosialisasi, kemudian mereka melepaskannya dan melihatnya pergi.</CelebrationSkyLanterns.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationSkyLanterns.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</CelebrationSkyLanterns.ritualExpectedDesc>
+  <!-- EN: skylantern festival -->
+  <CelebrationSkyLanterns.shortDescOverride>Festival Farolillos</CelebrationSkyLanterns.shortDescOverride>
+  
+  <!-- EN: A party around a Christmas tree. Participants will gather around a Christmas tree and make merry. -->
+  <CelebrationTree.descOverride>Pesta di sekitar pohon Natal.Peserta akan bertemu di sekitar pohon Natal dan bahagia.</CelebrationTree.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <CelebrationTree.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</CelebrationTree.ritualExpectedDesc>
+  <!-- EN: christmas tree party -->
+  <CelebrationTree.shortDescOverride>Pesta Natal</CelebrationTree.shortDescOverride>
+  
+  <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
+  <Conversion.ritualExplanation>Dalam hal keberhasilan, kepastiannya akan dikurangi atau dikonversi segera.Jika hasilnya negatif, kepastian dalam keyakinan akan meningkat.</Conversion.ritualExplanation>
+  
+  <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
+  <FeastCannibal.descOverride>Ritual makan daging.Peserta berkumpul di sekitar hidangan daging manusia dan memberi diri mereka pesta berdarah.</FeastCannibal.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <FeastCannibal.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</FeastCannibal.ritualExpectedDesc>
+  <!-- EN: cannibal feast -->
+  <FeastCannibal.shortDescOverride>Pesta kanibal</FeastCannibal.shortDescOverride>
+  
+  <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost. -->
+  <FuneralNoCorpse.ritualExpectedDesc>Anda dapat merayakan pemakaman {Ideoligion_adjective} untuk {Pawn_namedef} meskipun tubuh telah hilang.</FuneralNoCorpse.ritualExpectedDesc>
+  <!-- EN: You can hold a funeral for {PAWN_nameDef} even though the body was lost. -->
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>Anda dapat merayakan pemakaman untuk {Pawn_namedef} meskipun tubuh telah hilang.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  
+  <!-- EN: You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}. -->
+  <FuneralStandard.ritualExpectedDesc>Anda dapat merayakan pemakaman {ideoligion_adjective} untuk {Pawn_namedef}.</FuneralStandard.ritualExpectedDesc>
+  <!-- EN: You can hold a funeral for {PAWN_nameDef}. -->
+  <FuneralStandard.ritualExpectedDescNoAdjective>Anda dapat merayakan pemakaman untuk {Pawn_namedef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+  
+  <!-- EN: A ritualistic animal sacrifice. The organizer will give a speech to excite the crowd, then cut the animal's throat. Once the animal is dead, the organizer will speak some finishing words. -->
+  <SacrificeAnimal.descOverride>Pengorbanan hewan ritual.Penyelenggara akan mengucapkan pidato untuk menggairahkan kerumunan dan kemudian membantai hewan itu.Setelah hewan itu mati, penyelenggara akan mengucapkan beberapa kata terakhir.</SacrificeAnimal.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SacrificeAnimal.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</SacrificeAnimal.ritualExpectedDesc>
+  <!-- EN: animal sacrifice -->
+  <SacrificeAnimal.shortDescOverride>pengorbanan hewan</SacrificeAnimal.shortDescOverride>
+  
+  <!-- EN: A ritualistic prisoner sacrifice. The organizer will give a speech to excite the crowd, then cut the prisoner's throat. Once the prisoner is dead, organizer will speak some finishing words. -->
+  <SacrificePrisoner.descOverride>Pengorbanan ritual tahanan.Penyelenggara akan memberikan pidato untuk menggairahkan kerumunan, dan kemudian memotong tenggorokan tahanan.Setelah tahanan mati, penyelenggara akan mengucapkan beberapa kata terakhir.</SacrificePrisoner.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SacrificePrisoner.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</SacrificePrisoner.ritualExpectedDesc>
+  <!-- EN: prisoner sacrifice -->
+  <SacrificePrisoner.shortDescOverride>Pengorbanan tahanan</SacrificePrisoner.shortDescOverride>
+  
+  <!-- EN: A ritualistic smoking of large amounts of smokeleaf. Participants will gather around a burnbong or incense shrine, light it on fire, and celebrate while inhaling the fumes. -->
+  <SmokeCircle.descOverride>Ini adalah ritual di mana sejumlah besar daun merokok adalah asap.Peserta berkumpul di sekitar self -chimba atau dupa cagar alam, membakar dan merayakan saat menghirup asap.</SmokeCircle.descOverride>
+  <!-- EN: Every year on {DATE}, {MEMBERS} can have a special celebration. -->
+  <SmokeCircle.ritualExpectedDesc>Setiap tahun, {date}, {anggota} dapat memiliki perayaan khusus.</SmokeCircle.ritualExpectedDesc>
+  <!-- EN: smokeleaf circle -->
+  <SmokeCircle.shortDescOverride>Lingkaran rumput merokok</SmokeCircle.shortDescOverride>
+  
+</LanguageData>

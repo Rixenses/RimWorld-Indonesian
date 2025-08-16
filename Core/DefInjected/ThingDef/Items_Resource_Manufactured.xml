@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel -->
+  <Chemfuel.label>Biofuel</Chemfuel.label>
+  <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
+  <Chemfuel.description>Senyawa kimia yang sangat mudah menguap.Ini digunakan sebagai bahan bakar untuk roket dan mesin lainnya.</Chemfuel.description>
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>Komponen</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>Roda gigi, kapasitor, sirkuit, tabung, roda, sensor, kabel, chip, prosesor, dan suku cadang industri dan elektronik lainnya.Apa yang diperlukan untuk merakit mesin yang kompleks.</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>Komponen lanjutan</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>Peralatan elektronik berkualitas tinggi, miniatur dan dikeraskan untuk aplikasi yang paling menegangkan.</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>Herbal Obat</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>Sebagian breebajes herbal diekstraksi dari akar tanaman Xerigia.Ini kurang kuat dari produk farmasi industri, tetapi jauh lebih baik daripada apa pun.</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>obat</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>Kit tim medis dari era industri.Ini berisi obat -obatan dasar, alat untuk menjahit dan memperbaiki tulang, perangkat diagnostik dan beberapa bantalan dan cairan.</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>Obat mundobrillante</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>Kit Persediaan Medis Lanjutan dari Teknologi Ultra, mungkin diproduksi di beberapa Mundobrillante.Ini mengandung obat polimorfik lanjut, AIDS untuk diagnosis dan penyembuhan nanosit, mini-imageer dan beberapa alat multiguna.</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>neutroamine</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>Seorang ahli kimia sintetis digunakan sebagai prekursor.Tidak berguna dengan sendirinya, banyak obat membutuhkan neutroamin sebagai bahan.</Neutroamine.description>
+  
+  <!-- EN: reinforced barrel -->
+  <ReinforcedBarrel.label>meriam yang diperkuat</ReinforcedBarrel.label>
+  <!-- EN: A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale. -->
+  <ReinforcedBarrel.description>Meriam senjata besar berdasarkan proyektil seperti mortir.Untuk mendukung tekanan peluncuran tinggi, ini terutama diperkuat dan tidak dapat diproduksi dalam skala kecil.</ReinforcedBarrel.description>
+  
+</LanguageData>

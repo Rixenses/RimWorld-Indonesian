@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>Pitaformable</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>excavable</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>dapat dibudidayakan</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>kompak</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>lembut</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>terkonsolidasi</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>Perairan yang bergerak</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>perairan dangkal</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>Alisable</SmoothableStone.label>
+  
+  <!-- EN: walkable -->
+  <Walkable.label>mendingan</Walkable.label>
+  
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduitable.label>Saluran tahan air</WaterproofConduitable.label>
+  
+</LanguageData>

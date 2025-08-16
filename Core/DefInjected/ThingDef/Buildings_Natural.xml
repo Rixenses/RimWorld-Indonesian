@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab cocoon -->
+  <CocoonMegascarab.label>Crisálida de Megascarabajo</CocoonMegascarab.label>
+  <!-- EN: A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegascarab.description>Chrysalis dalam stasis yang berisi megascarabajo.Chrysalid ini menjaga mereka tetap aman dari api, suhu ekstrem dan ancaman lainnya selama bertahun -tahun.Jika chrysalis terganggu atau dihancurkan, insektoid interiornya akan bangun dan menyerang, memicu reaksi chrysalis terdekat lainnya.</CocoonMegascarab.description>
+  
+  <!-- EN: megaspider cocoon -->
+  <CocoonMegaspider.label>Megaraña Chrishing</CocoonMegaspider.label>
+  <!-- EN: A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonMegaspider.description>Chrysalis dalam stasis yang mengandung megar.Chrysalid ini menjaga mereka tetap aman dari api, suhu ekstrem dan ancaman lainnya selama bertahun -tahun.Jika chrysalis terganggu atau dihancurkan, insektoid interiornya akan bangun dan menyerang, memicu reaksi chrysalis terdekat lainnya.</CocoonMegaspider.description>
+  
+  <!-- EN: spelopede cocoon -->
+  <CocoonSpelopede.label>Crystalide of Espelaópedo</CocoonSpelopede.label>
+  <!-- EN: A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <CocoonSpelopede.description>Chrysalis dalam stasis yang berisi spons.Chrysalid ini menjaga mereka tetap aman dari api, suhu ekstrem dan ancaman lainnya selama bertahun -tahun.Jika chrysalis terganggu atau dihancurkan, insektoid interiornya akan bangun dan menyerang, memicu reaksi chrysalis terdekat lainnya.</CocoonSpelopede.description>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>runtuh batu</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>Runtuhnya batu cukup dipadatkan untuk mempertahankan atap.</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>Sarung cerah</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>Selubung bioluminescent yang diproduksi oleh insektoid raksasa.Itu bersinar dalam cahayanya sendiri untuk waktu yang lama, dan kemudian mati.</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>sarang lebah</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>Sarang insektoid raksasa.Setelah aktif, seiring waktu itu akan memunculkan lebih banyak insektoid dan gatal -gatal, serta jeli serangga yang berharga.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>mesin yang dipadatkan</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Mesin tua yang telah dipadatkan dari waktu ke waktu.Ini dapat ditambang untuk mencari komponen yang bermanfaat.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>Bijih Emas</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Batu yang berisi fragmen emas.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>giok</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Batu yang berisi fragmen giok.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>Plastiacero yang dipadatkan</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Puing -puing padat kuno yang kaya akan plastiacero.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>Mena perak</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Roca dengan fragmen perak di dalamnya.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>baja yang dipadatkan</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Sisa -sisa beberapa struktur lama runtuh.Kaya baja.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>Uranium Orange</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Roca dengan fragmen uranium di dalamnya.</MineableUranium.description>
+  
+  <!-- EN: raised rocks -->
+  <RaisedRocks.label>Batu terangkat</RaisedRocks.label>
+  <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
+  <RaisedRocks.description>Dinding rapuh yang terbuat dari batu.Dia pingsan seiring waktu.</RaisedRocks.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>Geyser uap</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Sumber alami uap pada tekanan tinggi.Generator panas bumi dapat memanfaatkan energi uap.Bukan ide yang baik untuk membuat kamar tentang dia, kecuali jika Anda ingin memasak apa pun di dalamnya.</SteamGeyser.description>
+  
+</LanguageData>

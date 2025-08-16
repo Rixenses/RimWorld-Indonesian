@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chassis -->
+  <DroneChassis.label>casis</DroneChassis.label>
+  
+  <!-- EN: core -->
+  <DroneCore.label>inti</DroneCore.label>
+  
+  <!-- EN: visual sensor -->
+  <DroneEye.label>Sensor penglihatan</DroneEye.label>
+  
+  <!-- EN: shell -->
+  <DroneShell.label>kerang</DroneShell.label>
+  
+  <!-- EN: shell section -->
+  <DroneShellSection.label>Bagian Carazón</DroneShellSection.label>
+  
+  <!-- EN: spiked shell section -->
+  <DroneShellSectionWithSpike.label>Bagian Carazón dengan tusuk sate</DroneShellSectionWithSpike.label>
+  
+  <!-- EN: tread -->
+  <DroneTreads.label>ulat</DroneTreads.label>
+  
+</LanguageData>

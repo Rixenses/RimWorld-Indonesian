@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crashlanded -->
+  <Crashlanded.label>Casterway</Crashlanded.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.description>Anda bertiga bangun di cryptosueño sarkophagi Anda dengan suara sirene dan mencicit logam.Anda memperbaikinya untuk mencapai kapsul buang sebelum kapal dihancurkan.Tak lama setelah itu, Anda mendarat di dunia perbatasan yang belum dijelajahi ini ke tepi galaksi.</Crashlanded.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Crashlanded.scenario.description>Anda bertiga bangun di cryptosueño sarkophagi Anda dengan suara sirene dan mencicit logam.Anda memperbaikinya untuk mencapai kapsul buang sebelum kapal dihancurkan.Tak lama setelah itu, Anda mendarat di dunia perbatasan yang belum dijelajahi ini ke tepi galaksi.</Crashlanded.scenario.description>
+  <!-- EN: Crashlanded -->
+  <Crashlanded.scenario.name>Casterway</Crashlanded.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Crashlanded.scenario.summary>Tiga kapal karam spasial.Pengalaman klasik Rimworld.</Crashlanded.scenario.summary>
+  
+  <!-- EN: Lost Tribe -->
+  <LostTribe.label>Suku yang hilang</LostTribe.label>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.description>Suku Anda dihancurkan oleh mesin darah besar yang dikirim oleh para dewa.Lima dari Anda berhasil melarikan diri.Sekarang saatnya membangun rumah baru. \ N \ nnota: Karena Anda akan mulai miskin dan tanpa teknologi, ini adalah skenario yang sulit.</LostTribe.description>
+  <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
+  <LostTribe.scenario.description>Suku Anda dihancurkan oleh mesin darah besar yang dikirim oleh para dewa.Lima dari Anda berhasil melarikan diri.Sekarang saatnya membangun rumah baru. \ N \ nnota: Karena Anda akan mulai miskin dan tanpa teknologi, ini adalah skenario yang sulit.</LostTribe.scenario.description>
+  <!-- EN: Lost Tribe -->
+  <LostTribe.scenario.name>Suku yang hilang</LostTribe.scenario.name>
+  <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
+  <LostTribe.scenario.parts.GameStartDialog.text>Para dewa sangat marah.Mesin darah tiba di malam hari.Mereka menyapu desa, membunuh dan membakar orang -orang Anda dengan pedang dan api iblis mereka.</LostTribe.scenario.parts.GameStartDialog.text>
+  <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
+  <LostTribe.scenario.summary>Lima suku yang hilang mencoba membangun kembali kehidupan mereka.Sulit.</LostTribe.scenario.summary>
+  
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.label>Ketelanjangan brutal</NakedBrutality.label>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.description>Mereka membius untuk operasi ringan.Sekarang Anda telah terbangun dalam kapsul pelarian yang telah menabrak planet yang jauh.Anda tanpa pakaian, tanpa ditemani, tanpa peralatan apa pun dan atas belas kasihan yang tidak diketahui. Bisakah kamu bertahan?</NakedBrutality.description>
+  <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
+  <NakedBrutality.scenario.description>Mereka membius untuk operasi ringan.Sekarang Anda telah terbangun dalam kapsul pelarian yang telah menabrak planet yang jauh.Anda tanpa pakaian, tanpa ditemani, tanpa peralatan apa pun dan atas belas kasihan yang tidak diketahui. Bisakah kamu bertahan?</NakedBrutality.scenario.description>
+  <!-- EN: Naked Brutality -->
+  <NakedBrutality.scenario.name>Ketelanjangan brutal</NakedBrutality.scenario.name>
+  <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Itu seharusnya operasi kecil.Hanya satu jam di bawah anestesi. Anda pikir semuanya akan baik -baik saja.Tanpa persiapan, persediaan atau alat, dapatkah Anda bertahan hidup?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
+  <NakedBrutality.scenario.summary>Tidak ada pakaian, tanpa perusahaan dan tanpa peralatan.Bisakah kamu bertahan?Sangat sulit dan tidak adil.</NakedBrutality.scenario.summary>
+  
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.label>The Millionaire Explorer</TheRichExplorer.label>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.description>Orang -orang mengkritik Anda dan mengatakan Anda telah kehilangan alasan untuk meninggalkan rumah Anda di Mundobrillante, tetapi Anda selalu merindukan menjelajahi bintang -bintang keluar dari neurosimulator.Sekarang setelah Anda mencapai akhir perjalanan Cryptosueño panjang Anda, Anda mendarat di dunia perbatasan yang belum dijelajahi ini di tepi galaksi.</TheRichExplorer.description>
+  <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
+  <TheRichExplorer.scenario.description>Orang -orang mengkritik Anda dan mengatakan Anda telah kehilangan alasan untuk meninggalkan rumah Anda di Mundobrillante, tetapi Anda selalu merindukan menjelajahi bintang -bintang keluar dari neurosimulator.Sekarang setelah Anda mencapai akhir perjalanan Cryptosueño panjang Anda, Anda mendarat di dunia perbatasan yang belum dijelajahi ini di tepi galaksi.</TheRichExplorer.scenario.description>
+  <!-- EN: The Rich Explorer -->
+  <TheRichExplorer.scenario.name>The Millionaire Explorer</TheRichExplorer.scenario.name>
+  <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>Permainan neurosimulator dan organ gratis tidak pernah cukup untuk Anda.Anda menginginkan lebih, pengalaman dan konsekuensi dari kehidupan nyata, seperti yang diceritakan dalam buku -buku sejarah.Anda ingin merasakan tantangan nyata dan konsekuensinya.Konsekuensi sebenarnya menanti Anda.</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
+  <TheRichExplorer.scenario.summary>Seorang penjelajah kaya ingin mengalami alam semesta yang sebenarnya.</TheRichExplorer.scenario.summary>
+  
+  <!-- EN: tutorial -->
+  <Tutorial.label>tutorial</Tutorial.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.description>Anda bertiga bangun di cryptosueño sarkophagi Anda dengan suara sirene dan mencicit logam.Anda memperbaikinya untuk mencapai kapsul buang sebelum kapal dihancurkan.Tak lama setelah itu, Anda mendarat di dunia perbatasan yang belum dijelajahi ini ke tepi galaksi.</Tutorial.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
+  <Tutorial.scenario.description>Anda bertiga bangun di cryptosueño sarkophagi Anda dengan suara sirene dan mencicit logam.Anda memperbaikinya untuk mencapai kapsul buang sebelum kapal dihancurkan.Tak lama setelah itu, Anda mendarat di dunia perbatasan yang belum dijelajahi ini ke tepi galaksi.</Tutorial.scenario.description>
+  <!-- EN: tutorial -->
+  <Tutorial.scenario.name>tutorial</Tutorial.scenario.name>
+  <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
+  <Tutorial.scenario.summary>Tiga orang yang selamat berbintang.Pengalaman klasik Rimworld.</Tutorial.scenario.summary>
+  
+</LanguageData>

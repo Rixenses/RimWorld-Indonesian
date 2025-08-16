@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Misc -->
+  <!-- EN: Need mechanitor colonist -->
+  <MissingRequiredMechanitor>Kolon mechanitor dibutuhkan</MissingRequiredMechanitor>
+  <!-- EN: {0} not studied -->
+  <NotStudied>{0} belum dipelajari</NotStudied>
+  <!-- EN: Requires study of -->
+  <StudyRequirements>Membutuhkan studi dari</StudyRequirements>
+  <!-- EN: Preferred xenotypes -->
+  <PreferredXenotypes>Xenotype yang disukai</PreferredXenotypes>
+
+  <!-- Work tab -->
+  <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3} -->
+  <WorkDisabledAge>{0_namedef} hanya memiliki {1} tahun.Pekerjaan {2} hanya dapat dilakukan dari usia {3} tahun</WorkDisabledAge>
+  <!-- EN: Click to change work mode. -->
+  <ClickToChangeWorkMode>Klik untuk mengubah mode kerja.</ClickToChangeWorkMode>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>wabah</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>meletus</Explosion.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer.label>penerbangan</PawnFlyer.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer_Stun.label>penerbangan</PawnFlyer_Stun.label>
+  
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>tanah yang terganggu</PawnGroundSpawner.label>
+  
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>aktivator kedekatan</RadialTrigger.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>timer</RectTrigger.label>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>angin topan</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>Wadah Aktivator Vakum</TriggerContainerEmptied.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>Menghancurkan detonator</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>terowongan</TunnelHiveSpawner.label>
+  
+</LanguageData>

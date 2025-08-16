@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alligator -->
+  <Alligator.label>buaya</Alligator.label>
+  <Alligator.labelPlural>buaya</Alligator.labelPlural>
+  <Alligator.lifeStages.0.label>Aligáctor Breeding</Alligator.lifeStages.0.label>
+  <Alligator.lifeStages.0.labelPlural>Keturunan Aligáctor</Alligator.lifeStages.0.labelPlural>
+  <Alligator.lifeStages.1.label>Aligátor muda</Alligator.lifeStages.1.label>
+  <Alligator.lifeStages.1.labelPlural>Ringan muda</Alligator.lifeStages.1.labelPlural>
+  <Alligator.lifeStages.2.label>buaya</Alligator.lifeStages.2.label>
+  <Alligator.lifeStages.2.labelPlural>buaya</Alligator.lifeStages.2.labelPlural>
+  
+  <!-- EN: alpha thrumbo -->
+  <AlphaThrumbo.label>Alpha Trumbo</AlphaThrumbo.label>
+  <AlphaThrumbo.labelPlural>Trumbs Alpha</AlphaThrumbo.labelPlural>
+  <!-- EN: alpha thrumbo calf -->
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>Trumbo Alpha Breed</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>
+  <!-- EN: alpha thrumbo calves -->
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>Trumbo Alfa piring</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>
+  <AlphaThrumbo.lifeStages.1.label>Trumbo Alfa Joven</AlphaThrumbo.lifeStages.1.label>
+  <AlphaThrumbo.lifeStages.1.labelPlural>Tumbos Alpha Muda</AlphaThrumbo.lifeStages.1.labelPlural>
+  <AlphaThrumbo.lifeStages.2.label>Alpha Trumbo</AlphaThrumbo.lifeStages.2.label>
+  <AlphaThrumbo.lifeStages.2.labelPlural>Trumbs Alpha</AlphaThrumbo.lifeStages.2.labelPlural>
+  
+  <!-- EN: armadillo -->
+  <Armadillo.label>Armadillo</Armadillo.label>
+  <Armadillo.labelPlural>Armadillos</Armadillo.labelPlural>
+  <Armadillo.lifeStages.0.label>Breeding Armadillo</Armadillo.lifeStages.0.label>
+  <Armadillo.lifeStages.0.labelPlural>Keturunan Armadillo</Armadillo.lifeStages.0.labelPlural>
+  <Armadillo.lifeStages.1.label>Armadillo muda</Armadillo.lifeStages.1.label>
+  <Armadillo.lifeStages.1.labelPlural>Armadillo muda</Armadillo.lifeStages.1.labelPlural>
+  <Armadillo.lifeStages.2.label>Armadillo</Armadillo.lifeStages.2.label>
+  <Armadillo.lifeStages.2.labelPlural>Armadillos</Armadillo.lifeStages.2.labelPlural>
+  
+  <!-- EN: badger -->
+  <Badger.label>luak</Badger.label>
+  <Badger.labelPlural>Tim</Badger.labelPlural>
+  <Badger.lifeStages.0.label>Pembiakan</Badger.lifeStages.0.label>
+  <Badger.lifeStages.0.labelPlural>Membangun anak anjing</Badger.lifeStages.0.labelPlural>
+  <Badger.lifeStages.1.label>Toko muda</Badger.lifeStages.1.label>
+  <Badger.lifeStages.1.labelPlural>Pertunjukan muda</Badger.lifeStages.1.labelPlural>
+  <Badger.lifeStages.2.label>luak</Badger.lifeStages.2.label>
+  <Badger.lifeStages.2.labelPlural>Tim</Badger.lifeStages.2.labelPlural>
+  
+  <!-- EN: bog hound -->
+  <BogHound.label>Hound berawa</BogHound.label>
+  <BogHound.labelPlural>Saberanosos</BogHound.labelPlural>
+  <!-- EN: bog hound puppy -->
+  <BogHound.lifeStages.bog_hound_puppy.label>Hound berawa</BogHound.lifeStages.bog_hound_puppy.label>
+  <BogHound.lifeStages.bog_hound_puppy.labelFemale>Puppy Hound Swampy</BogHound.lifeStages.bog_hound_puppy.labelFemale>
+  <BogHound.lifeStages.bog_hound_puppy.labelFemalePlural>Menekan anak anjing</BogHound.lifeStages.bog_hound_puppy.labelFemalePlural>
+  <!-- EN: bog hound puppies -->
+  <BogHound.lifeStages.bog_hound_puppy.labelPlural>Paman Hound Puppies</BogHound.lifeStages.bog_hound_puppy.labelPlural>
+  <BogHound.lifeStages.1.label>Swiss Sabanoso Young</BogHound.lifeStages.1.label>
+  <BogHound.lifeStages.1.labelPlural>Saits Swampy Young</BogHound.lifeStages.1.labelPlural>
+  <BogHound.lifeStages.2.label>Hound berawa</BogHound.lifeStages.2.label>
+  <BogHound.lifeStages.2.labelPlural>Saberanosos</BogHound.lifeStages.2.labelPlural>
+  
+  <!-- EN: bullfrog -->
+  <Bullfrog.label>London</Bullfrog.label>
+  <Bullfrog.labelPlural>Toro Frogs</Bullfrog.labelPlural>
+  <Bullfrog.lifeStages.0.label>Rano Ranojo Toro</Bullfrog.lifeStages.0.label>
+  <Bullfrog.lifeStages.0.labelPlural>Ranacuojos de rana toro</Bullfrog.lifeStages.0.labelPlural>
+  <Bullfrog.lifeStages.1.label>Katak banteng muda</Bullfrog.lifeStages.1.label>
+  <Bullfrog.lifeStages.1.labelPlural>Katak banteng muda</Bullfrog.lifeStages.1.labelPlural>
+  <Bullfrog.lifeStages.2.label>London</Bullfrog.lifeStages.2.label>
+  <Bullfrog.lifeStages.2.labelPlural>Toro Frogs</Bullfrog.lifeStages.2.labelPlural>
+  
+  <!-- EN: scimitar cat -->
+  <Cat_Scimitar.label>Cimitar Cat</Cat_Scimitar.label>
+  <Cat_Scimitar.labelPlural>Kucing Cimitarra</Cat_Scimitar.labelPlural>
+  <Cat_Scimitar.lifeStages.0.label>Cimitar Cat Puppy</Cat_Scimitar.lifeStages.0.label>
+  <Cat_Scimitar.lifeStages.0.labelFemale>Cimitarra Cat Puppy</Cat_Scimitar.lifeStages.0.labelFemale>
+  <Cat_Scimitar.lifeStages.0.labelFemalePlural>Anak anjing kucing cimitar</Cat_Scimitar.lifeStages.0.labelFemalePlural>
+  <Cat_Scimitar.lifeStages.0.labelPlural>Anak anjing kucing cimitar</Cat_Scimitar.lifeStages.0.labelPlural>
+  <Cat_Scimitar.lifeStages.1.label>Kucing Cimitar Muda</Cat_Scimitar.lifeStages.1.label>
+  <Cat_Scimitar.lifeStages.1.labelPlural>Kucing Cimitar Muda</Cat_Scimitar.lifeStages.1.labelPlural>
+  <Cat_Scimitar.lifeStages.2.label>Cimitar Cat</Cat_Scimitar.lifeStages.2.label>
+  <Cat_Scimitar.lifeStages.2.labelPlural>Kucing Cimitarra</Cat_Scimitar.lifeStages.2.labelPlural>
+  
+  <!-- EN: colossus toad -->
+  <ColossusToad.label>Katak kolosal</ColossusToad.label>
+  <ColossusToad.labelPlural>Katak kolosal</ColossusToad.labelPlural>
+  <ColossusToad.lifeStages.0.label>Katol Kolosal Reborn</ColossusToad.lifeStages.0.label>
+  <ColossusToad.lifeStages.0.labelPlural>Tadguard Katak Kolosal</ColossusToad.lifeStages.0.labelPlural>
+  <ColossusToad.lifeStages.1.label>Katak kolosal muda</ColossusToad.lifeStages.1.label>
+  <ColossusToad.lifeStages.1.labelPlural>Katak kolosal muda</ColossusToad.lifeStages.1.labelPlural>
+  <ColossusToad.lifeStages.2.label>Katak kolosal</ColossusToad.lifeStages.2.label>
+  <ColossusToad.lifeStages.2.labelPlural>Katak kolosal</ColossusToad.lifeStages.2.labelPlural>
+  
+  <!-- EN: gorilla -->
+  <Gorilla.label>Gorila</Gorilla.label>
+  <Gorilla.labelPlural>gorila</Gorilla.labelPlural>
+  <Gorilla.lifeStages.0.label>Gorilla Baby</Gorilla.lifeStages.0.label>
+  <Gorilla.lifeStages.0.labelPlural>Bayi Gorilas</Gorilla.lifeStages.0.labelPlural>
+  <Gorilla.lifeStages.1.label>Gorilla muda</Gorilla.lifeStages.1.label>
+  <Gorilla.lifeStages.1.labelPlural>Gorila muda</Gorilla.lifeStages.1.labelPlural>
+  <Gorilla.lifeStages.2.label>Gorila</Gorilla.lifeStages.2.label>
+  <Gorilla.lifeStages.2.labelPlural>gorila</Gorilla.lifeStages.2.labelPlural>
+  
+  <!-- EN: hippo -->
+  <Hippo.label>Hippo</Hippo.label>
+  <Hippo.labelPlural>kuda nil</Hippo.labelPlural>
+  <Hippo.lifeStages.0.label>Kuda nil</Hippo.lifeStages.0.label>
+  <Hippo.lifeStages.0.labelPlural>Keturunan Hippo</Hippo.lifeStages.0.labelPlural>
+  <Hippo.lifeStages.1.label>Hippopotamus muda</Hippo.lifeStages.1.label>
+  <Hippo.lifeStages.1.labelPlural>Kuda nil muda</Hippo.lifeStages.1.labelPlural>
+  <Hippo.lifeStages.2.label>Hippo</Hippo.lifeStages.2.label>
+  <Hippo.lifeStages.2.labelPlural>kuda nil</Hippo.lifeStages.2.labelPlural>
+  
+  <!-- EN: lava snail -->
+  <LavaSnail.label>Siput lava</LavaSnail.label>
+  <LavaSnail.labelPlural>Siput lava</LavaSnail.labelPlural>
+  <LavaSnail.lifeStages.0.label>Pemuliaan siput laval</LavaSnail.lifeStages.0.label>
+  <LavaSnail.lifeStages.0.labelPlural>Keturunan Siput Laval</LavaSnail.lifeStages.0.labelPlural>
+  <LavaSnail.lifeStages.1.label>Siput Lava Muda</LavaSnail.lifeStages.1.label>
+  <LavaSnail.lifeStages.1.labelPlural>Siput Lava Muda</LavaSnail.lifeStages.1.labelPlural>
+  <LavaSnail.lifeStages.2.label>Siput lava</LavaSnail.lifeStages.2.label>
+  <LavaSnail.lifeStages.2.labelPlural>Siput lava</LavaSnail.lifeStages.2.labelPlural>
+  
+  <!-- EN: mastodon -->
+  <Mastodon.label>mastodon</Mastodon.label>
+  <Mastodon.labelPlural>mastodones</Mastodon.labelPlural>
+  <!-- EN: mastodon calf -->
+  <Mastodon.lifeStages.mastodon_calf.label>pemuliaan mastodon</Mastodon.lifeStages.mastodon_calf.label>
+  <Mastodon.lifeStages.mastodon_calf.labelFemale>Anjing mastodonte</Mastodon.lifeStages.mastodon_calf.labelFemale>
+  <Mastodon.lifeStages.mastodon_calf.labelFemalePlural>Anjing mastodon</Mastodon.lifeStages.mastodon_calf.labelFemalePlural>
+  <!-- EN: mastodon calves -->
+  <Mastodon.lifeStages.mastodon_calf.labelPlural>Mastodon Young</Mastodon.lifeStages.mastodon_calf.labelPlural>
+  <Mastodon.lifeStages.1.label>Mastodon muda</Mastodon.lifeStages.1.label>
+  <Mastodon.lifeStages.1.labelPlural>Mastodon muda</Mastodon.lifeStages.1.labelPlural>
+  <Mastodon.lifeStages.2.label>mastodon</Mastodon.lifeStages.2.label>
+  <Mastodon.lifeStages.2.labelPlural>mastodones</Mastodon.lifeStages.2.labelPlural>
+  
+  <!-- EN: megavole -->
+  <Megavole.label>Megatopillo</Megavole.label>
+  <Megavole.labelPlural>Megatopillos</Megavole.labelPlural>
+  <Megavole.lifeStages.0.label>Breeding Megatopillo</Megavole.lifeStages.0.label>
+  <Megavole.lifeStages.0.labelPlural>Keturunan Megatopillo</Megavole.lifeStages.0.labelPlural>
+  <Megavole.lifeStages.1.label>Megatopillo muda</Megavole.lifeStages.1.label>
+  <Megavole.lifeStages.1.labelPlural>Megatopillos muda</Megavole.lifeStages.1.labelPlural>
+  <Megavole.lifeStages.2.label>Megatopillo</Megavole.lifeStages.2.label>
+  <Megavole.lifeStages.2.labelPlural>Megatopillo</Megavole.lifeStages.2.labelPlural>
+  
+  <!-- EN: mink -->
+  <Mink.label>Visón</Mink.label>
+  <Mink.labelPlural>Visones</Mink.labelPlural>
+  <Mink.lifeStages.0.label>Penglihatan anak anjing</Mink.lifeStages.0.label>
+  <Mink.lifeStages.0.labelFemale>Penglihatan anak anjing</Mink.lifeStages.0.labelFemale>
+  <Mink.lifeStages.0.labelFemalePlural>Penglihatan anak anjing</Mink.lifeStages.0.labelFemalePlural>
+  <Mink.lifeStages.0.labelPlural>Penglihatan anak anjing</Mink.lifeStages.0.labelPlural>
+  <Mink.lifeStages.1.label>Visi Muda</Mink.lifeStages.1.label>
+  <Mink.lifeStages.1.labelPlural>Visa muda</Mink.lifeStages.1.labelPlural>
+  <Mink.lifeStages.2.label>Visón</Mink.lifeStages.2.label>
+  <Mink.lifeStages.2.labelPlural>Visones</Mink.lifeStages.2.labelPlural>
+  
+  <!-- EN: monitor lizard -->
+  <MonitorLizard.label>Pantau kadal</MonitorLizard.label>
+  <MonitorLizard.labelPlural>Pantau kadal</MonitorLizard.labelPlural>
+  <MonitorLizard.lifeStages.0.label>Lagarto Monitor BER</MonitorLizard.lifeStages.0.label>
+  <MonitorLizard.lifeStages.0.labelPlural>Lagarto Monitor Plays</MonitorLizard.lifeStages.0.labelPlural>
+  <MonitorLizard.lifeStages.1.label>Lizard Monitor Muda</MonitorLizard.lifeStages.1.label>
+  <MonitorLizard.lifeStages.1.labelPlural>Kadal monitor muda</MonitorLizard.lifeStages.1.labelPlural>
+  <MonitorLizard.lifeStages.2.label>Pantau kadal</MonitorLizard.lifeStages.2.label>
+  <MonitorLizard.lifeStages.2.labelPlural>Pantau kadal</MonitorLizard.lifeStages.2.labelPlural>
+  
+  <!-- EN: moose -->
+  <Moose.label>rusa besar</Moose.label>
+  <!-- EN: moose -->
+  <Moose.labelPlural>Alces</Moose.labelPlural>
+  <!-- EN: moose calf -->
+  <Moose.lifeStages.moose_calf.label>Pemuliaan alce</Moose.lifeStages.moose_calf.label>
+  <Moose.lifeStages.moose_calf.labelFemale>Pemuliaan alce</Moose.lifeStages.moose_calf.labelFemale>
+  <Moose.lifeStages.moose_calf.labelFemalePlural>Keturunan ALCE</Moose.lifeStages.moose_calf.labelFemalePlural>
+  <!-- EN: moose calves -->
+  <Moose.lifeStages.moose_calf.labelPlural>Keturunan ALCE</Moose.lifeStages.moose_calf.labelPlural>
+  <Moose.lifeStages.1.label>Alce muda</Moose.lifeStages.1.label>
+  <Moose.lifeStages.1.labelPlural>Alces muda</Moose.lifeStages.1.labelPlural>
+  <Moose.lifeStages.2.label>rusa besar</Moose.lifeStages.2.label>
+  <Moose.lifeStages.2.labelPlural>Alces</Moose.lifeStages.2.labelPlural>
+  
+  <!-- EN: muskox -->
+  <Muskox.label>Musk Ox</Muskox.label>
+  <!-- EN: muskoxen -->
+  <Muskox.labelPlural>Musk Ox</Muskox.labelPlural>
+  <!-- EN: muskox calf -->
+  <Muskox.lifeStages.muskox_calf.label>Pembiakan Musk Ox</Muskox.lifeStages.muskox_calf.label>
+  <!-- EN: muskox calves -->
+  <Muskox.lifeStages.muskox_calf.labelPlural>Keturunan Musk Ox</Muskox.lifeStages.muskox_calf.labelPlural>
+  <Muskox.lifeStages.1.labelPlural>OX MUSK MUDA</Muskox.lifeStages.1.labelPlural>
+  <Muskox.lifeStages.2.label>Musk Ox</Muskox.lifeStages.2.label>
+  <Muskox.lifeStages.2.labelPlural>Musk Ox</Muskox.lifeStages.2.labelPlural>
+  
+  <!-- EN: panda -->
+  <Panda.label>panda</Panda.label>
+  <Panda.labelPlural>panda</Panda.labelPlural>
+  <Panda.lifeStages.0.label>Bayi panda</Panda.lifeStages.0.label>
+  <Panda.lifeStages.0.labelPlural>Bayi panda</Panda.lifeStages.0.labelPlural>
+  <Panda.lifeStages.1.label>Panda Muda</Panda.lifeStages.1.label>
+  <Panda.lifeStages.1.labelPlural>Panda muda</Panda.lifeStages.1.labelPlural>
+  <Panda.lifeStages.2.label>panda</Panda.lifeStages.2.label>
+  <Panda.lifeStages.2.labelPlural>panda</Panda.lifeStages.2.labelPlural>
+  
+  <!-- EN: porcupine -->
+  <Porcupine.label>Puelcoespin</Porcupine.label>
+  <Porcupine.labelPlural>landak</Porcupine.labelPlural>
+  <Porcupine.lifeStages.0.label>pemuliaan landak</Porcupine.lifeStages.0.label>
+  <Porcupine.lifeStages.0.labelPlural>anak landak</Porcupine.lifeStages.0.labelPlural>
+  <Porcupine.lifeStages.1.label>Babi Muda</Porcupine.lifeStages.1.label>
+  <Porcupine.lifeStages.1.labelPlural>Babi Muda</Porcupine.lifeStages.1.labelPlural>
+  <Porcupine.lifeStages.2.label>Puelcoespin</Porcupine.lifeStages.2.label>
+  <Porcupine.lifeStages.2.labelPlural>landak</Porcupine.lifeStages.2.labelPlural>
+  
+  <!-- EN: prairie dog -->
+  <PrairieDog.label>Anak anjing padang rumput</PrairieDog.label>
+  <PrairieDog.labelPlural>Anak anjing padang rumput</PrairieDog.labelPlural>
+  <PrairieDog.lifeStages.0.label>Anak anjing padang rumput</PrairieDog.lifeStages.0.label>
+  <PrairieDog.lifeStages.0.labelFemale>Anak anjing padang rumput</PrairieDog.lifeStages.0.labelFemale>
+  <PrairieDog.lifeStages.0.labelFemalePlural>Anak anjing pradera pupperito</PrairieDog.lifeStages.0.labelFemalePlural>
+  <PrairieDog.lifeStages.0.labelPlural>Anak anjing pupuk padang rumput</PrairieDog.lifeStages.0.labelPlural>
+  <PrairieDog.lifeStages.1.label>Anak anjing padang rumput muda</PrairieDog.lifeStages.1.label>
+  <PrairieDog.lifeStages.1.labelPlural>Anjing padang rumput muda</PrairieDog.lifeStages.1.labelPlural>
+  <PrairieDog.lifeStages.2.label>Anak anjing padang rumput</PrairieDog.lifeStages.2.label>
+  <PrairieDog.lifeStages.2.labelPlural>Anak anjing padang rumput</PrairieDog.lifeStages.2.labelPlural>
+  
+  <!-- EN: tiger -->
+  <Tiger.label>Tigre</Tiger.label>
+  <Tiger.labelFemale>harimau betina</Tiger.labelFemale>
+  <Tiger.labelPlural>Macan</Tiger.labelPlural>
+  <Tiger.lifeStages.0.label>Anak anjing harimau</Tiger.lifeStages.0.label>
+  <Tiger.lifeStages.0.labelFemale>anjing harimau</Tiger.lifeStages.0.labelFemale>
+  <Tiger.lifeStages.0.labelFemalePlural>anjing harimau</Tiger.lifeStages.0.labelFemalePlural>
+  <Tiger.lifeStages.0.labelPlural>Anak anjing harimau</Tiger.lifeStages.0.labelPlural>
+  <Tiger.lifeStages.1.label>Harimau muda</Tiger.lifeStages.1.label>
+  <Tiger.lifeStages.1.labelFemale>Tigresa muda</Tiger.lifeStages.1.labelFemale>
+  <Tiger.lifeStages.1.labelFemalePlural>Macan muda</Tiger.lifeStages.1.labelFemalePlural>
+  <Tiger.lifeStages.1.labelPlural>Macan muda</Tiger.lifeStages.1.labelPlural>
+  <Tiger.lifeStages.2.label>Tigre</Tiger.lifeStages.2.label>
+  <Tiger.lifeStages.2.labelPlural>Macan</Tiger.lifeStages.2.labelPlural>
+  
+  <!-- EN: greatwolf -->
+  <Wolf_Great.label>Serigala yang hebat</Wolf_Great.label>
+  <Wolf_Great.labelFemale>gran loba</Wolf_Great.labelFemale>
+  <!-- EN: greatwolves -->
+  <Wolf_Great.labelPlural>Serigala yang hebat</Wolf_Great.labelPlural>
+  <!-- EN: greatwolf puppy -->
+  <Wolf_Great.lifeStages.greatwolf_puppy.label>Anak anjing serigala yang hebat</Wolf_Great.lifeStages.greatwolf_puppy.label>
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelFemale>Gran Lobo Dog</Wolf_Great.lifeStages.greatwolf_puppy.labelFemale>
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelFemalePlural>Anjing Gran Lobo</Wolf_Great.lifeStages.greatwolf_puppy.labelFemalePlural>
+  <!-- EN: greatwolf puppies -->
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>Anak anjing serigala yang hebat</Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>
+  <Wolf_Great.lifeStages.1.label>Serigala muda yang hebat</Wolf_Great.lifeStages.1.label>
+  <Wolf_Great.lifeStages.1.labelFemale>Serigala muda yang hebat</Wolf_Great.lifeStages.1.labelFemale>
+  <Wolf_Great.lifeStages.1.labelFemalePlural>Serigala muda yang hebat</Wolf_Great.lifeStages.1.labelFemalePlural>
+  <Wolf_Great.lifeStages.1.labelPlural>Serigala muda yang hebat</Wolf_Great.lifeStages.1.labelPlural>
+  <Wolf_Great.lifeStages.2.label>Serigala yang hebat</Wolf_Great.lifeStages.2.label>
+  <Wolf_Great.lifeStages.2.labelFemale>gran loba</Wolf_Great.lifeStages.2.labelFemale>
+  <Wolf_Great.lifeStages.2.labelFemalePlural>Gran Lobas</Wolf_Great.lifeStages.2.labelFemalePlural>
+  <Wolf_Great.lifeStages.2.labelPlural>Serigala yang hebat</Wolf_Great.lifeStages.2.labelPlural>
+  
+  <!-- EN: wolverine -->
+  <Wolverine.label>pelahap</Wolverine.label>
+  <Wolverine.labelPlural>Gloton</Wolverine.labelPlural>
+  <Wolverine.lifeStages.0.label>Pemuliaan Gloton</Wolverine.lifeStages.0.label>
+  <Wolverine.lifeStages.0.labelPlural>Keturunan Gloton</Wolverine.lifeStages.0.labelPlural>
+  <Wolverine.lifeStages.1.label>Rohorton muda</Wolverine.lifeStages.1.label>
+  <Wolverine.lifeStages.1.labelPlural>Gloton muda</Wolverine.lifeStages.1.labelPlural>
+  <Wolverine.lifeStages.2.label>pelahap</Wolverine.lifeStages.2.label>
+  <Wolverine.lifeStages.2.labelPlural>Gloton</Wolverine.lifeStages.2.labelPlural>
+  
+</LanguageData>

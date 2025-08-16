@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: totemic boards -->
+  <Boards_Totemic.label>Papan totemik</Boards_Totemic.label>
+  <!-- EN: Fine wood boards decorated in a totemic style. -->
+  <Boards_Totemic.description>Papan kayu halus dihiasi dengan gaya totemik.</Boards_Totemic.description>
+  
+  <!-- EN: diamond mindbend carpet -->
+  <Carpet_MindbendA.label>Karpet luar biasa (berlian)</Carpet_MindbendA.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendA.description>Karpet halus dihiasi dengan gaya luar biasa yang sering dikaitkan dengan penggunaan narkoba.</Carpet_MindbendA.description>
+  
+  <!-- EN: purple mindbend carpet -->
+  <Carpet_MindbendB.label>karpet luar biasa (ungu)</Carpet_MindbendB.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendB.description>Karpet halus dihiasi dengan gaya luar biasa yang sering dikaitkan dengan penggunaan narkoba.</Carpet_MindbendB.description>
+  
+  <!-- EN: green mindbend carpet -->
+  <Carpet_MindbendC.label>Karpet luar biasa (hijau)</Carpet_MindbendC.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendC.description>Karpet halus dihiasi dengan gaya luar biasa yang sering dikaitkan dengan penggunaan narkoba.</Carpet_MindbendC.description>
+  
+  <!-- EN: blue mindbend carpet -->
+  <Carpet_MindbendD.label>Karpet luar biasa (biru)</Carpet_MindbendD.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendD.description>Karpet halus dihiasi dengan gaya luar biasa yang sering dikaitkan dengan penggunaan narkoba.</Carpet_MindbendD.description>
+  
+  <!-- EN: yellow mindbend carpet -->
+  <Carpet_MindbendE.label>Karpet luar biasa (kuning)</Carpet_MindbendE.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendE.description>Karpet halus dihiasi dengan gaya luar biasa yang sering dikaitkan dengan penggunaan narkoba.</Carpet_MindbendE.description>
+  
+  <!-- EN: spikecore plates -->
+  <Plates_Spikecore.label>Picopuntas Tile</Plates_Spikecore.label>
+  <!-- EN: Fine steel plates decorated in an aggressive spikecore style. -->
+  <Plates_Spikecore.description>Ubin baja halus dihiasi dengan gaya picopuntas yang agresif.</Plates_Spikecore.description>
+  
+  <!-- EN: morbid granite tile -->
+  <Tile_MorbidGranite.label>Ubin granit Morbida</Tile_MorbidGranite.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidGranite.description>Ubin batu gaya morbid halus.</Tile_MorbidGranite.description>
+  
+  <!-- EN: morbid limestone tile -->
+  <Tile_MorbidLimestone.label>Ubin batu kapur yang tidak wajar</Tile_MorbidLimestone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidLimestone.description>Ubin batu gaya morbid halus.</Tile_MorbidLimestone.description>
+  
+  <!-- EN: morbid marble tile -->
+  <Tile_MorbidMarble.label>Ubin marmer morbid</Tile_MorbidMarble.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidMarble.description>Ubin batu gaya morbid halus.</Tile_MorbidMarble.description>
+  
+  <!-- EN: morbid sandstone tile -->
+  <Tile_MorbidSandstone.label>Ubin Batu Pasir Morbida</Tile_MorbidSandstone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidSandstone.description>Ubin batu gaya morbid halus.</Tile_MorbidSandstone.description>
+  
+  <!-- EN: morbid slate tile -->
+  <Tile_MorbidSlate.label>Ubin Slate Morbida</Tile_MorbidSlate.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidSlate.description>Ubin batu gaya morbid halus.</Tile_MorbidSlate.description>
+  
+  <!-- EN: morbid vacstone tile -->
+  <Tile_MorbidVacstone.label>Morbida Vacancose Tile</Tile_MorbidVacstone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidVacstone.description>Ubin batu halus dengan gaya morbid.</Tile_MorbidVacstone.description>
+  
+  <!-- EN: granite spikecore tile -->
+  <Tile_SpikecoreGranite.label>Ubin granit picopuntas</Tile_SpikecoreGranite.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreGranite.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreGranite.description>
+  
+  <!-- EN: limestone spikecore tile -->
+  <Tile_SpikecoreLimestone.label>Picopuntas Limestone Tile</Tile_SpikecoreLimestone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreLimestone.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreLimestone.description>
+  
+  <!-- EN: marble spikecore tile -->
+  <Tile_SpikecoreMarble.label>Ubin marmer picopuntas</Tile_SpikecoreMarble.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreMarble.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreMarble.description>
+  
+  <!-- EN: sandstone spikecore tile -->
+  <Tile_SpikecoreSandstone.label>Picopuntas Sandstone Tile</Tile_SpikecoreSandstone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreSandstone.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreSandstone.description>
+  
+  <!-- EN: slate spikecore tile -->
+  <Tile_SpikecoreSlate.label>Picopuntas Slate Tile</Tile_SpikecoreSlate.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreSlate.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreSlate.description>
+  
+  <!-- EN: vacstone spikecore tile -->
+  <Tile_SpikecoreVacstone.label>Picopuntas Vacancious Tile</Tile_SpikecoreVacstone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreVacstone.description>Ubin batu halus dengan gaya picopuntas.</Tile_SpikecoreVacstone.description>
+  
+  <!-- EN: totemic granite tile -->
+  <Tile_TotemicGranite.label>Baldosa granit totémic</Tile_TotemicGranite.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicGranite.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicGranite.description>
+  
+  <!-- EN: totemic limestone tile -->
+  <Tile_TotemicLimestone.label>batu kapur totemik</Tile_TotemicLimestone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicLimestone.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicLimestone.description>
+  
+  <!-- EN: totemic marble tile -->
+  <Tile_TotemicMarble.label>Kembar marmer tonemik</Tile_TotemicMarble.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicMarble.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicMarble.description>
+  
+  <!-- EN: totemic sandstone tile -->
+  <Tile_TotemicSandstone.label>Batu Pasir Tonemik</Tile_TotemicSandstone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicSandstone.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicSandstone.description>
+  
+  <!-- EN: totemic slate tile -->
+  <Tile_TotemicSlate.label>Ubin tumpukan totemik</Tile_TotemicSlate.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicSlate.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicSlate.description>
+  
+  <!-- EN: totemic vacstone tile -->
+  <Tile_TotemicVacstone.label>Kembar Vacorite Toem</Tile_TotemicVacstone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicVacstone.description>Ubin batu halus dengan gaya totemik.</Tile_TotemicVacstone.description>
+  
+  <!-- EN: hex tile -->
+  <Tile_Transhumanist.label>Tileagonal</Tile_Transhumanist.label>
+  <!-- EN: Fine steel plates with a hexagonal pattern for that ultra-technological look. -->
+  <Tile_Transhumanist.description>Ubin baja halus dengan pola heksagonal penampilan ultrathcnological.</Tile_Transhumanist.description>
+  
+</LanguageData>

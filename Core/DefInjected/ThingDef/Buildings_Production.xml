@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>kilang biofuel</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Perbaiki materi biologis seperti kayu atau bahan tanaman dalam biofuel.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>tempat pembuatan bir</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>Stasiun kerja dengan semua peralatan yang diperlukan untuk mencampur keharusan untuk produksi bir.Harus difermentasi sehingga akhirnya menjadi bir.</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>Masih titik</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Tempat untuk Disobek Hewan.Karena kurangnya peralatan, toko daging hanya menghasilkan 70% daging dan kulit dari setiap makhluk.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>Titik kerajinan</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Tempat di mana benda -benda sederhana seperti lengkungan dan pisau dapat dibuat.Produksi di sini lambat karena kurangnya alat.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>bor kedalaman</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Bor yang dipasang yang mampu mengebor korteks tanah untuk mengekstraksi mineral dari kedalaman.Gunakan pemindai kedalaman untuk mendeteksi sumber daya.Bor ini akan mendapatkan potongan batu dari sumber daya lainnya.Itu bisa dibantu sesuka hati.</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>Laboratorium Narkoba</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Tabel kerja yang dilengkapi dengan instrumen pengukuran, pembakar dan berbagai wadah untuk menghasilkan berbagai obat.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>Krematorium Listrik</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Krematorium batu besar yang menguapkan mayat saat mencapai suhu yang sangat tinggi.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>Pengecoran listrik</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Ini mengekstrak logam yang dapat digunakan dari potongan -potongan memo dan benda logam lainnya.Itu mengkonsumsi banyak energi.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>Forge Listrik</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Stasiun yang diumpankan oleh listrik untuk menempa senjata dan alat non -mekanis.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>Masakan listrik</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Dapur listrik dengan oven dan meja terintegrasi untuk menyiapkan makanan.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>Tabel Sastrería Listrik</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Meja kerja dengan mesin jahit untuk membuat pakaian dengan cepat.Anda dapat bekerja tanpa listrik pada 50% dari kecepatan normal.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>Tabel perakitan</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Tabel kerja yang dilengkapi dengan alat canggih untuk menghasilkan keajaiban teknologi dari bahan yang lebih sederhana.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>Barrel yang difermentasi</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Larrel untuk memfermentasi keharusan mentah dan mengubahnya menjadi bir.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>Forge kayu bakar</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Stasiun yang diumpankan oleh pembakaran kayu untuk menempa senjata dan alat non -mekanis.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>Dapur kayu bakar</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Oven dan Parrilas, diberi makan oleh kayu, untuk menyiapkan makanan.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>meja menjahit</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Meja kerja untuk membuat pakaian tangan.Ini bekerja pada 50% dari kecepatan meja listrik.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>Tabel Penelitian Lanjutan</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Tabel kerja berteknologi tinggi dengan komputer dan peralatan pengukuran elektronik.Ini memungkinkan penelitian yang lebih cepat, dan membuka proyek penelitian canggih.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>hopper</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Ini berisi bahan baku yang siap digunakan dalam mesin seperti dispenser pasta bergizi.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>Wadah hidroponik</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Mandi nutrisi buatan untuk pertumbuhan tanaman.Pompa nutrisi harus bekerja terus menerus;Tumbuhan akan mati jika energi dipotong.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>Dispenser pasta bergizi</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Mesin yang mensintesis pasta bergizi minum dari bahan baku organik di hopper yang berdekatan.Ini mengkonsumsi lebih sedikit bahan dan waktu daripada metode produksi makan lainnya, tetapi tidak ada yang suka makan pasta bergizi.Terima makanan mentah, tetapi bukan bahan nabati seperti jerami.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>Tabel Penelitian Dasar</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Tabel kerja dengan peralatan menulis dan perangkat pengukuran sederhana.Para peneliti bekerja di sini untuk menemukan hal -hal baru.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>Tabel daging</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Rotting or dessicated corpses cannot be butchered. -->
+  <TableButcher.description>Meja tebal untuk membangunkan makhluk mati dalam potongan daging mentah.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>Tabel pemesinan</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Bank kerja untuk perakitan mesin seperti senjata api dan amunisi, atau mekanoid yang dibongkar dinonaktifkan.</TableMachining.description>
+  
+  <!-- EN: art bench -->
+  <TableSculpting.label>Tabel Pematung</TableSculpting.label>
+  <!-- EN: A workbench equipped for creating art. -->
+  <TableSculpting.description>Tabel kerja yang dilengkapi untuk patung artistik.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>Meja Caleng</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Meja kerja dengan gunung dan pahat untuk mengukir potongan batu sampai kita mendapatkan balok batu yang dapat digunakan.</TableStonecutter.description>
+  
+</LanguageData>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful aurora -->
+  <Aurora.stages.beautiful_aurora.label>Aurora yang berharga</Aurora.stages.beautiful_aurora.label>
+  <!-- EN: The view is amazing. -->
+  <Aurora.stages.beautiful_aurora.description>Pandangannya luar biasa.</Aurora.stages.beautiful_aurora.description>
+  
+  <!-- EN: colonist left unburied -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>Pemukim yang tidak dikaburkan</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>Salah satu dari kami telah mati dan kami telah meninggalkannya di sana.Tidak ada yang harus berakhir seperti ini.Orang berhak atas penguburan yang layak.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  
+  <!-- EN: minor passion for my work -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>Hasrat ringan untuk pekerjaan saya</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <!-- EN: I enjoy my work. -->
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>Saya menyukai pekerjaan saya.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <!-- EN: burning passion for my work -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>Gairah yang luar biasa untuk pekerjaan saya</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <!-- EN: I love my work. I could do this all day, every day. -->
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>Saya suka pekerjaan saya.Saya bisa melakukan ini sepanjang hari, setiap hari.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  
+  <!-- EN: joywire -->
+  <Joywire.stages.joywire.label>sukacita</Joywire.stages.joywire.label>
+  <!-- EN: It feels amazing. -->
+  <Joywire.stages.joywire.description>Itu membuatku merasa hebat.</Joywire.stages.joywire.description>
+  
+  <!-- EN: missing tongue -->
+  <MissingTongue.stages.missing_tongue.label>Bahasa yang hilang</MissingTongue.stages.missing_tongue.label>
+  <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
+  <MissingTongue.stages.missing_tongue.description>Saya kekurangan lidah saya.Sangat membuat frustrasi tidak bisa berbicara!</MissingTongue.stages.missing_tongue.description>
+  
+  <!-- EN: naked -->
+  <Naked.stages.naked.label>telanjang {Pawn_gender?O: A}</Naked.stages.naked.label>
+  <!-- EN: I'm naked. This is humiliating. -->
+  <Naked.stages.naked.description>Saya telanjang {Pawn_gender?O: A}.Ini memalukan.</Naked.stages.naked.description>
+  
+  <!-- EN: minor pain -->
+  <Pain.stages.minor_pain.label>Nyeri ringan</Pain.stages.minor_pain.label>
+  <!-- EN: Ow... That hurts. -->
+  <Pain.stages.minor_pain.description>Oh!Itu menyakitkan.</Pain.stages.minor_pain.description>
+  <!-- EN: serious pain -->
+  <Pain.stages.serious_pain.label>Nyeri sedang</Pain.stages.serious_pain.label>
+  <!-- EN: Ughhh... When will it end? -->
+  <Pain.stages.serious_pain.description>Uf, betapa sakitnya ... kapan itu akan terjadi padaku?</Pain.stages.serious_pain.description>
+  <!-- EN: intense pain -->
+  <Pain.stages.intense_pain.label>rasa sakit yang intens</Pain.stages.intense_pain.label>
+  <!-- EN: Make it stop... make it stop... make it stop... -->
+  <Pain.stages.intense_pain.description>Berhenti sakit ... membuatku berhenti terluka ...</Pain.stages.intense_pain.description>
+  <!-- EN: mind-shattering pain -->
+  <Pain.stages.mindshattering_pain.label>Kejutan untuk rasa sakit</Pain.stages.mindshattering_pain.label>
+  <!-- EN: AAAAAHHH! -->
+  <Pain.stages.mindshattering_pain.description>¡Aaaaahhh!</Pain.stages.mindshattering_pain.description>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicDrone.stages.psychic_soothe.label>Obat penenang psikis</PsychicDrone.stages.psychic_soothe.label>
+  <!-- EN: It's like a calming voice at the back of my mind, soothing me, settling my nerves. -->
+  <PsychicDrone.stages.psychic_soothe.description>Ini seperti suara yang menenangkan di dasar pikiran saya, memanfaatkan saya, meyakinkan saraf saya.</PsychicDrone.stages.psychic_soothe.description>
+  <!-- EN: low psychic drone -->
+  <PsychicDrone.stages.low_psychic_drone.label>Buzz psikis rendah</PsychicDrone.stages.low_psychic_drone.label>
+  <!-- EN: It's like a scratching at the back of my mind. A voice, whispering. I can only make out a few words, and I don't like them. -->
+  <PsychicDrone.stages.low_psychic_drone.description>Ini seperti mencicit di dasar pikiran saya.Suara berbisik.Saya hanya bisa membedakan beberapa kata, dan saya tidak menyukainya.</PsychicDrone.stages.low_psychic_drone.description>
+  <!-- EN: moderate psychic drone -->
+  <PsychicDrone.stages.moderate_psychic_drone.label>Buzz psikis tengah</PsychicDrone.stages.moderate_psychic_drone.label>
+  <!-- EN: I feel like someone is always just out of sight, speaking to me. The voice changes but the message doesn't. I'm supposed to hurt people. Make it go away! -->
+  <PsychicDrone.stages.moderate_psychic_drone.description>Saya merasa seolah -olah seseorang selalu berbicara kepada saya, tetapi saya tidak tahu di mana itu.Suara berubah tetapi bukan pesannya.Dia meminta saya untuk menyakiti mereka.Diam!</PsychicDrone.stages.moderate_psychic_drone.description>
+  <!-- EN: high psychic drone -->
+  <PsychicDrone.stages.high_psychic_drone.label>tinitus psikis tinggi</PsychicDrone.stages.high_psychic_drone.label>
+  <!-- EN: The voice is unbearably loud. It's hard to concentrate. I find myself talking back to it, yelling at it. But it just keeps shouting! -->
+  <PsychicDrone.stages.high_psychic_drone.description>Suara itu sangat bising, saya tidak bisa berkonsentrasi.Terkadang saya terkejut dengan menjawabnya, berteriak.Tapi Yeling Me!</PsychicDrone.stages.high_psychic_drone.description>
+  <!-- EN: extreme psychic drone -->
+  <PsychicDrone.stages.extreme_psychic_drone.label>tinitus psikis ekstrem</PsychicDrone.stages.extreme_psychic_drone.label>
+  <!-- EN: My heart pounds and I'm sweating. All I can think of is hurting and suffering and all these enemies around me. They're my nightmare, my nightmare, my nightmare... -->
+  <PsychicDrone.stages.extreme_psychic_drone.description>Jantungku berdegup kencang dan aku berkeringat.Semua yang bisa saya pikirkan adalah menyakiti, membunuh atau mati, di musuh yang mengelilingi saya ... mereka adalah mimpi buruk saya, kutukan saya ...</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  <!-- EN: psychic emanator soothe -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>obat penenang emanator psikis</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <!-- EN: The psychic emanator makes me feel strange, but also very relaxed. -->
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>Emanator psikis membuat saya merasa aneh, tetapi juga sangat santai.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  <!-- EN: rot stink -->
+  <RotStink.stages.rot_stink.label>Bau busuk</RotStink.stages.rot_stink.label>
+  <!-- EN: A rotten stink invades my nostrils and sticks to my skin. It makes me sick. -->
+  <RotStink.stages.rot_stink.description>Buruk busuk menyerbu lubang hidung dan tongkat saya ke kulit saya.Itu membuat saya jijik.</RotStink.stages.rot_stink.description>
+  <!-- EN: awful rot stink -->
+  <RotStink.stages.awful_rot_stink.label>Bau busuk busuk yang mengerikan</RotStink.stages.awful_rot_stink.label>
+  <!-- EN: The stench of rot is so thick I almost feel like I'm swimming in it. I can hardly breathe in this filth! -->
+  <RotStink.stages.awful_rot_stink.description>Bau busuk sangat tebal sehingga saya hampir merasa bahwa saya berenang di dalamnya.Saya hampir tidak bisa bernafas dalam kotoran ini.</RotStink.stages.awful_rot_stink.description>
+  
+  <!-- EN: rot stink lingering -->
+  <RotStinkLingering.stages.rot_stink_lingering.label>Bau busuk persisten</RotStinkLingering.stages.rot_stink_lingering.label>
+  <!-- EN: That rot stink was horrible - and it feels like it's still stuck to me. -->
+  <RotStinkLingering.stages.rot_stink_lingering.description>Bau busuk busuk itu mengerikan, dan sepertinya aku masih macet.</RotStinkLingering.stages.rot_stink_lingering.description>
+  
+  <!-- EN: sharing bed -->
+  <SharedBed.stages.sharing_bed.label>Berbagi tempat tidur</SharedBed.stages.sharing_bed.label>
+  <!-- EN: I have to share a bed with someone who I don't particularly want to. -->
+  <SharedBed.stages.sharing_bed.description>Saya harus berbagi tempat tidur dengan seseorang yang tidak saya sukai.</SharedBed.stages.sharing_bed.description>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.stages.toxic_fallout.label>Hujan beracun</ToxicFallout.stages.toxic_fallout.label>
+  <!-- EN: Sickly yellow toxic flakes drift around me like snow. The air burns my skin, throat, and lungs everywhere it touches. -->
+  <ToxicFallout.stages.toxic_fallout.description>Serpihan beracun dari mengapung kuning yang sakit di sekitarku seperti salju.Udara membakar kulit, tenggorokan, dan paru -paru saya di mana -mana.</ToxicFallout.stages.toxic_fallout.description>
+  
+</LanguageData>

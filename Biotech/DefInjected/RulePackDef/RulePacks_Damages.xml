@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RURGADE_PAST-> Listrik</li>
+    <li>Rusak_past-> terkejut</li>
+    <li>RURGADE_PAST-> Zapped</li>
+    <li>dihancurkan_past-> rusak_past</li>-><Damage_MechBandShockwave.rulePack.rulesStrings>
+    <li>RURGAGED_PAST-> electrificó</li>
+    <li>Rusak_past-> terkejut</li>
+    <li>RURGADE_PAST-> electrocutó</li>
+    <li>dihancurkan_past-> rusak_past</li>
+  </Damage_MechBandShockwave.rulePack.rulesStrings>
+  
+</LanguageData>

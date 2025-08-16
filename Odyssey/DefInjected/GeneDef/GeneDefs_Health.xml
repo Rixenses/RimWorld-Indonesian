@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum resistant -->
+  <VacuumResistance_Partial.label>Resisten vakum</VacuumResistance_Partial.label>
+  <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->
+  <VacuumResistance_Partial.description>Pembawa gen ini memiliki kulit yang melepaskan zat bukit ketika tekanan udara rendah, mencegah pembakaran vakum dan memungkinkan mereka untuk bertahan lebih banyak waktu ketika mereka terpapar.</VacuumResistance_Partial.description>
+  <!-- EN: vacuum-resistant -->
+  <VacuumResistance_Partial.labelShortAdj>Resisten vakum</VacuumResistance_Partial.labelShortAdj>
+  
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.label>sesak nafas</VacuumResistance_Total.label>
+  <!-- EN: Carriers of this gene can store concentrated oxygen in their bodies. Their cells consume much less oxygen, meaning they rarely need to breathe. These adaptations make them immune to the harmful effects of space, as well as environmental toxins, tox gas, acidic smog, and rot stink. -->
+  <VacuumResistance_Total.description>Pembawa gen ini dapat menyimpan oksigen yang terkonsentrasi di tubuh mereka.Sel -sel mereka mengkonsumsi lebih sedikit oksigen, yang berarti bahwa mereka jarang perlu bernafas.Adaptasi ini membuat mereka kebal terhadap efek berbahaya dari ruang, serta racun lingkungan, gas beracun, kabut asam dan bau busuk.</VacuumResistance_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <VacuumResistance_Total.customEffectDescriptions.0>Kekebalan terhadap gas beracun</VacuumResistance_Total.customEffectDescriptions.0>
+  <!-- EN: breathless -->
+  <VacuumResistance_Total.labelShortAdj>sesak nafas</VacuumResistance_Total.labelShortAdj>
+  
+</LanguageData>

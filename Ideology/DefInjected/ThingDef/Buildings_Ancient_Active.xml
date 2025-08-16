@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient comms console -->
+  <AncientCommsConsole.label>Konsol Komunikasi Lama</AncientCommsConsole.label>
+  <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientCommsConsole.description>Konsol lama dengan antena komunikasi terlampir.Potongan berharga hilang dan yang lainnya terdegradasi menjadi tidak berguna.</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>Hack untuk mengakses satelit pasokan lama.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient enemy terminal -->
+  <AncientEnemyTerminal.label>Terminal musuh kuno</AncientEnemyTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
+  <AncientEnemyTerminal.description>Terminal komputer lama.Dapat diretas untuk menelepon dekat musuh</AncientEnemyTerminal.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Memegang {0} ini akan mengingatkan musuh dan membuat mereka menyerang.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>Hack untuk memanggil musuh dekat.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: security crate -->
+  <AncientSecurityCrate.label>Kotak pengaman</AncientSecurityCrate.label>
+  <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
+  <AncientSecurityCrate.description>Kotak hermetis yang dihangatkan dengan diri sendiri dengan alarm pengaman yang dimasukkan.Ini dapat mempertahankan konten mereka untuk waktu yang lama.Jika dibuka tanpa kode yang tepat, itu mungkin akan mengaktifkan sistem keamanan yang erat.</AncientSecurityCrate.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal.label>leluhur terminal</AncientTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal.description>Terminal komputer lama.Dapat diretas untuk mengungkapkan informasi yang terlupakan sejak lama.</AncientTerminal.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal_Worshipful.label>leluhur terminal</AncientTerminal_Worshipful.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal_Worshipful.description>Terminal komputer lama.Dapat diretas untuk mengungkapkan informasi yang terlupakan sejak lama.</AncientTerminal_Worshipful.description>
+  
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>Membangun manusia salju.</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>Berjalan -jalan.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>Meditasi.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>Bermain biliar.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>bermain catur.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>Memainkan permainan Anda.</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>Memainkan Petanca.</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>Bermain tapal kuda.</Play_Horseshoes.reportString>
+  
+  <!-- EN: playing TargetA. -->
+  <Play_MusicalInstrument.reportString>Kartu menyentuh</Play_MusicalInstrument.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>Bermain poker.</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>berdoa.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>mengamati langit.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>bersosialisasi.</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>menggunakan teleskop.</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>merenungkan seni.</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>Mengunjungi makam.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>Mendorong kartu.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>menonton televisi.</WatchTelevision.reportString>
+  
+</LanguageData>

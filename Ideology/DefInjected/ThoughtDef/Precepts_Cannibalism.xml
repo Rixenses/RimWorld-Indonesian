@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <!-- EN: I had to eat human meat. This is an offense against everything I believe. -->
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>Saya harus makan daging manusia.Ini merupakan pelanggaran terhadap semua yang saya yakini.</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <!-- EN: I had to eat human meat. I believe such actions are wrong. -->
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.description>Saya harus makan daging manusia.Saya pikir tindakan ini salah.</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <!-- EN: I had to eat human meat. This was a horrible thing. -->
+  <AteHumanMeat_Horrible.stages.ate_human_meat.description>Saya harus makan daging manusia.Itu adalah sesuatu yang mengerikan.</AteHumanMeat_Horrible.stages.ate_human_meat.description>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <!-- EN: I ate human meat. It makes me feel noble and strong. -->
+  <AteHumanMeat_Preferred.stages.ate_human_meat.description>Saya makan daging manusia.Itu membuat saya merasa mulia dan kuat.</AteHumanMeat_Preferred.stages.ate_human_meat.description>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <!-- EN: I ate human meat! The world is right, and I am as I should be. -->
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>Saya makan daging manusia!Dunia benar, dan saya sebagaimana mestinya.</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>Dia makan daging manusia</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <!-- EN: I ate human meat, as every real human should. -->
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>Saya memakan daging manusia, seperti yang harus dilakukan oleh setiap manusia sejati.</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
+  
+  <!-- EN: ate non-cannibal food -->
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>makan tidak ada makanan kanibal</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <!-- EN: I had to eat food that wasn't taken from a human body. This is absolutely against my beliefs. -->
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>Saya harus makan makanan yang tidak diambil dari tubuh manusia.Ini benar -benar bertentangan dengan keyakinan saya.</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+  
+  <!-- EN: ate non-cannibal food -->
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>makan tidak ada makanan kanibal</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <!-- EN: I had to eat food that wasn't taken from a human body. My beliefs strictly forbid such things. -->
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>Saya harus makan makanan yang tidak diambil dari tubuh manusia.Keyakinan saya benar -benar melarang hal -hal ini.</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+  
+  <!-- EN: ate non-cannibal food -->
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>makan tidak ada makanan kanibal</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  
+  <!-- EN: ate non-cannibal food -->
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>makan tidak ada makanan kanibal</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>Saya telah meledak humanoid</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered a human being. This is an offense against everything I believe. -->
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>Saya baru saja memotong -motong manusia.Ini merupakan pelanggaran terhadap semua yang saya yakini.</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>Saya telah meledak humanoid</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered a human being. I believe such actions are wrong. -->
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>Saya baru saja memotong -motong manusia.Saya pikir tindakan ini salah.</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>Saya telah meledak humanoid</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered a human being. This was a horrible thing. -->
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>Saya baru saja memotong -motong manusia.Itu adalah sesuatu yang mengerikan.</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>Kami membangunkan humanoid</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+  <!-- EN: One of us butchered a human being. This is an offense against everything I believe. -->
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>Salah satu dari kami memotong -motong manusia.Ini merupakan pelanggaran terhadap semua yang saya yakini.</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: butchered humanlike -->
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>Membangkitkan humanoid</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+  
+  <!-- EN: we butchered humanlike -->
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>Kami membangunkan humanoid</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+  <!-- EN: One of us butchered a human being. I believe such actions are wrong. -->
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>Salah satu dari kami memotong -motong manusia.Saya pikir tindakan ini salah.</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: butchered humanlike -->
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>Membangkitkan humanoid</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+  
+  <!-- EN: we butchered humanlike -->
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>Kami membangunkan humanoid</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+  <!-- EN: One of us butchered a human being. This was a horrible thing. -->
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>Salah satu dari kami memotong -motong manusia.Itu adalah sesuatu yang mengerikan.</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: butchered humanlike -->
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>Membangkitkan humanoid</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
+  <!-- EN: Wearing human leather is disturbing. Who could do this? -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.description>Gaun kulit manusia mengganggu.Siapa yang bisa melakukannya?</HumanLeatherApparel_Abhorrent.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>
+  <!-- EN: I'm dressed like an insane person. -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>Saya pakaian {Pawn_gender?O: A} Bagaimana {Pawn_gender?Orang gila: orang gila}.</HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>
+  <!-- EN: I think there may be a face on my clothes. Oh, no... my clothes *are* a face. -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>Saya pikir mungkin ada wajah manusia di pakaian saya.Oh, tidak ... pakaianku * adalah * wajah.</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>Saya terlihat seperti karakter dari program horor, dan saya merasa seolah -olah saya tinggal di pertunjukan horor.</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_Disapproved.stages.human_leather.label>
+  <!-- EN: I should not be wearing human leather apparel. -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather.description>Saya seharusnya tidak memakai pakaian kulit manusia.</HumanLeatherApparel_Disapproved.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
+  <!-- EN: I'm dressed in human skin. I do not like this. -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>Saya pakaian {Pawn_gender?O: A} dengan kulit manusia.Saya tidak suka.</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
+  <!-- EN: Why am I wearing so much human leather apparel? We should have something else to wear for me... -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>Mengapa saya mengenakan begitu banyak pakaian kulit manusia?Kita harus memiliki sesuatu yang lain untuk berpakaian ...</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+  <!-- EN: I should really wear non-human leather apparel. I look like a crazy person. -->
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>Saya harus mengenakan pakaian kulit non -manusia.Saya terlihat seperti {Pawn_gender?Orang gila: orang gila}.</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_Horrible.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_Horrible.stages.human_leather.label>
+  <!-- EN: Wearing human leather is wrong. -->
+  <HumanLeatherApparel_Horrible.stages.human_leather.description>Gaun kulit manusia salah.</HumanLeatherApparel_Horrible.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_Horrible.stages.human_leather_1.label>
+  <!-- EN: I feel really uncomfortable with all this human leather apparel. -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.description>Saya benar -benar merasa tidak nyaman {Pawn_gender?O: A} Dengan semua pakaian kulit manusia ini.</HumanLeatherApparel_Horrible.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_Horrible.stages.human_leather_2.label>
+  <!-- EN: Why am I wearing so much human leather? This is horrible! -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.description>Mengapa saya memakai begitu banyak kulit manusia?Ini mengerikan!</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+  <!-- EN: I look like a freak, this is horrifying! -->
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.description>Saya terlihat seperti orang aneh, mengerikan!</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_Preferred.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_Preferred.stages.human_leather.label>
+  <!-- EN: I feel good wearing human leather apparel. -->
+  <HumanLeatherApparel_Preferred.stages.human_leather.description>Saya merasa senang mengenakan pakaian kulit manusia.</HumanLeatherApparel_Preferred.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_Preferred.stages.human_leather_1.label>
+  <!-- EN: I enjoy wearing the skin of others. -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.description>Saya menikmati memakai kulit orang lain.</HumanLeatherApparel_Preferred.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_Preferred.stages.human_leather_2.label>
+  <!-- EN: I wear the faces of my enemies. This makes me happy. -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.description>Saya membawa wajah musuh saya.Itu membuatku bahagia.</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+  <!-- EN: I look like a real cannibal. Who could doubt me? -->
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.description>Saya terlihat seperti {Pawn_gender?A True: Cannibal} yang benar.Siapa yang bisa meragukan saya?</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the suffering of others. -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>Saya menikmati memakai penderitaan orang lain.</HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>Ini akan menakuti mereka.Semua orang akan tahu kekuatan saya.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>Wajah di pakaian saya tidak tersenyum, tetapi mereka membuat saya bahagia.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>Daging!Daging menunjukkan kemenangan saya!</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
+  
+  <!-- EN: human leather {0} -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.label>{0} kulit manusia</HumanLeatherApparel_RequiredStrong.stages.human_leather.label>
+  <!-- EN: I enjoy wearing the faces of others. -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.description>Saya menikmati memakai penderitaan orang lain.</HumanLeatherApparel_RequiredStrong.stages.human_leather.description>
+  <!-- EN: human leather {0} (+1) -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>{0} dari kulit manusia (+1)</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>
+  <!-- EN: This will scare them. All will know my power. -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>Ini akan menakuti mereka.Semua orang akan tahu kekuatan saya.</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>
+  <!-- EN: human leather {0} (+2) -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>{0} dari kulit manusia (+2)</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>
+  <!-- EN: The faces on my clothes aren't smiling, but they make *me* happy. -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>Wajah di pakaian saya tidak tersenyum, tetapi mereka membuat saya bahagia.</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
+  <!-- EN: human leather {0} etc -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>{0} dari kulit manusia, dll.</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+  <!-- EN: The flesh! The flesh signals my triumph! -->
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>Daging!Daging menunjukkan kemenangan saya!</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
+  
+  <!-- EN: want human meat -->
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>Dia menginginkan daging manusia</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+  <!-- EN: It's been too long since I consumed any human meat. It feels wrong. -->
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.description>Saya sudah lama tidak mengonsumsi daging manusia.Dan saya pikir sudah waktunya.</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
+  
+  <!-- EN: want human meat -->
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>Dia menginginkan daging manusia</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+  <!-- EN: Ravenous! It's been so long since I tasted the true flesh. This is wrong! -->
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>Menjijikkan!Sudah begitu lama sejak saya mencoba daging yang sebenarnya.Ini salah!</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
+  
+  <!-- EN: want human meat -->
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>Dia menginginkan daging manusia</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+  <!-- EN: It's been far too long since I consumed human. I should have eaten by now. -->
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>Tidak terlalu lama sejak saya mengkonsumsi manusia.Saya seharusnya makan.</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
+  
+</LanguageData>

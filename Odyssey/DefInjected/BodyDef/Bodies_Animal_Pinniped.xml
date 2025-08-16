@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pinniped -->
+  <Pinniped.label>segel</Pinniped.label>
+  <!-- EN: left lung -->
+  <Pinniped.corePart.parts.left_lung.customLabel>paru -paru kiri</Pinniped.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Pinniped.corePart.parts.right_lung.customLabel>paru -paru kanan</Pinniped.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Pinniped.corePart.parts.left_kidney.customLabel>Kiri ginjal</Pinniped.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Pinniped.corePart.parts.right_kidney.customLabel>ginjal kanan</Pinniped.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>Mata kiri</Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>mata kanan</Pinniped.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <!-- EN: left forelimb -->
+  <Pinniped.corePart.parts.left_forelimb.customLabel>Tungkai anterior kiri</Pinniped.corePart.parts.left_forelimb.customLabel>
+  <!-- EN: front left flipper -->
+  <Pinniped.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>Sirip depan kiri</Pinniped.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>
+  <!-- EN: right forelimb -->
+  <Pinniped.corePart.parts.right_forelimb.customLabel>Tungkai anterior kanan</Pinniped.corePart.parts.right_forelimb.customLabel>
+  <!-- EN: front right flipper -->
+  <Pinniped.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>Sirip depan kanan</Pinniped.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>
+  <!-- EN: left hindlimb -->
+  <Pinniped.corePart.parts.left_hindlimb.customLabel>Tungkai posterior kiri</Pinniped.corePart.parts.left_hindlimb.customLabel>
+  <!-- EN: rear left flipper -->
+  <Pinniped.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>Sirip belakang kiri</Pinniped.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>
+  <!-- EN: right hindlimb -->
+  <Pinniped.corePart.parts.right_hindlimb.customLabel>Tungkai posterior kanan</Pinniped.corePart.parts.right_hindlimb.customLabel>
+  <!-- EN: rear right flipper -->
+  <Pinniped.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>sirip belakang kanan</Pinniped.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>
+  
+  <!-- EN: pinniped -->
+  <PinnipedWithTusks.label>pegangan</PinnipedWithTusks.label>
+  <!-- EN: left lung -->
+  <PinnipedWithTusks.corePart.parts.left_lung.customLabel>paru -paru kiri</PinnipedWithTusks.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <PinnipedWithTusks.corePart.parts.right_lung.customLabel>paru -paru kanan</PinnipedWithTusks.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <PinnipedWithTusks.corePart.parts.left_kidney.customLabel>Kiri ginjal</PinnipedWithTusks.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <PinnipedWithTusks.corePart.parts.right_kidney.customLabel>ginjal kanan</PinnipedWithTusks.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>Mata kiri</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>mata kanan</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <!-- EN: left tusk -->
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_tusk.customLabel>taring kiri</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_tusk.customLabel>
+  <!-- EN: right tusk -->
+  <PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_tusk.customLabel>taring kanan</PinnipedWithTusks.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_tusk.customLabel>
+  <!-- EN: left forelimb -->
+  <PinnipedWithTusks.corePart.parts.left_forelimb.customLabel>Tungkai anterior kiri</PinnipedWithTusks.corePart.parts.left_forelimb.customLabel>
+  <!-- EN: front left flipper -->
+  <PinnipedWithTusks.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>Sirip depan kiri</PinnipedWithTusks.corePart.parts.left_forelimb.parts.front_left_flipper.customLabel>
+  <!-- EN: right forelimb -->
+  <PinnipedWithTusks.corePart.parts.right_forelimb.customLabel>Tungkai anterior kanan</PinnipedWithTusks.corePart.parts.right_forelimb.customLabel>
+  <!-- EN: front right flipper -->
+  <PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>Sirip depan kanan</PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>
+  <!-- EN: left hindlimb -->
+  <PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>Tungkai posterior kiri</PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>
+  <!-- EN: rear left flipper -->
+  <PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>Sirip belakang kiri</PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>
+  <!-- EN: right hindlimb -->
+  <PinnipedWithTusks.corePart.parts.right_hindlimb.customLabel>Tungkai posterior kanan</PinnipedWithTusks.corePart.parts.right_hindlimb.customLabel>
+  <!-- EN: rear right flipper -->
+  <PinnipedWithTusks.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>sirip belakang kanan</PinnipedWithTusks.corePart.parts.right_hindlimb.parts.rear_right_flipper.customLabel>
+  
+</LanguageData>

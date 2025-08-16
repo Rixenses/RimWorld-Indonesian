@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech birther -->
+  <MechAssembler.label>Mecanoid meningkat</MechAssembler.label>
+  <!-- EN: An automated fast-acting mechanoid gestator. It periodically births and deploys fresh mechanoids. -->
+  <MechAssembler.description>Gestator mecanoid yang bertindak cepat otomatis.Ini melahirkan dan menampilkan mecanoids mekanis baru.</MechAssembler.description>
+  
+  <!-- EN: mech capsule -->
+  <MechCapsule.label>Kapsul mecanoid</MechCapsule.label>
+  <!-- EN: A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened. -->
+  <MechCapsule.description>Kapsul pengiriman penyimpanan dan mekanid.Ini dapat berisi serangkaian mechanoides yang siap untuk pergi dan bertarung ketika diaktifkan.</MechCapsule.description>
+  
+  <!-- EN: mech drop beacon -->
+  <MechDropBeacon.label>Mecanoid Landing Bell</MechDropBeacon.label>
+  <!-- EN: A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby. -->
+  <MechDropBeacon.description>Suar untuk penyebaran bala bantuan mekanoid.Saat diaktifkan, itu akan memanggil sekelompok mechanoidoids yang akan mendarat dengan kapsul pendaratan.</MechDropBeacon.description>
+  
+</LanguageData>

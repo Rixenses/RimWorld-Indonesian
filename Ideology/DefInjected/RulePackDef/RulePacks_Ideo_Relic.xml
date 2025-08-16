@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ideorelicName (p = 2)-> [pertama] [kedua]</li>
+    <li>r_ideorelicName-> [ThingLabel] dari [Memeconscept]</li>
+    <li>r_ideorelicName-> [memeadjective] [ThingLabel]</li>
+    <li>r_ideorelicName-> [memehyphenprefix]-[ThingLabel]</li>
+    <li>r_ideorelicName-> [memeadjective] [Relic]</li>
+    <li>r_ideorelicName-> [Relic] dari [Memeconscept]</li>
+    <li>r_ideorelicName-> [memehyphenprefix]-[Relic]</li>
+    <li>Relic-> Relic</li>
+    <li>Relic-> Artefak</li>
+    <li>Relic-> Keepsake</li>
+    <li>Relic-> Memento</li>
+    <li>Relic-> Remnant</li>
+    <li>Relic-> Heirloom</li>
+    <li>Relic-> Peringatan</li>
+    <li>Pertama (p = 5)-> [memehyphenprefix]</li>
+    <li>pertama> panjang</li>
+    <li>First-> Sky</li>
+    <li>pertama> bintang</li>
+    <li>pertama> dalam</li>
+    <li>pertama> jauh</li>
+    <li>pertama> mati</li>
+    <li>First-> Life</li>
+    <li>First-> Light</li>
+    <li>pertama> gelap</li>
+    <li>pertama> akhir</li>
+    <li>pertama> hor</li>
+    <li>pertama> an</li>
+    <li>First-> Ex</li>
+    <li>pertama> ton</li>
+    <li>First-> Dow</li>
+    <li>pertama> bor</li>
+    <li>pertama> ven</li>
+    <li>First-> xan</li>
+    <li>pertama> arl</li>
+    <li>pertama-> hex</li>
+    <li>First-> Bax</li>
+    <li>First-> Cel</li>
+    <li>First-> loc</li>
+    <li>Pole pertama</li>
+    <li>First-> lode</li>
+    <li>kedua-> penelepon</li>
+    <li>kedua-> pembawa</li>
+    <li>kedua-> speaker</li>
+    <li>Kedua-> lier</li>
+    <li>tautan kedua-></li>
+    <li>Bond kedua</li>
+    <li>Loop kedua></li>
+    <li>kedua-> nexus</li>
+    <li>Core kedua></li>
+    <li>kedua-> crux</li>
+    <li>kedua> massa</li>
+    <li>kedua-> corpus</li>
+    <li>fokus kedua</li>
+    <li>lensa kedua></li>
+    <li>kedua> cahaya</li>
+    <li>kedua-> bayangan</li>
+    <li>kedua-> pasti</li>
+    <li>Second-> locus</li>
+    <li>Formulir kedua</li>
+    <li>Second-> finger</li>
+    <li>kedua> lash</li>
+    <li>kedua-> Krome</li>-><NamerIdeoRelic.rulePack.rulesStrings>
+    <li>r_ideorelicName (p = 2)-> [pertama] [kedua]</li>
+    <li>r_ideorelicName (p = 2)-> [first0] [kedua]</li>
+    <li>r_ideorelicName (p = 2)-> [first1]-[kedua]</li>
+    <li>r_ideorelicName (p = 2)-> [Second1] de [first1]</li>
+    <li>r_ideorelicName-> [ThingLabel] de [memeconceptdef]</li>
+    <li>r_ideorelicName-> [ThingLabel] [Memeadjective]</li>
+    <li>r_ideorelicName-> [memehyphenprefix] [ThingLabel]</li>
+    <li>r_ideorelicName-> [Relic] [memeadjective]</li>
+    <li>r_ideorelicName (p = 0,0001)-> [relic1] [memeadjectiveFem]</li>
+    <li>r_ideorelicName-> [Relic] de [Memeconscept]</li>
+    <li>r_ideorelicName (p = 0,0001)-> [Relic1] de [memeconcept]</li>
+    <li>r_ideorelicName-> [memehyphenprefix]-[Relic]</li>
+    <li>Relic-> Artefact</li>
+    <li>Relic-> Saya ingat</li>
+    <li>Relic-> sisa-sisa</li>
+    <li>Relic1-> Warisan</li>
+    <li>RELIC1-> memori</li>
+    <li>first1 (p = 5)-> [memehyphenprefix]</li>
+    <li>First-> Convoca</li>
+    <li>Pertama-> Porta</li>
+    <li>First-> Echoes</li>
+    <li>First-> Mantle</li>
+    <li>Pertama-> Enlace de</li>
+    <li>Pertama> tautan</li>
+    <li>First-> Nitrogen of</li>
+    <li>First-> operator</li>
+    <li>Pertama-> Manda</li>
+    <li>First-> Nexo de</li>
+    <li>Fokus pertama</li>
+    <li>First-> Credo de</li>
+    <li>First-> Croma</li>
+    <li>First0-> Ciber</li>
+    <li>first0-> neo</li>
+    <li>first0-> hiper</li>
+    <li>first0-> super</li>
+    <li>first0-> nova</li>
+    <li>First0-> mega</li>
+    <li>first0-> supra</li>
+    <li>First-> Archeo</li>
+    <li>First1-> Stars</li>
+    <li>First1-> espigas</li>
+    <li>First1-> kematian</li>
+    <li>First1-> Life</li>
+    <li>First1-> Light</li>
+    <li>Kedua-> api</li>
+    <li>kedua-> langit</li>
+    <li>kedua-> Estrella</li>
+    <li>kedua> roh</li>
+    <li>Kedua-> Sombra</li>
+    <li>Kedua-> Kematian</li>
+    <li>Kedua-> Kehidupan</li>
+    <li>kedua-> luz</li>
+    <li>Kedua-> Kegelapan</li>
+    <li>kedua-> llamas</li>
+    <li>kedua> teror</li>
+    <li>Kedua-> Kebijaksanaan</li>
+    <li>Kedua-> keadilan</li>
+    <li>Second-> Compassion</li>
+    <li>Second1-> Nitrogen</li>
+    <li>Second1-> Focus</li>
+    <li>Second1-> nexo</li>
+    <li>Second1-> Link</li>
+    <li>Second1-> Focus</li>
+    <li>Second1-> BUCLE</li>
+    <li>Second1-> Sombra</li>
+  </NamerIdeoRelic.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chopped harbinger stump -->
+  <ChoppedStump_Harbinger.label>Tunggul Omen Corted</ChoppedStump_Harbinger.label>
+  <!-- EN: A stump left behind after an harbinger tree has been felled. The stump can be extracted but yields very little usable material. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Harbinger.description>Sebuah tunggul yang tersisa setelah penebangan pohon di pertanda.Tunggul dapat diekstraksi, tetapi menghasilkan sangat sedikit bahan yang dapat digunakan.Jika dibiarkan di luar ruangan, itu akan memburuk seiring waktu.</ChoppedStump_Harbinger.description>
+  
+  <!-- EN: harbinger seed -->
+  <HarbingerSeed.label>OMEN SEED</HarbingerSeed.label>
+  <!-- EN: The seed of a harbinger tree. It can be planted to grow a new harbinger tree, which will eat any corpses or meat placed nearby. -->
+  <HarbingerSeed.description>Benih pohon pertanda.Dapat ditanam untuk menumbuhkan pohon pertanda baru, yang akan memakan tubuh atau daging apa pun yang dekat.</HarbingerSeed.description>
+  
+  <!-- EN: harbinger tree -->
+  <Plant_TreeHarbinger.label>pohon pertanda</Plant_TreeHarbinger.label>
+  <!-- EN: A gnarled tree that grows a flesh-like covering around a bioferrite skeleton. Harbinger trees are capable of feeding on corpses and raw meat, and will consume those placed nearby. If well fed, the grove will continue to grow.\n\nThe tree can be harvested for twisted meat and bioferrite.\n\nIn a tribal myth, these trees are the emissaries of a mad, shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky. -->
+  <Plant_TreeHarbinger.description>Pohon telanjang dengan inti kerangka bioferrita di mana penutup berdaging tumbuh.Pohon pertanda dapat memakan mayat dan daging mentah.Mereka akan mengkonsumsi mereka yang dekat. Jika mereka diberi makan dengan baik, hutan akan terus tumbuh.Mitos berakhir ketika Tuhan tanpa bentuk keluar dari air dan menghancurkan langit.</Plant_TreeHarbinger.description>
+  
+  <!-- EN: smashed harbinger stump -->
+  <SmashedStump_Harbinger.label>Bukit Omen yang hancur</SmashedStump_Harbinger.label>
+  <!-- EN: The remnants of an harbinger tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable material. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Harbinger.description>Sisa -sisa pohon pertanda dihancurkan oleh kerusakan.Itu jelek.Tunggul dapat diekstraksi, tetapi menghasilkan sangat sedikit bahan yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</SmashedStump_Harbinger.description>
+  
+</LanguageData>

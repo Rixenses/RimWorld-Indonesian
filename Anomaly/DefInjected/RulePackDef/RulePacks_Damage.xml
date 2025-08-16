@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damage_source-> [sumber] [diserang]</li>
+    <li>Sumber-> Sesuatu dari dalam [gelap]</li>
+    <li>Sumber-> Sesuatu dalam [gelap]</li>
+    <li>Sumber-> makhluk dalam [gelap]</li>
+    <li>Sumber-> makhluk yang tidak terlihat</li>
+    <li>Sumber-> makhluk bayangan</li>
+    <li>Sumber-> musuh yang tidak terlihat dalam [gelap]</li>
+    <li>gelap-> kegelapan</li>
+    <li>gelap-> kegelapan yang tidak wajar</li>
+    <li>gelap-> kegelapan inky</li>
+    <li>Dark-> Bayangan</li>
+    <li>diserang-> diserang</li>
+    <li>diserang-> melanda</li>
+    <li>diserang-> hit</li>
+    <li>Rusak_present-> COURING</li>
+    <li>RAUPAGED_PRESENT-> Cedera</li>
+    <li>hancur_present-> menghapus</li>
+    <li>dihancurkan_present-> melumpuhkan</li>
+    <li>dihancurkan_present-> memutuskan</li>-><DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+    <li>damage_source-> [sumber] [diserang]</li>
+    <li>Sumber-> Sesuatu dari dalam [gelap]</li>
+    <li>Sumber-> Sesuatu dalam [gelap]</li>
+    <li>Sumber-> makhluk dalam [gelap]</li>
+    <li>Sumber-> makhluk yang tidak terlihat</li>
+    <li>Sumber-> makhluk suram</li>
+    <li>Sumber-> musuh yang tidak terlihat dari dalam [gelap]</li>
+    <li>gelap-> kegelapan</li>
+    <li>Dark-> Antinatural Darkness</li>
+    <li>Dark-> Dark Darkness</li>
+    <li>Dark-> Penumbra</li>
+    <li>Diserang-> diserang</li>
+    <li>Attled-> hit</li>
+    <li>Attled-> hit</li>
+    <li>RURGAGED_PRESENT-> HERIENDO</li>
+    <li>RURGAGED_PRESENT-> LASTIMANDO</li>
+    <li>dihancurkan_present-> extirpando</li>
+    <li>Hancur_present-> merobek</li>
+    <li>Dihancurkan_present-> sectioning</li>
+  </DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
+  
+</LanguageData>

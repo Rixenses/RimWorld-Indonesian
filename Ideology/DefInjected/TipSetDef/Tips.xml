@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Slaves work slower than normal colonists due to lack of motivation. -->
+  <IdeoligionTips.SlaveWorkEfficiency>Budak bekerja lebih lambat dari pemukim normal karena kurangnya motivasi.</IdeoligionTips.SlaveWorkEfficiency>
+  <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
+  <IdeoligionTips.TerrorRadius>Konstruksi yang menginduksi teror mempengaruhi siapa pun dalam radius 5 sel.</IdeoligionTips.TerrorRadius>
+  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. -->
+  <IdeoligionTips.SleepAcceleratorNaps>Akselerator tidur meningkatkan kualitas tidur para pemukim, tetapi juga meningkatkan laju kelaparan.</IdeoligionTips.SleepAcceleratorNaps>
+  
+</LanguageData>

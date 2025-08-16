@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grenadier -->
+  <Grenadier_Destructive.label>Grenadier</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelFemale>Granadera</Grenadier_Destructive.labelFemale>
+  <Grenadier_Destructive.labelMale>Grenadier</Grenadier_Destructive.labelMale>
+  <Grenadier_Destructive.labelPlural>Grenadier</Grenadier_Destructive.labelPlural>
+  
+  <!-- EN: EMP grenadier -->
+  <Grenadier_EMP.label>PEM Grenadier</Grenadier_EMP.label>
+  <Grenadier_EMP.labelFemale>PEM Granadera</Grenadier_EMP.labelFemale>
+  <Grenadier_EMP.labelMale>PEM Grenadier</Grenadier_EMP.labelMale>
+  <Grenadier_EMP.labelPlural>Grenadier PEM</Grenadier_EMP.labelPlural>
+  
+  <!-- EN: smoke grenadier -->
+  <Grenadier_Smoke.label>Grenadier asap</Grenadier_Smoke.label>
+  <Grenadier_Smoke.labelFemale>Granat Asap</Grenadier_Smoke.labelFemale>
+  <Grenadier_Smoke.labelMale>Grenadier asap</Grenadier_Smoke.labelMale>
+  <Grenadier_Smoke.labelPlural>Grenadier asap</Grenadier_Smoke.labelPlural>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite.label>Tentara bayaran elit</Mercenary_Elite.label>
+  <Mercenary_Elite.labelFemale>Mercenaria elit</Mercenary_Elite.labelFemale>
+  <Mercenary_Elite.labelMale>Tentara bayaran elit</Mercenary_Elite.labelMale>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite.labelPlural>tentara bayaran elit</Mercenary_Elite.labelPlural>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite_Acidifier.label>Tentara bayaran elit</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelFemale>Mercenaria elit</Mercenary_Elite_Acidifier.labelFemale>
+  <Mercenary_Elite_Acidifier.labelMale>Tentara bayaran elit</Mercenary_Elite_Acidifier.labelMale>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Acidifier.labelPlural>tentara bayaran elit</Mercenary_Elite_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner.label>Gunner Mercenary</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelFemale>Mercenaria artillera</Mercenary_Gunner.labelFemale>
+  <Mercenary_Gunner.labelMale>Gunner Mercenary</Mercenary_Gunner.labelMale>
+  <Mercenary_Gunner.labelPlural>tentara bayaran penembak</Mercenary_Gunner.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner_Acidifier.label>Gunner Mercenary</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.labelFemale>Mercenaria artillera</Mercenary_Gunner_Acidifier.labelFemale>
+  <Mercenary_Gunner_Acidifier.labelMale>Gunner Mercenary</Mercenary_Gunner_Acidifier.labelMale>
+  <Mercenary_Gunner_Acidifier.labelPlural>tentara bayaran penembak</Mercenary_Gunner_Acidifier.labelPlural>
+  
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy.label>Tentara bayaran berat</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelFemale>Tentara bayaran berat</Mercenary_Heavy.labelFemale>
+  <Mercenary_Heavy.labelMale>Tentara bayaran berat</Mercenary_Heavy.labelMale>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy.labelPlural>Tentara bayaran berat</Mercenary_Heavy.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher.label>Tentara bayaran pembunuh</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelFemale>Mercenaria Aces</Mercenary_Slasher.labelFemale>
+  <Mercenary_Slasher.labelMale>Tentara bayaran pembunuh</Mercenary_Slasher.labelMale>
+  <Mercenary_Slasher.labelPlural>Tentara bayaran pembunuh</Mercenary_Slasher.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher_Acidifier.label>Tentara bayaran pembunuh</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.labelFemale>Mercenaria Aces</Mercenary_Slasher_Acidifier.labelFemale>
+  <Mercenary_Slasher_Acidifier.labelMale>Tentara bayaran pembunuh</Mercenary_Slasher_Acidifier.labelMale>
+  <Mercenary_Slasher_Acidifier.labelPlural>Tentara bayaran pembunuh</Mercenary_Slasher_Acidifier.labelPlural>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper.label>Penembak jitu tentara bayaran</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelFemale>Mercenaria fanteraradora</Mercenary_Sniper.labelFemale>
+  <Mercenary_Sniper.labelMale>Penembak jitu tentara bayaran</Mercenary_Sniper.labelMale>
+  <Mercenary_Sniper.labelPlural>tentara bayaran snipe</Mercenary_Sniper.labelPlural>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper_Acidifier.label>Penembak jitu tentara bayaran</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.labelFemale>Mercenaria fanteraradora</Mercenary_Sniper_Acidifier.labelFemale>
+  <Mercenary_Sniper_Acidifier.labelMale>Penembak jitu tentara bayaran</Mercenary_Sniper_Acidifier.labelMale>
+  <Mercenary_Sniper_Acidifier.labelPlural>tentara bayaran snipe</Mercenary_Sniper_Acidifier.labelPlural>
+  
+  <!-- EN: boss -->
+  <PirateBoss.label>bos</PirateBoss.label>
+  <PirateBoss.labelFemale>melemparkan</PirateBoss.labelFemale>
+  <!-- EN: bosses -->
+  <PirateBoss.labelPlural>bos</PirateBoss.labelPlural>
+  
+</LanguageData>

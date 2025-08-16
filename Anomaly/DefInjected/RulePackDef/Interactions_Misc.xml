@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>mengoceh-> mengoceh</li>
+    <li>mengoceh-> berbisik</li>
+    <li>Rambled-> terkekeh</li>
+    <li>mengoceh-> mengoceh</li>
+    <li>mengoceh-> mengoceh</li>
+    <li>Rambled-> bergumam</li>
+    <li>mengoceh-> mengoceh</li>
+    <li>Rambled-> bergumam</li>
+    <li>Rambled-> Berbelok</li>
+    <li>mengoceh-> tergagap</li>
+    <li>DarkspeechAdverb-> Lembut</li>
+    <li>DarkspeechAdverb-> terhenti</li>
+    <li>darkspeechadverb-> tidak menentu</li>
+    <li>Darkspeechadverb-> Darkly</li>
+    <li>Darkspeechadverb-> tidak jelas</li>
+    <li>Darkspeechadverb-> Madly</li>
+    <li>Subjectinsane-> Kegagalan Kemanusiaan</li>
+    <li>Subjectinsane-> akhir keberadaan</li>
+    <li>Subjectinsane-> The Tyranny of Time</li>
+    <li>Subjectinsane-> The Void</li>
+    <li>Subjectinsane-> Ilusi Realitas</li>
+    <li>Subjectinsane-> The Mind's Labyrinthine Horrors</li>
+    <li>Subjectinsane-> Bayangan Sinister</li>
+    <li>Subjectinsane-> Kenaikan pembusukan yang tak terhindarkan</li>
+    <li>Subjectinsane-> The Madness of the Cosmos</li>
+    <li>Subjectinsane-> Dreams 'Deceptive Truth</li>
+    <li>Subjectinsane-> The Cryptic Language of Pain</li>
+    <li>Subjectinsane-> Siklus Sia-sia Hidup</li>
+    <li>Subjectinsane-> The Snility of Hope</li>
+    <li>Subjectinsane-> Kerapuhan kewarasan</li>
+    <li>Subjectinsane-> ejekan kebahagiaan</li>
+    <li>Subjectinsane-> armilitas keberadaan</li>
+    <li>Subjectinsane-> The Silence of the Universe</li>
+    <li>Subjectinsane-> The Cruel Dance of Fate</li>
+    <li>Subjectinsane-> Tidak relevannya moralitas</li>
+    <li>Subjectinsane-> ejekan cinta</li>
+    <li>Subjectinsane-> The Bitter Taste of Truth</li>
+    <li>Subjectinsane-> Echoes of Forgotten Screams</li>
+    <li>Subjekinsane-> Penipuan Memori</li>
+    <li>Subjectinsane-> Pawai entropi tanpa henti</li>
+    <li>Subjectinsane-> The Cold Hck of Solitude</li>
+    <li>Subjectinsane-> Cahaya keputusasaan yang keras</li>
+    <li>Subjectinsane-> Kekosongan Ambisi</li>
+    <li>Subjectinsane-> ironi sukacita yang pahit</li>
+    <li>Subjectinsane-> The Hollow Promises of Faith</li>
+    <li>Subjectinsane-> Keindahan penderitaan yang menyimpang</li>
+    <li>Subjectinsane-> Kejatuhan Peradaban yang Tidak Dapat Dihindari</li>
+    <li>SubjectDarkstudy-> Horax</li>
+    <li>SubjectDarkstudy-> Humanity</li>
+    <li>SubjectDarkstudy-> Shamblers</li>
+    <li>SubjectDarkstudy-> Machine Horrors</li>
+    <li>SubjectDarkstudy-> Fleshbeasts</li>
+    <li>SubjectDarkStudy-> Pit Gates</li>
+    <li>SubjectDarkstudy-> Kegelapan yang tidak wajar</li>
+    <li>SubjectDarkstudy-> void saluran</li>
+    <li>SubjectDarkstudy-> The Monolith</li>
+    <li>SubjectDarkstudy-> The Void</li>
+    <li>SubjectDarkstudy-> Fisik Ketakutan</li>
+    <li>SubjectDarkstudy-> The Power of Rage</li>
+    <li>SubjectDarkstudy-> Koneksi antara manusia</li>
+    <li>SubjectDarkStudy-> Tujuan Manusia dan Tujuan Mesin</li>
+    <li>SubjectDarkstudy-> dari mana datangnya entitas gelap</li>
+    <li>SubjectDarkstudy-> Sumber Pengetahuan</li>
+    <li>SubjectDarkstudy-> Psikis Aliran</li>
+    <li>SubjectDarkstudy-> Mekanisme Psikis</li>
+    <li>SubjectDarkStudy-> Manifestasi Psikis</li>
+    <li>SubjectDarkstudy-> Mekanisme kekuasaan</li>-><DarkDialogue.rulePack.rulesStrings>
+    <li>Rambled-> Divago</li>
+    <li>Mengoceh-> berbisik</li>
+    <li>Mengoceh-> tertawa di antara gigi</li>
+    <li>Rambled-> berkomentar</li>
+    <li>Mengoceh-> dilucuti</li>
+    <li>Rambled-> bergumam</li>
+    <li>Rambled-> Balbuceó</li>
+    <li>Mengoceh-> pria</li>
+    <li>Mengoceh-> mengobrol</li>
+    <li>Mengoceh-> bentak</li>
+    <li>DarkspeechAdverb-> Lembut</li>
+    <li>Darkspeechadverb-> ragu-ragu</li>
+    <li>Darkspeechadverb-> tidak menentu</li>
+    <li>Darkspeechadverb-> Darkly</li>
+    <li>Darkspeechadverb-> Incohertenmente</li>
+    <li>Darkspeechadverb-> Madly</li>
+    <li>Subjectinsane-> Kegagalan Kemanusiaan</li>
+    <li>Subjectinsane-> akhir keberadaan</li>
+    <li>Subjectinsane-> Time Tyranny</li>
+    <li>Subjectinsane-> The Void</li>
+    <li>Subjectinsane-> Ilusi Realitas</li>
+    <li>Subjectinsane-> Labyrinth Horrors of the Mind</li>
+    <li>Subjectinsane-> Bayangan Sinister</li>
+    <li>Subjectinsane-> Kenaikan pembusukan yang tak terhindarkan</li>
+    <li>Subjectinsane-> The Madness of the Cosmos</li>
+    <li>Subjectinsane-> Kebenaran mimpi yang menyesatkan</li>
+    <li>Subjectinsane-> The Cryptic Pain Language</li>
+    <li>Subjectinsane-> Siklus Kehidupan yang tidak berguna</li>
+    <li>Subjectinsane-> Kecelakaan Harapan</li>
+    <li>Subjectinsane-> Kerapuhan kewarasan</li>
+    <li>Subjectinsane-> ejekan kebahagiaan</li>
+    <li>Subjectinsane-> The Greasque of Existence</li>
+    <li>Subjectinsane-> The Silence of the Universe</li>
+    <li>Subjectinsane-> The Cruel Dance of Fate</li>
+    <li>Subjectinsane-> Tidak relevan dari moral</li>
+    <li>Subjectinsane-> ejekan cinta</li>
+    <li>Subjectinsane-> The Bitter Taste of Truth</li>
+    <li>Subjectinsane-> Echoes of Forgotten Screams</li>
+    <li>Subjectinsane-> Penipuan Memori</li>
+    <li>Subjectinsane-> March entropy yang tidak dapat dipastikan</li>
+    <li>Subjectinsane-> The Cold Hug of Loneliness</li>
+    <li>Subjectinsane-> The Hard Light of Despair</li>
+    <li>Subjectinsane-> Kekosongan Ambisi</li>
+    <li>Subjectinsane-> ironi sukacita yang pahit</li>
+    <li>Subjectinsane-> Janji Iman Kosong</li>
+    <li>Subjectinsane-> Keindahan penderitaan yang menyimpang</li>
+    <li>Subjectinsane-> jatuhnya peradaban yang tak terhindarkan</li>
+    <li>SubjectDarkstudy-> Los Horax</li>
+    <li>SubjectStudy-> Humanity</li>
+    <li>SubjectDarkstudy-> Los Chamanes</li>
+    <li>SubjectDarkStudy-> Horrors Machines</li>
+    <li>SubjectStudy-> Carnal Beasts</li>
+    <li>SubjectStudy-> Kuburan Vakum</li>
+    <li>SubjectStudy-> Supernatural Darkness</li>
+    <li>SubjectStudy-> Ducts Vakum</li>
+    <li>SubjectDarkstudy-> El Monolito</li>
+    <li>SubjectStudy-> The Void</li>
+    <li>SubjectStudy-> Karakter Fisik Ketakutan</li>
+    <li>SubjectStudy-> Kekuatan Kemarahan</li>
+    <li>SubjectStudy-> Koneksi antara manusia</li>
+    <li>SubjectStudy-> Tujuan dan Tujuan Manusia dari Mesin</li>
+    <li>SubjectStudy-> Dari mana datangnya entitas gelap</li>
+    <li>SubjectStudy-> Sumber Pengetahuan</li>
+    <li>SubjectStudy-> Aliran Psikis</li>
+    <li>SubjectStudy-> Mekanisme Psikis</li>
+    <li>SubjectStudy-> Manifestasi Psikis</li>
+    <li>SubjectStudy-> Mekanisme kekuasaan</li>
+  </DarkDialogue.rulePack.rulesStrings>
+  
+</LanguageData>

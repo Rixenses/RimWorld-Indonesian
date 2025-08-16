@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood rain -->
+  <BloodRain.label>Hujan berdarah</BloodRain.label>
+  <!-- EN: Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect. -->
+  <BloodRain.description>Dia meluncurkan ritual yang membuat psikofluid mirip dengan darah jatuh dari surga.Cairan itu perlahan -lahan akan menjadi gila bagi manusia dan hewan yang terpapar.Fitur psikis dan sensitivitas mengatur efeknya.</BloodRain.description>
+  <!-- EN: At the current ritual quality, the blood rain will last for {0}. -->
+  <BloodRain.outcomeDescription>Dengan kualitas ritual saat ini, hujan berdarah akan bertahan {0}.</BloodRain.outcomeDescription>
+  
+  <!-- EN: brainwipe -->
+  <Brainwipe.label>Neuroborrado</Brainwipe.label>
+  <!-- EN: Erase a person's memories. Traumatic events will be forgotten. Prisoners will forget their allegiance and become easier to recruit, even if they were unwavering before. Inhumanized individuals will forget their connection to the void. Unfortunately, the disruptive effect of the ritual will induce a coma that could last a long time, especially if the ritual is of poor quality. -->
+  <Brainwipe.description>Hapus kenangan seseorang.Peristiwa traumatis akan lupa.Para tahanan akan melupakan kesetiaan mereka dan akan lebih mudah direkrut, bahkan jika mereka tidak tergoyahkan.Individu yang tidak terbantahkan akan melupakan hubungan mereka dengan kekosongan.Sayangnya, efek yang mengganggu dari ritual akan menyebabkan koma yang dapat bertahan lama, terutama jika ritual tersebut berkualitas buruk.</Brainwipe.description>
+  <!-- EN: The target will be brainwiped.\n\nWith the current ritual quality, the target will also enter a coma for {0}. -->
+  <Brainwipe.outcomeDescription>Tujuannya akan menderita neurobroado. \ N \ Dengan kualitas ritual saat ini, tujuannya akan masuk ke dalam koma untuk {0}.</Brainwipe.outcomeDescription>
+  
+  <!-- EN: chronophagy -->
+  <Chronophagy.label>Chronophagiah</Chronophagy.label>
+  <!-- EN: Induce a distant archotech to transfer entropy from one person to another. This causes the target to age rapidly while the invoker becomes younger, potentially healing scarring or age-related illnesses. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Chronophagy.description>Ini menginduksi archaoteca yang jauh untuk mentransfer entropi dari satu orang ke orang lain.Hal ini menyebabkan tujuan untuk usia dengan cepat sementara Invocator meremajakan, yang dapat menyembuhkan bekas luka atau penyakit terkait usia.Tujuannya akan mengalami kerusakan otak yang akan membuatnya koma selama beberapa hari.</Chronophagy.description>
+  <!-- EN: At the current ritual quality, the invoker will become {0} years younger and the target will become {1} years older.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Chronophagy.outcomeDescription>Dengan kualitas ritual saat ini, Invocator akan meremajakan tahun {0} dan tujuannya akan menua tahun {1}. Target \ n \ nel akan mengalami kerusakan otak dan jatuh dalam keadaan koma.</Chronophagy.outcomeDescription>
+  
+  <!-- EN: imbue death refusal -->
+  <ImbueDeathRefusal.label>Imbuir of Death Repelio</ImbueDeathRefusal.label>
+  <!-- EN: Link a target with a distant archotechnological engine that can bring them back from the dead in seconds. This process is not without side-effects. -->
+  <ImbueDeathRefusal.description>Tautkan tujuan dengan mesin arkeoteknologi yang jauh yang dapat menghidupkannya kembali dalam hitungan detik.Proses ini tidak dibebaskan dari efek samping.</ImbueDeathRefusal.description>
+  <!-- EN: The target will gain death refusal.\n\nWith the current quality, all the target's skills will also be reduced by {0}. -->
+  <ImbueDeathRefusal.outcomeDescription>Tujuannya akan mendapatkan mortis repelio. \ N \ Dengan kualitas saat ini, semua keterampilan tujuan akan dikurangi dengan {0}.</ImbueDeathRefusal.outcomeDescription>
+  
+  <!-- EN: neurosis pulse -->
+  <NeurosisPulse.label>denyut neurotik</NeurosisPulse.label>
+  <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region work faster but become more irritable. Those affected will feel less need for recreation but will be unhappier and more likely to have a mental break. This will replace the effect of other active pulses. -->
+  <NeurosisPulse.description>Ini memancarkan denyut nadi psikis yang intens yang membuat setiap individu yang sensitif secara psikis di wilayah ini bekerja lebih cepat, tetapi menjadi lebih mudah tersinggung.Mereka yang terkena dampak akan merasa kurang perlu bersenang -senang, tetapi mereka akan lebih tidak bahagia dan lebih mungkin mengalami keruntuhan mental.Ini akan menggantikan efek pulsa aktif lainnya.</NeurosisPulse.description>
+  <!-- EN: At the current ritual quality, the effect will last for {0}. -->
+  <NeurosisPulse.outcomeDescription>Dengan kualitas saat ini, efeknya akan bertahan {0}</NeurosisPulse.outcomeDescription>
+  
+  <!-- EN: philophagy -->
+  <Philophagy.label>nyanyian pujian</Philophagy.label>
+  <!-- EN: Psychically draw experiences from the victim's mind and transfer them to the invoker, targeting the victim's highest skill. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Philophagy.description>Secara psikis mengekstrak pengalaman dari pikiran korban dan memindahkannya ke penyelamat, dengan fokus pada kemampuan tertinggi korban.Tujuannya akan mengalami kerusakan otak yang akan membuatnya koma selama beberapa hari.</Philophagy.description>
+  <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Philophagy.outcomeDescription>Dengan kualitas saat ini, invoker akan mencuri {0} pengalaman dari kemampuan terbaik dari tujuan tersebut. Target \ n \ nel akan mengalami kerusakan otak dan jatuh dalam keadaan koma.</Philophagy.outcomeDescription>
+  
+  <!-- EN: pleasure pulse -->
+  <PleasurePulse.label>denyut nadi yang menyenangkan</PleasurePulse.label>
+  <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses. -->
+  <PleasurePulse.description>Ini memancarkan denyut nadi psikis yang intens yang membuat setiap individu yang sensitif secara psikis di wilayah ini lebih bahagia, tetapi mengurangi keinginan mereka untuk bekerja.Ini akan menggantikan efek pulsa aktif lainnya.</PleasurePulse.description>
+  <!-- EN: At the current ritual quality, the effect will last for {0}. -->
+  <PleasurePulse.outcomeDescription>Dengan kualitas saat ini, efeknya akan bertahan {0}.</PleasurePulse.outcomeDescription>
+  
+  <!-- EN: psychophagy -->
+  <Psychophagy.label>psikofag</Psychophagy.label>
+  <!-- EN: Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Psychophagy.description>Ini mengkonsumsi sensitivitas psikis suatu tujuan.Invoker akan meningkatkan sensitivitas psikisnya untuk sementara waktu.Efeknya tidak menumpuk.Tujuannya akan mengalami kerusakan otak yang akan meninggalkannya dalam keadaan koma selama beberapa hari.</Psychophagy.description>
+  <!-- EN: At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Psychophagy.outcomeDescription>Dengan kualitas saat ini, efeknya akan bertahan {0}. Target \ n \ nel akan mengalami kerusakan otak dan jatuh dalam keadaan koma.</Psychophagy.outcomeDescription>
+  
+  <!-- EN: skip abduction -->
+  <SkipAbduction.label>lompatan abduktif</SkipAbduction.label>
+  <!-- EN: Teleport a random hostile person to the ritual location and place them in a coma. -->
+  <SkipAbduction.description>Teletransportes Orang yang bermusuhan ke tempat ritual yang menyebabkannya jatuh koma.</SkipAbduction.description>
+  <!-- EN: They intend to use a psychic ritual to abduct a colonist via teleportation. -->
+  <SkipAbduction.letterAIArrivedText>Mereka bermaksud menggunakan ritual psikis untuk menculik pemukim melalui teleportasi.</SkipAbduction.letterAIArrivedText>
+  <!-- EN: Skip abduction -->
+  <SkipAbduction.letterAICompleteLabel>Lompatan abduktif</SkipAbduction.letterAICompleteLabel>
+  <!-- EN: {PAWN_nameDef} has been abducted by the cultists! -->
+  <SkipAbduction.letterAICompleteText>{Pawn_namedef} Apakah sudah diculik {Pawn_gender?O: A} untuk kultus.</SkipAbduction.letterAICompleteText>
+  <!-- EN: The target will be teleported to the invoker's location and fall into a coma. -->
+  <SkipAbduction.outcomeDescription>Tujuannya akan diteleportasi ke lokasi Invoker dan akan menjadi koma.</SkipAbduction.outcomeDescription>
+  
+  <!-- EN: skip abduction -->
+  <SkipAbductionPlayer.label>lompatan abduktif</SkipAbductionPlayer.label>
+  <!-- EN: Abduct a random hostile person from anywhere in the world, prioritizing those nearby. The ritual induces a dark archotech to warp space, teleporting a distant person to the center of the ritual circle. The process causes the target to fall into a short coma. -->
+  <SkipAbductionPlayer.description>Benci orang yang bermusuhan secara acak dari mana saja di dunia, memberikan prioritas bagi mereka yang dekat.Ritual menginduksi perpustakaan Archeoteca gelap untuk merusak ruang, teleportasi seseorang yang jauh dari pusat lingkaran ritual.Prosesnya menyebabkan tujuan jatuh ke dalam koma singkat.</SkipAbductionPlayer.description>
+  <!-- EN: At the current ritual quality, the target will remain in a coma for {0}. -->
+  <SkipAbductionPlayer.outcomeDescription>Dengan kualitas saat ini, tujuannya akan tetap koma untuk {0}.</SkipAbductionPlayer.outcomeDescription>
+  
+  <!-- EN: draw animals -->
+  <SummonAnimals.label>menarik hewan</SummonAnimals.label>
+  <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
+  <SummonAnimals.description>Buat denyut nadi psikis yang akan menarik kawanan hewan yang jauh dari daerah saat ini.Anda dapat memburu mereka atau menggunakannya seperti yang Anda inginkan.Jika ritual tidak dilakukan dengan benar, ini dapat menarik hewan berburu yang terinfeksi Escaria.</SummonAnimals.description>
+  <!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
+  <SummonAnimals.outcomeDescription>Dengan kualitas saat ini, ada probabilitas {0} bahwa hewan tiba sebagai hari libur.</SummonAnimals.outcomeDescription>
+  
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeasts.label>Atraer Carnibestias</SummonFleshbeasts.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeasts.description>Buat denyut nadi psikis yang akan menarik Carnibesties yang akan dilepaskan dan muncul di dekat musuh Anda.Mereka akan menyerang siapa pun yang mereka temukan, termasuk musuh dan sekutu Anda.Carnibestias dapat ditangkap dan dipelajari, atau dikorbankan untuk mendapatkan daging bengkok.</SummonFleshbeasts.description>
+  <!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
+  <SummonFleshbeasts.letterAIArrivedText>Mereka bermaksud menggunakan ritual psikis untuk memohon karnibes yang mengerikan untuk menyerang Anda.</SummonFleshbeasts.letterAIArrivedText>
+  <!-- EN: Fleshbeasts emerging -->
+  <SummonFleshbeasts.letterAICompleteLabel>Carnibewish muncul</SummonFleshbeasts.letterAICompleteLabel>
+  <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
+  <SummonFleshbeasts.letterAICompleteText>Carnibstia menggaruk tanah.Persiapkan serangan Anda!</SummonFleshbeasts.letterAICompleteText>
+  <!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
+  <SummonFleshbeasts.outcomeDescription>Buat denyut nadi psikis yang akan menarik gerombolan carnibesties.</SummonFleshbeasts.outcomeDescription>
+  
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeastsPlayer.label>Atraer Carnibestias</SummonFleshbeastsPlayer.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeastsPlayer.description>Buat denyut nadi psikis yang akan menarik Carnibesties yang akan dilepaskan dan muncul di dekat musuh Anda.Mereka akan menyerang siapa pun yang mereka temukan, termasuk musuh dan sekutu.Carnibesties dapat ditangkap dan dipelajari, atau dipotong -potong untuk mendapatkan daging bengkok.</SummonFleshbeastsPlayer.description>
+  <!-- EN: A higher quality ritual will attract more fleshbeasts. -->
+  <SummonFleshbeastsPlayer.outcomeDescription>Ritual berkualitas lebih tinggi akan menarik lebih banyak carnibstia.</SummonFleshbeastsPlayer.outcomeDescription>
+  
+  <!-- EN: provoke pit gate -->
+  <SummonPitGate.label>kekosongan</SummonPitGate.label>
+  <!-- EN: Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources. -->
+  <SummonPitGate.description>Gunakan denyut nadi psikis untuk menyebabkan carnibesties bawah tanah membuka lubang besar di tanah di suatu tempat di daerah tersebut.Lubang besar akan membawa Anda ke gua Carnibstia yang terinfestasi yang dapat Anda jelajahi untuk mencari sumber daya.</SummonPitGate.description>
+  <!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonPitGate.outcomeDescription>Ritual berkualitas lebih tinggi akan menarik lebih banyak carnibstia.Carnibesties dapat ditangkap dan dipelajari, atau dipotong -potong untuk mendapatkan daging bengkok.</SummonPitGate.outcomeDescription>
+  
+  <!-- EN: draw shamblers -->
+  <SummonShamblers.label>Menarik pejalan kaki</SummonShamblers.label>
+  <!-- EN: Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study. -->
+  <SummonShamblers.description>Buat denyut nadi psikis yang akan menarik gerombolan jauh dari pejalan kaki ke daerah Anda.Meskipun mereka akan menyerang manusia yang mereka lihat, mereka tidak akan secara langsung menyerang koloni Anda.Anda dapat menangkap mereka untuk mempelajarinya.</SummonShamblers.description>
+  <!-- EN: The higher the ritual quality, the more shamblers that will be summoned. -->
+  <SummonShamblers.outcomeDescription>Semakin besar kualitas ritual, semakin banyak pejalan kaki yang akan mereka bayar.</SummonShamblers.outcomeDescription>
+  
+  <!-- EN: void provocation -->
+  <VoidProvocation.label>Provokasi kekosongan</VoidProvocation.label>
+  <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours. -->
+  <VoidProvocation.description>Masukkan kontak psikis dengan kekosongan, menarik entitas yang dapat ditangkap dan dipelajari.Ada kemungkinan bahwa Invoker jatuh koma selama beberapa jam.</VoidProvocation.description>
+  <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
+  <VoidProvocation.outcomeDescription>Dengan kualitas saat ini, ada probabilitas {0} bahwa Invoker menerima pelepasan psikis yang gelap.</VoidProvocation.outcomeDescription>
+  
+</LanguageData>

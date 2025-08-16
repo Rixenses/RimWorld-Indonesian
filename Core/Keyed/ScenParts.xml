@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+
+  <!-- EN: Title -->
+  <ScenarioTitle>Judul</ScenarioTitle>
+  <!-- EN: Your faction will be a {0}. -->
+  <ScenPart_PlayerFaction>Faksi Anda akan menjadi: {0}.</ScenPart_PlayerFaction>
+
+  <!-- EN: Start with 1 person. -->
+  <ScenPart_StartWithPawn>Anda mulai dengan 1 orang.</ScenPart_StartWithPawn>
+  <!-- EN: Start with {0} people. -->
+  <ScenPart_StartWithPawns>Anda mulai dengan {0} orang.</ScenPart_StartWithPawns>
+  <!-- EN: chosen from -->
+  <ScenPart_StartWithPawns_OutOf>dipilih antara</ScenPart_StartWithPawns_OutOf>
+  <!-- EN: random pet -->
+  <RandomPet>hewan peliharaan acak</RandomPet>
+
+  <!-- EN: Start with research: {0} -->
+  <ScenPart_StartingResearchFinished>Anda mulai dengan investigasi ini: {0}</ScenPart_StartingResearchFinished>
+  
+  <!-- EN: Arrive in drop pods. -->
+  <ScenPart_ArriveInDropPods>Tiba di Kapsul Pendaratan.</ScenPart_ArriveInDropPods>
+
+  <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
+  <ScenPart_StatFactor>Statistik "{0}" akan berkembang biak secara universal dengan {1}.</ScenPart_StatFactor>
+  
+  <!-- EN: Select -->
+  <ScenPart_SelectQuestDef>Memilih</ScenPart_SelectQuestDef>
+
+  <!-- Pawn modifiers -->
+  <!-- EN: {0} have a {1} chance to start with {2}. -->
+  <ScenPart_PawnsHaveHediff>{0} memiliki probabilitas {1} untuk memulai dengan {2}.</ScenPart_PawnsHaveHediff>
+  <!-- EN: severity: {0} -->
+  <ConfigurableSeverity>Keparahan: {0}</ConfigurableSeverity>
+
+  <!-- EN: {0} have a {1} chance to have their {2} set between {3} and {4}. -->
+  <ScenPart_SetNeed>{0} memiliki probabilitas {1} memiliki {2} antara {3} dan {4}.</ScenPart_SetNeed>
+  <!-- EN: level: {0} -->
+  <ConfigurableLevel>Level: {0}</ConfigurableLevel>
+
+  <!-- EN: {0} have a {1} chance to start with trait: {2} -->
+  <ScenPart_PawnsHaveTrait>{0} memiliki probabilitas {1} untuk memulai dengan fitur: {2}</ScenPart_PawnsHaveTrait>
+  <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
+  <ScenPart_OnPawnDeathExplode>Karakter dan makhluk meledak saat sekarat ({0}, radio {1}).</ScenPart_OnPawnDeathExplode>
+  <!-- EN: {0} have a {1} chance to start naked. -->
+  <ScenPart_PawnsAreNaked>{0} memiliki probabilitas {1} untuk memulai telanjang.</ScenPart_PawnsAreNaked>
+  
+  <!-- Pawn filters -->
+  <!-- EN: Your people will be at least {0} years old. -->
+  <ScenPart_StartingPawnAgeMin>Pemukim Anda akan memiliki {0} tahun, setidaknya.</ScenPart_StartingPawnAgeMin>
+  <!-- EN: Your people will be at most {0} years old. -->
+  <ScenPart_StartingPawnAgeMax>Pemukim Anda akan memiliki {0} tahun, paling banyak.</ScenPart_StartingPawnAgeMax>
+  <!-- EN: Your people will be between {0} and {1} years old. -->
+  <ScenPart_StartingPawnAgeRange>Pemukim Anda akan memiliki antara {0} dan {1} tahun.</ScenPart_StartingPawnAgeRange>
+
+  <!-- EN: Start with {0}. -->
+  <ScenPart_StartWithSpecificColonists>Anda mulai dengan {0}.</ScenPart_StartWithSpecificColonists>
+  <!-- EN: {COUNT} {KINDLABEL} -->
+  <PawnCount>{Count} {KindLabel}</PawnCount>
+  
+  <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
+  <ScenPart_Error>Satu atau lebih bagian dari skenario ini belum dimuat karena kurangnya konten yang dimodifikasi.</ScenPart_Error>
+
+  <!-- ======================== Grouped ========================-->
+
+  <!-- EN: Start with -->
+  <ScenPart_StartWith>Anda mulai dengan</ScenPart_StartWith>
+  <!-- EN: Map is scattered with -->
+  <ScenPart_MapScatteredWith>Di peta objek berikut telah tersebar</ScenPart_MapScatteredWith>
+  <!-- EN: Permanent game condition(s) -->
+  <ScenPart_PermaGameCondition>Kondisi permainan permanen</ScenPart_PermaGameCondition>
+  <!-- EN: Incident(s) disabled -->
+  <ScenPart_DisableIncident>Insiden dinonaktifkan</ScenPart_DisableIncident>
+  <!-- EN: Incident created -->
+  <ScenPart_CreateIncident>Insiden yang dibuat</ScenPart_CreateIncident>
+  <!-- EN: Can never build -->
+  <ScenPart_DisallowBuilding>Konstruksi dinonaktifkan</ScenPart_DisallowBuilding>
+
+  <!-- ======================== Layers ========================-->
+  
+  <!-- EN: Tag -->
+  <ScenPart_PlanetLayerTag>Label</ScenPart_PlanetLayerTag>
+  <!-- EN: Must have a unique tag -->
+  <ScenPart_PlanetLayerTag_Error>Anda harus memiliki label yang unik</ScenPart_PlanetLayerTag_Error>
+  
+  <!-- EN: Settings -->
+  <ScenPart_PlanetLayerSettings>Konfigurasi</ScenPart_PlanetLayerSettings>
+  <!-- EN: Use settings def -->
+  <ScenPart_PlanetLayerSettings_UseDef>Gunakan penyesuaian oleh DEF.</ScenPart_PlanetLayerSettings_UseDef>
+  <!-- EN: Select -->
+  <ScenPart_PlanetLayerSettings_SelectDef>Memilih</ScenPart_PlanetLayerSettings_SelectDef>
+  <!-- EN: Position -->
+  <ScenPart_PlanetLayerSettings_Position>Posisi</ScenPart_PlanetLayerSettings_Position>
+  <!-- EN: Radius -->
+  <ScenPart_PlanetLayerSettings_Radius>Radio</ScenPart_PlanetLayerSettings_Radius>
+  <!-- EN: Use surface view angle -->
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>Gunakan sudut pandang permukaan</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <!-- EN: View angle -->
+  <ScenPart_PlanetLayerSettings_ViewAngle>Lihat sudut</ScenPart_PlanetLayerSettings_ViewAngle>
+  <!-- EN: Extra camera height -->
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>Tinggi kamera ekstra</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <!-- EN: Subdivisions -->
+  <ScenPart_PlanetLayerSettings_Subdivisions>Subdivisi</ScenPart_PlanetLayerSettings_Subdivisions>
+  <!-- EN: Background camera offset -->
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>Kesenjangan latar belakang</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <!-- EN: Background parallax per 100 cells -->
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>Latar belakang paralase per 100 sel</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  
+  <!-- EN: Connections -->
+  <ScenPart_PlanetLayerConnections>Koneksi</ScenPart_PlanetLayerConnections>
+  <!-- EN: Add connection -->
+  <ScenPart_PlanetLayerConnections_Add>Tambahkan koneksi</ScenPart_PlanetLayerConnections_Add>
+  <!-- EN: No zoom -->
+  <ScenPart_PlanetLayerConnections_Zoom>Dosa Zoom</ScenPart_PlanetLayerConnections_Zoom>
+  <!-- EN: Zoom in -->
+  <ScenPart_PlanetLayerConnections_ZoomIn>Mendekati</ScenPart_PlanetLayerConnections_ZoomIn>
+  <!-- EN: Zoom out -->
+  <ScenPart_PlanetLayerConnections_ZoomOut>Menghapus</ScenPart_PlanetLayerConnections_ZoomOut>
+  <!-- EN: Fuel cost -->
+  <ScenPart_PlanetLayerConnections_Fuel>Biaya bahan bakar</ScenPart_PlanetLayerConnections_Fuel>
+  
+  <!-- EN: Planet layer -->
+  <ScenPart_ForcedMapPlanetLayer>Lapisan planet</ScenPart_ForcedMapPlanetLayer>
+
+</LanguageData>

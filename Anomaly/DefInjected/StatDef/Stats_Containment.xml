@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cold containment bonus -->
+  <ColdContainmentBonus.label>Bonus penahanan dingin</ColdContainmentBonus.label>
+  <!-- EN: This entity is less likely to escape if kept in a very cold room. -->
+  <ColdContainmentBonus.description>Entitas ini cenderung melarikan diri jika tetap di ruangan yang sangat dingin.</ColdContainmentBonus.description>
+  
+  <!-- EN: containment strength -->
+  <ContainmentStrength.label>kekuatan penahanan</ContainmentStrength.label>
+  <!-- EN: How securely this can contain an entity. This is improved by stronger walls and doors, more light, fewer other entities in the room, and special containment devices. Some entities are easier to contain in cold temperatures. -->
+  <ContainmentStrength.description>Keamanan yang dapat dikandung oleh entitas.Ini ditingkatkan dengan dinding dan pintu yang lebih kuat, lebih banyak ringan, lebih sedikit entitas di dalam ruangan dan perangkat penahanan khusus.Beberapa entitas lebih mudah mengandung suhu dingin.</ContainmentStrength.description>
+  <!-- EN: containment offset -->
+  <ContainmentStrength.offsetLabel>Bonus dengan penahanan</ContainmentStrength.offsetLabel>
+  
+  <!-- EN: min containment strength -->
+  <MinimumContainmentStrength.label>Kekuatan penahanan minimum</MinimumContainmentStrength.label>
+  <!-- EN: The containment strength needed to contain this entity properly. An entity in a chamber below its minimum containment strength will have a very high chance to escape. -->
+  <MinimumContainmentStrength.description>Kekuatan penahanan yang diperlukan untuk menahan entitas ini dengan benar.Entitas di ruangan dengan kekuatan penahanan yang lebih rendah akan memiliki banyak kemungkinan untuk melarikan diri.</MinimumContainmentStrength.description>
+  
+</LanguageData>

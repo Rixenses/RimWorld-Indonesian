@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>lastORNot (lodgerCount == 1)-></li>
+    <li>lastORNot (LodgerCount> = 2)-> Last</li>
+    <li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>Lodgersarriveletterlabel-> [Lodgerslabelsingularorplural] tiba</li>
+    <li>LodgersArriveletterText-> [LodgerssingularorpluralDef] [HaShave] tiba.[Lodgerspronoun] akan tetap bersama Anda untuk [QuestDurationTicks_Duration] jadi [Lodgerspronoun] dapat beristirahat dan berkumpul kembali.</li>
+    <li>Hashave (LodgerCount == 1)-> Have</li>
+    <li>Hashave (LodgerCount> = 2)-> Have</li>
+    <li>appalledbutnoaction-> {Pawnsalivecount_multiple?Lainnya tampaknya: terakhir [LodgersLabel] adalah} terkejut dengan ini, tetapi {Pawnsalivecount_multiple?adalah: IS} tidak mengambil tindakan terhadap Anda.</li>
+    <li>orang lainwillnotaccept-> {pawnsalivecount_multiple?Lainnya adalah: Terakhir [LodgersLabel] adalah} tidak mau menerima ini</li>
+    <li>turnviolent-> [Otherwillnotaccept], dan {Pawnsalivecount_multiple?Have: Have} berbalik keras terhadap Anda.</li>
+    <li>diputuskan-> [orang lainwillnotaccept], dan {Pawnsalivecount_multiple?Have: Have} memutuskan untuk pergi.</li>
+    <li>whoaskedtostay-> yang meminta untuk tinggal bersama Anda</li>
+    <li>salah satu dari> salah satu [faction_pawnsplural yang putus asa] yang meminta untuk tinggal bersama Anda</li>
+    <li>Questover-> The Quest '[ResolvedQuestName]' sudah berakhir.</li>
+    <li>letterintrodeath-> {subjek_definite}, [Oneofthe] telah mati.</li>
+    <li>LodgerdiedMemoryThoughtLetTerLabel-> [Lodgerslabel] Meninggal: Anger</li>
+    <li>LODGERDIEDMEMORYTHOUGHTERLETTERTEXT-> [LetterIntrodeath] \ n \ n [AppalledButnoaction]</li>
+    <li>LodgerdiedAttackPlayerLeBelLabel-> [Lodgerslabel] Meninggal: Balas dendam</li>
+    <li>LODGERDIEDAttackPlayerLeTTERTEXT-> [letterintrodeath] \ n \ n [turnviolent]</li>
+    <li>Lodgerdiedleavapapletterlabel-> [Lodgerslabel] Meninggal: Berangkat</li>
+    <li>LODGERDIEDLEAVEMAPLETTERTEXT-> [LetterIntrodeath] \ n \ n [Ditentukantoleave]</li>
+    <li>LODGERSAlLDETTERLabel-> Quest gagal</li>
+    <li>LodgersAllDiedLetTerText-> {Subject_Definite}, [lastoNNot] putus asa [faksi_pawnsingular] [whoaskedtostay], telah meninggal. \ n \ n [questover]</li>
+    <li>LetterIntroarrested-> Anda ditangkap {subjek_definite}, [Oneofthe].</li>
+    <li>LodgerArrestedMemoryThoughtLetTerLabel-> [Lodgerslabel] Ditangkap: kemarahan</li>
+    <li>lodgerarrestedmemorythoughtLetTerText-> [letterintroarrested] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerArrestedAttackPlayerLeBel-> [Lodgerslabel] Ditangkap: Revenge</li>
+    <li>LODGERArrestEttackPlayerLeTTERTEXT-> [LetterIntroarrested] \ n \ n [turnviolent]</li>
+    <li>LodgerArrestedleavemapletterlabel-> [Lodgerslabel] Ditangkap: Berangkat</li>
+    <li>LodgerArrestedleaveMapletterText-> [LetterIntroarrested] \ n \ n [diputuskan]</li>
+    <li>LodgersAllarrestedletterlabel-> Quest gagal</li>
+    <li>LodgersAllarrestedLetTerText-> Anda ditangkap {subjek_definite}, [lastoNNot] putus asa [faction_pawnsingular] [whoaskedtostay]. \ n \ n [questover]</li>
+    <li>letterintroleftbehind-> {subjek_definite}, [Oneofthe], tertinggal.</li>
+    <li>LodgerleftBehindMemoryThoughtLetTerLabel-> [Lodgerslabel] tertinggal: kemarahan</li>
+    <li>lodgerleftbehindMemoryThoughtLetTerText-> [letterintroleftbehind] \ n \ n [appalledbutnoaction]</li>
+    <li>Lodgerleftbehindleavemapletterlabel-> [Lodgerslabel] tertinggal: Keberangkatan</li>
+    <li>lodgerleftbehindleavemaplettertext-> [letterintroleftbehind] \ n \ n [diputuskan]</li>
+    <li>LetterIntroviolated-> {Subject_Definite}, [Oneofthe], dilanggar oleh operasi.</li>
+    <li>LodgerviolatedMemoryThoughtLetTerLabel-> [Lodgerslabel] dilanggar: kemarahan</li>
+    <li>LodgerviolatedMemoryThoughtLetTerText-> [LetterIntroviolated] \ n \ n [TerpisahButnoaction]</li>
+    <li>LodgerviolatedAttackPlayerletterLabel-> [Lodgerslabel] dilanggar: balas dendam</li>
+    <li>LodgerviolatedAttackPlayerLetTerText-> [letterintroviolated] \ n \ n [turnviolent]</li>
+    <li>Lodgerviolatedleavemapletterlabel-> [Lodgerslabel] dilanggar: keberangkatan</li>
+    <li>lodgerviolatedleavemaplettertext-> [letterintroviolated] \ n \ n [diputuskan]</li>
+    <li>LetterIntropsychicritualTarget-> {Subject_Definite}, [Oneofthe], adalah target ritual psikis.</li>
+    <li>LodgerPsychicritualTargetMemoryThoughtLetTerLabel-> [Lodgerslabel] dilanggar: kemarahan</li>
+    <li>LodgerPsychicRitualTargetMemoryThoughtLetTerText-> [letterintropsychicritualtarget] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerPsychicritualTargetAttackPlayerLeTterLabel-> [Lodgerslabel] dilanggar: balas dendam</li>
+    <li>LodgerPsychicritualTargetAttackPlayerLeTterText-> [letterintropsychicritualtarget] \ n \ n [turnviolent]</li>
+    <li>LodgerPsychicritualTargetleaveVemapletterlabel-> [Lodgerslabel] dilanggar: keberangkatan</li>
+    <li>lodgerpsychicritualtargetleavevemaplettertext-> [letterintropsychicritualtarget] \ n \ n [diputuskan menjadi</li>
+    <li>Mutinyletterlabel-> pengkhianatan</li>
+    <li>MutinyLeTterText-> [LodgerssingularOrpluralDef] [whoaskedtostay] [areis] berbalik melawan Anda! \ n \ nit tampaknya [Lodgerspronoun] telah direncanakan pengkhianatan ini selama ini.</li>
+    <li>areis (lodgerCount == 1)-> is</li>
+    <li>areis (LodgerCount> = 2)-> Are</li>
+    <li>LODGERSLEAVINGETTERLabel-> [LODGERSLABELSINGULULURAL] Meninggalkan</li>
+    <li>LODGERSLEAVINGETTERTEXT-> {faksi_leaderNamedef} Terima kasih telah mengizinkan {faction_leaderobjective} untuk tetap di [MAP_Definite] untuk ini [QuestDurationTicks_Duration].{Faction_leaderpronoun} sekarang bergerak dengan {faction_leaderpossesif} orang. \ N \ n {faction_leaderNamedef} mengatakan {faction_leaderpronoun} tidak akan melupakan apa yang telah Anda lakukan.</li>-><Hospitality_Refugee.questContentRules.rulesStrings>
+    <!--<li>lastORNot (lodgerCount == 1)-></li>
+    <li>lastORNot (LodgerCount> = 2)-> Last</li>-><li>lastORNot (lodgerCount == 1)-></li>
+    <li>lastORNot (lodgers0_gender == jantan, lodgercount> = 2)-> último</li>
+    <li>lastORNot (lodgers0_gender! = Pria, LodgerCount> = 2)-> última</li>
+    <!--<li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>-><li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersellAcap] [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> LOS [LodgersLabelplural]</li>
+    <!--<li>Lodgersarriveletterlabel-> [Lodgerslabelsingularorplural] tiba</li>
+    <li>LodgersArriveletterText-> [LodgerssingularorpluralDef] [HaShave] tiba.[Lodgerspronoun] akan tetap bersama Anda untuk [QuestDurationTicks_Duration] jadi [Lodgerspronoun] dapat beristirahat dan berkumpul kembali.</li>-><li>Lodgersarriveletterlabel-> [LodgersLabelSingularOrplural] [Tiba]</li>
+    <li>LodgersarivetterText-> [LodgessingularOrpluralDef] [HaHave] tiba.SE [Willstay] dengan Anda selama [QuestDuratiticks_Duration] dan dengan demikian [can_rest] istirahat dan berkumpul kembali.</li>
+    <!--<li>Hashave (LodgerCount == 1)-> Have</li>
+    <li>Hashave (LodgerCount> = 2)-> Have</li>-><li>Hashave (lodgerCount == 1)-> ha</li>
+    <li>Hashave (LodgerCount> = 2)-> Han</li>
+    <li>can_rest (lodgerCount == 1)-> podrá</li>
+    <li>Can_rest (LodgerCount> = 2)-> May</li>
+    <!--<li>appalledbutnoaction-> {Pawnsalivecount_multiple?Lainnya tampaknya: terakhir [LodgersLabel] adalah} terkejut dengan ini, tetapi {Pawnsalivecount_multiple?adalah: IS} tidak mengambil tindakan terhadap Anda.</li>
+    <li>orang lainwillnotaccept-> {pawnsalivecount_multiple?Lainnya adalah: Terakhir [LodgersLabel] adalah} tidak mau menerima ini</li>-><li>Apploedbutnoaction-> {Pawnsalivecount_multiple?Yang lain tampak ngeri: [terakhir] [Lodgerslabel] adalah horor [o_a]} untuk ini, tetapi {Pawnsalivecount_multiple?Mereka tidak: tidak} mengambil langkah -langkah terhadap Anda.</li>
+    <li>Lainnyawillnotaccept-> {Pawnsalivecount_Multiple?Yang lain tidak akan</li>
+    <!--<li>turnviolent-> [Otherwillnotaccept], dan {Pawnsalivecount_multiple?Have: Have} berbalik keras terhadap Anda.</li>
+    <li>diputuskan-> [orang lainwillnotaccept], dan {Pawnsalivecount_multiple?Have: Have} memutuskan untuk pergi.</li>-><li>Turnviolent-> [Otherwillnotaccept], dan apakah {Pawnsalivecount_multiple?Mereka telah menjadi kekerasan: kekerasan [O_A]} telah kembali melawan Anda.</li>
+    <li>[Orang lain tidak akan menerima, dari: di}} memutuskan irteen.</li>
+    <!--<li>whoaskedtostay-> yang meminta untuk tinggal bersama Anda</li>
+    <li>salah satu dari> salah satu [faction_pawnsplural yang putus asa] yang meminta untuk tinggal bersama Anda</li>-><li>Whoaskedtostay (lodgercount == 1)-> siapa yang meminta untuk tetap bersamamu</li>
+    <li>Whoaskedtostay (lodgercount> = 2)-> mereka meminta untuk tetap bersamamu</li>
+    <li>Salah satu dari> salah satu dari [faction_pawnsplural] putus asa yang meminta untuk tinggal bersamamu</li>
+    <!--<li>Questover-> The Quest '[ResolvedQuestName]' sudah berakhir.</li>
+    <li>letterintrodeath-> {subjek_definite}, [Oneofthe] telah mati.</li>-><li>Questover-> The Mission "[ResolvedQuestName]" sudah berakhir.</li>
+    <li>letterintrodeath-> {subjek_definite}, [oneofthe] ha muerto.</li>
+    <!--<li>LodgerdiedMemoryThoughtLetTerLabel-> [Lodgerslabel] Meninggal: Anger</li>
+    <li>LODGERDIEDMEMORYTHOUGHTERLETTERTEXT-> [LetterIntrodeath] \ n \ n [AppalledButnoaction]</li>-><li>LodgerdiedMemoryThoughtLetTerLabel-> [Lodgerslabel] Murió: Ira</li>
+    <li>LODGERDIEDMEMORYTHOUGHTERLETTERTEXT-> [LetterIntrodeath] \ n \ n [AppalledButnoaction]</li>
+    <!--<li>LodgerdiedAttackPlayerLeBelLabel-> [Lodgerslabel] Meninggal: Balas dendam</li>
+    <li>LODGERDIEDAttackPlayerLeTTERTEXT-> [letterintrodeath] \ n \ n [turnviolent]</li>-><li>LodgerdiedAttackPlayerLeBel-> [Lodgerslabel] Meninggal: balas dendam</li>
+    <li>LODGERDIEDAttackPlayerLeTTERTEXT-> [letterintrodeath] \ n \ n [turnviolent]</li>
+    <!--<li>Lodgerdiedleavapapletterlabel-> [Lodgerslabel] Meninggal: Berangkat</li>
+    <li>LODGERDIEDLEAVEMAPLETTERTEXT-> [LetterIntrodeath] \ n \ n [Ditentukantoleave]</li>-><li>Lodgerdiedleavapapletterlabel-> [Lodgerslabel] Meninggal: Keberangkatan</li>
+    <li>LODGERDIEDLEAVEMAPLETTERTEXT-> [LetterIntrodeath] \ n \ n [Ditentukantoleave]</li>
+    <!--<li>LODGERSAlLDETTERLabel-> Quest gagal</li>
+    <li>LodgersAllDiedLetTerText-> {Subject_Definite}, [lastoNNot] putus asa [faksi_pawnsingular] [whoaskedtostay], telah meninggal. \ n \ n [questover]</li>-><li>Lodgersalld rightterlabel-> misi elang</li>
+    <li>LODGERSAlLDETTERTEXT-> {Subject_Definite}, [Lodgersella] [lastOnToNT] [faction_pawnsingular] desesperad [o_a] [whoaskedtostay], ha muerto. \ n \ n [questover]</li>
+    <!--<li>LetterIntroarrested-> Anda ditangkap {subjek_definite}, [Oneofthe].</li>
+    <li>LodgerArrestedMemoryThoughtLetTerLabel-> [Lodgerslabel] Ditangkap: kemarahan</li>-><li>LetterIntroarrested-> Penangkapan A {Subject_Definite}, [Oneofthe].</li>
+    <li>LodgerArrestedMemoryThoughtLetTerLabel-> [LODGERSLABEL] ARRESTAD [O_A]: IRA</li>
+    <!--<li>lodgerarrestedmemorythoughtLetTerText-> [letterintroarrested] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerArrestedAttackPlayerLeBel-> [Lodgerslabel] Ditangkap: Revenge</li>-><li>lodgerarrestedmemorythoughtLetTerText-> [letterintroarrested] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerArrestedAttackPlayerLeBelLabel-> [Lodgerslabel] Arrestad [o_a]: Varganza</li>
+    <!--<li>LODGERArrestEttackPlayerLeTTERTEXT-> [LetterIntroarrested] \ n \ n [turnviolent]</li>
+    <li>LodgerArrestedleavemapletterlabel-> [Lodgerslabel] Ditangkap: Berangkat</li>-><li>LODGERArrestEttackPlayerLeTTERTEXT-> [LetterIntroarrested] \ n \ n [turnviolent]</li>
+    <li>LodgerArrestedleavemapletterlabel-> [Lodgerslabel] Arrestad [O_A]: Partida</li>
+    <!--<li>LodgerArrestedleaveMapletterText-> [LetterIntroarrested] \ n \ n [diputuskan]</li>
+    <li>LodgersAllarrestedletterlabel-> Quest gagal</li>-><li>LodgerArrestedleaveMapletterText-> [LetterIntroarrested] \ n \ n [diputuskan]</li>
+    <li>Lodgersallastedletterlabel-> misi yang gagal</li>
+    <!--<li>LodgersAllarrestedLetTerText-> Anda ditangkap {subjek_definite}, [lastoNNot] putus asa [faction_pawnsingular] [whoaskedtostay]. \ n \ n [questover]</li>
+    <li>letterintroleftbehind-> {subjek_definite}, [Oneofthe], tertinggal.</li>
+    <li>LodgerleftBehindMemoryThoughtLetTerLabel-> [Lodgerslabel] tertinggal: kemarahan</li>
+    <li>lodgerleftbehindMemoryThoughtLetTerText-> [letterintroleftbehind] \ n \ n [appalledbutnoaction]</li>
+    <li>Lodgerleftbehindleavemapletterlabel-> [Lodgerslabel] tertinggal: Keberangkatan</li>
+    <li>lodgerleftbehindleavemaplettertext-> [letterintroleftbehind] \ n \ n [diputuskan]</li>
+    <li>LetterIntroviolated-> {Subject_Definite}, [Oneofthe], dilanggar oleh operasi.</li>-><li>LodgersAllarrestedLeTTERTEXT-> CHRESTASTE A {Subject_Definite}, [Lodgersella] [lastOnToNT] [faksi_pawnsingular] Desesperad [O_A] [WhoaskedTostay]. \ n \ n [Quesover]</li>
+    <li>Letterintroleftbehind-> {subjek_definite}, [Oneofthe], telah ditinggalkan [o_a].</li>
+    <li>LodgerleftBehindMemoryThoughtLetTerLabel-> [Lodgerslabel] Ha Sido Abandonad [O_A]: IRA</li>
+    <li>lodgerleftbehindMemoryThoughtLetTerText-> [letterintroleftbehind] \ n \ n [appalledbutnoaction]</li>
+    <li>LODGERLEFTBEHINDLEAVEMAPETTERLABEL-> [LODGERSLABEL] HA SIDO Abandonad [O_A]: Partida</li>
+    <li>lodgerleftbehindleavemaplettertext-> [letterintroleftbehind] \ n \ n [diputuskan]</li>
+    <li>LetterIntroviolated-> {Subject_Definite}, [OneOfthe], telah menjadi Dishonrad [O_A] untuk operasi.</li>
+    <!--<li>LodgerviolatedMemoryThoughtLetTerLabel-> [Lodgerslabel] dilanggar: kemarahan</li>
+    <li>LodgerviolatedMemoryThoughtLetTerText-> [LetterIntroviolated] \ n \ n [TerpisahButnoaction]</li>-><li>LodgerviolatedMemoryThoughtLetTerLabel-> [Lodgerslabel] Deshonrad [O_A]: Ira</li>
+    <li>LodgerviolatedMemoryThoughtLetTerText-> [LetterIntroviolated] \ n \ n [TerpisahButnoaction]</li>
+    <!--<li>LodgerviolatedAttackPlayerletterLabel-> [Lodgerslabel] dilanggar: balas dendam</li>
+    <li>LodgerviolatedAttackPlayerLetTerText-> [letterintroviolated] \ n \ n [turnviolent]</li>-><li>LodgerviolatedAttackPlayerLeBlabel-> [Lodgerslabel] Deshonrad [O_A]: Varganza</li>
+    <li>LodgerviolatedAttackPlayerLetTerText-> [letterintroviolated] \ n \ n [turnviolent]</li>
+    <!--<li>Lodgerviolatedleavemapletterlabel-> [Lodgerslabel] Ditangkap: Keberangkatan</li>
+    <li>lodgerviolatedleavemaplettertext-> [letterintroviolated] \ n \ n [diputuskan]</li>-><li>Lodgerviolatedleavemapletterlabel-> [Lodgerslabel] Deshonrad [O_A]: Partida</li>
+    <li>lodgerviolatedleavemaplettertext-> [letterintroviolated] \ n \ n [diputuskan]</li>
+    <!--<li>Mutinyletterlabel-> pengkhianatan</li>
+    <li>LetterIntropsychicritualTarget-> {Subject_Definite}, [Oneofthe], adalah target ritual psikis.</li>
+    <li>LodgerPsychicritualTargetMemoryThoughtLetTerLabel-> [Lodgerslabel] dilanggar: kemarahan</li>
+    <li>LodgerPsychicRitualTargetMemoryThoughtLetTerText-> [letterintropsychicritualtarget] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerPsychicritualTargetAttackPlayerLeTterLabel-> [Lodgerslabel] dilanggar: balas dendam</li>
+    <li>LodgerPsychicritualTargetAttackPlayerLeTterText-> [letterintropsychicritualtarget] \ n \ n [turnviolent]</li>
+    <li>LodgerPsychicritualTargetleaveVemapletterlabel-> [Lodgerslabel] dilanggar: keberangkatan</li>
+    <li>lodgerpsychicritualtargetleavevemaplettertext-> [letterintropsychicritualtarget] \ n \ n [diputuskan menjadi</li>-><li>Letterintopsychicritualtartget-> {subjek_definite}, [Oneofthe], telah menjadi tujuan dari ritual psikis.</li>
+    <li>LodgerPsychicritualTargetMemoryThoughtLeTterLabel-> [Lodgerslabel] Deshonrad [o_a]: Ira</li>
+    <li>LodgerPsychicRitualTargetMemoryThoughtLetTerText-> [letterintropsychicritualtarget] \ n \ n [appalledbutnoaction]</li>
+    <li>LodgerPsychicritualTargettAttackPlayerLeLabel-> [Lodgerslabel] Dishonrad [O_A]: Revenge</li>
+    <li>LodgerPsychicritualTargetAttackPlayerLeTterText-> [letterintropsychicritualtarget] \ n \ n [turnviolent]</li>
+    <li>LodgerPsychicritualTargetleaveVemapletterlabel-> [Lodgerslabel] Deshonrad [O_A]: Partida</li>
+    <li>lodgerpsychicritualtargetleavevemaplettertext-> [letterintropsychicritualtarget] \ n \ n [diputuskan menjadi</li>
+    <!--<li>Mutinyletterlabel-> pengkhianatan</li>
+    <li>MutinyLeTterText-> [LodgerssingularOrpluralDef] [whoaskedtostay] [areis] berbalik melawan Anda! \ n \ nit tampaknya [Lodgerspronoun] telah direncanakan pengkhianatan ini selama ini.</li>-><li>Mutinyletterlabel-> pengkhianatan</li>
+    <li>MutinyLetText-> [LodgessingularOrpluralDef] [whoaskedtostay] [areis] kembali melawan Anda!</li>
+    <!--<li>areis (lodgerCount == 1)-> is</li>
+    <li>areis (LodgerCount> = 2)-> Are</li>-><li>Gergaji (lodgercount == 1)-></li>
+    <li>Areis (lodgerCount> = 2)-> are</li>
+    <!--<li>LODGERSLEAVINGETTERLabel-> [LODGERSLABELSINGULULURAL] Meninggalkan</li>
+    <li>LODGERSLEAVINGETTERTEXT-> {faksi_leaderNamedef} Terima kasih telah mengizinkan {faction_leaderobjective} untuk tetap di [MAP_Definite] untuk ini [QuestDurationTicks_Duration].{Faction_leaderpronoun} sekarang bergerak dengan {faction_leaderpossesif} orang. \ N \ n {faction_leaderNamedef} mengatakan {faction_leaderpronoun} tidak akan melupakan apa yang telah Anda lakukan.</li>-><li>LODGERSLEAVINGETTERLabel-> [LODGERSLABELSINGULULURAL] [areis] Partiendo</li>
+    <li>LODGERSLEAVINGLETTEXT-> {felion_leaderNamedef} Saya berterima kasih karena telah mengizinkannya tetap di [MAP_DEFINITE] selama [QuestDuratiticks_Duration].Sekarang dia pergi dengan orang -orangnya.</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>LODGERSLabel-> Pengungsi</li>
+    <li>LODGERSLabelplural-> Pengungsi</li>-><Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>LODGERSLabel (LODGERS0_GENDER == betina)-> Refugiada</li>
+    <li>LODGERSLabel (LODGERS0_GENDER! = Wanita)-> Refugiado</li>
+    <li>LODGERSLabelplural-> Pengungsi</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>Penawaran (LodgerCount == 1)-> Penawaran</li>
+    <li>Penawaran (LodgerCount> = 2)-> Penawaran</li>
+    <li>Lodgerspronoun (LodgerCount == 1)-> [asker_pronoun]</li>
+    <li>Lodgerspronoun (LodgerCount> = 2)-> mereka</li>
+    <li>LodgersPreposition (lodgerCount == 1)-> [asker_objective] self</li>
+    <li>Lodgersposisi (LodgerCount> = 2)-> sendiri</li>
+    <li>LodgersObjective (lodgerCount == 1)-> [asker_objective]</li>
+    <li>LodgersObjective (LodgerCount> = 2)-> mereka</li>
+    <li>LODGERSPOSSESM (LODGERCOUNT == 1)-> [asker_possessive]</li>
+    <li>LODGERSPOSSESSIF (LODGERCOUNT> = 2)-> mereka</li>
+    <li>LodgerssingularorpluralDef (LodgerCount == 1)-> [asker_namedef]</li>
+    <li>LodgerssingularorpluralDef (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>QuestDescription-> [pendekataninfo] [claimInfo] [asker_namedef] memohon izin Anda untuk tetap di [peta_definite] untuk [questdurationticks_duration] jadi [lodgerspronoun] dapat beristirahat dan berkumpul kembali.[Lodgerspronoun] juga dapat memberi Anda penghargaan nanti karena membantu [LodgersObjective] - tetapi tidak ada cara untuk mengetahui [Lodgerspossessives] niat sejati. \ n \ n [travelerinfo] bukan bagian dari faksi apa pun.Jika Anda mau, Anda dapat memilih untuk membunuh, menangkap, menjual, atau memanen [LodgersObjective], tanpa konsekuensi diplomatik.</li>
+    <li>pendekataninfo (lodgerCount == 1)-> A yang putus asa [faction_pawnsingular] bernama [asker_namedef] semakin dekat.</li>
+    <li>pendekataninfo (lodgerCount == 2)-> [asker_namedef] dan [faction_pawnsingular] putus asa lainnya semakin dekat.</li>
+    <li>pendekataninfo (lodgerCount == 2, childcount == 1, prioritas = 1)-> [asker_namedef] sedang mendekati dengan seorang anak di belakangnya.</li>
+    <li>pendekataninfo (lodgerCount> = 3)-> [lodgerCount] putus asa [faksi_pawnsplural] semakin dekat.Pemimpin mereka disebut [asker_namedef].</li>
+    <li>pendekataninfo (lodgerCount> = 3, childcount == 1, prioritas = 1)-> [lodgerCount] putus asa [faction_pawnsplural] termasuk seorang anak semakin dekat.Pemimpin mereka disebut [asker_namedef].</li>
+    <li>pendekataninfo (lodgerCount> = 3, childcount> = 2, prioritas = 1)-> [lodgerCount] putus asa [faction_pawnsplural] termasuk beberapa anak semakin dekat.Pemimpin mereka disebut [asker_namedef].</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>
+    <li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah kehilangan rumah [asker_possessive] dalam serangan baru-baru ini.</li>
+    <li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim terbangun dari cryptosleep semua sendirian dan tidak berteman.</li>
+    <li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah dikejar dari rumah [asker_possessive] oleh mantan kekasih dendam.</li>
+    <li>ClaimInfo (LodgerCount == 1)-> [asker_namedef] mengklaim telah dibuang setelah argumen dengan pemimpin desa.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengklaim telah kehilangan rumah mereka dalam serangan baru-baru ini.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengklaim telah lolos dari operasi panen organ.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka melarikan diri dari karavan budak.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan bahwa tanaman busuk memadamkan mereka keluar dari desa mereka.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan badai flash yang hebat membakar rumah mereka.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan karavan mereka disergap dan semuanya diambil.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka dibuang dari kota mereka karena ketidaksepakatan moral.</li>
+    <li>gabungan (lodgerCount == 1)-> Jika Anda membuat [asker_objective] senang, [asker_pronoun] dapat menawarkan untuk bergabung dengan Anda.</li>
+    <li>gabungan (lodgerCount> = 2)-> Jika Anda membuatnya bahagia, beberapa dari mereka mungkin menawarkan untuk bergabung dengan Anda.</li>
+    <li>travelerInfo (lodgerCount == 1)-> ini [faction_pawnsingular] adalah</li>
+    <li>TravelerInfo (LodgerCount> = 2)-> ini [faction_pawnsplural] adalah</li>-><Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <!--<li>Penawaran (LodgerCount == 1)-> Penawaran</li>
+    <li>Penawaran (LodgerCount> = 2)-> Penawaran</li>-><li>Penawaran (LodgerCount == 1)-> ofRece</li>
+    <li>Penawaran (LodgerCount> = 2)-> Penawaran</li>
+    <li>Mayalso (LodgerCount == 1)-> Can</li>
+    <li>Mayalso (LodgerCount> = 2)-> Can</li>
+    <!--<li>Lodgerspronoun (LodgerCount == 1)-> [asker_pronoun]</li>
+    <li>Lodgerspronoun (LodgerCount> = 2)-> mereka</li>-><li>Lodgerspronoun (LodgerCount == 1)-> [asker_pronoun]</li>
+    <li>Lodgerspronoun (LodgerCount> = 2)-> Ellos</li>
+    <!--<li>LodgersPreposition (lodgerCount == 1)-> [asker_objective] self</li>
+    <li>Lodgersposisi (LodgerCount> = 2)-> sendiri</li>-><li>LODGERSPREPOSISI (LODGERS0_GENDER == jantan, lodgerCount == 1)-> [asker_pronoun] mismo</li>
+    <li>LodgersPreposition (lodgers0_gender! = pria, lodgerCount == 1)-> [asker_pronoun] misma</li>
+    <li>Lodgerspreposion (LodgerCount> = 2)-> sendiri</li>
+    <!--<li>LodgersObjective (lodgerCount == 1)-> [asker_objective]</li>
+    <li>LodgersObjective (LodgerCount> = 2)-> mereka</li>-><li>LodgersObjective (lodgerCount == 1)-> [asker_objective]</li>
+    <li>LodgersObjective (LodgerCount> = 2)-> Los</li>
+    <!--<li>LODGERSPOSSESM (LODGERCOUNT == 1)-> [asker_possessive]</li>
+    <li>LODGERSPOSSESSIF (LODGERCOUNT> = 2)-> mereka</li>-><li>LODGERSPOSSESSIF (LODGERCOUNT == 1)-> SU</li>
+    <li>LODGERSPOSSESSIF (LODGERCOUNT> = 2)-> SU</li>
+    <!--<li>LodgerssingularorpluralDef (LodgerCount == 1)-> [asker_namedef]</li>
+    <li>LodgerssingularorpluralDef (LodgerCount> = 2)-> [LodgersLabelplural]</li>-><li>LodgerssingularorpluralDef (LodgerCount == 1)-> [asker_namedef]</li>
+    <li>LodgerssingularorpluralDef (LodgerCount> = 2)-> LOS [LodgersLabelplural]</li>
+    <li>can_rest (lodgerCount == 1)-> podrá</li>
+    <li>Can_rest (LodgerCount> = 2)-> May</li>
+    <!--<li>QuestDescription-> [pendekataninfo] [claimInfo] [asker_namedef] memohon izin Anda untuk tetap di [peta_definite] untuk [questdurationticks_duration] jadi [lodgerspronoun] dapat beristirahat dan berkumpul kembali.[Lodgerspronoun] juga dapat memberi Anda penghargaan nanti karena membantu [LodgersObjective] - tetapi tidak ada cara untuk mengetahui [Lodgerspossessives] niat sejati. \ n \ n [travelerinfo] bukan bagian dari faksi apa pun.Jika Anda mau, Anda dapat memilih untuk membunuh, menangkap, menjual, atau memanen [LodgersObjective], tanpa konsekuensi diplomatik.</li>-><li>QuestDescription-> [pendekataninfo] [claimInfo] [asker_namedef] meminta Anda untuk izin untuk tetap di [peta_definite] selama [questduratiticks_duration] dan dengan demikian [lodgerspronoun] [can_rest] istirahat dan pulih. \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n \ n Waktu. \ n \ n [joinInfo] Juga [Mayalso] kemudian menghargai Anda untuk membantu [LodgersObjective], tetapi tidak ada cara untuk mengetahui niat sebenarnya. \ n \ n [travelerinfo] bagian dari faksi apa pun.Jika Anda mau, Anda dapat memilih antara membunuh [LodgersObjective], tangkap [LodgersObjective], jual [LodgersObjective] atau ekstrak organ mereka tanpa menyebabkan konsekuensi diplomatik.</li>
+    <!--<li>pendekataninfo (lodgerCount == 1)-> A yang putus asa [faction_pawnsingular] bernama [asker_namedef] semakin dekat.</li>
+    <li>pendekataninfo (lodgerCount == 2)-> [asker_namedef] dan [faction_pawnsingular] putus asa lainnya semakin dekat.</li>
+    <li>pendekataninfo (lodgerCount == 2, childcount == 1, prioritas = 1)-> [asker_namedef] sedang mendekati dengan seorang anak di belakangnya.</li>
+    <li>pendekataninfo (lodgerCount> = 3)-> [lodgerCount] putus asa [faksi_pawnsplural] semakin dekat.Pemimpin mereka disebut [asker_namedef].<li>pendekataninfo (lodgerCount> = 3, childcount == 1, prioritas = 1)-> [lodgerCount] putus asa [faction_pawnsplural] termasuk seorang anak semakin dekat.Pemimpin mereka disebut [asker_namedef].</li>
+    <li>pendekataninfo (lodgerCount> = 3, childcount> = 2, prioritas = 1)-> [lodgerCount] putus asa [faction_pawnsplural] termasuk beberapa anak semakin dekat.Pemimpin mereka disebut [asker_namedef].</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>-><li>Pendekataninfo (lodgerCount == 1)-> [asker_acap] [asker_kind] putus asa [asker_o_a] bernama [asker_namedef] semakin dekat.</li>
+    <li>Pendekataninfo (lodgerCount == 2)-> [asker_namedef] dan otr [asker_o_a] [asker_kind] mendekati dengan cara yang putus asa.</li>
+    <li>Pendekataninfo (lodgerCount == 2, childcount == 1, prioritas = 1)-> [asker_namedef] sedang mendekati dengan seorang anak di belakangnya.</li>
+    <li>Pendekataninfo (lodgerCount> = 3)-> [lodgerCount] [faction_pawnsplural] putus asa semakin dekat.Pemimpinnya disebut [asker_namedef].</li>
+    <li>Pendekataninfo (lodgerCount> = 3, childcount == 1, prioritas = 1)-> [lodgerCount] [faksi_pawnsplural] putus asa termasuk pendekatan anak.Pemimpinnya disebut [asker_namedef].</li>
+    <li>Pendekataninfo (lodgerCount> = 3, childcount> = 2, prioritas = 1)-> [lodgerCount] [faksi_pawnsplural] putus asa termasuk beberapa pendekatan anak-anak.Pemimpinnya disebut [asker_namedef].</li>
+    <li>Pendekataninfo (lodgerCount> = 3, allbutoneChildren == true, prioritas = 2)-> sekelompok [LodgerCount] [faksi_pawnsplural] adalah pendekatan yang sangat sulit.Ini terdiri dari anak -anak [asker_namedef] dan [lodgerscountminusone] yang ia ambil di bawah pengawasannya.</li>
+    <!--<li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah kehilangan rumah [asker_possessive] dalam serangan baru-baru ini.</li>
+    <li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim terbangun dari cryptosleep semua sendirian dan tidak berteman.</li>
+    <li>claimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah dikejar dari rumah [asker_possessive] oleh mantan kekasih dendam.</li>
+    <li>ClaimInfo (LodgerCount == 1)-> [asker_namedef] mengklaim telah dibuang setelah argumen dengan pemimpin desa.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengklaim telah kehilangan rumah mereka dalam serangan baru-baru ini.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengklaim telah lolos dari operasi panen organ.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka melarikan diri dari karavan budak.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan bahwa tanaman busuk memadamkan mereka keluar dari desa mereka.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan badai flash yang hebat membakar rumah mereka.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan karavan mereka disergap dan semuanya diambil.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka dibuang dari kota mereka karena ketidaksepakatan moral.</li>-><li>ClaimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah kehilangan rumahnya dalam serangan baru-baru ini.</li>
+    <li>ClaimInfo (lodgerCount == 1)-> [asker_namedef] menyatakan bahwa ia bangun dari cryptosueño sol [asker_o_a] dan tanpa teman.</li>
+    <li>ClaimInfo (lodgerCount == 1)-> [asker_namedef] menyatakan bahwa pemeriksaannya [asker_objective] mengejar dari rumahnya untuk membalas dendam.</li>
+    <li>ClaimInfo (lodgerCount == 1)-> [asker_namedef] mengklaim telah membuang [asker_o_a] setelah diskusi dengan salah satu pemimpin desa.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> klaim telah kehilangan rumah mereka dalam serangan baru-baru ini.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> klaim telah melarikan diri dari operasi panen organ.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka lolos dari karavan budak.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan bahwa hama dalam tanaman mereka membunuh mereka di kota mereka.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan bahwa badai besar membakar rumahnya.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan bahwa karavannya disergap dan bahwa mereka mengambil segalanya.</li>
+    <li>ClaimInfo (LodgerCount> = 2)-> Mereka mengatakan mereka dibuang dari kota mereka karena ketidaksepakatan moral.</li>
+    <!--<li>gabungan (lodgerCount == 1)-> Jika Anda membuat [asker_objective] senang, [asker_pronoun] dapat menawarkan untuk bergabung dengan Anda.</li>
+    <li>gabungan (lodgerCount> = 2)-> Jika Anda membuatnya bahagia, beberapa dari mereka mungkin menawarkan untuk bergabung dengan Anda.</li>-><li>Gabungan (lodgerCount == 1)-> jika [asker_objective] Anda membuat bahagia, itu dapat ditawarkan dan bergabung dengan koloni Anda.</li>
+    <li>Gabungan (lodgercount> = 2)-> Jika Anda membuatnya bahagia, beberapa dari mereka dapat ditawarkan dan bergabung dengan koloni Anda.</li>
+    <!--<li>travelerInfo (lodgerCount == 1)-> ini [faction_pawnsingular] adalah</li>
+    <li>TravelerInfo (LodgerCount> = 2)-> ini [faction_pawnsplural] adalah</li>-><li>travelerInfo (lodgerCount == 1)-> est [asker_e_a] [asker_kind] no es</li>
+    <li>travelerInfo (lodgerCount> = 2)-> estos [faction_pawnsplural] Tidak ada anak</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (lodgerCount == 1)-> [asker_namedef] [LodgerAdj]</li>
+    <li>QuestName (LodgerCount == 1)-> [athe] [lodgeradj] [Lodgersingle]</li>
+    <li>QuestName (p = 2, LodgerCount> = 2)-> [LodgerAdj] [LodgerBlusal]</li>
+    <li>QuestName (LodgerCount> = 2)-> [asker_namedef] [LodgerAdj] [LodgerBlusal]</li>
+    <li>QuestName (LodgerCount> = 2)-> [asker_namedef] [LodgerBlusur]]</li>
+    <li>athe-> a</li>
+    <li>athe-> the</li>
+    <li>lodgeradj-> lelah</li>
+    <li>Lodgeradj-> Lost</li>
+    <li>LODGERADJ-> MREEST</li>
+    <li>lodgeradj-> miskin</li>
+    <li>lodgeradj-> putus asa</li>
+    <li>lodgeradj-> sedih</li>
+    <li>Lodgeradj-> Dusty</li>
+    <li>lodgeradj-> hopeless</li>
+    <li>lodgeradj-> tidak diketahui</li>
+    <li>Lodgeradj-> Forlorn</li>
+    <li>Lodgeradj-> Forsaken</li>
+    <li>lodgersingle-> wisatawan</li>
+    <li>LODGERSINGLE-> Pengungsi</li>
+    <li>Lodgersingle-> drifter</li>
+    <li>Lodgersingle-> Survivor</li>
+    <li>LODGERSINGLE-> NOMAD</li>
+    <li>Lodgersingle-> Vagabond</li>
+    <li>lodgerplural-> wisatawan</li>
+    <li>Lodgerplural-> Pengungsi</li>
+    <li>lodgerplural-> drifters</li>
+    <li>Lodgerplural-> Survivors</li>
+    <li>Lodgerplural-> Nomads</li>
+    <li>Lodgerplural-> Vagabonds</li>-><Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>QuestName (asker_gender! = wanita, lodgercount == 1)-> [asker_namedef] el [lodgeradj]</li>
+    <li>QuestName (asker_gender == betina, lodgercount == 1)-> [asker_namedef] la [lodgeradjfem]</li>
+    <li>QuestName (asker_gender! = wanita, lodgercount == 1)-> [athe] [lodgersingle] [lodgeradj]</li>
+    <li>QuestName (asker_gender == betina, lodgercount == 1)-> [athefem] [lodgersingleFem] [lodgeradjfem]</li>
+    <li>QuestName (p = 2, LodgerCount> = 2)-> [Lodgerplural] [LodgerAdj] s</li>
+    <li>QuestName (LodgerCount> = 2)-> LOS [LODGERPLURAL] [LODGERADJ] S de [asker_namedef]</li>
+    <li>QuestName (LodgerCount> = 2)-> [asker_namedef] dan beberapa [LodgerPural]</li>
+    <li>The-> a</li>
+    <li>The-> the</li>
+    <li>Athefem-> satu</li>
+    <li>Saya</li>
+    <li>Lodgeradj-> lelah</li>
+    <li>Lodgeradj-> Lost</li>
+    <li>lodgeradj-> tunawisma</li>
+    <li>lodgeradj-> miskin</li>
+    <li>lodgeradj-> terjaga</li>
+    <li>lodgeradj-> sedih</li>
+    <li>Lodgeradj-> Dusty</li>
+    <li>lodgeradj-> putus asa</li>
+    <li>lodgeradj-> tidak diketahui</li>
+    <li>lodgeradj-> tunawisma</li>
+    <li>Lodgeradj-> ditinggalkan</li>
+    <li>lodgeradjfem-> lelah</li>
+    <li>Lodgeradjfem-> Hilang</li>
+    <li>lodgeradjfem-> tunawisma</li>
+    <li>lodgeradjfem-> miskin</li>
+    <li>Lodgeradjfem-> aperada</li>
+    <li>lodgeradjfem-> sedih</li>
+    <li>lodgeradjfem-> dusty</li>
+    <li>lodgeradjfem-> putus asa</li>
+    <li>lodgeradjfem-> tidak diketahui</li>
+    <li>lodgeradjfem-> tunawisma</li>
+    <li>Lodgeradjfem-> ditinggalkan</li>
+    <li>Lodgersingle-> wisatawan</li>
+    <li>LODGERSINGLE-> Pengungsi</li>
+    <li>Lodgersingle-> Vagabundo</li>
+    <li>Lodgersingle-> Survivor</li>
+    <li>LODGERSINGLE-> NOMAD</li>
+    <li>LODGERSINGLE-> WANDERING</li>
+    <li>Lodgersinglefem-> wisatawan</li>
+    <li>LODGERSINGLEFEM-> Pengungsi</li>
+    <li>LODGERSINGLEFEM-> SURVIVOR</li>
+    <li>lodgersinglefem-> nomad</li>
+    <li>Lodgersinglefem-> errante</li>
+    <li>lodgerpural-> wisatawan</li>
+    <li>Lodgerpural-> Pengungsi</li>
+    <li>Lodgerplural-> Vagabonds</li>
+    <li>Lodgerpural-> Korban selamat</li>
+    <li>Lodgerplural-> Nomads</li>
+    <li>Lodgerplural-> Wandering</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>BetrayalOferRewardLeBel-> Hadiah Pengkhianatan: [factionopponent_namedef]</li>
+    <li>BetrayAlfreRewardLetTerText-> [factionopponent_namedef] menjanjikan Anda hadiah jika Anda membunuh [asker_namedef] [OtherMembers].[factionopponent_pronoun] telah mendengar berita ini telah dilakukan dan mengirimi Anda yang berikut melalui drop pod (nilai total [BetrayalRewardMarketValue_Money]): \ n \ n [BetrayalRewards]. \ n \ n [Questerover]</li>
+    <li>BetrayalofferFailedBecauserecruitedLeTterLabel-> Hadiah Penghargaan ditarik kembali</li>
+    <li>BetrayalofferfailedBecauserecruitedLetTerText-> [factionopponent_namedef] telah belajar bahwa semua anggota [faction_name] yang masih hidup telah bergabung dengan faksi Anda![factionopponent_namedef] ingin semua anggota [faction_name] mati dan karenanya telah menarik kembali penawaran [factionopponent_possessive].</li>
+    <li>BetrayalofferFailedLetTerLabel-> Hadiah Pengkhianatan ditarik kembali</li>
+    <li>BetrayalOfferFailedLetTerText-> [factionopponent_namedef] telah belajar bahwa salah satu anggota [faksi_name] tidak lagi di [MAP_Definite].[factionopponent_namedef] ingin semua anggota [faction_name] mati dan karenanya telah menarik kembali penawaran [factionopponent_possessive].</li>
+    <li>OtherLodgers (LodgerCount == 1)-></li>
+    <li>OtherLodgers (LodgerCount == 2)-> dan lainnya [LodgersLabel]</li>
+    <li>OtherLodgers (LodgerCount> = 3)-> dan beberapa [LodgersLabelplural]</li>
+    <li>OtherMembers (LodgerCount == 1)-></li>
+    <li>OtherMembers (LodgerCount> = 2)-> dan semua anggota lain dari [faction_name]</li>
+    <li>Questover-> The Quest '[ResolvedQuestName]' sudah berakhir.</li>-><RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>Betlayaloferrewardletterlabel-> hadiah untuk pengkhianatan: [factionopponent_namedef]</li>
+    <li>BetlayaloferrewardLetText-> [factionopponent_namedef] menjanjikan Anda hadiah jika Anda membunuh [asker_namedef] [ohermembers].[Factionopponent_pronoun] telah mendengar berita bahwa ini telah dilakukan dan mengirimi Anda yang berikut melalui kapsul buang (nilai total [BetrayalRewardMarketValue_Money]): \ n \ n [BetrayalRewards]. \ n \ n [Questover]</li>
+    <li>BetlayaloferfailedbacouserecruitedLeTterLabel-> hadiah untuk penarikan pensiun</li>
+    <li>BetlayaloferfailedBacouseRecruitedLettext-> [factionopponent_namedef] Telah diketahui bahwa semua anggota faksi yang masih hidup [faction_name] telah bergabung dengan faksi Anda![Factionopponent_namedef] Saya ingin semua anggota faksi [faction_name] mati dan, oleh karena itu, telah menarik kembali penawaran mereka.</li>
+    <li>Betlayaloferfailadletterlabel-> Hadiah untuk Retraksi Pengkhianatan</li>
+    <li>Betlayaloferfailadlettext-> [factionopponent_namedef] Telah diketahui bahwa salah satu anggota faksi [Facion_name] tidak lagi ditemukan di [MAP_Definite].[Factionopponent_namedef] Saya ingin semua anggota faksi [Felion_name] mati dan karenanya telah menarik kembali penawaran mereka.</li>
+    <li>OtherLodgers (LodgerCount == 1)-></li>
+    <li>OtherLodgers (LodgerCount == 2, Lodgers0_gender == jantan)-> y Otro [Lodgerslabel]</li>
+    <li>OtherLodgers (LodgerCount == 2, Lodgers0_Gender! = Pria)-> y Otra [Lodgerslabel]</li>
+    <li>OtherLodgers (LodgerCount> = 3)-> y varios [lodgerslabelplural]</li>
+    <li>OtherMembers (LodgerCount == 1)-></li>
+    <li>OtherMembers (LodgerCount> = 2)-> dan semua anggota lain dari faksi [faksi_name]</li>
+    <li>Questover-> The Mission "[ResolvedQuestName]" sudah berakhir.</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>LODGERSLabel-> Pengungsi</li>
+    <li>LODGERSLabelplural-> Pengungsi</li>-><RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>LODGERSLabel (LODGERS0_GENDER == MALE)-> Refugiado</li>
+    <li>LODGERSLabel (LODGERS0_GENDER! = MALE)-> Refugiada</li>
+    <li>LODGERSLabelplural-> Pengungsi</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> [factionopponent_namedef], [factionopponent_faction_pawnsingular] dari [factionopponent_faction_name], telah mengetahui bahwa [asker_namedef] [OtherLodgers] [areis] di-host di [peta_definite].[factionopponent_pronoun] adalah musuh dengan [asker_namedef] dan ingin melihat [asker_objective] mati. \ n \ n [factionopponent_pronoun] akan mengirimi Anda hadiah berikut jika Anda membunuh semua anggota [faction_name] (norayalrewardmarketvalue_money]): \ norayalrewardmalu</li>
+    <li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>OtherLodgers (LodgerCount == 1)-></li>
+    <li>OtherLodgers (LodgerCount == 2)-> dan lainnya [LodgersLabel]</li>
+    <li>OtherLodgers (LodgerCount> = 3)-> dan beberapa [LodgersLabelplural]</li>
+    <li>OtherMembers (LodgerCount == 1)-></li>
+    <li>OtherMembers (LodgerCount> = 2)-> dan semua anggota lain dari [faction_name]</li>
+    <li>areis (lodgerCount == 1)-> is</li>
+    <li>areis (LodgerCount> = 2)-> Are</li>-><RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [factionopponent_namedef], [factionopponent_faction_pawnsingular] dari faksi [factionopponent_faction_name], telah mengetahui bahwa [asker_namedef] [Otherodgers] [areis] menjadi [hostsingorporplural] di [peta_definite].[Factionopponent_pronoun] adalah musuh dengan [asker_namedef] dan ingin melihat [asker_objective] mati [asker_o_a]. \ n \ n [factionopponent_pronun] akan mengirimi Anda hadiah berikut jika Anda membunuh semua anggota faksi [faction_name] (nilai total total [BetrayAlrewardmarketValue_money]): \ n \ n [BetrayalRewards]</li>
+    <li>LodgersLabelSingularorplural (LodgerCount == 1)-> [LodgersLabel]</li>
+    <li>LodgersLabelSingularOrplural (LodgerCount> = 2)-> [LodgersLabelplural]</li>
+    <li>OtherLodgers (LodgerCount == 1)-></li>
+    <li>OtherLodgers (LodgerCount == 2, Lodgers0_gender == jantan)-> y Otro [Lodgerslabel]</li>
+    <li>OtherLodgers (LodgerCount == 2, Lodgers0_Gender! = Pria)-> y Otra [Lodgerslabel]</li>
+    <li>OtherLodgers (LodgerCount> = 3)-> y varios [lodgerslabelplural]</li>
+    <li>OtherMembers (LodgerCount == 1)-></li>
+    <li>OtherMembers (LodgerCount> = 2)-> dan semua anggota lain dari faksi [faksi_name]</li>
+    <li>Gergaji (lodgercount == 1)-></li>
+    <li>Areis (lodgerCount> = 2)-> are</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Penawaran Pengkhianatan: [factionopponent_namedef]</li>-><RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>QuestName-> Penawaran untuk pengkhianatan: [factionopponent_namedef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>RewardLeTterLabel-> Hadiah Perhotelan</li>
+    <li>RewardLeTterText-> [RewardGiver_Namedef] telah menghubungi Anda.[RewardDelayticks_duration] lalu, Anda membantu [imbalangiver_objective] dalam keadaan putus asa.[Rewardgiver_pronoun] mengirimi Anda yang berikut melalui drop pod: \ n \ n [listOfrewards]</li>-><RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>RewardLeTterLabel-> Hadiah Perhotelan</li>
+    <li>RewardleText-> [imbalangiver_namedef] telah menghubungi Anda.[RewardDelayticks_duration] Kembali, Anda [RewardGiver_Objective] membantu dalam keadaan putus asa.[rewardgiver_pronoun] mengirimi Anda yang berikut dengan cara</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> hadiah yang tertunda untuk pencarian pengungsi</li>-><RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> hadiah yang tertunda dalam misi pengungsi</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Pengungsi menunda hadiah</li>-><RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>QuestName-> Hadiah Late Refugee</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
+  
+</LanguageData>

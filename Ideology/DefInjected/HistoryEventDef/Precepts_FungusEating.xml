@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate fungus -->
+  <AteFungus.label>dia makan jamur</AteFungus.label>
+  
+  <!-- EN: ate meal with fungus -->
+  <AteFungusAsIngredient.label>dia makan makanan dengan jamur</AteFungusAsIngredient.label>
+  
+  <!-- EN: ate non-fungus plant meal -->
+  <AteNonFungusMealWithPlants.label>dia makan makanan tanpa jamur</AteNonFungusMealWithPlants.label>
+  
+  <!-- EN: ate non-fungus crop -->
+  <AteNonFungusPlant.label>makan sesuatu yang bukan jamur</AteNonFungusPlant.label>
+  
+</LanguageData>

@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>Fermentasi bir</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Bangun tempat pembuatan bir untuk mengubah hop menjadi bir lezat.</Brewing.description>
+  <!-- EN:
+    <li>Subjek-> Pembuatan Bir</li>
+    <li>Subject_story-> diseduh kekejaman unik yang menjadi terkenal di seluruh sistem</li>
+    <li>Subject_story-> pensiun untuk menjalankan rumah publik di dunia hewan</li>
+    <li>Subject_story-> Khusus dalam teknik fermentasi yang dikendalikan iklim</li>
+    <li>Subject_gerund-> Membangun pabrik bir</li>
+    <li>Subject_gerund-> Bir bir</li>-><Brewing.generalRules.rulesStrings>
+    <li>Subjek-> proses fermentasi</li>
+    <li>Subject_def-> dari proses fermentasi</li>
+    <li>Subject_story-> Diuraikan bir hitam unik yang menjadi terkenal di seluruh sistem</li>
+    <li>Subject_story-> pensiun untuk mengarahkan kedai di dunia hewan</li>
+    <li>Subject_story-> Khusus dalam Teknik Fermentasi Terkendali Iklim</li>
+    <li>Subject_gerund-> Build Breweries</li>
+    <li>Subjek gerund-> persiapkan cerveza</li>
+  </Brewing.generalRules.rulesStrings>
+  
+  <!-- EN: carpet-making -->
+  <CarpetMaking.label>Elaborasi karpet</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Ini memungkinkan pemukim untuk membuat karpet untuk meningkatkan kualitas lingkungan di koloni.</CarpetMaking.description>
+  <!-- EN:
+    <li>subjek-> pembuatan karpet</li>
+    <li>subjek_story-> belajar menenun karpet dari rambut, untuk kaisar yang jauh</li>
+    <li>Subject_story-> meninggalkan koleksi karpet dan permadani yang tak tertandingi</li>
+    <li>subjek_story-> menetap di bulan abad pertengahan, di mana kerajinan karpet benar-benar dihargai</li>
+    <li>Subject_gerund-> Weaving Carpets</li>-><CarpetMaking.generalRules.rulesStrings>
+    <li>Subjek-> elaborasi karpet</li>
+    <li>Subjek_def-> elaborasi karpet</li>
+    <li>Subjek_story-> belajar menenun karpet dari rambut, untuk kaisar yang jauh</li>
+    <li>Subjek_story-> Dia meninggalkan koleksi karpet dan pelapis yang tak tertandingi</li>
+    <li>Subject_story-> didirikan di bulan abad pertengahan, di mana seni karpet sangat dihargai</li>
+    <li>Subject_gerund-> Weave Carpets</li>
+  </CarpetMaking.generalRules.rulesStrings>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>coklat</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation and it's a valuable trade good too. -->
+  <Cocoa.description>Tabur pohon kakao untuk menghasilkan cokelat yang lezat.Makan cokelat memenuhi kebutuhan akan waktu luang, dan juga berharga di pasaran.</Cocoa.description>
+  <!-- EN:
+    <li>Subjek-> Kakao</li>
+    <li>Subjek-> Cokelat</li>
+    <li>subjek_story-> menjadi terobsesi dengan cokelat dan harus ditahan</li>
+    <li>Subject_story-> mempelajari proses fermentasi kakao untuk tesis</li>
+    <li>Subject_story-> Siapkan toko cokelat terbaik di sektor ini</li>
+    <li>subjek_gerund-> memproduksi cokelat</li>
+    <li>Subject_gerund-> menumbuhkan kakao</li>-><Cocoa.generalRules.rulesStrings>
+    <li>Subjek-> Kakao</li>
+    <li>Subjek-> Cokelat</li>
+    <li>subjek_def-> del Cacao</li>
+    <li>Subject_def-> del Chocolate</li>
+    <li>Subjek_story-> menjadi terobsesi dengan cokelat dan harus terkandung</li>
+    <li>Subject_story-> mempelajari proses fermentasi kakao untuk tesis</li>
+    <li>Subject_story-> mendirikan toko cokelat terbaik di sektor ini</li>
+    <li>Subjek gerund-> menghasilkan cokelat</li>
+    <li>Subject_gerund-> Cultivar Cacao</li>
+  </Cocoa.generalRules.rulesStrings>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>Pakaian kompleks</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Hal ini memungkinkan untuk menjahit pakaian rumit seperti celana, gabardine, dan jeans.</ComplexClothing.description>
+  <!-- EN:
+    <li>subjek-> menjahit kompleks</li>
+    <li>Subject_story-> pakaian yang disesuaikan dengan keras untuk Urbworld Cityfolk</li>
+    <li>Subject_story-> akan bersantai dengan menjahit dan menceritakan kisah kepada anak-anak desa</li>
+    <li>Subject_story-> belajar membuat pakaian yang akan dikenakan di [anypawn_possessives] penampilan agung rombongan</li>
+    <li>Subject_gerund-> Menyesuaikan pakaian kompleks</li>-><ComplexClothing.generalRules.rulesStrings>
+    <li>Subjek-> menjahit kompleks</li>
+    <li>Subjek_def-> menjahit kompleks</li>
+    <li>Subject_story-> Made Resistant pakaian untuk warga dunia perkotaan</li>
+    <li>Subject_story-> Santai dan bercerita kepada anak-anak kota</li>
+    <li>Subjek_story-> belajar membuat pakaian untuk digunakan dalam pertunjukan hebat perusahaan teaternya</li>
+    <li>Subjek_gerund-> membuat pakaian yang rumit</li>
+  </ComplexClothing.generalRules.rulesStrings>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>Furnitur kompleks</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiards tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>Bangun furnitur kompleks seperti tempat tidur, meja malam, kursi makan, kursi, nyaman, lemari alat, meja biliar dan meja poker, ventilasi, sarkofagi dan banyak lagi.</ComplexFurniture.description>
+  <!-- EN:
+    <li>Subjek-> Pertukangan</li>
+    <li>Subject_story-> mempelajari kayu di bawah tukang kayu utama</li>
+    <li>Subject_story-> membangun kota log-kabin sendirian</li>
+    <li>Subject_story-> mendirikan pabrik, menjual furnitur berkualitas tinggi kepada pedagang yang lewat</li>
+    <li>Subject_gerund-> Membangun furnitur kompleks</li>-><ComplexFurniture.generalRules.rulesStrings>
+    <li>Subjek-> Pertukangan</li>
+    <li>Subjek_def-> dari pertukangan</li>
+    <li>Subjek_Story-> Dia mempelajari ukiran kayu di bawah pengawasan seorang guru tukang kayu</li>
+    <li>Subjek_story-> membangun sebuah desa batang yang dipotong sendiri</li>
+    <li>Subject_story-> mendirikan pabrik, menjual furnitur berkualitas tinggi ke pedagang jalanan</li>
+    <li>Subjek_gerund-> membangun furnitur yang kompleks</li>
+  </ComplexFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>Hilodiblo</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Hal ini memungkinkan para pemukim untuk menabur jamur Hilodiblo, jamur pertumbuhan yang lambat dari mana serat tekstil tahan panas yang berharga dapat dipanen.</Devilstrand.description>
+  <!-- EN:
+    <li>Subjek-> Budidaya Devilstrand</li>
+    <li>Subject_story-> bekas DevelStrand sebagai Firebreak Alami</li>
+    <li>Subject_story-> menetapkan teknik untuk menumbuhkan DevilStrand dengan mudah</li>
+    <li>Subject_story-> menjadi terobsesi dengan jamur dan menjadi putri yang ditentukan sendiri dari kerajaan [anypawn_possessive]</li>
+    <li>Subject_gerund-> Budidaya DevelStrand</li>-><Devilstrand.generalRules.rulesStrings>
+    <li>Subjek-> Budaya Hilodiblo</li>
+    <li>Subject_def-> dari budidaya hilodiblo</li>
+    <li>Subject_story-> Dia menggunakan hilodiablo sebagai firewall alami</li>
+    <li>Subjek_story-> menetapkan teknik untuk menumbuhkan hilodioblo dengan mudah</li>
+    <li>Subjek_story-> menjadi terobsesi dengan jamur dan putri sendiri putri kerajaannya</li>
+    <li>Subject_gerund-> Cultivar Hilodiblo</li>
+  </Devilstrand.generalRules.rulesStrings>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>Produksi Narkoba</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Ini memungkinkan Anda pembangunan laboratorium obat untuk sintesis obat -obatan paling dasar.Diperlukan lebih banyak penelitian untuk menghasilkan obat tertentu.</DrugProduction.description>
+  <!-- EN:
+    <li>Subjek-> Produksi Obat</li>
+    <li>Subjek-> Sintesis Obat</li>
+    <li>subjek_story-> bekerja di lab asteroid di tepi ruang berpenduduk</li>
+    <li>Subject_story-> belajar bagaimana membuat obat dari bahan kimia daur ulang, yang mengarah ke bertahun-tahun dihabiskan di penjara</li>
+    <li>Subject_story-> bekerja sebagai ahli kimia, tetapi tergelincir ke dalam menjajakan obat ilegal di samping</li>
+    <li>Subject_gerund-> Building Drug Labs</li>
+    <li>Subject_gerund-> menghasilkan obat</li>-><DrugProduction.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Obat</li>
+    <li>Subjek-> Sintesis Obat</li>
+    <li>Subjek_def-> produksi obat</li>
+    <li>Subject_def-> sintesis obat</li>
+    <li>Subject_story-> Bekerja dalam buruh asteroid di batas ruang berpenduduk</li>
+    <li>Subject_story-> belajar membuat obat dari bahan kimia daur ulang, yang membawanya ke penjara bertahun-tahun</li>
+    <li>Subject_story-> bekerja sebagai ahli kimia, tetapi terlibat dalam sintesis dan penjualan ilegal obat-obatan secara diam-diam</li>
+    <li>Subjek gerund-> membangun laboratorium obat</li>
+    <li>Subjek gerund-> menghasilkan obat</li>
+  </DrugProduction.generalRules.rulesStrings>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>Produksi neurozumo</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Ini menghasilkan neurozumo, obat sintetis yang meningkatkan kinerja dalam pertempuran, kemampuan tembakan dan gerakan, dan melemahkan rasa sakit.</GoJuiceProduction.description>
+  <!-- EN:
+    <li>Subjek-> produksi jus</li>
+    <li>Subject_story-> dikeluarkan karena mengambil jus selama pertandingan olahraga tim</li>
+    <li>Subject_story-> menemukan go-juice meningkatkan produktivitas secara besar-besaran di tambang dan lampu lumberyard</li>
+    <li>Subject_story-> tidak pernah pergi misi tanpa jus atau juggernaut di saku</li>
+    <li>Subject_gerund-> mensintesis go-juice</li>-><GoJuiceProduction.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Neurozumo</li>
+    <li>Subject_def-> dari produksi neurozumo</li>
+    <li>Subject_story-> dikeluarkan karena mengambil neurozumo saat berpartisipasi dalam kegiatan olahraga dalam tim</li>
+    <li>Subject_story-> menemukan bahwa neurozumo sangat meningkatkan produktivitas di tambang dan penggergajian</li>
+    <li>Subjek_story-> dia tidak pernah keluar dalam misi tanpa neurozumo atau juggernaut di sakunya</li>
+    <li>Subjek gerund-> sintesis neurosono</li>
+  </GoJuiceProduction.generalRules.rulesStrings>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>lengkungan panjang</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>Buat lengkungan panjang untuk membunuh musuh pada jarak yang sangat jauh.</Greatbow.description>
+  <!-- EN:
+    <li>Subjek-> Greatbows</li>
+    <li>Subject_story-> menembakkan panah tepat melalui helm besi raja feodal</li>
+    <li>Subject_story-> Hunted Muffalos untuk bulu mereka di dunia liar</li>
+    <li>Subject_story-> tinggal sendirian di Greenwood, hujan panah menyapa siapa pun yang mendekati dalam jarak satu mil dari tepi</li>
+    <li>Subject_gerund-> Crafting Greatbows</li>-><Greatbow.generalRules.rulesStrings>
+    <li>Subjek-> Lengkungan Lebar</li>
+    <li>Subjek_def-> lengkungan panjang</li>
+    <li>Subject_story-> menembakkan panah yang melintasi helm logam raja feodal</li>
+    <li>Subjek_story-> Saya memburu mofalos untuk kulitnya di dunia yang liar</li>
+    <li>Subjek_story-> hidup sendirian di hutan, dan hujan panah jatuh kepada siapa saja yang mendekati kurang dari satu mil dari rumah mereka</li>
+    <li>Subjek_gerund-> manufaktur lengkungan panjang</li>
+  </Greatbow.generalRules.rulesStrings>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>Daun besar</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>Memproduksi pedang panjang dan tombak.</LongBlades.description>
+  <!-- EN:
+    <li>Subjek-> persenjataan abad pertengahan</li>
+    <li>Subject_story-> mengendarai dengan kavaleri cahaya kelima Betaduke saat mereka menaklukkan sektor ini</li>
+    <li>Subject_story-> diperbudak sebagai senjata di bawah arena di planet Zaman Besi</li>
+    <li>Subject_story-> Melatih Hoplites di Warworld untuk menggunakan jangkauan senjata mereka</li>
+    <li>Subject_gerund-> Smithing Medieval Weapons</li>-><LongBlades.generalRules.rulesStrings>
+    <li>Subjek-> persenjataan abad pertengahan</li>
+    <li>Subjek_def-> persenjataan abad pertengahan</li>
+    <li>Subject_story-> mengendarai dengan kavaleri cahaya kelima Betaduque sambil menaklukkan sektor ini</li>
+    <li>Subjek_story-> diperbudak sebagai senjata di bawah pasir di planet zaman besi</li>
+    <li>Subjek_story-> melatih hoplitas di dunia perang untuk menggunakan senjata mereka</li>
+    <li>Subject_gerund-> Forge Weapons Abad Pertengahan</li>
+  </LongBlades.generalRules.rulesStrings>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>kulkas pasif</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Ini menghasilkan lemari es pasif, cara untuk mendinginkan ruang di bawah langit -langit tanpa menggunakan listrik.</PassiveCooler.description>
+  <!-- EN:
+    <li>Subjek-> Penguapan</li>
+    <li>Subjek-> Pendingin pasif</li>
+    <li>Subject_story-> pindah ke dunia tropis yang terik dan mengembangkan teknik unik untuk tetap keren</li>
+    <li>Subject_story-> Teknik Primitif yang Diteliti untuk Area Pendinginan dalam Kenyamanan Perpustakaan Coreworld</li>
+    <li>Subject_story-> memperhatikan, di tepi planet samudera, bahwa itu lebih keren di mana semprotan laut diselesaikan</li>
+    <li>subjek_gerund-> membangun pendingin pasif</li>-><PassiveCooler.generalRules.rulesStrings>
+    <li>Subjek-> Penguapan</li>
+    <li>Subjek-> Kulkas Pasiva</li>
+    <li>Subject_def-> dari penguapan</li>
+    <li>Subject_def-> dari lemari es pasif</li>
+    <li>Subject_story-> pindah ke dunia pembakaran tropis dan mengembangkan teknik unik agar tetap segar</li>
+    <li>Subject_story-> Diselidiki Teknik Primitif ke Kamar Pendingin Dari Kenyamanan Perpustakaan Dunia Tengah</li>
+    <li>Subjek_story-> dia memperhatikan, di tepi planet laut, bahwa dia lebih sejuk di mana angin laut duduk</li>
+    <li>Subjek gerund-> membangun lemari es pasif</li>
+  </PassiveCooler.generalRules.rulesStrings>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>pemmican</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Ini memungkinkan Anda untuk memproduksi pemmican, kombinasi daging dan tanaman kering.Dia tidak tahu luar biasa, tetapi dia bertahan setahun tanpa pendinginan.Bagus untuk bepergian.</Pemmican.description>
+  <!-- EN:
+    <li>Subjek-> Produksi Pemmican</li>
+    <li>Subject_story-> Mastered Pemmican Production selama ziarah panjang ke Spire Planet</li>
+    <li>Subject_story-> Bertahan semata-mata di Pemmican ketika liner penumpang menabrak dunia glassworld</li>
+    <li>Subject_story-> mengajarkan produksi pemmican untuk suku-suku liar</li>
+    <li>subjek_gerund-> membuat pemmican</li>-><Pemmican.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Pemmican</li>
+    <li>Subjek_def-> dari produksi pemmican</li>
+    <li>Subject_story-> Dominasi produksi Pemmican selama ziarah panjang ke bongongan planet ini</li>
+    <li>Subject_story-> bertahan hanya dengan pemmican ketika pelayaran penumpang menabrak dunia kaca</li>
+    <li>Subject_story-> Dia mengajarkan produksi Pemmican untuk suku-suku liar</li>
+    <li>Subjek gerund-> buat pemmican</li>
+  </Pemmican.generalRules.rulesStrings>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>penoxicillin</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Ini menghasilkan Penicxin, obat untuk pencegahan penyakit yang menghalangi wabah, malaria, dan lainnya bahkan sebelum mereka mulai.</PenoxycylineProduction.description>
+  <!-- EN:
+    <li>Subjek-> Produksi Penoxycyline</li>
+    <li>Subject_story-> Ceramah ke Planet Bersatu tentang Kedokteran Pencegahan</li>
+    <li>Subject_story-> diusir dari Dawn Falls sebagai dukun, karena menjual obat yang "tidak melakukan apapun"</li>
+    <li>Subject_story-> mencegah wabah malaria menyebar melalui dosis penoxylyline yang cermat</li>
+    <li>Subject_gerund-> mensintesis penoxycyline</li>-><PenoxycylineProduction.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Pensicillin</li>
+    <li>Subjek_def-> dari produksi pedofilia</li>
+    <li>Subject_story-> memberikan konferensi tentang Planet United tentang Kedokteran Pencegahan</li>
+    <li>Subject_story-> dikeluarkan dari Dawn Falls per palsu, karena menjual obat yang "tidak melakukan apa-apa"</li>
+    <li>Subject_story-> i memperkirakan bahwa wabah malaria akan menyebar</li>
+    <li>Subjek_gerund-> mensintesis penoxicillin</li>
+  </PenoxycylineProduction.generalRules.rulesStrings>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>Baju besi pelat</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Pejantan logam atau setelan pelat kayu.Armor yang berat ini secara nyata menunda gerakan, tetapi melindungi dengan sangat efektif.</PlateArmor.description>
+  <!-- EN:
+    <li>Subjek-> pelat baju besi</li>
+    <li>Subject_story-> Armor yang dibuat dari memo, ketika pihak berwenang mengepung gubuk keluarga [anypawn_possessive]</li>
+    <li>Subject_story-> dikenal sebagai Green Smith, ketika lumut tumbuh di baju besi kayu</li>
+    <li>Subject_story-> Memulai kolektif armorer pertama di Urbworld</li>
+    <li>Subject_gerund-> Armor pelat yang lebih tinggi</li>-><PlateArmor.generalRules.rulesStrings>
+    <li>Subjek-> pelat baju besi</li>
+    <li>Subject_def-> pelat baju besi</li>
+    <li>Subjek_story-> baju besi tempa dengan limbah ketika pihak berwenang mengelilingi gubuk keluarganya</li>
+    <li>Subject_story-> dikenal sebagai pandai besi hijau saat lumut tumbuh di baju besi kayu yang dibuatnya</li>
+    <li>Subject_story-> mendirikan kelompok pekerja baju besi pertama di dunia perkotaan</li>
+    <li>Subjek gerund-> baju besi plat penempaan</li>
+  </PlateArmor.generalRules.rulesStrings>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>Penyempurnaan Psikit</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Perbaiki daun psikoid untuk mengubahnya menjadi sisik dan yayo, berbagai bentuk obat psikit euforia.</PsychiteRefining.description>
+  <!-- EN:
+    <li>Subjek-> Produksi Psikit</li>
+    <li>Subject_story-> menggunakan pekerjaan universitas [anypawn_possessive] sebagai sampul untuk [anypawn_possessive] obat-obatan</li>
+    <li>subjek_story-> memulai komune di mana serpihan dosis rendah dicampur ke dalam makanan</li>
+    <li>Subject_story-> berkampanye untuk legalisasi yayo di Urbworld di dekatnya</li>
+    <li>Subject_gerund-> Refining Psychite</li>-><PsychiteRefining.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Psikit</li>
+    <li>Subjek_def-> dari produksi psikit</li>
+    <li>Subjek_story-> menggunakan pekerjaan universitasnya sebagai perlindungan untuk melakukan perdagangan narkoba</li>
+    <li>Subject_story-> Commune dimulai di mana skala, dalam dosis kecil, dicampur dengan makanan</li>
+    <li>Subject_story-> berkampanye untuk legalisasi yayo di dunia perkotaan terdekat</li>
+    <li>Subjek gerund-> riset penelitian</li>
+  </PsychiteRefining.generalRules.rulesStrings>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>Elaborasi teh psikooid</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>Siapkan daun psikoid dalam teh yang sedikit euforia dan adiktif, baik di api unggun atau di dapur.</PsychoidBrewing.description>
+  <!-- EN:
+    <li>Subjek-> Psychoid</li>
+    <li>Subject_story-> bergabung dengan komune psychoid berumur pendek di dunia kultus</li>
+    <li>Subject_story-> Bereksperimen dengan Psychoid untuk membantu tentara yang trauma</li>
+    <li>Subject_story-> legalisasi psikoid untuk produksi massal di beberapa coreworlds, ketika [anypawn_pronoun] memiliki kekuatan untuk melakukannya</li>
+    <li>Subject_gerund-> Brewing Psychoid</li>-><PsychoidBrewing.generalRules.rulesStrings>
+    <li>Subjek-></li>
+    <li>subjek_def-> dari psikoid</li>
+    <li>Subject_story-> bergabung dengan komune psychoid jangka pendek di dunia sektarian</li>
+    <li>Subject_story-> berpengalaman dengan psikoid untuk membantu tentara yang trauma</li>
+    <li>Subject_story-> Begitu ia memiliki kekuatan untuk melakukannya, ia melegalkan psikoid untuk produksi massalnya di beberapa dunia tengah</li>
+    <li>Subject_gerund-> Teh Psychoid yang rumit</li>
+  </PsychoidBrewing.generalRules.rulesStrings>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>membalikkan</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Teknik konstruksi canggih memungkinkan produksi busur berulang, senjata jarak yang efektif dan ekonomis.</RecurveBow.description>
+  <!-- EN:
+    <li>Subjek-> Bowyery</li>
+    <li>Subjek-> Membuat Bow</li>
+    <li>Subject_story-> melacak boomalope rabid selama empat hari sebelum membunuhnya dengan satu panah tunggal</li>
+    <li>Subject_story-> menetap di dekat hutan yew untuk mengamankan bahan yang sempurna untuk busur</li>
+    <li>Subject_story-> Membesarkan anak-anak koloni sebagai pemburu-pengumpul, dengan setiap orang seorang pemanah utama</li>
+    <li>Subject_gerund-> kerajinan busur</li>-><RecurveBow.generalRules.rulesStrings>
+    <li>Subjek-> manufaktur busur</li>
+    <li>Subjek-> Penciptaan Lengkungan</li>
+    <li>Subject_def-> dari pembuatan lengkungan</li>
+    <li>Subjek_def-> dari penciptaan lengkungan</li>
+    <li>Subject_story-> mengikuti jejak bumalope fanatik selama empat hari sebelum membunuhnya dengan satu panah tunggal</li>
+    <li>Subject_story-> didirikan di dekat hutan kain untuk mendapatkan bahan yang sempurna untuk membuat lengkungan</li>
+    <li>Subjek_story-> membesarkan anak-anak koloni sebagai pemburu-pengumpul, berhasil mengubah mereka menjadi guru pemanah</li>
+    <li>Subjek gerund-> manufaktur lengkungan</li>
+  </RecurveBow.generalRules.rulesStrings>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>bengkel pandai besi</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Bangun Herrerías untuk memproduksi senjata logam seperti pisau, gladius dan labirin.Kerjakan logam untuk membuat ubin yang bersih dan indah.</Smithing.description>
+  <!-- EN:
+    <li>subjek-> pandai besi</li>
+    <li>Subject_story-> diselesaikan di dusun abad pertengahan dan menguasai kerajinan logam sederhana</li>
+    <li>Subject_story-> Built GlitterWorld Smithies untuk Renaissance Reenactment Guilds</li>
+    <li>Subject_gerund-> Smithing</li>-><Smithing.generalRules.rulesStrings>
+    <li>Subjek-> Herrería</li>
+    <li>Subjek_def-> dari pandai besi</li>
+    <li>Subject_story-> didirikan di desa abad pertengahan dan mendominasi elaborasi logam sederhana</li>
+    <li>subject_story->construyó herrerías en mundobrillante para los gremios de recreación del Renacimiento</li>
+    <li>subjek_gerund-> forjar</li>
+  </Smithing.generalRules.rulesStrings>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>cantería</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Potong batu dan ubah menjadi blok batu untuk digunakan dalam konstruksi.Bangun tanah ubin batu yang indah atau catwalk beton jelek.</Stonecutting.description>
+  <!-- EN:
+    <li>Subjek-> Masonry</li>
+    <li>Subject_story-> adalah yang pertama dalam barisan desainer kuil, semuanya berbagi nama yang sama</li>
+    <li>Subject_story-> Teknik unik yang dikembangkan untuk memotong batu yang paling sulit dengan alat dasar</li>
+    <li>Subject_story-> Tiled keseluruhan Istana Raja Muda di Dunia Abad Pertengahan</li>
+    <li>Subject_gerund-> Stonecutting</li>
+    <li>Subject_gerund-> Cutting Stones</li>-><Stonecutting.generalRules.rulesStrings>
+    <li>Subjek-> Masonry</li>
+    <li>Subject_def-> dari Masonry</li>
+    <li>Subject_story-> adalah yang pertama dari garis desainer kuil di mana semua orang berbagi nama yang sama</li>
+    <li>Subjek_Story-> Teknik unik yang dikembangkan untuk memotong batu terberat dengan alat dasar</li>
+    <li>Subject_story-> Di seluruh istana raja muda di dunia abad pertengahan</li>
+    <li>Subjek gerund-> tallar rocas</li>
+    <li>Subjek gerund-> cut rocas</li>
+  </Stonecutting.generalRules.rulesStrings>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>Menabur pohon</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Tabur pohon -pohon alami bioma lokal di ladang Anda.</TreeSowing.description>
+  <!-- EN:
+    <li>Subjek-> Tree Sowing</li>
+    <li>Subject_story-> Pohon yang disebarkan di planetoid yang sudah lama mati, mencoba mengembalikan kehidupan</li>
+    <li>Subject_story-> menerbitkan makalah tentang memelihara ekosistem alami</li>
+    <li>Subject_story-> bekerja di pembibitan pohon di dunia hewan</li>
+    <li>subjek_gerund-> menabur pohon</li>-><TreeSowing.generalRules.rulesStrings>
+    <li>Subjek-> penanaman pohon</li>
+    <li>Subjek_def-> penanaman pohon</li>
+    <li>Subject_story-> Pohon yang disebarkan di planet yang mati sejak zaman kuno ketika mencoba mengembalikan hidupnya</li>
+    <li>Subject_story-> menerbitkan artikel tentang pemeliharaan ekosistem alami</li>
+    <li>Subject_story-> bekerja di pembibitan pohon di dunia hewan</li>
+    <li>Subject_gerund-> Sow Trees</li>
+  </TreeSowing.generalRules.rulesStrings>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>bangun</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Mensintesis kebangkitan, obat yang meningkatkan kinerja kerja dan menggantikan kebutuhan untuk tidur.</WakeUpProduction.description>
+  <!-- EN:
+    <li>subjek-> produksi bangun</li>
+    <li>Subject_story-> mencoba mengatasi kecanduan kafein dengan bangun</li>
+    <li>Subject_story-> Narcoleptics Diobati dan Sleepwalker dengan Dosis Bangun dengan Hati-hati</li>
+    <li>subjek_story-> memindahkan semua orang ke sisi gelap asteroid dan digunakan untuk mempertahankan biorhythms mereka</li>
+    <li>Subject_gerund-> Sintesis Bangun</li>-><WakeUpProduction.generalRules.rulesStrings>
+    <li>Subjek-> Produksi Kebangkitan</li>
+    <li>Subjek_def-> dari produksi kebangkitan</li>
+    <li>Subject_story-> mencoba mengatasi kecanduan kafein</li>
+    <li>Subject_story-> Narcoléptics yang Diperlakukan</li>
+    <li>Subjek_story-> mentransfer semua orang ke sisi gelap asteroid dan bekas bangun untuk mempertahankan biorhythms mereka</li>
+    <li>Subjek gerund-> mensintesis kebangkitan</li>
+  </WakeUpProduction.generalRules.rulesStrings>
+  
+</LanguageData>

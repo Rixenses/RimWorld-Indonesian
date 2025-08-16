@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>Menghancurkan Centípedo</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.labelPlural>Menghancurkan cent cent</Mech_CentipedeBlaster.labelPlural>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>Cent Incendiary</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.labelPlural>berabad -abad pembakar</Mech_CentipedeBurner.labelPlural>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>Centípeda Gunner</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.labelPlural>Cent centípedos penembak</Mech_CentipedeGunner.labelPlural>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>Lancer</Mech_Lancer.label>
+  <Mech_Lancer.labelPlural>Lancers</Mech_Lancer.labelPlural>
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>Pikeman</Mech_Pikeman.label>
+  <!-- EN: pikemen -->
+  <Mech_Pikeman.labelPlural>Piqueros</Mech_Pikeman.labelPlural>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>lebih sulit</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>Seigners</Mech_Scyther.labelPlural>
+  
+</LanguageData>

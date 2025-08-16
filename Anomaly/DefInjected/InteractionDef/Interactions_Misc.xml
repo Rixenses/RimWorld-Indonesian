@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creepy words -->
+  <CreepyWords.label>kata -kata yang mengerikan</CreepyWords.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [mengoceh] tentang [Subjectinsane].</li>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] [darkspeechadverb] tentang [subjekinsane].</li>-><CreepyWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] sobre [Subjectinsane].</li>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] [darkspeechadverb] sobre [Subjectinsane].</li>
+  </CreepyWords.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: strange chat -->
+  <DisturbingChat.label>Pembicaraan aneh</DisturbingChat.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [terganggu] [penerima_namedef] oleh [Talkingabout] [SubjectDingurbing].</li>
+    <li>r_logentry-> [initiator_namedef] [spoke] [DarkspeechAdverb] ke [penerima_namedef] tentang [subjek yang tidak terganggu].</li>
+    <li>berbicara-> berbicara</li>
+    <li>berbicara-> bergumam</li>
+    <li>berbicara-> tergagap</li>
+    <li>berbicara-> merengek</li>
+    <li>berbicara-> mendengus</li>
+    <li>berbicara-> bergumam</li>
+    <li>berbicara (p = 5)-> [mengoceh]</li>
+    <li>SubjectDingurbing-> [SubjectDarkStudy]</li>
+    <li>SubjectDingurbing-> [Subjectinsane]</li>
+    <li>terganggu-> terganggu</li>
+    <li>terganggu-> ngeri</li>
+    <li>Terganggu-> ketakutan</li>
+    <li>terganggu-> kesal</li>
+    <li>terganggu-> terganggu</li>
+    <li>terganggu-> gelisah</li>
+    <li>terganggu-> bingung</li>
+    <li>terganggu-> terkejut</li>
+    <li>terganggu-> khawatir</li>
+    <li>terganggu-> tertekan</li>
+    <li>terganggu-> kecewa</li>
+    <li>maybedarkspeechadverb-></li>
+    <li>maybedarkspeechadverb-> [darkspeechadverb]</li>
+    <li>berbicara tentang-> menggambarkan</li>
+    <li>berbicara tentang-> menjelaskan</li>
+    <li>berbicara tentang-> mengerang [maybedarkspeechadverb] tentang</li>
+    <li>berbicara tentang-> berbicara [maybedarkspeechadverb] tentang</li>
+    <li>berbicara tentang-> mengoceh [maybedarkspeechadverb] tentang</li>
+    <li>berbicara tentang-> merinci tentang</li>-><DisturbingChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [terganggu] A [penerima_namedef] al [Talkingabout] [SubjectDingurbing].</li>
+    <li>r_logentry-> [initiator_namedef] [spoke] [DarkspeechAdverb] A [penerima_namedef] sobre [subjekdigasi].</li>
+    <li>Berbicara-> berbicara</li>
+    <li>Spoke-> bergumam</li>
+    <li>berbicara-> tartamudó</li>
+    <li>berbicara-> gimoteó</li>
+    <li>berbicara-> menggeram</li>
+    <li>berbicara-> masculló</li>
+    <li>berbicara (p = 5)-> [mengoceh]</li>
+    <li>SubjectDingurbing-> [SubjectDarkStudy]</li>
+    <li>SubjectDingurbing-> [Subjectinsane]</li>
+    <li>terganggu-> perturbó</li>
+    <li>terganggu-> horrorizó</li>
+    <li>Terganggu-> ketakutan</li>
+    <li>Terganggu-> terganggu</li>
+    <li>Terganggu-> khawatir</li>
+    <li>Terganggu-> dia instruktur</li>
+    <li>Terganggu-> bingung</li>
+    <li>Terganggu-> terganggu</li>
+    <li>Terganggu-> khawatir</li>
+    <li>Terganggu-> kesedihan</li>
+    <li>terganggu-> consternó</li>
+    <li>maybedarkspeechadverb-></li>
+    <li>maybedarkspeechadverb-> [darkspeechadverb]</li>
+    <li>Talkingabout-> dideskripsikan</li>
+    <li>Talkingabout-> Explicar</li>
+    <li>Berbicara tentang</li>
+    <li>Berbicara tentang-> berbicara [maybedarkspeechadverb] tentang</li>
+    <li>berbicara tentang-> despotricar [maybedarkspeechadverb] sobre</li>
+    <li>Berbicara tentang</li>
+  </DisturbingChat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: inhuman rambling -->
+  <InhumanRambling.label>Tidak manusiawi mengarungi</InhumanRambling.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] [mengoceh] tentang [Subjectinsane].</li>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] [darkspeechadverb] tentang [subjekinsane].</li>-><InhumanRambling.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] sobre [Subjectinsane].</li>
+    <li>r_logentry-> [initiator_namedef] [mengoceh] [darkspeechadverb] sobre [Subjectinsane].</li>
+  </InhumanRambling.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: interrogate identity -->
+  <InterrogateIdentity.label>pertanyaan tentang identitas</InterrogateIdentity.label>
+  <!-- EN:
+    <li>Ditanyabout-> Diinterogasi [penerima_namedef] tentang</li>
+    <li>Ditanya di> tanya [penerima_namedef] tentang</li>
+    <li>Ditanyabout-> ditekan [penerima_namedef] untuk detailnya tentang</li>
+    <li>Ditanya di> bertanya [penerima_namedef] tentang</li>
+    <li>Ditanya di> panggang [penerima_namedef] aktif</li>
+    <li>Ditanya Abadi> Didorong [penerima_namedef] untuk jawaban tentang</li>
+    <li>Ditanya di> Ditanya [penerima_namedef] Pertanyaan rumit tentang</li>
+    <li>Ditanya di> mencoba menangkap [penerima_namedef] lengah dengan pertanyaan tentang</li>
+    <li>Ditanya di> berteriak di [penerima_namedef], menuntut informasi tentang</li>
+    <li>Ditanya di> dibombardir [penerima_namedef] dengan pertanyaan tentang</li>
+    <li>Ditanya Abadi> Dihadapkan [penerima_namedef] Mengenai</li>
+    <li>Ditanya di> Pestered [penerima_namedef] tentang</li>
+    <li>Ditanya Abad</li>
+    <li>IdentityTopic-> [penerima_possessive] Pekerjaan sebelumnya</li>
+    <li>Identitytopic-> [penerima_possessive] Hubungan sebelumnya dengan faksi lain</li>
+    <li>Identitytopic-> [penerima_possessive] kelahiran</li>
+    <li>IdentityTopic-> [penerima_possessive] Aspringing</li>
+    <li>Identitytopic-> [penerima_possessive] orang tua</li>
+    <li>Topik Identitas-> [penerima posesif] Teman lama</li>
+    <li>Identitytopic-> [penerima_possessive] Sejarah romantis</li>
+    <li>Identitytopic-> [penerima_possessive] suka dan tidak suka</li>
+    <li>Identitytopic-> [penerima_possessive] Respons emosional terhadap situasi yang mengganggu</li>
+    <li>identitytopic-> [penerima_possessive] preferensi makanan</li>
+    <li>Identitytopic-> [penerima_possessive] Ketakutan terdalam</li>
+    <li>Identitytopic-> [penerima_possessive] Kenangan yang disayangi</li>
+    <li>IdentityTopic-> [penerima_possessive] Penyesalan pribadi</li>
+    <li>IdentityTopic-> [penerima_possessive] mimpi dan aspirasi</li>
+    <li>Identitytopic-> [penerima_possessive] Alasan untuk bergabung dengan faksi [penerima_possessive] saat ini</li>
+    <li>Identitytopic-> [penerima_possessive] Peran dalam peristiwa signifikan masa lalu</li>
+    <li>Identitytopic-> [penerima_possessive] hobi dan hiburan</li>
+    <li>Identitytopic-> [penerima_possessive] Nilai dan prinsip moral</li>
+    <li>IdentityTopic-> [penerima_possessive] motivasi</li>
+    <li>Identitytopic-> Alasan Di Balik [Penerima_Posesif] Keputusan Utama</li>
+    <li>Identitytopic-> pengalaman traumatis masa lalu</li>
+    <li>Identitytopic-> proses pemikiran manusia</li>
+    <li>Identitytopic-> pengalaman masa kecil</li>
+    <li>Identitytopic-> pengalaman sekolah</li>
+    <li>Identitytopic-> Pengalaman Budaya</li>
+    <li>r_logentry-> [initiator_namedef] [dimintaabout] [identitytopic].</li>-><InterrogateIdentity.logRulesInitiator.rulesStrings>
+    <li>DitanyaiBout-> pertanyaan [penerima_namedef] tentang</li>
+    <li>Ditanya di> tanya [penerima_namedef] tentang</li>
+    <li>Diminta Abadi> Ditekan [penerima_namedef] untuk mendapatkan informasi terperinci tentang</li>
+    <li>Tanya hal-hal> tanya [penerima_namedef] tentang</li>
+    <li>DitanyaiBout-> ditanya [penerima_namedef] tentang</li>
+    <li>Diminta Abadi> ditanya [penerima_namedef] untuk mendapatkan jawaban</li>
+    <li>Tanya halobout-> dia membuat pertanyaan [penerima_namedef] tentang</li>
+    <li>DimintaObout-> mencoba menangkap lengah [penerima_o_a] ke [penerima_namedef] dengan pertanyaan tentang pertanyaan</li>
+    <li>Ditanya di> berteriak [penerima_namedef], menuntut informasi tentang</li>
+    <li>DimintaObout-> bombardado ke [penerima_namedef] dengan pertanyaan tentang pertanyaan</li>
+    <li>Ditanya Abad</li>
+    <li>Ditanya Abadi> Terganggu [penerima_namedef] tentang</li>
+    <li>Ditanya pada-> probe [penerima_namedef] tentang</li>
+    <li>Identitytopic-> pekerjaan Anda sebelumnya</li>
+    <li>Identitytopic-> Hubungan Anda sebelumnya dengan faksi lain</li>
+    <li>Identitytopic-> kelahiran Anda</li>
+    <li>Identitytopic-> pendidikan Anda</li>
+    <li>Identitytopic-> orang tua Anda</li>
+    <li>Identitytopic-> teman lama Anda</li>
+    <li>Identitytopic-> kisah cinta Anda</li>
+    <li>Identitytopic-> apa yang dia suka dan apa yang tidak dia sukai</li>
+    <li>Identitytopic-> Respons emosional Anda terhadap situasi yang mengganggu</li>
+    <li>Identitytopic-> preferensi makanan Anda</li>
+    <li>Identitytopic-> ketakutan terdalam Anda</li>
+    <li>Identitytopic-> kenangan Anda yang paling dicintai</li>
+    <li>Identitytopic-> penyesalan pribadi Anda</li>
+    <li>Identitytopic-> impian dan aspirasi Anda</li>
+    <li>Identitytopic-> Alasan Anda untuk bergabung dengan faksi Anda saat ini</li>
+    <li>Topik Identitas-> Peran Anda dalam peristiwa penting di masa lalu</li>
+    <li>Identitytopic-> hobi dan hobi Anda</li>
+    <li>Identitytopic-> Nilai dan prinsip moralnya</li>
+    <li>Identitytopic-> motivasi Anda</li>
+    <li>Identitytopic-> Alasan untuk keputusan penting Anda</li>
+    <li>Identitytopic-> pengalaman traumatis masa lalu</li>
+    <li>Identitytopic-> proses pemikiran manusia</li>
+    <li>Identitytopic-> pengalaman anak-anak</li>
+    <li>Identitytopic-> pengalaman sekolah</li>
+    <li>Identitytopic-> Pengalaman Budaya</li>
+    <li>r_logentry-> [initiator_namedef] [dimintaabout] [identitytopic].</li>
+  </InterrogateIdentity.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: occult teaching -->
+  <OccultTeaching.label>ajaran tersembunyi</OccultTeaching.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] menjelaskan teori [initiator_possesif] tentang [subjekDarkStudy] ke [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] dibagikan [initiator_possessives] Gagasan tentang [SubjectDarkStudy] dengan [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] berbicara tentang [SubjectDarkstudy].</li>
+    <li>r_logentry-> [initiator_namedef] membahas masalah [SubjectDarkStudy].</li>
+    <li>r_logentry-> [initiator_namedef] mengajarkan pelajaran tentang [SubjectDarkStudy].</li>-><OccultTeaching.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] Dijelaskan kepada [penerima_namedef] teorinya tentang [SubjectDarkstudy].</li>
+    <li>r_logentry-> [initiator_namedef] membagikan idenya tentang [subjekdarkstud dan dengan [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] habló sobre [SubjectDarkstudy].</li>
+    <li>r_logentry-> [initiator_namedef] repasó un tema sobre [subjekdarkstudy].</li>
+    <li>r_logentry-> [initiator_namedef] mengajarkan pelajaran tentang [SubjectDarkStudy].</li>
+  </OccultTeaching.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: prisoner study -->
+  <PrisonerStudyAnomaly.label>Studi Tahanan</PrisonerStudyAnomaly.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] bertanya [penerima_namedef] tentang [SubjectDarkStudy].</li>
+    <li>r_logentry-> [initiator_namedef] bertanya tentang [SubjectDarkStudy].</li>
+    <li>r_logentry-> [penerima_namedef] bergumam tentang [Subjectinsane].</li>-><PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] preguntó a [penerima_namedef] sobre [SubjectDarkstudy].</li>
+    <li>r_logentry-> [initiator_namedef] inquirió sobre [SubjectDarkstudy].</li>
+    <li>r_logentry-> [penerima_namedef] bergumam tentang [Subjectionsne].</li>
+  </PrisonerStudyAnomaly.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

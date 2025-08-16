@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ghoul -->
+  <Ghoul.label>Necrófago</Ghoul.label>
+  
+  <!-- EN: gorehulk -->
+  <ShamblerGorehulk.label>Goretesco</ShamblerGorehulk.label>
+  
+  <!-- EN: shambler soldier -->
+  <ShamblerSoldier.label>Walker yang dilas</ShamblerSoldier.label>
+  
+  <!-- EN: shambler swarmer -->
+  <ShamblerSwarmer.label>Walker yang berkerumun</ShamblerSwarmer.label>
+  
+</LanguageData>

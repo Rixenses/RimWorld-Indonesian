@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cadáver de dríada de piel de corteza -->
+  <Corpse_Dryad_Barkskin.label>Tubuh kering kulit korteks</Corpse_Dryad_Barkskin.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada de piel de corteza. -->
+  <Corpse_Dryad_Barkskin.description>Tubuh tak bernyawa dari kulit kulit kayu dríada.</Corpse_Dryad_Barkskin.description>
+  
+  <!-- EN: Cadáver de dríada inmadura -->
+  <Corpse_Dryad_Basic.label>mayat dríada yang belum matang</Corpse_Dryad_Basic.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada inmadura. -->
+  <Corpse_Dryad_Basic.description>Tubuh tak matang dari dríada yang belum dewasa.</Corpse_Dryad_Basic.description>
+  
+  <!-- EN: Cadáver de dríada creabayas -->
+  <Corpse_Dryad_Berrymaker.label>Dríada Creabayas Corpse</Corpse_Dryad_Berrymaker.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada creabayas. -->
+  <Corpse_Dryad_Berrymaker.description>Tubuh Dríada yang tak bernyawa diciptakan.</Corpse_Dryad_Berrymaker.description>
+  
+  <!-- EN: Cadáver de dríada portadora -->
+  <Corpse_Dryad_Carrier.label>pembawa</Corpse_Dryad_Carrier.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada portadora. -->
+  <Corpse_Dryad_Carrier.description>Tubuh tak bernyawa dari pembawa dríada.</Corpse_Dryad_Carrier.description>
+  
+  <!-- EN: Cadáver de dríada rasgadora -->
+  <Corpse_Dryad_Clawer.label>Tubuh Garador Dríada</Corpse_Dryad_Clawer.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada rasgadora. -->
+  <Corpse_Dryad_Clawer.description>Tubuh Garrador Dríada yang tak bernyawa.</Corpse_Dryad_Clawer.description>
+  
+  <!-- EN: Cadáver de dríada creagaus -->
+  <Corpse_Dryad_Gaumaker.label>Tali Dryan Creanggaus</Corpse_Dryad_Gaumaker.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada creagaus. -->
+  <Corpse_Dryad_Gaumaker.description>Tubuh yang tak bernyawa dari Diada Creagous.</Corpse_Dryad_Gaumaker.description>
+  
+  <!-- EN: Cadáver de dríada creamedicina -->
+  <Corpse_Dryad_Medicinemaker.label>Produsen Tubuh Driada</Corpse_Dryad_Medicinemaker.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada creamedicina. -->
+  <Corpse_Dryad_Medicinemaker.description>Tubuh yang tak bernyawa dari manufakturisis.</Corpse_Dryad_Medicinemaker.description>
+  
+  <!-- EN: Cadáver de dríada creamadera -->
+  <Corpse_Dryad_Woodmaker.label>Tubuh Dríada Creamadera</Corpse_Dryad_Woodmaker.label>
+  <!-- EN: El cuerpo sin vida de un(a) dríada creamadera. -->
+  <Corpse_Dryad_Woodmaker.description>Tubuh dríada krem yang tak bernyawa.</Corpse_Dryad_Woodmaker.description>
+  
+</LanguageData>

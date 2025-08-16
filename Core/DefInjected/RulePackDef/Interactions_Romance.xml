@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Terkirim-> [penerima_namedef] Setuju dan keduanya sekarang bertunangan.</li>-><Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>feel-> [penerima_namedef] diterima dan sekarang mereka berkomitmen.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terkirim-> [penerima_namedef] menolak proposal tersebut.</li>-><Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>Send-> [penerima_namedef] menolak proposal tersebut.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Send-> Terlalu banyak hubungannya untuk dilanjutkan, dan keduanya sekarang telah putus.</li>-><Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>Feel-> Hubungan tidak bisa berlanjut dan sudah berakhir.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terkirim-> [penerima_namedef] tertarik dan sekarang menjadi kekasih [initiator_namedef].</li>
+    <li>Terkirim-> [penerima_namedef] menanggapi dengan baik dan sekarang kekasih [initiator_namedef].</li>
+    <li>Terkirim-> [penerima_namedef] menjadi terangsang dan setuju untuk menjadi kekasih [initiator_namedef].</li>-><Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>Sent-> [penerima_namedef] merasakan ketertarikan untuk [initiator_namedef] dan sekarang pasangan.</li>
+    <li>Send-> [recepent_namedef] menanggapi dengan baik dan sekarang beberapa [initiator_namedef].</li>
+    <li>Sent-> [penerima_namedef] tersipu dan setuju untuk menjadi mitra [initiator_namedef].</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Terkirim-> [penerima_namedef] menolak uang muka.</li>
+    <li>terkirim-> [penerima_namedef] mengabaikan uang muka.</li>
+    <li>Terkirim-> [penerima_namedef] berputar [penerima_possessive] kembali.</li>
+    <li>Terkirim-> [penerima_namedef] berbalik.</li>
+    <li>Terkirim-> [penerima_namedef] memberikan respons minimal.</li>
+    <li>Terkirim-> [penerima_namedef] tidak merespons.</li>
+    <li>Terkirim-> [penerima_namedef] berbalik [initiator_objective] turun.</li>-><Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>feel-> [penerima_namedef] menolak godaan.</li>
+    <li>feel-> [penerima_namedef] diabaikan menggoda.</li>
+    <li>Terkirim-> [recipen_names] Eksploitasi.</li>
+    <li>Terkirim-> [recipen_names] memberi tahu pemungutan suara.</li>
+    <li>Send-> [penerima_namedef] Dia hampir tidak merespons.</li>
+    <li>feel-> [penerima_namedef] tidak merespons.</li>
+    <li>Send-> [penerima_namedef] menolak proposalnya.</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>flu hewan</Animal_Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.description>Penyakit menular yang disebabkan oleh virus influenza, yang menyerang spesies hewan non-manusia.</Animal_Flu.description>
+  <Animal_Flu.labelNoun>flu hewan</Animal_Flu.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>Sedikit.</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>suram</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>ekstrim</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>hama hewan</Animal_Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.description>Penyakit menular yang berasal dari bakteri, yang menyerang spesies hewan non-manusia.</Animal_Plague.description>
+  <Animal_Plague.labelNoun>hama hewan</Animal_Plague.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>Fase Start-up</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>sedang</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>suram</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>parah</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>Mekanika berserat</FibrousMechanites.label>
+  <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
+  <FibrousMechanites.description>Mekanit semi-koheren yang mengembangkan ikatan fibrosa dalam jaringan otot. Obat ini meningkatkan kekuatan pasien, tetapi juga menyebabkan rasa sakit yang parah. Mungkin merupakan variasi mutan dari mekanit peningkat kekuatan.</FibrousMechanites.description>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>nyeri ringan</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>sakit parah</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>flu</Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.description>Penyakit menular yang disebabkan oleh virus influenza.</Flu.description>
+  <Flu.labelNoun>flu</Flu.labelNoun>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>Sedikit.</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>suram</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>ekstrim</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>cacing usus</GutWorms.label>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.description>Parasit usus. Parasit ini menyebabkan muntah dan mengonsumsi makanan inang, yang meningkatkan rasa lapar inang.</GutWorms.description>
+  <GutWorms.labelNoun>cacing usus</GutWorms.labelNoun>
+  
+  <!-- EN: lung rot -->
+  <LungRot.label>pembusukan paru-paru</LungRot.label>
+  <!-- EN: A bacterial disease that targets an individual's lungs. Minor cases are little more than an irritation, but if left unchecked the bacterial growth results in an increasing amount of fluid buildup in the victim's lungs, eventually resulting in death.\n\nIf treated properly, the body's immune system will eventually clear lung rot. -->
+  <LungRot.description>Penyakit bakteri yang menyerang paru-paru seseorang. Kasus-kasus kecil tidak lebih dari sekadar iritasi, tetapi jika dibiarkan, pertumbuhan bakteri akan menyebabkan akumulasi cairan yang meningkat di paru-paru korban, yang pada akhirnya menyebabkan kematian. Jika ditangani dengan baik, sistem kekebalan tubuh pada akhirnya akan menghilangkan pembusukan paru-paru.</LungRot.description>
+  <!-- EN: A painful bacterial disease caused by exposure to rot stink gas. Upon reaching full saturation, it will kill the affected individual. -->
+  <LungRot.descriptionShort>Penyakit bakteri yang menyakitkan yang disebabkan oleh tampilan gas busuk.Setelah mencapai kepenuhan, penyakit ini akan membunuh orang yang terkena.</LungRot.descriptionShort>
+  <!-- EN: minor -->
+  <LungRot.stages.minor.label>kecil</LungRot.stages.minor.label>
+  <!-- EN: major -->
+  <LungRot.stages.major.label>lebih lanjut</LungRot.stages.major.label>
+  <!-- EN: extreme -->
+  <LungRot.stages.extreme.label>akhir</LungRot.stages.extreme.label>
+  
+  <!-- EN: rot stink exposure -->
+  <LungRotExposure.label>paparan terhadap pembusukan</LungRotExposure.label>
+  <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
+  <LungRotExposure.description>Paparan gas yang berbau busuk dalam waktu lama. Paparan bau busuk tidak memiliki efek kesehatan secara langsung. Namun, paparan bau busuk yang terlalu lama dapat menyebabkan infeksi bakteri yang menyakitkan yang dikenal sebagai pembusukan paru-paru. Bila tidak terpapar bau busuk pembusukan, infeksi akan mereda secara perlahan.</LungRotExposure.description>
+  <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>{PAWN_namaDef} mulai menderita karena terpapar asap pembusukan. Jauhkan {PAWN_jenis_kelamin ? atau : a} dari mayat yang membusuk dan sumber-sumber bau busuk lainnya.</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <!-- EN: minor -->
+  <LungRotExposure.stages.minor.label>kecil</LungRotExposure.stages.minor.label>
+  <!-- EN: major -->
+  <LungRotExposure.stages.major.label>lebih lanjut</LungRotExposure.stages.major.label>
+  <!-- EN: serious -->
+  <LungRotExposure.stages.serious.label>akan menjadi</LungRotExposure.stages.serious.label>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>malaria</Malaria.label>
+  <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
+  <Malaria.description>Penyakit menular yang disebabkan oleh sejenis parasit yang ditularkan oleh nyamuk.</Malaria.description>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>lampu</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>suram</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>ekstrim</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>parasit otot</MuscleParasites.label>
+  <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.description>Makhluk parasit yang hidup di dalam otot. Mereka menyebabkan kelemahan fisik dan hilangnya koordinasi.</MuscleParasites.description>
+  <MuscleParasites.stages.0.label>Sedikit.</MuscleParasites.stages.0.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>wabah</Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.description>Penyakit menular yang berasal dari bakteri.</Plague.description>
+  <Plague.labelNoun>wabah</Plague.labelNoun>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>Fase Start-up</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>sedang</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>suram</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>parah</Plague.stages.extreme-1.label>
+  
+  <!-- EN: scaria infection -->
+  <ScariaInfection.label>infeksi kudis</ScariaInfection.label>
+  <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
+  <ScariaInfection.description>Infeksi yang disebabkan oleh bakteri escaria. Jika tidak diobati, infeksi ini dapat membuat inang menjadi sangat marah.</ScariaInfection.description>
+  <!-- EN: Scaria: {PAWN_nameDef} -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>Escaria: {Nama_PemilikDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} menderita penyakit kudis sebagai akibat dari infeksinya, yang membuatnya sangat marah. Penyakit kudis dapat disembuhkan dengan operasi medis khusus, tapi pertama-tama {PAWN_nameDef} harus disingkirkan.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: a scaria infection -->
+  <ScariaInfection.labelNoun>infeksi kudis</ScariaInfection.labelNoun>
+  <!-- EN: minor -->
+  <ScariaInfection.stages.minor.label>Sedikit.</ScariaInfection.stages.minor.label>
+  <!-- EN: major -->
+  <ScariaInfection.stages.major.label>suram</ScariaInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <ScariaInfection.stages.extreme.label>ekstrim</ScariaInfection.stages.extreme.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>mekanika sensorik</SensoryMechanites.label>
+  <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
+  <SensoryMechanites.description>Mekanosis semi-koheren yang berada dalam sistem saraf. Mereka meningkatkan indera pasien, tetapi juga menyebabkan rasa sakit yang hebat. Mereka mungkin merupakan variasi mutan dari mekanit peningkat indra.</SensoryMechanites.description>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>nyeri ringan</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>sakit parah</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>penyakit tidur</SleepingSickness.label>
+  <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
+  <SleepingSickness.description>Penyakit menular yang disebabkan oleh sejenis parasit yang ditularkan melalui serangga. Penyakit tidur tidak mematikan seperti penyakit lainnya, tetapi berkembang secara perlahan. Dibutuhkan waktu yang lama bagi tubuh untuk menetralkan infeksi.</SleepingSickness.description>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>Fase Start-up</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>lampu</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>suram</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>sangat serius</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>ekstrim</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>infeksi</WoundInfection.label>
+  <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
+  <WoundInfection.description>Infeksi bakteri pada luka. Tanpa pengobatan, bakteri akan berkembang biak, membunuh jaringan lokal dan pada akhirnya menyebabkan keracunan darah dan kematian. Selama ribuan tahun peperangan manusia, infeksi telah merenggut lebih banyak nyawa daripada luka itu sendiri.</WoundInfection.description>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>infeksi</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>Sedikit.</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>sedang</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>suram</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>ekstrim</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

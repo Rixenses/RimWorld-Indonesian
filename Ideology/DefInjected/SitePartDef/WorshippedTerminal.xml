@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: worshipful village -->
+  <WorshippedTerminal.label>orang berbudaya</WorshippedTerminal.label>
+  <!-- EN: A village containing an ancient terminal which the locals worship. -->
+  <WorshippedTerminal.description>Sebuah kota yang berisi terminal tua yang disembah penduduk setempat.</WorshippedTerminal.description>
+  <!-- EN: Attacking {0}. -->
+  <WorshippedTerminal.approachingReportString>Menyerang {0}.</WorshippedTerminal.approachingReportString>
+  <!-- EN: Investigate {0} -->
+  <WorshippedTerminal.approachOrderString>Selidiki {0}</WorshippedTerminal.approachOrderString>
+  <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
+  <WorshippedTerminal.arrivedLetter>Anda dapat tinggal di sini selama {timer} asalkan Anda tidak melanggar aturan Anda.</WorshippedTerminal.arrivedLetter>
+  
+</LanguageData>

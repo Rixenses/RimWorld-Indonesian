@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damage_source-> [atap] [runtuh] di</li>
+    <li>atap-> atap</li>
+    <li>atap-> atap</li>
+    <li>atap-> langit-langit</li>
+    <li>Runtuh-> Runtuh</li>
+    <li>runtuh-> jatuh</li>
+    <li>Runtuh-> Ceri</li>
+    <li>RURSED_PRESENT-> Smashing</li>
+    <li>RURRAGED_PRESENT-> bashing</li>
+    <li>RURGAGED_PRESENT-> memar</li>
+    <li>RURSED_PRESENT-> lacerating</li>
+    <li>hancur_present-> hancur</li>
+    <li>hancur_present-> crushing</li>
+    <li>dihancurkan_present-> Obliterating</li>
+    <li>dihancurkan_present-> dimusnahkan</li>
+    <li>dihancurkan_present-> Breaking</li>-><DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damage_source-> el [atap] [runtuh] sobre</li>
+    <li>atap-> techo</li>
+    <li>atap-> atap</li>
+    <li>jubah</li>
+    <li>Runtuh-> Runtuh</li>
+    <li>Runtuh-> Runtuh</li>
+    <li>Runtuh-> Dihasilkan</li>
+    <li>RURGAGED_PRESENT-> APLASTANDO</li>
+    <li>RURGAGED_PRESENT-> EMBISTIENDO</li>
+    <li>RURGAGED_PRESENT-> Hitting</li>
+    <li>RURGAGED_PRESENT-> MAGULLANDO</li>
+    <li>RURGADE_PRESENT-> LACERANDO</li>
+    <li>dihancurkan_present-> demoliendo</li>
+    <li>dihancurkan_present-> aplastando</li>
+    <li>Hancurkan Present-> Imnilating</li>
+    <li>Hancurkan Present-> Imnilating</li>
+    <li>Dihancurkan_present-> Breaking</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source-> [api] terbakar</li>
+    <li>api (p = 3)-> api</li>
+    <li>api (p = 3)-> api</li>
+    <li>api (p = 3)-> api</li>
+    <li>api-> panas</li>
+    <li>Fire-> Sebuah kebakaran</li>
+    <li>Fire-> An Inferno</li>
+    <li>RURGAGED_PRESENT-> SCHOCHING</li>
+    <li>RURGAGED_PRESENT-> PENDAPATAN</li>
+    <li>RAUPAGED_PRESENT-> Searing</li>
+    <li>RURGAGED_PRESENT-> SINGEING</li>
+    <li>dihancurkan_present-> charring</li>
+    <li>dihancurkan_present-> memanggang</li>
+    <li>dihancurkan_present-> memasak</li>
+    <li>Hancur Present-> Cremation</li>-><DamageEvent_Fire.rulePack.rulesStrings>
+    <li>Damage_source-> [api] terbakar a</li>
+    <li>Api (p = 3)-> api</li>
+    <li>Api (p = 2)-> api</li>
+    <li>Api-> panas</li>
+    <li>Fire-> an ascua</li>
+    <li>Fire-> Hell</li>
+    <li>RURGAGED_PRESENT-> Abrasando</li>
+    <li>RURGAGED_PRESENT-> ASANDO</li>
+    <li>RAVAGED_PRESENT-> ardiendo</li>
+    <li>RURGADE_PRESENT-> Chamuscando</li>
+    <li>dihancurkan_present-> Carbonizando</li>
+    <li>dihancurkan_present-> rostizando</li>
+    <li>Dihancurkan_present-> memasak</li>
+    <li>dihancurkan_present-> cremando</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [damage_source] [penerima_namedef], [dihancurkan_present] [penerima_possesif] [dihancurkan_targets].</li>
+    <li>r_logentry-> [damage_source] [penerima_namedef], [dihancurkan_present] [penerima_possessive] [dihancurkan_targets] dan [racaged_present] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [damage_source] [penerima_namedef], [rusak_present] [penerima_possessive] [rArpaged_targets].</li>
+    <li>r_logentry (p = 0.1)-> [damage_source] [penerima_namedef].</li>-><DamageEvent_Include.rulePack.rulesStrings>
+    <li>r_logentry-> [damage_source] [penerima_namedef], [dihancurkan_present] [penerima_possesif] [dihancurkan_targets].</li>
+    <li>r_logentry-> [damage_source] [penerima_namedef], [dihancurkan_present] [penerima_possessive] [dihancurkan_targets] y [racaged_present] [penerima_possessive] [rusak_targets].</li>
+    <li>r_logentry (penerima_part_destroyed_count == 0)-> [damage_source] [penerima_namedef], [rusak_present] [penerima_possessive] [rArpaged_targets].</li>
+    <li>r_logentry (p = 0.1)-> [damage_source] [penerima_namedef].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source-> [langit] terbuka</li>
+    <li>damage_source-> Balok luar biasa [daya] [racaged_past]</li>
+    <li>damage_source-> kolom [cahaya] [racaged_past]</li>
+    <li>langit-> langit</li>
+    <li>Sky-> Clouds</li>
+    <li>langit-> surga</li>
+    <li>Power-> Power</li>
+    <li>Power-> Energy</li>
+    <li>Power-> Heat</li>
+    <li>cahaya-> cahaya</li>
+    <li>cahaya-> panas</li>
+    <li>Light-> Flame</li>
+    <li>Cahaya (p = 0,2)-> landcases</li>-><DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damage_source-> [Sky] Sobre</li>
+    <li>Damage_source-> Ray yang luar biasa [Power] [RREARD_PAST]</li>
+    <li>damage_source-> una columna de [light] [racaged_past]</li>
+    <li>Sky-> Surga dibuka</li>
+    <li>Langit-> awan terbuka</li>
+    <li>Langit-> surga terbuka</li>
+    <li>Power-> Power</li>
+    <li>Power-> Energy</li>
+    <li>Power-> kalor</li>
+    <li>Cahaya-> cahaya</li>
+    <li>Light-> Calor</li>
+    <li>Light-> Flamas</li>
+    <li>cahaya (p = 0,2)-> incandescente</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source-> a [spiraling] tornado [diselimuti]</li>
+    <li>hancur_present (p = 3)-> merobek</li>
+    <li>Spiraling-> Spiraling</li>
+    <li>Spiraling-> berputar</li>
+    <li>Spiraling-> Spinning</li>
+    <li>Spiraling (p = 10)-></li>
+    <li>diselimuti (p = 8)-> diselimuti</li>
+    <li>diselimuti-> dilanda</li>
+    <li>Diasingkan-> dikelilingi</li>-><DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>damage_source-> un tornado [spiraling] [diselimuti]</li>
+    <li>dihancurkan_present (p = 3)-> arrancando</li>
+    <li>Spiling-> sekitarnya</li>
+    <li>Spiraling-> Zumbante</li>
+    <li>Spiraling-> kekerasan</li>
+    <li>Spiraling (p = 10)-></li>
+    <li>Aveloped (p = 8)-> dibungkus</li>
+    <li>Aveloped-> Dia menelan</li>
+    <li>Aveloped-> rodeó</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>damage_source-> [spiketrap] ditikam</li>
+    <li>damage_source-> [spiketrap] melanda</li>
+    <li>damage_source-> [spiketrap] diluncurkan di</li>
+    <li>spiketrap (p = 3)-> perangkap lonjakan</li>
+    <li>spiketrap (p = 3)-> perangkap lonjakan</li>
+    <li>Spiketrap-> Spikes</li>
+    <li>spiketrap-> jebakan yang tajam</li>
+    <li>spiketrap-> perangkap runcing</li>
+    <li>RURGAGED_PRESENT-> Perforating</li>
+    <li>RURGAGED_PRESENT-> Tombak</li>
+    <li>RURGAGED_PRESENT-> Penetrasi</li>
+    <li>RAUPAGED_PRESENT-> menusuk ke dalam</li>
+    <li>hancur_present-> merobek terpisah</li>
+    <li>dihancurkan_present-> merobek-robek</li>
+    <li>dihancurkan_present-> Eviscerating</li>
+    <li>dihancurkan_present-> meledak</li>-><DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>damage_source-> [spiketrap] apuñallolo</li>
+    <li>Damage_source-> [spiketrap] hit</li>
+    <li>Damage_source-> [spiketrap] diluncurkan di</li>
+    <li>spe</li>
+    <li>damage_source-> [spiketrap_pl] Han Impactado</li>
+    <li>Damage_source-> [spiketrap_pp]</li>
+    <li>Spiketrap (p = 3)-> jebakan tusuk sate</li>
+    <li>Spiketrap (p = 3)-> jebakan tusuk sate</li>
+    <li>Spiketrap_pl-> tusuk sate</li>
+    <li>Spiketrap-> jebakan yang tajam</li>
+    <li>spiketrap-> jebakan dengan tusuk sate</li>
+    <li>RAVAGED_PRESENT-> Perforando</li>
+    <li>RURGAGED_PRESENT-> ARPONEANDODO</li>
+    <li>RURGAGED_PRESENT-> REITANDO</li>
+    <li>RURGADE_PRESENT-> CLAVándose</li>
+    <li>Dihancurkan_present-> menghancurkan</li>
+    <li>dihancurkan_present-> triturando</li>
+    <li>dihancurkan_present-> destripando</li>
+    <li>dihancurkan_present-> explotando</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+  
+</LanguageData>

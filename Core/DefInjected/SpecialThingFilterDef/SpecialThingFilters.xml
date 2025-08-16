@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow adult-only apparel -->
+  <AllowAdultOnlyApparel.label>Pakaian untuk orang dewasa</AllowAdultOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by adults. -->
+  <AllowAdultOnlyApparel.description>Biarkan pakaian yang hanya bisa dipakai orang dewasa.</AllowAdultOnlyApparel.description>
+  
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>pakaian biokodifikasi</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>Senjata biokoded</AllowBiocodedWeapons.label>
+  
+  <!-- EN: animals -->
+  <AllowBookAnimals.label>Hewan</AllowBookAnimals.label>
+  <!-- EN: Allow books which teach animal-related skills. -->
+  <AllowBookAnimals.description>Ini memungkinkan buku -buku yang mengajarkan hewan yang terkait dengan hewan.</AllowBookAnimals.description>
+  
+  <!-- EN: artistic -->
+  <AllowBookArtistic.label>artistik</AllowBookArtistic.label>
+  <!-- EN: Allow books which teach art skills. -->
+  <AllowBookArtistic.description>Memungkinkan buku yang mengajarkan keterampilan artistik.</AllowBookArtistic.description>
+  
+  <!-- EN: construction -->
+  <AllowBookConstruction.label>konstruksi</AllowBookConstruction.label>
+  <!-- EN: Allow books which teach construction skills. -->
+  <AllowBookConstruction.description>Memungkinkan buku yang mengajarkan keterampilan konstruksi.</AllowBookConstruction.description>
+  
+  <!-- EN: cooking -->
+  <AllowBookCooking.label>Cocina</AllowBookCooking.label>
+  <!-- EN: Allow books which teach cooking skills. -->
+  <AllowBookCooking.description>Memungkinkan buku yang mengajarkan keterampilan kuliner.</AllowBookCooking.description>
+  
+  <!-- EN: crafting -->
+  <AllowBookCrafting.label>manufaktur</AllowBookCrafting.label>
+  <!-- EN: Allow books which teach crafting skills. -->
+  <AllowBookCrafting.description>Memungkinkan buku yang mengajarkan keterampilan manufaktur.</AllowBookCrafting.description>
+  
+  <!-- EN: intellectual -->
+  <AllowBookIntellectual.label>intelektual</AllowBookIntellectual.label>
+  <!-- EN: Allow books which teach intellectual skills. -->
+  <AllowBookIntellectual.description>Memungkinkan buku yang mengajarkan keterampilan intelektual.</AllowBookIntellectual.description>
+  
+  <!-- EN: medical -->
+  <AllowBookMedicine.label>obat</AllowBookMedicine.label>
+  <!-- EN: Allow books which teach medical skills. -->
+  <AllowBookMedicine.description>Memungkinkan buku yang mengajarkan keterampilan medis.</AllowBookMedicine.description>
+  
+  <!-- EN: melee -->
+  <AllowBookMelee.label>Lucha</AllowBookMelee.label>
+  <!-- EN: Allow books which teach melee skills. -->
+  <AllowBookMelee.description>Ini memungkinkan buku yang mengajarkan keterampilan pertempuran jarak dekat.</AllowBookMelee.description>
+  
+  <!-- EN: mining -->
+  <AllowBookMining.label>pertambangan</AllowBookMining.label>
+  <!-- EN: Allow books which teach mining skills. -->
+  <AllowBookMining.description>Memungkinkan buku yang mengajarkan keterampilan penambangan.</AllowBookMining.description>
+  
+  <!-- EN: plants -->
+  <AllowBookPlants.label>tanaman</AllowBookPlants.label>
+  <!-- EN: Allow books which teach plant-related skills. -->
+  <AllowBookPlants.description>Memungkinkan buku yang mengajarkan keterampilan terkait tanaman.</AllowBookPlants.description>
+  
+  <!-- EN: shooting -->
+  <AllowBookShooting.label>Senjata api</AllowBookShooting.label>
+  <!-- EN: Allow books which teach shooting skills. -->
+  <AllowBookShooting.description>Memungkinkan buku yang mengajarkan keterampilan menembak.</AllowBookShooting.description>
+  
+  <!-- EN: social -->
+  <AllowBookSocial.label>sosial</AllowBookSocial.label>
+  <!-- EN: Allow books which teach social skills. -->
+  <AllowBookSocial.description>Memungkinkan buku yang mengajarkan keterampilan sosial.</AllowBookSocial.description>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>pakaian yang mudah terbakar</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>senjata yang mudah terbakar</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow child-only apparel -->
+  <AllowChildOnlyApparel.label>pakaian hanya untuk anak -anak</AllowChildOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by children. -->
+  <AllowChildOnlyApparel.description>Biarkan pakaian yang hanya bisa dipakai anak -anak.</AllowChildOnlyApparel.description>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>mayat pemukim</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>Ini memungkinkan mayat pemukim mati.</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>Mayat orang asing</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>Izinkan berinteraksi dengan tubuh musuh yang tidak diketahui dan mati.</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>Kehutanan</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>Izinkan berinteraksi dengan pakaian yang digunakan oleh tubuh.Mayoritas manusia menganggap pakaian tubuh mengganggu, dan pedagang tidak menerimanya.</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>Izinkan wanita</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>Izinkan wanita.</AllowFemaleGender.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>Materi segar</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>Izinkan berinteraksi dengan elemen organik yang belum mulai membusuk.</AllowFresh.description>
+  
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>mayat besar</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>Izinkan mayat besar.</AllowLargeCorpses.description>
+  
+  <!-- EN: normal research -->
+  <AllowMainResearch.label>Penelitian normal</AllowMainResearch.label>
+  <!-- EN: Allow books which advance research of normal research projects. -->
+  <AllowMainResearch.description>Izinkan buku yang membantu penelitian proyek normal.</AllowMainResearch.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>Izinkan laki -laki</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>Izinkan laki -laki.</AllowMaleGender.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>Pakaian yang tidak dimodifikasi</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>Senjata yang tidak bersuara</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>Pakaian yang tidak mudah terbakar</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>Senjata yang tidak mudah terbakar</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>Pakaian bersih</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>Izinkan berinteraksi dengan pakaian yang tidak pernah diambil oleh orang mati.Mayoritas manusia menganggap pakaian tubuh mengganggu, dan pedagang tidak menerimanya.</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>Pakaian yang tidak dapat ditampilkan</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>Senjata yang tidak dapat ditampilkan</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>Makanan Sayuran</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Izinkan untuk berinteraksi dengan makanan berkualitas yang setara dengan tanaman yang tidak diharukan, seperti jerami.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>materi busuk</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Izinkan untuk berinteraksi dengan bahan organik yang mulai membusuk.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>Elemen yang dapat ditemukan</AllowSmeltable.label>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>Pakaian yang bisa ditemukan</AllowSmeltableApparel.label>
+  
+  <!-- EN: allow unfinished -->
+  <AllowUnfinished.label>Izinkan tanpa finishing</AllowUnfinished.label>
+  <!-- EN: Allow unfinished items. -->
+  <AllowUnfinished.description>Izinkan tanpa menyelesaikan artikel.</AllowUnfinished.description>
+  
+</LanguageData>

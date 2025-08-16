@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>gigi palsu</Denture.label>
+  <!-- EN: An installed denture. Allows for some basic functionality like eating and talking. -->
+  <Denture.description>Gigi tiruan implan. Gigi tiruan ini memungkinkan beberapa fungsi dasar seperti makan dan berbicara.</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>gigi palsu</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>kaki kayu</PegLeg.label>
+  <!-- EN: An installed peg leg. Allows the user to walk again, albeit not very well. -->
+  <PegLeg.description>Kaki kayu implisit.Ini memungkinkan pengguna untuk berjalan lagi, meskipun tidak terlalu bagus.</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>kaki kayu</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>dasar kayu</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. Restores some stability to the user, but without finer motor skills. -->
+  <WoodenFoot.description>Kaki kayu yang ditanamkan. Mengembalikan stabilitas bagi pengguna, tetapi tanpa kemampuan motorik halus.</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>dasar kayu</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>tangan kayu</WoodenHand.label>
+  <!-- EN: An installed wooden hand. Better than a stump, but not by much. -->
+  <WoodenHand.description>Tangan buatan tangan ditanamkan.Lebih baik dari tunggul, tetapi tidak banyak.</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>tangan kayu</WoodenHand.labelNoun>
+  
+</LanguageData>

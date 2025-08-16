@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>Gato</Cat.label>
+  <Cat.labelFemale>gata</Cat.labelFemale>
+  <Cat.labelFemalePlural>susu</Cat.labelFemalePlural>
+  <Cat.labelMale>Gato</Cat.labelMale>
+  <Cat.labelMalePlural>Gatos</Cat.labelMalePlural>
+  <Cat.labelPlural>Gatos</Cat.labelPlural>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>anjing kucing</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.kitten.labelPlural>anjing kucing</Cat.lifeStages.kitten.labelPlural>
+  <Cat.lifeStages.1.label>kucing muda</Cat.lifeStages.1.label>
+  <Cat.lifeStages.1.labelFemale>Kucing muda</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelFemalePlural>Kucing muda</Cat.lifeStages.1.labelFemalePlural>
+  <Cat.lifeStages.1.labelMale>kucing muda</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.1.labelMalePlural>Kucing muda</Cat.lifeStages.1.labelMalePlural>
+  <Cat.lifeStages.1.labelPlural>Kucing muda</Cat.lifeStages.1.labelPlural>
+  <Cat.lifeStages.2.label>Gato</Cat.lifeStages.2.label>
+  <Cat.lifeStages.2.labelFemale>gata</Cat.lifeStages.2.labelFemale>
+  <Cat.lifeStages.2.labelFemalePlural>susu</Cat.lifeStages.2.labelFemalePlural>
+  <Cat.lifeStages.2.labelMale>Gato</Cat.lifeStages.2.labelMale>
+  <Cat.lifeStages.2.labelMalePlural>Gatos</Cat.lifeStages.2.labelMalePlural>
+  <Cat.lifeStages.2.labelPlural>Gatos</Cat.lifeStages.2.labelPlural>
+  
+  <!-- EN: guinea pig -->
+  <GuineaPig.label>Cobaya</GuineaPig.label>
+  <GuineaPig.labelPlural>Babi Guinea</GuineaPig.labelPlural>
+  <GuineaPig.lifeStages.0.label>Breeding Cobaya</GuineaPig.lifeStages.0.label>
+  <GuineaPig.lifeStages.0.labelPlural>Keturunan Cobaya</GuineaPig.lifeStages.0.labelPlural>
+  <GuineaPig.lifeStages.1.label>Cobaya muda</GuineaPig.lifeStages.1.label>
+  <GuineaPig.lifeStages.1.labelPlural>Babi Guinea Muda</GuineaPig.lifeStages.1.labelPlural>
+  <GuineaPig.lifeStages.2.label>Cobaya</GuineaPig.lifeStages.2.label>
+  <GuineaPig.lifeStages.2.labelPlural>Babi Guinea</GuineaPig.lifeStages.2.labelPlural>
+  
+  <!-- EN: husky -->
+  <Husky.label>serak</Husky.label>
+  <!-- EN: huskies -->
+  <Husky.labelPlural>Husky</Husky.labelPlural>
+  <!-- EN: husky puppy -->
+  <Husky.lifeStages.husky_puppy.label>Puppy Husky</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>Anak anjing serak</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.1.label>Husky muda</Husky.lifeStages.1.label>
+  <Husky.lifeStages.1.labelPlural>Huskies muda</Husky.lifeStages.1.labelPlural>
+  <Husky.lifeStages.2.label>serak</Husky.lifeStages.2.label>
+  <Husky.lifeStages.2.labelPlural>Husky</Husky.lifeStages.2.labelPlural>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>Labrador Retriever</LabradorRetriever.label>
+  <LabradorRetriever.labelPlural>Petani retriever</LabradorRetriever.labelPlural>
+  <!-- EN: labrador puppy -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>Gabbradour</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>Anjing Labrador</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.1.label>Labrador muda</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.1.labelPlural>Petani retriever muda</LabradorRetriever.lifeStages.1.labelPlural>
+  <LabradorRetriever.lifeStages.2.label>Labrador Retriever</LabradorRetriever.lifeStages.2.label>
+  <LabradorRetriever.lifeStages.2.labelPlural>Petani retriever</LabradorRetriever.lifeStages.2.labelPlural>
+  
+  <!-- EN: monkey -->
+  <Monkey.label>mono</Monkey.label>
+  <Monkey.labelFemale>mona</Monkey.labelFemale>
+  <Monkey.labelFemalePlural>monas</Monkey.labelFemalePlural>
+  <Monkey.labelMale>mono</Monkey.labelMale>
+  <Monkey.labelMalePlural>monyet</Monkey.labelMalePlural>
+  <Monkey.labelPlural>monyet</Monkey.labelPlural>
+  <Monkey.lifeStages.0.label>pembiakan monyet</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.0.labelFemale>Breeding Mona</Monkey.lifeStages.0.labelFemale>
+  <Monkey.lifeStages.0.labelFemalePlural>Mona Young</Monkey.lifeStages.0.labelFemalePlural>
+  <Monkey.lifeStages.0.labelPlural>Keturunan monyet</Monkey.lifeStages.0.labelPlural>
+  <Monkey.lifeStages.1.label>Monyet muda</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.1.labelFemale>gadis muda</Monkey.lifeStages.1.labelFemale>
+  <Monkey.lifeStages.1.labelFemalePlural>Muda imut</Monkey.lifeStages.1.labelFemalePlural>
+  <Monkey.lifeStages.1.labelMale>Monyet muda</Monkey.lifeStages.1.labelMale>
+  <Monkey.lifeStages.1.labelMalePlural>Monyet muda</Monkey.lifeStages.1.labelMalePlural>
+  <Monkey.lifeStages.1.labelPlural>Monyet muda</Monkey.lifeStages.1.labelPlural>
+  <Monkey.lifeStages.2.label>mono</Monkey.lifeStages.2.label>
+  <Monkey.lifeStages.2.labelFemale>mona</Monkey.lifeStages.2.labelFemale>
+  <Monkey.lifeStages.2.labelFemalePlural>monas</Monkey.lifeStages.2.labelFemalePlural>
+  <Monkey.lifeStages.2.labelMale>mono</Monkey.lifeStages.2.labelMale>
+  <Monkey.lifeStages.2.labelMalePlural>monyet</Monkey.lifeStages.2.labelMalePlural>
+  <Monkey.lifeStages.2.labelPlural>monyet</Monkey.lifeStages.2.labelPlural>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>Yorkshire Terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.labelPlural>Yorkshire Terrier</YorkshireTerrier.labelPlural>
+  <!-- EN: yorkshire terrier puppy -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>Anjing terrier</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>Anjing terrier</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.1.label>Yorkshire Terrier Young</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.1.labelPlural>Yorkshire Terrier Young</YorkshireTerrier.lifeStages.1.labelPlural>
+  <YorkshireTerrier.lifeStages.2.label>Yorkshire Terrier</YorkshireTerrier.lifeStages.2.label>
+  <YorkshireTerrier.lifeStages.2.labelPlural>Yorkshire Terrier</YorkshireTerrier.lifeStages.2.labelPlural>
+  
+</LanguageData>

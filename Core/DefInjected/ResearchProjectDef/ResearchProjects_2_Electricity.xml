@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>AC</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Bangun lemari es sehingga orang merasa nyaman di iklim hangat, atau membangun freezer untuk menyimpan produk yang mudah rusak.</AirConditioning.description>
+  <!-- EN:
+    <li>Subjek-> AC</li>
+    <li>subjek_story-> mengunjungi kota terpanas di planet ini</li>
+    <li>Subject_story-> Bekerja di Lapisan Es, di gudang antarbintang yang disimpan di dekat nol absolut</li>
+    <li>Subject_story-> belajar semua tentang AC dan freezer, lalu kembali ke rumah</li>
+    <li>Subject_gerund-> Membangun Unit Pendingin Udara</li>-><AirConditioning.generalRules.rulesStrings>
+    <li>Subjek-> Aire stoved</li>
+    <li>Subjek_def-> del aire dikemas</li>
+    <li>Subjek_story-> mengunjungi kota terpanas di planet ini</li>
+    <li>Subject_story-> bekerja di topi kutub, di gudang antarbintang yang diadakan di dekat nol absolut</li>
+    <li>Subject_story-> Dia belajar segalanya tentang AC dan freezer, lalu kembali ke rumah</li>
+    <li>Subjek gerund-> unit manufaktur unit aire yang dikemas</li>
+  </AirConditioning.generalRules.rulesStrings>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>Pintu otomatis</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Bangun pintu otomatis yang terbuka sendiri ketika seseorang mendekat, tanpa memperlambat siapa pun.</Autodoors.description>
+  <!-- EN:
+    <li>Subjek-> Autodoors</li>
+    <li>Subjek-> Pintu Otomatis</li>
+    <li>Subject_story-> direkrut oleh perusahaan keamanan robotika, membuka pintu menuju karier sebagai penguji otomatisasi</li>
+    <li>Subject_story-> Prototipe model autodoors unik</li>
+    <li>Subject_story-> bekerja sangat keras untuk memastikan pintu membuat 'desis' yang memuaskan saat mereka membuka atau menutup</li>
+    <li>Subject_gerund-> Membangun Autodoors</li>-><Autodoors.generalRules.rulesStrings>
+    <li>Subjek-> Pintu Otomatis</li>
+    <li>Subject_def-> dari pintu otomatis</li>
+    <li>Subject_story-> direkrut oleh perusahaan keamanan robot, membuka pintunya untuk berkarir sebagai evaluator otomatisasi</li>
+    <li>Subject_story-> Prototypted Unik Automatic Doors</li>
+    <li>Subject_story-> bekerja sangat keras untuk memastikan pintu mengeluarkan "SSH" yang memuaskan saat mereka membuka atau menutup</li>
+    <li>Subjek_gerund-> membangun pintu otomatis</li>
+  </Autodoors.generalRules.rulesStrings>
+  
+  <!-- EN: battery -->
+  <Batteries.label>baterai</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Bangun baterai untuk menyimpan listrik.</Batteries.description>
+  <!-- EN:
+    <li>Subjek-> Baterai</li>
+    <li>Subject_story-> menemukan bahwa danau asam di pantai yang dipimpin dari dunia kematian bekerja sebagai baterai alami</li>
+    <li>Subject_story-> bertugas mempertahankan dukungan hidup jika koloni kehilangan kekuatan</li>
+    <li>Subject_story-> Bekerja di ScrapWorlds, mesin perbaikan dan baterai</li>
+    <li>Subject_gerund-> baterai bangunan</li>-><Batteries.generalRules.rulesStrings>
+    <li>Subjek-> Baterai</li>
+    <li>Subject_def-> baterai</li>
+    <li>Subject_story-> menemukan bahwa danau asam di pantai timah dari dunia mati bekerja sebagai baterai alami</li>
+    <li>Subjek_story-> Saya bertugas mempertahankan dukungan hidup jika koloni kehilangan energi</li>
+    <li>Subject_story-> Bekerja di TPA Dunia, Perbaikan Mesin dan Baterai</li>
+    <li>Subject_gerund-> Bangun baterai</li>
+  </Batteries.generalRules.rulesStrings>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>kilang biofuel</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Bangun kilang untuk membuat biofuel dari bahan biologis seperti kayu atau makanan.</BiofuelRefining.description>
+  <!-- EN:
+    <li>Subjek-> Biofuel</li>
+    <li>Subject_story-> terperangkap ketika kapal generasi kehilangan daya.[Anypawn_pronoun] menggunakan pengetahuan [anypawn_possessive] tentang pemurnian untuk mengubah sisa -sisa manusia menjadi biofuel dan restart mesin</li>
+    <li>Subject_story-> Biorefineries otomatis yang digunakan untuk memulai proses terraforming yang panjang di dunia iceworld</li>
+    <li>Subject_story-> memulai penyulingan untuk membuat minuman keras tetapi, menyadari itu tidak dapat diterjemahkan, menjualnya sebagai chemfuel sebagai gantinya</li>
+    <li>Subject_gerund-> Refining Biofuel</li>-><BiofuelRefining.generalRules.rulesStrings>
+    <li>Subjek-> BioCombustable</li>
+    <li>Subject_def-> del BioCombustible</li>
+    <li>Subject_story-> ditangkap {Pawn_gender?O: A} Ketika kapal generasi kehilangan energi.Dia menggunakan pengetahuannya tentang pemurnian untuk mengubah sisa -sisa manusia menjadi biofuel dan memulai kembali mesin</li>
+    <li>Subject_story-> Biorephineries otomatis yang digunakan untuk memulai proses teraft panjang dunia yang dingin</li>
+    <li>Subjek_story-> memulai penyulingan untuk membuat minuman keras buatan sendiri, tetapi, menyadari bahwa itu tidak dapat dikonsumsi, itu menjualnya sebagai bahan bakar kimia sebagai gantinya</li>
+    <li>Subject_gerund-> Refine BioFusible</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>Meneliti drive</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Ini memproduksi senjata sederhana semi -otomatis dan otomatis, seperti senjata otomatis dan senapan mesin.</BlowbackOperation.description>
+  <!-- EN:
+    <li>Subjek-> Pistol</li>
+    <li>Subjek-> senjata api blowback</li>
+    <li>Subject_story-> Pistol mesin yang digunakan di parit pertarungan yang menyusul planet ini</li>
+    <li>Subject_story-> Autopistol Bertenaga Rendah ke Penegakan Hukum di Orbital</li>
+    <li>Subject_story-> Senjata yang dioperasikan oleh blowback yang dibuat untuk wajib militer yang nyaris</li>
+    <li>Subject_gerund-> Crafting Blowback Firearms</li>-><BlowbackOperation.generalRules.rulesStrings>
+    <li>Subjek-> Pistol</li>
+    <li>Subjek-> Senjata Retrocente</li>
+    <li>Subjek_def-> dari las pistolas</li>
+    <li>Subjek_def-> dari senjata mundur</li>
+    <li>Subject_story-> Bekas senjata otomatis dalam pertempuran parit yang merusak planet ini</li>
+    <li>Subject_story-> Jual Senjata Otomatis Low Power Otentik untuk Memesan Pasukan di Orbital</li>
+    <li>Subject_story-> PRSUSTASE Backward Guns for Myopia Recruits</li>
+    <li>Subjek gerund-> manufacture kemunduran senjata</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+  
+  <!-- EN: advanced lights -->
+  <ColoredLights.label>lampu lanjutan</ColoredLights.label>
+  <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
+  <ColoredLights.description>Ubah warna lampu listrik standar dan mengurangi konsumsi energinya hingga setengahnya.Ini tidak mempengaruhi lampu surya.</ColoredLights.description>
+  <!-- EN:
+    <li>Subjek-> Pencahayaan Lanjutan</li>
+    <li>Subject_story-> Terpasang lampu sorot di sekitar banyak perimeter keamanan dunia penjara</li>
+    <li>Subject_story-> Pastikan bahwa sisi gelap planet ini cukup terang</li>
+    <li>Subject_story-> pindah ke konser menjalankan untuk pengumuman antarbintang, yang berspesialisasi dalam mengendalikan rig pencahayaan besar kapal</li>
+    <li>subjek_gerund-> membangun lampu lanjutan</li>-><ColoredLights.generalRules.rulesStrings>
+    <li>Subjek-> Lampu Lanjutan</li>
+    <li>Subjek_def-> lampu lanjutan</li>
+    <li>Subject_story-> Lampu yang dipasang di sekitar banyak perimeter keamanan dari dunia penjara</li>
+    <li>Subjek_story-> memastikan bahwa sisi gelap planet ini diterangi dengan baik</li>
+    <li>Subject_story-> Dia mendedikasikan dirinya untuk menyelenggarakan konser untuk masalah interstellar, yang berspesialisasi dalam mengendalikan sistem pencahayaan nave besar</li>
+    <li>Subjek gerund-> membangun lampu lanjutan</li>
+  </ColoredLights.generalRules.rulesStrings>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>listrik</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Manfaatkan energi listrik untuk ratusan tugas yang berbeda.</Electricity.description>
+  <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
+  <Electricity.discoveredLetterText>Koloni Anda telah memanfaatkan kekuatan yang oleh orang luar disebut "listrik."Ini memiliki potensi untuk mengubah semua aspek cara hidup koloni Anda.Tab "Listrik" juga menunjukkan jaringan listrik yang menghubungkan generator dan perangkat listrik.</Electricity.discoveredLetterText>
+  <!-- EN: About: Electricity -->
+  <Electricity.discoveredLetterTitle>Tentang: Listrik</Electricity.discoveredLetterTitle>
+  <!-- EN:
+    <li>Subjek-> Listrik</li>
+    <li>Subject_story-> disambar petir dan bertekad untuk memanfaatkannya</li>
+    <li>Subject_story-> membuat generator pertama dan bola lampu di dunia abad pertengahan</li>
+    <li>Subject_story-> dieksekusi di dunia feodal untuk penistaan menciptakan cahaya</li>
+    <li>Subject_gerund-> Memanfaatkan Listrik</li>-><Electricity.generalRules.rulesStrings>
+    <li>Subjek-> Electricidad</li>
+    <li>Subjek_def-> dari listrik</li>
+    <li>Subject_story-> Dia menerima pengunduhan ray dan bersikeras untuk memanfaatkannya</li>
+    <li>Subject_story-> membuat generator pertama dan bohlam pertama di dunia abad pertengahan</li>
+    <li>Subjek_story-> dieksekusi di dunia feodal untuk penistaan menciptakan cahaya</li>
+    <li>Subjek_gerund-> manfaatkan listrik</li>
+  </Electricity.generalRules.rulesStrings>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>busa firewall</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Bangun Firewall, Perangkat Keselamatan Kebakaran Otomatis yang merambat Foast Foam sebagai respons terhadap api yang menyelimuti api.</Firefoam.description>
+  <!-- EN:
+    <li>Subjek-> Popper Firefoam</li>
+    <li>Subjek-> Perangkat Keselamatan Kebakaran</li>
+    <li>Subject_story-> memimpin agen yang mengumumkan keselamatan kebakaran untuk seluruh populasi</li>
+    <li>Subject_story-> menjadi petugas pemadam kebakaran</li>
+    <li>Subject_story-> diselamatkan oleh popper ketika api minyak berputar di luar kendali</li>
+    <li>Subject_gerund-> Membangun Popper Firefoam</li>
+    <li>Subject_gerund-> Menekan kebakaran dengan popper</li>-><Firefoam.generalRules.rulesStrings>
+    <li>Subjek-> Perangkat anti-modal busa</li>
+    <li>Subjek-> Perangkat Keselamatan Kebakaran</li>
+    <li>Subject_def-> perangkat anti-kapital busa</li>
+    <li>Subject_def-> Perangkat Keselamatan Kebakaran</li>
+    <li>Subjek cerita-> memimpin agen yang mempromosikan keamanan kebakaran untuk seluruh populasi</li>
+    <li>Subjek_story-> menjadi petugas pemadam kebakaran</li>
+    <li>Subject_story-> disimpan oleh busa firewall saat api oli di luar kendali</li>
+    <li>Subjek gerund-> manufaktur perangkat busa firewall</li>
+    <li>Subjek gerund-> Incendin padam melalui perangkat</li>
+  </Firefoam.generalRules.rulesStrings>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>Pakaian antibalas</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Buat pakaian dengan baju besi logam dijahit untuk menahan peluru dan ledakan.Armor yang sangat berat ini sedikit memperlambat gerakan.</FlakArmor.description>
+  <!-- EN:
+    <li>Subjek-> Armor Flak</li>
+    <li>Subject_story-> Supled Flak Armor ke milisi yang mengelola kota-kota</li>
+    <li>Subject_story-> belajar menjahit pelat logam menjadi pakaian, untuk melindungi kerabat dari geng yang keliling</li>
+    <li>Subject_story-> selamat dari peluru senapan berkat pelat logam yang dijahit ke dalam saku payudara</li>
+    <li>Subject_gerund-> Crafting Flak Armor</li>-><FlakArmor.generalRules.rulesStrings>
+    <li>Subjek-> Ropa Antibalas</li>
+    <li>subjek_def-> dari pakaian antibal</li>
+    <li>Subjek_story-> disediakan anti-tag ke milisi yang mengendalikan kota-kota</li>
+    <li>Subject_story-> Dia belajar menjahit piring logam dengan pakaian untuk melindungi kerabat geng yang berkeliaran</li>
+    <li>Subject_story-> selamat dari peluru senapan berkat pelat logam yang dijahit di saku dada</li>
+    <li>Subjek_gerund-> manufacture antibalas</li>
+  </FlakArmor.generalRules.rulesStrings>
+  
+  <!-- EN: foam turret -->
+  <FoamTurret.label>menara firewall</FoamTurret.label>
+  <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
+  <FoamTurret.description>Memproduksi menara yang dapat diaktifkan untuk menyemprotkan busa firewall.</FoamTurret.description>
+  <!-- EN:
+    <li>Subjek-> menara busa</li>
+    <li>Subjek-> Menara Penindasan Kebakaran</li>
+    <li>Subject_story-> Turret Gun yang Didesain ulang untuk memadamkan api, bukan membuatnya</li>
+    <li>Subject_story-> Sensor panas yang dimasukkan dan ejector busa ke dalam sasis menara standar</li>
+    <li>Subject_story-> dipuji setelah memasang menara busa murah di area publik dan menyelamatkan banyak nyawa</li>
+    <li>Subject_gerund-> Membangun Turret Pemadam Kebakaran</li>
+    <li>Subject_gerund-> Menekan api dengan menara</li>-><FoamTurret.generalRules.rulesStrings>
+    <li>Subjek-> Turret jendela</li>
+    <li>Subjek-> Menara Cortabinndos</li>
+    <li>Subject_def-> dari busa torretas</li>
+    <li>Subject_def-> dari menara penindasan kebakaran</li>
+    <li>Subject_story-> Turret balistik yang didesain ulang untuk memadamkan api, tidak memprovokasi mereka</li>
+    <li>Subject_story-> Sensor panas yang dimasukkan dan berbusa dalam sasis Torreth standar</li>
+    <li>Subject_story-> dipuji setelah memasang torretas busa ekonomi di area publik dan menyelamatkan banyak nyawa</li>
+    <li>Subject_gerund-> Bangun Torret Fire</li>
+    <li>Subjek gerund-> memadamkan api dengan menara</li>
+  </FoamTurret.generalRules.rulesStrings>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>penggerak gas</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Memproduksi senjata kekuatan tinggi seperti senapan otomatis, LMG dan SMG berat.</GasOperation.description>
+  <!-- EN:
+    <li>Subjek-> persenjataan berat</li>
+    <li>Subjek-> senjata api berdaya tinggi</li>
+    <li>Subject_story-> melengkapi regu senjata khusus penjaga tiran dengan senapan mesin ringan</li>
+    <li>Subject_story-> disediakan beberapa pasukan planet dengan senjata api berat</li>
+    <li>Subject_story-> Dirancang Jenis Senjata Daya Tinggi Baru, Masih Diketahui Saat Ini</li>
+    <li>Subject_gerund-> membuat senjata api berat</li>-><GasOperation.generalRules.rulesStrings>
+    <li>Subjek-> persenjataan berat</li>
+    <li>Subjek-> senjata api berdaya tinggi</li>
+    <li>Subject_def-> Del Heavy Weaponry</li>
+    <li>Subjek_def-> dari senjata api berdaya tinggi</li>
+    <li>Subject_story-> Dilengkapi dengan senapan mesin ringan ke regu senjata khusus dari Tyrian Guard</li>
+    <li>Subject_story-> disediakan senjata api berat ke beberapa pasukan planet</li>
+    <li>Subject_story-> Dirancang jenis senjata api berdaya tinggi yang masih diketahui saat ini</li>
+    <li>Subjek gerund-> memproduksi senjata api berat</li>
+  </GasOperation.generalRules.rulesStrings>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>Energi panas bumi</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Bangun pabrik panas bumi di geyser uap untuk pasokan listrik yang tidak terputus.</GeothermalPower.description>
+  <!-- EN:
+    <li>Subjek-> Kekuatan Panashermal</li>
+    <li>Subject_story-> mempelajari tenaga uap dan mapan tanaman panas bumi di seluruh wilayah</li>
+    <li>Subject_story-> mengetuk kekuatan gunung berapi yang tidak aktif untuk memberi daya pada jaringan lokal</li>
+    <li>Subject_story-> Berdebat dengan penduduk setempat yang ingin melestarikan geyser yang indah, bukan menggunakannya untuk kekuasaan</li>
+    <li>Subject_gerund-> mengetuk energi panas bumi</li>
+    <li>Subject_gerund-> membangun pembangkit listrik tenaga panas bumi</li>-><GeothermalPower.generalRules.rulesStrings>
+    <li>Subjek-> energi panas bumi</li>
+    <li>Subjek_def-> energi panas bumi</li>
+    <li>Subject_story-> mempelajari kekuatan uap dan mapan tanaman panas bumi di seluruh wilayah</li>
+    <li>Subject_story-> mengambil keuntungan dari energi gunung berapi yang tidak aktif untuk memberi makan jaringan lokal</li>
+    <li>Subject_story-> Dia berdebat dengan populasi lokal yang ingin melestarikan geyser yang indah, tidak menggunakannya untuk menghasilkan energi</li>
+    <li>Subjek gerund-> manfaatkan energi panas bumi</li>
+    <li>Subjek gerund-> membangun tanaman energi panas bumi</li>
+  </GeothermalPower.generalRules.rulesStrings>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>gudang senjata</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Memproduksi senjata sederhana yang dioperasikan secara manual seperti revolver, senapan, senapan baut dan pitcher pembakar.</Gunsmithing.description>
+  <!-- EN:
+    <li>Subjek-> senjata api sederhana</li>
+    <li>subjek_story-> membangun revolver 12-shot unik dan menang setelah tembak-menembak</li>
+    <li>Subject_story-> Khusus dalam Gunsmithing sederhana, menyediakan senapan dan senapan untuk pemburu</li>
+    <li>Subject_story-> Didirikan sebagai tukang senjata, mencapai ketenaran di seluruh sektor</li>
+    <li>Subject_gerund-> Gunsmithing</li>
+    <li>subjek_gerund-> membuat senjata api</li>-><Gunsmithing.generalRules.rulesStrings>
+    <li>Subjek-> senjata api sederhana</li>
+    <li>Subjek_def-> dari senjata api sederhana</li>
+    <li>Subject_story-> membangun revolver 12 tembakan unik dan memenangkan duel duel</li>
+    <li>Subject_story-> Khusus dalam gudang senjata sederhana, menyediakan senapan dan senapan pemburu</li>
+    <li>Subject_story-> didirikan sebagai senjata, mencapai ketenaran di seluruh sektor ini</li>
+    <li>Subjek gerund-> forge senjata api</li>
+    <li>Subjek gerund-> memproduksi senjata api</li>
+  </Gunsmithing.generalRules.rulesStrings>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>Torretas bersenjata</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Bangun menara bersenjata otomatis sederhana untuk mempertahankan koloni Anda.</GunTurrets.description>
+  <!-- EN:
+    <li>subjek-> menara senjata</li>
+    <li>Subject_story-> bekerja pada rutinitas AI, untuk memungkinkan menara senjata untuk mengidentifikasi teman dan musuh</li>
+    <li>Subject_story-> merancang sarung menara senjata modular, mampu mengambil jenis senjata apa pun</li>
+    <li>subjek_story-> menonaktifkan menara musuh dari jarak jauh, sebelum memimpin muatan</li>
+    <li>subjek_gerund-> Membangun menara senjata otomatis</li>-><GunTurrets.generalRules.rulesStrings>
+    <li>Subjek-> Menara Bersenjata</li>
+    <li>Subjek_def-> dari menara bersenjata</li>
+    <li>Subject_story-> bekerja dalam rutinitas kecerdasan buatan untuk memungkinkan menara bersenjata untuk membedakan teman musuh</li>
+    <li>Subject_story-> merancang dukungan modular untuk menara senjata, mampu menerima semua jenis senjata</li>
+    <li>Subject_story-> Turret musuh yang ditonaktifkan dari jarak jauh sebelum memimpin serangan</li>
+    <li>Subjek gerund-> membangun menara bersenjata otomatis</li>
+  </GunTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>Hidroponik</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Bangun wadah hidroponik untuk menanam tanaman di ruang tertutup.</Hydroponics.description>
+  <!-- EN:
+    <li>Subjek-> Hidroponik</li>
+    <li>subjek_story-> bergabung dengan kru kapal generasi sebagai spesialis tanaman mereka</li>
+    <li>Subject_story-> mendirikan fasilitas hidroponik untuk memberi makan yang lapar</li>
+    <li>Subjek_Story-> berkeliling, mengajarkan pertumbuhan tanaman buatan kepada penjajah baru</li>
+    <li>Subject_gerund-> Membangun Hidroponik</li>
+    <li>subjek_gerund-> tanaman yang tumbuh di dalam ruangan</li>-><Hydroponics.generalRules.rulesStrings>
+    <li>Subjek-> Hidroponi</li>
+    <li>Subject_def-> dari hidroponik</li>
+    <li>Subject_story-> bergabung dengan kru kapal generasi sebagai spesialis tanaman</li>
+    <li>Subject_story-> mendirikan instalasi hidroponik untuk memberi makan yang lapar</li>
+    <li>Subjek_Story-> bepergian mengajarkan pertumbuhan tanaman buatan ke pemukim baru</li>
+    <li>Subject_gerund-> Bangun wadah hidroponik</li>
+    <li>Subject_gerund-> menumbuhkan tanaman di dalam ruangan</li>
+  </Hydroponics.generalRules.rulesStrings>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>Artefak peledak yang melekat</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Bangun perangkap improvisasi dari segala jenis proyektil mortir.</IEDs.description>
+  <!-- EN:
+    <li>Subjek-> Perangkap Ledakan Improvisasi</li>
+    <li>Subject_story-> melucuti cangkang sisa perang, mengirimkannya ke garis depan baru sebagai tambang</li>
+    <li>Subject_story-> berada di bawah tembakan mortir, hanya bertahan dengan membuat perangkap dari banyak kerang musuh</li>
+    <li>Subject_story-> dianjurkan untuk hak-hak pemukiman kecil, di mana amunisi yang tidak meledak adalah bahaya yang konstan</li>
+    <li>Subject_gerund-> kerajinan perangkap ledakan improvisasi</li>-><IEDs.generalRules.rulesStrings>
+    <li>Subjek-> Tramp Ledakan Improvisasi</li>
+    <li>Subjek_def-> dari perangkap ledakan improvisasi</li>
+    <li>Subject_story-> membongkar proyektil perang yang tersisa, menjadikannya tambang untuk mengirimnya ke front baru</li>
+    <li>Subject_story-> diserang oleh mortir, hanya bertahan berkat pembuatan jebakan dengan banyak proyektil musuh yang gagal</li>
+    <li>Subject_story-> menganjurkan hak-hak pemukiman kecil, di mana amunisi yang tidak mudah dikenakan adalah bahaya yang konstan</li>
+    <li>Subject_gerund-> manufaktur tramp ledakan improvisasi</li>
+  </IEDs.generalRules.rulesStrings>
+  
+  <!-- EN: machining -->
+  <Machining.label>pemesinan</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>Bangun meja pemesinan untuk membuat senjata, granat, rompi anti peluru dan membongkar mecanoid mati untuk mendapatkan sumber daya.</Machining.description>
+  <!-- EN:
+    <li>subjek-> pemesinan</li>
+    <li>Subject_story-> Mengumpulkan sisa-sisa mekanoid mati dan merobek-robeknya untuk sumber daya</li>
+    <li>Subject_story-> diam-diam membangun gudang senjata buatan sendiri di ruang bawah tanah rumah pinggiran kota</li>
+    <li>Subject_story-> Tabel pemesinan yang dibangun untuk banyak tukang senjata, meskipun seorang pasifis</li>
+    <li>Subject_gerund-> peralatan pemesinan bangunan</li>
+    <li>subjek_gerund-> pemesinan</li>-><Machining.generalRules.rulesStrings>
+    <li>Subjek-> mesin</li>
+    <li>Subjek_def-> dari pemesinan</li>
+    <li>Subject_story-> Mengumpulkan sisa-sisa mechanoides mati dan membongkar mereka untuk mendapatkan sumber daya</li>
+    <li>Subject_story-> diam-diam membangun gudang senjata yang dibuat oleh dirinya sendiri di ruang bawah tanah rumah pinggiran kota</li>
+    <li>Subject_story-> Tabel pemesinan yang dibangun untuk banyak tukang senjata, meskipun seorang pasifis</li>
+    <li>Subject_gerund-> Build Machining Equipment</li>
+    <li>Subject_gerund-> mesin</li>
+  </Machining.generalRules.rulesStrings>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>mortir</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Bangun mortir untuk menembak proyektil jarak jauh, bahkan di atas dinding.</Mortars.description>
+  <!-- EN:
+    <li>Subjek-> Artileri</li>
+    <li>Subjek-> Mortir</li>
+    <li>subjek_story-> berperan penting dalam pengepungan rumah kaca yang menggulingkan dewan kota</li>
+    <li>Subject_story-> Mengembangkan tabung mortir yang dapat dilipat dan ringan untuk polisi setempat</li>
+    <li>Subject_story-> menghancurkan banyak bangunan terlantar dari kejauhan, dengan cangkang eksplosif</li>
+    <li>Subject_gerund-> membuat mortir</li>
+    <li>Subject_gerund-> Membangun Artileri Sederhana</li>-><Mortars.generalRules.rulesStrings>
+    <li>Subjek-> Artileri</li>
+    <li>Subjek-> MORTEROS</li>
+    <li>Subject_def-> dari artileri</li>
+    <li>Subjek_def-> dari mortir</li>
+    <li>Subject_story-> sangat mendasar dalam pengepungan rumah kaca yang menggulingkan dewan kota</li>
+    <li>Subject_story-> mengembangkan tabung lipat dan mortir ringan untuk polisi setempat</li>
+    <li>Subject_story-> dihancurkan banyak bangunan yang ditinggalkan dari jarak jauh dengan proyektil eksplosif</li>
+    <li>Subject_gerund-> manufacture mortir</li>
+    <li>Subject_gerund-> Bangun Artileri Sederhana</li>
+  </Mortars.generalRules.rulesStrings>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>Pasta Nutrisi</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Bangun dispenser pasta bergizi yang menghasilkan makanan secara efisien dari bahan baku, tanpa memerlukan tenaga kerja.</NutrientPaste.description>
+  <!-- EN:
+    <li>Subjek-> Pasta Nutrisi</li>
+    <li>Subject_story-> bekerja di kantin pabrik dan merancang pasta nutrisi sebagai cara untuk menghindari semua persalinan</li>
+    <li>Subject_story-> Lost [anypawn_possessive] Taste of Smell To Disease, Jadi dirancang dengan pasta nutrisi yang murah dan tidak beraroma</li>
+    <li>Subject_story-> dianjurkan untuk mendaur ulang semua bahan organik menjadi pasta nutrisi, bahkan mayat</li>
+    <li>Subject_gerund-> Membangun Dispenser Pasta Nutrisi</li>-><NutrientPaste.generalRules.rulesStrings>
+    <li>Subjek> Pasta Nutritive</li>
+    <li>Subject_def-> Adonan bergizi</li>
+    <li>Subject_story-> bekerja di ruang makan pabrik dan merancang pasta bergizi sebagai cara untuk menghindari semua pekerjaan</li>
+    <li>Subject_story-> kehilangan indera penciuman karena penyakit, jadi dia merancang pasta nutrisi yang murah dan tidak beraroma</li>
+    <li>Subject_story-> menganjurkan daur ulang semua bahan organik dalam pasta bergizi, bahkan mayat</li>
+    <li>Subjek gerund-> Bangun dispenser folder nutrisi</li>
+  </NutrientPaste.generalRules.rulesStrings>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>Jatah Kelangsungan Hidup</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Ini menghasilkan makanan bertahan hidup yang tidak pernah rusak.Bagus untuk bepergian.</PackagedSurvivalMeal.description>
+  <!-- EN:
+    <li>Subjek-> Makanan Survival yang dikemas</li>
+    <li>Subjek-> Makanan yang tidak mudah busuk</li>
+    <li>subjek_story-> tahu, ketika bencana melanda, ada cukup makanan kemasan untuk bertahan hidup sampai penyelamat tiba</li>
+    <li>Subject_story-> mendirikan dapur sosial, yang menyumbangkan makanan bertahan hidup untuk semua kapal yang keluar</li>
+    <li>Subject_story-> menemukan makanan bertahan hidup di pegunungan yang berusia ratusan tahun</li>
+    <li>Subject_gerund-> menyiapkan makanan bertahan hidup</li>-><PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>Subjek-> Jatah Kelangsungan Hidup yang Dikemas</li>
+    <li>Subjek-> Makanan yang tidak mudah busuk</li>
+    <li>Subjek_def-> ransum kelangsungan hidup</li>
+    <li>Subject_def-> dari makanan yang tidak mudah busuk</li>
+    <li>Subject_story-> tahu bahwa, ketika terjadi bencana, akan ada cukup makanan yang dikemas untuk bertahan hidup sampai penyelamat tiba</li>
+    <li>Subject_story-> mendirikan masakan komunitas yang menyumbangkan jatah kelangsungan hidup untuk semua kapal yang keluar</li>
+    <li>Subject_story-> menemukan jatah kelangsungan hidup di pegunungan yang telah berumur ratusan tahun</li>
+    <li>Subjek gerund-> persiapkan ransum kelangsungan hidup</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>prostesis</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Fabric Prostheses Murah Untuk Mengganti Tungkai yang Hilang.Ini membutuhkan dokter yang ahli untuk menanamkan.</Prosthetics.description>
+  <!-- EN:
+    <li>Subjek-> Prostesis</li>
+    <li>subjek_story-> memiliki anggota tubuh yang diganti dengan prostetik, untuk menunjukkan betapa mudahnya itu</li>
+    <li>Subject_story-> membuka klinik prosthetics</li>
+    <li>Subject_story-> Mulai membuat tungkai palsu yang dipesan lebih dahulu untuk banyak veteran perang di daerah tersebut</li>
+    <li>Subject_gerund-> Crafting Prosthetics</li>-><Prosthetics.generalRules.rulesStrings>
+    <li>Subjek-> Prostesis</li>
+    <li>Subjek_def-> dari prostesis</li>
+    <li>Subjek_story-> dibuat untuk menggantikan anggota tubuh dengan prostesis untuk menunjukkan betapa mudahnya itu</li>
+    <li>Subject_story-> membuka klinik prostesis</li>
+    <li>Subject_story-> mulai memproduksi anggota tubuh palsu biasa untuk banyak veteran perang di daerah tersebut</li>
+    <li>Subject_gerund-> manufaktur prostesis</li>
+  </Prosthetics.generalRules.rulesStrings>
+  
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>Sabuk asap</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>Bangun sabuk asap yang dapat memberikan tirai asap defensif saat pengguna dipecat.</SmokepopBelt.description>
+  <!-- EN:
+    <li>Subjek-> Smokescreen</li>
+    <li>Subject_story-> bekerja sebagai pengangkut untuk band, menggunakan smokepops untuk efek khusus</li>
+    <li>Subject_story-> mendirikan perimeter smokepop defensif di sekitar kota-kota setempat, untuk menjaga satwa liar kembali</li>
+    <li>Subject_story-> Paket Smokepop bekas untuk melatih petugas pemadam kebakaran baru, tanpa bahaya api yang sebenarnya</li>
+    <li>Subject_gerund-> Membangun Paket Smokepop</li>
+    <li>Subject_gerund-> Menyebarkan Smokescreens</li>-><SmokepopBelt.generalRules.rulesStrings>
+    <li>Subjek-> Tirai Manusia</li>
+    <li>Subjek_def-> dari tirai asap</li>
+    <li>Subject_story-> bekerja sebagai operator untuk band yang menggunakan sabuk asap untuk efek khusus</li>
+    <li>Subject_story-> mendirikan perimeter defensif perangkat asap di sekitar masyarakat setempat untuk menjaga fauna</li>
+    <li>Subject_story-> Sabuk asap bekas untuk melatih petugas pemadam kebakaran baru tanpa bahaya kebakaran nyata</li>
+    <li>Subjek gerund-> manufaktur sabuk asap</li>
+    <li>Subjek gerund-> tampilan tirai asap</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>Panel surya</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Bangun panel surya untuk menghasilkan listrik menggunakan sinar matahari.</SolarPanels.description>
+  <!-- EN:
+    <li>Subjek-> Panel Surya</li>
+    <li>Subjek-> Energi matahari</li>
+    <li>Subject_story-> mendirikan pertanian surya multi-spektrum</li>
+    <li>Subject_story-> mempelajari cara memaksimalkan persentase energi matahari yang ditangkap</li>
+    <li>Subject_story-> ditinggalkan di Sundiver untuk melihat fly-by of a star's fotosphere</li>
+    <li>subjek_gerund-> membangun panel surya</li>-><SolarPanels.generalRules.rulesStrings>
+    <li>Subjek-> Panel surya</li>
+    <li>Subjek-> Solar Energía</li>
+    <li>Subject_story-> mendirikan beberapa spektrum solar farm</li>
+    <li>Subject_story-> mempelajari cara untuk memaksimalkan persentase penangkapan energi matahari</li>
+    <li>Subjek_story-> ditinggalkan di kapal ruang surya untuk mengamati foto bintang</li>
+    <li>Subjek gerund-> membangun panel surya</li>
+  </SolarPanels.generalRules.rulesStrings>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>bahan steril</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Bangun ubin steril untuk membuat kamar bersih yang lebih aman dan efektif untuk perawatan medis, penelitian dan dapur.</SterileMaterials.description>
+  <!-- EN:
+    <li>Subjek-> Permukaan Steril</li>
+    <li>Subject_story-> mencegah banyak kematian dengan bersikeras sterilisasi semua peralatan yang efektif dan konsisten</li>
+    <li>subjek_story-> memulai dapur kibble yang, unik untuk sistem, diketahui bebas dari keracunan makanan</li>
+    <li>Subject_story-> mendirikan pabrik ubin dekoratif, dengan sampingan di peralatan medis dan ubin steril</li>
+    <li>Permukaan Subject_Gerund-> Sterilisasi</li>
+    <li>Subject_gerund-> Membangun permukaan yang disterilkan</li>-><SterileMaterials.generalRules.rulesStrings>
+    <li>Subjek-> Area Esterile</li>
+    <li>Subject_def-> permukaan steril</li>
+    <li>Subject_story-> Memperbaiki banyak kematian yang bersikeras sterilisasi yang efektif dan konsisten dari seluruh tim medis</li>
+    <li>Subject_story-> meluncurkan dapur pada saat yang unik dalam sistem, diketahui bahwa itu bebas dari keracunan makanan</li>
+    <li>Subject_story-> mendirikan pabrik ubin dekoratif dengan garis sekunder yang didedikasikan untuk peralatan medis steril dan ubin</li>
+    <li>Subjek gerund-> mensterilkan permukaan</li>
+    <li>Subjek gerund-> membangun permukaan steril</li>
+  </SterileMaterials.generalRules.rulesStrings>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>Televisi Cathode Ray</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Ini memungkinkan untuk memproduksi televisi Ray katoda untuk meningkatkan waktu luang.</TubeTelevision.description>
+  <!-- EN:
+    <li>Subjek-> Televisi Tube</li>
+    <li>Subject_story-> merancang set televisi faux-retro yang dapat mengambil sinyal antarbintang</li>
+    <li>Subject_story-> pindah ke penyiaran, memproduksi program hanya untuk televisi tabung kuno</li>
+    <li>subjek_story-> memastikan bahwa semua orang tahu bahaya tabung ray katoda</li>
+    <li>Subject_gerund-> memproduksi televisi tabung</li>-><TubeTelevision.generalRules.rulesStrings>
+    <li>Subjek-> Televisi Ray Katoda</li>
+    <li>Subject_def-> dari televisi ray katoda</li>
+    <li>Subject_story-> merancang televisi retro palsu yang dapat menangkap sinyal antarbintang</li>
+    <li>Subject_story-> didedikasikan untuk penyiaran, memproduksi program secara eksklusif untuk televisi Ray katoda lama</li>
+    <li>Subjek_story-> dia memastikan bahwa semua orang tahu bahaya sinar katoda</li>
+    <li>Subjek gerund-> memproduksi televisi ray katoda</li>
+  </TubeTelevision.generalRules.rulesStrings>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Pabrik air</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Bangun pabrik air di sungai untuk menghasilkan pasokan energi yang konstan.</WatermillGenerator.description>
+  <!-- EN:
+    <li>Subjek-> Generator Watermill</li>
+    <li>Subject_story-> Menonton ranting dan daun ditarik ke hilir dan membayangkan kekuatan di sana</li>
+    <li>Subject_story-> Kabel yang terhubung ke pabrik tepung kuno di dunia feodalworld</li>
+    <li>Subject_story-> memunculkan kapal uap dayung di pantai Ruinworld dan mengubahnya menjadi semangka</li>
+    <li>Subject_gerund-> Generator Watermill</li>-><WatermillGenerator.generalRules.rulesStrings>
+    <li>Subjek-> Molino Air</li>
+    <li>Subject_def-> dari pabrik air</li>
+    <li>Subjek_story-> mengamati bagaimana ranting dan daun diseret ke hilir dan melihat energi yang bisa diambil dari fenomena itu</li>
+    <li>Subject_story-> kabel yang terhubung ke pabrik tepung tua di dunia feodal</li>
+    <li>Subject_story-> menjalankan kapal uap di pantai dunia yang hancur dan menjadikannya pabrik air</li>
+    <li>Subject_gerund-> Bangun generator hidrolik</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+  
+</LanguageData>

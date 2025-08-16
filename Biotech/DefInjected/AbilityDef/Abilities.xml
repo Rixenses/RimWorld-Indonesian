@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid spray -->
+  <AcidSpray.label>Semprotan asam</AcidSpray.label>
+  <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
+  <AcidSpray.description>Semprotkan zat asam lengket dari kelenjar leher ke atas melalui mulut dan di seluruh area target.Asam akan menempel pada tujuan dan membakarnya dari waktu ke waktu.</AcidSpray.description>
+  
+  <!-- EN: animal warcall -->
+  <AnimalWarcall.label>Panggilan Perang Hewan</AnimalWarcall.label>
+  <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
+  <AnimalWarcall.description>Dengan cabang yang kuat dan koneksi psikis, hubungi binatang untuk melawan musuh Anda selama beberapa jam.</AnimalWarcall.description>
+  <!-- EN: warcall -->
+  <AnimalWarcall.verbProperties.label>Panggilan perang</AnimalWarcall.verbProperties.label>
+  <!-- EN: Choose an animal to call -->
+  <AnimalWarcall.verbProperties.mouseTargetingText>Pilih hewan yang Anda hubungi</AnimalWarcall.verbProperties.mouseTargetingText>
+  
+  <!-- EN: bloodfeed -->
+  <Bloodfeed.label>Pakan hemo</Bloodfeed.label>
+  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
+  <Bloodfeed.description>Ini menggigit target dan mengekstraksi hemogen langsung dari darahnya.Tujuannya akan kehilangan darah dan akan ngeri dengan interaksi, tetapi jika tidak, itu tidak akan terluka.Tindakan cepat koagulan akan menyegel luka untuk menghindari pendarahan. \ N \ nsolo dapat menyerang manusia non -hemogenik.Gain hemogen dipengaruhi oleh ukuran tubuh.</Bloodfeed.description>
+  
+  <!-- EN: coagulate -->
+  <Coagulate.label>menggumpal</Coagulate.label>
+  <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
+  <Coagulate.description>Gunakan kelenjar khusus pada boneka untuk dengan cepat menyembuhkan luka seseorang.</Coagulate.description>
+  
+  <!-- EN: fire burst -->
+  <FireBurst.label>Hembusan api</FireBurst.label>
+  <!-- EN: Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground. -->
+  <FireBurst.description>Ini memancarkan bulu api ke segala arah untuk membentuk genangan cairan di tanah.</FireBurst.description>
+  
+  <!-- EN: firefoam pop -->
+  <FirefoampopMech.label>Wabah busa busa</FirefoampopMech.label>
+  <!-- EN: Release a fire-retardant foam in a circular area. -->
+  <FirefoampopMech.description>Lepaskan busa yang diucapkan di area melingkar.</FirefoampopMech.description>
+  
+  <!-- EN: fire spew -->
+  <FireSpew.label>Ludah Api</FireSpew.label>
+  <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
+  <FireSpew.description>Itu meludahkan jet empedu lengket dan mudah terbakar di mulut.Empedu dapat membakar apa pun atau orang yang mengenai, dan juga dapat membentuk genangan api di tanah.</FireSpew.description>
+  
+  <!-- EN: foam spray -->
+  <FoamSpray.label>Meludah busa</FoamSpray.label>
+  <!-- EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
+  <FoamSpray.description>Busa Garm menaburkan busa dari kelenjar leher ke mulut.Busa akan menutupi area kecil dan memadamkan api yang menyentuh.</FoamSpray.description>
+  
+  <!-- EN: longjump -->
+  <Longjump.label>Lompat jauh</Longjump.label>
+  <!-- EN: Jump to a distant location using super-strong hemogen-powered legs. -->
+  <Longjump.description>Lompat ke tempat yang jauh menggunakan kaki superfuertes yang digerakkan oleh hemogen.</Longjump.description>
+  <!-- EN: jump -->
+  <Longjump.verbProperties.label>tumit</Longjump.verbProperties.label>
+  
+  <!-- EN: mech longjump -->
+  <LongjumpMech.label>Long Mecasalt</LongjumpMech.label>
+  <!-- EN: Jump to a distant location using special ultrafast mechanoid muscles. -->
+  <LongjumpMech.description>Ini melompat ke tempat yang jauh menggunakan otot mekanoid ultra -grap khusus.</LongjumpMech.description>
+  <!-- EN: jump -->
+  <LongjumpMech.verbProperties.label>tumit</LongjumpMech.verbProperties.label>
+  
+  <!-- EN: jump launcher -->
+  <LongjumpMechLauncher.label>platform tumit</LongjumpMechLauncher.label>
+  <!-- EN: Jump to a distant location using a built-in jump launcher. -->
+  <LongjumpMechLauncher.description>Lompat ke lokasi yang jauh menggunakan lompatan -dalam.</LongjumpMechLauncher.description>
+  <!-- EN: jump -->
+  <LongjumpMechLauncher.verbProperties.label>tumit</LongjumpMechLauncher.verbProperties.label>
+  
+  <!-- EN: piercing spine -->
+  <PiercingSpine.label>Perforasi tulang belakang</PiercingSpine.label>
+  <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
+  <PiercingSpine.description>Gunakan reaksi kimia hemogenik untuk meluncurkan tulang belakang tulang ke target.Tulang belakang keluar melalui kulit dengan membuka di antara klavikula.Mengingat metode peluncuran, sangat mudah untuk ditunjukkan.</PiercingSpine.description>
+  
+  <!-- EN: implant genes -->
+  <ReimplantXenogerm.label>Menerapkan gen</ReimplantXenogerm.label>
+  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
+  <ReimplantXenogerm.description>Implan Xenogene orang ini dalam subjek sukarela menggunakan organ injektor khusus.Jika gen orang ini saat ini tumbuh lagi, itu akan menerapkan xenogermen mereka dan mati dalam prosesnya.Gen garis kuman tidak akan terpengaruh.</ReimplantXenogerm.description>
+  
+  <!-- EN: resurrect -->
+  <Resurrect.label>menghidupkan kembali</Resurrect.label>
+  <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
+  <Resurrect.description>Gunakan Architas dalam aliran darah untuk menanamkan kehidupan baru ke tubuh tubuh, perbaikan struktur sel yang merosot dan menghidupkan kembali fungsi vital.Semakin tua dan lebih buruk melestarikan tubuh, semakin besar kemungkinan akan kembali dengan kehilangan memori atau masalah kesehatan.Kemampuan ini tampaknya menghabiskan arsitas dalam beberapa hal, sehingga hanya jarang digunakan.</Resurrect.description>
+  
+  <!-- EN: resurrect mech -->
+  <ResurrectionMech.label>Mekah Kebangkitan</ResurrectionMech.label>
+  <!-- EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
+  <ResurrectionMech.description>Itu membangkitkan kembali mecanoid yang baru dibunuh secara eksternal oleh proses yang ditelusuri sendiri secara eksternal.Mecanoid akan kembali dengan beberapa luka yang disembuhkan, tetapi tidak semua.</ResurrectionMech.description>
+  
+  <!-- EN: mech smokepop -->
+  <SmokepopMech.label>Asap Mecabomba</SmokepopMech.label>
+  <!-- EN: Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <SmokepopMech.description>Lepaskan asap terkompresi dari kisi -kisi ventilasi tersembunyi.Asap mengurangi keakuratan tembakan apa pun melalui itu dan mencegah menara dari pemblokiran sepenuhnya.</SmokepopMech.description>
+  
+</LanguageData>

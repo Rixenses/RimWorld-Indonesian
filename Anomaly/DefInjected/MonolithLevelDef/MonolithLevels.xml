@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The remnants of the monolith which linked our world to the void lie broken. The twisted patterns that once writhed across its surface are now motionless. You can study the broken stones to gain further knowledge of the void phenomena. -->
+  <Disrupted.monolithDescription>Sisa -sisa monolit yang menghubungkan dunia kita dengan kekosongan itu pecah.Pola bengkok yang pernah dipelintir di permukaannya sekarang tidak bergerak.Anda dapat mempelajari batu yang rusak untuk mengetahui lebih baik fenomena vakum.</Disrupted.monolithDescription>
+  <!-- EN: collapsed monolith -->
+  <Disrupted.monolithLabel>monolith yang pingsan</Disrupted.monolithLabel>
+  
+  <!-- EN: Level 4: Awakened -->
+  <Embraced.levelInspectText>Level 4: Bangun</Embraced.levelInspectText>
+  <!-- EN: void monolith -->
+  <Embraced.monolithLabel>Monolith Vakum</Embraced.monolithLabel>
+  
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <Gleaming.extraQuestDescription>Kekosongan telah terangsang.Pintunya terbuka.Kegelapan kekosongan diendapkan dalam realitas kita, dimanifestasikan dari pikiran besar yang tak terbatas.</Gleaming.extraQuestDescription>
+  <!-- EN: Level 4: Awakened -->
+  <Gleaming.levelInspectText>Level 4: Bangun</Gleaming.levelInspectText>
+  <!-- EN: void monolith -->
+  <Gleaming.monolithLabel>Monolith Vakum</Gleaming.monolithLabel>
+  
+  <!-- EN: investigate {0} -->
+  <Inactive.activateFloatMenuText>Selidiki {0}</Inactive.activateFloatMenuText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateGizmoDescription>Kirim pemukim untuk menyelidiki monolit.</Inactive.activateGizmoDescription>
+  <!-- EN: investigate -->
+  <Inactive.activateGizmoText>menyelidiki</Inactive.activateGizmoText>
+  <!-- EN: Send a colonist to investigate the monolith. -->
+  <Inactive.activateQuestText>Kirim pemukim untuk menyelidiki monolit.</Inactive.activateQuestText>
+  <!-- EN: Twisting lines carved into the surface form a disturbing pattern. -->
+  <Inactive.levelInspectText>Garis -garis terpelintir yang direkam pada permukaannya membentuk pola yang mengganggu.</Inactive.levelInspectText>
+  <!-- EN: Can be investigated now. -->
+  <Inactive.monolithCanBeActivatedText>Anda dapat menyelidiki sekarang.</Inactive.monolithCanBeActivatedText>
+  <!-- EN: fallen monolith -->
+  <Inactive.monolithLabel>monolith jatuh</Inactive.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to investigate the monolith. -->
+  <Inactive.pawnSentToActivateMessage>{Pawn_namedef} Apakah itu iri {Pawn_gender?O: A} untuk menyelidiki monolith.</Inactive.pawnSentToActivateMessage>
+  
+  <!-- EN: Attuning the monolith -->
+  <Stirring.activatableLetterLabel>Tune the Monolith</Stirring.activatableLetterLabel>
+  <!-- EN: You now have sufficient knowledge of void-related phenomena to attune the void monolith and further open its psychic conduit.\n\nThis will draw the attention of more dangerous anomalous entities. -->
+  <Stirring.activatableLetterText>Sekarang Anda memiliki pengetahuan yang cukup tentang fenomena terkait vakum untuk menyetel monolit kekosongan dan membuka saluran psikisnya. \ N \ nest akan menarik perhatian entitas anomali yang lebih berbahaya.</Stirring.activatableLetterText>
+  <!-- EN: As the monolith twisted and changed, {PAWN_nameDef} was overcome with a horrifying vision. In an instant, {PAWN_pronoun} understood.\n\nThe monolith is a doorway, just barely cracked open now. Something dark beyond imagination stirs on the other side, seeping into our reality.\n\nTerrified but excited, {PAWN_nameDef} is convinced {PAWN_pronoun} can learn more if given the time to study the monolith.\n\n - Building category unlocked: Anomaly\n - Research tab unlocked: Anomaly\n - Entity codex unlocked\n - You can now study the monolith and other entities to gain Anomaly research.\n\n(*Gray)Note: You can adjust the percentage of major threats that will be Anomaly-related at any point in the storyteller settings.(/Gray) -->
+  <Stirring.activatedLetterText>Sementara monolith memutar dan berubah, {Pawn_namedef} dirasakan diserang {Pawn_gender?O: A} untuk visi yang mengerikan.Dalam sekejap, dia mengerti segalanya. Monolito \ n \ nel adalah pintu, buka saja sekarang.Sesuatu yang gelap di luar imajinasi diaduk di sisi lain, menyaring realitas kita.Atau: A} tetapi bersemangat {Pawn_gender?O: a}, {pawn_namedef} meyakinkan {pawn_gender? O: A} yang dapat Anda pelajari lebih lanjut jika Anda diberi waktu untuk mempelajari monolit. Persentase ancaman utama yang akan terkait dengan anomali kapan saja dari konfigurasi narator (/abu -abu)</Stirring.activatedLetterText>
+  <!-- EN: attune {0} -->
+  <Stirring.activateFloatMenuText>tune {0}</Stirring.activateFloatMenuText>
+  <!-- EN: Send a colonist to attune the monolith.\n\nThis will attract new and more dangerous entities. -->
+  <Stirring.activateGizmoDescription>Kirim pemukim untuk menyetel monolit. \ N \ nsto akan menarik entitas baru dan lebih berbahaya.</Stirring.activateGizmoDescription>
+  <!-- EN: attune -->
+  <Stirring.activateGizmoText>lagu</Stirring.activateGizmoText>
+  <!-- EN: Send a colonist to attune the monolith. -->
+  <Stirring.activateQuestText>Kirim pemukim untuk menyetel monolit.</Stirring.activateQuestText>
+  <!-- EN: You've activated the monolith. It is a conduit for psychic energy, just barely cracked open now. A mind of incomprehensible horror stirs on the other side, and is now touching our world.\n\nThe monolith seems to be partly active, and there seems to be no way to shut it down. To learn more you must activate it further, which will require some special research. -->
+  <Stirring.extraQuestDescription>Anda telah mengaktifkan monolit.Ini adalah saluran energi psikis, nyaris tidak dibuka sekarang.Pikiran horor yang tidak dapat dipahami gelisah di sisi lain dan sekarang menyentuh dunia kita.Untuk mengetahui lebih banyak, Anda harus mengaktifkannya lebih banyak lagi, yang akan memerlukan penelitian khusus.</Stirring.extraQuestDescription>
+  <!-- EN: Level 1: Intermittent psychic humming -->
+  <Stirring.levelInspectText>Level 1: buzz psikis intermiten</Stirring.levelInspectText>
+  <!-- EN: Can be attuned now. -->
+  <Stirring.monolithCanBeActivatedText>Itu bisa disempurnakan sekarang.</Stirring.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Stirring.monolithLabel>Monolith Vakum</Stirring.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to attune the monolith. -->
+  <Stirring.pawnSentToActivateMessage>{Pawn_namedef} Apakah itu iri {Pawn_gender?O: A} untuk menyetel monolith.</Stirring.pawnSentToActivateMessage>
+  
+  <!-- EN: The sky darkens and a malevolent hum fills the air. The monolith has begun to awaken. Your actions have attracted the attention of something beyond human understanding.\n\nSoon, structures of the void will begin manifesting into this reality. Activate the arriving void structures to fully awaken the monolith.\n\nThe first wave will appear shortly. Prepare yourself. -->
+  <VoidAwakened.activatedLetterText>Langit menjadi gelap dan dengungan jahat memenuhi udara.Monolith sudah mulai bangun.Tindakannya telah menarik perhatian sesuatu yang lolos dari pemahaman manusia. \ N \ nPronto, struktur vakum akan mulai terwujud dalam kenyataan ini.Aktifkan struktur kekosongan yang tiba untuk membangkitkan monolith. \ N \ nla gelombang pertama akan segera muncul.Bersiap.</VoidAwakened.activatedLetterText>
+  <!-- EN: The void has awoken. The gate is open. The darkness of the void rushes into our reality, manifested from a vast mind of endless rage. -->
+  <VoidAwakened.extraQuestDescription>Kekosongan telah terangsang.Pintunya terbuka.Kegelapan kekosongan diendapkan dalam realitas kita, dimanifestasikan dari pikiran besar yang tak terbatas.</VoidAwakened.extraQuestDescription>
+  <!-- EN: Level 3: Awakening -->
+  <VoidAwakened.levelInspectText>Level 3: Bangun</VoidAwakened.levelInspectText>
+  <!-- EN: void monolith -->
+  <VoidAwakened.monolithLabel>Monolith Vakum</VoidAwakened.monolithLabel>
+  
+  <!-- EN: Awakening the monolith -->
+  <Waking.activatableLetterLabel>Membangkitkan monolith</Waking.activatableLetterLabel>
+  <!-- EN: You now have enough knowledge of dark phenomena to fully awaken the void monolith, opening a two-way conduit to the void.\n\nBe warned - once you begin awakening the void monolith, there is no going back. The process will shroud the region in unnatural darkness and manifest waves of horrifying entities.\n\nMake sure your colony is well-lit and well-prepared. -->
+  <Waking.activatableLetterText>Sekarang Anda memiliki cukup pengetahuan tentang fenomena gelap untuk benar -benar membangkitkan monolit kekosongan, membuka saluran dua arah dalam kekosongan.Proses ini akan membungkus wilayah dalam kegelapan yang tidak alami dan gelombang nyata dari entitas yang mengerikan.</Waking.activatableLetterText>
+  <!-- EN: Attuning the monolith caused it to twist and grow once more. As it did, {PAWN_nameDef} caught a glimpse of what lurks beyond. {PAWN_pronoun} understood.\n\nThe monolith is a doorway, opened wider by your actions. On the other side, {PAWN_nameDef} sensed an inhuman intelligence of vast complexity and endless rage. The dark machine god is stirring, and its physical influence will grow.\n\n - New entities are now discoverable. -->
+  <Waking.activatedLetterText>Saat menyetel monolit, ia berputar dan tumbuh sekali lagi.Dengan melakukan itu, {Pawn_Namedef} melihat sekilas apa yang lebih banyak menguntit.Itu dipahami \ n \ nel monolito adalah pintu yang telah dibuka dengan tindakan Anda.Di sisi lain, {Pawn_namedef} merasakan kecerdasan yang tidak manusiawi dengan kompleksitas yang luas dan kemarahan yang tak terbatas.Mesin gelap sedang dibangkitkan dan pengaruh fisiknya akan tumbuh. \ N \ n - Sekarang Anda dapat menemukan entitas baru.</Waking.activatedLetterText>
+  <!-- EN: awaken {0} -->
+  <Waking.activateFloatMenuText>Awakening {0}</Waking.activateFloatMenuText>
+  <!-- EN: Send a colonist to wake the monolith. The psychic signature will be detectable for hundreds of miles and attract all manner of horrors. Make sure you are prepared.\n\nOnce fully awakened, the monolith will provide a direct link to the void. -->
+  <Waking.activateGizmoDescription>Kirim pemukim untuk membangunkan monolit.Perusahaan psikis akan terdeteksi ratusan kilometer dan akan menarik semua jenis kengerian.Pastikan untuk dipersiapkan.</Waking.activateGizmoDescription>
+  <!-- EN: awaken -->
+  <Waking.activateGizmoText>bangun</Waking.activateGizmoText>
+  <!-- EN: Send a colonist to awaken the monolith. -->
+  <Waking.activateQuestText>Kirim pemukim untuk membangunkan monolit.</Waking.activateQuestText>
+  <!-- EN: The monolith is a conduit to the void where a dark superintelligence processes endless vast dreams of rage and hate. You opened the conduit and it is now partially active. If you activate it further you can find a way to close it - or harness its power. -->
+  <Waking.extraQuestDescription>Monolith adalah saluran vakum di mana sebuah superintelligensi gelap memproses impian yang tak ada habisnya tentang kemarahan dan kebencian.Anda telah membuka saluran dan sekarang sebagian aktif.Jika Anda lebih aktif lagi, Anda dapat menemukan cara untuk menutupnya ... atau memanfaatkan kekuatan Anda.</Waking.extraQuestDescription>
+  <!-- EN: Level 2: Pulsing with psychic energy -->
+  <Waking.levelInspectText>Level 2: Pulsasi Energi Psikis</Waking.levelInspectText>
+  <!-- EN: Can be awakened now. -->
+  <Waking.monolithCanBeActivatedText>Itu bisa bangun sekarang.</Waking.monolithCanBeActivatedText>
+  <!-- EN: void monolith -->
+  <Waking.monolithLabel>Monolith Vakum</Waking.monolithLabel>
+  <!-- EN: {PAWN_nameDef} has been sent to awaken the monolith. -->
+  <Waking.pawnSentToActivateMessage>{Pawn_namedef} Apakah itu iri {Pawn_gender?O: A} untuk membangunkan monolith.</Waking.pawnSentToActivateMessage>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <Fishing_Disapproved.label>tidak disetujui</Fishing_Disapproved.label>
+  <!-- EN: Fishing is gruesome. We should avoid it. -->
+  <Fishing_Disapproved.description>Memancing menakutkan.Kita harus menghindarinya.</Fishing_Disapproved.description>
+  <!-- EN: Someone slaughtered a fish -->
+  <Fishing_Disapproved.comps.1.description>Seseorang membunuh seekor ikan</Fishing_Disapproved.comps.1.description>
+  
+  <!-- EN: prohibited -->
+  <Fishing_Prohibited.label>terlarang</Fishing_Prohibited.label>
+  <!-- EN: Fishing is immoral. We should never do it. -->
+  <Fishing_Prohibited.description>Memancing tidak bermoral.Kita seharusnya tidak pernah melakukannya.</Fishing_Prohibited.description>
+  <!-- EN: Someone slaughtered fish -->
+  <Fishing_Prohibited.comps.1.description>Seseorang membunuh ikan</Fishing_Prohibited.comps.1.description>
+  <!-- EN: Slaughter fish -->
+  <Fishing_Prohibited.comps.2.description>Bunuh ikan</Fishing_Prohibited.comps.2.description>
+  
+  <!-- EN: sacred -->
+  <Fishing_Sacred.label>suci</Fishing_Sacred.label>
+  <!-- EN: Fishing is part of the right path. -->
+  <Fishing_Sacred.description>Memancing adalah bagian dari jalan yang benar.</Fishing_Sacred.description>
+  <!-- EN: Not enough fish -->
+  <Fishing_Sacred.comps.0.description>Tidak ada cukup ikan</Fishing_Sacred.comps.0.description>
+  
+</LanguageData>

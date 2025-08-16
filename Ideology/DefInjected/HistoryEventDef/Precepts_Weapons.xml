@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: victory with despised weapon -->
+  <KillWithDespisedWeapon.label>kemenangan dengan senjata tercela</KillWithDespisedWeapon.label>
+  
+  <!-- EN: victory with noble weapon -->
+  <KillWithNobleWeapon.label>Kemenangan dengan senjata mulia</KillWithNobleWeapon.label>
+  
+  <!-- EN: used despised weapon -->
+  <UsedDespisedWeapon.label>Menggunakan senjata tercela</UsedDespisedWeapon.label>
+  
+  <!-- EN: used noble weapon -->
+  <UsedNobleWeapon.label>Menggunakan Senjata Mulia</UsedNobleWeapon.label>
+  
+</LanguageData>

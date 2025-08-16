@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terminalhackedmessage-> terminal diretas.{Count} / [TerminalCount] Lengkap.</li>
+    <li>PRIMERSERCABLABLEDOFHACKINGDIALOGLABEL-> [penumpangsingularlural] tidak mampu peretasan.</li>
+    <li>PRIMERSERCABLABLEFHACKINGINGDIALOGTEXT-> SUBUTTLE UNTUK PENGETAHUAN '[ResolvedQuestName]' tidak memiliki penumpang yang mampu meretas.Anda harus mengirim setidaknya satu orang yang mampu meretas untuk menyelidiki kompleks kuno.</li>
+    <li>penumpangsingularorplural (colonistcount == 1)-> penumpang</li>
+    <li>penumpangsingularorplural (colonistcount> = 2)-> penumpang</li>-><AncientComplex_Mission.questContentRules.rulesStrings>
+    <li>TerminalHackedMessage-> Terminal Hackeada.{Count} / [terminalCount] completas.</li>
+    <li>penumpang yang dapat dipecahkan dariDialoglabel-> [penumpangsingularlural] [tidak mampu] de hackear.</li>
+    <li>Penumpang yang dapat dibawa kemackdialogtext-> The Ferry for Mission "[ResolvedQuestName]" tidak memiliki penumpang yang mampu meretas.Anda harus mengirim setidaknya satu orang yang mampu meretas untuk menyelidiki kompleks lama.</li>
+    <li>penumpangsingularorplural (colonistcount == 1)-> PASAJERO</li>
+    <li>PRIMERSINGULULORPLURAL (COLONISTCOUNT> = 2)-> Penumpang</li>
+    <li>tidak mampu (colonistcount == 1)-> incapaz</li>
+    <li>Tidak Mampu (ColonistCount> = 2)-> Daerah</li>
+  </AncientComplex_Mission.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>kompleks-> kompleks</li>
+    <li>kompleks-> senyawa</li>
+    <li>Instalasi Kompleks-></li>
+    <li>Kompleks-> struktur</li>
+    <li>Kompleks-> Konstruksi</li>
+    <li>Investigasi-> Investigasi</li>
+    <li>Investigasi-> Pemeriksaan</li>
+    <li>Investigasi-> Misi</li>
+    <li>Investigasi-> Penggalian</li>
+    <li>Investigasi-> Peretasan</li>-><AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+    <li>kompleks-> kompleks</li>
+    <li>Kompleks-> Enklosur</li>
+    <li>instalasi kompleks1-></li>
+    <li>kompleks1-> struktur</li>
+    <li>kompleks1-> konstruksi</li>
+    <li>Investigasi-> Penelitian</li>
+    <li>Investigasi-> Pembangunan</li>
+    <li>Investigasi-> Misi</li>
+    <li>Investigasi-> Penggalian</li>
+    <li>Penelitian-> Hackeos</li>
+  </AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> [asker_namedef], [asker_faction_leadertitle] dari [asker_faction_name], telah menemukan kompleks kuno jarak jauh.[asker_pronoun] percaya itu berisi informasi tentang peninggalan yang dikenal sebagai [Relic_name]. \ n \ n [asker_namedef] tidak dapat menyisihkan orang untuk memeriksanya, tetapi berharap Anda dapat membantu dengan memasok dengan tepat [kolonistcount] 'yang diketahui oleh musuh dan tidak ada yang diketahui oleh santai dan tidak diketahui oleh santai dan tidak ada yang disukai.[Enemyfaction_name]. \ n \ n [asker_pronoun] akan mengirim pesawat ulang -alik untuk menjemput penjajah Anda, membawa mereka ke kompleks, dan membawa mereka pulang sesudahnya.Mereka akan diberi makan dan cenderung untuk rute. \ N \ nonce Anda telah mendarat, Anda harus meretas semua terminal di kompleks di dalam [timeoutticks_duration].</li>
+    <li>Kolonistsingularorplural (ColonistCount == 1)-> Kolonist</li>
+    <li>Kolonistsingularorplural (ColonistCount> = 2)-> Kolonis</li>-><AncientComplex_Mission.questDescriptionRules.rulesStrings>
+    <li>Deskripsi pencarian-> [asker_namedef], [asker_faction_leadertitle] dari faksi [asker_faction_name], menemukan sebuah kompleks lama pada jarak yang jauh.Dia percaya bahwa itu berisi informasi tentang peninggalan yang dikenal sebagai [Relic_name]. [Asker_namedef], faksi [musuh .faction_name]. \ n \ n [asker_pronoun] akan mengirim feri untuk mengambil pemukim Anda, bawa mereka ke kompleks dan rumah nanti.Mereka akan diberi makan dan disajikan di jalan.</li>
+    <li>Kolonistsingularorplural (ColonistCount == 1)-> Colono</li>
+    <li>Kolonistsingularorplural (ColonistCount> = 2)-> Colonos</li>
+  </AncientComplex_Mission.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [MissionAdj] [kompleks] [Investigasi]</li>
+    <li>Misionadj-> tersembunyi</li>
+    <li>MissionAdj-> Terselubung</li>
+    <li>misionadj-> rahasia</li>-><AncientComplex_Mission.questNameRules.rulesStrings>
+    <li>QuestName-> [Complex] de [Investigasi] [MissionAdj]</li>
+    <li>QuestName-> [Complex1] DE [Investigasi] [MissionAdj1]</li>
+    <li>misionadj-> tersembunyi</li>
+    <li>misionadj-> Undercover</li>
+    <li>misionadj-> rahasia</li>
+    <li>misionadj1-> tersembunyi</li>
+    <li>MissionAdj1-> Terselubung</li>
+    <li>misionadj1-> rahasia</li>
+  </AncientComplex_Mission.questNameRules.rulesStrings>
+  
+</LanguageData>

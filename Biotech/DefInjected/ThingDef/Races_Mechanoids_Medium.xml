@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: legionary -->
+  <Mech_Legionary.label>legiun</Mech_Legionary.label>
+  <!-- EN: A combat support mechanoid with a wide-range bullet shield and mid-range needle gun. Designed to support other mechanoids, the legionary is vulnerable to anyone who can get inside its shield. -->
+  <Mech_Legionary.description>Mekanida pendukung tempur dengan perisai rentang tinggi dan senjata jarum berukuran sedang.Dirancang untuk mendukung mecanoids lainnya, legiun ini rentan terhadap siapa saja yang dapat memasuki perisai mereka.</Mech_Legionary.description>
+  <!-- EN: left fist -->
+  <Mech_Legionary.tools.left_fist.label>Tinju kiri</Mech_Legionary.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Legionary.tools.left_fist.labelNoLocation>tinju</Mech_Legionary.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Mech_Legionary.tools.right_fist.label>kepalan tangan kanan</Mech_Legionary.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Legionary.tools.right_fist.labelNoLocation>tinju</Mech_Legionary.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Legionary.tools.head.label>kepala</Mech_Legionary.tools.head.label>
+  
+  <!-- EN: scorcher -->
+  <Mech_Scorcher.label>flamingo</Mech_Scorcher.label>
+  <!-- EN: A close-approach war mechanoid that specializes in incendiary attacks. Its flame burst attack has little reach, but once it closes on a group of defenders it can ignite and disrupt them with blasts of searing flame. -->
+  <Mech_Scorcher.description>Perkiraan Perang Mecanoid yang berspesialisasi dalam serangan pembakar.Serangan serangan nyala api hanya memiliki sedikit jangkauan, tetapi begitu dia mendekati sekelompok pembela, dia dapat membakar dan mengganggu mereka dengan semburan api.</Mech_Scorcher.description>
+  <!-- EN: front left leg -->
+  <Mech_Scorcher.tools.front_left_leg.label>Depan kiri</Mech_Scorcher.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Scorcher.tools.front_left_leg.labelNoLocation>Pata</Mech_Scorcher.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Scorcher.tools.front_right_leg.label>Kaki depan kanan</Mech_Scorcher.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Scorcher.tools.front_right_leg.labelNoLocation>Pata</Mech_Scorcher.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Scorcher.tools.head.label>kepala</Mech_Scorcher.tools.head.label>
+  
+  <!-- EN: tesseron -->
+  <Mech_Tesseron.label>Teserón</Mech_Tesseron.label>
+  <!-- EN: A medium-range combat mechanoid. While it is fairly vulnerable to attacks, the tesseron's sweeping beam graser can pierce thick armor and even ignite shielded targets. -->
+  <Mech_Tesseron.description>Mecanoid tempur medium mecanoid.Meskipun cukup rentan terhadap serangan itu, konsentrator yang luar biasa dari testeron dapat melintasi baju besi tebal dan bahkan mengatur tujuan lapis baja.</Mech_Tesseron.description>
+  <!-- EN: left fist -->
+  <Mech_Tesseron.tools.left_fist.label>Tinju kiri</Mech_Tesseron.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Mech_Tesseron.tools.left_fist.labelNoLocation>tinju</Mech_Tesseron.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Mech_Tesseron.tools.right_fist.label>kepalan tangan kanan</Mech_Tesseron.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Mech_Tesseron.tools.right_fist.labelNoLocation>tinju</Mech_Tesseron.tools.right_fist.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Tesseron.tools.head.label>kepala</Mech_Tesseron.tools.head.label>
+  
+</LanguageData>

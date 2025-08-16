@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Penyelesaian terdekat, [Settlement_label], memiliki permintaan perdagangan khusus.Mereka ingin membeli: \ n \ n [diminta.</li>
+    <li>QualityInfo (diminta</li>
+    <li>QualityInfo-></li>
+    <li>TravelTime (cancaravan == true, prioritas = 1)-> Perkiraan waktu perjalanan adalah [EstimedTravelTime_Duration].</li>
+    <li>traveltime-></li>-><TradeRequest.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> A CLOS PENYENTUI, [Settlement_label], memiliki aplikasi komersial khusus.Mereka ingin membeli: \ n \ n [searah jarum jam] x [cotthad</li>
+    <li>QualityInfo (diminta.</li>
+    <li>TravelTime (cancaravan == true, prioritas = 1)-> Perkiraan waktu perjalanan adalah [EstimedRavelTime_Duration].</li>
+    <li>QualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Caravan ke [Settlement_label]</li>
+    <li>QuestName-> Perdagangan dengan [Settlement_label]</li>
+    <li>QuestName-> Jual ke [Settlement_label]</li>
+    <li>QuestName-> Persediaan untuk [Settlement_label]</li>
+    <li>QuestName-> A [Special] [perdagangan]</li>
+    <li>Khusus> Khusus</li>
+    <li>Khusus-> Unik</li>
+    <li>Khusus-> Non-tradisional</li>
+    <li>perdagangan-> perdagangan</li>
+    <li>Pertukaran-> pertukaran</li>
+    <li>Dagang-> Kesepakatan</li>
+    <li>Tawaran Trade-></li>-><TradeRequest.questNameRules.rulesStrings>
+    <li>QuestName-> Caravana A [Settlement_label]</li>
+    <li>QuestName-> Commerce dengan [Settlement_label]</li>
+    <li>QuestNname-> Ayo dengan [Settlement_label]</li>
+    <li>QuestName-> Persediaan untuk [Settlement_label]</li>
+    <li>QuestName-> [Perdagangan] [Spesial]</li>
+    <li>QuestName-> [trade_fem] [Special_FEM]</li>
+    <li>Khusus-> Especial</li>
+    <li>Special_Fem-> Especial</li>
+    <li>Khusus-> Single</li>
+    <li>Khusus_fem-> single</li>
+    <li>Khusus-> bukan tradisional</li>
+    <li>Khusus_fem-> di tradisional</li>
+    <li>Perdagangan-> perdagangan</li>
+    <li>Perdagangan-> pertukaran</li>
+    <li>Perdagangan-> perjanjian</li>
+    <li>Trade_fem-> tawaran</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Misi Gagal: [ResolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <!-- EN: [faction_name] became hostile to you. -->
+  <TradeRequest.LetterTextQuestFailed.slateRef>Faksi [felion_name] telah menjadi bermusuhan.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalfavorlabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Siapa yang harus diakreditasi dengan [asker_faction_royalfavorlabel] untuk mematuhi permintaan pertukaran?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  
+</LanguageData>

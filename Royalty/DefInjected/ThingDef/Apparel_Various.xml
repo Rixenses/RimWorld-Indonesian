@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <Apparel_ArmorCataphract.label>Serverarmadura CataFrracta</Apparel_ArmorCataphract.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorCataphract.description>Servoarmadura yang berat, dibangun untuk perlindungan maksimum dengan mengorbankan mobilitas.Pelat lembaran plastaas yang berat dengan pelapis ablatif menghentikan semua serangan kecuali yang paling diarahkan dan yang paling kuat. frontal saat tidak ada cara lain.</Apparel_ArmorCataphract.description>
+  
+  <!-- EN: phoenix armor -->
+  <Apparel_ArmorCataphractPhoenix.label>Phoenix Servoarmadura</Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
+  <Apparel_ArmorCataphractPhoenix.description>Varian dari servoarmadura Catafracta dengan penyembur api yang dipasang di bahu.Armor ini sedikit kurang protektif daripada layanan CataFract standar terhadap kerusakan normal, tetapi terutama llamas yang tahan.The Flamethrowers memiliki amunisi yang sangat terbatas dan harus diisi ulang setelah digunakan.Mereka dapat menyerap pukulan sambil bergerak ke bawah aula, mengisi kamar dengan api, dan keluar dari asap yang tidak terluka.</Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: incendiary -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>mudah terbakar</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_ArmorCataphractPhoenix.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch incendiary -->
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>Lanzaluela</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  
+  <!-- EN: prestige cataphract armor -->
+  <Apparel_ArmorCataphractPrestige.label>Servoramadura CataFractive yang bergengsi</Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorCataphractPrestige.description>Servoarmadura yang berat, dibangun untuk perlindungan maksimum dengan mengorbankan mobilitas.Pelat Plastiacero yang berat dengan pelapis ablatif menghentikan semua serangan kecuali yang paling diarahkan dan yang paling kuat. Soster neuro-mimetic mencegah berat besar dari imobilisasi sepenuhnya ke pembawa, tetapi jasnya masih cukup rumit.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorCataphractPrestige.description>
+  
+  <!-- EN: cataphract helmet -->
+  <Apparel_ArmorHelmetCataphract.label>CATAFRACT CASCO</Apparel_ArmorHelmetCataphract.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorHelmetCataphract.description>Helm berteknologi tinggi yang sangat lapis baja, ditutupi dengan cangkang undulasi Plastiacero dan sistem visualisasi tidak langsung untuk merasakan sudut non -frontal.Melindungi terhadap hampir semua serangan, kecuali pukulan yang paling kuat atau beruntung.</Apparel_ArmorHelmetCataphract.description>
+  
+  <!-- EN: prestige cataphract helmet -->
+  <Apparel_ArmorHelmetCataphractPrestige.label>Helm Cata -Fractor yang bergengsi</Apparel_ArmorHelmetCataphractPrestige.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetCataphractPrestige.description>Helm berteknologi tinggi yang sangat lapis baja, ditutupi dengan cangkang undulasi Plastiacero dan sistem visualisasi tidak langsung untuk merasakan sudut non -frontal.Melindungi hampir semua serangan, kecuali pukulan yang paling kuat atau beruntung.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorHelmetCataphractPrestige.description>
+  
+  <!-- EN: prestige recon helmet -->
+  <Apparel_ArmorHelmetReconPrestige.label>Penjelajah bergengsi</Apparel_ArmorHelmetReconPrestige.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetReconPrestige.description>Helm lapis baja tinggi dengan komputer terintegrasi dan plasiacero menggerakkan plak.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorHelmetReconPrestige.description>
+  
+  <!-- EN: locust armor -->
+  <Apparel_ArmorLocust.label>Lobster Servoarmadura</Apparel_ArmorLocust.label>
+  <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
+  <Apparel_ArmorLocust.description>Varian dari penjelajah yang melayani dengan roket propulsi terintegrasi untuk penerbangan pendek -range.Servor lobster sedikit kurang protektif daripada penyajian Explorer standar.Setiap lompatan mengkonsumsi ledakan bahan bakar, sehingga baju besi harus diisi ulang setelah beberapa penggunaan.Mereka biasanya menghindari penembakan statis, lebih suka langsung daripada benteng musuh dan bertarung bergandengan tangan.Mereka tidak baik -baik saja dalam pertahanan statis atau di barak terbatas, tetapi menonjol dalam operasi cakupan campuran atau dalam operasi retak kapal.</Apparel_ArmorLocust.description>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>Isi ulang lompat</Apparel_ArmorLocust.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_ArmorLocust.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.verbs.jump.label>melompat</Apparel_ArmorLocust.verbs.jump.label>
+  
+  <!-- EN: grenadier armor -->
+  <Apparel_ArmorMarineGrenadier.label>Servoaradura LG</Apparel_ArmorMarineGrenadier.label>
+  <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
+  <Apparel_ArmorMarineGrenadier.description>Varian dari servoarmadura standar dengan tombak bahu (LG) diintegrasikan ke dalam bahu.Armornya sedikit kurang protektif daripada servoarmadura standar. Peluncur hanya dapat berisi granat kuantitas terbatas dan harus diisi ulang setelah digunakan.Meskipun mereka tidak efektif dalam jangka panjang, grenadier dapat secara mengejutkan fana di ruang kecil.</Apparel_ArmorMarineGrenadier.description>
+  <!-- EN: grenade -->
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>Granada</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_ArmorMarineGrenadier.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch frag grenade -->
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>Granat fragmentasi</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  
+  <!-- EN: prestige marine helmet -->
+  <Apparel_ArmorMarineHelmetPrestige.label>Helm Lady Servoar yang bergengsi</Apparel_ArmorMarineHelmetPrestige.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarineHelmetPrestige.description>Helm lapis baja laut, dengan komputer terintegrasi dan undulasi Plastiacero.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorMarineHelmetPrestige.description>
+  
+  <!-- EN: prestige marine armor -->
+  <Apparel_ArmorMarinePrestige.label>Hamba bergengsi</Apparel_ArmorMarinePrestige.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarinePrestige.description>Servoarmadura.Piring gulung plastiacero yang dilaminasi sangat efektif untuk menghentikan serangan, dengan beberapa bagian yang rentan pada sendi.Robotika neuro-mimétia memungkinkan manusia untuk mendandani baju besi dan terus bergerak dengan mudah.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorMarinePrestige.description>
+  
+  <!-- EN: prestige recon armor -->
+  <Apparel_ArmorReconPrestige.label>Penjelajah bergengsi</Apparel_ArmorReconPrestige.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorReconPrestige.description>Setelan servoarmadura ringan, yang dirancang untuk memungkinkan gerakan cepat.Plasiacero yang ringan, pelat yang tumpang tindih menghambat serangan tanpa mengorbankan mobilitas, dan mesin neuro-mimetik dari bagian bawah memungkinkan manusia untuk berpakaian baju besi dan bergerak dengan mudah.Benang yang tertanam juga meningkatkan sensitivitas psikis pembawa.</Apparel_ArmorReconPrestige.description>
+  
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>Penampil lanjutan</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>Komputer yang membantu akurasi pengguna.Mendeteksi dan menganalisis musuh menggunakan sensor elektromagnetik dengan inframerah.Wizard menunjukkan solusi yang ditandatangani di retina pengguna.Itu tidak menawarkan perlindungan.</Apparel_Gunlink.description>
+  
+  <!-- EN: incendiary grenade -->
+  <Proj_GrenadePhoenixFire.label>granat pembakar</Proj_GrenadePhoenixFire.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadierGrenade.label>Granat fragmentasi</Proj_GrenadierGrenade.label>
+  
+</LanguageData>

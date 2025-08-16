@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabric -->
+  <Fabric.label>tekstil</Fabric.label>
+  <!-- EN: fabric -->
+  <Fabric.noun>tekstil</Fabric.noun>
+  
+  <!-- EN: leathery -->
+  <Leathery.label>Kulit</Leathery.label>
+  <!-- EN: leather -->
+  <Leathery.noun>kulit</Leathery.noun>
+  
+  <!-- EN: metallic -->
+  <Metallic.label>Logam</Metallic.label>
+  <!-- EN: metal -->
+  <Metallic.noun>logam</Metallic.noun>
+  
+  <!-- EN: stony -->
+  <Stony.label>Piedras</Stony.label>
+  <!-- EN: stone -->
+  <Stony.noun>Piedra</Stony.noun>
+  
+  <!-- EN: woody -->
+  <Woody.label>kayu</Woody.label>
+  <!-- EN: wood -->
+  <Woody.noun>Madera</Woody.noun>
+  
+</LanguageData>

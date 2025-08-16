@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [faction_leader_namefull], [faction_leadertitle] dari [faction_name], telah mengirimi kami pesan.[faction_leader_pronoun] ingin berbicara dengan kami di lokasi terdekat. \ n \ nit bisa menjadi peluang besar untuk meningkatkan hubungan dengan faksi mereka dan menerima hadiah, tetapi waspadalah - negosiator yang buruk dapat menyebabkan lebih banyak kerugian daripada kebaikan dan bahkan membuat mereka marah. [ExtraleaderPart] [FavorrewardDetaDDetails]</li>
+    <li>favorrewardDetails (faction_leader_royalincurrentfaction == true, prioritas = 1)-> \ n \ nsuccessful Peace Talks dapat menghasilkan negosiator Anda sejumlah kecil pribadi [faction_royalfavorlabel] dengan [faction_name].</li>
+    <li>Mendukung detail hadiah></li>
+    <li>ExtraleAderPart (Prioritas = 1)-> \ n \ n [leaderroleeffect]. [LeaderPawnInfo]</li>
+    <li>Extraleader Part-></li>
+    <li>leaderroleeffect-> Faksi lain akan lebih menghormati Anda jika Anda mengirim pemimpin Anda untuk menangani negosiasi</li>
+    <li>leaderpawnInfo (playerfaction_hasleader == true, prioritas = 1)-> [playerfaction_leaderTitle] [playerfaction_leader_namefull] akan mendapatkan bonus untuk peluang hasil yang sukses.</li>
+    <li>leaderpawninfo-></li>-><OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>Quest Description-> [faction_leader_nameful], [faction_leadertitle] dari faksi [faction_name], telah mengirimi kami pesan.[Faction_leader_pronoun] ingin berbicara dengan kami di tempat terdekat.</li>
+    <li>PleasewardDetails (faction_leader_royalincurrentfaction == true, prioritas = 1)-> \ n \ nlas Percakapan perdamaian yang sukses dapat memenangkan negosiasi Anda sejumlah kecil [faksi_royalfavorlabel] dengan faksi [faksi_name].</li>
+    <li>Mendukung detail hadiah></li>
+    <li>Extraleader Part-></li>
+    <li>ExtraleAderPart (Prioritas = 1)-> \ n \ n [leaderroleeffect]. [LeaderPawnInfo]</li>
+    <li>Leaderroleeffect-> Faksi lain akan lebih menghormati Anda jika Anda mengirim pemimpin Anda untuk mengurus negosiasi</li>
+    <li>leaderPawnInfo (playerfaction_hasleader == true, prioritas = 1)-> [playerfaction_leaderTitle] [playerfaction_leader_namefulull] akan mendapatkan bonus untuk kemungkinan hasil yang sukses.</li>
+    <li>leaderpawninfo-></li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [faction_leader_namedef] [Peacetalks]</li>
+    <li>QuestName-> [Peacetalks] dengan [faction_leader_namedef]</li>
+    <li>QuestName-> [Peacetalks]</li>
+    <li>QuestName-> [Peacetalks]</li>
+    <li>Peacetalks-> pembicaraan damai</li>
+    <li>Peacetalks-> Diplomasi</li>
+    <li>Peacetalks-> rapat</li>-><OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>QuestName-> [peacetalks_mas] de [faction_leader_namedef]</li>
+    <li>QuestName-> [peacetalks_neu] con [faction_leader_namedef]</li>
+    <li>QuestName-> [peacetalks_fem]</li>
+    <li>QuestName-> LAS [peacetalks_pl]</li>
+    <li>QuestName-> [peacetalks_neu]</li>
+    <li>Peacetalks_mas-> Percakapan Damai</li>
+    <li>Peacetalks_neu-> Percakapan Damai</li>
+    <li>Peacetalks_pl-> Percakapan Damai</li>
+    <li>peacetalks_neu-> Diplomacia</li>
+    <li>Peacetalks_neu-> rapat</li>
+    <li>Peacetalks_fem-> Diplomacia</li>
+    <li>Peacetalks_fem-> rapat</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Tawaran percakapan damai dengan faksi [Felion_name] telah kedaluwarsa.Anda telah gagal misi [SecirvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>

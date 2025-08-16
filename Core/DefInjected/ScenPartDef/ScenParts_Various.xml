@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>Membuat insiden</CreateIncident.label>
+  
+  <!-- EN: create quest -->
+  <CreateQuest.label>Buat misi</CreateQuest.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>Nonaktifkan insiden</DisableIncident.label>
+  
+  <!-- EN: disable quest -->
+  <DisableQuest.label>Nonaktifkan misi</DisableQuest.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>Kondisi medis paksa</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>Fitur paksa</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>Senjata menghancurkan planet di jalan</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>Pengenalan Mulai Biaya</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>telanjang</Naked.label>
+  
+  <!-- EN: no possessions -->
+  <NoPossessions.label>Tanpa harta</NoPossessions.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>Karakter meledak saat sekarat</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>Diizinkan usia</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>Kondisi permainan permanen</PermanentGameCondition.label>
+  
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>Jenis Lapisan Planet</PlanetLayer.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>Nonaktifkan konstruksi</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>Tanpa berburu</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Anda tidak bisa berburu.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>Tanpa penambangan</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Anda tidak dapat merusak apapun.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>Tanpa domestikasi</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Anda tidak bisa menjinakkan hewan.</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Tanpa penanaman</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Anda tidak bisa menabur.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>membubarkan</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>Mulai Dekat</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>Sesuaikan tingkat kebutuhan</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>hewan awal</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>Penelitian awal</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>objek awal</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>Pengganda Faktor</StatFactor.label>
+  
+</LanguageData>

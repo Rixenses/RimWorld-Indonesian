@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bluebird -->
+  <Bluebird.label>ubin</Bluebird.label>
+  <!-- EN: A small songbird with vibrant blue plumage. -->
+  <Bluebird.description>Burung bernyanyi kecil dengan bulu biru yang semarak.</Bluebird.description>
+  <!-- EN: claws -->
+  <Bluebird.tools.claws.label>cakar</Bluebird.tools.claws.label>
+  <!-- EN: beak -->
+  <Bluebird.tools.beak.label>pico</Bluebird.tools.beak.label>
+  <!-- EN: head -->
+  <Bluebird.tools.head.label>kepala</Bluebird.tools.head.label>
+  
+  <!-- EN: crow -->
+  <Crow.label>Cuervo</Crow.label>
+  <!-- EN: Intelligent black birds with complex social structures. With a little patience, crows can be trained to perform a number of fairly complex tasks. -->
+  <Crow.description>Burung hitam cerdas dengan struktur sosial yang kompleks.Dengan sedikit kesabaran, gagak dapat dilatih untuk melakukan serangkaian tugas yang cukup kompleks.</Crow.description>
+  <!-- EN: claws -->
+  <Crow.tools.claws.label>cakar</Crow.tools.claws.label>
+  <!-- EN: beak -->
+  <Crow.tools.beak.label>pico</Crow.tools.beak.label>
+  <!-- EN: head -->
+  <Crow.tools.head.label>kepala</Crow.tools.head.label>
+  
+  <!-- EN: flamingo -->
+  <Flamingo.label>flamenco</Flamingo.label>
+  <!-- EN: A wading bird known for their vibrant pink plumage. Their long legs are well adapted to shallow waters. -->
+  <Flamingo.description>Burung Zancuda yang dikenal dengan bulu merah muda yang semarak.Kakinya yang panjang beradaptasi dengan baik ke perairan yang dangkal.</Flamingo.description>
+  <!-- EN: claws -->
+  <Flamingo.tools.claws.label>cakar</Flamingo.tools.claws.label>
+  <!-- EN: beak -->
+  <Flamingo.tools.beak.label>pico</Flamingo.tools.beak.label>
+  <!-- EN: head -->
+  <Flamingo.tools.head.label>kepala</Flamingo.tools.head.label>
+  
+  <!-- EN: heron -->
+  <Heron.label>Garza</Heron.label>
+  <!-- EN: Long-legged and long-necked birds. They tend to live in marshy habitats. -->
+  <Heron.description>Burung panjang dan leher panjang.Mereka cenderung tinggal di habitat berawa.</Heron.description>
+  <!-- EN: claws -->
+  <Heron.tools.claws.label>cakar</Heron.tools.claws.label>
+  <!-- EN: beak -->
+  <Heron.tools.beak.label>pico</Heron.tools.beak.label>
+  <!-- EN: head -->
+  <Heron.tools.head.label>kepala</Heron.tools.head.label>
+  
+  <!-- EN: macaw -->
+  <Macaw.label>Macaw</Macaw.label>
+  <!-- EN: A parrot known for its intelligence and its brilliant plumage. -->
+  <Macaw.description>Burung beo yang dikenal karena kecerdasannya dan bulu yang cerah.</Macaw.description>
+  <!-- EN: claws -->
+  <Macaw.tools.claws.label>cakar</Macaw.tools.claws.label>
+  <!-- EN: beak -->
+  <Macaw.tools.beak.label>pico</Macaw.tools.beak.label>
+  <!-- EN: head -->
+  <Macaw.tools.head.label>kepala</Macaw.tools.head.label>
+  
+  <!-- EN: peacock -->
+  <Peacock.label>kerajaan</Peacock.label>
+  <!-- EN: Large birds with extravagant plumage. Male peacocks use their tail feathers in elaborate courtship displays. -->
+  <Peacock.description>Burung -burung besar dengan bulu mewah.Kalkun nyata pria menggunakan bulu ekor mereka dalam pameran pacaran yang rumit.</Peacock.description>
+  <!-- EN: claws -->
+  <Peacock.tools.claws.label>cakar</Peacock.tools.claws.label>
+  <!-- EN: beak -->
+  <Peacock.tools.beak.label>pico</Peacock.tools.beak.label>
+  <!-- EN: head -->
+  <Peacock.tools.head.label>kepala</Peacock.tools.head.label>
+  
+  <!-- EN: penguin -->
+  <Penguin.label>penguin</Penguin.label>
+  <!-- EN: A flightless bird adept at surviving in cold regions. Their black and white plumage and waddling gait make them unmistakable. They are deadly hunters in the water, but slow and vulnerable on land. -->
+  <Penguin.description>Seekor burung yang tidak terbang, beradaptasi untuk bertahan hidup di daerah dingin.Bulu hitam dan putih mereka dan jalan mereka yang mengejutkan membuat mereka tidak salah lagi.Mereka adalah pemburu yang mematikan di dalam air, tetapi lambat dan rentan di darat.</Penguin.description>
+  <!-- EN: claws -->
+  <Penguin.tools.claws.label>cakar</Penguin.tools.claws.label>
+  <!-- EN: beak -->
+  <Penguin.tools.beak.label>pico</Penguin.tools.beak.label>
+  <!-- EN: head -->
+  <Penguin.tools.head.label>kepala</Penguin.tools.head.label>
+  
+  <!-- EN: quail -->
+  <Quail.label>burung puyuh</Quail.label>
+  <!-- EN: Small plump ground-dwelling birds with a distinctive plume. -->
+  <Quail.description>Burung montok kecil yang mendiami tanah dengan pena yang khas.</Quail.description>
+  <!-- EN: claws -->
+  <Quail.tools.claws.label>cakar</Quail.tools.claws.label>
+  <!-- EN: beak -->
+  <Quail.tools.beak.label>pico</Quail.tools.beak.label>
+  <!-- EN: head -->
+  <Quail.tools.head.label>kepala</Quail.tools.head.label>
+  
+  <!-- EN: sparrow -->
+  <Sparrow.label>burung gereja</Sparrow.label>
+  <!-- EN: Small birds that often travel in flocks. They can thrive in a variety of environments. -->
+  <Sparrow.description>Burung -burung kecil yang dikurung yang sering bepergian dengan kawanan.Mereka dapat makmur di berbagai lingkungan.</Sparrow.description>
+  <!-- EN: claws -->
+  <Sparrow.tools.claws.label>cakar</Sparrow.tools.claws.label>
+  <!-- EN: beak -->
+  <Sparrow.tools.beak.label>pico</Sparrow.tools.beak.label>
+  <!-- EN: head -->
+  <Sparrow.tools.head.label>kepala</Sparrow.tools.head.label>
+  
+  <!-- EN: swan -->
+  <Swan.label>angsa</Swan.label>
+  <!-- EN: Large graceful waterfowl known for their beauty, and their surprising ferocity. -->
+  <Swan.description>Burung avesatic besar anggun yang dikenal karena keindahan dan keganasannya yang mengejutkan.</Swan.description>
+  <!-- EN: claws -->
+  <Swan.tools.claws.label>cakar</Swan.tools.claws.label>
+  <!-- EN: beak -->
+  <Swan.tools.beak.label>pico</Swan.tools.beak.label>
+  <!-- EN: head -->
+  <Swan.tools.head.label>kepala</Swan.tools.head.label>
+  
+  <!-- EN: vulture -->
+  <Vulture.label>burung bangkai</Vulture.label>
+  <!-- EN: Scavengers with strong beaks and broad wings. Their strong stomach acid allows them to eat rotting corpses. -->
+  <Vulture.description>Pemulung dengan paku yang kuat dan sayap lebar.Asam lambung mereka yang kuat memungkinkan mereka untuk makan mayat dekomposisi.</Vulture.description>
+  <!-- EN: claws -->
+  <Vulture.tools.claws.label>cakar</Vulture.tools.claws.label>
+  <!-- EN: beak -->
+  <Vulture.tools.beak.label>pico</Vulture.tools.beak.label>
+  <!-- EN: head -->
+  <Vulture.tools.head.label>kepala</Vulture.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Seorang tahanan yang ditahan oleh [sitefaction_name] telah berhasil mencuri radio dan menghubungi Anda! \ n \ n [Tahanan_Namedef] ditahan di sebuah kamp dekat [MAP_DEFINITE] [UnderarmedGuard].Rescue [Prisoner_objective], dan [Prisoner_pronoun] akan bergabung dengan koloni Anda.[Prisoner_pronoun] adalah [tahanan_age] -tahun [tahanan_title].[Prisoner_pronoun] mengatakan bahwa [AllSitePartsDescriptionSExceptFirst] [formercolonistinfo] [Tengah -RelrelationInfo] \ n \ nif Anda melewatkan kesempatan ini, Anda mungkin tidak akan pernah mendengar dari [Prisoner_namedef] lagi.</li>
+    <li>formercolonistInfo (prioritas = 1)-> \ n \ n [Tahanan_Formerlycolonistinfo]</li>
+    <li>formercolonistinfo-></li>
+    <li>UnderarmedGuard (AllowViolentQuests == Benar, Prioritas = 1)-> Di Bawah Penjaga Bersenjata</li>
+    <li>Underarmedguard-></li>-><OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (Prisoner_gender! = Wanita)-> Seorang tahanan yang ditahan oleh faksi [Sitefaction_name] telah berhasil mencuri radio dan menelepon Anda!Selamatkan dan bergabunglah dengan koloni Anda.[penjara_pronoun] adalah [tahanan_titleindef] [tahanan_age] bertahun -tahun.Dia mengatakan bahwa [AllSiteparts deciptionSexceptFirst] [formercolonistinfo] [tahanan.</li>
+    <li>QuestDescription (Prisoner_gender == Wanita)-> Seorang tahanan yang ditahan oleh faksi [Sitefaction_name] telah berhasil mencuri radio dan menelepon Anda!Menyelamatkannya dan akan bergabung dengan koloni Anda.[penjara_pronoun] adalah [tahanan_titleindef] [tahanan_age] bertahun -tahun.Dia mengatakan bahwa [AllSiteparts deciptionSexceptFirst] [formercolonistinfo] [tahanan.</li>
+    <li>formercolonistInfo (prioritas = 1)-> \ n \ n [Tahanan_Formerlycolonistinfo]</li>
+    <li>formercolonistinfo-></li>
+    <li>Undarmedguard (allowiolentquest == true, prioritas = 1)-> dijaga oleh penjaga bersenjata</li>
+    <li>Underarmedguard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Keselamatan [Prisoner_Namedef]</li>
+    <li>QuestName-> Penyelamatan [Prisoner_Namedef]</li>
+    <li>QuestName-> [Prisoner_namedef]</li>
+    <li>QuestName-> Menyelamatkan [tahanan_namedef]</li>
+    <li>QuestName-> Saving [Prisoner_Namedef]</li>
+    <li>QuestName-> Breaking [Prisoner_namedef] keluar</li>-><OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>QuestName-> Keselamatan [Prisoner_Namedef]</li>
+    <li>QuestName-> Penyelamatan [Tahanan_Namedef]</li>
+    <li>QuestName-> The Escape of [Prisoner_Namedef]</li>
+    <li>QuestName-> Menyelamatkan [tahanan_namedef]</li>
+    <li>QuestName-> Saving [Prisoner_Namedef]</li>
+    <li>QuestName-> The Escape of [Prisoner_Namedef]</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  
+</LanguageData>

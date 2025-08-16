@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harbinger tree -->
+  <HarbingerTreeSpawn.label>pohon pertanda</HarbingerTreeSpawn.label>
+  <!-- EN: Harbinger tree sprout -->
+  <HarbingerTreeSpawn.letterLabel>wabah pohon Omen</HarbingerTreeSpawn.letterLabel>
+  <!-- EN: A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky. -->
+  <HarbingerTreeSpawn.letterText>Pohon pertanda telah tumbuh di dekatnya.Pohon -pohon rumit ini ditutupi dengan daging dan dapat memakan mayat dan daging mentah yang dekat.Jika mereka diberi makan dengan baik, hutan akan terus tumbuh.Mitos berakhir ketika Tuhan tanpa bentuk keluar dari air dan menghancurkan langit.</HarbingerTreeSpawn.letterText>
+  <!-- EN: Harbinger trees have sprouted nearby. These gnarled trees grow flesh-like coverings and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky. -->
+  <HarbingerTreeSpawn.letterTextPlural>Pohon pertanda telah tumbuh di dekatnya.Pohon -pohon rumit ini ditutupi dengan daging dan dapat memakan mayat dan daging mentah yang dekat.Jika mereka diberi makan dengan baik, hutan akan terus tumbuh.Mitos berakhir ketika Tuhan tanpa bentuk keluar dari air dan menghancurkan langit.</HarbingerTreeSpawn.letterTextPlural>
+  
+  <!-- EN: Strange signal -->
+  <MonolithMigration.label>Sinyal aneh</MonolithMigration.label>
+  <!-- EN: Strange signal -->
+  <MonolithMigration.letterLabel>Sinyal aneh</MonolithMigration.letterLabel>
+  <!-- EN: Your colonists feel a strange psychic signal. It's possible to respond to the signal, although it is unclear what will happen if you do. -->
+  <MonolithMigration.letterText>Pemukim Anda merasakan sinyal psikis yang aneh.Dimungkinkan untuk menanggapi sinyal, meskipun tidak jelas apa yang akan terjadi jika Anda melakukannya.</MonolithMigration.letterText>
+  
+  <!-- EN: ghoul transport pod crash -->
+  <RefugeePodCrash_Ghoul.label>Kapsul transpor necrophagous bintang</RefugeePodCrash_Ghoul.label>
+  
+  <!-- EN: void curiosity -->
+  <VoidCuriosity.label>Keingintahuan vakum</VoidCuriosity.label>
+  <!-- EN: Void curiosity -->
+  <VoidCuriosity.letterLabel>Keingintahuan vakum</VoidCuriosity.letterLabel>
+  
+</LanguageData>

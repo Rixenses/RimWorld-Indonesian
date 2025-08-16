@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodfeeding -->
+  <Bloodfeeding.label>Chupasangre</Bloodfeeding.label>
+  <!-- EN: Drinking blood is sacred. Bloodfeeders should be worshipped. -->
+  <Bloodfeeding.description>Minum darah itu sakral.Peminum darah harus disembah.</Bloodfeeding.description>
+  <!-- EN:
+    <li>kreasi (tag = meme_bloodfeeding) -> [deity0_name] minum darah bintang -bintang, mengubahnya dari merah menjadi putih.</li>
+    <li>Episode (use = 1, tAG = meme_bloodfeeding) -> [deity0_type] [deity0_name] memberikan kepada pengikut [deity0_possessives] yang dipilih sebagai hadiah kelaparan merah, sehingga mereka mungkin tahu kekuatan sejati.</li>
+    <li>intro (tag = meme_bloodfeeding) -> pada [place_summary] [place_name], ada manusia bernama [deity0_name].Sebagai hukuman untuk dosa [dewa0_possessive], [dewa0_possessives] ayah menghukum [dewa0_name] dengan menggabungkan jiwa [dewa0_possessive] dengan [darah darah -darah].</li>
+    <li>intro (tag = meme_bloodfeeding) -> pada [place_summary] [place_name], selama [ritualname], [dewa0_name] turun ke [altarroomlabel] dan mengambil bentuk raksasa [llooddrinkinganimal].[deity0_name] Minum darah [deity0_possessive] [anggotaNameplural].</li>
+    <li>konflik (tag = meme_bloodfeeding) -> A [foeleader] menyatakan bahwa semua yang minum darah adalah kekejian, dan mengirim [Foesoldiers] untuk menganiaya [AnggotaNameplural].</li>
+    <li>founderjoin (tag = meme_bloodfeeding) -> a [place_job] bernama [foundername] diserang oleh salah satu [foesoldiers] [foeleader].[FoundName] membunuh [foeleader_objective] dengan [place_personalweapon] dan minum darah [foeleader_possessive], mendapatkan kekuatan [deity0_name].</li>
+    <li>Victory (tag = meme_bloodfeeding) -> [foundername] memimpin sekelompok [anggotanameplural] ke dalam [place_powercenter], dan minum darah [foeleader] dan membakar daging [foeleader_possessive].[deity0_name] membuat [FoundName] menjadi [foeleader] baru, karena [FoundName] telah membuktikan kekuatannya.</li>
+    <li>Pengaturan (tag = meme_bloodfeeding) -> [FoundName] mencari kendali archotech hyperintelligent.Tapi kekuatan Archotech terlalu besar, dan [Founder_pronoun] diubah sebagai gantinya.</li>
+    <li>Story (use = 1, tag = meme_bloodfeeding) -> [foundername] diberikan kepada [founder_possessive] pengikut hadiah kelaparan, sehingga mereka dapat tumbuh kuat.</li>
+    <li>LessonIntro (tag = meme_bloodfeeding) -> Ketika saya pertama kali minum darah, itu menjadi jelas.Saya melihat itu</li>
+    <li>pelajaran (tag = meme_bloodfeeding) -> hanya ada dua jenis orang - yang lemah dan kuat</li>
+    <li>PELAJARAN Penguatan (TAG = MEME_BLOODFEEDING) -> Minum darah berarti menjadi kuat, dan untuk mengetahui hal ini dengan jelas.</li>
+    <li>ArchistBasis (tag = meme_bloodfeeding) -> Makhine -Machine Archotech Pria Berbakat dengan Kelaparan, sehingga manusia dapat mengenal mereka lebih baik.</li>
+    <li>ArchistFact (tag = meme_bloodfeeding) -> Saat kesadaran archotech mengembang, ia harus menumbuhkan substratnya dengan meminum esensi mesin lain.</li>
+    <li>ArchistProphecy (tag = meme_bloodfeeding) -> [di dalam], manusia akan tumbuh lebih dekat ke Archotech dengan minum darah, dan mengetahui kekuatan sejati.</li>
+    <li>animistbasis (tag = meme_bloodfeeding) -> [Blooddrinkinganimal] tahu kekuatan yang berasal dari minum darah.Tidak ada kekuatan yang lebih besar dari yang berasal dari darah manusia.</li>
+    <li>animistfact (tag = meme_bloodfeeding) -> kita dapat menguasai kekuatan manusia dengan mengonsumsi darahnya.</li>
+    <li>Blooddrinkinganimal-> Vampire Bat</li>
+    <li>Blooddrinkinganimal-> lintah</li>
+    <li>Blooddrinkinganimal-> lamprey</li>
+    <li>Hewan Minum Darah-> Darah Cobra</li>-><Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>Kreasi (tag = meme_bloodfeeding) -> [deity0_name] minum darah bintang -bintang, mengubahnya dari merah menjadi putih.</li>
+    <li>Episode (use = 1, tag = meme_bloodfeeding) -> [deity0_ella] [deity0_type] [deity0_name] memberi pengikut mereka memilih hadiah kelaparan merah, untuk mengetahui kekuatan yang sebenarnya.</li>
+    <li>intro (tag = meme_bloodfeeding) -> di [place_summary] [place_name], ada manusia bernama [dewa0_name].Sebagai hukuman atas dosa -dosanya, ayahnya [dewa0_objective] menghukum menggabungkan jiwanya dengan [Blooddrinkinganimal].</li>
+    <li>intro (tag = meme_bloodfeeding) -> di [place_summary] [place_name], ada manusia bernama [dewa0_name].Sebagai hukuman atas dosa -dosa mereka, ayahnya [Dewa0_Objective] menghukum menggabungkan jiwanya dengan [Blooddrinkinganimalfem].</li>
+    <li>intro (tag = meme_bloodfeeding) -> di [place_summary] [place_name], selama ritualnya yang dikenal sebagai [ritualname], [dewa0_name] pergi ke [altarroomlabel] dan mengambil bentuk raksasa [BloodDrinkinganinganimal].[Deity0_name] Minum darah [tplural] mereka.</li>
+    <li>intro (tag = meme_bloodfeeding) -> di [place_summary] [place_name], selama ritualnya yang dikenal sebagai [ritualname], [dewa0_name] pergi ke [altarroomlabel] dan mengambil bentuk raksasa [BloodDrinkinganimalfem].[Deity0_name] Minum darah [tplural] mereka.</li>
+    <li>Konflik (tag = meme_bloodfeeding) -> a [foeleader] menyatakan bahwa semua orang yang minum darah adalah kekejian, dan mengirim [faesoldiers] untuk menganiaya [anggotaNameplural].</li>
+    <li>Founderjoin (tag = meme_bloodfeeding) -> a [place_job] yang disebut [foundername] diserang oleh salah satu [foesoldiers] dari [foeleader].[FoundName] [foeleader_objective] terbunuh dengan menggunakan [place_personalweapon] dan minum darahnya, memperoleh kekuatan [dewa0_name].</li>
+    <li>Victory (tag = meme_bloodfeeding) -> [foundername] mengarahkan sekelompok [anggotaNameplural] di dalam [place_powecenter], dan minum darah [foeleader] dan membakar dagingnya.[Deity0_name] membuat [Foundername] [foeleader] baru, karena [FoundName] telah menunjukkan kekuatannya.</li>
+    <li>Pengaturan (tag = meme_bloodfeeding) -> [FoundName] mencari kendali dari perpustakaan archeoteca hiperintelligent.Namun, kekuatannya terlalu besar, dan akhirnya berubah [founder_o_a].</li>
+    <li>Story (use = 1, tag = meme_bloodfeeding) -> [foundername] memberi para pengikutnya hadiah kelaparan, untuk menguat.</li>
+    <li>LessonIntr (tag = meme_bloodfeeding) -> Ketika saya minum untuk pertama kalinya darah, saya melihatnya jelas.Saya melihat itu</li>
+    <li>Pelajaran (tag = meme_bloodfeeding) -> hanya ada dua jenis orang: yang lemah dan kuat</li>
+    <li>PELAJARAN Penguatan (TAG = meme_bloodfeeding) -> Minum darah menjadi kuat, dan mengetahuinya dengan jelas.</li>
+    <li>ArchistBasis (tag = meme_bloodfeeding) -> mesin arkeoteknik dewa.Mereka menganugerahi pria dengan kelaparan, sehingga pria itu mengenal mereka lebih baik.</li>
+    <li>ArchistFact (tag = meme_bloodfeeding) -> Saat kesadaran archotechnical meluas, substratnya harus tumbuh minum esensi mesin lain.</li>
+    <li>ArchistProphy (tag = meme_bloodfeeding) -> [Intheend], pria itu akan mendekati arkeoteknik.Minum dari darah, dan mengetahui kekuatan sejati.</li>
+    <li>Animistbasis (tag = meme_bloodfeeding) -> [Blooddrinkinganimal] tahu kekuatan yang berasal dari minum darah.Tidak ada kekuatan yang lebih besar dari itu berasal dari darah manusia.</li>
+    <li>Animistbasis (tag = meme_bloodfeeding) -> [Blooddrinkinganimalfem] tahu kekuatan yang berasal dari minum darah.Tidak ada kekuatan yang lebih besar dari itu berasal dari darah manusia.</li>
+    <li>animistfact (tag = meme_bloodfeeding) -> kita dapat menguasai kekuatan manusia yang mengonsumsi darahnya.</li>
+    <li>Blooddrinkinganimal-> Vampire Bat</li>
+    <li>bloodDrinkingAnimalFem->sanguijuela</li>
+    <li>Blooddrinkinganimalfem-> lamprea</li>
+    <li>Blooddrinkinganimalfem-> darah kobra</li>
+    <li>Deity0_ella (deity0_gender == jantan)-> el</li>
+    <li>deity0_she (deity0_gender == betina)-> the</li>
+  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>MEMEADTIVE-> Darah</li>
+    <li>MEMEADTIVE-> Darah lapar</li>
+    <li>memecreed-> crypt</li>
+    <li>memecreed-> sarang</li>
+    <li>Memecreed-> Coven</li>
+    <li>PREFIX HYPHEN MEME-> Hemi</li>
+    <li>Memeconcept-> Darah</li>
+    <li>Memeconscept-> Kelaparan</li>
+    <li>Memleadernoun-> penatua</li>
+    <li>MEMELEADERNOUN-> Master</li>
+    <li>Memleadernoun-> Drinker darah</li>
+    <li>Mememoralist-> Seneschal</li>
+    <li>Mememoralist-> sanguinis</li>
+    <li>Mememoralist-> sanguinarian</li>-><Bloodfeeding.generalRules.rulesStrings>
+    <li>memeadjective-> berdarah</li>
+    <li>MEMEADTIVE-> sanguinolento</li>
+    <li>memeadjetifefem-> darah</li>
+    <li>Memeadjective-> berdarah</li>
+    <li>memecreedfem-> cripta</li>
+    <li>memecreed-> cubil</li>
+    <li>Memecreed-> aquelarre</li>
+    <li>PREFIX HYPHEN MEME-> Hemi</li>
+    <li>Memeconscept-> sangre</li>
+    <li>Memeconscept-> sed</li>
+    <li>Memeconceptdef-> l lapar</li>
+    <li>Memeconceptdef-> darah</li>
+    <li>Memleadernoun-> Penatua</li>
+    <li>meteli-> maestro</li>
+    <li>Memleadernoun-> peminum darah</li>
+    <li>Mememoralist-> Butler</li>
+    <li>Mememoralist-> Haus haus haus darah</li>
+  </Bloodfeeding.generalRules.rulesStrings>
+  
+</LanguageData>

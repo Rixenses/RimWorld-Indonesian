@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Terkirim-> [penerima_namedef] telah menerima dan bergabung dengan komunitas [initiator_namedef].</li>-><Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+    <li>Sent-> [penerima_namedef] telah menerima dan telah bergabung dengan penyelesaian [initiator_namedef].</li>
+  </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terkirim-> [penerima_namedef] ditolak.</li>-><Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+    <li>Send-> [penerima_namedef] telah menolak tawaran tersebut.</li>
+  </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

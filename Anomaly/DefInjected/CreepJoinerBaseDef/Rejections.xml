@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <AggressiveRejection.label>agresif</AggressiveRejection.label>
+  <!-- EN: Upon being rejected, {PAWN_nameDef} flew into a murderous rage and began to attack! -->
+  <AggressiveRejection.letterDesc>Saat ditolak, {PAWN_nameDef} tersulut amarah membunuh dan mulai menyerang!</AggressiveRejection.letterDesc>
+  <!-- EN: {PAWN_nameDef} hostile -->
+  <AggressiveRejection.letterLabel>{Pawn_namedef} Hostile</AggressiveRejection.letterLabel>
+  
+  <!-- EN: departure -->
+  <Departure.label>kepergian</Departure.label>
+  <!-- EN: {PAWN_nameDef} is disappointed by the way that you have treated {PAWN_objective}. {PAWN_pronoun} has decided to leave. -->
+  <Departure.letterDesc>{Pawn_namedef} kecewa dengan cara Anda memperlakukan {Pawn_objective}.{Pawn_pronoun} memutuskan untuk pergi.</Departure.letterDesc>
+  <!-- EN: {PAWN_nameDef} departure -->
+  <Departure.letterLabel>kepergian {PAWN_nameDef}</Departure.letterLabel>
+  
+</LanguageData>

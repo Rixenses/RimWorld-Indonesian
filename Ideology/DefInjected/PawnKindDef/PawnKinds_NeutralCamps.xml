@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farmer -->
+  <Farmer.label>petani</Farmer.label>
+  
+  <!-- EN: hunter -->
+  <Hunter.label>pemburu</Hunter.label>
+  
+  <!-- EN: logger -->
+  <Logger.label>penebang</Logger.label>
+  
+  <!-- EN: miner -->
+  <Miner.label>buruh tambang</Miner.label>
+  
+  <!-- EN: farmer -->
+  <Tribal_Farmer.label>petani</Tribal_Farmer.label>
+  
+  <!-- EN: logger -->
+  <Tribal_Logger.label>penebang</Tribal_Logger.label>
+  
+  <!-- EN: miner -->
+  <Tribal_Miner.label>buruh tambang</Tribal_Miner.label>
+  
+</LanguageData>

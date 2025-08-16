@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: play -->
+  <BabyPlay.label>bermain</BabyPlay.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] membuat [penerima_namedef] [reaksi].</li>
+    <li>r_logentry-> [initiator_namedef] [interaksi] [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] bermain [babygame] dengan [penerima_namedef].</li>
+    <li>reaksi-> tawa</li>
+    <li>reaksi-> senyum</li>
+    <li>reaksi-> menggeliat dengan sukacita</li>
+    <li>reaksi-> tertawa</li>
+    <li>reaksi-> ngiler main-main</li>
+    <li>reaksi-> gurgle</li>
+    <li>reaksi-> menjerit</li>
+    <li>reaksi-> bersendawa</li>
+    <li>reaksi-> menatap daya tarik</li>
+    <li>interaksi-> senang</li>
+    <li>interaksi-> dimainkan</li>
+    <li>interaksi-> dihibur</li>
+    <li>interaksi-> terhibur</li>
+    <li>interaksi-> menggelitik</li>
+    <li>Interaksi-> Nuzzled</li>
+    <li>Interaksi-> Digigit</li>
+    <li>interaksi-> dipeluk</li>
+    <li>interaksi-> dilemparkan</li>
+    <li>interaksi-> bernyanyi untuk</li>
+    <li>interaksi-> menceritakan sebuah kisah</li>
+    <li>interaksi-> memainkan trik ajaib</li>
+    <li>babygame-> petak umpet</li>
+    <li>babygame-> peekaboo</li>
+    <li>babygame-> find-the-finger</li>
+    <li>babygame-> monyet-see-monkey-do</li>
+    <li>babygame-> show-and-tell</li>
+    <li>babygame-> boneka jari</li>-><BabyPlay.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] Hizo [reaksi] A [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] [interaksi] [penerima_namedef].</li>
+    <li>r_lotentry-> [initiator_namedef] bermain [babygame] dengan [penerima_namedef].</li>
+    <li>Reaksi-> Balbucear</li>
+    <li>reaksi-> senyum</li>
+    <li>reaksi-> untuk memelintir dengan sukacita</li>
+    <li>reaksi-> tertawa</li>
+    <li>Reaksi-> Babear bermain-main</li>
+    <li>reaksi-> menangis dengan tawa</li>
+    <li>reaksi-> chillar</li>
+    <li>reaksi-> eructar</li>
+    <li>reaksi-> tampilan dengan daya tarik</li>
+    <li>interaksi-> senang a</li>
+    <li>interaksi-> dimainkan</li>
+    <li>interaksi-> dihibur a</li>
+    <li>Interaksi-> Dirvitió a</li>
+    <li>interaksi-> menggelitik a</li>
+    <li>interaksi-> bergegas dengan</li>
+    <li>interaksi-> mengendus a</li>
+    <li>interaksi-> memeluk a</li>
+    <li>interaksi-> diluncurkan udara ke udara</li>
+    <li>interaksi-> cantó a</li>
+    <li>interaksi-> menceritakan sebuah kisah</li>
+    <li>interaksi-> membuat trik sulap</li>
+    <li>Babygame-> untuk bersembunyi dan mencari</li>
+    <li>Babygame-> ke cucú</li>
+    <li>Babygame-> untuk menemukan jari Anda</li>
+    <li>Babygame-> mono penampilan, mono membuat</li>
+    <li>Babygame-> untuk menunjukkan dan menghitung</li>
+    <li>Babygame-> to finger boneka</li>
+  </BabyPlay.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: animal lesson -->
+  <LessonAnimals.label>Pelajaran tentang Hewan</LessonAnimals.label>
+  <!-- EN:
+    <li>r_logentry (p = 4)-> [initiator_namedef] [Teach_Verb] Cara [animal_verb] [artikel_animal] ke [penerima_namedef].</li>
+    <li>artikel_animal-> Megasloth</li>
+    <li>artikel_animal-> megaspider</li>
+    <li>artikel_animal-> thrumbo</li>
+    <li>artikel_animal-> a boomrat</li>
+    <li>artikel_animal-> chinchilla</li>
+    <li>artikel_animal-> kelinci percobaan</li>
+    <li>artikel_animal-> a cobra</li>
+    <li>artikel_animal-> seorang emu</li>
+    <li>artikel_animal-> iguana</li>
+    <li>artikel_animal-> Raccoon</li>
+    <li>artikel_animal-> warg</li>
+    <li>artikel</li>
+    <li>artikel_animal-> tupai</li>
+    <li>artikel_animal-> muffalo</li>
+    <li>animal_verb-> jinak</li>
+    <li>animal_verb-> feed</li>
+    <li>animal_verb-> tenang</li>
+    <li>Animal_Verb-> Spook</li>
+    <li>animal_verb-> dapatkan kepercayaan</li>
+    <li>Subjek-> Psikologi Hewan</li>
+    <li>Subjek-> Teknik penjinakan</li>
+    <li>Subjek-> Satwa Liar Berbahaya</li>
+    <li>Subjek-> Reptil</li>
+    <li>Subjek-> Scaria</li>
+    <li>subjek-> kibble</li>-><LessonAnimals.logRulesInitiator.rulesStrings>
+    <li>r_logentry (p = 4)-> [initiator_namedef] [Teach_Verb] cómo [animal_verb] [artikel_animal] a [penerima_namedef].</li>
+    <li>Artikel_animal-> megaperezoso</li>
+    <li>Artikel_animal-> a megarana</li>
+    <li>Artikel_animal-> un trumbo</li>
+    <li>Artikel_animal-> ratabum</li>
+    <li>Artikel_animal-> chinchilla</li>
+    <li>Artikel_animal-> a cobaya</li>
+    <li>Artikel_animal-> a cobra</li>
+    <li>artikel_animal-> seorang emu</li>
+    <li>Artikel_animal-> iguana</li>
+    <li>Article_animal-> A mapache</li>
+    <li>artikel_animal-> wargo un</li>
+    <li>artikel_animal-> yak</li>
+    <li>Artikel_animal-> tupai</li>
+    <li>Artikel_animal-> a mupfalo</li>
+    <li>Animal_verb-> penilaian</li>
+    <li>Animal_Verb-> Makanan</li>
+    <li>animal_verb-> tenang</li>
+    <li>Animal_Verb-> ketakutan</li>
+    <li>animal_verb-> dapatkan kepercayaan diri</li>
+    <li>Subjek-> Psikologi Hewan</li>
+    <li>Subjek-> Teknik DOMA</li>
+    <li>Subjek-> Fauna Peligrosa</li>
+    <li>Subjek-> Reptil</li>
+    <li>Subjek-> Skala</li>
+    <li>Subjek-> Pienso</li>
+  </LessonAnimals.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: art lesson -->
+  <LessonArtistic.label>Pelajaran Seni</LessonArtistic.label>
+  <!-- EN:
+    <li>artikel_tool-> kuas cat</li>
+    <li>artikel_tool-> pensil arang</li>
+    <li>artikel_tool-> pahat</li>
+    <li>artikel_tool-> kanvas</li>
+    <li>artikel_tool-> benjolan tanah liat</li>
+    <li>aksi-> buat karya seni dengan</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>aksi-> mengungkapkan diri sendiri dengan</li>
+    <li>action_gerund-> membuat seni dengan</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>action_gerund-> mengekspresikan diri sendiri</li>
+    <li>Subjek-> Bahan Patung</li>
+    <li>Subjek-> Artis Terkenal</li>
+    <li>Subjek-> Lukisan Terkenal</li>
+    <li>Subjek-> Galeri GlitterWorld</li>
+    <li>Subjek-> Potret</li>
+    <li>Subjek-> Seni Abstrak</li>
+    <li>Subjek-> Campuran Cat</li>-><LessonArtistic.logRulesInitiator.rulesStrings>
+    <li>artikel_tool-> un Pincel</li>
+    <li>Artikel_tool-> pensil karbon</li>
+    <li>artikel_tool-> un cincel</li>
+    <li>artikel_tool-> un lienzo</li>
+    <li>Artikel_tool-> sepotong tanah liat</li>
+    <li>aksi-> buat karya seni dengan</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Tindakan-> Ekspresikan Diri Anda</li>
+    <li>Action_gerund-> membuat seni dengan</li>
+    <li>Action_gerund-> usando</li>
+    <li>Action_gerund-> mengekspresikan dengan</li>
+    <li>Subjek-> Bahan untuk Patung</li>
+    <li>Subjek-> Artis Terkenal</li>
+    <li>Subjek-> Lukisan Terkenal</li>
+    <li>Subjek-> Galeri Mundobrillante</li>
+    <li>Subjek-> Potret</li>
+    <li>Subjek-> Seni Abstrak</li>
+    <li>Subjek-> Campuran lukisan</li>
+  </LessonArtistic.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: construction lesson -->
+  <LessonConstruction.label>Pelajaran Konstruksi</LessonConstruction.label>
+  <!-- EN:
+    <li>artikel_tool-> palu</li>
+    <li>Article_tool-> Sebuah meja gergaji</li>
+    <li>artikel_tool-> seorang penguasa</li>
+    <li>artikel_tool-> tangga</li>
+    <li>artikel_tool-> level</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>action_gerund-> inspecting</li>
+    <li>Subjek-> Arsitektur</li>
+    <li>Subjek-> Teknik Konstruksi</li>
+    <li>Subjek-> Teknik Dekonstruksi</li>
+    <li>Subjek-> Bahan Bangunan</li>
+    <li>Subjek-> Perangkat Lunak Pemodelan</li>
+    <li>Subjek-> Cetak Biru</li>-><LessonConstruction.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> palu</li>
+    <li>Artikel_tool-> tabel Sierra</li>
+    <li>Artikel_tool-> aturan</li>
+    <li>Artikel_tool-> tangga</li>
+    <li>Artikel_tool-> a nivel</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund->usando</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>Action_gerund-> inspecting</li>
+    <li>Subjek-> Arsitektur</li>
+    <li>Subjek-> Teknik Konstruksi</li>
+    <li>Subjek-> Teknik Dekonstruksi</li>
+    <li>Subjek-> Bahan Konstruksi</li>
+    <li>Subjek-> Perangkat lunak yang dimodelkan</li>
+    <li>Subjek-> Anteproyectos</li>
+  </LessonConstruction.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: cooking lesson -->
+  <LessonCooking.label>Pelajaran Dapur</LessonCooking.label>
+  <!-- EN:
+    <li>artikel_tool-> kompor</li>
+    <li>artikel_tool-> spatula</li>
+    <li>artikel_tool-> oven</li>
+    <li>Article_tool-> SancePan</li>
+    <li>artikel_tool-> dispenser pasta nutrisi</li>
+    <li>Article_tool-> tabel daging</li>
+    <li>aksi-> bersih</li>
+    <li>aksi-> masak dengan</li>
+    <li>action_gerund-> cleaning</li>
+    <li>Action_gerund-> Memasak dengan</li>
+    <li>subjek-> rempah-rempah</li>
+    <li>Subjek-> Makanan Survival yang dikemas</li>
+    <li>Subjek-> Varietas Telur</li>
+    <li>Subjek-> Varietas Daging</li>
+    <li>subjek-> rasa</li>
+    <li>Subjek-> Resep</li>
+    <li>Situasi-> Saat karavan</li>
+    <li>Situasi-> ditutup matanya</li>
+    <li>situasi-> terburu-buru</li>
+    <li>situasi-> dengan aman</li>-><LessonCooking.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> dapur</li>
+    <li>Artikel_tool-> spatula</li>
+    <li>Artikel_tool-> oven</li>
+    <li>Article_tool-> SancePan</li>
+    <li>Artikel_tool-> dispenser pasta bergizi</li>
+    <li>Artikel_tool-> tabel daging</li>
+    <li>Aksi-> bersih</li>
+    <li>aksi-> masak dengan</li>
+    <li>Action_gerund-> cleaning</li>
+    <li>Action_gerund-> Memasak dengan</li>
+    <li>Subjek-> Spesial</li>
+    <li>Subjek-> Makanan Pengawas</li>
+    <li>Subjek-> Varietas Telur</li>
+    <li>Subjek-> Varietas Daging</li>
+    <li>Subjek-> rasa</li>
+    <li>Subjek-> Recetas</li>
+    <li>Situasi-> Di karavan</li>
+    <li>Situasi-> dengan bandado</li>
+    <li>DePurast</li>
+    <li>Situasi-> Keamanan</li>
+  </LessonCooking.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: crafting lesson -->
+  <LessonCrafting.label>pelajaran manufaktur</LessonCrafting.label>
+  <!-- EN:
+    <li>artikel_tool-> Obeng</li>
+    <li>artikel_tool-> sepasang tang</li>
+    <li>artikel_tool-> papan sirkuit</li>
+    <li>artikel_tool-> bangku penjahit</li>
+    <li>artikel_tool-> tabel pemesinan</li>
+    <li>artikel_tool-> perakit</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>action_gerund-> inspecting</li>
+    <li>Subjek-> Alat Pengorganisasian</li>
+    <li>Subjek-> pencapaian yang mengutak-atik</li>
+    <li>Subjek-> Gadget</li>
+    <li>Subjek-> Varietas kain</li>
+    <li>Subjek-> Teknik tenun kain</li>
+    <li>Subjek-> pelat baju besi</li>
+    <li>Subjek-> Sabuk Utilitas</li>
+    <li>Subjek-> Bionik</li>
+    <li>situasi-> dengan aman</li>
+    <li>Situasi-> Tanpa instruksi</li>
+    <li>Situasi-> oleh Candlelight</li>
+    <li>situasi (p = 0,1)-> saat mabuk</li>-><LessonCrafting.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> Obeng</li>
+    <li>Artikel_tool-> satu oleh aliate</li>
+    <li>Artikel_tool-> pelat sirkuit</li>
+    <li>Artikel_tool-> bank menjahit</li>
+    <li>Artikel_tool-> tabel pemesinan</li>
+    <li>Artikel_tool-> bank manufaktur</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>Action_gerund-> usando</li>
+    <li>Action_gerund-> inspecting</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>Subjek-> Alat Organisasi</li>
+    <li>Subjek-> Pembuatan Senjata</li>
+    <li>Subjek-> Artilugaos</li>
+    <li>Subjek-> varietas Tejidos</li>
+    <li>Subjek-> Teknik Tejido Screensa</li>
+    <li>Subjek-> pelat baju besi</li>
+    <li>Subjek-> Sabuk Utilitas</li>
+    <li>Subjek-> Bagian Bionik</li>
+    <li>Situasi-> Keamanan</li>
+    <li>Situasi-> Tanpa instruksi</li>
+    <li>Situasi-> dalam cahaya lilin</li>
+    <li>Situasi (p = 0,1)-> saat Anda mabuk</li>
+  </LessonCrafting.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: lesson -->
+  <LessonGeneric.label>pelajaran</LessonGeneric.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] mengajarkan pelajaran untuk [penerima_namedef]</li>-><LessonGeneric.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] memberikan pelajaran kepada [penerima_namedef]</li>
+  </LessonGeneric.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: intellectual lesson -->
+  <LessonIntellectual.label>Pelajaran Kecerdasan</LessonIntellectual.label>
+  <!-- EN:
+    <li>Subjek-> Genetika</li>
+    <li>Subjek-> Techprints</li>
+    <li>Subjek-> Fungsi multi-analyzer</li>
+    <li>Subjek-> Filsafat</li>
+    <li>Subjek-> Matematika</li>
+    <li>Subjek-> Biologi</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Misteri Archotech</li>
+    <li>Subjek-> Reaktor Starship</li>
+    <li>Subjek-> Metode Ilmiah</li>
+    <li>Subjek-> Whitepaper seminal</li>
+    <li>Subjek-> Propulsi Johnson-Tanaka</li>-><LessonIntellectual.logRulesInitiator.rulesStrings>
+    <li>Subjek-> Genetika</li>
+    <li>Subjek-> Tecnoplanos</li>
+    <li>Subjek-> Fungsi Multianisasi</li>
+    <li>Subjek-> Filsafat</li>
+    <li>Subjek-> Matematika</li>
+    <li>Subjek-> Biologi</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Misteri Arkeoteknologi</li>
+    <li>Subjek-> Reaktor Spaceship</li>
+    <li>Subjek-> Metode Ilmiah</li>
+    <li>Subjek-> buku putih seminal</li>
+    <li>Subjek-> Propulsi Johnson-Tanaka</li>
+  </LessonIntellectual.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: medical lesson -->
+  <LessonMedicine.label>Pelajaran Kedokteran</LessonMedicine.label>
+  <!-- EN:
+    <li>r_logentry (p = 5)-> [initiator_namedef] [Teach_Verb] Cara [Medical_Verb] [Hediff] ke [penerima_namedef].</li>
+    <li>artikel_tool-> paket obat</li>
+    <li>artikel_tool-> sebuah perban</li>
+    <li>Article_tool-> Syringe</li>
+    <li>artikel_tool-> tanaman penyembuh</li>
+    <li>Article_tool-> Monitor Vitals</li>
+    <li>artikel_tool-> pisau bedah</li>
+    <li>artikel_tool-> dosis serum mech penyembuh</li>
+    <li>Article_tool-> Sebuah susah payah</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>action_gerund-> inspecting</li>
+    <li>Hediff-> kehilangan darah</li>
+    <li>hediff-> serangan jantung</li>
+    <li>Hediff-> Heatstroke</li>
+    <li>Hediff-> Keracunan makanan</li>
+    <li>Hediff-> Karsinoma</li>
+    <li>Hediff-> Cacing usus</li>
+    <li>Hediff-> Parasit Otot</li>
+    <li>Hediff-> Paralytic Abasia</li>
+    <li>Hediff-> malaria</li>
+    <li>hediff-> flu</li>
+    <li>Hediff-> sirosis</li>
+    <li>Medical_Verb-> Diagnosis</li>
+    <li>Medical_Verb-> Triage</li>
+    <li>Medical_Verb-> Treat</li>
+    <li>Subjek-> Dosis Anestesi</li>
+    <li>Subjek-> Jenis Kanker</li>
+    <li>Subjek-> Prosedur Bedah</li>
+    <li>Subjek-> cara samping tempat tidur</li>
+    <li>Subjek-> Metode Sterilisasi</li>-><LessonMedicine.logRulesInitiator.rulesStrings>
+    <li>r_logentry (p = 5)-> [initiator_namedef] [Teach_Verb] cómo [Medical_Verb] [Hediff] A [penerima_namedef].</li>
+    <li>Artikel_tool-> kit pertolongan pertama</li>
+    <li>Artikel_tool-> sebuah perban</li>
+    <li>Article_tool-> Syringe</li>
+    <li>Artikel_tool-> tanaman rooter</li>
+    <li>Artikel_tool-> monitor tanda vital</li>
+    <li>artikel_tool-> a scallo</li>
+    <li>Artikel_tool-> dosis whey makanan penyembuhan</li>
+    <li>Artikel_tool-> chip analgesik</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>Action_gerund->> usando</li>
+    <li>Action_gerund-> inspecting</li>
+    <li>Hediff-> Perdarahan</li>
+    <li>Hediff-> serangan jantung</li>
+    <li>Hediff-> stroke panas</li>
+    <li>Hediff-> Keracunan makanan</li>
+    <li>Hediff-> karsinoma</li>
+    <li>Hediff-> Cacing usus</li>
+    <li>Hediff-> Parasit Otot</li>
+    <li>Hediff-> membusuk darah</li>
+    <li>Hediff-> malaria</li>
+    <li>Hediff-> flu</li>
+    <li>Hediff-> sirosis</li>
+    <li>Medical_Verb-> Diagnosis</li>
+    <li>Medical_Verb-> Lakukan triase untuk</li>
+    <li>Medical_Verb-> Treat</li>
+    <li>Subjek-> Dosis Anestesi</li>
+    <li>Subjek-> Jenis Kanker</li>
+    <li>Subjek-> Prosedur Bedah</li>
+    <li>Subjek-> Perawatan dengan pasien</li>
+    <li>Subjek-> Metode Sterilisasi</li>
+  </LessonMedicine.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: melee lesson -->
+  <LessonMelee.label>Pelajaran tempur CAC</LessonMelee.label>
+  <!-- EN:
+    <li>artikel_tool-> kapak</li>
+    <li>artikel_tool-> klub</li>
+    <li>artikel_tool-> pedang</li>
+    <li>artikel_tool-> bilah siku</li>
+    <li>Article_tool-> A Hand Talon</li>
+    <li>Article_tool-> A Longsword</li>
+    <li>Article_tool-> Monosword</li>
+    <li>Article_tool-> A Plasmasword</li>
+    <li>artikel_tool-> tombak</li>
+    <li>artikel_tool-> Sebuah tongkat</li>
+    <li>artikel_tool-> a warhammer</li>
+    <li>artikel_tool-> tinju</li>
+    <li>Action-> Parry</li>
+    <li>aksi-> bertarung dengan</li>
+    <li>aksi-> penghitung</li>
+    <li>aksi-> merawat</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Action-> Swing</li>
+    <li>Action_gerund-> Parrying</li>
+    <li>action_gerund-> berkelahi dengan</li>
+    <li>Action_gerund-> Countering</li>
+    <li>action_gerund-> merawat</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>Action_gerund-> Swinging</li>-><LessonMelee.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> kapak</li>
+    <li>Artikel_tool-> a porra</li>
+    <li>Artikel_tool-> pedang</li>
+    <li>Artikel_tool-> bilah siku</li>
+    <li>Artikel_tool-> cakar</li>
+    <li>Artikel_tool-> pedang panjang</li>
+    <li>artikel_tool-> una monoespada</li>
+    <li>Artikel_tool-> pedang plasma</li>
+    <li>Artikel_tool-> tombak</li>
+    <li>artikel_tool-> una maza</li>
+    <li>Artikel_tool-> palu perang</li>
+    <li>Artikel_tool-> tinju</li>
+    <li>Aksi-> blok</li>
+    <li>aksi-> bertarung dengan</li>
+    <li>Aksi-> counterest</li>
+    <li>Tindakan-> Jaga</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Action-> Balance</li>
+    <li>Action_gerund-> blocking</li>
+    <li>Action_gerund-> berkelahi dengan</li>
+    <li>action_gerund-> contrarrestando</li>
+    <li>action_gerund-> merawat</li>
+    <li>Action_gerund-> usando</li>
+    <li>Action_gerund-> Balance</li>
+  </LessonMelee.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: mining lesson -->
+  <LessonMining.label>Pelajaran pertambangan</LessonMining.label>
+  <!-- EN:
+    <li>artikel_tool-> Pickaxe</li>
+    <li>artikel_tool-> bor yang dalam</li>
+    <li>artikel_tool-> sekop</li>
+    <li>Article_tool-> Pemindai Mineral Jangka Panjang</li>
+    <li>Article_tool-> Pemindai penembus tanah</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>aksi-> milikku dengan</li>
+    <li>aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>action_gerund-> penambangan dengan</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>action_gerund-> inspecting</li>
+    <li>Subjek-> Vena Mineral</li>
+    <li>Subjek-> Batu permata yang berharga</li>
+    <li>Subjek-> Geologi</li>
+    <li>Subjek-> Tunneling</li>
+    <li>Subjek-> Analisis Sedimen</li>
+    <li>Subjek-> Serangga yang tinggal di gua</li>
+    <li>Situasi (p = 2)-> Underground</li>-><LessonMining.logRulesInitiator.rulesStrings>
+    <li>artikel_tool-> un pico</li>
+    <li>Artikel_tool-> bor yang dalam</li>
+    <li>Artikel_tool-> pertama</li>
+    <li>Alat Artikel-> Pemindai Mineral Jangka Panjang</li>
+    <li>Artikel_tool-> pemindai yang mendalam</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Action-> Minar Con</li>
+    <li>Aksi-> bekerja dengan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>Action_gerund-> usando</li>
+    <li>action_gerund-> merusak</li>
+    <li>Action_gerund-> bekerja dengan</li>
+    <li>Action_gerund-> inspecting</li>
+    <li>Subjek-> Vena Mineral</li>
+    <li>Subjek-> Batu Berharga</li>
+    <li>Subjek-> Geologi</li>
+    <li>Subjek-> tunnelisasi</li>
+    <li>Subjek-> Analisis Sedimen</li>
+    <li>Subjek-> serangga yang dihuni di gua</li>
+    <li>Situasi (P = 2)-> Kehidupan Bawah Tanah</li>
+  </LessonMining.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: gardening lesson -->
+  <LessonPlants.label>Pelajaran Berkebun</LessonPlants.label>
+  <!-- EN:
+    <li>artikel_tool-> lampu matahari</li>
+    <li>Article_tool-> Cekungan Hidroponik</li>
+    <li>artikel_tool-> sprinkler</li>
+    <li>artikel_tool-> sekop</li>
+    <li>article_tool->pruning shears</li>
+    <li>aksi-> taman dengan</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>action_gerund-> menggunakan</li>
+    <li>action_gerund-> berkebun dengan</li>
+    <li>action_gerund-> inspecting</li>
+    <li>Subjek-> Jenis Tanah</li>
+    <li>subjek-> pestisida</li>
+    <li>Subjek-> Teknik Irigasi</li>
+    <li>Subjek-> Varietas Kaktus</li>
+    <li>Subjek-> pohon anima</li>
+    <li>Subjek-> Pohon Gauranlen</li>-><LessonPlants.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> lampu matahari</li>
+    <li>Artikel_tool-> wadah hidroponik</li>
+    <li>Article_tool-> un Aspersor</li>
+    <li>Artikel_tool-> pertama</li>
+    <li>Article_tool-> gunting pemangkasan</li>
+    <li>Aksi-> berkebun dengan</li>
+    <li>Tindakan-> Gunakan</li>
+    <li>Tindakan-> Periksa</li>
+    <li>Action_gerund-> usando</li>
+    <li>Action_gerund-> berkebun dengan</li>
+    <li>Action_gerund-> inspecting</li>
+    <li>Subjek-> Jenis Suelo</li>
+    <li>Subjek-> pestisida</li>
+    <li>Subjek-> Teknik Riego</li>
+    <li>Subjek-> Varietas kaktus</li>
+    <li>Subjek-> ánima Trees</li>
+    <li>Subjek-> Refeles Gauranlen</li>
+  </LessonPlants.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: shooting lesson -->
+  <LessonShooting.label>Pelajaran Menembak</LessonShooting.label>
+  <!-- EN:
+    <li>artikel_tool-> senapan</li>
+    <li>artikel_tool-> pistol</li>
+    <li>artikel_tool-> senapan</li>
+    <li>artikel_tool-> peluncur roket</li>
+    <li>artikel_tool-> smg</li>
+    <li>artikel_tool-> minigun</li>
+    <li>artikel_tool-> busur pendek</li>
+    <li>Article_tool-> busur yang berulang</li>
+    <li>Article_tool-> A greatbow</li>
+    <li>ACTION-> AIM</li>
+    <li>aksi-> tembak</li>
+    <li>aksi-> merawat</li>
+    <li>Action-> Reload</li>
+    <li>Action_gerund-> Aiming</li>
+    <li>action_gerund-> pemotretan</li>
+    <li>action_gerund-> merawat</li>
+    <li>Action_gerund-> Reloading</li>-><LessonShooting.logRulesInitiator.rulesStrings>
+    <li>Artikel_tool-> senapan</li>
+    <li>Artikel_tool-> pistol</li>
+    <li>Artikel_tool-> senapan</li>
+    <li>Artikel_tool-> A acak</li>
+    <li>artikel_tool-> un subfusil</li>
+    <li>Artikel_tool-> minigun</li>
+    <li>Artikel_tool-> busur pendek</li>
+    <li>Artikel_tool-> busur berulang</li>
+    <li>Artikel_tool-> a arco grande</li>
+    <li>Action-> point</li>
+    <li>Aksi-> tembak</li>
+    <li>Tindakan-> Jaga</li>
+    <li>Action-> Recharge</li>
+    <li>Action_gerund-> menunjuk</li>
+    <li>Action_gerund-> pemotretan</li>
+    <li>action_gerund-> merawat</li>
+    <li>Action_gerund-> Recharging</li>
+  </LessonShooting.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: social lesson -->
+  <LessonSocial.label>pelajaran sosial</LessonSocial.label>
+  <!-- EN:
+    <li>subjek-> berbicara di depan umum</li>
+    <li>Subjek-> Hubungan Faksi</li>
+    <li>subjek-> merekrut tahanan</li>
+    <li>Subjek-> Teknik tawar-menawar</li>
+    <li>Subjek-> Memelihara hubungan</li>
+    <li>Subjek-> Etiket Konsol Comms</li>
+    <li>Subjek-> meningkatkan moral</li>
+    <li>Subjek-> kata-kata nakal</li>
+    <li>Subjek-> Bahasa Isyarat</li>-><LessonSocial.logRulesInitiator.rulesStrings>
+    <li>Subjek-> berbicara di depan umum</li>
+    <li>Subjek-> Hubungan Antara Faksi</li>
+    <li>Subjek-> merekrut tahanan</li>
+    <li>Subjek-> Teknik Regateo</li>
+    <li>Subjek-> Pertahankan hubungan</li>
+    <li>Subjek-> Standar Tag di Konsol Komunikasi</li>
+    <li>Subjek-> Tingkatkan La Moral</li>
+    <li>subjek</li>
+    <li>Subjek-> Bahasa tanda</li>
+  </LessonSocial.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: sanguophage chat -->
+  <SanguophageChat.label>Pembicaraan darah</SanguophageChat.label>
+  <!-- EN:
+    <li>r_logentry-> [initiator_namedef] dan [penerima_namedef] [talkedabout] [subjek].</li>
+    <li>r_logentry-> [initiator_namedef] [talkedabout] [subjek] dengan [penerima_namedef].</li>
+    <li>Talkedabout-> Bicara tentang</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> berbisik</li>
+    <li>Talkedabout (p = 0,5)-> berbicara [kata keterangan] tentang</li>
+    <li>Talkedabout (p = 0,5)-> berbicara [kata keterangan] tentang</li>
+    <li>Talkedabout (p = 0,5)-> berbisik [kata keterangan] tentang</li>
+    <li>Talkedabout-> berbagi sepatah kata pun tentang</li>
+    <li>Talkedabout-> bertukar pikiran tentang</li>
+    <li>Talkedabout-> bertukar ide tentang</li>
+    <li>TalkedAbout-> Disampaikan Bunga Bersama</li>
+    <li>Talkedabout-> Debat tentang</li>
+    <li>Talkedabout-> berdebat tentang</li>
+    <li>Talkedabout-> berbagi cerita</li>
+    <li>kata keterangan-> damai</li>
+    <li>kata keterangan-> diam-diam</li>
+    <li>kata keterangan-> dengan lembut</li>
+    <li>kata keterangan-> jijik</li>
+    <li>kata keterangan-> pahit</li>
+    <li>kata keterangan-> lelah</li>
+    <li>kata keterangan-> dengan cermat</li>
+    <li>kata keterangan-> sadar</li>
+    <li>kata keterangan-> suram</li>
+    <li>kata keterangan-> dengan sungguh-sungguh</li>
+    <li>Subjek (P = 20)-> Rencana untuk [Plantype]</li>
+    <li>Subjek (p = 0,1)-> [TalkTopIChICheavy]</li>
+    <li>Subjek-> Hemogen</li>
+    <li>Subjek-> Kualitas Darah</li>
+    <li>Subjek-> Kanibalisme</li>
+    <li>Subjek-> ketidakjelasan</li>
+    <li>subjek-> entropi</li>
+    <li>Subjek-> Keabadian</li>
+    <li>subjek-> berlalunya waktu</li>
+    <li>Subjek-> Kehidupan dan Kematian</li>
+    <li>Subjek-> Deathrest</li>
+    <li>Subjek-> Kecurangan Kematian</li>
+    <li>Subjek-> Thralls</li>
+    <li>Subjek-> Kemanusiaan</li>
+    <li>subjek-> api</li>
+    <li>subjek-> pembakaran</li>
+    <li>subjek-> nyeri</li>
+    <li>subjek-> penderitaan</li>
+    <li>Subjek-> Pemenggalan</li>
+    <li>Subjek-> musuh pengeboran</li>
+    <li>subjek-> penyiksaan</li>
+    <li>Subjek-> Archites</li>
+    <li>Subjek-> Genetika</li>
+    <li>Subjek-> Gen</li>
+    <li>Subjek-> xenotype</li>
+    <li>Subjek-> Sanguofag</li>
+    <li>Subjek-> Hussars</li>
+    <li>subjek-> impid</li>
+    <li>Subjek-> Dirtmoles</li>
+    <li>subjek-> jin</li>
+    <li>Subjek-> Neanderthal</li>
+    <li>Subjek-> Pigskins</li>
+    <li>subjek-> pemborosan</li>
+    <li>Subjek-> Sejarah yang dalam</li>
+    <li>Subjek-> Sejarah Masa Depan</li>
+    <li>Plantype-> Dominasi</li>
+    <li>Plantype-> Escape</li>
+    <li>Plantype-> Blending in</li>
+    <li>Plantype-> Wielding Influence</li>
+    <li>Plantype-> mengumpulkan hemogen</li>
+    <li>Plantype-> Mastering Technology</li>
+    <li>Plantype-> menyebar ke dunia lain</li>
+    <li>Plantype-> mempengaruhi manusia</li>
+    <li>Plantype-> menghancurkan pemburu sanguophage</li>
+    <li>Plantype-> Menikmati kehidupan tanpa akhir</li>-><SanguophageChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry-> [initiator_namedef] y [penerima_namedef] [talkEdaboutpl] [subjek].</li>
+    <li>r_logentry-> [initiator_namedef] [talkedabout] [subjek] con [penerima_namedef].</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> membicarakannya</li>
+    <li>Talkedabout-> berbisik</li>
+    <li>Talkedabout (p = 0,5)-> dia berbicara [kata keterangan] tentang</li>
+    <li>TalkedObout (p = 0,5)-> dia berbicara [kata keterangan] tentang</li>
+    <li>Talkedabout (p = 0,5)-> berbisik [kata keterangan] di</li>
+    <li>TalkedObout-> berbagi beberapa kata tentang</li>
+    <li>Talkedabout-> Ide yang dipertukarkan tentang</li>
+    <li>Talkedabout-> Pikiran Pertukaran Tentang</li>
+    <li>Talkedabout-> menyatakan minatnya bersama</li>
+    <li>Talkedabout-> Diperdebatkan</li>
+    <li>Talkedabout-> dibahas</li>
+    <li>Bicara di luar> cerita bersama</li>
+    <li>TalkedoBoutpl-> Mereka membicarakannya</li>
+    <li>Bicara diabot</li>
+    <li>Talkedaboutpl-> Cuchichearon Sobre</li>
+    <li>TalkedOboutPL (p = 0,5)-> Mereka berbicara [kata keterangan] tentang</li>
+    <li>TalkEdAtpl (p = 0,5)-> Conversaron [kata keterangan]</li>
+    <li>TalkEdaboutpl (p = 0,5)-> Cuchichearon [kata keterangan] sobre</li>
+    <li>TalkedoBoutpl-> berbagi beberapa kata tentang</li>
+    <li>TalkedoBoutpl-> Ide yang dipertukarkan tentang</li>
+    <li>TalkedoBoutpl-> bertukar pikiran tentang</li>
+    <li>TalkedoBoutpl-> menyatakan minat mereka bersama</li>
+    <li>TalkedOboutpl-> Mereka membahas</li>
+    <li>TalkedoBoutpl-> dibahas</li>
+    <li>TalkedOboutpl-> berbagi cerita</li>
+    <li>kata keterangan-> ramah</li>
+    <li>kata keterangan-> diam-diam</li>
+    <li>kata keterangan-> dengan lembut</li>
+    <li>kata keterangan-> menjijikkan</li>
+    <li>kata keterangan-> pahit</li>
+    <li>kata keterangan-> lelah</li>
+    <li>Kata keterangan-> dengan hati-hati</li>
+    <li>kata keterangan-> sadar</li>
+    <li>kata keterangan-> dengan kesedihan</li>
+    <li>Kata keterangan-> solememente</li>
+    <li>Subjek (P = 20)-> Planes Para [Plantype]</li>
+    <li>Subjek (p = 0,1)-> [TalkTopIChICheavy]</li>
+    <li>Subjek-> Hemógeno</li>
+    <li>Subjek-> kualitas darah</li>
+    <li>Subjek-> El Canibalism</li>
+    <li>Subjek-> Keabadian</li>
+    <li>Subjek-> entropi</li>
+    <li>Subjek-> Keabadian</li>
+    <li>Subjek-> berlalunya waktu</li>
+    <li>Subjek-> hidup dan mati</li>
+    <li>Subjek-> Mortisueño</li>
+    <li>Subjek-> Penipuan sampai mati</li>
+    <li>Subjek-> Los Sanguiesclavos</li>
+    <li>Subjek-> Kemanusiaan</li>
+    <li>Subjek-> api</li>
+    <li>Subjek-> Insinerasi</li>
+    <li>Subjek-> El Dolor</li>
+    <li>Subjek-> penderitaan</li>
+    <li>Subjek-> Pemenggalan</li>
+    <li>Subjek-> Road Enemigos</li>
+    <li>Subjek-> La Tortura</li>
+    <li>Subjek-> Las Architas</li>
+    <li>Subjek-> Genetika</li>
+    <li>Subjek-> Gen</li>
+    <li>Subjek-> xenotype</li>
+    <li>Subjek-></li>
+    <li>Subjek-> Húsares</li>
+    <li>Subjek-> Diablillos</li>
+    <li>Subjek-> Terra-Topos</li>
+    <li>subjek-> dipelajari</li>
+    <li>Subjek-> Neandertales</li>
+    <li>Subjek-> Pielescerbo</li>
+    <li>Subjek-> Scurities</li>
+    <li>Subjek-> kedalaman sejarah</li>
+    <li>Subjek-> Sejarah Masa Depan</li>
+    <li>Plantype-> Dominasi</li>
+    <li>Plantype-> Escapar</li>
+    <li>Plantype-> Integrasi</li>
+    <li>Plantype-> Pengaruh olahraga</li>
+    <li>Plantype-> Hemogen Collection</li>
+    <li>Plantype-> Domain Teknologi</li>
+    <li>Plantype-> bahwa dunia lain ditaklukkan</li>
+    <li>Plantype-> mempengaruhi manusia</li>
+    <li>Plantype-> Hancurkan Pemburu Sanguifagous</li>
+    <li>Plantype-> Nikmati kehidupan tanpa akhir</li>
+  </SanguophageChat.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

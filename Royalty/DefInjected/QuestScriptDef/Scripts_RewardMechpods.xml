@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>DangersDescription (prioritas = 1)-> \ n \ n Pod berisi bahaya ini: \ n \ n [allthreats]</li>
+    <li>Dangersdescription-></li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namedef], [asker_faction_leadertitle] dari [asker_faction_name], membuat permintaan.[CommonMainPart]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namedef], a [asker_royaltitleincurrentfaction] dari [asker_faction_name], membuat permintaan.[CommonMainPart]</li>
+    <li>CommonMainPart-> Swarm mechanoid telah menyerang pemukiman [asker_possessive].[asker_pronoun] ingin Anda memberi sinyal mechs untuk mengalihkan perhatian mereka sementara [asker_pronoun] menghapus sarangnya.Jika Anda melakukannya, (*ancaman) sebuah cluster mechanoid (/ancaman) akan mendarat di [MAP_Definite]. [Bahaya Demscription] \ n \ n Cluster mechanoid pada awalnya akan tidak aktif.Ini mungkin memiliki aktivator hitung mundur, atau mungkin tetap tidak aktif selamanya sampai terganggu. [HeltersParagraph]</li>-><ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>Dangerscription (prioritas = 1)-> \ n \ nlas kapsul berisi bahaya ini: \ n \ n [allthreats]</li>
+    <li>Dangersdescription-></li>
+    <li>Deskripsi pencarian (asker_factionleader == true)-> [asker_namedef], [asker_faction_leadertitle] dari faksi [asker_faction_name], ia membuat permintaan.[CommonMainPart]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namedef], [asker_a] [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], membuat petisi.[CommonMainPart]</li>
+    <li>CommonMainPart-> Swarm mechanid telah menyerang pemukimannya.Dia ingin Anda membuat sinyal ke Mecas untuk mengalihkan perhatian mereka sementara [asker_pronoun] membersihkan sarangnya.Jika Anda melakukannya, (*ancaman) mecaconglomerate (/ancaman) akan mendarat di [MAP_DEFINITE]. [Dangersdescription] \ n \ nl Mecaconglomerado pada awalnya tidak akan tidak aktif.Anda dapat memiliki aktivator hitung mundur, atau Anda dapat tetap tidak aktif selamanya sampai terganggu. \ N \ n [HeltersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Menace] Cluster</li>
+    <li>QuestName-> [Menace] Pods</li>
+    <li>QuestName-> [NameBased]</li>
+    <li>NameBased-> Mechs [Asker_Namedef]</li>
+    <li>NameBased-> Mechanoids [Asker_Namedef]</li>
+    <li>NameBased-> cluster mech [asker_namedef]</li>
+    <li>Nambased -> [asker_namedf] mek [mecca]</li>
+    <li>ancaman ancaman-></li>
+    <li>ancaman</li>
+    <li>ancaman-> momok</li>
+    <li>Ancaman-> bahaya</li>
+    <li>ancaman-> teror</li>
+    <li>ancaman-> ketakutan</li>-><ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>QuestName-> [Menace] di Swarm</li>
+    <li>QuestName-> [ancaman] dalam kapsul</li>
+    <li>QuestName-> [NameBased]</li>
+    <li>NameBased-> The Mecas de [asker_namedef]</li>
+    <li>NameBased-> The Mecanoides dari [asker_namedef]</li>
+    <li>NameBased-> The Mecconlomerate dari [asker_namedef]</li>
+    <li>NameBased-> [Menace] Mecanoide de [soldier_namedef]</li>
+    <li>Ancaman ancaman</li>
+    <li>Ancaman-> bahaya</li>
+    <li>Menace-> The Dread</li>
+    <li>Ancaman-> teror</li>
+    <li>Ancaman-> ketakutan</li>
+    <li>Ancaman-> panik</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>Kecepatan ternak</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>Kecepatan di mana orang yang memerah susu ini, mencukur dan mengumpulkan hewan -hewan hewan lainnya.</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>kinerja ternak</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>Persentase hasil yang diterimanya seseorang saat mencukur, memerah susu, atau mengumpulkan sumber daya lain dari hewan yang hidup.Persentase tertinggi mengurangi kemungkinan membuang -buang produk.</AnimalGatherYield.description>
+  
+  <!-- EN: cleaning speed multiplier -->
+  <CleaningSpeed.label>Pengganda Kecepatan Pembersihan</CleaningSpeed.label>
+  <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
+  <CleaningSpeed.description>Pengganda kecepatan dengan mana kotoran tanah dibersihkan.</CleaningSpeed.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>Kecepatan konstruksi</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>Kecepatan di mana orang ini membangun dan memperbaiki benda.</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>Probabilitas Konstruksi berhasil</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Probabilitas bahwa orang ini berhasil saat membangun sesuatu. \ Nfracasar berarti membuang -buang waktu dan sumber daya.</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>Kecepatan pengeboran yang dalam</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>Kecepatan di mana orang ini menggunakan latihan yang dalam untuk mengekstraksi sumber daya bawah tanah.</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>kinerja panen tanaman obat</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>Kinerja yang diperoleh orang ini dengan menuai tanaman narkoba.Hasil tinggi meningkatkan kinerja setiap pabrik.</DrugHarvestYield.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>Sukses untuk perbaikan</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Probabilitas bahwa orang ini berhasil memperbaiki objek gangguan menggunakan komponen.Gagal berarti membuang -buang waktu dan sumber daya.Perlu diingat bahwa ini hanya berlaku untuk perbaikan kerusakan, yang berbeda dari perbaikan kerusakan.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hacking speed -->
+  <HackingSpeed.label>Kecepatan peretasan</HackingSpeed.label>
+  <!-- EN: How fast this person can hack into computer terminals. -->
+  <HackingSpeed.description>Kecepatan orang ini dapat meretas terminal komputer.</HackingSpeed.description>
+  
+  <!-- EN: hacking stealth -->
+  <HackingStealth.label>Peretasan diam -diam</HackingStealth.label>
+  <!-- EN: How much hacking progress can be made on average before this person is temporarily locked out of a computer system. Only certain systems are capable of detecting hacking. -->
+  <HackingStealth.description>Berapa banyak yang dapat diajukan rata -rata dalam peretasan sebelum orang ini diblokir sementara dalam sistem komputer.Hanya beberapa sistem yang dapat mendeteksi peretasan.</HackingStealth.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>diam -diam saat berburu</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>Statistik ini mengurangi probabilitas bahwa hewan yang menguntit menyerang pemburu.Skor 0% berarti tidak ada pengurangan.Skor 100% berarti bahwa hewan tidak akan pernah menyerang Anda.</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>Kecepatan pertambangan</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>Kecepatan di mana orang ini menggali batu dan bor dinding untuk mendapatkan sumber daya.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>kinerja pertambangan</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>Persentase hasil yang akan dihasilkan oleh penambang.Ini berlaku untuk penambangan dinding dan penambangan pengeboran dalam.Ini tidak mempengaruhi tingkat ekstraksi batuan.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>Kinerja panen tanaman</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Kinerja yang diperoleh seseorang saat memanen sayuran.Hasil rendah memberikan kemungkinan bahwa orang ini secara tidak sengaja menyia -nyiakan panen.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>Kecepatan pertanian</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Kecepatan di mana karakter ini menabur dan tanaman yang dipanen.</PlantWorkSpeed.description>
+  
+  <!-- EN: reading speed -->
+  <ReadingSpeed.label>Kecepatan membaca</ReadingSpeed.label>
+  <!-- EN: A multiplier on how fast this person can read. -->
+  <ReadingSpeed.description>Pengganda pada kecepatan karakter ini saat membaca.</ReadingSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>Kecepatan penelitian</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Hal cepat yang diselidiki orang ini dan mampu mendeteksi elemen menggunakan peralatan pemindai.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>Kecepatan Alisado</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>Pengganda dengan kecepatan karakter ini dengan merapikan tanah dan dinding batu yang kasar.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>Kecepatan kerja global</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>Pengganda pada kecepatan karakter ini saat melakukan semua jenis pekerjaan.</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>Pengubah mekanitor</WorkSpeedGlobal.parts.2.label>
+  
+</LanguageData>

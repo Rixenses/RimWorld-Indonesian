@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.label>BOMBER ORBITAL</OrbitalTargeterBombardment.label>
+  <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
+  <OrbitalTargeterBombardment.description>Peralatan serangan lama untuk sistem pemboman orbital.Unit ini menunjuk suatu tujuan dan mentransmisikan koordinat ke jaringan satelit, yang membombardir area target dengan dampak kinetik.Unit ini telah diprogram ulang untuk menerima pengguna yang tidak sah, tetapi setelah digunakan, jaringan akan mendeteksi serangan dan memotong tautan secara permanen.</OrbitalTargeterBombardment.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>memuat</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: orbital bombardment targeter -->
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>BOMBER ORBITAL</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.label>yoo orbial</OrbitalTargeterPowerBeam.label>
+  <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
+  <OrbitalTargeterPowerBeam.description>Unit lama dari jaringan satelit pengumpulan energi.Setelah tujuan diatur, itu mengarahkan satelit lama untuk mulai mengirim energi dalam kolom elektromagnetik besar.Energi ini dapat diakumulasikan dengan aman di pelat penyerapan raksasa.Karena Anda tidak memilikinya, Anda akan mengarahkannya melawan musuh, dan pada saat itu kolom energi akan mengubah area menjadi seribu derajat neraka.Ini akan bertahan sampai satelit berhenti mendeteksi tujuan, padam dan dinonaktifkan secara permanen.</OrbitalTargeterPowerBeam.description>
+  <!-- EN: charge -->
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>memuat</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: orbital power beam targeter -->
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>yoo orbial</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.label>Generator Tornado</TornadoGenerator.label>
+  <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
+  <TornadoGenerator.description>Unit kontrol lama untuk jaringan satelit kontrol meteorologi.Langkah -langkah keamanan tertentu telah dibatalkan;Ini mampu menyebabkan gangguan besar pada arus udara, yang akan menghasilkan tornado di tempat yang dipilih.Jaringan cuaca akan mendeteksi intrusi yang tidak sah ini dan memblokir perangkat setelah digunakan, tetapi tornado akan tetap menghabiskan energinya secara normal.</TornadoGenerator.description>
+  <!-- EN: charge -->
+  <TornadoGenerator.comps.CompApparelReloadable.chargeNoun>memuat</TornadoGenerator.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: tornado generator -->
+  <TornadoGenerator.verbs.Verb_Spawn.label>Generator Tornado</TornadoGenerator.verbs.Verb_Spawn.label>
+  
+</LanguageData>

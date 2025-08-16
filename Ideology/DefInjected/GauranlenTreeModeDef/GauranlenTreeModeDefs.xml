@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barkskin -->
+  <Barkskin.label>kulit barks</Barkskin.label>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter. -->
+  <Barkskin.description>Peri yang berspesialisasi dalam menyerap pukulan selama pertempuran. Yang kering ditutupi dengan kulit tebal yang mirip dengan korteks yang sebagian dibentuk oleh pohon Gauranlen itu sendiri. Di bawah pengaruh manusia, ia dapat bertindak sebagai penyerap kerusakan.</Barkskin.description>
+
+  <!-- EN: berrymaker -->
+  <Berrymaker.label>Berrymaker</Berrymaker.label>
+  <!-- EN: A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Berrymaker.description>Peri yang berspesialisasi dalam produksi makanan. Di dekat pohon Gauranlen -nya, dríada ini dapat terus menghasilkan beri nutrisi. Meskipun lambat dan tidak dapat digunakan dalam pertempuran atau pekerjaan.</Berrymaker.description>
+  
+  <!-- EN: carrier -->
+  <Carrier.label>pembawa</Carrier.label>
+  <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go. -->
+  <Carrier.description>Peri berspesialisasi dalam membawa barang.Di bawah pengaruh manusia, itu dapat membantu mengangkut barang ke tempat yang seharusnya.</Carrier.description>
+
+  <!-- EN: clawer -->
+  <Clawer.label>clawer</Clawer.label>
+  <!-- EN: A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself. -->
+  <Clawer.description>Peri kasta berspesialisasi dalam penyerangan dan serangan berbahaya.Dríada disebut cakar besarnya.Meskipun dapat melakukan kerusakan besar, itu juga rentan untuk menyerang dirinya sendiri.</Clawer.description>
+  
+  <!-- EN: gaumaker -->
+  <Gaumaker.label>Gaumaker</Gaumaker.label>
+  <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge. -->
+  <Gaumaker.description>Peri yang satu -satunya keterampilan adalah menghasilkan kapsul Gauranlen baru dan mereproduksi pohon Gauranlen bersama dengan simbionnya, sang ratu Dríada.Untuk melakukan ini, tiga peri gaumaker harus digabungkan secara perlahan.</Gaumaker.description>
+
+  <!-- EN: medicinemaker -->
+  <Medicinemaker.label>pembuat medis</Medicinemaker.label>
+  <!-- EN: A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Medicinemaker.description>Peri yang berspesialisasi dalam produksi obat.Di dekat pohon Gauranlen -nya, dríada ini dapat terus memproduksi obat herbarium.Meskipun lambat dan tidak dapat digunakan dalam pertempuran atau pekerjaan.</Medicinemaker.description>
+
+  <!-- EN: woodmaker -->
+  <Woodmaker.label>Woodmaker</Woodmaker.label>
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Woodmaker.description>Peri yang lambat dan canggung yang berspesialisasi dalam produksi kayu.Di dekat pohon gourannya, dríada ini dapat menghasilkan hamil yang mirip dengan kayu.Meskipun lambat dan tidak dapat digunakan dalam pertempuran atau pekerjaan.</Woodmaker.description>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: eltex skullcap -->
+  <Apparel_EltexSkullcap.label>Topi eltex</Apparel_EltexSkullcap.label>
+  <!-- EN: A tight skullcap designed for psychic focusing. It provides no physical protection, but its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <Apparel_EltexSkullcap.description>Helm ketat yang dirancang untuk memfokuskan kekuatan psikis.Itu tidak memberikan perlindungan fisik, tetapi bahan khusus meningkatkan sensitivitas psikis dan menghilangkan pemanasan saraf.</Apparel_EltexSkullcap.description>
+  
+  <!-- EN: eltex helmet -->
+  <Apparel_PsyfocusHelmet.label>Helm Eltex</Apparel_PsyfocusHelmet.label>
+  <!-- EN: A lightweight helmet designed for psychic focusing. While it provides little physical protection, its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
+  <Apparel_PsyfocusHelmet.description>Helm ringan untuk memfokuskan kekuatan psikis.Itu tidak memberikan banyak perlindungan fisik, tetapi bahan khusus meningkatkan sensitivitas psikis dan menghilangkan pemanasan saraf.</Apparel_PsyfocusHelmet.description>
+  
+  <!-- EN: eltex robe -->
+  <Apparel_PsyfocusRobe.label>Tunik Eltex</Apparel_PsyfocusRobe.label>
+  <!-- EN: A long robe embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusRobe.description>Jubah anyaman panjang dengan bahan pendekatan psikis khusus.Ini meningkatkan sensitivitas psikologis dan membantu menghilangkan pemanasan saraf.</Apparel_PsyfocusRobe.description>
+  
+  <!-- EN: eltex shirt -->
+  <Apparel_PsyfocusShirt.label>Kemeja Eeltex</Apparel_PsyfocusShirt.label>
+  <!-- EN: A shirt embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusShirt.description>Kemeja yang tertanam dengan bahan pendekatan psikis khusus.Ini meningkatkan sensitivitas psikis dan menghilangkan pemanasan saraf.</Apparel_PsyfocusShirt.description>
+  
+  <!-- EN: eltex vest -->
+  <Apparel_PsyfocusVest.label>Rompi lotex</Apparel_PsyfocusVest.label>
+  <!-- EN: A thin vest embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
+  <Apparel_PsyfocusVest.description>Rompi jaringan tipis dengan bahan pendekatan psikis khusus.Ini meningkatkan sensitivitas psikis dan menghilangkan pemanasan saraf.</Apparel_PsyfocusVest.description>
+  
+</LanguageData>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>hubungan cinta</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>suara yang menjengkelkan</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>makan daging manusia mentah</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>Jijik tubuh</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>Jijik tubuh</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>Jijik tubuh</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>Jijik tubuh</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>Jijik tubuh</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>Dengan {0} sebagai hewan peliharaan</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Dengan hewan peliharaan saya membuat saya merasa lebih baik.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>Apakah {Pawn_gender?o: a} de {0}</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>Berada di sebelah hewan saya membuat saya merasa lebih baik.</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>Alkoholik vs abstemious</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>Napas yang menjengkelkan</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>Disfiguree {Pawn_gender?O: A}</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>kemabukan</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>Tahanan yang dieksekusi</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>Pekerja vs Malas</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: holding me prisoner -->
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>Dia mempertahankan saya sebagai penjara {Pawn_gender?O: A}</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>hubungan inses</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>membunuh seorang pemukim</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>membunuh seekor binatang di koloni itu</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>pria</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>Bukankah {Pawn_gender?The Master: Loves It} dari {0}</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>Saya harus berada di sebelah hewan tertaut saya.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>Bukankah {Pawn_gender?The Master: Loves It} dari {0}</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>Saya harus bersama dengan hewan terhubung saya.</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>Opini {0} {1} saya</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with them makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Bersama kekasih saya membuatku bahagia.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: physically appealing -->
+  <Pretty.stages.physically_appealing.label>{Pawn_gender secara fisik menarik?O: A}</Pretty.stages.physically_appealing.label>
+  <!-- EN: physically stunning -->
+  <Pretty.stages.physically_stunning.label>mengesankan secara fisik</Pretty.stages.physically_stunning.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>Apakah Anda menjual saya sebagai penjara {Pawn_gender?O: a} untuk perbudakan</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>Abstemio vs kecanduan</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>Abstemio vs. minat pada bahan kimia</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>apresiasi {Pawn_gender?Del: Transhumanist}</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>apresiasi {Pawn_gender?Del: Transhumanist}</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>apresiasi {Pawn_gender?Del: Transhumanist}</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>apresiasi {Pawn_gender?Del: Transhumanist}</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <!-- EN: body modder appreciation -->
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>apresiasi {Pawn_gender?Del: Transhumanist}</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  
+  <!-- EN: physically unsightly -->
+  <Ugly.stages.physically_unsightly.label>secara fisik tidak menyenangkan</Ugly.stages.physically_unsightly.label>
+  <!-- EN: physically hideous -->
+  <Ugly.stages.physically_hideous.label>secara fisik mengerikan</Ugly.stages.physically_hideous.label>
+  
+  <!-- EN: sleeping alone -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>Sleeping Sun {Pawn_gender?O: A}</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <!-- EN: I should be sleeping with a lover or spouse. -->
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Saya harus tidur dengan kekasih atau pasangan saya.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>wanita</Woman.stages.woman.label>
+  
+</LanguageData>

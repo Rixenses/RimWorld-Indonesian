@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Create or select an ideoligion for your faction. -->
+  <MessageMustChooseIdeo>Buat atau pilih ideolisasi untuk faksi Anda.</MessageMustChooseIdeo>
+  <!-- EN: The ideoligion name can't be empty. -->
+  <MessageIdeoNameCantBeEmpty>Nama Ideroligion tidak bisa kosong.</MessageIdeoNameCantBeEmpty>
+  <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
+  <MessageIdeoIncompatiblePrecepts>{Precept1} dan {precept2} tidak kompatibel.</MessageIdeoIncompatiblePrecepts>
+  <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{Pakaian yang diinginkan} Keinginan untuk pakaian tumpang tindih dengan pakaian yang diperlukan dari peran {role}.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{Diinginkanparel} tumpang tindih dengan pakaian yang diperlukan dari peran {role} ({roleApparel}).Ini akan membuat pemilik peran itu tidak mungkin untuk menyatukan pakaian yang dibutuhkan dan diinginkan.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {PRECEPT} needs one of these buildings -->
+  <MessageRitualMissingTarget>{Sila} membutuhkan salah satu bangunan ini</MessageRitualMissingTarget>
+  <!-- EN: {PRECEPT} needs an associated ritual. -->
+  <MessageBuildingMissingRitual>{Sila} membutuhkan ritual terkait.</MessageBuildingMissingRitual>
+  <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelshort} menolak untuk melakukan ini untuk ideolisasi.</MessagePawnUnwillingToDoDueToIdeo>
+  <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
+  <MessageFailedConvertIdeoAttempt>{Initiator_namedef} mencoba mengonversi {penerima_namedef} menjadi ideolithionnya.Kepastian {penerima_namedef} jatuh dari {purtytebefore} a {tertentuintyafter}.{Penerima_pronoun} membenci konversi yang dicoba.</MessageFailedConvertIdeoAttempt>
+  <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
+  <MessageFailedConvertIdeoAttemptSocialFight>{Pawn1_namedef} mencoba mengonversi {Pawn2_namedef} menjadi ideoligionnya.Ini memicu perkelahian!</MessageFailedConvertIdeoAttemptSocialFight>
+  <!-- EN: You must choose at least {0} memes. -->
+  <MessageNotEnoughMemes>Anda harus memilih setidaknya {0} meme.</MessageNotEnoughMemes>
+  <!-- EN: You can't choose more than {0} memes. -->
+  <MessageTooManyMemes>Anda tidak dapat memilih lebih dari {0} meme.</MessageTooManyMemes>
+  <!-- EN: You must choose a structure meme. -->
+  <MessageNotEnoughStructureMemes>Anda harus memilih struktur meme.</MessageNotEnoughStructureMemes>
+  <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
+  <MessageIncompatibleMemes>{0_label} dan {1_label} tidak sesuai satu sama lain.</MessageIncompatibleMemes>
+  <!-- EN: You need {0} to start the {1}. -->
+  <MessageNoRequiredRolePawnToBeginRitual>Anda perlu {0} untuk memulai {1}.</MessageNoRequiredRolePawnToBeginRitual>
+  <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
+  <MessageNotEnoughSpectators>{1} membutuhkan setidaknya {0} Spectator untuk memulai.</MessageNotEnoughSpectators>
+  <!-- EN: You must choose a role. -->
+  <MessageRoleChangeChooseDifferentRole>Anda harus memilih peran.</MessageRoleChangeChooseDifferentRole>
+  <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
+  <MessageNeedAssignedRoleToBeginRitual>Sebelum memulai: {1}, Anda harus menetapkan peran {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: Need at least one {0} participating. -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>Perlu setidaknya satu (a) {0} untuk berpartisipasi.</MessageNeedAtLeastOneParticipantOfIdeo>
+  
+  <!-- EN: {0_labelShort} now holds the role of {1}. -->
+  <MessageRoleAssigned>{0_labelshort} sekarang memiliki peran {1}.</MessageRoleAssigned>
+  <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
+  <MessageRoleUnassignedPrisoner>Karena {0_labelshort} itu menjadi penjara {0_gender?O: a}, {0_pronoun} Anda tidak bisa lagi memainkan peran {1}.</MessageRoleUnassignedPrisoner>
+  <!-- EN: Warning: {0} will be upset if a tree is cut. -->
+  <MessageWarningPlayerDesignatedTreeChopped>PERINGATAN: {0} akan repot jika pohon dibicarakan.</MessageWarningPlayerDesignatedTreeChopped>
+  <!-- EN: Warning: {0} will be upset if mining occurs. -->
+  <MessageWarningPlayerDesignatedMining>PERINGATAN: {0} akan repot jika ada sesuatu yang milikku.</MessageWarningPlayerDesignatedMining>
+  <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
+  <MessageConnectedPawnDied>{Tree_label} memecahkan koneksi dengan {Pawn_Namedef}.Itu harus dipulihkan selama {durasi} sebelum menghubungkan lagi.</MessageConnectedPawnDied>
+
+  <!-- Slave interactions -->
+  <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
+  <MessageSlaveEmancipated>{0_namedef} telah menjadi emanpad {0_gender?atau: a} oleh {1_namedef}.</MessageSlaveEmancipated>
+  <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
+  <MessagePrisonerEnslaved>{0_namedef} telah diperbudak {0_gender?atau: a} oleh {1_namedef}.</MessagePrisonerEnslaved>
+  <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
+  <MessagePrisonerWillBroken>Will {1_gender?Del: dari penjara} {1_gender?o: a} {1_namedef} telah rusak oleh {0_namedef}.</MessagePrisonerWillBroken>
+  <!-- EN: Enslavement will follow. -->
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Upaya perbudakan akan dimulai.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  <!-- Prisoner interactions -->
+  <!-- EN: No warden is capable of this enslavement. -->
+  <MessageNoWardenCapableOfEnslavement>Tidak ada penjaga yang mampu memperbudak ini.</MessageNoWardenCapableOfEnslavement>
+  <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
+  <MessageNoWardenOfIdeo>Anda tidak memiliki penjaga {membraname} untuk mengubah {penjara_namedef}.Mode interaksi -nya terbalik "tanpa interaksi."</MessageNoWardenOfIdeo>
+
+  <!-- Camps -->
+  <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
+  <MessageCampDetected>Anda telah mendeteksi} dekat yang dikendalikan oleh faksi {faction_name}.</MessageCampDetected>
+
+  <!-- Charity -->
+  <!-- EN: Charity refused -->
+  <MessageCharityEventRefused>Amal ditolak</MessageCharityEventRefused>
+  <!-- EN: Charity fulfilled -->
+  <MessageCharityEventFulfilled>Amal yang puas</MessageCharityEventFulfilled>
+  <!-- EN: {0} are leaving empty-handed. -->
+  <MessageBeggarsLeavingWithNoItems>{ganti: {0} tinggalkan;"Para pengemis pergi"-"Mendigo pergi"} dengan tangan kosong.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: The {0} has accepted the requested items and is leaving. -->
+  <MessageBeggarsLeavingWithItemsSingular>{0} telah menerima artikel yang diminta dan akan pergi.</MessageBeggarsLeavingWithItemsSingular>
+  <!-- EN: {0} have accepted the requested items and are leaving. -->
+  <MessageBeggarsLeavingWithItemsPlural>{0} telah menerima artikel yang diminta dan akan pergi.</MessageBeggarsLeavingWithItemsPlural>
+  <!-- EN: {0_nameDef} died without any treatment. -->
+  <MessageWandererLeftToDie>{0_namedef} meninggal tanpa perawatan.</MessageWandererLeftToDie>
+  <!-- EN: {0_nameDef} was left to die. -->
+  <MessageWandererLeftBehind>{0_namedef} Apakah itu ditinggalkan {0_gender?Atau: A} untuk nasib Anda.</MessageWandererLeftBehind>
+  <!-- EN: {0_nameDef} was recruited. -->
+  <MessageWandererRecruited>{0_namedef} sedang merekrut {0_gender?O: A}.</MessageWandererRecruited>
+  <!-- EN: {0_nameDef} left healthy. -->
+  <MessageWandererLeftHealthy>{0_namedef} meninggalkan peta yang sehat.</MessageWandererLeftHealthy>
+  <!-- EN: {0} has been failed. -->
+  <MessageCharityQuestEndedFailed>{0} telah gagal.</MessageCharityQuestEndedFailed>
+  <!-- EN: {0} has been successfully completed. -->
+  <MessageCharityQuestEndedSuccess>{0} telah berhasil diselesaikan.</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <!-- EN: Cannot remove -->
+  <CannotRemove>Tidak bisa dihilangkan</CannotRemove>
+  <!-- EN: Cannot remove {MEME} -->
+  <CannotRemoveMemeRequired>Anda tidak dapat menghilangkan {meme}</CannotRemoveMemeRequired>
+  <!-- EN: Cannot remove {MEME}: Required by player faction. -->
+  <CannotRemoveMemeRequiredPlayer>Itu tidak dapat dihilangkan {meme}: Diperlukan oleh faksi pemain.</CannotRemoveMemeRequiredPlayer>
+  <!-- EN: Required by {FACTION_name}. -->
+  <RequiredByFaction>Diperlukan oleh faksi {felion_name}.</RequiredByFaction>
+  <!-- EN: Roles cannot have overlapping apparel requirements. -->
+  <OverlappingRoleApparel>Peran tidak dapat memiliki persyaratan pakaian yang ditumpangkan.</OverlappingRoleApparel>
+  
+  <!-- EN: {0} will self-destruct in {1}. -->
+  <SelfDestructCountdown>{0} akan melakukan penghancuran sendiri di {1}.</SelfDestructCountdown>
+  <!-- EN: Precept name is too long (maximum {0} letters) -->
+  <PreceptNameTooLong>Nama sila terlalu panjang (maksimum {0} huruf)</PreceptNameTooLong>
+
+  <!-- Ancient complex -->
+  <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
+  <MessageAncientTerminalDiscovered>Anda telah menemukan terminal lama dengan informasi tentang {0}!</MessageAncientTerminalDiscovered>
+  <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
+  <MessageAncientComplexBackToShuttle>Anda telah menemukan informasi rahasia tentang {0}!Kembali ke feri untuk meluncurkannya.</MessageAncientComplexBackToShuttle>
+  <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
+  <MessageAncientSignalActivated>Satelit pasokan tua telah diaktifkan.Persediaan akan jatuh dekat.</MessageAncientSignalActivated>
+  <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
+  <MessageAncientSignalHostileDetected>{0}, dari {1}, telah mendeteksi sinyal penawaran dan menyerang.</MessageAncientSignalHostileDetected>
+
+  <!-- Ancient altar -->
+  <!-- EN: All security systems are waking up! -->
+  <MessageAncientAltarThreatsWokenUp>Semua sistem keamanan terbangun.</MessageAncientAltarThreatsWokenUp>
+  <!-- EN: All security systems are alerted to your presence. -->
+  <MessageAncientAltarThreatsAlerted>Semua sistem keamanan diperingatkan tentang kehadiran Anda.</MessageAncientAltarThreatsAlerted>
+
+  <!-- Animals -->
+  <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
+  <MessageAnimalIsVeneratedForAllColonists>PERINGATAN: {PawnKindLabelplural} dihormati oleh semua {Pawns}, dan tidak akan dirugikan.</MessageAnimalIsVeneratedForAllColonists>
+
+  <!-- Archonexus -->
+  <!-- EN: Select at most {0} {1} to bring to the new colony. -->
+  <MessageNewColonyMax>Pilih maksimum {0} {1} untuk dibawa ke koloni baru.</MessageNewColonyMax>
+  <!-- EN: You must select at least 1 colonist. -->
+  <MessageNewColoyRequiresOneColonist>Anda harus memilih setidaknya 1 pemukim.</MessageNewColoyRequiresOneColonist>
+
+  <!-- Fuel node -->
+  <!-- EN: A {0} has been ignited and is going to explode! -->
+  <MessageFuelNodeTriggered>A {0} telah terbakar dan akan meledak!</MessageFuelNodeTriggered>
+
+  <!-- Ancient complex -->
+  <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsplural} akan bangun di {1}.</MessageSleepingThreatDelayActivated>
+  <!-- EN: Infestation arriving. -->
+  <MessageInfestationDelayActivated>Infestation tiba</MessageInfestationDelayActivated>
+  <!-- EN: {0} was disturbed and might explode soon! -->
+  <MessageFuelNodeDelayActivated>{0} telah terganggu dan bisa segera meledak!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+
+  <!-- Fluid ideo messages -->
+  <!-- EN: Development points changed from {0} to {1} ({2}). -->
+  <MessageDevelopmentPointsEarned>Poin pengembangan telah berubah dari {0} a {1} ({2}).</MessageDevelopmentPointsEarned>
+  <!-- EN: Only one change to structures, memes and styles is allowed. -->
+  <MessageFluidIdeoOneChangeAllowed>Hanya perubahan pada struktur, meme, dan gaya yang diizinkan.</MessageFluidIdeoOneChangeAllowed>
+
+</LanguageData>

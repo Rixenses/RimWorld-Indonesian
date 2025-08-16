@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>semen</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>Beton kasar.Cepat berjalan, murah dan cepat untuk dibangun, tetapi cukup jelek.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>Ubin Emas</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Untuk kemewahan yang berlebihan, tidak ada yang lebih baik dari ubin emas.Mereka sangat mahal, dan sangat indah, dan orang -orang akan berpikir Anda sangat sombong jika Anda benar -benar hidup di atasnya.</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>Ubin logam</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
+  <MetalTile.description>Ubin logam, untuk aspek pesawat ruang angkasa itu.Mereka cantik, dan permukaan ubin yang halus mencapai bonus untuk asepsis.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>Ubin semen</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Ubin beton.Murah dan cepat untuk bergerak, tetapi netral dalam hal penampilan dan lambat diproduksi.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>Ubin perak</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
+  <SilverTile.description>Untuk penampilan yang futuristik tetapi megah, ubin perak pas dengan sempurna ke kamar -kamar mewah.Mereka menerima bonus pembersihan.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>Ubin Steril</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
+  <SterileTile.description>Ubin steril dengan sifat khusus untuk meningkatkan pembersihan.Kamar ekstra bersih meningkatkan hasil di rumah sakit dan laboratorium penelitian.Ubin ini sangat lambat untuk dibangun.</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>tikar jerami</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>Tikar jerami kasar untuk menggunakannya di kandang binatang.Mereka murah dan mengumpulkan sedikit kotoran.</StrawMatting.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>Tanah kayu</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Tab kayu untuk merasakan panas dan perasaan di rumah.Meskipun cepat ditempatkan, itu juga sangat mudah terbakar.</WoodPlankFloor.description>
+  
+</LanguageData>

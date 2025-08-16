@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <TreeCutting_Disapproved.label>tidak disetujui</TreeCutting_Disapproved.label>
+  <!-- EN: To cut down a tree is a distasteful thing to do. -->
+  <TreeCutting_Disapproved.description>Tebakan pohon adalah hal yang tidak menyenangkan untuk dilakukan.</TreeCutting_Disapproved.description>
+  <!-- EN: Someone cut down a tree -->
+  <TreeCutting_Disapproved.comps.2.description>Seseorang berbicara pohon</TreeCutting_Disapproved.comps.2.description>
+  
+  <!-- EN: horrible -->
+  <TreeCutting_Horrible.label>mengerikan</TreeCutting_Horrible.label>
+  <!-- EN: To cut down a tree is a horrible act. -->
+  <TreeCutting_Horrible.description>Tebakan pohon adalah tindakan yang mengerikan.</TreeCutting_Horrible.description>
+  <!-- EN: Someone cut down a tree -->
+  <TreeCutting_Horrible.comps.2.description>Seseorang berbicara pohon</TreeCutting_Horrible.comps.2.description>
+  
+  <!-- EN: prohibited -->
+  <TreeCutting_Prohibited.label>terlarang</TreeCutting_Prohibited.label>
+  <!-- EN: To violate the forest by cutting down a tree is a deeply abhorrent act and should never be done. -->
+  <TreeCutting_Prohibited.description>Merusak hutan dengan mengukir pohon adalah tindakan menjijikkan yang tidak boleh dilakukan.</TreeCutting_Prohibited.description>
+  <!-- EN: Someone cut down a tree -->
+  <TreeCutting_Prohibited.comps.2.description>Seseorang berbicara pohon</TreeCutting_Prohibited.comps.2.description>
+  
+</LanguageData>

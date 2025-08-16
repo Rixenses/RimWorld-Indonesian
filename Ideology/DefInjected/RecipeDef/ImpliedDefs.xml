@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabricar gorra autoritaria -->
+  <Make_Apparel_AuthorityCap.label>Buat topi otoriter</Make_Apparel_AuthorityCap.label>
+  <!-- EN: Fabrica una gorra autoritaria. -->
+  <Make_Apparel_AuthorityCap.description>Buat topi otoriter.</Make_Apparel_AuthorityCap.description>
+  <!-- EN: Fabricando gorra autoritaria. -->
+  <Make_Apparel_AuthorityCap.jobString>Membuat topi otoriter.</Make_Apparel_AuthorityCap.jobString>
+  
+  <!-- EN: fabricar venda para los ojos -->
+  <Make_Apparel_Blindfold.label>Buat perban mata</Make_Apparel_Blindfold.label>
+  <!-- EN: Fabrica una venda para los ojos. -->
+  <Make_Apparel_Blindfold.description>Membuat eyebaring.</Make_Apparel_Blindfold.description>
+  <!-- EN: Fabricando venda para los ojos. -->
+  <Make_Apparel_Blindfold.jobString>Membuat perban mata.</Make_Apparel_Blindfold.jobString>
+  
+  <!-- EN: fabricar arnés de esclavo -->
+  <Make_Apparel_BodyStrap.label>membuat slave harness</Make_Apparel_BodyStrap.label>
+  <!-- EN: Fabrica un arnés de esclavo. -->
+  <Make_Apparel_BodyStrap.description>Membuat slave harness.</Make_Apparel_BodyStrap.description>
+  <!-- EN: Fabricando arnés de esclavo. -->
+  <Make_Apparel_BodyStrap.jobString>Membuat Burka.</Make_Apparel_BodyStrap.jobString>
+  
+  <!-- EN: fabricar hiyab -->
+  <Make_Apparel_Broadwrap.label>Buat hiyab</Make_Apparel_Broadwrap.label>
+  <!-- EN: Fabrica un hiyab. -->
+  <Make_Apparel_Broadwrap.description>Buat jilbab.</Make_Apparel_Broadwrap.description>
+  <!-- EN: Fabricando hiyab. -->
+  <Make_Apparel_Broadwrap.jobString>Membuat hiyab.</Make_Apparel_Broadwrap.jobString>
+  
+  <!-- EN: fabricar burka -->
+  <Make_Apparel_Burka.label>Buat Burka</Make_Apparel_Burka.label>
+  <!-- EN: Fabrica un burka. -->
+  <Make_Apparel_Burka.description>Buat burka.</Make_Apparel_Burka.description>
+  
+  <!-- EN: fabricar collar de esclavo -->
+  <Make_Apparel_Collar.label>membuat kalung budak</Make_Apparel_Collar.label>
+  <!-- EN: Fabrica un collar de esclavo. -->
+  <Make_Apparel_Collar.description>Membuat kalung budak.</Make_Apparel_Collar.description>
+  <!-- EN: Fabricando collar de esclavo. -->
+  <Make_Apparel_Collar.jobString>Membuat kalung budak.</Make_Apparel_Collar.jobString>
+  
+  <!-- EN: fabricar gorro de ala ancha -->
+  <Make_Apparel_Flophat.label>Membuat topi sayap yang lebar</Make_Apparel_Flophat.label>
+  <!-- EN: Fabrica un gorro de ala ancha. -->
+  <Make_Apparel_Flophat.description>Buat topi sayap yang lebar.</Make_Apparel_Flophat.description>
+  <!-- EN: Fabricando gorro de ala ancha. -->
+  <Make_Apparel_Flophat.jobString>Membuat topi sayap lebar.</Make_Apparel_Flophat.jobString>
+  
+  <!-- EN: fabricar turbante -->
+  <Make_Apparel_Headwrap.label>Buat Turbant</Make_Apparel_Headwrap.label>
+  <!-- EN: Fabrica un turbante. -->
+  <Make_Apparel_Headwrap.description>Membuat sorban.</Make_Apparel_Headwrap.description>
+  <!-- EN: Fabricando turbante. -->
+  <Make_Apparel_Headwrap.jobString>Membuat sorban.</Make_Apparel_Headwrap.jobString>
+  
+  <!-- EN: fabricar sombrero cónico -->
+  <Make_Apparel_Shadecone.label>Membuat topi kerucut</Make_Apparel_Shadecone.label>
+  <!-- EN: Fabrica un sombrero cónico. -->
+  <Make_Apparel_Shadecone.description>Membuat topi kerucut.</Make_Apparel_Shadecone.description>
+  <!-- EN: Fabricando sombrero cónico. -->
+  <Make_Apparel_Shadecone.jobString>Membuat topi kerucut.</Make_Apparel_Shadecone.jobString>
+  
+  <!-- EN: fabricar gorra -->
+  <Make_Apparel_Slicecap.label>Membuat setengah topi</Make_Apparel_Slicecap.label>
+  <!-- EN: Fabrica una gorra. -->
+  <Make_Apparel_Slicecap.description>Buat setengah topi.</Make_Apparel_Slicecap.description>
+  <!-- EN: Fabricando gorra. -->
+  <Make_Apparel_Slicecap.jobString>Membuat setengah topi.</Make_Apparel_Slicecap.jobString>
+  
+  <!-- EN: fabricar gorro con cola -->
+  <Make_Apparel_Tailcap.label>Membuat topi dengan ekor</Make_Apparel_Tailcap.label>
+  <!-- EN: Fabrica un gorro con cola. -->
+  <Make_Apparel_Tailcap.description>Buat topi dengan ekor.</Make_Apparel_Tailcap.description>
+  <!-- EN: Fabricando gorro con cola. -->
+  <Make_Apparel_Tailcap.jobString>Membuat topi dengan ekor.</Make_Apparel_Tailcap.jobString>
+  
+  <!-- EN: fabricar corona de tortura -->
+  <Make_Apparel_TortureCrown.label>Membuat mahkota siksaan</Make_Apparel_TortureCrown.label>
+  <!-- EN: Fabrica una corona de tortura. -->
+  <Make_Apparel_TortureCrown.description>Membuat mahkota siksaan.</Make_Apparel_TortureCrown.description>
+  <!-- EN: Fabricando corona de tortura. -->
+  <Make_Apparel_TortureCrown.jobString>Membuat mahkota penyiksaan.</Make_Apparel_TortureCrown.jobString>
+  
+  <!-- EN: fabricar máscara facial -->
+  <Make_Apparel_VisageMask.label>Membuat topeng wajah</Make_Apparel_VisageMask.label>
+  <!-- EN: Fabrica una máscara facial. -->
+  <Make_Apparel_VisageMask.description>Buat topeng wajah.</Make_Apparel_VisageMask.description>
+  <!-- EN: Fabricando máscara facial. -->
+  <Make_Apparel_VisageMask.jobString>Membuat topeng wajah.</Make_Apparel_VisageMask.jobString>
+  
+</LanguageData>

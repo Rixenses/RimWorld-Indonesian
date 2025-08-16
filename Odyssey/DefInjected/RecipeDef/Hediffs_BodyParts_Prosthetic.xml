@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install blood warmer -->
+  <InstallBloodWarmer.label>Pemanas Darah Implan</InstallBloodWarmer.label>
+  <!-- EN: Install blood warmer. -->
+  <InstallBloodWarmer.description>Menanamkan pemanas darah.</InstallBloodWarmer.description>
+  <!-- EN: Installing blood warmer. -->
+  <InstallBloodWarmer.jobString>Menerapkan pemanas darah.</InstallBloodWarmer.jobString>
+  
+  <!-- EN: install pilot assistant -->
+  <InstallPilotAssistant.label>Menerapkan asisten pilot</InstallPilotAssistant.label>
+  <!-- EN: Install a pilot assistant. -->
+  <InstallPilotAssistant.description>Menanamkan asisten pilot.</InstallPilotAssistant.description>
+  <!-- EN: Installing pilot assistant. -->
+  <InstallPilotAssistant.jobString>Menerapkan asisten pilot.</InstallPilotAssistant.jobString>
+  
+  <!-- EN: remove pilot assistant -->
+  <RemovePilotAssistant.label>Ekstrak asisten pilot</RemovePilotAssistant.label>
+  <!-- EN: Remove pilot assistant. -->
+  <RemovePilotAssistant.description>Ekstrak asisten pilot.</RemovePilotAssistant.description>
+  <!-- EN: Removing pilot assistant. -->
+  <RemovePilotAssistant.jobString>Mengekstraksi asisten pilot.</RemovePilotAssistant.jobString>
+  
+</LanguageData>

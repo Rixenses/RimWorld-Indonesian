@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animal calm -->
+  <AnimalCalm.label>hewan yang tenang</AnimalCalm.label>
+  <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
+  <AnimalCalm.description>Gunakan metode koneksi hewan yang unik untuk menenangkan binatang buas yang gila.</AnimalCalm.description>
+  <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{Initiator_labelshort} telah berhasil menenangkan {recipient_labelshort}</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>sangat marah</BerserkTrance.label>
+  <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
+  <BerserkTrance.description>Pitcher dipenuhi dengan kemarahan oleh keluhan ideologis.Ini memperkuat tubuh di luar batas normal, tetapi juga melibatkan kehilangan kendali dan menyerang semua musuh dekat dengan kemarahan yang tak terhentikan.Keadaan kegilaan akan berlangsung 3 jam.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>mandat</CombatCommand.label>
+  <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
+  <CombatCommand.description>Buat aura yang meningkatkan keterampilan tempur dari semua yang dekat.Efeknya berlangsung 24 jam dan tetap melekat pada pemimpin saat bertahan lama.</CombatCommand.description>
+  
+  <!-- EN: conversion ritual -->
+  <ConversionRitual.label>ritual konversi</ConversionRitual.label>
+  <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
+  <ConversionRitual.description>Cobalah untuk membujuk seseorang untuk mengadopsi keyakinan Anda.Jika berjalan dengan baik, mereka akan kehilangan beberapa kepastian dalam ideoligía mereka dan mungkin menjadi. Jika hasilnya negatif, ia akan mendapatkan kepastian dalam keyakinan lamanya.</ConversionRitual.description>
+  
+  <!-- EN: convert -->
+  <Convert.label>konversi</Convert.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <Convert.description>Cobalah untuk mengubah seseorang menjadi ideolisasi pembicara.Ini akan mengurangi kepastian tujuan dalam keyakinannya sendiri.Pengurangan kepastian tergantung pada kapasitas negosiasi pembicara.</Convert.description>
+  <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{Initiator_labelshort} belum dapat mengubah {penerima_lallshort}.Upaya itu telah mengganggunya, tetapi kepastiannya telah turun dari {certintybefore} a {certintyafter}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{Initiator labelshort} ha convertIdo a {label penerima pendek} a {video}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <!-- EN: counsel -->
+  <Counsel.label>menasihati</Counsel.label>
+  <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
+  <Counsel.description>Ini menawarkan saran kepada seseorang untuk membatalkan efek memori yang menyedihkan.Peluang keberhasilan tergantung pada keterampilan sosial pembicara dan hubungan mereka dengan tujuan.</Counsel.description>
+  <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{Initiator_labelshort} telah merusak upaya untuk memberi nasihat {recipient_labelshort}.{Recipient_labelshort} telah mengganggu.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{Initiator_labelshort} telah berhasil menyarankan {recipient_labelshort}, membatalkan dampak {2} terhadap humornya.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{Initiator_labelshort} telah berhasil menyarankan {recipient_labelshort}, meningkatkan humornya {moodbonus} poin.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+
+  <!-- EN: farming command -->
+  <FarmingCommand.label>mandat budidaya</FarmingCommand.label>
+  <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <FarmingCommand.description>Ini menawarkan panduan tentang teknik budidaya, meningkatkan keterampilan budidaya semua yang dekat. Efeknya tetap terkait dengan pitcher selama 24 jam.</FarmingCommand.description>
+
+  <!-- EN: Immunity drive -->
+  <ImmunityDrive.label>moral Kekebalan</ImmunityDrive.label>
+  <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
+  <ImmunityDrive.description>Ini menawarkan dukungan moral yang memberikan energi pada tubuh, meningkatkan keuntungan kekebalan seseorang selama sehari.</ImmunityDrive.description>
+  
+  <!-- EN: leader speech -->
+  <LeaderSpeech.label>pidato pemimpin</LeaderSpeech.label>
+  <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
+  <LeaderSpeech.description>Mulailah pidato pemimpin. Jika berjalan dengan baik, pendengar akan meningkatkan suasana hati mereka, mereka akan mendapatkan rasa hormat kepada pembicara dan mungkin mendapatkan inspirasi baru. Jika tidak, kerusakan sosial akan terjadi.</LeaderSpeech.description>
+
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>mandat penembak</MarksmanCommand.label>
+  <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MarksmanCommand.description>Pesan tembakan dan tingkatkan keterampilan menembak semua yang dekat. Efeknya tetap terkait dengan pitcher selama 24 jam.</MarksmanCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>mandat penambangan</MiningCommand.label>
+  <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MiningCommand.description>Ini menawarkan panduan dalam teknik penambangan, meningkatkan kecepatan penambangan untuk semua orang. Efeknya dipertahankan pada invoker Anda selama 24 jam.</MiningCommand.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>berdoa untuk kesehatan</PreachHealth.label>
+  <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
+  <PreachHealth.description>Kekuatan doa kepada orang yang sakit atau terluka melalui konsep ideologis Anda. Ini akan meningkatkan perolehan penyembuhan dan kekebalan Anda.</PreachHealth.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommand.label>Mandat Produksi</ProductionCommand.label>
+  <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ProductionCommand.description>Ini menawarkan panduan dalam teknik konstruksi, meningkatkan kecepatan produksi dan konstruksi untuk semua orang.Efeknya dipertahankan pada invoker Anda selama 24 jam.</ProductionCommand.description>
+  
+  <!-- EN: reassure -->
+  <Reassure.label>meyakinkan</Reassure.label>
+  <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
+  <Reassure.description>Meningkatkan kepastian seseorang dalam ide -ide mereka sendiri.Kepastian yang dipulihkan akan tergantung pada kemampuan negosiasi.</Reassure.description>
+  <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{Initiator_labelShort} telah meyakinkan {Recipient_labelShort}, meningkatkan kepastiannya di {IDEO} dari {BEFORECERTAINTY} a {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+
+  <!-- EN: research command -->
+  <ResearchCommand.label>Mandat Penelitian</ResearchCommand.label>
+  <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ResearchCommand.description>Ini memberikan saran dan dukungan mental, meningkatkan tingkat penelitian dari seluruh dunia.Efeknya dipertahankan pada invoker Anda selama 24 jam.</ResearchCommand.description>
+  
+  <!-- EN: trial -->
+  <Trial.label>keputusan</Trial.label>
+  <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
+  <Trial.description>Ini menuduh seseorang melakukan kesalahan yang mengerikan dan memulai persidangan, di mana itu akan bersalah atau dibebaskan.Jika subjek dinyatakan bersalah, ia mungkin dipenjara dengan bebas, mengeksekusi, atau mengusir dari koloni tanpa penalti.Kemungkinan kecaman tergantung pada keterampilan sosial terdakwa dan penuduh.</Trial.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>moral kerja</WorkDrive.label>
+  <!-- EN: Call on a person to work harder for some time. -->
+  <WorkDrive.description>Buat seseorang bekerja lebih keras untuk sementara waktu.</WorkDrive.description>
+  
+</LanguageData>

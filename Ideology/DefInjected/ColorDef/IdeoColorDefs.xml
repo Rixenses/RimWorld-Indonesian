@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black -->
+  <Black.label>hitam</Black.label>
+  
+  <!-- EN: blue -->
+  <Blue.label>biru</Blue.label>
+  
+  <!-- EN: dark blue -->
+  <DarkBlue.label>biru tua</DarkBlue.label>
+  
+  <!-- EN: dark green -->
+  <DarkGreen.label>Hijau gelap</DarkGreen.label>
+  
+  <!-- EN: dark grey -->
+  <DarkGrey.label>Ash -gray gelap</DarkGrey.label>
+  
+  <!-- EN: dark mauve -->
+  <DarkMauve.label>Malva Gelap</DarkMauve.label>
+  
+  <!-- EN: dark olive -->
+  <DarkOlive.label>Zaitun gelap</DarkOlive.label>
+  
+  <!-- EN: dark orange -->
+  <DarkOrange.label>Oranye gelap</DarkOrange.label>
+  
+  <!-- EN: dark pink -->
+  <DarkPink.label>Merah Muda Gelap</DarkPink.label>
+  
+  <!-- EN: dark purple -->
+  <DarkPurple.label>ungu gelap</DarkPurple.label>
+  
+  <!-- EN: dark red -->
+  <DarkRed.label>Merah Gelap</DarkRed.label>
+  
+  <!-- EN: dark sapphire -->
+  <DarkSapphire.label>Zafiro gelap</DarkSapphire.label>
+  
+  <!-- EN: dark teal -->
+  <DarkTeal.label>Hijau Kegelapan</DarkTeal.label>
+  
+  <!-- EN: green -->
+  <Green.label>verde</Green.label>
+  
+  <!-- EN: grey -->
+  <Grey.label>gris</Grey.label>
+  
+  <!-- EN: light blue -->
+  <LightBlue.label>biru muda</LightBlue.label>
+  
+  <!-- EN: light green -->
+  <LightGreen.label>hijau muda</LightGreen.label>
+  
+  <!-- EN: light grey -->
+  <LightGrey.label>Abu orang muda</LightGrey.label>
+  
+  <!-- EN: light mauve -->
+  <LightMauve.label>Clear Malva</LightMauve.label>
+  
+  <!-- EN: light olive -->
+  <LightOlive.label>Clear Olive</LightOlive.label>
+  
+  <!-- EN: light orange -->
+  <LightOrange.label>Berlama -lama</LightOrange.label>
+  
+  <!-- EN: light pink -->
+  <LightPink.label>Mawar jernih</LightPink.label>
+  
+  <!-- EN: light purple -->
+  <LightPurple.label>Ungu bening</LightPurple.label>
+  
+  <!-- EN: light red -->
+  <LightRed.label>Jernih merah</LightRed.label>
+  
+  <!-- EN: light sapphire -->
+  <LightSapphire.label>Clear Zafiro</LightSapphire.label>
+  
+  <!-- EN: light teal -->
+  <LightTeal.label>Hijau kebiruan ringan</LightTeal.label>
+  
+  <!-- EN: mauve -->
+  <Mauve.label>ungu muda</Mauve.label>
+  
+  <!-- EN: olive -->
+  <Olive.label>Oliva</Olive.label>
+  
+  <!-- EN: orange -->
+  <Orange.label>oranye</Orange.label>
+  
+  <!-- EN: pink -->
+  <Pink.label>Rosa</Pink.label>
+  
+  <!-- EN: purple -->
+  <Purple.label>ungu</Purple.label>
+  
+  <!-- EN: red -->
+  <Red.label>rojo</Red.label>
+  
+  <!-- EN: sapphire -->
+  <Sapphire.label>safir</Sapphire.label>
+  
+  <!-- EN: teal -->
+  <Teal.label>Hijau kebiruan</Teal.label>
+  
+</LanguageData>

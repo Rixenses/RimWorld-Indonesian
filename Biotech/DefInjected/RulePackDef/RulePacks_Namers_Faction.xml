@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Playnacore-> [sily] [silsy]</li>
+    <li>Placenamecore-> [Syli] [Syli] [Syli]</li>
+    <li>Placenamecore-> [Syli] [Placend]</li>
+    <li>Placenamecore-> [Syli] [Syli] [Placeend]</li>
+    <li>Placeend-> ACH</li>
+    <li>Placeend-> a</li>
+    <li>Placeend-> et</li>
+    <li>Placend-> Zoz</li>
+    <li>Penataan-> dan</li>
+    <li>Placend-> oz</li>
+    <li>placeend-> echz</li>
+    <li>Placeend-> Ess</li>
+    <li>Placeend-> Onss</li>
+    <li>Penempatan-> di</li>
+    <li>Placeend-> ichs</li>
+    <li>Placeend-> Izz</li>
+    <li>Placeend-> Sezz</li>
+    <li>Placeend-> tch</li>
+    <li>Placeend-> tchz</li>
+    <li>placeEnd->ken</li>
+    <li>Placeend-> Roads</li>
+    <li>Placend-> Vel</li>-><ImpidUtility.rulePack.rulesStrings>
+    <li>Playnacore-> [sily] [silsy]</li>
+    <li>Placenamecore-> [Syli] [Syli] [Syli]</li>
+    <li>Placenamecore-> [Syli] [Placend]</li>
+    <li>Placenamecore-> [Syli] [Syli] [Placeend]</li>
+    <li>Placeend-> ACH</li>
+    <li>Placeend-> a</li>
+    <li>Placeend-> et</li>
+    <li>Placend-> Zoz</li>
+    <li>Penataan-> dan</li>
+    <li>Placend-> oz</li>
+    <li>placeend-> echz</li>
+    <li>Placeend-> Ess</li>
+    <li>Placeend-> Onss</li>
+    <li>Penempatan-> di</li>
+    <li>Placeend-> ichs</li>
+    <li>Placeend-> Izz</li>
+    <li>Placeend-> Sezz</li>
+    <li>Placeend-> tch</li>
+    <li>Placeend-> tchz</li>
+    <li>Tempatkan bebek-> Ken</li>
+    <li>Placeend-> Roads</li>
+    <li>Placend-> Vel</li>
+  </ImpidUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [namecore]</li>
+    <li>r_name-> [namecore] [Political_Union_outlander]</li>
+    <li>r_name-> [POLITIC_UTION_OUTLANDER] dari [NAMECORE]</li>
+    <li>Mungkinhyphen (p = 3)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>namecore-> [sylp] [Maybyhyphen] [sylp]</li>
+    <li>Name Core-> [Sylph] [Mungkin Hyphen] [Sylph] [mungkin Hyphen] [Sylph]</li>
+    <li>namecore-> [sylp] [mungkinhyphen] [end]</li>
+    <li>namecore-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [end]</li>
+    <li>Akhir> ya</li>
+    <li>END-> LOK</li>
+    <li>End-> lom</li>
+    <li>end-> oink</li>
+    <li>End-> Gug</li>
+    <li>End-> dan</li>
+    <li>End-> mata</li>
+    <li>end-> babi</li>
+    <li>end-> pog</li>
+    <li>End-> mok</li>
+    <li>end-> mm</li>-><NamerFactionOutlanderPig.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [namecore]</li>
+    <li>r_name-> [POLITIC_UTION_OUTLANDER] [NAMECORE]</li>
+    <li>r_name-> [Political_Union_outlander] de [Namecore]</li>
+    <li>Mungkinhyphen (p = 3)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>namecore-> [sylp] [Maybyhyphen] [sylp]</li>
+    <li>Name Core-> [Sylph] [Mungkin Hyphen] [Sylph] [mungkin Hyphen] [Sylph]</li>
+    <li>namecore-> [sylp] [mungkinhyphen] [end]</li>
+    <li>namecore-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [end]</li>
+    <li>end-> kelinci</li>
+    <li>END-> LOK</li>
+    <li>End-> ham</li>
+    <li>end-> oinc</li>
+    <li>END-> CERDIL</li>
+    <li>END-> PUERCO</li>
+    <li>End-> mata</li>
+    <li>End-> babi</li>
+    <li>end-> pog</li>
+    <li>end-> bacon</li>
+    <li>end-> tocineta</li>
+  </NamerFactionOutlanderPig.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [poison] [groupName]</li>
+    <li>r_name-> [racun] [pria]</li>
+    <li>Men-> Tapi</li>
+    <li>pria-> kru</li>
+    <li>Men-> Got</li>
+    <li>pria-> chokers</li>
+    <li>pria-> Pillers</li>
+    <li>pria-> Psiker</li>
+    <li>Pria-> tokser</li>
+    <li>Men-> Blighters</li>
+    <li>Men-> pemboros</li>
+    <li>Men-> Packers</li>
+    <li>Men-> Slickers</li>
+    <li>Men-> Slickers</li>
+    <li>pria-> hama</li>
+    <li>Men-> Sampah</li>-><NamerFactionPirateWaster.rulePack.rulesStrings>
+    <li>r_name-> [GroupName] [PoisonAdjpl]</li>
+    <li>r_name-> [pria] [poisonadjpl]</li>
+    <li>Pria-> pria</li>
+    <li>Kelompok-> grup</li>
+    <li>Men-> Rufianes</li>
+    <li>Men-> Pencurian</li>
+    <li>Men-> PILLOS</li>
+    <li>Pria-> psikis</li>
+    <li>beracun</li>
+    <li>Men-> Cengadores</li>
+    <li>Men-> Scoria</li>
+    <li>Men-> Anggota Geng</li>
+    <li>Men-> Slug</li>
+    <li>Men-> sulit dipahami</li>
+    <li>Pria-> parasit</li>
+    <li>Men-> penjudi</li>
+  </NamerFactionPirateWaster.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [placenamecore] [faksi]</li>
+    <li>r_name-> [faksi] dari [Placenamecore]</li>
+    <li>Faksi-> RoarClan</li>
+    <li>Faksi-> Suku</li>
+    <li>faksi-> klan</li>
+    <li>Faksi-> Roar</li>
+    <li>faksi-> paket</li>
+    <li>Faksi-> Keluarga</li>
+    <li>faksi-> bulu</li>
+    <li>Faksi-> Kinroar</li>-><NamerFactionPirateYttakin.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [faksi] [Placenamecore]</li>
+    <li>r_name-> [faksi] de [placenamecore]</li>
+    <li>Facion-> Klan Rugido</li>
+    <li>faksi-> tribu</li>
+    <li>faksi-> klan</li>
+    <li>Faksi-> meraung</li>
+    <li>faksi-> manada</li>
+    <li>faksi-> familia</li>
+    <li>Faksi-> Peludos</li>
+    <li>Faksi-> Peludos</li>
+  </NamerFactionPirateYttakin.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [placenamecore] [faksi]</li>
+    <li>r_name-> [faksi] dari [Placenamecore]</li>
+    <li>faksi-> clade</li>
+    <li>faksi-> liga</li>
+    <li>faksi-> RUNSHIPE</li>
+    <li>faksi-> sprintship</li>
+    <li>Faksi-> Flamehome</li>
+    <li>faksi-> firehome</li>-><NamerFactionTribalImpid.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [faksi] [Placenamecore]</li>
+    <li>r_name-> [faksi] de [placenamecore]</li>
+    <li>Faksi-> clado</li>
+    <li>faksi-> liga</li>
+    <li>Faksi-> kapal cepat</li>
+    <li>Faksi-> Nave Veloz</li>
+    <li>faksi-> quemacasa</li>
+    <li>Faksi-> rumah api</li>
+  </NamerFactionTribalImpid.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [placenamecore] [Political_union_tribal]</li>
+    <li>r_name-> [Political_Union_Tribal] dari [Placenamecore]</li>-><NamerFactionTribalNeanderthal.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [placenamecore]</li>
+    <li>r_name-> [POLITIC_UTION_TRIBAL] [PLACENAMECORE]</li>
+    <li>r_name-> [POLITIC_UTION_TRIBAL] de [Placenamecore]</li>
+  </NamerFactionTribalNeanderthal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [townname_wordgen]</li>
+    <li>Mungkinhyphen (p = 3)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [sylp]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [Townend]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [Townend]</li>
+    <li>Townend-> Bille</li>
+    <li>Townend-> Wille</li>
+    <li>Townend-> Bwug</li>
+    <li>Townend-> Born</li>
+    <li>townend-> ambil</li>
+    <li>Townend-> bal</li>
+    <li>Townend-> Wope</li>
+    <li>Townend-> ig</li>
+    <li>Townend-> Kess</li>
+    <li>Townend-> Mur</li>
+    <li>townend-> wig</li>
+    <li>townend-> gon</li>
+    <li>Townend-> dan</li>
+    <li>Townend-> Wen</li>
+    <li>townend-> wag</li>
+    <li>Townend-> ditimbang</li>
+    <li>Townend-> Worg</li>
+    <li>Townend-> roog</li>
+    <li>Townend-> rog</li>
+    <li>Townend-> Welg</li>
+    <li>Townend-> on</li>
+    <li>Townend-> babi</li>-><NamerSettlementOutlanderPig.rulePack.rulesStrings>
+    <li>r_name-> [townname_wordgen]</li>
+    <li>Mungkinhyphen (p = 3)-></li>
+    <li>Mungkinhyphen->-</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [sylp]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [Townend]</li>
+    <li>townname_wordgen-> [sylp] [mungkinhyphen] [sylp] [mungkinhyphen] [Townend]</li>
+    <li>Townend-> Bille</li>
+    <li>Townend-> Wille</li>
+    <li>Townend-> Bwug</li>
+    <li>Townend-> NATO</li>
+    <li>townend-> ambil</li>
+    <li>Townend-> bal</li>
+    <li>Townend-> Wope</li>
+    <li>Townend-> ig</li>
+    <li>Townend-> Kess</li>
+    <li>Townend-> Mur</li>
+    <li>townend-> wig</li>
+    <li>townend-> gon</li>
+    <li>Townend-> dan</li>
+    <li>Townend-> Wen</li>
+    <li>townend-> wag</li>
+    <li>Townend-> ditimbang</li>
+    <li>Townend-> Worg</li>
+    <li>Townend-> roog</li>
+    <li>Townend-> Pernil</li>
+    <li>Townend-> Welg</li>
+    <li>Townend-> CERDIL</li>
+    <li>Townend-> Cerbo</li>
+  </NamerSettlementOutlanderPig.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [townnamewordgen]</li>
+    <li>r_name-> [townnamecombo]</li>
+    <li>Townnamewordgen-> [Syle] [Syle]</li>
+    <li>Townnamewordgen-> [Syle] [Syle] [Syle]</li>
+    <li>Townnamewordgen-> [Syle] [TownendToxic]</li>
+    <li>townnamewordgen-> [style] [style] [Townend Toxic]</li>
+    <li>townendtoxic-> tox</li>
+    <li>townendtoxic-> vor</li>
+    <li>townendtoxic-> son</li>
+    <li>townendtoxic-> zon</li>
+    <li>townendtoxic-> Toth</li>
+    <li>townendtoxic-> zoun</li>
+    <li>townendtoxic-> Slick</li>
+    <li>townendtoxic-> pil</li>
+    <li>townendtoxic-> ash</li>
+    <li>townendtoxic-> ven</li>
+    <li>townnamecombo-> [racun] [kota]</li>
+    <li>kota-> kota</li>
+    <li>Town-> Base</li>
+    <li>kota-> benteng</li>
+    <li>kota-> port</li>
+    <li>KOTA-> HANATIR</li>
+    <li>kota-> penjagaan</li>
+    <li>Kota-> Tank</li>-><NamerSettlementPirateWaster.rulePack.rulesStrings>
+    <li>r_name-> [townnamewordgen]</li>
+    <li>r_name-> [townnamecombo]</li>
+    <li>Townnamewordgen-> [Syle] [Syle]</li>
+    <li>Townnamewordgen-> [Syle] [Syle] [Syle]</li>
+    <li>Townnamewordgen-> [Syle] [TownendToxic]</li>
+    <li>townnamewordgen-> [style] [style] [Townend Toxic]</li>
+    <li>TOWNEND TOXIC-> TOXIC</li>
+    <li>townendtoxic-> vor</li>
+    <li>townendtoxic-> son</li>
+    <li>townendtoxic-> zon</li>
+    <li>townendtoxic-> Toth</li>
+    <li>townendtoxic-> zoun</li>
+    <li>townendtoxic-> baboso</li>
+    <li>townendtoxic-> pil</li>
+    <li>Townendtoxic-> ash</li>
+    <li>townendtoxic-> ven</li>
+    <li>TownNamecombo-> [Town] [Poison]</li>
+    <li>kota-> pueblo</li>
+    <li>Town-> Base</li>
+    <li>Kota-> kuat</li>
+    <li>kota-> puerto</li>
+    <li>Town-> Matadero</li>
+    <li>Kota-> Sampah sampah</li>
+    <li>Town-> Deposit</li>
+  </NamerSettlementPirateWaster.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [Placenamecore]</li>-><NamerSettlementPirateYttakin.rulePack.rulesStrings>
+    <li>r_name-> [Placenamecore]</li>
+  </NamerSettlementPirateYttakin.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [Placenamecore]</li>-><NamerSettlementTribalImpid.rulePack.rulesStrings>
+    <li>r_name-> [Placenamecore]</li>
+  </NamerSettlementTribalImpid.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [Placenamecore]</li>-><NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
+    <li>r_name-> [Placenamecore]</li>
+  </NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Maybeapo (p = 8)-></li>
+    <li>maybeapo-> '</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln] [Maybeapo] [Syln]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [PlaceEnd]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln] [Maybeapo] [PlaceEnd]</li>
+    <li>penempatan-> mereka</li>
+    <li>Placeend-> ilt</li>
+    <li>Placend-> ig</li>
+    <li>Placeend-> fweg</li>
+    <li>Placeend-> Lalu</li>
+    <li>Placeend-> Thor</li>
+    <li>Placend-> Bog</li>
+    <li>Placeend-> ton</li>
+    <li>Penempatan-> kulit</li>
+    <li>Placeend-> Moor</li>
+    <li>Placeend-> Mouk</li>
+    <li>Placend-> mun</li>
+    <li>Placeend-> Mursh</li>
+    <li>Placend-> Man</li>
+    <li>Placeend-> Bel</li>
+    <li>Placend-> Sil</li>
+    <li>tempat dan-> tenggelam</li>
+    <li>Placeend-> Court</li>-><NeanderthalUtility.rulePack.rulesStrings>
+    <li>Maybeapo (p = 8)-></li>
+    <li>maybeapo-> de</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln] [Maybeapo] [Syln]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [PlaceEnd]</li>
+    <li>Placenamecore-> [Syln] [Maybeapo] [Syln] [Maybeapo] [PlaceEnd]</li>
+    <li>penempatan-> mereka</li>
+    <li>Placeend-> ilt</li>
+    <li>Placend-> ig</li>
+    <li>Placeend-> fweg</li>
+    <li>Placeend-> Lalu</li>
+    <li>Placeend-> Thor</li>
+    <li>Placend-> Bog</li>
+    <li>Placeend-> ton</li>
+    <li>Penempatan-> kulit</li>
+    <li>Placeend-> Moor</li>
+    <li>Placeend-> Mouk</li>
+    <li>Placend-> mun</li>
+    <li>Placeend-> Mursh</li>
+    <li>Placend-> Man</li>
+    <li>Placeend-> Bel</li>
+    <li>Placend-> Sil</li>
+    <li>tempat dan-> tenggelam</li>
+    <li>Placeend-> Court</li>
+  </NeanderthalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Racun-> Racun</li>
+    <li>racun-> racun</li>
+    <li>racun-> tox</li>
+    <li>Racun-> tersedak</li>
+    <li>racun-> gas</li>
+    <li>racun-> pil</li>
+    <li>Racun-> Psyck</li>
+    <li>racun-> virus</li>
+    <li>racun-> racun</li>
+    <li>Racun-> Kanker</li>
+    <li>racun-> toksoid</li>
+    <li>Racun-> Blight</li>
+    <li>Poison-> Miasma</li>
+    <li>Racun-> Kotoran</li>
+    <li>Racun-> Sampah</li>
+    <li>racun-> polusi</li>
+    <li>Poison-> Decay</li>
+    <li>Racun-> Sampah</li>
+    <li>Poison-> Pest</li>-><WasterUtility.rulePack.rulesStrings>
+    <li>Poisn-> Poison</li>
+    <li>Poison-> Toxina</li>
+    <li>racun-> tox</li>
+    <li>Poison-> Strangulator</li>
+    <li>racun-> gas</li>
+    <li>racun-> psi</li>
+    <li>racun-> virus</li>
+    <li>Racun-> Ponzoña</li>
+    <li>Racun-> Kanker</li>
+    <li>Poison-> Toxoide</li>
+    <li>Poison-> Plaga</li>
+    <li>Poison-> Miasma</li>
+    <li>Racun-> kotoran</li>
+    <li>Poi-Damage> Bus et al.</li>
+    <li>Racun-> kontaminasi</li>
+    <li>Racun-> Rotrefaction</li>
+    <li>Racun-> Escoria</li>
+    <li>Racun-> over</li>
+    <li>Poisonadjpl-> beracun</li>
+    <li>Poisonadjpl-> Ultratóicos</li>
+    <li>racun djpl-> beracun</li>
+    <li>Poisonadjpl-> Strangulator</li>
+    <li>Poisonadjpl-> apresious</li>
+    <li>Poisonadjpl-> Piline</li>
+    <li>Poisonadjpl-> psipsicóticos</li>
+    <li>Poisonadjpl-> Virulentos</li>
+    <li>Poisonadjpl-> ponzoñososo</li>
+    <li>Poisonadjpl-> Cancerigeno</li>
+    <li>poisonAdjPl->toxoides</li>
+    <li>Poisonadjpl-> dari Plaga</li>
+    <li>Poisonadjpl-> de Miasma</li>
+    <li>Poisonadjpl-> kotor</li>
+    <li>Poisonadjpl-> sampah</li>
+    <li>Poisonadjpl-> Kontaminan</li>
+    <li>Poisonadjpl-> Putrefactos</li>
+    <li>Poisonadjpl-> sching</li>
+    <li>Poisonadjpl-> Pestilentes</li>
+  </WasterUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Placenamecore-> [Syly] [Syly]</li>
+    <li>Placenamecore-> [Syly] [Syly] [Syly]</li>
+    <li>Placenamecore-> [Syly] [Placeend]</li>
+    <li>Placenamecore-> [Syly] [Syly].</li>
+    <li>Placend-> Esh</li>
+    <li>Placend-> dijahit</li>
+    <li>Placeend-> Wytt</li>
+    <li>Placeend-> Wott</li>
+    <li>Placeend-> Wosh</li>
+    <li>Placend-> Barg</li>
+    <li>Placeend-> Berg</li>
+    <li>Placeend-> BERSH</li>
+    <li>Placeend-> Bug</li>
+    <li>Placend-> diubah</li>
+    <li>Placeend-> Byon</li>
+    <li>Tempatkan di> The</li>
+    <li>Placend-> Gen</li>
+    <li>Placend-> yul</li>
+    <li>Planeend-> Ya</li>
+    <li>Lokasi</li>
+    <li>Penataan-> permukaan</li>
+    <li>Placeend-> ys</li>
+    <li>Lokasi</li>-><YttakinUtility.rulePack.rulesStrings>
+    <li>Placenamecore-> [Syly] [Syly]</li>
+    <li>Placenamecore-> [Syly] [Syly] [Syly]</li>
+    <li>Placenamecore-> [Syly] [Placeend]</li>
+    <li>Placenamecore-> [Syly] [Syly].</li>
+    <li>Placend-> Esh</li>
+    <li>Placend-> dijahit</li>
+    <li>Placeend-> Wytt</li>
+    <li>Placeend-> Wott</li>
+    <li>Placeend-> Wosh</li>
+    <li>Placend-> Barg</li>
+    <li>Placeend-> Berg</li>
+    <li>Placeend-> BERSH</li>
+    <li>Placend-> Insectil</li>
+    <li>Placend-> diubah</li>
+    <li>Placeend-> Byon</li>
+    <li>Placend-> Curable</li>
+    <li>Placend-> Gen</li>
+    <li>Placend-> yul</li>
+    <li>Planeend-> Ya</li>
+    <li>Lokasi</li>
+    <li>Penataan-> permukaan</li>
+    <li>Placeend-> ys</li>
+    <li>Lokasi</li>
+  </YttakinUtility.rulePack.rulesStrings>
+  
+</LanguageData>

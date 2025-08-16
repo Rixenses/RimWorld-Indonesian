@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ark -->
+  <RelicInertArk.label>bunker</RelicInertArk.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertArk.description>Objek dengan makna ideoligi.</RelicInertArk.description>
+  
+  <!-- EN: box -->
+  <RelicInertBox.label>laci</RelicInertBox.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertBox.description>Objek dengan makna ideoligi.</RelicInertBox.description>
+  
+  <!-- EN: cube -->
+  <RelicInertCube.label>kubus</RelicInertCube.label>
+  <!-- EN: A hand-sized cube. While now dormant, it was once unnaturally captivating. -->
+  <RelicInertCube.description>Sebuah kubus seukuran satu tangan.Meskipun sekarang tidak aktif, setelah itu menawan secara tidak wajar.</RelicInertCube.description>
+  
+  <!-- EN: chalice -->
+  <RelicInertCup.label>piala</RelicInertCup.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertCup.description>Objek dengan makna ideoligi.</RelicInertCup.description>
+  
+  <!-- EN: fragment -->
+  <RelicInertFragment.label>fragmen</RelicInertFragment.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertFragment.description>Objek dengan makna ideoligi.</RelicInertFragment.description>
+  
+  <!-- EN: pendant -->
+  <RelicInertPendant.label>liontin</RelicInertPendant.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertPendant.description>Objek dengan makna ideoligi.</RelicInertPendant.description>
+  
+  <!-- EN: hilt -->
+  <RelicInertSwordHandle.label>menangani</RelicInertSwordHandle.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertSwordHandle.description>Objek dengan makna ideoligi.</RelicInertSwordHandle.description>
+  
+  <!-- EN: tablet -->
+  <RelicInertTablet.label>Papan berdinding</RelicInertTablet.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertTablet.description>Objek dengan makna ideoligi.</RelicInertTablet.description>
+  
+</LanguageData>

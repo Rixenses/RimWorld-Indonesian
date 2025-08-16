@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make baby food -->
+  <Make_BabyFood.label>makanan bayi</Make_BabyFood.label>
+  <!-- EN: Make baby food, a nutritionally balanced vegetarian mash for babies. While easy to make in large quantities, only babies appreciate its bland taste and mushy texture. -->
+  <Make_BabyFood.description>Siapkan papilla, pure vegetarian yang seimbang nutrisi untuk bayi.Meskipun mudah dilakukan dalam jumlah besar, hanya bayi yang menghargai rasa mereka yang hambar dan tekstur lembut.</Make_BabyFood.description>
+  <!-- EN: vegetarian ingredients -->
+  <Make_BabyFood.ingredients.0.filter.customSummary>Bahan vegetarian</Make_BabyFood.ingredients.0.filter.customSummary>
+  <!-- EN: Making baby food. -->
+  <Make_BabyFood.jobString>Membuat makanan bayi.</Make_BabyFood.jobString>
+  
+  <!-- EN: make baby food x4 -->
+  <Make_BabyFoodBulk.label>Membuat makanan bayi x4</Make_BabyFoodBulk.label>
+  <!-- EN: Make bulk baby food, a nutritionally balanced vegetarian mash for babies. While easy to make in large quantities, only babies appreciate its bland taste and mushy texture. -->
+  <Make_BabyFoodBulk.description>Siapkan bubur curah, pure vegetarian yang seimbang nutrisi untuk bayi.Meskipun mudah dilakukan dalam jumlah besar, hanya bayi yang menghargai rasa mereka yang hambar dan tekstur lembut.</Make_BabyFoodBulk.description>
+  <!-- EN: vegetarian ingredients -->
+  <Make_BabyFoodBulk.ingredients.0.filter.customSummary>Bahan vegetarian</Make_BabyFoodBulk.ingredients.0.filter.customSummary>
+  <!-- EN: Making bulk baby food. -->
+  <Make_BabyFoodBulk.jobString>Membuat makanan bayi curah</Make_BabyFoodBulk.jobString>
+  
+</LanguageData>

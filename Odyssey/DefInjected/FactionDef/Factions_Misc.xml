@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvagers -->
+  <Salvagers.label>besi tua</Salvagers.label>
+  <!-- EN: A ruthless faction of orbital scavengers who scour space for derelict ships and valuable wreckage. Salvagers operate entirely in space. -->
+  <Salvagers.description>Sebuah faksi kejam dari pemulung orbital yang berlari melalui ruang untuk mencari kapal yang ditinggalkan dan sisa -sisa berharga.Logam bekas beroperasi sepenuhnya di ruang angkasa.</Salvagers.description>
+  <!-- EN: boss -->
+  <Salvagers.leaderTitle>bos</Salvagers.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Salvagers.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</Salvagers.messageDefendersAttacking>
+  <!-- EN: pirate -->
+  <Salvagers.pawnSingular>bajak laut</Salvagers.pawnSingular>
+  <!-- EN: pirates -->
+  <Salvagers.pawnsPlural>Bajak laut</Salvagers.pawnsPlural>
+  
+  <!-- EN: traders guild -->
+  <TradersGuild.label>Guild Pedagang</TradersGuild.label>
+  <!-- EN: A loose coalition of orbital traders. Together they form an orbital marketplace that buys and sells goods from around the planet. Orbital traders will also buy goods from the occasional interplanetary trading vessel, giving them access to rare technologies.\n\nThese merchants are rarely found on the planet itself, preferring to live in the safety of their orbital platforms. -->
+  <TradersGuild.description>Koalisi informal pedagang orbital.Bersama -sama mereka membentuk pasar orbital yang membeli dan menjual barang dari seluruh planet.Pedagang Orbital juga membeli barang dagangan dari kapal komersial antarplanet sesekali, yang memberi mereka akses ke teknologi langka.</TradersGuild.description>
+  <!-- EN: magister of trade -->
+  <TradersGuild.leaderTitle>Pedagang Utama</TradersGuild.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TradersGuild.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</TradersGuild.messageDefendersAttacking>
+  <!-- EN: guild member -->
+  <TradersGuild.pawnSingular>Anggota guild</TradersGuild.pawnSingular>
+  <!-- EN: guild members -->
+  <TradersGuild.pawnsPlural>Anggota guild</TradersGuild.pawnsPlural>
+  
+</LanguageData>

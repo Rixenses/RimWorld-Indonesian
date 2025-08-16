@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attended concert -->
+  <AttendedConcert.label>menghadiri konser</AttendedConcert.label>
+  <!-- EN:
+    <li>Tale_noun-> [attender_namedef] menghadiri konser [Organizer_Namedef]</li>
+    <li>tale_noun-> [attender_namedef] Mendengarkan kinerja [Organizer_Namedef]</li>
+    <li>Image-> [attender_namefull] Mendengarkan dengan tenang, [SICKACE_GROUP]</li>
+    <li>Image-> [ATTENDER_NAMEFULL] Menikmati kinerja [Organizer_Namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [attender_namefull] Bergoyang ke musik [SITURCANCE_GROUP]</li>
+    <li>Image-> [attender_namefull] diserap dalam suara [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> Saat bertepuk tangan</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] menari bersama.</li>
+    <li>Kalimat Desc-> [kuantitas adj frase] [Hewan mendengarkan dengan penuh perhatian.</li>-><AttendedConcert.rulePack.rulesStrings>
+    <li>Tale_noun-> [attender_namedef] menghadiri konser [organizer_namedef]]</li>
+    <li>tale_noun-> [attender_namedef] mendengarkan kinerja [Organisasi_Namedef]</li>
+    <li>Image-> [attender_namefulull] Mendengarkan dalam keheningan, [kelompok keadaan]</li>
+    <li>Image-> [attender_namefulull] Menikmati konser [Organisasi_Namefulr] [SICKECANCE_GROUP]</li>
+    <li>Image-> [attender_namefulr] Berayun ke ritme musik [SITUCCANCE_GROUP]</li>
+    <li>Image-> [attender_namefull] Ensimismad [attender_o_a] por el sonido [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> Saat bertepuk tangan</li>
+    <li>Desentencio-> [quantity_adjphrase] [personjob_plural] Bailan bersama-sama.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animaypl] Dengarkan dengan cermat.</li>
+  </AttendedConcert.rulePack.rulesStrings>
+  
+  <!-- EN: held concert -->
+  <HeldConcert.label>Dia merayakan konser</HeldConcert.label>
+  <!-- EN:
+    <li>Tale_noun-> [organizer_namedef] melakukan konser</li>
+    <li>Image-> [organizer_namefull] Memainkan lagu tanda tangan mereka [Soundance_Group]</li>
+    <li>Image-> [organizer_namefull] mengundang orang banyak untuk bernyanyi bersama</li>
+    <li>Image-> [organizer_namefull] Memainkan lagu yang menginspirasi</li>
+    <li>Image-> [organizer_namefull] Melakukan bagian yang sulit [SITURCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> dengan ekspresi yang intens</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] S Listen di dekatnya.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan mendengarkan di dekatnya.</li>-><HeldConcert.rulePack.rulesStrings>
+    <li>Tale_noun-> [Organisasi_Namedef] memberikan konser</li>
+    <li>Image-> [Organier_nameful] Memainkan lagu khusus mereka [SICKECANCE_GROUP]</li>
+    <li>Image-> [Organisasi_nameful] Mengundang publik untuk bernyanyi</li>
+    <li>Image-> [Organier_namefulr] Memainkan lagu yang menginspirasi</li>
+    <li>Image-> [Organizer_name Full] Menafsirkan karya yang rumit [SICKECANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> dengan ekspresi euforik</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] dengarkan dari dekat.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animaypl] dengarkan dari dekat.</li>
+  </HeldConcert.rulePack.rulesStrings>
+  
+</LanguageData>

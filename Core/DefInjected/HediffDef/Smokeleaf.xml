@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf dependence -->
+  <SmokeleafAddiction.label>ketergantungan pada gulma merokok</SmokeleafAddiction.label>
+  <!-- EN: A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <SmokeleafAddiction.description>Kecanduan kimiawi untuk menghisap ganja. Keberadaan obat ini yang terus menerus telah menyebabkan adaptasi neurologis pada tingkat sel, sehingga otak tidak dapat berfungsi dengan baik tanpanya. Tanpa dosis yang teratur untuk menghisap ganja, gejala putus zat akan muncul. Namun, pantangan yang berkelanjutan akan memaksa otak untuk beradaptasi kembali ke keadaan normal, pulih dari kecanduan.</SmokeleafAddiction.description>
+  <!-- EN: withdrawal -->
+  <SmokeleafAddiction.stages.withdrawal.label>pantang</SmokeleafAddiction.stages.withdrawal.label>
+  
+  <!-- EN: stoned on smokeleaf -->
+  <SmokeleafHigh.label>kios dengan gulma merokok</SmokeleafHigh.label>
+  <!-- EN: Smokeleaf's active chemical in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+  <SmokeleafHigh.description>Senyawa yang berasal dari ramuan merokok ke dalam aliran darah. Menghasilkan perasaan sejahtera yang ringan.</SmokeleafHigh.description>
+  <!-- EN: a smokeleaf high -->
+  <SmokeleafHigh.labelNoun>merokok gulma tinggi</SmokeleafHigh.labelNoun>
+  
+  <!-- EN: smokeleaf tolerance -->
+  <SmokeleafTolerance.label>toleransi untuk merokok ganja</SmokeleafTolerance.label>
+  <!-- EN: A built-up tolerance to smokeleaf. The more severe this tolerance is, the more smokeleaf it takes to get the same effect. -->
+  <SmokeleafTolerance.description>Toleransi yang diperoleh untuk merokok ganja. Semakin tinggi, semakin banyak ganja yang perlu dikonsumsi untuk mendapatkan efek yang sama.</SmokeleafTolerance.description>
+  <!-- EN: small -->
+  <SmokeleafTolerance.stages.small.label>minimum</SmokeleafTolerance.stages.small.label>
+  <!-- EN: large -->
+  <SmokeleafTolerance.stages.large.label>Grande</SmokeleafTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>sangat tinggi</SmokeleafTolerance.stages.massive.label>
+  
+</LanguageData>

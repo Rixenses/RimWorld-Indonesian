@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RURGADE_INF-> BITE</li>
+    <li>RURGAGED_INF-> chomp</li>
+    <li>RURGAGED_INF (p = 0,5)-> nip</li>
+    <li>Rusak_past-> bit</li>
+    <li>RURGADE_PAST-> CHOMPED</li>
+    <li>RURGAGED_PAST-> Gigit</li>
+    <li>RURGAGED_PAST-> menggerogoti</li>
+    <li>RURGADE_PAST (Deflected! = True)-> Tore</li>
+    <li>RURGADE_PRESENT-> menggigit</li>
+    <li>RAUPAGED_PRESENT-> CHOMPING</li>
+    <li>RURGAGED_PRESENT-> Gigit</li>
+    <li>RAUPAGED_PRESENT-> Gnawing</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> merobek</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> mengekspos daging di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh == mechanoid)-> mengekspos mesin di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan air mata mengerikan di kulit</li>
+    <li>flavortext_consequence (penerima_flesh == mechanoid)-> meninggalkan air mata mengerikan di logam</li>
+    <li>dihancurkan_past-> merobek</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_past-> bit</li>
+    <li>dihancurkan_present-> merobek</li>
+    <li>dihancurkan_present-> merobek</li>
+    <li>dihancurkan_present-> menggigit</li>
+    <li>dihancurkan_suffix-> [ke] potongan</li>
+    <li>dihancurkan_suffix-> [ke] bit</li>
+    <li>dihancurkan_suffix-> [ke] potongan</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] hancur</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] strip</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] strip berantakan</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] kekacauan yang tidak dapat dikenali</li>-><Maneuver_Bite.rulePack.rulesStrings>
+    <li>RURGAGED_INF-> MORDER</li>
+    <li>RURGAGED_INF-> DENTELLEAR</li>
+    <li>RAVADED_INF (p = 0,5)-> Corttar</li>
+    <li>RURGAGED_PAST-> Mordido</li>
+    <li>RURGAGED_PAST-> Dentellado</li>
+    <li>RURGADE_PAST-> CORTED</li>
+    <li>RURGADE_PAST-> Dentellando</li>
+    <li>RAVAGED_PAST (Deflected! = True)-> rasgado</li>
+    <li>RURGAGED_PRESENT-> Mordiendo</li>
+    <li>RURGADE_PRESENT-> Dentellando</li>
+    <li>RURGAGED_PRESENT-> CORTANDO</li>
+    <li>RURGAGED_PRESENT-> MINCISECO</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> desgarrando</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkannya dalam daging hidup</li>
+    <li>Flavortext_consequence (penerima_flesh == mechanoid)-> Meninggalkan Potongan Mesin</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan bintik-bintik berlemak di kulit</li>
+    <li>Flavortext_consquence (penerima_flesh == mechanoid)-> meninggalkan bintik-bintik berlemak pada logam</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_past-> sparado</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_present-> arrancando</li>
+    <li>hancur_present-> sparando</li>
+    <li>Hancur_present-> merobek</li>
+    <li>dihancurkan_present-> devastando</li>
+    <li>dihancurkan_suffix-> [to] fragmentos</li>
+    <li>dihancurkan_suffix-> [ke] piezas</li>
+    <li>dihancurkan_suffix-> [ke] tiras</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] Trozos</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] tiras</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] Tiras de Carne</li>
+    <li>Dihancurkan_suffix (penerima_flesh! = Mechanoid)-> [ke] bencana yang tidak dapat dikenali</li>
+  </Maneuver_Bite.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] mencoba menendang [tool_label] di mata [penerima_definite], tetapi [penerima_definite] bersandar keluar dari jalan.</li>
+    <li>r_logentry-> [initiator_definite] mencoba menendang [tool_label] di mata [penerima_definite], tetapi [penerima_definite] memblokirnya.</li>-><Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] mencoba melempar [tool_label] di mata [penerima_definite], tetapi [penerima_definite] menghindarinya.</li>
+    <li>r_logentry-> [initiator_definite] mencoba melempar [tool_label] di mata [penerima_definite], tetapi [penerima_definite] memblokirnya.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] menendang [tool_label] di mata [penerima_definite].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] menendang semprotan [tool_label] di mata [penerima_definite].</li>-><Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] melempar [tool_label] di mata [penerima_definite].</li>
+    <li>r_logentry (p = 0.2)-> [initiator_definite] menyebarkan [tool_label] di mata [penerima_definite].</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] mencoba menendang [tool_label] di mata [penerima_definite], tetapi terlewatkan.</li>-><Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] mencoba melempar [tool_label] di mata [penerima_definite], tetapi gagal.</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_INF (p = 2)-> poke</li>
+    <li>RURGADE_INF (p = 2)-> jab</li>
+    <li>RURGAGED_INF-> PROD</li>
+    <li>Rusak_inf-> dorong</li>
+    <li>RURGAGED_INF-> STAB</li>
+    <li>RURGADE_PAST (P = 2)-> Poked</li>
+    <li>RURGAGED_PAST (p = 2)-> Jabbed</li>
+    <li>RURGAGED_PAST-> Didorong</li>
+    <li>RURGADE_PAST-> SHOVED</li>
+    <li>RURGADE_PAST-> Ditikatkan</li>
+    <li>RURGAGED_PRESENT (P = 2)-> Poking</li>
+    <li>RURGAGED_PRESENT (P = 2)-> Jabbing</li>
+    <li>RURGAGED_PRESENT-> MODING</li>
+    <li>RURGADE_PRESENT-> Dorong</li>
+    <li>RURGAGED_PRESENT-> Tikus</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan memar yang sangat besar</li>
+    <li>flavortext_consequence-> meninggalkan daerah itu tampak cacat</li>
+    <li>flavortext_consequence-> mengetuk [penerima_objective] off balance</li>
+    <li>flavortext_consequence-> mengetuk [penerima_objective] ke samping</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dilenyapkan</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> rusak</li>
+    <li>hancur_present-> hancur</li>
+    <li>hancur_present-> crushing</li>
+    <li>dihancurkan_present-> Obliterating</li>
+    <li>dihancurkan_present-> dimusnahkan</li>
+    <li>dihancurkan_present-> Breaking</li>
+    <li>dihancurkan_suffix-> [ke] potongan</li>
+    <li>dihancurkan_suffix-> [ke] bit</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] kabut yang bagus</li>
+    <li>dihancurkan_suffix-> [ke] fragmen</li>-><Maneuver_Poke.rulePack.rulesStrings>
+    <li>RURGADE_INF (p = 2)-> Pincar</li>
+    <li>RURGADE_INF (p = 2)-> punzar</li>
+    <li>RAVAGED_INF-> picar</li>
+    <li>RAVAGED_INF-> empujar</li>
+    <li>Dagied_inf-> apuñalar</li>
+    <li>Dagied_past (p = 2)-> finchado</li>
+    <li>RURGADE_PAST (P = 2)-> Punction</li>
+    <li>RURGAGED_PAST-> picado</li>
+    <li>RURGAGED_PAST-> didorong</li>
+    <li>Dagied_past-> apuñaladado</li>
+    <li>RURGAGED_PRESENT (p = 2)-> Pinchando</li>
+    <li>RURGADE_PRESENT (P = 2)-> Punzando</li>
+    <li>RURGAGED_PRESENT-> picando</li>
+    <li>RURGADE_PRESENT-> Mendorong</li>
+    <li>Dagied_present-> apuñalando</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan hematoma besar</li>
+    <li>Flavortext_consequence-> meninggalkan area yang tampak cacat</li>
+    <li>Flavortext_consequence-> bahwa [penerima_objective] kehilangan keseimbangannya</li>
+    <li>Flavortext_consequence-> hitting [penerima_objective] samping</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> dimusnahkan</li>
+    <li>dihancurkan_past-> roto</li>
+    <li>dihancurkan_present-> nodazando</li>
+    <li>dihancurkan_present-> aplastando</li>
+    <li>Dihancurkan_present-> menghancurkan</li>
+    <li>Hancurkan Present-> Imnilating</li>
+    <li>Dihancurkan_present-> Breaking</li>
+    <li>dihancurkan_suffix-> [ke] piezas</li>
+    <li>dihancurkan_suffix-> [ke] Pitazos</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] una fina niebla</li>
+    <li>dihancurkan_suffix-> [to] fragmentos</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>WoundName-> Wound</li>
+    <li>WoundName (p = 0,3)-> pembukaan</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> dan memaparkan daging di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh == mechanoid)-> dan memaparkan mesin di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> dan meninggalkan [nama luka] berdarah]</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] strip berantakan</li>
+    <li>dihancurkan_suffix-> [ke] strip</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [untuk] potongan-potongan berantakan</li>
+    <li>dihancurkan_suffix-> [ke] potongan</li>
+    <li>dihancurkan_suffix-> [ke] fragmen</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] tumpukan gore</li>-><Maneuver_Scratch.rulePack.rulesStrings>
+    <li>WoundName-> Wound</li>
+    <li>WoundName (p = 0,3)-> laserasi</li>
+    <li>Situasi Teks Rasa (Daging Penerima! = Mechanoid)-> Dengan darah yang meneteskan [nama luka]</li>
+    <li>Flavortext_situation-> dengan cairan yang menetes dari [WoundName]</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> dan memperlihatkan daging di bawah ini</li>
+    <li>Flavortext_consquence (penerima_flesh == mechanoid)-> dan memaparkan mesin di bawahnya</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> dan meninggalkan [nama luka] berdarah]</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] Tiras desordenadas</li>
+    <li>dihancurkan_suffix-> [ke] tiras</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] potongan berantakan</li>
+    <li>dihancurkan_suffix-> [ke] piezas</li>
+    <li>dihancurkan_suffix-> [to] fragmentos</li>
+    <li>Dihancurkan_suffix (penerima_flesh! = Mechanoid)-> [untuk] banyak darah</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGAGED_INF (p = 4)-> Scratch</li>
+    <li>RURGADE_INF (Deflected! = True)-> lacerate</li>
+    <li>RURGAGED_INF (Deflected! = True)-> Tear</li>
+    <li>Rusak_inf-> CUT</li>
+    <li>RURGADE_PAST (p = 4)-> tergores</li>
+    <li>RURGADE_PAST (Deflected! = True)-> lacerated</li>
+    <li>RURGADE_PAST (Deflected! = True)-> Tore</li>
+    <li>Rusak_Past-> CUT</li>
+    <li>Rusak_present-> menggaruk</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> Lacerating</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> merobek</li>
+    <li>RURGADE_PRESENT-> CUTTING</li>
+    <li>dihancurkan_past-> dianiaya</li>
+    <li>dihancurkan_past-> lacerated</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>dihancurkan_present-> mauling</li>
+    <li>dihancurkan_present-> lacerating</li>
+    <li>hancur_present-> merobek</li>
+    <li>dihancurkan_present-> merobek-robek</li>
+    <li>dihancurkan_present-> ripping</li>-><Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>RURGADE_INF (P = 4)-> Scratch</li>
+    <li>RURGAGED_INF (Deflected! = True)-> lacerar</li>
+    <li>RURGAGED_INF (Deflected! = True)-> Desgarrar</li>
+    <li>RURGAGED_INF-> CORTAR</li>
+    <li>RURGAGED_PAST (P = 4)-> Arañado</li>
+    <li>RURGAGED_PAST (Deflected! = True)-> Lacerado</li>
+    <li>RURGAGED_PAST (Deflected! = True)-> Desgarrado</li>
+    <li>RURGADE_PAST-> CORTED</li>
+    <li>RAUPAGED_PRESENT-> Arañando</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> lacerando</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> desgarrando</li>
+    <li>RURGAGED_PRESENT-> CORTANDO</li>
+    <li>dihancurkan_past-> dipukuli</li>
+    <li>dihancurkan_past-> lacerado</li>
+    <li>dihancurkan_past-> terpisah</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> robek</li>
+    <li>Dihancurkan_present-> memukul</li>
+    <li>dihancurkan_present-> lacerando</li>
+    <li>dihancurkan_present-> desprediendo</li>
+    <li>dihancurkan_present-> triturando</li>
+    <li>Hancur_present-> merobek</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGADE_INF (p = 4)-> Slash</li>
+    <li>Rusak_inf-> CUT</li>
+    <li>RURGAGED_INF-> CHOP</li>
+    <li>RURGAGED_INF-> Hack</li>
+    <li>RURGAGED_INF-> Slice</li>
+    <li>RURGADE_INF (Deflected! = True)-> Gash</li>
+    <li>RURGADE_PAST (p = 4)-> Dipotong</li>
+    <li>Rusak_Past-> CUT</li>
+    <li>Rusak_past-> cincang</li>
+    <li>RURGADE_PAST-> diretas</li>
+    <li>Rusak_past-> diiris</li>
+    <li>RURGADE_PAST (Deflected! = True)-> Terang</li>
+    <li>RURGAGED_PRESENT-> SCLASHING</li>
+    <li>RURGADE_PRESENT-> CUTTING</li>
+    <li>RURGADE_PRESENT-> mengiris</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> BRSINGING</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> merobek</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> Lacerating</li>
+    <li>WoundName-> Wound</li>
+    <li>WoundName (p = 0,3)-> pembukaan</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> mengekspos daging di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh == mechanoid)-> mengekspos mesin di bawahnya</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> Meninggalkan berdarah [WoIdName]</li>
+    <li>dihancurkan_past-> dibagi dua</li>
+    <li>dihancurkan_past-> dibagi</li>
+    <li>dihancurkan_past-> dibagi dua</li>
+    <li>dihancurkan_past-> terpisah</li>
+    <li>dihancurkan_past-> split</li>
+    <li>dihancurkan_present-> BISECTING</li>
+    <li>dihancurkan_present-> membagi</li>
+    <li>dihancurkan_present-> separuh</li>
+    <li>dihancurkan_present-> memisahkan</li>
+    <li>dihancurkan_present-> pemisahan</li>
+    <li>dihancurkan_suffix-> menjadi potongan-potongan yang rapi</li>
+    <li>dihancurkan_suffix-> bersih</li>
+    <li>dihancurkan_suffix (target_part_destroyed_count == 1)-> Mengekspos cara kerja dalamnya</li>
+    <li>dihancurkan_suffix (target_part_destroyed_count == 1)-> mengirisnya di Twain</li>-><Maneuver_Slash.rulePack.rulesStrings>
+    <li>RURGADE_INF (p = 4)-> tajar</li>
+    <li>RURGAGED_INF-> CORTAR</li>
+    <li>RURGAGED_INF-> trocear</li>
+    <li>RAVAGED_INF-> picar</li>
+    <li>RAVAGED_INF-> Rajar</li>
+    <li>RURGAGED_INF (Deflected! = True)-> Desgarrar</li>
+    <li>RURGAGED_PAST (p = 4)-> tajado</li>
+    <li>RURGADE_PAST-> CORTED</li>
+    <li>RURGADE_PAST-> troceado</li>
+    <li>RURGAGED_PAST-> picado</li>
+    <li>RURGADE_PAST-> rajado</li>
+    <li>RURGAGED_PAST (Deflected! = True)-> Desgarrado</li>
+    <li>RURGADE_PRESENT-> Tajando</li>
+    <li>RURGAGED_PRESENT-> CORTANDO</li>
+    <li>RURGAGED_PRESENT-> TROCEANDO</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Rajando</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> desgarrando</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> picando</li>
+    <li>WoundName-> Wound</li>
+    <li>WoundName (p = 0,3)-> laserasi</li>
+    <li>Flavortext_situation (penerima_flesh! = Mechanoid)-> dengan darah menetes dari [nama luka]</li>
+    <li>flavortext_situation-> dengan cairan yang menetes dari [nama luka]</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> memperlihatkan daging di bawahnya</li>
+    <li>Flavortext_consequence (penerima_flesh == mechanoid)-> mengekspos mekanisme di bawahnya</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan [nama luka] berdarah]</li>
+    <li>Dihancurkan_past-> Bisted</li>
+    <li>dihancurkan_past-> dividido</li>
+    <li>dihancurkan_past-> dipotong menjadi dua</li>
+    <li>dihancurkan_past-> sparado</li>
+    <li>dihancurkan_past-> partai dalam dua</li>
+    <li>dihancurkan_present-> biseccionando</li>
+    <li>Dihancurkan_present-> membagi</li>
+    <li>Dihancurkan_present-> memotong setengah jalan</li>
+    <li>hancur_present-> sparando</li>
+    <li>Dihancurkan_present-> berangkat menjadi dua</li>
+    <li>dihancurkan_suffix-> dalam potongan yang dipesan</li>
+    <li>Dihancurkan_suffix-> limmpiament</li>
+    <li>dihancurkan_suffix (target_part_destroyed_count == 1)-> exponiendo su mecanismo interno</li>
+    <li>Dihancurkan_suffix (target_drostroyed_count == 1)-> ranándoen dos</li>
+  </Maneuver_Slash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan memar yang sangat besar</li>
+    <li>flavortext_consequence-> meninggalkan daerah itu tampak cacat</li>
+    <li>flavortext_consequence-> mengetuk [penerima_objective] off balance</li>
+    <li>flavortext_consequence-> mengetuk [penerima_objective] ke samping</li>
+    <li>dihancurkan_suffix-> [ke] potongan</li>
+    <li>dihancurkan_suffix-> [ke] bit</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [ke] kabut yang bagus</li>
+    <li>dihancurkan_suffix-> [ke] fragmen</li>-><Maneuver_Smash.rulePack.rulesStrings>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan hematoma besar</li>
+    <li>Flavortext_consequence-> meninggalkan area yang tampak cacat</li>
+    <li>flavortext_consequence-> desequilibrando [penerima_objective]</li>
+    <li>Flavortext_consequence-> memukul [penerima_objective] ke samping</li>
+    <li>dihancurkan_suffix-> [ke] piezas</li>
+    <li>dihancurkan_suffix-> [ke] pedacitos</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid)-> [to] una fina niebla</li>
+    <li>dihancurkan_suffix-> [to] fragmentos</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RAVAGED_INF-> Hit</li>
+    <li>RURGAGED_INF-> Smash</li>
+    <li>RURGADE_INF-> bash</li>
+    <li>RURGAGED_INF-> SLAM</li>
+    <li>Rusak_inf-> mogok</li>
+    <li>RURRAGED_INF-> beat</li>
+    <li>RURGAGED_PAST-> hit</li>
+    <li>Rusak_past-> hancur</li>
+    <li>Rusak_Past-> Dipecahkan</li>
+    <li>RURGAGED_PAST-> dibanting</li>
+    <li>RURGAGED_PAST-> Dipukul</li>
+    <li>Rusak_past-> beat</li>
+    <li>RURSED_PRESENT-> Smashing</li>
+    <li>RURRAGED_PRESENT-> bashing</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> memar</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> rusak</li>
+    <li>hancur_present-> hancur</li>
+    <li>hancur_present-> crushing</li>
+    <li>dihancurkan_present-> Breaking</li>-><Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>RURRAGED_INF-> Golpear</li>
+    <li>RURGAGED_INF-> APLASTAR</li>
+    <li>RURGAGED_INF-> azotar</li>
+    <li>RURGAGED_INF-> Aporrear</li>
+    <li>kerusakan_inf-> penyelundupan</li>
+    <li>RAVAGED_INF-> MAGULLAR</li>
+    <li>RURGAGED_PAST-> hit</li>
+    <li>RURGAGED_PAST-> APLASTADO</li>
+    <li>RURGAGED_PAST-> hit</li>
+    <li>RURGAGED_PAST-> APORREADO</li>
+    <li>RURGADE_PAST-> FUSTIGADO</li>
+    <li>Daged_past-> magullado</li>
+    <li>RURGAGED_PRESENT-> APLASTANDO</li>
+    <li>RURGAGED_PRESENT-> AZOTANDO</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> Magullando</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> hancur</li>
+    <li>dihancurkan_past-> roto</li>
+    <li>dihancurkan_present-> nodazando</li>
+    <li>Hancur_present-> crushing</li>
+    <li>Dihancurkan_present-> Breaking</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>RURGAGED_INF (p = 4)-> Stab</li>
+    <li>RURGAGED_INF-> JAB</li>
+    <li>RURGADE_INF (Deflected! = True)-> Pierce</li>
+    <li>RURGADE_INF (Deflected! = True)-> Tusukan</li>
+    <li>RURGADE_INF (Deflected! = True)-> Tusuk sate</li>
+    <li>RURGAGED_PAST (p = 4)-> ditikam</li>
+    <li>RURGADE_PAST-> Jabbed</li>
+    <li>RURGADE_PAST (Deflected! = True)-> ditusuk</li>
+    <li>RAVAGED_PAST (Deflected! = True)-> tertusuk</li>
+    <li>RURGAGED_PAST (Deflected! = True)-> Tusuk Tusuk</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Piercing</li>
+    <li>RAVAGED_PRESENT (Deflected! = True)-> menusuk</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Penetrasi</li>
+    <li>RURGAGED_PRESENT (Deflected! = True)-> Skewering</li>
+    <li>WoundName-> Hole</li>
+    <li>WoundName-> Wound</li>
+    <li>WoIDName-> CREVICE</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan [nama luka] berdarah]</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan robek [nama luka]</li>
+    <li>flavortext_consequence (penerima_flesh! = mechanoid)-> meninggalkan pendarahan [nama luka]</li>
+    <li>dihancurkan_past-> ditusuk</li>
+    <li>dihancurkan_past-> berlubang</li>
+    <li>dihancurkan_past-> Tusuk sate</li>
+    <li>dihancurkan_present-> menusuk</li>
+    <li>dihancurkan_present-> perforasi</li>
+    <li>dihancurkan_present-> tusuk sate</li>
+    <li>dihancurkan_suffix-> lurus melalui</li>
+    <li>dihancurkan_suffix-> meninggalkan lubang yang bersih</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid, target_part_destroyed_count == 1)-> meninggalkannya bocor cairan berdarah</li>
+    <li>dihancurkan_suffix (target_part_destroyed_count == 1)-> meninggalkannya bocor cairan yang tidak dapat dikenali</li>-><Maneuver_Stab.rulePack.rulesStrings>
+    <li>Dagied_inf (p = 4)-> apuñalar</li>
+    <li>RURGAGED_INF-> PINCHAR</li>
+    <li>RURGAGED_INF (Deflected! = True)-> penetrar</li>
+    <li>RURGADE_INF (Deflected! = True)-> Punzar</li>
+    <li>RURGADE_INF (Deflected! = True)-> Perforar</li>
+    <li>Dagide_past (p = 4)-> apuñaladed</li>
+    <li>RURGADE_PAST-> tertusuk</li>
+    <li>RURGAGED_PAST (Deflected! = True)-> penetrado</li>
+    <li>RURGADE_PAST (Deflected! = True)-> Punzado</li>
+    <li>RURGADE_PAST (Deflected! = True)-> Perforado</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> Atravesando</li>
+    <li>RAVAGED_PRESENT (Deflected! = True)-> Perforando</li>
+    <li>RURGADE_PRESENT (Deflected! = True)-> penetrando</li>
+    <li>RAVAGED_PRESENT (Deflected! = True)-> Ensartando</li>
+    <li>WoundName_mas-> hole</li>
+    <li>WoundName-> Wound</li>
+    <li>WoundName-> Hendidura</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan [nama luka] berdarah]</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> Meninggalkan berdarah [coreName_mas]</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> meninggalkan [nama luka] yang memilukan]</li>
+    <li>Flavortext_consquence (penerima_flesh! = Mechanoid)-> Meninggalkan [coreName_mas] yang memilukan]</li>
+    <li>dihancurkan_past-> ditusuk</li>
+    <li>dihancurkan_past-> perforado</li>
+    <li>dihancurkan_past (p = 0.3)-> Tusuk</li>
+    <li>dihancurkan_present-> empalando</li>
+    <li>dihancurkan_present-> perforando</li>
+    <li>hancur_present (p = 0.3)-> ensartando</li>
+    <li>dihancurkan_suffix-> meninggalkan lubang besar</li>
+    <li>dihancurkan_suffix-> meninggalkan lubang yang bersih</li>
+    <li>dihancurkan_suffix (penerima_flesh! = mechanoid, target_part_destroyed_count == 1)-> meninggalkannya dengan kebocoran cairan berdarah</li>
+    <li>dihancurkan_suffix (target_part_desroyed_count == 1)-> meninggalkannya dengan kebocoran cairan yang tidak dapat dikenali</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
+  
+</LanguageData>

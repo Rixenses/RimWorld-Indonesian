@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient defender turret bullet -->
+  <Bullet_AncientArmoredTurret.label>Bullet Defensora Torreta Kuno</Bullet_AncientArmoredTurret.label>
+  
+  <!-- EN: ancient defender turret gun -->
+  <Gun_AncientArmoredTurret.label>Bek tua Torreta Canyon</Gun_AncientArmoredTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_AncientArmoredTurret.description>Meriam otomatis sederhana yang dirancang untuk dipasang pada menara.</Gun_AncientArmoredTurret.description>
+  <!-- EN: ancient defender turret gun -->
+  <Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>Bek tua Torreta Canyon</Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ancient defender turret -->
+  <Turret_AncientArmoredTurret.label>Defensor kuno Torreta</Turret_AncientArmoredTurret.label>
+  <!-- EN: An armored security turret containing a long-lasting battery. -->
+  <Turret_AncientArmoredTurret.description>Turret keamanan lapis baja yang berisi baterai yang lama.</Turret_AncientArmoredTurret.description>
+  <!-- EN: Disabled -->
+  <Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>Dengan disabilitas</Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: essential -->
+  <Charity_Essential.label>penting</Charity_Essential.label>
+  <!-- EN: We must always be charitable to those in need. To refuse one would be an inhuman act, no matter the circumstances. -->
+  <Charity_Essential.description>Kita harus selalu amal dengan mereka yang membutuhkan.Menolak seseorang akan menjadi tindakan yang tidak manusiawi, terlepas dari keadaan.</Charity_Essential.description>
+  
+  <!-- EN: important -->
+  <Charity_Important.label>penting</Charity_Important.label>
+  <!-- EN: It's important to be charitable to those in need. Refusing to help is a terrible act. -->
+  <Charity_Important.description>Penting untuk amal dengan mereka yang membutuhkan.Menolak membantu adalah tindakan yang mengerikan.</Charity_Important.description>
+  
+  <!-- EN: worthwhile -->
+  <Charity_Worthwhile.label>itu cocok</Charity_Worthwhile.label>
+  <!-- EN: Helping those in need is a good thing. It makes the community stronger. -->
+  <Charity_Worthwhile.description>Membantu mereka yang membutuhkan adalah hal yang baik.Memperkuat koloni.</Charity_Worthwhile.description>
+  
+</LanguageData>

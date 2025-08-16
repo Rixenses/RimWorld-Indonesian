@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: climate adjuster -->
+  <ClimateAdjuster.label>Regulator iklim</ClimateAdjuster.label>
+  <!-- EN: A climate adjuster. -->
+  <ClimateAdjuster.description>Regulator iklim otomatis.</ClimateAdjuster.description>
+  
+  <!-- EN: EMI dynamo -->
+  <EMIDynamo.label>Generator IEM</EMIDynamo.label>
+  <!-- EN: An EMI dynamo. -->
+  <EMIDynamo.description>Generator interferensi elektromagnetik.</EMIDynamo.description>
+  
+  <!-- EN: psychic droner -->
+  <PsychicDroner.label>Buzzer psikis</PsychicDroner.label>
+  <!-- EN: A psychic droner. -->
+  <PsychicDroner.description>Buzzer psikis.</PsychicDroner.description>
+  
+  <!-- EN: psychic suppressor -->
+  <PsychicSuppressor.label>Penekan psikis</PsychicSuppressor.label>
+  <!-- EN: A psychic suppressor. -->
+  <PsychicSuppressor.description>Seorang penekan psikis.</PsychicSuppressor.description>
+  
+  <!-- EN: smoke spewer -->
+  <SmokeSpewer.label>generator asap</SmokeSpewer.label>
+  <!-- EN: A smoke spewer. -->
+  <SmokeSpewer.description>Generator asap otomatis.</SmokeSpewer.description>
+  
+  <!-- EN: sun blocker -->
+  <SunBlocker.label>tabir surya</SunBlocker.label>
+  <!-- EN: A sun blocker machine which turns the sky opaque. -->
+  <SunBlocker.description>Mesin tabir surya otomatis yang menggelapkan langit.</SunBlocker.description>
+  
+  <!-- EN: toxic spewer -->
+  <ToxicSpewer.label>Generator beracun</ToxicSpewer.label>
+  <!-- EN: A toxic spewer. -->
+  <ToxicSpewer.description>Generator beracun otomatis.</ToxicSpewer.description>
+  
+  <!-- EN: weather controller -->
+  <WeatherController.label>Regulator iklim</WeatherController.label>
+  <!-- EN: A weather controller. -->
+  <WeatherController.description>Regulator iklim otomatis.</WeatherController.description>
+  
+</LanguageData>

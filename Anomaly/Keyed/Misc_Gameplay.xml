@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Shamblers -->
+  <!-- EN: Regenerating to rise again. -->
+  <ShamblerRegenerating>Regenerasi ke Kebangkitan.</ShamblerRegenerating>
+  <!-- EN: Rising. -->
+  <ShamblerRising>Bangkit.</ShamblerRising>
+  <!-- EN: Standing listlessly. -->
+  <ShamblerStanding>Berjalan tanpa terkendali.</ShamblerStanding>
+  <!-- EN: Shuffling listlessly. -->
+  <ShamblerShuffling>Merangkak tanpa terkendali.</ShamblerShuffling>
+  <!-- EN: Be careful, the group contains a shambler gorehulk. -->
+  <LetterText_ShamblerGorehulk>Hati -hati, kelompok ini berisi walker gorest.</LetterText_ShamblerGorehulk>
+  <!-- EN: Be careful, the group contains several shambler gorehulks. -->
+  <LetterText_ShamblerGorehulkPlural>Hati -hati, kelompok ini berisi beberapa pejalan kaki Gortescos.</LetterText_ShamblerGorehulkPlural>
+  <!-- EN: Be careful, the group contains a shambler chimera. -->
+  <LetterText_ShamblerChimera>Hati -hati, grup ini berisi walker chimera.</LetterText_ShamblerChimera>
+  <!-- EN: Be careful, the group contains several shambler chimeras. -->
+  <LetterText_ShamblerChimeraPlural>Hati -hati, grup ini berisi beberapa pejalan kaki Chimeras.</LetterText_ShamblerChimeraPlural>
+
+  <!-- EN: Non-humans cannot participate in rituals. -->
+  <MessageRitualCannotBeMutant>Makhluk yang bukan manusia tidak dapat berpartisipasi dalam ritual.</MessageRitualCannotBeMutant>
+
+  <!-- Revenant -->
+  <!-- EN: Revenant attack -->
+  <LetterLabelRevenantRevealed>Serangan redivivatif</LetterLabelRevenantRevealed>
+  <!-- EN: A revenant has revealed itself! -->
+  <LetterRevenantRevealed>Redivive telah terungkap!</LetterRevenantRevealed>
+  <!-- EN: A revenant has revealed itself and is hunting one of your colonists! -->
+  <LetterRevenantRevealedFirst>Redivive telah terungkap dan sedang berburu ke salah satu pemukim Anda!</LetterRevenantRevealedFirst> 
+  <!-- EN: Revenant smear discovered -->
+  <LetterLabelRevenantSmearDiscovered>Temukan bintik -bintik redivive</LetterLabelRevenantSmearDiscovered>
+  <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
+  <LetterRevenantSmearDiscovered>{0} telah memperhatikan titik hitam di tanah.Tampaknya tidak alami dan mengeluarkan bau busuk dan hektar.Masih segar dan basah.Entitas supernatural baru -baru ini pergi ke sini.</LetterRevenantSmearDiscovered>
+  <!-- EN: Revenant killed -->
+  <LetterLabelRevenantKilled>Redivive terbunuh</LetterLabelRevenantKilled>
+  <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
+  <LetterRevenantKilled>Redivive sudah mati!Mereka yang dihipnotis akan pulih. Tubuh \ n \ nsu telah menghilang, meninggalkan tulang belakang mereka.Anda dapat mengumpulkan dan mempelajari tulang belakang, atau menghancurkannya.</LetterRevenantKilled>
+  <!-- EN: {PAWN_nameDef} hypnotized -->
+  <LetterLabelPawnHypnotized>{Pawn_namedef} hipnotizad {pawn_gender?O: A}</LetterLabelPawnHypnotized>
+  <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
+  <LetterPawnHypnotized>{Pawn_namedef} Apakah sudah dihipnotis {Pawn_gender?O: A} oleh redivive dan sekarang tidak menguncinya gambar dan ide pencitraan. Namun, dapat diburu mengikuti bintik -bintik hitam yang ia tinggalkan.Akan terungkap jika dicapai oleh senjata peledak, busa pembakar, PEM, api atau menyala yang mengganggu.</LetterPawnHypnotized>
+  <!-- EN: Revenant flesh chunk -->
+  <LetterRevenantFleshChunkLabel>Sepotong daging redivive</LetterRevenantFleshChunkLabel>
+  <!-- EN: The wounded revenant left behind a piece of itself. You can analyze this flesh chunk to learn how to track the revenant. -->
+  <LetterRevenantFleshChunkText>Redivive yang terluka telah meninggalkan sepotong itu sendiri.Anda dapat menganalisis sepotong daging ini untuk mengetahui cara melacaknya.</LetterRevenantFleshChunkText>
+  <!-- EN: Revenant seen -->
+  <LetterRevenantSeenLabel>Saya menghidupkan kembali Observado</LetterRevenantSeenLabel>
+  <!-- EN: {PAWN_nameDef} has seen a hiding revenant! -->
+  <LetterRevenantSeen>¡{Pawn_namedef} telah melihat Escondido yang dihidupkan kembali!</LetterRevenantSeen>
+  <!-- EN: In trance. -->
+  <InTrance>Dalam trance.</InTrance>
+  <!-- EN: Revenant emergence -->
+  <LetterLabelRevenantEmergence>Penampilan redivive</LetterLabelRevenantEmergence>
+  <!-- EN: The revenant has reemerged from the safety of its spine! Destroy it before it escapes.\n\nIn the process, the revenant has mutated and adopted a new biosignature. -->
+  <LetterRevenantEmergence>Redivive telah muncul kembali dari integritas tulang belakangnya!Hancurkan sebelum melarikan diri.</LetterRevenantEmergence>
+
+  <!-- Sightstealers -->
+  <!-- EN: Sightstealer revealed -->
+  <LetterLabelSightstealerRevealed>Saudara mengamati</LetterLabelSightstealerRevealed>
+  <!-- EN: A twisted creature has appeared out of thin air! -->
+  <LetterSightstealerRevealed>Makhluk bengkok telah muncul entah dari mana!</LetterSightstealerRevealed>
+  <!-- EN: A sightstealer has appeared! -->
+  <MessageSightstealerRevealed>A menyilaukan telah muncul!</MessageSightstealerRevealed>
+  <!-- EN: Sightstealer shrieks -->
+  <LetterLabelSightstealerHowl>Chillidos yang menyilaukan</LetterLabelSightstealerHowl>
+  <!-- EN: Your colonists hear sightstealers shrieking in the distance.\n\nIt's hard to tell where they are or how many. They might arrive immediately or days from now. -->
+  <LetterSightstealerHowl>Pemukim Anda mendengar penutup mata menjerit di kejauhan. Sulit untuk mengetahui di mana mereka berada atau berapa banyak.Mereka bisa tiba segera atau dalam beberapa hari.</LetterSightstealerHowl>
+  <!-- EN: Sightstealer howling -->
+  <LetterLabelSightstealerHowlBig>Melolong membutakan</LetterLabelSightstealerHowlBig>
+  <!-- EN: Your colonists hear a huge number of distant sightstealers screaming in their twisted rage. They are coming.\n\nThey might arrive immediately, or days from now. -->
+  <LetterSightstealerHowlBig>Pemukim Anda mendengar sejumlah besar tirai jauh berteriak dalam kemarahan mereka yang bengkok.Mereka tiba.</LetterSightstealerHowlBig>
+
+  <!-- Death Pall -->
+  <!-- EN: Death pall clearing -->
+  <LetterLabelDeathPallEnded>Disipasi kerudung fana</LetterLabelDeathPallEnded> 
+  <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
+  <LetterDeathPallEnded>Jilbab kematian larut.Mayat dihidupkan kembali dengan ini akan segera kembali ke keadaan alami mereka.</LetterDeathPallEnded>
+  
+  <!-- Pit Gate -->
+  <!-- EN: Pit gate closing -->
+  <LetterLabelGateClosing>Penyegelan tangki vakum</LetterLabelGateClosing>
+  <!-- EN: The pit gate is closing! Its entrance is about to crumble.\n\nThe pit gate entrance was unstable from the start and is finally sealing itself. -->
+  <LetterGateClosing>Lubang vakum ditutup!Pintu masuknya akan runtuh.</LetterGateClosing>
+  <!-- EN: Must be placed adjacent to a pit gate. -->
+  <MustPlaceNextToPitGate>Itu harus ditempatkan di sebelah lubang vakum.</MustPlaceNextToPitGate>
+  <!-- EN: Pit gate closed -->
+  <PitGateClosedHumanityNote>Tangki Vakum Tertutup</PitGateClosedHumanityNote>
+  <!-- EN: Pit gate collapsing -->
+  <PitGateCollapsing>Tangki vakum runtuh</PitGateCollapsing> 
+  <!-- EN: Pit gate settling -->
+  <PitGateSettling>Penyelesaian kuburan vakum</PitGateSettling>
+  <!-- EN: Pit rumbles -->
+  <EmergenceWarningLabel>Pit bergemuruh</EmergenceWarningLabel>
+  <!-- EN: The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon. -->
+  <EmergenceWarningText>Tanah bergetar di bawah kaki Anda dan teriakan yang tidak manusiawi yang beresonansi di lubang tampak semakin.Sesuatu akan muncul.</EmergenceWarningText>
+
+    <!-- Undercave -->
+  <!-- EN: Squirming sounds -->
+  <LetterLabelDreadmeldWarning>Suara memutar</LetterLabelDreadmeldWarning>
+  <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
+  <LetterDreadmeldWarning>Ketika {Pawn_Namedef} mendekati carnimase, rasanya twist yang kuat dan berdebar -debar di bawah permukaannya yang hangat.Entitas hidup besar tersembunyi di balik dinding daging.</LetterDreadmeldWarning> 
+  <!-- EN: Undercave unstable -->
+  <LetterLabelUndercaveCollapsing>Subcueve yang tidak stabil</LetterLabelUndercaveCollapsing> 
+  <!-- EN: The dreadmeld's death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it's too late! -->
+  <LetterUndercaveCollapsing>Kematian Terrofusion telah mengejutkan Carnimase dan telah menyebabkan destabilisasi sistem gua.Carnimosa yang memegang gua sudah mulai memburuk.Dalam siang hari, seluruh gua akan runtuh. \ N \ n</LetterUndercaveCollapsing>
+
+  <!-- Holding platform -->
+  <!-- EN: Holding -->
+  <HoldingThing>Mengandung</HoldingThing>
+  <!-- EN: Remove {0_labelShort} -->
+  <RemoveFromPlatform>Hapus A {0_LabelShort}</RemoveFromPlatform>
+  <!-- EN: Remove the current entity held on the platform. -->
+  <RemoveFromPlatformDesc>Hapus entitas saat ini dari platform.</RemoveFromPlatformDesc>
+  <!-- EN: {GERUND} {TARGETLABEL} from -->
+  <ReleasingEntity>{Gerund} di {targetlableBel} dari</ReleasingEntity>
+  <!-- EN: {GERUND} {TARGETLABEL} -->
+  <TransferringEntity>{Gerund} A {TargetLabel}</TransferringEntity>
+  <!-- EN: Select holding platform -->
+  <SelectHoldingPlatform>Pilih platform penahanan</SelectHoldingPlatform>
+  <!-- EN: Entity escape -->
+  <LetterLabelEscapingFromHoldingPlatform>Entitas melarikan diri</LetterLabelEscapingFromHoldingPlatform> 
+  <!-- EN: The following entities have escaped their restraints:\n\n{0}\n\nBuild stronger containment rooms to stop entities escaping. Entities are less likely to escape from holding platforms with high containment strength, which comes from strong walls and doors, good lighting, and special containment devices. -->
+  <LetterEscapingFromHoldingPlatform>Entitas berikut telah lolos dari ikatan mereka: \ n \ n {0} \ n \ nconstruya sel penahanan yang lebih kuat untuk mencegah entitas melarikan diri.Entitas cenderung melarikan diri dari platform penahanan dengan resistensi penahanan tinggi, yang berasal dari dinding dan pintu yang kuat, pencahayaan yang baik dan perangkat penahanan khusus.</LetterEscapingFromHoldingPlatform> 
+  <!-- EN: requires {0} -->
+  <HoldingPlatformRequiresStrength>Membutuhkan {0}</HoldingPlatformRequiresStrength>
+  <!-- EN: No holding platforms available. -->
+  <NoHoldingPlatformsAvailable>Tidak ada platform penahanan yang tersedia.</NoHoldingPlatformsAvailable>
+  
+  
+  <!-- Obelisks -->
+  <!-- EN: Obelisk activation -->
+  <MutatorObeliskLetterLabel>Aktivasi obelisk</MutatorObeliskLetterLabel>
+  <!-- EN: The obelisk is activating! It swells with grisly energy as the air crackles around it. It is about to self-destruct in a great explosion, but before it does, it will use its hideous transformative power on any creature it can detect. -->
+  <MutatorObeliskLetter>Obelisk sedang diaktifkan!Itu dipenuhi dengan energi seram sementara udara crepit di sekitarnya.Dia akan menghancurkan diri dalam ledakan besar, tetapi pertama -tama dia akan menggunakan kekuatan transformasi yang menakutkan atas makhluk apa pun yang dapat dia deteksi.</MutatorObeliskLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskTentacleLetterLabel>Mutasi Obelisk</ObeliskTentacleLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open as a fleshy growth erupted from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a squirming tentacle!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed. -->
+  <ObeliskTentacleLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan kesemutan di lengannya.Beberapa saat kemudian, kulitnya terbuka dan tumor berdaging tumbuh dari tubuhnya.Lengannya telah digantikan oleh tentakel Viscoso!O: A}.</ObeliskTentacleLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshWhipLetterLabel>Mutasi Obelisk</ObeliskFleshWhipLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling. Moments later, {PAWN_possessive} skin split open violently as a growth burst from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a tentacle tipped with a bony blade!\n\n{PAWN_nameDef} lost some blood, but seems otherwise unharmed by this disturbing event. The tentacle is hideous, but it will make an excellent melee weapon. -->
+  <ObeliskFleshWhipLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan kesemutan di lengannya.Beberapa saat kemudian, kulitnya terbuka dengan keras ketika tumor tumbuh dari tubuhnya.Lengannya telah digantikan oleh tentakel dengan bilah tulang! O: A} dari peristiwa yang mengganggu ini.Tentakel itu mengerikan, tetapi itu akan menjadi senjata jarak dekat yang sangat baik.</ObeliskFleshWhipLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedArmLetterLabel>Interaksi dengan obelisk</MutatorObeliskFailedArmLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} arm tingling for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedArmLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan kesemutan di lengannya selama beberapa saat.Sensasi berlalu.</MutatorObeliskFailedArmLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshmassStomachLetterLabel>Mutasi Obelisk</ObeliskFleshmassStomachLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} stomach, as {PAWN_possessive} tissue began to roil and mutate. {PAWN_possessive} stomach has mutated into a mass of semi-sentient flesh. The harsh acids it produces are painful but prevent food poisoning. -->
+  <ObeliskFleshmassStomachLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan sakit perut yang tiba -tiba dan akut, kainnya mulai bergerak dan bermutasi.Perutnya telah bermutasi dalam massa daging semi -sentuhan.Asam keras yang dihasilkannya menyakitkan, tetapi hindari keracunan makanan.</ObeliskFleshmassStomachLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedStomachLetterLabel>Interaksi dengan obelisk</MutatorObeliskFailedStomachLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} stomach aching for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedStomachLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan perutnya sakit sejenak.Sensasi berlalu.</MutatorObeliskFailedStomachLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskFleshmassLungLetterLabel>Mutasi Obelisk</ObeliskFleshmassLungLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt a sudden sharp pain in {PAWN_possessive} chest, as {PAWN_possessive} lung began to twist and swell. {PAWN_possessive} lung has mutated into a painful mass of semi-sentient flesh. The tissue is constantly regrowing and replacing itself, making it immune to effects like lung rot and asthma. -->
+  <ObeliskFleshmassLungLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan nyeri dada yang tiba -tiba dan tajam, sementara paru -parunya mulai berputar dan membengkak.Paru -parunya telah bermutasi dalam massa daging semi -berpusat yang menyakitkan.Jaringan tumbuh dan terus diganti, yang membuatnya kebal untuk efek seperti busuk paru dan asma.</ObeliskFleshmassLungLetter>
+
+  <!-- EN: Obelisk interaction -->
+  <MutatorObeliskFailedLungLetterLabel>Interaksi dengan obelisk</MutatorObeliskFailedLungLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} felt {PAWN_possessive} chest ache for a few moments. The feeling passed.\n\nThe obelisk tried to mutate {PAWN_nameDef} but failed. -->
+  <MutatorObeliskFailedLungLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} merasakan dadanya sakit selama beberapa saat.Sensasi berlalu.</MutatorObeliskFailedLungLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskAnimalMutationLetterLabel>Mutasi Obelisk</ObeliskAnimalMutationLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden spike in energy. The obelisk has violently warped the flesh of {ANIMAL}, turning it into a hideous fleshbeast. -->
+  <ObeliskAnimalMutationLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} mengamati energi puncak yang tiba -tiba.Obelisk telah merusak daging {hewani}, menjadikannya binatang beech yang mengerikan.</ObeliskAnimalMutationLetter>
+
+  <!-- EN: Obelisk mutation -->
+  <ObeliskTreeMutationLetterLabel>Mutasi Obelisk</ObeliskTreeMutationLetterLabel>
+  <!-- EN: While interacting with the obelisk, {PAWN_nameDef} observed a sudden pulse of energy. The obelisk has twisted a nearby tree into a harbinger tree. These monstrous trees are capable of feeding on nearby corpses and raw meat. -->
+  <ObeliskTreeMutationLetter>Saat berinteraksi dengan obelisk, {Pawn_namedef} mengamati pulsa energi yang tiba -tiba.Obelisk telah mengubah pohon di dekatnya menjadi pohon di pertanda.Pohon -pohon mengerikan ini dapat memakan tubuh dekat dan daging mentah.</ObeliskTreeMutationLetter>
+
+  <!-- EN: Obelisk duplicate -->
+  <ObeliskDuplicationLetterLabel>Duplikasi Obelisk</ObeliskDuplicationLetterLabel>
+  <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self! The duplicate claims to be the real {PAWN_nameDef} and has joined your colony. -->
+  <ObeliskDuplicationLetter>Sementara {pawn_namedef} berinteraksi dengan obelisk, ia menekan energi dan menghasilkan kilatan cahaya.{Pawn_namedef} ditemukan tatap muka dengan salinan itu sendiri {Pawn_gender?O: A}.Duplikat mengklaim sebagai {Pawn_gender?The Authentic: The Authentic} {Pawn_Namedef} dan telah bergabung dengan koloni Anda.</ObeliskDuplicationLetter>
+
+  <!-- EN: Obelisk failure -->
+  <ObeliskDuplicationFailedLetterLabel>Obelisk Breakdown</ObeliskDuplicationFailedLetterLabel>
+  <!-- EN: {PAWN_nameDef} attempted to trigger the obelisk but nothing occurred. Something about {PAWN_nameDef} is preventing the obelisk from duplicating {PAWN_objective}. -->
+  <ObeliskDuplicationFailedLetter>{Pawn_namedef} mencoba mengaktifkan obelisk tetapi tidak ada yang terjadi.Sesuatu di {Pawn_pronoun} mencegah obelisk {Pawn_objective} menjadi ganda.</ObeliskDuplicationFailedLetter>
+  
+  <!-- EN: {PAWN_nameDef} has successfully triggered obelisk duplication. -->
+  <ObeliskDuplicationSuccessMessage>{Pawn_namedef} telah berhasil mengaktifkan duplikasi obelisk.</ObeliskDuplicationSuccessMessage>
+
+  <!-- EN: Hostile obelisk duplicate -->
+  <ObeliskHostileDuplicateLetterLabel>Duplikasi Obelisk yang bermusuhan</ObeliskHostileDuplicateLetterLabel>
+  <!-- EN: While {PAWN_nameDef} interacted with the obelisk, it pulsed with energy and generated a flash of light. {PAWN_nameDef} found {PAWN_objective}self face to face with a copy of {PAWN_objective}self. The duplicate is approaching {PAWN_nameDef} with murderous intent! -->
+  <ObeliskHostileDuplicateLetter>Sementara {pawn_namedef} berinteraksi dengan obelisk, itu ditekan dengan energi dan menghasilkan kilatan cahaya.{Pawn_namedef} ditemukan tatap muka dengan salinan itu sendiri {Pawn_gender?O: A}.Duplikat mendekati {pawn_namedef} dengan niat pembunuhan!</ObeliskHostileDuplicateLetter>
+
+  <!-- EN: Obelisk activation -->
+  <DuplicatorObeliskLetterLabel>Aktivasi obelisk</DuplicatorObeliskLetterLabel>
+  <!-- EN: The obelisk is activating! The air around it crackles with energy. Duplicates of your colonists will soon appear with murderous intent.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
+  <DuplicatorObeliskLetter>Obelisk diaktifkan!Udara di sekitar senja dengan energi.Segera duplikat pemukim Anda akan muncul dengan niat membunuh.</DuplicatorObeliskLetter>
+
+  <!-- EN: Colonists disappearing -->
+  <ObeliskAbductorLetterLabel>Hilangnya pemukim</ObeliskAbductorLetterLabel>
+  <!-- EN: The warped obelisk crackles with energy as it warps space around itself. All manner of creatures are beginning to disappear and will soon vanish entirely.\n\nBe careful - unstable energy is coursing through the obelisk and it could explode at any moment. -->
+  <ObeliskAbductorLetter>Obelisk yang cacat membuat energi dengan energi sambil mendeformasi ruang di sekitarnya.Semua jenis makhluk mulai menghilang dan akan segera melakukannya sepenuhnya.</ObeliskAbductorLetter>
+  
+  <!-- EN: {PAWN_nameDef} is disappearing -->
+  <ObeliskAbductedDisappearingLetterLabel>{Pawn_namedef} menghilang</ObeliskAbductedDisappearingLetterLabel>
+  <!-- EN: {PAWN_nameDef} noticed activity in the warped obelisk. Some mysterious internal mechanism has come to life, causing {PAWN_nameDef} to begin to disappear. {PAWN_pronoun} will soon vanish entirely. -->
+  <ObeliskAbductedDisappearingLetter>{Pawn_namedef} telah memperhatikan aktivitas dalam obelisk yang cacat.Beberapa mekanisme internal misterius telah menjadi hidup, menyebabkan {Pawn_namedef} mulai menghilang.{Pawn_pronoun} akan segera menghilang sepenuhnya.</ObeliskAbductedDisappearingLetter>
+  
+  <!-- EN: {PAWN_nameDef} reappeared -->
+  <ObeliskAbductedLetterLabel>{Pawn_namedef} telah muncul kembali</ObeliskAbductedLetterLabel>
+  <!-- EN: {PAWN_nameDef} has been teleported to a strange room. The walls are an unidentifiable gray material and the air is dead still. {PAWN_pronoun} doesn't know where {PAWN_pronoun} is - or how to get home.\n\nA nearby door is jammed but looks like it can be forced open with some effort. Right-click jammed doors to open them.\n\nBy studying the obelisk, other colonists may be able to understand what happened to {PAWN_nameDef} and find a way to help {PAWN_objective}. Alternatively, attacking the obelisk may provoke it to abduct more colonists. -->
+  <ObeliskAbductedLetter>{Pawn_namedef} telah diteleportasi {Pawn_gender?O: A} ke ruangan yang aneh.Dindingnya adalah bahan abu -abu yang tidak dapat diidentifikasi dan udaranya mati.Dia tidak tahu di mana dia berada atau bagaimana pulang ke rumah. Klik tombol kanan untuk membukanya.Di sisi lain, menyerang obelisk dapat menyebabkannya menculik lebih banyak pemukim.</ObeliskAbductedLetter>
+
+  <!-- EN: {PAWN_nameIndef} has mutated into a fleshbeast. -->
+  <MutatorObeliskMutated>{Pawn_nameetf} telah dilemparkan ke dalam karnivora.</MutatorObeliskMutated>
+  <!-- EN: A fleshbeast has emerged from the ground. -->
+  <MutatorObeliskSpawned>Carnibstia telah muncul dari tanah.</MutatorObeliskSpawned>
+
+  <!-- EN: Fully activate the warped obelisk. -->
+  <ObeliskActivateDesc>Aktifkan sepenuhnya obelisk yang cacat.</ObeliskActivateDesc>
+  <!-- EN: Warning: The warped obelisk is unstable. Fully activating it will provoke a dangerous response and will cause the obelisk to self-destruct. -->
+  <ObeliskActivateDescWarning>Peringatan: Obelisk yang cacat tidak stabil.Bertindak sepenuhnya akan menyebabkan respons berbahaya dan membuat penghancuran diri obelisk.</ObeliskActivateDescWarning>
+
+  <!-- EN: Requires {0} shards to disable -->
+  <ObeliskDeactivateMissingShards>Membutuhkan {0} sendok untuk menonaktifkan</ObeliskDeactivateMissingShards>
+  
+  <!-- Activity / Supression -->
+  <!-- EN: Activity level -->
+  <ActivityLevel>Tingkat aktivitas</ActivityLevel>
+  <!-- EN: Psychic suppression -->
+  <IsPsychicallySuppressed>Penindasan psikis</IsPsychicallySuppressed>
+  <!-- EN: Increase rate -->
+  <ActivityIncrease>Kenaikan tingkat</ActivityIncrease>
+  <!-- EN: Not in sealed room -->
+  <NotInSealedRoom>Itu tidak ada di ruangan tertutup</NotInSealedRoom>
+  <!-- EN: Energy harvesting -->
+  <EnergyHarvesting>Pengumpulan Energi</EnergyHarvesting>
+  <!-- EN: Unstable -->
+  <Unstable>Tidak stabil</Unstable>
+  <!-- EN: Base level -->
+  <BaseLevel>Level dasar</BaseLevel>
+  <!-- EN: Is active -->
+  <IsActive>Itu aktif</IsActive>
+  <!-- EN: resist -->
+  <Resisted>menolak</Resisted>
+  <!-- EN: Damaged -->
+  <HealthFactor>Rusak</HealthFactor>
+
+  <!-- EN: {PAWN_labelShort} was sent. -->
+  <CommandSent>{Pawn_labelshort} ha sido enviad {pawn_gender?O: A}.</CommandSent>
+  <!-- EN: Cannot activate entity -->
+  <CannotActivateEntity>Entitas tidak dapat diaktifkan</CannotActivateEntity>
+  <!-- EN: Entity must be on platform -->
+  <CannotActivateEntityPlatform>Entitas harus ada di platform</CannotActivateEntityPlatform>
+  
+  <!-- EN: Activity -->
+  <ActivityGizmo>Aktivitas</ActivityGizmo>
+  <!-- EN: Automatic suppression -->
+  <ActivitySuppressionTooltipTitle>Penindasan Otomatis</ActivitySuppressionTooltipTitle>
+  <!-- EN: Automatic suppression is currently disabled. Enable it to have wardens suppress the {0}. -->
+  <ActivitySuppressionTooltipDisabled>Penindasan otomatis saat ini dinonaktifkan.Aktifkan sehingga penjaga menekan {0}.</ActivitySuppressionTooltipDisabled>
+  <!-- EN: The {0}'s activity level rises over time. Activity rises faster if the {0} is damaged or provoked.\n\nIf the activity level reaches 100%, the {0} will activate.\n\nWardens can suppress the {0} to keep its activity at a safe level. They will suppress it any time its activity is above the assigned level: {LEVEL}\n\nEntities that have higher activity levels will give more knowledge when studied. -->
+  <ActivitySuppressionTooltipDesc>Tingkat aktivitas {ganti: dari {0_definite};"Dari El"-"del"} meningkat seiring waktu. Aktivitas meningkat lebih cepat jika {0} menderita kerusakan atau disebabkan.Mereka akan selalu menekan bahwa aktivitas mereka berada di atas level yang ditugaskan: {level} \ n \ nlas entitas yang memiliki tingkat aktivitas yang lebih tinggi akan memberikan lebih banyak pengetahuan saat dipelajari.</ActivitySuppressionTooltipDesc>
+  <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
+  <ActivitySuppressionToggleTooltipDesc>Tentukan apakah {0} akan secara otomatis ditekan ketika aktivitas Anda berada di atas {level}.Saat ini, represi otomatis adalah {OnOff}.</ActivitySuppressionToggleTooltipDesc>
+
+  <!-- Activity Descs -->
+  <!-- EN: activity level -->
+  <ActivityLevelDesc>tingkat aktivitas</ActivityLevelDesc>
+  <!-- EN: psychic suppression -->
+  <PsychicallySuppressedDesc>Penindasan psikis</PsychicallySuppressedDesc>
+
+  <!-- Entity study -->
+  <!-- EN: Capture -->
+  <CaptureEntity>Menangkap</CaptureEntity>
+  <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
+  <CaptureEntityDesc>Capture {0_Definite}.Itu harus diimobilisasi {0_gender?O: A} pada platform penahanan.Setelah diimobilisasi {0_gender?Atau: A}, bisakah itu belajar {0_gender?O: A}.</CaptureEntityDesc>
+  <!-- EN: Cancel capture -->
+  <CancelCapture>Batalkan penangkapan</CancelCapture>
+  <!-- EN: Cancel capturing {0_definite}. -->
+  <CancelCaptureDesc>Membatalkan penangkapan {0_definite}.</CancelCaptureDesc>
+  <!-- EN: ready to study -->
+  <ReadyToStudy>Siap untuk dipelajari</ReadyToStudy>
+  <!-- EN: No active anomaly research project selected for {0} knowledge category. -->
+  <NoActiveResearchProject>Tidak ada proyek penelitian anomali aktif untuk kategori pengetahuan {0} telah dipilih.</NoActiveResearchProject>
+  <!-- EN: Capturable -->
+  <Capturable>Dapat ditangkap</Capturable>
+  <!-- EN: Must be captured in a holding platform. -->
+  <RequiresHoldingPlatform>Itu harus ditangkap pada platform penahanan.</RequiresHoldingPlatform>
+  <!-- EN: Choose a location for the nociosphere to teleport to. -->
+  <ChooseNociosphereDest>Pilih tempat untuk teleportasi notiosphere.</ChooseNociosphereDest>
+  <!-- EN: Transfer {0_definite} -->
+  <TransferEntity>Transfer {ganti: a {0_definite};"To el"-"al"}</TransferEntity>
+  <!-- EN: Transfer the contained entity to another holding platform. -->
+  <TransferEntityDesc>Transfer entitas terbatas ke platform penahanan lain.</TransferEntityDesc>
+  <!-- EN: Cancel transfer -->
+  <CancelTransfer>Batalkan transfer</CancelTransfer>
+  <!-- EN: Cancel transferring this entity to another holding platform. -->
+  <CancelTransferDesc>Batalkan transfer entitas ini ke platform penahanan lain.</CancelTransferDesc>
+  
+  <!-- Metalhorrors -->
+  <!-- EN: Emerged from -->
+  <EmergedFrom>Muncul dari</EmergedFrom>
+  <!-- EN: Metalhorror emerging -->
+  <Emerging>Metalhorror muncul</Emerging>
+  
+  <!-- EN: Implanted before arrival at your colony -->
+  <ImplantSourceUnknown>Ditanamkan sebelum tiba di koloni Anda</ImplantSourceUnknown>
+  <!-- EN: Implanter insectoid -->
+  <InsectImplant>Implantador Insectoide</InsectImplant>
+  <!-- EN: Implanted during sleep by {SOURCE_nameDef} -->
+  <SleepImplant>Ditanamkan saat tidur untuk {source_namedef}</SleepImplant>
+  <!-- EN: Implanted during surgery by {SOURCE_nameDef} -->
+  <SurgeryImplant>Ditanamkan selama operasi oleh {source_namedef}</SurgeryImplant>
+  <!-- EN: Implanted through a meal cooked by {SOURCE_nameDef} -->
+  <FoodImplant>Ditanamkan melalui makanan yang dimasak oleh {source_namedef}</FoodImplant>
+  <!-- EN: Implanted during unnatural healing by {SOURCE_nameDef} -->
+  <UnnaturalHealingImplant>Ditanamkan selama penyembuhan antinatural oleh {source_namedef}</UnnaturalHealingImplant>
+  <!-- EN: Implanted when fed a meal by {SOURCE_nameDef} -->
+  <FeedingImplant>Ditanamkan saat diberi makan oleh {source_namedef}</FeedingImplant>
+
+  <!-- EN: Metalhorror emerging -->
+  <MetalhorrorEmergingLabel>Metalhorror muncul</MetalhorrorEmergingLabel>
+  <!-- EN: A metalhorror is emerging! Slicing through flesh and skin, this nightmarish bladed creature is cutting its way out of its host. The metalhorror is emerging from: -->
+  <MetalhorrorEmergingDesc>Metalhorror sedang muncul.Menyeberangi daging dan kulit, makhluk yang menakutkan ini melewati inangnya.Metalhorror muncul dari:</MetalhorrorEmergingDesc>
+  <!-- EN: Metalhorrors are emerging! Slicing through flesh and skin, these nightmarish bladed creatures are cutting their way out of their hosts. Metalhorrors are emerging from: -->
+  <MetalhorrorEmergingPluralDesc>Mereka muncul metalhorros.Menyeberangi daging dan kulit, makhluk -makhluk menakutkan ini membuat jalan mereka di antara tamu mereka.Metalhorros muncul dari:</MetalhorrorEmergingPluralDesc>
+  <!-- EN: These horrifying metallic parasites live inside the victim, taking control of higher reasoning via a network of hair-thin metallic filaments that they spread throughout the body and brain. They control the victim's mind and compel them to infect others with new metalhorrors. -->
+  <MetalhorrorEmergingDescAppended>Parasit logam yang mengerikan ini hidup di dalam korban, mengendalikan penalaran yang unggul melalui jaringan filamen logam tipis seperti rambut yang meluas ke seluruh tubuh dan otak.Mereka mengendalikan pikiran korban dan memaksanya untuk menginfeksi orang lain.</MetalhorrorEmergingDescAppended>
+  
+  <!-- EN: These doctors were infested and controlled by metalhorrors, so they lied about the results of a surgical inspection -->
+  <MetalhorrorSurgicalInspectionDetails>Dokter -dokter ini terinfestasi dan dikendalikan oleh metalhorros, sehingga mereka berbohong pada hasil inspeksi bedah</MetalhorrorSurgicalInspectionDetails>
+  
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during a social interaction. -->
+  <MetalhorrorReasonInteraction>Metalhorror {infected_namedef} terungkap karena ditemukan oleh {Pawn_namedef} selama interaksi sosial.</MetalhorrorReasonInteraction>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was discovered by {PAWN_nameDef} during an interrogation. -->
+  <MetalhorrorReasonInterrogation>El metalhorror de {INFECTED_nameDef} se reveló porque fue descubierto por {PAWN_nameDef} durante un interrogatorio.</MetalhorrorReasonInterrogation>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because {INFECTED_nameDef} died. -->
+  <MetalhorrorReasonHostDied>Metalhorror dari {infected_namedef} dibebaskan karena {infected_namedef} mati.</MetalhorrorReasonHostDied>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged because it was detected by {PAWN_nameDef} during a surgical inspection. -->
+  <MetalhorrorReasonSurgeryInspected>Metalhorror dari {infected_namedef} terbebas karena terdeteksi oleh {Pawn_namedef} selama inspeksi bedah.</MetalhorrorReasonSurgeryInspected>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged for unknown reasons. -->
+  <MetalhorrorReasonRandom>Metalhorror dari {infected_namedef} dibebaskan karena alasan yang tidak diketahui.</MetalhorrorReasonRandom>
+  <!-- EN: {INFECTED_nameDef}'s metalhorror emerged upon sensing it was being taken away from the colony. -->
+  <MetalhorrorReasonTriedToLeaveMap>Metalhorror dari {terinfected_namedef} merasa lega merasa bahwa mereka menjauh dari koloni.</MetalhorrorReasonTriedToLeaveMap>
+  
+  <!-- EN: Metalhorror detected -->
+  <MetalhorrorDetected>Metalhoror yang terdeteksi</MetalhorrorDetected>
+  <!-- EN: {PAWN_nameDef} noticed something wrong with {INFECTED_nameDef} while chatting. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
+  <InteractionDetectedDesc>{Pawn_namedef} memperhatikan sesuatu yang aneh di {infected_namedef} saat berbicara.{Infected_namedef} menunjukkan beberapa kombinasi perilaku anti -alami, suara vokal yang aneh atau cacing logam yang nyaris tidak terlihat di mata.{Pawn_namedef} mencurigai bahwa {infected_namedef} adalah infektif {infected_gender?O: A} dengan metalhorror.</InteractionDetectedDesc>
+  <!-- EN: {PAWN_nameDef} has found something unusual while interrogating {INFECTED_nameDef}. {INFECTED_nameDef} exhibited some combination of unnatural behavior, strange vocal sounds, or barely visible metallic worms in the eyes. {PAWN_nameDef} suspects that {INFECTED_nameDef} is infected with a metalhorror. -->
+  <InterrogationDetectedDesc>{Pawn_namedef} telah menemukan sesuatu yang tidak biasa saat mempertanyakan {infected_namedef}.{Infected_namedef} menunjukkan beberapa kombinasi perilaku anti -alami, suara vokal yang aneh atau cacing logam yang nyaris tidak terlihat di mata.{Pawn_namedef} mencurigai bahwa {infected_namedef} adalah infektif {infected_gender?O: A} dengan metalhorror.</InterrogationDetectedDesc>
+  
+  <!-- EN: Metalhorrors are parasites that control the host and use them to infect others.\n\nMetalhorrors grow stronger inside the host as time passes. A metalhorror will cut its way out of the host's body if it knows it's been detected. The process is horrifying, but the host generally survives.\n\nThe only way to confirm a person is infected with a metalhorror is to study the metalhorror's fleshy leavings to identify its biosignature, then use the surgical inspection operation with a trusted doctor.\n\nOnce discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->
+  <MetalhorrorNoticedDetailsAppended>Metalhorros adalah parasit yang mengendalikan tamu dan menggunakannya untuk menginfeksi orang lain.Ini akan membuat jalan keluar dari tubuh tamu jika Anda tahu itu telah ditemukan. Prosesnya mengerikan, tetapi tamu biasanya bertahan.Tamu bersiap -siap untuk bertengkar.</MetalhorrorNoticedDetailsAppended>
+  
+  <!-- EN: Gray flesh -->
+  <LetterGrayFleshDiscoveredLabel>Daging abu -abu</LetterGrayFleshDiscoveredLabel>
+  <!-- EN: {PAWN_nameDef} has discovered a strip of fleshy tissue. It resembles human skin stained gray by tiny metallic particles. It must have sloughed off someone during flesh liquification.\n\nSomeone here may not be what they seem.\n\nThere are several ways to detect imposters:\n\n{METHODS}\n\nWarning: Some parasites can control the mind and even be transmitted to others. -->
+  <LetterGrayFleshDiscovered>{Pawn_namedef} telah menemukan strip jaringan berdaging.Sepertinya kulit manusia diwarnai dengan abu -abu oleh partikel logam kecil. Dia pasti terlepas dari seseorang selama pencairan daging.</LetterGrayFleshDiscovered>
+  
+  <!-- EN: The “interrogate” prisoner interaction mode is now unlocked. -->
+  <LetterInterrogationUnlocked>Mode interaksi dengan tahanan "interogasi" sudah dibuka.</LetterInterrogationUnlocked>
+  
+  <!-- EN: Imprison someone and send a warden to interrogate them about their true identity. This can take many days. -->
+  <LetterGrayFleshMethodOne>Dia membuat seseorang membuat seseorang menjadi penjaga untuk menginterogasi identitasnya yang sebenarnya.Ini bisa memakan waktu berhari -hari.</LetterGrayFleshMethodOne>
+  <!-- EN: Collect more gray flesh and analyze it to determine the biosignature of the threat. Then, use the surgical inspection operation to search for that biosignature. It could take a long time to collect enough samples, and the surgery is invasive. -->
+  <LetterGrayFleshMethodTwo>Kumpulkan lebih banyak daging abu -abu dan analisis untuk menentukan biofirm dari ancaman.Selanjutnya, gunakan operasi inspeksi bedah untuk mencari biofirma itu.Saya bisa mengambil sampel yang cukup untuk waktu yang lama, dan operasi invasif.</LetterGrayFleshMethodTwo>
+  <!-- EN: Execute or banish whoever you suspect. -->
+  <LetterGrayFleshMethodThree>Mengeksekusi atau mengeringkan siapa yang Anda curigai.</LetterGrayFleshMethodThree>
+  
+  <!-- EN: Metalhorrors awakening -->
+  <LetterMetalhorrorReawakeningLabel>Metalhors</LetterMetalhorrorReawakeningLabel>
+  <!-- EN: The metalhorrors have been disturbed and are awakening again! -->
+  <LetterMetalhorrorReawakening>Metalhorores telah terganggu dan bangun lagi.</LetterMetalhorrorReawakening>
+
+  <!-- EN: The metalhorrors are beginning to hibernate. They will awaken again if disturbed. -->
+  <MessageMetalHorrorDormant>Metalhorros mulai hibernasi.Mereka akan bangun lagi jika mereka repot -repot.</MessageMetalHorrorDormant>
+  
+  <!-- EN: Hibernating. Will awaken if disturbed. -->
+  <MetalhorrorDormant>Hibernando.Itu akan bangun jika itu repot -repot.</MetalhorrorDormant>
+  
+  <!-- Surgical inspection -->
+  <!-- EN: Surgical inspection results -->
+  <LetterSurgicallyInspectedLabel>Hasil inspeksi bedah</LetterSurgicallyInspectedLabel>
+  <!-- EN: {DOCTOR_nameDef} performed an extensive surgical inspection of {PATIENT_nameDef}. -->
+  <LetterSurgicallyInspectedHeader>{Doctor_Namedef} membuat inspeksi bedah yang luas untuk {pasien_namedef}.</LetterSurgicallyInspectedHeader>
+  <!-- EN: {DOCTOR_pronoun} says that {DOCTOR_pronoun} found no anomalies. However, a doctor may lie if it is in their own self-interest. -->
+  <LetterSurgicallyInspectedNothing>{Doctor_Pronoun} mengatakan bahwa dia belum menemukan anomali.Namun, seorang dokter dapat berbohong jika Anda tertarik.</LetterSurgicallyInspectedNothing>
+  
+  <!-- Death refusal -->
+  <!-- EN: use -->
+  <DeathRefusalUseSingular>menggunakan</DeathRefusalUseSingular>
+  <!-- EN: uses -->
+  <DeathRefusalUsePlural>USOS</DeathRefusalUsePlural>
+  <!-- EN: Self-resurrecting -->
+  <SelfResurrecting>Self -Resort</SelfResurrecting>
+
+  <!-- Harbinger Tree -->
+  <!-- EN: near harbinger tree -->
+  <HarbingerTreeConsumption>dekat pohon pertanda</HarbingerTreeConsumption>
+  <!-- EN: A new harbinger tree has sprouted. -->
+  <HarbingerTreeSprouted>Itu telah menumbuhkan pohon pertanda baru.</HarbingerTreeSprouted>
+  <!-- EN: Consuming flesh. -->
+  <HarbingerTreeConsuming>Mengonsumsi daging.</HarbingerTreeConsuming>
+  <!-- EN: Will consume corpses and meat placed nearby. -->
+  <HarbingerTreeNotConsuming>Ini akan mengonsumsi tubuh dan daging yang dekat.</HarbingerTreeNotConsuming>
+  <!-- EN: Being consumed by harbinger tree. -->
+  <ConsumedByHarbingerTree>Dikonsumsi oleh pohon pertanda.</ConsumedByHarbingerTree>
+  <!-- EN: flesh consumption -->
+  <FleshConsumption>Konsumsi daging</FleshConsumption>
+  <!-- EN: Create corpse stockpile -->
+  <CreateCorpseStockpile>Buat TPA</CreateCorpseStockpile>
+  <!-- EN: Create a dumping stockpile zone around the harbinger tree for corpses.\n\nHarbinger trees will consume nearby corpses and raw meat. If well fed, the trees will grow faster and create new harbinger trees. -->
+  <CreateCorpseStockpileDesc>Buat zona penyimpanan mayat di sekitar pohon pertanda.Jika mereka diberi makan dengan baik, mereka akan tumbuh lebih cepat dan membuat pohon pertanda baru.</CreateCorpseStockpileDesc>
+
+  <!-- EN: Void node has been disabled. -->
+  <VoidNodeDisabled>Node vakum telah dinonaktifkan.</VoidNodeDisabled>
+
+  <!-- Creepjoiners -->
+  <!-- EN: {PAWN_pronoun} wants to talk. You can send a colonist to hear what {PAWN_pronoun} has to say. -->
+  <LetterCreeperAppearedAppended>Dia ingin berbicara.Anda dapat mengirim ke pemukim untuk mendengarkan apa yang Anda katakan.</LetterCreeperAppearedAppended>
+  <!-- EN: {PAWN_nameDef} wants to join -->
+  <LetterCreeperInviteJoins>{Pawn_namedef} ingin bergabung</LetterCreeperInviteJoins>
+  <!-- EN: {PAWN_pronoun} may be very useful, but you also sense there is something {PAWN_nameDef} is not telling you. -->
+  <LetterCreeperInviteAppend>{Pawn_namedef} bisa sangat berguna, tetapi Anda juga merasa bahwa ada sesuatu yang tidak memberi tahu Anda.</LetterCreeperInviteAppend>
+  
+  <!-- EN: Allow {PAWN_nameDef} to join -->
+  <AcceptCreeper>Izinkan {pawn_namedef}</AcceptCreeper>
+  <!-- EN: Send {SPEAKER_nameDef} to capture {PAWN_nameDef} -->
+  <CaptureCreeper>Kirim {speaker_namedef} untuk menangkap {pawn_namedef}</CaptureCreeper>
+  <!-- EN: Send {PAWN_nameDef} away -->
+  <RejectCreeper>Rokra a {bunnadf}</RejectCreeper>
+  
+  <!-- Unnatural healing ability -->
+  <!-- EN: Unnatural healing -->
+  <LetterUnnaturalHealingLabel>Penyembuhan antinatural</LetterUnnaturalHealingLabel>
+  <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
+  <LetterUnnaturalHealing>{CASTER_NAMEDEF} telah menyelesaikan penyembuhan psikisnya di {Pawn_namedef}.</LetterUnnaturalHealing>
+  <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
+  <LetterUnnaturalHealingTentacle>Namun, ada sesuatu yang sangat buruk.Lengan {pawn_namedef} dibuka sementara pertumbuhan kekerasan muncul dari tubuhnya.Lengannya telah digantikan oleh tentakel berdaging!</LetterUnnaturalHealingTentacle>
+  
+  <!-- Transmutation ability -->
+  <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
+  <MessageTransmutedItem>{Pawn_namedep} ha ditransmutasi {asli} en {transmuter}.</MessageTransmutedItem>
+  <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelShortIndef}. -->
+  <MessageTransmutedStuff>{Pawn_namedef} ha transmutado {1} en {transmuted_labelshort}.</MessageTransmutedStuff>
+  <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelPluralIndef}. -->
+  <MessageTransmutedStuffPlural>{Pawn_namedep} ha ditularkan {1} en</MessageTransmutedStuffPlural>
+  
+  <!-- Electroharvester -->
+  <!-- EN: No restrained entity. -->
+  <ElectroharvesterNoEntity>Tidak ada entitas yang dibatasi.</ElectroharvesterNoEntity>
+  <!-- EN: Not connected to a holding platform. -->
+  <ElectroharvesterNoPlatform>Ini tidak ditautkan ke platform penahanan.</ElectroharvesterNoPlatform>
+  
+  <!-- Fleshmass Heart -->
+  <!-- EN: Invulnerable. Analyze fleshmass neural lumps to destroy this. -->
+  <FleshmassHeartInvulnerable>Kebal.Menganalisis carnimosa nodul saraf untuk menghancurkannya.</FleshmassHeartInvulnerable>
+  <!-- EN: Growing fleshmass. -->
+  <FleshmassHeartGrowing>CARNIMOSA Tumbuh.</FleshmassHeartGrowing>
+  <!-- EN: Collecting biomass for next growth spurt... -->
+  <FleshmassHeartCollecting>Mengumpulkan biomassa untuk wabah pertumbuhan berikutnya ...</FleshmassHeartCollecting>
+  <!-- EN: The fleshmass heart is convulsing! -->
+  <MessageHeartAttack>Jantung Carnimase adalah kejang!</MessageHeartAttack>
+  <!-- EN: Fleshmass heart defeated -->
+  <LetterLabelFleshmassHeartDestroyed>Hati Carnimosa yang ditangguhkan</LetterLabelFleshmassHeartDestroyed>
+  <!-- EN: The fleshmass heart has been destroyed, leaving behind a broken but still functional core - a twisted amalgam of flesh and archotechnology. The nucleus continues to grow and mutate flesh, even while the surrounding fleshmass decays.\n\nYou can capture the nucleus to study it further or destroy it to end this nightmare. If left alone, it may reform into a new fleshmass heart. -->
+  <LetterFleshmassHeartDestroyed>Jantung Carnimosa telah dihancurkan, meninggalkan inti yang rusak tetapi masih fungsional, campuran daging dan arkeoteknologi yang bengkok.Nukleus terus tumbuh dan bermutasi daging, bahkan ketika Carnimase di sekitarnya rusak.Jika diabaikan, itu bisa menjadi jantung baru Carnimosa.</LetterFleshmassHeartDestroyed>
+  <!-- EN: The fleshmass heart has grown a new nerve bundle. -->
+  <NerveBundleGrewMessage>Balok saraf baru telah tumbuh di jantung Carnimase.</NerveBundleGrewMessage>
+  <!-- EN: The nerve bundle has dropped a neural lump. Analyze it to learn more about the fleshmass heart. -->
+  <NeuralLumpDroppedMessage>Balok gugup telah melepaskan nodul saraf.Menganalisisnya untuk mengetahui lebih banyak tentang hati Carnimosa.</NeuralLumpDroppedMessage>
+  <!-- EN: Must collect and analyze fleshmass neural lumps. Lumps analyzed -->
+  <DestroyHeartDisabled>Anda harus mengumpulkan dan menganalisis nodul saraf carnimase.Nodul yang dianalisis</DestroyHeartDisabled>
+  <!-- EN: A fleshmass spitter is attacking! -->
+  <SpitterAttacking>Serangan Carnimosa Spittack!</SpitterAttacking>
+  <!-- EN: Gathering acid. Ready in -->
+  <SpitterGatheringSpit>Mengumpulkan asam.Siap masuk</SpitterGatheringSpit>
+  <!-- EN: Ready to spit acid. -->
+  <SpitterReadyToSpit>Siap meludahi asam.</SpitterReadyToSpit>
+
+  <!-- EN: Active fleshmass. May birth fleshbeasts if destroyed. -->
+  <ActiveFleshmassInspect>Carnimase aktif.Itu dapat menghasilkan carnesties jika dihancurkan.</ActiveFleshmassInspect>
+
+  <!-- Misc -->
+  <!-- EN: Flesh tentacle attack -->
+  <LetterLabelFleshTentacleAttack>Serangan Tentakular berdaging</LetterLabelFleshTentacleAttack>
+  <!-- EN: {PAWN_nameDef}'s operation was successful. However, the twisting mass of flesh that was {PAWN_possessive} tentacle has begun to attack! -->
+  <LetterFleshTentacleAttack>Pengoperasian {Pawn_namedef} telah berhasil.Namun, massa daging yang bengkok yang merupakan tentakelnya telah mulai menyerang!</LetterFleshTentacleAttack>
+  <!-- EN: Biosignature -->
+  <Biosignature>Biofirma</Biosignature>
+  <!-- EN: Bliss lobotomy -->
+  <BlissLobotomy>Lobotomi yang bahagia</BlissLobotomy>
+  <!-- EN: hp -->
+  <HP>pv</HP>
+  <!-- EN: analyzed -->
+  <Analyzed>dianalisis</Analyzed>
+  <!-- EN: Highest skill -->
+  <HighestSkill>Keterampilan yang lebih baik</HighestSkill>
+  
+  <!-- EN: {0} dropped a shard of dark archotechnology. You can collect and make use of it. -->
+  <MessageShardDropped>{0} mengeluarkan potongan arkeoteknologi gelap.Anda dapat mengambilnya dan menggunakannya.</MessageShardDropped>
+  
+  <!-- Blood rain -->
+  <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
+  <Berserk_BloodRain>Bloody Rain telah membuat {0_nameIndef} Masukkan kemarahan yang panik!</Berserk_BloodRain>
+  <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
+  <Manhunter_BloodRain>Hujan berdarah telah menyebabkan {0_nameIndef} menjadi perburuan kemarahan!</Manhunter_BloodRain>
+  <!-- EN: This happened because of blood rage buildup. -->
+  <MentalBreakReason_BloodRage>Ini terjadi karena akumulasi kemarahan dalam darah.</MentalBreakReason_BloodRage>
+  
+  <!-- Unnatural corpses -->
+  <!-- EN: Corpse disappearance -->
+  <LetterLabelCorpseDisappeared>Hilangnya mayat</LetterLabelCorpseDisappeared>
+  <!-- EN: The unnatural corpse has vanished. -->
+  <LetterCorpseDisappeared>Tubuh yang tidak wajar telah menghilang.</LetterCorpseDisappeared>
+  <!-- EN: {PAWN_nameDef} is starting to feel calmer. -->
+  <LetterCorpseDisappearedPawnAliveAppend>{Pawn_namedef} mulai terasa lebih tenang {Pawn_gender?O: A}.</LetterCorpseDisappearedPawnAliveAppend>
+
+  <!-- EN: Corpse appearance -->
+  <LetterLabelCorpseReappeared>Penampilan tubuh</LetterLabelCorpseReappeared>
+  <!-- EN: The corpse resembling {PAWN_nameDef} has appeared again, as if out of thin air. -->
+  <LetterCorpseReappeared>Tubuh yang mirip dengan {Pawn_namedef} telah muncul kembali, seperti halnya.</LetterCorpseReappeared>
+  
+  <!-- EN: The corpse resembling {PAWN_nameDef} has somehow gotten out of its {CONTAINER_labelShort}. -->
+  <MessageCorpseEscaped>Tubuh yang mirip dengan {pawn_namedef} entah bagaimana keluar dari {container_lallshort}.</MessageCorpseEscaped>
+  <!-- EN: Failed to resurrect {PAWN_nameDef}. It simply does not respond. -->
+  <MessageUnnaturalCorpseResurrect>Kesalahan resusitasi {pawn_namedef}.Itu tidak merespons.</MessageUnnaturalCorpseResurrect>
+  <!-- EN: The unnatural corpse has caused {PAWN_nameDef} to faint. -->
+  <MessagePawnFainted>Tubuh yang tidak wajar telah membuat {pawn_namedef} pingsan.</MessagePawnFainted>
+  <!-- EN: The unnatural corpse has appeared near {PAWN_nameDef} and is approaching! -->
+  <MessageAwokenReappeared>Tubuh yang tidak wajar telah muncul di dekat {Pawn_namedef}, dan semakin dekat!</MessageAwokenReappeared>
+  <!-- EN: The unnatural corpse has vanished. It will come for {PAWN_nameDef} later. -->
+  <MessageAwokenVanished>Tubuh yang tidak wajar telah menghilang.Ini akan datang dengan {Pawn_namedef} nanti.</MessageAwokenVanished>
+  <!-- EN: The awoken corpse is attacking {PAWN_nameDef}! -->
+  <MessageAwokenAttacking>Tubuh yang terangsang menyerang {Pawn_Namedef}!</MessageAwokenAttacking>
+  <!-- EN: The awoken corpse has destroyed {PAWN_nameDef}'s brain. -->
+  <MessageAwokenKilledVictim>Tubuh yang terangsang telah menghancurkan otak {Pawn_namedef}.</MessageAwokenKilledVictim>
+  <!-- EN: The awoken corpse has disappeared. -->
+  <MessageAwokenDisappeared>Tubuh yang terbangun telah menghilang.</MessageAwokenDisappeared>
+
+  <!-- EN: This happened because of the presence of an unnatural corpse. -->
+  <MentalBreakReason_MysteriousCorpse>Ini terjadi karena adanya mayat yang tidak wajar.</MentalBreakReason_MysteriousCorpse>
+
+  <!-- EN: Unnatural corpse study progress -->
+  <UnnaturalCorpseStudyLetter>Kemajuan studi mayat antinatural</UnnaturalCorpseStudyLetter>
+  <!-- EN: Your investigation of the unnatural corpse has revealed more about the body. An archotech shard at its core psychically links it with {VICTIM_nameDef}. It will rebuild itself if destroyed, and teleport any distance to be near {VICTIM_nameDef}. \n\n{RESEARCHER_nameDef} thinks that there may be a way to permanently destroy the corpse but will need to study it further.\n\nStudy the corpse more to learn how to destroy it. -->
+  <UnnaturalCorpseStudyLetterDesc>Penelitian Anda tentang tubuh yang tidak alami telah mengungkapkan lebih banyak hal tentang tubuh.Chip Archeoteca dalam nukleusnya terkait secara psikis dengan {Victic_namedef}.Ini akan membangun kembali dirinya sendiri jika dihancurkan, dan akan berteleportasi pada jarak apa pun untuk dekat dengan {vicrise_namedef}. \ N \ n {peneliti_namedef} percaya bahwa mungkin ada cara untuk menghancurkan tubuh secara permanen, tetapi Anda harus mempelajarinya secara lebih teliti.</UnnaturalCorpseStudyLetterDesc>
+
+  <!-- EN: Unnatural corpse study complete -->
+  <UnnaturalCorpseStudyCompletedLetter>Studi tubuh anti -alam yang selesai</UnnaturalCorpseStudyCompletedLetter>
+  <!-- EN: Your investigation of the unnatural corpse has revealed how to safely remove the archotech shard. Doing so will stop it from psychically tormenting {VICTIM_nameDef}. However, it will also prevent further study of the corpse. -->
+  <UnnaturalCorpseStudyCompletedLetterDesc>Penelitian Anda tentang tubuh yang tidak wajar telah mengungkapkan cara mengekstrak chip Archeoteca dengan aman.Dengan melakukan itu, itu akan berhenti menyiksa secara psikis {victim_namedef}.Namun, itu juga akan mencegah mempelajari tubuh.</UnnaturalCorpseStudyCompletedLetterDesc>
+
+  <!-- EN: Corpse shard -->
+  <UnnaturalCorpseDeactivatedLetter>Sparge CadaVeric</UnnaturalCorpseDeactivatedLetter>
+  <!-- EN: {PAWN_nameDef} extracted an archotech shard from the unnatural corpse, the corpse then began to violently bloat and exploded into gore. -->
+  <UnnaturalCorpseDeactivatedLetterDesc>{Pawn_namedef} mengekstraksi potongan archeoteca dari tubuh antinatural, yang mulai membengkak dengan keras dan dieksploitasi di Viscera.</UnnaturalCorpseDeactivatedLetterDesc>
+  <!-- EN: {PAWN_nameDef} is feeling better already. -->
+  <UnnaturalCorpseDeactivatedLetterDescAppended>{Pawn_namedef} sudah terasa lebih baik.</UnnaturalCorpseDeactivatedLetterDescAppended>
+  
+  <!-- EN: Destroy unnatural corpse -->
+  <UnnaturalCorpseDeactivate>Hancurkan mayat antinatural</UnnaturalCorpseDeactivate>
+  <!-- EN: Permanently destroy the unnatural corpse. -->
+  <UnnaturalCorpseDeactivateDesc>Secara permanen menghancurkan tubuh yang tidak wajar.</UnnaturalCorpseDeactivateDesc>
+  <!-- EN: Choose who should destroy this. -->
+  <UnnaturalCorpseGuiLabel>Pilih siapa yang harus menghancurkan ini.</UnnaturalCorpseGuiLabel>
+  <!-- EN: destroy -->
+  <UnnaturalCorpseJobString>menghancurkan</UnnaturalCorpseJobString>
+  <!-- EN: destroying {0} -->
+  <UnnaturalCorpseActivatingEnroute>menghancurkan {0}</UnnaturalCorpseActivatingEnroute>
+  <!-- EN: destroying {0}: {1}s -->
+  <UnnaturalCorpseActivating>menghancurkan {0}: {1} s</UnnaturalCorpseActivating>
+  
+  <!-- EN: Unnatural corpse -->
+  <UnnaturalCorpseAwakeningLetter>Mayat antinatural</UnnaturalCorpseAwakeningLetter>
+  <!-- EN: {PAWN_nameDef} feels the unnatural corpse growing rapidly stronger. Some horrible consciousness is flickering within it.\n\nSomething awful will happen in the next few days. -->
+  <UnnaturalCorpseAwakeningLetterDesc>{Pawn_namedef} merasa bahwa tubuh yang tidak wajar dengan cepat diperkuat.Beberapa hati nurani yang mengerikan berkedip di dalam. \ N \ nalgo akan terjadi dalam beberapa hari ke depan.</UnnaturalCorpseAwakeningLetterDesc>
+  <!-- EN: Destroy the corpse before it's too late. -->
+  <UnnaturalCorpseAwakeningLetterExtra_StudyComplete>Hancurkan tubuh sebelum terlambat.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
+  <!-- EN: Study the corpse to learn how to destroy it. -->
+  <UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>Pelajari tubuh untuk belajar menghancurkannya.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
+
+  <!-- EN: Corpse awakened -->
+  <UnnaturalCorpseAwokenLetter>Tubuh terjaga</UnnaturalCorpseAwokenLetter>
+  <!-- EN: The unnatural corpse is rising! It intends to attack {PAWN_nameDef}!\n\nThe corpse will follow {PAWN_nameDef} forever no matter how far {PAWN_pronoun} goes.\n\nYou must destroy it now. -->
+  <UnnaturalCorpseAwokenLetterDesc>Tubuh yang tidak wajar bangun!Dia bermaksud menyerang {Pawn_namedef}. \ N \ nel corpse {pawn_objective} akan berlanjut selamanya tidak peduli seberapa jauh kelanjutannya. \ N \ ndebes mengakhirinya sekarang.</UnnaturalCorpseAwokenLetterDesc>
+
+  <!-- EN: Unnatural corpse destroyed! -->
+  <UnnaturalCorpseAwokenDefeatedLetter>Mayat yang tidak wajar hancur!</UnnaturalCorpseAwokenDefeatedLetter>
+  <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>Tubuh tidak wajar yang mengancam {Pawn_namedef} telah dikalahkan!</UnnaturalCorpseAwokenDefeatedLetterDesc>
+
+  <!-- Golden Cube -->
+  <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
+  <MessageGoldenCubeSeverityIncreased>Obsesi {Pawn_labelshort} oleh Kubus Emas telah meningkat.</MessageGoldenCubeSeverityIncreased>
+  <!-- EN: {PAWN_labelShort} is experiencing cube withdrawal. -->
+  <MessageGoldenCubeWithdrawal>{Pawn_labelshort} mengalami abstinensi kubik.</MessageGoldenCubeWithdrawal>
+  <!-- EN: {PAWN_labelShort}'s cube withdrawal has worsened. -->
+  <MessageGoldenCubeWithdrawalIncreased>Pantang kubik {Pawn_lallshort} telah memburuk.</MessageGoldenCubeWithdrawalIncreased>
+  <!-- EN: {PAWN_labelShort} has become intrigued by the golden cube. -->
+  <MessageGoldenCubeInterest>{Pawn_lallshort} adalah intrigu {Pawn_gender?O: A} untuk kubus emas.</MessageGoldenCubeInterest>
+  <!-- EN: {PAWN_labelShort} is enraged that {PAWN_possessive} cube sculpture was removed. {PAWN_pronoun} might become violent. -->
+  <MessageGoldenCubeSculptureDestroyed>{Pawn_lallshort} adalah Enracid {Pawn_gender?O: A} Karena patung kubiknya dihancurkan.Bisakah Anda mendapatkan kekerasan {Pawn_gender?O: A}.</MessageGoldenCubeSculptureDestroyed>
+
+  <!-- EN: {PAWN_labelShort} refuses to deactivate the golden cube. -->
+  <CannotDisableCube>{Pawn_labelshort} menolak menonaktifkan kubus emas.</CannotDisableCube>
+  
+  <!-- EN: Cube coma: {PAWN_labelShort} -->
+  <LetterLabelGoldenCubeComa>COMA Cúbico: {Pawn_labelshort}</LetterLabelGoldenCubeComa>
+  <!-- EN: {PAWN_labelShort}'s cube withdrawal has sent {PAWN_objective} into a coma. {PAWN_pronoun} will remain in a coma until the golden cube's psychic link has completely dissipated. -->
+  <LetterGoldenCubeComa>Pantang kubik {Pawn_lallshort} telah membuat saya memasuki koma.Ini akan tetap koma sampai ikatan psikis Kubus Emas telah menghilang sepenuhnya.</LetterGoldenCubeComa>
+
+  <!-- EN: Deactivating the golden cube will cause any cube-interested people to enter a violent berserk rage. Any cube-interested people in caravans will be permanently lost. -->
+  <CubeDeactivationConfirmation>Menonaktifkan Golden Cube akan menyebabkan siapa pun yang tertarik pada kubus memasuki serangan kekerasan kemarahan yang panik.Orang yang tertarik pada kubus yang ada di karavan akan hilang selamanya.</CubeDeactivationConfirmation>
+  <!-- EN: The following people will enter a berserk rage -->
+  <CubeDeactivationConfirmationPawnsBerserk>Orang -orang berikut akan memasuki kemarahan yang panik</CubeDeactivationConfirmationPawnsBerserk>
+  <!-- EN: The following people will run away and be lost -->
+  <CubeDeactivationConfirmationPawnsLost>Orang -orang berikut akan melarikan diri dan tersesat</CubeDeactivationConfirmationPawnsLost>
+  <!-- EN: Are you sure you want to continue? -->
+  <CubeDeactivationConfirmationEnd>Apakah Anda yakin ingin melanjutkan?</CubeDeactivationConfirmationEnd>
+  <!-- EN: Cube deactivation -->
+  <CubeDeactivationBerserk>Penonaktifan kubus</CubeDeactivationBerserk>
+  <!-- EN: {PAWN_labelShort} has successfully destroyed the golden cube. The psychic whiplash has driven colonists into a berserk rage! -->
+  <CubeDeactivationBerserkDesc>{Pawn_labelshort} telah berhasil menghancurkan kubus emas.Cambuk psikis telah membuat para pemukim memasuki kemarahan yang panik.</CubeDeactivationBerserkDesc>
+  <!-- EN: These people have entered a temporary berserk rage -->
+  <CubeDeactivationBerserkPawns>Orang -orang ini telah memasuki kemarahan panik sementara</CubeDeactivationBerserkPawns>
+  <!-- EN: These people in caravans have run away in a rage -->
+  <CubeDeactivationLostPawns>Orang -orang di karavan ini telah melarikan diri dengan marah</CubeDeactivationLostPawns>
+
+  <!-- EN: This happened because of {PAWN_possessive} obsession with the cube. -->
+  <MentalBreakReason_CubeSculpting>Ini terjadi karena obsesinya terhadap kubus.</MentalBreakReason_CubeSculpting>
+  
+  <!-- EN: dirt -->
+  <CubeMaterialDirt>Tierra</CubeMaterialDirt>
+  <!-- EN: stone -->
+  <CubeMaterialStone>Piedra</CubeMaterialStone>
+  <!-- EN: sand -->
+  <CubeMaterialSand>arena</CubeMaterialSand>
+  <!-- EN: scrap -->
+  <CubeMaterialScrap>membatalkan</CubeMaterialScrap>
+  
+  <!-- EN: building a sculpture. -->
+  <ReportBuildingCubeEnroute>Memahat patung.</ReportBuildingCubeEnroute>
+  
+  <!-- Slaughter ability -->
+  <!-- EN: Cannot slaughter: {PAWN_labelShort} does not have flesh. -->
+  <MessageSlaughterNoFlesh>Anda tidak dapat mengorbankan: {pawn_lallshort} tidak memiliki daging.</MessageSlaughterNoFlesh>
+  <!-- EN: Cannot slaughter: {PAWN_labelShort} is too large. -->
+  <MessageSlaughterTooBig>Anda tidak dapat mengorbankan: {pawn_lallshort} terlalu besar.</MessageSlaughterTooBig>
+  
+  <!-- Labyrinth -->
+  <!-- EN: Entering the labyrinth -->
+  <GeneratingLabyrinth>Memasuki labirin</GeneratingLabyrinth>
+  <!-- EN: {PAWN_nameDef} has vanished. -->
+  <MessagePawnVanished>{Pawn_namedef} telah menghilang.</MessagePawnVanished>
+  <!-- EN: {PAWN_nameDef} has reappeared. -->
+  <MessagePawnReappeared>{Pawn_namedef} telah muncul kembali.</MessagePawnReappeared>
+  
+  <!-- EN: Exit direction -->
+  <FloorEtchingsInspectorExit>Alamat keberangkatan</FloorEtchingsInspectorExit>
+  
+  <!-- EN: Warped obelisk -->
+  <LetterLabelObeliskDiscovered>Obelisk cacat</LetterLabelObeliskDiscovered>
+  <!-- EN: {PAWN_nameDef} has discovered a large obelisk. It looks nearly identical to the one that originally brought {PAWN_objective} here. Perhaps it can be activated to return {PAWN_objective} home.\n\nSelect {PAWN_nameDef} and right-click the obelisk to activate it. -->
+  <LetterObeliskDiscovered>{Pawn_namedef} telah menemukan obelisk yang hebat.Tampaknya hampir identik dengan satu {Pawn_objective} yang dibawa ke sini awalnya. Mungkin dapat diaktifkan untuk mengembalikan {Pawn_objective} home.</LetterObeliskDiscovered>
+  
+  <!-- EN: Floor etchings -->
+  <LetterLabelFloorEtchings>Nilai di lantai</LetterLabelFloorEtchings>
+  <!-- EN: {PAWN_nameDef} has managed to decipher the floor etchings.\n\n{RAMBLINGS}\n\nThey seem to indicate that an exit is somewhere {DIRECTION} of here. -->
+  <LetterFloorEtchings>{Pawn_namedef} telah berhasil menguraikan ukiran tanah.</LetterFloorEtchings>
+
+  <!-- EN: Floor etchings -->
+  <LetterLabelFloorEtchingRamblings>Wanderings lantai</LetterLabelFloorEtchingRamblings>
+  <!-- EN: {PAWN_nameDef} has managed to decipher the floor etchings. -->
+  <LetterFloorEtchingsRamblings>{Pawn_namedef} telah berhasil menguraikan ukiran tanah.</LetterFloorEtchingsRamblings>
+
+  <!-- EN: Colonists returned -->
+  <LetterLabelLabyrinthExit>Para pemukim kembali</LetterLabelLabyrinthExit>
+  <!-- EN: The whirring obelisk has returned your abducted colonists. Shortly after doing so, it vanished into thin air.\n\nBe careful, the obelisk may have returned other creatures as well. -->
+  <LetterLabyrinthExit>Zumbador Obelisk telah kembali ke pemukim Anda yang diculik.Tak lama setelah melakukannya, dia menghilang di udara.</LetterLabyrinthExit>
+
+  <!-- EN: Jammed shut. Must be forced open. -->
+  <GrayDoorJammed>Terjebak.Anda harus memaksanya untuk membuka.</GrayDoorJammed>
+  <!-- EN: Activated by proximity. -->
+  <ActivatedByProximity>Diaktifkan dengan kedekatan.</ActivatedByProximity>
+
+  <!-- Void monolith -->
+  <!-- EN: No available pawns. -->
+  <MonolithActivateDisabledPawns>Tidak ada pemukim yang tersedia.</MonolithActivateDisabledPawns>
+  <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
+  <VoidMonolithInvestigatedText>Permukaan logam gelap monolit hangat saat disentuh dan {Pawn_namedef} percaya mendengar dengungan lemah yang berasal dari interior.Garis -garis permukaan berdebu tampaknya berputar dalam pola yang mengganggu. Kekuatan mulai bersantai ke ruang kosong di sekitar.Bentuk hitam terbentuk dalam benaknya.Anomali \ n \ nla sedang bangun ...</VoidMonolithInvestigatedText>
+  <!-- EN: Keep focusing on the Anomaly -->
+  <VoidMonolithInvestigate>Simpan anomali</VoidMonolithInvestigate>
+  <!-- EN: Walk away -->
+  <VoidMonolithWalkAway>Meninggalkan</VoidMonolithWalkAway>
+  <!-- EN: View quest -->
+  <VoidMonolithViewQuest>Lihat misi</VoidMonolithViewQuest>
+  <!-- EN: View Anomaly research -->
+  <VoidMonolithViewResearch>Lihat Penelitian Anomali</VoidMonolithViewResearch>
+  <!-- EN: Current monolith level -->
+  <CurrentMonolithLevel>Level monolit saat ini</CurrentMonolithLevel>
+  <!-- EN: Send a colonist to investigate this. -->
+  <VoidMonolithUndiscovered>Kirim pemukim untuk menyelidiki ini.</VoidMonolithUndiscovered>
+  <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
+  <VoidMonolithRequiredEntityCategory>Untuk memajukan monolith ke langkah berikutnya, Anda perlu menemukan {0} entitas kategori {1}.</VoidMonolithRequiredEntityCategory>
+  <!-- EN: Discovered: {0} -->
+  <DiscoveredCount>Ditemukan: {0}</DiscoveredCount>
+  <!-- EN: Required entities discovered. -->
+  <VoidMonolithAllEntitiesDiscovered>Diperlukan entitas yang ditemukan.</VoidMonolithAllEntitiesDiscovered>
+  <!-- EN: Required to increase level -->
+  <VoidMonolithRequiresDiscovery>Diperlukan untuk meningkatkan level</VoidMonolithRequiresDiscovery>
+  <!-- EN: Undiscovered entities -->
+  <VoidMonolithRequiresDiscoveryShort>Entitas tanpa menemukan</VoidMonolithRequiresDiscoveryShort>
+  <!-- EN: Must discover {0} more {1} monolith entities. -->
+  <VoidMonolithRequiresCategory>Anda harus menemukan {0} entitas monolitik {1} lebih.</VoidMonolithRequiresCategory>
+  <!-- EN: Disturbing vision -->
+  <VoidMonolithVisionLabel>Penglihatan yang mengganggu</VoidMonolithVisionLabel>
+  <!-- EN: {PAWN_nameDef} has had a strange dream. In it, {PAWN_pronoun} saw a black shape, unfurling in space and time, growing and consuming. The shape originated from a nearby crumbled monolith.\n\nUpon waking from the vision, {PAWN_nameDef} feels strangely drawn to the monolith. It calls to {PAWN_objective}. -->
+  <VoidMonolithVisionText>{Pawn_namedef} memiliki mimpi yang aneh.Dalam hal ini, {Pawn_pronoun} melihat bentuk hitam, menggunakan ruang dan waktu, tumbuh dan memakan.Bentuk berasal dari monolit yang hancur. \ N o: a} untuk monolith.{Pawn_objective} ini dipanggil.</VoidMonolithVisionText>
+  <!-- EN: Choose who should do this -->
+  <VoidMonolithChooseActivator>Pilih siapa yang harus melakukannya</VoidMonolithChooseActivator>
+  <!-- EN: Target is downed -->
+  <VoidMonolithActivatorDowned>Tujuannya sedih</VoidMonolithActivatorDowned>
+  <!-- EN: Target in mental state -->
+  <VoidMonolithActivatorMentalState>Tujuannya menderita kondisi mental</VoidMonolithActivatorMentalState>
+  <!-- EN: Target is busy -->
+  <VoidMonolithActivatorBusy>Tujuannya ditempati</VoidMonolithActivatorBusy>
+  <!-- EN: Target is incapable -->
+  <VoidMonolithActivatorIncapable>Tujuannya tidak mampu</VoidMonolithActivatorIncapable>
+  <!-- EN: Monolith arrival -->
+  <MonolithArrivalLabel>Kedatangan monolit</MonolithArrivalLabel>
+  <!-- EN: Interacting with the psychic signal has caused a strange structure to appear. -->
+  <MonolithArrivalText>Interaksi dengan sinyal psikis telah menyebabkan penampilan struktur yang aneh.</MonolithArrivalText>
+  <!-- EN: It is very similar, if not identical, to the monolith you previously encountered. -->
+  <MonolithArrivalTextExt>Ini sangat mirip, tetapi tidak identik, dengan monolith yang Anda temukan sebelumnya.</MonolithArrivalTextExt>
+  <!-- EN: Can't {0} monolith -->
+  <CantActivateMonolith>Tidak bisa {0} monolith</CantActivateMonolith>
+
+  <!-- EN: Monolith twisting -->
+  <MonolithTwistingAlert>Torsion monolith</MonolithTwistingAlert>
+  <!-- EN: Your presence has caused the monolith to twist and morph. Soon the process will be complete. Be prepared for whatever comes next. -->
+  <MonolithTwistingExplanation>Kehadiran Anda telah menyebabkan monolit berputar dan berubah.Prosesnya akan segera selesai.Bersiaplah untuk apa yang datang nanti.</MonolithTwistingExplanation>
+  <!-- EN: Fallen monolith -->
+  <MonolithAutoActivatingLabel>Monolith jatuh</MonolithAutoActivatingLabel>
+  <!-- EN: A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next. -->
+  <MonolithAutoActivatingText>Gelombang teror mengalir melalui pemukim Anda.Monolith yang jatuh telah mulai bergetar.Perlahan, itu mulai memelintir dan mengatur ulang, berubah menjadi sesuatu yang baru. \ N \ nen masalah hari, prosesnya akan selesai.Bersiaplah untuk apa pun yang datang.</MonolithAutoActivatingText>
+  <!-- EN: Void monolith -->
+  <MonolithAutoActivatedLabel>Monolith Vakum</MonolithAutoActivatedLabel>
+  <!-- EN: The monolith's transformation is almost complete... -->
+  <MonolithAutoActivatedText>Transformasi monolit hampir lengkap ...</MonolithAutoActivatedText>
+
+  <!-- EN: Gray pall -->
+  <LetterLabelGrayPallDescending>Kerudung abu -abu</LetterLabelGrayPallDescending>
+  <!-- EN: A blanket of gritty fog has descended on this area. The fog smells ancient, somehow, and it stings the skin. The unnatural grayness of it invokes a sense of dread. -->
+  <LetterGrayPallDescending>Mantel kabut berpasir telah turun di daerah ini.Kabut berbau di masa lalu dan gatal pada kulit.Warna abu -abu antinatural menyebabkan perasaan teror.</LetterGrayPallDescending>
+
+  <!-- Void Awakening -->
+  <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
+  <VoidAwakeningConfirmationText>Membangkitkan monolit kekosongan akan menjerumuskan koloni Anda dalam kegelapan selama beberapa hari dan menarik entitas yang kuat.Pastikan untuk dipersiapkan dengan baik: \ n \ n- Simpan makanan, bahan konstruksi dan senjata.\ N- Pastikan koloni Anda diterangi dengan baik dan memiliki energi yang cukup. Hindari tergantung pada generator matahari. \ N- Pastikan koloni Anda dipertahankan dengan baik, dan pemukim Anda siap bertarung.</VoidAwakeningConfirmationText>
+  <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
+  <VoidNodeLetter>Bola energi psikis yang bengkok naik ke {Pawn_namedef}. \ N \ n {pawn_namedef} merasakan kehadiran di dalam pikiran Anda, lebih dalam daripada indera manusia normal.Terletak di tepi samudera hitam yang tak terbatas yang mengundang Anda untuk masuk.{Pawn_namedef} dapat mengganggu mereka, menutup tautan ini antar dunia.Tidak diketahui kekuatan gelap apa yang bisa diperoleh dari tindakan yang tidak manusiawi seperti itu.</VoidNodeLetter>
+  <!-- EN: Disrupt the link -->
+  <VoidNodeDisrupt>Mengganggu tautan</VoidNodeDisrupt>
+  <!-- EN: Embrace the void -->
+  <VoidNodeEmbrace>Terima kekosongan</VoidNodeEmbrace>
+  <!-- EN: Postpone -->
+  <VoidNodePostpone>Menunda</VoidNodePostpone>
+  <!-- EN: The psychic flows destabilize and the twisted machinery screams. The swirling void flickers. {PAWN_nameDef} feels it shuddering and collapsing into itself.\n\nThe metallic cavern begins to twist, reshaping like the chamber of a massive heart. Before {PAWN_nameDef} has a chance to scream, {PAWN_pronoun} blinks out of existence.\n\n{PAWN_nameDef} has rejected the void.\n\n{PAWN_possessive} story continues... -->
+  <DisruptTheLinkCredits>Aliran psikis tidak stabil dan mesin Archeoteca yang bengkok.Susukan kosong berkedip.{Pawn_namedef} merasa bahwa itu meluap di luar batasnya dan runtuh sendiri {Pawn_gender?O: A}, sekaligus.Sebelum {Pawn_namedef} memiliki kesempatan untuk berteriak, {Pawn_pronoun} menghilang dari keberadaan. \ N \ n {pawn_namedef} telah menolak kekosongan.</DisruptTheLinkCredits>
+  <!-- EN: {PAWN_nameDef} steps into the void and the black ocean floods into {PAWN_objective}, overwhelming every sense, suffusing every thought in {PAWN_possessive} mind.\n\nThe void node has been refocused away from the world, towards one single person. The void structures scream, then blink out of existence.\n\n{PAWN_nameDef} has embraced the void.\n\n{PAWN_possessive} story continues... -->
+  <EmbraceTheVoidCredits>{Pawn_namedef} memasuki kekosongan dan lautan hitam {Pawn_objective} banjir, membanjiri semua indranya dan setiap pikiran tentang pikirannya.Struktur kekosongan berteriak, dan kemudian menghilang dari keberadaan. \ N \ n {pawn_namedef} telah menerima kekosongan.</EmbraceTheVoidCredits>
+  <!-- EN: {PAWN_nameDef} has finished activating {STRUCTURE_definite} -->
+  <StructureActivatedMessage>{Pawn_namedef} telah selesai mengaktifkan {struktur_definite}</StructureActivatedMessage>
+  <!-- EN: Structures activated -->
+  <StructuresActivatedAlertLabel>Struktur yang diaktifkan</StructuresActivatedAlertLabel>
+  <!-- EN: Activate void structures to complete the monolith awakening. -->
+  <StructuresActivatedAlertDescription>Aktifkan struktur vakum untuk menyelesaikan kebangkitan monolith.</StructuresActivatedAlertDescription>
+  <!-- EN: {PAWN_nameDef}'s connection to the void monolith has been broken. It must be activated again. -->
+  <GleamingMonolithInterrupted>Koneksi {pawn_namedef} dengan monolit vakum telah rusak.Itu harus diaktifkan lagi.</GleamingMonolithInterrupted>
+
+  <!-- HediffComp_GiveLovinMTBFactor -->
+  <!-- EN: Increases the chance of lovin` -->
+  <IncreasesChanceOfLovin>Meningkatkan peluang bercinta</IncreasesChanceOfLovin>
+
+  <!-- EN: Unnatural {0_label} corpse -->
+  <UnnaturalCorpse>Mayat {0_label} tidak wajar</UnnaturalCorpse>
+
+  <!-- Studiable -->
+  <!-- EN: Knowledge from study reduced -->
+  <KnowledgeFactorOutdoors>Mengurangi pengetahuan studi</KnowledgeFactorOutdoors>
+
+  <!-- Unnatural darkness -->
+  <!-- EN: Emergence in {0} -->
+  <EmergenceIn>Muncul di {0}</EmergenceIn>
+  <!-- EN: Something will emerge from the ground in {0}. -->
+  <EmergenceInDesc>Sesuatu akan muncul dari tanah di {0}.</EmergenceInDesc>
+  
+  <!-- Bioferrite harvester -->
+  <!-- EN: Bioferrite contained -->
+  <BioferriteHarvesterContained>Berisi bioferrita</BioferriteHarvesterContained>
+  <!-- EN: per day -->
+  <BioferriteHarvesterPerDay>per hari</BioferriteHarvesterPerDay>
+  <!-- EN: Eject contents -->
+  <BioferriteHarvesterEjectContents>Konten Bingkai</BioferriteHarvesterEjectContents>
+  <!-- EN: Eject all contained {0} onto the ground. -->
+  <BioferriteHarvesterEjectContentsDesc>Buang semua {0} yang terkandung dari tanah.</BioferriteHarvesterEjectContentsDesc>
+  <!-- EN: Toggle bioferrite unloading -->
+  <BioferriteHarvesterToggleUnloading>Unduh Bioferrita Alternatif</BioferriteHarvesterToggleUnloading>
+  <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
+  <BioferriteHarvesterToggleUnloadingDesc>Ketika aktif, pemukim secara otomatis mengunduh bioferrite dari pemanen saat diisi.</BioferriteHarvesterToggleUnloadingDesc>
+  
+  <!-- Proximity detector -->
+  <!-- EN: Invisible creature detected. -->
+  <ProximityDetectorCreatureDetected>Makhluk yang tidak terlihat terdeteksi.</ProximityDetectorCreatureDetected>
+  
+  <!-- Frenzy inducer -->
+  <!-- EN: Generating frenzy field. -->
+  <FrenzyInducerEffectDescription>Menghasilkan bidang hiruk pikuk.</FrenzyInducerEffectDescription>
+  <!-- EN: This happened due to the influence of a frenzy inducer. -->
+  <MentalBreakReason_FrenzyInducer>Ini terjadi karena pengaruh induktor hiruk -pikuk.</MentalBreakReason_FrenzyInducer>
+  
+  <!-- Sleep suppressor -->
+  <!-- EN: sleepless psychic pulsation. -->
+  <SleepSuppressorEffectDescription>Insomne Psychic Pulsation.</SleepSuppressorEffectDescription>
+  
+  <!-- Devourer -->
+  <!-- EN: Being digested by {0_labelShort}. -->
+  <DigestedBy>Dicerna (a) oleh {0_labelshort}.</DigestedBy>
+
+  <!-- Chimeras -->
+  <!-- EN: The chimera is {0} -->
+  <MessageChimeraModeChangeSingular>Chimera adalah {0}</MessageChimeraModeChangeSingular>
+  <!-- EN: The chimeras are {0} -->
+  <MessageChimeraModeChangePlural>Chimerasnya {0}</MessageChimeraModeChangePlural>
+  <!-- EN: temporarily withdrawing. -->
+  <MessageChimeraWithdrawing>pensiun sementara.</MessageChimeraWithdrawing>
+
+  <!-- EN: Chimeras attacking -->
+  <LetterChimerasAttackingLabel>Chimeras menyerang</LetterChimerasAttackingLabel>
+  <!-- EN: The chimeras have begun their attack! -->
+  <LetterChimerasAttacking>Chimeras telah memulai serangan mereka!</LetterChimerasAttacking>
+  
+  <!-- Anomaly event frequency -->
+  <!-- EN: No major threats -->
+  <AnomalyFrequency_None>Tanpa ancaman besar</AnomalyFrequency_None>
+  <!-- EN: Very rare -->
+  <AnomalyFrequency_VeryRare>Sangat jarang</AnomalyFrequency_VeryRare>
+  <!-- EN: Rare -->
+  <AnomalyFrequency_Rare>Langka</AnomalyFrequency_Rare>
+  <!-- EN: Balanced -->
+  <AnomalyFrequency_Balanced>Seimbang</AnomalyFrequency_Balanced>
+  <!-- EN: Intense -->
+  <AnomalyFrequency_Intense>Intens</AnomalyFrequency_Intense>
+  <!-- EN: Overwhelming -->
+  <AnomalyFrequency_Overwhelming>Begitu banyak</AnomalyFrequency_Overwhelming>
+  
+  <!-- EN: Security doors only -->
+  <SecurityDoorsOnly>Hanya pintu keamanan</SecurityDoorsOnly>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: despised -->
+  <FungusEating_Despised.label>Dibenci</FungusEating_Despised.label>
+  <!-- EN: That dark-grown fungus food is just disgusting. -->
+  <FungusEating_Despised.description>Makanan jamur gelap itu benar -benar menjijikkan.</FungusEating_Despised.description>
+  
+  <!-- EN: preferred -->
+  <FungusEating_Preferred.label>lebih disukai</FungusEating_Preferred.label>
+  <!-- EN: Fungus is the right crop to eat. Crops of the light are poisoned by the air and sun. -->
+  <FungusEating_Preferred.description>Jamur adalah budidaya yang tepat untuk dimakan.Tanaman ringan diracuni oleh udara dan matahari.</FungusEating_Preferred.description>
+  
+</LanguageData>

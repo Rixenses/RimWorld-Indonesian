@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>place_name-> Sophiamunda</li>
+    <li>place_adjective-> Sophian</li>
+    <li>Place_summary-> Techno-Feudal World</li>
+    <li>Place_Community-> Castle</li>
+    <li>Place_Community-> Palace</li>
+    <li>place_job-> Knight</li>
+    <li>place_job-> Squire</li>
+    <li>place_job-> Duke</li>
+    <li>place_job-> maid</li>
+    <li>place_job-> pedang</li>
+    <li>plas_personalweapon-> Persona plasmasword</li>
+    <li>place_personalweapon-> warhammer</li>
+    <li>place_massweapon-> target cluster mech orbital</li>
+    <li>Place_massweapon-> wabah bio-engineered</li>
+    <li>place_massweapon-> pasukan ksatria jatuh</li>
+    <li>place_foeleader-> revolusionis</li>
+    <li>Place_foesoldiers-> Pemberontak</li>-><Sophiamunda.placeRules.rulesStrings>
+    <li>place_name-> Sophiamunda</li>
+    <li>place_adjective-> Sophian</li>
+    <li>Place_summary-> Tecnofedal World</li>
+    <li>Place_Community-> Castillo</li>
+    <li>Place_Community-> Palacio</li>
+    <li>place_job-> Caballero</li>
+    <li>place_job-> Escudero</li>
+    <li>place_job-> duque</li>
+    <li>Place_job-> hamba</li>
+    <li>Place_job-> espadachín</li>
+    <li>Place_personalweapon-> pedang plasma dengan ia</li>
+    <li>Place_personalweapon-> palu perang</li>
+    <li>Place_massweapon-> Bala bantuan sistem orbital</li>
+    <li>Place_massweapon-> wabah bioengineering</li>
+    <li>Place_massweapon-> pasukan tuan-tuan yang jatuh</li>
+    <li>Place_foeleader-> revolusioner</li>
+    <li>Place_foesoldiers-> Rebeldes</li>
+  </Sophiamunda.placeRules.rulesStrings>
+  
+</LanguageData>

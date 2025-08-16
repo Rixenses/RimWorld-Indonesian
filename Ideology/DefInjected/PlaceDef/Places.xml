@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Place_name-> stasiun attua</li>
+    <li>place_adjective-> ATURAN</li>
+    <li>Place_summary-> Orbital Shipyard</li>
+    <li>Place_Community-> Shuttle Dock</li>
+    <li>Place_Community-> Cincin manufaktur</li>
+    <li>Place_Community-> Cincin perumahan</li>
+    <li>Place_PowerCenter-> Ruang Kontrol Pusat</li>
+    <li>Place_Job-> Operator Drone Konstruksi</li>
+    <li>Place_Job-> Manajer</li>
+    <li>PLACE_JOB-> uji coba</li>
+    <li>Place_Job-> Agen Penjualan</li>
+    <li>Place_Job-> Teknisi Printer 3D</li>
+    <li>place_personalweapon-> Taser</li>
+    <li>Place_personalweapon-> Arc Welder</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>Place_massweapon-> drone pengelasan yang dikendalikan dari jarak jauh</li>
+    <li>Place_foeleader-> Bos Kejahatan</li>
+    <li>place_foesoldiers-> preman</li>-><AturaStation.placeRules.rulesStrings>
+    <li>Place_name-> stasiun attua</li>
+    <li>place_adjective-> aturano</li>
+    <li>Place_summary-> Astillero Orbital</li>
+    <li>Place_Community-> Link Spring</li>
+    <li>Place_Community-> Cincin manufaktur</li>
+    <li>Place_Community-> Cincin perumahan</li>
+    <li>Place_powecenter-> Kontrol pusat keempat</li>
+    <li>Place_Job-> Operator Drone Konstruksi</li>
+    <li>place_job-> umat manusia</li>
+    <li>PLACE_JOB-> uji coba</li>
+    <li>Place_Job-> Agen Penjualan</li>
+    <li>Place_Job-> Teknisi Printer 3D</li>
+    <li>Place_personalweapon-> Pistol Listrik</li>
+    <li>Place_personalweapon-> Pistol Pengelasan</li>
+    <li>Place_personalweaponpl-> senjata listrik</li>
+    <li>Place_personalweaponpl-> senjata pengelasan</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>Place_massweapon-> Drone Pengelasan Remote Control</li>
+    <li>Place_foeleader-> kepala kejahatan</li>
+    <li>Place_foesoldiers-> Esbirros</li>
+  </AturaStation.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> Bagua 5</li>
+    <li>place_adjective-> Bagucinquan</li>
+    <li>Place_summary-> Junkyard Planet</li>
+    <li>Place_Community-> Fortified Scrapyard</li>
+    <li>Place_Community-> Pabrik Pemrosesan Air Hujan</li>
+    <li>Place_Community-> Scrap-town</li>
+    <li>Place_PowerCenter-> Trader Spaceport</li>
+    <li>place_job-> scavenger</li>
+    <li>Place_Job-> Pedagang</li>
+    <li>place_job-> tinkerer</li>
+    <li>place_job-> penjaga</li>
+    <li>place_job-> Scrapper</li>
+    <li>PLACE_PERSONALWEAPON-> PIPE RIFLE</li>
+    <li>place_personalweapon-> scrap-sword</li>
+    <li>place_massweapon-> nuklir yang diselamatkan</li>
+    <li>Place_massweapon-> virus karat</li>
+    <li>place_foeleader-> junk lord</li>
+    <li>Place_foesoldiers-> logam-heads</li>-><Bagua5.placeRules.rulesStrings>
+    <li>place_name-> Bagua 5</li>
+    <li>place_adjective-> Bagucinquano</li>
+    <li>Place_summary-> Planet yang tergores</li>
+    <li>Place_Community-> Fortified Descuace</li>
+    <li>Place_Community-> Kompleks Pengolahan Air Hujan</li>
+    <li>Place_Community-> Scrap Planet</li>
+    <li>Place_powecenter-> Space Commerce Port</li>
+    <li>Place_job-> scavenger</li>
+    <li>Place_Job-> Pedagang</li>
+    <li>Place_job-> mikanik</li>
+    <li>place_job-> guardia</li>
+    <li>Place_job-> scraper</li>
+    <li>Place_personalweapon-> Tube Shotgun</li>
+    <li>Place_personalweapon-> pedang-ketua</li>
+    <li>PLACE_PERSONALWEAPONPL-> Tube Shotguns</li>
+    <li>Place_personalweaponpl-> pedang-ketua</li>
+    <li>Place_massweapon-> senjata nuklir yang dipulihkan</li>
+    <li>Place_massweapon-> rusty virus</li>
+    <li>Place_foeleader-> Lord of the Scrap Metal</li>
+    <li>Place_foesoldiers-> kepala logam</li>
+  </Bagua5.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> boccocarro</li>
+    <li>place_adjective-> boccin</li>
+    <li>Place_summary-> Cavernous Shell-World</li>
+    <li>Place_Community-> Surface Tunnel</li>
+    <li>Place_Community-> Gua Jamur</li>
+    <li>Place_Community-> Drip-Well</li>
+    <li>PLACE_POWERCENTER-> BUKU-Aula</li>
+    <li>place_job-> penambang</li>
+    <li>Place_job-> jamur prign</li>
+    <li>PLACE_JOB-> PENCARIAN PERMUKAAN</li>
+    <li>Place_Job-> COMMUNITY COOK</li>
+    <li>PLACE_JOB-> FROG-HUNTER</li>
+    <li>place_personalweapon-> pickaxe</li>
+    <li>Place_personalweapon-> Crossbow hidraulik</li>
+    <li>Place_massweapon-> [perangkat seismik]</li>
+    <li>Place_massweapon-> bom blackpowder</li>
+    <li>Place_foeleader-> hypervisor tambang</li>
+    <li>Place_FORTIIERS-> ABYSSAL MARINIR</li>-><Boccocarro.placeRules.rulesStrings>
+    <li>place_name-> boccocarro</li>
+    <li>place_adjective-> bociano</li>
+    <li>Tempatkan Ringkasan-> Gua Dunia</li>
+    <li>Place_Comumnty->> Túbeels layak</li>
+    <li>Place_Community-> Fungal Underground</li>
+    <li>Place_Community-> DRIP dengan baik</li>
+    <li>Place_powecenter-> Ruang Konferensi</li>
+    <li>place_job-> minero</li>
+    <li>PLACE_JOB-> PENGEMBANGAN FUNGAL</li>
+    <li>PLACE_JOB-> PENCARIAN PERMUKAAN</li>
+    <li>PLACE_JOB-> COMMUNITY CHEF</li>
+    <li>Place_Job-> Hurter Frog</li>
+    <li>place_personalweapon-> pico</li>
+    <li>Place_personalweapon-> Hydraulic Ballesta</li>
+    <li>place_personalweaponpl-> piquetas</li>
+    <li>Place_personalweaponpl-> Crossbows hidraulik</li>
+    <li>Place_massweapon-> [perangkat seismik]</li>
+    <li>Place_massweapon-> pompa bubuk mesiu</li>
+    <li>Place_foeleader-> hypervisor pertambangan</li>
+    <li>Place_foesoldiers-> Marinir Abisales</li>
+  </Boccocarro.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> chelis</li>
+    <li>place_adjective-> chelisi</li>
+    <li>Place_summary-> dunia kering</li>
+    <li>Place_Community-> Farm Moisture</li>
+    <li>Place_Community-> Parch-town</li>
+    <li>Place_Community-> Water Center</li>
+    <li>Place_PowerCenter-> High Lifehall</li>
+    <li>PLACE_JOB-> Pengumpul Air</li>
+    <li>Place_Job-> Lizardskinner</li>
+    <li>Place_Job-> Pencarian Oasis</li>
+    <li>Place_Job-> Cactus Gatherer</li>
+    <li>place_job-> scav-herder</li>
+    <li>place_personalweapon-> panah pasir</li>
+    <li>place_personalweapon-> cactus-club</li>
+    <li>place_massweapon-> badai pasir yang diinduksi Archotech</li>
+    <li>Place_massweapon-> Spikelizard Stampede</li>
+    <li>PLACE_FOELEADER-> CHIEF</li>
+    <li>place_foesoldiers-> Sand-warriors</li>-><Chelis.placeRules.rulesStrings>
+    <li>place_name-> chelis</li>
+    <li>place_adjective-> chelisio</li>
+    <li>Place_summary-> arido</li>
+    <li>Place_Communch-> Peternakan Kelembaban</li>
+    <li>Place_Community-> Patches Town</li>
+    <li>Place_Community-> Water Center</li>
+    <li>Place_powecenter-> High Life Hall</li>
+    <li>Place_Job-> Pengumpul Air</li>
+    <li>Place_job-> Reptile Desolate</li>
+    <li>Place_job-> oasis mesin pencari</li>
+    <li>PLACE_JOB-> CACTUS COLLECTOR</li>
+    <li>Place_Job-> Surge Shepherd</li>
+    <li>Place_personalweapon-> panah pasir</li>
+    <li>Place_personalweapon-> Cactus porra</li>
+    <li>Place_Personalweaponpl-> Arrows Arena</li>
+    <li>Place_personalweaponpl-> porras de cactus</li>
+    <li>Place_massweapon-> badai pasir yang disebabkan oleh arkeoteknologi</li>
+    <li>Place_massweapon-> Stampede of Lizard</li>
+    <li>PLACE_FOELEADER-> CHIEF</li>
+    <li>Place_foesoldiers-> Sand Warriors</li>
+  </Chelis.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> creticon</li>
+    <li>place_adjective-> Creticonian</li>
+    <li>Place_summary-> Blasted Death-World</li>
+    <li>Place_Community-> Bunker</li>
+    <li>Place_Community-> Cavern</li>
+    <li>Place_Community-> ES-Shelter</li>
+    <li>Place_PowerCenter-> Bunker Direktur</li>
+    <li>PLACE_JOB-> Pendaftaran Udara RepePreater</li>
+    <li>Place_job-> Petani Algae</li>
+    <li>PLACE_JOB-> DOCTOR</li>
+    <li>place_job-> Guru</li>
+    <li>PLACE_JOB-> Komandan Milisi</li>
+    <li>Place_Job-> PILOTTLE PILOT</li>
+    <li>place_personalweapon-> autopistol</li>
+    <li>place_personalweapon-> lmg</li>
+    <li>place_massweapon-> rudal nuklir yang dipasang di bahu</li>
+    <li>Place_massweapon-> Sebuah pemboman orbital</li>
+    <li>Place_massweapon-> Bom Kimia</li>
+    <li>place_massweapon-> Mechanoids yang diretas</li>
+    <li>place_foeleader-> warlord</li>
+    <li>place_foesoldiers-> tentara bayaran</li>-><Creticon.placeRules.rulesStrings>
+    <li>place_name-> creticon</li>
+    <li>place_adjective-> creticoniano</li>
+    <li>Place_summary-> Dunia mati yang hancur</li>
+    <li>Place_Community-> Búnker</li>
+    <li>Place_Communch-> Terowongan Bawah Tanah</li>
+    <li>Place_Community-> Ice Refuge</li>
+    <li>PLACE_POWECENTER-> Bunker Direktur</li>
+    <li>Place_Job-> Perbaikan Air</li>
+    <li>Place_job-> Petani Algae</li>
+    <li>PLACE_JOB-> DOCTOR</li>
+    <li>Place_job-> Guru</li>
+    <li>PLACE_JOB-> Komandan Milisi</li>
+    <li>Place_job-> overflower pilot</li>
+    <li>Place_personalweapon-> Automatic Gun</li>
+    <li>place_personalweapon-> lmg</li>
+    <li>Place_personalweaponpl-> senjata otomatis</li>
+    <li>place_personalweaponpl-> lmgs</li>
+    <li>Place_massweapon-> rudal nuklir yang dipasang di bahu</li>
+    <li>Place_massweapon-> un bombardeo orbital</li>
+    <li>Place_massweap-> Bom Kimia</li>
+    <li>Place_massweapon-> Mecanoids Direct</li>
+    <li>Place_foeader-> Lord of War</li>
+    <li>Place_foesoldiers-> Mercenarios</li>
+  </Creticon.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> filson</li>
+    <li>place_adjective-> filsoner</li>
+    <li>Place_summary-> Pedesaan Farm-world</li>
+    <li>Place_Community-> Balai Kota</li>
+    <li>Place_Community-> Pupuk Pemrosesan Pupuk</li>
+    <li>Place_Community-> Mega-Granary</li>
+    <li>Place_Community-> Water-Bore Situus</li>
+    <li>Place_PowerCenter-> Balai Kota</li>
+    <li>PLACE_JOB-> Tangan pertanian</li>
+    <li>PLACE_JOB-> pemetik buah</li>
+    <li>Place_Job-> Pengemudi Transportasi</li>
+    <li>PLACE_JOB-> guru sekolah</li>
+    <li>PLACE_JOB-> Insinyur Tanah</li>
+    <li>PLACE_PERSONALWEAPON-> RIFLE</li>
+    <li>place_personalweapon-> scythe</li>
+    <li>Place_massweapon-> Bom Pupuk</li>
+    <li>Place_massweapon-> Semprotan pestisida yang dipersenjatai</li>
+    <li>Place_massweapon-> Space Lens</li>
+    <li>place_foeleader-> pemilik tanah</li>
+    <li>place_foesoldiers-> Milisi</li>-><Filson.placeRules.rulesStrings>
+    <li>place_name-> filson</li>
+    <li>place_adjective-> filsoneriano</li>
+    <li>Place_summary-> Dunia Pertanian Pedesaan</li>
+    <li>Place_Community-> Dewan Kota</li>
+    <li>Place_Community-> Pabrik Pengolahan Pupuk</li>
+    <li>Place_Community-> Megagranero</li>
+    <li>Place_Community-> Situs Pengeboran Air</li>
+    <li>Place_Powecenter-> Dewan Kota</li>
+    <li>Place_job-> pion pertanian</li>
+    <li>PLACE_JOB-> Kolektor Buah</li>
+    <li>Place_Job-> Pengemudi Transportasi</li>
+    <li>PLACE_JOB-> guru sekolah</li>
+    <li>PLACE_JOB-> Insinyur Tanah</li>
+    <li>place_personalweapon-> Carabina</li>
+    <li>Place_personalweapon-> guadaña</li>
+    <li>place_personalweaponpl-> Carabinas</li>
+    <li>Place_personalweaponpl-> guadañas</li>
+    <li>Place_massweapon-> pompa pupuk</li>
+    <li>Place_massweapon-> semprotan pestisida Armified</li>
+    <li>place_massweapon-> lente espacial</li>
+    <li>Place_foeleader-> pemilik tanah</li>
+    <li>Place_foesoldiers-> Milisi</li>
+  </Filson.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>-> i</li>
+    <li>place_adjective-> ilwaban</li>
+    <li>Place_summary-> Regrown Ruin-world</li>
+    <li>Place_Community-> Skyscraper Village</li>
+    <li>Place_Community-> Highway Trade-Post</li>
+    <li>Place_Community-> Blast-land oasis</li>
+    <li>Place_powercenter-> House of Regrowth</li>
+    <li>PLACE_JOB-> CRETE-FARMER</li>
+    <li>PLACE_JOB-> pembuat jalur</li>
+    <li>Place_Job-> Hunter Artefak</li>
+    <li>Place_Job-> Tunnelwalker</li>
+    <li>PLACE_JOB-> Pemulih Artefak</li>
+    <li>place_personalweapon-> scrap-sword</li>
+    <li>Tempatkan senjata pribadi->-saya</li>
+    <li>place_massweapon-> nuklir gali</li>
+    <li>place_massweapon-> bom racun kuno</li>
+    <li>Place_foeleader-> crypto-leader</li>
+    <li>Place_foesoldiers-> Crypto-Soldiers</li>-><Ilwaba.placeRules.rulesStrings>
+    <li>-> i</li>
+    <li>place_adjective-> ilguabaniano</li>
+    <li>Place_summary-> reruntuhan dunia</li>
+    <li>Place_community-> Town of the Pencakar Langit</li>
+    <li>Place_Community-> Road Post</li>
+    <li>place_community-> oasis dari bumi yang hancur</li>
+    <li>PLACE_POWECENTER-> ROPPULASI RUMAH</li>
+    <li>PLACE_JOB-> petani Kreta</li>
+    <li>Place_job-> pencipta jalan</li>
+    <li>Place_Job-> Hunter Artefak</li>
+    <li>Place_Job-> Tunnel Walker</li>
+    <li>PLACE_JOB-> Pemulih Artefak</li>
+    <li>Place_personalweapon-> pedang-ketua</li>
+    <li>Place_personalweapon-> i day</li>
+    <li>Place_personalweaponpl-> pedang-ketua</li>
+    <li>Place_personalweaponpl-> I Am Day</li>
+    <li>Place_massweapon-> pompa nuklir yang tidak terduga</li>
+    <li>Place_massweapon-> pompa beracun lama</li>
+    <li>Place_foeleader-> cryptoder</li>
+    <li>Place_foesoldiers-> Criptosoldados</li>
+  </Ilwaba.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> iwamura</li>
+    <li>place_adjective-> iWamurian</li>
+    <li>Place_summary-> Stony Asteroid</li>
+    <li>Place_Community-> Pasar Kapsul</li>
+    <li>Place_Community-> Gudang Kapsul</li>
+    <li>Place_Community-> Docking Pier</li>
+    <li>Place_PowerCenter-> Station Bridge</li>
+    <li>PLACE_JOB-> Insinyur Pendukung Kehidupan</li>
+    <li>Place_Job-> Pedagang</li>
+    <li>Place_Job-> Pengontrol Penerbangan</li>
+    <li>Place_job-> atlet zero-g</li>
+    <li>PLACE_JOB-> Radio host</li>
+    <li>Place_personalweapon-> Charge Rifle</li>
+    <li>place_personalweapon-> obor pengelasan</li>
+    <li>Place_massweapon-> racun aerosol</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>place_massweapon-> virus sabotase dukungan hidup</li>
+    <li>Place_foeleader-> CEO Mega-Corp</li>
+    <li>place_foesoldiers-> Sewa-a-cops</li>-><Iwamura.placeRules.rulesStrings>
+    <li>place_name-> iwamura</li>
+    <li>place_adjective-> iWamuriano</li>
+    <li>Place_summary-> asummaid</li>
+    <li>Pasar</li>
+    <li>Place_Community-> Capsule Warehouse</li>
+    <li>Place_Community-> Catech Dock</li>
+    <li>Place_Powecenter-> Station Bridge</li>
+    <li>Place_job-> insinyur pendukung vital</li>
+    <li>Place_Job-> Pedagang</li>
+    <li>Place_Job-> Pengontrol Penerbangan</li>
+    <li>Place_job-> atlet gravitasi nol</li>
+    <li>PLACE_JOB-> Radio host</li>
+    <li>Place_personalweapon-> Load Gun</li>
+    <li>Place_personalweapon-> Pistol Pengelasan</li>
+    <li>Place_personalweaponpl-> memuat senjata</li>
+    <li>Place_personalweaponpl-> senjata pengelasan</li>
+    <li>Place_massweapon-> Aerosol Racun</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>Place_massweapon-> virus sabotase dukungan vital</li>
+    <li>Place_foeleader-> CEO Mega Corporation</li>
+    <li>Place_foesoldiers-> Polisi Sewa</li>
+  </Iwamura.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> Kemia</li>
+    <li>place_adjective-> Kemian</li>
+    <li>Place_summary-> Toxic War-world</li>
+    <li>Place_community-> kumuh</li>
+    <li>Place_Community-> Tunnel Colony</li>
+    <li>Place_Community-> Undertown</li>
+    <li>Place_PowerCenter-> City Lordhouse</li>
+    <li>PLACE_JOB-> Penyapu jalanan</li>
+    <li>Place_Job-> Cleanup Engineer</li>
+    <li>Place_Job-> Petani Protein</li>
+    <li>PLACE_JOB-> Sopir taksi</li>
+    <li>Place_Job-> Pembangun Senjata</li>
+    <li>Place_personalweapon-> bom gas</li>
+    <li>place_personalweapon-> Flamethrower Beracun</li>
+    <li>Place_massweapon-> bom kotor nuklir</li>
+    <li>Place_massweapon-> Wabah Bio-Engineered</li>
+    <li>Place_massweapon-> Penetrasi bom beracun</li>
+    <li>place_foeleader-> racun tuan</li>
+    <li>place_foesoldiers-> racun-prajurit</li>-><Kemia.placeRules.rulesStrings>
+    <li>place_name-> Kemia</li>
+    <li>place_adjective-> Keminiano</li>
+    <li>Place_summary-> dunia perang beracun</li>
+    <li>Place_Community-> Barrio</li>
+    <li>Place_Communch-> Tunnel People</li>
+    <li>Place_Community-> Pueblo Marginal</li>
+    <li>PLACE_POWECENTER-> Rumah megah</li>
+    <li>Place_job-> penyapu</li>
+    <li>PLACE_JOB-> Insinyur Pembersih</li>
+    <li>PLACE_JOB-> Protein Produsen</li>
+    <li>Place_job-> taxista</li>
+    <li>Place_Job-> Pembangun Senjata</li>
+    <li>Place_personalweapon-> pompa gas</li>
+    <li>Place_personalweapon-> pistol api beracun</li>
+    <li>Place_personalweaponpl-> pompa gas</li>
+    <li>Place_personalweaponpl-> senjata api beracun</li>
+    <li>Place_massweapon-> bom nuklir kotor</li>
+    <li>Place_massweapon-> wabah yang biomodifikasi</li>
+    <li>Place_massweapon-> pompa beracun penetrasi</li>
+    <li>Place_foeleader-> Lord of the Poison</li>
+    <li>Place_foesoldiers-> tentara beracun</li>
+  </Kemia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Place_name-> doa</li>
+    <li>Place_adjective-> lutuni</li>
+    <li>Place_summary-> Rainforest Paradise</li>
+    <li>Place_Community-> Klinik augmentasi</li>
+    <li>place_community-> hyper-yacht</li>
+    <li>Place_Community-> Stadion Zero-g</li>
+    <li>Place_PowerCenter-> Kompleks Elevator Luar Angkasa</li>
+    <li>PLACE_JOB-> Panduan Turis</li>
+    <li>Place_job-> performer nol-g</li>
+    <li>Place_Job-> Distributor Luciferium</li>
+    <li>place_job-> selebriti virtual</li>
+    <li>Place_Job-> PILOTTLE PILOT</li>
+    <li>Place_personalweapon-> vibro-pnife</li>
+    <li>Place_personalweapon-> pistol pengisian daya</li>
+    <li>place_massweapon-> Bakteri disintegrasi struktural</li>
+    <li>Place_massweapon-> penargetan pemboman orbital yang diselundupkan</li>
+    <li>Place_foeleader-> Mogul Hiburan</li>
+    <li>Place_foesoldiers-> Penegak</li>-><Lutuni.placeRules.rulesStrings>
+    <li>Place_name-> doa</li>
+    <li>place_adjective-> lutuniano</li>
+    <li>Place_summary-> Jungle Paradise</li>
+    <li>Tempatkan Komunitas-> Tingkatkan Rumah Sakit</li>
+    <li>Komunitas PO</li>
+    <li>Place_Community-> Zero Gravity Stadium</li>
+    <li>Place_powecenter-> Space Elevators Complex</li>
+    <li>PLACE_JOB-> Panduan Turis</li>
+    <li>Place_job-> nol interpreter gravitasi</li>
+    <li>Place_job-> Pedagang luciferio</li>
+    <li>Place_job-> selebriti virtual</li>
+    <li>Place_job-> overflower pilot</li>
+    <li>place_personalweapon-> vibrocuchilla</li>
+    <li>Place_personalweapon-> Load Gun</li>
+    <li>place_personalweaponpl-> vibrocuchillas</li>
+    <li>Place_personalweaponpl-> memuat senjata</li>
+    <li>Place_massweapon-> Bakteri disintegrasi struktural</li>
+    <li>Place_massweapon-> Sebuah pemboman orbital penyelundupan</li>
+    <li>Place_foeleader-> Magnat of Entertainment</li>
+    <li>Place_foesoldiers-> Executors</li>
+  </Lutuni.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Place_name-> novaroma</li>
+    <li>place_adjective-> novaroman</li>
+    <li>Place_summary-> Planetoid</li>
+    <li>Place_Community-> Kementerian Izin</li>
+    <li>Place_Community-> Gated Suburb</li>
+    <li>place_community-> over-city</li>
+    <li>Place_community-> di bawah kota</li>
+    <li>Tempatkan PowerCenter-> Megacity Overhaul</li>
+    <li>Place_job-> panitera</li>
+    <li>PLACE_JOB-> PERJANJIAN</li>
+    <li>PLACE_JOB-> kurir makanan</li>
+    <li>PLACE_JOB-> Sopir taksi</li>
+    <li>Place_Job-> Pekerja Ritel</li>
+    <li>PLACE_PERSONALWEAPON-> REVOLVER</li>
+    <li>PLACE_PERSONALWEAPON-> Pisau</li>
+    <li>Place_massweapon-> [perangkat seismik]</li>
+    <li>Place_massweapon-> bom cluster</li>
+    <li>place_massweapon-> bom koper nuklir</li>
+    <li>place_foeleader-> High-underlord</li>
+    <li>place_foesoldiers-> Undertroops</li>-><Novaroma.placeRules.rulesStrings>
+    <li>Place_name-> novaroma</li>
+    <li>Place_adjecative-> novaromaniana</li>
+    <li>Place_summary-> planetoide</li>
+    <li>Place_Communch-> Kementerian Izin</li>
+    <li>Place_Community-> Suburbio Privado</li>
+    <li>Place_Community-> Centro Urbano Superficial</li>
+    <li>Place_Communch-> Urban Urban Center</li>
+    <li>Place_Powecenter-> Cat Megacenter</li>
+    <li>Place_Job-> Sekretaris</li>
+    <li>PLACE_JOB-> PERJANJIAN</li>
+    <li>Place_job-> pengiriman makanan</li>
+    <li>Place_job-> taxista</li>
+    <li>Place_Job-> Pekerja Ritel</li>
+    <li>Place_personalweapon-> pistol yang dipangkas</li>
+    <li>PLACE_PERSONALWEAPON-> BLADE</li>
+    <li>PLACE_PERSONALWEAPONPL-> CULOSSED GUNS</li>
+    <li>PLACE_PERSONALWEAPONPL-> BLADES</li>
+    <li>Place_massweapon-> [perangkat seismik]</li>
+    <li>Place_massweapon-> pompa nuklir</li>
+    <li>Place_massweapon-> tas pompa nuklir</li>
+    <li>Place_foeleader-> bos mafia yang hebat</li>
+    <li>Place_foesoldiers-> Mafiosos</li>
+  </Novaroma.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> nuchadus</li>
+    <li>place_adjective-> nuchadean</li>
+    <li>Place_summary-> redup volcano-world</li>
+    <li>Place_Community-> Pulau Basalt</li>
+    <li>Place_Community-> Caldera Laketown</li>
+    <li>Place_Community-> Dirigible Village</li>
+    <li>Place_PowerCenter-> Thermal Fortress</li>
+    <li>Place_Job-> Seismologist</li>
+    <li>Place_job-> petani lava-snail</li>
+    <li>Place_Job-> Tank-Tangan Tangki</li>
+    <li>Place_Job-> Airborne Scout</li>
+    <li>place_personalweapon-> obsidian belati</li>
+    <li>Place_personalweapon-> Harpoon Rifle</li>
+    <li>place_massweapon-> letusan gunung berapi yang diinduksi Archotech</li>
+    <li>Place_massweapon-> bom perang kimia</li>
+    <li>place_foeleader-> lava lord</li>
+    <li>Place_FORTIIERS-> TENTARA STYGIAN</li>-><Nuchadus.placeRules.rulesStrings>
+    <li>place_name-> nuchadus</li>
+    <li>Place_adjective-> nuchadiano</li>
+    <li>Place_summary-> Dunia Vulkanik Bawah</li>
+    <li>Place_Community-> Basalt Islet</li>
+    <li>Place_Communch-> Isleño People</li>
+    <li>Place_Communch-> orang yang diarahkan</li>
+    <li>place_powercenter-> castillo termal</li>
+    <li>Place_Job-> Seismologist</li>
+    <li>PLACE_JOB-> PETANI LAVA-CARACOL</li>
+    <li>PLACE_JOB-> Perbaikan ban</li>
+    <li>Place_Job-> Air Explorer</li>
+    <li>Tempatkan senjata pribadi-> Dagger Obsidian</li>
+    <li>Place_personalweapon-> long gun harponera</li>
+    <li>Place_personalweaponpl-> obsidian dagas</li>
+    <li>Place_personalweaponpl-> Long Arponeras Guns</li>
+    <li>Place_massweapon-> letusan gunung berapi yang disebabkan oleh arkeoteknologi</li>
+    <li>Place_massweapon-> pompa kimia</li>
+    <li>Place_feleahader-> Penpasa</li>
+    <li>Place_foesoldiers-> Soldiers Stiggate</li>
+  </Nuchadus.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> Oubanyen</li>
+    <li>place_adjective-> Oubanyeni</li>
+    <li>Place_summary-> Steamy Jungle-World</li>
+    <li>Place_Community-> Tree-Top Village</li>
+    <li>Place_Community-> Dukun Gua</li>
+    <li>Place_Community-> Hill-Top Ziggurat</li>
+    <li>Place_PowerCenter-> Kuil Kota</li>
+    <li>place_job-> Dukun</li>
+    <li>Place_Job-> Hunter</li>
+    <li>place_job-> fisher</li>
+    <li>PLACE_JOB-> pengumpul</li>
+    <li>place_job-> kambing-kuku</li>
+    <li>place_personalweapon-> pila</li>
+    <li>place_personalweapon-> ikwa</li>
+    <li>place_massweapon-> drone psikis yang mematikan</li>
+    <li>Place_massweapon-> bom neurotoksin</li>
+    <li>place_foeleader-> Tree-Harvester</li>
+    <li>Place_foesoldiers-> Henchmen</li>-><Oubanyen.placeRules.rulesStrings>
+    <li>place_name-> Oubanyen</li>
+    <li>place_adjective-> oubanyeniano</li>
+    <li>Place_summary-> Wet Jungle World</li>
+    <li>Place_Communch-> Atasan Cima Reforea</li>
+    <li>Place_Community-> Shaman Shelter</li>
+    <li>Place_community-> zigurat di puncak bukit</li>
+    <li>Place_Powecenter-> Kuil Kota</li>
+    <li>Place_job-> Dukun</li>
+    <li>Place_Job-> Hunter</li>
+    <li>Place_job-> Pescador</li>
+    <li>Place_Job-> Recler</li>
+    <li>Place_job-> Cabrero</li>
+    <li>Place_personalweapon-> jabalinas</li>
+    <li>place_personalweapon-> ikwa</li>
+    <li>place_personalweaponpl-> jabalinas</li>
+    <li>place_personalweaponpl-> ikwas</li>
+    <li>Place_massweapon-> buzzer psikis yang mematikan</li>
+    <li>Place_massweapon-> pompa neurotoksin</li>
+    <li>Place_foeleader-> Pohon Harvester</li>
+    <li>Place_foesoldiers-> Esbirros</li>
+  </Oubanyen.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> rhydell</li>
+    <li>place_adjective-> Rhydellian</li>
+    <li>Place_summary-> Savage Forest Moon</li>
+    <li>Place_Community-> Converted Dropship</li>
+    <li>Place_Community-> Perkemahan Berlokasi Rendah</li>
+    <li>Place_Community-> Pusat Komunikasi</li>
+    <li>Place_powercenter-> habitat boak baja</li>
+    <li>Place_Job-> Botanist Frontier</li>
+    <li>PLACE_JOB-> Hurter Trophy</li>
+    <li>place_job-> medic</li>
+    <li>place_job-> Camp Cook</li>
+    <li>Place_Job-> Biolab Engineer</li>
+    <li>Place_personalweapon-> Sniper Rifle</li>
+    <li>place_personalweapon-> Machete</li>
+    <li>place_massweapon-> gas neurotoksin yang diturunkan tanaman</li>
+    <li>place_massweapon-> serangan laser orbital</li>
+    <li>Place_foeleader-> DeepCorp Executive</li>
+    <li>Place_foesoldiers-> DeepCorp Enforcers</li>-><Rhydell.placeRules.rulesStrings>
+    <li>place_name-> rhydell</li>
+    <li>place_adjective-> rhydelliano</li>
+    <li>Place_summary-> Wild Forest World</li>
+    <li>Place_Community-> Transfer yang dikonversi</li>
+    <li>Place_Community-> Low Armor Camp</li>
+    <li>Place_Communch-> Pusat Komunikasi</li>
+    <li>Place_powecenter-> habitat boak baja</li>
+    <li>Place_Job-> Batanist Border</li>
+    <li>PLACE_JOB-> Hurter Trophy</li>
+    <li>PLACE_JOB-> DOCTOR</li>
+    <li>PLACE_JOB-> CAMP CHEF</li>
+    <li>Place_job-> Ininyur Biolaborratory</li>
+    <li>Place_personalweapon-> pistol jarak jauh</li>
+    <li>Tempatkan Senjata Pribadi-> Bayonetta</li>
+    <li>Place_personalweaponpl-> senjata jarak jauh</li>
+    <li>Place_personalweaponpl-> bayonets</li>
+    <li>Place_massweapon-> gas neurotoksik asal tanaman</li>
+    <li>Place_massweapon-> serangan laser orbital</li>
+    <li>Place_foeleader-> DeepCorp Executive</li>
+    <li>Place_foesoldiers-> ejecutores de deepcorp</li>
+  </Rhydell.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>Place_name-> rogia</li>
+    <li>place_adjective-> rogian</li>
+    <li>Place_summary-> Glitter-Tech World</li>
+    <li>Place_Community-> Medical Institute</li>
+    <li>Place_Community-> Space Elevator</li>
+    <li>Place_Community-> Robotics Factory</li>
+    <li>Place_PowerCenter-> Planetary Capitol</li>
+    <li>PLACE_JOB-> Kadet Starforce</li>
+    <li>PLACE_JOB-> PETANI ARTISAN</li>
+    <li>place_job-> Prodigy Media Sosial</li>
+    <li>Place_job-> atlet zero-g</li>
+    <li>PLACE_JOB-> Smuggler Glitter-Tech</li>
+    <li>place_personalweapon-> biaya tombak</li>
+    <li>place_personalweapon-> Persona monosword</li>
+    <li>place_massweapon-> hulu ledak antimateri</li>
+    <li>place_massweapon-> virus komputer yang dipersenjatai</li>
+    <li>Place_massweapon-> Pekerja mechanoid yang dikendalikan dari jarak jauh</li>
+    <li>Place_foeleader-> Birokrat yang korup</li>
+    <li>Place_foesoldiers-> Pengawal Bionik</li>-><Rogia.placeRules.rulesStrings>
+    <li>Place_name-> rogia</li>
+    <li>place_adjective-> rogianiano</li>
+    <li>Place_summary-> Mundo Brillotec</li>
+    <li>Place_Community-> Medical Institute</li>
+    <li>Place_Community-> Elevador Espacial</li>
+    <li>Place_Community-> Bangunan Konstruksi Robot</li>
+    <li>PLACE_POWECENTER-> Planetary Capitol</li>
+    <li>Place_Job-> Star Force Cadet</li>
+    <li>PLACE_JOB-> PETANI ARTISAN</li>
+    <li>Place_job-> Prodigy Jejaring Sosial</li>
+    <li>Place_job-> atlet gravitasi nol</li>
+    <li>Place_job-> penyelundup techno brilian</li>
+    <li>Place_personalweapon-> beban besar</li>
+    <li>place_personalweapon-> monoespada con ia</li>
+    <li>Place_personalwepol-> tombak cargas</li>
+    <li>place_personalweaponpl-> monoespadas con ia</li>
+    <li>Place_massweapon-> Antimateri Eyelets</li>
+    <li>Place_massweapon-> virus komputer bersenjata</li>
+    <li>Place_massweapon-> Teledirrigid Mechanoid Workers</li>
+    <li>Place_foeleader-> Birokrat yang korup</li>
+    <li>Place_foesoldiers-> Pengawal Bionik</li>
+  </Rogia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> wavia</li>
+    <li>place_adjective-> Wavian</li>
+    <li>Place_summary-> Planet Oseanic</li>
+    <li>Place_Community-> Trading Atoll</li>
+    <li>Place_Community-> Floating Village</li>
+    <li>Place_Community-> Seaweed Refinery</li>
+    <li>Place_PowerCenter-> Capitol Bridge</li>
+    <li>place_job-> fisher</li>
+    <li>Place_Job-> Pearl Diver</li>
+    <li>Place_Job-> Pembuat layar</li>
+    <li>place_job-> Captain</li>
+    <li>PLACE_JOB-> pengumpul rumput laut</li>
+    <li>place_personalweapon-> Harpoon</li>
+    <li>place_personalweapon-> net berduri</li>
+    <li>place_massweapon-> torpedo hasil tinggi</li>
+    <li>Place_massweapon-> a wasit [Seabeast]</li>
+    <li>Place_foeleader-> Whaler Admiral</li>
+    <li>Place_foesoldiers-> Whaler-Marines</li>
+    <li>Seabeast-> Deep-Kraken</li>
+    <li>Seabeast-> Wavian Leviathan</li>-><Wavia.placeRules.rulesStrings>
+    <li>place_name-> wavia</li>
+    <li>place_adjective-> waviano</li>
+    <li>Place_summary-> Planet Oceanico</li>
+    <li>Place_Communch-> Komersial Atolón</li>
+    <li>Place_Communch-> Orang yang mengambang</li>
+    <li>Place_Community-> Kompleks Kilang Alga</li>
+    <li>Place_powecenter-> Capitol Bridge</li>
+    <li>Place_job-> Pescador</li>
+    <li>Place_Job-> Pearl Diver</li>
+    <li>PLACE_JOB-> Pabrikan Vela</li>
+    <li>Place_job-> Captain</li>
+    <li>Place_job-> pengumpul rumput laut</li>
+    <li>Place_personalweapon-> beban besar</li>
+    <li>Place_personalweapon-> Púas Network</li>
+    <li>Place_personalweaponpl-> large beban</li>
+    <li>Place_personalweaponpl-> Púas Networks</li>
+    <li>Place_massweapon-> torpedo daya tinggi</li>
+    <li>Place_massweton-> seragam paragr (seabeasing]</li>
+    <li>Place_foeleader-> Admiral Whaling</li>
+    <li>Place_foesoldiers-> Marinir Balleneros</li>
+    <li>Seabaast-> Kraken of the Depths</li>
+    <li>Sealast-> Leviatán Waviano</li>
+  </Wavia.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> xanides</li>
+    <li>place_adjective-> xanidian</li>
+    <li>Place_summary-> Mineral-planet yang dieksploitasi</li>
+    <li>Place_Community-> Strip Mine</li>
+    <li>Place_Community-> Ore Refinery</li>
+    <li>Place_Community-> Kafetaria pasta nutrisi</li>
+    <li>Place_PowerCenter-> Depot Oxygen</li>
+    <li>place_job-> penambang</li>
+    <li>Place_Job-> Supervisor</li>
+    <li>place_job-> Teknisi</li>
+    <li>place_job-> mikanik</li>
+    <li>Place_Job-> Life Support Engineer</li>
+    <li>place_personalweapon-> electro-baton</li>
+    <li>place_personalweapon-> autopistol</li>
+    <li>Place_massweapon-> Biaya peledakan</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>Place_foeleader-> Bos Corp Mine</li>
+    <li>Place_foesoldiers-> PASUKAN MINE-CORP</li>-><Xanides.placeRules.rulesStrings>
+    <li>place_name-> xanides</li>
+    <li>place_adjective-> xanidiano</li>
+    <li>Place_summary-> Planet Mineral yang Dieksploitasi</li>
+    <li>Place_Community-> Penambangan Kompleks</li>
+    <li>Place_Community-> Mineral Refinery Complex</li>
+    <li>Place_Community-> Restoran Pasta Bergizi</li>
+    <li>Place_powecenter-> Tangki oksigen</li>
+    <li>place_job-> minero</li>
+    <li>Place_Job-> Supervisor</li>
+    <li>Place_job-> teknis</li>
+    <li>Place_job-> mikanik</li>
+    <li>Place_job-> insinyur pendukung vital</li>
+    <li>Place_personalweapon-> Batuta Listrik</li>
+    <li>Place_personalweapon-> Automatic Gun</li>
+    <li>Place_personalweaponpl-> batch listrik</li>
+    <li>Place_personalweaponpl-> senjata otomatis</li>
+    <li>Place_massweapon-> beban eksplosif</li>
+    <li>Place_massweapon-> [anempattack]</li>
+    <li>Place_foeleader-> kepala perusahaan pertambangan</li>
+    <li>Place_foesoldiers-> Tentara pertambangan</li>
+  </Xanides.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> yttak</li>
+    <li>place_adjective-> yttaki</li>
+    <li>Place_summary-> Ice Moon Penjara</li>
+    <li>Place_Community-> aula makan</li>
+    <li>Place_Community-> Guard Barracks</li>
+    <li>PLACE_Community-> Pusat Penahanan</li>
+    <li>Place_PowerCenter-> Kompleks kantor Warden</li>
+    <li>place_job-> tahanan</li>
+    <li>place_job-> penjaga</li>
+    <li>Place_Job-> Escapee</li>
+    <li>Place_Job-> Pekerja Pemeliharaan</li>
+    <li>Place_Job-> Pengemudi Transportasi</li>
+    <li>place_personalweapon-> shiv</li>
+    <li>place_personalweapon-> smg</li>
+    <li>place_massweapon-> bom kimia improvisasi</li>
+    <li>place_massweapon-> serangan laser orbital</li>
+    <li>place_foeleader-> Penjara Penjara</li>
+    <li>Place_foesoldiers-> penjaga korup</li>-><Yttak.placeRules.rulesStrings>
+    <li>place_name-> yttak</li>
+    <li>place_adjective-> yttakiano</li>
+    <li>Place_summary-> Penjara Es Dunia</li>
+    <li>Place_Community-> Komedor</li>
+    <li>Place_Community-> Guard Barracks</li>
+    <li>PLACE_Community-> Pusat Penahanan</li>
+    <li>Place_Powecenter-> Kompleks Kantor Direktur</li>
+    <li>Place_job-> ditangkap</li>
+    <li>place_job-> guardia</li>
+    <li>place_job-> Escapista</li>
+    <li>PLACE_JOB-> PEMELIHARAAN PEMELIHARAAN</li>
+    <li>Place_Job-> Pengemudi Transportasi</li>
+    <li>Tempatkan senjata pribadi-> negara bagian</li>
+    <li>Place_personalweapon-> senapan mesin kecil</li>
+    <li>Place_personalweaponpl-> navajas</li>
+    <li>Place_personalweaponpl-> senapan mesin kecil</li>
+    <li>Place_massweapon-> pompa kimia improvisasi</li>
+    <li>Place_massweapon-> serangan laser orbital</li>
+    <li>Place_foeleader-> lemari penjara</li>
+    <li>Place_foesoldiers-> Guardian yang korup</li>
+  </Yttak.placeRules.rulesStrings>
+  
+  <!-- EN:
+    <li>place_name-> zoutera</li>
+    <li>place_adjective-> zoutin</li>
+    <li>Place_summary-> Dino-World Berumput</li>
+    <li>Place_Community-> Outpost Perdagangan</li>
+    <li>Place_Community-> Tent Village</li>
+    <li>Place_Community-> Mammoth Burial Ground</li>
+    <li>Place_PowerCenter-> Benteng Hill-Top</li>
+    <li>PLACE_JOB-> DINO-RIDER</li>
+    <li>place_job-> muffalo-herder</li>
+    <li>Place_Job-> Hunter</li>
+    <li>Place_Job-> Pembuat ToughLeather</li>
+    <li>Place_personalweapon-> staf bambu</li>
+    <li>place_personalweapon-> panah bom berburu</li>
+    <li>Place_massweapon-> kawanan yang dicap dari [megafauna]</li>
+    <li>Place_massweapon-> bom pupuk</li>
+    <li>place_foeleader-> Tusk-King</li>
+    <li>Place_foesoldiers-> tusk-warriors</li>
+    <li>Megafia-> Ankylors</li>
+    <li>Megafauna-> Blue Mammoths</li>
+    <li>Megafauna-> Novoraptors</li>-><Zoutera.placeRules.rulesStrings>
+    <li>place_name-> zoutera</li>
+    <li>place_adjective-> zoutiniano</li>
+    <li>Place_summary-> Dinomundo Grass</li>
+    <li>Place_Community-> Posisi Komersial</li>
+    <li>Place_community-> ke kota</li>
+    <li>Place_Community-> Comumerio of Mamums</li>
+    <li>Place_powecenter-> kuat di puncak bukit</li>
+    <li>place_job-> dinojinete</li>
+    <li>Place_job-> pastor of muchals</li>
+    <li>Place_Job-> Hunter</li>
+    <li>Place_job-> produsen kulit keras</li>
+    <li>Place_personalweapon-> batang bambu</li>
+    <li>Place_personalweapon-> panah pompa berburu</li>
+    <li>Place_personalweaponpl-> bambu</li>
+    <li>Place_personalweaponpl-> panah pompa perburuan</li>
+    <li>Place_massweapon-> BRESS in Pattern [Megafauna]</li>
+    <li>Place_massweapon-> pompa pupuk</li>
+    <li>Place_foeleader-> King Fang</li>
+    <li>Place_foesoldiers-> Fang Warriors</li>
+    <li>Megafauna-></li>
+    <li>Megafauna-> Blue Mammoths</li>
+    <li>Megafauna-> Novoraptores</li>
+  </Zoutera.placeRules.rulesStrings>
+  
+</LanguageData>

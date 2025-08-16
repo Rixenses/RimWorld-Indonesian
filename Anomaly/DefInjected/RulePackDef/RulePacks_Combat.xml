@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] [firedat] [penerima_definite] dengan [initiator_possessive] [senjata_label].</li>
+    <li>r_logentry-> [initiator_definite] [dipecat] [initiator_possessive] [weapon_label] di [penerima_definite].</li>
+    <li>r_logentry-> [initiator_definite] [firedat] [penerima_definite].</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [dipecat] [initiator_possessive] [senjata_label].</li>
+    <li>dipecat (p = 2)-> [verb_fired]</li>
+    <li>dipecat-> [skilladv] [verb_fired]</li>
+    <li>Firedat-> ditembakkan</li>
+    <li>Firedat-> dipecat [SkillAdv] di</li>
+    <li>firedat (p = 0,5)-> ditujukan dan ditembakkan</li>
+    <li>Firedat (p = 0,5)-> [SkillAdv] ditujukan dan ditembakkan</li>
+    <li>Firedat (p = 0,3)-> dibuka di</li>
+    <li>verb_fired-> dipecat</li>-><Combat_RangedFlamethrower.rulePack.rulesStrings>
+    <li>r_logentry-> [initiator_definite] [firedat] {ganti: a [penerima_definite];"A & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"} con su [weapon_label].</li>
+    <li>r_logentry-> [initiator_definite] [dipecat] su [senjata_label] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry-> [initiator_definite] [firedat] {ganti: a [penerima_definite];"a & lt; color =#d09b61ff> el"-"& lt; color =#d09b61ff> al"}.</li>
+    <li>r_logentry (penerima_missing == true)-> [initiator_definite] [dipecat] su [weapon_label].</li>
+    <li>dipecat (p = 2)-> [verb_fired]</li>
+    <li>dipecat-> [verb_fired] [skilladv]</li>
+    <li>Firedat-> dipecat a</li>
+    <li>Firedat-> Fire [SkillAdv] Terbuka</li>
+    <li>Firedat (p = 0,5)-> runcing dan ditembak</li>
+    <li>Firedat (p = 0,5)-> [SkillAdv] runcing dan dipecat</li>
+    <li>Firedat (p = 0,3)-> buka api a</li>
+    <li>verb_fired-> dibuka</li>
+  </Combat_RangedFlamethrower.rulePack.rulesStrings>
+  
+</LanguageData>

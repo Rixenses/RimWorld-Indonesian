@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leaderTitle] [asker_namefull] dari [asker_faction_name] membutuhkan tangan tambahan untuk membantu [DutyDescription]. \ n \ n [asker_pronoun] meminta Anda untuk meminjamkan [asker_objective] [kolonis.hari. \ n \ n [Willsendshuttle]</li>
+    <li>penyakit-> flu</li>
+    <li>penyakit-> wabah</li>
+    <li>penyakit-> malaria</li>
+    <li>Penyakit-> Infeksi</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_royaltitleincurrentfaction] [asker_namefull] dari [asker_faction_name] Membutuhkan orang untuk membantu [DutyalDescription].hari. \ n \ n [Willsendshuttle]</li>
+    <li>Colonistcounttolend (ColoniststolendCount == 1)-> 1 Kolonist [Minageorolder]</li>
+    <li>Colonistcounttolend (ColoniststolendCount> 1)-> [ColoniststolendCount] Kolonis [Minageorolder]</li>
+    <li>Willsendshuttle-> [asker_pronoun] akan mengirim pesawat ulang-alik untuk mengambil [penjajah].</li>
+    <li>Kolonis (ColoniststolendCount == 1)-> Kolonis</li>
+    <li>Kolonis (ColoniststolendCount> 1)-> Kolonis</li>
+    <li>Miningorolder (pertambangan == 0)-></li>
+    <li>Minageorolder (pertambangan> 0)-> [pertambangan] tahun atau lebih</li>
+    <li>Pawnlisthaveconjugation (ColoniststolendCount == 1)-> Have</li>
+    <li>Pawnlisthaveconjugation (ColoniststolendCount> 1)-> Have</li>-><PawnLend.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_thecap] [asker_faction_leaderTitle] [asker_namefulull], dari faksi [asker_faction_name], ia membutuhkan tangan tambahan untuk membantu [DutyDescription]. [Colonistcoultolend] oleh [Lendfordays] Days. \ n \ n [willsendshuttle]</li>
+    <li>penyakit-> keluhan</li>
+    <li>Penyakit-> Plaga</li>
+    <li>penyakit-> malaria</li>
+    <li>Penyakit-> Infeksi</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_thecap] [asker_royaltitleincurrentfaction] [asker_namefulr], dari faksi [asker_faction_name], ia membutuhkan orang untuk membantu [DACYDYDESCRIPTICE]. Meminta Anda untuk meminjamkan [Colonistcoultolend] untuk melayani Anda selama hari -hari [Lendfordays]. \ n \ n [willsendshuttle]</li>
+    <li>Colonistcounttolend (ColoniststolendCount == 1)-> 1 Colono [Minageorolder]</li>
+    <li>Colonistcounttolend (ColoniststolendCount> 1)-> [ColoniststolendCount] Colonos [Minageorolder]</li>
+    <li>Willsendshuttle-> [asker_pronoun] akan mengirim feri untuk mengumpulkan [penjajah].</li>
+    <li>Kolonis (ColoniststolendCount == 1)-> Al Colono</li>
+    <li>Kolonis (ColoniststolendCount> 1)-> A Los Colonos</li>
+    <li>Miningorolder (pertambangan == 0)-></li>
+    <li>Minageorolder (MINAGE> 0)-> dari [MINAGE] tahun atau lebih</li>
+    <li>Pawnlisthaveconjugation (coloniststolendcount == 1)-> ha</li>
+    <li>Pawnlisthaveconjugation (ColoniststolendCount> 1)-> Han</li>
+  </PawnLend.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [pekerja] outsourcing</li>
+    <li>QuestName-> Kontrak [Pekerja] s</li>
+    <li>QuestName-> Pekerja sementara</li>
+    <li>QuestName-> [Pekerja] Pinjaman</li>
+    <li>QuestName-> [pekerja] untuk [asker_faction_name]</li>
+    <li>QuestName-> [pekerja] sementara</li>
+    <li>QuestName-> Meminta [pekerja] s</li>
+    <li>Pekerja-> Kolonist</li>
+    <li>Pekerja-> Pekerja</li>
+    <li>pekerja-> buruh</li>
+    <li>Pekerja-> Pembantu</li>-><PawnLend.questNameRules.rulesStrings>
+    <li>QuestName-> Subkontrak [World_plural]</li>
+    <li>QuestName-> Subkontrak [pekerja]</li>
+    <li>QuestName-> Kontrak untuk [Worker_plural]</li>
+    <li>QuestName-> Kontrak untuk [pekerja]</li>
+    <li>QuestName-> [sementara) sementara</li>
+    <li>QuestName-> Pinjaman [Worker_plural]</li>
+    <li>QuestName-> pinjaman [pekerja] s</li>
+    <li>QuestName-> [Worker_plural] untuk faksi [asker_faction_name]</li>
+    <li>QuestName-> [pekerja] untuk faksi [asker_faction_name]</li>
+    <li>QuestName-> [Provisional Worker_plural]</li>
+    <li>QuestName-> [pekerja] S sementara</li>
+    <li>QuestName-> [World] S diminta</li>
+    <li>QuestName-> diminta [World_plural]</li>
+    <li>Pekerja-> Colono</li>
+    <li>Pekerja_plural-> pekerja</li>
+    <li>Pekerja-> Pekerja</li>
+    <li>Pekerja-> Asisten</li>
+  </PawnLend.questNameRules.rulesStrings>
+  <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
+  <PawnLend.DutyRulesAny.slateRef>
+    <rulesStrings>
+      <li>DutyDescription-> Kumpulkan panen</li>
+      <li>DutyDescription-> Fortify A Penyelesaian</li>
+      <li>DutyDescription-> buatlah penyelesaian</li>
+      <li>DutyDescription-> Saksikan penyelesaian Anda untuk mencari penyerang</li>
+      <li>DutyDescription-> Bangun rumah sakit</li>
+      <li>DutyDescription-> mengandung wabah [penyakit]</li>
+    </rulesStrings>
+  </PawnLend.DutyRulesAny.slateRef>
+  <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{Pawns} [Pawnlistthaconjugation] kembali setelah membantu [asker_namefulull], dari faksi [asker_faction_name], untuk [DutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
+  <PawnLend.DutyRulesRoyal.slateRef>
+    <rulesStrings>
+      <li>Dutyroydscription-> Siapkan upacara</li>
+      <li>Dutyroydription-> bernegosiasi dengan suku</li>
+      <li>Dutyroydription-> Jelajahi rawa</li>
+      <li>DutyroyDescription-> Terjemahkan buku</li>
+      <li>Dutyroydscription-> buat kamp pelatihan</li>
+      <li>Dutyroydription-> panen panen</li>
+    </rulesStrings>
+  </PawnLend.DutyRulesRoyal.slateRef>
+  <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{Pawns} [Pawnlistthaconjugation] kembali setelah membantu [asker_royaltitlecurrentfaction], [asker_namefulull], dari faksi [asker_faction_name], untuk [DutyRyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <!-- EN: Shuttle arrived -->
+  <PawnLend.LetterLabelShuttleArrived.slateRef>Feri telah tiba</PawnLend.LetterLabelShuttleArrived.slateRef>
+  <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
+  <PawnLend.LetterTextShuttleArrived.slateRef>Feri telah datang untuk mengambil [ColoniststolendCount] dari pemukim Anda.</PawnLend.LetterTextShuttleArrived.slateRef>
+  <!-- EN: Shuttle destroyed -->
+  <PawnLend.LetterLabelShuttleDestroyed.slateRef>Feri hancur</PawnLend.LetterLabelShuttleDestroyed.slateRef>
+  <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>Feri yang dikirim untuk mengambil pemukim telah dihancurkan.</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Shuttle abandoned -->
+  <PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>Feri yang ditinggalkan</PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle sent to collect colonists has been left behind. -->
+  <PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>Feri yang dikirim untuk mengambil pemukim telah ditinggalkan.</PawnLend.root.nodes.pickupShipThingLeftBehind.node.nodes.Letter.text.slateRef>
+  <!-- EN: Colonists returned -->
+  <PawnLend.LetterLabelColonistsReturned.slateRef>Para pemukim kembali</PawnLend.LetterLabelColonistsReturned.slateRef>
+  <!-- EN: $returnLetterText -->
+  <PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.text.slateRef>$ returnletterText</PawnLend.root.nodes.ColonistsReturned.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

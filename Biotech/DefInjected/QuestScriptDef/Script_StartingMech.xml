@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>ARRIVALLETTERLABEL-> [MECH_LABEL] Terlampir: [mechanitor_namedef]</li>
+    <li>ARRIVALLETTERTEXT-> A [MECH_LABEL] telah turun dari orbit dan menempatkan dirinya di bawah kendali [mechanitor_namedef]. \ n \ nit tampaknya telah terpasang pada mechlink [mechanitor_possessive] dan ingin melayani tujuannya sekali lagi.</li>-><MechanitorStartingMech.questContentRules.rulesStrings>
+    <li>ARRIVALLETTERLabel-> [Mech_label] Ligado A: [Mechanitor_Namedef]</li>
+    <li>ArrivalletText-> A [mech_label] telah jatuh dari orbit dan berada di bawah kendali [mechanitor_namedef].</li>
+  </MechanitorStartingMech.questContentRules.rulesStrings>
+  
+</LanguageData>

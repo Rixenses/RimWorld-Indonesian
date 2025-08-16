@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shattered empire -->
+  <Empire.label>Kekaisaran yang hancur</Empire.label>
+  <!-- EN: An ultratech refugee society from the planet Sophiamunda. Their culture is based on a code of honor, a strict class system, and enforced social stasis.\n\nThese are the survivors of a great calamity that tore apart Sophian society. They fled to the rimworld using the remnants of their fleet. Despite losing so much, their ships and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title. -->
+  <Empire.description>Masyarakat pengungsi dari era ultra-teknologi di planet Sofiamunda.Budayanya didasarkan pada kode kehormatan, sistem kelas yang ketat dan stagnasi sosial paksa.Mereka melarikan diri ke dunia perbatasan dengan sisa -sisa armada mereka.Meskipun telah kehilangan begitu banyak, kapal mereka dan teknologi mereka masih membuat mereka kuat.</Empire.description>
+  <!-- EN: high stellarch -->
+  <Empire.leaderTitle>Bintang yang hebat</Empire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Empire.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</Empire.messageDefendersAttacking>
+  <!-- EN: imperial -->
+  <Empire.pawnSingular>imperial</Empire.pawnSingular>
+  <!-- EN: imperials -->
+  <Empire.pawnsPlural>Imperial</Empire.pawnsPlural>
+  <Empire.renounceTitleMessage>Penggunaan senjata yang terkait dan kekuatan psikis akan menjadi ilegal</Empire.renounceTitleMessage>
+  <!-- EN: honor -->
+  <Empire.royalFavorLabel>menghormati</Empire.royalFavorLabel>
+  
+</LanguageData>

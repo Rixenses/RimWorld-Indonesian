@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>situasi (p = 2)-> dengan aman</li>
+    <li>situasi-> di malam hari</li>
+    <li>Situasi-> dalam cuaca dingin</li>
+    <li>Situasi-> Saat terluka</li>
+    <li>Situasi (p = 0,2)-> saat mabuk</li>-><LessonInteractionCommonSituations.rulePack.rulesStrings>
+    <li>Pengaturan (p = 2)-> dengan aman</li>
+    <li>Situasi-> di malam hari</li>
+    <li>Situasi-> dalam cuaca dingin</li>
+    <li>Situasi-> saat terluka</li>
+    <li>Situasi (p = 0,2)-> saat Anda mabuk</li>
+  </LessonInteractionCommonSituations.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [Teach_adverb] [Teach_Verb] Cara [tindakan] [artikel_tool] ke [penerima_namedef].</li>
+    <li>r_logentry-> [initiator_namedef] [Teach_Verb] Cara [tindakan] [artikel_tool] ke [penerima_namedef].</li>-><LessonInteractionHowTo.rulePack.rulesStrings>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [Teach_Verb] [Teach_Adverb] A [penerima_namedef] cómo [aksi] [artikel_tool].</li>
+    <li>r_logentry-> [initiator_namedef] [Teach_Verb] cómo [Action] [artikel_tool] a [penerima_namedef].</li>
+  </LessonInteractionHowTo.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [Teach_test] [penerima_namedef] di [action_gerund] [artikel_tool] [situasi].</li>
+    <li>Teach_test-> Quizzed</li>
+    <li>Teach_test-> diuji</li>
+    <li>Teach_test-> panggang</li>
+    <li>Teach_test-> diperiksa silang</li>-><LessonInteractionQuiz.rulePack.rulesStrings>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [Teach_test] A [penerima_namedef] sobre [action_gerund] [artikel_tool] [situasi].</li>
+    <li>Teach_test-> ditanya</li>
+    <li>Teach_test-> diuji</li>
+    <li>Teach_test-> ajukan pertanyaan</li>
+    <li>Teach_test-> ditanya</li>
+  </LessonInteractionQuiz.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0,25)-> [initiator_namedef] [Teach_adverb] [Study_Verb] [Subjek] dengan [penerima_namedef].</li>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [study_verb] [subjek] dengan [penerima_namedef].</li>
+    <li>study_verb-> dicakup</li>
+    <li>Study_Verb-> Pergi</li>
+    <li>Study_Verb-> diteliti</li>
+    <li>Study_Verb-> dipelajari</li>-><LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+    <li>r_logentry (p = 0,25)-> [initiator_namedef] [Study_Verb] [Teach_adverb] Acerca de [subjek] con [penerima_namedef].</li>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [study_verb] acerca de [subjek] con [penerima_namedef].</li>
+    <li>Study_Verb-> Ditemukan</li>
+    <li>Study_Verb-> diselidiki</li>
+    <li>Study_Verb-> diselidiki</li>
+    <li>Study_Verb-> dipelajari</li>
+  </LessonInteractionStudySubjectWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Teach_adverb-> dengan tenang</li>
+    <li>Teach_adverb-> Animasi</li>
+    <li>Teach_Adverb-> dengan saksama</li>
+    <li>Teach_adverb-> dengan cepat</li>
+    <li>Teach_adverb-> LightheDyly</li>
+    <li>Teach_adverb-> dengan hati-hati</li>-><LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+    <li>Teach_adverb-> diam-diam</li>
+    <li>Teach_adverb-> Animadaments</li>
+    <li>Teach_adverb-> Attaments</li>
+    <li>Teach_adverb-> dengan cepat</li>
+    <li>Teach_adverb-> Alegremente</li>
+    <li>Teach_adverb-> dengan hati-hati</li>
+  </LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Teach_Verb-> ditunjukkan</li>
+    <li>Teach_Verb-> dijelaskan</li>
+    <li>Teach_Verb-> ditampilkan</li>
+    <li>Teach_Verb-> Diajarkan</li>-><LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+    <li>Teach_Verb-> ditampilkan</li>
+    <li>Teach_Verb-> dijelaskan</li>
+    <li>Teach_Verb-> ditampilkan</li>
+    <li>Teach_Verb-> Diajarkan</li>
+  </LessonInteractionTeachingVerbs.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry (p = 0,25)-> [initiator_namedef] [Teach_adverb] [talk_verb] [subjek] ke [penerima_namedef].</li>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [talk_verb] [subjek] ke [penerima_namedef].</li>
+    <li>talk_verb-> membicarakannya</li>
+    <li>talk_verb-> memberikan gambaran tentang</li>
+    <li>talk_verb-> memberikan ringkasan</li>
+    <li>Talk_VERB-> Ceramah tentang</li>-><LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+    <li>r_logentry (p = 0,25)-> [initiator_namedef] [talk_verb] [Teach_adverb] [subjek] A [penerima_namedef].</li>
+    <li>r_logentry (p = 0,5)-> [initiator_namedef] [talk_verb] [subjek] A [penerima_namedef].</li>
+    <li>Talk_verb-> membicarakannya</li>
+    <li>Talk_verb-> memberikan gambaran tentang</li>
+    <li>Bicara kata kerja-> memberikan ringkasan</li>
+    <li>Bicara kata kerja-> memberikan konferensi tentang</li>
+  </LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
+  
+</LanguageData>

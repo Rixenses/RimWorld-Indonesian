@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Quality factors determine the engine's cooldown duration and the chance for a mishap when landing. -->
+  <GravshipLaunch.description>Faktor kualitas menentukan durasi waktu tunggu mesin dan probabilitas kecelakaan saat mendarat.</GravshipLaunch.description>
+  <!-- EN: {PAWN_labelShort}'s piloting ability -->
+  <GravshipLaunch.comps.0.label>{Pawn_labelshort} Keterampilan pilot</GravshipLaunch.comps.0.label>
+  <!-- EN: pilot's piloting ability -->
+  <GravshipLaunch.comps.0.labelAbstract>Keterampilan pilot pilot</GravshipLaunch.comps.0.labelAbstract>
+  <!-- EN: {PAWN_labelShort}'s piloting ability -->
+  <GravshipLaunch.comps.1.label>{Pawn_labelshort} Keterampilan pilot</GravshipLaunch.comps.1.label>
+  <!-- EN: copilot's piloting ability -->
+  <GravshipLaunch.comps.1.labelAbstract>keterampilan pilot co -driver</GravshipLaunch.comps.1.labelAbstract>
+  <!-- EN: crew count -->
+  <GravshipLaunch.comps.2.label>nomor kru</GravshipLaunch.comps.2.label>
+  <!-- EN: small thrusters -->
+  <GravshipLaunch.comps.3.label>dorongan kecil</GravshipLaunch.comps.3.label>
+  <!-- EN: large thrusters -->
+  <GravshipLaunch.comps.4.label>Pendorong besar</GravshipLaunch.comps.4.label>
+  <!-- EN: pilot subpersona core -->
+  <GravshipLaunch.comps.5.label>Inti Subpersone Pilot</GravshipLaunch.comps.5.label>
+  <!-- EN: At the current quality, the gravship won't be able to launch again for {0_time} after landing. -->
+  <GravshipLaunch.extraOutcomeDescriptions.0.description>Dengan kualitas saat ini, gravinave tidak akan bisa lepas landas lagi untuk {0_time} setelah mendarat.</GravshipLaunch.extraOutcomeDescriptions.0.description>
+  <!-- EN: Additionally, there's a {0_percentage} chance of having a minor incident when landing the gravship. -->
+  <GravshipLaunch.extraOutcomeDescriptions.1.description>Selain itu, ada probabilitas {0_percountage} untuk memiliki insiden minor saat mendaratkan gravinave.</GravshipLaunch.extraOutcomeDescriptions.1.description>
+  
+</LanguageData>

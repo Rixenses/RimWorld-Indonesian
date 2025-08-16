@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fine carpet ({0}) -->
+  <CarpetFine.label>karpet halus ({0})</CarpetFine.label>
+  <!-- EN: Luxurious, ornately-patterned carpet made from fibers dyed a single color. Beautiful to look at, but cleaning it is a labor-intensive process. -->
+  <CarpetFine.description>Karpet mewah, dengan pola hias, dibuat dengan serat berwarna dengan satu warna.Cantik terlihat, meskipun sangat sulit dibersihkan.</CarpetFine.description>
+  
+</LanguageData>

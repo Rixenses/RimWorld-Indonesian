@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hunter trap -->
+  <HunterDroneTrap.label>Perangkap Drone Hunter</HunterDroneTrap.label>
+  <!-- EN: A dormant hunter drone that activates when it detects a threat. The hunter drone closes with the target and detonates. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. -->
+  <HunterDroneTrap.description>Drone pemburu tidur yang diaktifkan saat mendeteksi ancaman.Drone Hunter mendekati target dan detona.Karena tersembunyi di medan sekitarnya, itu tidak dapat ditempatkan di sebelah perangkap lainnya.</HunterDroneTrap.description>
+  
+  <!-- EN: wasp trap -->
+  <WaspDroneTrap.label>Perangkap Dron Waspa</WaspDroneTrap.label>
+  <!-- EN: Several dormant wasp drones. They activate when they detect threats, injecting their target with a paralytic biotoxin. -->
+  <WaspDroneTrap.description>Beberapa drone tawon tidur.Mereka diaktifkan ketika mereka mendeteksi ancaman, menyuntikkan tujuan mereka dengan biotoksin yang melumpuhkan.</WaspDroneTrap.description>
+  
+</LanguageData>

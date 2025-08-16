@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_weapon_name (p = 3)-> [kata benda] [Verber]</li>
+    <li>r_weapon_name (p = 2)-> [beginsyl] [middlesyl] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [beginsyl] [middlesyl] [middlesyl] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [dimulai] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [nameperson]</li>
+    <li>r_weapon_name (p = 1)-> [nameanimal]</li>
+    <li>Nameanimal-> [nameanimalunisex]</li>
+    <li>Nameanimal-> [Nameanimalmale]</li>
+    <li>Nameanimal-> [Nameanimalfemale]</li>
+    <li>Kata benda-> Oath</li>
+    <li>Nun-> Promosi</li>
+    <li>Kata benda-> Kematian</li>
+    <li>kata benda-> nyeri</li>
+    <li>kata benda-> darah</li>
+    <li>kata benda-> malapetaka</li>
+    <li>kata benda-> pembunuhan</li>
+    <li>kata benda-> keadilan</li>
+    <li>kata benda-> ketakutan</li>
+    <li>Kata benda-> teror</li>
+    <li>Kata benda-> Kekacauan</li>
+    <li>kata benda-> pesanan</li>
+    <li>Noun-> was</li>
+    <li>kata benda-> diam</li>
+    <li>kata benda-> hutang</li>
+    <li>Verber-> penjaga</li>
+    <li>Verber-> membawa</li>
+    <li>Verber-> pengirim</li>
+    <li>Verber-> memberi</li>
+    <li>kata kerja>> pembuat</li>
+    <li>verber-> creer</li>
+    <li>Verber-> Breaker</li>
+    <li>Verber-> Smasher</li>
+    <li>Verber-> bender</li>
+    <li>Verber-> Knower</li>
+    <li>Verber-> Doers</li>
+    <li>Mulailah syl-> vi</li>
+    <li>Stetsy Belles.</li>
+    <li>dimulai-> lo</li>
+    <li>dimulai-> ra</li>
+    <li>beginSyl->to</li>
+    <li>dimulai-> ger</li>
+    <li>dimulai-> xan</li>
+    <li>dimulai-> Kel</li>
+    <li>middlesyl-> ser</li>
+    <li>middlesyl-> gar</li>
+    <li>middlesyl-> lor</li>
+    <li>middlesyl-> ven</li>
+    <li>middlesyl-> zan</li>
+    <li>middlesyl-> xal</li>
+    <li>endsyl-> ys</li>
+    <li>endsyl-> atau</li>
+    <li>endsyl-> ar</li>
+    <li>endsyl-> jumlah</li>
+    <li>endsyl-> dor</li>
+    <li>endsyl-> mar</li>
+    <li>endsyl-> gur</li>-><NamerWeaponBladelink.rulePack.rulesStrings>
+    <li>R_weapon_name (p = 3)-> [verber] [kata benda]</li>
+    <li>r_weapon_name (p = 3)-> [verberfem] [kata benda]</li>
+    <li>r_weapon_name (p = 2)-> [beginsyl] [middlesyl] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [beginsyl] [middlesyl] [middlesyl] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [dimulai] [endsyl]</li>
+    <li>r_weapon_name (p = 1)-> [nameperson]</li>
+    <li>r_weapon_name (p = 1)-> [nameanimal]</li>
+    <li>Nameanimal-> [nameanimalunisex]</li>
+    <li>Nameanimal-> [Nameanimalmale]</li>
+    <li>Nameanimal-> [Nameanimalfemale]</li>
+    <li>Kata benda> dari juramento</li>
+    <li>kata benda> janji</li>
+    <li>kata benda> kematian</li>
+    <li>No-> ELD Pain</li>
+    <li>Kata benda> darah</li>
+    <li>Kata benda> kehancuran</li>
+    <li>kata benda> pembunuhan</li>
+    <li>kata benda> keadilan</li>
+    <li>Kata benda> Ketakutan</li>
+    <li>kata benda-> del teror</li>
+    <li>kata benda> dari kekacauan</li>
+    <li>kata benda> pesanan</li>
+    <li>kata benda> dari perang</li>
+    <li>kata benda> dari keheningan</li>
+    <li>kata benda> dari hutang</li>
+    <li>Verber-> Guardian</li>
+    <li>Verber-> operator</li>
+    <li>Verber-> messenger</li>
+    <li>Verber-> Dactor</li>
+    <li>Verber-> pencipta</li>
+    <li>Verber-> Crusher</li>
+    <li>Verber-> Destructor</li>
+    <li>verb-> Obliterador</li>
+    <li>Verber-> Chopper</li>
+    <li>Verber-> Connoisseur</li>
+    <li>Verber-> Maker</li>
+    <li>Verberg-> Guardiana</li>
+    <li>Verberfem-> operator</li>
+    <li>Verberfem-> messenger</li>
+    <li>Verberfem-> dadora</li>
+    <li>Verberfem-> pencipta</li>
+    <li>Verberfem-> applader</li>
+    <li>Verberfem-> Destroyer</li>
+    <li>Verberfem-> Obliteradora</li>
+    <li>Verberfem-> trocener</li>
+    <li>Verberfem-> berpengetahuan luas</li>
+    <li>Verberfem-> hazedora</li>
+    <li>Mulailah syl-> vi</li>
+    <li>Stetsy Belles.</li>
+    <li>dimulai-> lo</li>
+    <li>dimulai-> ra</li>
+    <li>dimulai-> ke</li>
+    <li>dimulai-> ger</li>
+    <li>dimulai-> xan</li>
+    <li>dimulai-> Kel</li>
+    <li>middlesyl-> ser</li>
+    <li>middlesyl-> gar</li>
+    <li>middlesyl-> lor</li>
+    <li>middlesyl-> ven</li>
+    <li>middlesyl-> zan</li>
+    <li>middlesyl-> xal</li>
+    <li>endsyl-> ys</li>
+    <li>endsyl-> atau</li>
+    <li>endsyl-> ar</li>
+    <li>endsyl-> jumlah</li>
+    <li>endsyl-> dor</li>
+    <li>endsyl-> mar</li>
+    <li>endsyl-> gur</li>
+  </NamerWeaponBladelink.rulePack.rulesStrings>
+  
+</LanguageData>

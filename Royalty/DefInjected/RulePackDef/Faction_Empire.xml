@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [Empire] dari [Ofthing]</li>
+    <li>r_name (p = 2)-> [kekaisaran] [Ofthing]</li>
+    <li>r_name-> The Exodus [Empire]</li>
+    <li>r_name-> The Refugee [Empire]</li>
+    <li>r_name-> The Broken [Empire]</li>
+    <li>r_name-> The Shattered [Empire]</li>
+    <li>r_name-> The Fallen [Empire]</li>
+    <li>r_name-> [warna] [Empire]</li>
+    <li>Empire (p = 4)-> Empire</li>
+    <li>Kekaisaran-> Persemakmuran</li>
+    <li>Kekaisaran-> Imperium</li>
+    <li>Kekaisaran-> Dominion</li>
+    <li>kekaisaran-> kedaulatan</li>
+    <li>Ofthing (p = 4)-> [WordImperial]</li>
+    <li>Ofthing-> Matahari</li>
+    <li>Ofthing-> Bulan</li>
+    <li>Ofthing-> Semesta</li>
+    <li>Ofthing-> Tuhan</li>
+    <li>Ofthing-> Perfection</li>
+    <li>Ofthing-> Eternity</li>
+    <li>Ofthing-> The Spirit</li>-><NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [Empire] [Ofthing]</li>
+    <li>R_name (p = 2)-> em [Empire_mas] [Ofthing]</li>
+    <li>r_name (p = 2)-> la [empire_fem] [ofthing]</li>
+    <li>r_name-> [Empire_mas] dari Keluaran</li>
+    <li>r_name-> [Empire_fem] dari Keluaran</li>
+    <li>r_name-> [Empire_mas] dari pengungsi</li>
+    <li>r_name-> [empire_fem] dari pengungsi</li>
+    <li>r_name-> [Empire_mas] di reruntuhan</li>
+    <li>r_name-> [empire_fem] dalam reruntuhan</li>
+    <li>r_name-> [Empire_mas] jatuh</li>
+    <li>r_name-> The [empire_fem] jatuh</li>
+    <li>r_name-> [Empire_mas] hancur</li>
+    <li>r_name-> [empire_fem] hancur</li>
+    <li>r_name-> [Empire_mas] [Color]</li>
+    <li>r_name-> la [empire_fem] [color_fem]</li>
+    <li>Empire (p = 3)-> Empire</li>
+    <li>Kekaisaran (p = 4)-> kerajaan</li>
+    <li>Kekaisaran-> Federasi</li>
+    <li>Kekaisaran-> domain</li>
+    <li>Kekaisaran-> Republik</li>
+    <li>Empire_mas (p = 3)-> kekaisaran</li>
+    <li>Empire_mas (p = 4)-> kerajaan</li>
+    <li>Empire_fem-> Federation</li>
+    <li>Empire_mas-> Dominio</li>
+    <li>Empire_fem-> Republic</li>
+    <li>Ofthing (p = 4)-> [WordImperial]</li>
+    <li>Ophthing-> of the Sun</li>
+    <li>Ophthing-> of the Moon</li>
+    <li>ophthing-> dari alam semesta</li>
+    <li>Ophthing-> dari Tuhan</li>
+    <li>ophthing-> dari kesempurnaan</li>
+    <li>Ophthing-> dari keabadian</li>
+    <li>Ophthing-> dari Roh</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 3)-> [imperialnamefirstmale] [imperialnameLast]</li>
+    <li>r_name (p = 2)-> [imperialnamefirstmale] [wordimperial]</li>
+    <li>r_name (p = 2)-> [wordimperial] [wordimperial]</li>-><NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name (p = 3)-> [imperialnamefirstmale] [imperialnameLast]</li>
+    <li>r_name (p = 2)-> [imperialnamefirstmale] [wordimperial]</li>
+    <li>r_name (p = 2)-> [wordimperial] [wordimperial]</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 3)-> [imperialnamefirstfemale] [imperialnameLast]</li>
+    <li>r_name (p = 2)-> [imperialnamefirstfemale] [wordimperial]</li>
+    <li>r_name (p = 2)-> [wordimperial] [wordimperial]</li>-><NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name (p = 3)-> [imperialnamefirstfemale] [imperialnameLast]</li>
+    <li>r_name (p = 2)-> [imperialnamefirstfemale] [wordimperial]</li>
+    <li>r_name (p = 2)-> [wordimperial] [wordimperial]</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [townname_wordgen]</li>
+    <li>r_name-> [townname_fixed]</li>
+    <li>townname_wordgen-> [wordimperial]</li>
+    <li>townname_wordgen-> [wordimperial] [Townend]</li>
+    <li>Townend (p = 3)-> ium</li>
+    <li>Townend (P = 3)-> IOR</li>
+    <li>Townend (p = 3)-> polis</li>
+    <li>townend-> nor</li>
+    <li>townend-> lan</li>
+    <li>Townend-> LAX</li>
+    <li>Townend-> lix</li>
+    <li>Townend-> Lin</li>
+    <li>Townend-> lian</li>
+    <li>townend-> phrum</li>
+    <li>Townend-> Phor</li>
+    <li>Townend-></li>
+    <li>Townend-> Ople</li>
+    <li>Townend-> Opium</li>
+    <li>townend-> atau</li>
+    <li>Townend-> Aetor</li>
+    <li>Townend-> aeum</li>
+    <li>Townend-> ae</li>
+    <li>Townend-> Am</li>
+    <li>Townend-> aeum</li>-><NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name-> [townname_wordgen]</li>
+    <li>r_name-> [townname_fixed]</li>
+    <li>townname_wordgen-> [wordimperial]</li>
+    <li>townname_wordgen-> [wordimperial] [Townend]</li>
+    <li>Townend (p = 3)-> ium</li>
+    <li>Townend (P = 3)-> IOR</li>
+    <li>Townend (p = 3)-> polis</li>
+    <li>townend-> nor</li>
+    <li>townend-> lan</li>
+    <li>Townend-> LAX</li>
+    <li>Townend-> lix</li>
+    <li>Townend-> Lin</li>
+    <li>Townend-> lian</li>
+    <li>townend-> phrum</li>
+    <li>Townend-> Phor</li>
+    <li>Townend-></li>
+    <li>Townend-> Ople</li>
+    <li>Townend-> Opium</li>
+    <li>townend-> atau</li>
+    <li>Townend-> Aetor</li>
+    <li>Townend-> aeum</li>
+    <li>Townend-> ae</li>
+    <li>Townend-> Am</li>
+    <li>Townend-> aeum</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
+  
+</LanguageData>

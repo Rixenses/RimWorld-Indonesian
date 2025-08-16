@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>ROMANNUMERAL-> Words/Misc/Numbers_Smallroman</li>
+    <li>Direction-> Words/Adjectives/CompassDirections</li>
+    <li>Surat-> WordParts/Capitalletters</li>
+    <li>Gaya-> bagian kata/suku kata bahasa Inggris</li>
+    <li>Sylg-> WordParts/Syllables_Galician</li>
+    <li>Sylb-> WordParts/Syllables_byzantinian</li>
+    <li>Sylp-> WordParts/Syllables_pig</li>
+    <li>Color-> Words/Nouns/Colors</li>
+    <li>ColorBadass-> Words/Nouns/Colors_Badass</li>
+    <li>Sayuran-> kata/kata benda/sayuran</li>
+    <li>Game-> Words/Nouns/Games</li>
+    <li>Hewan-> kata/kata benda/hewan</li>
+    <li>AnimalBadass-> Words/Nouns/Animals_Badass</li>
+    <li>Animalgroup-> kata/kata benda/kelompok hewan</li>
+    <li>Senjata-> kata/kata benda/senjata</li>
+    <li>Terrainfeature-> Words/Nouns/Terrainfeatures</li>
+    <li>NaturalObject-> Words/Nouns/NaturalObject</li>
+    <li>Treeetype-> Words/Nouns/Treetypes</li>
+    <li>Personjob-> Words/Nouns/People_jobs</li>
+    <li>Personfamily-> Words/Nouns/People_family</li>
+    <li>Secara pribadi-> kata/kata benda/orang_allies</li>
+    <li>Personbadass-> kata/kata benda/orang_badass</li>
+    <li>Musuh-> kata/kata benda/musuh</li>
+    <li>Pakaian-> kata/kata benda/pakaian</li>
+    <li>Gore-> Words/Nouns/Gore</li>
+    <li>Mechanoid-> Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive-> Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass-> Words/Nouns/Concepts_Badass</li>
+    <li>Consepangsy-> Words/Nouns/Concepts_angsy</li>
+    <li>Komunitas-> kata/kata benda/komunitas</li>
+    <li>Bodypart-> kata/kata benda/bodyparts</li>
+    <li>Kata sifat-> kata/kata sifat/besar</li>
+    <li>AdjectiveBadass-> kata/kata sifat/badass</li>
+    <li>AdjectiveAngsty-> Words/Adjectives/Angsty</li>
+    <li>Adjective friendly-> kata/kata sifat/ramah</li>
+    <li>ADJECTIVERATURAL-> KATA/KADWEKTIF/ALAM</li>
+    <li>Verbfriendly-> Words/Verbs/Friendly</li>
+    <li>Personalcharacteristic-> Words/Nouns/Personalcharacteristics</li>-><GlobalUtility.rulePack.rulesFiles>
+    <!-- Donde se usan generalmente estos archivos-->
+    <!-- Adjetivos:-->
+    <li>AdjectiveAngsty-> Words/Adjectives/Angsty</li>
+    <li>AdjectiveAngsty_fem-> Words/Adjectives/Angsty_Fem</li>
+    <li>AdjectiveBadass-> kata/kata sifat/badass</li>
+    <li>AdjectiveBadass_fem-> kata/kata sifat/badass_fem</li>
+    <li>AdjectiveBadass_plural-> kata/kata sifat/badass_plural</li>
+    <li>Adjective friendly-> kata/kata sifat/ramah</li>
+    <li>Adjective friendly_fem-> kata/kata sifat/friendly_fem</li>
+    <li>Kata sifat-> kata/kata sifat/besar</li>
+    <li>Adjectivelarge_fem-> Words/Adjectives/Besar_FEM</li>
+    <li>ADJECTIVERATURAL-> KATA/KADWEKTIF/ALAM</li>
+    <li>AdjectiveVIndalFem-> Words/Adjectives/Natural_FEM</li>
+    <!-- Animales:-->
+    <li>Hewan-> kata/kata benda/hewan</li>
+    <li>Animal_cap-> kata/kata benda/hewan_cap</li>
+    <li>Animal_fem-> kata/kata benda/hewan_fem</li>
+    <li>Animal_femcap-> kata/kata benda/hewan_femcap</li>
+    <li>Animal_femplural-> kata/kata benda/hewan_femplural</li>
+    <li>Animal_plural-> kata/kata benda/hewan_plural</li>
+    <li>AnimalBadass-> Words/Nouns/Animals_Badass</li>
+    <li>AnimalBadass_cap-> kata/kata benda/hewan_badasscap</li>
+    <li>AnimalBadass_fem-> kata/kata benda/animal_badass_fem</li>
+    <li>AnimalBadass_femcap-> kata/kata benda/animal_badass_femcap</li>
+    <li>AnimalBadass_femplural-> kata/kata benda/animal_badass_femplural</li>
+    <li>AnimalBadass_plural-> kata/kata benda/animal_badass_plural</li>
+    <li>Animalgroup-> kata/kata benda/kelompok hewan</li>
+    <li>AnimalGroup_fem-> kata/kata benda/animalgroups_fem</li>
+    <!--Vestimenta:-->
+    <li>Pakaian-> kata/kata benda/pakaian</li>
+    <li>Oppenel_fem-> Words/Nouns/Apparel_fem</li>
+    <!--Arte:-->
+    <li>Karya Seni-> Kata/Kata benda/karya seni</li>
+    <li>Artwork_fem-> kata/kata benda/artworks_fem</li>
+    <!--Partes del Cuerpo:-->
+    <li>Bodypart-> kata/kata benda/bodyparts</li>
+    <li>Bodypart_fem-> kata/kata benda/bodyparts_fem</li>
+    <li>Bodypart_human-> kata/kata benda/bodyparts_human</li>
+    <!--Negocios:-->
+    <li>BusinessType-> Words/Nouns/BusinessTypes</li>
+    <li>BusinessType_Cap-> Words/Nouns/BusinessTypes_cap</li>
+    <li>BusinessType_FEM-> Words/Nouns/BusinessTypes_FEM</li>
+    <li>BusinessType_FemCap-> Words/Nouns/BusinessTypes_FemCap</li>
+    <li>BusinessType_plural-> Words/Nouns/BusinessTypes_plural</li>
+    <li>BusinessType_Femplural-> Words/Nouns/BusinessTypes_femplural</li>
+    <li>BusinessType_pluralcap-> Words/Nouns/BusinessTypes_pluralcap</li>
+    <!--Colores:-->
+    <li>Color-> Words/Nouns/Colors</li>
+    <li>Color_cap-> kata/kata benda/colors_cap</li>
+    <li>Color_plural-> kata/kata benda/colors_plural</li>
+    <li>ColorBadass-> Words/Nouns/Colors_Badass</li>
+    <li>Colorbadass_fem-> kata/kata benda/colors_badassfem</li>
+    <li>Color_fem-> kata/kata benda/colors_fem</li>
+    <li>Color_femcap-> kata/kata benda/colors_femcap</li>
+    <!--Comunidades:-->
+    <li>Komunitas-> kata/kata benda/komunitas</li>
+    <li>Community_fem-> kata/kata benda/community_fem</li>
+    <!--Conceptos:-->
+    <li>Consepangsy-> Words/Nouns/Concepts_angsy</li>
+    <li>Consepangsy_fem-> Words/Nouns/Concepts_angsyfem</li>
+    <li>ConceptBadass-> Words/Nouns/Concepts_Badass</li>
+    <li>ConceptBadass_fem-> Words/Nouns/Concepts_Badassfem</li>
+    <li>ConceptPositive-> Words/Nouns/Concepts_Positive</li>
+    <li>ConceptPositive_fem-> Words/Nouns/Concepts_PositiveFem</li>
+    <!--Direcciones:-->
+    <li>Direction-> Words/Adjectives/CompassDirections</li>
+    <!--Enemigos:-->
+    <li>Musuh-> kata/kata benda/musuh</li>
+    <li>Musuh_fem-> kata/kata benda/musuh_fem</li>
+    <!--Juegos:-->
+    <li>Game-> Words/Nouns/Games</li>
+    <li>Game_fem-> Words/Nouns/Game_FEM</li>
+    <li>Game_femplural-> Words/Nouns/Games_Femplural</li>
+    <li>Game_plural-> Words/Nouns/Game_plural</li>
+    <!--Dantesco: Se usa en RulePack_Art_ImagesTales-->
+    <li>Gore-> Words/Nouns/Gore</li>
+    <li>Gormech-> kata / kata benda / gore_mech</li>
+    <li>Goremechpl-> kata/kata benda/gore_mechplural</li>
+    <li>Gore_plural-> kata/kata benda/gore_plural</li>
+    <!--Nombre de Grupos:-->
+    <li>GroupName-> Words/Nouns/GroupNames</li>
+    <!--Números Romanos:-->
+    <li>ROMANNUMERAL-> Words/Misc/Numbers_Smallroman</li>
+    <!--Letras:-->
+    <li>Surat-> WordParts/Capitalletters</li>
+    <!--Mecanoides:-->
+    <li>Mechanoid-> Words/Nouns/Mechanoid</li>
+    <li>Mechanoid_fem-> kata/kata benda/mechanoid_fem</li>
+    <li>Mechanoid_fempl-> kata/kata benda/mechanoid_femplural</li>
+    <li>Mechanoid_plural-> kata/kata benda/mechanoid_plural</li>
+    <!--Objetos naturales:-->
+    <li>NaturalObject-> Words/Nouns/NaturalObject</li>
+    <li>NaturalObject_fem-> kata/kata benda/naturalObject_fem</li>
+    <!--Caracteristicas Personales:-->
+    <li>Personalcharacteristic-> Words/Nouns/Personalcharacteristics</li>
+    <li>Personalcharacteristic_fem-> kata/kata benda/personalcharacteristics_fem</li>
+    <!--Tipos de Personajes:-->
+    <li>Secara pribadi-> kata/kata benda/orang_allies</li>
+    <li>Personbadass-> kata/kata benda/orang_badass</li>
+    <li>Personbadass_fem-> kata/kata benda/orang_badass_fem</li>
+    <li>Personfamily-> Words/Nouns/People_family</li>
+    <li>Personfamily_fem-> kata/kata benda/orang_family_fem</li>
+    <!--Tipos de Trabajos:-->
+    <li>Personjob-> Words/Nouns/People_jobs</li>
+    <li>Personjob_plural-> kata/kata benda/orang_jobs_plural</li>
+    <li>Personjob_fem-> kata/kata benda/orang_jobsfem</li>
+    <!--Tipos de uniones modernas:-->
+    <li>POLITICUSIONOUTLANDER-> Words/Nouns/PolittionUnions_outlander</li>
+    <!--Tipos de uniones de tribus:-->
+    <li>POLITICTUMUTRIBAL-> Words/Nouns/Politicalinions_tribal</li>
+    <!--Sílabas:-->
+    <li>Sylb-> WordParts/Syllables_byzantinian</li>
+    <li>Sylb_cap-> wordparts/silable_byzantinian_cap</li>
+    <li>Gaya-> bagian kata/suku kata bahasa Inggris</li>
+    <li>Syle_cap-> wordparts/silables_english_cap</li>
+    <li>Sylg-> WordParts/Syllables_Galician</li>
+    <li>Sylg_cap-> wordparts/silable_galician_cap</li>
+    <li>Sylp-> WordParts/Syllables_pig</li>
+    <!--Nombre de los biomas:-->
+    <li>Terrainfeature-> Words/Nouns/Terrainfeatures</li>
+    <li>Terrainfeature_fem-> kata/kata benda/terrainfeatures_fem</li>
+    <li>Terrainfeature_pl-> kata/kata benda/terrainfeatures_plural</li>
+    <li>Terrainfeature_plfem-> kata/kata benda/terrainfeatures_pluralfem</li>
+    <!--Nombre de los árboles:-->
+    <li>Treeetype-> Words/Nouns/Treetypes</li>
+    <li>Treeetype_fem-> Words/Nouns/Treeetypes_fem</li>
+    <!--Nombre para los tribales-->
+    <li>Tribalfirstname-> kata/asing/tribalsfirstname</li>
+    <li>Triballastname-> kata/asing/tribalslastname</li>
+    <!--Nombre para las tribus en mayúscula:-->
+    <li>Wordtribal_cap-> kata/asing/tribal_cap</li>
+    <li>Wordtribal_name-> kata/asing/tribal_names</li>
+    <li>Wordtribal_namecap-> kata/asing/tribal_namescap</li>
+    <!--Nombre de vegetales:-->
+    <li>Sayuran-> kata/kata benda/sayuran</li>
+    <li>Sayur_fem-> kata/kata benda/sayuran_fem</li>
+    <!--Nombre de verbos amistosos:-->
+    <li>Verbfriendly-> Words/Verbs/Friendly</li>
+    <li>Verb friendly_fem-> kata/kata kerja/ramah_fem</li>
+    <!--Armas:-->
+    <li>Senjata-> kata/kata benda/senjata</li>
+    <li>WeaponVarpl-> Words/Nouns/Weaponsvar</li>
+    <li>Weaponcac-> Words/Nouns/weapons_cac</li>
+    <li>Weangoncac_fem-> Words/nouns/weapons_cacfem</li>
+    <li>Weangoncac_plural-> kata/kata benda/senjata_cacplural</li>
+    <li>Weangoncac_femplural-> Words/Nouns/weapons_cacfemplural</li>
+    <li>Weapon_fem-> Words/Nouns/Weapons_fem</li>
+    <li>Weapon_femplural-> kata/kata benda/senjata_femplural</li>
+    <li>Weapon_plural-> kata/kata benda/senjata_plural</li>
+    <!--Armas:WeaponLongRange-->
+    <li>Weapon_ranged-> Words/Nouns/Weapons_ranged</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <!-- EN:
+    <li>Trans-> dari</li>
+    <li>Trans-> for</li>
+    <li>Trans-> oleh</li>
+    <li>Trans-> dengan</li>
+    <li>Karakter (p = 6)-> [personjob]</li>
+    <li>Karakter (p = 4)-> [hewan]</li>
+    <li>Karakter (p = 3)-> [musuh]</li>
+    <li>Karakter-> [Mechanoid]</li>
+    <li>Quantity_adjphrase-> dua</li>
+    <li>Quantity_adjphrase-> tiga</li>
+    <li>Quantity_adjphrase-> empat</li>
+    <li>Quantity_adjphrase-> lima</li>
+    <li>Quantity_adjphrase-> enam</li>
+    <li>Quantity_adjphrase-> tujuh</li>
+    <li>Quantity_adjphrase-> delapan</li>
+    <li>Quantity_adjphrase-> sembilan</li>
+    <li>Quantity_adjphrase-> sepuluh</li>
+    <li>Quantity_adjphrase-> beberapa</li>
+    <li>Quantity_adjphrase-> sekelompok</li>
+    <li>Quantity_adjphrase-> sekelompok besar</li>
+    <li>Kuantitas_adjphrase-> lusinan</li>
+    <li>Quantity_adjphrase-> ratusan</li>
+    <li>Quantity_adjphrase-> seribu</li>
+    <li>Quantity_adjphrase-> ribuan</li>
+    <li>Bentuk-> segitiga</li>
+    <li>Bentuk-> persegi</li>
+    <li>Bentuk-> persegi panjang</li>
+    <li>Bentuk-> kerucut</li>
+    <li>Bentuk-> garis</li>
+    <li>Bentuk-> jantung</li>
+    <li>Bentuk-> bintang</li>
+    <li>Bentuk-> lingkaran</li>
+    <li>Bentuk-> elips</li>
+    <li>Adjectiveud-> [AdjectiveBadass]</li>
+    <li>Adjectiveud-> [AdjectiveAngsty]</li>
+    <li>Adjektiva-> [AdjectiveFriendly]</li>
+    <li>AdjectiveAny-> [AdjectiveVatural]</li>
+    <li>Conceptany-> [ConceptPositive]</li>
+    <li>Conceptany-> [ConceptBadass]</li>
+    <li>Conceptany-> [ConceptAngsty]</li>
+    <li>Karakteristik pribadi (P = 0,15)-> Genital</li>
+    <li>Karakteristik pribadi (p = 0,15)-> rambut kemaluan</li>
+    <li>Karakteristik pribadi (p = 0,15)-> rambut tubuh</li>
+    <li>Karakteristik pribadi (P = 0,15)-> Kebiasaan toilet</li>
+    <li>Personalcharacteristic (P = 0,15)-> Kecakapan seksual</li>
+    <li>Personalcharacteristic (p = 0,15)-> preferensi seksual</li>
+    <li>Karakteristik pribadi (P = 0,15)-> Pengalaman Seksual</li>-><GlobalUtility.rulePack.rulesStrings>
+    <!--Reglas Especiales-->
+    <!--asker-->
+    <li>asker_o_a (asker_gender! = wanita)-> o</li>
+    <li>asker_o_a (asker_gender == betina)-> a</li>
+    <li>asker_e_a (asker_gender! = wanita)-> e</li>
+    <li>asker_e_a (asker_gender == betina)-> a</li>
+    <li>asker_x_a (asker_gender! = wanita)-></li>
+    <li>asker_x_a (asker_gender == betina)-> a</li>
+    <li>asker_a (asker_gender! = wanita)-> un</li>
+    <li>asker_a (asker_gender == betina)-> una</li>
+    <li>Asker_acap (asker_gender! = Wanita)-> un</li>
+    <li>asker_aCap(asker_gender==Female)->Una</li>
+    <li>asker_thecap (asker_gender! = wanita)-> el</li>
+    <li>Asker_thecap (asker_gender == betina)-> biarkan</li>
+    <li>asker_the (asker_gender! = wanita)-> el</li>
+    <li>asker_the (asker_gender == betina)-> la</li>
+    <li>asker_a_al (asker_gender! = wanita)-> al</li>
+    <li>asker_a_al (asker_gender == betina)-> a la</li>
+    <li>titleheir_o_a (titleheir_gender == jantan)-> o</li>
+    <li>titleheir_o_a (titleheir_gender == betina)-> a</li>
+    <li>titleheir_o_a (titleheir_gender == tidak ada)-> o</li>
+    <li>TitleHeirdef (titleHeir_gender == jantan)-> el</li>
+    <li>TitleHeirdef (titleHeir_gender == betina)-> la</li>
+    <li>TitleHeirdef (titleheir_gender == tidak ada)-> el</li>
+    <!--INITIATOR-->
+    <li>Initiator_o_a (initiator_gender! = Wanita)-> o</li>
+    <li>Initiator_o_a (initiator_gender == betina)-> a</li>
+    <!--PRISONER-->
+    <li>Prisoner_o_a (tahanan_gender! = Wanita)-> o</li>
+    <li>Prisoner_o_a (tahanan_gender == wanita)-> a</li>
+    <!--PATIENT-->
+    <li>Patient_o_a (Patient_Gender! = Wanita)-> o</li>
+    <li>Patient_O_A (Patient_Gender == betina)-> a</li>
+    <!--RECIPIENT-->
+    <li>Penerima_o_a (penerima_gender! = Wanita)-> o</li>
+    <li>Penerima_o_a (penerima_gender == wanita)-> a</li>
+    <!--INITIATOR-->
+    <li>Initiator_o_a (initiator_gender! = Wanita)-> o</li>
+    <li>Initiator_o_a (initiator_gender == betina)-> a</li>
+    <!--refugee-->
+    <li>Refugee_o_a (Refugee_Gender! = Wanita)-> o</li>
+    <li>Refugee_o_a (pengungsi_gender == wanita)-> a</li>
+    <li>Refugee_ununa (Refugee_Gender! = Wanita)-></li>
+    <li>Refugee_ununa (pengungsi_gender == betina)-> satu</li>
+    <!--joiner-->
+    <li>joiner_a (joiner_gender! = wanita)-> un</li>
+    <li>joiner_a (joiner_gender == betina)-> una</li>
+    <li>joiner_a (joiner_gender! = wanita)-> un</li>
+    <li>joiner_a (joiner_gender == betina)-> una</li>
+    <li>joiner_o_a (joiner_gender! = wanita)-> o</li>
+    <li>joiner_o_a (joiner_gender == betina)-> a</li>
+    <!-- regla especial para la misión JoinerTheat-->
+    <li>Joiner_especial (joiner_gender! = Wanita)-> anak perempuan</li>
+    <li>Joiner_especial (joiner_gender == betina)-> sang putra</li>
+    <!--lodgers-->
+    <li>o_a (lodgers0_gender == betina)-> a</li>
+    <li>o_a (lodgers0_gender! = wanita)-> o</li>
+    <li>e_a (lodgers0_gender == betina)-> a</li>
+    <li>e_a (lodgers0_gender! = wanita)-> e</li>
+    <li>Tiba (LodgerCount == 1)-> dia tiba</li>
+    <li>Tiba (LodgerCount> = 2)-> llegaron</li>
+    <li>Un_cap (lodgers0_gender == betina)-> satu</li>
+    <li>Un_cap (lodgers0_gender! = Wanita)-> a</li>
+    <li>una_una (lodgers0_gender == betina)-> satu</li>
+    <li>un_una (lodgers0_gender! = wanita)-> a</li>
+    <li>penghinaan.</li>
+    <li>penghinaan (lodgers0_gender! = wanita)-> al Calumniador</li>
+    <li>Tiba (LodgerCount == 1)-> dia tiba</li>
+    <li>Tiba (LodgerCount> = 2)-> llegaron</li>
+    <li>Willstay (lodgercount == 1)-> akan tetap ada</li>
+    <li>Willstay (LodgerCount> = 2)-> Mereka akan tetap</li>
+    <li>Terakhir (lodgers0_gender == jantan)-> yang terakhir</li>
+    <li>Terakhir (lodgers0_gender! = Pria)-> yang terakhir</li>
+    <li>Lodgersleave (Lodgerscount == 1)-> akan berangkat</li>
+    <li>Lodgersleave (Lodgerscount> = 2)-> Mereka akan pergi</li>
+    <li>Lodgelella (lodgers0_gender == mil)-> el</li>
+    <li>Lodgelella (lodgers0_gender! = pria)-> la</li>
+    <li>LODGERSELLACAP (LODGERS0_GENDER == MALE)-> EL</li>
+    <li>LODGERSELLACAP (LODGERS0_GENDER! = MALE)-> LA</li>
+    <li>Hadsingorplural (LodgerCount == 1)-> Had</li>
+    <li>Hadsingorplural (LodgerCount> = 2)-> Mereka punya</li>
+    <li>Hostedsingorplural (Lodgers0_Gender == jantan, lodgerCount == 1)-> Hospedado</li>
+    <li>HostedSingorplural (Lodgers0_Gender! = Pria, LodgerCount == 1)-> Hospedada</li>
+    <li>Hostedsingorplural (LodgerCount> = 2)-> Hospedados</li>
+    <!-- EnemyFaction -->
+    <li>el_la (musuh</li>
+    <li>el_la (musuh</li>
+    <li>facctionoppontun_una (factionopponent == jantan) -> satu</li>
+    <li>facctionoppontun_una (factionopponent! = pria) -> satu</li>
+    <!--Quest Hospitality -->
+    <li>Tiba (LodgerCount == 1)-> dia tiba</li>
+    <li>Tiba (LodgerCount> = 2)-> llegaron</li>
+    <!--Scrip_LongRangeMineralScanner-->
+    <li>TargetMinable_labelvar (TargetMinable == MineableGold)-> Tambang Emas</li>
+    <li>TargetMinable_labelvar (TargetMinable == MineAblesilver)-> Tambang Perak</li>
+    <li>TargetMinable_labelvar (targetMinable == Mining)-> baja vena</li>
+    <li>TargetMinable_labelvar (targetMinable == MinoeDlePplabasel)-> Plastiacero Vein</li>
+    <li>TargetMinable_labelvar (targetMinable == MINEABLOMBLomponentsIndustri)-> Vena Mesin Terpompak</li>
+    <li>targetMinable_labelvar (targetMinable == MineableUranium)-> Mina de Uranio</li>
+    <li>TargetMinable_labelvar (targetMinable == MineAbleJade)-> Jade Vein</li>
+    <li>TargetMinable_labelvar (p = 0,00000000001)-> [targetMineable_label]</li>
+    <li>targetMineablething_labelvar (targetMinable == MineableGold)-> oro</li>
+    <li>targetMineablething_labelvar (targetMinable == MineAblesilver)-> Plata</li>
+    <li>targetMineAblething_labelvar (targetMinable == miniablesteel)-> acero</li>
+    <li>targetMineablething_labelvar (targetMinable == MineablePlasteel)-> Plastiacero</li>
+    <li>TargetMineablething_labelvar (TargetMinable == MINEABLomponentSindustrium)-> Mesin yang dipadatkan</li>
+    <li>targetMineablething_labelvar (targetMinable == MineableUranium)-> Uranio</li>
+    <li>targetMineAblething_labelvar (targetMinable == MineAdleJade)-> Jade</li>
+    <li>TargetMineablething_labelvar (p = 0,00000000001)-> [targetMineAblething_label]</li>
+    <!-- Scrip Uitlity helpers -->
+    <li>HeltersSent (HelterScount == 1, Helters0_Gender! = Wanita)-> Enviado</li>
+    <li>HeltersSent (HelterScount == 1, Helters0_Gender == Wanita)-> Enviada</li>
+    <li>Helterssent (HelScount> = 2)-> Enviados</li>
+    <li>HelpersArrive (helperscount == 1)-> telah tiba</li>
+    <li>HelSarrived (HelScount> = 2)-> Llegaron</li>
+    <li>HelSleaving (HelScount == 1)-> SE Marcha</li>
+    <li>HelSleaving (HelScount> = 2)-> SE Marchan</li>
+    <li>helpersTheCap (HelScount == 1, Helters0_gender! = Wanita)-> el</li>
+    <li>helpersTheCap (helperscount == 1, helpers0_gender == wanita)-> la</li>
+    <li>HelStHecap (HelScount> = 2)-> LOS</li>
+    <li>HelterSpent (HelScount == 1)-> Pasó</li>
+    <li>HelterSpent (HelterScount> = 2)-> Pasaron</li>
+    <!-- ShuttleCrash-->
+    <li>Crashedlanded (sipil_count == 1)-> Estrelló</li>
+    <li>Crashedlanded (civilians_count> = 2)-> estrellaron</li>
+    <li>Orang-orang ini (warga sipil menghitung == 1)-> ESTA Persona</li>
+    <li>TheSepeople (sipil_count> = 2) -> personel Estas</li>
+    <!-- beggar -->
+    <li>beggars_o_a (beggars0_gender == jantan)-> o</li>
+    <li>beggars_o_a (beggars0_gender! = pria)-> a</li>
+    <li>beggars_e_a (beggars0_gender == jantan)-> e</li>
+    <li>beggars_e_a (beggars0_gender! = pria)-> a</li>
+    <!-- founder -->
+    <li>founder_o_a (founder_gender == jantan)-> o</li>
+    <li>founder_o_a (founder_gender! = pria)-> a</li>
+    <li>Founder_heroe (founder_gerd == jantan)-> seorang pahlawan</li>
+    <li>Founder_heroe (founder_gerder! = Laki-laki)-> seorang pahlawan wanita</li>
+    <!-- pilgrim -->
+    <li>menjadi (pilgrimcount == 1)-> sedang dihormati</li>
+    <li>menjadi (PilgrimCount> = 2)-> Mereka dihormati</li>
+    <li>Mayffers (pilgrimcount == 1)-> bisa</li>
+    <li>Mayffers (PilGrimCount> = 2)-> bisa</li>
+    <!--Tales Jobs-->
+    <!-- PAWN-->
+    <li>Pawn_o_a (Pawn_gender! = Wanita)-> o</li>
+    <li>Pawn_o_a (Pawn_gender == betina)-> a</li>
+    <li>Pawn_o_a (Pawn_gender! = Wanita)-> o</li>
+    <li>Pawn_o_a (Pawn_gender == betina)-> a</li>
+    <!-- SURGEON-->
+    <li>Surgeon_o_a (Surgeon_Gender! = Wanita)-> o</li>
+    <li>Surgeon_o_a (Surgeon_Gender == betina)-> a</li>
+    <!-- VICTIM-->
+    <li>Korban_o_a (korban_gender! = Wanita)-> o</li>
+    <li>Korban_o_a (korban_gender == wanita)-> a</li>
+    <!-- KILLER-->
+    <li>Killer_o_a (killer_gender! = Wanita)-> o</li>
+    <li>Killer_o_a (killer_gender == betina)-> a</li>
+    <!-- JOINER-->
+    <li>Joinertales_o_a (joiner_gender! = Wanita)-> o</li>
+    <li>Joinertales_o_a (joiner_gender == betina)-> a</li>
+    <!--TRAINER-->
+    <li>Trainer_o_a (pelatih_gender! = Wanita)-> o</li>
+    <li>Trainer_o_a (trainer_gender == betina)-> a</li>
+    <!--SLEEPER-->
+    <li>Sleeper_o_a (sleeper_gender! = Wanita)-> o</li>
+    <li>Sleeper_o_a (sleeper_gender == betina)-> a</li>
+    <!--ATTENDER-->
+    <li>Attentder_o_a (attentder_gender! = Wanita)-atau atau</li>
+    <li>Attentder_o_a (atrote_gender == betina)-> a</li>
+    <!--SENDER-->
+    <li>Una_una_sender (attenter_gender! = Wanita)-> a</li>
+    <li>Una_una_sender (attenter_gender == betina)-> satu</li>
+    <!-- Book_Descriptions -->
+    <!--ANYPAWN -->
+    <li>Anypawn_o_a (anypawn_gender! = Wanita)-> o</li>
+    <li>Anypawn_o_a (anypawn_gender == betina)-> a</li>
+    <!--Reglas Normales-->
+    <li>Transof-></li>
+    <li>Trans-> for</li>
+    <li>Trans-> oleh</li>
+    <li>Trans-> con</li>
+    <li>Adjectiveud-> [AdjectiveBadass]</li>
+    <li>Adjectiveud-> [AdjectiveAngsty]</li>
+    <li>Adjektiva-> [AdjectiveFriendly]</li>
+    <li>AdjectiveAny-> [AdjectiveVatural]</li>
+    <li>AnimalBadassany-> [AnimalBadass]</li>
+    <li>AnimalBadassany-> [animalbadass_fem]</li>
+    <li>Animalbadassany_cap-> [animalbadass_cap]</li>
+    <li>Animalbadassany_cap-> [animalbadass_femcap]</li>
+    <li>Animalbadsdefcap-> [animalbadss]</li>
+    <li>Animalbadsdefcap-> [animalbadss_fem]</li>
+    <li>AnimalBadassanypl-> [animalbadass_plural]</li>
+    <li>AnimalBadassanypl-> [animalbadass_femplural]</li>
+    <li>Animalany-> [hewan]</li>
+    <li>Animalany-> [animal_fem]</li>
+    <li>AnimalAnypl-> [animal_plural]</li>
+    <li>AnimalAnypl-> [animal_femplural]</li>
+    <li>AnimalIndef-> [hewan]</li>
+    <li>AnimalIndef->una [Animal_Fem]</li>
+    <li>AnimalGroupIndef-> un [animalgroup]</li>
+    <li>AnimalGroupIndef-> Una [animalgroup_fem]</li>
+    <li>Pakaian-> [Pakaian]</li>
+    <li>Pakaian-> [Oppenel_fem]</li>
+    <li>Appibildef-> [pakaian]</li>
+    <li>Appeaf-> [eyangel_fem]</li>
+    <li>BusinessTypeANy-> [BusinessType]</li>
+    <li>BusinessTypeANY-> [BusinessType_FEM]</li>
+    <li>BusinessTypeANY_DEF-> EL [BusinessType]</li>
+    <li>BusinessTyPeANY_DEF-> LA [BusinessType_FEM]</li>
+    <li>BusinessTyPeANY_DEF-> LOS [BusinessType_plural]</li>
+    <li>BusinessTyPeANY_DEF-> LAS [BusinessType_Femplural]</li>
+    <li>BusinessTypeANY_DEF_CAP-> EL [BusinessType_Cap]</li>
+    <li>BusinessTypeANY_DEF_CAP-> LA [BusinessType_FemCap]</li>
+    <li>Bodypartany-> [bodypart]</li>
+    <li>Bodypartany-> [bodypart_fem]</li>
+    <li>Colorany-> [Color]</li>
+    <li>Colorany-> [color_fem]</li>
+    <li>Colorany_cap-> [color_cap]</li>
+    <li>Colorany_cap-> [color_femcap]</li>
+    <li>Conceptany-> [ConceptPositive]</li>
+    <li>Conceptany-> [ConceptBadass]</li>
+    <li>Conceptany-> [ConceptAngsty]</li>
+    <li>Conceptany_fem-> [ConceptPositive_FEM]</li>
+    <li>Conceptany_fem-> [ConceptBadass_FEM]</li>
+    <li>Conceptany_fem-> [ConceptAngsty_FEM]</li>
+    <li>ConceptAndef-> The [ConceptAny]</li>
+    <li>ConceptAndef-> [ConceptAny_FEM]</li>
+    <li>Conceptanyll-> [ConceptAnd]</li>
+    <li>ConceptArtull-> [ConceptAny_FEM]</li>
+    <li>CommunityIndefcap-> una [community_fem]</li>
+    <li>CommunityIndefcap-> un [komunitas]</li>
+    <li>Karakter (p = 6)-> [personjob]</li>
+    <li>Karakter_plural (p = 6)-> [personjob_plural]</li>
+    <li>Karakter_fem (p = 6)-> [personjob_fem]</li>
+    <li>Karakter (p = 4)-> [hewan]</li>
+    <li>Karakter_plural (p = 4)-> [animal_plural]</li>
+    <li>Karakter_fem (p = 4)-> [animal_fem]</li>
+    <li>Karakter (p = 3)-> [musuh]</li>
+    <li>Karakter_plural (p = 3)-> [musuh] s</li>
+    <li>Karakter-> [Mechanoid]</li>
+    <li>Karakter_human-> [personjob]</li>
+    <li>Karakter_human-> [musuh]</li>
+    <li>Karakterenemyplural (p = 2)-> [animal_plural]</li>
+    <li>Karakterenemyplural-> [animal_femplural]</li>
+    <li>Karakterenemyplural (p = 3)-> [musuh] s</li>
+    <li>Karakterenemyplural (p = 2)-> [mechanoid] s</li>
+    <li>Karakterindef (p = 6)-> un [personjob]</li>
+    <li>Karakterindef (p = 6)-> a [personjob_fem]</li>
+    <li>Karakterindef (p = 4)-> an [hewan]</li>
+    <li>Karakterindef (p = 4)-> a [animal_fem]</li>
+    <li>Karakterindef (p = 3)-> un [musuh]</li>
+    <li>KarakterIndef-> un [mechanoid]</li>
+    <li>CharacterIndefmas (p = 6)-> A [personjob]</li>
+    <li>KarakterIndefmas (p = 4)-> un [hewan]</li>
+    <li>KarakterIndefmas (p = 3)-> un [musuh]</li>
+    <li>KarakterIndefmas-> un [mechanoid]</li>
+    <li>Karakterindeffem (p = 6) -> satu [personjob_fem]</li>
+    <li>Karakterindeffem (p = 4) -> satu [animal_fem]</li>
+    <li>DEF- COMMUNITY> di [komunitas]</li>
+    <li>CommunityIndef-> una [community_fem]</li>
+    <li>CommunityDef-> El [Komunitas]</li>
+    <li>CommunityDef-> la [community_fem]</li>
+    <li>CommunityAny-> [Komunitas]</li>
+    <li>Communityany-> [community_fem]</li>
+    <li>Gameany-> [game]</li>
+    <li>GameANy-> [Game_FEM]</li>
+    <li>GameANy-> [Game_plural]</li>
+    <li>GameANy-> [Game_Femplural]</li>
+    <li>Musuh indef-> un [musuh]</li>
+    <li>Musuh indef-> [musuh_fem]</li>
+    <li>Personjobindef-> [personjob]</li>
+    <li>Personjobindef-> una [personjob_fem]</li>
+    <li>Gamedef-> el [game]</li>
+    <li>Gamedef-> to [game_fem]</li>
+    <li>NaturalObjectDef-> un [NaturalObject]</li>
+    <li>NaturalObjectDef-> una [naturalObject_fem]</li>
+    <li>Mechanoidanypl-> [mechanoid_fempl]</li>
+    <li>Mechanoidanypl-> [mechanoid_plural]</li>
+    <li>Quantity_adjphrase-></li>
+    <li>Quantity_adjphrase-> tres</li>
+    <li>Quantity_adjphrase-> cuatro</li>
+    <li>Quantity_adjphrase-> cinco</li>
+    <li>Quantity_adjphrase-> enam</li>
+    <li>Quantity_adjphrase-> siete</li>
+    <li>Quantity_adjphrase-> ocho</li>
+    <li>Quantity_adjphrase-> nueve</li>
+    <li>Quantity_adjphrase-> Diez</li>
+    <li>Quantity_adjphrase-> varios</li>
+    <li>Quantity_adjphrase-> un</li>
+    <li>Kuantitas_adjphrase-> kelompok besar un</li>
+    <li>Kuantitas_adjphrase-> lusinan</li>
+    <li>Quantity_adjphrase-> ratusan</li>
+    <li>Quantity_adjphrase-> mil</li>
+    <li>Quantity_adjphrase-> miles de</li>
+    <li>Bentuk-> talgulo</li>
+    <li>Bentuk-> persegi</li>
+    <li>Bentuk-> persegi panjang</li>
+    <li>Bentuk-> kerucut</li>
+    <li>Shape_fem-> Line</li>
+    <li>Bentuk_var-> hati</li>
+    <li>Bentuk_varpl-> hati</li>
+    <li>Shape_fem-> Estrella</li>
+    <li>Bentuk-> lingkaran</li>
+    <li>Bentuk-> Elipse</li>
+    <li>Bentuk def-> di [bentuk]</li>
+    <li>Shapedef-> un [shape_var]</li>
+    <li>Shapedef-> una [shape_fem]</li>
+    <li>ShapeAny-> [bentuk]</li>
+    <li>ShapeAny-> [shape_fem]]</li>
+    <li>Shape_plural-> [ShapeAny] s</li>
+    <li>Bentuk_plural-> [shape_varpl]</li>
+    <li>Personjobany-> [Personjob]</li>
+    <li>Personjobany-> [personjob_fem]</li>
+    <li>PersonIndef-> satu [Personjob]</li>
+    <li>PersonIndef-> satu [personjob_fem]</li>
+    <li>Personfamilyany-> [keluarga orang]</li>
+    <li>Personfamilyany-> [personfamily_fem]</li>
+    <li>Karakteristik pribadi (p = 0,15)-> genitales</li>
+    <li>Personcharacteristic (p = 0,15)-> rambut kemaluan</li>
+    <li>Karakteristik Pribadi (P = 0,15)-> Kopral Vello</li>
+    <li>Personcraracteristic (P = 0,15)-> Kebiasaan Kebersihan</li>
+    <li>Personcharacteristic (P = 0,15)-> Tujuan Seksual</li>
+    <li>Personil Karakteristik (P = 0,15)-> Preferensi Seksual</li>
+    <li>Personcharacteristic_fem (p = 0,15)-> pengalaman seksual</li>
+    <li>Personalcharacteristicdef-> el [pribadi karib]</li>
+    <li>Personalcharacteristicdef-> la [personalcharacteristic_fem]</li>
+    <li>TerrainfeatureAny-> [Terrainfeature]</li>
+    <li>TerrainfeatureAny-> [Terrainfeature_fem]</li>
+    <li>CharterfeatureIdef-> [terrainfeature]</li>
+    <li>Tirtainfeurendef-> a [talainfeetature_fem]</li>
+    <li>CharterfeatureIdefcap-> [terrainfeature]</li>
+    <li>TerrainfeatureIndefcap-> una [terrainfeature_fem]</li>
+    <li>TerrainfeaturePlany-> [terrainfeature_pl]</li>
+    <li>TerrainfeaturePlany-> [terrainfeature_plfem]</li>
+    <li>Treetypeany-> [Treeetype]</li>
+    <li>Treetypeany-> [Treeetype_fem]</li>
+    <li>TreeetypeIndef-> un [Treeetype]</li>
+    <li>TreetypeIndef-> A [Treeetype_FEM]</li>
+    <li>Vegetableud-> [Sayuran]</li>
+    <li>VegetableAny-> [sayuran_fem]</li>
+    <li>VegetableDef-> [sayuran]</li>
+    <li>VegetableDef-> la [sayuran_fem]</li>
+    <li>Sayuran IST> UN [Sayuran]</li>
+    <li>Sayuranindef-> [sayuran_fem]</li>
+    <li>Senjata-> [senjata]</li>
+    <li>Senjata-> [weapon_fem]</li>
+    <li>WeaponAnypl-> [weapon_plural]</li>
+    <li>WeaponAnypl-> [weapon_femplural]</li>
+    <li>WeaponIndef-> un [senjata]</li>
+    <li>WeaponIndef-> Una [weapon_fem]</li>
+    <li>Weaponcacindef-> un [weaponcac]</li>
+    <li>Weaponcacindef-> Una [weaponcac_fem]</li>
+    <li>Weaponcacanypl-> [weaponcac_plural]</li>
+    <li>Weaponcacanypl-> [weaponcac_femplural]</li>
+    <li>Weaponcacanyindefpl-> unos [weaponcac_plural]</li>
+    <li>Weaponcacanyindefpl-> unas [weaponcac_femplural]</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicany-> [TalkTopiclight]</li>
+    <li>TalkTopicany-> [TalkTopIChICheavy]</li>
+    <li>TalkTopIChICheavy-> [TalkTopIChICheavyfile]</li>
+    <li>TalkToPicheavy (P = 0,08)-> Tautan antara [TalkTopIChICheVyFile] dan [TalkTopIChICheavyFile]</li>
+    <li>TalkToPicheavy (P = 0,08)-> Koneksi antara [TalkTopIChICheVyFile] dan [TalkTopIChICheavyFile]</li>
+    <li>TalkTopIChICheavy (P = 0,08)-> Hubungan antara [TalkTopIChICheVyFile] dan [TalkTopIChICheavyFile]</li>
+    <li>TalkTopiclight (p = 25)-> [TalkTopiclightFile]</li>
+    <li>TalkTopiclight-> [Sayuran] s</li>
+    <li>TalkTopiclight-> Makan [Sayuran] s</li>
+    <li>TalkTopiclight-> Memasak dengan [sayuran] s</li>
+    <li>TalkTopiclight-> [Game]</li>
+    <li>TalkTopiclight-> Playing [Game]</li>
+    <li>TalkTopiclight-> Praktik [Game]</li>
+    <li>TalkTopiclight-> Learning [Game]</li>
+    <li>Bicara Topik Cahaya-> [Hewan</li>
+    <li>TalkTopiclight-> Pelatihan [Hewan</li>
+    <li>TalkTopiclight-> Taming [Hewan</li>
+    <li>TalkTopiclight-> Fighting [Hewan</li>
+    <li>Talktopiclight-> Crazy [hewan</li>
+    <li>TalkTopiclight-> [senjata] s</li>
+    <li>TalkTopiclight-> Menggunakan [senjata] s</li>
+    <li>TalkTopiclight-> berlatih dengan [senjata] s</li>
+    <li>TalkTopiclight-> [Terrainfeature] s</li>
+    <li>TalkTopiclight-> [NaturalObject] s</li>
+    <li>TalkTopiclight-> [Treetype] Pohon</li>
+    <li>TalkTopiclight-> [Personjob] s</li>
+    <li>TalkTopiclight-> Friendly [Personjob] s</li>
+    <li>TalkTopiclight-> HUMPILE [Personjob] s</li>
+    <li>TalkTopiclight-> [musuh] s</li>
+    <li>TalkTopiclight-> Fighting [musuh] s</li>
+    <li>TalkTopiclight-> [Pakaian] s</li>
+    <li>TalkTopiclight-> memakai [pakaian] s</li>
+    <li>TalkTopiclight-> membuat [pakaian] s</li>
+    <li>TalkTopIChICheVyFile (p = 0,15)-> seks</li>
+    <li>TalkTopIChICheVyFile (p = 0,15)-> rayuan</li>
+    <li>TalkTopIChICheVyFile (p = 0,15)-> Seksualitas hewan</li>
+    <li>TalkTopIChICheVyFile (p = 0,15)-> Fetish seksual</li>-><TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicany-> [TalkTopiclight]</li>
+    <li>TalkTopicany-> [TalkTopIChICheavy]</li>
+    <li>TalkTopIChICheavy-> [TalkTopIChICheavyfile]</li>
+    <li>TalkoPicheavy (P = 0,08)-> Tautan antara [TalkPopIChICheVyFile] dan [TalkPopIChICheavyFile]]</li>
+    <li>TalkOpicheavy (P = 0,08)-> Koneksi antara [TalkPopIChICheVyFile] dan [TalkPopIChICheavyFile]</li>
+    <li>TalkoPicheavy (P = 0,08)-> Hubungan antara [TalkPopIChICheVyFile] dan [TalkPopIChICheavyFile]]</li>
+    <li>TalkTopiclight (p = 25)-> [TalkTopiclightFile]</li>
+    <li>TalkTopiclight-> [VegetableAny] s</li>
+    <li>TalkTopiclight-> Comer [VegetableAny] s</li>
+    <li>TalkTopiclight-> Cocinar [Vegetableud] s</li>
+    <li>TalkTopiclight-> [GameANY]</li>
+    <li>TalkTopiclight-> Jugar [GameANY]</li>
+    <li>TalkTopiclight-> Practicar [GameANY]</li>
+    <li>TalkTopiclight-> APRENDER [GAMEANY]</li>
+    <li>TalkTopiclight-> [animalAnypl]</li>
+    <li>TalkTopiclight-> Entrenar [AnimalAnypl]</li>
+    <li>TalkTopiclight-> DOMA de [AnimalAnypl]</li>
+    <li>Talkopopcht-> Fight [Animaypl]</li>
+    <li>TalkTopiclight-> [animal_plural] locos</li>
+    <li>TalkTopiclight-> [animal_femplural] locas</li>
+    <li>TalkTopiclight-> [WeaponAnypl]</li>
+    <li>TalkTopiclight-> USAR [WeaponAnypl]</li>
+    <li>TalkTopiclight-> Practicar Con [WeaponAnypl]</li>
+    <li>TalkTopiclight-> [TerrainfeatureAny] s</li>
+    <li>TalkTopiclight-> [NaturalObject] s</li>
+    <li>TalkTopiclight-> [TreetypeAny] s</li>
+    <li>TalkTopiclight-> [Personjobany] s</li>
+    <li>TalkTopiclight-> [Personjobany] Amigables</li>
+    <li>TalkTopiclight-> [Personjobany] Stiles</li>
+    <li>TalkTopiclight-> [musuh] s</li>
+    <li>TalkTopiclight-> Pelear Con [musuh] s</li>
+    <li>TalkTopiclight-> [Pakaian] s</li>
+    <li>TalkTopiclight-> Vestir [Pakaian] s</li>
+    <li>TalkTopiclight-> Hacer [Pakaian] s</li>
+    <li>TalkoPicheAvyFile (p = 0,15)-> seks</li>
+    <li>TalkOpIChICHeVyFile (p = 0,15)-> rayuan</li>
+    <li>TalkoPicheAvyFile (P = 0,15)-> Seksualitas Hewan</li>
+    <li>TalkOpIChICHeVyFile (P = 0,15)-> Fetish Sex</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dormant self-charging -->
+  <SelfShutdown.label>Penulis laten</SelfShutdown.label>
+  <!-- EN: This mech doesn't have enough energy to remain active. It has gone dormant to recharge itself. Self-recharging is much slower than recharging at a charging station. -->
+  <SelfShutdown.description>Mekah ini tidak memiliki energi yang cukup untuk tetap aktif.Dia tetap tidak aktif untuk mengisi ulang dirinya sendiri.Self -recharge jauh lebih lambat daripada mengisi ulang di stasiun kargo.</SelfShutdown.description>
+  
+</LanguageData>

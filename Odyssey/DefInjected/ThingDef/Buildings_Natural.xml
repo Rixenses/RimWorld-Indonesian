@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient light -->
+  <AncientEmergencyLight_Blue.label>Cahaya kuno</AncientEmergencyLight_Blue.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Blue.description>Lampu tua yang berisi baterai yang lama.</AncientEmergencyLight_Blue.description>
+  
+  <!-- EN: mechanoid light -->
+  <AncientEmergencyLight_Green.label>Cahaya mechanoide</AncientEmergencyLight_Green.label>
+  <!-- EN: A light used in mechanoid facilities. The green hue is optimal for mechanoid optical arrays. -->
+  <AncientEmergencyLight_Green.description>Lampu yang digunakan di fasilitas mekanoid.Nada hijau optimal untuk pengaturan optik mecanoids.</AncientEmergencyLight_Green.description>
+  
+  <!-- EN: ancient emergency light -->
+  <AncientEmergencyLight_Red.label>lampu darurat tua</AncientEmergencyLight_Red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <AncientEmergencyLight_Red.description>Lampu tua yang berisi baterai yang lama.</AncientEmergencyLight_Red.description>
+  
+  <!-- EN: ancient heat vent -->
+  <AncientHeatVent.label>ventilasi panas lama</AncientHeatVent.label>
+  <!-- EN: A massive duct that drops endlessly into the ground. It will regularly vent heat from an underground megastructure, dramatically raising the temperature of the surrounding area. -->
+  <AncientHeatVent.description>Saluran besar yang berakhir tanpa henti di tanah.Ini akan secara teratur ventilasi panas dari struktur besar bawah tanah, secara drastis menaikkan suhu area sekitarnya.</AncientHeatVent.description>
+  
+  <!-- EN: ancient smoke vent -->
+  <AncientSmokeVent.label>Asap kuno menakjubkan</AncientSmokeVent.label>
+  <!-- EN: The exhaust vent of some long forgotten underground megastructure. It periodically vents a large amount of smoke, blocking the sun for days at a time. -->
+  <AncientSmokeVent.description>Saluran pelarian dari beberapa mega bawah tanah yang terlupakan telah lama.Ventilasi secara berkala banyak asap, menghalangi matahari selama berhari -hari berturut -turut.</AncientSmokeVent.description>
+  
+  <!-- EN: ancient toxic vent -->
+  <AncientToxVent.label>Ventilasi beracun kuno</AncientToxVent.label>
+  <!-- EN: A massive duct that vents toxic fumes from an underground megastructure. It will regularly cause toxic fallout in the area. -->
+  <AncientToxVent.description>Saluran besar yang ventilasi gas beracun dari mega bawah tanah.Ini secara teratur akan menyebabkan hujan radioaktif beracun di daerah tersebut.</AncientToxVent.description>
+  
+  <!-- EN: burrow wall -->
+  <BurrowWall.label>Dinding Burrow</BurrowWall.label>
+  <!-- EN: A compact mix of dirt, rock, and insect secretion. -->
+  <BurrowWall.description>Campuran lahan, batu, dan sekresi insektoid yang ringkas.</BurrowWall.description>
+  
+  <!-- EN: sulfur spout -->
+  <GeothermalVent.label>Ventilasi belerang</GeothermalVent.label>
+  <!-- EN: A naturally-occurring break in the ground from which volcanic gases escape. These vents bring nutrients to the surface from deep underground. Collectively, the fumes they spew are enough to block out the sun. -->
+  <GeothermalVent.description>Perpisahan alami di tanah tempat gas vulkanik keluar.Ventilasi ini membawa nutrisi ke permukaan dari kedalaman bawah tanah.Secara kolektif, gas -gas yang mereka miliki sudah cukup untuk menghalangi matahari.</GeothermalVent.description>
+  
+  <!-- EN: cave entrance -->
+  <InsectLairEntrance.label>pembukaan gua</InsectLairEntrance.label>
+  <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
+  <InsectLairEntrance.description>Pintu masuk ke jaringan gua.Dimungkinkan untuk turun ke gua.</InsectLairEntrance.description>
+  
+  <!-- EN: life support unit -->
+  <LifeSupportUnit.label>Unit Dukungan Hidup</LifeSupportUnit.label>
+  <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->
+  <LifeSupportUnit.description>Unit yang terhubung ke jaringan dukungan kehidupan besar dari platform orbital.Simpan kamar yang dipanaskan dan bertekanan.</LifeSupportUnit.description>
+  
+  <!-- EN: obsidian -->
+  <MineableObsidian.label>obsidian</MineableObsidian.label>
+  <!-- EN: Volcanic rock formed by rapidly cooling lava. It can be mined for obsidian glass. -->
+  <MineableObsidian.description>Batuan vulkanik yang dibentuk oleh lava yang mendingin dengan cepat.Dapat diekstraksi untuk mendapatkan kaca obsidian.</MineableObsidian.description>
+  
+</LanguageData>

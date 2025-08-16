@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ritualname (p = 2)-> [memeadjective] [pemakaman]</li>
+    <li>r_ritualname-> [pemakaman] [chosentheme]</li>
+    <li>R_RUTUALNAME-> [PILIHAN TUJUAN] [Pemakaman]</li>
+    <li>r_ritualname-> [KeyDeity] [Pemakaman]</li>
+    <li>r_ritualname-> [pemakaman] [KeyDeity]</li>
+    <li>r_ritualname-> [pemakaman] [Memeconscept]</li>
+    <li>r_ritualname-> [pemakaman] dari [chosenideoname]</li>
+    <li>r_ritualname (p = 0,01)-> pemakaman</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>Funeral-> Mourning</li>
+    <li>funeral-> pidato</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>Pemakaman-> Interment</li>
+    <li>funeral-> requiem</li>-><NamerRitualFuneral.rulePack.rulesStrings>
+    <li>r_ritualname (p = 2)-> [pemakaman] [memeadjective]</li>
+    <li>r_ritualname-> [pemakaman] de [chosentheme]</li>
+    <li>r_ritualname-> [pemakaman] [ChosenAdjective]</li>
+    <li>r_ritualname-> [pemakaman] de [keydeity]</li>
+    <li>r_ritualname-> [pemakaman] de [memeconceptdef]</li>
+    <li>r_ritualname-> [pemakaman] de [chosenideoname]</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>Pemakaman-> Dimasak</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>funeral-> requiem</li>
+    <li>Pemakaman-> Pemakaman</li>
+    <li>Pemakaman-> Sepulcro</li>
+    <li>Pemakaman-> Panegyric</li>
+  </NamerRitualFuneral.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fertile -->
+  <Fertile.label>subur</Fertile.label>
+  <!-- EN: Carriers of this gene have a higher chance of becoming pregnant or impregnating others. -->
+  <Fertile.description>Pembawa gen ini lebih cenderung hamil atau hamil orang lain.</Fertile.description>
+  
+  <!-- EN: strong immunity -->
+  <Immunity_Strong.label>Kekebalan tinggi</Immunity_Strong.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases faster than normal. -->
+  <Immunity_Strong.description>Pembawa gen ini memperoleh kekebalan dari penyakit lebih cepat dari biasanya.</Immunity_Strong.description>
+  <!-- EN: immune -->
+  <Immunity_Strong.labelShortAdj>imun</Immunity_Strong.labelShortAdj>
+  <!-- EN: stout -->
+  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>resisten</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: super immunity -->
+  <Immunity_SuperStrong.label>Superimunitas</Immunity_SuperStrong.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases considerably faster than normal. -->
+  <Immunity_SuperStrong.description>Pembawa gen ini memperoleh kekebalan dari penyakit jauh lebih cepat dari biasanya.</Immunity_SuperStrong.description>
+  <!-- EN: super-immune -->
+  <Immunity_SuperStrong.labelShortAdj>Peti hutan super</Immunity_SuperStrong.labelShortAdj>
+  <!-- EN: stout -->
+  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>resisten</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: weak immunity -->
+  <Immunity_Weak.label>Kekebalan rendah</Immunity_Weak.label>
+  <!-- EN: Carriers of this gene gain immunity to diseases more slowly than normal. They may die from infections that others would survive. -->
+  <Immunity_Weak.description>Pembawa gen ini memperoleh kekebalan dari penyakit lebih lambat dari biasanya.Mereka bisa mati karena infeksi bahwa orang lain akan bertahan hidup.</Immunity_Weak.description>
+  <!-- EN: susceptible -->
+  <Immunity_Weak.labelShortAdj>rentan</Immunity_Weak.labelShortAdj>
+  <!-- EN: sick -->
+  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>sakit</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: frail -->
+  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>rentan</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: sterile -->
+  <Sterile.label>steril</Sterile.label>
+  <!-- EN: Carriers of this gene cannot reproduce by natural means. -->
+  <Sterile.description>Pembawa gen ini tidak dapat bereproduksi dengan cara alami.</Sterile.description>
+  
+  <!-- EN: superclotting -->
+  <Superclotting.label>Superkoagulasi</Superclotting.label>
+  <!-- EN: Carriers of this gene have extra-power coagulating factors in their blood, and will stop bleeding very quickly when wounded. -->
+  <Superclotting.description>Pembawa gen ini memiliki faktor koagulasi ekstra dalam darah mereka, dan perdarahan akan berhenti dengan sangat cepat ketika mereka terluka.</Superclotting.description>
+  <!-- EN: Bleeding wounds close very quickly. -->
+  <Superclotting.customEffectDescriptions.0>Luka pendarahan sangat dekat.</Superclotting.customEffectDescriptions.0>
+  <!-- EN: clot -->
+  <Superclotting.symbolPack.prefixSymbols.0.symbol>menggumpal</Superclotting.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: scab -->
+  <Superclotting.symbolPack.prefixSymbols.1.symbol>kerak</Superclotting.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: clot -->
+  <Superclotting.symbolPack.suffixSymbols.0.symbol>menggumpal</Superclotting.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: scab -->
+  <Superclotting.symbolPack.suffixSymbols.1.symbol>kerak</Superclotting.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: partial antitoxic lungs -->
+  <ToxicEnvironmentResistance_Partial.label>Paru -paru anti -racun parsial</ToxicEnvironmentResistance_Partial.label>
+  <!-- EN: Carriers of this gene are resistant to environmental toxins. They get less toxic buildup from tox gas, polluted terrain, and toxic fallout, but are still vulnerable to direct attacks with venom or injected poison. Additionally, they build up rot stink exposure slower. -->
+  <ToxicEnvironmentResistance_Partial.description>Pembawa gen ini resisten terhadap racun lingkungan.Mereka menerima lebih sedikit akumulasi racun beracun, tanah yang terkontaminasi dan hujan beracun, tetapi tetap rentan terhadap serangan langsung dengan racun atau disuntikkan.Selain itu, mereka menumpuk lebih lambat paparan bau busuk.</ToxicEnvironmentResistance_Partial.description>
+  <!-- EN: tox-resistant -->
+  <ToxicEnvironmentResistance_Partial.labelShortAdj>tahan toksi</ToxicEnvironmentResistance_Partial.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>TOX</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: total antitoxic lungs -->
+  <ToxicEnvironmentResistance_Total.label>Paru -paru anti -racun</ToxicEnvironmentResistance_Total.label>
+  <!-- EN: Carriers of this gene are immune to environmental toxins, but not from direct toxic attacks. They get no toxic buildup from tox gas, polluted terrain, or toxic fallout, and they are not bothered by acidic smog. They are still vulnerable to direct attacks like venom and injected poison. Additionally, they are immune to rot stink exposure. -->
+  <ToxicEnvironmentResistance_Total.description>Operator gen ini kebal terhadap racun lingkungan, tetapi bukan serangan racun langsung.Mereka tidak menerima akumulasi racun gas beracun, medan yang terkontaminasi atau hujan beracun, dan kabut asam mengganggu mereka.Mereka masih rentan terhadap langsung atau disuntikkan langsung atau disuntikkan.Selain itu, mereka kebal terhadap paparan bau busuk.</ToxicEnvironmentResistance_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>Kekebalan terhadap gas beracun</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+  <!-- EN: tox-immune -->
+  <ToxicEnvironmentResistance_Total.labelShortAdj>Toxi-InMune</ToxicEnvironmentResistance_Total.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>TOX</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: fast wound healing -->
+  <WoundHealing_Fast.label>penyembuhan yang dipercepat</WoundHealing_Fast.label>
+  <!-- EN: Carriers of this gene heal from wounds twice as fast as normal. -->
+  <WoundHealing_Fast.description>Pembawa gen ini disembuhkan dari luka dua kali lebih cepat dari biasanya.</WoundHealing_Fast.description>
+  <!-- EN: fast-heal -->
+  <WoundHealing_Fast.labelShortAdj>Penyembuhan cepat</WoundHealing_Fast.labelShortAdj>
+  <!-- EN: stout -->
+  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>resisten</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hard -->
+  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>berdiri</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: slow wound healing -->
+  <WoundHealing_Slow.label>Penyembuhan lambat</WoundHealing_Slow.label>
+  <!-- EN: Carriers of this gene heal from wounds half as fast as normal. -->
+  <WoundHealing_Slow.description>Pembawa gen ini disembuhkan dari luka, setengah secepat biasanya.</WoundHealing_Slow.description>
+  <!-- EN: slow-heal -->
+  <WoundHealing_Slow.labelShortAdj>Penyembuhan lambat</WoundHealing_Slow.labelShortAdj>
+  <!-- EN: soft -->
+  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>lembut</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: superfast wound healing -->
+  <WoundHealing_SuperFast.label>Ultra -Rare</WoundHealing_SuperFast.label>
+  <!-- EN: Carriers of this gene heal from wounds four times as fast as normal. -->
+  <WoundHealing_SuperFast.description>Pembawa gen ini disembuhkan dari luka empat kali lebih cepat dari biasanya.</WoundHealing_SuperFast.description>
+  <!-- EN: super-heal -->
+  <WoundHealing_SuperFast.labelShortAdj>Superkurasi</WoundHealing_SuperFast.labelShortAdj>
+  <!-- EN: stout -->
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>resisten</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hard -->
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>berdiri</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>

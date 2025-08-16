@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mencegat sinyal kesusahan dari kamp terdekat [faction_name]. \ N \ n suara panik memohon bantuan segera untuk membela ancaman, dan menawarkan segala sesuatu di kamp mereka, termasuk pembicara yang baru-baru ini ditemukan untuk menjelaskan kepada para pembicara yang dicoba untuk dijelaskan oleh para pembicara, pembicaraan yang bersedia.</li>-><OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mencegat sinyal bantuan dari kamp dekat dari faksi [faction_name]. Sifat ancaman, sinyal dipotong.</li>
+  </OpportunitySite_DistressCall.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Sinyal Distress</li>-><OpportunitySite_DistressCall.questNameRules.rulesStrings>
+    <li>QuestName-> Socorro Signal</li>
+  </OpportunitySite_DistressCall.questNameRules.rulesStrings>
+  
+</LanguageData>

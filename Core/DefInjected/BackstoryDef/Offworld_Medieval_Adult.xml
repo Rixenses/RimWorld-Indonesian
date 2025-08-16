@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>Sebagai {Pawn_gender? Atau: A} Di dunia abad pertengahan, [Pawn_namedef] mendapat reputasi untuk pekerjaannya.</Blacksmith72.description>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>Bitchsmade</Blacksmith72.title>
+  <Blacksmith72.titleFemale>Herrera</Blacksmith72.titleFemale>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>Bitchsmade</Blacksmith72.titleShort>
+  <Blacksmith72.titleShortFemale>Herrera</Blacksmith72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>[PAWN_NamaDef] tinggal di hutan dekat sebuah desa. Meskipun banyak penduduk desa yang takut kepadanya, orang-orang sakit datang ke [PAWN_NamaDef] untuk membeli balsem dan ramuan yang terbuat dari tumbuhan yang ia tanam di kebunnya. Dia dengan senang hati membantu mereka... dengan sedikit bayaran.</Herbalist54.description>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>dukun</Herbalist54.title>
+  <Herbalist54.titleFemale>dukun</Herbalist54.titleFemale>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>dukun</Herbalist54.titleShort>
+  <Herbalist54.titleShortFemale>dukun</Herbalist54.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>[PAWN_namaDef] bekerja sebagai dokter {PAWN_jenis kelamin ? a} di sebuah planet abad pertengahan. Dia sangat yakin bahwa sebagian besar penyakit dapat disembuhkan dengan pertumpahan darah yang baik. Dia juga seorang {PAWN_jenis kelamin ? ahli anestesi : ahli anestesi} dan mengembangkan teknik khusus yang melibatkan pukulan benda tajam ke kepala.</MedievalDoctor40.description>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>dokter abad pertengahan</MedievalDoctor40.title>
+  <MedievalDoctor40.titleFemale>dokter abad pertengahan</MedievalDoctor40.titleFemale>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>penyembuh</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>penyembuh</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>Membajak, mencangkul, menuntun gerobak, mendorong gerobak dorong. Menggali parit, menanam benih, memprediksi panen. Petani abad pertengahan tidak memiliki pendidikan formal, tetapi mereka tahu banyak tentang menanam tanaman tanpa teknologi. Meski begitu, kehidupan seperti itu dapat membuat seseorang tidak dapat terlibat dalam kegiatan berbasis teknologi.</MedievalFarmOaf58.description>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>Anak laki -laki feodal</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>Anak laki -laki feodal</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>pelayan</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>pelayan</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>[PAWN_NamaDef] adalah seorang bangsawan di planet pra-industri. Dia pergi ke pesta, memimpin bawahannya, dan bahkan belajar anggar. Tangannya yang lembut tidak pernah sekalipun memegang alat selama itu. Sekarang, dia menganggap pekerjaan manual berada di bawah [PAWN_kata ganti].</MedievalLord57.description>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>penguasa abad pertengahan</MedievalLord57.title>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>terhormat</MedievalLord57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>[PAWN_namaDef] adalah {PAWN_jenis_kelamin ? seniman : seniman keliling} di dunia abad pertengahan, dan dia selalu dapat ditemukan sedang mendongeng atau menyanyikan lagu. Namun, dia selalu berusaha ketika ada pekerjaan berat yang harus dilakukan.</MedievalMinstrel95.description>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>Troebadour abad pertengahan</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleFemale>Troebadour abad pertengahan</MedievalMinstrel95.titleFemale>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>penyanyi</MedievalMinstrel95.titleShort>
+  <MedievalMinstrel95.titleShortFemale>penyanyi</MedievalMinstrel95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>[menjelajahi lautan dengan kapal kayu, mencari spesimen tanaman dan hewan dari tempat-tempat eksotis dan, kadang-kadang, menangkis bajak laut. Dia sangat mencintai laut sehingga dia menolak untuk melakukan pekerjaan apa pun kecuali pekerjaan yang paling kasar di darat, kecuali menjual harta karun yang dia kumpulkan.</MedievalSailor97.description>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>Pelaut Abad Pertengahan</MedievalSailor97.title>
+  <MedievalSailor97.titleFemale>Perjalanan Abad Pertengahan</MedievalSailor97.titleFemale>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>pelaut</MedievalSailor97.titleShort>
+  <MedievalSailor97.titleShortFemale>pelayaran</MedievalSailor97.titleShortFemale>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.description>Di dunia abad pertengahan, cara tercepat untuk mengirim pesan adalah memberikannya kepada seseorang yang mengendarai kuda dan berdoa agar mereka aman. [Pawn_namedef] adalah seseorang.</MessageCarrier77.description>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>kurir</MessageCarrier77.title>
+  <MessageCarrier77.titleFemale>kurir</MessageCarrier77.titleFemale>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>kurir</MessageCarrier77.titleShort>
+  <MessageCarrier77.titleShortFemale>kurir</MessageCarrier77.titleShortFemale>
+  
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>Sebagai {Pawn_gender?Jalur resmi: Parkir} Untuk raja abad pertengahan, [Pawn_namedef] memiliki tanggung jawab untuk mencicipi makanan apa pun yang disajikan di meja kerajaan.Di istana, itu menjalani gaya hidup dekaden, menambah berat badan dan bekerja sangat sedikit.</Taster16.description>
+  <!-- EN: taster -->
+  <Taster16.title>Tambalan</Taster16.title>
+  <Taster16.titleFemale>Tambalan</Taster16.titleFemale>
+  <!-- EN: taster -->
+  <Taster16.titleShort>Tambalan</Taster16.titleShort>
+  <Taster16.titleShortFemale>Tambalan</Taster16.titleShortFemale>
+  
+</LanguageData>

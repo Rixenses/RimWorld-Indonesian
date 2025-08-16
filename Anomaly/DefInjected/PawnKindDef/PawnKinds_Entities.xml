@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chimera -->
+  <Chimera.label>Chimera</Chimera.label>
+  
+  <!-- EN: devourer -->
+  <Devourer.label>melahap</Devourer.label>
+  
+  <!-- EN: fleshmass nucleus -->
+  <FleshmassNucleus.label>Nukleus Carnimasa</FleshmassNucleus.label>
+  
+  <!-- EN: gorehulk -->
+  <Gorehulk.label>Goretesco</Gorehulk.label>
+  
+  <!-- EN: metalhorror -->
+  <Metalhorror.label>Metalhorror</Metalhorror.label>
+  
+  <!-- EN: nociosphere -->
+  <Nociosphere.label>Nonguather</Nociosphere.label>
+  
+  <!-- EN: noctol -->
+  <Noctol.label>Noctol</Noctol.label>
+  
+  <!-- EN: revenant -->
+  <Revenant.label>dihidupkan kembali</Revenant.label>
+  
+  <!-- EN: sightstealer -->
+  <Sightstealer.label>menyilaukan</Sightstealer.label>
+  
+</LanguageData>

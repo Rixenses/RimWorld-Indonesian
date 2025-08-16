@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Not a mechanitor -->
+  <NotAMechanitor>Itu bukan mekanitor</NotAMechanitor>
+  <!-- EN: Not enough bandwidth -->
+  <NotEnoughBandwidth>Tidak ada broadband yang cukup</NotEnoughBandwidth>
+  <!-- EN: Take control of {0} -->
+  <ControlMech>Kendalikan {0}</ControlMech>
+  <!-- EN: Cannot control {0} -->
+  <CannotControlMech>Tidak dapat mengontrol {0}</CannotControlMech>
+  <!-- EN: Already controlled by {0} -->
+  <CannotControlMechAlreadyControlled>Itu sudah dikendalikan oleh {0}</CannotControlMechAlreadyControlled>
+  <!-- EN: Not enough bandwidth -->
+  <CannotControlMechNotEnoughBandwidth>Tidak ada broadband yang cukup</CannotControlMechNotEnoughBandwidth>
+  <!-- EN: Never controllable -->
+  <CannotControlMechNeverControllable>Anda tidak pernah bisa mengendalikan</CannotControlMechNeverControllable>
+  <!-- EN: Cannot disconnect from {0} -->
+  <CannotDisconnectMech>Itu tidak dapat diputus dari {0}</CannotDisconnectMech>
+  <!-- EN: Disconnect from {0} -->
+  <DisconnectMech>Putuskan sambungan dari {0}</DisconnectMech>
+  <!-- EN: Permanently disassemble {0} -->
+  <DisassembleMech>Pembongkaran Permanen {0}</DisassembleMech>
+  <!-- EN: Cannot permanently disassemble {0} -->
+  <CannotDisassembleMech>Anda tidak dapat membongkar secara permanen {0}</CannotDisassembleMech>
+  <!-- EN: Must be overseer -->
+  <MustBeOverseer>Pasti supervisor Anda</MustBeOverseer>
+  <!-- EN: Extract -->
+  <Extract>Ekstrak</Extract>
+  <!-- EN: Out of command range -->
+  <OutOfCommandRange>Keluar dari perintah</OutOfCommandRange>
+  <!-- EN: Cannot go here -->
+  <CannotGoOutOfRange>Anda tidak bisa pergi ke sini</CannotGoOutOfRange>
+  <!-- EN: Must be emptied -->
+  <WasteContainerFull>Itu pasti kosong</WasteContainerFull>
+  <!-- EN: Cannot repair mech {0} -->
+  <CannotRepairMech>Anda tidak dapat memperbaiki Mekah {0}</CannotRepairMech>
+
+  <!-- EN: Extract xenogerm from {PAWN_nameDef} -->
+  <ExtractXenogermFrom>Ekstrak xenogermen dari {pawn_namedef}</ExtractXenogermFrom>
+  <!-- EN: Enter {0_labelShort} -->
+  <EnterBuilding>Masukkan {0_labelshort}</EnterBuilding>
+  <!-- EN: {PAWN_nameDef} has no genes -->
+  <PawnHasNoGenes>{Pawn_namedef} tidak memiliki gen</PawnHasNoGenes>
+  <!-- EN: {PAWN_nameDef} has no extractable genes. -->
+  <PawnHasNoNonArchiteGenes>{Pawn_namedef} tidak memiliki gen yang dapat dilepas.</PawnHasNoNonArchiteGenes>
+  <!-- EN: In xenogermination coma -->
+  <InXenogerminationComa>Dalam koma xenogenik</InXenogerminationComa>
+  <!-- EN: Occupied -->
+  <Occupied>Sibuk</Occupied>
+  <!-- EN: {PAWN_nameDef} was ejected from a growth vat -->
+  <OccupantEjectedFromGrowthVat>{Pawn_namedef} Apakah itu diekspel {Pawn_gender?O: A} dari inkubator</OccupantEjectedFromGrowthVat>
+  <!-- EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
+  <TooOld>{Pawn_namedef} harus memiliki kurang dari {Ageeyears} tahun.</TooOld>
+  <!-- EN: {PAWN_nameDef} is too old. -->
+  <PawnIsTooOld>{Pawn_namedef} terlalu tua.</PawnIsTooOld>
+  <!-- EN: {PAWN_nameDef} is suffering from biostarvation. -->
+  <PawnBiostarving>{Pawn_namedef} menderita bioinanance.</PawnBiostarving>
+  <!-- EN: No available people -->
+  <NoViablePawns>Tidak ada orang yang tersedia</NoViablePawns>
+  <!-- EN: No extractable people -->
+  <NoExtractablePawns>Tidak ada orang yang bisa dilepas</NoExtractablePawns>
+  <!-- EN: No implantable people -->
+  <NoImplantablePawns>Tidak ada orang yang ditanam</NoImplantablePawns>
+  <!-- EN: Cannot enter {0_labelShort} -->
+  <CannotEnterBuilding>Anda tidak dapat memasukkan {0_labelshort}</CannotEnterBuilding>
+  <!-- EN: {0_labelShort} is assigned to another person. -->
+  <AssignedToOtherPawn>{0_labelshort} ditugaskan untuk orang lain.</AssignedToOtherPawn>
+
+  <!-- EN: Absorb xenogerm of {PAWN_nameDef} -->
+  <AbsorbXenogerm>Menyerap xenogermen {pawn_namedef}</AbsorbXenogerm>
+  <!-- EN: Cannot absorb {PAWN_nameDef}'s xenogerm -->
+  <CannotAbsorbXenogerm>Xenogermen {Pawn_namedef} tidak dapat diserap</CannotAbsorbXenogerm>
+  <!-- EN: {PAWN_nameDef} is already {PAWN_xenotype} -->
+  <SameXenotype>{Pawn_namedef} ya es un {pawn_xenotype}</SameXenotype>
+  <!-- EN: {PAWN_nameDef} suffering from xenogerm loss shock -->
+  <XenogermLossShockPresent>{Pawn_namedef} menderita kejutan karena hilangnya xenogermen</XenogermLossShockPresent>
+  <!-- EN: Carry to {0_labelShort} -->
+  <CarryToSpecificThing>Ambil {0_labelshort}</CarryToSpecificThing>
+  <!-- EN: No reachable, un-reserved bed or deathrest casket in safe temperature. -->
+  <NoCasketOrBed>No hay camas disponibles ni sarcófagos de mortisueño a una temperatura segura.</NoCasketOrBed>
+  <!-- EN: {PAWN_nameDef} is a temporary faction member. -->
+  <TemporaryFactionMember>{Pawn_namedef} adalah anggota sementara dari sebuah faksi.</TemporaryFactionMember>
+
+  <!-- EN: Scanner not initiated -->
+  <SubcoreScannerNotInit>Tidak diprakarsai pemindai</SubcoreScannerNotInit>
+  <!-- EN: Waiting for ingredients -->
+  <SubcoreScannerRequiresIngredients>Menunggu sumber daya</SubcoreScannerRequiresIngredients>
+  <!-- EN: Occupied -->
+  <SubcoreScannerOccupied>Sibuk</SubcoreScannerOccupied>
+  <!-- EN: Enter {0} -->
+  <EnterSubcoreScanner>Masukkan {0}</EnterSubcoreScanner>
+
+  <!-- EN: Breastfeed {BABY_labelShort} -->
+  <BabyCareBreastfeed>Amamantar a {baby_labelshort}</BabyCareBreastfeed>
+  <!-- EN: Cannot breastfeed {BABY_labelShort} -->
+  <BabyCareBreastfeedUnable>Anda tidak dapat menyusui {baby_labelshort}</BabyCareBreastfeedUnable>
+  <!-- EN: Already breastfeeding {BABY_labelShort} -->
+  <AlreadyBreastfeeding>Dia sudah menyusui {baby_labelshort}</AlreadyBreastfeeding>
+  <!-- EN: No baby-edible food -->
+  <NoBabyFood>Tidak ada makanan bayi</NoBabyFood>
+
+  <!-- EN: play need full -->
+  <CannotInteractBabyPlayFull>Kebutuhan game yang puas</CannotInteractBabyPlayFull>
+
+  <!-- EN: Feed on {PAWN_nameDef} -->
+  <BloodfeedOn>Feed on {pawn_namedef}</BloodfeedOn>
+  <!-- EN: Cannot feed on {PAWN_nameDef} -->
+  <CannotBloodfeedOn>Itu tidak bisa memakan {pawn_namedef}</CannotBloodfeedOn>
+  <!-- EN: Not enough blood. -->
+  <CannotFeedOnWouldKill>Tidak ada cukup darah.</CannotFeedOnWouldKill>
+
+  <!-- BreastfeedFailReason strings-->
+  <!-- EN: {MOM_labelShort} does not have enough milk -->
+  <BreastfeedFailReason_MomNotEnoughMilk>{Mom_labelshort} tidak memiliki cukup susu</BreastfeedFailReason_MomNotEnoughMilk>
+  <!-- EN: {MOM_labelShort} cannot breastfeed right now -->
+  <BreastfeedFailReason_MomInMentalState>{Mom_labelshort} tidak dapat menyusui saat ini</BreastfeedFailReason_MomInMentalState>
+  <!-- EN: {BABY_labelShort} is too full to suckle -->
+  <BreastfeedFailReason_BabyTooFull>{Baby_labelshort} terlalu banyak {baby_gender?Atau: A} isi {baby_gender?O: a} untuk memberi makan</BreastfeedFailReason_BabyTooFull>
+  <!-- EN: {BABY_labelShort} is forbidden to {MOM_labelShort} -->
+  <BreastfeedFailReason_BabyForbiddenToMom>{Baby_labelshort} no es he {baby_gender?O: a} {mom_labelshort}</BreastfeedFailReason_BabyForbiddenToMom>
+  <!-- EN: {BABY_labelShort} is forbidden to {HAULER_labelShort} -->
+  <BreastfeedFailReason_BabyForbiddenToHauler>{Baby_labelshort} no es he {baby_gender?O: a} {hauler_labelshort}</BreastfeedFailReason_BabyForbiddenToHauler>
+  <!-- EN: {MOM_labelShort} is forbidden to {HAULER_labelShort} -->
+  <BreastfeedFailReason_MomForbiddenToHauler>{Mom_labelshort} no es he {baby_gender?O: a} {hauler_labelshort}</BreastfeedFailReason_MomForbiddenToHauler>
+  <!-- EN: {MOM_labelShort} can breastfeed {BABY_labelShort} without help -->
+  <BreastfeedFailReason_MomIsMobile>{Mom_labelshort} dapat menyusui {baby_lallshort} tanpa bantuan</BreastfeedFailReason_MomIsMobile>
+  <!-- EN: {HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort} -->
+  <BreastfeedFailReason_HaulerCannotReachMom>{Hauler_lallshort} tidak dapat menyebabkan {baby_labelshort} hingga {mom_labelshort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <!-- EN: {HAULER_labelShort} cannot reach {BABY_labelShort} -->
+  <BreastfeedFailReason_HaulerCannotReachBaby>{Hauler_lallshort} tidak dapat mencapai {baby_labelshort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <!-- EN: No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort} -->
+  <BreastfeedFailReason_NoMomsAssignedToBaby>Tidak ada {baby_factionpawnsplural} bayi yang ditugaskan untuk {baby_lallshort}</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <!-- EN: {MOM_labelShort} is not assigned to childcare -->
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{Mom_labelshort} tidak ditugaskan untuk perawatan anak</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <!-- EN: {MOM_labelShort} is inside a container -->
+  <BreastfeedFailReason_MomInsideContainer>{Mom_labelshort} ada dalam wadah</BreastfeedFailReason_MomInsideContainer>
+  <!-- EN: {MOM_labelShort} is being carried -->
+  <BreastfeedFailReason_MomBeingCarried>{Mom_labelshort} sedang dibawa</BreastfeedFailReason_MomBeingCarried>
+
+  <!-- EN: Order implantation into {PAWN_nameDef} -->
+  <OrderImplantationIntoPawn>Pesan implementasinya di {pawn_namedef}</OrderImplantationIntoPawn>
+  <!-- EN: Accept {0_xenotype} xenogerm -->
+  <AcceptXenogerm>Terima xenogermen {0_xenotype}</AcceptXenogerm>
+
+  <!-- EN: Carry {PAWN_labelShort} to recharger -->
+  <CarryToRechargerOrdered>Take {Pawn_Lallshort} ke pengisi daya</CarryToRechargerOrdered>
+  <!-- EN: Cannot carry {PAWN_labelShort} to recharger -->
+  <CannotCarryToRecharger>Anda tidak dapat mengambil {pawn_labelshort} ke pengisi daya</CannotCarryToRecharger>
+  <!-- EN: No available recharger -->
+  <CannotCarryToRechargerNoneAvailable>Tidak ada loader yang tersedia</CannotCarryToRechargerNoneAvailable>
+
+  <!-- EN: Hemogen packs disabled by food restriction. -->
+  <NotAllowedHemogen>Paket hemogen telah dinonaktifkan oleh pembatasan makanan.</NotAllowedHemogen>
+
+  <!-- EN: Eject genepack from gene bank -->
+  <EjectGenepackFromGeneBank>Mengusir paket gen bank gen</EjectGenepackFromGeneBank>
+
+  <!-- EN: Resulting metabolism would be too low -->
+  <ResultingMetTooLow>Metabolisme yang dihasilkan akan terlalu rendah</ResultingMetTooLow>
+
+  <!-- EN: attempted romance too recently -->
+  <RomanceOnCooldown>Upaya Romantis yang Sangat Terbaru</RomanceOnCooldown>
+
+  <!-- EN: Take to safe location -->
+  <CarryToSafePlace>Mengambil tempat yang aman</CarryToSafePlace>
+  <!-- EN: Cannot take to safe location -->
+  <CannotCarryToSafePlace>Anda tidak dapat mengambil tempat yang aman</CannotCarryToSafePlace>
+  <!-- EN: No safer location than current location -->
+  <NoBetterSafePlace>Tidak ada tempat yang lebih pasti dari saat ini</NoBetterSafePlace>
+  <!-- EN: Already taking to safe location -->
+  <AlreadyCarryingToSafePlace>Sudah mengambil tempat yang aman</AlreadyCarryingToSafePlace>
+
+</LanguageData>

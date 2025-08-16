@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: haul -->
+  <Haul.label>mengangkut</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>Hewan mengangkut artikel acak dari waktu ke waktu (meskipun tidak dapat ditentukan apa).</Haul.description>
+  
+  <!-- EN: guard -->
+  <Obedience.label>ketaatan</Obedience.label>
+  <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
+  <Obedience.description>Hewan itu dapat ditugaskan sebagai master untuk diikuti dan dipertahankan.</Obedience.description>
+  
+  <!-- EN: attack -->
+  <Release.label>menyerang</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
+  <Release.description>Hewan itu dapat diperintahkan untuk menyerang tujuan yang jauh alih -alih hanya mempertahankan tuannya.</Release.description>
+  
+  <!-- EN: rescue -->
+  <Rescue.label>menyelamatkan</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Hewan itu akan menyelamatkan sekutu yang terluka dan menyimpannya.</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>jinak</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>Hewan itu dapat dianggap sebagai anggota koloni Anda.</Tameness.description>
+  
+</LanguageData>

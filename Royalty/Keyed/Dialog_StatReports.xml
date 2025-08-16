@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Minimum title ({FACTION_name}) -->
+  <Stat_Thing_MinimumRoyalTitle_Name>Judul minimum ({felion_name})</Stat_Thing_MinimumRoyalTitle_Name>
+  <!-- EN: {FACTION_name} has laws which limit the use of this implant to those with specific titles. Simply having the implant installed is undetectable, but if you use it, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
+  <Stat_Thing_MinimumRoyalTitle_Desc>{Felion_name} memiliki undang -undang yang membatasi penggunaan implan ini untuk pemegang judul tertentu.Memiliki implan tidak terdeteksi, tetapi jika Anda menggunakannya, ada kemungkinan emisi psikis.Akan ada konsekuensi diplomatik, dan pelanggaran berkelanjutan akan menyebabkan permusuhan.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <!-- EN: {FACTION_name} has laws which limit the use of this weapon to those with specific titles. Each time you attack with the weapon, there is a chance they will detect the psychic emissions. This will cause diplomatic consequences. -->
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{Felion_name} memiliki undang -undang yang membatasi penggunaan senjata ini untuk pemegang judul tertentu.Setiap kali Anda menyerang senjata, ada kemungkinan yang dideteksi emisi psikis.Ini akan menyebabkan konsekuensi diplomatik. Peredam psikis akan membuat emisi ini tidak terdeteksi.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <!-- EN: Each upgrade level of this implant requires a specific title in {FACTION_name} to be used legally. -->
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>Setiap tingkat pembaruan implan ini membutuhkan judul yang sesuai di faksi {faction_name} yang akan digunakan secara hukum.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <!-- EN: Max satisfied title -->
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>Judul tertinggi</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <!-- EN: Highest royal title whose apparel requirements are satisfied by this. -->
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>Judul nyata tertinggi yang persyaratan pakaiannya puas saat mengenakan ini.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <!-- EN: Max satisfied title -->
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>Judul tertinggi</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <!-- EN: The highest royal title whose food requirements are satisfied by this. -->
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>Judul Nyata Tertinggi yang kebutuhan makanannya dipenuhi saat makan ini.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <!-- EN: Traits -->
+  <Stat_Thing_PersonaWeaponTrait_Label>Karakter</Stat_Thing_PersonaWeaponTrait_Label>
+  <!-- EN: This weapon's individual traits. -->
+  <Stat_Thing_PersonaWeaponTrait_Desc>Karakteristik individu senjata.</Stat_Thing_PersonaWeaponTrait_Desc>
+
+  <!-- EN: Multiplier for pain -->
+  <StatsReport_Pain>Pengganda nyeri</StatsReport_Pain>
+  
+</LanguageData>

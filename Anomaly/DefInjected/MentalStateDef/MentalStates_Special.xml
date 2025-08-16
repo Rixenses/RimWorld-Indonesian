@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserk -->
+  <BerserkShort.label>panik</BerserkShort.label>
+  <!-- EN: Mental state: Berserk -->
+  <BerserkShort.baseInspectLine>Keadaan mental: panik</BerserkShort.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkShort.beginLetter>{0} sangat panik {Pawn_gender? O: A}.\ n \ akan berenang siapa pun yang melihat.</BerserkShort.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <BerserkShort.recoveryMessage>Kemarahan panik {0} sudah berakhir.</BerserkShort.recoveryMessage>
+  
+  <!-- EN: cube sculpting -->
+  <CubeSculpting.label>dadu</CubeSculpting.label>
+  <!-- EN: Mental state: Cube sculpting -->
+  <CubeSculpting.baseInspectLine>Keadaan mental: kubus pahatan</CubeSculpting.baseInspectLine>
+  <!-- EN: {PAWN_nameDef}'s obsession with the cube has caused {PAWN_objective} to fall into a daze. {PAWN_pronoun} is going to build a sculpture to release the pressure growing in {PAWN_possessive} mind. -->
+  <CubeSculpting.beginLetter>Obsesi {Pawn_namedef} karena kubus telah membuatnya jatuh ke dalam setrum.Anda akan membangun patung untuk melepaskan tekanan yang tumbuh dalam pikiran Anda.</CubeSculpting.beginLetter>
+  <!-- EN: cube obsession -->
+  <CubeSculpting.beginLetterLabel>Obsesi oleh kubus</CubeSculpting.beginLetterLabel>
+  <!-- EN: {PAWN_nameDef} has finished {PAWN_possessive} cube structure. -->
+  <CubeSculpting.recoveryMessage>{Pawn_namedef} telah menyelesaikan struktur kubusnya.</CubeSculpting.recoveryMessage>
+  
+  <!-- EN: humanity break -->
+  <HumanityBreak.label>Istirahat Kemanusiaan</HumanityBreak.label>
+  <!-- EN: Mental state: Humanity break -->
+  <HumanityBreak.baseInspectLine>Keadaan mental: Istirahat manusia</HumanityBreak.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has relinquished {PAWN_possessive} remaining ties to humanity and embraced {PAWN_possessive} ideology's worship of the void. {PAWN_possessive} concern for health, family, friendship, and love have been broken.\n\n{PAWN_nameDef} is now inhumanized, and will suffer a breakdown as {PAWN_pronoun} tries to grapple with {PAWN_possessive} new mental alignment. -->
+  <HumanityBreak.beginLetter>{Pawn_namedef} telah meninggalkan ikatan yang memiliki kemanusiaan dan telah menjadi tuan rumah penyembahan ideologis terhadap kekosongan.Perhatiannya terhadap kesehatan, keluarga, persahabatan dan cinta telah rusak.O: A} dan akan mengalami keruntuhan saat mencoba menangani penyelarasan mental yang baru.</HumanityBreak.beginLetter>
+  
+  <!-- EN: manhunter -->
+  <ManhunterBloodRain.label>Cazahombus</ManhunterBloodRain.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterBloodRain.baseInspectLine>Temukan: Berburu Liburan</ManhunterBloodRain.baseInspectLine>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterBloodRain.recoveryMessage>Haus akan darah manusia {0} sudah berakhir.</ManhunterBloodRain.recoveryMessage>
+  
+</LanguageData>

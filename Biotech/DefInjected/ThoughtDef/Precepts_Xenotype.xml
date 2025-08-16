@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preferred xenotype -->
+  <PreferredXenotype.stages.preferred_xenotype.label>Xenotype yang disukai</PreferredXenotype.stages.preferred_xenotype.label>
+  <!-- EN: disliked xenotype -->
+  <PreferredXenotype.stages.disliked_xenotype.label>Xenotype yang tidak diinginkan</PreferredXenotype.stages.disliked_xenotype.label>
+  
+  <!-- EN: all preferred xenotypes -->
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>Semua xenotipe favorit</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+  <!-- EN: We've built a community of the good and strong xenotypes only. -->
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>Kami telah membangun komunitas hanya dari xenotipe yang baik dan kuat.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+  <!-- EN: some disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>beberapa xenotipe yang tidak diinginkan</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+  <!-- EN: Those xenotypes are in our community. I don't want them here. -->
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>Xenotipe itu ada di komunitas kami.Saya tidak senang.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+  <!-- EN: many disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>Banyak xenotipe yang tidak diinginkan</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+  <!-- EN: So many of those xenotypes are in our community. They shouldn't be here. -->
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>Banyak dari xenotipe itu ada di komunitas kami.Mereka seharusnya tidak bersama kita.</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+  <!-- EN: tons of disliked xenotypes -->
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>Xenotype yang tidak diinginkan yang tak terhitung jumlahnya</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+  <!-- EN: I'm surrounded by those xenotypes. They don't belong here. -->
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>Saya ada di sekitar {Pawn_gender?O: A} dari xenotipe tersebut.Mereka harus pergi.</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+  
+  <!-- EN: I am disliked xenotype -->
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>Saya memiliki xenotype yang tidak diinginkan</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+  <!-- EN: I'm a {XENOTYPENAME}. I'm not one of the good types. -->
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>Saya memiliki {xenotypeName} xenotype.Saya bukan salah satu yang bagus.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
+  
+</LanguageData>

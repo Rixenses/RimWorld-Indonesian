@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: age reversal -->
+  <AgeReversal.label>Pembalikan usia</AgeReversal.label>
+  
+  <!-- EN: biosculpting -->
+  <Biosculpting.label>Biosculpting</Biosculpting.label>
+  
+  <!-- EN: neural supercharge -->
+  <NeuralSupercharge.label>Penguatan Neural</NeuralSupercharge.label>
+  
+  <!-- EN: sleep accelerator -->
+  <SleepAccelerator.label>Akselerator tidur</SleepAccelerator.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breach axe -->
+  <MeleeWeapon_BreachAxe.label>Zapeadora Ax</MeleeWeapon_BreachAxe.label>
+  <!-- EN: A combined blade and tool-head attached to a sturdy haft. While slightly less effective than other weapons against human enemies, it excels at tearing down walls, doors, and other structures thanks to its integrated tool-head. -->
+  <MeleeWeapon_BreachAxe.description>Lembar gabungan dan kepala alat bersatu dengan pegangan yang tahan.Meskipun sedikit kurang efektif daripada senjata lain melawan musuh manusia, ia menonjol untuk meruntuhkan dinding, pintu dan struktur lainnya berkat kepala alat terintegrasi.</MeleeWeapon_BreachAxe.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_BreachAxe.tools.handle.label>buah mangga</MeleeWeapon_BreachAxe.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_BreachAxe.tools.head.label>kepala</MeleeWeapon_BreachAxe.tools.head.label>
+  
+</LanguageData>

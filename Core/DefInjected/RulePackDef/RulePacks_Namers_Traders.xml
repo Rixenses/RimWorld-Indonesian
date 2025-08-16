@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name (p = 4)-> [BusinessName] [BusinessType]</li>
+    <li>r_name-> [nameperson] [BusinessType]</li>
+    <li>r_name-> [mungkin_adjective] [hewan] [BusinessType]</li>
+    <li>r_name-> [Surat] [Surat] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> [secara pribadi] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> [AdjectiveFriendly] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> [AdjectiveBadass] [BusinessType]</li>
+    <li>r_name (p = 0.3)-> [Personfamily] [BusinessType]</li>
+    <li>r_name (p = 0.3)-> [mungkin_adjective] [NaturalObject] [BusinessType]</li>
+    <li>r_name (p = 0.2)-> [mungkin_adjective] [Treeetype] [BusinessType]</li>
+    <li>r_name (p = 0.2)-> [mungkin_adjective] [sayuran] [BusinessType]</li>
+    <li>r_name (p = 0.2)-> [arah] [BusinessType]</li>
+    <li>Mungkin_adjective-></li>
+    <li>mungkin_adjective-> [warna]</li>
+    <li>mungkin_adjective-> [AdjectiveFriendly]</li>
+    <li>mungkin_adjective-> [AdjectiveBadass]</li>-><NamerTraderGeneral.rulePack.rulesStrings>
+    <li>r_name (p = 4)-> [bisnis typeany_def] [nama bisnis]</li>
+    <li>r_name-> [BusinessTyPeANY_DEF] de [Nameperson]</li>
+    <li>R_name-> [BusinessTyPeANY_DEF] dari [Nameperson] dan Brothers</li>
+    <li>r_name-> [BusinessType_Cap] [hewan] [mungkin_adjective]</li>
+    <li>r_name-> [Surat] [Surat] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> [secara pribadi] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> [AdjectiveFriendly] [BusinessType]</li>
+    <li>r_name (p = 0,5)-> una [adjectiveBadass_fem] [BusinessType_FEM]</li>
+    <li>r_name (p = 0,5)-> [BusinessType_FemCap] de [adjectiveBadass_plural]</li>
+    <li>r_name (p = 0.3)-> [Personfamily] [BusinessType]</li>
+    <li>r_name (p = 0.3)-> [mungkin_adjective] [NaturalObject] [BusinessType]</li>
+    <li>r_name (p = 0.2)-> [mungkin_adjective] [Treeetype] [BusinessType]</li>
+    <li>r_name (p = 0.2)-> la [bisnistype_fem] de las [Treeetype_fem] s</li>
+    <li>r_name (p = 0.2)-> la [BusinessType_FEM] de [vegetable_fem] s [mungkin_adjective]</li>
+    <li>r_name (p = 0.2)-> [arah] [BusinessType]</li>
+    <li>Mungkin_adjective-></li>
+    <li>mungkin_adjective-> [warna]</li>
+    <li>mungkin_adjective-> [AdjectiveFriendly]</li>
+    <li>mungkin_adjective-> [AdjectiveBadass]</li>
+  </NamerTraderGeneral.rulePack.rulesStrings>
+  
+</LanguageData>

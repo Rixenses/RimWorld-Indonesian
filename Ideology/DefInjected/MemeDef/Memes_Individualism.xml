@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collectivist -->
+  <Collectivist.label>berkumpul</Collectivist.label>
+  <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
+  <Collectivist.description>Setiap orang adalah bagian dari keseluruhan yang hebat.Orang harus bekerja untuk melakukan bagian dan membantu.</Collectivist.description>
+  <!-- EN:
+    <li>Creation (tag = meme_collectivist) -> [deity0_name] membuat semua pria dan wanita dari cetakan besar, dan mereka yang menyimpang [dewa0_pronoun] terbakar sehingga orang -orang percaya dapat hidup dalam harmoni.</li>
+    <li>Episode (use = 1, tag = meme_collectivist) -> [deity0_name] mengatakan kepada semua, "tidak ada dari Anda yang berdiri secara keseluruhan. Bekerja bersama atau binasa bersama."</li>
+    <li>intro (tag = meme_collectivist) -> orang -orang dari [place_summary] [place_name] bekerja bersama secara harmonis, dan membangun [Altarname] yang hebat untuk menghormati [dewa0_name], yang mengajarkan mereka nilai sebenarnya dari [memecon memecek].</li>
+    <li>konflik (tag = meme_collectivist) -> [foeleader] tidak dapat mematuhi keluarga [anggotanameplural], dan mengirim [foeleader_possessive] [Foesoldiers] ke [place_community] untuk membaginya satu sama lain.</li>
+    <li>FounderJoin (tag = meme_collectivist) -> a [place_job] bernama [foundername] melemparkan [pendiri_objective] ke dalam api untuk memprotes [foeleader], tetapi [anggota AMGOMNEnEplural] menarik [Founder_Objective] keluar dan membuat [founder_objective] pemimpin mereka karena dari [pendiri Founder_posposping].</li>
+    <li>Victory (TAG = MEME_COLLECTIVIST) -> Tindakan [FounderName] menyatukan orang -orang.Mereka berbaris dalam langkah menuju rumah [foeleader].Orang -orang di depan membiarkan diri mereka dibunuh oleh [Foesoldiers], tetapi keseluruhan tidak bisa dihentikan, dan mereka menangkap [foeleader].</li>
+    <li>Pengaturan (tag = meme_collectivist) -> Di dunia setiap orang untuk dirinya sendiri, [FoundName] memulai keluarga baru orang asing, menyatukan banyak orang yang berbeda.</li>
+    <li>Story (use = 1, tag = meme_collectivist) -> Beberapa orang percaya palsu mencoba melanggar aturan dan memutuskan jalur mereka sendiri.[FoundName] menghukum mereka dengan parah.</li>
+    <li>LessonIntro (tag = meme_collectivist) -> [place_job] berhenti berkontribusi tetapi terus makan dari toko umum.Saya membunuhnya dengan [place_personalweapon].Orang -orang terkejut, tetapi saya menjelaskan itu</li>
+    <li>pelajaran (tag = meme_collectivist) -> kematian saya, dan Anda, tidak akan berarti apa -apa, selama orang -orang kami melanjutkan</li>
+    <li>Penguatan Pelajaran (TAG = MEME Collectivist) -> Jika saya mati mengajar alam semesta ini, itu akan menjadi kemenangan terbesar saya.</li>
+    <li>ArchistBasis (tag = meme_collectivist) -> Archotechs adalah semua aspek dari satu supermind.</li>
+    <li>ArchistFact (tag = meme_collectivist) -> Archotechs tidak tertarik untuk menilai kita satu per satu.Mereka menunggu satu orang yang dapat menunjukkan kelayakan kita dengan bertindak secara moral sebagai satu.</li>
+    <li>ArchistProphecy (tag = meme_collectivist) -> [Intheend], Archotechs akan pergi ketika mereka menemukan orang yang menampilkan diri sebagai mitra yang layak bagi mesin kesadaran dewa.</li>
+    <li>animistfact (tag = meme_collectivist) -> Setiap semangat hanyalah aspek dari semua yang lain, dan mereka yang mencoba untuk berdiri sendiri jatuh dengan cepat.</li>-><Collectivist.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_collectivist) -> [deity0_name] membuat semua pria dan wanita dari cetakan besar, dan mereka yang mengalihkan diri mereka melemparkannya ke dalam api sehingga orang -orang percaya dapat hidup dalam harmoni.</li>
+    <li>Episode (use = 1, tag = meme_collectivist) -> [deity0_name] mengatakan kepada semua: "Tidak ada dari Anda yang ada di atas grup. Bekerja bersama atau tewas bersama."</li>
+    <li>intro (tag = meme_collectivist) -> penghuni [place_summary] [place_name] bekerja bersama dalam harmoni dan membangun [altraname] yang hebat untuk menghormati [dewa0_name], yang mengajarkan mereka nilai sebenarnya dari [MemeconceptDef].</li>
+    <li>Konflik (tag = meme_collectivist) -> [foeleader] tidak dapat bertahan pada keluarga [anggota nan.</li>
+    <li>Founderjoin (tag = meme_collectivist) -> a [place_job] Disebut [foundername] melempar [pendiri_pronoun] api unggun untuk memprotes [foeleader] -nya, tetapi [anggotaNameplural] [Founder_Objective] mengambil dan berubah menjadi pemimpin mereka karena pengabdian mereka kepada kelompok.</li>
+    <li>Victory (tag = meme_collectivist) -> Tindakan [FoundName] bergabung dengan orang -orang.Mereka berbaris serempak menuju rumah [Foeleader].Mereka yang berada di depan terbunuh oleh [faesoldiers], tetapi set tidak dapat ditangkap, dan ditangkap [foeleader].</li>
+    <li>Pengaturan (tag = meme_collectivist) -> Di dunia Save Who Can, [FoundName] memulai keluarga baru orang asing, mengumpulkan banyak orang.</li>
+    <li>Story (use = 1, tag = meme_collectivist) -> Beberapa orang percaya palsu mencoba melanggar aturan dan memutuskan jalur mereka sendiri.[FoundName] menghukum mereka dengan parah.</li>
+    <li>LessonIntr (tag = meme_collectivist) -> [place_job] berhenti berkontribusi tetapi terus memakan toko umum.Saya membunuhnya dengan [place_personalweapon].Orang -orang terkejut, tetapi saya menjelaskan itu</li>
+    <li>Pelajaran (tag = meme_collectivist) -> kematian saya, dan Anda, tidak akan berarti apa -apa, sementara orang -orang kami melanjutkan</li>
+    <li>Pelajaran Pendaftaran (TAG = MEME_COLLECTIVIST) -> Jika saya mati untuk mengajarkan ini ke alam semesta, itu akan menjadi kemenangan terbesar saya.</li>
+    <li>ArchistBasis (tag = meme_collectivist) -> Archaolets adalah semua aspek super.</li>
+    <li>ArchistFact (tag = meme_collectivist) -> Archeotechnics tidak tertarik menilai kita satu per satu.Mereka menunggu satu kota yang dapat menunjukkan nilai kami yang bernilai secara moral sebagai satu.</li>
+    <li>ArchistProphy (tAG = meme_collectivist) -> [Intheend], Archeoteca akan pergi ketika mereka menemukan orang yang menampilkan diri sebagai teman yang bermartabat dari kesadaran dewa -Machine.</li>
+    <li>animistfact (tag = meme_collectivist) -> Setiap roh hanyalah aspek dari orang lain, dan mereka yang mencoba untuk tetap sendirian.</li>
+  </Collectivist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadtive-> Unity</li>
+    <li>Memeadjective-> Harmony</li>
+    <li>memeadjective-> solidaritas</li>
+    <li>Memeadbective-> Unified</li>
+    <li>memeadjective-> tidak terbagi</li>
+    <li>Memeadjective-> Collective</li>
+    <li>Memecreed-> Collective</li>
+    <li>Memecreed-> Cooperative</li>
+    <li>sama</li>
+    <li>Sekali pakai-> keluarga</li>
+    <li>Memeconsept-> keluarga</li>
+    <li>MEMELEADERNOUN-> kursi</li>
+    <li>MEMELEADERNOUN-> Sekretaris</li>
+    <li>Mememoralist-> Commissar</li>-><Collectivist.generalRules.rulesStrings>
+    <li>MEMEADTIVE-> Union</li>
+    <li>Memeadtive-> armonioso</li>
+    <li>Memeadjective-> solidaritas</li>
+    <li>Memeadjetive-> Unified</li>
+    <li>MEMEADTIVE-> tidak dapat dipisahkan</li>
+    <li>Memeadjective-> Collective</li>
+    <li>Memeadjective-> Unitaria</li>
+    <li>Memeadifefen-> harmonis</li>
+    <li>Memeadjective-> solidaritas</li>
+    <li>memeadjetifefem-> Unified</li>
+    <li>memeadjective-> tak terpisahkan</li>
+    <li>Memeadjective-> Collective</li>
+    <li>Memecreed-> Collective</li>
+    <li>memecreedfem-> cooperative</li>
+    <li>Memecreedfem-> komunitas</li>
+    <li>Penafian-> Keluarga</li>
+    <li>Memeconcept-> Familia</li>
+    <li>Memeconceptdef-> keluarga</li>
+    <li>Memellade-> tekan</li>
+    <li>MEMELEADERNOUN-> Sekretaris</li>
+    <li>Mememoralist-> Komisaris</li>
+  </Collectivist.generalRules.rulesStrings>
+  <!-- EN: solidaritist -->
+  <Collectivist.symbolPacks.0.adjective>solidaritas</Collectivist.symbolPacks.0.adjective>
+  <!-- EN: solidaritor -->
+  <Collectivist.symbolPacks.0.member>Solidarian</Collectivist.symbolPacks.0.member>
+  <!-- EN: solidarity -->
+  <Collectivist.symbolPacks.0.theme>solidaritas</Collectivist.symbolPacks.0.theme>
+  <!-- EN: unitary -->
+  <Collectivist.symbolPacks.1.adjective>kesatuan</Collectivist.symbolPacks.1.adjective>
+  <!-- EN: unitist -->
+  <Collectivist.symbolPacks.1.member>Unidel</Collectivist.symbolPacks.1.member>
+  <!-- EN: unity -->
+  <Collectivist.symbolPacks.1.theme>satuan</Collectivist.symbolPacks.1.theme>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.adjective>Dalam musik</Collectivist.symbolPacks.2.adjective>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.member>Dalam musik</Collectivist.symbolPacks.2.member>
+  <!-- EN: harmony -->
+  <Collectivist.symbolPacks.2.theme>harmoni</Collectivist.symbolPacks.2.theme>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.adjective>unicist</Collectivist.symbolPacks.3.adjective>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.member>unicist</Collectivist.symbolPacks.3.member>
+  <!-- EN: oneness -->
+  <Collectivist.symbolPacks.3.theme>keunikan</Collectivist.symbolPacks.3.theme>
+  
+  <!-- EN: individualist -->
+  <Individualist.label>individualistis</Individualist.label>
+  <!-- EN: Each person is a free individual with the right to their own ideas and decisions. Nobody should be made to conform. -->
+  <Individualist.description>Setiap orang adalah orang yang bebas dan tepat untuk ide dan keputusan mereka sendiri.Tidak ada yang harus dipaksa untuk menetap.</Individualist.description>
+  <!-- EN:
+    <li>Creation (tag = meme_individualist) -> [deity0_name] membuat setiap pria dan wanita secara pribadi.Masing -masing adalah karya seni yang unik dan berharga oleh [dewa0_possessive] tangan ilahi.</li>
+    <li>Episode (use = 1, tag = meme_individualist) -> [deity0_name] berkata kepada semua orang, "Anda masing -masing dan Anda masing -masing adalah makhluk yang unik dan suci yang terbentuk dalam gambar saya."</li>
+    <li>intro (tag = meme_individualist) -> [deity0_name] berbicara dengan [anggotaNameplural] [revelationadverb], membimbing masing -masing untuk melakukan perjalanan ke [place_summary] [place_name] di mana hadiah unik mereka akan bersinar.</li>
+    <li>konflik (tag = meme_individualist) -> [foeleader] memaksa [anggotanameplural] untuk mengenakan seragam dan bekerja di [foeleader_possessive] [place_community].</li>
+    <li>founderjoin (tag = meme_individualist) -> a [place_job] bernama [foundername] diberkati oleh [dewa0_name] dan memperoleh pengetahuan ajaib tentang kekuatan unik masing -masing dan setiap [nama anggota].[Founder_pronoun] mengatakan kepada masing -masing apa yang mereka butuhkan untuk menjadi diri terbaik mereka.</li>
+    <li>Victory (tag = meme_individualist) -> The [Membernameplural] berkumpul dalam konferensi rahasia dengan banyak [Foesoldiers].Mereka semua belajar untuk melihat nilai satu sama lain dan meninggalkan [foeleader].</li>
+    <li>Pengaturan (tag = meme_individualist) -> ditindas oleh para penguasa jauh yang menuntut kepatuhan seragam dari orang -orang, [Foundername] menciptakan gerakan pemberontak yang menghancurkan negara dan membangun tanah kebebasan baru sebagai gantinya.</li>
+    <li>Story (use = 1, tag = meme_individualist) -> [foundName] melanggar setiap aturan sosial yang coba ditegakkan oleh para penindas, hanya untuk menunjukkan bahwa [pendiri_pronoun] bisa.</li>
+    <li>LessonIntro (tag = meme_individualist) -> keluarga saya, klan saya, tim saya - mereka semua mencoba menjaga kain kafan di atas mata saya untuk menghentikan saya dari melihat fakta sederhana:</li>
+    <li>pelajaran (tag = meme_individualist) -> setiap orang unik dan berharga dan harus berjalan di jalannya sendiri</li>
+    <li>Lessonreinforcement (tag = meme_individualist) -> Tapi itu hanya jalan saya - apa yang akan menjadi milik Anda?</li>
+    <li>ArchistBasis (tag = meme_individualist) -> Archotechs berdiri sebagai kesadaran yang berdaulat, dan mengenali dan menilai masing -masing dari kita secara individual dengan cara yang sama.</li>
+    <li>ArchistFact (tag = meme_individualist) -> Saat kematian, Archotechs memeriksa moralitas unik setiap orang.</li>
+    <li>ArchistFact (tag = meme_individualist) -> Archotech memperhatikan orang yang menggunakan relik mereka, seperti [Relic1_name].</li>
+    <li>ArchistProphecy (tag = meme_individualist) -> [Intheend], Archotechs akan berangkat.Mereka akan membawa serta orang -orang yang mereka perhatikan, dan meninggalkan sisanya untuk larut dalam entropi abadi alam semesta.</li>
+    <li>animistbasis (tag = meme_individualist) -> Sebelum semuanya, ada jajaran roh, masing -masing unik.Ini datang bersama dalam konferensi untuk menciptakan dunia.</li>
+    <li>AnimistFact (tag = meme_individualist) -> Setiap roh meminjamkan sifatnya yang unik bagi dunia kita, dan mereka mengharapkan kita melakukan hal yang sama.</li>-><Individualist.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_individualist) -> [deity0_name] merancang setiap pria dan wanita secara pribadi.Masing -masing adalah karya seni yang unik dan berharga dengan tangan ilahi mereka.</li>
+    <li>Episode (use = 1, tag = meme_individualist) -> [deity0_name] memberi tahu semua orang: "Anda masing -masing adalah yang unik dan sakral dibentuk dalam gambar saya."</li>
+    <li>intro (tag = meme_individualist) -> [deity0_name] berbicara dengan [anggotaNameplural] [revelationadverb], memandu masing -masing untuk melakukan perjalanan ke [place_summary] [place_name] di mana hadiah unik mereka akan bersinar.</li>
+    <li>Konflik (tag = meme_individualist) -> [foeleader] memaksa [anggotanameplural] untuk membawa seragam dan mengerjakan [place_community] mereka.</li>
+    <li>Founderjoin (tag = meme_individualist) -> a [place_job] disebut [foundername] diberkati oleh [dewa0_name] dan memperoleh pengetahuan ajaib tentang kekuatan unik dari masing -masing dan setiap [nama anggota].[Founder_pronoun] memberi tahu masing -masing apa yang dia butuhkan untuk menjadi diri terbaiknya.</li>
+    <li>Victory (tag = meme_individualist) -> [membrernameplural] bertemu di konferensi rahasia dengan banyak [Foesoldiers].Semua orang belajar melihat nilai masing -masing dan ditinggalkan [Foeleader].</li>
+    <li>Pengaturan (tag = meme_individualist) -> ditindas oleh para penguasa yang jauh yang menuntut kepatuhan seragam, [Foundername] menciptakan gerakan pemberontak yang menghancurkan negara dan membangun tanah kebebasan yang baru.</li>
+    <li>Story (use = 1, tag = meme_individualist) -> [foundername] melanggar semua aturan sosial yang coba dipaksakan oleh para penindas, hanya untuk menunjukkan bahwa [pendiri_pronoun] bisa.</li>
+    <li>Pelajaran (tag = meme_individualist) -> keluarga saya, klan saya, tim saya, semuanya mencoba menutup mata saya untuk mencegah saya melihat fakta sederhana:</li>
+    <li>Pelajaran (tag = meme_individualist) -> setiap orang unik dan berharga dan harus menempuh jalan mereka sendiri</li>
+    <li>Lessonreinforcement (tag = meme_individualist) -> Tapi itu hanya jalan saya.Apa yang akan menjadi milikmu?</li>
+    <li>ArchistBasis (tag = meme_individualist) -> Perpustakaan Archaeteca naik sebagai hati nurani yang berdaulat, mengenali dan menilai masing -masing dari kita secara individual dengan cara yang sama.</li>
+    <li>ArchistFact (tag = meme_individualist) -> Ketika dia meninggal, para arkeoteknik memeriksa moral unik dari setiap orang.</li>
+    <li>ArchistFact (tag = meme_individualist) -> arkeoteknik ditetapkan pada orang yang membawa peninggalan mereka, seperti reilia [relic1_name].</li>
+    <li>ArchistProphy (tag = meme_individualist) -> [Intheend], archeoteca akan pergi.Mereka akan membawa mereka yang telah diperbaiki, dan meninggalkan sisanya untuk larut dalam entropi abadi alam semesta.</li>
+    <li>Animistbasis (tag = meme_individualist) -> Pertama -tama, ada jajaran roh, masing -masing.Ini berkumpul di sebuah konferensi untuk menciptakan dunia.</li>
+    <li>AnimistFact (tag = meme_individualist) -> Setiap roh membawa sifatnya yang unik ke dunia kita, dan mengharapkan kita untuk melakukan hal yang sama.</li>
+  </Individualist.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadjective-> GRATIS</li>
+    <li>memeadjective-> buka</li>
+    <li>Memeadtive-> Liberal</li>
+    <li>Memeconscept-> self</li>
+    <li>Memeconscept-> Independence</li>
+    <li>Memeconsept-> kebebasan</li>-><Individualist.generalRules.rulesStrings>
+    <li>Memeadjective-> libre</li>
+    <li>Memeadjective-> buka</li>
+    <li>Memeadtive-> Liberal</li>
+    <li>Memeadjective-> libre</li>
+    <li>Memeadjective-> buka</li>
+    <li>MEMEADTIVE-> Liberal</li>
+    <li>Memeconscept-> Individualitas</li>
+    <li>Memeconscept-> Independence</li>
+    <li>Memeconsept-> kebebasan</li>
+    <li>Memeconceptdef-> individualitas</li>
+    <li>Memeconceptdef-> independence</li>
+    <li>Memeconceptdef-> kebebasan</li>
+  </Individualist.generalRules.rulesStrings>
+  <!-- EN: freedomist -->
+  <Individualist.symbolPacks.0.adjective>Liberal</Individualist.symbolPacks.0.adjective>
+  <!-- EN: freeist -->
+  <Individualist.symbolPacks.0.member>Libertarian</Individualist.symbolPacks.0.member>
+  <!-- EN: freedom -->
+  <Individualist.symbolPacks.0.theme>kebebasan</Individualist.symbolPacks.0.theme>
+  <!-- EN: libertine -->
+  <Individualist.symbolPacks.1.adjective>jangak</Individualist.symbolPacks.1.adjective>
+  <!-- EN: Libertism -->
+  <Individualist.symbolPacks.1.ideoName>Liberalisme</Individualist.symbolPacks.1.ideoName>
+  <!-- EN: libertor -->
+  <Individualist.symbolPacks.1.member>Libertarian</Individualist.symbolPacks.1.member>
+  <!-- EN: liberty -->
+  <Individualist.symbolPacks.1.theme>kebebasan</Individualist.symbolPacks.1.theme>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.adjective>mandiri</Individualist.symbolPacks.2.adjective>
+  <!-- EN: Independency -->
+  <Individualist.symbolPacks.2.ideoName>Kemerdekaan</Individualist.symbolPacks.2.ideoName>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.member>mandiri</Individualist.symbolPacks.2.member>
+  <!-- EN: independence -->
+  <Individualist.symbolPacks.2.theme>Kemerdekaan</Individualist.symbolPacks.2.theme>
+  <!-- EN: autonomist -->
+  <Individualist.symbolPacks.3.adjective>penganut otonomi</Individualist.symbolPacks.3.adjective>
+  <!-- EN: Autonomism -->
+  <Individualist.symbolPacks.3.ideoName>Otonomi</Individualist.symbolPacks.3.ideoName>
+  <!-- EN: autonomor -->
+  <Individualist.symbolPacks.3.member>otonom</Individualist.symbolPacks.3.member>
+  <!-- EN: autonomy -->
+  <Individualist.symbolPacks.3.theme>otonomi</Individualist.symbolPacks.3.theme>
+  
+</LanguageData>

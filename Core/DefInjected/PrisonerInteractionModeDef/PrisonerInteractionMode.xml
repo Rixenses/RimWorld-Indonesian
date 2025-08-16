@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>Mencoba merekrut</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Para penjaga akan mencoba merekrut tahanan.Jika tahanan masih memiliki perlawanan, para penjaga akan berbicara untuk menguranginya.</AttemptRecruit.description>
+  
+  <!-- EN: execute -->
+  <Execution.label>menjalankan</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>Seorang penjaga akan mengeksekusi tahanan di tempat.Ini dapat memengaruhi suasana hati tahanan dan pemukim lainnya.</Execution.description>
+  
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>Simpan saja</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>Para penjaga akan memberi makan dan memenuhi kebutuhan dasar tahanan, tanpa melakukan interaksi lainnya.</MaintainOnly.description>
+  
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>mengurangi resistensi</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>Jika tahanan masih memiliki perlawanan, para penjaga akan berbicara untuk menguranginya.Tidak akan ada upaya perekrutan.</ReduceResistance.description>
+  
+  <!-- EN: release -->
+  <Release.label>melepaskan</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>Seorang penjaga akan membebaskan tahanan.</Release.description>
+  
+</LanguageData>

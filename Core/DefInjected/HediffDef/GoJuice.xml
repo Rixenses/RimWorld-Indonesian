@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: go-juice addiction -->
+  <GoJuiceAddiction.label>kecanduan neurozumo</GoJuiceAddiction.label>
+  <!-- EN: A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GoJuiceAddiction.description>Kecanduan kimiawi terhadap neurozumo. Keberadaan neurozumo yang terus menerus telah menyebabkan adaptasi neurologis pada tingkat sel, sehingga otak tidak dapat berfungsi dengan baik tanpa obat tersebut. Tanpa dosis neurozumo yang teratur, gejala putus obat akan muncul. Namun, penghentian penggunaan yang terus menerus akan memaksa otak untuk beradaptasi kembali ke keadaan normal, pulih dari kecanduan.</GoJuiceAddiction.description>
+  <!-- EN: withdrawal -->
+  <GoJuiceAddiction.stages.withdrawal.label>pantang</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <!-- EN: high on go-juice -->
+  <GoJuiceHigh.label>neurozumo terburu-buru</GoJuiceHigh.label>
+  <!-- EN: Go-juice in the bloodstream. It supercharges combat-related abilities, and instantly increases psyfocus when first injected. -->
+  <GoJuiceHigh.description>Neurozumo dalam aliran darah. Zat ini meningkatkan indera dan meningkatkan kemampuan tempur, dan secara instan meningkatkan jiwa saat disuntikkan.</GoJuiceHigh.description>
+  <!-- EN: a go-juice high -->
+  <GoJuiceHigh.labelNoun>aliran neurozumo</GoJuiceHigh.labelNoun>
+  
+  <!-- EN: go-juice tolerance -->
+  <GoJuiceTolerance.label>toleransi terhadap neurozumo</GoJuiceTolerance.label>
+  <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
+  <GoJuiceTolerance.description>Toleransi yang diperoleh terhadap neurojuice. Semakin tinggi, semakin banyak neurozumo yang perlu dikonsumsi untuk mencapai efek yang sama.</GoJuiceTolerance.description>
+  <!-- EN: small -->
+  <GoJuiceTolerance.stages.small.label>minimum</GoJuiceTolerance.stages.small.label>
+  <!-- EN: large -->
+  <GoJuiceTolerance.stages.large.label>Grande</GoJuiceTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <GoJuiceTolerance.stages.massive.label>sangat tinggi</GoJuiceTolerance.stages.massive.label>
+  
+</LanguageData>

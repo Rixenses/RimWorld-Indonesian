@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inhuman -->
+  <Inhuman.label>tidak manusiawi</Inhuman.label>
+  <!-- EN: Humanity is a barrier to our connection with the machine god and its pleasurable rewards. -->
+  <Inhuman.description>Kemanusiaan adalah penghalang bagi hubungan kita dengan mesin dewa dan imbalannya yang menyenangkan.</Inhuman.description>
+  <!-- EN:
+    <li>memeadjective-> tidak manusiawi</li>
+    <li>MEMEADTIVE-> UNHUMAN</li>
+    <li>MEMEADJECTIVE-> MESIN</li>
+    <li>memeadjective-> gelap</li>
+    <li>Memeconcept-> tidak manusiawi</li>
+    <li>Memeconcept-> Darkness</li>
+    <li>Memeconscept-> void</li>
+    <li>MEMECONCEPT-> entitas</li>
+    <li>Memeconsept-> Rage</li>-><Inhuman.generalRules.rulesStrings>
+    <li>memeadjective-> tidak manusiawi</li>
+    <li>MEMEADTIVE-> NON-Human</li>
+    <li>MEMEADJETIVEFEM-> MESIN</li>
+    <li>memeadjective-> gelap</li>
+    <li>Memeconceptdef-> l kosong</li>
+    <li>Memeconceptdef-> The Darkness</li>
+    <li>Memeconcept-> tidak manusiawi</li>
+    <li>Memeconcept-> Darkness</li>
+    <li>Memeconect-> vakum</li>
+    <li>MEMECONCEPT-> entitas</li>
+    <li>Memeconscept-> Ira</li>
+  </Inhuman.generalRules.rulesStrings>
+  
+  <!-- EN: ritualist -->
+  <Ritualist.label>ritualis</Ritualist.label>
+  <!-- EN: There is a greater energy in the universe. Through ritual we can understand it and harness its power. -->
+  <Ritualist.description>Ada energi yang lebih besar di alam semesta.Melalui ritual kita dapat memahaminya dan memanfaatkan kekuatannya.</Ritualist.description>
+  <!-- EN:
+    <li>MEMEADTIVE-> Ritual</li>
+    <li>Memeconscept-> Ritual</li>
+    <li>MEMEMORALIST-> ritualis</li>-><Ritualist.generalRules.rulesStrings>
+    <li>MEMEADTIVE-> Ritual</li>
+    <li>Memeconscept-> Ritual</li>
+    <li>Memeconceptdef-> ritualitas</li>
+    <li>Mememoralist-> ritualista</li>
+  </Ritualist.generalRules.rulesStrings>
+  
+</LanguageData>

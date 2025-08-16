@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>Tirai binatang</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>Sebuah pintu digantung dengan potongan -potongan kain atau kulit yang tumpang tindih.Ini memungkinkan lewatnya hewan saat saya mengisolasi suhu.Tirai hewan biasanya digunakan sebagai pintu gudang untuk memberikan hewan kandang tempat yang dilindungi untuk tidur.</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>Pintu otomatis</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>Kamar terpisah.Otomatisasi pintu ini memungkinkan orang untuk melewatinya tanpa diperlambat.</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>kolom</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>Kolom yang mampu memegang atap.Itu tidak menghalangi tampilan atau gerakan dan cukup cantik.</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>Puerta</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Kamar terpisah.Itu harus terbuka dan tertutup secara manual, yang akan memperlambat perjalanan orang tergantung pada bahan yang dibuat.</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>di kotamadya</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>Pagar yang terbuat dari tiang yang disatukan oleh mistar gawang yang digunakan untuk membangun pena untuk jenis hewan tertentu.Beberapa jenis hewan dapat melewati pagar.Predator tidak akan berburu makhluk di sisi lain pagar, tetapi mereka masih bisa berkeliaran di dalam.</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>Valla Puerta</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>Pintu sederhana yang terbuat dari tiang dan gawang.Blokir beberapa hewan seperti pagar.Para pemukim dapat mengambil hewan di dalam dan di luar kandang melalui pintu -pintu ini.</FenceGate.description>
+  
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>Puerta Ornamental</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>Kamar terpisah.Pintu berukir dan dihiasi dengan emas.Pintu besar dan berat ini membutuhkan dinding yang berdekatan untuk bekerja.</OrnateDoor.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>dinding</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>Dinding yang tidak dapat diatasi.Mampu mendukung atap.</Wall.description>
+  
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: change dryad types -->
+  <ChangeTreeMode.label>Ubah Jenis Dríada</ChangeTreeMode.label>
+  <!-- EN: changing dryad caste for -->
+  <ChangeTreeMode.gerund>Ubah jenis dríada menjadi</ChangeTreeMode.gerund>
+  <!-- EN: change dryad caste for -->
+  <ChangeTreeMode.verb>Ubah jenis dríada menjadi</ChangeTreeMode.verb>
+  
+  <!-- EN: convert prisoners -->
+  <ConvertPrisoner.label>mengubah tahanan</ConvertPrisoner.label>
+  <!-- EN: converting -->
+  <ConvertPrisoner.gerund>berbelok</ConvertPrisoner.gerund>
+  <!-- EN: convert -->
+  <ConvertPrisoner.verb>berbelok</ConvertPrisoner.verb>
+  
+  <!-- EN: emancipate slaves -->
+  <EmancipateSlave.label>Budak membebankan</EmancipateSlave.label>
+  <!-- EN: emancipating -->
+  <EmancipateSlave.gerund>membebaskan a</EmancipateSlave.gerund>
+  <!-- EN: emancipate -->
+  <EmancipateSlave.verb>membebaskan a</EmancipateSlave.verb>
+  
+  <!-- EN: enslave prisoners -->
+  <EnslavePrisoner.label>Perbudakan tahanan</EnslavePrisoner.label>
+  <!-- EN: enslaving -->
+  <EnslavePrisoner.gerund>memperbudak a</EnslavePrisoner.gerund>
+  <!-- EN: enslave -->
+  <EnslavePrisoner.verb>memperbudak a</EnslavePrisoner.verb>
+  
+  <!-- EN: execute prisoners -->
+  <ExecuteSlave.label>Mengeksekusi tahanan</ExecuteSlave.label>
+  <!-- EN: executing -->
+  <ExecuteSlave.gerund>menjalankan</ExecuteSlave.gerund>
+  <!-- EN: execute -->
+  <ExecuteSlave.verb>menjalankan</ExecuteSlave.verb>
+  
+  <!-- EN: carry to biosculpter pod -->
+  <HaulToBiosculpterPod.label>Bawa ke kapsul bio -sculpture</HaulToBiosculpterPod.label>
+  <!-- EN: filling -->
+  <HaulToBiosculpterPod.gerund>menempati</HaulToBiosculpterPod.gerund>
+  <!-- EN: fill -->
+  <HaulToBiosculpterPod.verb>menempati</HaulToBiosculpterPod.verb>
+  
+  <!-- EN: imprison slaves -->
+  <ImprisonSlave.label>Budak kunci</ImprisonSlave.label>
+  <!-- EN: imprisoning -->
+  <ImprisonSlave.gerund>akhir</ImprisonSlave.gerund>
+  <!-- EN: imprison -->
+  <ImprisonSlave.verb>akhir</ImprisonSlave.verb>
+  
+  <!-- EN: prune Gauranlen trees -->
+  <PruneGauranlenTree.label>PRUNE GAURANLEN Pohon</PruneGauranlenTree.label>
+  <!-- EN: pruning -->
+  <PruneGauranlenTree.gerund>memangkas</PruneGauranlenTree.gerund>
+  <!-- EN: prune -->
+  <PruneGauranlenTree.verb>memangkas</PruneGauranlenTree.verb>
+  
+  <!-- EN: suppress slaves -->
+  <SuppressSlave.label>mengandung budak</SuppressSlave.label>
+  <!-- EN: suppressing -->
+  <SuppressSlave.gerund>mengandung a</SuppressSlave.gerund>
+  <!-- EN: suppress -->
+  <SuppressSlave.verb>mengandung a</SuppressSlave.verb>
+  
+</LanguageData>

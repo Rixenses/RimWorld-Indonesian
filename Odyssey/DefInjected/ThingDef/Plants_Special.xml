@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archean seed -->
+  <ArcheanSeed.label>Benih Archaean</ArcheanSeed.label>
+  <!-- EN: The seed of an archean tree. It can be planted to grow an archean tree, which converts nearby terrain into rich soil.\n\nArchean trees were bioengineered to terraform deadworlds and early-stage rimworlds. They are hardy enough to survive in the vacuum of space and produce a small amount of oxygen. The tree's delicate roots prevent it from being replanted. -->
+  <ArcheanSeed.description>Benih pohon Archaean.Dapat ditanam untuk menumbuhkan pohon Archaean, yang mengubah medan terdekat menjadi tanah subur.Mereka cukup tahan untuk bertahan hidup dalam kekosongan ruang, dan mampu menghasilkan sedikit oksigen.Akar pohon halus mencegahnya memikirkan kembali.</ArcheanSeed.description>
+  
+  <!-- EN: chopped Archean stump -->
+  <ChoppedStump_Archean.label>tunggul archaean</ChoppedStump_Archean.label>
+  <!-- EN: A stump left behind after an archean tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Archean.description>Sebuah tunggul yang tersisa setelah pohon Archaean diukir.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</ChoppedStump_Archean.description>
+  
+  <!-- EN: archean tree -->
+  <Plant_TreeArchean.label>Pohon Archaean</Plant_TreeArchean.label>
+  <!-- EN: A tree bioengineered to terraform deadworlds and early-stage rimworlds. The tree hosts a special microbial community in its roots which enriches nearby terrain into rich soil. The trees are hardy enough to survive in the vacuum of space and produce a small amount of oxygen.\n\nArchean trees are sterile, preventing them from becoming an invasive species after terraforming has been completed. They can only be grown from seeds produced on glitterworld planets. The tree's delicate root system prevents it from being replanted. -->
+  <Plant_TreeArchean.description>Sebuah pohon yang diciptakan oleh bioengineering ke dunia yang mati atau primitif.Pohon itu menampung komunitas mikroba khusus di akarnya yang memperkaya tanah di dekatnya menjadikannya tanah yang subur.Pohon -pohon cukup tahan untuk bertahan hidup dalam kekosongan ruang, dan mampu menghasilkan sejumlah kecil oksigen. Mereka hanya dapat ditanam dari biji yang diproduksi di planet Mundobrillant.Akar pohon halus mencegahnya memikirkan kembali.</Plant_TreeArchean.description>
+
+  <!-- EN: smashed Archean stump -->
+  <SmashedStump_Archean.label>S hari Archeano yang dihancurkan</SmashedStump_Archean.label>
+  <!-- EN: The remnants of an archean tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Archean.description>Sisa -sisa pohon Archaean yang dihancurkan oleh kerusakan.Itu jelek.Tunggul dapat diekstraksi, tetapi menghasilkan sedikit kayu yang dapat digunakan.Jika dibiarkan di luar ruangan, tunggul akan memburuk seiring waktu.</SmashedStump_Archean.description>
+  
+</LanguageData>

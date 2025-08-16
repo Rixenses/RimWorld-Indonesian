@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic ritual spot -->
+  <PsychicRitualSpot.label>Tempat Ritual Psikis</PsychicRitualSpot.label>
+  <!-- EN: A spot for performing psychic rituals. Rituals can only be cast if the area around the ritual spot is unobstructed. -->
+  <PsychicRitualSpot.description>Tempat untuk melakukan ritual psikis.Ritual hanya dapat dilakukan jika area di sekitar tempat ritual jelas.</PsychicRitualSpot.description>
+  
+  <!-- EN: shard beacon -->
+  <ShardBeacon.label>Sparge Beacon</ShardBeacon.label>
+  <!-- EN: A shard of dark archotechnology mounted on a bioferrite pedestal. The shard, focused by the bioferrite, shapes nearby dark psychic flows. When placed near a psychic ritual spot, it improves the ritual quality.\n\nA ritual can benefit from up to four shard beacons. -->
+  <ShardBeacon.description>Taburan arkeoiteknologi gelap yang dipasang di atas alas bioferrita.The Sparge, difokuskan oleh bioferrita, membentuk aliran psikis gelap di dekatnya.Ketika ditempatkan di dekat tempat ritual psikis, itu meningkatkan kualitas ritual.</ShardBeacon.description>
+  
+  <!-- EN: void sculpture -->
+  <VoidSculpture.label>Patung vakum</VoidSculpture.label>
+  <!-- EN: An unsettling sculpture made from bioferrite. The psychic properties of bioferrite enhance the quality of any psychic rituals performed nearby.\n\nUp to six void sculptures can connect to a psychic ritual spot. -->
+  <VoidSculpture.description>Patung bioferrita yang mengganggu.Sifat psikis bioferrita meningkatkan kualitas ritual psikis yang dirayakan di dekatnya.</VoidSculpture.description>
+  
+</LanguageData>

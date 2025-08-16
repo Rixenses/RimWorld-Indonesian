@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: small chemfuel tank -->
+  <ChemfuelTank.label>tangki biofuel kecil</ChemfuelTank.label>
+  <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <ChemfuelTank.description>Tangki penyimpanan biofuel yang memasok bahan bakar untuk baling -baling gravinave.</ChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Biofuel</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <ChemfuelTank.comps.CompRefuelable.fuelLabel>Biofuel</ChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: fuel optimizer -->
+  <FuelOptimizer.label>Pengoptimal bahan bakar</FuelOptimizer.label>
+  <!-- EN: A gravtech unit that allows grav engine lift to coordinate more efficiently with traditional thrusters. It reduces the fuel needed for gravship flight.\n\nA gravship can support two fuel optimizers. -->
+  <FuelOptimizer.description>Unit gravitecnology yang memungkinkan peningkatan mesin gravitasi untuk berkoordinasi lebih efisien dengan propelan tradisional.Mengurangi bahan bakar yang diperlukan untuk penerbangan gravinave. \ N \ Nuna Gravinave dapat mendukung dua pengoptimal bahan bakar.</FuelOptimizer.description>
+  
+  <!-- EN: grav anchor -->
+  <GravAnchor.label>Jangkar gravitasi</GravAnchor.label>
+  <!-- EN: Prevents the local map from being destroyed during a gravship launch.\n\nGrav anchors passively reduce unstable gravitation shear in a large area, which prevents the damaging effects of a gravship launch. It can't be constructed on the gravship itself because it would prevent flight entirely. -->
+  <GravAnchor.description>Ini mencegah peta lokal ditinggalkan selama peluncuran gravinave.Itu tidak dapat dibangun di atas gravinave karena akan mencegah penerbangannya.</GravAnchor.description>
+  
+  <!-- EN: gravcore power cell -->
+  <GravcorePowerCell.label>Sel energi gravinuko</GravcorePowerCell.label>
+  <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->
+  <GravcorePowerCell.description>Generator energi yang secara pasif mengekstraksi sejumlah kecil energi dari gelombang gravitasi yang melintasi gravinave.</GravcorePowerCell.description>
+  
+  <!-- EN: grav engine -->
+  <GravEngine.label>Mesin gravitasi</GravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nWhen launched, anything on substructure that's connected to the grav engine will be transported to a new map. Without a grav anchor, launching a gravship will abandon your current map.\n\nGlitterworld engineers use gravships to launch orbital platforms and build skyrippers. They require massive and hyper-specialized facilities to produce, making them a rare sight outside of glitterworlds. -->
+  <GravEngine.description>Jantung ultrathcnology dari gravinave.Mesin gravitasi menghasilkan ketinggian dengan menginvestasikan dan mengintensifkan efek gravitasi di bidang di sekitarnya.Mesin ini bisa naik, tetapi tidak menghasilkan ke depan. Itu tidak dapat bekerja jauh dari gravitasi besar juga sebagai planet, jadi tidak berguna untuk perjalanan antarplanet.Kecuali jika Anda membangun jangkar gravitasi, meluncurkan gravinave akan meninggalkan peta Anda saat ini.Mereka membutuhkan fasilitas besar dan hiperspimialisasi untuk memproduksinya, yang menjadikannya pemandangan langka di luar mundobrillants.</GravEngine.description>
+  
+  <!-- EN: grav field extender -->
+  <GravFieldExtender.label>Ekstensor Lapangan Gravitasi</GravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to six grav field extenders. -->
+  <GravFieldExtender.description>Perangkat ultra -umum yang digunakan untuk meningkatkan ukuran gravinave.Ini memperluas area di mana substruktur dapat dibangun dan meningkatkan jumlah substruktur yang dapat didukung gravinave.Itu harus dibangun di dekat mesin gravitasi. \ N \ nuna gravinave dapat mendukung hingga enam ekstensor medan gravitasi.</GravFieldExtender.description>
+  
+  <!-- EN: gravship hull -->
+  <GravshipHull.label>Helm Gravinave</GravshipHull.label>
+  <!-- EN: A strong airtight wall that prevents oxygen leaks in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <GravshipHull.description>Dinding yang kuat dan hermetis yang mencegah kebocoran oksigen dalam kekosongan ruang.Dinding terhubung langsung ke substruktur yang mendasarinya, yang berarti hanya dapat dibangun di gravinave.</GravshipHull.description>
+  
+  <!-- EN: gravship shield generator -->
+  <GravshipShieldGenerator.label>Generator Shield Gravinave</GravshipShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
+  <GravshipShieldGenerator.description>Perangkat perlindungan yang dapat melindungi gravinave.Modulasi medan gravitasi untuk membuat permukaan repulsor momentum jangka pendek yang menghalangi proyektil.Ini bekerja melawan normal dan mortir.Orang -orang di dalam masih bisa menembak. \ N \ ndebe akan dimuat sebelum digunakan.Pajak dapat mendukung dua generator perisai gravinave.</GravshipShieldGenerator.description>
+  <!-- EN: activate -->
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>mengaktifkan</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  
+  <!-- EN: large chemfuel tank -->
+  <LargeChemfuelTank.label>Tangki biofuel besar</LargeChemfuelTank.label>
+  <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <LargeChemfuelTank.description>Tangki penyimpanan biofuel besar yang memasok bahan bakar untuk baling -baling gravinave.</LargeChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Biofuel</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <LargeChemfuelTank.comps.CompRefuelable.fuelLabel>Biofuel</LargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: large thruster -->
+  <LargeThruster.label>Baling -baling besar</LargeThruster.label>
+  <!-- EN: An advanced chemfuel thruster with a heat-resistant vacstone liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
+  <LargeThruster.description>Baling -baling biofuel canggih dengan mantel Vacante yang tahan panas.Ini sangat meningkatkan ruang lingkup gravinave. Propulor membutuhkan area yang jelas bebas dari bangunan besar dan substruktur gravinave.</LargeThruster.description>
+  
+  <!-- EN: minified thing -->
+  <MinifiedGravEngine.label>hal miniatur</MinifiedGravEngine.label>
+  
+  <!-- EN: pilot console -->
+  <PilotConsole.label>Konsol pilot</PilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
+  <PilotConsole.description>Antarmuka yang memungkinkan untuk meluncurkan dan mengemudikan gravinave.Ini memberi makan langsung dari mesin gravitasi.</PilotConsole.description>
+  
+  <!-- EN: pilot subpersona core -->
+  <PilotSubpersonaCore.label>Inti Subpersone Pilot</PilotSubpersonaCore.label>
+  <!-- EN: A low-grade subpersona specialized in gravship flight. It reduces the chance of an accident when flying a gravship, though it can't fully account for human error.\n\nA gravship can support up to two pilot subpersona cores. -->
+  <PilotSubpersonaCore.description>AI yang ditentukan -low -degree dalam penerbangan gravinaves.Ini mengurangi probabilitas kecelakaan ketika lalat gravinave, meskipun tidak dapat sepenuhnya mengkompensasi kesalahan manusia. \ Ndebe akan dipasang di dekat konsol pilot.Konsol pilot dapat mendukung hingga dua inti pilot di bawah tanah.</PilotSubpersonaCore.description>
+  
+  <!-- EN: mechanoid ship chunk -->
+  <ShipChunk_Mech.label>Sepotong kapal Mecanoide</ShipChunk_Mech.label>
+  <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
+  <ShipChunk_Mech.description>Sebuah fragmen pesawat ruang angkasa mekanis yang terbuat dari baja dan panel berumput.Tampaknya telah dicabut oleh kekuatan kebencian yang tidak terkendali atau beberapa jenis senjata. \ N \ ndeconstruy untuk mendapatkan sumber daya yang berharga.</ShipChunk_Mech.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>Dekonstrui untuk mendapatkan sumber daya yang berharga.</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>Inhibitor sinyal</SignalJammer.label>
+  <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship, allowing it to approach heavily-defended landing sites. -->
+  <SignalJammer.description>Emitor sinyal yang menyamarkan tanda tangan elektromagnetik gravinave Anda, memungkinkan Anda untuk mendekati lokasi pendaratan yang sangat bertahan.</SignalJammer.description>
+  
+  <!-- EN: small thruster -->
+  <SmallThruster.label>baling -baling kecil</SmallThruster.label>
+  <!-- EN: A chemfuel thruster that increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nA gravship can support up to four small thrusters. -->
+  <SmallThruster.description>Baling -baling biofuel yang meningkatkan ruang lingkup gravinave.Propulor membutuhkan area yang jelas bebas dari bangunan besar dan substruktur gravinave.</SmallThruster.description>
+  
+</LanguageData>

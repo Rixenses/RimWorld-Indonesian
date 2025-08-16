@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: persona core -->
+  <AIPersonaCore.label>Inti dari AI</AIPersonaCore.label>
+  <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
+  <AIPersonaCore.description>Inti komputer hiperavanis yang menampung kecerdasan buatan manusia super.Dalam isolasi nukleus berada dalam keadaan tidur, tetapi jika dipasang pada dukungan yang memadai, ia dapat menjadi pikiran dari kemampuan yang menakutkan.</AIPersonaCore.description>
+  
+  <!-- EN: elephant tusk -->
+  <ElephantTusk.label>Gajah Fang</ElephantTusk.label>
+  <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
+  <ElephantTusk.description>Taring gajah.Sangat tahan lama dan berharga.Mana, tetapi agak sulit ditangani sebagai senjata.</ElephantTusk.description>
+  <!-- EN: point -->
+  <ElephantTusk.tools.point.label>titik</ElephantTusk.tools.point.label>
+  <!-- EN: base -->
+  <ElephantTusk.tools.base.label>basis</ElephantTusk.tools.base.label>
+  
+  <!-- EN: healer mech serum -->
+  <MechSerumHealer.label>Serum Penyembuhan Mecanoid</MechSerumHealer.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
+  <MechSerumHealer.description>Satu penggunaan nanobot yang disesuaikan untuk menyembuhkan kondisi kesehatan.Nanobots akan mencoba menyembuhkan kondisi kesehatan terburuk yang mempengaruhi seseorang pada waktu tertentu.Ini bekerja bahkan dalam kondisi kesehatan yang seharusnya tidak dapat disembuhkan.Nanobot bahkan dapat mentransmutasikan diri mereka dalam bahan organik, membentuk anggota atau organ baru yang diperlukan.</MechSerumHealer.description>
+  <!-- EN: Use {0_label} -->
+  <MechSerumHealer.comps.CompUsable.useLabel>Gunakan serum penyembuhan mecanoid</MechSerumHealer.comps.CompUsable.useLabel>
+  
+  <!-- EN: resurrector mech serum -->
+  <MechSerumResurrector.label>Serum resuscor mecanoid</MechSerumResurrector.label>
+  <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
+  <MechSerumResurrector.description>Satu -penggunaan nanobots super -pengguna untuk membangkitkan kembali orang mati.Dikelola mayat tak lama setelah kematian, mesin memperbaiki jaringan yang rusak dan mengembalikan tubuh.Mereka tidak selalu berhasil - kadang -kadang, pengembalian yang dibangkitkan dengan kerusakan otak, kebutaan atau psikosis progresif.Hasilnya lebih baik ketika mekanik diberikan sebelumnya.</MechSerumResurrector.description>
+  <!-- EN: Use {0_label} -->
+  <MechSerumResurrector.comps.CompUsable.useLabel>Gunakan Serum Resuscor Mechanid</MechSerumResurrector.comps.CompUsable.useLabel>
+  
+  <!-- EN: techprof subpersona core -->
+  <TechprofSubpersonaCore.label>Nukleus Subpersone</TechprofSubpersonaCore.label>
+  <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
+  <TechprofSubpersonaCore.description>Inti kecil AI yang menampung subpersone tingkat rendah yang berspesialisasi dalam teknologi pengajaran.Saat digunakan, AI akan mengajari Anda teknologi yang tidak Anda ketahui, secara instan dan gratis.Itu hanya bisa digunakan sekali.</TechprofSubpersonaCore.description>
+  <!-- EN: Use {0_label} -->
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>Gunakan nukleus subpersone</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  
+  <!-- EN: thrumbo horn -->
+  <ThrumboHorn.label>Tanduk Trumbo</ThrumboHorn.label>
+  <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
+  <ThrumboHorn.description>Tanduk trumbo.Ini sangat indah, sangat sulit dan di luar jangkauan sebagian besar pasar.Ini adalah piala nyata.</ThrumboHorn.description>
+  <!-- EN: point -->
+  <ThrumboHorn.tools.point.label>titik</ThrumboHorn.tools.point.label>
+  <!-- EN: base -->
+  <ThrumboHorn.tools.base.label>basis</ThrumboHorn.tools.base.label>
+  
+</LanguageData>

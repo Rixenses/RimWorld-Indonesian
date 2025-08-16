@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disapproved -->
+  <AutonomousWeapons_Disapproved.label>tidak disetujui</AutonomousWeapons_Disapproved.label>
+  <!-- EN: Allowing a machine to decide to kill is an ugly thing. -->
+  <AutonomousWeapons_Disapproved.description>Membiarkan mesin memutuskan untuk membunuh adalah sesuatu yang jelek.</AutonomousWeapons_Disapproved.description>
+  <!-- EN: Automated weapon in colony -->
+  <AutonomousWeapons_Disapproved.comps.0.description>Menara otomatis di koloni</AutonomousWeapons_Disapproved.comps.0.description>
+  
+  <!-- EN: horrible -->
+  <AutonomousWeapons_Horrible.label>mengerikan</AutonomousWeapons_Horrible.label>
+  <!-- EN: Allowing a machine to decide to kill is a terrible thing. -->
+  <AutonomousWeapons_Horrible.description>Membiarkan mesin memutuskan untuk membunuh adalah sesuatu yang mengerikan.</AutonomousWeapons_Horrible.description>
+  <!-- EN: Automated weapon in colony -->
+  <AutonomousWeapons_Horrible.comps.0.description>Menara otomatis di koloni</AutonomousWeapons_Horrible.comps.0.description>
+  
+  <!-- EN: prohibited -->
+  <AutonomousWeapons_Prohibited.label>terlarang</AutonomousWeapons_Prohibited.label>
+  <!-- EN: Allowing a machine to decide to kill is an absolutely inhuman thing to do. -->
+  <AutonomousWeapons_Prohibited.description>Mengizinkan mesin yang memutuskan untuk membunuh adalah sesuatu yang benar -benar tidak manusiawi.</AutonomousWeapons_Prohibited.description>
+  <!-- EN: Automated weapon in colony -->
+  <AutonomousWeapons_Prohibited.comps.0.description>Menara otomatis di koloni</AutonomousWeapons_Prohibited.comps.0.description>
+  <!-- EN: Build automated turret -->
+  <AutonomousWeapons_Prohibited.comps.1.description>Torreta otomatis dibangun</AutonomousWeapons_Prohibited.comps.1.description>
+  
+</LanguageData>

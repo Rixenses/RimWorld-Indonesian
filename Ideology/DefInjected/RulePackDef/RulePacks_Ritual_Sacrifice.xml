@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ritualname (p = 2)-> [memeadjective] [pengorbanan]</li>
+    <li>r_ritualname-> [pengorbanan] dari [chosentheme]</li>
+    <li>R_RUTUALNAME-> [terpilih TUJUAN] [pengorbanan]</li>
+    <li>r_ritualname-> [KeyDeity] [pengorbanan]</li>
+    <li>r_ritualname-> [pengorbanan] dari [KeyDeity]</li>
+    <li>r_ritualname-> [pengorbanan] dari [Memeconscept]</li>
+    <li>r_ritualname-> [pengorbanan] dari [chosenideoname]</li>
+    <li>pengorbanan-> pengorbanan</li>
+    <li>pengorbanan-> persembahan</li>
+    <li>pengorbanan-> imolasi</li>
+    <li>pengorbanan-> persembahan</li>
+    <li>pengorbanan-> pembantaian</li>-><NamerRitualSacrifice.rulePack.rulesStrings>
+    <li>r_ritualname (p = 0,0001)-> [pengorbanan] [memeadjective]</li>
+    <li>r_ritualname (p = 4)-> [pengorbanan] [memeadjectiveFem]</li>
+    <li>r_ritualname-> [pengorbanan] de [chosentheme]</li>
+    <li>r_ritualname (p = 0,0001)-> [pengorbanan] [terpilih TUJUAN]</li>
+    <li>r_ritualname-> [pengorbanan] de [keydeity]</li>
+    <li>r_ritualname (p = 2)-> [pengorbanan] de [memeconceptdef]</li>
+    <li>r_ritualname (p = 0,0001)-> [pengorbanan] de [chosenideoname]</li>
+    <li>pengorbanan-> penebusan</li>
+    <li>Pengorbanan-> persembahan</li>
+    <li>Pengorbanan-> pengorbanan</li>
+    <li>pengorbanan-> persembahan</li>
+  </NamerRitualSacrifice.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: failed consolation by {0} -->
+  <CounselFailed.stages.failed_consolation_by.label>Consuelo de {0} gagal</CounselFailed.stages.failed_consolation_by.label>
+  <!-- EN: Somehow, that attempt at helping made things even worse. -->
+  <CounselFailed.stages.failed_consolation_by.description>Entah bagaimana, upaya untuk membantu lebih buruk.</CounselFailed.stages.failed_consolation_by.description>
+  
+  <!-- EN: counselled by {0} -->
+  <Counselled.stages.counselled_by.label>Disarankan oleh {0}</Counselled.stages.counselled_by.label>
+  <!-- EN: I received counseling about something that's been bothering me. -->
+  <Counselled.stages.counselled_by.description>Saya menerima saran tentang sesuatu yang mengganggu saya.</Counselled.stages.counselled_by.description>
+  
+  <!-- EN: counselled by {0} -->
+  <Counselled_MoodBoost.stages.counselled_by.label>Disarankan oleh {0}</Counselled_MoodBoost.stages.counselled_by.label>
+  <!-- EN: I received counseling from someone. It felt nice to be listened to. -->
+  <Counselled_MoodBoost.stages.counselled_by.description>Saya menerima saran seseorang.Sangat menyenangkan mereka mendengarkan saya.</Counselled_MoodBoost.stages.counselled_by.description>
+  
+  <!-- EN: failed to convert {0} -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>Saya gagal mengubah {0}</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <!-- EN: I tried to convert someone and it didn't work out. Awkward. -->
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>Saya mencoba meyakinkan seseorang dan itu tidak berhasil.Betapa tidak nyamannya.</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  
+  <!-- EN: {0} tried to convert me -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>{0} mencoba menjadi</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <!-- EN: Someone tried to convert me. I wish they'd just leave me alone. -->
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>Seseorang mencoba menjadi.Saya berharap mereka meninggalkan saya sendirian.</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  
+  <!-- EN: tended by {0} -->
+  <TendedByMedicalSpecialist.stages.tended_by.label>dihadiri oleh {0}</TendedByMedicalSpecialist.stages.tended_by.label>
+  <!-- EN: I received medical aid from one who carries the special healer status of my ideoligion. -->
+  <TendedByMedicalSpecialist.stages.tended_by.description>Saya menerima bantuan medis dari seseorang yang memiliki status penyembuh khusus ideologis saya.</TendedByMedicalSpecialist.stages.tended_by.description>
+  
+  <!-- EN: will diminished -->
+  <WillDiminished.stages.will_diminished.label>akan berkurang</WillDiminished.stages.will_diminished.label>
+  
+</LanguageData>

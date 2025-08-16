@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bluebird -->
+  <Bluebird.label>ubin</Bluebird.label>
+  <Bluebird.labelPlural>ubin</Bluebird.labelPlural>
+  <Bluebird.lifeStages.0.label>Cewek ubin</Bluebird.lifeStages.0.label>
+  <Bluebird.lifeStages.0.labelFemale>Cewek ubin</Bluebird.lifeStages.0.labelFemale>
+  <Bluebird.lifeStages.0.labelFemalePlural>Ayam ubin</Bluebird.lifeStages.0.labelFemalePlural>
+  <Bluebird.lifeStages.0.labelPlural>Ayam ubin</Bluebird.lifeStages.0.labelPlural>
+  <Bluebird.lifeStages.1.label>Ubin muda</Bluebird.lifeStages.1.label>
+  <Bluebird.lifeStages.1.labelPlural>Ubin muda</Bluebird.lifeStages.1.labelPlural>
+  <Bluebird.lifeStages.2.label>ubin</Bluebird.lifeStages.2.label>
+  <Bluebird.lifeStages.2.labelPlural>ubin</Bluebird.lifeStages.2.labelPlural>
+  
+  <!-- EN: crow -->
+  <Crow.label>Cuervo</Crow.label>
+  <Crow.labelPlural>gagak</Crow.labelPlural>
+  <Crow.lifeStages.0.label>Cewek cuervo</Crow.lifeStages.0.label>
+  <Crow.lifeStages.0.labelFemale>Cewek cuervo</Crow.lifeStages.0.labelFemale>
+  <Crow.lifeStages.0.labelFemalePlural>Cewek Cuervo</Crow.lifeStages.0.labelFemalePlural>
+  <Crow.lifeStages.0.labelPlural>Cewek gagak</Crow.lifeStages.0.labelPlural>
+  <Crow.lifeStages.1.label>Gagak muda</Crow.lifeStages.1.label>
+  <Crow.lifeStages.1.labelPlural>Gagak muda</Crow.lifeStages.1.labelPlural>
+  <Crow.lifeStages.2.label>Cuervo</Crow.lifeStages.2.label>
+  <Crow.lifeStages.2.labelPlural>gagak</Crow.lifeStages.2.labelPlural>
+  
+  <!-- EN: flamingo -->
+  <Flamingo.label>flamenco</Flamingo.label>
+  <Flamingo.labelPlural>Flemish</Flamingo.labelPlural>
+  <Flamingo.lifeStages.0.label>Cewek Flamenco</Flamingo.lifeStages.0.label>
+  <Flamingo.lifeStages.0.labelFemale>Cewek Flamenco</Flamingo.lifeStages.0.labelFemale>
+  <Flamingo.lifeStages.0.labelFemalePlural>Cewek Flamenco</Flamingo.lifeStages.0.labelFemalePlural>
+  <Flamingo.lifeStages.0.labelPlural>Cewek Flamenco</Flamingo.lifeStages.0.labelPlural>
+  <Flamingo.lifeStages.1.label>Flamenco muda</Flamingo.lifeStages.1.label>
+  <Flamingo.lifeStages.1.labelPlural>Flamenco muda</Flamingo.lifeStages.1.labelPlural>
+  <Flamingo.lifeStages.2.label>flamenco</Flamingo.lifeStages.2.label>
+  <Flamingo.lifeStages.2.labelPlural>Flemish</Flamingo.lifeStages.2.labelPlural>
+  
+  <!-- EN: heron -->
+  <Heron.label>Garza</Heron.label>
+  <Heron.labelPlural>Garzas</Heron.labelPlural>
+  <Heron.lifeStages.0.label>Garza Chick</Heron.lifeStages.0.label>
+  <Heron.lifeStages.0.labelFemale>Garza Chick</Heron.lifeStages.0.labelFemale>
+  <Heron.lifeStages.0.labelFemalePlural>Garza Chicks</Heron.lifeStages.0.labelFemalePlural>
+  <Heron.lifeStages.1.label>Garza muda</Heron.lifeStages.1.label>
+  <Heron.lifeStages.1.labelPlural>Bangau muda</Heron.lifeStages.1.labelPlural>
+  <Heron.lifeStages.2.label>Garza</Heron.lifeStages.2.label>
+  <Heron.lifeStages.2.labelPlural>Garzas</Heron.lifeStages.2.labelPlural>
+  
+  <!-- EN: macaw -->
+  <Macaw.label>Macaw</Macaw.label>
+  <Macaw.labelPlural>Guacamayos</Macaw.labelPlural>
+  <Macaw.lifeStages.0.label>Cewek guacamayo</Macaw.lifeStages.0.label>
+  <Macaw.lifeStages.0.labelFemale>Cewek guacamayo</Macaw.lifeStages.0.labelFemale>
+  <Macaw.lifeStages.0.labelFemalePlural>Cewek Guacamayo</Macaw.lifeStages.0.labelFemalePlural>
+  <Macaw.lifeStages.1.label>Guacamayo muda</Macaw.lifeStages.1.label>
+  <Macaw.lifeStages.1.labelPlural>Macaw muda</Macaw.lifeStages.1.labelPlural>
+  <Macaw.lifeStages.2.label>Macaw</Macaw.lifeStages.2.label>
+  <Macaw.lifeStages.2.labelPlural>Guacamayos</Macaw.lifeStages.2.labelPlural>
+  
+  <!-- EN: peacock -->
+  <Peacock.label>kerajaan</Peacock.label>
+  <Peacock.labelPlural>Kalkun Kerajaan</Peacock.labelPlural>
+  <Peacock.lifeStages.0.label>Cewek Peacock</Peacock.lifeStages.0.label>
+  <Peacock.lifeStages.0.labelFemale>Cewek Peacock</Peacock.lifeStages.0.labelFemale>
+  <Peacock.lifeStages.0.labelFemalePlural>Cewek Peacock</Peacock.lifeStages.0.labelFemalePlural>
+  <Peacock.lifeStages.1.label>Turki asli muda</Peacock.lifeStages.1.label>
+  <Peacock.lifeStages.1.labelPlural>Kalkun asli</Peacock.lifeStages.1.labelPlural>
+  <Peacock.lifeStages.2.label>kerajaan</Peacock.lifeStages.2.label>
+  <Peacock.lifeStages.2.labelPlural>Kalkun Kerajaan</Peacock.lifeStages.2.labelPlural>
+  
+  <!-- EN: penguin -->
+  <Penguin.label>penguin</Penguin.label>
+  <Penguin.labelPlural>Penguin</Penguin.labelPlural>
+  <Penguin.lifeStages.0.label>Cewek penguin</Penguin.lifeStages.0.label>
+  <Penguin.lifeStages.0.labelFemale>Cewek penguin</Penguin.lifeStages.0.labelFemale>
+  <Penguin.lifeStages.0.labelFemalePlural>Cewek Penguin</Penguin.lifeStages.0.labelFemalePlural>
+  <Penguin.lifeStages.1.label>Penguin muda</Penguin.lifeStages.1.label>
+  <Penguin.lifeStages.1.labelPlural>Penguin muda</Penguin.lifeStages.1.labelPlural>
+  <Penguin.lifeStages.2.label>penguin</Penguin.lifeStages.2.label>
+  <Penguin.lifeStages.2.labelPlural>Penguin</Penguin.lifeStages.2.labelPlural>
+  
+  <!-- EN: quail -->
+  <Quail.label>burung puyuh</Quail.label>
+  <Quail.labelPlural>burung puyuh</Quail.labelPlural>
+  <Quail.lifeStages.0.label>cewek puyuh</Quail.lifeStages.0.label>
+  <Quail.lifeStages.0.labelFemale>cewek puyuh</Quail.lifeStages.0.labelFemale>
+  <Quail.lifeStages.0.labelFemalePlural>Cewek puyuh</Quail.lifeStages.0.labelFemalePlural>
+  <Quail.lifeStages.1.label>Puyuh muda</Quail.lifeStages.1.label>
+  <Quail.lifeStages.1.labelPlural>Puyuh muda</Quail.lifeStages.1.labelPlural>
+  <Quail.lifeStages.2.label>burung puyuh</Quail.lifeStages.2.label>
+  <Quail.lifeStages.2.labelPlural>burung puyuh</Quail.lifeStages.2.labelPlural>
+  
+  <!-- EN: sparrow -->
+  <Sparrow.label>burung gereja</Sparrow.label>
+  <Sparrow.labelPlural>Burung pipit</Sparrow.labelPlural>
+  <Sparrow.lifeStages.0.label>Cewek Sparrow</Sparrow.lifeStages.0.label>
+  <Sparrow.lifeStages.0.labelFemale>Cewek Sparrow</Sparrow.lifeStages.0.labelFemale>
+  <Sparrow.lifeStages.0.labelFemalePlural>Cewek Gorrión</Sparrow.lifeStages.0.labelFemalePlural>
+  <Sparrow.lifeStages.1.label>Gorrión muda</Sparrow.lifeStages.1.label>
+  <Sparrow.lifeStages.1.labelPlural>Burung pipit muda</Sparrow.lifeStages.1.labelPlural>
+  <Sparrow.lifeStages.2.label>burung gereja</Sparrow.lifeStages.2.label>
+  <Sparrow.lifeStages.2.labelPlural>Burung pipit</Sparrow.lifeStages.2.labelPlural>
+  
+  <!-- EN: swan -->
+  <Swan.label>angsa</Swan.label>
+  <Swan.labelPlural>Angsa</Swan.labelPlural>
+  <Swan.lifeStages.0.label>Cewek Swan</Swan.lifeStages.0.label>
+  <Swan.lifeStages.0.labelFemale>Cewek Swan</Swan.lifeStages.0.labelFemale>
+  <Swan.lifeStages.0.labelFemalePlural>Swan Chicks</Swan.lifeStages.0.labelFemalePlural>
+  <Swan.lifeStages.1.label>Swan Muda</Swan.lifeStages.1.label>
+  <Swan.lifeStages.1.labelPlural>Sakelar muda</Swan.lifeStages.1.labelPlural>
+  <Swan.lifeStages.2.label>angsa</Swan.lifeStages.2.label>
+  <Swan.lifeStages.2.labelPlural>Angsa</Swan.lifeStages.2.labelPlural>
+  
+  <!-- EN: vulture -->
+  <Vulture.label>burung bangkai</Vulture.label>
+  <Vulture.labelPlural>burung nasar</Vulture.labelPlural>
+  <Vulture.lifeStages.0.label>Cewek burung nasar</Vulture.lifeStages.0.label>
+  <Vulture.lifeStages.0.labelFemale>Cewek burung nasar</Vulture.lifeStages.0.labelFemale>
+  <Vulture.lifeStages.0.labelFemalePlural>Cewek Hering</Vulture.lifeStages.0.labelFemalePlural>
+  <Vulture.lifeStages.1.label>Hering muda</Vulture.lifeStages.1.label>
+  <Vulture.lifeStages.1.labelPlural>Burung nasar muda</Vulture.lifeStages.1.labelPlural>
+  <Vulture.lifeStages.2.label>burung bangkai</Vulture.lifeStages.2.label>
+  <Vulture.lifeStages.2.labelPlural>burung nasar</Vulture.lifeStages.2.labelPlural>
+  
+</LanguageData>

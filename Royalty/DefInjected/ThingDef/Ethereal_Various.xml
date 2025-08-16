@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: skipshield -->
+  <BulletShieldPsychic.label>PSYCHO -Evidence</BulletShieldPsychic.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Badai Listrik</Flashstorm.label>
+  
+  <!-- EN: monument marker -->
+  <MonumentMarker.label>monumen</MonumentMarker.label>
+  <!-- EN: Marks the place where you intend to build a monument. Once placed, this cannot be moved. -->
+  <MonumentMarker.description>Tandai tempat di mana Anda berniat membangun monumen.Setelah ditempatkan, Anda tidak bisa lagi bergerak.</MonumentMarker.description>
+  
+  <!-- EN: solar pinhole -->
+  <SolarPinhole.label>tenaga surya</SolarPinhole.label>
+  
+</LanguageData>

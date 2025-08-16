@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulb turret -->
+  <BulbTurret.label>Turret Bulbo</BulbTurret.label>
+  
+  <!-- EN: hypercapacitor -->
+  <DiabolusCapacitor.label>Hypercardent</DiabolusCapacitor.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalDiabolusBodyFifthRing.label>Cincin Tubuh Kelima</MechanicalDiabolusBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodyFifthRing.labelShort>Cincin tubuh</MechanicalDiabolusBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalDiabolusBodyFirstRing.label>Cincin tubuh pertama</MechanicalDiabolusBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodyFirstRing.labelShort>Cincin tubuh</MechanicalDiabolusBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalDiabolusBodyFourthRing.label>Cincin tubuh keempat</MechanicalDiabolusBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodyFourthRing.labelShort>Cincin tubuh</MechanicalDiabolusBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalDiabolusBodySecondRing.label>Cincin tubuh kedua</MechanicalDiabolusBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodySecondRing.labelShort>Cincin tubuh</MechanicalDiabolusBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalDiabolusBodySixthRing.label>Cincin tubuh keenam</MechanicalDiabolusBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodySixthRing.labelShort>Cincin tubuh</MechanicalDiabolusBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalDiabolusBodyThirdRing.label>Cincin tubuh ketiga</MechanicalDiabolusBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalDiabolusBodyThirdRing.labelShort>Cincin tubuh</MechanicalDiabolusBodyThirdRing.labelShort>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalWarqueenBodyFifthRing.label>Cincin Tubuh Kelima</MechanicalWarqueenBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalWarqueenBodyFifthRing.labelShort>Cincin tubuh</MechanicalWarqueenBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalWarqueenBodyFirstRing.label>Cincin tubuh pertama</MechanicalWarqueenBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalWarqueenBodyFirstRing.labelShort>Cincin tubuh</MechanicalWarqueenBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalWarqueenBodyFourthRing.label>Cincin tubuh keempat</MechanicalWarqueenBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalWarqueenBodyFourthRing.labelShort>Cincin tubuh</MechanicalWarqueenBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalWarqueenBodySecondRing.label>Cincin tubuh kedua</MechanicalWarqueenBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalWarqueenBodySecondRing.labelShort>Cincin tubuh</MechanicalWarqueenBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalWarqueenBodyThirdRing.label>Cincin tubuh ketiga</MechanicalWarqueenBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalWarqueenBodyThirdRing.labelShort>Cincin tubuh</MechanicalWarqueenBodyThirdRing.labelShort>
+  
+  <!-- EN: forming sack -->
+  <MechanicalWarqueenFormingPod.label>Tas pelatihan</MechanicalWarqueenFormingPod.label>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>cakar hidrolik</PowerClaw.label>
+  
+  <!-- EN: small foot -->
+  <SmallMechanicalFoot.label>kaki kecil</SmallMechanicalFoot.label>
+  
+  <!-- EN: small leg -->
+  <SmallMechanicalLeg.label>kaki kecil</SmallMechanicalLeg.label>
+  
+</LanguageData>

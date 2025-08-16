@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: target -->
+  <BrainwipeTarget.label>tujuan</BrainwipeTarget.label>
+  
+  <!-- EN: chanter -->
+  <Chanter.label>penyanyi</Chanter.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <Chanter.description>Penyanyi menambah kekuatan psikis pada ritual.</Chanter.description>
+  
+  <!-- EN: chanter -->
+  <ChanterAdvanced.label>penyanyi</ChanterAdvanced.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <ChanterAdvanced.description>Penyanyi menambah kekuatan psikis pada ritual.</ChanterAdvanced.description>
+  
+  <!-- EN: target -->
+  <ChronophagyTarget.label>tujuan</ChronophagyTarget.label>
+  
+  <!-- EN: target -->
+  <DeathRefusalTarget.label>tujuan</DeathRefusalTarget.label>
+  <!-- EN: {PAWN_labelShort} cannot have any more death refusals stacked -->
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{Pawn_labelshort} tidak dapat memiliki lebih banyak penerapan mortis.</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  
+  <!-- EN: defenders -->
+  <Defender.label>Pelindung</Defender.label>
+  <!-- EN: Defenders protect the ritual participants from harm. -->
+  <Defender.description>Pelindung melindungi dari kerusakan pada peserta ritual.</Defender.description>
+  
+  <!-- EN: invoker -->
+  <Invoker.label>Summoner</Invoker.label>
+  
+  <!-- EN: target -->
+  <PhilophagyTarget.label>tujuan</PhilophagyTarget.label>
+  
+  <!-- EN: target -->
+  <PsychophagyTarget.label>tujuan</PsychophagyTarget.label>
+  
+</LanguageData>

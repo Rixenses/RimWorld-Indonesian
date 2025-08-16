@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insect sludge -->
+  <InsectSludge.label>residu insektoide</InsectSludge.label>
+  
+  <!-- EN: mechanoid platform -->
+  <MechanoidPlatform.label>Pitaforma mecanoide</MechanoidPlatform.label>
+  
+  <!-- EN: orbital platform -->
+  <OrbitalPlatform.label>Orbital Platforma</OrbitalPlatform.label>
+  
+</LanguageData>

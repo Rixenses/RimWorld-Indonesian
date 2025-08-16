@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drifter -->
+  <Drifter_Yttakin.label>pengembaraan</Drifter_Yttakin.label>
+  <Drifter_Yttakin.labelPlural>pengembaraan</Drifter_Yttakin.labelPlural>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite_Yttakin.label>Tentara bayaran elit</Mercenary_Elite_Yttakin.label>
+  <Mercenary_Elite_Yttakin.labelFemale>Mercenaria elit</Mercenary_Elite_Yttakin.labelFemale>
+  <Mercenary_Elite_Yttakin.labelMale>Tentara bayaran elit</Mercenary_Elite_Yttakin.labelMale>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Yttakin.labelPlural>tentara bayaran elit</Mercenary_Elite_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner_Yttakin.label>Gunner Mercenary</Mercenary_Gunner_Yttakin.label>
+  <Mercenary_Gunner_Yttakin.labelFemale>Mercenaria artillera</Mercenary_Gunner_Yttakin.labelFemale>
+  <Mercenary_Gunner_Yttakin.labelMale>Gunner Mercenary</Mercenary_Gunner_Yttakin.labelMale>
+  <Mercenary_Gunner_Yttakin.labelPlural>tentara bayaran penembak</Mercenary_Gunner_Yttakin.labelPlural>
+  
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy_Yttakin.label>Tentara bayaran berat</Mercenary_Heavy_Yttakin.label>
+  <Mercenary_Heavy_Yttakin.labelFemale>Tentara bayaran berat</Mercenary_Heavy_Yttakin.labelFemale>
+  <Mercenary_Heavy_Yttakin.labelMale>Tentara bayaran berat</Mercenary_Heavy_Yttakin.labelMale>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy_Yttakin.labelPlural>Tentara bayaran berat</Mercenary_Heavy_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher_Yttakin.label>tentara bayaran yang merusak</Mercenary_Slasher_Yttakin.label>
+  <Mercenary_Slasher_Yttakin.labelFemale>Tentara bayaran yang merusak</Mercenary_Slasher_Yttakin.labelFemale>
+  <Mercenary_Slasher_Yttakin.labelMale>tentara bayaran yang merusak</Mercenary_Slasher_Yttakin.labelMale>
+  <Mercenary_Slasher_Yttakin.labelPlural>tentara bayaran yang merusak</Mercenary_Slasher_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper_Yttakin.label>Penembak jitu tentara bayaran</Mercenary_Sniper_Yttakin.label>
+  <Mercenary_Sniper_Yttakin.labelFemale>Mercenaria fanteraradora</Mercenary_Sniper_Yttakin.labelFemale>
+  <Mercenary_Sniper_Yttakin.labelMale>Penembak jitu tentara bayaran</Mercenary_Sniper_Yttakin.labelMale>
+  <Mercenary_Sniper_Yttakin.labelPlural>tentara bayaran snipe</Mercenary_Sniper_Yttakin.labelPlural>
+  
+  <!-- EN: pirate gunner -->
+  <Pirate_Yttakin.label>Penembak bajak laut</Pirate_Yttakin.label>
+  <Pirate_Yttakin.labelFemale>Artileri Bajak Laut</Pirate_Yttakin.labelFemale>
+  <Pirate_Yttakin.labelMale>Penembak bajak laut</Pirate_Yttakin.labelMale>
+  <Pirate_Yttakin.labelPlural>Penembak bajak laut</Pirate_Yttakin.labelPlural>
+  
+  <!-- EN: scavenger gunner -->
+  <Scavenger_Yttakin.label>Mengacau Artiller</Scavenger_Yttakin.label>
+  <Scavenger_Yttakin.labelFemale>Artikel mengacaukan</Scavenger_Yttakin.labelFemale>
+  <Scavenger_Yttakin.labelMale>Mengacau Artiller</Scavenger_Yttakin.labelMale>
+  <Scavenger_Yttakin.labelPlural>Sekrup</Scavenger_Yttakin.labelPlural>
+  
+  <!-- EN: scavenger thrasher -->
+  <Thrasher_Yttakin.label>Penggalangan sampah</Thrasher_Yttakin.label>
+  <Thrasher_Yttakin.labelFemale>sampah</Thrasher_Yttakin.labelFemale>
+  <Thrasher_Yttakin.labelMale>Penggalangan sampah</Thrasher_Yttakin.labelMale>
+  <Thrasher_Yttakin.labelPlural>Pemulung sampah</Thrasher_Yttakin.labelPlural>
+  
+</LanguageData>

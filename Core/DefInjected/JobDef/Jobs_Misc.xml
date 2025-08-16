@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>Menerapkan technoplan</ApplyTechprint.reportString>
+  
+  <!-- EN: melee attacking TargetA. -->
+  <AttackMelee.reportString>menyerang jarak dekat targeta.</AttackMelee.reportString>
+  
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>menyerang scarry.</AttackStatic.reportString>
+  
+  <!-- EN: beating fire out. -->
+  <BeatFire.reportString>memadamkan api.</BeatFire.reportString>
+  
+  <!-- EN: Doing something. -->
+  <Carried.reportString>Melakukan sesuatu</Carried.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>Melakukan sesuatu.</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>Melakukan sesuatu.</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>Melakukan sesuatu.</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>Melakukan sesuatu.</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>Melakukan sesuatu.</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>Melakukan sesuatu.</CastJump.reportString>
+  
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>membersihkan salju.</ClearSnow.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>membawa targeta</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>membawa targeta</DeliverToCell.reportString>
+  
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>Mengusir pedagang</DismissTrader.reportString>
+  
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>Tarik Targeta ke tanah.</DropEquipment.reportString>
+  
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>Mengusir Bahan Bakar Kartu.</EjectFuel.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>Mengosongkan targeta</EmptyThingContainer.reportString>
+  
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>memasuki sarkofagus cryptosueño.</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>memasuki kartu.</EnterPortal.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>memasuki kartu.</EnterTransporter.reportString>
+  
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>Melengkapi Tarjeta.</Equip.reportString>
+  
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>memadamkan api dekat.</ExtinguishFiresNearby.reportString>
+  
+  <!-- EN: extinguishing self. -->
+  <ExtinguishSelf.reportString>memadamkan api itu sendiri.</ExtinguishSelf.reportString>
+  
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>Mengisi target.</FillFermentingBarrel.reportString>
+  
+  <!-- EN: fleeing. -->
+  <Flee.reportString>melarikan diri.</Flee.reportString>
+  
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>melarikan diri.</FleeAndCower.reportString>
+  
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>sakelar pengaktif.</Flick.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>kartu berikut.</Follow.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>kartu berikut.</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>kartu berikut</FollowRoper.reportString>
+  
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>menyebabkan kartu.</ForceTargetWear.reportString>
+  
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>Memuat target pada hewan kargo.</GiveToPackAnimal.reportString>
+  
+  <!-- EN: moving. -->
+  <Goto.reportString>bergerak.</Goto.reportString>
+  
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>bergerak.</GotoMindControlled.reportString>
+  
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>Mencari suhu yang lebih nyaman.</GotoSafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>pengembaraan.</GotoWander.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>mengangkut scarry.</HaulCorpseToPublicPlace.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>mengangkut scarry.</HaulToPortal.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>membawa targeta.</HaulToTransporter.reportString>
+  
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>menganggur</IdleWhileDespawned.reportString>
+  
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>Jelajahi kartu.</Ignite.reportString>
+  
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>mendorong kartu untuk melarikan diri.</InducePrisonerToEscape.reportString>
+  
+  <!-- EN: consuming TargetA. -->
+  <Ingest.reportString>mengkonsumsi target.</Ingest.reportString>
+  
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>Menerapkan target pada kartu.</InstallImplant.reportString>
+  
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>menghina scarry.</Insult.reportString>
+  
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>kartu pengaktif.</InteractThing.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDown.reportString>peletakan.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>berbaring</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>berbaring</LayDownResting.reportString>
+  
+  <!-- EN: lovin'. -->
+  <Lovin.reportString>bercinta.</Lovin.reportString>
+  
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>Operasi Torreta.</ManTurret.reportString>
+  
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>membantu scarry.</OfferHelp.reportString>
+  
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>membuka targeta.</Open.reportString>
+  
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>mengambil kartu.</PickupToHold.reportString>
+  
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>Membaca Targeta</Reading.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>RETREGEA Pasukan kembali.</RearmTurret.reportString>
+  
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>kartu pengisian ulang.</RearmTurretAtomic.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>Mengisi ulang scarry.</Refuel.reportString>
+  
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>Mengisi ulang scarry.</RefuelAtomic.reportString>
+  
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>kartu pengisian ulang.</Reload.reportString>
+  
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>Hapus kartu.</RemoveApparel.reportString>
+  
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>Kartu Bangkit.</Resurrect.reportString>
+  
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>bertarung dengan kartu.</SocialFight.reportString>
+  
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>melihat</StandAndStare.reportString>
+  
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>Saya putus asa dengan kartu.</Strip.reportString>
+  
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>Mengambil bir kartu.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>Menempatkan Targeta dalam inventaris.</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>Menghapus kartu target.</TakeFromOtherInventory.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>Menempatkan Targeta dalam inventaris.</TakeInventory.reportString>
+  
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>membeli dengan kartu.</TradeWithPawn.reportString>
+  
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>Mengaktifkan busa firewall.</TriggerObject.reportString>
+  
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>kartu unduhan.</UnloadInventory.reportString>
+  
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>Mengunduh inventaris.</UnloadYourInventory.reportString>
+  
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>mengaktifkan artefak.</UseArtifact.reportString>
+  
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>menggunakan kartu.</UseItem.reportString>
+  
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>Menggunakan neuroentrenator.</UseNeurotrainer.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>melakukan sesuatu.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>melakukan sesuatu.</UseVerbOnThingStatic.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>melakukan sesuatu.</UseVerbOnThingStaticReserve.reportString>
+  
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>muntah.</Vomit.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait.reportString>menunggu.</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>sedang tidur.</Wait_Asleep.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>sedang tidur.</Wait_AsleepDormancy.reportString>
+  
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>Mencari tujuan.</Wait_Combat.reportString>
+  
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>lumpuh.</Wait_Downed.reportString>
+  
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>dalam posisi.</Wait_MaintainPosture.reportString>
+  
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>Menunggu suhu yang tepat.</Wait_SafeTemperature.reportString>
+  
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>pengembaraan.</Wait_Wander.reportString>
+  
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>Dressing targeta.</Wear.reportString>
+  
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Research Expedition -->
+  <ResearchExpedition.label>Ekspedisi Riset</ResearchExpedition.label>
+  <!-- EN: A team of scientists. -->
+  <ResearchExpedition.description>Sebuah tim ilmuwan.</ResearchExpedition.description>
+  <!-- EN: leader -->
+  <ResearchExpedition.leaderTitle>pemimpin</ResearchExpedition.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ResearchExpedition.messageDefendersAttacking>{0} dari {1} sedang menyerang {2} milikmu.</ResearchExpedition.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <ResearchExpedition.pawnSingular>koloni</ResearchExpedition.pawnSingular>
+  <!-- EN: colonists -->
+  <ResearchExpedition.pawnsPlural>kolonis</ResearchExpedition.pawnsPlural>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>HeltersParagraph (HelScount == 0)-></li>
+    <li>HeltersParagraph (HelScount == 1)-> \ n \ na [helperkind_label] akan ditempatkan di bawah kendali Anda.Anda harus memberi makan dan menampung [helpers0_objective], tetapi [helpers0_pronoun] dapat mati dalam pertempuran tanpa konsekuensi. \ N \ n</li>
+    <li>HeltersParagraph (HelterScount> = 2)-> \ n \ n [HelScount] [HelperKind_Labelplural] akan ditempatkan di bawah kendali Anda.Anda harus memberi makan dan menampung mereka, tetapi mereka mungkin mati dalam pertempuran tanpa konsekuensi. \ N \ n</li>
+    <li>helpersArrivalletterend (helperscount == 0)-></li>
+    <li>helpersArrivalletterend (helperscount> = 1)-> \ n \ n [HelterScount] [HelSlabelSingingorplural] [HelterShashave] telah dikirim untuk membantu Anda.</li>
+    <li>HelperSlabelSingorplural (HelScount == 1)-> [HelperKind_label]</li>
+    <li>helperslabelsingorplural (helperscount> = 2)-> [helperkind_labelplural]</li>
+    <li>HelShashave (helperscount == 1)-> memiliki</li>
+    <li>HelShashave (HelScount> = 2)-> Have</li>
+    <li>helpersisare (helperscount == 1)-> is</li>
+    <li>helpersisare (HelScount> = 2)-> Are</li>-><Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>HeltersParagraph (HelScount == 0)-></li>
+    <li>HeltersParagraph (HelScount == 1)-> \ n \ n [helperkind_indefinite] akan diletakkan di bawah kendali Anda.Anda harus memberikan makanan dan akomodasi, dan Anda tidak perlu khawatir jika [helpers0_pronoun] meninggal dalam pertempuran, tidak akan ada konsekuensi. \ N \ n</li>
+    <li>HeltersParagraph (HelterScount> = 2)-> \ n \ n [HelScount] [HelperKind_Labelplural] akan diletakkan di bawah kendali Anda.Anda harus memberi mereka makanan dan akomodasi, dan Anda tidak perlu khawatir karena mereka mati dalam pertempuran, karena tidak akan ada konsekuensi. \ N \ n</li>
+    <li>helpersArrivalletterend (helperscount == 0)-></li>
+    <li>helpersArrivalletterend (helperscount> = 1)-> \ n \ n [HelScount] [HelSlabelsingorPlural] [helpershashave] sido [helperssent] para ayudarte.</li>
+    <li>HelperSlabelSingorplural (HelScount == 1)-> [HelperKind_label]</li>
+    <li>helperslabelsingorplural (helperscount> = 2)-> [helperkind_labelplural]</li>
+    <li>HelShashave (HelScount == 1)-> ha</li>
+    <li>HelShashave (HelScount> = 2)-> Han</li>
+    <li>Helpersisare (helperscount == 1)-> yaitu</li>
+    <li>Helpersisare (helperscount> = 2)-> mereka</li>
+  </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+  <!-- EN: [helpersLabelSingOrPlural] arrived -->
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[HelperSlabelsingorplural] [HelSarrived]</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
+  <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->
+  <Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>[HelSTheCap] [HelSlabelBeliborplural] [HelSent] oleh [asker_namedef] [HelShave] [HelSarrived] untuk membantu Anda dengan misi "[ResolvedQuestName]".</Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>
+  <!-- EN: the [helpersLabelSingOrPlural] -->
+  <Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>[helpersthecap] [helperslabelingingorplural]</Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>
+  <!-- EN: [helpersLabelSingOrPlural] leaving -->
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>[HelStHecap] [HelSlabelSingorPlural] [HelSleaving]</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
+  <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] to aid you [helpersHasHave] spent too much time with you, and [helpersIsAre] now leaving. -->
+  <Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>[Helpersthecap] [helperslingorplural] [helpersent] Oleh [asker_namedef] untuk membantu Anda [Heltershave] menghabiskan terlalu banyak waktu dengan Anda, dan sekarang saya tahu [Helpersisar] pergi.</Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>
+  
+</LanguageData>

@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  <!-- EN: Deities -->
+  <Deities>Dewa</Deities>
+  <!-- EN: Show all ideoligions -->
+  <ButtonShowAllIdeoligions>Tunjukkan semua ideolithions</ButtonShowAllIdeoligions>
+  <!-- EN: Ideoligion of -->
+  <IdeoligionOf>Ideoligion dari</IdeoligionOf>
+  <!-- EN: Memes -->
+  <Memes>Meme</Memes>
+  <!-- EN: Narrative -->
+  <CoreNarrative>Cerita</CoreNarrative>
+  <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
+  <CoreNarrativeDesc>Narasi sentral dari ideolisasi Anda.Ini tidak berdampak pada permainan.</CoreNarrativeDesc>
+  <!-- EN: Edit narrative -->
+  <EditNarrative>Edit narasi</EditNarrative>
+  <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
+  <LockButtonDesc>Memblokir atau membuka kunci narasi ideologis.Saat diblokir, teks naratif tidak akan secara otomatis diregenerasi jika ideologis diubah.</LockButtonDesc>
+  <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
+  <LockInOn>{0} Kunci diaktifkan.{1} tidak akan diregenerasi secara otomatis.</LockInOn>
+  <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
+  <LockInOff>{0} penguncian.Teks {1} dapat secara otomatis diregenerasi</LockInOff>
+  <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
+  <LockPreceptNameButtonDesc>Memblokir atau membuka kunci nama ajaran ini.Jika diblokir, nama sila tidak akan diregenerasi secara otomatis jika ideologis diubah.</LockPreceptNameButtonDesc>
+  <!-- EN: Precepts -->
+  <Precepts>Sila</Precepts>
+  <!-- EN: Rituals -->
+  <Rituals>Ritual</Rituals>
+  <!-- EN: Roles -->
+  <IdeoRoles>Peran</IdeoRoles>
+  <!-- EN: Buildings -->
+  <IdeoBuildings>Bangunan</IdeoBuildings>
+  <!-- EN: Relics -->
+  <IdeoRelics>Peninggalan</IdeoRelics>
+  <!-- EN: Preferred apparel -->
+  <IdeoApparel>Pakaian favorit</IdeoApparel>
+  <!-- EN: apparel desire -->
+  <IdeoApparelDesire>Pakaian yang diinginkan</IdeoApparelDesire>
+  <!-- EN: Won't do -->
+  <UnwillingToDoIdeoAction>Dia tidak akan melakukannya</UnwillingToDoIdeoAction>
+  <!-- EN: Stats -->
+  <PreceptStats>Statistik</PreceptStats>
+  <!-- EN: Prohibitions -->
+  <Prohibitions>Larangan</Prohibitions>
+  <!-- EN: Opinions -->
+  <Opinions>Pendapat</Opinions>
+  <!-- EN: Mental breaks -->
+  <MentalBreaks>Runtuh mental</MentalBreaks>
+  <!-- EN: Randomize name -->
+  <RandomizeName>Nama acak</RandomizeName>
+  <!-- EN: Randomize precepts -->
+  <RandomizePrecepts>Sila acak</RandomizePrecepts>
+  <!-- EN: Randomize deities -->
+  <RandomizeDeities>Dewa acak</RandomizeDeities>
+  <!-- EN: Add deity -->
+  <AddDeity>Tambahkan dewa</AddDeity>
+  <!-- EN: Choose memes -->
+  <ChooseMemes>Pilih Meme</ChooseMemes>
+  <!-- EN: Choose starting meme -->
+  <ChooseStartingMeme>Pilih meme awal</ChooseStartingMeme>
+  <!-- EN: Choose structure -->
+  <ChooseStructure>Pilih Struktur</ChooseStructure>
+  <!-- EN: Choose culture -->
+  <ChooseCulture>Pilih Budaya</ChooseCulture>
+  <!-- EN: Culture -->
+  <Culture>Budaya</Culture>
+  <!-- EN: Culture affects names, appearances, and symbols. -->
+  <CultureTip>Budaya memengaruhi nama, penampilan, dan simbol.</CultureTip>
+  <!-- EN: Structure -->
+  <StructureMeme>Struktur</StructureMeme>
+  <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
+  <StructureMemeTip>Struktur sebuah ideoligasi menentukan jenis entitas dan kekuatan yang dianggapnya penting untuk struktur moral alam semesta.Tidak memiliki efek permainan langsung.</StructureMemeTip>
+  <!-- EN: Adjective -->
+  <Adjective>Kata sifat</Adjective>
+  <!-- EN: Ritual room -->
+  <WorshipRoom>Ritual Hall</WorshipRoom>
+  <!-- EN: Member noun -->
+  <IdeoMembers>Pengikut (dalam bentuk tunggal)</IdeoMembers>
+  <!-- EN: Member plural -->
+  <IdeoMembersPlural>Pengikut (dalam bentuk jamak)</IdeoMembersPlural>
+  <!-- EN: Edit symbols -->
+  <EditSymbols>Edit simbol</EditSymbols>
+  <!-- EN: Edit deity -->
+  <EditDeity>Edit dewa</EditDeity>
+  <!-- EN: Edit required apparel -->
+  <EditApparelRequirement>Edit pakaian yang diperlukan</EditApparelRequirement>
+  <!-- EN: Edit name -->
+  <EditName>Edit nama</EditName>
+  <!-- EN: Any time -->
+  <StartingCondition_Anytime>Pada saat mana</StartingCondition_Anytime>
+  <!-- EN: Date -->
+  <StartingCondition_Date>Tanggal</StartingCondition_Date>
+  <!-- EN: Starting condition -->
+  <StartingCondition>Kondisi awal</StartingCondition>
+  <!-- EN: Randomize symbols -->
+  <RandomizeSymbols>Simbol acak</RandomizeSymbols>
+  <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
+  <RandomizeSymbolsTooltip>Acak untuk nama ideroligion, ikon, narasi, judul pemimpin dan teks lain seperti nama ritual atau nama peran.Ini tidak mempengaruhi elemen permainan seperti meme atau sila.</RandomizeSymbolsTooltip>
+  <!-- EN: Click any element to edit it -->
+  <ClickAnyElementToEditIt>Klik elemen apa pun untuk mengeditnya</ClickAnyElementToEditIt>
+  <!-- EN: Leader title -->
+  <LeaderTitle>Gelar pemimpin</LeaderTitle>
+  <!-- EN: Deity name -->
+  <DeityName>Nama dewa</DeityName>
+  <!-- EN: Deity title -->
+  <DeityTitle>Judul Dewa</DeityTitle>
+  <!-- EN: Deity gender -->
+  <DeityGender>Genre dewa</DeityGender>
+  <!-- EN: Name -->
+  <Name>Nama</Name>
+  <!-- EN: Icon -->
+  <Icon>Ikon</Icon>
+  <!-- EN: Related to meme -->
+  <RelatedToMeme>Terkait Meme</RelatedToMeme>
+  <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
+  <IdeoCharityQuestInfo>Ini adalah misi amal.Jika Anda tidak memenuhi, orang -orang percaya {0} tidak akan senang karena keyakinan amal mereka.Jika Anda melakukannya, orang -orang percaya {0} akan senang ({1}).</IdeoCharityQuestInfo>
+  <!-- EN: Slaves will not do this work -->
+  <WorkDisabledSlave>Budak tidak akan melakukan pekerjaan ini</WorkDisabledSlave>
+  <!-- EN: Disabled by health condition -->
+  <WorkDisabledHealth>Dinonaktifkan oleh masalah kesehatan</WorkDisabledHealth>
+  <!-- EN: Disabled by {0} role -->
+  <WorkDisabledRole>Dinonaktifkan oleh Peran {0}</WorkDisabledRole>
+  <!-- EN: Affected by traits -->
+  <AffectedByTraits>Dipengaruhi oleh fitur</AffectedByTraits>
+  <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
+  <CharityQuestTip>Ini adalah misi amal.Orang dengan keyakinan amal akan dipengaruhi oleh hasil mereka.</CharityQuestTip>
+  <!-- EN: formerly -->
+  <Formerly>sebelumnya</Formerly>
+  <!-- EN: all -->
+  <All>semua</All>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
+  <RelicTip>Peninggalan adalah objek yang penting secara spiritual atau ideologis.Mereka dapat ditemukan dengan menyelesaikan misi yang lama dan berbahaya.Relik dapat dipasang di relik untuk menarik peziarah, meningkatkan ritual dan memperkuat kemampuan ideologis untuk mengkonversi orang asing.</RelicTip>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals. -->
+  <RelicTipClassic>Peninggalan adalah objek yang penting secara spiritual atau ideologis.Mereka dapat ditemukan dengan menyelesaikan misi yang lama dan berbahaya.Relik dapat dipasang di relik untuk menarik peziarah dan meningkatkan ritual.</RelicTipClassic>
+  <!-- EN: animal -->
+  <Animal>hewan</Animal>
+  <!-- EN: Venerated animals -->
+  <VeneratedAnimals>Hewan Suci</VeneratedAnimals>
+  <!-- EN: weapon pair -->
+  <IdeoWeapon>sepasang senjata</IdeoWeapon>
+  <!-- EN: Weapons -->
+  <IdeoWeapons>Armas</IdeoWeapons>
+  <!-- EN: Swap noble and despised -->
+  <SwapNobleAndDespised>Pertukaran bangsawan dan tercela</SwapNobleAndDespised>
+  <!-- EN: noble -->
+  <Noble>bangsawan</Noble>
+  <!-- EN: despised -->
+  <Despised>diabaikan</Despised>
+  <!-- EN: Unlocked craftables -->
+  <UnlockedRecipes>Manufaktur yang tidak terkunci</UnlockedRecipes>
+  <!-- EN: Start with research -->
+  <IdeoStartWithResearch>Anda mulai dengan penelitian ini</IdeoStartWithResearch>
+  <!-- EN: Agreeing traits -->
+  <AgreeableTraits>Fitur yang diterima</AgreeableTraits>
+  <!-- EN: Conflicting traits -->
+  <DisagreeableTraits>Fitur yang bertentangan</DisagreeableTraits>
+  <!-- EN: Shooting -->
+  <Shooting>Massa</Shooting>
+  <!-- EN: Impact -->
+  <IdeoImpact>Dampak</IdeoImpact>
+  <!-- EN: Overall impact -->
+  <IdeoImpactOverall>Dampak Global</IdeoImpactOverall>
+  <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
+  <IdeoImpactOverallDesc>Beberapa meme memiliki lebih banyak dampak pada permainan daripada yang lain.Skor dampak memberikan gambaran tentang dampaknya terhadap permainan.</IdeoImpactOverallDesc>
+  <!-- EN: low -->
+  <IdeoMemeImpactLabel_1>rendah</IdeoMemeImpactLabel_1>
+  <!-- EN: medium -->
+  <IdeoMemeImpactLabel_2>setengah</IdeoMemeImpactLabel_2>
+  <!-- EN: high -->
+  <IdeoMemeImpactLabel_3>alto</IdeoMemeImpactLabel_3>
+  <!-- EN: low -->
+  <IdeoImpactLabel_1>rendah</IdeoImpactLabel_1>
+  <!-- EN: low -->
+  <IdeoImpactLabel_2>rendah</IdeoImpactLabel_2>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_3>sedang</IdeoImpactLabel_3>
+  <!-- EN: moderate -->
+  <IdeoImpactLabel_4>sedang</IdeoImpactLabel_4>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_5>kuat</IdeoImpactLabel_5>
+  <!-- EN: strong -->
+  <IdeoImpactLabel_6>kuat</IdeoImpactLabel_6>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_7>Sangat kuat</IdeoImpactLabel_7>
+  <!-- EN: very strong -->
+  <IdeoImpactLabel_8>Sangat kuat</IdeoImpactLabel_8>
+  <!-- EN: extreme -->
+  <IdeoImpactLabel_9>ekstrim</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's starting ideoligion. -->
+  <InitialPlayerIdeo>Ini adalah ideologis awal koloni Anda.</InitialPlayerIdeo>
+  
+  
+  <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
+  <FluidIdeoTip>Karena ideolisasi ini sangat baru dan memiliki begitu sedikit pengikut di planet ini, ia cairan.Ini berarti dapat dikembangkan dari waktu ke waktu.Anda dapat memperoleh poin pengembangan dengan menyelesaikan ritual dan misi yang terkait dengan ideolisasi ini.</FluidIdeoTip>
+  <!-- EN: How to get development points -->
+  <FluidIdeoTipGetPoints>Bagaimana Mendapatkan Poin Pengembangan</FluidIdeoTipGetPoints>
+  <!-- EN: Convert someone to your ideoligion -->
+  <FluidIdeoTipGetPoinsByConversion>Mengubah seseorang</FluidIdeoTipGetPoinsByConversion>
+
+  <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
+  <ResearchProjectHasDefsWithMissingMemes>{0} Membuka kunci hal -hal yang tidak dapat Anda bangun karena mereka membutuhkan meme yang tidak diyakini oleh Anda</ResearchProjectHasDefsWithMissingMemes>
+  <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
+  <SelectedWorkTypeOpposedByIdeo>PERINGATAN: Jenis pekerjaan ini menentang ideolisasi Anda, sehingga dapat membuat orang ini tidak bahagia.</SelectedWorkTypeOpposedByIdeo>
+
+  <!-- EN: Development points -->
+  <DevelopmentPoints>Poin Pengembangan</DevelopmentPoints>
+
+</LanguageData>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to do to survive. -->
+  <ApocalypseSurvivor23.description>[PAWN_nameDef] lahir pada masa bencana bagi dunia asalnya, ketika perubahan iklim mengancam kelaparan dan banjir besar-besaran. Seiring pertumbuhannya, situasi semakin memburuk, jutaan orang meninggal dan pemerintahan jatuh ke dalam anarki. [PAWN_nameDef] dan orang tuanya melakukan apa yang mereka bisa untuk bertahan hidup.</ApocalypseSurvivor23.description>
+  <!-- EN: apocalypse survivor -->
+  <ApocalypseSurvivor23.title>Aman</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleFemale>Aman</ApocalypseSurvivor23.titleFemale>
+  <!-- EN: survivor -->
+  <ApocalypseSurvivor23.titleShort>Aman</ApocalypseSurvivor23.titleShort>
+  <ApocalypseSurvivor23.titleShortFemale>Aman</ApocalypseSurvivor23.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe's fungus crops. -->
+  <CaveworldTender26.description>[PAWN_NamaDef] tumbuh di sebuah kompleks gua bawah tanah di kedalaman dunia yang tidak ramah. Dia bekerja bersama anak-anak lain untuk merawat tanaman jamur milik sukunya.</CaveworldTender26.description>
+  <!-- EN: caveworld tender -->
+  <CaveworldTender26.title>Gua</CaveworldTender26.title>
+  <CaveworldTender26.titleFemale>Gua</CaveworldTender26.titleFemale>
+  <!-- EN: cave kid -->
+  <CaveworldTender26.titleShort>Anak gua</CaveworldTender26.titleShort>
+  <CaveworldTender26.titleShortFemale>gadis gua</CaveworldTender26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
+  <CaveworldTunneler48.description>[Dia sangat mengenal bebatuan sehingga dia hampir bisa memandu dirinya sendiri di dalam gua hanya dengan baunya saja.</CaveworldTunneler48.description>
+  <!-- EN: caveworld tunneler -->
+  <CaveworldTunneler48.title>terowongan gua</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleFemale>terowongan gua</CaveworldTunneler48.titleFemale>
+  <!-- EN: tunneler -->
+  <CaveworldTunneler48.titleShort>terowongan</CaveworldTunneler48.titleShort>
+  <CaveworldTunneler48.titleShortFemale>mesin terowongan</CaveworldTunneler48.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
+  <IndustrialOrphan13.description>[Tidak pernah mengenal orang tuanya.Kenangan paling awal yang dia miliki adalah kerja keras yang dia lakukan dalam ongkos dan lokakarya di dunia industri tempat dia dilahirkan.</IndustrialOrphan13.description>
+  <!-- EN: industrial orphan -->
+  <IndustrialOrphan13.title>yatim piatu industri</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleFemale>yatim piatu industri</IndustrialOrphan13.titleFemale>
+  <!-- EN: orphan -->
+  <IndustrialOrphan13.titleShort>yatim piatu</IndustrialOrphan13.titleShort>
+  <IndustrialOrphan13.titleShortFemale>yatim piatu</IndustrialOrphan13.titleShortFemale>
+  
+  <!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
+  <Scout44.description>Terlahir {PAWN_jenis kelamin ? atau : a} dari administrator koloni di dunia perbatasan, [PAWN_namaDef] terdaftar dalam program pemuda yang mengajarkan teknik eksplorasi militer.</Scout44.description>
+  <!-- EN: scout -->
+  <Scout44.title>penjelajah</Scout44.title>
+  <Scout44.titleFemale>penjelajah</Scout44.titleFemale>
+  <!-- EN: scout -->
+  <Scout44.titleShort>penjelajah</Scout44.titleShort>
+  <Scout44.titleShortFemale>penjelajah</Scout44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
+  <ShelterChild50.description>[PAWN_NamaDef] dibesarkan di sebuah tempat penampungan di kedalaman dunia yang beracun. Dia menerima pendidikan penuh, tetapi tidak memiliki kesempatan untuk melakukan pekerjaan fisik apa pun.</ShelterChild50.description>
+  <!-- EN: shelter child -->
+  <ShelterChild50.title>tempat penampungan anak</ShelterChild50.title>
+  <ShelterChild50.titleFemale>tempat penampungan anak</ShelterChild50.titleFemale>
+  <!-- EN: shelterkid -->
+  <ShelterChild50.titleShort>tempat penampungan anak</ShelterChild50.titleShort>
+  <ShelterChild50.titleShortFemale>tempat penampungan anak</ShelterChild50.titleShortFemale>
+  
+  <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
+  <TestSubject15.description>Di pusat-pusat kota yang paling korup, para ilmuwan yang tidak beretika melakukan kekejaman yang tak terhitung jumlahnya atas nama penelitian. [PAWN_nameDef] diisolasi {PAWN_gender ? atau : a} di fasilitas tertutup sejak lahir dan menjalani serangkaian eksperimen perilaku dalam upaya untuk mengubahnya {PAWN_gender ? atau : a} menjadi tentara super yang sempurna.</TestSubject15.description>
+  <!-- EN: test subject -->
+  <TestSubject15.title>subjek uji</TestSubject15.title>
+  <!-- EN: testee -->
+  <TestSubject15.titleShort>subjek</TestSubject15.titleShort>
+  
+  <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
+  <UrbworldUrchin61.description>Dunia perkotaan, lanskap industri kuno dan dalam yang penuh dengan kemanusiaan dan racun. Dia lahir di daerah kumuh tergelap di salah satu dunia ini. Dia harus berjuang untuk mendapatkan setiap sisa makanan.</UrbworldUrchin61.description>
+  <!-- EN: urbworld urchin -->
+  <UrbworldUrchin61.title>pencuri perkotaan</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleFemale>pencuri perkotaan</UrbworldUrchin61.titleFemale>
+  <!-- EN: urchin -->
+  <UrbworldUrchin61.titleShort>pencuri kecil</UrbworldUrchin61.titleShort>
+  <UrbworldUrchin61.titleShortFemale>pencuri kecil</UrbworldUrchin61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
+  <WreckageExplorer93.description>[PAWN_nameDef] ditugaskan untuk menjaga kawanan ternaknya, namun sering melalaikan tugasnya untuk menjelajahi kapal-kapal perang yang jatuh yang tersebar di seluruh planet ini.</WreckageExplorer93.description>
+  <!-- EN: wreckage explorer -->
+  <WreckageExplorer93.title>penjelajah kapal</WreckageExplorer93.title>
+  <WreckageExplorer93.titleFemale>pramuka kapal</WreckageExplorer93.titleFemale>
+  <!-- EN: explorer -->
+  <WreckageExplorer93.titleShort>penjelajah</WreckageExplorer93.titleShort>
+  <WreckageExplorer93.titleShortFemale>penjelajah</WreckageExplorer93.titleShortFemale>
+  
+</LanguageData>

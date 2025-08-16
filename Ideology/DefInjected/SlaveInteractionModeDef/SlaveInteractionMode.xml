@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: emancipate -->
+  <Emancipate.label>Saya Amnner</Emancipate.label>
+  <!-- EN: A warden will free this slave. -->
+  <Emancipate.description>Seorang penjaga akan melepaskan budak ini.</Emancipate.description>
+  
+  <!-- EN: execute -->
+  <Execute.label>menjalankan</Execute.label>
+  <!-- EN: A warden will execute this slave on the spot by cutting. -->
+  <Execute.description>Seorang penjaga akan mengeksekusi tahanan di tempat dengan memotong.</Execute.description>
+  
+  <!-- EN: imprison -->
+  <Imprison.label>memenjarakan</Imprison.label>
+  <!-- EN: A warden will imprison this slave. Once imprisoned, they can be recruited, or enslaved once again. -->
+  <Imprison.description>Seorang penjaga akan memenjarakan budak ini.Setelah dipenjara, budak dapat direkrut atau diperbudak lagi.</Imprison.description>
+  
+  <!-- EN: no interaction -->
+  <NoInteraction.label>Jangan berinteraksi</NoInteraction.label>
+  <!-- EN: Wardens will not interact with this slave. -->
+  <NoInteraction.description>Para pengusaha tidak akan berinteraksi dengan budak ini.</NoInteraction.description>
+  
+  <!-- EN: suppress -->
+  <Suppress.label>berisi</Suppress.label>
+  <!-- EN: Wardens will periodically intimidate the slave to increase their suppression level and reduce the chance of rebellion. -->
+  <Suppress.description>Para penjaga secara berkala akan mengintimidasi budak untuk meningkatkan tingkat penindasan mereka dan mengurangi kemungkinan pemberontakan.</Suppress.description>
+  
+</LanguageData>

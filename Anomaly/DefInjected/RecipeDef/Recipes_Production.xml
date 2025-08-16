@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: incubate bioferrite -->
+  <ExtractBioferrite.label>Bioferrita Incubar</ExtractBioferrite.label>
+  <!-- EN: Process a corpse in order to incubate a batch of bioferrite from archites seeded into the flesh and nervous tissue. -->
+  <ExtractBioferrite.description>Ini memproses tubuh untuk menginkubasi banyak bioferrita dari arsiteat yang ditanam di dalam daging dan jaringan saraf.</ExtractBioferrite.description>
+  <!-- EN: Incubating bioferrite from corpse. -->
+  <ExtractBioferrite.jobString>Inkubasi Bioferrita Tubuh.</ExtractBioferrite.jobString>
+  
+</LanguageData>

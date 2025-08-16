@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anne -->
+  <Anne.label>gua</Anne.label>
+  
+  <!-- EN: artist -->
+  <Artist.label>artis</Artist.label>
+  
+  <!-- EN: elisabeth -->
+  <Elisabeth.label>Isabel</Elisabeth.label>
+  
+  <!-- EN: henry -->
+  <Henry.label>Enrique</Henry.label>
+  
+  <!-- EN: jane -->
+  <Jane.label>Juana</Jane.label>
+  
+  <!-- EN: lisa -->
+  <Lisa.label>Elisa</Lisa.label>
+  
+  <!-- EN: mary -->
+  <Mary.label>Maria</Mary.label>
+  
+  <!-- EN: richard -->
+  <Richard.label>Ricardo</Richard.label>
+  
+  <!-- EN: stephen -->
+  <Stephen.label>Steven</Stephen.label>
+  
+  <!-- EN: victoria -->
+  <Victoria.label>Victoria</Victoria.label>
+  
+  <!-- EN: william -->
+  <William.label>Guillermo</William.label>
+  
+</LanguageData>

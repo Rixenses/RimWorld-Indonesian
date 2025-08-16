@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>Emanasi Archeoteca</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>
+  <!-- EN: The scale of it. The fractal logic-scape of the multiversal hyperplane. No distance. No time. No me or them. I'm everything. I'm nothing. -->
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>Skala itu sendiri.Lanskap fraktal dari multiverse hyperplane.Tidak ada ruang.Tidak ada waktu.Baik saya, maupun mereka.Saya semua.Saya bukan apa -apa.</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>Emanasi Archeoteca</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>
+  <!-- EN: I can feel the edge of its thoughts, see the endless scope when I close my eyes. I need to focus on my physical body or I drift away. -->
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>Saya bisa merasakan batas pikiran Anda, melihat jangkauan tak terbatas ketika saya menutup mata.Saya harus berkonsentrasi pada tubuh fisik saya atau saya akan pergi.</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>
+  
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>Emanasi Archeoteca</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>
+  <!-- EN: It makes me perceive so much. Eyeless knowledge of absolute existence, all minds speaking and dying and birthing at once. It's hard not to lose connection with myself. -->
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>Itu membuat saya sangat memahami ... pengetahuan absolut tentang keberadaan, semua pikiran berbicara dan sekarat dan dilahirkan pada saat yang sama ... apakah sulit untuk tidak kehilangan hubungan dengan saya {Pawn_gender?O: A}.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>Emanasi Archeoteca</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>
+  <!-- EN: It pays no attention to me but I sense the edge of its perception. Flashes of terrifying timeless sight. Hard to ignore. -->
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>Dia tidak menatapku, tapi aku minta maaf dalam pikiranku.Kilatan visi yang menakutkan dan abadi sulit untuk diabaikan.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>
+  
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>Emanasi Archeoteca</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>
+  <!-- EN: These thoughts coming from the structure, they open doors to such vastness... I feel so small that I might disappear. -->
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>Pikiran -pikiran ini yang berasal dari struktur membuka pintu hingga kekejaman seperti itu ... Saya merasa sangat sedikit {Pawn_gender?O: A} di sisinya yang bisa hilang.</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>
+  <!-- EN: archotech emanation -->
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>Emanasi Archeoteca</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>
+  <!-- EN: I can feel the edge of its wordless whispers... They make me uneasy. -->
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>Saya bisa merasakan gema bisikannya tanpa kata -kata ... mereka mengkhawatirkan saya.</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RetaliationLeTterLabel-> Retaliasi Wastepack</li>
+    <li>RetaliationLeTterLabel (senderisnull == false)-> [sender_faction_pawnsingular] Retaliasi Wastepack</li>
+    <li>Pembalasan memfasilitasi label (kirim isnull == false, sender_royalincurrentFaction == false)-> [sender_namedef] pembalasan wastepack</li>
+    <li>RetaliationLeTTERTEXT (senderisnull == true)-> pembuangan limbah beracun Anda tidak luput dari perhatian.Tetangga yang marah membalas dengan membombardir pemukiman Anda dengan polong transportasi yang penuh dengan pack wastepacks beracun. \ N \ nif tidak disimpan beku, pack wastepacks beracun akan larut dari waktu ke waktu, mencemari medan terdekat.</li>
+    <li>RetaliationLeTTERTEXT (sender_factionleader == true)-> [sender_faction_leadertitle] [sender_namefull] dari [sender_faction_name] mengklaim bahwa pembuangan limbah beracun Anda telah merusak faksi [pengirim_possesif].Sebagai pembalasan, [sender_pronoun] menggunakan pod transportasi untuk membombardir Anda dengan pack wastepacks yang beracun. \ N \ nif tidak disimpan beku, pack raksasa beracun akan larut dari waktu ke waktu, mencemari medan terdekat.</li>
+    <li>RetaliationLeTterText (sender_royalincurrentFaction == true)-> [sender_faction_leaderTitle] [sender_namefull] dari [sender_faction_name] mengklaim bahwa pembuangan limbah reten-peta Anda yang tidak pakan.[SENDER_PRONOUN] menggunakan pod transportasi untuk membombardir Anda dengan pangkas limbah beracun. \ n \ nif tidak disimpan beku, pack wastepacks beracun akan larut dari waktu ke waktu, mencemari medan terdekat.</li>-><PollutionRetaliation.questContentRules.rulesStrings>
+    <li>RetaliationLeTterLabel-> Repliations untuk Paket Limbah</li>
+    <li>RetaliationLeTterLabel (senderisnull == false)-> [sender_faction_pawnsingular] dalam pembalasan untuk paket limbah</li>
+    <li>Retalionletterlabel (senderisnull == false, sender_royallintirtentfation == false)-> repasalias de [sennder_namedef] por pack de residuos</li>
+    <li>RetaliationLeTTERTEXT (senderisnull == true)-> tumpahan limbah beracun Anda di luar peta tidak luput dari perhatian.Para tetangga, marah, mengambil pembalasan yang mengebom pemukiman Anda dengan kapsul transportasi yang penuh dengan paket limbah beracun.</li>
+    <li>RetaliationLeTTERTEXT (sender_factionleader == true)-> [sender_namefulull] [un_una_sender] [sender_faction_leadertitle], dari faksi [sender_faction_name] menyatakan bahwa pembuangan limbah beracun Anda di luar peta telah merugikan faksi-faksi.Sebagai pembalasan, ia menggunakan kapsul transportasi untuk membombardirnya dengan paket limbah beracun.</li>
+    <li>RetaliationLetText (sender_royalincurrentFaction == true)-> [sender_namefulr] [un_una_sender] [sender_faction_leadertitle], dari faksi [sender_faction_name] untuk membalas.Anda menggunakan kapsul transportasi untuk membombardir Anda dengan paket limbah beracun.</li>
+  </PollutionRetaliation.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Polusi Polusi</li>-><PollutionRetaliation.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> pembelian kembali untuk kontaminasi</li>
+  </PollutionRetaliation.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Polusi Polusi</li>-><PollutionRetaliation.questNameRules.rulesStrings>
+    <li>QuestDescription-> pembelian kembali untuk kontaminasi</li>
+  </PollutionRetaliation.questNameRules.rulesStrings>
+  
+</LanguageData>

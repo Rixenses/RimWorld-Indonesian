@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravship crew -->
+  <GravshipCrew.label>Awak Gravinave</GravshipCrew.label>
+  <!-- EN: The crew of a gravship. -->
+  <GravshipCrew.description>Kru gravinave.</GravshipCrew.description>
+  <!-- EN: leader -->
+  <GravshipCrew.leaderTitle>pemimpin</GravshipCrew.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GravshipCrew.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</GravshipCrew.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <GravshipCrew.pawnSingular>pendatang</GravshipCrew.pawnSingular>
+  <!-- EN: colonists -->
+  <GravshipCrew.pawnsPlural>pemukim</GravshipCrew.pawnsPlural>
+  
+</LanguageData>

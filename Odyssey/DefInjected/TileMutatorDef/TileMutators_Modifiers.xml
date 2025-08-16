@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal habitat -->
+  <AnimalHabitat.label>Habitat Hewan</AnimalHabitat.label>
+  <!-- EN: A natural habitat for {ANIMALKIND_labelPlural}. They appear in greater numbers here. -->
+  <AnimalHabitat.description>Habitat alami untuk {animokind_labelplural}.Mereka muncul dalam jumlah yang lebih besar di sini.</AnimalHabitat.description>
+  
+  <!-- EN: decreased animal life -->
+  <AnimalLife_Decreased.label>Kehidupan hewan yang menurun</AnimalLife_Decreased.label>
+  <!-- EN: Animals are less abundant here than normal. -->
+  <AnimalLife_Decreased.description>Hewan kurang berlimpah di sini dari biasanya.</AnimalLife_Decreased.description>
+  
+  <!-- EN: increased animal life -->
+  <AnimalLife_Increased.label>Augmented Hewan Kehidupan</AnimalLife_Increased.label>
+  <!-- EN: Animals are more abundant here. -->
+  <AnimalLife_Increased.description>Hewan lebih berlimpah di sini.</AnimalLife_Increased.description>
+  
+  <!-- EN: archean trees -->
+  <ArcheanTrees.label>Pohon Archaean</ArcheanTrees.label>
+  <!-- EN: This area contains ancient archean trees. These trees host a special microbial community in their roots which converts nearby terrain into rich soil. Their delicate root system makes it impossible to replant them. -->
+  <ArcheanTrees.description>Area ini berisi pohon -pohon kuno kuno.Pohon -pohon ini menampung komunitas mikroba khusus di akarnya yang mengubah tanah terdekat menjadi tanah yang subur.Sistem root yang halus membuatnya tidak mungkin untuk menanam kembali.</ArcheanTrees.description>
+  
+  <!-- EN: dry ground -->
+  <DryGround.label>Lantai kering</DryGround.label>
+  <!-- EN: The ground in this area is drier than normal. There are no small ponds or bodies of water. -->
+  <DryGround.description>Tanah di daerah ini lebih kering dari biasanya.Tidak ada kolam atau tubuh kecil.</DryGround.description>
+  
+  <!-- EN: decreased fish -->
+  <Fish_Decreased.label>penurunan ikan</Fish_Decreased.label>
+  <!-- EN: This area has fewer fish than normal. -->
+  <Fish_Decreased.description>Area ini memiliki lebih sedikit ikan dari biasanya.</Fish_Decreased.description>
+  
+  <!-- EN: increased fish -->
+  <Fish_Increased.label>Peningkatan ikan</Fish_Increased.label>
+  <!-- EN: This area has more fish than normal. -->
+  <Fish_Increased.description>Area ini memiliki lebih banyak ikan dari biasanya.</Fish_Increased.description>
+  
+  <!-- EN: foggy -->
+  <FoggyMutator.label>kabut</FoggyMutator.label>
+  <!-- EN: Fog is common in this area. -->
+  <FoggyMutator.description>Kabut umum di daerah ini.</FoggyMutator.description>
+  
+  <!-- EN: junkyard -->
+  <Junkyard.label>membuang</Junkyard.label>
+  <!-- EN: An old dumping ground for various kinds of junk. -->
+  <Junkyard.description>TPA tua untuk berbagai jenis memo.</Junkyard.description>
+  
+  <!-- EN: mineral rich -->
+  <MineralRich.label>Kaya mineral</MineralRich.label>
+  
+  <!-- EN: obsidian deposits -->
+  <ObsidianDeposits.label>Deposit Obsidian</ObsidianDeposits.label>
+  <!-- EN: This area has deposits of volcanic obsidian, which can be mined for obsidian glass. -->
+  <ObsidianDeposits.description>Area ini memiliki endapan obsidian vulkanik, yang dapat diekstraksi untuk mendapatkan kaca obsidian.</ObsidianDeposits.description>
+  
+  <!-- EN: plant grove -->
+  <PlantGrove.label>belukar</PlantGrove.label>
+  <!-- EN: This area contains a large number of {0}s. -->
+  <PlantGrove.description>Area ini berisi sejumlah besar {0}.</PlantGrove.description>
+  
+  <!-- EN: decreased plant life -->
+  <PlantLife_Decreased.label>Kehidupan tanaman yang menurun</PlantLife_Decreased.label>
+  <!-- EN: Plant life is less abundant here. -->
+  <PlantLife_Decreased.description>Kehidupan tanaman kurang berlimpah di sini.</PlantLife_Decreased.description>
+  
+  <!-- EN: increased plant life -->
+  <PlantLife_Increased.label>peningkatan kehidupan tanaman</PlantLife_Increased.label>
+  <!-- EN: Plant life is more abundant here. -->
+  <PlantLife_Increased.description>Kehidupan tanaman lebih berlimpah di sini.</PlantLife_Increased.description>
+  
+  <!-- EN: increased pollution -->
+  <Pollution_Increased.label>Peningkatan polusi</Pollution_Increased.label>
+  <!-- EN: This area is contaminated with toxic pollutants. -->
+  <Pollution_Increased.description>Area ini terkontaminasi dengan polusi beracun.</Pollution_Increased.description>
+  
+  <!-- EN: high geothermal activity -->
+  <SteamGeysers_Increased.label>Aktivitas panas bumi yang tinggi</SteamGeysers_Increased.label>
+  <!-- EN: Steam geysers are more common in this area. -->
+  <SteamGeysers_Increased.description>Speaker uap lebih umum di bidang ini.</SteamGeysers_Increased.description>
+  
+  <!-- EN: sunny -->
+  <SunnyMutator.label>cerah</SunnyMutator.label>
+  <!-- EN: Clear weather is much more common here. -->
+  <SunnyMutator.description>Cuaca cerah jauh lebih umum di sini.</SunnyMutator.description>
+  
+  <!-- EN: wet climate -->
+  <WetClimate.label>Cuaca basah</WetClimate.label>
+  <!-- EN: Precipitation is much more common here. -->
+  <WetClimate.description>Curah hujan jauh lebih umum di sini.</WetClimate.description>
+  
+  <!-- EN: wild plants -->
+  <WildPlants.label>Tanaman liar</WildPlants.label>
+  <!-- EN: When warm enough, this area can grow a large number of {0}. -->
+  <WildPlants.description>Ketika cukup panas, area ini dapat menumbuhkan sejumlah besar {0}.</WildPlants.description>
+  
+  <!-- EN: wild plants -->
+  <WildTropicalPlants.label>Tanaman liar tropis</WildTropicalPlants.label>
+  <!-- EN: This area can grow a large number of {0}s. -->
+  <WildTropicalPlants.description>Area ini dapat menumbuhkan sejumlah besar {0} s.</WildTropicalPlants.description>
+  
+  <!-- EN: windy -->
+  <WindyMutator.label>berangin</WindyMutator.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyMutator.description>Angin jauh lebih kuat di daerah ini.</WindyMutator.description>
+  
+</LanguageData>

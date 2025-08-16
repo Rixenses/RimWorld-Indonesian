@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>Bush gersang</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Area ini kering, tetapi tidak cukup kering untuk menjadi gurun yang asli.Dataran terbuka dengan kelumpuhan dan semak -semak memberi jalan untuk menyebarkan taman.Tumbuhan kuat dan memiliki kepadatan hewan, tetapi tanahnya sulit ditemukan.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>gurun</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Daerah yang sangat kering yang hanya mendukung sedikit kehidupan. Hanya ada sedikit lahan subur, dan kehidupan hewan sangat langka. Gurun bisa panas atau cukup dingin.</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>gurun yang ekstrim</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Daerah yang sangat panas dan kering, hampir tidak ada kehidupan. Panas yang menyengat dan hampir tidak adanya lahan subur membuat sangat sulit untuk bertahan hidup di sini.</ExtremeDesert.description>
+  <!-- EN: Searing heat and a near total lack of arable land make survival here a challenge. -->
+  <ExtremeDesert.settleWarning>Panas yang menyengat dan hampir tidak adanya lahan subur membuat bertahan hidup di sini menjadi sebuah tantangan.</ExtremeDesert.settleWarning>
+  
+</LanguageData>

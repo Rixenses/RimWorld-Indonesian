@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blindness cult -->
+  <Blindness_Cult.label>pemuja kebutaan</Blindness_Cult.label>
+  <!-- EN: Blindless opens the inner eye, and suffering illuminates the true sight.\n\nUnlocks the medical specialist role. Will have sacrifices, ritual blindings and scarifications. These people have reduced comfort expectations. -->
+  <Blindness_Cult.description>Kebutaan membuka mata batin, dan penderitaan menerangi pandangan yang sebenarnya. Akan ada pengorbanan, kebutaan dan ritual skarifikasi. Orang-orang ini telah mengurangi harapan kenyamanan.</Blindness_Cult.description>
+  
+  <!-- EN: cannibals -->
+  <Cannibals.label>kanibal</Cannibals.label>
+  <!-- EN: The flesh of man and woman is the highest form of sustenance. Also, it's just delicious.\n\nWill have gladiator duels, prisoner sacrifices, and human meat feasts. -->
+  <Cannibals.description>Daging pria dan wanita adalah bentuk mata pencaharian tertinggi. Selain itu, itu sangat lezat.</Cannibals.description>
+  
+  <!-- EN: classic-like -->
+  <ClassicLike.label>klasik</ClassicLike.label>
+  <!-- EN: Your colonists get a belief system like classic RimWorld. The rest of the world has separate ideoligions generated for them. -->
+  <ClassicLike.description>Pemukim Anda akan memiliki sistem kepercayaan seperti di Rimworld klasik. Seluruh dunia memiliki iderol terpisah yang dihasilkan untuk mereka.</ClassicLike.description>
+  
+  <!-- EN: cowboys -->
+  <Cowboys.label>Koboy</Cowboys.label>
+  <!-- EN: Men should keep a strong grip over their herds and their women. Raising animals for food is much better than farming plants. We don't tolerate arguments about any of this.\n\nUnlocks the animals specialist role. -->
+  <Cowboys.description>Pria harus mempertahankan kontrol yang kuat atas kawanan dan wanita mereka. Membesarkan hewan lebih baik daripada menanam tanaman. Kami tidak menerima debat tentang ini.\n\nMembuka peran spesialis hewan.</Cowboys.description>
+  
+  <!-- EN: criminal gang -->
+  <Criminal_Gang.label>geng kriminal</Criminal_Gang.label>
+  <!-- EN: Following someone else's ideas and working all day are for weaklings. This group thrives on raiding others and contact with diverse ideas.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
+  <Criminal_Gang.description>Mengikuti ide-ide orang lain dan bekerja sepanjang hari adalah untuk lemah. Geng ini mencuri dan menyerang orang lain dengan berbagai ide. Mereka akan memiliki duel gladiator.</Criminal_Gang.description>
+  
+  <!-- EN: domination gang -->
+  <Domination_Gang.label>geng dominan</Domination_Gang.label>
+  <!-- EN: Our beliefs are law and truth. We will try to convince them. Anyone who resists our teaching is a vile subhuman who must be crushed.\n\n Unlocks melee and shooting specialist roles. Will have gladiator duels. -->
+  <Domination_Gang.description>Keyakinan kita adalah hukum dan kebenaran.Kami akan mencoba meyakinkan mereka. Siapa pun yang menolak ajaran kita tidak akan dianggap sebagai manusia, tetapi sebagai makhluk keji yang pantas untuk dihancurkan. Mereka akan memiliki duel gladiator.</Domination_Gang.description>
+  
+  <!-- EN: feminine ravagers -->
+  <Feminine_Ravagers.label>para wanita penjarah</Feminine_Ravagers.label>
+  <!-- EN: Women should assert their natural power by reigning over men and pillaging weaker peoples.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
+  <Feminine_Ravagers.description>Wanita harus menegakkan kekuatan alami mereka yang memerintah pria dan menjarah orang-orang terlemah. Mereka akan memiliki duel gladiator.</Feminine_Ravagers.description>
+  
+  <!-- EN: feral people -->
+  <Feral_People.label>orang liar</Feral_People.label>
+  <!-- EN: We are animals and animals are us. We are trees and we live by them and love them as us.\n\nUnlocks animal and plants specialist roles. Increases taming abilities of every member. Cutting trees and slaughtering animals are unacceptable. These people can connect more deeply with the Gauranlen trees. -->
+  <Feral_People.description>Kami adalah hewan dan hewan adalah kami.Kami adalah pohon, kami hidup untuk mereka dan mencintai mereka seperti kami. Meningkatkan keterampilan doming semua anggota. Penebangan pohon dan pengorbanan hewan tidak dapat diterima.Orang-orang ini dapat membangun koneksi yang lebih baik dengan pohon Gauranlen.</Feral_People.description>
+  
+  <!-- EN: free ranchers -->
+  <Free_Ranchers.label>peternak bebas</Free_Ranchers.label>
+  <!-- EN: A community of ranchers who hunt and raise animals for food. They don't like eating plants. They welcome diverse ideas.\n\nUnlocks the animals specialist role. -->
+  <Free_Ranchers.description>Komunitas peternak yang berburu dan memelihara hewan untuk memberi makan. Mereka tidak suka makan tanaman. Mereka menerima berbagai ide. Membuka peran spesialis hewan.</Free_Ranchers.description>
+  
+  <!-- EN: high collectivists -->
+  <High_Collectivists.label>kolektivis tinggi</High_Collectivists.label>
+  <!-- EN: Everyone must work hard and contribute to the community, so they can party in a smokeleaf circle together.\n\nUnlocks the plants specialist role. -->
+  <High_Collectivists.description>Setiap orang harus bekerja keras dan berkontribusi pada koloni, sehingga mereka dapat merayakan bersama dalam lingkaran rumput merokok.</High_Collectivists.description>
+  
+  <!-- EN: human purists -->
+  <Human_Purists.label>manusia murni</Human_Purists.label>
+  <!-- EN: The human race is superior and the human body is sacred. We disdain body modification, scarification and drug use.\n\nUnlocks the medical and production specialist roles. -->
+  <Human_Purists.description>Ras manusia lebih unggul dan tubuh manusia sakral. Kami menolak modifikasi tubuh, skarifikasi dan penggunaan narkoba.</Human_Purists.description>
+  
+  <!-- EN: martyrs -->
+  <Martyrs.label>martir</Martyrs.label>
+  <!-- EN: Admitting our corrupt, sinful nature is as crucial as suffering for it. Pain and sacrifices are approved, while physical love and comfort are shameful. -->
+  <Martyrs.description>Mengakui sifat kita yang korup dan berdosa sama pentingnya dengan penderitaan untuk itu. Rasa sakit dan pengorbanan disetujui, sementara cinta fisik dan kenyamanan memalukan.</Martyrs.description>
+  
+  <!-- EN: mole people -->
+  <Mole_People.label>bawah tanah</Mole_People.label>
+  <!-- EN: The sun - it stuns, we shun! In the tunnels we shuffle, and snuffle for truffles. In our bubble there's no scuttling trouble. Never a kerfuffle.\n\nGrants increased mining efficiency but an aversion to outdoor light. -->
+  <Mole_People.description>Matahari ... setrum kami, kami menghindarinya! Di terowongan kami menyeret kaki kami dan mencari truffle. Dalam gelembung kita tidak ada masalah. Tidak pernah ada keributan.</Mole_People.description>
+  
+  <!-- EN: naked maneaters -->
+  <Naked_Maneaters.label>pemakan manusia bugil</Naked_Maneaters.label>
+  <!-- EN: Cannibal feasts are much better when both you and the meal are naked. It's almost like you can merge into one.\n\nIncludes sacrifices and gladiator duels. -->
+  <Naked_Maneaters.description>Pesta kanibal jauh lebih baik ketika Anda dan makanan telanjang. Hampir seolah-olah mereka bisa bergabung menjadi satu.\n\ntermasuk pengorbanan dan duel gladiator.</Naked_Maneaters.description>
+  
+  <!-- EN: nature over man -->
+  <NatureOverMan.label>alam diatas manusia</NatureOverMan.label>
+  <!-- EN: We atone for humanity's crimes against nature by respecting her, and by performing acts of charity. Slaughtering animals and cutting trees are unacceptable.\n\nUnlocks plants specialist role. -->
+  <NatureOverMan.description>Kami mengoreksi kejahatan kemanusiaan terhadap alam yang menghormatinya dan melakukan tindakan amal. Pengorbanan hewan dan penebangan pohon tidak dapat diterima.\n\nMembuka peran spesialis tanaman.</NatureOverMan.description>
+  
+  <!-- EN: nudist recruiters -->
+  <Nudist_Recruiters.label>perekrut bugil</Nudist_Recruiters.label>
+  <!-- EN: We must prance free of constraining clothes, and constantly invite others to join us. -->
+  <Nudist_Recruiters.description>Kita harus membebaskan diri dari pakaian yang membatasi kita dan terus-menerus mengundang orang lain untuk bergabung dengan kita.</Nudist_Recruiters.description>
+  
+  <!-- EN: purist flagellators -->
+  <Painful_Purists.label>kaum flagela</Painful_Purists.label>
+  <!-- EN: Suffering purifies and ennobles. Modifying the body to ease your life is the way of the filthy.\n\nUnlocks the medical specialist role. These people have reduced comfort expectations. Will have gladiator duels and sacrifices. -->
+  <Painful_Purists.description>Penderitaan murni dan memuliakannya. Memodifikasi tubuh untuk memfasilitasi hidup Anda adalah jalan yang kotor.\n\nmembuka peran dokter spesialis. Orang -orang ini telah mengurangi harapan kenyamanan. Mereka akan memiliki gladiator dan pengorbanan duel.</Painful_Purists.description>
+  
+  <!-- EN: transcendent humanists -->
+  <Progressive_Humanism.label>manusia transendental</Progressive_Humanism.label>
+  <!-- EN: The human race is at the peak of nature and must use technology to step beyond. We do this by enhancing our bodies with technology, but we like to hear others' view on the matter.\n\nUnlocks research and production specialist roles. -->
+  <Progressive_Humanism.description>Ras manusia berada di puncak alam semesta dan harus menggunakan teknologi untuk melampaui. Kami melakukannya dengan meningkatkan tubuh kami dengan teknologi, tetapi kami suka mendengar pendapat orang lain tentang hal itu.</Progressive_Humanism.description>
+
+  <!-- EN: dark humans -->
+  <ProHuman_Darklovers.label>Manusia Kegelapan</ProHuman_Darklovers.label>
+  <!-- EN: The human race flourishes in the darkness of night and the underground.\n\nUnlocks mining and production specialist roles. Combat efficiency in the dark is increased. -->
+  <ProHuman_Darklovers.description>Ras manusia menyukai kegelapan malam dan bawah tanah. Meningkatkan efektivitas pertempuran dalam gelap.</ProHuman_Darklovers.description>
+
+  <!-- EN: techno-utopians -->
+  <Techno_Utopians.label>tekno-utopis</Techno_Utopians.label>
+  <!-- EN: The human body must be enhanced with technology so we can build a better future for everyone.\n\nUnlocks the research specialist role. -->
+  <Techno_Utopians.description>Tubuh manusia harus ditingkatkan dengan teknologi sehingga kita dapat membangun masa depan yang lebih baik untuk semua.\n\nMembuka peran spesialis penelitian.</Techno_Utopians.description>
+
+  <!-- EN: tree-worshippers -->
+  <Tree_Worshippers.label>penyembah pohon</Tree_Worshippers.label>
+  <!-- EN: We live in harmony with the Gauranlen trees. Trees should never be cut, and animals should not be harmed.\n\n Unlocks the plants specialist role. These people live in rough conditions without complains, and can connect more deeply with the Gauranlen trees. -->
+  <Tree_Worshippers.description>Kita hidup selaras dengan pohon Gauranlen. Pohon tidak boleh ditebang, dan hewan tidak boleh dilukai. Orang-orang ini hidup dalam kondisi yang sulit tanpa mengeluh, dan dapat terhubung lebih dalam dengan pohon-pohon Gauranlen.</Tree_Worshippers.description>
+
+  <!-- EN: unity family -->
+  <Unity_Family.label>Asosiasi Keluarga</Unity_Family.label>
+  <!-- EN: The community is a family of hard-working, like-minded people. Putting yourself first is not acceptable. -->
+  <Unity_Family.description>Komunitas adalah keluarga orang yang bekerja dan terkait. Mengutamakan diri sendiri tidak dapat diterima.</Unity_Family.description>
+
+  <!-- EN: bloody dominators -->
+  <Violent_Dominators.label>dominator berdarah</Violent_Dominators.label>
+  <!-- EN: The weak deserve to lose what they have to us. Raiding and enslaving are honorable.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
+  <Violent_Dominators.description>Orang lemah layak kehilangan apa yang mereka miliki dari kita. Penyerangan dan perbudakan sangat terhormat.\n\nMembuka peran spesialis tempur jarak dekat dan menembak. Mereka akan memiliki duel gladiator.</Violent_Dominators.description>
+  
+</LanguageData>

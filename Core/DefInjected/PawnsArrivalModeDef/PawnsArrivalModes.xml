@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>Sekelompok {0} dari faksi {1} telah mendarat tepat di atas Anda!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Sekelompok {0} persahabatan dari faksi {1} telah mendarat tepat di atas Anda!</CenterDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
+  <CenterDrop.textWillArrive>{0_pawnspluralDef} akan jatuh ke dalam kapsul transportasi tepat di atas Anda.</CenterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>Sekelompok {0} dari faksi {1} telah tiba di kapsul transportasi di dekat Anda.</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>Sekelompok {0} persahabatan dari faksi {1} telah tiba di kapsul transportasi di dekat Anda.</EdgeDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDrop.textWillArrive>{0_pawnspluralDef} akan tiba dalam kapsul transportasi.</EdgeDrop.textWillArrive>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>Beberapa kelompok terpisah {0} dari faksi {1} telah tiba di kapsul transportasi di dekat Anda.</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Beberapa grup terpisah {0} persahabatan dari faksi {1} telah tiba di kapsul transportasi di dekat Anda.</EdgeDropGroups.textFriendly>
+  <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDropGroups.textWillArrive>Beberapa grup terpisah dari {0_pawnspluralDef} akan tiba dalam kapsul transportasi.</EdgeDropGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>Sekelompok {0} dari faksi {1} telah mencapai sekitarnya.</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>Sekelompok {0} persahabatan dari faksi {1} telah mencapai sekitarnya.</EdgeWalkIn.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkIn.textWillArrive>{0_pawnspluralDef} akan tiba dengan berjalan kaki.</EdgeWalkIn.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textEnemy>Sekelompok {0} dari faksi {1} berasal dari segala arah.</EdgeWalkInDistributed.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived from every direction. -->
+  <EdgeWalkInDistributed.textFriendly>Sekelompok {0} persahabatan dari faksi {1} berasal dari segala arah</EdgeWalkInDistributed.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot from every direction. -->
+  <EdgeWalkInDistributed.textWillArrive>{0_pawnspluralDef} akan tiba dengan berjalan kaki dari segala arah.</EdgeWalkInDistributed.textWillArrive>
+  
+  <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textEnemy>Beberapa grup terpisah {0} dari faksi {1} telah mencapai sekitarnya.</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textFriendly>Beberapa grup terpisah {0} persahabatan dari faksi {1} telah mencapai sekitarnya.</EdgeWalkInGroups.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
+  <EdgeWalkInGroups.textWillArrive>{0_pawnspluralDef} akan tiba dengan berjalan kaki, mendekati dari beberapa titik pada saat yang sama.</EdgeWalkInGroups.textWillArrive>
+  
+  <!-- EN: Several {0} are emerging from the water. -->
+  <EmergeFromWater.textEnemy>Beberapa {0} muncul dari air.</EmergeFromWater.textEnemy>
+  <!-- EN: {0_pawnsPluralDef} will emerge from the water. -->
+  <EmergeFromWater.textWillArrive>{0_pawnspluralDef} akan muncul dari air.</EmergeFromWater.textWillArrive>
+  
+  <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
+  <MechClusterDrop.textEnemy>Sekelompok bersenjata {0} telah mendarat di kapsul transportasi di dekat Anda.</MechClusterDrop.textEnemy>
+  <!-- EN: The mech cluster will arrive in drop pods. -->
+  <MechClusterDrop.textWillArrive>Kelompok bersenjata mecanoid akan tiba dalam kapsul transportasi.</MechClusterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>Sekelompok {0} dari faksi {1} telah tiba dalam kapsul transportasi.Mereka mendarat di seluruh area!</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>Sekelompok {0} persahabatan dari faksi {1} telah tiba di kapsul transportasi.Kapsul mereka rusak dan mendarat di seluruh area!</RandomDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <RandomDrop.textWillArrive>{0_pawnspluralDef} akan tiba dalam kapsul transportasi.</RandomDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textEnemy>Sekelompok {0} dari faksi {1} telah tiba di kapsul transportasi di dekat sini.</SpecificDropDebug.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <SpecificDropDebug.textFriendly>Grup yang ramah {0} dari faksi {1} telah tiba di kapsul transportasi di dekat sini.</SpecificDropDebug.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <SpecificDropDebug.textWillArrive>{0_pawnspluralDef} akan tiba dalam kapsul transportasi.</SpecificDropDebug.textWillArrive>
+  
+</LanguageData>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>Operasi Jatuh di {Patient_Lallshort}</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {RECIPE_label}. -->
+  <SurgeryOutcomeBase.outcomes.1.letterText>{Surgeon_labelshort} telah membuat kesalahan fatal saat beroperasi {pasien_lallshort} karena kompleksitas: {recipe_etiqueta}.</SurgeryOutcomeBase.outcomes.1.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>Operasi Jatuh di {Patient_Lallshort}</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.2.letterText>{Surgeon_labelshort} telah gagal secara bencana saat beroperasi {pasien_lallshort} ({recipe_label}).</SurgeryOutcomeBase.outcomes.2.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>Operasi Jatuh di {Patient_Lallshort}</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.3.letterText>{Surgeon_lallshort} telah gagal konyol saat beroperasi {pasien_lallshort} ({recipe_label}).</SurgeryOutcomeBase.outcomes.3.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort}: Sterilized -->
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>Operasi Gagal di {Patient_Lallshort}: Sterilisasi</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed while operating on {PATIENT_labelShort} ({RECIPE_label}), leaving {PATIENT_objective} sterile. -->
+  <SurgeryOutcomeBase.outcomes.4.letterText>{Surgeon_lallshort} telah gagal saat beroperasi {pasien_lallshort} ({recipe_label}), meninggalkan {pasien_objective} steril.</SurgeryOutcomeBase.outcomes.4.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort}: Sterilized -->
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>Operasi Gagal di {Patient_Lallshort}: Sterilisasi</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed while operating on {PATIENT_labelShort} ({RECIPE_label}), leaving {PATIENT_objective} sterile. -->
+  <SurgeryOutcomeBase.outcomes.5.letterText>{Surgeon_lallshort} telah gagal saat beroperasi {pasien_lallshort} ({recipe_label}), meninggalkan {pasien_objective} steril.</SurgeryOutcomeBase.outcomes.5.letterText>
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>Operasi Jatuh di {Patient_Lallshort}</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeBase.outcomes.6.letterText>{Surgeon_lallshort} telah sedikit gagal saat beroperasi {pasien_lallshort} ({recipe_label}).</SurgeryOutcomeBase.outcomes.6.letterText>
+  
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>Operasi Jatuh di {Patient_Lallshort}</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>{Surgeon_lallshort} telah sedikit gagal saat beroperasi {pasien_lallshort} ({recipe_label}).</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+  
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: no artificial enhancement -->
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>Tidak ada perbaikan buatan</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+  <!-- EN: I don't have any artificial body enhancements. It's against my beliefs to be so unenhanced. -->
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>Saya tidak memiliki peningkatan tubuh buatan.Bertentangan dengan keyakinan saya menjadi sangat sedikit lebih baik {Pawn_gender?O: A}.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
+  
+  <!-- EN: no artificial enhancement -->
+  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>Tidak ada perbaikan buatan</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
+  
+  <!-- EN: artificial enhancement -->
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.label>Perbaikan buatan</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
+  <!-- EN: I have an artificial body enhancement. It's an abhorrent offense against everything I believe! -->
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.description>Saya memiliki peningkatan tubuh buatan.Ini adalah pelanggaran menjijikkan terhadap semua yang saya yakini!</HasProsthetic_Abhorrent.stages.artificial_enhancement.description>
+  
+  <!-- EN: artificial enhancement -->
+  <HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>Perbaikan buatan</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
+  
+  <!-- EN: transhumanist modded -->
+  <HasProsthetic_Approved.stages.transhumanist_modded.label>Transhumanista dimodifikasi</HasProsthetic_Approved.stages.transhumanist_modded.label>
+  <!-- EN: This artificial enhancement matches my belief. -->
+  <HasProsthetic_Approved.stages.transhumanist_modded.description>Peningkatan buatan ini bertepatan dengan keyakinan saya.</HasProsthetic_Approved.stages.transhumanist_modded.description>
+  <!-- EN: transhumanist connected -->
+  <HasProsthetic_Approved.stages.transhumanist_connected.label>Transhumanista terhubung</HasProsthetic_Approved.stages.transhumanist_connected.label>
+  <!-- EN: The more artificial enhancements I get, the stronger my expression of my beliefs. -->
+  <HasProsthetic_Approved.stages.transhumanist_connected.description>Semakin banyak perbaikan buatan, semakin kuat ekspresi keyakinan saya.</HasProsthetic_Approved.stages.transhumanist_connected.description>
+  <!-- EN: transhumanist enhanced -->
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.label>Transhumanista meningkat</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
+  <!-- EN: My connection to my belief is increased by my third artificial enhancement. But I could use more. -->
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>Koneksi saya dengan keyakinan saya diperkuat oleh perbaikan buatan ketiga saya.Tapi saya bisa menggunakan lebih banyak.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+  <!-- EN: transhumanist synchronized -->
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.label>Transhumanista disinkronkan</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
+  <!-- EN: Only two more artificial enhancements are required to fully synchronize with my beliefs. -->
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>Hanya dua perbaikan buatan yang diperlukan untuk sepenuhnya menyinkronkan dengan keyakinan saya.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+  <!-- EN: transhumanist integrated -->
+  <HasProsthetic_Approved.stages.transhumanist_integrated.label>Transhumanist terintegrasi</HasProsthetic_Approved.stages.transhumanist_integrated.label>
+  <!-- EN: Five artificial enhancements! I'm beginning to feel perfect integration with my beliefs. -->
+  <HasProsthetic_Approved.stages.transhumanist_integrated.description>Lima Perbaikan Buatan!Saya mulai merasakan integrasi yang sempurna dengan keyakinan saya.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+  <!-- EN: transhumanist transformed -->
+  <HasProsthetic_Approved.stages.transhumanist_transformed.label>Transhumanist diubah</HasProsthetic_Approved.stages.transhumanist_transformed.label>
+  <!-- EN: It's as though I've left the weak flesh behind. -->
+  <HasProsthetic_Approved.stages.transhumanist_transformed.description>Seolah -olah dia telah meninggalkan daging yang lemah.</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+  
+  <!-- EN: artificial enhancement -->
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.label>Perbaikan buatan</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+  <!-- EN: I have an artificial body enhancement. I don't believe such things are acceptable. -->
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.description>Saya memiliki peningkatan tubuh buatan.Saya tidak berpikir hal -hal itu bisa diterima.</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+  
+  <!-- EN: artificial enhancement -->
+  <HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>Perbaikan buatan</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+  
+  <!-- EN: installed enhancement -->
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>Penanaman</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+  <!-- EN: I had to install an artificial body enhancement. This was deeply offensive to my beliefs. -->
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>Saya harus menerapkan peningkatan tubuh.Itu sangat menyinggung keyakinan saya.</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+  
+  <!-- EN: installed enhancement -->
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.label>Penanaman</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+  <!-- EN: I had to install an artificial body enhancement. This was clearly against my beliefs. -->
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.description>Saya harus menerapkan peningkatan tubuh.Itu jelas bertentangan dengan keyakinan saya.</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+  
+  <!-- EN: installed enhancement -->
+  <InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>Penanaman</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+  
+  <!-- EN: installed enhancement -->
+  <InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>Penanaman</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
+  
+</LanguageData>

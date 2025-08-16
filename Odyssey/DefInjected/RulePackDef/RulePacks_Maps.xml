@@ -1,0 +1,1091 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Desc-> Peta [FisikDescription] menunjukkan lokasi yang menarik.[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> [FisikDescription], ini [maptype] [have] [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> ini [maptype] adalah [fisik -cription] dan [have] [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> a [maptype] yang mengandung [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> kumpulan peta dengan [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> peta dari [tempat] dengan [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>FisikDescription-> Dicetak pada polimer yang tipis dan tahan panas</li>
+    <li>FisikDescription-> Laser-dicetak di Hyperweave</li>
+    <li>Deskripsi Fisik-> Ditarik dalam apa yang tampaknya dikeringkan dengan darah</li>
+    <li>FisikDescription-> disatukan dengan string</li>
+    <li>FisikDescription-> terikat di kulit usang</li>
+    <li>FisikDescription-> digambar pada kulit tipis</li>
+    <li>FisikDescription-> terikat dalam vinyl</li>
+    <li>Fisikdeskripsi-> terukir menjadi lembaran perkamen tipis</li>
+    <li>Fisikdeskripsi-> terukir dalam arang</li>
+    <li>FisikDescription-> terukir di atas kanvas yang tergenang air</li>
+    <li>FisikDescription-> terukir di kulit hewan yang fetid</li>
+    <li>FisikDescription-> dicoret dengan tinta hitam</li>
+    <li>FisikDescription-> dijahit ke dalam rusa hide</li>
+    <li>Deskripsi Fisik-> Tertulis pada kulit [Hewan] kering</li>
+    <li>FisikDeskripsi-> dibuat dari perkamen yang dihitam</li>
+    <li>FisikDescription-> Dilipat dengan hati-hati dalam enam belas bagian</li>
+    <li>FisikDescription-> Dicetak oleh Pers Industri</li>
+    <li>FisikDeskripsi-> Dicetak di Hyperweave</li>
+    <li>FisikDescription-> dibuat dengan hati-hati di Hyperweave yang bagus</li>
+    <li>FisikDescription-> Dihiasi dengan decals holografik</li>
+    <li>Deskripsi Fisik-> Ditulis dalam Tulisan Tangan Spidery</li>
+    <li>FisikDescription-> Tinta di atas kertas menguning</li>
+    <li>FisikDescription-> ditinta dengan warna-warna cerah</li>
+    <li>FisikDescription-> jelas rusak dari api</li>
+    <li>FisikDescription-> Ditarik di atas kanvas yang kokoh</li>
+    <li>FisikDescription-> dilipat berkali-kali dan dioleskan dengan kotoran dan arang</li>
+    <li>Deskripsi Fisik-> Ditarik pada perkamen kusut dengan tulisan laba-laba yang samar</li>
+    <li>FisikDescription-> terukir pada perkamen menguning dengan ujung yang compang-camping dan runtuh</li>
+    <li>MapContents-> Ratusan gambar kecil [mapsubjectadj] [mapsubject]</li>
+    <li>MapContents-> Sketsa Cepat [mapsubjectAdj] [mapsubject]</li>
+    <li>MapContents-> Daftar [Mapsubject] yang terkenal.Daftar terpanjang berjudul '[AdjectiveBadass]!'Itu dilingkari dengan tinta merah</li>
+    <li>MapContents-> Tepi yang terbakar dan garis yang disiram.Peta pusat menunjukkan [mapsubjectadj] [mapsubject] tetapi garis -garis tersebut dikaburkan oleh noda [noda]</li>
+    <li>MapContents-> Diagram baru di setiap halaman.Beberapa diagram menjadi sangat terperinci tentang [Mapsubject], yang terbesar di antaranya adalah [MapsubjectAdj]</li>
+    <li>MapContents-> Campuran [mapsubject] fantastik dan historis [mapsubject]</li>
+    <li>MapContents-> lusinan diagram kuno [mapsubjectadj] [mapsubject]</li>
+    <li>MapContents-> Gambar bertema.Sebuah [penggambaran] sentral besar menyerupai [hewan], digambar dengan gaya [artstyle_adj]</li>
+    <li>MapContents-> Ribuan simbol aneh, banyak di antaranya menyerupai [mapsubject].Simbol yang paling umum terlihat seperti [emosional] [hewan] yang digambar dengan gaya [artstyle_adj]</li>
+    <li>MapContents-> Clear Signs of Age.Satu diagram, digambar dengan tangan yang berbeda, menunjukkan [mapsubject] kuno [tempat]</li>
+    <li>MapContents-> Diagram terperinci [Place] [mapsubject] dan hubungannya dengan [mapsubjectadj] [mapsubject]</li>
+    <li>MapContents-> Empat Sketsa Besar [Place] [Mapsubject]</li>
+    <li>MapContents-> banyak diagram kecil.Satu diagram diberi label '[Place] [ROMANNUMERAL]' dan berisi survei terperinci [tempat] [mapsubject]</li>
+    <li>MapContents-> Banyak gambar kecil [mapsubjectAdj] [mapsubject] dan [mapsubjectadj] [mapsubject]</li>
+    <li>MapContents-> Gambar terperinci dari planet ini.Beberapa lokasi terdekat diberi label '[musuh] dengan tinta merah</li>
+    <li>MapContents-> Koordinat untuk sejumlah [mapsubjectAdj] [mapsubject]</li>
+    <li>MapContents-> Koordinat disorot dalam penanda kuning</li>
+    <li>MapContents-> Gambar wilayah terdekat.Simbol Mentah Mark Safe Havens dan Hidden Caches</li>
+    <li>MapContents-> Lokasi [kuantitas_adjphrase] [hewan] suaka.Red 'X juga menunjukkan beberapa kuburan</li>
+    <li>MapContents-> Tidak ada yang penting.Atau begitulah tampaknya</li>
+    <li>MapContents-> GRIDLINES FADED.Setiap kuadran berisi [mapsubjectadj] [mapsubject]</li>
+    <li>MapContents-> [quantity_adjphrase] [mapsubject] diterjemahkan dengan gaya [artstyle_adj].Di bawah masing -masing ada [kata sifat] [hewan]</li>
+    <li>Mungkin_specialfact-></li>
+    <li>mungkin_specialfact-> [SpecialFact]</li>
+    <li>SpecialFact-> Marka tidak terlihat dalam cahaya normal.Namun, dalam kegelapan total, simbol -simbol hantu dan garis -garis spektral muncul, menyinari perak pucat.</li>
+    <li>SpecialFact-> Markings muncul dan menghilang tergantung pada sudut cahaya.</li>
+    <li>SpecialFact-> Halaman-halamannya bersinar samar-samar dengan sigil merah yang bergeser dan berputar saat dipegang nyala api.</li>
+    <li>SpecialFact-> Anotasi berada dalam dialek regional, menunjukkan penulis berasal dari [Place].</li>
+    <li>SpecialFact-> Setiap lipatan berisi huruf dan beberapa angka tetapi artinya tidak jelas.</li>
+    <li>SpecialFact-> Sesuatu tentang tanda-tanda itu mengerikan.</li>
+    <li>SpecialFact-> Ini berisi anotasi dari bahasa yang sudah lama terlupakan.</li>
+    <li>SpecialFact-> tanda-tanda kasar dan tidak merata perlahan berubah seiring waktu, mengungkapkan makna tersembunyi.</li>
+    <li>SpecialFact-> Ia mengklaim untuk mengungkapkan darah kehidupan tanah itu sendiri, membimbing pembaca ke tempat yang memiliki kekuatan alami yang besar.</li>
+    <li>SpecialFact-> Tersembunyi di antara banyak lipatan adalah selembar kertas dengan gambar [Hewan Emosional] [hewan].</li>
+    <li>SpecialFact-> Menyentuh peta untuk daun terlalu panjang noda merah samar di ujung jari pembaca.</li>
+    <li>SpecialFact-> Butir pasir dapat ditemukan di antara lipatan peta.</li>
+    <li>Anotasi SpecialFact-> pada peta menunjukkan bahwa ia memegang kunci untuk beberapa rahasia yang lebih besar.</li>
+    <li>SpecialFact-> Sebuah rendisi kasar dari beberapa [mapsubject] dari [Place] digambarkan di margin.</li>
+    <li>SpecialFact-> Tinta memudar, dan noda samar mengaburkan beberapa detail, menjadikan pengursuan detail menjadi tantangan.</li>
+    <li>SpecialFact-> Jahitan halus menunjukkan itu digunakan kembali dari beberapa peta yang lebih besar.</li>
+    <li>SpecialFact-> Peta ini mungkin merupakan peringatan seperti panduan.</li>
+    <li>SpecialFact-> Marka ceroboh di beberapa tempat, menunjukkan peta dibuat dengan tergesa-gesa.</li>
+    <li>SpecialFact-> Detailnya menunjukkan bahwa ia ditugaskan oleh seseorang dengan sarana, dan kerahasiaannya menyiratkannya berisi sesuatu yang layak disembunyikan.</li>
+    <li>SpecialFact-> [quantity_adjphrase] [karakter] s ditarik [notelokasi].Mereka terlihat [EmosionalState].</li>
+    <li>SpecialFact-> Label kaligrafi elegan beberapa [mapsubject], tetapi satu gambar yang terisolasi hanya memiliki tanda samar - simbol [MapSymbol].</li>
+    <li>SpecialFact-> Peta berisi biografi singkat dari penulisnya - [Personjob] terkenal dari [Place].</li>
+    <li>SpecialFact-> Peta ini ditulis oleh [personbadass] yang terkenal.</li>
+    <li>SpecialFact-> Peta ditulis oleh [EmosionalState] [Personbadass].</li>
+    <li>SpecialFact-> Kesederhanaan peta menunjukkan bahwa itu dengan tergesa-gesa dibuat oleh [personbadass] yang perlu tetap selangkah lebih maju dari pihak berwenang.</li>
+    <li>SpecialFact-> Area utama dilingkari, dengan anotasi seperti 'hindari [musuh] s' dan 'kuat seperti [hewan].'</li>
+    <li>SpecialFact-> di peta, [MapSymbol] dilingkari dan diberi label dengan '[bau] dan [noda]'.</li>
+    <li>SpecialFact-> Ditulis dalam margin adalah puisi berusia seribu yang berjudul 'Diabolus'.</li>
+    <li>SpecialFact-> The Map's Legend mengidentifikasi [warna] [mapsymbol] s sebagai [musuh] lair dan [warna] [mapsymbol] s sebagai [hewan] tempat perburuan.</li>
+    <li>SpecialFact-> Skala peta jelas salah.</li>
+    <li>SpecialFact-> Peta memiliki segel lilin pudar [notelokasi].Itu menyerupai [emosional] [hewan].</li>
+    <li>Mungkin_questinfo-></li>
+    <li>mungkin_questinfo (p = 3)-> [QuestInfo]</li>
+    <li>QuestInfo-> Area peta dilingkari dan diberi label: '[Maptext]!'</li>
+    <li>QuestInfo-> Catatan terlampir diberi label '[Maptext]?'</li>
+    <li>QuestInfo-> '[Maptext]' ditulis dengan tinta pudar [noTelocation].</li>
+    <li>QuestInfo-> Catatan [notelokasi] berbunyi: '[maptext].'</li>
+    <li>QuestInfo-> Catatan tertulis yang tergesa-gesa [notelokasi] berbunyi: '[maptext]!'</li>
+    <li>QuestInfo-> Teka-teki samar telah ditulis [notelokasi].Itu berakhir dengan '... [Maptext].'</li>
+    <li>QuestInfo-> Di sebelah [warna] [MapSymbol] adalah kata-kata '[Maptext].'</li>
+    <li>QuestInfo-> dibakar ke dalam peta adalah kata-kata '[maptext].'</li>
+    <li>QuestInfo-> [MapSymbol] besar ditarik di dekat [MapFeature].Itu diberi label '[maptext].'</li>
+    <li>QuestInfo-> A [warna] Compass Rose terukir ke dalam peta.Anehnya, utara dan selatan salah label.Di tengah kompas adalah kata -kata: '[Maptext].'</li>
+    <li>QuestInfo-> Pemilik peta sebelumnya jelas telah mencari sesuatu.Suatu area dilingkari di samping kata -kata: '[Maptext].'</li>
+    <li>QuestInfo-> Memegang peta hingga cahaya, Anda dapat melihat kata-kata '[Maptext].'</li>
+    <li>QuestInfo-> [NoNlocation], A [Color] [MapSymbol] diberi label '[Maptext]!'</li>
+    <li>QuestInfo-> [noTelocation], A [MapSymbol] diberi label '[maptext]?'</li>
+    <li>QuestInfo-> [NoNelocation], beberapa catatan telah dicoret.Satu -satunya hal yang dapat dibaca adalah: 'dikonfirmasi - [maptext].'</li>
+    <li>QuestInfo-> [noNlocation] adalah gambar kasar dari [EmosionalState] [personbadass].Di bawahnya adalah kata -kata: '[Maptext].'</li>
+    <li>QuestInfo-> [hewan] ditarik dengan pensil [notelokasi].Di bawahnya adalah kata -kata: '[maptext].'</li>
+    <li>QuestInfo-> label legenda peta [warna] [mapsymbol] s sebagai '[maptext].'</li>
+    <li>QuestInfo-> X merah tebal tergores di atas lokasi.Di sebelahnya, '[Maptext]' ditulis dalam skrip kecil.</li>
+    <li>QuestInfo-> Setelah diperiksa lebih dekat, tampaknya seseorang telah mencoba menghapus kata-kata '[Maptext]' dari peta.</li>
+    <li>QuestInfo-> dekat ikon tengkorak [warna], seseorang telah menulis dengan huruf tebal: '[Maptext].'</li>
+    <li>QuestInfo-> Simbol yang tidak biasa ditarik [notelokasi].Di bawahnya adalah kata -kata '[maptext].'</li>
+    <li>QuestInfo-> A [warna] belati terukir ke dalam peta, menunjuk ke kata-kata '[maptext].'</li>
+    <li>QuestInfo-> [notelokasi] adalah daftar periksa.Setiap item dalam daftar telah dicoret.Hanya satu yang tersisa: '[Maptext].'</li>
+    <li>Mungkin_condition-></li>
+    <li>Mungkin_Condition-> [ConditionMell]</li>
+    <li>Mungkin_Condition-> [conditionstains]</li>
+    <li>Mungkin_Condition-> [conditionTouch]</li>
+    <li>conditionmell-> bau [bau].</li>
+    <li>conditionsmell-> Baunya samar dari [bau].</li>
+    <li>Conditionsmell-> Peta itu berbau samar dari [bau], sedikit dari perdagangan pemilik sebelumnya.</li>
+    <li>bau-> air garam dan rumput laut</li>
+    <li>bau-> mawar</li>
+    <li>bau-> belerang</li>
+    <li>bau-> chemfuel</li>
+    <li>bau-> jerami dan kotoran</li>
+    <li>Bau-> daging yang terbakar</li>
+    <li>Smell-> serangga jelly</li>
+    <li>bau-> parfum</li>
+    <li>Bau-> minyak dan bubuk mesiu</li>
+    <li>bau-> Toxipotatoes Rotten</li>
+    <li>bau-> almond</li>
+    <li>bau-> pemutih</li>
+    <li>Bau-> [Hewan] tinja</li>
+    <li>ConditionStains-> goresan dan [noda] noda mengaburkan beberapa detail, membuatnya sulit dibaca.</li>
+    <li>ConditionStains-> [Stain] noda dan tanda bakar Petunjuk secara teratur digunakan dalam kondisi sulit.</li>
+    <li>ConditionStains-> Diagram dikaburkan oleh apa yang tampaknya [noda].</li>
+    <li>ConditionStains-> Peta tidak lengkap dan diwarnai dengan [noda].</li>
+    <li>conditionTouch-> [noda] noda dan tepi berjumbai memberikan nuansa utilitarian yang sudah usang.</li>
+    <li>noda-> darah</li>
+    <li>noda-> oli</li>
+    <li>Stain-> Grease</li>
+    <li>Noda-> Tinta Merah</li>
+    <li>Stain-> Air garam</li>
+    <li>noda-> lilin</li>
+    <li>noda-> kopi</li>
+    <li>noda-> karat</li>
+    <li>Stain-> Chemfuel</li>
+    <li>conditionTouch-> Halamannya kasar saat disentuh.</li>
+    <li>conditionTouch-> Peta ini rapuh saat disentuh.</li>
+    <li>conditionTouch-> bakar bekas di tepinya menunjukkan telah diselamatkan dari misi yang gagal.</li>
+    <li>conditionTouch-> Peta terasa rapuh tetapi membawa pengetahuan yang diperoleh dengan susah payah.</li>
+    <li>conditionTouch-> Tepi tergores dan pudar.Satu sudut telah ditambal dengan perekat.</li>
+    <li>Maybe_authorinfo-></li>
+    <li>Maybe_authorinfo-> \ n \ n [AuthorInfo]</li>
+    <li>AuthorInfo-> Tidak jelas siapa yang membuat peta.</li>
+    <li>OUTHORINFO-> Peta dibuat oleh [anypawn_namefull], sebuah [anypawn_kind] yang terkenal dari [anypawn_factionname].</li>
+    <li>AuthorInfo-> [notelocation], peta ini ditandatangani oleh [anypawn_nameindef] [personjob].</li>
+    <li>AuthorInfo-> disertakan dengan peta adalah biografi kecil dari penulisnya, [anypawn_nameindef] [anypawn_kind].</li>
+    <li>OUTHORINFO-> Pemilik peta sebelumnya tampaknya adalah seseorang yang bernama [anypawn_nameindef].</li>
+    <li>OUTHORINFO-> Peta itu pernah dimiliki oleh anonim [anypawn_kind].Marka menyarankan [anypawn_pronoun] adalah anggota [anypawn_factionname].</li>
+    <li>has-> has</li>
+    <li>has-> berisi</li>
+    <li>memiliki-> fitur</li>
+    <li>EmosionalState-> Happy</li>
+    <li>EmosionalState-> tertekan</li>
+    <li>EmosionalState-> Marah</li>
+    <li>EmosionalState-> Sensual</li>
+    <li>maptype (p = 4)-> peta</li>
+    <li>maptype-> chart</li>
+    <li>maptype-> atlas</li>
+    <li>Survei Maptype-></li>
+    <li>MAPSYMBOL-> KEY</li>
+    <li>MAPSYMBOL-> 'X'</li>
+    <li>Mapsymbol-> Star</li>
+    <li>mapsymbol-> bulan</li>
+    <li>MAPSYMBOL-> TOWER</li>
+    <li>Peta simbol-> sake</li>
+    <li>MapSymbol-> [hewan]</li>
+    <li>Maptext (p = 10)-> [QuestMaptext]</li>
+    <li>maptext (p = 2)-> [subjek]</li>
+    <li>Maptext-> Bahaya ekstrem</li>
+    <li>maptext-> waspadalah terhadap [musuh]</li>
+    <li>Maptext-> Kelaparan ada di depan</li>
+    <li>Maptext-> No Leept No Trace</li>
+    <li>Maptext-> Mad [hewan]</li>
+    <li>Maptext-> Raider Attack</li>
+    <li>maptext-> karavan terakhir kami</li>
+    <li>maptext-> tidak ada yang selamat</li>
+    <li>Maptext-> Di Sini</li>
+    <li>maptext-> lies [anypawn_nameindef]</li>
+    <li>Maptext-> Makam [anypawn_nameindef]</li>
+    <li>Maptext-> Properti [anypawn_factionname]</li>
+    <li>MapFeature (p = 8)-> [QuestMapFeature]</li>
+    <li>Mapfeature-> River</li>
+    <li>Mapfeature-> Confluence of Two Rivers</li>
+    <li>MapFeature-> Crossroads</li>
+    <li>Mapfeature-> Mountain Range</li>
+    <li>Mapfeature-> Coastline</li>
+    <li>Mapfeature-> Lake</li>
+    <li>Mapfeature-> Inlet Pesisir</li>
+    <li>Mapfeature-> Pulau Pantai</li>
+    <li>noTelocation-> di sudut</li>
+    <li>noTelocation-> di sudut peta</li>
+    <li>noTelocation-> di satu sudut</li>
+    <li>notelokasi-> di sisi kiri</li>
+    <li>noTelocation-> di belakang</li>
+    <li>noTelocation-> di bagian bawah</li>
+    <li>noTelocation-> dekat [MapFeature]</li>
+    <li>NoTelocation-> Di sebelah [MapFeature]</li>
+    <li>NoTelocation-> Di bawah [MapFeature] besar</li>
+    <li>noTelocation-> di sepanjang tepi peta</li>-><Description_Map.rulePack.rulesStrings>
+    <li>dis- [mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> [FisikDescription], este [maptype] [have] [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> este [maptype] está [fisikdescription] y [memiliki] [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>desc-> un [maptype] que contiene [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>Desk-> Colecón dari Deelegance atau MapContents] [Inbe_condition]</li>
+    <li>desc-> un mapa de [place] con [mapContents].[mungkin_specialfact] [mungkin_authorinfo] [mungkin_condition] \ n \ n [mungkin_questinfo]</li>
+    <li>Keputusan fisik-> dicetak dalam polimer yang tipis dan tahan panas</li>
+    <li>Deskripsi Fisik-> Laser Dicetak di Hypertejido</li>
+    <li>Deskripsi Fisik-> Menggambar apa yang tampaknya adalah darah kering</li>
+    <li>Deskripsi fisik-> dipertahankan dengan tali</li>
+    <li>Deskripsi Fisik-> Terikat dengan Kulit Pakai</li>
+    <li>Deskripsi fisik-> menggambar kulit tipis</li>
+    <li>Deskripsi Fisik-> Terikat dalam Vinyl</li>
+    <li>Deskripsi fisik-> direkam dalam lembaran perkamen tipis</li>
+    <li>Deskripsi Fisik-> Batubara Tercatat</li>
+    <li>Deskripsi fisik-> direkam di atas kanvas yang banjir</li>
+    <li>Deskripsi Fisik-> Direkam dalam Kulit Hewan Hewan</li>
+    <li>Deskripsi Fisik-> Tinta Hitam</li>
+    <li>Deskripsi Fisik-> Dibeli di Kulit ALCE</li>
+    <li>Deskripsi Fisik-> Ditulis dalam kulit kering [Hewan]</li>
+    <li>Deskripsi Fisik-> Ditulis dalam kulit kering [Hewan Fem]</li>
+    <li>Deskripsi Fisik-> Diproduksi dengan Perkamen Hitam</li>
+    <li>Keputusan Fisik-> Dilipat dengan hati-hati dalam enam belas bagian</li>
+    <li>Deskripsi Fisik-> Dicetak oleh Pers Industri</li>
+    <li>Deskripsi Fisik-> Dicetak di Hypertejido</li>
+    <li>Deskripsi Fisik-> Diproduksi dengan Demam di Hypertejido Baik</li>
+    <li>Deskripsi Fisik-> Dihiasi dengan stiker holografik</li>
+    <li>Deskripsi fisik-> ditulis dengan tulisan kecil</li>
+    <li>FisikDescription-> Pewarnaan di atas kertas kekuningan</li>
+    <li>Keputusan fisik-> diketik dengan warna-warna cerah</li>
+    <li>Deskripsi Fisik-> Jelas rusak oleh api</li>
+    <li>Deskripsi Fisik-> Ditarik di atas kanvas yang tahan</li>
+    <li>Keputusan fisik-> dilipat berkali-kali dan diwarnai dengan tanah dan batu bara</li>
+    <li>Deskripsi fisik-> digambar dalam perkamen runtuh dengan tulisan kecil</li>
+    <li>Deskripsi fisik-> direkam dalam perkamen kekuningan dengan tepi yang berjumbai dan hancur</li>
+    <li>MapContents-> Ratusan gambar kecil [Mapsubject] [mapsubjectAdj]</li>
+    <li>MapContes-> Ratusan gambar kecil [mapsubjectFem] [mapsubjectadj]</li>
+    <li>MapContents-> Sketsa Cepat [mapsubjectandadj]</li>
+    <li>MapContents-> Ready Lists [mapsubject].Daftar terpanjang berjudul "[Adjectivebads_fem]" dan ditandai dengan lingkaran tinta merah!</li>
+    <li>MapContes-> Tepi yang terbakar dan garis kabur.Peta pusat menunjukkan [mapsubjectandadj] tetapi garis -garisnya tersembunyi dari bintik -bintik [noda]</li>
+    <li>MapContents-> Diagram baru di setiap halaman.Beberapa diagram memasukkan detail besar tentang [mapsubject], yang tidak diragukan lagi [mapsubjectadj]]</li>
+    <li>MapContents-> Diagram baru di setiap halaman.Beberapa diagram memasukkan detail besar tentang [mapsubjectfem], yang tidak diragukan lagi [mapsubjectAdjfem]</li>
+    <li>Malcontents-> Una Mezcla of Fantastics [Subjek Peta] dan Bersejarah [Subjek Peta]</li>
+    <li>MapContents-> Una Fantastic Mezcla [MapsubjectFem] dan historis [mapsubjectFem]</li>
+    <li>MapContes-> lusinan diagram kuno [mapsubjectandadj]</li>
+    <li>MapContents-> Gambar Tematik.Sebuah [penggambaran] yang hebat yang menyerupai [hewan], digambar dengan gaya [artstyle_adj]</li>
+    <li>MapContents-> Gambar Tematik.Sebuah [penggambaran] besar yang menyerupai gaya [animal_fem], digambar dalam gaya [artstyle_adj]]]</li>
+    <li>MapContents-> Ribuan simbol aneh, banyak di antaranya menyerupai [mapsubjectInde].Simbol yang paling umum terlihat seperti [hewan] [emosional] yang digambar dalam gaya [artstyle_adj]</li>
+    <li>MapContents-> Ribuan simbol aneh, banyak di antaranya menyerupai [mapsubjectInde].Simbol yang paling umum terlihat seperti [animal_fem] [EmosionalStateFem] yang digambar dengan gaya [artstyle_adj]</li>
+    <li>MapContes-> Tanda-tanda senioritas yang jelas.Diagram, digambar dengan tangan lain, menunjukkan [peta] lama [tempat]</li>
+    <li>MapContes-> Tanda-tanda senioritas yang jelas.Diagram, digambar dengan tangan lain, menunjukkan [mapsubjectFem] lama dari [tempat]</li>
+    <li>MapContes-> Diagram terperinci dari [mapsubjectpl] [tempat] dan hubungannya dengan [mapsubjects]</li>
+    <li>MapContes-> Diagram terperinci dari [mapsubjectfempl] dari [tempat] dan hubungannya dengan [mapsubjectandadj]</li>
+    <li>MapContents-> Empat Sketsa Besar [Mapsubjectpl] [Place]</li>
+    <li>MapContents-> Empat Sketsa Besar [MapsubjectFempl] [Place]</li>
+    <li>MapContents-> banyak diagram kecil.Diagram diberi label sebagai "[Place] [RomaNumeral]" dan berisi studi terperinci tentang [mapsubjectpl] [Place]</li>
+    <li>MapContents-> banyak diagram kecil.Diagram diberi label sebagai "[Place] [ROMANNUMERAL]" dan berisi studi terperinci tentang [MapsubjectFempl] dari [Place]</li>
+    <li>MapContes-> banyak gambar kecil [mapsubjectandadj] dan [mapsubjectandadj]]</li>
+    <li>MapContents-> Gambar terperinci dari planet ini.Beberapa lokasi terdekat dilabeli sebagai "[musuh]" dengan tinta merah</li>
+    <li>MapContents-> Koordinat beberapa [mapsubjectandadjmal]</li>
+    <li>MapContents-> Koordinat beberapa [mapsubjectandadjfem]</li>
+    <li>MapContents-> Koordinat disorot dengan penanda kuning</li>
+    <li>MapContes-> Gambar wilayah terdekat.Simbol Tosque menandai tempat penampungan yang aman dan tempat persembunyian tersembunyi</li>
+    <li>MapContes-> Lokasi [QUITTITY_ADJPHRASE] Sanctuaries of [Animal_Llim].Rojas "X" juga menunjukkan beberapa makam</li>
+    <li>MapContents-> Lokasi [kuantitas_adjphrase] Suaka [hewan_femplural].Rojas "X" juga menunjukkan beberapa makam</li>
+    <li>MapContes-> Tidak ada yang penting.Atau lebih sepertinya</li>
+    <li>MapContes-> Garis Grid Cairan.Setiap kuadran berisi [mapsubjectocadj]</li>
+    <li>MapContes-> [quantity_adjphrase] [mapsubjectpl] diwakili dalam gaya [artstyle_adj].Di bawah masing -masing ada [hewan] [kata sifat]</li>
+    <li>MapContents-> [quantity_adjphrase] [mapsubjectFempl] diwakili dalam gaya [artstyle_adj].Di bawah masing -masing ada [hewan] [kata sifat]</li>
+    <li>Mungkin_specialfact-></li>
+    <li>mungkin_specialfact-> [SpecialFact]</li>
+    <li>SpecialFact-> Merek tidak terlihat oleh cahaya normal.Namun, dalam kegelapan total, simbol hantu dan garis spektral yang bersinar dengan warna perak pucat muncul.</li>
+    <li>SpecialFact-> Merek muncul dan menghilang sesuai dengan sudut cahaya.</li>
+    <li>SpecialFact-> Halaman bersinar dengan siluman merah yang bergerak dan berputar ketika mereka membawa mereka lebih dekat ke api.</li>
+    <li>SpecialFact-> Anotasi berada dalam dialek regional, yang menunjukkan bahwa penulis adalah [Place].</li>
+    <li>SpecialFact-> Setiap lipatan berisi huruf dan beberapa angka, tetapi artinya tidak jelas.</li>
+    <li>SpecialFact-> Ada sesuatu yang mengganggu dalam merek.</li>
+    <li>SpecialFact-> berisi anotasi dalam bahasa yang sudah lama terlupakan.</li>
+    <li>SpecialFact-> Tanda keras dan tidak teratur perlahan berubah seiring waktu, mengungkapkan makna tersembunyi.</li>
+    <li>SpecialFact-> mengklaim untuk mengungkapkan esensi bumi, membimbing pembaca ke tempat dengan kekuatan alami yang besar.</li>
+    <li>SpecialFact-> Tersembunyi di antara banyak lipatan ada selembar kertas dengan gambar [hewan] [EmosionalState].</li>
+    <li>SpecialFact-> tersembunyi di antara banyak lipatan ada selembar kertas dengan gambar [animal_fem] [EmosionalStateFem].</li>
+    <li>SpecialFact-> Sentuh peta untuk waktu yang lama meninggalkan bintik-bintik merah samar pada kuning telur jari pembaca.</li>
+    <li>SpecialFact-> Di antara lipatan peta Anda dapat menemukan butiran pasir.</li>
+    <li>SpecialFact-> Anotasi pada peta menunjukkan bahwa itu menjaga kunci untuk rahasia yang lebih besar.</li>
+    <li>SpecialFact-> di pinggiran ada sketsa dasar dari beberapa [mapsubject] [Place].</li>
+    <li>SpecialFact-> di pinggiran ada sketsa dasar dari beberapa [mapsubjectfem] [Place].</li>
+    <li>SpecialFact-> Ink adalah bintik-bintik pudar dan sulit menyembunyikan beberapa detail, menghambat interpretasinya.</li>
+    <li>SpecialFact-> Jahitan halus menunjukkan bahwa itu dibuat dari beberapa peta yang lebih besar.</li>
+    <li>SpecialFact-> Peta ini bisa menjadi peringatan dan panduan.</li>
+    <li>SpecialFact-> Merek ceroboh di beberapa bagian, menunjukkan bahwa peta dibuat dengan masalah.</li>
+    <li>SpecialFact-> Tingkat detailnya menunjukkan bahwa ia ditugaskan oleh seseorang dengan sumber daya dan kerahasiaannya menyiratkan bahwa itu berisi sesuatu yang layak disembunyikan.</li>
+    <li>SpecialFact-> [quantity_adjphrase] [karakter_plural] ditarik [nootelocation].Mereka tampak [emosionaltatpl].</li>
+    <li>SpecialFact-> Sebuah kaligrafi yang elegan menyebutkan beberapa [mapsubject], tetapi gambar yang terisolasi hanya membawa tanda samar: simbol [Mapsymbolinde].</li>
+    <li>SpecialFact-> Kaligrafi yang elegan menyebutkan beberapa [mapsubjectfem], tetapi gambar yang terisolasi hanya membawa tanda samar: simbol [Mapsymbolinde].</li>
+    <li>SpecialFact-> Peta berisi biografi singkat dari penulisnya, [Personjob] yang luar biasa dari [Place].</li>
+    <li>SpecialFact-> Peta berisi biografi singkat dari penulisnya, [personjob_fem] yang luar biasa dari [tempat].</li>
+    <li>SpecialFact-> Peta ini dibuat oleh [personbado] yang terkenal.</li>
+    <li>SpecialFact-> Peta ini dibuat oleh [personbadss_fem] yang terkenal.</li>
+    <li>Fakta Khusus-> Peta ini dibuat oleh [orang buruk] [keadaan emosi].</li>
+    <li>SpecialFact-> Peta ini dibuat oleh [personbadss_fem] [EmosionalStateFem].</li>
+    <li>SpecialFact-> Kesederhanaan peta menunjukkan bahwa itu dengan tergesa-gesa dibuat oleh [personbado] yang perlu tetap selangkah lebih maju dari pihak berwenang.</li>
+    <li>SpecialFact-> Kesederhanaan peta menunjukkan bahwa itu dengan tergesa-gesa dibuat oleh [personbadsfem] yang diperlukan untuk menjaga selangkah lebih maju dari pihak berwenang.</li>
+    <li>SpecialFact-> Beberapa bidang utama dikelilingi oleh anotasi seperti "Hindari [musuh]" dan "kuat seperti [hewan]".</li>
+    <li>SpecialFact-> Beberapa bidang utama dikelilingi oleh anotasi seperti "Hindari [musuh]" dan "kuat sebagai [hewan_fem]".</li>
+    <li>SpecialFact-> di peta, [MapSymbol] dikelilingi dan ditandai dengan "[bau] dan [noda]".</li>
+    <li>SpecialFact-> di peta, [Mapsymbolmale] dikelilingi dan ditandai dengan "[bau] dan [noda]".</li>
+    <li>SpecialFact-> di pinggiran puisi berusia seribu yang berjudul "Diabolus" ditulis.</li>
+    <li>SpecialFact-> Legenda peta mengidentifikasi [mapsymbolpl] [color_fempl] sebagai sarang [musuh] dan [mapsymblpl] [color_fempl] sebagai area perburuan [hewan].</li>
+    <li>SpecialFact-> Legenda peta mengidentifikasi [mapsymbolpl] [color_fempl] sebagai sarang [musuh] dan [mapsymblpl] [color_fempl] sebagai area perburuan [animal_fem].</li>
+    <li>SpecialFact-> Skala peta jelas salah.</li>
+    <li>SpecialFact-> Peta memiliki segel lilin pudar [nootelocation].Itu menyerupai [hewan] [EmosionalState].</li>
+    <li>SpecialFact-> Peta memiliki segel lilin pudar [nootelocation].Itu menyerupai [animal_fem] [EmosionalStateFem].</li>
+    <li>Mungkin_questinfo-></li>
+    <li>mungkin_questinfo (p = 3)-> [QuestInfo]</li>
+    <li>QuestInfo-> Area peta ditandai dengan lingkaran dan diberi label: "[Maptext]!"</li>
+    <li>QuestInfo-> Catatan terlampir diberi label sebagai "[Maptext]?"</li>
+    <li>QuestInfo-> "[Maptext]" Dijamin dengan cat yang kurang disuntik [notellocation].</li>
+    <li>Ini adalah catatan [notelokasi] mengatakan: "[Maptext]."</li>
+    <li>QuestIninfo-> Catatan dikecualikan secara apressif [notelokasi] mengatakan: "¡[Maptext]!"</li>
+    <li>QuestInfo-> Sebuah teka-teki samar telah ditulis [nootelocation].Itu berakhir dengan "... [Maptext]."</li>
+    <li>QuestInfo-> Di sebelah [MapSymbol] [color_fem] adalah kata-kata "[maptext]."</li>
+    <li>QuestInfo-> Di sebelah [Mapsymbolmale] [Color] adalah kata-kata "[Maptext]."</li>
+    <li>QuestInfo-> direkam di peta adalah kata-kata "[maptext]."</li>
+    <li>QuestInfo-> [MapSymbol] yang hebat ditarik di dekat [Mappeature].Diberi label sebagai "[Maptext]."</li>
+    <li>QuestInfo-> A Wind Rose [color_fem] direkam di peta.Anehnya, utara dan selatan diberi label buruk.Di tengah -tengah kompas adalah kata -kata: "[Maptext]."</li>
+    <li>QuestInfo-> Pemilik peta sebelumnya jelas telah mencari sesuatu.Suatu area ditandai di sebelah kata -kata: "[Maptext]."</li>
+    <li>QuestInfo-> Saat mempertahankan peta di Contraluz, Anda dapat melihat kata-katanya."[Maptext]."</li>
+    <li>QuestInfo-> [nootelocation], a [mapsymbol] [color_fem] diberi label "[maptext]!"</li>
+    <li>QuestInfo-> [Noelocation], [Mapsymbolinda] membawa label "[Maptext]?"</li>
+    <li>QuestInfo-> [noNlocation], beberapa catatan kabur.Satu -satunya yang dapat dibaca adalah: "Dikonfirmasi ... [Maptext]."</li>
+    <li>QuestInfo-> [notelokasi] Gambar yang belum sempurna [Personbadas] [EmosionalState] terlihat.Di bawah ini adalah kata -kata: "[Maptext]."</li>
+    <li>QuestInfo-> [hewan] tertarik pada pensil [nootelocation].Di bawah ini adalah kata -kata: "[Maptext]."</li>
+    <li>QuestInfo-> A [animal_fem] ditarik ke pensil [nootelocation].Di bawah ini adalah kata -kata: "[Maptext]."</li>
+    <li>QuestInfo-> Legenda label peta [MapSyMbolpl] [color_fempl] sebagai "[maptext]."</li>
+    <li>QuestInfo-> Big Red X ditandai di suatu lokasi.Di sebelahnya, "[Maptext]" ditulis dalam surat kecil.</li>
+    <li>QuestInfo-> Ketika memeriksa lebih dekat, tampaknya seseorang telah mencoba menghapus kata-kata "[maptext]" dari peta.</li>
+    <li>QuestInfo-> Dekat ikon tengkorak [color_fem], seseorang telah menulis dalam huruf besar: "[Maptext]."</li>
+    <li>QuestInfo-> Simbol yang tidak biasa ditarik [nootelocation].Di bawah ini adalah kata -kata "[Maptext]."</li>
+    <li>QuestInfo-> A [color_fem] Dagger direkam di peta, menunjuk ke kata-kata "[Maptext]."</li>
+    <li>QuestInfo-> [notelokasi] adalah daftar verifikasi.Setiap elemen pada daftar telah diberi label.Hanya satu yang tersisa: "[Maptext]."</li>
+    <li>Mungkin_condition-></li>
+    <li>Mungkin_Condition-> [ConditionMell]</li>
+    <li>Mungkin_Condition-> [conditionstains]</li>
+    <li>Mungkin_Condition-> [conditionTouch]</li>
+    <li>Conditionmell-> bau [bau].</li>
+    <li>Conditionsmell-> Baunya lemah untuk [berbau].</li>
+    <li>Conditionsmell-> Peta berbau lemah untuk [berbau], indikasi perdagangan pemilik sebelumnya.</li>
+    <li>bau-> air garam dan ganggang</li>
+    <li>bau-> rosas</li>
+    <li>bau-> azufre</li>
+    <li>bau-> biokombus yang mudah</li>
+    <li>bau-> jerami dan kotoran</li>
+    <li>Bau-> daging yang terbakar</li>
+    <li>Smell-> serangga jelly</li>
+    <li>bau-> parfum</li>
+    <li>bau-> minyak dan bubuk mesiu</li>
+    <li>Smell-> Toxipapas Toxipapas</li>
+    <li>Smell-> Almendras</li>
+    <li>bau-> pemutih</li>
+    <li>bau-> tinja [hewan]</li>
+    <li>bau-> tinja [animal_fem]</li>
+    <li>ConditionStains-> Goresan dan bintik-bintik [Stain] Sembunyikan beberapa detail, yang membuat membaca sulit.</li>
+    <li>ConditionStains-> [Stain] Bintik-bintik dan tanda luka bakar menunjukkan penggunaan kebiasaan dalam kondisi sulit.</li>
+    <li>Kondisi-> Diagram disembunyikan sehingga tampaknya [noda].</li>
+    <li>ConditionStains-> Peta tidak lengkap dan diwarnai dengan [noda].</li>
+    <li>Conditiantouch-> bintik-bintik [noda] dan tepi yang berjumbai memberikan penampilan yang aus dan fungsional.</li>
+    <li>noda-> sangre</li>
+    <li>Stain-> Petroleum</li>
+    <li>Stein-> Grassa</li>
+    <li>stain->tinta roja</li>
+    <li>Stain-> Negra Tint</li>
+    <li>noda-> cera</li>
+    <li>Noda-> kopi</li>
+    <li>noda-> oksido</li>
+    <li>Stain-> BioCombustable</li>
+    <li>Conditionouch-> Halaman-halamannya kasar untuk disentuh.</li>
+    <li>Conditionouch-> Peta rapuh untuk disentuh.</li>
+    <li>Conditionouch-> Burns of Burn di tepi menunjukkan bahwa itu telah diselamatkan dari misi yang gagal.</li>
+    <li>Conditionouch-> Peta tampaknya rapuh, tetapi berisi pengetahuan bertahun-tahun yang diperoleh dengan usaha.</li>
+    <li>Conditiantouch-> Tepi tergores dan berubah warna.Sudut telah diperbaiki dengan perekat.</li>
+    <li>Maybe_authorinfo-></li>
+    <li>Maybe_authorinfo-> \ n \ n [AuthorInfo]</li>
+    <li>OUTHORINFO-> Tidak jelas siapa yang membuat peta.</li>
+    <li>OUTHORINFO-> Peta dibuat oleh [anypawn_namefulull], luar biasa [anypawn_kind] dari faksi [anypawn_factioname].</li>
+    <li>OUTHORINFO-> [notelokasi], peta ini ditandatangani oleh [anypawn_nameindef] [personjob].</li>
+    <li>AuthorInfo-> Bersama dengan peta biografi singkat dari penulisnya disertakan, [anypawn_nameindef] [anypawn_kind].</li>
+    <li>OUTHORINFO-> Pemilik peta sebelumnya tampaknya adalah seseorang yang disebut [anypawn_nameindef].</li>
+    <li>OUTHORINFO-> Peta itu pernah dimiliki oleh anonim [anypawn_kind].Merek menyarankan bahwa ia adalah anggota faksi [anypawn_factioname].</li>
+    <li>Has-> has</li>
+    <li>Has-> berisi</li>
+    <li>Has-> sampel</li>
+    <li>EmosionalState-> feliz</li>
+    <li>EmosionalState-> Deprimido</li>
+    <li>EmosionalState-> Marah</li>
+    <li>EmosionalState-> Sensual</li>
+    <li>EmosionalStateFem-> feliz</li>
+    <li>EmosionalStateFem-> Deprimida</li>
+    <li>EmosionalStateFem-> Marah</li>
+    <li>EmosionalStateFem-> Sensual</li>
+    <li>EmosionalStatepl-> felice</li>
+    <li>EmosionalStatepl-> Deprimidos</li>
+    <li>EmosionalStatepl-> Marah</li>
+    <li>EmosionalStatepl-> alegres</li>
+    <li>maptype (p = 4)-> mapa</li>
+    <li>Maptype-> grafik</li>
+    <li>maptype-> atlas</li>
+    <li>Maptype-> Planisferio</li>
+    <li>MAPSYMBOL-> KEY</li>
+    <li>MAPSYMBOL-> "X"</li>
+    <li>Mapsymbol-> Star</li>
+    <li>Mapsymbol-> bulan</li>
+    <li>MAPSYMBOL-> TORRE</li>
+    <li>Mapsymbol-> Caravela</li>
+    <li>MAPSYMBOL-> [animal_fem]</li>
+    <li>MAPSYMBOLPL-> Keys</li>
+    <li>MAPSYMBOLPL-> "Equis"</li>
+    <li>MAPSYMBOLPL-> Bintang</li>
+    <li>Mapsymbolpl-> obat</li>
+    <li>MAPSYMBOLPL-> TORRES</li>
+    <li>Mapsymbolpl-> Caravela</li>
+    <li>MAPSYMBOLPL-> [animal_plural]</li>
+    <li>MAPSYMBOLMALE-> [Hewan]</li>
+    <li>Mapsymbolinde-> un [hewan]</li>
+    <li>Mapsymbolinde-> Una [MapSymbol]</li>
+    <li>Maptext (p = 10)-> [QuestMaptext]</li>
+    <li>maptext (p = 2)-> [subjek]</li>
+    <li>Maptext-> Bahaya ekstrem</li>
+    <li>Maptext-> peduli dengan [musuh]</li>
+    <li>Maptext-> Batang Kelaparan</li>
+    <li>Maptext-> Jangan tinggalkan jejak</li>
+    <li>Maptext-> [hewan] gila</li>
+    <li>Maptext -> [animal_fem] eneroquecida</li>
+    <li>Maptext-> penyerang serangan</li>
+    <li>Maptext-> karavan terakhir kami</li>
+    <li>Maptext-> Tanpa Korban</li>
+    <li>Maptext-> Ini</li>
+    <li>Maptext-> Aquí: "</li>
+    <li>Maptext-> makam [anypawn_nameindef]</li>
+    <li>Maptext-> Properti dari faksi [anypawn_factioname]</li>
+    <li>MapFeature (p = 8)-> [QuestMapFeature]</li>
+    <li>Mapfeature-> River</li>
+    <li>Mapfeaturefem-> Confluence of Two Rivers</li>
+    <li>MapFeaturefem-> Crossroads</li>
+    <li>MapFeaturefem-> Cordillera</li>
+    <li>mapfeaturefem-> costa</li>
+    <li>MapFeature-> Lago</li>
+    <li>MapFeaturefem-> Entri Pesisir</li>
+    <li>Mapfeaturefem-> Pulau Pantai</li>
+    <li>noteporation-> di sudut</li>
+    <li>Catatan Lokasi-> Di sudut peta</li>
+    <li>noTelocation-> di satu sudut</li>
+    <li>Notelokasi-> di sisi kiri</li>
+    <li>nottelocation-> en berdampingan</li>
+    <li>nottelocation-> en di bagian bawah</li>
+    <li>nottelocation-> lilin oleh [mapfeature]</li>
+    <li>nottelocation-> lilin oleh satu [mapfeatureFem]</li>
+    <li>noTelocation-> junto a un [mapfeature]</li>
+    <li>NoTelocation-> Di sebelah UNA [MapFeaturEFEM]</li>
+    <li>NoTelocation-> di bawah [mappeature] yang hebat</li>
+    <li>NoTelocation-> di bawah [mappeatureFem] yang hebat</li>
+    <li>noTelocation-> ke panjang tepi peta</li>
+  </Description_Map.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Tempat -> [Placeoutlander]</li>
+    <li>Place-> [Direction] [Placeoutlander]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Style] [Place_end]</li>
+    <li>mapsubjectAdj (p = 6)-> [arah]</li>
+    <li>MapsubjectAdj-> kuno</li>
+    <li>mapsubjectadj-> historis</li>
+    <li>MapsubjectAdj-> Old</li>
+    <li>mapsubjectadj-> dilupakan</li>
+    <li>mapsubjectadj-> rahasia</li>
+    <li>mapsubjectadj-> private</li>
+    <li>MapsubjectAdj-> tersembunyi</li>
+    <li>mapsubjectadj-> okultisme</li>
+    <li>mapsubjectadj-> tidak diketahui</li>
+    <li>MapsubjectAdj-> khusus</li>
+    <li>mapsubjectadj-> ganjil</li>
+    <li>mapsubjectadj-> aneh</li>
+    <li>mapsubjectadj-> luar biasa</li>
+    <li>mapsubjectadj-> bermanfaat</li>
+    <li>MapsubjectAdj-> Precious</li>
+    <li>mapsubjectadj-> mempesona</li>
+    <li>mapsubjectadj-> glamor</li>
+    <li>MapsubjectAdj-> keterlaluan</li>
+    <li>mapsubjectadj-> liar</li>
+    <li>mapsubjectadj-> hebat</li>
+    <li>mapsubjectadj-> grand</li>
+    <li>mapsubjectadj-> lebih rendah</li>
+    <li>mapsubjectadj-> kecil</li>
+    <li>mapsubjectadj-> buruk</li>
+    <li>MapsubjectAdj-> mengerikan</li>
+    <li>mapsubjectadj-> mistik</li>
+    <li>MapsubjectAdj-> Kudus</li>
+    <li>mapsubjectadj-> lokal</li>
+    <li>mapsubjectadj-> regional</li>
+    <li>MapsubjectAdj-> asli</li>
+    <li>mapsubjectadj-> di dekatnya</li>
+    <li>mapsubjectadj-> planet</li>
+    <li>MapsubjectAdj-> Berbahaya</li>
+    <li>mapsubjectadj-> mematikan</li>
+    <li>MapsubjectAdj-> TOCKIC</li>
+    <li>mapsubjectadj-> pilih</li>
+    <li>mapsubjectadj-> unik</li>
+    <li>mapsubjectadj-> penting</li>
+    <li>arah-> utara</li>
+    <li>arah-> Timur</li>
+    <li>arah-> selatan</li>
+    <li>arah-> Barat</li>
+    <li>arah (p = 0,2)-> subterranean</li>
+    <li>arah (p = 0.2)-> Underground</li>
+    <li>mapsubject-> jalan</li>
+    <li>mapsubject-> trails</li>
+    <li>Mapsubject-> Paths</li>
+    <li>Mapsubject-> gua</li>
+    <li>Mapsubject-> Hills</li>
+    <li>Mapsubject-> gunung</li>
+    <li>Mapsubject-> Rivers</li>
+    <li>Mapsubject-> Hutan</li>
+    <li>Mapsubject-> rawa</li>
+    <li>Mapsubject-> Badlands</li>
+    <li>Mapsubject-> Landmark</li>
+    <li>Mapsubject-> DAS</li>
+    <li>Mapsubject-> Lakes</li>
+    <li>Mapsubject-> Valleys</li>
+    <li>Mapsubject-> Places</li>
+    <li>mapsubject-> situs</li>
+    <li>Mapsubject-> Legends</li>
+    <li>Mapsubject-> Rahasia</li>
+    <li>Mapsubject-> Borders</li>
+    <li>Mapsubject-> Frontiers</li>
+    <li>mapsubject-> lokasi</li>
+    <li>mapsubject-> sumber daya</li>
+    <li>Mapsubject-> Artefak</li>
+    <li>Mapsubject-> Relics</li>
+    <li>Mapsubject-> Towns</li>
+    <li>Mapsubject-> Penyelesaian</li>
+    <li>Mapsubject-> Benteng</li>
+    <li>peta mapsubject-> reruntuhan</li>
+    <li>Mapsubject-> klan</li>
+    <li>Mapsubject-> Peoples</li>
+    <li>Mapsubject-> Histories</li>
+    <li>Mapsubject-> Wilayah</li>
+    <li>Mapsubject-> Landmasses</li>
+    <li>Kapsul-> ai</li>
+    <li>Kapsul-> semua</li>
+    <li>Kapsul-> an</li>
+    <li>Kapsul-> dan</li>
+    <li>Kapsul-> ar</li>
+    <li>Kapsul-> adalah</li>
+    <li>Kapsul-> as</li>
+    <li>Kapsul-> di</li>
+    <li>Capsule-> Band</li>
+    <li>Kapsul-> am</li>
+    <li>Capsyle-> Bagus</li>
+    <li>Kapsul-> beli</li>
+    <li>Kapsul-> ca</li>
+    <li>Kapsul-> apa</li>
+    <li>Capsyle-> from</li>
+    <li>Capsyle-> del</li>
+    <li>Kapsul-> din</li>
+    <li>Kapsul-> lakukan</li>
+    <li>Capsyle-> ea</li>
+    <li>Kapsul-> tempat tidur</li>
+    <li>Kapsul-> di</li>
+    <li>Kapsul-> ent</li>
+    <li>Capsyle-> is</li>
+    <li>Capsyle-> era</li>
+    <li>Kapsul-> ere</li>
+    <li>Capsyle-> es</li>
+    <li>Kapsul-> Hawa</li>
+    <li>Capsyle-> Far</li>
+    <li>Capsyle-> fen</li>
+    <li>Capsyle-> end</li>
+    <li>Kapsul-> untuk</li>
+    <li>Kapsul-> senjata</li>
+    <li>Kapsul-> pengukur</li>
+    <li>Kapsul-> pergi</li>
+    <li>Kapsul-> hai</li>
+    <li>Kapsul-> memiliki</li>
+    <li>Kapsul-> memiliki</li>
+    <li>Kapsul-> dia</li>
+    <li>Kapsul-> Hen</li>
+    <li>Kapsul-> pahlawan</li>
+    <li>Kapsul-> Hai</li>
+    <li>Kapsul-> Hai</li>
+    <li>Kapsul-> Hin</li>
+    <li>Kapsul-> miliknya</li>
+    <li>Kapsul-> di</li>
+    <li>Kapsul-> adalah</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> dan</li>
+    <li>Kapsul-> ka</li>
+    <li>Kapsul-> ko</li>
+    <li>Kapsul-> the</li>
+    <li>Kapsul-> Lab</li>
+    <li>Kapsul-> the</li>
+    <li>Kapsul-> pena</li>
+    <li>Kapsul-> Masuk</li>
+    <li>Kapsul-> pria</li>
+    <li>Kapsul-> saya</li>
+    <li>Kapsul-> pria</li>
+    <li>Kapsul-> mini</li>
+    <li>Capsyle-> my</li>
+    <li>Kapsul-> on</li>
+    <li>Kapsul-> ne</li>
+    <li>Kapsul-> tidak</li>
+    <li>Kapsul-> rumah</li>
+    <li>Kapsul-> on</li>
+    <li>Kapsul-> atau</li>
+    <li>Kapsul-> atau</li>
+    <li>Kapsul-> Minyak</li>
+    <li>Kapsul-> out</li>
+    <li>Capsyle-> pa</li>
+    <li>Kapsul-> qua</li>
+    <li>Kapsul-> ra</li>
+    <li>Kapsul-> merah</li>
+    <li>Kapsul-> ro</li>
+    <li>Capsyle-></li>
+    <li>Kapsul-> Sepatu</li>
+    <li>Kapsul-> ST</li>
+    <li>Kapsul-> teh</li>
+    <li>Kapsul-> merah</li>
+    <li>Kapsul-> robek</li>
+    <li>Kapsul-> tha</li>
+    <li>Kapsul-> the</li>
+    <li>Kapsul-> thi</li>
+    <li>Kapsul-> thi</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> to</li>
+    <li>Capsyle-> a</li>
+    <li>Kapsul-> ve</li>
+    <li>Kapsul-> ver</li>
+    <li>Capsyle-> wa</li>
+    <li>Kapsul-> cuci</li>
+    <li>Kapsul-> dengan</li>
+    <li>Kapsul-> Anda</li>-><MapUtility.rulePack.rulesStrings>
+    <li>LUGAR -> [Placeoutlander]</li>
+    <li>LUGAR-> [Direction] [Placeoutlander]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>Placeoutlander-> [Capsyle] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Place_end]</li>
+    <li>PlaceOutlander-> [Capsule] [Style] [Style] [Place_end]</li>
+    <li>mapsubjectandadjmal-> [mapsubjectpl] [mapsubjectadj]</li>
+    <li>mapsubjectandadjfem-> [mapsubjectfempl] [mapsubjectAdjfem]</li>
+    <li>mapsubjectandadj-> [mapsubjectpl] [mapsubjectadj]</li>
+    <li>mapsubjectandadj-> [mapsubjectfempl] [mapsubjectadjfem]</li>
+    <li>mapsubjectAdj (p = 6)-> [arah]</li>
+    <li>mapsubjectAdjfem (p = 6)-> [DirectionFem]</li>
+    <li>MapsubjectAdj-> kuno</li>
+    <li>Mapsubjectadj-> historis</li>
+    <li>MapsubjectAdj-> Old</li>
+    <li>Mapsubjectadj-> dilupakan</li>
+    <li>Mapsubjectadj-> rahasia</li>
+    <li>Mapsubjectadj-> private</li>
+    <li>MapsubjectAdj-> tersembunyi</li>
+    <li>MapsubjectAdj-> orang asing</li>
+    <li>MapsubjectAdj-> khusus</li>
+    <li>Mapsubjectadj-> langka</li>
+    <li>MapsubjectAdj-> orang asing</li>
+    <li>mapsubjectadj-> luar biasa</li>
+    <li>Mapsubjectadj-> berharga</li>
+    <li>MapsubjectAdj-> Precious</li>
+    <li>Mapsubjectadj-> menawan</li>
+    <li>mapsubjectadj-> glamurosos</li>
+    <li>MapsubjectAdj-> Skandal</li>
+    <li>MapsubjectAdj-> Savage</li>
+    <li>mapSubjectAdj->grandes</li>
+    <li>Mapsubjectadj-> besar</li>
+    <li>Mapsubjectadj-> lebih kecil</li>
+    <li>mapsubjectadj-> kecil</li>
+    <li>mapsubjectadj-> buruk</li>
+    <li>MapsubjectAdj-> mengerikan</li>
+    <li>Mapsubjectadj-></li>
+    <li>MapsubjectAdj-> Santos</li>
+    <li>mapsubjectadj-> lokal</li>
+    <li>regional mapsubjectadj-></li>
+    <li>Mapsubjectadj-></li>
+    <li>MapsubjectAdj-> tutup</li>
+    <li>Mapsubjectadj-> planet</li>
+    <li>MapsubjectAdj-> Berbahaya</li>
+    <li>Mapsubjectadj-> mortales</li>
+    <li>MapsubjectAdj-> TOCKIC</li>
+    <li>mapsubjectadj-> pilih</li>
+    <li>Mapsubjectadj-></li>
+    <li>Mapsubjectadj-> penting</li>
+    <li>MapsubjectAdjfem-> kuno</li>
+    <li>Mapsubjectadjfem-> historic</li>
+    <li>MapsubjectAdjfem-> Old</li>
+    <li>Mapsubjectadjfem-> lupa</li>
+    <li>Mapsubjectadjfem-> rahasia</li>
+    <li>MapsubjectAdjfem-> private</li>
+    <li>MapsubjectAdjfem-> tersembunyi</li>
+    <li>MapsubjectAdjfem-> tidak diketahui</li>
+    <li>MapsubjectAdjfem-> Peculiar</li>
+    <li>Mapsubjectadjfem-> jarang</li>
+    <li>Mapsubjectadjfem-> aneh</li>
+    <li>MapsubjectAdjfem-> Luar Biasa</li>
+    <li>MapsubjectAdjfem-> berharga</li>
+    <li>MapsubjectAdjfem-> Precious</li>
+    <li>MapsubjectAdjfem-> mempesona</li>
+    <li>MapsubjectAdjfem-> glamurosa</li>
+    <li>Mapsubjectadjfem-> skandal</li>
+    <li>mapsubjectadjfem-> Savage</li>
+    <li>MapsubjectAdjfem-> Great</li>
+    <li>MapsubjectAdjfem-> BESAR</li>
+    <li>MapsubjectAdjfem-> lebih kecil</li>
+    <li>mapsubjectadjfem-> kecil</li>
+    <li>Mapsubjectadjfem-> buruk</li>
+    <li>MapsubjectAdjfem-> mengerikan</li>
+    <li>Mapsubjectadjfem-> mistik</li>
+    <li>Mapsubjectadjfem-> santas</li>
+    <li>mapsubjectadjfem-> lokal</li>
+    <li>Mapsubjectadjfem-> regional</li>
+    <li>MapsubjectAdjfem-> asli</li>
+    <li>Mapsubjectadjfem-> tutup</li>
+    <li>MapsubjectAdjfem-> Planetary</li>
+    <li>Mapsubjectadjfem-> berbahaya</li>
+    <li>MapsubjectAdjfem-> Mortales</li>
+    <li>MapsubjectAdjfem-> TOacCIC</li>
+    <li>MapsubjectAdjfem-> Selects</li>
+    <li>MapsubjectAdjfem-></li>
+    <li>MapsubjectAdjfem-> mengimpor</li>
+    <li>Mapsubjectadjsing-> Old</li>
+    <li>Mapsubjectadjsing-> history</li>
+    <li>mapsubjectadjsing-> viejo</li>
+    <li>Mapsubjectadjsing-> dilupakan</li>
+    <li>Mapsubjectadjsing-> rahasia</li>
+    <li>Mapsubjectadjsing-> private</li>
+    <li>Mapsubjectadjsing-> tersembunyi</li>
+    <li>mapsubjectadjsing-> tidak diketahui</li>
+    <li>Mapsubjectadjsing-> Peculiar</li>
+    <li>mapsubjectadjsing-> raro</li>
+    <li>mapsubjectadjsing-> aneh</li>
+    <li>Mapsubjectadjsing-> luar biasa</li>
+    <li>Mapsubjectadjsing-> berharga</li>
+    <li>Mapsubjectadjsing-> berharga</li>
+    <li>Mapsubjectadjsing-> menawan</li>
+    <li>Mapsubjectadjsing-> glamous</li>
+    <li>Mapsubjectadjsing-> Skandal</li>
+    <li>mapsubjectadjsing-> Savage</li>
+    <li>mapsubjectadjsing-> grande</li>
+    <li>mapsubjectadjsing-> everorme</li>
+    <li>Mapsubjectadjsing-> minor</li>
+    <li>mapsubjectadjsing-> kecil</li>
+    <li>Mapsubjectadjsing-> Malo</li>
+    <li>Mapsubjectadjsing-> mengerikan</li>
+    <li>Mapsubjectadjsing-></li>
+    <li>Mapsubjectadjsing-> santo</li>
+    <li>mapsubjectadjsing-> lokal</li>
+    <li>Mapsubjectadjsing-> regional</li>
+    <li>Mapsubjectadjsing-> asli</li>
+    <li>mapsubjectadjsing-> cercano</li>
+    <li>MapsubjectAdjsing-> Planetario</li>
+    <li>Mapsubjectadjsing-> Berbahaya</li>
+    <li>mapsubjectadjsing-> fana</li>
+    <li>MapsubjectAdjsing-> TOCKIC</li>
+    <li>Mapsubjectadjsing-> pilih</li>
+    <li>Mapsubjectadjsing-> single</li>
+    <li>Mapsubjectadjsing-> penting</li>
+    <li>mapsubjectadjsingfem-> antigua</li>
+    <li>Mapsubjactadjsingfem-> historis</li>
+    <li>mapsubjectadjsingfem-> old</li>
+    <li>Mapsubjectadjsingfem-> dilupakan</li>
+    <li>Mapsubjactadjsingfem-> rahasia</li>
+    <li>Mapsubjectadjsingfem-> private</li>
+    <li>MapsubjectAdjsingfem-> tersembunyi</li>
+    <li>mapsubjectadjsingfem-> tidak diketahui</li>
+    <li>MapsubjectAdjsingfem-> khusus</li>
+    <li>Mapsubjactadjsingfem-> rare</li>
+    <li>mapsubjectadjsingfem-> aneh</li>
+    <li>mapsubjectadjsingfem-> luar biasa</li>
+    <li>Mapsubjactadjsingfem-> berharga</li>
+    <li>Mapsubjactadjsingfem-> berharga</li>
+    <li>Mapsubjectadjsingfem-> menawan</li>
+    <li>mapsubjectadjsingfem-> glamurosa</li>
+    <li>Mapsubjactadjsingfem-> skandalosa</li>
+    <li>Mapsubjectadjsingfem-> liar</li>
+    <li>Mapsubjactadjsingfem-> hebat</li>
+    <li>Mapsubjactadjsingfem-> besar</li>
+    <li>Mapsubjectadjsingfem-> minor</li>
+    <li>mapsubjectadjsingfem-> kecil</li>
+    <li>mapsubjectadjsingfem-> mala</li>
+    <li>Mapsubjectadjsingfem-> mengerikan</li>
+    <li>Mapsubjactadjsingfem-> mystique</li>
+    <li>Mapsubjectadjsingfem-> santa</li>
+    <li>mapsubjectadjsingfem-> lokal</li>
+    <li>mapsubjectadjsingfem-> regional</li>
+    <li>Mapsubjectadjsingfem-> asli</li>
+    <li>Mapsubjectadjsingfem-> tutup</li>
+    <li>Mapsubjactadjsingfem-> planaria</li>
+    <li>mapsubjectadjsingfem-> berbahaya</li>
+    <li>mapsubjectadjsingfem-> fana</li>
+    <li>Mapsubjactadjsingfem-> beracun</li>
+    <li>mapsubjectadjsingfem-> pilih</li>
+    <li>Mapsubjactadjsingfem-> single</li>
+    <li>Mapsubjectadjsingfem-> penting</li>
+    <li>arah-> dari utara</li>
+    <li>arah-> dari timur</li>
+    <li>arah-> del on</li>
+    <li>arah-> Barat</li>
+    <li>DirectionFem-> dari utara</li>
+    <li>DirectionFem-> del adalah</li>
+    <li>DirectionFem-> del on</li>
+    <li>DirectionFem-> of the West</li>
+    <li>arah (p = 0,2)-> di bawah tanah</li>
+    <li>arah (p = 0,2)-> di bawah tanah</li>
+    <li>DirectionFem (P = 0.2)-> Underground</li>
+    <li>DirectionFem (P = 0.2)-> Underground</li>
+    <li>mapsubjectinde-> un [mapsubject]</li>
+    <li>mapsubjectinde-> una [mapsubjectfem]</li>
+    <li>mapsubjectfempl-> jalan</li>
+    <li>MapsubjectFem-> Carretera</li>
+    <li>Mapsubjectpl-> trails</li>
+    <li>Mapsubject-> sendero</li>
+    <li>mapsubjectpl-> jalan</li>
+    <li>Mapsubject-> Camino</li>
+    <li>mapsubjectfempl-> cuevas</li>
+    <li>MapsubjectFem-> Cueva</li>
+    <li>Mapsubjectfempl-> colinas</li>
+    <li>MapsubjectFem-> Colina</li>
+    <li>Mapsubjectfempl-> gunung</li>
+    <li>Mapsubjectfem-> gunung</li>
+    <li>Mapsubjectpl-> rivers</li>
+    <li>Mapsubject-> río</li>
+    <li>mapsubjectpl-> bosques</li>
+    <li>Mapsubject-> Bosque</li>
+    <li>Mapsubjectpl-> Pantanos</li>
+    <li>Mapsubject-> Pantano</li>
+    <li>MapsubjectFempl-> Baldías Lands</li>
+    <li>MapsubjectFem-> Baldía Land</li>
+    <li>Mapsubjectpl-> Poin yang menarik</li>
+    <li>Mapsubject-> Titik Minat</li>
+    <li>Mapsubjectfempl-> cekungan hidrografi</li>
+    <li>Mapsubjectfem-> basin hidrografi</li>
+    <li>Mapsubjectpl-> lagos</li>
+    <li>Mapsubject-> lago</li>
+    <li>mapsubjectpl-> valles</li>
+    <li>Mapsubject-> Valle</li>
+    <li>Mapsubjectpl-> Places</li>
+    <li>Mapsubject-> Lugar</li>
+    <li>Mapsubjectpl-> SITIOS</li>
+    <li>Mapsubject-> Sitio</li>
+    <li>mapsubjectfempl-> legenda</li>
+    <li>MapsubjectFem-> Legend</li>
+    <li>mapsubjectpl-> Secretos</li>
+    <li>Mapsubject-> Secreto</li>
+    <li>Mapsubjectfempl-> perbatasan</li>
+    <li>mapsubjectfem-> frontera</li>
+    <li>Mapsubjectfempl-> lokasi</li>
+    <li>Mapsubjectfem-> lokasi</li>
+    <li>Mapsubjectpl-> sumber daya</li>
+    <li>Mapsubject-> sumber daya</li>
+    <li>Mapsubjectpl-> Artefactos</li>
+    <li>Mapsubject-> Artefacto</li>
+    <li>Mapsubbiewfempl-> tetap</li>
+    <li>Mapsubbjectfem-> reliquia</li>
+    <li>Mapsubjectpl-> pueblos</li>
+    <li>Mapsubject-> pueblo</li>
+    <li>mapsubjectpl-> penyelesaian</li>
+    <li>Mapsubject-> Penyelesaian</li>
+    <li>MapsubjectFempl-> Kekuatan</li>
+    <li>MapsubjectFem-> Fortaleza</li>
+    <li>mapsubjectfempl-> ruinas</li>
+    <li>mapsubjectfem-> ruina</li>
+    <li>Mapsubjectpl-> klan</li>
+    <li>Mapsubject-> klan</li>
+    <li>MapsubjectFempl-> Populasi</li>
+    <li>MapsubjectFem-> Population</li>
+    <li>MapsubjectFempl-> Stories</li>
+    <li>mapsubjectfem-> historia</li>
+    <li>Mapsubjectpl-> wilayah</li>
+    <li>Mapsubject-> teritorio</li>
+    <li>Mapsubjectfempl-> massa terestrial</li>
+    <li>MapsubjectFem-> Masa Terestre</li>
+    <li>Kapsul-> ai</li>
+    <li>Kapsul-> semua</li>
+    <li>Capsyle-> a</li>
+    <li>Kapsul-> y</li>
+    <li>Kapsul-> ar</li>
+    <li>Kapsul-> putra</li>
+    <li>Kapsul-> bagaimana</li>
+    <li>Kapsul-> di</li>
+    <li>Kapsul-> Larangan</li>
+    <li>Kapsul-> dari</li>
+    <li>Capsyle-> Bagus</li>
+    <li>Kapsul-> Pro</li>
+    <li>Kapsul-> con</li>
+    <li>Kapsul-> apa</li>
+    <li>Capsyle-> from</li>
+    <li>Capsyle-> del</li>
+    <li>Kapsul-> cena</li>
+    <li>Kapsul-> lakukan</li>
+    <li>Capsyle-> ea</li>
+    <li>Kapsul-> tempat tidur</li>
+    <li>Kapsul-> di</li>
+    <li>Kapsul-> di</li>
+    <li>Capsyle-> is</li>
+    <li>Capsyle-> era</li>
+    <li>Kapsul-> di sini</li>
+    <li>Kapsul-> putra</li>
+    <li>Kapsul-> malam</li>
+    <li>Kapsul-> jauh</li>
+    <li>Capsyle-> fen</li>
+    <li>Capsyle-> end</li>
+    <li>Kapsul-> untuk</li>
+    <li>Kapsul-> Menyenangkan</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> memiliki</li>
+    <li>Kapsul-> Ada</li>
+    <li>Kapsul-> topi</li>
+    <li>Kapsul-> él</li>
+    <li>Kapsul-> wedge</li>
+    <li>Kapsul-> su</li>
+    <li>Capsule-> Hole</li>
+    <li>Capsule-> Hole</li>
+    <li>Capsule-> Hole</li>
+    <li>Capsule-> Hole</li>
+    <li>Kapsul-></li>
+    <li>Capsyle-> es</li>
+    <li>Kapsul-> su</li>
+    <li>Kapsul-> itu</li>
+    <li>Kapsul-> dan</li>
+    <li>Kapsul-> ka</li>
+    <li>Kapsul-> ko</li>
+    <li>Kapsul-> the</li>
+    <li>Kapsul-> Lab</li>
+    <li>Capsyle-> el</li>
+    <li>Kapsul-> pena</li>
+    <li>Kapsul-></li>
+    <li>Kapsul-> Madre</li>
+    <li>Kapsul-> yo</li>
+    <li>Kapsul-> pria</li>
+    <li>Kapsul-> mini</li>
+    <li>Kapsul-> tidak</li>
+    <li>Kapsul-> bagus</li>
+    <li>Kapsul-> tidak pernah</li>
+    <li>Kapsul-> tidak</li>
+    <li>Kapsul-> rumah</li>
+    <li>Kapsul-> di</li>
+    <li>Kapsul-> o</li>
+    <li>Kapsul-> atau</li>
+    <li>Kapsul-> Minyak</li>
+    <li>Kapsul-> milik kita</li>
+    <li>Capsyle-> pa</li>
+    <li>Kapsul-> di sini</li>
+    <li>Kapsul-></li>
+    <li>Kapsul-> merah</li>
+    <li>Kapsul-> ro</li>
+    <li>Capsyle-></li>
+    <li>Kapsul-> bidikan</li>
+    <li>Kapsul-> ST</li>
+    <li>Capsyle-> té</li>
+    <li>Kapsul-> merah</li>
+    <li>Capsyle-> itu</li>
+    <li>Kapsul-> tha</li>
+    <li>Capsyle-> el</li>
+    <li>Kapsul-> thi</li>
+    <li>Kapsul-> thi</li>
+    <li>Capsyle-> kamu</li>
+    <li>Kapsul-> untuk</li>
+    <li>Capsyle-> a</li>
+    <li>Kapsul-> ve</li>
+    <li>Capsyle-> Proto</li>
+    <li>Capsyle-> wa</li>
+    <li>Kapsul-> adalah</li>
+    <li>Kapsul-> tic</li>
+    <li>Kapsul-> Anda</li>
+  </MapUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>judul (p = 2)-> [maptype] [MapNoun] dari [subjek]</li>
+    <li>judul (p = 2)-> [maybethe] [maptype] [peta]</li>
+    <li>title (p = 2)-> [maybeadjective] [anypawn_nameindef] [maybeadjective] [peta]</li>
+    <li>Judul-> [Maptype] [MapNoun]: [Subjek]</li>
+    <li>Judul-> [MapNoun] dari [mapsubjectAdj] [mapsubject]</li>
+    <li>Judul-> [Maybethe] [AdjectiveAny] [MAP]</li>
+    <li>Judul (p = 0,5)-> peta untuk [mapsubjectadj] [mapsubject]</li>
+    <li>Judul (P = 0,5)-> [Place] [MapNoun]</li>
+    <li>maybeadjective-></li>
+    <li>Maybeadjective-> [kata sifat]</li>
+    <li>Kata sifat-> [AdjectiveANy]</li>
+    <li>Kata sifat-> [warna]</li>
+    <li>Kata sifat-> [kata sifat]</li>
+    <li>maybethe-></li>
+    <li>Maybethe-> the</li>
+    <li>Peta-> [MapNoun]</li>
+    <li>Peta (p = 2)-> [MapNoun] dari [Place]</li>
+    <li>Peta-> [MapNoun] dari [Mapsubject]</li>
+    <li>peta-> [MapNoun] dari [mapsubjectAdj] [mapsubject]</li>
+    <li>Mapnoun (p = 5)-> peta</li>
+    <li>MapNoun (p = 2)-> Atlas</li>
+    <li>Mapnoun-> Almanac</li>
+    <li>MAPNOUN-> Bagan</li>
+    <li>Survei Mapnoun-></li>
+    <li>Mapnoun-> Studi</li>
+    <li>Mapnoun-> Pamflet</li>
+    <li>maptype (p = 2)-> [hewan]</li>
+    <li>maptype (p = 2)-> [Treeetype]</li>
+    <li>Maptype-> Contour</li>
+    <li>Maptype-> Topografi</li>
+    <li>maptype-> relief</li>
+    <li>Maptype-> Population</li>
+    <li>Maptype-> Treasure</li>
+    <li>maptype-> beranotasi</li>
+    <li>maptype-> diilustrasikan</li>
+    <li>Maptype-> Konfederasi</li>
+    <li>maptype-> koalisi</li>
+    <li>Maptype-> Federasi</li>
+    <li>maptype-> historis</li>
+    <li>Maptype-> Paper</li>
+    <li>maptype-> kulit</li>
+    <li>Maptype-> Pigskin</li>
+    <li>maptype-> laminasi</li>
+    <li>maptype-> holographic</li>-><Namer_Map.rulePack.rulesStrings>
+    <li>Judul (p = 2)-> [MapNoun] [maptype] de [subjek]</li>
+    <li>judul (p = 2)-> [maybethe] [peta] [maptype]</li>
+    <li>title (p = 2)-> [peta] [maybeadjective] de [anypawn_nameindef] [maybeadjective]</li>
+    <li>Judul-> [MapNoun] [Maptype]: [Subjek]</li>
+    <li>Judul-> [MapNoun] DE [Mapsubject] [MapsubjectAdj]</li>
+    <li>Judul-> [Maybethe] [peta] [AdjectiveAny]</li>
+    <li>Judul (p = 0,5)-> peta untuk [mapsubject] [mapsubjectadj]</li>
+    <li>Judul (p = 0,5)-> [MapNoun] [Place]</li>
+    <li>maybeadjective-></li>
+    <li>Maybeadjective-> [kata sifat]</li>
+    <li>Kata sifat-> [AdjectiveANy]</li>
+    <li>Kata sifat-> [warna]</li>
+    <li>Kata sifat-> [kata sifat]</li>
+    <li>maybethe-></li>
+    <li>maybethe-> el</li>
+    <li>Peta-> [MapNoun]</li>
+    <li>Peta (p = 2)-> [MapNoun] de [Place]</li>
+    <li>Peta-> [MapNoun] Del [Mapsubject]</li>
+    <li>Peta-> [MapNoun] de la [mapsubjectfem]</li>
+    <li>peta-> [MapNoun] del [mapsubject] [mapsubjectadjsing]</li>
+    <li>MAP-> [MAPNOUN] dari LA [mapsubjectFem] [mapsubjectadjsingfem]</li>
+    <li>Isi (p = 5)-> mapa</li>
+    <li>MapNoun (p = 2)-> Atlas</li>
+    <li>Mapnoun-> Almanac</li>
+    <li>Mapnoun-> Grafik</li>
+    <li>Mereka adalah> Planetarium</li>
+    <li>MAPNOUN-> BROCHURE</li>
+    <li>maptype (p = 2)-> [hewan]</li>
+    <li>maptype (p = 2)-> [Treeetype]</li>
+    <li>Maptype-> Contour</li>
+    <li>Maptype-> Topografi</li>
+    <li>maptype-> relieve</li>
+    <li>Maptype-> Population</li>
+    <li>maptype-> tesoro</li>
+    <li>Maptype-> Anotasi</li>
+    <li>Maptype-> diilustrasikan</li>
+    <li>Maptype-> Konfederasi</li>
+    <li>Maptype-> koalisi</li>
+    <li>Maptype-> Federasi</li>
+    <li>Maptype-> history</li>
+    <li>Maptype-> Paper</li>
+    <li>maptype-> piel</li>
+    <li>Maptype-> Kulit Babi</li>
+    <li>Maptype-> laminasi</li>
+    <li>Maptype-> holographic</li>
+  </Namer_Map.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned landmark -->
+  <AbandonedLandmark.label>Titik menarik yang ditinggalkan</AbandonedLandmark.label>
+  <!-- EN: An abandoned campsite at a landmark. -->
+  <AbandonedLandmark.description>Sebuah kamp yang ditinggalkan di tempat yang menarik.</AbandonedLandmark.description>
+  
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>Asteroid dasar</AsteroidBasic.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidBasic.description>Asteroid kosong yang ditarik ke orbit di sekitar planet ini sebagai bagian dari operasi penambangan sejak lama.Sebagian besar sumber daya berharga telah habis dari asteroid ini.</AsteroidBasic.description>
+  
+  <!-- EN: asteroid mining site -->
+  <AsteroidMiningSite.label>Situs Penambangan Asteroid</AsteroidMiningSite.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidMiningSite.description>Asteroid kosong yang ditarik ke orbit di sekitar planet ini sebagai bagian dari operasi penambangan sejak lama.Asteroid ini hanya sebagian dieksploitasi.</AsteroidMiningSite.description>
+  
+  <!-- EN: claimable site -->
+  <ClaimableSite.label>situs yang dapat diklaim</ClaimableSite.label>
+  
+  <!-- EN: claimable space site -->
+  <ClaimableSpaceSite.label>Situs Luar Angkasa yang Dapat Diklaim</ClaimableSpaceSite.label>
+  
+  <!-- EN: destroyed settlement -->
+  <DestroyedSpaceSettlement.label>pemukiman yang hancur</DestroyedSpaceSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSpaceSettlement.description>Un asentamiento destruido.</DestroyedSpaceSettlement.description>
+  
+  <!-- EN: gravship -->
+  <Gravship.label>gravinave</Gravship.label>
+  <!-- EN: A gravship in flight. -->
+  <Gravship.description>Gravinave dalam penerbangan.</Gravship.description>
+  
+  <!-- EN: gravship launch -->
+  <GravshipLaunch.label>Lepas landas gravinave</GravshipLaunch.label>
+  <!-- EN: The launch site of a gravship. -->
+  <GravshipLaunch.description>Situs take -off gravinave.</GravshipLaunch.description>
+  
+  <!-- EN: mechhive -->
+  <Mechhive.label>Mecacolmena</Mechhive.label>
+  
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>Penyimpanan Objek Orbital</OrbitalItemStash.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <OrbitalItemStash.description>Asteroid kosong yang ditarik ke orbit di sekitar planet ini sebagai bagian dari operasi penambangan sejak lama.Sebagian besar sumber daya berharga telah habis dari asteroid ini.</OrbitalItemStash.description>
+  
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>transfer penumpang</PassengerShuttle.label>
+  <!-- EN: A passenger shuttle in flight. -->
+  <PassengerShuttle.description>Sebuah feri penumpang dalam penerbangan.</PassengerShuttle.description>
+  
+  <!-- EN: space -->
+  <Space.label>ruang angkasa</Space.label>
+  
+  <!-- EN: orbital settlement -->
+  <SpaceSettlement.label>Penyelesaian Orbital</SpaceSettlement.label>
+  <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
+  <SpaceSettlement.description>Platform orbital yang dikendalikan oleh faksi manusia lainnya.Mereka tidak akan menghargai pengunjung.Mereka hanya dapat diperkirakan dengan aman dengan gravinave dengan inhibitor sinyal.</SpaceSettlement.description>
+  
+  <!-- EN: space site -->
+  <SpaceSite.label>Situs Ruang</SpaceSite.label>
+  
+</LanguageData>

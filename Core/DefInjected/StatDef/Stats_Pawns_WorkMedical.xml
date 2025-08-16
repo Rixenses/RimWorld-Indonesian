@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>Kecepatan Operasi Medis</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>Kecepatan di mana karakter melakukan operasi medis.</MedicalOperationSpeed.description>
+  
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>Probabilitas operasi yang berhasil</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>Probabilitas dasar bahwa karakter berhasil melakukan operasi medis.Probabilitas keberhasilan yang sebenarnya juga dipengaruhi oleh faktor -faktor seperti fasilitas, pembersihan ruangan, obat -obatan yang digunakan, kesulitan operasi dan saat -saat inspirasi.Tidak peduli seberapa tinggi probabilitas keberhasilan, selalu ada kemungkinan kecil kegagalan dalam operasi apa pun.</MedicalSurgerySuccessChance.description>
+  
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>Kualitas Perawatan Medis</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
+  <MedicalTendQuality.description>Kualitas dasar perawatan yang terjadi ketika menghadiri luka dan penyakit.Kualitas perawatan sebenarnya juga akan dipengaruhi oleh faktor -faktor seperti obat yang digunakan, fasilitas, pembersihan kamar, keberuntungan, dan sebagainya.</MedicalTendQuality.description>
+  
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>Tingkat Perawatan Medis</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Kecepatan di mana karakter memperlakukan luka dan penyakit.</MedicalTendSpeed.description>
+  
+</LanguageData>

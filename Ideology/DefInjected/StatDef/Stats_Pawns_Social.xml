@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal products price improvement -->
+  <AnimalProductsSellImprovement.label>Peningkatan harga prod.Hewan</AnimalProductsSellImprovement.label>
+  <!-- EN: When this person sells meat, leather, or wool, prices are improved by this percentage. -->
+  <AnimalProductsSellImprovement.description>Ketika orang ini menjual daging, kulit atau wol, harga meningkat dalam persentase ini.</AnimalProductsSellImprovement.description>
+  
+  <!-- EN: slave suppression fall rate -->
+  <SlaveSuppressionFallRate.label>% Penindasan jatuh dari budak</SlaveSuppressionFallRate.label>
+  <!-- EN: The rate at which slave suppression falls. -->
+  <SlaveSuppressionFallRate.description>Kecepatan penindasan budak jatuh.</SlaveSuppressionFallRate.description>
+  <!-- EN: {0} per day -->
+  <SlaveSuppressionFallRate.formatString>{0} sehari</SlaveSuppressionFallRate.formatString>
+  <!-- EN: {0} per day -->
+  <SlaveSuppressionFallRate.formatStringUnfinalized>{0} sehari</SlaveSuppressionFallRate.formatStringUnfinalized>
+  
+</LanguageData>

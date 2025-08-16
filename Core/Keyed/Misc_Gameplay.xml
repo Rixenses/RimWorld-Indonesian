@@ -1,0 +1,2191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>Poin kerusakan</HitPointsBasic>
+  <!-- EN: Work left -->
+  <WorkLeft>Pekerjaan yang tersisa</WorkLeft>
+  <!-- EN: Contents -->
+  <Contents>ISI</Contents>
+  <!-- EN: Contained resources -->
+  <ContainedResources>Sumber daya yang diperlukan</ContainedResources>
+  <!-- EN: For prisoner use -->
+  <ForPrisonerUse>Untuk tahanan</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>Di sel penjara: untuk penggunaan tahanan</InPrisonCell>
+  <!-- EN: For colonist use -->
+  <ForColonistUse>Untuk penggunaan pemukim</ForColonistUse>
+  <!-- EN: Medical -->
+  <MedicalBed>Medis</MedicalBed>
+  <!-- EN: Owner -->
+  <Owner>Pemilik</Owner>
+  <!-- EN: Owners -->
+  <Owners>Pemilik</Owners>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>Ditugaskan Kolonus</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>Suhu kamar yang tidak nyaman</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>Suhu ruang yang tidak aman</BedUnsafeTemperature>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>{0} mati</DiedOn>
+  <!-- EN: Nobody -->
+  <Nobody>Bukan siapa-siapa</Nobody>
+  <!-- EN: Unowned -->
+  <Unowned>Tanpa pemilik</Unowned>
+  <!-- EN: Dead for {0} -->
+  <DeadTime>Mati membuat {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
+  <WalkSpeed>Kecepatan Gerakan: {0}</WalkSpeed>
+  <!-- EN: fert. -->
+  <FertShort>beruang.</FertShort>
+  <!-- EN: dying -->
+  <DyingLower>sekarat</DyingLower>
+  <!-- EN: Filth on feet: -->
+  <FilthOnFeet>Kaki kotor:</FilthOnFeet>
+  <!-- EN: not enough stored -->
+  <NotEnoughStoredLower>Pasokan yang tidak mencukupi</NotEnoughStoredLower>
+  <!-- EN: nothing -->
+  <NothingLower>Tidak ada apa-apa</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>Tidak ada</Nothing>
+  <!-- EN: Adapted -->
+  <Adapted>Diadaptasi</Adapted>
+  <!-- EN: fresh -->
+  <FreshMissingBodyPart>lukisan dinding</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
+  <DevelopedImmunityLower>Kekebalan yang dikembangkan</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>Anda membutuhkan perawatan segera</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>Itu bisa dihadiri sekarang</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>Perawatan berakhir pada {0}</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>Itu bisa lagi di {0}</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>Kualitas perawatan</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>Kualitas Perawatan Akhir</DisappearsAtTotalTendQuality>
+  <!-- EN: no {0} -->
+  <MissingMedicalBillIngredient>sin {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
+  <Immunity>Kekebalan</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>{0} hari untuk pulih</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>Tidak efektif</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>liar</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>Probabilitas deteksi</DetectionChance>
+  <!-- EN: Race -->
+  <Race>Jenis</Race>
+  <!-- EN: Description -->
+  <Description>Keterangan</Description>
+  <!-- EN: Equipment -->
+  <Equipment>Peralatan</Equipment>
+  <!-- EN: Apparel -->
+  <Apparel>Pakaian</Apparel>
+  <!-- EN: Inventory -->
+  <Inventory>Inventaris</Inventory>
+  <!-- EN: Information -->
+  <ThingInfo>Informasi</ThingInfo>
+  <!-- EN: Drop -->
+  <DropThing>Untuk melempar</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>Fitur sementara tidak akan menjatuhkan objek mereka.</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>Orang ini menolak untuk merilis ini.</DropThingLocked>
+  <!-- EN: Rename -->
+  <Rename>Ganti nama</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>Ganti nama hewan</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>Ganti nama Colono</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>Menyerah untuk judul</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>Menjalankan</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>Melaksanakan Penyelesaian Bersalah \ n \ nsi Active Opsi ini, seorang wali akan melanjutkan untuk mengeksekusi orang ini.</ExecuteColonist>
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelshort} adalah Marcad {0_gender?O: A} untuk dieksekusi.Wali berikut akan menjalankan {0_objective}.</MessageColonistMarkedForExecution>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>{0} dari {1}</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>Tindakan ini akan membuat {pawn_namedef} kehilangan judul {title}.Anda tidak akan menerima kompensasi apa pun saat melepaskan judul Anda. \ N \ nsto akan memiliki efek berikut: \ n \ n {Effect}</RenounceTitleDescription>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>Anda akan kehilangan izin ini</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{Pawn_namedef} akan kehilangan {poin} poin izin tidak dihabiskan dengan faksi {felion_name}.</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>Anda akan menjaga semua tingkat paranormal psikis Anda.</RenounceTitleWillKeepPsylinkLevels>
+  <!-- EN: unknown -->
+  <UnknownLower>seorang asing</UnknownLower>
+  <!-- EN: On -->
+  <On>Pada</On>
+  <!-- EN: Off -->
+  <Off>Mati</Off>
+  <!-- EN: {0} {1} -->
+  <SourceToolLabel>{1} {ganti: dari {0};"Manusia"-"manusia"}</SourceToolLabel>
+  <!-- EN: Power -->
+  <PowerSwitch_Power>Energi</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
+  <JoyTolerances>Toleransi rekreasi</JoyTolerances>
+  <!-- EN: Milk fullness -->
+  <MilkFullness>Produksi susu</MilkFullness>
+  <!-- EN: Wool growth -->
+  <WoolGrowth>Produksi wol</WoolGrowth>
+  <!-- EN: Egg progress -->
+  <EggProgress>Kemajuan Telur</EggProgress>
+  <!-- EN: Fertilized -->
+  <Fertilized>Dibuahi</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>Kemajuan ditangkap sampai pemupukan</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>Enklosi di</HatchesIn>
+  <!-- EN: need {0} level {2}, have {1} -->
+  <SkillTooLow>Need {0} level {2}, ia memiliki {1}</SkillTooLow>
+  <!-- EN: Freezing -->
+  <Freezing>Pembekuan</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>Terlalu panas</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>Rusak berdasarkan suhu.</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>Bagian tubuh yang hilang</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>Itu mereproduksi</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>Tidur: Ini tidak mereproduksi.</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>Berikutnya {0} di</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>Sumber Daya Berikutnya</NextSpawnedResourceIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>Gagal</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>(menjalin kedekatan)</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>Mudah terbakar</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>Mudah terbakar</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>Atur level bahan bakar ke {0}</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>Setel level bahan bakar ke {0} \ maksimum ndistance: {1} kotak</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>Level Bahan Bakar yang Diinginkan: {0}</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
+  <Enemies>musuh</Enemies>
+  <!-- EN: people -->
+  <People>kepribadian</People>
+  <!-- EN: time passed -->
+  <TimePassed>waktu yang berlalu</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>Radio aktual</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>Radio mengembang</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>Permanente</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>Istirahat</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>Menggunakan 1 kantong tidur</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>Menggunakan {0} kantong tidur</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>Perkiraan Waktu Kedatangan: {0} hari</CaravanEstimatedTimeToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>Perkiraan hari sampai kedatangan: {0} hari</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>Immobilized: Terlalu banyak berat.</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>Tanpa makanan.</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>Ada makanan untuk {0} hari</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>Makanan tetap ada selama {0} hari, membusuk di {1} hari</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>Berhenti: Semuanya tidak sadar.</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
+  <AllCaravanMembersMentalBreak>Ditahan: Setiap orang mengalami keruntuhan mental.</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>1 binatang</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>{0} Hewan</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>1 tahanan</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>{0} Tahanan</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} dalam kondisi mental</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>{0} insconsciente (s)</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>Bepergian.</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>Menunggu.</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>Didakwa dengan penyakit</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>Menggunakan kantong tidur karena penyakit</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>Kecepatan antara arus Casilas</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>Visibilitas</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>Suhu</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>suhu buruk</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>Suhu fermentasi yang ideal</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>Efek Pengganda {0}: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>Mengunjungi {0}.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>Memasuki {0}.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>Menyerang {0}.</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>Menawarkan hadiah kepada {0}.</CaravanOfferingGifts>
+  <!-- EN: Trading with {0}. -->
+  <CaravanTrading>Perdagangan dengan {0}.</CaravanTrading>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>Dicap untuk dibawa oleh mayat.</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>M</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>tunawisma</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>di luar rumah</DeterioratingOutdoors>
+  <!-- EN: raining -->
+  <DeterioratingRaining>Di bawah hujan</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>terlindung</Protected>
+  <!-- EN: Deteriorating -->
+  <DeterioratingBecauseOf>Memburuk karena</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>Itu akan memburuk di {0}.</DeteriorateInDuration>
+  <!-- EN: Map -->
+  <Map>Peta</Map>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>{0} sampai musuh tiba</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
+  <CaravanDetectedRaidCountdownTip>Musuh telah menemukan lokasi Anda.Mereka akan tiba di {0}.</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Room -->
+  <Room>Ruang</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>Kecantikan</BeautyHere>
+  <!-- EN: no power -->
+  <NoPower>Tanpa energi</NoPower>
+  <!-- EN: not in {0} -->
+  <NotInRoomRole>Itu tidak ada di {0_indefinite}</NotInRoomRole>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>Kecepatan kerja</WorkSpeedPenalty>
+  <!-- EN: Disabled -->
+  <DisabledCommand>Dengan disabilitas</DisabledCommand>
+  <!-- EN: Deactivated -->
+  <Deactivated>Dengan disabilitas</Deactivated>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>Daftar untuk lepas landas.</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>Itu belum siap untuk lepas landas</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>Tidak ada pos pengisian bahan bakar</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllLaunchablesInGroupHaveAnyFuel>Tidak ada bahan bakar</NotAllLaunchablesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <LaunchableInGroupHasSomethingLeftToLoad>memuat dalam proses</LaunchableInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>Di luar kisaran maksimal</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: No path to {LAYER_label} -->
+  <TransportPodDestinationNoPath>Tidak ada rute ke {layer_label}</TransportPodDestinationNoPath>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>Tanpa bahan bakar yang cukup</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>{0} dari {1}</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>Probabilitas keberhasilan operasi di dalam ruangan</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>Probabilitas infeksi kamar</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>Tertutup</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>Digunakan oleh {1_labelshort}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>Dilengkapi oleh {1_labelshort}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{0} Ingin ini dihancurkan. \ N hadiah: {1} ({2})</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>{0} Ingin ini dihancurkan.</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>Meninggalkan feri di {0}</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>Meninggalkan {0}</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>Saya harus meninggalkan feri</ShouldDepartOnShuttleInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>Sisa waktu: {0}</WorldObjectTimeout>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>Klik untuk memesan kolom ini.</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>Shift + Klik Kiri: Tingkatkan Prioritas \ NShift + Klik Kanan: Kurangi Prioritas</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>Shift + Klik: Aktifkan semua \ nshift + Klik kanan: Nonaktifkan semuanya</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>Shift + Klik Kiri: Tetapkan semuanya di rumah \ nshift + Klik kanan: Tidak ada batasan</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>Shift + Klik Kiri: Tandai semuanya \ nshift + Klik kanan: Jangan periksa</CheckboxShiftClickTip>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>Persyaratan keterampilan</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>Produk</Products>
+  <!-- EN: Requires -->
+  <Requires>Kebutuhan</Requires>
+  <!-- EN: Replaces -->
+  <Replaces>Mengganti</Replaces>
+  <!-- EN: missing {0} -->
+  <MissingPartWithLabel>hilang {0}</MissingPartWithLabel>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>{0} baru</NumAnyOf>
+  <!-- EN: {0} of {1} -->
+  <Relationship>{0} dari {1}</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>Tawanan</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>Pengungsi</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>Kesulitan bergerak melalui darat</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>Tidak bisa dilewati</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>Kecepatan gerakan karavan</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>tidak sadar</DownedLower>
+  <!-- EN: resting -->
+  <Carried>sarat</Carried>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>Hewan / orang Montable</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>Multi.hewan mountable</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier from bonuses -->
+  <MultiplierFromMoveSpeedBonus>Multi.bonus</MultiplierFromMoveSpeedBonus>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>Pengganda berat yang diangkut: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>Hewan ini bisa dipasang.Orang -orang karavan akan memasang hewan tercepat yang tersedia, meningkatkan kecepatan karavan secara keseluruhan.</RideableAnimalTip>
+  <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
+  <CaravanBonusTip>Orang ini memberikan bonus kecepatan karavan.Peningkatan kecepatan adalah bonus rata -rata semua anggota karavan.</CaravanBonusTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>Karavan ini tidak bisa bergerak karena membawa banyak berat badan.</EncumberedCaravanTilesPerDayTip>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>Anggota karavan mempercepat</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>Kecepatan akhir</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>Musim dingin</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>{0} di musim dingin</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>A</RangeTo>
+  <!-- EN: Caused by -->
+  <CausedBy>Menyebabkan</CausedBy>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>Tidak ada pemberitahuan</NoDietCategoryLetter>
+  <!-- EN: expires in -->
+  <ExpiresIn>Itu berakhir</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>Caravan of {1_labelshort}</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>Alasan</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>Hubungan dengan {0}</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>Ditangkap oleh {0}</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>Karavan Anda</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>salvajismo de {0}</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>pelatihan makhluk</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>Ikuti Sang Master saat dia direkrut</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>Ikuti kerja lapangan</CreatureFollowFieldwork>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} con {1}</ProximitySingleGoodwillChange>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>Terlalu berbahaya untuk di -masuk untuk {0}.</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>Kafilah</Caravan>
+  <!-- EN: there may be danger there. -->
+  <HiddenOrNoSitePartDescription>Mungkin ada bahaya di sana.</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>Pemindai mendeteksi aktivitas di sekitar vena.Kemungkinan besar bermusuhan.</PreciousLumpHostileThreat>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>{0} vena</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>Tidak ada proyek penelitian aktif</NoActiveResearchProjectToFinish>
+  <!-- EN: Current project -->
+  <CurrentProject>Proyek saat ini</CurrentProject>
+  <!-- EN: Research progress -->
+  <ResearchProgress>Penelitian saat ini</ResearchProgress>
+  <!-- EN: already has {0} -->
+  <AlreadyHasHediff>Itu sudah memiliki {0}</AlreadyHasHediff>
+  <!-- EN: turret -->
+  <Turret>kubah</Turret>
+  <!-- EN: turrets -->
+  <Turrets>Torretas</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>mortir</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>mortir</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>musuh</Enemy>
+  <!-- EN: location -->
+  <Location>Lokasi</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>Hewan</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>objek</ItemsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>{0} x {1}</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>{0} dari {ganti: {1};"A "-"";"A"-""} x {2}</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>Diminta</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>PERINGATAN: Anda tidak dapat menyelesaikan permintaan perdagangan menggunakan kapsul transportasi. \ Nsi Anda mengirim barang, penyelesaian akan menerimanya sebagai hadiah, tetapi itu tidak akan memberi Anda hadiah.</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>tawanan</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>Tahanan</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>Klik untuk melihat misi ini di tab Misi</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>Humor</Mood>
+  <!-- EN: Quest -->
+  <Quest>Misi</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>Membawa serangan setiap {0}</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>Menghasilkan {0} setiap {1}</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>Radio Defoliasi</FoliageKillRadius>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>Ver: {0}</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>Detona dalam {0} hari</DetonationCountdown>
+  <!-- EN: Large explosion if damaged. -->
+  <ExplosionOnDamageWarning>Ini menghasilkan ledakan besar jika rusak.</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>Metaconglomerate</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>Muncul di {0}</SpawningNextPawnIn>
+  <!-- EN: {0} gestation completes in {1}. -->
+  <MechAssemblyCompleteIn>{0} Lengkapi kehamilan di {1}.</MechAssemblyCompleteIn>
+  <!-- EN: Will gestate -->
+  <MechAssemblyNextType>Itu akan dibuat</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>diproduksi</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>tanaman</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>{0} Pembunuhan</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>Itu telah dikirim ke {0}, itu akan kembali ke {1}</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>Sedang tidur</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>Tertutup</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>Siap melepaskan mecanoids</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>Selesai</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>Mulai</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>Diaktifkan dalam {0}</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>Pemanasan saraf</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>Pemanas</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>Peningkatan Nyeri {0}</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>Radio {0}</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>Bajo PSIFOCO</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>{0} tersisa</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>Salah satu dari yang berikut ini</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>Membutuhkan sifat {0}</TraitRequired>
+  <!-- EN: Goodwill -->
+  <Goodwill>Reputasi</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>Reputasi alami</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>Rentang reputasi alami</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>Reputasi alami didasarkan pada identitas dan keyakinan faksi.Jika reputasi saat ini jauh dari yang alami, itu akan berubah perlahan menuju reputasi alami dari waktu ke waktu.</NaturalGoodwillDescription>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>Mengurangi resistensi dari {0_nameindef}</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>Terlalu besar</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>Peringatan</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>Itu memiliki misi sekunder</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>Misi sekunder</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>Menyerang</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>Dinonaktifkan oleh</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>Telanjang</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>Kemajuan Studi</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>dipenuhi</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Serang ini untuk menghancurkannya.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Menghilangkan ini dengan menyerangnya.</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>Makanan</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>Bahan-bahan</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>Paket Perisai</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>Berlubang.Itu akan segera meledak.</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>Klik untuk membuka jendela penelitian</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>Tujuannya milik faksi lain.</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>lebih jauh</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>Kebutuhan</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>ukuran</Size>
+  <!-- EN: Total planning area -->
+  <TotalPlanningArea>Area Perencanaan Total</TotalPlanningArea>
+  <!-- EN: cost -->
+  <Cost>biaya</Cost>
+  <!-- EN: Stunned by EMP -->
+  <StunnedByEMP>Terpana oleh PEM</StunnedByEMP>
+  <!-- EN: Title -->
+  <BackstoryTitle>Judul</BackstoryTitle>
+  <!-- EN: person -->
+  <Person>persona</Person>
+  <!-- EN: activated. -->
+  <Activated>diaktifkan.</Activated> 
+  <!-- EN: Contains -->
+  <Contains>Berisi</Contains>
+  <!-- EN: Hostiles -->
+  <Hostiles>Musuh</Hostiles>
+  <!-- EN: Investigate -->
+  <Investigate>Menyelidiki</Investigate> 
+  <!-- EN: Activate -->
+  <Activate>Mengaktifkan</Activate> 
+  <!-- EN: Deactivate -->
+  <Deactivate>Menonaktifkan</Deactivate>
+  <!-- EN: Activation -->
+  <Activation>Pengaktifan</Activation>
+  <!-- EN: complete -->
+  <Complete>menyelesaikan</Complete>
+  <!-- EN: Must be imprisoned. -->
+  <RequiresImprisonment>Itu pasti seorang tahanan.</RequiresImprisonment> 
+  <!-- EN: Prioritize hauling contents -->
+  <HaulFromSource>Memprioritaskan konten transportasi</HaulFromSource>
+  <!-- EN: Use -->
+  <UseGizmo>Untuk menggunakan</UseGizmo>
+  <!-- EN: Order someone to use the {0}. -->
+  <UseGizmoTooltip>Pesan seseorang untuk menggunakan {0}.</UseGizmoTooltip>
+  <!-- EN: Choose who should use this -->
+  <UseGizmoMouse>Pilih siapa yang harus menggunakan ini</UseGizmoMouse>
+  <!-- EN: Select target -->
+  <TargetGizmoMouse>Pilih Tujuan</TargetGizmoMouse>
+  <!-- EN: Cannot use this -->
+  <CannotUseGizmoMouse>Anda tidak dapat menggunakan ini</CannotUseGizmoMouse>
+  <!-- EN: Buildings -->
+  <Buildings>Bangunan</Buildings>
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>Belum ditemukan</NotYetDiscovered>
+  <!-- EN: Crawling to safety. -->
+  <ReportStringCrawlingToSafety>Merangkak ke tempat yang aman.</ReportStringCrawlingToSafety>
+  <!-- EN: Crawling to bed. -->
+  <ReportStringCrawlingToBed>Merangkak menuju tempat tidur.</ReportStringCrawlingToBed>
+  <!-- EN: flying -->
+  <Flying>penerbangan</Flying>
+  <!-- EN: Prevent cutting -->
+  <PreventCutting>Hindari memotong</PreventCutting>
+  <!-- EN: When on, colonists won't cut this plant. -->
+  <PreventCuttingDesc>Ketika aktif, pemukim tidak akan memotong tanaman ini.</PreventCuttingDesc>
+
+  <!-- EN: Resulting from trait -->
+  <ComesFromTrait>Hasil fitur</ComesFromTrait>
+  <!-- EN: Resulting from condition -->
+  <ComesFromHediff>Hasil Kondisi</ComesFromHediff>
+  <!-- EN: Adds need -->
+  <AddsNeed>Tambahkan kebutuhan</AddsNeed>
+  <!-- EN: Adds needs -->
+  <AddsNeeds>Tambahkan kebutuhan</AddsNeeds>
+  <!-- EN: Disables need -->
+  <DisablesNeed>Nonaktifkan kebutuhan</DisablesNeed>
+  <!-- EN: Disables needs -->
+  <DisablesNeeds>Nonaktifkan kebutuhan</DisablesNeeds>
+  
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>Kecepatan pemindaian kolonis</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>Interval pencarian acak</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>Kemajuan untuk menjamin penemuan</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>Meditasi dalam</MeditatingAt>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>Berisi {0} / {1} harus.</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>Berisi {0} / {1} bir.</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>Difermentasi</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>Kemajuan: {0} (berakhir dengan {1}).</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>Bukan suhu yang ideal.Kecepatan fermentasi: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>Kepala</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>Perawatan yang berhasil! \ N {0} probabilitas</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>Perawatan Gagal \ n {0} probabilitas</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>Harvest \ nfallida</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>Produksi \ nfallida</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>Produksi \ nfallida</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>Perekrutan yang jatuh! \ N {0} probabilitas</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>Resistance \ n {0} dari {1}</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>Jatuh domestikasi \ n {0} probabilitas</TextMote_TameFail>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>Domestikasi!</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>Pelatihan jatuh: {0} \ n {1} probabilitas</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>Dilatih: {0} \ n {1} probabilitas</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>Perbaikan \ nfallida</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>Konstruksi \ nfallida</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>Menghindar</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>Imun</TextMote_Immune>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>{0} perjanjian (a)</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>Level {0}</TextMote_SkillUp>
+  <!-- EN: low mood -->
+  <lowMood>humor rendah</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>Opini Buruk</lowOpinion>
+
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>Rumah</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>Membangun atap</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>Tunawisma</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>Hapus salju</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>Tanpa membatasi</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>Area baru</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>Menginvestasikan</InvertArea>
+  <!-- EN: Expand -->
+  <ExpandArea>Memperluas</ExpandArea>
+  <!-- EN: Shrink -->
+  <ShrinkArea>Mengurangi</ShrinkArea>
+  <!-- EN: Maximum {0} areas allowed. -->
+  <MaxAreasReached>Area yang diizinkan maksimum: {0}.</MaxAreasReached>
+
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>Tanpa penutupan</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>pintu terbuka</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>Ganti nama Corral</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>Penanda Corral {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>Di dalam kandang</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>Keluar dari kandang</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>Pena hewan dapat dibuat dengan membangun penanda kandang di dalam area tertutup.Pengasuh Anda akan membawa hewan ke kandang yang sesuai.Pena dapat ditutup dengan pagar, barikade, dinding dan pintu.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>Diikat oleh</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>Terikat</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>Terikat ke situs.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>Ukuran kandang</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>Kandang yang sangat kecil</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>Kandang kecil</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>Medium Corral</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>Grande Corral</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>Tanpa penutupan, bangun pagar</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>Kapasitas {animaldef_label} s</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Contoh hewan</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>Tidak ada akses ke luar.Hewan tidak bisa masuk atau pergi.</NoExteriorAccess>
+  
+  <!-- EN: Must be connected to walls on both sides to function. -->
+  <DoorMustBeEnclosedByWalls>Itu harus terhubung ke dinding di kedua sisi untuk bekerja.</DoorMustBeEnclosedByWalls>
+
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>Kecantikan</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>Daerah</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>Langit-langit</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>Tanah</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>Salju</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>Vel.untuk berjalan</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>Kesuburan</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>Suhu</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>Tingkat cahaya</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>Bioma</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>Bukit</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>Camino</Road_Label>
+  <!-- EN: River -->
+  <River_Label>Río</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>Kesulitan gerakan</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>Polusi</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>Kotoran</Filth_Label>
+  
+  <!-- EN: Features -->
+  <Features_Label>Karakter</Features_Label>
+  <!-- EN: Faction -->
+  <Faction_Label>Fraksi</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>Hubungan</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>Pemukim</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>Negara</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>Waktu sampai takdir</CaravanTTD_Label>
+  
+
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>Anda tidak dapat memberi perintah kepada karakter yang tidak Anda kendalikan.</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>{1_labelshort} tidak dapat melakukan kekerasan.</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>Tidak dapat melakukan kekerasan</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{1_labelshort} tidak merekrut {1_gender?O: A}.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>{Pawn_namedef} Anda tidak dapat menggunakan senjata jarak jauh karena {ajarannya {oparel_label}.</ApparelPreventsShooting>
+  <!-- EN: Cannot use in {0} -->
+  <CannotUseReason_PocketMap>Itu tidak dapat digunakan dalam {0}</CannotUseReason_PocketMap>
+  <!-- EN: Range reduced -->
+  <WeatherMaxRangeCap>Rentang berkurang</WeatherMaxRangeCap>
+
+  <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>Salju</Snow>
+  <!-- EN: No snow -->
+  <SnowNone>Tanpa salju</SnowNone>
+  <!-- EN: dusting -->
+  <SnowDusting>Lapisan halus</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>lapisan tipis</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>lapisan tengah</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>Lapisan tebal</SnowThick>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>Terpasang</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>Kisaran minimum</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>Anda bisa menembak</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>Anda tidak bisa menembak</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>beratap</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>Amunisi yang dimuat: {1_label}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>Tidak ada beban</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>Activa</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>Aktivasi pesanan</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>Pesan penyelesaian untuk mengaktifkan {thing_definite}.</OrderActivationDesc>
+  <!-- EN: Send a colonist to activate this. -->
+  <MustBeActivatedByColonist>Itu harus diaktifkan oleh pemukim.</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>Tidak ada kebakaran di dekatnya</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>Tidak ada kebakaran di dekatnya.Tidak ada bahan bakar yang digunakan.</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>Pilih siapa yang harus mengaktifkan ini.</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>Tidak ada bahan bakar</NoFuel>
+
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>Transportando {thing_label} a {destination}.</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>Membeli {thing_label} di {destination}.</ReportHaulingToGrave>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>Mengangkut {1_label}.</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>transportasi.</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
+  <ReportSleeping>sedang tidur.</ReportSleeping>
+  <!-- EN: resting. -->
+  <ReportResting>Istirahat.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>berbaring</ReportLayingDown>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>merenungkan fajar</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>merenungkan awan</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>merenungkan matahari terbenam</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>merenungkan bintang -bintang</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>mengagumi gerhana</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>mengagumi fajar.</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>menggunakan {0} di {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>menggunakan {0}.</UsingVerbNoTarget>
+  <!-- EN: area -->
+  <AreaLower>daerah</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>berjongkok.</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>dalam posisi.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>memadamkan api.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>memadamkan api di {target_label}.</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>Tidak mengantarkan tubuh.</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>Dibebankan oleh {0_labelshort}.</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>di dalam {0_labelshort}.</InContainer> 
+  <!-- EN: downed, cannot crawl. -->
+  <DownedCannotCrawl>Dinonaktifkan, tidak dapat diseret.</DownedCannotCrawl> 
+  <!-- EN: downed, unconscious. -->
+  <DownedUnconscious>Tidak mampu, tidak sadar.</DownedUnconscious> 
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>Menghadiri upacara pernikahan</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>Menghadiri pesta</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>Menghadiri konser</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>Merayakan konser</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>Memberikan pidato</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>Mendengarkan pidato {organizer_labelshort}</LordReportListeningSpeech>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>Membentuk karavan</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>Radio Kegagalan Senjata</WeaponMissRadius>
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>Penembak</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>Arma</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>Kegelapan</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>Tujuan Tertutup</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>Ukuran objektif</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>Iklim</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>Cakupan</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{Cover_label} berhenti {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>Tidak ada cakupan</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>Eksekusi</Execution>
+
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
+  <RecipeMake>Manufaktur {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>Pabrik {0}.</RecipeMakeDescription>
+  <!-- EN: Making {0}. -->
+  <RecipeMakeJobString>Manufaktur {0}.</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>Kelola {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>Mengelola {0}.</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>Abstemio tidak akan bahagia</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>Purist tubuh tidak akan bahagia</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>Itu kedaluwarsa: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>Pikir dinonaktifkan oleh</ThoughtNullifiedBy>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>Mulailah kedaluwarsa di: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>Selesai kedaluwarsa di: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>Ambang keruntuhan mental ekstrem</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>Ambang batas keruntuhan mental utama</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>Ambang batas keruntuhan mental kecil</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{Pawn_gender} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>{ganti: {0};"Pria {name}"-"{name} laki-laki";"betina {name}"-"{name} betina"} dari {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>{0} di {1}</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>{0} di bawah {1}</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{0} {2_lifestageadjective}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>Fraksi</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>Faksi yang {Pawn_lallshort} saat ini termasuk.</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>Faksi yang {Pawn_lallshort} Awalnya milik.{Pawn_pronoun} akan bergabung kembali dengan faksi aslinya ketika Anda beralih dari yang saat ini.</ExtraFactionDesc>
+  <!-- EN: Equipped -->
+  <Equipped>Peralatan</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>Tidak ada apa-apa</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>Mati</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>Tidak sadar</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>Kejutan untuk rasa sakit</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>Syok karena rasa sakit</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>Dengan disabilitas</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>Dengan belenggu (melambat)</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>Membawa</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>Terpengaruh oleh:</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>Di ekor</Queued>
+  <!-- EN: State -->
+  <State>Negara</State>
+  <!-- EN: stun -->
+  <StunLower>terpana (a)</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>Lambat untuk kerusakan</SlowedByDamage>
+
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>Pilih elemen berikut di kotak yang sama. \ N \ n (*sectionTitle) pintasan: (/sectionTitle) {0} \ n \ Anda juga dapat melakukannya ketika Anda perlahan -lahan mengklik kotak yang sama berulang kali.</SelectNextInSquareTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>Lihat informasi.</DefInfoTip>
+  <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTipController>Pilih elemen berikutnya dalam kotak yang sama.</SelectNextInSquareTipController>
+
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>Ubah bagaimana pemukim akan bereaksi terhadap musuh di dekatnya dengan tidak direkrut.</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>Mode saat ini</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>dari</OfLower>
+
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>Itu tidak terhubung ke jaringan energi.</PowerNotConnected>
+  <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
+  <PowerConnectedRateStored>Energi superant: {0} w ({1} wd disimpan)</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>Energi yang diperlukan</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>Energi yang dihasilkan</PowerOutput>
+  <!-- EN: {0} W when active -->
+  <PowerActiveNeeded>{0} w Saat aktif</PowerActiveNeeded>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>Energi tersimpan</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>Efisiensi</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>Autodescarga</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>Suhu yang diinginkan</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>Penggunaan energi saat ini</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>alto</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>rendah</PowerConsumptionLow>
+  <!-- EN: off -->
+  <PowerConsumptionOff>mati</PowerConsumptionOff>
+
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>Pedalaman</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>Tunawisma</IndoorsUnroofed>
+  <!-- EN: outdoors -->
+  <Outdoors>luar</Outdoors>
+
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>Lukisan dinding</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>Busuk</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>Kering</RotStateDessicated>
+  <!-- EN: Frozen -->
+  <CurrentlyFrozen>Beku</CurrentlyFrozen> 
+  <!-- EN: Refrigerated, spoils in {0} -->
+  <CurrentlyRefrigerated>Didinginkan, membusuk di {0}</CurrentlyRefrigerated> 
+  <!-- EN: Unrefrigerated, spoils in {0} -->
+  <NotRefrigerated>Tanpa pendingin, mengolok -olok {0}</NotRefrigerated> 
+  <!-- EN: over a decade -->
+  <OverADecade>Lebih dari satu dekade</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>Kurang dari satu hari</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>Ditembak oleh {1_labelshort}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Mustahil untuk memengaruhi tujuan.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>Probabilitas Liburan berdasarkan Dampak</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>Bahan-bahan</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>Bahan -bahan yang digunakan untuk membuat makanan ini.</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>Jenis diet</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>Jenis makanan yang diproduksi.Beberapa orang memiliki preferensi karena jenis makanan tertentu.</DietaryTypeDesc>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>hanya ditumpuk dengan makanan serupa</OnlyStacksWithCompatibleMeals>
+
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>Pertumbuhan ke {0}</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>Tingkat pertumbuhan saat ini</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>Itu akan tumbuh sepenuhnya menjadi {0} pertumbuhan.</FullyGrownIn>
+  <!-- EN: needs light level -->
+  <PlantNeedsLightLevel>membutuhkan tingkat cahaya dari</PlantNeedsLightLevel>
+  <!-- EN: resting -->
+  <PlantResting>istirahat</PlantResting>
+  <!-- EN: temperature growth multiplier {0}% -->
+  <OutOfIdealTemperatureRange>Pengali pertumbuhan suhu {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: out of temperature growth range -->
+  <OutOfIdealTemperatureRangeNotGrowing>Di luar kisaran suhu pertumbuhan</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>Siap untuk mendapatkan.</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>Madura.</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>Usia rata -rata tanaman</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>Usia tanaman yang lebih tua</OldestPlantAge>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>Periode pertumbuhan</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>Tidak pernah</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>Sepanjang tahun</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>Musim Budidaya: Sekarang.</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>Itu tidak bisa tumbuh (suhu buruk).</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>Penuh</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>Mati untuk terpapar cahaya</DyingBecauseExposedToLight>
+  <!-- EN: Dying from non-ideal terrain -->
+  <DyingBecauseOfTerrain>Kematian untuk Tanah Non -Ideal</DyingBecauseOfTerrain>
+  <!-- EN: Cut now -->
+  <AutoCutNow>Potong sekarang</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>menuai</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>pemotongan</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>Potong semua tanaman</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>Tandai semua tanaman wabah untuk menghancurkannya.Tanaman wabah tidak akan menghasilkan makanan atau sumber daya apa pun dan harus dihancurkan sebelum wabah meluas.</CutAllBlightDesc>
+
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>Daerah</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>Area budidaya</GrowingZone>
+  <!-- EN: growing -->
+  <GrowingGroup>pertumbuhan</GrowingGroup>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>Toko</Stockpile>
+  <!-- EN: stockpile -->
+  <StockpileGroup>toko</StockpileGroup>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>Membuang</DumpingStockpile>
+  <!-- EN: Corpse stockpile zone -->
+  <CorpseStockpile>TPA Tubuh</CorpseStockpile>
+  <!-- EN: Priority -->
+  <Priority>Prioritas</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>Melarang segalanya</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>Izinkan semuanya</AllowAll>
+  
+  <!-- Storage Groups -->
+  <!-- EN: Group -->
+  <StorageGroup>Kelompok</StorageGroup>
+  <!-- EN: Name -->
+  <StorageLabel>Nama</StorageLabel>
+  <!-- EN: Storage group -->
+  <StorageGroupLabel>Grup penyimpanan</StorageGroupLabel>
+
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>{0} poin kerusakan</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>kualitas apapun</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>Solo {0}</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>Tidak dikenal</Undiscovered>
+  
+  <!-- Animal management -->
+  <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSterilizeConfirm>Tentunya Anda ingin mensterilkan {pawn_namedef}?Jika Anda melakukannya, Anda akan marah {facion_name} ..</AnimalSterilizeConfirm>
+  <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSlaughterConfirm>Tentunya Anda ingin mengorbankan {pawn_namedef}?Jika Anda melakukannya, Anda akan membuat marah {faction_name}.</AnimalSlaughterConfirm>
+  <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalReleaseConfirm>Apakah Anda yakin ingin membebaskan {Pawn_namedef}?Jika Anda melakukannya, Anda akan membuat marah {faction_name}.</AnimalReleaseConfirm>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>Mengaktifkan visibilitas asisten pembelajaran saat kosong. Asisten pembelajaran \ n \ nel selalu terlihat jika ada konsep pembelajaran yang diaktifkan.Ini membuatnya menghilang ketika tidak ada keadaan yang aktif.</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>Aktifkan visibilitas area.</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
+  <ShowBeautyToggleButton>Aktifkan jendela bidik kecantikan.</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
+  <ShowRoomStatsToggleButton>Aktifkan penampil statistik kamar.</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>Activar barra de colonos.\n\nMuestra los íconos y el estado básico de todos los colonos en la parte superior de la pantalla.\n\nPuedes reordenar los colonos en la barra de colonos haciendo clic derecho y arrastrándolos.</ShowColonistBarToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
+  <ShowColonistBarToggleButtonController>Aktifkan Bilah Pemukim.</ShowColonistBarToggleButtonController>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>Aktifkan ekspansi otomatis area rumah di sekitar konstruksi baru.</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>Aktifkan rekonstruksi otomatis struktur yang hancur dari area rumah.</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>Aktifkan mode berdasarkan kategori daftar sumber daya.</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>Aktifkan visualisasi nama hewan peliharaan.</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>Aktifkan visibilitas langit -langit.</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>Mengaktifkan kesuburan tumpang tindih.</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>Mengaktifkan visibilitas ketersediaan lahan. \ N \ nSto terkait dengan jenis bangunan yang dapat dibangun di setiap lokasi.Jembatan hanya bisa dibangun di atas air.</ShowTerrainAffordanceOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>Ini mencegah rotasi kamera sehingga Kutub Utara selalu naik.</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting on the planet view. -->
+  <UsePlanetDayNightSystemToggleButton>Aktifkan sistem pencahayaan siang/malam.</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
+  <ShowBasesExpandingIconsToggleButton>Aktifkan visualisasi ikon yang berkembang untuk pemukiman yang dimiliki oleh faksi lain.</ShowBasesExpandingIconsToggleButton>
+  <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
+  <ShowImportantExpandingIconsToggleButton>Aktifkan visualisasi ikon yang diekspansi untuk lokasi penting, seperti koloni Anda, misi, dan lokasi peta aktif.</ShowImportantExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>Aktifkan visibilitas nama -nama kecelakaan geografis.</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>Bergantian tumpang tindih suhu.Ini menunjukkan suhu udara di setiap kamar dan di luar. \ N \ nlos pemukim akan terasa buruk jika suhunya terlalu tinggi atau terlalu rendah.Paparan suhu ekstrem dapat menyebabkan hipotermia, pembekuan, pukulan panas, luka bakar dan kematian.</ShowTemperatureOverlayToggleButton>
+
+  <!-- Hotkeys -->
+  <!-- EN: Hotkey -->
+  <HotKeyTip>Jalan pintas</HotKeyTip>
+  
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>Api di {1_label}</FireOn>
+  <!-- EN: Burning -->
+  <Burning>Pembakaran</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>Ukuran api {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>Kondisi khusus yang mempengaruhi area saat ini.</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>sisa waktu</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>Tanggal Dampak</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>Penyebab yang tidak diketahui.</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>Klik untuk pergi ke sumbernya.</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>Klik untuk pergi ke badai.</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>Disebabkan oleh misi: {0}</CausedByQuest>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>Anda tidak memiliki bahan yang tersedia untuk membangun ini.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>{0_Definite} akan memiliki penalti dengan tarif kerja Anda</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>Itu tidak dapat ditempatkan di atap.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>Itu harus ditempatkan di bawah atap yang tebal.</MustPlaceUnderThickRoof>
+  <!-- EN: Must be placed against a wall. -->
+  <MustPlaceOnWall>Itu harus ditempatkan di dinding</MustPlaceOnWall>
+  <!-- EN: Something is already placed on this wall. -->
+  <SomethingPlacedOnThisWall>Sudah ada sesuatu yang ditempatkan di dinding ini.</SomethingPlacedOnThisWall>
+  <!-- EN: This building can not support attachments. -->
+  <CannotSupportAttachment>Bangunan ini tidak mengakui lampiran.</CannotSupportAttachment>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>Itu harus ditempatkan dengan bagian depan yang berdekatan dengan sinar struktural kapal.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>Itu harus ditempatkan berdekatan dengan perangkat yang membutuhkan hopper.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>Itu harus ditempatkan langsung di geyser uap.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>Kedua sisi pendingin harus gratis.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>Kedua belah pihak harus bebas sehingga udara dapat bersirkulasi.</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>Itu harus ditempatkan dengan ruang kosong di semua sisi.</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>Itu harus ditempatkan di sebelah port pengganti pitcher kapsul.</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>Itu harus ditempatkan pada sumber daya yang layak.</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>Itu tidak dapat ditempatkan di sebelah perangkap.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>Itu tidak dapat ditempatkan di sebelah gedung lain.</CannotPlaceAdjacentSameDef>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>Diblokir oleh</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>Diblokir oleh atap</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>Mengurangi Aliran: Turbulensi Pabrik Air Lainnya</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>Berisi</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>Peringatan!\ N \ n o: a} colon {Pawn_gender?O: A} berdiri!Jika {Pawn_objective} Anda membiarkan masuknya sarkofagus itu, Anda tidak akan dapat terus bermain.Apakah Anda yakin ingin melanjutkan?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>Mustahil lepas landas.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>Siap lepas landas.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>Komponen kritis hilang</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>memerlukan</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>Tidak ada sarkofagi yang sibuk</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>Komponen hibernasi</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>Komponen belum siap</ShipReportNotReady>
+  <!-- EN: No settlement to return to. Form a settlement first. -->
+  <ShipNoSettlementToReturnTo>Tidak ada penyelesaian untuk kembali.Ini membentuk penyelesaian terlebih dahulu.</ShipNoSettlementToReturnTo> 
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>(*Nama) Charlon Whitestone (/Name) siap memulai urutan pemulihan hibernasi reaktor.Jenis tanda tangan energi ini menunjukkan kapasitas penerbangan antarbintang dan akan menarik pita penyerang yang putus asa dan pemburu harta karun.Pastikan pertahanan Anda disiapkan terlebih dahulu.</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>Reaktor siap terang.Jenis sinyal energi ini menunjukkan kapasitas penerbangan antarbintang, dan akan menarik pita penyerang yang putus asa dan pemburu harta karun.Pastikan pertahanan Anda disiapkan terlebih dahulu.</HibernateWarningStandalone>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>(*Nama) Charlon Whitestone (/Name) siap untuk memulai urutan pemulihan hibernasi reaktor.Dia memperingatkan Anda bahwa prosesnya akan berlangsung sekitar 15 hari.</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>Reaktor siap menyala.Prosesnya akan berlangsung sekitar 15 hari.</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>neuroentrender ({0})</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>Gunakan neuroentrender keterampilan belajar {0}</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>Dosis super mesin penggunaan yang mampu melatih keterampilan tertentu. Dosis \ n \ nla diberikan melalui orbit mata.Setelah dilepaskan di otak, mesin dengan cepat meningkatkan keterampilan subjek di area tertentu, menjadi jaringan saraf sesuai dengan yang diperlukan.</SkillNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <SkillNeurotrainerUsed>{User_labelshort} menggunakan neuroentrenator {1} untuk meningkatkan tingkat {2} a {3}.</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>Terpasang</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>Tidak terpasang</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>Pohon yang diekstraksi akan mati dalam {waktu} jika tidak ditanam kembali.</MinifiedTreeWillDieIn>
+
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>Judul</Title>
+  <!-- EN: Untitled -->
+  <Untitled>Tanpa judul</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>{0} tanpa finishing</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>{1} dari {0} tanpa finishing</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>Kualitas</Quality>
+  <!-- EN: quality -->
+  <quality>kualitas</quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>Kualitas adalah ukuran seberapa baik suatu objek.</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>Kualitas: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>keadaan pikiran</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>akan runtuh</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>sampai batas</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>Dengan stres</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>netral</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>Alegre</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>Feliz</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Game Over -->
+  <GameOver>Akhir dari permainan</GameOver>
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>Semua penduduk koloni telah mati atau pergi.Kisah ini sudah berakhir. \ N \ nquizás seseorang memberikan reruntuhan ini di masa depan.</GameOverEveryoneDead>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>Pada hampir kecepatan cahaya, senjata yang menghancurkan menabrak tanah dengan energi satu miliar pompa hidrogen.Seolah -olah itu adalah balon air yang telah ditembak dengan senapan, planet ini mencairkan dengan dampak dan membubarkan mantel dan nukleusnya yang meleleh melalui kosmos. \ N \ NUNA Bagian dari {0} sekarang menjadi sabuk asteroid.Sisanya adalah tegalan radioaktif dan infernal yang terus -menerus dicambuk oleh gempa bumi tingkat planet. Anda tidak bisa bertahan hidup.</GameOverPlanetkillerImpact>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>Anda telah berhasil melepas kapal!</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>AI kapal Anda sekarang akan mencoba memandu Anda ke tempat yang aman.Anda mungkin menemukan planet yang makmur dalam sistem ini.Atau bisa melakukan perjalanan ke abad terakhir ke bintang lain.Anda bahkan dapat memutuskan untuk bersembunyi di bawah es asteroid selama ribuan tahun, menunggu seseorang untuk membangun duniawi baru di sana. \ N \ npero Anda akan menemukan bahwa ketika Anda bangun.</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>Pemukim ini lolos: \ n \ n {0}</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>Pemukim ini tertinggal: \ n \ n {0}</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>Dalam Memori: \ n</GameOverInMemoryOf>
+  <!-- EN: Keep watching -->
+  <GameOverKeepWatching>Hati-Hati</GameOverKeepWatching>
+  <!-- EN: Keep watching for now -->
+  <GameOverKeepWatchingForNow>Teruslah menonton untuk saat ini</GameOverKeepWatchingForNow>
+  <!-- EN: Create new wanderers -->
+  <GameOverCreateNewWanderers>Buat pemukim baru</GameOverCreateNewWanderers>
+  <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
+  <GameOverCreateNewWanderersText>Setiap orang telah meninggal atau pergi.Mungkin seseorang menemukan beberapa kegunaan untuk reruntuhan ini di masa depan.</GameOverCreateNewWanderersText>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>Menu utama</GameOverMainMenu>
+  <!-- EN: No colony -->
+  <NoColony>Tidak ada koloni</NoColony>
+  <!-- EN: cannot reach any destination -->
+  <NoWandererDestination>tidak dapat mencapai tujuan apa pun</NoWandererDestination>
+  <!-- EN: must wait {0}h -->
+  <GameOverCreateNewWanderersWait>Buat pemukim baru (Anda harus menunggu {0} h)</GameOverCreateNewWanderersWait>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>Itu kedaluwarsa:</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>Tidak aktif</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>Tautan ke</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>Itu tidak terkait dengan bangunan</FacilityNoPotentialLinks>
+  <!-- EN: Max connected per building -->
+  <FacilityMaxSimultaneousConnections>Koneksi konstruksi maksimum</FacilityMaxSimultaneousConnections>
+  <!-- EN: Front of building is blocked. -->
+  <FacilityFrontBlocked>Bagian depan konstruksi diblokir.</FacilityFrontBlocked>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>{1} dari {Pawn_lallshort} tumbuh.</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>{1} dari {Pawn_lallshort} stabil.</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>{1} dari {Pawn_labelshort} merujuk.</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>Dapat digunakan.</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>Tidak dapat digunakan: {0}.</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>diblokir</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>Terlalu berbahaya untuk {1_labelshort}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>Terlarang untuk {1_labelshort}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>disimpan</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>Tidak dapat dicapai untuk {1_labelshort}</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>Di penjara</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>suhu yang tidak nyaman</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>Istirahat medis</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>Sedang tidur</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>Melarikan diri</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>Berjuang</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>Menganggur</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>Pembakaran</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>Membentuk karavan</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>Anda membutuhkan perawatan.</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>Memburuk karena kurangnya perawatan.</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>Kemajuan sampai vena berikutnya</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>Ada sumber daya di bawah ini</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>Kemajuan sampai fragmen berikutnya</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>Tidak ada sumber daya di bawah ini.</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>Sumber daya bor kedalaman, bor yang diblokir secara otomatis.Buka kunci untuk inikat ekstraksi {0}.</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>Sumber daya bor kedalaman habis.</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>Sisa beban</ChargesRemaining>
+  
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>Asisten Pembelajaran</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>Seorang asisten yang bermaksud mengajari Anda informasi tentang masalah yang relevan untuk keadaan koloni Anda saat ini</LearningHelperTooltip>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>Terpelajar</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>Sudah belajar</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>Menyaring</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>Menunjukkan arah utara.Klik untuk memutar kamera sehingga utara naik.</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>Klik untuk memasukkan mode perencanaan dari mana Anda dapat merencanakan perjalanan Anda dan menghitung jarak antara tempat menarik.</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>Tambahkan dua atau lebih poin.</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>Tambahkan satu atau lebih poin.</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>Total Route Time: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>Kecepatan karavan dapat bervariasi dengan yang ditunjukkan di sini.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Menghitung: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Klik kanan: Tambah/hapus berhenti.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: Left trigger button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Pemicu kiri: Tambah/lepaskan berhenti.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>ESC: Mode Perencanaan Keluar.</RoutePlannerPressEscapeToExit>
+  <!-- EN: {Key:Cancel}: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExitController>{Key: Batal}: Mode Perencanaan Keluar.</RoutePlannerPressEscapeToExitController>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Kembali ke dialog Formasi Karavan.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key: Batal}: Kembali ke dialog Formasi Karavan.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>Perkiraan waktu perjalanan: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>Perkiraan waktu perjalanan (dari perhentian sebelumnya): {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>Perkiraan waktu perjalanan: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>Jumlah pakan ternak</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>Apa pun</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>Pekerja</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>Tentara</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>Nudist</OutfitNudist>
+  <!-- EN: Spacefarer -->
+  <OutfitSpacefarer>Pelancong Luar Angkasa</OutfitSpacefarer>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>Winterando</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>Mulai</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: lihat pesanan yang tersedia ...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>Lihat pesanan yang tersedia ...</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1}) \ n {2} \ n {3}</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1}) \ n {2}</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>{0} \ n {1} \ n {2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>{0} \ n {1}</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>Laju musim gugur: {0} / s ({1} s ke nol)</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>Pemanasan saraf meningkat setelah menggunakan kemampuan psikis.Mengatasi batas normal dapat menyebabkan keruntuhan psikis yang berlangsung beberapa hari.Proses ini dapat dipercepat menggunakan pakaian Eltex atau rasa sakit yang menderita.</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>Peningkatan nyeri \ dalam \ nyeri memfokuskan pikiran dan mempercepat disipasi pemanasan saraf.</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>Bergantian pembatas pemanas saraf.Memperluas batas pemanasan Anda dapat menyebabkan keruntuhan psikis yang berlangsung berhari -hari.Itu tidak akan menyebabkan kerusakan permanen.</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>Psychophocked: {0}</PawnTooltipPsyfocus>
+  
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>{1} {0}</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>{0_gender?A: satu} {0_title} dari {0_age} tahun disebut {0_gender?O: a} {0_namedef} akan tiba dalam kapsul transport {0_relationfoinpareheeses}</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>{0_gender?A: satu} {0_title} dari {0_age} tahun disebut {0_gender?O: a} {0_namedef} akan tiba dan bergabung dengan koloni Anda {0_relationfoinparenthes}</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>{0_gender?A: A} {0_Title} dari {0_age} tahun {0_title} call {0_gender?O: a} {0_namedef} akan bergabung dengan koloni Anda {0_relationfoinpareheeses}</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
+  <Reward_Items>Kapsul transportasi akan tiba dengan sumber daya berikut (nilai total {1}): \ n \ n {0}</Reward_Items>
+  <!-- EN: you will receive (total value {1}):\n\n{0} -->
+  <Reward_Items_Caravan>Anda akan menerima (nilai total {1}): \ n \ n {0}</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>Hubungan faksi Anda dengan {0_name} akan meningkat di {1}</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>Anda akan bepergian ke bintang -bintang</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>Bagian dari dunia</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>Anda dapat menjarah semuanya dari kamp</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>Loot Camp</Reward_CampLoot_Label>
+  <!-- EN: It is unclear what will happen if you accept this quest -->
+  <Reward_Unknown>Tidak jelas apa yang akan terjadi jika Anda menerima misi ini</Reward_Unknown>
+  <!-- EN: Unknown -->
+  <Reward_Unknown_Label>Seorang asing</Reward_Unknown_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>Pengunjung akan bekerja dan berjuang untuk Anda</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>Bantuan pengunjung</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>Tingkat psyence baru</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>{PawnName} memperoleh psy terbaik</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>Rampasan transfer</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>Anda dapat mendekonstruksi dan menjarah feri</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>Kemungkinan hadiah</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>hadiah yang mungkin diberikan di masa depan</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>Judul {title}</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>{PawnName} memenangkan judul {title} dari faksi {faksi}</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>Valor {0}</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>Ditautkan ke: {0}</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>Masih tanpa tautan</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>terkait dengan orang lain</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>(tautan yang ada)</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>Seseorang hanya dapat dihubungkan dengan AI dari satu senjata pada saat yang sama \ n \ npara untuk melengkapi dan menautkan dengan {weapon_labelshort}, senjata {bondedweapon_lallashort} ditautkan dengan {Pawn_namedef} harus dihancurkan terlebih dahulu.</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>{Pawn_namedef} sudah ditautkan {Pawn_gender?O: a} a {bondedweapon_lallshort}</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>{0} biocodificad {0_gender?O: A}</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>Biokodifikasi ke: {0}</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>Biokodifikasi</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1}. -->
+  <InterceptsProjectilesEvery>Intercept {0} masing -masing {1}.</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0}. -->
+  <InterceptsProjectiles>Mencegat {0}.</InterceptsProjectiles>
+  <!-- EN: ground and aerial projectiles -->
+  <InterceptsProjectiles_BothProjectiles>Proyektil tanah dan udara</InterceptsProjectiles_BothProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>Proyektil terestrial</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>Proyektil Udara</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>Jenis kelamin yang terkena dampak</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>Disebabkan oleh: {0}</CausedByHediff>
+  
+  <!-- EN: {DAMAGE_label} weakness -->
+  <DamageFactorWeakness>Kelemahan terhadap {damage_label}</DamageFactorWeakness>
+  <!-- EN: {DAMAGE_label} resistance -->
+  <DamageFactorResistance>Resistensi terhadap {damage_label}</DamageFactorResistance>
+  <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
+  <DamageFactor>Jenis kerusakan {damage_label} yang menerima makhluk ini dikalikan dengan nilai ini.</DamageFactor>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was healed. -->
+  <HealingHealHediff>{1_definite} dari {0_namedef} telah disembuhkan.</HealingHealHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>{1_definite} dari {0_namedef} telah dipulihkan.</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>PERHATIAN: Tempatkan bangunan di sini akan membuat marah faksi {felion_name}!</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>Pilih Situs Pendaratan</ChooseLandingSite>
+
+  <!-- LordJobs -->
+  <!-- EN: Outcome chances at {0} quality -->
+  <LordJobOutcomeChances>Kemungkinan hasil dengan kualitas {0}</LordJobOutcomeChances>
+  <!-- EN: Expected duration -->
+  <ExpectedLordJobDuration>Durasi yang diharapkan</ExpectedLordJobDuration>
+
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>upacara</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>Itu terjadi di</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>{0} apa pun</RitualTargetThingDefsInfo>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>Menghadiri {0}</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>{0} telah dibatalkan.</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>{0} tidak selesai karena kurangnya assist.</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>{0} telah selesai.</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>Selesai di {0}</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>Bisa mulai kapan saja</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>Bisa memulai setelah acara</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>Objek fokus</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>Peran yang berpartisipasi</RitualParticipatingRoles>
+  <!-- EN: Organizers -->
+  <Organizers>Penyelenggara</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>Faktor kualitas</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>Kondisi ini dapat dipenuhi, tergantung pada bagaimana hal -hal dikembangkan.</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>Kondisi ini tidak terpenuhi. \ N \ nla Bonus kualitas tidak akan berlaku.</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>Penonton</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>Mereka tidak berpartisipasi</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>Seret dan lepaskan atau klik kiri.Untuk memindahkan mereka.</DragPawnsToRolesInfo>
+  <!-- EN: Drag and drop or click to move people. -->
+  <DragPawnsToRolesInfoController>Seret dan lepaskan atau klik untuk memindahkannya.</DragPawnsToRolesInfoController>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>Seorang budak.Manusia yang dimiliki oleh orang lain.</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelshort} sedang tidur.Jika dimasukkan dalam acara tersebut, akan terbangun untuk berpartisipasi.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
+  <RitualBeginSleepingWarning>Beberapa peserta yang dipilih sedang tidur.Mereka akan bangun ketika Anda memulai acara.</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>Posisi ini lebih baik ditempati oleh pemukim yang memiliki peran sosial {0}. \ N \ nsi seseorang tanpa peran ini menempati posisi ini, tidak akan mendapatkan bonus berikut</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>Tidak ada pengganti yang tersedia untuk peran {0}.</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>Kemajuan: {0}</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>Kualitas tergantung pada: {0}</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>{0} memperoleh kualitas total {1} berdasarkan faktor -faktor ini</RitualOutcomeQualitySpecific>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>Baru -baru ini dilakukan</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>{0} Harapan</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>Suara Lingkungan Ritual</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>Kualitas Total {0} di bawah {1}.Lanjutkan mungkin akan berdampak negatif pada koloni Anda. \ N \ n apakah kamu yakin?</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>Tidak ada tempat yang tepat untuk berbicara.</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelshort} tidak mampu {1}.</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>Semua yang berpartisipasi dalam ritual telah memenangkan {0} humor selama {1} hari.</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>Ritual ini tidak memiliki kompensasi yang berkualitas, jadi hasil terbaik selalu diharapkan</RitualOutcomeNoQuality>
+
+  <!-- EN: Begin -->
+  <Begin>Mulai</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>Mulai {0}</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>Mulai {0} untuk {1}</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>{0} (dari {1})</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>{0} adalah ritual untuk tanggal tertentu.Anda dapat memulainya di {1}, di {2}.</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>Ganti dengan</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>Kursi Ritual untuk {Video}</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedLordJobQuality>Kualitas yang diharapkan</ExpectedLordJobQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>Kualitas awal</StartingQuality>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>{1} de {pawn_labelshort}</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>Kecantikan kamar</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>Harapan {Pawn_labelshort}</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>Jadilah cinta hadir</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>Setiap orang yang {pawn_lallshort} pertimbangkan teman Anda atau lebih.</RitualOutcomeLovedOnePresentTip>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>Salah satu dari ini</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>Sustituir A {Pawn_labelshort}</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>hadiah</Present>
+  <!-- EN: {0} used -->
+  <Used>{0} digunakan</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>Kualitas Awal: {0}</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>hingga {0} kualitas</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>Kualitas: {0}</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>{Rituallabel}: {outcomelabel}</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>{0} maks.</MaxValue>
+
+  <!-- EN: {0} of -->
+  <ThingOf>{0} dari</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>{0} dari {1}</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>{0} dari {1} dan {2}</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>asap yang menyilaukan</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>gas beracun</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>Bau busuk</RotStink>
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust>debu kematian</DeadlifeDust> 
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>Anda harus direkrut.</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>Keterampilan pendingin.Akan tersedia di {0}.</AbilityOnCooldown>
+  <!-- EN: ability out of charges. -->
+  <AbilityNoCharges>Keterampilan tanpa beban.</AbilityNoCharges>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>Keterampilan sudah dalam ekor.</AbilityAlreadyQueued>
+  <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
+  <AbilityReadyLabel>Daftar Kemampuan {Pawn_Namedef}: {0}</AbilityReadyLabel>
+  <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
+  <AbilitiesReadyLabel>Daftar Keterampilan {Pawn_Namedef}: {0}</AbilitiesReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_namedef} adalah daftar {0_gender?O: a} untuk menggunakan {1}.</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>{0_labelshort} berpartisipasi dalam {1}.</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>Beban</Charges>
+
+  <!-- EN: {0_nameDef} is in a mental state. -->
+  <PawnIsInMentalState>{0_namedef} menderita keruntuhan mental.</PawnIsInMentalState>
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInAggroMentalState>{0_namedef} menderita keruntuhan mental yang agresif.</PawnIsInAggroMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>Pekerjaan dinonaktifkan</DisabledWorkLabel>
+  <!-- EN: Disabled needs -->
+  <DisabledNeedsLabel>Kebutuhan yang dinonaktifkan</DisabledNeedsLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>Ubah warna</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>Ubah warna cahaya.</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>Anda harus menyelidiki {0} untuk mengubah warna cahaya.</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>Perisai pribadi yang akan mencoba menghentikan proyektil atau fragmen yang masuk.Mencegah pembawa dari pemicu dan mati secara instan jika dicapai oleh PEM.</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>{Pawn_namedef} sangat loyal kepada rumah Anda sehingga akan menolak untuk merekrut {Pawn_gender?O: a} Jika itu hesh {Pawn_gender?O: A} Penjara {Pawn_gender?O: A}.</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>Acak</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>Plantar {0_label}</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>Plant {0_indefinite} di area yang dipilih.</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>Batalkan Penanaman {0_Label}</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>Batalkan perkebunan {0_label}.</CancelPlantThingDesc>
+
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>Acara lain diadakan.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>Pidato berikutnya sudah siap</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>Dimulai</AbilitySpeechTargetsLabel>
+  
+  <!-- Books -->
+
+  <!-- EN: Benefits -->
+  <Benefits>Manfaat</Benefits>
+  <!-- EN: Dangers -->
+  <Dangers>Bahaya</Dangers>
+  <!-- EN: already unlocked -->
+  <AlreadyUnlocked>sudah dibuka</AlreadyUnlocked>
+  <!-- EN: when discovered -->
+  <WhenDiscovered>Saat menemukan</WhenDiscovered>
+  
+  <!-- EN: Was driven into a mental break after reading {0}. -->
+  <BookMentalBreakMessage>Telah mengalami keruntuhan mental setelah membaca {0}</BookMentalBreakMessage>
+  <!-- EN: {0} done (complete in {1} hours) -->
+  <BookReadProgress>"{0}" selesai (selesai dalam {1} jam)</BookReadProgress>
+  
+  <!-- EN: learning speed -->
+  <BookLearningModifier>Kecepatan belajar</BookLearningModifier>
+  <!-- EN: Mental break chance -->
+  <BookMentalBreak>Probabilitas keruntuhan mental</BookMentalBreak>
+  
+  <!-- EN: {BOOK_labelShort} is not readable -->
+  <BookNotReadable>{Book_labelshort} tidak dapat dibaca</BookNotReadable>
+  <!-- EN: {PAWN_nameDef} can't read -->
+  <BookCantRead>{Pawn_namedef} tidak tahu cara membaca</BookCantRead>
+  <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
+  <BookCantBeStage>{Pawn_namedef} harus {Pawn_gender?A: A} {Tahapan}</BookCantBeStage>
+  <!-- EN: {PAWN_nameDef} is blind -->
+  <BookBlind>{Pawn_namedef} buta</BookBlind>
+  
+  <!-- EN: max level {0} -->
+  <BookMaxLevel>Max.: {0} level</BookMaxLevel>
+  
+  <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
+  <ReadingReportHeader>Membaca "{0}": {1} selesai (selesai dalam {2} jam)</ReadingReportHeader>
+  
+  <!-- EN: Assign reading -->
+  <ReadingDialogTitle>Tetapkan bacaan</ReadingDialogTitle>
+  <!-- EN: Assign to {0} -->
+  <ReadingAssignTo>Tetapkan {0}</ReadingAssignTo>
+  <!-- EN: Assign -->
+  <ReadingAssign>Menetapkan</ReadingAssign>
+
+  <!-- EN: The books currently on this bookshelf. -->
+  <ContainedBooksDesc>Buku -buku yang ada di toko buku.</ContainedBooksDesc>
+  
+  <!-- EN: Books stored -->
+  <BookshelfStoredInspect>Buku tersimpan</BookshelfStoredInspect>
+  <!-- EN: Reading bonus in room -->
+  <BookshelfReadingBonusInspect>Membaca bonus di dalam ruangan</BookshelfReadingBonusInspect>
+
+  <!-- EN: Remove this book from the bookshelf. -->
+  <EjectBookTooltip>Hapus buku toko buku ini.</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <!-- EN: Push to... -->
+  <CommandPushTo>Dorongan ...</CommandPushTo>
+  <!-- EN: requires {0} -->
+  <RequiredCapacity>membutuhkan {0}</RequiredCapacity>
+
+  <!-- Pocket Maps -->
+  <!-- EN: Unable to enter {0}, destination is blocked -->
+  <UnableToEnterPortal>Anda tidak dapat memasukkan {0}, tujuan diblokir</UnableToEnterPortal>
+
+  <!-- EN: This category of research has not been discovered. -->
+  <ResearchNotDiscovered>Kategori penelitian ini belum ditemukan.</ResearchNotDiscovered>
+
+  <!-- EN: Emergence -->
+  <Emergence>Muncul</Emergence>
+  
+  <!-- EN: remove {0} -->
+  <RemovePart>Hapus {0}</RemovePart>
+
+  <!-- EN: {GERUND} {TARGETLABEL} at -->
+  <DoWorkAtThing>{Gerund} {Targeblabel} en</DoWorkAtThing>
+  <!-- EN: can be studied in {0} -->
+  <CanBeStudiedInDuration>Itu dapat dipelajari di {0}</CanBeStudiedInDuration>
+  
+  <!-- EN: About to explode -->
+  <AboutToExplode>Akan mengeksploitasi</AboutToExplode>
+  <!-- EN: No fuel to eject -->
+  <RefuelableNoFuelToEject>Tidak ada bahan bakar untuk dikeluarkan.</RefuelableNoFuelToEject>
+  
+  <!-- EN: New Anomaly expansion available now! -->
+  <MainScreen_AnomalyAvailableNow>Anomali DLC baru sekarang tersedia!</MainScreen_AnomalyAvailableNow>
+
+  <!-- EN: Disabled by scenario -->
+  <DisabledByScenario>Dinonaktifkan berdasarkan panggung</DisabledByScenario>
+
+  <!-- EN: blocked by roof -->
+  <BlockedByRoof>Diblokir oleh atap</BlockedByRoof>
+  <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
+  <BlockedByTerrain>Diblokir melalui darat (membutuhkan menggunakan {0_label} sebagai fondasi)</BlockedByTerrain>
+
+  <!-- Craters -->
+  <!-- EN: Fill in -->
+  <DesignatorFillIn>Mengisi</DesignatorFillIn>
+  <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
+  <DesignatorFillInDesc>Isi lubang liang ini.</DesignatorFillInDesc>
+
+  <!-- Hacking -->
+  <!-- EN: Hack progress -->
+  <HackProgress>Peretasan Kemajuan</HackProgress>
+  <!-- EN: hacking speed -->
+  <HackingSpeed>Kecepatan peretasan</HackingSpeed>
+  <!-- EN: {0}'s -->
+  <HackingLastUser>{0} -</HackingLastUser>
+  <!-- EN: hacked -->
+  <Hacked>diretas</Hacked>
+  <!-- EN: Terminals hacked -->
+  <TerminalsHacked>Terminal yang diretas</TerminalsHacked>
+  <!-- EN: Intellectual needed -->
+  <IntellectualSkillPrerequisite>Kemampuan intelektual diperlukan</IntellectualSkillPrerequisite>
+  <!-- EN: Auto hack -->
+  <AutoHack>Autohackeo</AutoHack>
+  <!-- EN: When enabled, researchers will automatically hack this. -->
+  <AutoHackDesc>Jika diaktifkan, para peneliti akan meretas ini secara otomatis.</AutoHackDesc>
+
+  <!-- World -->
+  <!-- EN: View {LAYER_label} -->
+  <WorldSelectLayer>Ver {layer_label}</WorldSelectLayer>
+  <!-- EN: Jump to location -->
+  <WorldJumpTo>Pergi ke lokasi</WorldJumpTo>
+  <!-- EN: Find a colony, caravan, or quest location on the world map. -->
+  <WorldJumpToDesc>Temukan koloni, karavan atau tempat misi di peta dunia.</WorldJumpToDesc>
+  <!-- EN: Nothing to jump to. -->
+  <NothingToJumpTo>Tidak ada tempat untuk pergi.</NothingToJumpTo>
+  <!-- EN: cannot function in {0} -->
+  <CannotFunctionOnLayer>Itu tidak berfungsi di {0}</CannotFunctionOnLayer>
+  <!-- EN: New settlement -->
+  <NewSettlement>Penyelesaian Baru</NewSettlement>
+  <!-- EN: Settled -->
+  <Settled>Sibuk</Settled>
+  <!-- EN: Abandoned -->
+  <Abandoned>Ditinggalkan</Abandoned>
+  <!-- EN: Cannot perform {GERUND} {LAYER} -->
+  <CannotPerformPlanetLayer>Itu tidak dapat dilakukan di {gerund} {layer}</CannotPerformPlanetLayer>
+  <!-- EN: This will not affect you {GERUND} {LAYER}. -->
+  <ThisWillNotAffectLayer>Ini tidak akan mempengaruhi Anda {gerund} {layer}.</ThisWillNotAffectLayer>
+
+  <!-- Pocket maps -->
+  <!-- EN: Enter {0} -->
+  <EnterPortal>Masukkan {0}</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>Memasuki {0}</EnteringPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>Pilih orang dan objek untuk memasukkan {0}.</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>Membatalkan</CommandCancelEnterPortal>
+  <!-- EN: Cancel exiting -->
+  <CommandCancelExitPortal>Menghapuskan</CommandCancelExitPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>Batalkan beban orang atau benda dalam hal ini.</CommandCancelEnterPortalDesc>
+  <!-- EN: Exit {0} -->
+  <ExitPortal>Keluar dari {0}</ExitPortal>
+
+  <!-- CompProjectileInterceptor -->
+  <!-- EN: Shield energy -->
+  <ShieldEnergy>Energi perisai</ShieldEnergy>
+  <!-- EN: Shield cooldown -->
+  <ShieldTimeToRecovery>Waktu pemulihan</ShieldTimeToRecovery>
+  <!-- EN: Shield duration -->
+  <ShieldDuration>Durasi perisai</ShieldDuration>
+  <!-- EN: On cooldown -->
+  <ShieldOnCooldown>Dalam pendinginan</ShieldOnCooldown>
+  <!-- EN: Below minimum energy -->
+  <ShieldBelowMinHitpoints>Di bawah energi minimum</ShieldBelowMinHitpoints>
+  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
+  <ProjectileInterceptorTip>Perisai yang diproyeksikan dengan sudut rendah yang akan mencoba menghentikan proyektil atau pecahan peluru awal.Keluar secara instan jika dicapai oleh PEM.</ProjectileInterceptorTip>
+
+  <!-- EN: max {0} -->
+  <MaxOf>Max.{0}</MaxOf>
+
+  <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
+  <CannotUseDueToHediff>Itu tidak dapat digunakan {targetable_label}: {target_namedef} sudah memiliki {2}.</CannotUseDueToHediff>
+
+  <!-- Scanner -->
+  <!-- EN: Blocked by roof -->
+  <CannotUseScannerRoofed>Diblokir oleh atap</CannotUseScannerRoofed>
+  <!-- EN: Biome does not contain drillable resources -->
+  <CannotUseScannerNoBedrock>Bioma tidak mengandung sumber daya yang layak.</CannotUseScannerNoBedrock>
+  
+  <!-- Quests -->
+  <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
+  <CannotAcceptQuestFromLayer>Misi ini tidak dapat diterima {gerund} {layer}.</CannotAcceptQuestFromLayer>
+  <!-- EN: Cannot accept this quest without a permanent colony. -->
+  <CannotAcceptQuestNoMap>Misi ini tidak dapat diterima tanpa koloni permanen.</CannotAcceptQuestNoMap>
+
+  <!-- EN: {0} of {1} -->
+  <GuildTradeShipName>{0} dari {1}</GuildTradeShipName> <!-- text_todo -->
+  
+</LanguageData>

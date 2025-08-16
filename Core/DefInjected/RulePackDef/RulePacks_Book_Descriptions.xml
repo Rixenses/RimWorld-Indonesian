@@ -1,0 +1,2944 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc-> ini [WritingqualityAdjective] [bookType] [mengikuti] [personjob] sebagai [protaghe] [StoryStruggles].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>
+    <li>desc-> Dalam [WritingqualityAdjective] ini [bookType], [penulis] [TellsastoryOf] [anypawn_possessive] [StorySource].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>
+    <li>mengikuti-> mengikuti</li>
+    <li>mengikuti-> sampul</li>
+    <li>mengikuti-> menceritakan kisahnya</li>
+    <li>berikut-> ditulis dari sudut pandang</li>
+    <li>protaghe-> dia</li>
+    <li>protaghis-> nya</li>
+    <li>protaghim-> dia</li>
+    <li>StoryStruggles-> [perjuangan] melawan [lawan]</li>
+    <li>StoryStruggles-> [mencari] [SeekObjective]</li>
+    <li>perjuangan-> perjuangan</li>
+    <li>perjuangan-> perkelahian</li>
+    <li>Perjuangan-> Berusaha</li>
+    <li>Lawan-> Ketidakadilan</li>
+    <li>lawan-> ketakutan</li>
+    <li>lawan-> [musuh] yang berbahaya</li>
+    <li>lawan-> saingan [personjob]</li>
+    <li>lawan-> ketidakhadiran [ConceptPositive]</li>
+    <li>lawan-> [protaghis] jahat [keluarga orang]</li>
+    <li>Lawan-> [Protaghis] Norma Sosial Komunitas</li>
+    <li>Mencari-> mencari</li>
+    <li>mencari-> mencari alam semesta</li>
+    <li>mencari-> mencoba menemukan</li>
+    <li>mencari-> melihat ke dalam [protaghim] diri dan di seluruh dunia untuk menemukan</li>
+    <li>mencari-> mencari dengan putus asa</li>
+    <li>mencari-> perjuangan untuk menemukan</li>
+    <li>mencari-> menjelajahi tanah untuk</li>
+    <li>mencari-> berburu</li>
+    <li>mencari-> dengan sengaja mengejar</li>
+    <li>mencari-> menghabiskan segala upaya untuk menemukan</li>
+    <li>mencari-> mengejar dengan mantap</li>
+    <li>mencari-> tidak meninggalkan batu yang terlewat untuk mencari</li>
+    <li>Mencari-> memulai pencarian</li>
+    <li>mencari-> rends [protaghis] daging saat mencari</li>
+    <li>Mencari-> berusaha untuk menemukan</li>
+    <li>mencari-> dengan rajin mencari</li>
+    <li>mencari-> pengembara mencari</li>
+    <li>mencari-> pergi misi untuk menemukan</li>
+    <li>SeekObjective-> Cube Emas Misterius</li>
+    <li>SeekObjective-> Setan di dalam [protaghis] kepala sendiri</li>
+    <li>SeekObjective-> [sayuran] yang paling enak di alam semesta</li>
+    <li>SeekObjective-> [senjata] baru yang mengkilap</li>
+    <li>SeekObjective-> [Protaghis] Hilang Pet [Hewan]</li>
+    <li>SeekObjective-> bagian untuk membangun kembali [mechanoid] yang hancur</li>
+    <li>SeekObjective-> A [terrainfeature] yang [Protaghe] melihat dalam mimpi</li>
+    <li>SeekObjective-> Sebuah api tua</li>
+    <li>SeekObjective-> kepuasan romantis</li>
+    <li>SeekObjective-> Ginjal baru untuk menggantikan [protaghis] sendiri ginjal yang sakit</li>
+    <li>SeekObjective-> Food in a Vast Wasteland</li>
+    <li>mencari objektif-> kehangatan dan keamanan rumah</li>
+    <li>SeekObjective-> Love in a World yang penuh kebencian</li>
+    <li>SeekObjective-> resep keluarga yang sudah lama hilang</li>
+    <li>SeekObjective-> Mainan masa kecil yang tertinggal</li>
+    <li>mencari objektif-> pusaka keluarga curian</li>
+    <li>SeekObjective-> Mentor's Lost Journal</li>
+    <li>SeekObjective-> Seri favorit yang langka dari [Protaghis]</li>
+    <li>SeekObjective-> Tempat yang sempurna untuk piknik</li>
+    <li>SeekObjective-> sebuah bagian yang hilang dari koleksi berharga</li>
+    <li>SeekObjective-> Permintaan maaf untuk kesalahan masa lalu</li>
+    <li>SeekObjective-> penutupan dari hubungan masa lalu</li>
+    <li>SeekObjective-> peta harta karun yang hilang sejak kecil</li>
+    <li>SeekObjective-> Kenang-kenangan yang bermakna dari orang yang dicintai almarhum</li>
+    <li>mencari objektif-> resep untuk penyembuhan untuk penyakit</li>
+    <li>SeekObjective-> tanaman langka untuk kebun pribadi</li>
+    <li>SeekObjective-> Surat yang ditulis tetapi tidak pernah dikirim</li>
+    <li>SeekObjective-> Jawaban yang sulit dipahami untuk pertanyaan filosofis</li>
+    <li>mencari objektif-> momen yang tenang jauh dari kekacauan</li>
+    <li>SeekObjective-> Seorang teman lama di kota baru</li>
+    <li>SeekObjective-> Thrill of a Forgotten Hobby</li>
+    <li>SeekObjective-> Momen tunggal kebahagiaan murni</li>
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellsastoryof-> menjelaskan tentang</li>
+    <li>Tellsastoryof-> mengeksplorasi sebuah cerita tentang</li>
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellsastoryof-> memutar narasi tentang</li>
+    <li>Tellsastoryof-> melukis gambar</li>
+    <li>Tellsastoryof-> menyelam jauh ke dalam</li>
+    <li>Tellsastoryof-> Mengungkap kisah</li>
+    <li>Tellsastoryof-> mengungkapkan perjalanan</li>
+    <li>Tellsastoryof-> menangkap esensi dari</li>
+    <li>Tellsastoryof-> menjelaskan</li>
+    <li>Tellsastoryof-> menjalin bersama</li>
+    <li>Tellsastoryof-> menggambarkan pengalaman</li>
+    <li>Tellsastoryof-> Embarks on the Narrative of of</li>
+    <li>Tellsastoryof-> menggambarkan kisahnya</li>
+    <li>Tellsastoryof-> menyentuh kisah</li>
+    <li>Tellsastoryof-> menyajikan kisah</li>
+    <li>Tellsastoryof-> menyampaikan perjalanan</li>
+    <li>Tellsastoryof-> menggali kisah</li>
+    <li>memberi tahu narasi narasi</li>
+    <li>Tellsastoryof-> menangkap kisah</li>
+    <li>Tellsastoryof-> Cat gambaran yang jelas tentang</li>
+    <li>Tellsastoryof-> menjalin permadani</li>
+    <li>Tellsastoryof-> mengeksplorasi kronik</li>
+    <li>penulis-> Penulis</li>
+    <li>penulis-> [authortitle] [anypawn_nameindef]</li>
+    <li>Penulis (p = 2)-> tanpa nama [Authortitle]</li>
+    <li>authortitle-> penulis</li>
+    <li>authortitle-> Scribe</li>
+    <li>Authortitle-> Writer</li>
+    <li>authortitle-> penyair</li>
+    <li>authortitle-> Storyteller</li>
+    <li>StorySource-> Pengalaman Pribadi</li>
+    <li>StorySource-> Remaja</li>
+    <li>StorySource-> Masa Kecil</li>
+    <li>StorySource-> Nation</li>
+    <li>StorySource-> Home Planet</li>
+    <li>StorySource-> Kakek</li>
+    <li>StorySource-> Nenek</li>
+    <li>StorySource-> Experiences in the War</li>
+    <li>StorySource-> Ketakutan terdalam</li>
+    <li>StorySource-> Mimpi Bepergian ke Bintang</li>
+    <li>StorySource-> Cinta Segar [Sayuran] S</li>
+    <li>StorySource-> Time sebagai [Personjob]</li>
+    <li>StorySource-> [senjata] favorit</li>
+    <li>StorySource-> pengalaman bertarung melawan [mechanoid] s</li>
+    <li>StorySource-> Remaja tumbuh di [komunitas]</li>
+    <li>StorySource-> Raksasa [Bodypart]</li>
+    <li>StorySource-> Kenangan Teman yang Hilang</li>
+    <li>StorySource-> Gairah untuk musik</li>
+    <li>StorySource-> Keingintahuan tentang Reruntuhan Kuno</li>
+    <li>StorySource-> Lampiran pada pusaka keluarga</li>
+    <li>StorySource-> Ketertarikan dengan sosok misterius</li>
+    <li>StorySource-> upaya untuk melestarikan bahasa yang sekarat</li>
+    <li>StorySource-> Mimpi menciptakan sesuatu yang inovatif</li>
+    <li>StorySource-> Koneksi ke makhluk mitos</li>
+    <li>StorySource-> Kasih sayang untuk lanskap tertentu</li>
+    <li>StorySource-> Aspirasi Menjadi [Personjob] terkenal</li>
+    <li>StorySource-> Berjuang dengan Kecemasan Sosial</li>
+    <li>StorySource-> rindu akan petualangan di luar cakrawala</li>
+    <li>StorySource-> Bond dengan teman robot</li>
+    <li>StorySource-> Petualangan sebagai bajak laut di masa lalu</li>
+    <li>StorySource-> ikatan dekat dengan masyarakat rahasia</li>
+    <li>StorySource-> waktu yang dihabiskan sebagai pengembara</li>
+    <li>StorySource-> Ketertarikan dengan Perjalanan Waktu</li>
+    <li>StorySource-> Koneksi ke artefak legendaris</li>
+    <li>WritingqualityAdjective (kualitas == 6)-> ditulis dengan sangat baik</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Cerdas dan wawasan</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> bijaksana dan fasih</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> ditulis dengan baik</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> ditulis dengan buruk</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> hampir-tidak koheren</li>
+    <li>WritingqualitySentence (kualitas [Greater_Than] 4)-> Ini [sangat baik] [sangat baik EXCHEXTRA]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> Ini [decentdesc] [decentextra]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 2)-> Ini [AWFULDESC] [AWFUFFUFULEXTRA]</li>
+    <li>Luar Biasa-> Kisah Kegembiraan yang Menyesakan</li>
+    <li>Luar biasa> eksplorasi yang bijaksana dari roh manusia</li>
+    <li>Luar biasa> sangat berwawasan luas tentang kompleksitas dunia</li>
+    <li>Luar biasa> ditulis erat dan kaya dengan emosi</li>
+    <li>Luar biasa> kreatif dan asli</li>
+    <li>sangat baik> sangat orisinal dan sangat baik</li>
+    <li>Luar biasa> diisi dengan humor yang relatable</li>
+    <li>Luar biasa>.Setiap cerita beat mengalir secara alami ke yang berikutnya</li>
+    <li>Luar biasa>.Ini adalah pembalik halaman dan sangat sulit untuk diletakkan</li>
+    <li>Luar biasa>.Itu meniup pikiran pembaca setidaknya tiga kali</li>
+    <li>Luar biasa>.Plot tikungan tidak dapat diprediksi tetapi juga terasa tak terhindarkan</li>
+    <li>Luar biasa>.Karakternya terasa seperti orang sungguhan</li>
+    <li>decentdesc-> cerita yang layak</li>
+    <li>decentdesc-> menarik dan menarik</li>
+    <li>decentdesc-> fokus pada satu ide menarik</li>
+    <li>decentdesc-> agak lucu dari waktu ke waktu</li>
+    <li>decentdesc-> mencengkeram selama beberapa bagian</li>
+    <li>decentdesc-> asli dan unik</li>
+    <li>decentdesc-> menarik bagi jenis pembaca tertentu</li>
+    <li>decentextra-> tetapi memiliki beberapa lubang plot mencolok</li>
+    <li>decentextra-> tetapi seringkali sulit diikuti</li>
+    <li>decentextra-> tetapi penuh dengan kesalahan kontinuitas</li>
+    <li>decentextra-> tetapi tidak memiliki emosi yang mendalam</li>
+    <li>decentextra-> Tapi karakternya basi dan kartun</li>
+    <li>decentextra-> tetapi penulis terus menggunakan kata-kata secara tidak tepat dalam upaya untuk terdengar pintar</li>
+    <li>decentextra-> tetapi dunia tidak orisinal dan membosankan</li>
+    <li>decentextra-> tetapi tulisannya sangat berbunga-bunga</li>
+    <li>decentExtra-> tetapi banyak dari ketukan cerita tidak perlu dan gagal memajukan plot</li>
+    <li>AWFULDESC-> Ditulis dengan sangat buruk</li>
+    <li>AWFULDESC-> sangat ditulis</li>
+    <li>AWFULDESC-> Sulit dibaca</li>
+    <li>AWFULDESC-> Sulit diikuti</li>
+    <li>AWFULDESC-> Kurang dalam visi artistik</li>
+    <li>AWFULDESC-> diisi dengan lubang plot dan karakter generik</li>
+    <li>AWFULDESC-> Didominasi oleh Karakter Pemeriksaan Diri Penulis</li>
+    <li>AWFULDESC-> aneh namun tidak orisinal</li>
+    <li>AWFULDESC-> FAR, terlalu lama</li>
+    <li>AWFULEXTRA-> dan tulisannya tidak koheren</li>
+    <li>AWFUFFUFULEXTRA-> dan sangat sulit untuk diikuti</li>
+    <li>Awfulextra-> dan gagal merakit plot yang koheren</li>
+    <li>Awfulextra-> dan tidak memiliki rasa tema atau makna</li>
+    <li>AWFUFFUFULEXTRA-> dan tidak menyajikan ide-ide menarik sama sekali</li>
+    <li>AWFULEXTRA-> dan setiap karakter itu membosankan</li>
+    <li>Awfulextra-> dan tidak ada protagonis yang dapat diidentifikasi di titik mana pun</li>
+    <li>Mungkin_date-></li>
+    <li>Maybe_date-> Buku ini diterbitkan [date_form].</li>
+    <li>Maybe_date-> Teks pertama kali dicetak [date_form].</li>
+    <li>Mungkin_date-> Tidak jelas kapan buku itu ditulis.</li>
+    <li>date_form-> baru-baru ini</li>
+    <li>date_form-> berabad-abad yang lalu</li>
+    <li>date_form-> di [tanggal]</li>
+    <li>date_form-> di [date_season]</li>
+    <li>BookType (p = 4)-> novel</li>
+    <li>BookType (p = 2)-> novella</li>
+    <li>BookType-> Story</li>
+    <li>BookType-> Narasi</li>
+    <li>BookType-> Biography</li>
+    <li>BookType-> Epic Poem</li>-><Description_Novel.rulePack.rulesStrings>
+    <!-- EN: 
+   <li>desc-> ini [WritingqualityAdjective] [bookType] [mengikuti] [personjob] sebagai [protaghe] [StoryStruggles].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>
+    <li>desc-> Dalam [WritingqualityAdjective] ini [bookType], [penulis] [TellsastoryOf] [anypawn_possessive] [StorySource].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>-><li>desc-> esta [bookType] [WritingqualityAdjective] [berikut] de un [personjob] y cómo [StoryStruggles].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>
+    <li>desc-> en esta [WritingqualityAdjective] [bookType], [penulis] [Tellsastoryof] su [StorySource].[Menulis Kenyataan Konsentensi].[mungkin_date]</li>
+    <!-- EN: 
+    <li>mengikuti-> mengikuti</li>
+    <li>mengikuti-> sampul</li>
+    <li>mengikuti-> menceritakan kisahnya</li>
+    <li>berikut-> ditulis dari sudut pandang</li>-><li>Mengikuti-> ikuti ceritanya</li>
+    <li>mengikuti-> menceritakan ceritanya</li>
+    <li>mengikuti-> menceritakan kisahnya</li>
+    <li>mengikuti-> ditulis dari sudut pandang</li>
+    <!-- EN: 
+    <li>protaghe-> dia</li>
+    <li>protaghis-> nya</li>
+    <li>protaghim-> dia</li>-><li>Protaghe-> dia</li>
+    <li>protoghis-> su</li>
+    <li>protectionhim-> the</li>
+    <!-- EN: 
+    <li>StoryStruggles-> [perjuangan] melawan [lawan]</li>
+    <li>StoryStruggles-> [mencari] [SeekObjective]</li>-><li>StoryStruggles-> [perjuangan] contra [lawan]</li>
+    <li>StoryStruggles-> [mencari] [SeekObjective]</li>
+    <!-- EN: 
+    <li>perjuangan-> perjuangan</li>
+    <li>perjuangan-> perkelahian</li>
+    <li>Perjuangan-> Berusaha</li>-><li>perjuangan-> lucha</li>
+    <li>Perjuangan-> Pelea</li>
+    <li>Perjuangan-> menolak</li>
+    <!-- EN: 
+    <li>Lawan-> Ketidakadilan</li>
+    <li>lawan-> ketakutan</li>
+    <li>lawan-> [musuh] yang berbahaya</li>
+    <li>lawan-> saingan [personjob]</li>
+    <li>lawan-> ketidakhadiran [ConceptPositive]</li>
+    <li>lawan-> [protaghis] jahat [keluarga orang]</li>
+    <li>Lawan-> [Protaghis] Norma Sosial Komunitas</li>-><li>Lawan-> La Ketidakadilan</li>
+    <li>Lawan-> ketakutan</li>
+    <li>Lawan-> [musuh] yang berbahaya</li>
+    <li>Lawan-> [musuh_fem] berbahaya</li>
+    <li>Lawan-> [personjobindef] saingan</li>
+    <li>Lawan-> omong kosong [ConceptPositive]</li>
+    <li>Lawan-> omong kosong [ConceptPositive_FEM]</li>
+    <li>Lawan-> kejahatan Anda [keluarga]</li>
+    <li>Lawan-> kejahatan Anda [personfamily_fem]</li>
+    <li>Lawan-> Norma Sosial Komunitas Anda</li>
+    <!-- EN: 
+    <li>Mencari-> mencari</li>
+    <li>mencari-> mencari alam semesta</li>
+    <li>mencari-> mencoba menemukan</li>
+    <li>mencari-> melihat ke dalam [protaghim] diri dan di seluruh dunia untuk menemukan</li>
+    <li>mencari-> mencari dengan putus asa</li>
+    <li>mencari-> perjuangan untuk menemukan</li>
+    <li>mencari-> menjelajahi tanah untuk</li>
+    <li>mencari-> berburu</li>
+    <li>mencari-> dengan sengaja mengejar</li>
+    <li>mencari-> menghabiskan segala upaya untuk menemukan</li>
+    <li>mencari-> mengejar dengan mantap</li>
+    <li>mencari-> tidak meninggalkan batu yang terlewat untuk mencari</li>
+    <li>Mencari-> memulai pencarian</li>
+    <li>mencari-> rends [protaghis] daging saat mencari</li>
+    <li>Mencari-> berusaha untuk menemukan</li>
+    <li>mencari-> dengan rajin mencari</li>
+    <li>mencari-> pengembara mencari</li>
+    <li>mencari-> pergi misi untuk menemukan</li>-><li>Mencari-> Busca</li>
+    <li>Mencari-> Cari di Semesta</li>
+    <li>Mencari-> Cobalah untuk menemukan</li>
+    <li>Mencari-> Cari di dalam dan di seluruh dunia untuk menemukan</li>
+    <li>Mencari-> Cari dengan putus asa</li>
+    <li>Mencari-> berjuang untuk menemukan</li>
+    <li>Mencari-> menjelajahi bumi untuk mencari</li>
+    <li>mencari-> da caza a</li>
+    <li>Mencari-> mengejar dengan sengaja</li>
+    <li>Mencari-> melakukan segala yang mungkin untuk ditemukan</li>
+    <li>Mencari-> mengejar dengan gigih</li>
+    <li>Mencari-> tidak meninggalkan batu tanpa bergerak untuk mencari</li>
+    <li>Mencari-> Embark pada pencarian</li>
+    <li>Mencari-> merobek daging Anda saat mencari</li>
+    <li>Mencari-> berusaha untuk menemukan</li>
+    <li>Mencari-> Cari dengan rajin</li>
+    <li>Mencari-> pengembara mencari</li>
+    <li>Mencari-> awal misi untuk menemukan</li>
+    <!-- EN: 
+    <li>SeekObjective-> Cube Emas Misterius</li>
+    <li>SeekObjective-> Setan di dalam [protaghis] kepala sendiri</li>
+    <li>SeekObjective-> [sayuran] yang paling enak di alam semesta</li>
+    <li>SeekObjective-> [senjata] baru yang mengkilap</li>
+    <li>SeekObjective-> [Protaghis] Hilang Pet [Hewan]</li>
+    <li>SeekObjective-> bagian untuk membangun kembali [mechanoid] yang hancur</li>
+    <li>SeekObjective-> A [terrainfeature] yang [Protaghe] melihat dalam mimpi</li>
+    <li>SeekObjective-> Sebuah api tua</li>
+    <li>SeekObjective-> kepuasan romantis</li>
+    <li>SeekObjective-> Ginjal baru untuk menggantikan [protaghis] sendiri ginjal yang sakit</li>
+    <li>SeekObjective-> Food in a Vast Wasteland</li>
+    <li>mencari objektif-> kehangatan dan keamanan rumah</li>
+    <li>SeekObjective-> Love in a World yang penuh kebencian</li>
+    <li>SeekObjective-> resep keluarga yang sudah lama hilang</li>
+    <li>SeekObjective-> Mainan masa kecil yang tertinggal</li>
+    <li>mencari objektif-> pusaka keluarga curian</li>
+    <li>SeekObjective-> Mentor's Lost Journal</li>
+    <li>SeekObjective-> Seri favorit yang langka dari [Protaghis]</li>
+    <li>SeekObjective-> Tempat yang sempurna untuk piknik</li>
+    <li>SeekObjective-> sebuah bagian yang hilang dari koleksi berharga</li>
+    <li>SeekObjective-> Permintaan maaf untuk kesalahan masa lalu</li>
+    <li>SeekObjective-> penutupan dari hubungan masa lalu</li>
+    <li>SeekObjective-> peta harta karun yang hilang sejak kecil</li>
+    <li>SeekObjective-> Kenang-kenangan yang bermakna dari orang yang dicintai almarhum</li>
+    <li>mencari objektif-> resep untuk penyembuhan untuk penyakit</li>
+    <li>SeekObjective-> tanaman langka untuk kebun pribadi</li>
+    <li>SeekObjective-> Surat yang ditulis tetapi tidak pernah dikirim</li>
+    <li>SeekObjective-> Jawaban yang sulit dipahami untuk pertanyaan filosofis</li>
+    <li>mencari objektif-> momen yang tenang jauh dari kekacauan</li>
+    <li>SeekObjective-> Seorang teman lama di kota baru</li>
+    <li>SeekObjective-> Thrill of a Forgotten Hobby</li>
+    <li>SeekObjective-> Momen tunggal kebahagiaan murni</li>-><li>SeekObjective-> Cube Emas Misterius</li>
+    <li>SeekObjective-> Setan di dalam kepalanya sendiri</li>
+    <li>SeekObjective-> [sayuran] yang paling lezat dari alam semesta</li>
+    <li>SeekObjective-> The [sayuran_fem] lezat dari alam semesta</li>
+    <li>SeekObjective-> un relciente [senjata]</li>
+    <li>SeekObjective-> A mengkilap [weapon_fem]</li>
+    <li>SeekObjective-> Pet-nya, seorang [hewan], tersesat</li>
+    <li>SeekObjective-> Pet-nya, sebuah [animal_fem], hilang</li>
+    <li>SeekObjective-> Pieces untuk membangun kembali [mechanoid] hancur</li>
+    <li>SeekObjective-> [TerrainfeatureIndef] yang dia lihat dalam mimpi</li>
+    <li>SeekObjective-> An Old Love</li>
+    <li>SeekObjective-> kepuasan romantis</li>
+    <li>SeekObjective-> Ginjal baru untuk menggantikannya yang sakit</li>
+    <li>SeekObjective-> Food in the Vast Dirty</li>
+    <li>SeekObjective-> Heat and Home Safety</li>
+    <li>SeekObjective-> A Love in a World Full Benci</li>
+    <li>SeekObjective-> Resep keluarga yang hilang sejak lama</li>
+    <li>SeekObjective-> mainan masa kecil yang ditinggalkan</li>
+    <li>SeekObjective-> Relik keluarga yang dicuri</li>
+    <li>SeekObjective-> buku harian yang hilang dari seorang mentor</li>
+    <li>SeekObjective-> Objek koleksi langka dari serial favorit Anda</li>
+    <li>SeekObjective-> Tempat yang sempurna untuk piknik</li>
+    <li>SeekObjective-> Sebuah koleksi yang berharga</li>
+    <li>SeekObjective-> Permintaan maaf atas kesalahan masa lalu</li>
+    <li>SeekObjective-> penutupan hubungan masa lalu</li>
+    <li>SeekObjective-> Peta harta yang hilang sejak kecil</li>
+    <li>SeekObjective-> Memori yang signifikan dari orang yang dicintai almarhum</li>
+    <li>LookObjective-> Resep untuk menyembuhkan penyakit</li>
+    <li>SeekObjective-> tanaman langka untuk kebun pribadi</li>
+    <li>SeekObjective-> Surat tertulis tetapi tidak pernah dikirim</li>
+    <li>SeekObjective-> Jawaban yang sulit dipahami untuk pertanyaan filosofis</li>
+    <li>SeekObjective-> momen ketenangan jauh dari kekacauan</li>
+    <li>SeekObjective-> Seorang teman lama di kota baru</li>
+    <li>SeekObjective-> emosi hobi yang terlupakan</li>
+    <li>SeekObjective-> A Moment of Pure Happiness</li>
+    <!-- EN: 
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellsastoryof-> menjelaskan tentang</li>
+    <li>Tellsastoryof-> mengeksplorasi sebuah cerita tentang</li>
+    <li>Tellsastoryof-> menceritakan kisah tentang</li>
+    <li>Tellsastoryof-> memutar narasi tentang</li>
+    <li>Tellsastoryof-> melukis gambar</li>
+    <li>Tellsastoryof-> menyelam jauh ke dalam</li>
+    <li>Tellsastoryof-> Mengungkap kisah</li>
+    <li>Tellsastoryof-> mengungkapkan perjalanan</li>
+    <li>Tellsastoryof-> menangkap esensi dari</li>
+    <li>Tellsastoryof-> menjelaskan</li>
+    <li>Tellsastoryof-> menjalin bersama</li>
+    <li>Tellsastoryof-> menggambarkan pengalaman</li>
+    <li>Tellsastoryof-> Embarks on the Narrative of of</li>
+    <li>Tellsastoryof-> menggambarkan kisahnya</li>
+    <li>Tellsastoryof-> menyentuh kisah</li>
+    <li>Tellsastoryof-> menyajikan kisah</li>
+    <li>Tellsastoryof-> menyampaikan perjalanan</li>
+    <li>Tellsastoryof-> menggali kisah</li>
+    <li>memberi tahu narasi narasi</li>
+    <li>Tellsastoryof-> menangkap kisah</li>
+    <li>Tellsastoryof-> Cat gambaran yang jelas tentang</li>
+    <li>Tellsastoryof-> menjalin permadani</li>
+    <li>Tellsastoryof-> mengeksplorasi kronik</li>-><li>Tellsastoryof-> menceritakan sebuah cerita tentang</li>
+    <li>Tellsastoryof-> masukkan detail tentang</li>
+    <li>Tellsastoryof-> Jelajahi sebuah cerita tentang</li>
+    <li>Bercerita tentang-> bercerita tentang</li>
+    <li>Tellsastoryf-> narasi tentang</li>
+    <li>Tellsastoryof-> menggambar gambar</li>
+    <li>TellsastoryOf-> Disang dalam</li>
+    <li>Tellsastoryof-> Mengungkap kisahnya</li>
+    <li>Tellsastoryof-> mengungkapkan perjalanan</li>
+    <li>Tellsastoryof-> menangkap esensi dari</li>
+    <li>Tellsastoryof-> menerangi</li>
+    <li>Tellsastoryof-> Entrelaza</li>
+    <li>Tellsastoryof-> menggambarkan pengalaman</li>
+    <li>Tellsastoryof-> memulai narasi</li>
+    <li>Tellsastoryof-> Jelaskan kisahnya</li>
+    <li>Tellsastoryof-> Menampilkan kisahnya</li>
+    <li>Tellsastoryof-> menyajikan kisah</li>
+    <li>Tellsastoryof-> mentransmisikan perjalanan</li>
+    <li>Tellsastoryof-> memasuki kisah</li>
+    <li>Tellsastoryof-> Embarks on the Narrative of of</li>
+    <li>Tellsastoryof-> menggambarkan kisah</li>
+    <li>Tellsastoryof-> Jelaskan gambar yang jelas dari</li>
+    <li>Tellsastoryof-> Weave The Story of Of</li>
+    <li>Tellsastoryof-> Jelajahi Chronicle of</li>
+    <!-- EN: 
+    <li>penulis-> Penulis</li>
+    <li>penulis-> [authortitle] [anypawn_nameindef]</li>
+    <li>Penulis (p = 2)-> tanpa nama [Authortitle]</li>
+    <li>authortitle-> penulis</li>
+    <li>authortitle-> Scribe</li>
+    <li>Authortitle-> Writer</li>
+    <li>authortitle-> penyair</li>
+    <li>authortitle-> Storyteller</li>-><li>penulis (anypawn_gender! = wanita)-> el autor</li>
+    <li>penulis (anypawn_gender == wanita)-> la autora</li>
+    <li>penulis-> [authortitle] [anypawn_nameindef]</li>
+    <li>Penulis (p = 2)-> [Theunnamedauthor]</li>
+    <li>authortitle (anypawn_gender! = wanita)-> el autor</li>
+    <li>Otoritle (anypawn_gender! = Wanita)-> penyalin</li>
+    <li>Otoritle (anypawn_gender! = Wanita)-> penulis</li>
+    <li>authortitle (anypawn_gender! = wanita)-> el poeta</li>
+    <li>Otoritle (anypawn_gender! = Wanita)-> pendongeng</li>
+    <li>authortitle (anypawn_gender == betina)-> la autora</li>
+    <li>Authortitle (anypown_gender == betina)-> penyalin</li>
+    <li>authortitle (anypawn_gender == betina)-> la escritora</li>
+    <li>authortitle (anypawn_gender == betina)-> la poeta</li>
+    <li>Otoritle (anypawn_gender == betina)-> pendongeng</li>
+    <li>Theunnamedauthor (anypawn_gender! = wanita)-> [authortitle] anónimo</li>
+    <li>Theunnamedauthor (anypawn_gender == betina)-> [authortitle] anónima</li>
+    <!-- EN: 
+    <li>StorySource-> Pengalaman Pribadi</li>
+    <li>StorySource-> Remaja</li>
+    <li>StorySource-> Masa Kecil</li>
+    <li>StorySource-> Nation</li>
+    <li>StorySource-> Home Planet</li>
+    <li>StorySource-> Kakek</li>
+    <li>StorySource-> Nenek</li>
+    <li>StorySource-> Experiences in the War</li>
+    <li>StorySource-> Ketakutan terdalam</li>
+    <li>StorySource-> Mimpi Bepergian ke Bintang</li>
+    <li>StorySource-> Cinta Segar [Sayuran] S</li>
+    <li>StorySource-> Time sebagai [Personjob]</li>
+    <li>StorySource-> [senjata] favorit</li>
+    <li>StorySource-> pengalaman bertarung melawan [mechanoid] s</li>
+    <li>StorySource-> Remaja tumbuh di [komunitas]</li>
+    <li>StorySource-> Raksasa [Bodypart]</li>
+    <li>StorySource-> Kenangan Teman yang Hilang</li>
+    <li>StorySource-> Gairah untuk musik</li>
+    <li>StorySource-> Keingintahuan tentang Reruntuhan Kuno</li>
+    <li>StorySource-> Lampiran pada pusaka keluarga</li>
+    <li>StorySource-> Ketertarikan dengan sosok misterius</li>
+    <li>StorySource-> upaya untuk melestarikan bahasa yang sekarat</li>
+    <li>StorySource-> Mimpi menciptakan sesuatu yang inovatif</li>
+    <li>StorySource-> Koneksi ke makhluk mitos</li>
+    <li>StorySource-> Kasih sayang untuk lanskap tertentu</li>
+    <li>StorySource-> Aspirasi Menjadi [Personjob] terkenal</li>
+    <li>StorySource-> Berjuang dengan Kecemasan Sosial</li>
+    <li>StorySource-> rindu akan petualangan di luar cakrawala</li>
+    <li>StorySource-> Bond dengan teman robot</li>
+    <li>StorySource-> Petualangan sebagai bajak laut di masa lalu</li>
+    <li>StorySource-> ikatan dekat dengan masyarakat rahasia</li>
+    <li>StorySource-> waktu yang dihabiskan sebagai pengembara</li>
+    <li>StorySource-> Ketertarikan dengan Perjalanan Waktu</li>
+    <li>StorySource-> Koneksi ke artefak legendaris</li>-><li>StorySource-> Experiencia Pribadi</li>
+    <li>StoreSource-> Juventud</li>
+    <li>StorySource-> Infancia</li>
+    <li>StorySource-> Nation</li>
+    <li>StoreSource-> Planet Natal</li>
+    <li>StorySource-> Abuelo</li>
+    <li>StorySource-> Abuela</li>
+    <li>StorySource-> pengalaman perang</li>
+    <li>StorySource-> ketakutan yang lebih dalam</li>
+    <li>StorySource-> Saya bermimpi bepergian ke bintang-bintang</li>
+    <li>StorySource-> Love for the [sayuran_fem] s</li>
+    <li>StorySource-> Love for the [sayuran_fem] s</li>
+    <li>StorySource (anypawn_gender! = Wanita)-> waktu sebagai [personjob]</li>
+    <li>StorySource (anypawn_gender == wanita)-> waktu sebagai [personjob_fem]</li>
+    <li>StorySource-> [Senjata] Favorito</li>
+    <li>StorySource-> [weapon_fem] favorita</li>
+    <li>StorySource-> pengalaman bertarung [mechanoid_plural]</li>
+    <li>StorySource-> Visi Remaja yang Bertumbuh di [CommunityIndef]</li>
+    <li>StorySource-> [Bodypart] Gigantesco</li>
+    <li>StorySource-> [bodypart_fem] gigantesca</li>
+    <li>StorySource-> S Kenangan tentang teman yang hilang</li>
+    <li>StorySource-> Gairah untuk musik</li>
+    <li>StorySource-> Keingintahuan untuk Reruntuhan Kuno</li>
+    <li>Apgo adalah reliquia pertama yang akrab</li>
+    <li>StorySource-> Ketertarikan sosok misterius</li>
+    <li>StorySource-> upaya untuk melestarikan bahasa yang sekarat</li>
+    <li>StorySource-> S Dreams of Temuan sesuatu yang inovatif</li>
+    <li>StorySource-> Koneksi dengan makhluk mitos</li>
+    <li>StorySource-> Kasih sayang untuk lanskap tertentu</li>
+    <li>StorySource (anypawn_gender! = Wanita)-> aspirasi untuk menjadi [Personjob] yang terkenal</li>
+    <li>StorySource (anypawn_gender == wanita)-> aspirasi menjadi [personjob_fem] terkenal</li>
+    <li>StorySource-> Berjuang melawan Kecemasan Sosial</li>
+    <li>StorySource-> aventurer rindu di luar cakrawala</li>
+    <li>StorySource-> Tautan dengan mitra robot</li>
+    <li>Petualangan StorySource sebagai bajak laut di masa lalu</li>
+    <li>StorySource-> Tautan dekat dengan masyarakat rahasia</li>
+    <li>StorySource-> Time sebagai nomad</li>
+    <li>StorySource-> Pesona Perjalanan Waktu</li>
+    <li>StorySource-> Koneksi dengan artefak legendaris</li>
+    <!-- EN: 
+    <li>WritingqualityAdjective (kualitas == 6)-> ditulis dengan sangat baik</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Cerdas dan wawasan</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> bijaksana dan fasih</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> ditulis dengan baik</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> ditulis dengan buruk</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> hampir-tidak koheren</li>
+    <li>WritingqualitySentence (kualitas [Greater_Than] 4)-> Ini [sangat baik] [sangat baik EXCHEXTRA]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> Ini [decentdesc] [decentextra]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 2)-> Ini [AWFULDESC] [AWFUFFUFULEXTRA]</li>-><li>WritingqualityAdjective (kualitas == 6)-> Notablemente Bien Redactada</li>
+    <li>WritingqualityAdjective (kualitas == 5)-> Inteligente y Persemptiz</li>
+    <li>WritingqualityAdjective (kualitas == 4)-> reflektif dan fasih</li>
+    <li>WritingqualityAdjective (kualitas == 3)-> Bien Redactada</li>
+    <li>WritingqualityAdjective (kualitas == 2)-> biasa-biasa saja</li>
+    <li>WritingqualityAdjective (kualitas == 1)-> mal redactada</li>
+    <li>WritingqualityAdjective (kualitas == 0)-> Incoherente</li>
+    <li>WritingqualitySentence (kualitas [Greater_than] 4)-> [sangat baik] [sangat baik]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [decentdesc] [decentextra]</li>
+    <li>WritingqualitySentence (kualitas [Less_than] 2)-> [AWFULDESC] [AWFUFFUFUREXTRA]</li>
+    <!-- EN: 
+    <li>Luar biasa> eksplorasi yang bijaksana dari roh manusia</li>
+    <li>Luar biasa> sangat berwawasan luas tentang kompleksitas dunia</li>
+    <li>Luar biasa> ditulis erat dan kaya dengan emosi</li>
+    <li>Luar biasa> kreatif dan asli</li>
+    <li>sangat baik> sangat orisinal dan sangat baik</li>
+    <li>Luar biasa> diisi dengan humor yang relatable</li>
+    <li>Luar biasa>.Setiap cerita beat mengalir secara alami ke yang berikutnya</li>
+    <li>Luar biasa>.Ini adalah pembalik halaman dan sangat sulit untuk diletakkan</li>
+    <li>Luar biasa>.Itu meniup pikiran pembaca setidaknya tiga kali</li>
+    <li>Luar biasa>.Plot tikungan tidak dapat diprediksi tetapi juga terasa tak terhindarkan</li>
+    <li>Luar biasa>.Karakternya terasa seperti orang sungguhan</li>-><li>Luar biasa> adalah kisah yang menyenangkan yang penuh aksi</li>
+    <li>Luar biasa> adalah eksplorasi refleksif dari roh manusia</li>
+    <li>ExcellentSc-> adalah refleksi pribadi tentang kompleksitas dunia</li>
+    <li>Excellentsc-> ditulis dengan ketelitian dan penuh emosi</li>
+    <li>Excellentsc-> kreatif dan asli</li>
+    <li>ExcellentSc-> sangat orisinal dan luar biasa terelaborasi dengan baik</li>
+    <li>Luar biasa> meluap dalam arti humor</li>
+    <li>ExcelentExtra->.Bagian antara satu bab dan yang lain terjadi secara alami</li>
+    <li>ExcelentExtra->.Ini adalah buku yang menarik dan sangat sulit untuk pergi</li>
+    <li>ExcelentExtra->.Tinggalkan pidato pembaca setidaknya tiga kali</li>
+    <li>ExcelentExtra->.Plotnya tidak dapat diprediksi, tetapi juga tak terhindarkan</li>
+    <li>ExcelentExtra->.Karakternya tampak hidup, seperti orang sungguhan</li>
+    <!-- EN: 
+    <li>decentdesc-> cerita yang layak</li>
+    <li>decentdesc-> menarik dan menarik</li>
+    <li>decentdesc-> fokus pada satu ide menarik</li>
+    <li>decentdesc-> agak lucu dari waktu ke waktu</li>
+    <li>decentdesc-> mencengkeram selama beberapa bagian</li>
+    <li>decentdesc-> asli dan unik</li>
+    <li>decentdesc-> menarik bagi jenis pembaca tertentu</li>-><li>Decentesc-> adalah cerita yang layak</li>
+    <li>Decentesc-> menarik dan menarik</li>
+    <li>Decentesc-> berfokus pada ide yang menarik</li>
+    <li>Decentesc-> adalah sesuatu yang humoristik dari waktu ke waktu</li>
+    <li>Decentesc-> menawan selama beberapa bagian</li>
+    <li>Decentesc-> asli dan mewah</li>
+    <li>Decentesc-> menarik bagi jenis pembaca tertentu</li>
+    <!-- EN: 
+    <li>decentextra-> tetapi memiliki beberapa lubang plot mencolok</li>
+    <li>decentextra-> tetapi seringkali sulit diikuti</li>
+    <li>decentextra-> tetapi penuh dengan kesalahan kontinuitas</li>
+    <li>decentextra-> tetapi tidak memiliki emosi yang mendalam</li>
+    <li>decentextra-> Tapi karakternya basi dan kartun</li>
+    <li>decentextra-> tetapi penulis terus menggunakan kata-kata secara tidak tepat dalam upaya untuk terdengar pintar</li>
+    <li>decentextra-> tetapi dunia tidak orisinal dan membosankan</li>
+    <li>decentextra-> tetapi tulisannya sangat berbunga-bunga</li>
+    <li>decentExtra-> tetapi banyak dari ketukan cerita tidak perlu dan gagal memajukan plot</li>-><li>Decentxtra->, tetapi memiliki beberapa lubang plot yang jelas</li>
+    <li>decentxtra->, tetapi seringkali sulit untuk dipahami</li>
+    <li>Decentraxtra->, tetapi penuh dengan kesalahan koherensi</li>
+    <li>Decentxtra->, tetapi tidak memiliki emosi yang mendalam</li>
+    <li>Decentraxtra->, tetapi karakternya sepele dan kartun</li>
+    <li>Decentxtra->, tetapi penulis terus-menerus menggunakan kata-kata yang tidak pantas untuk tampak cerdas</li>
+    <li>Decentxtra->, tetapi dunia ini hambar dan membosankan</li>
+    <li>Decentxtra->, tetapi menulis terlalu florida</li>
+    <li>Decentraxtra->, tetapi banyak momen sejarah tidak perlu dan tidak memajukan plot</li>
+    <!-- EN: 
+    <li>AWFULDESC-> Ditulis dengan sangat buruk</li>
+    <li>AWFULDESC-> sangat ditulis</li>
+    <li>AWFULDESC-> Sulit dibaca</li>
+    <li>AWFULDESC-> Sulit diikuti</li>
+    <li>AWFULDESC-> Kurang dalam visi artistik</li>
+    <li>AWFULDESC-> diisi dengan lubang plot dan karakter generik</li>
+    <li>AWFULDESC-> Didominasi oleh Karakter Pemeriksaan Diri Penulis</li>
+    <li>AWFULDESC-> aneh namun tidak orisinal</li>
+    <li>AWFULDESC-> FAR, terlalu lama</li>-><li>AWFULDESC-> ditulis dengan mengerikan</li>
+    <li>AWFULDESC-> sangat ditulis</li>
+    <li>AWFULDESC-> sulit dibaca</li>
+    <li>AWFULDESC-> sulit dimengerti</li>
+    <li>AWFULDESC-> kurang visi artistik</li>
+    <li>AWFULDESC-> penuh dengan lubang plot dan karakter generik</li>
+    <li>AWFULDESC-> Dibintangi karakter yang tidak masuk akal</li>
+    <li>AWFULDESC-> aneh dan tidak asli</li>
+    <li>AWFULDESC-> terlalu panjang</li>
+    <!-- EN: 
+    <li>AWFULEXTRA-> dan tulisannya tidak koheren</li>
+    <li>AWFUFFUFULEXTRA-> dan sangat sulit untuk diikuti</li>
+    <li>Awfulextra-> dan gagal merakit plot yang koheren</li>
+    <li>Awfulextra-> dan tidak memiliki rasa tema atau makna</li>
+    <li>AWFUFFUFULEXTRA-> dan tidak menyajikan ide-ide menarik sama sekali</li>
+    <li>AWFULEXTRA-> dan setiap karakter itu membosankan</li>
+    <li>Awfulextra-> dan tidak ada protagonis yang dapat diidentifikasi di titik mana pun</li>-><li>Awfulextra-> dan menulis hampir tidak koheren</li>
+    <li>Avulfulextra-> dan sangat sulit untuk dipahami</li>
+    <li>Awfulextra-> dan gagal membuat plot yang koheren</li>
+    <li>Awfulextra-> dan tidak memiliki rasa subjek atau makna</li>
+    <li>AWFULEXTRA-> dan tidak menyajikan ide-ide menarik sama sekali</li>
+    <li>AWFULEXTRA-> dan semua karakter datar dan membosankan</li>
+    <li>AWFUFFUMTRA-> dan tidak ada protagonis yang jelas kapan saja</li>
+    <!-- EN: 
+    <li>Mungkin_date-></li>
+    <li>Maybe_date-> Buku ini diterbitkan [date_form].</li>
+    <li>Maybe_date-> Teks pertama kali dicetak [date_form].</li>
+    <li>Mungkin_date-> Tidak jelas kapan buku itu ditulis.</li>-><li>Mungkin_date-></li>
+    <li>Maybe_date-> Buku ini diterbitkan [date_form].</li>
+    <li>Mungkin_date-> Teks dicetak untuk pertama kalinya [date_form].</li>
+    <li>Mungkin_date-> Tidak jelas kapan buku itu ditulis.</li>
+    <!-- EN: 
+    <li>date_form-> baru-baru ini</li>
+    <li>date_form-> berabad-abad yang lalu</li>
+    <li>date_form-> di [tanggal]</li>
+    <li>date_form-> di [date_season]</li>-><li>Date_form-> baru-baru ini</li>
+    <li>Date_form-> berabad-abad yang lalu</li>
+    <li>date_form-> el [date]</li>
+    <li>date_form-> en [date_season]</li>
+    <!-- EN: 
+    <li>BookType (p = 4)-> novel</li>
+    <li>BookType (p = 2)-> novella</li>
+    <li>BookType-> Story</li>
+    <li>BookType-> Narasi</li>
+    <li>BookType-> Biography</li>
+    <li>BookType-> Epic Poem</li>-><li>BookType (p = 4)-> novel</li>
+    <li>BookType (P = 2)-> SOAP Opera Cuts</li>
+    <li>BookType-> Historia</li>
+    <li>BookType-> Narrativa</li>
+    <li>BookType-> Biography</li>
+    <li>BookType-> Puisi Epik</li>
+  </Description_Novel.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Subjek-> [Subject_Primary]</li>
+    <li>desc (p = 3)-> [mungkin_intro] [schematic_desc].</li>
+    <li>desc-> [mungkin_intro] [schematic_desc]. \ n \ n [mungkin_medium] [Owor_story].[tautan] [Subject_consequence].</li>
+    <li>desc (p = 2)-> [mungkin_medium] [author_story].[tautan] [subjek_primary_story].[mungkin_OUTRO]</li>
+    <li>Mungkin_intro (p = 6)-></li>
+    <li>Mungkin_intro-> [Penampilan].</li>
+    <li>Mungkin_intro-> [subjek_intro].</li>
+    <li>Mungkin_subject_intro (p = 6)-></li>
+    <li>Mungkin_subject_intro-> [subjek_intro].</li>
+    <li>mungkin_medium (p = 6)-></li>
+    <li>Mungkin_Medium-> [medium].</li>
+    <li>Mungkin_OUTRO (p = 5)-></li>
+    <li>Mungkin_OUTRO-> [Aftermath].</li>
+    <li>Mungkin_OUTRO-> [Tanggal].</li>
+    <li>Mungkin_OUTRO-> [Penampilan].</li>
+    <li>mungkin_physical_adjective-></li>
+    <li>Maybe_physical_adjective-> [Physical_adjective]</li>
+    <li>Mungkin_date (p = 3)-></li>
+    <li>mungkin_date-> [tanggal]</li>
+    <li>subjek_intro-> [schematic_synonym] [show_synonym_verb] s a [state_adjective] [diagram_type] tentang [subjek]</li>
+    <li>Subject_intro-> Dalam [schematic_synonym] ini, [penulis] [show_synonym_verb] s [anypawn_possessive] [teori_synonym_adj] dari [subjek]</li>
+    <li>Subject_intro-> ini [Physical_adjective] [schematic_synonym] [contain_verb] s [schematic_synonym] f difokuskan pada [subjek]</li>
+    <li>subjek_intro-> [penulis] telah menggunakan [notable_adjective] [image_types] untuk mengkomunikasikan [anypawn_possessive] [teori_synonym_adj] dari [subjek]</li>
+    <li>Subject_intro-> [device_synonym] S terkait dengan [subjek_primary] adalah [show_synonym_verb1] ed dalam [mungkin_physical_adjective ini] [schematic_synonym]</li>
+    <li>subjek_intro-> [schematic_synonym] [show_synonym_verb] s a [state_adjective] [diagram_type] tentang [subjek_primary] dan [subjek_secondary]]</li>
+    <li>Subject_into-> [device_synonym] S terkait dengan [subjek_primary] dan [subjek_secondary] adalah [show_synonym_verb1] ed dalam [mungkin_physical_adjective ini] [schematic_synonym]</li>
+    <li>schematic_desc-> [schematic_desc_first] [schematic_desc_second]</li>
+    <li>schematic_desc_first-> Teknologi kuno yang dijelaskan di sini untuk [subjek_primary_gerund] adalah [negatif_adjective] dibandingkan dengan sistem saat ini</li>
+    <li>schematic_desc_first-> Ini hanya fragmen dari [schematic_synonym] penuh untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] adalah [negatif_adjective] di beberapa tempat</li>
+    <li>schematic_desc_first-> [schematic_synonym] untuk [subjek_primary_gerund] tidak lengkap</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dengan [schematic_synonym] ini rumit dengan anotasi kontradiktif</li>
+    <li>schematic_desc_first-> pemahaman [negatif_adjective] penulis tentang [subjek_primary_gerund] terlihat jelas di seluruh</li>
+    <li>schematic_desc_first-> bagian dari [schematic_synonym] telah dirobek</li>
+    <li>schematic_desc_first-> api dan jelaga telah merusak kertas</li>
+    <li>schematic_desc_first-> [schematic_synonym] untuk [subjek_primary_gerund] juga [negatif_adjective]</li>
+    <li>schematic_desc_first-> The Limited [Other_subject] untuk [subjek_primary_gerund] mengkompromikan ini [schematic_synonym]</li>
+    <li>schematic_desc_first-> detail yang tidak tepat tentang [subjek_primary_gerund] membuat penerapan [schematic_synonym] ini sulit</li>
+    <li>schematic_desc_first-> ini [negatif_adjective] [schematic_synonym] terkadang menyebabkan kesalahan ketika [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] untuk [subjek_primary_gerund] gagal secara estetika</li>
+    <li>schematic_desc_first-> kurangnya imajinasi tentang [subjek_primary_gerund] telah membatasi [schematic_synonym] ini ini</li>
+    <li>SCHEMATIC_DESC_FIRST-> ini [schematic_container] memberikan banyak spesifikasi kontradiktif untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ketidaksepakatan atas [Other_subject] telah meninggalkan ambiguitas dalam [schematic_synonym] ini untuk [subjek_primary_gerund]</li>
+    <li>SCHEMATIC_DESC_FIRST-> Sloppy Draftsmanship merusak rencana yang teliti [penulis] untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> khawatir tentang [Other_subject] untuk [subjek_primary_gerund] terbatas ini [schematic_synonym]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] untuk [subjek_primary_gerund] telah disalin berulang kali, mengaburkan isinya</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] tidak membuat hubungan nyata antara [subjek_primary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dan [subjek_secondary_gerund] tidak mudah dipasangkan</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_primary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_tertiary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_primary_gerund] dan [subjek_tertiary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di [subjek_primary_gerund], [subjek_secondary_gerund] dan [subjek_tertiary_gerund]</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Ini membuat frustrasi bagi mereka yang mempelajari subjek</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, menjadikannya tidak berharga untuk sebagian besar tujuan</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, merusak pelajaran yang dikomunikasikannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Hanya pemula yang akan mendapat manfaat dari pelajarannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Skema yang menyesatkan bisa lebih buruk daripada tidak memiliki skema sama sekali</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, menjadikannya utilitas yang dipertanyakan</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->, tetapi dasar-dasarnya ada</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [freate_than] 1)->, tetapi masih ada data yang cukup untuk memberikan wawasan</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, ini tidak mengurangi utilitasnya ke praktisi yang berpengalaman</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [freater_than] 1)->, meskipun masih memiliki beberapa nilai bagi kebanyakan siswa</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Pemula masih akan mendapat manfaat dari ajarannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, hanya ahli yang akan melihat kekurangannya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, kontennya luar biasa untuk era</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, namun itu menyampaikan konsep-konsep lanjutan dengan mudah</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masih penuh dengan kebijaksanaan untuk semua pelajar</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Meskipun demikian, setiap siswa akan mendapat manfaat dari membacanya, tidak peduli seberapa berpengalamannya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masalahnya kecil dibandingkan dengan kekayaan pengetahuan yang dikandungnya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, pelajaran yang diajarkannya abadi</li>
+    <li>Medium-> Sistem sensorik yang dibangun [Tells_Verb] untuk pendengar [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Rolled Inside adalah setumpuk kertas pribadi, [Tells_Verb] ing [schematic_origin]</li>
+    <li>Medium-> Stiker [Tells_Verb] informasi terbatas tentang [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Sebuah pamflet informasi yang disertakan [Tells_Verb] s [schematic_origin]</li>
+    <li>Medium-> Daun longgar dari perkamen [Tells_Verb] [schematic_origin]</li>
+    <li>Medium-> Lembar Kertas Kedua [Tells_Verb] S [schematic_origin]</li>
+    <li>Medium-> Tablet Batu Tertulis [Tells_Verb] [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Plasteel [SCHEMATIC_CONTAINER] bertuliskan [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Catatan tertulis jatuh, yang [Tells_Verb] s [schematic_origin]</li>
+    <li>medium-> bagian belakang dokumen [Tells_Verb] lebih lanjut tentang [schematic_origin]</li>
+    <li>Medium-> Rekaman drama, [Tells_Verb] ing [schematic_origin]</li>
+    <li>Sedang-> [schematic_origin] akan menjadi masalah dugaan, jika bukan untuk catatan pada dokumen</li>
+    <li>Sedang (p = 4)-> [schematic_origin] diketahui tetapi termasuk dalam catatan dokumen</li>
+    <li>Medium-> Buku harian terlampir memberi tahu [schematic_origin]</li>
+    <li>medium-> mekanisme kuno [Tells_Verb] s [schematic_origin]</li>
+    <li>mediat-> miniatur mechanoid wirrs in to life, mengatakan [schematic_origin]</li>
+    <li>Tells_Verb-> Tell</li>
+    <li>Tells_Verb-> Relay</li>
+    <li>Tells_Verb-> recount</li>
+    <li>Tells_Verb-> Laporan</li>
+    <li>schematic_origin-> Kisah [notable_adjective] dari kreasi skematik</li>
+    <li>schematic_origin-> Bagaimana penulis datang untuk membuat skema</li>
+    <li>schematic_origin-> Kehidupan [notable_adjective] dari penulis skematik</li>
+    <li>schematic_origin-> Sebuah cerita tentang kreasi skematik ini</li>
+    <li>schematic_origin-> Asal usul diagram [notable_adjective] ini</li>
+    <li>schematic_origin-> a [notable_adjective] kisah tentang kehidupan penulis</li>
+    <li>schematic_origin-> rumor tentang mengapa dokumen [notable_adjective] ini berakhir di tepi dan siapa yang menulisnya</li>
+    <li>Author_Story-> [Oorsor_StoryName] [Oorsor_intent]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [learning_story]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [CalltoadVenture]</li>
+    <li>Author_StoryName (p = 3)-> [anypawn_namefull]</li>
+    <li>Author_StoryName-> The Unnamed [Authortitle]</li>
+    <li>Author_intent-> haus akan pengetahuan tentang [subjek] dari usia muda dan menanyai semua orang di kota kelahiran [anypawn_possessive]</li>
+    <li>Author_intent-> bermimpi meremajakan [subjek], memimpin revolusi ilmiah di Kuhn [WorldName]</li>
+    <li>Author_intent-> dibuat [subjek] [anypawn_possessive] pekerjaan hidup</li>
+    <li>Author_intent-> dibagikan [anypawn_possessive] tampilan pada [subjek] dalam buku [fisik_adjective], tertulis [tertulis_when]</li>
+    <li>Author_intent-> tahu tidak ada panggilan yang lebih baik dari studi [subjek] dan membuat skema ini [tertulis_ kapan saja]</li>
+    <li>Author_intent-> terjadi di seluruh rahasia [subjek] dalam studi [anypawn_possessives] ibu [fisik_adjective] ibu]</li>
+    <li>Author_intent-> sangat sakit sebagai seorang anak tetapi menggunakan waktu untuk belajar [subjek]</li>
+    <li>Author_intent-> ingin dunia mengetahui tentang [subjek] dan, [write_when], menciptakan skematik ini</li>
+    <li>Author_intent-> membutuhkan galaksi untuk mengetahui tentang [subjek]</li>
+    <li>Author_intent-> terpikat ke dalam cinta [subjek] oleh seri buku anak-anak</li>
+    <li>Author_intent-> tidak pernah menyukai studi [subjek] tetapi diwajibkan untuk melakukannya</li>
+    <li>Author_intent-> Felt [subjek] adalah panggilan [anypawn_possessive]</li>
+    <li>learning_story-> bepergian jauh dan luas, mencari kebijaksanaan tentang [subjek]</li>
+    <li>learning_story-> hidup di hari yang sama setiap hari, mengerjakan [subjek] di kota-kota siklus [Midworld]</li>
+    <li>learning_story-> muncul melalui slumschool yang terfokus pada [urbworld] [subjek] di [urbworld]</li>
+    <li>learning_story-> lulus dengan pujian di [subjek] dari Academy [WorldName]</li>
+    <li>learning_story-> Diajarkan [anypawn_objective] diri tentang [subjek] di dunia liar [animalworld]</li>
+    <li>learning_story-> Menemukan kumpulan skema yang hilang tentang [subjek] di reruntuhan [Ruinworld]</li>
+    <li>learning_story-> melintasi jalan-jalan yang menghitam di [Steamworld], mengejar [subjek] di tengah-tengah jelaga</li>
+    <li>learning_story-> entah bagaimana selamat dari rawa racun [Toxicworld], di mana rumor penyebaran ahli [subjek]</li>
+    <li>learning_story-> menjelajahi pinggiran kota yang meleleh dari dunia kaca [Glassworld], mencari pengetahuan [subjek]</li>
+    <li>learning_story-> mengorbit lingkup transenden [TranscendentWorld], belajar [subjek] dengan mencegat comms traffic</li>
+    <li>learning_story-> pergi dengan bagal ke kedalaman [Mineworld], mendengarkan penambang lama menceritakan kisah [subjek] dan mempelajari rahasianya</li>
+    <li>learning_story-> adalah ahli [subjek] yang kontrak di Coreworld of [Coreworld]</li>
+    <li>learning_story-> memiliki pabrik-pabrik di seluruh dunia [indworld], memanjakan cinta [anypawn_possessive] dari [subjek] sementara pekerja [anypawn_possessive] pergi</li>
+    <li>learning_story-> belajar tentang [subjek] dipenjara di selcity v di [penjara], selamanya memprotes kepolosan [anypawn_possessive]</li>
+    <li>learning_story-> disatukan skema [subjek] ini di hive-heaps dari trashworld [trashworld], mengumpulkan fragmen yang dibuang oleh warga negara glitterworld idle</li>
+    <li>learning_story-> Dibesarkan Apatovores Kloning di [Dinoworld] dan bertukar daging mereka dengan pengetahuan [subjek]</li>
+    <li>learning_story-> tinggal di skyrippers [urbworld], di mana pengetahuan [subjek] adalah umum</li>
+    <li>learning_story-> dibesarkan di dataran luar [Ruinworld], belajar [subjek] untuk bertahan hidup</li>
+    <li>CallToadVenture-> Felt [anypawn_possessive] hidup stagnan.Lalu suatu hari, [anypawn_pronoun] menemukan [subjek]</li>
+    <li>CallToadVenture-> dipercayakan dengan memulai koloni baru, di [anypawn_possessive] sendiri, fokus pada [subjek]</li>
+    <li>CallToadVenture-Kakak yang lebih tua meninggal, meninggalkan [anypawn_objective] sebagai spesialis [subjek] keluarga</li>
+    <li>Calltoadventure-> mempelajari koloni glitterworld yang ditinggalkan yang berfokus pada [subjek]</li>
+    <li>CallToadVenture-> berada di kapal penjelajah surya ketika ditangkap oleh Pirates [FeudalWorld].Sebagai ahli [subjek], mereka menebusnya dengan harga tinggi</li>
+    <li>CallToadVenture-> ditiupkan ke arah deadworld [Deadworld], di mana [anypawn_pronoun] belajar tentang [subjek]</li>
+    <li>calltoadventure-> menemukan file data tentang [subjek] dalam mekanoid yang rusak dan dipelajari darinya</li>
+    <li>CallToadVenture-> Mengikuti Dirtmole Down Burrow-nya, di mana ia mengajarkan [anypawn_objective] tentang [subjek]</li>
+    <li>CallToadVenture-> dibesarkan oleh klan Yttakin yang dibesarkan [subjek] di [iceworld]</li>
+    <li>CallToadVenture-> diciptakan oleh kloner sanguophage dan menemukan kesenangan dalam [subjek]</li>
+    <li>Calltoadventure-> dibesarkan di [Warworld], melarikan diri dengan pod kargo curian.Satu -satunya bacaan selama berbulan -bulan adalah manual [subjek]</li>
+    <li>CallToadVenture-> Menghabiskan Seumur Hidup [anypawn_possessive] yang bepergian melalui lapisan Shellworld [Shellworld], mengejar mekanoid [subjek] yang tidak berfungsi</li>
+    <li>Calltoadventure-> melarikan diri dari perbudakan di dusun [abad pertengahan] dengan menyimpan kapal luar angkasa seorang pedagang yang ahli dalam [subjek]</li>
+    <li>CallToadVenture-> bepergian ke tepi dan kembali, belajar tentang [subjek] di [rimworld]</li>
+    <li>Calltoadventure-> berlayar di laut [Oceanicworld], mengklaim belajar [subjek] rahasia dari lautan hidup itu sendiri</li>
+    <li>CallToadVenture-> adalah pemulung nol-G di sabuk asteroid [WorldName], menemukan rahasia [subjek] pada [asteroid] A3 atau [asteroid] 7DD baik</li>
+    <li>ditulis_when-> malam sebelum eksekusi [anypawn_possessive]</li>
+    <li>Ditulis_when-> di tahun awal [anypawn_possessive]</li>
+    <li>Ditulis_when-> Selama periode biru [WorldName]</li>
+    <li>Ditulis_when-> sebagai bagian dari tesis post-doktoral [anypawn_possessive]</li>
+    <li>Ditulis_when-> di [anypawn_possessive] Wanderings melintasi tepi</li>
+    <li>Ditulis_when-> di fasilitas klon [WorldName]</li>
+    <li>Ditulis_when-> sebagai bagian terakhir dari ritual [notable_adjective] ka '[worldname]</li>
+    <li>Ditulis_when-> is Idly, di belakang secarik-krip huruf dari orang tua [anypawn_possessive]</li>
+    <li>ditulis_when-> bertahun-tahun setelah mereka pertama kali menyusunnya</li>
+    <li>Ditulis_when-> Di [anypawn_possessive] usia tua</li>
+    <li>ditulis_when-> di malam hari, pada waktunya disambar dari tidur</li>
+    <li>Ditulis_when-> Saat tidak merawat anak-anak [anypawn_possessive]</li>
+    <li>Ditulis_when-> Dalam terburu-buru, dalam perjalanan ke depan</li>
+    <li>Ditulis_when-> di waktu luang, sementara menyeruput minuman dingin di beranda [anypawn_possessive]</li>
+    <li>Ditulis_when-> di usia muda, bekerja sendirian sementara peers [anypawn_possessive] dimainkan</li>
+    <li>Subject_conseptence (p = 18)-> [subjek_primary_story]</li>
+    <li>Subject_consequence-> [Digression]</li>
+    <li>Digression-> Pada satu titik, cerita beralih ke dalam diskusi yang membingungkan tentang [digression_subject]</li>
+    <li>Digression-> Narasi skematik kehilangan jalan di sini, mengganti ke [digression_subject]</li>
+    <li>Digression-> [Penulis] telah memasukkan catatan kaki di sini, tentang [digression_subject]</li>
+    <li>Digression-> Tidak jelas mengapa cerita berubah menjadi [digression_subject]</li>
+    <li>Digression-> Sungguh mengejutkan bahwa informasi skema [contain_verb] tentang [digression_subject]</li>
+    <li>Digression-> Bagian pada [digression_subject] tidak relevan</li>
+    <li>Digression_subject-> cinta dan perang</li>
+    <li>Digression_subject-> Perbedaan politik yang tak berkesudahan dan semakin kecil</li>
+    <li>Digression_subject-> tren masakan glitterworld</li>
+    <li>Digression_subject-> Pasar mode [AnimalWorld] dan [UrbWorld]</li>
+    <li>Digression_subject-> Gosip yang melengking tentang penggunaan yang meluas dari penambah cinta</li>
+    <li>Digression_subject-> Disposisi militer armada [glitterworld] seabad sebelumnya</li>
+    <li>Digression_subject-> Hubungan Coreworld Misterius dengan lubang hitam supermasif</li>
+    <li>Digression_subject-> The Deadworld dari [Deadworld] dan rumor nasibnya</li>
+    <li>Digression_subject-> Varian spesies di planet dinosaurus [Dinoworld]</li>
+    <li>Digression_subject-> [anypawn_possessive] pengalaman feodalisme di [feudalworld]</li>
+    <li>Digression_subject-> Kurangnya mikroba di kota-kota yang jatuh di [GlassWorld]</li>
+    <li>Digression_subject-> Kehidupan singkat orang-orang miskin [Indworld]</li>
+    <li>Digression_subject-> Adaptasi Hi-Ruin Scavengers di Post [WorldName] -War Urbworlds</li>
+    <li>Digression_subject-> Barter Neutroamine di Skyrippers yang kaya di [Coreworld]</li>
+    <li>Aftermath-> Halaman-halaman tersebut mengkomunikasikan tidak lebih dari cerita [Penulis]</li>
+    <li>Aftermath-> A [note] di tangan yang berbeda mengatakan bahwa [penulis] terakhir terlihat menuju [Deathworld]</li>
+    <li>Aftermath-> Halaman robek di sini</li>
+    <li>Aftermath-> Daunnya dihiasi dengan noda coklat</li>
+    <li>Aftermath-> Meskipun petualangan [anypawn_possessive], [anypawn_pronoun] berhasil membuat skema ini</li>
+    <li>Aftermath-> [anypawn_pronoun] Disedihkan [anypawn_possessive] bertahun-tahun terakhir untuk skema ini</li>
+    <li>Aftermath-> Nanti, [anypawn_pronoun] menemukan kedamaian dalam pekerjaan ini.[subjek_chat]</li>
+    <li>Aftermath-> [anypawn_possessive] cerita berakhir di sini, dengan deskripsi teknis [anypawn_possessive] bekerja di [WorldName].[subjek_chat]</li>
+    <li>Subject_chat-> Karya [penulis] membuktikan [anypawn_objective] otoritatif pada [subjek]</li>
+    <li>Subject_chat-> beberapa perselisihan temuan dalam dokumen [subjek] ini</li>
+    <li>Subject_chat-> Dokumen ini akan menjadi inspiratif bagi siapa pun yang tertarik pada [subjek]</li>
+    <li>Subject_chat-> Meskipun diagram pudar, pelajaran [penulis] tentang [subjek] berharga</li>
+    <li>authortitle-> penulis</li>
+    <li>authortitle-> Scribe</li>
+    <li>Authortitle-> Writer</li>
+    <li>Linkage-> Ini menginspirasi [anypawn_objective] dan [anypawn_pronoun]</li>
+    <li>Linkage-> Ini terbukti berguna nanti saat [anypawn_pronoun]</li>
+    <li>Linkage-> Menggunakan Pengetahuan ini, [AnyPawn_Pronoun]</li>
+    <li>Linkage-> [anypawn_pronoun] menemukan ini berguna saat [anypawn_pronoun]</li>
+    <li>Linkage-> Itulah sebabnya [anypawn_pronoun]</li>
+    <li>Linkage-> di [WorldName], [anypawn_pronoun] menggunakan wawasan [anypawn_possessive] dan</li>
+    <li>Linkage-> Untuk menguasainya, [anypawn_pronoun] melakukan perjalanan ke [WorldName] di mana [anypawn_pronoun]</li>
+    <li>notable_adjective-> terkenal</li>
+    <li>notable_adjective-> tidak jelas</li>
+    <li>notable_adjective-> ikon</li>
+    <li>notable_adjective->classic</li>
+    <li>notable_adjective->common</li>
+    <li>notable_adjective->familiar</li>
+    <li>negative_adjective->rudimentary</li>
+    <li>negative_adjective->simplistic</li>
+    <li>negative_adjective->primitive</li>
+    <li>negatif_adjective-> biasa-biasa saja</li>
+    <li>negatif_adjective-> tidak akurat</li>
+    <li>negatif_adjective-> kurang</li>
+    <li>Penampilan (p = 3)-> [Phys_desc]</li>
+    <li>Penampilan-> [nonfys_desc]</li>
+    <li>phys_desc (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> [fisik_yet_statement]</li>
+    <li>phys_desc (kualitas [less_than] 4)-> [negatif_physical_statement1]</li>
+    <li>phys_desc (kualitas [Greater_than] 3)-> [Positive_Physical_Statement1]</li>
+    <li>phys_desc (p = 2)-> [Fisik_Yet_Statement]</li>
+    <li>phys_desc (kualitas [less_than] 3)-> dokumen ini [badsmells] dari [stink]</li>
+    <li>phys_desc (kualitas [Greater_than] 4)-> dokumen ini [bau] dari [aroma]</li>
+    <li>nonfys_desc-> [Otherwordly_nonphys_desc]</li>
+    <li>nonfys_desc-> [Technical_nonphys_desc]</li>
+    <li>nonfys_desc-> [Academic_nonphys_desc]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [negatif_physical_statement1] tetapi [positif_physical_statement2]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [Positive_Physical_Statement1] tetapi [negatif_physical_statement2]</li>
+    <li>Fisik_yet_Statement (kualitas [lebih besar_than] 4)-> [positif_physical_statement1] dan [positif_physical_statement2]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 2)-> [negatif_physical_statement1].Juga, [negatif_physical_statement2]</li>
+    <li>negatif_physical_statement-> [negatif_physical_statement1]</li>
+    <li>negatif_physical_statement-> [negatif_physical_statement2]</li>
+    <li>negatif_physical_statement1-> Air mata bergerigi Mar penutup kulit anak sapi</li>
+    <li>negatif_physical_statement1-> salah satu murid [penulis] menandatangani daun depan</li>
+    <li>negatif_physical_statement1-> ichor yang mencicipi asam</li>
+    <li>negatif_physical_statement2-> tongkat penutup yang membusuk ke tangan pembaca</li>
+    <li>negatif_physical_statement2-> Belatung telah membuat rumah mereka di bawah foolscap dan lalat berkibar saat buku dibuka</li>
+    <li>negatif_physical_statement2-> Halaman tampaknya ditulis pada perkamen yang hancur</li>
+    <li>negatif_physical_statement2-> Halaman tersebut dipenuhi dengan tinta merah</li>
+    <li>positif_physical_statement-> [positif_physical_statement1]</li>
+    <li>positif_physical_statement-> [positif_physical_statement2]</li>
+    <li>Positive_physical_statement1-> di dalam halaman masih asli</li>
+    <li>Positive_physical_statement1-> Halaman ini terdiri dari turunan plasteel tipis</li>
+    <li>Positive_physical_statement1-> Setiap halaman terbuat dari struktur yang fleksibel dan seperti berlian</li>
+    <li>positif_physical_statement1-> itu hangat saat disentuh</li>
+    <li>Positive_physical_statement2-> Ini menanggung kitemark dari Coreworld Publishing House - [Coreworld] Skema</li>
+    <li>positif_physical_statement2-> tepi halaman masih belum dipotong</li>
+    <li>POSIMASI_PHYSIAL_STATEMENTER2-> Plastik semi-mulia berkilau di permukaannya</li>
+    <li>Otherwordly_nonphys_desc-> memegang skema [penulis], ruangan berenang</li>
+    <li>Otherwordly_nonphys_desc-> Hanya melihat skema menyakiti kepala pembaca</li>
+    <li>Otherwordly_nonphys_desc-> Melihat skema, rune tampaknya bergerak di sudut mata pembaca</li>
+    <li>Otherwordly_nonphys_desc-> Whispers Rembeskan area di sekitar skema [Penulis]</li>
+    <li>Otherwordly_nonphys_desc-> Skema [Penulis] menyandang jejak psikis dari sesuatu yang sangat kuno</li>
+    <li>Technical_nonphys_desc-> Kompleksitas skema berada di luar rata-rata pembaca</li>
+    <li>Technical_nonphys_desc-> Notasinya tidak biasa, diambil dari dialek impid yang punah</li>
+    <li>Technical_nonphys_desc-> kabel dijalankan melalui halaman skema, meskipun perangkat hampir mati</li>
+    <li>Technical_nonphys_desc-> Mekanisme yang sama dijelaskan oleh [Penulis] dalam tiga bahasa yang berbeda</li>
+    <li>Academic_nonphys_desc-> Skema ini didedikasikan untuk tutor jin yang menginspirasi [penulis]</li>
+    <li>Academic_nonphys_desc-> Dokumen ini ditandai dengan lambang lembaga yang mensponsori [penulis]</li>
+    <li>Badsmells-> berbau harum</li>
+    <li>Badsmells-> memiliki bau busuk</li>
+    <li>Badsmells-> berbau lemah</li>
+    <li>Badsmells-> Reeks</li>
+    <li>Badsmells-> bau</li>
+    <li>bau> mayat lendir</li>
+    <li>bau> belerang dan telur busuk</li>
+    <li>bau> kematian yang lambat dan kuno</li>
+    <li>bau> sesuatu yang mirip dengan keringat yttakin</li>
+    <li>Napas pemboros bau</li>
+    <li>bau> ruang ganti hussar</li>
+    <li>bau-> memiliki aroma yang memabukkan</li>
+    <li>bau-> memiliki bau</li>
+    <li>bau-> memiliki parfum</li>
+    <li>Smells-> memiliki aroma</li>
+    <li>aroma-> harus, seperti bagian bawah tong anggur</li>
+    <li>Scent-> Highmate Pheromones</li>
+    <li>aroma-> kemenyan</li>
+    <li>aroma-> cendana</li>
+    <li>aroma-> jus boomrat manis</li>
+    <li>Scent-> GlitterWorld Spice</li>
+    <li>Aroma-> Biji Gauranlen Segar</li>
+    <li>konjungsi-> dan</li>
+    <li>konjungsi-> Tapi</li>
+    <li>konjungsi-> belum</li>
+    <li>Konjungsi-> sekalipun</li>
+    <li>konjungsi-> selain itu</li>
+    <li>konjungsi->.Selain itu,</li>
+    <li>penulis (p = 4)-> penulis</li>
+    <li>penulis (p = 4)-> penulis</li>
+    <li>penulis-> penemu</li>
+    <li>penulis-> pencipta</li>
+    <li>penulis (p = 2)-> pengembang</li>
+    <li>penulis (p = 4)-> desainer</li>
+    <li>penulis-> insinyur</li>
+    <li>Author-> Artificer</li>
+    <li>penulis-> Boffin</li>
+    <li>penulis-> Spesialis</li>
+    <li>penulis-> Teknisi</li>
+    <li>penulis-> ahli</li>
+    <li>penulis-> Pengrajin</li>
+    <li>anauthordesc (p = 2)-> a</li>
+    <li>anauthordesc-> A Young</li>
+    <li>anauthordesc-> seorang tua</li>
+    <li>anauthordesc-> a ketakutan</li>
+    <li>anauthordesc-> sedih</li>
+    <li>anauthordesc-> seorang lansia</li>
+    <li>anauthordesc-> A Wise</li>
+    <li>anauthordesc-> headstrong</li>
+    <li>anauthordesc-> a bodoh</li>
+    <li>anauthordesc-> seorang tidak bersalah</li>
+    <li>anauthordesc-> A GERAK</li>
+    <li>anauthordesc-> sebuah eldritch</li>
+    <li>anauthordesc-> seorang keterlaluan</li>
+    <li>anauthordesc-> sebuah pola dasar</li>
+    <li>anauthordesc-> a boring</li>
+    <li>anauthordesc-> A crazed</li>
+    <li>anauthordesc-> seorang tidak bermoral</li>
+    <li>anauthordesc-> moral</li>
+    <li>anauthordesc-> an amoral</li>
+    <li>anauthordesc-> a shadowy</li>
+    <li>WorldName-> [GlitterWorld]</li>
+    <li>WorldName-> [UrbWorld]</li>
+    <li>WorldName-> [Deadworld]</li>
+    <li>WorldName-> [Shellworld]</li>
+    <li>WorldName-> [RuinWorld]</li>
+    <li>WorldName-> [MedievalWorld]</li>
+    <li>WorldName-> [Steamworld]</li>
+    <li>WorldName-> [Midworld]</li>
+    <li>WorldName-> [RimWorld]</li>
+    <li>WorldName-> [Coreworld]</li>
+    <li>WorldName-> [ToxicWorld]</li>
+    <li>WorldName-> [GlassWorld]</li>
+    <li>WorldName-> [TranscendentWorld]</li>
+    <li>WorldName-> [Indworld]</li>
+    <li>WorldName-> [PrisonWorld]</li>
+    <li>WorldName-> [FeudalWorld]</li>
+    <li>WorldName-> [TrashWorld]</li>
+    <li>WorldName-> [Iceworld]</li>
+    <li>WorldName-> [Dinoworld]</li>
+    <li>WorldName-> [Warworld]</li>
+    <li>WorldName-> [OceanicWorld]</li>
+    <li>WorldName-> [Mineworld]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>WorldName-> [Asteroid]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>Feralworld-> [AnimalWorld]</li>
+    <li>Milworld-> [Warworld]</li>
+    <li>Animalworld-> Sorne</li>
+    <li>AnimalWorld-> Rhydell</li>
+    <li>Animalworld-> Zoutera</li>
+    <li>Animalworld-> tylacine</li>
+    <li>Animalworld-> Mereka</li>
+    <li>Animalworld-> Steller's World</li>
+    <li>Animalworld-> Auktion</li>
+    <li>asteroid-> iwamura</li>
+    <li>asteroid-> atura</li>
+    <li>Asteroid-> retusins</li>
+    <li>asteroid-> ranomi</li>
+    <li>Asteroid-> Aesh 265</li>
+    <li>Asteroid-> Taxlos</li>
+    <li>Asteroid-> Aryn Sigma</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> lutuni</li>
+    <li>Coreworld-> Zeglar</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> Cormora Prime</li>
+    <li>Coreworld-> Glossolia</li>
+    <li>Coreworld-> Barbaros</li>
+    <li>deadworld-> callos ix</li>
+    <li>deadworld-> haspia</li>
+    <li>Deadworld-> Gost IV</li>
+    <li>Deadworld-> Berimund</li>
+    <li>Deadord-> Order</li>
+    <li>Deadworld-> Kremhild</li>
+    <li>Deadworld-> Melisandz</li>
+    <li>deathworld-> creticon</li>
+    <li>Diaāneblds-> zatza</li>
+    <li>Diaānebldlld-> rayth</li>
+    <li>Diaānebldlld-> spectra</li>
+    <li>Diaānebldlld-> jnovaex</li>
+    <li>Deathworld-> Carthago</li>
+    <li>Diaewld-> grimcore</li>
+    <li>DINOWORLD-> OUBANYEN</li>
+    <li>DINOWORLD-> ZOUTERA</li>
+    <li>DINOWORLD-> EINIO</li>
+    <li>DINOWORLD-> Baryonyx</li>
+    <li>DINOWORLD-> N'CILO</li>
+    <li>DINOWORLD-> Venator</li>
+    <li>DINOWORLD-> Brach</li>
+    <li>Feudalworld-> Aracena VI</li>
+    <li>trydleworld-> nuchus</li>
+    <li>feudalworld-> filson</li>
+    <li>feodalworld-> fieth</li>
+    <li>FeudalWorld-> Bloch Regis</li>
+    <li>feodalworld-> carlosphere</li>
+    <li>Feudalworld-> Magna Dijou</li>
+    <li>Glassworld-> ceti in</li>
+    <li>glassworld-> thebes xiv</li>
+    <li>glassworld-> naga</li>
+    <li>Glassworld-> Merv</li>
+    <li>glassworld-> Perse</li>
+    <li>glassworld-> shechem</li>
+    <li>glassworld-> yelhazor</li>
+    <li>Glitterworld-> Kalthas IV</li>
+    <li>glitterworld-> amen-ti</li>
+    <li>glitterworld-> Sophiamunda</li>
+    <li>glitterworld-> rogia</li>
+    <li>glitterworld-> utmaior</li>
+    <li>glitterworld-> Caspian</li>
+    <li>glitterworld-> Kenerella</li>
+    <li>iceworld-> yttak</li>
+    <li>iceworld-> dedchenko</li>
+    <li>iceworld-> Baltoro</li>
+    <li>Iceworld-> furtwale</li>
+    <li>iceworld-> jaqua</li>
+    <li>Iceworld-> Christensen</li>
+    <li>iceworld-> Barnes</li>
+    <li>INDWORLD-> IRITHIR</li>
+    <li>BERDIAKAN-> CHINA BARU</li>
+    <li>INDWORLD-> HUDDERS</li>
+    <li>BERDIRI-> IVER</li>
+    <li>INDWORLD-> ACHESTA</li>
+    <li>BERDIRI-> OODS</li>
+    <li>INDWORLD-> ILADELF</li>
+    <li>Abad Pertengahan-> Chelis</li>
+    <li>Abad Pertengahan-> Winna</li>
+    <li>Abad Pertengahan-> Cassone</li>
+    <li>Abad Pertengahan-> Jork</li>
+    <li>Abad Pertengahan-> Cochmar</li>
+    <li>Dunia Abad Pertengahan-> Alien</li>
+    <li>Abad Pertengahan-> Dubrognago</li>
+    <li>Midworld-> Darleyeria</li>
+    <li>Midworld-> Elsin</li>
+    <li>Midworld-> Haihan</li>
+    <li>Midworld-> Seolure</li>
+    <li>Midworld-> Bank</li>
+    <li>Midworld-> New London ini</li>
+    <li>Midavarld-> San Delendi</li>
+    <li>mineworld-> xanides</li>
+    <li>Mineworld-> Bingham</li>
+    <li>Mineworld-> Saarh</li>
+    <li>mineworld->Grasbeg</li>
+    <li>Mineworld-> Chuqui</li>
+    <li>Mineworld-> Olimpiade</li>
+    <li>mineworld-> orme</li>
+    <li>Oceanicworld-> Wavia</li>
+    <li>Oceanicworld-> dari kolam</li>
+    <li>Oceanicworld-> Gichen</li>
+    <li>Oceanicworld-> port yam</li>
+    <li>Oceanicworld-> Baia</li>
+    <li>Oceanicworld-> Thonis</li>
+    <li>Oceanicworld-> moaui</li>
+    <li>PRIVERWORLD-> YTTAK</li>
+    <li>PRIVERWORLD-> ALDGATE</li>
+    <li>Prisonworld> Bor</li>
+    <li>penjara-> hoalo</li>
+    <li>PrisonWorld-> Casmina</li>
+    <li>PrisonWorld-> Port Basil</li>
+    <li>Penjaraworld-> chateau d'ouen</li>
+    <li>rimworld-> filson</li>
+    <li>rimworld-> The Big</li>
+    <li>Rimworld-> slab</li>
+    <li>Rimworld-> Twig Falls</li>
+    <li>rimworld-> boise tua</li>
+    <li>Rimworld-> Gerbang Iblis</li>
+    <li>rimworld-> laramiere</li>
+    <li>Ruinworld-> Earth</li>
+    <li>Ruinworld-> Izaba</li>
+    <li>Ruinworld-> xennoa</li>
+    <li>Ruinworld-> pichu</li>
+    <li>Ruinworld-> Lost</li>
+    <li>Ruinworld-> Hisarlik</li>
+    <li>Ruinworld-> Sound</li>
+    <li>shellworld-> boccocarro</li>
+    <li>Shellworld-> Destria</li>
+    <li>shellworld-> trofik</li>
+    <li>shellworld-> matrio</li>
+    <li>Shellworld-> bersama</li>
+    <li>shellworld-> xinthia</li>
+    <li>Shellworld-> Connect</li>
+    <li>Steamworld-> Corliss</li>
+    <li>Steamworld-> Borassic</li>
+    <li>Steamworld-> Savery II</li>
+    <li>Steamworld-> heron</li>
+    <li>Steamworld-> Malmesburi</li>
+    <li>Steamworld-> Architonnerre</li>
+    <li>Steamworld-> pelepasan</li>
+    <li>Toxicworld> scyla</li>
+    <li>Toxicworld-> Mauro</li>
+    <li>Toxicworld-> Cerospor</li>
+    <li>Toxicworld-> Oxy VI</li>
+    <li>Toxicworld-> Sangwine</li>
+    <li>Toxicworld-> Soleno</li>
+    <li>Toxicworld-> imbatus</li>
+    <li>Transcendentworld-> xaroh</li>
+    <li>TranscendentWorld-> Immanence VI</li>
+    <li>TranscendentWorld-> Qabba</li>
+    <li>transcendentworld-> einsof</li>
+    <li>Transcendentworld-> mitvo</li>
+    <li>TranscendentWorld-> Samydi</li>
+    <li>TranscendentWorld-> Samsarr</li>
+    <li>TrashWorld-> Bagua 5</li>
+    <li>TrashWorld-> Puobell</li>
+    <li>trashworld-> fever ix</li>
+    <li>TrashWorld-> Garbsh</li>
+    <li>trashworld-> tra'age</li>
+    <li>Trashworld-> repsy</li>
+    <li>trashworld-> mystras</li>
+    <li>urbworld-> euterpe</li>
+    <li>UrbWorld-> Avenna</li>
+    <li>Urbworld-> Essalon</li>
+    <li>UrbWorld-> ENKED</li>
+    <li>Urbworld-> Adocia</li>
+    <li>Urbworld-> n'toch</li>
+    <li>UrbWorld-> Barca</li>
+    <li>Warworld-> Kimia</li>
+    <li>Warworld-> old</li>
+    <li>Warworld-> Samnium</li>
+    <li>Warworld-> Kyrus</li>
+    <li>Warworld-> Punica</li>
+    <li>Wryworld-> Cimbria HI</li>
+    <li>Warworld-> Barkitos</li>
+    <li>schematic_container-> manual</li>
+    <li>schematic_container-> compendium</li>
+    <li>schematic_container-> binder</li>
+    <li>folder schematic_container-></li>
+    <li>schematic_container-> buklet</li>
+    <li>schematic_container-> wrapping</li>
+    <li>schematic_container-> pemegang</li>
+    <li>schematic_container-> bundel</li>
+    <li>schematic_container-> berkas</li>
+    <li>schematic_container-> paket</li>
+    <li>schematic_container-> case</li>
+    <li>schematic_container-> wadah</li>
+    <li>fisik_adjective-> kotor</li>
+    <li>fisik_adjective-> Tiny</li>
+    <li>fisik_adjective-> kasar</li>
+    <li>fisik_adjective-> besar</li>
+    <li>fisik_adjective-> elegan</li>
+    <li>fisik_adjective-> sederhana</li>
+    <li>fisik_adjective-> baru</li>
+    <li>fisik_adjective-> halus</li>
+    <li>fisik_adjective-> kuno</li>
+    <li>fisik_adjective-> ditinggalkan</li>
+    <li>fisik_adjective-> rusak</li>
+    <li>fisik_adjective-> usang</li>
+    <li>fisik_adjective-> warped</li>
+    <li>fisik_adjective-> kuno</li>
+    <li>fisik_adjective-> berminyak</li>
+    <li>fisik_adjective-> hangat</li>
+    <li>fisik_adjective-> lumpen</li>
+    <li>fisik_adjective-> kayu</li>
+    <li>fisik_adjective-> berduri</li>
+    <li>fisik_adjective-> dinyanyikan</li>
+    <li>fisik_adjective-> halus</li>
+    <li>fisik_adjective-> pedesaan</li>
+    <li>fisik_adjective-> fungsional</li>
+    <li>fisik_adjective-> usang</li>
+    <li>fisik_adjective-> membingungkan</li>
+    <li>fisik_adjective-> berharga</li>
+    <li>Show_synonym_beb-> [show_synonym_beb1]</li>
+    <li>show_synonym_verb-> [show_synonym_verb2]</li>
+    <li>show_synonym_verb1-> digambarkan</li>
+    <li>show_synonym_verb1-> gambarkan</li>
+    <li>show_synonym_verb1-> hadir</li>
+    <li>show_synonym_verb1-> pameran</li>
+    <li>SHOCK_SYNONYM_VERB1-> DISPLAY</li>
+    <li>show_synonym_verb2-> show</li>
+    <li>show_synonym_verb2-> garis besar</li>
+    <li>show_synonym_verb2-> jelaskan</li>
+    <li>contil_verb-> berisi</li>
+    <li>contil_verb-> hold</li>
+    <li>contil_verb-> bear</li>
+    <li>contil_verb-> Store</li>
+    <li>contil_verb-> lampirkan</li>
+    <li>schematic_synonym-> skema</li>
+    <li>schematic_synonym-> diagram</li>
+    <li>schematic_synonym-> cetak biru</li>
+    <li>schematic_synonym-> desain</li>
+    <li>schematic_synonym-> prototipe</li>
+    <li>schematic_synonym-> Spesifikasi produk</li>
+    <li>schematic_synonym-> set instruksi</li>
+    <li>state_adjective-> draft</li>
+    <li>state_adjective-> selesai</li>
+    <li>state_adjective-> Work-in-progress</li>
+    <li>state_adjective-> Lengkap</li>
+    <li>Diagram_type-> Ilustrasi</li>
+    <li>Diagram_type-> Penggambaran</li>
+    <li>Diagram_type-> Diagram</li>
+    <li>Diagram_type-> Blueprint</li>
+    <li>Diagram_type-> Infografis</li>
+    <li>Diagram_type-> Skema</li>
+    <li>diagram_type-> cutaway</li>
+    <li>Diagram_type-> grafik</li>
+    <li>Diagram_type-> Chart</li>
+    <li>teori_synonym_adj-> teori</li>
+    <li>teori_synonym_adj-> konsep</li>
+    <li>teori_synonym_adj-> gagasan</li>
+    <li>teori_synonym_adj-> hipotesis</li>
+    <li>teori_synonym_adj-> ide</li>
+    <li>device_synonym-> mekanisme</li>
+    <li>device_synonym-> device</li>
+    <li>device_synonym-> contrivance</li>
+    <li>device_synonym-> penemuan</li>
+    <li>device_synonym-> widget</li>
+    <li>device_synonym-> kreasi</li>
+    <li>device_synonym-> gadget</li>
+    <li>device_synonym-> fixture</li>
+    <li>device_synonym-> modul</li>
+    <li>gambar_types-> foto</li>
+    <li>gambar_types-> gambar</li>
+    <li>Image_Types-> ukiran</li>
+    <li>gambar_types-> cat air</li>
+    <li>image_types-> cetak biru</li>
+    <li>gambar_types-> sketsa</li>
+    <li>gambar_types-> kartun</li>
+    <li>Other_subject-> Infrastruktur</li>
+    <li>Other_subject-> personel</li>
+    <li>Other_subject-> Komunikasi</li>
+    <li>Other_subject-> SCOPE</li>
+    <li>Other_subject-> anggaran</li>
+    <li>Other_subject-> Resources</li>
+    <li>Tanggal-> Skema diterbitkan [date_form]</li>
+    <li>Tanggal-> Skema ini pertama kali dicetak [date_form]</li>
+    <li>Tanggal-> Tidak jelas persis kapan skema dibuat</li>
+    <li>date_form-> baru-baru ini</li>
+    <li>date_form-> berabad-abad yang lalu</li>
+    <li>date_form-> di [tanggal]</li>
+    <li>date_form-> di [date_season]</li>-><Description_Schematic.rulePack.rulesStrings>
+    <!-- EN: 
+    <li>Subjek-> [Subject_Primary]</li>
+    <li>desc (p = 3)-> [mungkin_intro] [schematic_desc].</li>
+    <li>desc-> [mungkin_intro] [schematic_desc]. \ n \ n [mungkin_medium] [Owor_story].[tautan] [Subject_consequence].</li>
+    <li>desc (p = 2)-> [mungkin_medium] [author_story].[tautan] [subjek_primary_story].[mungkin_OUTRO]</li>-><li>Subjek-> [Subject_Primary]</li>
+    <li>desc (p = 3)-> [mungkin_intro] [schematic_desc].</li>
+    <li>desc-> [mungkin_intro] [schematic_desc]. \ n \ n [mungkin_medium] [Owor_story].[tautan] [Subject_consequence].</li>
+    <li>desc (p = 2)-> [mungkin_medium] [author_story].[tautan] [subjek_primary_story].[mungkin_OUTRO]</li>
+    <!-- EN: 
+    <li>Mungkin_intro (p = 6)-></li>
+    <li>Mungkin_intro-> [Penampilan].</li>
+    <li>Mungkin_intro-> [subjek_intro].</li>
+    <li>Mungkin_subject_intro (p = 6)-></li>
+    <li>Mungkin_subject_intro-> [subjek_intro].</li>
+    <li>mungkin_medium (p = 6)-></li>
+    <li>Mungkin_Medium-> [medium].</li>-><li>Mungkin_intro (p = 6)-></li>
+    <li>Mungkin_intro-> [Penampilan].</li>
+    <li>Mungkin_intro-> [subjek_intro].</li>
+    <li>Mungkin_subject_intro (p = 6)-></li>
+    <li>Mungkin_subject_intro-> [subjek_intro].</li>
+    <li>mungkin_medium (p = 6)-></li>
+    <li>Mungkin_Medium-> [medium].</li>
+    <!-- EN: 
+    <li>Mungkin_OUTRO (p = 5)-></li>
+    <li>Mungkin_OUTRO-> [Aftermath].</li>
+    <li>Mungkin_OUTRO-> [Tanggal].</li>
+    <li>Mungkin_OUTRO-> [Penampilan].</li>
+    <li>mungkin_physical_adjective-></li>
+    <li>Maybe_physical_adjective-> [Physical_adjective]</li>
+    <li>Mungkin_date (p = 3)-></li>
+    <li>mungkin_date-> [tanggal]</li>-><li>Mungkin_OUTRO (p = 5)-></li>
+    <li>Mungkin_OUTRO-> [Aftermath].</li>
+    <li>Mungkin_OUTRO-> [Tanggal].</li>
+    <li>Mungkin_OUTRO-> [Penampilan].</li>
+    <li>mungkin_physical_adjective-></li>
+    <li>Maybe_physical_adjective-> [Physical_adjective]</li>
+    <li>Mungkin_date (p = 3)-></li>
+    <li>mungkin_date-> [tanggal]</li>
+    <!-- EN: <li>subjek_intro-> [schematic_synonym] [show_synonym_verb] s a [state_adjective] [diagram_type] tentang [subjek]</li>
+    <li>Subject_intro-> Dalam [schematic_synonym] ini, [penulis] [show_synonym_verb] s [anypawn_possessive] [teori_synonym_adj] dari [subjek]</li>
+    <li>Subject_intro-> ini [Physical_adjective] [schematic_synonym] [contain_verb] s [schematic_synonym] f difokuskan pada [subjek]</li>
+    <li>subjek_intro-> [penulis] telah menggunakan [notable_adjective] [image_types] untuk mengkomunikasikan [anypawn_possessive] [teori_synonym_adj] dari [subjek]</li>
+    <li>Subject_intro-> [device_synonym] S terkait dengan [subjek_primary] adalah [show_synonym_verb1] ed dalam [mungkin_physical_adjective ini] [schematic_synonym]</li>
+    <li>subjek_intro-> [schematic_synonym] [show_synonym_verb] s a [state_adjective] [diagram_type] tentang [subjek_primary] dan [subjek_secondary]]</li>
+    <li>Subject_into-> [device_synonym] S terkait dengan [subjek_primary] dan [subjek_secondary] adalah [show_synonym_verb1] ed dalam [mungkin_physical_adjective ini] [schematic_synonym]</li>-><li>subjek_intro-> el [schematic_synonym] [show_synonym_verb] un [state_adjective] [diagram_type] sobre [subjek]</li>
+    <li>subjek_intro-> en este [schematic_synonym], [the_author] [show_synonym_verb] su [teori_synonym_adj] sobre [subjek]</li>
+    <li>Subject_intro-> este [fysical_adjective] [schematic_synonym] [contain_verb1] [schematic_synonym] s centrados en [subjek]</li>
+    <li>Subjek_intro-> [the_author] ha empleado [notable_adjecitive] [image_types] untuk mengkomunikasikan su [teori_synonym_adj] tentang [subjek]</li>
+    <li>subjek_intro-> los [device_synonym] s asociados con [subjek_primary] son [show_synonym_verb1] dos en este [mungkin_physical_adjective] [schematic_synonym]</li>
+    <li>subjek_intro-> el [schematic_synonym] [show_synonym_verb] un [state_adjective] [diagram_type] sobre [subjek_primary] y [subjek_secondary]]</li>
+    <li>subjek_intro-> los [device_synonym] s asociados con [subjek_primary] y [subjek_secondary] son [show_synonym_verb1] dos en este [mungkin_physical_adjective] [schematic_synonym]</li>
+    <!-- EN: 
+    <li>schematic_desc-> [schematic_desc_first] [schematic_desc_second]</li>
+    <li>schematic_desc_first-> Teknologi kuno yang dijelaskan di sini untuk [subjek_primary_gerund] adalah [negatif_adjective] dibandingkan dengan sistem saat ini</li>
+    <li>schematic_desc_first-> Ini hanya fragmen dari [schematic_synonym] penuh untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] adalah [negatif_adjective] di beberapa tempat</li>
+    <li>schematic_desc_first-> [schematic_synonym] untuk [subjek_primary_gerund] tidak lengkap</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dengan [schematic_synonym] ini rumit dengan anotasi kontradiktif</li>
+    <li>schematic_desc_first-> pemahaman [negatif_adjective] penulis tentang [subjek_primary_gerund] terlihat jelas di seluruh</li>
+    <li>schematic_desc_first-> bagian dari [schematic_synonym] telah dirobek</li>
+    <li>schematic_desc_first-> api dan jelaga telah merusak kertas</li>
+    <li>schematic_desc_first-> [schematic_synonym] untuk [subjek_primary_gerund] juga [negatif_adjective]</li>
+    <li>schematic_desc_first-> The Limited [Other_subject] untuk [subjek_primary_gerund] mengkompromikan ini [schematic_synonym]</li>
+    <li>schematic_desc_first-> detail yang tidak tepat tentang [subjek_primary_gerund] membuat penerapan [schematic_synonym] ini sulit</li>
+    <li>schematic_desc_first-> ini [negatif_adjective] [schematic_synonym] terkadang menyebabkan kesalahan ketika [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] untuk [subjek_primary_gerund] gagal secara estetika</li>
+    <li>schematic_desc_first-> kurangnya imajinasi tentang [subjek_primary_gerund] telah membatasi [schematic_synonym] ini ini</li>
+    <li>SCHEMATIC_DESC_FIRST-> ini [schematic_container] memberikan banyak spesifikasi kontradiktif untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> ketidaksepakatan atas [Other_subject] telah meninggalkan ambiguitas dalam [schematic_synonym] ini untuk [subjek_primary_gerund]</li>
+    <li>SCHEMATIC_DESC_FIRST-> Sloppy Draftsmanship merusak rencana yang teliti [penulis] untuk [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> khawatir tentang [Other_subject] untuk [subjek_primary_gerund] terbatas ini [schematic_synonym]</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] untuk [subjek_primary_gerund] telah disalin berulang kali, mengaburkan isinya</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] tidak membuat hubungan nyata antara [subjek_primary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dan [subjek_secondary_gerund] tidak mudah dipasangkan</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_primary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_tertiary_gerund] dan [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di keduanya [subjek_primary_gerund] dan [subjek_tertiary_gerund]</li>
+    <li>schematic_desc_first-> ini [schematic_container] memiliki [schematic_synonym] s di [subjek_primary_gerund], [subjek_secondary_gerund] dan [subjek_tertiary_gerund]</li>-><li>schematic_desc-> [schematic_desc_first] [schematic_desc_second]</li>
+    <li>schematic_desc_first-> teknologi lama yang dijelaskan di sini tentang [subjek_primary_gerund] adalah [negatif_adjective] dibandingkan dengan sistem saat ini</li>
+    <li>Schematic_desc_first-> Ini hanyalah fragmen dari [schematic_synonym] lengkap tentang [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> este [schematic_synonym] es [negative_adjective] en varios lugares</li>
+    <li>Schematic_desc_first-> el [schematic_synonym] tentang [subjek_primary_gerund] tidak lengkap</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dengan [schematic_synonym] ini rumit dengan anotasi kontradiktif</li>
+    <li>Schematic_desc_first-> pemahaman [negatif_adjective] tentang [subjek_primary_gerund] oleh [of_author]</li>
+    <li>schematic_desc_first-> parte del [schematic_synonym] ha sido arrancado</li>
+    <li>Schematic_desc_first-> api dan jelaga telah merusak kertas</li>
+    <li>schematic_desc_first-> el [schematic_synonym] sobre [subjek_primary_gerund] es demasiado [negatif_adjective]</li>
+    <li>schematic_desc_first-> la [Other_subject] limitada sobre [subjek_primary_gerund] comprometió este [schematic_synonym]</li>
+    <li>Schematic_desc_first-> Rincian yang tidak akurat tentang [subjek_primary_gerund] menghambat aplikasi [schematic_synonym ini] ini</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] [negatif_adjective] terkadang memiliki kesalahan pada topik pada [subjek_primary_gerund]</li>
+    <li>schematic_desc_first-> este [schematic_synonym] sobre [subjek_primary_gerund] falla comúnmente</li>
+    <li>Schematic_desc_first-> kurangnya imajinasi tentang [subjek_primary_gerund] telah membatasi [schematic_synonym] ini ini</li>
+    <li>SCHEMATIC_DESC_FIRST-> ini [schematic_container] memberikan banyak spesifikasi kontradiktif pada [subjek_primary_gerund]</li>
+    <li>schematic_desc_first</li>
+    <li>SCHEMATIC_DESC_FIRST-> A COMUERA DRAFTING oleh Meticulos Plan [OF_AUTHOR] di [SUBJET_PRIMARY_GERUND]</li>
+    <li>schematic_desc_first-> Masalah oleh [oher_subject] tentang [subjek_primary_gerund] membatasi kelayakan [schematic_synonym ini] ini</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] tentang [subjek_primary_gerund] telah berulang kali disalin, menodai isinya</li>
+    <li>schematic_desc_first-> ini [schematic_synonym] tidak membuat hubungan nyata antara [subjek_primary_gerund] dan [subjek_secandary_gerund]</li>
+    <li>schematic_desc_first-> [subjek_primary_gerund] dan [subjek_secandary_gerund] tidak mudah dicocokkan</li>
+    <li>schematic_desc_first-> este [schematic_container] tiene [schematic_synonym] s sobre [subjek_primary_gerund] y [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> este [schematic_container] tiene [schematic_synonym] s tanto sobre [subjek_tertiary_gerund] como sobre [subjek_secondary_gerund]</li>
+    <li>schematic_desc_first-> este [schematic_container] tiene [schematic_synonym] s tanto sobre [subjek_primary_gerund] como sobre [subjek_tertiary_gerund]</li>
+    <li>schematic_desc_first-> este [schematic_container] tiene [schematic_synonym] s sobre [subjek_primary_gerund], [subjek_secondary_gerund] y [subjek_tertiary_gerund]</li>
+    <!-- EN: 
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Ini membuat frustrasi bagi mereka yang mempelajari subjek</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, menjadikannya tidak berharga untuk sebagian besar tujuan</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, merusak pelajaran yang dikomunikasikannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Hanya pemula yang akan mendapat manfaat dari pelajarannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->.Skema yang menyesatkan bisa lebih buruk daripada tidak memiliki skema sama sekali</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, menjadikannya utilitas yang dipertanyakan</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->, tetapi dasar-dasarnya ada</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [freate_than] 1)->, tetapi masih ada data yang cukup untuk memberikan wawasan</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, ini tidak mengurangi utilitasnya ke praktisi yang berpengalaman</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [freater_than] 1)->, meskipun masih memiliki beberapa nilai bagi kebanyakan siswa</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Pemula masih akan mendapat manfaat dari ajarannya</li>
+    <li>schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, hanya ahli yang akan melihat kekurangannya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, kontennya luar biasa untuk era</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, namun itu menyampaikan konsep-konsep lanjutan dengan mudah</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masih penuh dengan kebijaksanaan untuk semua pelajar</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Meskipun demikian, setiap siswa akan mendapat manfaat dari membacanya, tidak peduli seberapa berpengalamannya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masalahnya kecil dibandingkan dengan kekayaan pengetahuan yang dikandungnya</li>
+    <li>schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, pelajaran yang diajarkannya abadi</li>-><li>Schematic_desc_second (kualitas [less_than] 2)->.Ini membuat frustrasi bagi mereka yang belajar tentang masalah ini</li>
+    <li>schematic_desc_second (kualitas [less_than] 2)->, jadi tidak memiliki nilai untuk sebagian besar tujuan</li>
+    <li>Schematic_desc_second (kualitas [less_than] 2)->, merusak pelajaran yang ia komunikasikan</li>
+    <li>Schematic_desc_second (kualitas [less_than] 2)->.Hanya pemula yang akan mendapat manfaat dari pelajaran mereka</li>
+    <li>Schematic_desc_second (kualitas [less_than] 2)->.Skema yang menyesatkan mungkin lebih buruk daripada tidak memiliki skema</li>
+    <li>Schematic_desc_second (kualitas [less_than] 2)->, jadi kegunaannya dipertanyakan</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->, tetapi konsep dasarnya ada</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [freater_than] 1)->, tetapi masih berisi data yang cukup untuk memberikan informasi yang berguna</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, ini tidak mengurangi utilitas dalam hal profesional yang berpengalaman</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->, meskipun masih memiliki beberapa nilai untuk sebagian besar siswa</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Pemula akan terus mendapat manfaat dari ajaran mereka</li>
+    <li>Schematic_desc_second (kualitas [less_than] 5, kualitas [lebih besar_than] 1)->.Namun, hanya ahli yang akan melihat cacat</li>
+    <li>Schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, kontennya luar biasa untuk saat ini</li>
+    <li>SCHEMATIK_DESC_SECOND (kualitas [lebih besar_than] 4)->, tetapi mengirimkan konsep-konsep lanjutan dengan mudah</li>
+    <li>Schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masih penuh dengan kebijaksanaan untuk semua siswa</li>
+    <li>Schematic_desc_second (kualitas [lebih besar_than] 4)->.Meskipun demikian, semua siswa akan mendapat manfaat dari bacaan mereka, terlepas dari tingkat pengetahuan mereka</li>
+    <li>Schematic_desc_second (kualitas [lebih besar_than] 4)->, tetapi masalahnya lebih rendah dibandingkan dengan jumlah besar pengetahuan yang dikandungnya</li>
+    <li>Schematic_desc_second (kualitas [lebih besar_than] 4)->.Namun, pelajaran yang dia ajarkan tidak lekang oleh waktu</li>
+    <!-- EN: 
+    <li>Medium-> Sistem sensorik yang dibangun [Tells_Verb] untuk pendengar [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Rolled Inside adalah setumpuk kertas pribadi, [Tells_Verb] ing [schematic_origin]</li>
+    <li>Medium-> Stiker [Tells_Verb] informasi terbatas tentang [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Sebuah pamflet informasi yang disertakan [Tells_Verb] s [schematic_origin]</li>
+    <li>Medium-> Daun longgar dari perkamen [Tells_Verb] [schematic_origin]</li>
+    <li>Medium-> Lembar Kertas Kedua [Tells_Verb] S [schematic_origin]</li>
+    <li>Medium-> Tablet Batu Tertulis [Tells_Verb] [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Plasteel [SCHEMATIC_CONTAINER] bertuliskan [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Catatan tertulis jatuh, yang [Tells_Verb] s [schematic_origin]</li>
+    <li>medium-> bagian belakang dokumen [Tells_Verb] lebih lanjut tentang [schematic_origin]</li>
+    <li>Medium-> Rekaman drama, [Tells_Verb] ing [schematic_origin]</li>
+    <li>Sedang-> [schematic_origin] akan menjadi masalah dugaan, jika bukan untuk catatan pada dokumen</li>
+    <li>Sedang (p = 4)-> [schematic_origin] diketahui tetapi termasuk dalam catatan dokumen</li>
+    <li>Medium-> Buku harian terlampir memberi tahu [schematic_origin]</li>
+    <li>medium-> mekanisme kuno [Tells_Verb] s [schematic_origin]</li>
+    <li>mediat-> miniatur mechanoid wirrs in to life, mengatakan [schematic_origin]</li>-><li>Medium-> Sistem sensorik yang dimasukkan [Tells_Verb] ke pendengar [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Di dalamnya ada segumpal kertas pribadi [Tells_Verb_ing] [schematic_origin]</li>
+    <li>Medium-> Stiker [Tells_Verb] Informasi terbatas tentang [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> Brosur informatif termasuk [Tells_Verb] [schematic_origin]</li>
+    <li>Medium-> Daun longgar dari perkamen [Tells_Verb] [schematic_origin]</li>
+    <li>Medium-> Una Second Haja of Paper [memberi tahu kata kerja] [Asal skematis]</li>
+    <li>Medium-> Tablet Batu Terdaftar [Tells_Verb] [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> A [schematic_container] dari Plastiacero telah terdaftar [SCHEMATIC_ORIGIN]</li>
+    <li>Medium-> cae una note guaral, yang [memberi tahu kata kerja] [asal skematis]</li>
+    <li>medium-> bagian belakang dokumen [Tells_Verb] lebih lanjut tentang [schematic_origin]</li>
+    <li>Medium-> A Recording Sounds [Tells_Verb_ing] [schematic_origin]</li>
+    <li>Medium-> [schematic_origin] akan menjadi dugaan, jika bukan karena catatan pada dokumen</li>
+    <li>Sedang (p = 4)-> [schematic_origin] diketahui tetapi termasuk dalam catatan dokumen</li>
+    <li>Medium-> Akun koran terlampir [SCHEMATIC_ORIGIN]</li>
+    <li>medium-> un mecanismo arcaico [Tells_Verb] [schematic_origin]</li>
+    <li>Mediat-> Mecanoid miniatur menjadi hidup, mengatakan [schematic_origin]</li>
+    <!-- EN: 
+    <li>Tells_Verb-> Tell</li>
+    <li>Tells_Verb-> Relay</li>
+    <li>Tells_Verb-> recount</li>
+    <li>Tells_Verb-> Laporan</li>-><li>Tells_Verb-> menjelaskan</li>
+    <li>Tells_Verb-> Laporan</li>
+    <li>Tells_Verb-> akun</li>
+    <li>Tells_Verb-> Laporan</li>
+    <li>Tells_Verb_ing-> menjelaskan</li>
+    <li>Tells_Verb_ing-> pelaporan</li>
+    <li>Tells_Verb_ing-> Counting</li>
+    <li>Tells_Verb_ing-> pelaporan</li>
+    <!-- EN: 
+    <li>schematic_origin-> Kisah [notable_adjective] dari kreasi skematik</li>
+    <li>schematic_origin-> Bagaimana penulis datang untuk membuat skema</li>
+    <li>schematic_origin-> Kehidupan [notable_adjective] dari penulis skematik</li>
+    <li>schematic_origin-> Sebuah cerita tentang kreasi skematik ini</li>
+    <li>schematic_origin-> Asal usul diagram [notable_adjective] ini</li>
+    <li>schematic_origin-> a [notable_adjective] kisah tentang kehidupan penulis</li>
+    <li>schematic_origin-> rumor tentang mengapa dokumen [notable_adjective] ini berakhir di tepi dan siapa yang menulisnya</li>-><li>schematic_origin-> cerita [luar biasa_adjective] tentang penciptaan skema</li>
+    <li>schematic_origin-> Bagaimana {anypawn_gender tiba?Penulis: Penulis} untuk membuat skema ini</li>
+    <li>Schematic_origin-> riwayat tentang penciptaan skema ini</li>
+    <li>skema schematic_origin-> asal usul skema [luar biasa_adjective] ini</li>
+    <li>SCHEMATIC_ORIGIN-> LEGENDA TENTANG SKEMA [ORGOGEABLE_ADECTIVE] ini ditulis</li>
+    <li>schematic_origin-> cerita [luar biasa_adjective] tentang kehidupan {anypawn_gender?penulis: penulis}</li>
+    <li>Schematic_origin-> rumor tentang mengapa dokumen [luar biasa_adjective] ini berakhir di dunia perbatasan ini dan siapa yang menulisnya</li>
+    <!-- EN: 
+    <li>Author_Story-> [Oorsor_StoryName] [Oorsor_intent]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [learning_story]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [CalltoadVenture]</li>
+    <li>Author_StoryName (p = 3)-> [anypawn_namefull]</li>
+    <li>Author_StoryName-> The Unnamed [Authortitle]</li>-><li>Author_Story-> [Oorsor_StoryName] [Oorsor_intent]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [learning_story]</li>
+    <li>Author_Story-> [Oorsor_StoryName] [CalltoadVenture]</li>
+    <li>Author_StoryName (p = 3)-> [anypawn_namefull]</li>
+    <li>Author_StoryName-> [Theunnamedauthor]</li>
+    <!-- EN: 
+    <li>Author_intent-> haus akan pengetahuan tentang [subjek] dari usia muda dan menanyai semua orang di kota kelahiran [anypawn_possessive]</li>
+    <li>Author_intent-> bermimpi meremajakan [subjek], memimpin revolusi ilmiah di Kuhn [WorldName]</li>
+    <li>Author_intent-> dibuat [subjek] [anypawn_possessive] pekerjaan hidup</li>
+    <li>Author_intent-> dibagikan [anypawn_possessive] tampilan pada [subjek] dalam buku [fisik_adjective], tertulis [tertulis_when]</li>
+    <li>Author_intent-> tahu tidak ada panggilan yang lebih baik dari studi [subjek] dan membuat skema ini [tertulis_ kapan saja]</li>
+    <li>Author_intent-> terjadi di seluruh rahasia [subjek] dalam studi [anypawn_possessives] ibu [fisik_adjective] ibu]</li>
+    <li>Author_intent-> sangat sakit sebagai seorang anak tetapi menggunakan waktu untuk belajar [subjek]</li>
+    <li>Author_intent-> ingin dunia mengetahui tentang [subjek] dan, [write_when], menciptakan skematik ini</li>
+    <li>Author_intent-> membutuhkan galaksi untuk mengetahui tentang [subjek]</li>
+    <li>Author_intent-> terpikat ke dalam cinta [subjek] oleh seri buku anak-anak</li>
+    <li>Author_intent-> tidak pernah menyukai studi [subjek] tetapi diwajibkan untuk melakukannya</li>
+    <li>Author_intent-> Felt [subjek] adalah panggilan [anypawn_possessive]</li>-><li>Auther_intent-> Saya sangat rakus tentang pengetahuan tentang [subjek] sejak usia muda dan bertanya kepada semua orang di kota asal mereka</li>
+    <li>Author_intent-> Saya bermimpi meremajakan [subjek], memimpin revolusi ilmiah di Kuhn [WorldName]</li>
+    <li>Author_intent-> membuat [subjek] karya hidupnya</li>
+    <li>Author_intent-> membagikan pendapatnya tentang [subjek] dalam sebuah buku [fisik_adjective], tertulis [tertulis_when]</li>
+    <li>Author_intent-> Dia tidak tahu panggilan yang lebih baik daripada mempelajari skema [subjek] dan ini [tertulis_when]]</li>
+    <li>Author_intent-> berlari ke rahasia [subjek] dalam penelitian [fisik_adjective] dari ibunya</li>
+    <li>Author_intent-> Dia terluka parah [anypawn_o_a] di rumah sakit selama masa kecilnya, tetapi memanfaatkan waktu untuk belajar di [subjek]</li>
+    <li>Author_intent-> Saya ingin dunia mengetahui tentang [subjek] dan, [wrotten_when], membuat skema ini</li>
+    <li>Author_intent-> Diperlukan agar galaksi tahu tentang [subjek]</li>
+    <li>Penulis Atant-> Sangat menyukai belajar tentang [subjek] mengikuti serangkaian buku anak-anak</li>
+    <li>Auther_intent-> Dia tidak pernah menyukai studi tentang [subjek], tetapi dia berkewajiban [anypawn_o_a] untuk melakukannya</li>
+    <li>Author_intent-> merasa bahwa belajar tentang [subjek] telah ditakdirkan [anypawn_o_a] sejak kelahirannya</li>
+    <!-- EN: 
+    <li>learning_story-> bepergian jauh dan luas, mencari kebijaksanaan tentang [subjek]</li>
+    <li>learning_story-> hidup di hari yang sama setiap hari, mengerjakan [subjek] di kota-kota siklus [Midworld]</li>
+    <li>learning_story-> muncul melalui slumschool yang terfokus pada [urbworld] [subjek] di [urbworld]</li>
+    <li>learning_story-> lulus dengan pujian di [subjek] dari Academy [WorldName]</li>
+    <li>learning_story-> Diajarkan [anypawn_objective] diri tentang [subjek] di dunia liar [animalworld]</li>
+    <li>learning_story-> Menemukan kumpulan skema yang hilang tentang [subjek] di reruntuhan [Ruinworld]</li>
+    <li>learning_story-> melintasi jalan-jalan yang menghitam di [Steamworld], mengejar [subjek] di tengah-tengah jelaga</li>
+    <li>learning_story-> entah bagaimana selamat dari rawa racun [Toxicworld], di mana rumor penyebaran ahli [subjek]</li>
+    <li>learning_story-> menjelajahi pinggiran kota yang meleleh dari dunia kaca [Glassworld], mencari pengetahuan [subjek]</li>
+    <li>learning_story-> mengorbit lingkup transenden [TranscendentWorld], belajar [subjek] dengan mencegat comms traffic</li>
+    <li>learning_story-> pergi dengan bagal ke kedalaman [Mineworld], mendengarkan penambang lama menceritakan kisah [subjek] dan mempelajari rahasianya</li>
+    <li>learning_story-> adalah ahli [subjek] yang kontrak di Coreworld of [Coreworld]</li>
+    <li>learning_story-> memiliki pabrik-pabrik di seluruh dunia [indworld], memanjakan cinta [anypawn_possessive] dari [subjek] sementara pekerja [anypawn_possessive] pergi</li>
+    <li>learning_story-> belajar tentang [subjek] dipenjara di selcity v di [penjara], selamanya memprotes kepolosan [anypawn_possessive]</li>
+    <li>learning_story-> disatukan skema [subjek] ini di hive-heaps dari trashworld [trashworld], mengumpulkan fragmen yang dibuang oleh warga negara glitterworld idle</li>
+    <li>learning_story-> Dibesarkan Apatovores Kloning di [Dinoworld] dan bertukar daging mereka dengan pengetahuan [subjek]</li>
+    <li>learning_story-> tinggal di skyrippers [urbworld], di mana pengetahuan [subjek] adalah umum</li>
+    <li>learning_story-> dibesarkan di dataran luar [Ruinworld], belajar [subjek] untuk bertahan hidup</li>-><li>Learning_story-> bepergian ke mana-mana, mencari kebijaksanaan tentang [subjek]</li>
+    <li>Learning_story-> hidup sehari yang identik setiap hari, bekerja di [subjek] di kota-kota siklik [Midworld]</li>
+    <li>Learning_story-> muncul melalui sekolah lingkungan marjinal yang berfokus pada [subjek] di [urbworld]</li>
+    <li>Learning_story-> lulus dengan pendaftaran kehormatan di [subjek] di Academy [WorldName]</li>
+    <li>Mempelajari cerita-> Dia belajar tentang [subjek] di dunia liar [dunia hewan]</li>
+    <li>Learning_story-> menemukan harta karun skema yang hilang tentang [subjek] di reruntuhan [Ruinworld]</li>
+    <li>Learning_story-> melintasi jalan-jalan yang menghitam [Steamworld], belajar tentang [subjek] bahkan saat hujan jelaga hujan</li>
+    <li>Learning_story-> Entah bagaimana selamat dari rawa beracun [Toxicworld], di mana rumor mengatakan ada ahli dalam [subjek]</li>
+    <li>Mempelajari cerita-> tur di pinggiran kota yang meleleh dari dunia kristal [Glassworld] untuk mencari pengetahuan tentang [subjek]</li>
+    <li>Learning_story-> mengorbit bidang transenden [TranscendentWorld], belajar tentang [subjek] dengan mencegat perdagangan komunikasi</li>
+    <li>Learning_story-> memasuki bagal ke kedalaman [Mineworld], mendengarkan para penambang lama menceritakan kisah [subjek] dan mempelajari rahasia mereka</li>
+    <li>Learning_story-> adalah spesialis dalam [subjek] di dunia tengah [Coreworld]</li>
+    <li>Learning_story-> memiliki pabrik-pabrik dunia industri [indworld], dan senang hasratnya tentang [subjek] menulis sementara para pekerjanya melayani sebagai budak</li>
+    <li>Learning_story-> Dia belajar tentang [subjek] encarcelad [anypawn_o_a] di penjara Ciudad v [penjara], di mana ia selalu mempertahankan kepolosannya</li>
+    <li>Learning_story-> membangun kembali skema ini pada [subjek] di sarang dunia sampah [Trashorld], mengumpulkan fragmen yang dibuang oleh warga kaya mundobrillante</li>
+    <li>Learning_story-> Criada Apatóvores dikloning di [Dinoworld] dan mengubah dagingnya untuk pengetahuan tentang [subjek]</li>
+    <li>Learning_story-> tinggal di menara mengambang [urbworld], di mana pengetahuan tentang [subjek] adalah umum</li>
+    <li>Learning_story-> tumbuh di moors mati [ruinworld], belajar tentang [subjek] untuk bertahan hidup</li>
+    <!-- EN: 
+    <li>CallToadVenture-> Felt [anypawn_possessive] hidup stagnan.Lalu suatu hari, [anypawn_pronoun] menemukan [subjek]</li>
+    <li>CallToadVenture-> dipercayakan dengan memulai koloni baru, di [anypawn_possessive] sendiri, fokus pada [subjek]</li>
+    <li>CallToadVenture-Kakak yang lebih tua meninggal, meninggalkan [anypawn_objective] sebagai spesialis [subjek] keluarga</li>
+    <li>Calltoadventure-> mempelajari koloni glitterworld yang ditinggalkan yang berfokus pada [subjek]</li>
+    <li>CallToadVenture-> berada di kapal penjelajah surya ketika ditangkap oleh Pirates [FeudalWorld].Sebagai ahli [subjek], mereka menebusnya dengan harga tinggi</li>
+    <li>CallToadVenture-> ditiupkan ke arah deadworld [Deadworld], di mana [anypawn_pronoun] belajar tentang [subjek]</li>
+    <li>calltoadventure-> menemukan file data tentang [subjek] dalam mekanoid yang rusak dan dipelajari darinya</li>
+    <li>CallToadVenture-> Mengikuti Dirtmole Down Burrow-nya, di mana ia mengajarkan [anypawn_objective] tentang [subjek]</li>
+    <li>CallToadVenture-> dibesarkan oleh klan Yttakin yang dibesarkan [subjek] di [iceworld]</li>
+    <li>CallToadVenture-> diciptakan oleh kloner sanguophage dan menemukan kesenangan dalam [subjek]</li>
+    <li>Calltoadventure-> dibesarkan di [Warworld], melarikan diri dengan pod kargo curian.Satu -satunya bacaan selama berbulan -bulan adalah manual [subjek]</li>
+    <li>CallToadVenture-> Menghabiskan Seumur Hidup [anypawn_possessive] yang bepergian melalui lapisan Shellworld [Shellworld], mengejar mekanoid [subjek] yang tidak berfungsi</li>
+    <li>Calltoadventure-> melarikan diri dari perbudakan di dusun [abad pertengahan] dengan menyimpan kapal luar angkasa seorang pedagang yang ahli dalam [subjek]</li>
+    <li>CallToadVenture-> bepergian ke tepi dan kembali, belajar tentang [subjek] di [rimworld]</li>
+    <li>Calltoadventure-> berlayar di laut [Oceanicworld], mengklaim belajar [subjek] rahasia dari lautan hidup itu sendiri</li>
+    <li>CallToadVenture-> adalah pemulung nol-G di sabuk asteroid [WorldName], menemukan rahasia [subjek] pada [asteroid] A3 atau [asteroid] 7DD baik</li>-><li>CallToadVenture-> Saya merasa bahwa hidupnya stagnan.Lalu suatu hari, dia menemukan [subjek]</li>
+    <li>Calltoadventure-> dipercayakan untuk memulai koloni baru, dengan sendirinya, berfokus pada [subjek]</li>
+    <li>Calltoadventure-> dia melihat kakak laki-lakinya meninggal, apa yang [anypawn_objective] ditinggalkan sebagai [anypaown_objective] hanya spesialis [anypawn_o_a] dalam [subjek] keluarga</li>
+    <li>Calltoadventure-> Dia mengetahui bahwa ada koloni mundobrillante yang ditinggalkan yang berfokus pada [subjek]</li>
+    <li>Calltoadventure-> sedang melakukan kapal pesiar surya ketika ia ditangkap oleh Pirates of [FeudalWorld].Sebagai ahli [anypawn_o_a] di [subjek], mereka meminta tebusan dengan harga tinggi</li>
+    <li>CallToadVenture-> Kursus Kehilangan ke Dunia Mati [Deadworld], di mana ia belajar tentang [subjek]</li>
+    <li>Calltoadventure-> menemukan file data tentang [subjek] dalam mecanoid rusak dan dipelajari darinya</li>
+    <li>Calltoadventure-> mengikuti topoterrarium untuk liangnya, di mana ia belajar tentang [subjek]</li>
+    <li>calltoadventure-> fue criad[ANYPAWN_o_a] por un clan Yttakin amante de [subject] en [iceworld]</li>
+    <li>Calltoadventure-> adalah cread [anypawn_o_a] oleh kloning berdarah dan menemukan kesenangan belajar [subjek]</li>
+    <li>CallToadVenture-> adalah criad [anypawn_o_a] di [Warworld], di mana ia melarikan diri menggunakan kapsul transportasi curian.Satu -satunya buku yang tersedia selama berbulan -bulan adalah manual tentang [subjek]</li>
+    <li>calltoadventure-> menghabiskan seluruh hidupnya bepergian melalui lapisan dunia [shellworld], mengejar mecanoid yang bekerja dengan buruk</li>
+    <li>Calltoadventure-> lolos dari perbudakan di Caseríos de [abad pertengahan] yang bersembunyi di pesawat ruang angkasa bintang seorang pedagang yang ternyata menjadi ahli dalam [subjek]</li>
+    <li>Calltoadventure-> bepergian ke perbatasan dan kembali, belajar tentang [subjek] di [rimworld]</li>
+    <li>Calltoadventure-> berlayar melalui lautan [Oceanicworld], menegaskan untuk mempelajari rahasia tentang [subjek] lautan hidup itu sendiri</li>
+    <li>Calltoadventure-> adalah [anypawn_gender?Penjengkel: Penjarahan Gravitasi Nol] dari sabuk asteroid planet [WorldName], di mana ia menemukan rahasia [subjek] dalam asteroid [asteroid] A3 atau [asteroid] 7DD</li>
+    <!-- EN: 
+    <li>ditulis_when-> malam sebelum eksekusi [anypawn_possessive]</li>
+    <li>Ditulis_when-> di tahun awal [anypawn_possessive]</li>
+    <li>Ditulis_when-> Selama periode biru [WorldName]</li>
+    <li>Ditulis_when-> sebagai bagian dari tesis post-doktoral [anypawn_possessive]</li>
+    <li>Ditulis_when-> di [anypawn_possessive] Wanderings melintasi tepi</li>
+    <li>Ditulis_when-> di fasilitas klon [WorldName]</li>
+    <li>Ditulis_when-> sebagai bagian terakhir dari ritual [notable_adjective] ka '[worldname]</li>
+    <li>Ditulis_when-> is Idly, di belakang secarik-krip huruf dari orang tua [anypawn_possessive]</li>
+    <li>ditulis_when-> bertahun-tahun setelah mereka pertama kali menyusunnya</li>
+    <li>Ditulis_when-> Di [anypawn_possessive] usia tua</li>
+    <li>ditulis_when-> di malam hari, pada waktunya disambar dari tidur</li>
+    <li>Ditulis_when-> Saat tidak merawat anak-anak [anypawn_possessive]</li>
+    <li>Ditulis_when-> Dalam terburu-buru, dalam perjalanan ke depan</li>
+    <li>Ditulis_when-> di waktu luang, sementara menyeruput minuman dingin di beranda [anypawn_possessive]</li>
+    <li>Ditulis_when-> di usia muda, bekerja sendirian sementara peers [anypawn_possessive] dimainkan</li>-><li>Ditulis_when-> malam sebelum eksekusi</li>
+    <li>Tertulis_when-> di tahun-tahun awalnya</li>
+    <li>Ditulis_when-> Selama periode biru [WorldName]</li>
+    <li>Ditulis_when-> sebagai bagian dari tesis postdoctoral-nya</li>
+    <li>Ditulis_when-> dalam pengembaraannya di tepi</li>
+    <li>Ditulis_when-> di fasilitas kloning ur- [worldname]</li>
+    <li>wroted_when-> como parte final del ritual [notable_adjective] ka '[worldname] l</li>
+    <li>Ditulis_when-> ocehnya, di belakang surat dari orang tuanya.</li>
+    <li>Ditulis_when-> bertahun-tahun setelah mereka menyusunnya untuk pertama kalinya</li>
+    <li>Ditulis_when-> di usia tuanya</li>
+    <li>Tertulis_when-> di malam hari, sering kali kehilangan jam mengantuk</li>
+    <li>Ditulis_when-> ketika dia tidak merawat anak-anaknya</li>
+    <li>Ditulis_when-> dengan terburu-buru, dalam perjalanan ke depan</li>
+    <li>Ditulis_when-> dengan tenang, sambil menikmati minuman dingin di terasnya</li>
+    <li>Ditulis_when-> pada usia dini, bekerja saat teman sekelas mereka bermain</li>
+    <!-- EN: 
+    <li>Subject_conseptence (p = 18)-> [subjek_primary_story]</li>
+    <li>Subject_consequence-> [Digression]</li>
+    <li>Digression-> Pada satu titik, cerita beralih ke dalam diskusi yang membingungkan tentang [digression_subject]</li>
+    <li>Digression-> Narasi skematik kehilangan jalan di sini, mengganti ke [digression_subject]</li>
+    <li>Digression-> [Penulis] telah memasukkan catatan kaki di sini, tentang [digression_subject]</li>
+    <li>Digression-> Tidak jelas mengapa cerita berubah menjadi [digression_subject]</li>
+    <li>Digression-> Sungguh mengejutkan bahwa informasi skema [contain_verb] tentang [digression_subject]</li>
+    <li>Digression-> Bagian pada [digression_subject] tidak relevan</li>-><li>Subject_conseptence (p = 18)-> [subjek_primary_story]</li>
+    <li>Subject_consequence-> [Digression]</li>
+    <li>Digression-> Pada waktu tertentu, cerita menyimpang menuju diskusi yang membingungkan tentang [digression_subject]</li>
+    <li>Digression> Larcaris del Skema Jika saya Pierde di sini, mengoceh tentang [digression_subject]</li>
+    <li>Digression-> [Theauthor] telah memasukkan di sini catatan kaki di [digression_subject]</li>
+    <li>Digression-> Tidak jelas mengapa riwayat menjadi menuju [digression_subject]</li>
+    <li>Digression-> Sungguh mengejutkan bahwa skema [contain_verb] informasi tentang [digression_subject]</li>
+    <li>Digression-> Bagian pada [digression_subject] tidak relevan</li>
+    <!-- EN: 
+    <li>Digression_subject-> cinta dan perang</li>
+    <li>Digression_subject-> Perbedaan politik yang tak berkesudahan dan semakin kecil</li>
+    <li>Digression_subject-> tren masakan glitterworld</li>
+    <li>Digression_subject-> Pasar mode [AnimalWorld] dan [UrbWorld]</li>
+    <li>Digression_subject-> Gosip yang melengking tentang penggunaan yang meluas dari penambah cinta</li>
+    <li>Digression_subject-> Disposisi militer armada [glitterworld] seabad sebelumnya</li>
+    <li>Digression_subject-> Hubungan Coreworld Misterius dengan lubang hitam supermasif</li>
+    <li>Digression_subject-> The Deadworld dari [Deadworld] dan rumor nasibnya</li>
+    <li>Digression_subject-> Varian spesies di planet dinosaurus [Dinoworld]</li>
+    <li>Digression_subject-> [anypawn_possessive] pengalaman feodalisme di [feudalworld]</li>
+    <li>Digression_subject-> Kurangnya mikroba di kota-kota yang jatuh di [GlassWorld]</li>
+    <li>Digression_subject-> Kehidupan singkat orang-orang miskin [Indworld]</li>
+    <li>Digression_subject-> Adaptasi Hi-Ruin Scavengers di Post [WorldName] -War Urbworlds</li>
+    <li>Digression_subject-> Barter Neutroamine di Skyrippers yang kaya di [Coreworld]</li>-><li>Digression_subject-> cinta dan perang</li>
+    <li>Digression_subject-> perbedaan politik yang tak ada habisnya dan setiap kali lebih kecil</li>
+    <li>Subjek Digression-> Kecenderungan Gastronomi Dunia yang Cemerlang</li>
+    <li>Digression_subject-> Pasar mode [AnimalWorld] dan [UrbWorld]</li>
+    <li>Digression_subject-> Gosip memfitnah pada penggunaan umum penambah cinta</li>
+    <li>Digression_subject-> ketentuan militer dari armada [glitterworld] seabad yang lalu</li>
+    <li>Digression_subject-> Hubungan misterius Dunia Tengah dengan lubang hitam supermasif</li>
+    <li>Digression_subject-> The Dead World of [Deadworld] dan desas-desus tentang takdirnya</li>
+    <li>Digression_subject-> Varian spesies di planet dinosaurus [Dinoworld]]</li>
+    <li>Digression_subject-> Pengalaman feodalisme di [feodalworld]</li>
+    <li>Digression_subject-> Kurangnya mikroba di kota-kota jatuh di [GlassWorld]</li>
+    <li>Digression_subject-> Kehidupan singkat dari miskin [Indworld]</li>
+    <li>Digression_subject-> Adaptasi para sarjana kehancuran di dunia perkotaan [WorldName] pascaperang</li>
+    <li>Digression_subject-> Barter neutroamine di menara mengambang yang kaya di [Coreworld]</li>
+    <!-- EN: 
+    <li>Aftermath-> Halaman-halaman tersebut mengkomunikasikan tidak lebih dari cerita [Penulis]</li>
+    <li>Aftermath-> A [note] di tangan yang berbeda mengatakan bahwa [penulis] terakhir terlihat menuju [Deathworld]</li>
+    <li>Aftermath-> Halaman robek di sini</li>
+    <li>Aftermath-> Daunnya dihiasi dengan noda coklat</li>
+    <li>Aftermath-> Meskipun petualangan [anypawn_possessive], [anypawn_pronoun] berhasil membuat skema ini</li>
+    <li>Aftermath-> [anypawn_pronoun] Disedihkan [anypawn_possessive] bertahun-tahun terakhir untuk skema ini</li>
+    <li>Aftermath-> Nanti, [anypawn_pronoun] menemukan kedamaian dalam pekerjaan ini.[subjek_chat]</li>
+    <li>Aftermath-> [anypawn_possessive] cerita berakhir di sini, dengan deskripsi teknis [anypawn_possessive] bekerja di [WorldName].[subjek_chat]</li>-><li>AfterMat-> halaman tidak mengomunikasikan hal lain dalam sejarah [tayang]</li>
+    <li>AfterMat-> A [note] yang ditulis oleh orang lain mengatakan bahwa [TheAuthor] terakhir terlihat ke arah [Deathworld]</li>
+    <li>AfterMat-> Ada beberapa halaman yang dimulai</li>
+    <li>AfterMat-> Daunnya disiram dengan bintik-bintik coklat</li>
+    <li>Aftermat-> Terlepas dari petualangannya, ia berhasil membuat skema ini</li>
+    <li>AfterMat-> Dedikasikan tahun-tahun terakhirnya untuk skema ini</li>
+    <li>Aftermat-> Nantinya, ia menemukan kedamaian dalam pekerjaan ini.[Subjek_chat]</li>
+    <li>Aftermat-> Kisahnya berakhir di sini, dengan deskripsi teknis tentang karyanya di [WorldName].[Subjek_chat]</li>
+    <!-- EN: 
+    <li>Subject_chat-> Karya [penulis] membuktikan [anypawn_objective] otoritatif pada [subjek]</li>
+    <li>Subject_chat-> beberapa perselisihan temuan dalam dokumen [subjek] ini</li>
+    <li>Subject_chat-> Dokumen ini akan menjadi inspiratif bagi siapa pun yang tertarik pada [subjek]</li>
+    <li>Subject_chat-> Meskipun diagram pudar, pelajaran [penulis] tentang [subjek] berharga</li>-><li>Subject_chat-> la work [oftheauthor] [anypawn_objective] percaya sebagai otoridad tentang [subjek]</li>
+    <li>Subjek_chat-> sedikit membahas kesimpulan dari dokumen ini tentang [subjek]</li>
+    <li>Subject_chat-> Dokumen ini akan menginspirasi siapa pun yang tertarik pada [subjek]</li>
+    <li>Subject_chat-> Meskipun diagramnya berubah warna, pelajaran [dari theaThor] tentang [subjek] sangat berharga</li>
+    <!-- EN:
+    <li>authortitle-> penulis</li>
+    <li>authortitle-> Scribe</li>
+    <li>Authortitle-> Writer</li>-><li>Theunamedauthor (anypawn_gender! = Wanita)-> penulis anonim</li>
+    <li>Theunamedauthor (anypawn_gender == betina)-> penulis anonim</li>
+    <li>Theunamedauthor (anypawn_gender! = Wanita)-> The Anonymous Writer</li>
+    <li>Theunamedauthor (anypawn_gender == wanita)-> The Anonymous Writer</li>
+    <li>Theunamedauthor (anypawn_gender! = Wanita)-> juru tulis anonim</li>
+    <li>Theunamedauthor (anypawn_gender == betina)-> The Anonymous Scribe</li>
+    <!-- EN: 
+    <li>Linkage-> Ini menginspirasi [anypawn_objective] dan [anypawn_pronoun]</li>
+    <li>Linkage-> Ini terbukti berguna nanti saat [anypawn_pronoun]</li>
+    <li>Linkage-> Menggunakan Pengetahuan ini, [AnyPawn_Pronoun]</li>
+    <li>Linkage-> [anypawn_pronoun] menemukan ini berguna saat [anypawn_pronoun]</li>
+    <li>Linkage-> Itulah sebabnya [anypawn_pronoun]</li>
+    <li>Linkage-> di [WorldName], [anypawn_pronoun] menggunakan wawasan [anypawn_possessive] dan</li>
+    <li>Linkage-> Untuk menguasainya, [anypawn_pronoun] melakukan perjalanan ke [WorldName] di mana [anypawn_pronoun]</li>-><li>Tautan-> ini [anypawn_objective] terinspirasi dan</li>
+    <li>Linkage-> Ini berguna nanti saat</li>
+    <li>Linkage-> Menggunakan Pengetahuan ini,</li>
+    <li>Tautan-> menemukan ini berguna saat</li>
+    <li>Tautan-> sebagai hasilnya,</li>
+    <li>Tautan-> di [WorldName], ia menggunakan wawasannya dan</li>
+    <li>Linkage-> Untuk mendominasi dia, ia melakukan perjalanan ke [WorldName] di mana [anypawn_pronoun]</li>
+    <!-- EN: 
+    <li>notable_adjective-> terkenal</li>
+    <li>notable_adjective-> tidak jelas</li>
+    <li>notable_adjective-> ikon</li>
+    <li>notable_adjective-> classic</li>
+    <li>notable_adjective-> Common</li>
+    <li>notable_adjective-> familier</li>
+    <li>negatif_adjective-> Rudimentary</li>
+    <li>negatif_adjective-> sederhana</li>
+    <li>negatif_adjective-> primitif</li>
+    <li>negatif_adjective-> biasa-biasa saja</li>
+    <li>negatif_adjective-> tidak akurat</li>
+    <li>negatif_adjective-> kurang</li>
+    <li>Penampilan (p = 3)-> [Phys_desc]</li>
+    <li>Penampilan-> [nonfys_desc]</li>-><li>notable_adjective-> famoso</li>
+    <li>notable_adjective-> oscuro</li>
+    <li>notable_adjective-> ikon</li>
+    <li>notable_adjective-> clásico</li>
+    <li>notable_adjective-> kebiasaan</li>
+    <li>notable_adjective-> familier</li>
+    <li>negatif_adjective-> rudimentario</li>
+    <li>kata sifat negatif-> sederhana</li>
+    <li>negatif_adjective-> incompetente</li>
+    <li>negatif_adjective-> biasa-biasa saja</li>
+    <li>negatif_adjective-> extacto</li>
+    <li>kata sifat negatif-> dinonaktifkan</li>
+    <li>Penampilan (p = 3)-> [Phys_desc]</li>
+    <li>Penampilan-> [nonfys_desc]</li>
+    <!-- EN: 
+    <li>phys_desc (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> [fisik_yet_statement]</li>
+    <li>phys_desc (kualitas [less_than] 4)-> [negatif_physical_statement1]</li>
+    <li>phys_desc (kualitas [Greater_than] 3)-> [Positive_Physical_Statement1]</li>
+    <li>phys_desc (p = 2)-> [Fisik_Yet_Statement]</li>
+    <li>phys_desc (kualitas [less_than] 3)-> dokumen ini [badsmells] dari [stink]</li>
+    <li>phys_desc (kualitas [Greater_than] 4)-> dokumen ini [bau] dari [aroma]</li>
+    <li>nonfys_desc-> [Otherwordly_nonphys_desc]</li>
+    <li>nonfys_desc-> [Technical_nonphys_desc]</li>
+    <li>nonfys_desc-> [Academic_nonphys_desc]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [negatif_physical_statement1] tetapi [positif_physical_statement2]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [Positive_Physical_Statement1] tetapi [negatif_physical_statement2]</li>
+    <li>Fisik_yet_Statement (kualitas [lebih besar_than] 4)-> [positif_physical_statement1] dan [positif_physical_statement2]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 2)-> [negatif_physical_statement1].Juga, [negatif_physical_statement2]</li>-><li>phys_desc (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> [fisik_yet_statement]</li>
+    <li>phys_desc (kualitas [less_than] 4)-> [negatif_physical_statement1]</li>
+    <li>phys_desc (kualitas [Greater_than] 3)-> [Positive_Physical_Statement1]</li>
+    <li>phys_desc (p = 2)-> [Fisik_Yet_Statement]</li>
+    <li>phys_desc (kualitas [less_than] 3)-> este documento [badsmells] a [bau]</li>
+    <li>phys_desc (kualitas [Greater_than] 4)-> este documento [bau] [aroma]</li>
+    <li>nonfys_desc-> [Otherwordly_nonphys_desc]</li>
+    <li>nonfys_desc-> [Technical_nonphys_desc]</li>
+    <li>nonfys_desc-> [Academic_nonphys_desc]</li>
+    <li>Fisik_yet_Statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [negatif_physical_statement1], pero [positif_physical_statement2]</li>
+    <li>Fisik_yet_Statement (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> [Positive_Physical_Statement1], pero [negatif_physical_statement2]</li>
+    <li>Fisik_yet_Statement (kualitas [lebih besar_than] 4)-> [Positive_Physical_Statement1] y [positif_physical_statement2]</li>
+    <li>Fisik_yet_statement (kualitas [Less_than] 2)-> [negatif_physical_statement1].Además, [negatif_physical_statement2]</li>
+    <li>negatif_physical_statement-> [negatif_physical_statement1]</li>
+    <li>negatif_physical_statement-> [negatif_physical_statement2]</li>
+    <li>negatif_physical_statement1-> goresan tidak beraturan merusak penutup kulit</li>
+    <li>negatif_physical_statement1-> salah satu siswa [dari tayang] menandatangani lembar pertama</li>
+    <li>negatif_physical_statement1-> minuman keras asam menutupinya</li>
+    <li>negatif_physical_statement2-> tongkat penutup yang memburuk ke tangan pembaca</li>
+    <li>negatif_physical_statement2-> Cacing telah ditempatkan di bawah tutupnya dan lalat berkibar saat Anda membuka buku</li>
+    <li>negatif_physical_statement2-> halaman tampaknya ditulis dalam perkamen yang hancur</li>
+    <li>negatif_physical_statement2-> halaman jenuh dengan tinta merah</li>
+    <li>positif_physical_statement-> [positif_physical_statement1]</li>
+    <li>positif_physical_statement-> [positif_physical_statement2]</li>
+    <li>Positive_physical_statement1-> Interior halamannya sempurna</li>
+    <li>Positive_physical_statement1-> halaman terdiri dari halus yang berasal dari plastiacero</li>
+    <li>Positive_physical_statement1-> Setiap halaman dibentuk oleh struktur fleksibel yang mirip dengan berlian</li>
+    <li>positif_physical_statement1-> panas untuk disentuh</li>
+    <li>positif_physical_statement2-> membawa tanda editorial yang dihormati dari dunia tengah: "Skema [Coreworld]"</li>
+    <li>positif_physical_statement2-> tepi halaman belum dipotong</li>
+    <li>POSIMASI_PHYSIAL_STATEMENTER2-> Plastik semi-terhormat bersinar di permukaannya</li>
+    <li>Otherwordly_nonphys_desc-> Memegang skema [OphTheauthor], Room Swam</li>
+    <li>Otherwordly_nonphys_desc-> hanya melihat skema menyakiti kepala pembaca</li>
+    <li>Otherwordly_nonphys_desc-> Melihat skema, rune tampaknya bergerak di tepi mata pembaca</li>
+    <li>Otherwordly_nonphys_desc-> Whispers memanjang di sekitar skema [Oftheauthor].</li>
+    <li>lain kata-kata_nonphys_desc-> skema [dari theauthor] membawa jejak psikis dari sesuatu yang tidak mungkin tua</li>
+    <li>Technical_nonphys_desc-> Kompleksitas skema berada di luar rata-rata pembaca</li>
+    <li>Technical_nonphys_desc-> Notasinya tidak biasa, diekstraksi dari dialek Diablino yang sudah punah</li>
+    <li>Technical_nonphys_desc-> Threads bepergian ke halaman skema, meskipun perangkat hampir tidak digunakan</li>
+    <li>Technical_nonphys_desc-> [Theauthor] menjelaskan mekanisme yang sama dalam tiga bahasa yang berbeda</li>
+    <li>Academic_nonphys_desc-> Skema ini [OpHTheauthor] didedikasikan untuk tutor yang [anypawn_objective] terinspirasi</li>
+    <li>Academic_nonphys_desc-> Dokumen ini [OftheAuthor] membawa perisai lembaga yang [anypawn_objective] telah disponsori</li>
+    <li>Badsmells-> berbau intens</li>
+    <li>Badsmells-> memiliki bau busuk</li>
+    <li>Badsmells-> sedikit berbau</li>
+    <li>Badsmells-> bau</li>
+    <li>Badsmells-> berbau tidak enak</li>
+    <li>Bau> lendir mayat</li>
+    <li>bau> sulfur dan telur busuk</li>
+    <li>Bau> kematian yang lambat dan lama</li>
+    <li>Bau> sesuatu yang mirip dengan keringat yttakin</li>
+    <li>Stink-> Scora Breath</li>
+    <li>Bau> kostum hussar</li>
+    <li>Bau-> memiliki aroma yang memabukkan</li>
+    <li>Bau-> bau</li>
+    <li>Bau-> memiliki parfum</li>
+    <li>Bau-> memiliki aroma</li>
+    <li>Scent-> Mosto, seperti bagian bawah tong anggur</li>
+    <li>Scent-> Succubus feromon</li>
+    <li>aroma-> incienso</li>
+    <li>Scent-> Sádalo</li>
+    <li>Aroma-> Jugo Dulce de Boomrat</li>
+    <li>scent->especias de mundobrilante</li>
+    <li>Aroma-> biji gauranlen segar</li>
+    <li>konjungsi-> y</li>
+    <li>konjungsi-> pero</li>
+    <li>konjungsi-> aún</li>
+    <li>konjungsi-> aunque</li>
+    <li>Konjungsi-> selain</li>
+    <li>Konjungsi->.Di samping itu,</li>
+    <li>Oftheauthor (anypawn_gender! = Wanita, p = 4)-> del autor</li>
+    <li>Oftheauthor (anypawn_gender == betina, p = 4)-> de la autora</li>
+    <li>Oftheauthor (anypawn_gender! = Wanita, p = 4)-> del escritor</li>
+    <li>OpHTheauthor (anypawn_gender == betina, p = 4)-> dari penulis</li>
+    <li>Ophtheauthor (anypaown_gender! = Wanita)-> dari juru tulis</li>
+    <li>Ophtheauthor (anypawn_gender == betina)-> dari juru tulis</li>
+    <li>Oftheauthor (anypawn_gender! = Wanita)-> Del Inventor</li>
+    <li>Ophtheauthor (anypawn_gender == betina)-> dari penemu</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari pencipta</li>
+    <li>Ophtheauthor (anypawn_gender == betina)-> dari pencipta</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita, p = 2)-> dari pengembang</li>
+    <li>OpHTheauthor (anypawn_gender == betina, p = 2)-> dari pengembang</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita, p = 4)-> dari perancang</li>
+    <li>OpHTheauthor (anypawn_gender == betina, p = 4)-> dari perancang</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari insinyur</li>
+    <li>Ophtheauthor (anypawn_gender == betina)-> dari insinyur</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari arsitek</li>
+    <li>Ophtheauthor (anypawn_gender == betina)-> dari arsitek</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari spesialis</li>
+    <li>Ophtheauthor (anypawn_gender == wanita)-> dari spesialis</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari teknisi</li>
+    <li>Ophtheauthor (anypawn_gender == wanita)-> dari teknisi</li>
+    <li>Oftheauthor (anypawn_gender! = Wanita)-> del Experto</li>
+    <li>Ophtheauthor (anypawn_gender == wanita)-> dari ahli</li>
+    <li>Ophtheauthor (anypawn_gender! = Wanita)-> dari pengrajin</li>
+    <li>Ophtheauthor (anypawn_gender == wanita)-> dari pengrajin</li>
+    <li>Theauthor (anypawn_gender! = wanita, p = 4)-> el autor</li>
+    <li>Theauthor (anypawn_gender == betina, p = 4)-> la autora</li>
+    <li>Theauthor (anypawn_gender! = wanita, p = 4)-> el escritor</li>
+    <li>Theauthor (anypawn_gender == betina, p = 4)-> la escritora</li>
+    <li>TheAuthor (anypawn_gender! = Wanita)-> juru tulis</li>
+    <li>Theauthor (anypawn_gender == betina)-> tulis</li>
+    <li>TheAuthor (anypawn_gender! = wanita)-> EL Inventor</li>
+    <li>Theauthor (anypawn_gender == wanita)-> la inventora</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> Pencipta</li>
+    <li>Theauthor (anypawn_gender == betina)-> Pencipta</li>
+    <li>Theauthor (anypawn_gender! = Wanita, p = 2)-> pengembang</li>
+    <li>Theauthor (anypawn_gender == betina, p = 2)-> pengembang</li>
+    <li>Theauthor (anypawn_gender! = Wanita, p = 4)-> perancang</li>
+    <li>Theauthor (anypawn_gender == betina, p = 4)-> perancang</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> insinyur</li>
+    <li>Theauthor (anypawn_gender == betina)-> insinyur</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> arsitek</li>
+    <li>Theauthor (anypawn_gender == wanita)-> la artífice</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> spesialis</li>
+    <li>Theauthor (anypawn_gender == wanita)-> spesialis</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> Teknisi</li>
+    <li>Theauthor (anypawn_gender == betina)-> Teknisi</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> ahli</li>
+    <li>Theauthor (anypawn_gender == wanita)-> la inhorsa</li>
+    <li>Theauthor (anypawn_gender! = Wanita)-> The Artisan</li>
+    <li>Theauthor (anypawn_gender == wanita)-> The Artisan</li>
+    <!-- EN: 
+    <li>anauthordesc (p = 2)-> a</li>
+    <li>anauthordesc-> A Young</li>
+    <li>anauthordesc-> seorang tua</li>
+    <li>anauthordesc-> a ketakutan</li>
+    <li>anauthordesc-> sedih</li>
+    <li>anauthordesc-> seorang lansia</li>
+    <li>anauthordesc-> A Wise</li>
+    <li>anauthordesc-> headstrong</li>
+    <li>anauthordesc-> a bodoh</li>
+    <li>anauthordesc-> seorang tidak bersalah</li>
+    <li>anauthordesc-> A GERAK</li>
+    <li>anauthordesc-> sebuah eldritch</li>
+    <li>anauthordesc-> seorang keterlaluan</li>
+    <li>anauthordesc-> sebuah pola dasar</li>
+    <li>anauthordesc-> a boring</li>
+    <li>anauthordesc-> A crazed</li>
+    <li>anauthordesc-> seorang tidak bermoral</li>
+    <li>anauthordesc-> moral</li>
+    <li>anauthordesc-> an amoral</li>
+    <li>anauthordesc-> a shadowy</li>-><!-- EN: 
+    <li>anauthordesc (p = 2)-> un</li>
+    <li>Anauthordesc-> seorang pria muda</li>
+    <li>Anauthordesc-> seorang lelaki tua</li>
+    <li>Anauthordesc-> a ketakutan</li>
+    <li>Anauthordesc-> Sad</li>
+    <li>Anauthordesc-> seorang lelaki tua</li>
+    <li>Anauthordesc-> A Wise</li>
+    <li>Anauthordesc-> seorang keras kepala</li>
+    <li>Anauthordesc-> orang bodoh</li>
+    <li>Anauthordesc-> seorang tidak bersalah</li>
+    <li>Anauthordesc-> A GERAK</li>
+    <li>anauthordesc-> un eldritch</li>
+    <li>Anauthordesc-> skandal</li>
+    <li>Anauthordesc-> sebuah pola dasar</li>
+    <li>Anauthordesc-> a boring</li>
+    <li>Anauthordesc-> orang gila</li>
+    <li>anauthordesc-> seorang tidak bermoral</li>
+    <li>anauthordesc-> un moral</li>
+    <li>anauthordesc-> un amoral</li>
+    <li>Anauthordesc-> a dark</li>-><li>WorldName-> [GlitterWorld]</li>
+    <li>WorldName-> [UrbWorld]</li>
+    <li>WorldName-> [Deadworld]</li>
+    <li>WorldName-> [Shellworld]</li>
+    <li>WorldName-> [RuinWorld]</li>
+    <li>WorldName-> [MedievalWorld]</li>
+    <li>WorldName-> [Steamworld]</li>
+    <li>WorldName-> [Midworld]</li>
+    <li>WorldName-> [RimWorld]</li>
+    <li>WorldName-> [Coreworld]</li>
+    <li>WorldName-> [ToxicWorld]</li>
+    <li>WorldName-> [GlassWorld]</li>
+    <li>WorldName-> [TranscendentWorld]</li>
+    <li>WorldName-> [Indworld]</li>
+    <li>WorldName-> [PrisonWorld]</li>
+    <li>WorldName-> [FeudalWorld]</li>
+    <li>WorldName-> [TrashWorld]</li>
+    <li>WorldName-> [Iceworld]</li>
+    <li>WorldName-> [Dinoworld]</li>
+    <li>WorldName-> [Warworld]</li>
+    <li>WorldName-> [OceanicWorld]</li>
+    <li>WorldName-> [Mineworld]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>WorldName-> [Asteroid]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>Feralworld-> [AnimalWorld]</li>
+    <li>Milworld-> [Warworld]</li>
+    <li>Animalworld-> Sorne</li>
+    <li>AnimalWorld-> Rhydell</li>
+    <li>Animalworld-> Zoutera</li>
+    <li>Animalworld-> tylacine</li>
+    <li>Animalworld-> Mereka</li>
+    <li>Animorld-> The World of Steller</li>
+    <li>Animalworld-> Auktion</li>
+    <li>asteroid-> iwamura</li>
+    <li>asteroid-> atura</li>
+    <li>Asteroid-> retusins</li>
+    <li>asteroid-> ranomi</li>
+    <li>Asteroid-> Aesh 265</li>
+    <li>Asteroid-> Taxlos</li>
+    <li>Asteroid-> Aryn Sigma</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> lutuni</li>
+    <li>Coreworld-> Zeglar</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> Cormora Prime</li>
+    <li>Coreworld-> Glossolia</li>
+    <li>Coreworld-> Barbaros</li>
+    <li>deadworld-> callos ix</li>
+    <li>deadworld-> haspia</li>
+    <li>Deadworld-> Gost IV</li>
+    <li>Deadworld-> Berimund</li>
+    <li>Deadord-> Order</li>
+    <li>Deadworld-> Kremhild</li>
+    <li>Deadworld-> Melisandz</li>
+    <li>deathworld-> creticon</li>
+    <li>Diaāneblds-> zatza</li>
+    <li>Diaānebldlld-> rayth</li>
+    <li>Diaānebldlld-> spectra</li>
+    <li>Diaānebldlld-> jnovaex</li>
+    <li>Deathworld-> Carthago</li>
+    <li>Diaewld-> grimcore</li>
+    <li>DINOWORLD-> OUBANYEN</li>
+    <li>DINOWORLD-> ZOUTERA</li>
+    <li>DINOWORLD-> EINIO</li>
+    <li>DINOWORLD-> Baryonyx</li>
+    <li>DINOWORLD-> N'CILO</li>
+    <li>DINOWORLD-> Venator</li>
+    <li>DINOWORLD-> Brach</li>
+    <li>Feudalworld-> Aracena VI</li>
+    <li>trydleworld-> nuchus</li>
+    <li>feudalworld-> filson</li>
+    <li>feodalworld-> fieth</li>
+    <li>FeudalWorld-> Bloch Regis</li>
+    <li>feodalworld-> carlosphere</li>
+    <li>Feudalworld-> Magna Dijou</li>
+    <li>Glassworld-> ceti in</li>
+    <li>glassworld-> thebes xiv</li>
+    <li>glassworld-> naga</li>
+    <li>Glassworld-> Merv</li>
+    <li>glassworld-> Perse</li>
+    <li>glassworld-> shechem</li>
+    <li>glassworld-> yelhazor</li>
+    <li>Glitterworld-> Kalthas IV</li>
+    <li>glitterworld-> amen-ti</li>
+    <li>glitterworld-> Sophiamunda</li>
+    <li>glitterworld-> rogia</li>
+    <li>glitterworld-> utmaior</li>
+    <li>glitterworld-> Caspian</li>
+    <li>glitterworld-> Kenerella</li>
+    <li>iceworld-> yttak</li>
+    <li>iceworld-> dedchenko</li>
+    <li>iceworld-> Baltoro</li>
+    <li>Iceworld-> furtwale</li>
+    <li>iceworld-> jaqua</li>
+    <li>Iceworld-> Christensen</li>
+    <li>iceworld-> Barnes</li>
+    <li>INDWORLD-> IRITHIR</li>
+    <li>BERDIAKAN-> CHINA BARU</li>
+    <li>INDWORLD-> HUDDERS</li>
+    <li>BERDIRI-> IVER</li>
+    <li>INDWORLD-> ACHESTA</li>
+    <li>BERDIRI-> OODS</li>
+    <li>INDWORLD-> ILADELF</li>
+    <li>Abad Pertengahan-> Chelis</li>
+    <li>Abad Pertengahan-> Winna</li>
+    <li>Abad Pertengahan-> Cassone</li>
+    <li>Abad Pertengahan-> Jork</li>
+    <li>Abad Pertengahan-> Cochmar</li>
+    <li>Dunia Abad Pertengahan-> Alien</li>
+    <li>Abad Pertengahan-> Dubrognago</li>
+    <li>Midworld-> Darleyeria</li>
+    <li>Midworld-> Elsin</li>
+    <li>Midworld-> Haihan</li>
+    <li>Midworld-> Seolure</li>
+    <li>Midworld-> Bank</li>
+    <li>Midworld-> New London ini</li>
+    <li>Midavarld-> San Delendi</li>
+    <li>mineworld-> xanides</li>
+    <li>Mineworld-> Bingham</li>
+    <li>Mineworld-> Saarh</li>
+    <li>mineworld->Grasbeg</li>
+    <li>Mineworld-> Chuqui</li>
+    <li>Mineworld-> Olimpiade</li>
+    <li>mineworld-> orme</li>
+    <li>Oceanicworld-> Wavia</li>
+    <li>Oceanicworld-> dari kolam</li>
+    <li>Oceanicworld-> Gichen</li>
+    <li>Oceanicworld-> port yam</li>
+    <li>Oceanicworld-> Baia</li>
+    <li>Oceanicworld-> Thonis</li>
+    <li>Oceanicworld-> moaui</li>
+    <li>PRIVERWORLD-> YTTAK</li>
+    <li>PRIVERWORLD-> ALDGATE</li>
+    <li>Prisonworld> Bor</li>
+    <li>penjara-> hoalo</li>
+    <li>PrisonWorld-> Casmina</li>
+    <li>PrisonWorld-> Port Basil</li>
+    <li>Penjaraworld-> chateau d'ouen</li>
+    <li>rimworld-> filson</li>
+    <li>rimworld-> The Big</li>
+    <li>Rimworld-> slab</li>
+    <li>Rimworld-> Twig Falls</li>
+    <li>rimworld-> boise tua</li>
+    <li>Rimworld-> Diablo Puerta</li>
+    <li>rimworld-> laramiere</li>
+    <li>Ruinworld-> Bumi</li>
+    <li>Ruinworld-> Izaba</li>
+    <li>Ruinworld-> xennoa</li>
+    <li>Ruinworld-> pichu</li>
+    <li>Ruinworld-> Lost</li>
+    <li>Ruinworld-> Hisarlik</li>
+    <li>Ruinworld-> Sound</li>
+    <li>shellworld-> boccocarro</li>
+    <li>Shellworld-> Destria</li>
+    <li>shellworld-> trofik</li>
+    <li>shellworld-> matrio</li>
+    <li>Shellworld-> bersama</li>
+    <li>shellworld-> xinthia</li>
+    <li>Shellworld-> Connect</li>
+    <li>Steamworld-> Corliss</li>
+    <li>Steamworld-> Borassic</li>
+    <li>Steamworld-> Savery II</li>
+    <li>Steamworld-> heron</li>
+    <li>Steamworld-> Malmesburi</li>
+    <li>Steamworld-> Architonnerre</li>
+    <li>Steamworld-> pelepasan</li>
+    <li>Toxicworld> scyla</li>
+    <li>Toxicworld-> Mauro</li>
+    <li>Toxicworld-> Cerospor</li>
+    <li>Toxicworld-> Oxy VI</li>
+    <li>Toxicworld-> Sangwine</li>
+    <li>Toxicworld-> Soleno</li>
+    <li>Toxicworld-> imbatus</li>
+    <li>Transcendentworld-> xaroh</li>
+    <li>TranscendentWorld-> Immanence VI</li>
+    <li>TranscendentWorld-> Qabba</li>
+    <li>transcendentworld-> einsof</li>
+    <li>Transcendentworld-> mitvo</li>
+    <li>TranscendentWorld-> Samydi</li>
+    <li>TranscendentWorld-> Samsarr</li>
+    <li>TrashWorld-> Bagua 5</li>
+    <li>TrashWorld-> Puobell</li>
+    <li>trashworld-> fever ix</li>
+    <li>TrashWorld-> Garbsh</li>
+    <li>trashworld-> tra'age</li>
+    <li>Trashworld-> repsy</li>
+    <li>trashworld-> mystras</li>
+    <li>urbworld-> euterpe</li>
+    <li>UrbWorld-> Avenna</li>
+    <li>Urbworld-> Essalon</li>
+    <li>UrbWorld-> ENKED</li>
+    <li>Urbworld-> Adocia</li>
+    <li>Urbworld-> n'toch</li>
+    <li>UrbWorld-> Barca</li>
+    <li>Warworld-> Kimia</li>
+    <li>Warworld-> old</li>
+    <li>Warworld-> Samnium</li>
+    <li>Warworld-> Kyrus</li>
+    <li>Warworld-> Punica</li>
+    <li>Wryworld-> Cimbria HI</li>
+    <li>Warworld-> Barkitos</li>
+    <li>schematic_container-> manual</li>
+    <li>schematic_container-> compendio</li>
+    <li>schematic_container-> archivo</li>
+    <li>schematic_container-> portafolio</li>
+    <li>schematic_container-> folleto</li>
+    <li>schematic_container-> Envoltorio</li>
+    <li>schematic_container-> soporte</li>
+    <li>schematic_container-> lote</li>
+    <li>schematic_container-> expediente</li>
+    <li>schematic_container-> paquete</li>
+    <li>schematic_container-> Baúl</li>
+    <li>schematic_container-> contenedor</li>
+    <li>fisik_adjective-> mugriento</li>
+    <li>Fisik_adjective-> kecil</li>
+    <li>Fisik_adjective-> merah</li>
+    <li>fisik_adjective-> everorme</li>
+    <li>fisik_adjective-> elegante</li>
+    <li>fisik_adjective-> sederhana</li>
+    <li>fisik_adjective-> nuevo</li>
+    <li>Kata sifat fisik-> halus</li>
+    <li>fisik_adjective-> antiguo</li>
+    <li>Kata sifat fisik-> ditinggalkan</li>
+    <li>Fisik_adjective-> rusak</li>
+    <li>Kata sifat fisik-> usang</li>
+    <li>fisik_adjective-> Deformado</li>
+    <li>fisik_adjective-> arcaico</li>
+    <li>fisik_adjective-> grasiento</li>
+    <li>fisik_adjective-> Abrasador</li>
+    <li>fisik_adjective-> sengsara</li>
+    <li>fisik_adjective-> leñoso</li>
+    <li>fisik_adjective-> espinoso</li>
+    <li>Fisik_adjective-> chamuscado</li>
+    <li>fisik_adjective-> suave</li>
+    <li>Kata sifat fisik-> pedesaan</li>
+    <li>fisik_adjective-> functional</li>
+    <li>fisik_adjective-> obsoleto</li>
+    <li>fisik_adjective-> desconcertante</li>
+    <li>fisik_adjective-> precioso</li>
+    <li>Show_synonym_beb-> [show_synonym_beb1]</li>
+    <li>show_synonym_verb-> [show_synonym_verb2]</li>
+    <li>Menunjukkan Sinonim Kata kerja 1-> mewakili</li>
+    <li>Show_synonym_bverb1-> retata</li>
+    <li>show_synonym_verb1-> presenta</li>
+    <li>Show_synonym_bverb1-> ostenta</li>
+    <li>show_synonym_verb1-> visualiza</li>
+    <li>show_synonym_verb2-> evidencia</li>
+    <li>show_synonym_verb2-> perfila</li>
+    <li>Menunjukkan Sinonim Kata Kerja 2-> Constanta</li>
+    <li>contil_verb-> Keep</li>
+    <li>contil_verb-> memiliki</li>
+    <li>contil_verb-> contenga</li>
+    <li>contil_verb-> simpan</li>
+    <li>contil_verb-> termasuk</li>
+    <li>contil_verb1-> memelihara</li>
+    <li>contil_verb1-> memiliki</li>
+    <li>contain_verb1-> berisi</li>
+    <li>contil_verb1-> penjaga</li>
+    <li>contil_verb1-> termasuk</li>
+    <li>schematic_synonym-> esquema</li>
+    <li>schematic_synonym-> modelo</li>
+    <li>schematic_synonym-> proyecto</li>
+    <li>schematic_synonym-> diseño</li>
+    <li>schematic_synonym-> prototipo</li>
+    <li>schematic_synonym-> estudio</li>
+    <li>schematic_synonym-> pliego</li>
+    <li>State_adjective-> draft a</li>
+    <li>state_adjective-> terminado</li>
+    <li>State_adjective-> Work Ongo</li>
+    <li>State_adjective-> selesai</li>
+    <li>Diagram_type-> diilustrasikan</li>
+    <li>Diagram_type-> Innerary</li>
+    <li>Diagram_type-> Diagrama</li>
+    <li>Diagram_type-> Plano</li>
+    <li>Diagram_type-> Infografis</li>
+    <li>Skema diagram_type-></li>
+    <li>Diagram_type-> Court</li>
+    <li>Diagram_type-> grafik</li>
+    <li>Diagram_type-> Organigrama</li>
+    <li>teori_synone_adj-> Teoría</li>
+    <li>teori_synonym_adj-> Concepto</li>
+    <li>Teori_synnonym_adj-adj-adj-adj</li>
+    <li>teori_synonym_adj-> hipótesis</li>
+    <li>teori_synonym_adj-> ide</li>
+    <li>device_synonym-> mecanismo</li>
+    <li>device_synonym-> dispositivo</li>
+    <li>device_synonym-> artificio</li>
+    <li>device_synonym-> invento</li>
+    <li>Device_synonym-> gadget</li>
+    <li>device_synonym-> aparato</li>
+    <li>device_synonym-> gadget</li>
+    <li>device_synonym-> accesorio</li>
+    <li>Device_synonym-> fashion</li>
+    <li>gambar_types-> foto</li>
+    <li>gambar_types-> gambar</li>
+    <li>Image_Types-> grabados</li>
+    <li>Image_Types-> Acuarelas</li>
+    <li>Gambar_types-> sketsa</li>
+    <li>Image_Types-> Bocetos</li>
+    <li>gambar_types-> kartun</li>
+    <li>Other_subject-> infraestructura</li>
+    <li>Other_subject-> Plantilla</li>
+    <li>Other_subject-> Komunikasi</li>
+    <li>Other_subject-> reperkusi</li>
+    <li>Other_subject-> Evaluasi</li>
+    <li>Other_subject-> Pembiayaan</li>
+    <li>Tanggal-> Skema ini diterbitkan [Date_Form]</li>
+    <li>Tanggal-> Skema dicetak untuk pertama kalinya [Date_Form]</li>
+    <li>Tanggal-> Tidak jelas persis kapan skema dibuat</li>
+    <li>Date_form-> baru-baru ini</li>
+    <li>Date_form-> berabad-abad yang lalu</li>
+    <li>date_form-> el [date]</li>
+    <li>date_form-> en [date_season]</li>
+    <li>Anypawn_o_a (anypawn_gender! = Wanita)-> o</li>
+    <li>Anypawn_o_a (anypawn_gender == betina)-> a</li>
+  </Description_Schematic.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Subjek-> [Subject_Primary]</li>
+    <li>desc-> [diskusi]. \ n \ n [anecdote].[Produksi]. \ dan \ n [Pernyataan Kualitas].</li>
+    <li>Diskusi-> Ini [Buku Teks] menyediakan [berguna_information] tentang [subjek] [detail]</li>
+    <li>Diskusi-> [Buku Teks] ini menetapkan otoritas penulis tentang masalah [subjek] [detail]</li>
+    <li>Diskusi-> Mereka yang mencari [pemahaman_synonym] [subjek] menuju ke [notable_adjective] ini [buku teks] [detail]</li>
+    <li>Diskusi-> [Buku Teks] standar pada [subjek] [Detail]</li>
+    <li>Diskusi-> Edisi awal [buku teks] penulis di [subjek] [detail]</li>
+    <li>Detail->.[Precis_synonym] berfokus pada aspek subjek yang lebih terampil</li>
+    <li>Detail->.Ini adalah [precis_synonim] yang ringkas dari subjek yang kompleks</li>
+    <li>Detail->.[Precis_synonym] mengatakan bahwa, ketika [anypawn_label] menulis ini, itu adalah ujung tombak di lapangan</li>
+    <li>Detail->.Kutipan pada [note_location] mengatakan, 'Benar [siswa] [subjek] tidak dapat mengabaikan buku [anypawn_label]'</li>
+    <li>Siswa-> Siswa</li>
+    <li>Siswa-> Pecinta</li>
+    <li>Siswa-> Praktisi</li>
+    <li>Detail->.Itu membawa Anda melalui subjek langkah demi langkah</li>
+    <li>Detail (kualitas [Less_than] 4)->, meskipun penulis bergegas melalui subjek</li>
+    <li>Detail (kualitas [GREATE_THAN] 3)->.Ini adalah perlakuan komprehensif subjek</li>
+    <li>Detail->.Penulis mengklaim dalam [anypawn_possessive] [precis_synonym] bahwa salinan penipuan buku ini ada tetapi ini bukan satu</li>
+    <li>detail (kualitas [less_than] 4)->, meskipun mungkin upaya untuk mengomunikasikan ide-idenya melalui dialog yang dibayangkan adalah kesalahan</li>
+    <li>Detail->.Retorika penulis di [precis_synonym] tidak mengalihkan perhatian dari konsep inti</li>
+    <li>produksi-> [precis_synonym] mengatakan bahwa ini dicetak dengan tangan di [WorldName]</li>
+    <li>produksi-> [precis_synonym] mengatakan bahwa Universitas [WorldName] menjadikan ini teks yang ditetapkan</li>
+    <li>produksi-> [precis_synonym] mengatakan bahwa, meskipun catatan ini dibuat untuk penggunaan pribadi [anypawn_label], mereka telah dibagikan secara luas</li>
+    <li>Produksi-> Bagian yang berguna dari [buku teks] ini disembunyikan di antara detail biografi</li>
+    <li>produksi-> tulisan tangan [note] pada [note_location] mengatakan bahwa rumah cetak [WorldName] ditutup setelah kerusuhan [WorldName], jadi edisi selanjutnya jarang</li>
+    <li>Produksi-> Sebuah [catatan] tertulis mengatakan bahwa sebagian besar salinan [buku teks] ini hilang selama insiden [WorldName]</li>
+    <li>Produksi-> [precis_synonym] memperjelas bahwa pembaca dengan pengetahuan tentang teknik diseminasi informasi Archotech cenderung menghindari seri [buku teks] ini - tetapi bukan mengapa</li>
+    <li>Produksi-> Dari [note_location], jelas bahwa [subjek] proselite [WorldName] menghabiskan salinan cetakan buku ini, dan kemudian membagikannya secara luas</li>
+    <li>produksi-> [note_location] menjelaskan bahwa salinan awal buku ini ditulis tangan oleh [anypawn_label] [anypawn_objective] self</li>
+    <li>produksi-> The Duchess of [WorldName] mensponsori [buku teks] ini, dengan kondisi yang tersedia secara bebas</li>
+    <li>Produksi-> Catatan mengatakan bahwa berlangganan penjual buku [Coreworld] menghasilkan edisi pertama [buku teks] ini</li>
+    <li>produksi-> Di belakang buku, penerbit mengiklankan seri yang lebih besar yang menangani semua subjek yang diperlukan untuk bertahan hidup di tepi</li>
+    <li>Produksi-> Penerbit mungkin bisa lebih jujur dalam tugas editorial mereka, mengingat tata bahasa yang ceroboh</li>
+    <li>Quality_Statement-> [Exterior_Quality] [page_quality]</li>
+    <li>anecdote-> Mengingat kesenjangan besar antara tahun kelahiran [anypawn_namefull] dan tanggal publikasi buku ini, tidak mungkin [anypawn_pronoun] hidup untuk melihat ini diterbitkan ini diterbitkan</li>
+    <li>anecdote-> di [note_location], seseorang telah menempelkan ulasan buku yang sangat besar</li>
+    <li>anecdote-> [precis_synonym] menunjukkan bahwa buku ini melewati sistem perpustakaan umum [urbworld]</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_namefull] dikenal sebagai master banyak subjek</li>
+    <li>anecdote-> Menurut [note_location], orang-orang [WorldName] masih berbicara tentang [anypawn_namefull] dan mengenang tentang [anypawn_possessive] cinta [subjek]</li>
+    <li>anecdote-> Menurut [note_location], kecelakaan keterikatan aneh membunuh penulis, [anypawn_namefull], tak lama setelah publikasi</li>
+    <li>anecdote-> Menurut [precis_synonym], [anypawn_namefull] menghabiskan [anypawn_possessive] hari-hari mengajar di akademi di [Coreworld].Buku ini diambil dari kuliah [anypawn_possessive]</li>
+    <li>anecdote-> Menurut pengetahuan [precis_synonym], [anypawn_namefull] tentang [subjek] sangat terkenal sehingga orang akan berhenti [anypawn_objective] di jalan untuk mempertanyakan [anypawn_objective] tentang hal itu</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_namefull] miskin dan menjual hak atas seri ini dengan sangat sedikit</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_namefull] buta sejak lahir, jadi tidak pernah melihat buku [anypawn_possessive]</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_namefull] draft pertama buku teks ini secara terkenal menampilkan lima puluh halaman digresi.Itu dipotong untuk edisi kedua</li>
+    <li>anecdote-> Menurut reputasi [note_location], [anypawn_namefull] sangat mengerikan sehingga [anypawn_pronoun] menerbitkan buku ini dengan nama samaran</li>
+    <li>anecdote-> Menurut [note_location], sebagai seorang anak, [anypawn_namefull] sangat menganggur sehingga orang tua [anypawn_possessive] putus asa.Buku teks ini adalah pembenaran dari keterampilan [anypawn_possessive]</li>
+    <li>anecdote-> Menurut [precis_synonym], itu selama pernikahan keempat [anypawn_namefull] yang [anypawn_pronoun] dipahami dari buku teks tentang [subjek].(Ini mengarah ke perceraian keempat [anypawn_possessive]</li>
+    <li>Buku Teks-> Primer</li>
+    <li>Buku Teks-> Manual</li>
+    <li>Buku Teks-> Buku Teks</li>
+    <li>Buku Teks (P = 6)-> Buku</li>
+    <li>Buku Teks-> Buku Kerja</li>
+    <li>Buku Teks-> Buku Referensi</li>
+    <li>Buku Teks-> Kompendium</li>
+    <li>Buku Teks-> Buku Panduan</li>
+    <li>Buku Teks-> Buklet</li>
+    <li>Buku Teks-> Silabus</li>
+    <li>Buku Teks-> Buku Kursus</li>
+    <li>Buku Teks-> Buku Referensi</li>
+    <li>Buku Teks-> Buku Sekolah</li>
+    <li>Buku Teks-> Encyclopedia</li>
+    <li>Buku Teks-> Buku Pegangan</li>
+    <li>Buku Teks-> Buku dagang</li>
+    <li>Buku Teks-> Bekerja</li>
+    <li>Precis_synonym-> precise</li>
+    <li>precis_synonym-> frontispiece</li>
+    <li>precis_synonym-> abstrak</li>
+    <li>precis_synonym-> sinopsis</li>
+    <li>precis_synonym-> garis besar</li>
+    <li>Precis_synonym-> Digest</li>
+    <li>note_location-> sampul depan</li>
+    <li>note_location-> penutup belakang</li>
+    <li>note_location-> flap depan</li>
+    <li>note_location-> Back flap</li>
+    <li>note_location-> halaman pertama</li>
+    <li>note_location-> halaman terakhir</li>
+    <li>note_location-> margin</li>
+    <li>note_location-> halaman judul</li>
+    <li>note_location-> Footnote</li>
+    <li>note_location-> Endnote</li>
+    <li>note_location-> biografi penulis</li>
+    <li>note_location-> label pengiriman</li>
+    <li>note-> note</li>
+    <li>Catatan-> Addendum</li>
+    <li>Catatan-> PostScript</li>
+    <li>Catatan-> Kata penutup</li>
+    <li>Catatan-> Lampiran</li>
+    <li>note-> coda</li>
+    <li>Catatan-> Catatan Kaki</li>
+    <li>note-> Endnote</li>
+    <li>berguna_information-> informasi yang berguna</li>
+    <li>berguna_information-> informasi yang berguna</li>
+    <li>berguna_information-> Fakta menarik</li>
+    <li>berguna_information-> wawasan yang berharga</li>
+    <li>berguna_information-> wawasan praktis</li>
+    <li>berguna_information-> Tips yang bermanfaat</li>
+    <li>berguna_information-> detail informatif</li>
+    <li>pemahaman_synonym-> pengetahuan tentang</li>
+    <li>pemahaman_synonym-> perbaikan diri di</li>
+    <li>pemahaman_synonym-> pemahaman tentang</li>
+    <li>pemahaman_synonym-> beasiswa di</li>
+    <li>pemahaman_synonym-> erudition in</li>
+    <li>pemahaman_synonym-> keahlian dalam</li>
+    <li>pemahaman_synonym-> filosofi dari</li>
+    <li>pemahaman_synonim-> Etika</li>
+    <li>notable_adjective-> terkenal</li>
+    <li>notable_adjective-> tidak jelas</li>
+    <li>notable_adjective-> ikon</li>
+    <li>notable_adjective-> classic</li>
+    <li>notable_adjective-> Common</li>
+    <li>notable_adjective-> familier</li>
+    <li>notable_adjective-> Timeless</li>
+    <li>notable_adjective-> miring</li>
+    <li>notable_adjective-> harmonis</li>
+    <li>notable_adjective-> elegan</li>
+    <li>notable_adjective-> sederhana</li>
+    <li>notable_adjective-> fungsional</li>
+    <li>notable_adjective-> urbworld</li>
+    <li>notable_adjective-> glitterworld</li>
+    <li>notable_adjective-> primitif</li>
+    <li>notable_adjective-> dekoratif</li>
+    <li>Exterior_quality (kualitas [lebih besar_than] 4)-> Eksterior buku ini terikat dengan halus dan</li>
+    <li>Exterior_quality (kualitas [lebih besar_than] 4)-> sebuah karya seni printer, buku ini bersinar dan</li>
+    <li>Exterior_quality (kualitas [lebih besar_than] 4)-> penutup kulitnya kasar</li>
+    <li>Exterior_quality (kualitas [Greater_than] 4)-> meskipun penutupnya sangat polos</li>
+    <li>Exterior_quality (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> Buku teks ini telah melihat hari-hari yang lebih baik, tetapi</li>
+    <li>Exterior_quality (kualitas [Less_than] 5, kualitas [lebih besar_than] 1)-> Meskipun merupakan buku sekolah bekas,</li>
+    <li>Exterior_quality (kualitas [LESS_THAN] 5, kualitas [lebih besar_than] 1)-> Buku ini memiliki banyak pemilik, tetapi</li>
+    <li>Exterior_quality (kualitas [Less_than] 2)-> bagian depan buku ini tampaknya menarik tapi</li>
+    <li>Exterior_quality (kualitas [Less_than] 2)-> Seseorang telah merobek sepertiga pertama buku dan</li>
+    <li>Exterior_quality (kualitas [Less_than] 2)-> penutupnya direndam dalam cairan berbau kuat dan</li>
+    <li>Exterior_quality (kualitas [less_than] 2)-> Pada pandangan pertama tidak ada yang salah dengan buku itu, tapi</li>
+    <li>page_quality-> halaman [page_condition]</li>
+    <li>page_condition (kualitas [lebih besar_than] 4)-> [page_excellent]</li>
+    <li>page_condition (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> [page_decent]</li>
+    <li>page_condition (kualitas [less_than] 2)-> [page_awful]</li>
+    <li>page_excellent-> dalam kondisi luar biasa, seolah tidak pernah disentuh</li>
+    <li>page_excellent-> dalam kondisi bagus</li>
+    <li>page_excellent-> murni</li>
+    <li>page_excellent-> cerah dan bersih</li>
+    <li>page_excellent-> secara unik terpelihara dengan baik</li>
+    <li>page_decent-> dalam kondisi yang layak</li>
+    <li>page_decent-> terbaca, jika kusut</li>
+    <li>page_decent-> sangat mudah dibaca</li>
+    <li>page_decent-> layak, jika sedikit skor</li>
+    <li>page_awful-> tampaknya ditulis di atas perkamen yang hancur</li>
+    <li>page_awful-> rusak parah</li>
+    <li>page_awful-> diwarnai dengan zat gelap</li>
+    <li>page_awful-> tidak terbaca</li>
+    <li>page_awful-> telah dijelaskan di tangan yang tidak dapat dibaca</li>
+    <li>WorldName-> [GlitterWorld]</li>
+    <li>WorldName-> [UrbWorld]</li>
+    <li>WorldName-> [Deadworld]</li>
+    <li>WorldName-> [Shellworld]</li>
+    <li>WorldName-> [RuinWorld]</li>
+    <li>WorldName-> [MedievalWorld]</li>
+    <li>WorldName-> [Steamworld]</li>
+    <li>WorldName-> [Midworld]</li>
+    <li>WorldName-> [RimWorld]</li>
+    <li>WorldName-> [Coreworld]</li>
+    <li>WorldName-> [ToxicWorld]</li>
+    <li>WorldName-> [GlassWorld]</li>
+    <li>WorldName-> [TranscendentWorld]</li>
+    <li>WorldName-> [Indworld]</li>
+    <li>WorldName-> [PrisonWorld]</li>
+    <li>WorldName-> [FeudalWorld]</li>
+    <li>WorldName-> [TrashWorld]</li>
+    <li>WorldName-> [Iceworld]</li>
+    <li>WorldName-> [Dinoworld]</li>
+    <li>WorldName-> [Warworld]</li>
+    <li>WorldName-> [OceanicWorld]</li>
+    <li>WorldName-> [Mineworld]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>WorldName-> [Asteroid]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>Feralworld-> [AnimalWorld]</li>
+    <li>Milworld-> [Warworld]</li>
+    <li>Animalworld-> Sorne</li>
+    <li>AnimalWorld-> Rhydell</li>
+    <li>Animalworld-> Zoutera</li>
+    <li>Animalworld-> tylacine</li>
+    <li>Animalworld-> Mereka</li>
+    <li>Animalworld-> Steller's World</li>
+    <li>Animalworld-> Auktion</li>
+    <li>asteroid-> iwamura</li>
+    <li>asteroid-> atura</li>
+    <li>Asteroid-> retusins</li>
+    <li>asteroid-> ranomi</li>
+    <li>Asteroid-> Aesh 265</li>
+    <li>Asteroid-> Taxlos</li>
+    <li>Asteroid-> Aryn Sigma</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> lutuni</li>
+    <li>Coreworld-> Zeglar</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> Cormora Prime</li>
+    <li>Coreworld-> Glossolia</li>
+    <li>Coreworld-> Barbaros</li>
+    <li>deadworld-> callos ix</li>
+    <li>deadworld-> haspia</li>
+    <li>Deadworld-> Gost IV</li>
+    <li>Deadworld-> Berimund</li>
+    <li>Deadord-> Order</li>
+    <li>Deadworld-> Kremhild</li>
+    <li>Deadworld-> Melisandz</li>
+    <li>deathworld-> creticon</li>
+    <li>Diaāneblds-> zatza</li>
+    <li>Diaānebldlld-> rayth</li>
+    <li>Diaānebldlld-> spectra</li>
+    <li>Diaānebldlld-> jnovaex</li>
+    <li>Deathworld-> Carthago</li>
+    <li>Diaewld-> grimcore</li>
+    <li>DINOWORLD-> OUBANYEN</li>
+    <li>DINOWORLD-> ZOUTERA</li>
+    <li>DINOWORLD-> EINIO</li>
+    <li>DINOWORLD-> Baryonyx</li>
+    <li>DINOWORLD-> N'CILO</li>
+    <li>DINOWORLD-> Venator</li>
+    <li>DINOWORLD-> Brach</li>
+    <li>Feudalworld-> Aracena VI</li>
+    <li>trydleworld-> nuchus</li>
+    <li>feudalworld-> filson</li>
+    <li>feodalworld-> fieth</li>
+    <li>FeudalWorld-> Bloch Regis</li>
+    <li>feodalworld-> carlosphere</li>
+    <li>Feudalworld-> Magna Dijou</li>
+    <li>Glassworld-> ceti in</li>
+    <li>glassworld-> thebes xiv</li>
+    <li>glassworld-> naga</li>
+    <li>Glassworld-> Merv</li>
+    <li>glassworld-> Perse</li>
+    <li>glassworld-> shechem</li>
+    <li>glassworld-> yelhazor</li>
+    <li>Glitterworld-> Kalthas IV</li>
+    <li>glitterworld-> amen-ti</li>
+    <li>glitterworld-> Sophiamunda</li>
+    <li>glitterworld-> rogia</li>
+    <li>glitterworld-> utmaior</li>
+    <li>glitterworld-> Caspian</li>
+    <li>glitterworld-> Kenerella</li>
+    <li>iceworld-> yttak</li>
+    <li>iceworld-> dedchenko</li>
+    <li>iceworld-> Baltoro</li>
+    <li>Iceworld-> furtwale</li>
+    <li>iceworld-> jaqua</li>
+    <li>Iceworld-> Christensen</li>
+    <li>iceworld-> Barnes</li>
+    <li>INDWORLD-> IRITHIR</li>
+    <li>BERDIAKAN-> CHINA BARU</li>
+    <li>INDWORLD-> HUDDERS</li>
+    <li>BERDIRI-> IVER</li>
+    <li>INDWORLD-> ACHESTA</li>
+    <li>BERDIRI-> OODS</li>
+    <li>INDWORLD-> ILADELF</li>
+    <li>Abad Pertengahan-> Chelis</li>
+    <li>Abad Pertengahan-> Winna</li>
+    <li>Abad Pertengahan-> Cassone</li>
+    <li>Abad Pertengahan-> Jork</li>
+    <li>Abad Pertengahan-> Cochmar</li>
+    <li>Dunia Abad Pertengahan-> Alien</li>
+    <li>Abad Pertengahan-> Dubrognago</li>
+    <li>Midworld-> Darleyeria</li>
+    <li>Midworld-> Elsin</li>
+    <li>Midworld-> Haihan</li>
+    <li>Midworld-> Seolure</li>
+    <li>Midworld-> Bank</li>
+    <li>Midworld-> New London ini</li>
+    <li>Midavarld-> San Delendi</li>
+    <li>mineworld-> xanides</li>
+    <li>Mineworld-> Bingham</li>
+    <li>Mineworld-> Saarh</li>
+    <li>mineworld->Grasbeg</li>
+    <li>Mineworld-> Chuqui</li>
+    <li>Mineworld-> Olimpiade</li>
+    <li>mineworld-> orme</li>
+    <li>Oceanicworld-> Wavia</li>
+    <li>Oceanicworld-> dari kolam</li>
+    <li>Oceanicworld-> Gichen</li>
+    <li>Oceanicworld-> port yam</li>
+    <li>Oceanicworld-> Baia</li>
+    <li>Oceanicworld-> Thonis</li>
+    <li>Oceanicworld-> moaui</li>
+    <li>PRIVERWORLD-> YTTAK</li>
+    <li>PRIVERWORLD-> ALDGATE</li>
+    <li>Prisonworld> Bor</li>
+    <li>penjara-> hoalo</li>
+    <li>PrisonWorld-> Casmina</li>
+    <li>PrisonWorld-> Port Basil</li>
+    <li>Penjaraworld-> chateau d'ouen</li>
+    <li>rimworld-> filson</li>
+    <li>rimworld-> The Big</li>
+    <li>Rimworld-> slab</li>
+    <li>Rimworld-> Twig Falls</li>
+    <li>rimworld-> boise tua</li>
+    <li>Rimworld-> Gerbang Iblis</li>
+    <li>rimworld-> laramiere</li>
+    <li>Ruinworld-> Earth</li>
+    <li>Ruinworld-> Izaba</li>
+    <li>Ruinworld-> xennoa</li>
+    <li>Ruinworld-> pichu</li>
+    <li>Ruinworld-> Lost</li>
+    <li>Ruinworld-> Hisarlik</li>
+    <li>Ruinworld-> Sound</li>
+    <li>shellworld-> boccocarro</li>
+    <li>Shellworld-> Destria</li>
+    <li>shellworld-> trofik</li>
+    <li>shellworld-> matrio</li>
+    <li>Shellworld-> bersama</li>
+    <li>shellworld-> xinthia</li>
+    <li>Shellworld-> Connect</li>
+    <li>Steamworld-> Corliss</li>
+    <li>Steamworld-> Borassic</li>
+    <li>Steamworld-> Savery II</li>
+    <li>Steamworld-> heron</li>
+    <li>Steamworld-> Malmesburi</li>
+    <li>Steamworld-> Architonnerre</li>
+    <li>Steamworld-> pelepasan</li>
+    <li>Toxicworld> scyla</li>
+    <li>Toxicworld-> Mauro</li>
+    <li>Toxicworld-> Cerospor</li>
+    <li>Toxicworld-> Oxy VI</li>
+    <li>Toxicworld-> Sangwine</li>
+    <li>Toxicworld-> Soleno</li>
+    <li>Toxicworld-> imbatus</li>
+    <li>Transcendentworld-> xaroh</li>
+    <li>TranscendentWorld-> Immanence VI</li>
+    <li>TranscendentWorld-> Qabba</li>
+    <li>transcendentworld-> einsof</li>
+    <li>Transcendentworld-> mitvo</li>
+    <li>TranscendentWorld-> Samydi</li>
+    <li>TranscendentWorld-> Samsarr</li>
+    <li>TrashWorld-> Bagua 5</li>
+    <li>TrashWorld-> Puobell</li>
+    <li>trashworld-> fever ix</li>
+    <li>TrashWorld-> Garbsh</li>
+    <li>trashworld-> tra'age</li>
+    <li>Trashworld-> repsy</li>
+    <li>trashworld-> mystras</li>
+    <li>urbworld-> euterpe</li>
+    <li>UrbWorld-> Avenna</li>
+    <li>Urbworld-> Essalon</li>
+    <li>UrbWorld-> ENKED</li>
+    <li>Urbworld-> Adocia</li>
+    <li>Urbworld-> n'toch</li>
+    <li>UrbWorld-> Barca</li>
+    <li>Warworld-> Kimia</li>
+    <li>Warworld-> old</li>
+    <li>Warworld-> Samnium</li>
+    <li>Warworld-> Kyrus</li>
+    <li>Warworld-> Punica</li>
+    <li>Wryworld-> Cimbria HI</li>
+    <li>Warworld-> Barkitos</li>-><Description_SkillBook.rulePack.rulesStrings>
+    <li>Subjek-> [Subject_Primary]</li>
+    <li>desc-> [diskusi]. \ n \ n [anecdote].[Produksi]. \ dan \ n [Pernyataan Kualitas]</li>
+    <li>Diskusi> [Buku Teks] ini memberikan [informasi berguna] tentang [subjek] [detail]</li>
+    <li>Diskusi-> [Buku Teks] ini menetapkan otoritas penulis pada [subjek] [detail]</li>
+    <li>Diskusi-> Mereka yang mencari [underestanding_synonym] tentang [subjek] diarahkan ke [buku teks] ini [luar biasa_adjective] [Detail]</li>
+    <li>Diskusi-> [buku teks] distandarisasi tentang [subjek] [detail]</li>
+    <li>Diskusi-> Edisi pertama penulis [buku teks] tentang [subjek] [detail]</li>
+    <li>Detail->.[Precise_synonym] berfokus pada aspek topik yang paling terampil</li>
+    <li>Detail->.Ini adalah [membutuhkan_synonym] ringkas dari tema yang kompleks</li>
+    <li>Detail->.[Tepat</li>
+    <li>Detail->.Sebuah janji di [note_location] mengatakan: "[Siswa] yang sebenarnya dalam [subjek] tidak dapat mengabaikan buku [anypawn_label]"</li>
+    <li>Siswa-> Siswa</li>
+    <li>Siswa-> Bergairah</li>
+    <li>Siswa-> Praktik</li>
+    <li>Detail->.Itu membawa Anda langkah demi langkah melalui subjek</li>
+    <li>Detail (kualitas [Less_than] 4)->, meskipun penulis bergegas ke subjek</li>
+    <li>Detail (kualitas [GREATE_THAN] 3)->.Ini adalah pengobatan subjek yang lengkap</li>
+    <li>Detail->.Penulis menegaskan dalam [precise_synonym] -nya bahwa ada salinan palsu dari buku ini, tetapi ini bukan salah satunya</li>
+    <li>Detail (kualitas [Less_than] 4)->, meskipun mungkin upaya untuk mengomunikasikan ide-ide mereka melalui dialog imajiner adalah kesalahan</li>
+    <li>Detail->.Retorika Penulis di [precise_synonym] mengalihkan perhatian kita dari konsep pusat</li>
+    <li>Produksi-> [NeedNonim] mengatakan bahwa ia dicetak dengan tangan di [WorldName]</li>
+    <li>Produksi-> [precia_synonym] mengatakan bahwa Universitas [WorldName] menjadikan ini teks yang tetap</li>
+    <li>Produksi-> [precise_synonym] mengatakan bahwa, meskipun catatan ini dibuat untuk penggunaan pribadi [anypawn_label], mereka telah dibagikan secara luas</li>
+    <li>Produksi-> Bagian yang berguna dari [buku teks] ini Sembunyikan di antara detail biografi</li>
+    <li>Produksi-> A [note] dalam [note_location] mengatakan bahwa mesin cetak [WorldName] ditutup setelah gangguan [WorldName], jadi edisi ini jarang</li>
+    <li>Produksi-> [catatan] tertulis mengatakan bahwa sebagian besar spesimen [buku teks] ini hilang selama insiden [WorldName]</li>
+    <li>Produksi-> [presisi</li>
+    <li>Produksi-> oleh [note_location], jelas bahwa proselit dalam [subjek] dari [WorldName] menghabiskan salinan cetakan buku ini, dan kemudian mendistribusikannya secara luas</li>
+    <li>Produksi-> di [note_location] menjelaskan bahwa salinan pertama buku ini ditulis oleh penulis</li>
+    <li>Produksi-> The Duchess of [WorldName] mensponsori [buku teks] ini dengan kondisi bahwa itu tersedia secara gratis</li>
+    <li>Produksi-> Catatan mengatakan bahwa berlangganan buku [Coreworld] menghasilkan edisi pertama [buku teks] ini</li>
+    <li>Produksi-> Di sampul belakang buku ini, editor mengumumkan seri yang lebih luas yang membahas semua topik yang diperlukan untuk bertahan hidup di dunia yang berbatasan</li>
+    <li>Produksi-> Para editor bisa lebih ketat dalam pekerjaan mereka, mengingat tata bahasa yang diabaikan</li>
+    <li>Quality_Statement-> [Exterior_Quality] [page_quality]</li>
+    <li>anekdot-> mengingat perbedaan besar antara tahun kelahiran [anypawn_namefulull] dan tanggal publikasi buku ini, tidak mungkin ia hidup untuk melihatnya diterbitkan</li>
+    <li>anecdote-> di [note_location], seseorang telah menulis kritik yang merendahkan buku ini</li>
+    <li>Anecdote-> [precia_synonym] menunjukkan bahwa buku ini melewati sistem perpustakaan umum [urbworld]</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_nameful] populer karena pengetahuannya yang luas dalam banyak subjek</li>
+    <li>anecdote-> Menurut [note_location], orang-orang [WorldName] masih berbicara tentang [anypawn_namefulull] dan mengingat hasrat mereka dalam [subjek]</li>
+    <li>anecdote-> Menurut [note_location], kecelakaan aneh membunuh penulis [anypawn_namefulull], tak lama setelah publikasi</li>
+    <li>anecdote-> Menurut [precise_synonym], [anypawn_nameful] menghabiskan hari-harinya mengajar di Akademi [Coreworld].Buku ini diambil dari kelas Anda</li>
+    <li>anekdot-> sesuai dengan [tepat</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_nameful] tidak punya uang dan menjual hak-hak koleksi ini tidak peduli seberapa sedikit</li>
+    <li>anecdote-> Menurut [note_location], [anypawn_nameful] buta sejak lahir, jadi dia tidak pernah bisa membaca bukunya</li>
+    <li>Anecdote-> Menurut [note_location], draft pertama [anypawn_namefulull] berisi lima puluh halaman tentang pengembaraan bodoh.Mereka dihapus dalam edisi kedua</li>
+    <li>anecdote-> Menurut [note_location], reputasi [anypawn_namefulull] sangat mengerikan sehingga ia menerbitkan buku ini secara anonim</li>
+    <li>anecdote-> Menurut [note_location], sebagai seorang anak, [anypawn_nameful] sangat tidak bertanggung jawab sehingga orang tua mereka kecewa [Pawn_pronoun].Buku ini adalah klaim kemampuan Anda</li>
+    <li>Anecdote-> Menurut [precia_synonym], itu selama pernikahan keempat [anypawn_namefulull] ketika ia mulai menyusun buku tentang [subjek].(Ini [anypawn_objective] menyebabkan perceraian keempatnya)</li>
+    <li>Buku Teks-> Buku</li>
+    <li>Buku Teks-> Manual</li>
+    <li>Buku Teks-> Buku Teks</li>
+    <li>Buku teks (p = 6)-> buku</li>
+    <li>Buku Teks-> Latihan Notebook</li>
+    <li>Buku Teks-> Manual Konsultasi</li>
+    <li>Buku Teks-> Kompendium</li>
+    <li>Buku Teks-> Katalog</li>
+    <li>Buku teks-> brosur</li>
+    <li>Buku Teks-> Buku Kegiatan</li>
+    <li>Buku Teks-> Buku Kursus</li>
+    <li>Buku Teks-> Buku Referensi</li>
+    <li>Buku Teks-> Buku Akademik</li>
+    <li>Buku Teks-> Buku Encyclopedia</li>
+    <li>Buku Teks-> Buku Panduan</li>
+    <li>Buku Teks-> Buku Perdagangan</li>
+    <li>Buku Teks-> Buku Tenaga Kerja</li>
+    <li>Buku Teks-> Buku Panduan</li>
+    <li>Buku Teks-> Toko</li>
+    <li>Buku Teks-> Buku Tenaga Kerja</li>
+    <li>Buku teks-> buku</li>
+    <li>Buku teks-> manual</li>
+    <li>Buku Teks-> Buku Teks</li>
+    <li>Buku teks (p = 6)-> buku</li>
+    <li>Buku Teks-> Buku catatan latihan</li>
+    <li>Buku Teks-> Manual Konsultasi</li>
+    <li>Buku Teks-> Compendios</li>
+    <li>Buku Teks-> Katalog</li>
+    <li>Buku Teks-> Folletos</li>
+    <li>Buku Teks-> Buku Aktivitas</li>
+    <li>Buku Teks-> Buku Kursus</li>
+    <li>Buku Teks-> Buku Referensi</li>
+    <li>Buku Teks-> Buku Akademik</li>
+    <li>Buku Teks-> Buku Encyclopedias</li>
+    <li>Buku Teks-> Buku Panduan</li>
+    <li>Buku Teks-> Buku Perdagangan</li>
+    <li>Buku Teks-> Buku Tenaga Kerja</li>
+    <li>Precis_synonym-> apunte</li>
+    <li>Precis_synonym-> frontispicio</li>
+    <li>Precis_synonym-> abstrak</li>
+    <li>Precis_synonym-> sumario</li>
+    <li>Persis sinonim-> rada pengeboran</li>
+    <li>Persis sinonim-> resume</li>
+    <li>Note_location-> sampulnya</li>
+    <li>Note_location-> penutup belakang</li>
+    <li>Note_location-> flap depan</li>
+    <li>Note_location-> flap posterior</li>
+    <li>Note_location-> halaman pertama</li>
+    <li>Note_location-> halaman terakhir</li>
+    <li>Note_location-> margin</li>
+    <li>Note_location-> sampulnya</li>
+    <li>Note_location-> footer</li>
+    <li>note_location-> bagian terakhir</li>
+    <li>Note_location-> biografi penulis</li>
+    <li>Note_location-> label pengiriman</li>
+    <li>note-> a nota</li>
+    <li>Note-> anexo</li>
+    <li>Catatan-> Klarifikasi</li>
+    <li>Catatan-> Epilog</li>
+    <li>Catatan-> Lampiran</li>
+    <li>note-> a coda</li>
+    <li>Catatan-> Catatan Kaki</li>
+    <li>Catatan-> Catatan di akhir</li>
+    <li>berguna_information-> Informasi yang relevan</li>
+    <li>berguna_information-> informasi yang berguna</li>
+    <li>berguna_information-> Data yang menarik</li>
+    <li>berguna_information-> ide valiosas</li>
+    <li>berguna_information-> ide-ide praktis</li>
+    <li>useful_information->consejos útiles</li>
+    <li>Berguna_information-> detail informatif</li>
+    <li>pemahaman_synonym-> Pengetahuan</li>
+    <li>pemahaman_synonym-> un progreso intelectual</li>
+    <li>Pemahaman_synonim-> pemahaman yang lebih besar</li>
+    <li>Sinonim yang Diperkecil> Membantu Belajar</li>
+    <li>pemahaman_synonim-> Perluas pengetahuan Anda</li>
+    <li>pemahaman_synonym-> aprender</li>
+    <li>pemahaman_synonym-> Sabiduría</li>
+    <li>pemahaman_synonym-> repasar</li>
+    <li>notable_adjective-> famoso</li>
+    <li>notable_adjective-> oscuro</li>
+    <li>notable_adjective-> ikon</li>
+    <li>notable_adjective-> clasico</li>
+    <li>notable_adjective-> kebiasaan</li>
+    <li>notable_adjective-> familier</li>
+    <li>notable_adjective-> intemporal</li>
+    <li>notable_adjective-> berguna</li>
+    <li>notable_adjective-> armonioso</li>
+    <li>notable_adjective-> elegante</li>
+    <li>notable_adjective-> sederhana</li>
+    <li>notable_adjective-> fungsional</li>
+    <li>Notable_adjective-> Urban World</li>
+    <li>notable_adjective-> dari mundobrillante</li>
+    <li>notable_adjective-> primitif</li>
+    <li>notable_adjective-> dekoratif</li>
+    <li>luar_qualy (kualitas [lebih great_than] 4)-> eksterior buku ini terikat dengan halus dan</li>
+    <li>luar_qualy</li>
+    <li>Exterior_qualy (kualitas [lebih besar_than] 4)-> penutup kulitnya kasar, tetapi</li>
+    <li>luar_qualy (kualitas [lebih besar_than] 4)-> Meskipun sampulnya sangat sederhana,</li>
+    <li>Eksterior_qualy</li>
+    <li>Kualitas (kurang dari] 5, kualitas [lebih besar dari] 1)-> Meskipun merupakan libro sekolah kedua dari hari Senin,</li>
+    <li>Eksterior_qualy</li>
+    <li>luar_qualy (kualitas [less_than] 2)-> sampul buku ini tampaknya menarik tapi</li>
+    <li>luar_qualy (kualitas [less_than] 2)-> seseorang telah memulai sepertiga pertama buku dan</li>
+    <li>luar_qualy</li>
+    <li>Kualitas eksterior (kualitas [kurang dari] 2)-> pada pandangan pertama tidak ada yang salah dalam buku ini, tetapi</li>
+    <li>Page_qualily-> halaman [page_condition]</li>
+    <li>page_condition (kualitas [lebih besar_than] 4)-> [page_excellent]</li>
+    <li>page_condition (kualitas [less_than] 5, kualitas [lebih besar_than] 1)-> [page_decent]</li>
+    <li>page_condition (kualitas [less_than] 2)-> [page_awful]</li>
+    <li>Page_excelent-> dalam keadaan luar biasa, seolah-olah mereka belum pernah menyentuh</li>
+    <li>Page_excelent-> dalam kondisi sempurna</li>
+    <li>Page_excelent-> mereka tidak tercemar</li>
+    <li>Page_excelent-> mereka cerah dan bersih</li>
+    <li>Page_excelent-> sangat terpelihara dengan baik</li>
+    <li>Page_decent-> dalam kondisi yang layak</li>
+    <li>Page_decent-> mereka terbaca, meskipun mereka agak dilipat</li>
+    <li>Page_decent-> mereka sangat terbaca</li>
+    <li>Page_decent-> mereka layak, meskipun sedikit usang</li>
+    <li>Page_awful-> tampaknya ditulis dalam perkamen yang hancur</li>
+    <li>Page_awful-> mereka sangat rusak</li>
+    <li>Page_awful-> diwarnai dengan zat gelap</li>
+    <li>page_awful-> son ilegibles</li>
+    <li>Page_awful-> telah dicetak dengan surat yang tidak terbaca</li>
+    <li>WorldName-> [GlitterWorld]</li>
+    <li>WorldName-> [UrbWorld]</li>
+    <li>WorldName-> [Deadworld]</li>
+    <li>WorldName-> [Shellworld]</li>
+    <li>WorldName-> [RuinWorld]</li>
+    <li>WorldName-> [MedievalWorld]</li>
+    <li>WorldName-> [Steamworld]</li>
+    <li>WorldName-> [Midworld]</li>
+    <li>WorldName-> [RimWorld]</li>
+    <li>WorldName-> [Coreworld]</li>
+    <li>WorldName-> [ToxicWorld]</li>
+    <li>WorldName-> [GlassWorld]</li>
+    <li>WorldName-> [TranscendentWorld]</li>
+    <li>WorldName-> [Indworld]</li>
+    <li>WorldName-> [PrisonWorld]</li>
+    <li>WorldName-> [FeudalWorld]</li>
+    <li>WorldName-> [TrashWorld]</li>
+    <li>WorldName-> [Iceworld]</li>
+    <li>WorldName-> [Dinoworld]</li>
+    <li>WorldName-> [Warworld]</li>
+    <li>WorldName-> [OceanicWorld]</li>
+    <li>WorldName-> [Mineworld]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>WorldName-> [Asteroid]</li>
+    <li>WorldName-> [AnimalWorld]</li>
+    <li>Feralworld-> [AnimalWorld]</li>
+    <li>Milworld-> [Warworld]</li>
+    <li>Animalworld-> Sorne</li>
+    <li>AnimalWorld-> Rhydell</li>
+    <li>Animalworld-> Zoutera</li>
+    <li>Animalworld-> tylacine</li>
+    <li>Animalworld-> Mereka</li>
+    <li>Animalworld-> Steller's World</li>
+    <li>Animalworld-> Auktion</li>
+    <li>asteroid-> iwamura</li>
+    <li>asteroid-> atura</li>
+    <li>Asteroid-> retusins</li>
+    <li>asteroid-> ranomi</li>
+    <li>Asteroid-> Aesh 265</li>
+    <li>Asteroid-> Taxlos</li>
+    <li>Asteroid-> Aryn Sigma</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> lutuni</li>
+    <li>Coreworld-> Zeglar</li>
+    <li>Coreworld-> novaroma</li>
+    <li>Coreworld-> Cormora Prime</li>
+    <li>Coreworld-> Glossolia</li>
+    <li>Coreworld-> Barbaros</li>
+    <li>deadworld-> callos ix</li>
+    <li>deadworld-> haspia</li>
+    <li>Deadworld-> Gost IV</li>
+    <li>Deadworld-> Berimund</li>
+    <li>Deadord-> Order</li>
+    <li>Deadworld-> Kremhild</li>
+    <li>Deadworld-> Melisandz</li>
+    <li>deathworld-> creticon</li>
+    <li>Diaāneblds-> zatza</li>
+    <li>Diaānebldlld-> rayth</li>
+    <li>Diaānebldlld-> spectra</li>
+    <li>Diaānebldlld-> jnovaex</li>
+    <li>Deathworld-> Carthago</li>
+    <li>Diaewld-> grimcore</li>
+    <li>DINOWORLD-> OUBANYEN</li>
+    <li>DINOWORLD-> ZOUTERA</li>
+    <li>DINOWORLD-> EINIO</li>
+    <li>DINOWORLD-> Baryonyx</li>
+    <li>DINOWORLD-> N'CILO</li>
+    <li>DINOWORLD-> Venator</li>
+    <li>DINOWORLD-> Brach</li>
+    <li>Feudalworld-> Aracena VI</li>
+    <li>trydleworld-> nuchus</li>
+    <li>feudalworld-> filson</li>
+    <li>feodalworld-> fieth</li>
+    <li>FeudalWorld-> Bloch Regis</li>
+    <li>feodalworld-> carlosphere</li>
+    <li>Feudalworld-> Magna Dijou</li>
+    <li>Glassworld-> ceti in</li>
+    <li>glassworld-> thebes xiv</li>
+    <li>glassworld-> naga</li>
+    <li>Glassworld-> Merv</li>
+    <li>glassworld-> Perse</li>
+    <li>glassworld-> shechem</li>
+    <li>glassworld-> yelhazor</li>
+    <li>Glitterworld-> Kalthas IV</li>
+    <li>glitterworld-> amen-ti</li>
+    <li>glitterworld-> Sophiamunda</li>
+    <li>glitterworld-> rogia</li>
+    <li>glitterworld-> utmaior</li>
+    <li>glitterworld-> Caspian</li>
+    <li>glitterworld-> Kenerella</li>
+    <li>iceworld-> yttak</li>
+    <li>iceworld-> dedchenko</li>
+    <li>iceworld-> Baltoro</li>
+    <li>Iceworld-> furtwale</li>
+    <li>iceworld-> jaqua</li>
+    <li>Iceworld-> Christensen</li>
+    <li>iceworld-> Barnes</li>
+    <li>INDWORLD-> IRITHIR</li>
+    <li>BERDIAKAN-> CHINA BARU</li>
+    <li>INDWORLD-> HUDDERS</li>
+    <li>BERDIRI-> IVER</li>
+    <li>INDWORLD-> ACHESTA</li>
+    <li>BERDIRI-> OODS</li>
+    <li>INDWORLD-> ILADELF</li>
+    <li>Abad Pertengahan-> Chelis</li>
+    <li>Abad Pertengahan-> Winna</li>
+    <li>Abad Pertengahan-> Cassone</li>
+    <li>Abad Pertengahan-> Jork</li>
+    <li>Abad Pertengahan-> Cochmar</li>
+    <li>Dunia Abad Pertengahan-> Alien</li>
+    <li>Abad Pertengahan-> Dubrognago</li>
+    <li>Midworld-> Darleyeria</li>
+    <li>Midworld-> Elsin</li>
+    <li>Midworld-> Haihan</li>
+    <li>Midworld-> Seolure</li>
+    <li>Midworld-> Bank</li>
+    <li>Midworld-> New London ini</li>
+    <li>Midavarld-> San Delendi</li>
+    <li>mineworld-> xanides</li>
+    <li>Mineworld-> Bingham</li>
+    <li>Mineworld-> Saarh</li>
+    <li>mineworld->Grasbeg</li>
+    <li>Mineworld-> Chuqui</li>
+    <li>Mineworld-> Olimpiade</li>
+    <li>mineworld-> orme</li>
+    <li>Oceanicworld-> Wavia</li>
+    <li>Oceanicworld-> dari kolam</li>
+    <li>Oceanicworld-> Gichen</li>
+    <li>Oceanicworld-> port yam</li>
+    <li>Oceanicworld-> Baia</li>
+    <li>Oceanicworld-> Thonis</li>
+    <li>Oceanicworld-> moaui</li>
+    <li>PRIVERWORLD-> YTTAK</li>
+    <li>PRIVERWORLD-> ALDGATE</li>
+    <li>Prisonworld> Bor</li>
+    <li>penjara-> hoalo</li>
+    <li>PrisonWorld-> Casmina</li>
+    <li>PrisonWorld-> Port Basil</li>
+    <li>Penjaraworld-> chateau d'ouen</li>
+    <li>rimworld-> filson</li>
+    <li>rimworld-> The Big</li>
+    <li>Rimworld-> slab</li>
+    <li>Rimworld-> Twig Falls</li>
+    <li>rimworld-> boise tua</li>
+    <li>Rimworld-> Gerbang Iblis</li>
+    <li>rimworld-> laramiere</li>
+    <li>Ruinworld-> Bumi</li>
+    <li>Ruinworld-> Izaba</li>
+    <li>Ruinworld-> xennoa</li>
+    <li>Ruinworld-> pichu</li>
+    <li>Ruinworld-> Lost</li>
+    <li>Ruinworld-> Hisarlik</li>
+    <li>Ruinworld-> Sound</li>
+    <li>shellworld-> boccocarro</li>
+    <li>Shellworld-> Destria</li>
+    <li>shellworld-> trofik</li>
+    <li>shellworld-> matrio</li>
+    <li>Shellworld-> bersama</li>
+    <li>shellworld-> xinthia</li>
+    <li>Shellworld-> Connect</li>
+    <li>Steamworld-> Corliss</li>
+    <li>Steamworld-> Borassic</li>
+    <li>Steamworld-> Savery II</li>
+    <li>Steamworld-> heron</li>
+    <li>Steamworld-> Malmesburi</li>
+    <li>Steamworld-> Architonnerre</li>
+    <li>Steamworld-> pelepasan</li>
+    <li>Toxicworld> scyla</li>
+    <li>Toxicworld-> Mauro</li>
+    <li>Toxicworld-> Cerospor</li>
+    <li>Toxicworld-> Oxy VI</li>
+    <li>Toxicworld-> Sangwine</li>
+    <li>Toxicworld-> Soleno</li>
+    <li>Toxicworld-> imbatus</li>
+    <li>Transcendentworld-> xaroh</li>
+    <li>TranscendentWorld-> Immanence VI</li>
+    <li>TranscendentWorld-> Qabba</li>
+    <li>transcendentworld-> einsof</li>
+    <li>Transcendentworld-> mitvo</li>
+    <li>TranscendentWorld-> Samydi</li>
+    <li>TranscendentWorld-> Samsarr</li>
+    <li>TrashWorld-> Bagua 5</li>
+    <li>TrashWorld-> Puobell</li>
+    <li>trashworld-> fever ix</li>
+    <li>TrashWorld-> Garbsh</li>
+    <li>trashworld-> tra'age</li>
+    <li>Trashworld-> repsy</li>
+    <li>trashworld-> mystras</li>
+    <li>urbworld-> euterpe</li>
+    <li>UrbWorld-> Avenna</li>
+    <li>Urbworld-> Essalon</li>
+    <li>UrbWorld-> ENKED</li>
+    <li>Urbworld-> Adocia</li>
+    <li>Urbworld-> n'toch</li>
+    <li>UrbWorld-> Barca</li>
+    <li>Warworld-> Kimia</li>
+    <li>Warworld-> old</li>
+    <li>Warworld-> Samnium</li>
+    <li>Warworld-> Kyrus</li>
+    <li>Warworld-> Punica</li>
+    <li>Wryworld-> Cimbria HI</li>
+    <li>Warworld-> Barkitos</li>
+  </Description_SkillBook.rulePack.rulesStrings>
+  
+</LanguageData>

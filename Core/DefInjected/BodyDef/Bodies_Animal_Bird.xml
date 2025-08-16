@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bird -->
+  <Bird.label>burung</Bird.label>
+  <!-- EN: left lung -->
+  <Bird.corePart.parts.left_lung.customLabel>paru-paru kiri</Bird.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bird.corePart.parts.right_lung.customLabel>paru -paru kanan</Bird.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bird.corePart.parts.left_kidney.customLabel>ginjal kiri</Bird.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bird.corePart.parts.right_kidney.customLabel>ginjal kanan</Bird.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bird.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>mata kiri</Bird.corePart.parts.Neck.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bird.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>mata kanan</Bird.corePart.parts.Neck.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Bird.corePart.parts.left_leg.customLabel>kaki kiri</Bird.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Bird.corePart.parts.left_leg.parts.left_foot.customLabel>cakar kiri</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Bird.corePart.parts.right_leg.customLabel>kaki kanan</Bird.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>cakar yang tepat</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: daylily -->
+  <Plant_Daylily.label>Lily di siang hari</Plant_Daylily.label>
+  <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
+  <Plant_Daylily.description>Bunga budidaya yang indah - bagus untuk mempercantik dullyard.Itu harus sering ditanam kembali.</Plant_Daylily.description>
+  
+  <!-- EN: rose -->
+  <Plant_Rose.label>Rosa</Plant_Rose.label>
+  <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
+  <Plant_Rose.description>Bunga budaya yang indah, simbol cinta dan romansa sejak zaman kuno bumi.</Plant_Rose.description>
+  
+</LanguageData>

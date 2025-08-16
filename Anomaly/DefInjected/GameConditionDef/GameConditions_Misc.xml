@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood rain frenzy -->
+  <BloodRain.label>amukan hujan darah</BloodRain.label>
+  <!-- EN: Blood-like fluid falls from the sky. Anyone outside will be driven into a berserk frenzy. -->
+  <BloodRain.description>Cairan mirip darah turun dari langit. Siapa pun yang berada di luar akan terdorong masuk ke dalam amukan brutal.</BloodRain.description>
+  <!-- EN: The blood rain is ending. -->
+  <BloodRain.endMessage>Hujan darah mulai reda.</BloodRain.endMessage>
+  <!-- EN: Drops of thick blood-like fluid have begun falling from the sky.\n\nAnyone exposed feels a growing anger which strengthens melee attacks but will eventually become a berserk rage. Exposed animals will eventually become manhunters. The intensity of the effect varies between individuals depending on their traits, psychic sensitivity, and random individual factors. -->
+  <BloodRain.letterText>Tetesan cairan kental mirip darah mulai jatuh dari langit.\n\nSiapa pun yang terpapar akan merasakan amarah yang kian membesar, memperkuat serangan jarak dekat, namun akhirnya berubah menjadi amukan brutal. Hewan yang terpapar pada akhirnya akan menjadi pemburu manusia. Intensitas efek ini berbeda-beda pada setiap individu tergantung sifat, sensitivitas psikis, dan faktor acak lainnya.</BloodRain.letterText>
+  
+  <!-- EN: death pall resurrection -->
+  <DeathPall.label>Kebangkitan kabut mati</DeathPall.label>
+  <!-- EN: The dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
+  <DeathPall.description>Mayat akan bangkit! Bakar, kubur, hancurkan, atau pindahkan ke dalam ruangan untuk mencegah kebangkitan.</DeathPall.description>
+  <!-- EN: A death-gray cloud has descended on the area.\n\nThe cloud is made of microscopic self-powered archites created by some unknown superintelligence. Where they land on dead flesh, they will enter the body and reanimate it to create a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
+  <DeathPall.letterText>Sebuah awan kelabu kematian turun di wilayah ini.\n\nAwan ini terdiri dari arkita mikroskopis bertenaga sendiri, diciptakan oleh kecerdasan super yang tak dikenal. Saat mendarat di daging mati, mereka akan masuk ke tubuh dan menghidupkannya kembali menjadi tiruan kehidupan yang terdistorsi.\n\nMayat akan bangkit! Bakar, kubur, hancurkan, atau pindahkan ke dalam ruangan untuk mencegah kebangkitan.</DeathPall.letterText>
+  
+  <!-- EN: gray pall stench -->
+  <GrayPall.label>bau busuk kabut abu -abu</GrayPall.label>
+  <!-- EN: A putrid stench fills the air, making people unhappy. The smell is worse outside. -->
+  <GrayPall.description>Bau busuk menyelimuti udara, membuat orang merasa tidak nyaman. Bau ini lebih parah di luar ruangan.</GrayPall.description>
+  <!-- EN: A blanket of gritty fog has descended on this area. It smells somehow ancient and stings the skin. The unnatural grayness of it invokes a sense of dread. -->
+  <GrayPall.letterText>Selimut kabut berpasir turun di wilayah ini. Aromanya terasa purba dan menusuk kulit. Keabuan yang tak wajar ini memunculkan rasa ngeri.</GrayPall.letterText>
+  
+  <!-- EN: hate chanting -->
+  <HateChantDrone.label>Bernyanyi kebencian</HateChantDrone.label>
+  <!-- EN: Cultists of Horax are performing a psychically tuned chant. The ominous chanting conveys a dark and dreamlike hatred. It makes your head pound and your skin crawl. So long as the drone continues, colonists will be unhappy.\n\nThe chant will continue to grow more powerful as long as the cultists are not stopped. -->
+  <HateChantDrone.description>Para kultis Horax melantunkan nyanyian yang selaras secara psikis. Nyanyian mengerikan ini memancarkan kebencian gelap bak mimpi buruk. Membuat kepala berdenyut dan kulit merinding. Selama dengung ini terus berlangsung, para kolonis akan gelisah.\n\nNyanyian ini akan terus bertambah kuat selama para kultis tidak dihentikan.</HateChantDrone.description>
+  
+  <!-- EN: unnatural darkness -->
+  <UnnaturalDarkness.label>Kegelapan yang tidak wajar</UnnaturalDarkness.label>
+  <!-- EN: The world is blanketed by a layer of unnatural darkness. From the inky blackness, one can hear the inhuman groaning of deadly creatures. Stay in the light. -->
+  <UnnaturalDarkness.description>Dunia diselimuti lapisan kegelapan yang tak wajar. Dari pekatnya hitam, terdengar erangan makhluk mematikan yang tak manusiawi. Tetaplah berada di tempat terang.</UnnaturalDarkness.description>
+  
+  <!-- EN: unnatural heat -->
+  <UnnaturalHeat.label>panas tak wajar</UnnaturalHeat.label>
+  <!-- EN: A thermal projection device is agitating gas molecules in the atmosphere, raising outdoor temperatures. -->
+  <UnnaturalHeat.description>Sebuah perangkat proyeksi termal menggetarkan molekul gas di atmosfer, menaikkan suhu luar ruangan.</UnnaturalHeat.description>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_seed (p = 3)-> [nameperson]</li>
+    <li>r_seed-> [hewan]</li>
+    <li>r_seed-> [Terrainfeature]</li>
+    <li>r_seed-> [personjob]</li>
+    <li>r_seed-> [musuh]</li>
+    <li>r_seed-> [gore]</li>
+    <li>r_seed-> [pakaian]</li>
+    <li>r_seed-> [AdjectiveAny]</li>
+    <li>r_seed-> [ConceptAnd]</li>
+    <li>r_seed-> [senjata]</li>
+    <li>r_seed-> [warna]</li>
+    <li>r_seed-> [sayuran]</li>
+    <li>r_seed-> [game]</li>
+    <li>r_seed-> [Nama Bisnis]</li>
+    <li>r_seed-> [BusinessType]</li>
+    <li>r_seed-> [komunitas]</li>-><SeedGenerator.rulePack.rulesStrings>
+    <li>r_seed (p = 3)-> [nameperson]</li>
+    <li>r_seed-> [animalany]</li>
+    <li>r_seed-> [TerrainfeatureAny]</li>
+    <li>r_seed-> [personjobany]</li>
+    <li>r_seed-> [musuh]</li>
+    <li>r_seed-> [gore]</li>
+    <li>R_SEED-> [Pakaian]</li>
+    <li>r_seed-> [AdjectiveAny]</li>
+    <li>r_seed-> [ConceptAryFull]</li>
+    <li>R_SEED-> [WETONANY]</li>
+    <li>r_seed-> [Colorany]</li>
+    <li>R_SEED-> [VegetableAny]</li>
+    <li>R_SEED-> [GAMEANY]</li>
+    <li>r_seed-> [Nama Bisnis]</li>
+    <li>r_seed-> [BusinessTypeAny]</li>
+    <li>r_seed-> [communityany]</li>
+  </SeedGenerator.rulePack.rulesStrings>
+  
+</LanguageData>

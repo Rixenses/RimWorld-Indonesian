@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Convert ideo attempt -->
+  <!-- EN: Conversion -->
+  <LetterLabelConvertIdeoAttempt_Success>Konversi</LetterLabelConvertIdeoAttempt_Success>
+  <!-- EN: {INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}. -->
+  <LetterConvertIdeoAttempt_Success>{Initiator_namedef} got {penerima_namedef} menjauh dari {oldideo_name} dan mendekati {ideo_name}.</LetterConvertIdeoAttempt_Success>
+
+  <!-- Slave rebellion -->
+  <!-- EN: Grand slave rebellion -->
+  <LetterLabelGrandSlaveRebellion>Pemberontakan budak yang hebat</LetterLabelGrandSlaveRebellion>
+  <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
+  <LetterGrandSlaveRebellion>Pemberontakan budak yang hebat telah dimulai!Semua budak Anda bangun untuk melawan Anda.Mereka akan mencari senjata dan mencoba menghilangkan pemukim Anda. \ N \ nstos adalah budak yang terlibat: \ n \ n {0}</LetterGrandSlaveRebellion>
+  <!-- EN: Local slave rebellion -->
+  <LetterLabelLocalSlaveRebellion>Pemberontakan budak lokal</LetterLabelLocalSlaveRebellion>
+  <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
+  <LetterLocalSlaveRebellion>Pemberontakan budak lokal telah dimulai!{0_namedef} dan beberapa budak di dekatnya bangun untuk melawan Anda.Mereka akan mencari senjata dan mencoba menghilangkan pemukim Anda. \ N \ nstos adalah budak yang terlibat: \ n \ n {1}</LetterLocalSlaveRebellion> 
+  <!-- EN: Slave rebellion -->
+  <LetterLabelSingleSlaveRebellion>Pemberontakan budak</LetterLabelSingleSlaveRebellion>
+  <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
+  <LetterSingleSlaveRebellion>{0_namedef} memberontak!{0_pronoun} akan mencari senjata dan mencoba menghilangkan pemukim Anda.</LetterSingleSlaveRebellion>
+
+  <!-- Slave escape -->
+  <!-- EN: Grand slave escape -->
+  <LetterLabelGrandSlaveEscape>Kebocoran budak yang hebat</LetterLabelGrandSlaveEscape>
+  <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
+  <LetterGrandSlaveEscape>Kebocoran budak yang hebat telah dimulai!Semua budakmu melarikan diri. \ N \ nstos adalah budak yang terlibat: \ n \ n {0}</LetterGrandSlaveEscape>
+  <!-- EN: Local slave escape -->
+  <LetterLabelLocalSlaveEscape>Kebocoran budak lokal</LetterLabelLocalSlaveEscape>
+  <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
+  <LetterLocalSlaveEscape>Kebocoran budak lokal telah dimulai!{0_namedef} dan beberapa budak terdekat melarikan diri. \ N \ nstos adalah budak yang terlibat: \ n \ n {1}</LetterLocalSlaveEscape>
+  <!-- EN: Slave escape -->
+  <LetterLabelSingleSlaveEscape>Kebocoran budak</LetterLabelSingleSlaveEscape>
+  <!-- EN: {0_nameDef} is attempting to escape! -->
+  <LetterSingleSlaveEscape>{0_namedef} Mencoba melarikan diri!</LetterSingleSlaveEscape>
+
+  <!-- EN: Slaves are more likely to rebel when their suppression level is low. -->
+  <SlaveRebellionSuppressionExplanation>Budak lebih cenderung memberontak ketika tingkat penindasan mereka rendah.</SlaveRebellionSuppressionExplanation>
+  
+  <!-- Ideo role -->
+  <!-- EN: {0} role activated -->
+  <LetterLabelRoleActive>Peran {0} diaktifkan</LetterLabelRoleActive>
+  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
+  <LetterLabelRoleActiveDesc>Jumlah {0} S di koloni Anda tercapai {1}.Sekarang Anda dapat menetapkan peran {role_label} ke salah satu pemukim Anda.</LetterLabelRoleActiveDesc>
+
+  <!-- EN: {0} role deactivated -->
+  <LetterLabelRoleInactive>Peran {0} dinonaktifkan</LetterLabelRoleInactive>
+  <!-- EN: Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}. -->
+  <LetterLabelRoleInactiveDesc>Jumlah {0} S di koloni Anda jatuh ke {1}.Peran {role_label} tidak lagi aktif.Peran ini akan tersedia lagi ketika jumlah {0} S mencapai {2}.</LetterLabelRoleInactiveDesc>
+
+  <!-- EN: {PAWN_labelShort}'s {ROLE_labelIndef} role lost -->
+  <LetterLabelRoleLost>Peran {role_label} dari {pawn_lallshort} hilang</LetterLabelRoleLost>
+  <!-- EN: {PAWN_labelShort} no longer holds the role of {ROLE_labelIndef}. Reason: -->
+  <LetterRoleLostDesc>{Pawn_lallshort} tidak lagi memiliki peran {role_label}.Alasan:</LetterRoleLostDesc>
+  <!-- EN: {PAWN_pronoun} was unassigned. -->
+  <LetterRoleLostReasonUnassignedDesc>desasignad{PAWN_gender ? o : a}.</LetterRoleLostReasonUnassignedDesc>
+  <!-- EN: Role became inactive due to low {0} count. -->
+  <LetterRoleLostReasonLowBelieversDesc>Peran tidak aktif karena jumlah {0} s.</LetterRoleLostReasonLowBelieversDesc>
+  <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
+  <LetterRoleLostLetterIdeoChangedPostfix>{Pawn_lallshort} kehilangan posisinya {role_label} karena ditinggalkan {oldideo_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <!-- EN: {0} skipped -->
+  <LetterObligationRoleInactive>{0} Saltado</LetterObligationRoleInactive>
+  <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
+  <LetterObligationRoleInactiveDateDesc>{0} adalah tanggal {1}, tetapi karena peran {role_label} tidak aktif, {2} S akan melewatkan: {1}.</LetterObligationRoleInactiveDateDesc>
+  
+  <!-- Ideo misc -->
+  <!-- EN: {PAWN_pronoun}'s speech converted following people to {IDEO} -->
+  <LetterSpeechConvertedListeners>Pidato {Pawn_Namedef} membuat orang -orang berikut {ideo}</LetterSpeechConvertedListeners>
+
+  <!-- EN: {0} rituals activated -->
+  <LetterTitleObligationsActivated>Ritual teraktivasi untuk {0}</LetterTitleObligationsActivated>
+  <!-- EN: {0} rituals deactivated -->
+  <LetterTitleObligationsDeactivated>Ritual dinonaktifkan untuk {0}</LetterTitleObligationsDeactivated>
+  <!-- EN: There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction. -->
+  <LetterTitleObligationsDeactivatedTooFewBelievers>Sekarang ada kurang dari {1} {ideo_membernameplural} di faksi Anda.Oleh karena itu, {ideo_mernameplural} tidak akan mengharuskan ritual {IDEO} dilakukan sampai setidaknya ada {1} dari mereka dalam faksi Anda.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <!-- EN: Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out. -->
+  <LetterTitleObligationsActivatedEnoughBelievers>Karena sekarang ada {1} {ideo_membernameplural} dalam faksi Anda, mereka akan menuntut ritual {IDEO} dilakukan.</LetterTitleObligationsActivatedEnoughBelievers>
+  <!-- EN: Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out. -->
+  <LetterTitleObligationsActivatedIdeoBecameMajor>Karena {IDEO} sekarang merupakan ideolisasi utama dari faksi Anda, {IDEO_MemberNameplural} akan mensyaratkan bahwa ritual ideolithion mereka dilakukan.</LetterTitleObligationsActivatedIdeoBecameMajor>
+
+  <!-- EN: Bond(s) removed -->
+  <LetterBondRemoved>Tautan yang dihilangkan</LetterBondRemoved>
+  <!-- EN: {PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS} -->
+  <LetterBondRemovedDesc>{Pawn_namedef} menjadi {ideo}.Karena {IDEO} tidak menyetujui tautan dengan hewan, {Pawn_pronoun} mengundurkan diri dari tautan mereka dengan hewan -hewan berikut: \ n \ n {Bonds}</LetterBondRemovedDesc>
+
+  <!-- Slave will -->
+  <!-- EN: Enslaved -->
+  <LetterLabelEnslavementSuccess>Diperbudak</LetterLabelEnslavementSuccess>
+  <!-- EN: {0_nameDef} successfully enslaved {1_nameDef}. -->
+  <LetterEnslavementSuccess>{0_namedef} berhasil diperbudak {1_namedef}.</LetterEnslavementSuccess>
+
+  <!-- Primary ideo changed -->
+  <!-- EN: Primary ideoligion changed -->
+  <LetterLabelNewPrimaryIdeo>Ideoligion utama berubah</LetterLabelNewPrimaryIdeo>
+  <!-- EN: Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs. -->
+  <LetterNewPrimaryIdeo>Ideroligion utama dari faksi Anda berubah dari {oldideo_name} a {newideo_name}. \ N \ nesto terjadi karena {newideo_name} sekarang lebih umum di antara {faction_pawnsplural} Anda daripada ideoligion lainnya. Keyakinannya.</LetterNewPrimaryIdeo>
+
+  <!-- Charity incidents -->
+  <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
+  <JoinerCharityInfo>Ini adalah insiden amal.Jika {0} ditolak, orang percaya dengan keyakinan amal tidak akan bahagia.</JoinerCharityInfo>
+  <!-- EN: This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy. -->
+  <AfflictedJoinerChartityInfo>Ini adalah insiden amal.Jika {0} mati tanpa dihadiri {0_gender?O: a} (dan sesudah {1}), orang percaya dengan keyakinan amal tidak akan bahagia.Jika {0} menghadiri {0_gender?Atau: A} atau merekrut {0_gender?O: A}, orang percaya akan senang.</AfflictedJoinerChartityInfo>
+  <!-- EN: The following believers have charitable beliefs -->
+  <PawnsHaveCharitableBeliefs>Orang -orang percaya berikut memiliki keyakinan amal</PawnsHaveCharitableBeliefs>
+
+  <!-- Change ideo mental state -->
+  <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
+  <LetterIdeoChangeConverted>{Pawn_pronoun} memutuskan bahwa keyakinannya pada {oldideo_name} tidak lagi masuk akal.</LetterIdeoChangeConverted>
+  <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
+  <LetterIdeoChangeNotConverted>Kepastian {pawn_namedef} dengan keyakinannya pada {oldideo_name} telah direduksi menjadi {newcintu}.</LetterIdeoChangeNotConverted>
+  <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
+  <LetterIdeoChangedWanderOwnRoom>{Pawn_namedef} bersembunyi di kamarnya untuk menghadapi keyakinannya.</LetterIdeoChangedWanderOwnRoom>
+  <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
+  <LetterIdeoChangedSadWander>{Pawn_namedef} berkeliaran dengan kaget saat berurusan dengan keyakinannya.</LetterIdeoChangedSadWander>
+
+  <!-- Change ideo divorces -->
+  <!-- EN: Divorce -->
+  <LetterIdeoChangedDivorce>Perceraian</LetterIdeoChangedDivorce>
+  <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
+  <LetterIdeoChangedDivorcedPawns>Keyakinan baru {Pawn_namedef} melarangnya memiliki jumlah pasangan saat ini.</LetterIdeoChangedDivorcedPawns>
+
+  <!-- Surprise reinforcement -->
+  <!-- EN: Surprise reinforcements! -->
+  <LetterLabelSurpriseReinforcements>Kejutan bala bantuan!</LetterLabelSurpriseReinforcements>
+  <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
+  <LetterSurpriseReinforcements>Bala bantuan kejutan {1} telah tiba!Mereka bergerak untuk membantu {0} dari {1}.</LetterSurpriseReinforcements>
+
+  <!-- Style change -->
+  <!-- EN: Look change desired -->
+  <LetterWantLookChange>Penampilan yang diinginkan</LetterWantLookChange>
+  <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
+  <LetterWantLookChangeDesc>{Pawn_namedef} Anda ingin mengubah penampilan Anda, karena tidak lagi bertepatan dengan apa yang diyakini {Pawn_pronoun}.Jika Anda ingin menyesuaikan penampilan Anda, pilih {Pawn_objective} dan klik tombol kanan pada tabel rias.</LetterWantLookChangeDesc>
+
+  <!-- Spacedrone incoming -->
+  <!-- EN: Spacedrone incoming -->
+  <LetterLabelSpacedroneIncoming>Space Drone tiba</LetterLabelSpacedroneIncoming>
+  <!-- EN: A spacedrone is landing nearby. -->
+  <LetterTextSpacedroneIncoming>Drone ruang angkasa mendarat di dekatnya.</LetterTextSpacedroneIncoming>
+  <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
+  <LetterTextRaidSpacedrone>Serangan {0} tiba untuk menghancurkan {1} yang terpaksa mendarat di dekat.</LetterTextRaidSpacedrone>
+
+  <!-- Hacked -->
+  <!-- EN: You've finished hacking the {0} and learned more about the ancient {1} relic. -->
+  <LetterTextSpacedroneHacked>Anda telah menyelesaikan peretasan {0} dan Anda telah belajar lebih banyak tentang relik lama {1}.</LetterTextSpacedroneHacked>
+
+  <!-- Relic destroyed -->
+  <!-- EN: Relic destroyed -->
+  <LetterLabelRelicDestroyed>Relik yang hancur</LetterLabelRelicDestroyed>
+  <!-- EN: {0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1} -->
+  <LetterTextRelicDestroyed>{0} telah dihancurkan (a)!</LetterTextRelicDestroyed>
+  
+  <!-- Relic lost -->
+  <!-- EN: Relic lost -->
+  <LetterLabelRelicLost>Relik yang hilang</LetterLabelRelicLost>
+  <!-- EN: {0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1} -->
+  <LetterTextRelicLost>¡{0} telah hilang! \ N \ nlas akan mengalami pengurangan humor: \ n {1}</LetterTextRelicLost>
+
+  <!-- Caravan destroyed -->
+  <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
+  <LetterOnlySlaveCaravanColonistsLeft>Semua non -lave {0} meninggal.Budak yang tersisa pergi.Karavan itu hilang.</LetterOnlySlaveCaravanColonistsLeft>
+
+  <!-- Hacker lost -->
+  <!-- EN: Last hacker lost -->
+  <LetterLabelLastHackerLost>Hacker terakhir hilang</LetterLabelLastHackerLost>
+  <!-- EN: The last hacker capable of unlocking the secrets of the ancient complex has been lost. Call reinforcements capable of hacking, or abandon the quest. -->
+  <LetterTextLastHackerLost>Peretas terakhir yang mampu mengungkapkan rahasia kompleks lama telah hilang.Mintalah bala bantuan yang mampu meretas atau meninggalkan misi.</LetterTextLastHackerLost>
+
+  <!-- Relic hunt -->
+  <!-- EN: Relic found -->
+  <LetterLabelRelicFound>Peninggalan ditemukan</LetterLabelRelicFound>
+  <!-- EN: You've finally learned the location of the relic {0}! -->
+  <LetterTextRelicFoundLocation>Anda telah menemukan lokasi relik {0}!</LetterTextRelicFoundLocation>
+  <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
+  <LetterTextRelicFoundSecurityThreats>Relik ditemukan dalam struktur kuno.Ini dilindungi oleh sistem keamanan dengan beberapa unit independen.Anda dapat memilih antara mengalahkan pasukan keamanan satu dalam satu sebelum mengambil peninggalan, atau mencoba mengambilnya dan melarikan diri sebelum mereka dapat merusak Anda.</LetterTextRelicFoundSecurityThreats>
+
+  <!-- Relics collection -->
+  <!-- EN: Relics collected -->
+  <LetterLabelRelicsCollected>Peninggalan koleksi</LetterLabelRelicsCollected>
+  <!-- EN: All relics belonging to {0} have been collected. The following people will be delighted -->
+  <LetterTextRelicsCollected>Semua peninggalan milik {0} telah dikumpulkan.Orang -orang berikut akan senang</LetterTextRelicsCollected>
+  <!-- EN: You have collected all the known relics of this world. The following people will be delighted -->
+  <LetterTextRelicsCollectedClassic>Anda telah mengumpulkan semua peninggalan yang diketahui di dunia ini.Orang -orang berikut akan senang</LetterTextRelicsCollectedClassic>
+
+  <!-- Gauranlen tree connection -->
+  <!-- EN: {TREE_label} connection -->
+  <LetterLabelPawnConnected>Koneksi dengan {Tree_Label}</LetterLabelPawnConnected>
+  <!-- EN: {CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning. -->
+  <LetterTextPawnConnected>{Connector_namedef} terhubung dengan {Tree_Definite}. \ N \ n {Tree_Definite} akan menghasilkan hewan kecil yang disebut dríadas, menanamnya di pod di pangkalannya.Yang kering ini dapat berspesialisasi dalam berbagai kasta.Anda dapat memilih kasta menetes mana yang ingin Anda hasilkan. {Connector_namedef} dapat memperkuat koneksi dengan pemangkasan {tree}.Mempertahankan gaya koneksi yang lebih besar membutuhkan pemangkasan yang lebih sering.</LetterTextPawnConnected>
+  <!-- EN: Connected {TREE_label} destroyed -->
+  <LetterLabelConnectedTreeDestroyed>{Tree_label} terhubung hancur</LetterLabelConnectedTreeDestroyed>
+  <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
+  <LetterTextConnectedTreeDestroyed>A {Tree_Label} yang terhubung ke {ConnectedPawn_Namedef} telah dihancurkan, membunuh ratu Dríada yang bertempat di dalam.Semua drices dari pohon itu telah mati.</LetterTextConnectedTreeDestroyed>
+
+  <!-- Archonexus victory -->
+  <!-- EN: Quest '{0}' available -->
+  <LetterLabelArchonexusWealthReached>Misi "{0}" tersedia</LetterLabelArchonexusWealthReached>
+  <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
+  <LetterTextArchonexusWealthReached>Anda telah mencapai persyaratan kekayaan untuk misi "{0}".Sekarang Anda dapat menerima misinya.</LetterTextArchonexusWealthReached>
+  <!-- EN: {0_labelShort} studied -->
+  <LetterLabelArchonexusStructureResearched>{0_labelshort} dipelajari</LetterLabelArchonexusStructureResearched>
+  <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->
+  <LetterTextArchonexusStructureResearched>Anda telah menyelesaikan studi Anda tentang: {0_labelshort}. \ N \ nno Anda dapat mengatakan bahwa Anda memahaminya sepenuhnya, tetapi Anda telah mendeteksi pola dalam perilaku mereka dan dengan cara yang tampaknya mengekspresikan informasinya.</LetterTextArchonexusStructureResearched>
+  <!-- EN: Archotech structures abandoned -->
+  <LetterLabelArchotechStructuresAbandoned>Struktur arkeotecatect yang ditinggalkan</LetterLabelArchotechStructuresAbandoned>
+  <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
+  <LetterTextArchotechStructuresAbandoned>Anda telah meninggalkan struktur arkeoteknik di {0_definite}. Nobservator yang jauh mengatakan mereka melihat kilatan besar yang berasal dari tempat ini tidak lama setelah Anda.</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <!-- EN: Reform ideoligion -->
+  <LetterLabelReformIdeo>Ideoligion reformasi</LetterLabelReformIdeo>
+  <!-- EN: You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab. -->
+  <LetterTextReformIdeo>Anda memiliki poin pengembangan yang cukup untuk reformasi {0}! Reformasi \ n \ nla memungkinkan Anda membukanya di tab Ideolisasi.</LetterTextReformIdeo>
+
+</LanguageData>

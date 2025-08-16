@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: required -->
+  <Raiding_Required.label>diminta</Raiding_Required.label>
+  <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame. -->
+  <Raiding_Required.description>Kami tidak bekerja sebagai pekerja sederhana, kami memanfaatkan yang lemah, karena itu adalah hak kami seperti yang kuat.Gagal melakukannya akan sangat memalukan.</Raiding_Required.description>
+  <Raiding_Required.comps.0.eventLabel>Dia menyerang seseorang</Raiding_Required.comps.0.eventLabel>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <Raiding_Required.comps.3.thoughtStageDescriptions.0>Kurang dari {dayssinlastraidthreshold} hari dari serangan terakhir kami</Raiding_Required.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <Raiding_Required.comps.3.thoughtStageDescriptions.1>Lebih dari {DaysSinlastraidThreshold} hari dari serangan terakhir kami</Raiding_Required.comps.3.thoughtStageDescriptions.1>
+  
+  <!-- EN: respected -->
+  <Raiding_Respected.label>dihormati</Raiding_Respected.label>
+  <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a mark of shame. -->
+  <Raiding_Respected.description>Kami tidak bekerja sebagai pekerja sederhana, kami memanfaatkan yang lemah, karena itu adalah hak kami seperti yang kuat.Gagal melakukannya akan menyedihkan.</Raiding_Respected.description>
+  <Raiding_Respected.comps.0.eventLabel>Dia menyerang seseorang</Raiding_Respected.comps.0.eventLabel>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.0>Kurang dari {dayssinlastraidthreshold} hari dari serangan terakhir kami</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.1>Lebih dari {DaysSinlastraidThreshold} hari dari serangan terakhir kami</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
+  
+</LanguageData>

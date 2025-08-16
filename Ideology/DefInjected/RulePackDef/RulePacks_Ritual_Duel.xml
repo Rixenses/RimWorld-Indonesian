@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_ritualname-> [ritnoun] dari [KeyDeity]</li>
+    <li>r_ritualname-> [ritnoun] dari [chosentheme]</li>
+    <li>r_ritualname-> [ritnoun] dari [Memeconscept]</li>
+    <li>r_ritualname-> [memeadjective] [ritnoun]</li>
+    <li>ritnoun-> pertarungan</li>
+    <li>Ritnoun-> duel</li>
+    <li>ritnoun-> pertempuran</li>
+    <li>Mereka melempar-> berkelahi</li>
+    <li>ritnoun-> kontes</li>-><NamerRitualGladiatorDuel.rulePack.rulesStrings>
+    <li>R_ritnoun- [ritnnoun] de [keydeity]</li>
+    <li>r_ritualname-> [ritnoun] de [chosentheme]</li>
+    <li>r_ritualname -> [ritneund] [memeconcepte</li>
+    <li>r_ritualname-> [ritnoun1] de [memeconceptdef]</li>
+    <li>r_ritualname-> [ritnoun] [memeadjective]</li>
+    <li>r_ritualname-> [ritnoun1] [memeadjectiveFem]</li>
+    <li>Ritnoun1-> pertarungan</li>
+    <li>Ritnoun-> duel</li>
+    <li>Ritnoun1-> pertempuran</li>
+    <li>Ritnoun1-> pertarungan</li>
+    <li>ritnoun-> memerangi</li>
+  </NamerRitualGladiatorDuel.rulePack.rulesStrings>
+  
+</LanguageData>

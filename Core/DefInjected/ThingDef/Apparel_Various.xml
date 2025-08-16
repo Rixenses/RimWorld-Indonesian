@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recon armor -->
+  <Apparel_ArmorRecon.label>Armor Explorer</Apparel_ArmorRecon.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+  <Apparel_ArmorRecon.description>Setelan servoarmadura ringan, yang dirancang untuk memungkinkan gerakan cepat.Plasiacero yang ringan, pelat yang tumpang tindih menghambat serangan tanpa mengorbankan mobilitas, dan mesin neuro-mimetik dari bagian bawah memungkinkan manusia untuk berpakaian baju besi dan bergerak dengan mudah.</Apparel_ArmorRecon.description>
+  
+  <!-- EN: T-shirt -->
+  <Apparel_BasicShirt.label>T -shirt</Apparel_BasicShirt.label>
+  <!-- EN: A simple T-shirt. -->
+  <Apparel_BasicShirt.description>Kemeja sederhana.</Apparel_BasicShirt.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>Capa</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>Lapisan panjang dengan desain yang elegan.Gantung di satu sisi batang tubuh.</Apparel_Cape.description>
+  
+  <!-- EN: button-down shirt -->
+  <Apparel_CollarShirt.label>kemeja</Apparel_CollarShirt.label>
+  <!-- EN: A nice-looking collared shirt with buttons. -->
+  <Apparel_CollarShirt.description>Kemeja yang indah dengan leher dan kancing.</Apparel_CollarShirt.description>
+  
+  <!-- EN: duster -->
+  <Apparel_Duster.label>jas hujan</Apparel_Duster.label>
+  <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
+  <Apparel_Duster.description>Mantel panjang untuk dilindungi dari matahari dan debu gurun.</Apparel_Duster.description>
+  
+  <!-- EN: flak jacket -->
+  <Apparel_FlakJacket.label>jaket anti peluru</Apparel_FlakJacket.label>
+  <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakJacket.description>Jaket kain tahan dengan pelat baju besi yang dijahit.Meskipun tidak sebagus baju besi yang solid, ia menawarkan perlindungan yang baik terhadap semua jenis serangan sementara masih cukup nyaman.</Apparel_FlakJacket.description>
+  
+  <!-- EN: flak pants -->
+  <Apparel_FlakPants.label>celana anti peluru</Apparel_FlakPants.label>
+  <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
+  <Apparel_FlakPants.description>Sepasang celana dengan pelat baju besi yang dijahit.Meskipun tidak sebagus baju besi yang solid, ia menawarkan perlindungan yang efektif terhadap semua jenis serangan sementara masih cukup nyaman.</Apparel_FlakPants.description>
+  
+  <!-- EN: flak vest -->
+  <Apparel_FlakVest.label>Rompi Antibala</Apparel_FlakVest.label>
+  <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
+  <Apparel_FlakVest.description>Rompi dengan pelat baju besi yang dimasukkan ke dalam dada dan punggung.Meskipun cukup efektif untuk mengalihkan tembakan dan menusuk ke dada, itu tidak melindungi anggota tubuh.</Apparel_FlakVest.description>
+  
+  <!-- EN: jacket -->
+  <Apparel_Jacket.label>jaket</Apparel_Jacket.label>
+  <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
+  <Apparel_Jacket.description>Jaket keras yang mencegah goresan dan memar, dan membuatnya tetap panas saat segar.</Apparel_Jacket.description>
+  
+  <!-- EN: pants -->
+  <Apparel_Pants.label>celana</Apparel_Pants.label>
+  <!-- EN: A simple set of pants. -->
+  <Apparel_Pants.description>Sepasang celana sederhana.</Apparel_Pants.description>
+  
+  <!-- EN: parka -->
+  <Apparel_Parka.label>Anorak</Apparel_Parka.label>
+  <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
+  <Apparel_Parka.description>Parka tebal untuk tetap panas bahkan di malam yang paling dingin.</Apparel_Parka.description>
+  
+  <!-- EN: plate armor -->
+  <Apparel_PlateArmor.label>Baju besi pelat</Apparel_PlateArmor.label>
+  <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
+  <Apparel_PlateArmor.description>Pelat baju besi padat yang menutupi seluruh tubuh dari leher ke kaki.</Apparel_PlateArmor.description>
+  
+  <!-- EN: marine armor -->
+  <Apparel_PowerArmor.label>Armor Marinir</Apparel_PowerArmor.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>Servoarmadura.Pelat jaringan plattif di lapisan sangat efektif untuk menghentikan serangan, dengan beberapa bagian yang rentan pada sendi.Robotika neuro-mimetik memungkinkan pandangan manusia dari baju besi dan masih dapat bergerak dengan mudah.</Apparel_PowerArmor.description>
+  
+  <!-- EN: robe -->
+  <Apparel_Robe.label>selaput</Apparel_Robe.label>
+  <!-- EN: A long, flowing robe without a hood. -->
+  <Apparel_Robe.description>Jubah panjang dan halus tanpa kap.</Apparel_Robe.description>
+  
+  <!-- EN: tribalwear -->
+  <Apparel_TribalA.label>tunik suku</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>Pakaian seluruh tubuh yang dibuat dengan alat neolitik.Meskipun mungkin tampak primitif, itu adalah isolator yang cukup efektif.</Apparel_TribalA.description>
+  
+</LanguageData>

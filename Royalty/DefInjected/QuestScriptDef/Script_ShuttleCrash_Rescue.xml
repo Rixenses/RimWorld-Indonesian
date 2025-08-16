@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>failletterendingCommon-> Anda telah gagal dalam pencarian '[resolvedQuestName]'.</li>
+    <li>SUCCESSETTERENDEndCommon-> Anda telah berhasil menyelesaikan pencarian '[Resolved QuestName]'.</li>
+    <li>goodwillsomecivilianslost-> tidak semua [asker_faction_pawnsingular] [pawnlabel] dapat diselamatkan.[Goodwillnegatif terpengaruh]</li>
+    <li>goodwillallcivilianslost-> Tidak ada [asker_faction_pawnsingular] [pawnlabelplural] yang dapat diselamatkan.[Goodwillnegatif terpengaruh]</li>
+    <li>Goodwill terpengaruh secara negatif-> Niat baik Anda dengan [asker_faction_name] telah terpengaruh secara negatif untuk setiap [pawnlabel] yang tersisa.</li>
+    <li>CommanderlandingDesc-> [asker_namedef], komandan yang meminta untuk mendarat [asker_possessive] antar-jemput di [peta_definite]</li>
+    <li>raidarrivedleTterlabel-> RAID: [musuh</li>
+    <li>raidArrivelyLetText-> [musuh.Mereka akan menyerang [asker_faction_pawnsplural] yang jatuh di [MAP_Definite]. \ N \ ndefend [asker_faction_pawnsplural] sampai antar -jemput penyelamatan mereka tiba di [Rescueshuttleafterraiddelay_duration].</li>
+    <li>RescueshuttlearrivedleTterlabel-> RESTRUTTLE RESCUE Tiba</li>
+    <li>RescueshuttlearrivedleTterText-> The Rescue Shuttle telah tiba untuk mengumpulkan [Pawnlabelsingleorplural] yang jatuh mendarat.Pastikan orang -orang ini di antar -jemput sebelum pergi di [Leavedelay_Duration]: \ n \ n [warga sipil]</li>
+    <li>QuestCompletedSuccessletterlabel-> Quest selesai: [ResolvedQuestName]</li>
+    <li>QuestCompletedSucCessLetTerText-> [CommanderlandingDesc], telah melarikan diri.[asker_pronoun] berterima kasih atas bantuan [asker_pronoun] yang diterima di [MAP_DEFINITE]. \ n \ n [SUCCESSTERLETTERENDINGCOMMON]</li>
+    <li>QuestCompletedCivilianSlostSuccessletterlabel-> Quest selesai: [ResolvedQuestName]</li>
+    <li>QuestCompletedCiviliansLostSuccessLetTerText-> [CommanderlandingDesc], telah melarikan diri.</li>
+    <li>askerlostletterlabel-> quest gagal: [resolvedquestname]</li>
+    <li>askerlostlettertext-> [commanderlandingdesc] tidak ada di atas kapal ketika pesawat ulang-alik berangkat.</li>
+    <li>Alllostletterlabel-> Quest Gagal: [ResolvedQuestName]</li>
+    <li>alllostleTTerText-> Pesawat ulang-alik penyelamatan untuk yang jatuh [asker_faction_pawnsplural] telah berangkat tanpa ada orang di papan.</li>
+    <li>askerdiedletterlabel-> quest gagal: [resolvedquestname]</li>
+    <li>askerdiedlettertext-> [commanderlandingdesc] telah meninggal. \ n \ n [failletterendingcommon]</li>
+    <li>civiliandiedletterlabel-> Quest gagal: [ResolvedQuestName]</li>
+    <li>civiliandiedlettertext-> seorang warga sipil telah meninggal. \ n \ n [failletterendingcommon]</li>
+    <li>Shuttledestroyedletterlabel-> Quest Gagal: [ResolvedQuestName]</li>
+    <li>ShuttledestroyedletterText-> Shuttle yang dikirim untuk mengumpulkan [asker_faction_pawnsplural yang macet] telah dihancurkan.[Asker_faction_pawnsplural] sekarang akan pergi dengan berjalan kaki. \ N \ n [failletterendingcommon]</li>
+    <li>shuttleleftbehindletterlabel-> quest gagal: [resolvedQuestName]</li>
+    <li>ShuttleleftbehindletterText-> Shuttle yang dikirim untuk mengumpulkan yang tertinggal [asker_faction_pawnsplural] telah ditinggalkan.[Asker_faction_pawnsplural] sekarang akan pergi dengan berjalan kaki. \ N \ n [failletterendingcommon]</li>
+    <li>MapremovedLetTerLabel-> Quest Gagal: [ResolvedQuestName]</li>
+    <li>MapRemovedLetTerText-> Peta tertinggal sebelum yang crash [asker_faction_pawnsplural] dapat dikumpulkan.[Asker_faction_pawnsplural] sekarang akan pergi dengan berjalan kaki. \ N \ n [failletterendingcommon]</li>-><ShuttleCrash_Rescue.questContentRules.rulesStrings>
+    <li>FaillettendendCommon-> Anda telah gagal misi "[resolvedQuestName]".</li>
+    <li>SUCCESTETETINGCOMMON-> Anda telah berhasil menyelesaikan misi "[ResolvedQuestName]".</li>
+    <li>goodwillsomecivilianslosst-> tidak semuanya [pawnlabel] [asker_faction_pawnsingular] dapat diselamatkan.[Goodwillnegatif terpengaruh]</li>
+    <li>GoodwillallCiviliansLosst-> tidak ada [Pawnlabelplural] [asker_faction_pawnsingular] yang dapat diselamatkan.[Goodwillnegatif terpengaruh]</li>
+    <li>Goodwillnegatif tidak tahu-> reputasi Anda dengan faksi [asker_faction_name] telah dipengaruhi secara negatif oleh masing-masing [pawnlabel] yang tertinggal.</li>
+    <li>CommanderlandingDesc-> [asker_namedef], [asker_the] komandan yang meminta untuk mendaratkan feri di [peta_definite]</li>
+    <li>RaidArrivelyLabel-> Assault: Faction [Enemyfaction_name]</li>
+    <li>RaidarrivedleText-> [musuh.Mereka akan menyerang [asker_faction_pawnsplural] yang menabrak [peta_definite].</li>
+    <li>RescuestlearrivedleTterlabel-> penyelamat tiba</li>
+    <li>RescuestlearrivedleText-> The Rescue Ferry telah tiba untuk mengambil [PawnlabelsingleorpluralDef] yang [jatuh tanah].Pastikan Anda memiliki [Tohepeople] di feri sebelum Anda lepas landas di [Levedelay_Duration]: \ n \ n [warga sipil]</li>
+    <li>QuestCompletedSuccessletterlabel-> Misi Dipenuhi: [ResolvedQuestName]</li>
+    <li>QuestCompletedSuccessLetText-> [CommanderlandingDesc], telah melarikan diri.Dia bersyukur [asker_o_a] atas bantuan yang dia terima di [map_definite]. \ N \ n [SUCCESTLETTERENDINGCOMMON]</li>
+    <li>QuestCompletedCiviliansslsccessletterlabel-> Misi Dipenuhi: [ResolvedQuestName]</li>
+    <li>QuestCompletedCiviliansLostSuccessLetTerText-> [CommanderlandingDesc], Pudo Escapar. \ n \ n [Goodwillsomecivilianslost] \ n \ n [SuccessTerendendendCommon]]</li>
+    <li>Askerlostletterlabel-> Fald Mission: [ResolvedQuestName]</li>
+    <li>Askerlostlettertext-> [commanderlandingdesc] tidak ada di atas kapal ketika feri berangkat.</li>
+    <li>Alllostletterlabel-> Fald Mission: [ResolvedQuestName]</li>
+    <li>Alllostlettext-> Ferry penyelamat untuk [asker_faction_pawnsplural] yang jatuh tidak ada yang tersisa dengan tidak ada yang ada di papan.</li>
+    <li>Askerdiedletterlabel-> Fald Mission: [ResolvedQuestName]</li>
+    <li>askerdiedlettertext-> [commanderlandingdesc] ha muerto. \ n \ n [failletterendingcommon]</li>
+    <li>Shuttledestroyedletterlabel-> Fald Mission: [ResolvedQuestName]</li>
+    <li>Shuttledestroyedlettext-> The Ferry yang dikirim untuk mengambil [asker_faction_pawnsplural] yang hancur telah dihancurkan.[Asker_faction_pawnsplural] sekarang akan keluar dengan berjalan kaki. \ N \ n [faillettendendendCommon]</li>
+    <li>Ciptaadletterlabel-> fald misi: [resolvedquestname]</li>
+    <li>CiviliandiedleText-> a sipil memiliki muerto.</li>
+    <li>Shuttleleftbehindletterlabel-> fald misi: [ResolvedQuestName]</li>
+    <li>shuttleftbehindlettext-> feri yang dikirim untuk mengambil [asker_faction_pawnsplural] yang menderita kecelakaan telah ditinggalkan.[Asker_faction_pawnsplural] sekarang akan keluar dengan berjalan kaki. \ N \ n [faillettendendendCommon]</li>
+    <li>MapremovedLetTerLabel-> Misi Gagal: [ResolvedQuestName]</li>
+    <li>MapremovedLetText-> Peta tertinggal sebelum dia bisa mengambil [asker_faction_pawnsplural] yang menderita kecelakaan.[Asker_faction_pawnsplural] sekarang akan keluar dengan berjalan kaki. \ N \ n [faillettendendendCommon]</li>
+  </ShuttleCrash_Rescue.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>Pawnlabel-> Sipil</li>
+    <li>Pawnlabelplural-> warga sipil</li>-><ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+    <li>Pawnlabel-> Civil</li>
+    <li>Pawnlabelplural-> Civilies</li>
+  </ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>Pawnlabelsingleorplural (sipil_count = 1)-> [Pawnlabel]</li>
+    <li>Pawnlabelsingleorplural (sipil_count> = 2)-> [Pawnlabelplural]</li>
+    <li>QuestDescription-> An Shuttle dari [asker_faction_name] telah mengalami kerusakan dan mencari tempat untuk mendarat.Komandannya [asker_namedef] ingin mendarat di [MAP_Definite]. \ N \ n [musuh.Anda harus membela mereka. \ N \ n Shuttle berisi [asker_namedef] [Andothercivilians] dan [soldiercountkinds].Komandan [Andcivilians] harus diselamatkan, tetapi [prajurit0_kindplural] dapat dikorbankan. \ N \ nafter [rescuedelay_duration], pesawat ulang -alik penyelamat akan datang untuk menjemput para penyintas.Anda harus mendapatkan semuanya di dalam [Leavedelay_Duration].</li>
+    <li>Andothercivilians (sipil_count == 1)-></li>
+    <li>Andothercivilians (sipil_count == 2)->, [Pawnlabel] lainnya,</li>
+    <li>Andothercivilians (sipil_count> = 3)->, [sipil countminusone] lainnya [Pawnlabelsingleorplural],</li>
+    <li>andcivilians (sipil_count == 1)-></li>
+    <li>Andcivilians (sipil_count == 2)-> dan [Pawnlabel]</li>
+    <li>Andcivilians (sipil_count> = 3)-> dan [Pawnlabelplural]</li>
+    <li>SoldierCountKinds (soldiers_count == 1)-> [tentara_count] [soldiers0_kind]</li>
+    <li>SoldierCountKinds (Soldiers_Count> 1)-> [Soldiers_Count] [Soldiers0_Kindplural]</li>-><ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+    <li>Pawnlabelsingleorplural (sipil_count = 1)-> [Pawnlabel]</li>
+    <li>Pawnlabelsingleorplural (sipil_count> = 2)-> [Pawnlabelplural]</li>
+    <li>PawnlabelsingleorpluralDef (civilians_count == 1, pawn_gender == jantan)-> el [pawnlabel]</li>
+    <li>PawnlabelsingleorpluralDef (sipil_count == 1, Pawn_gender! = Pria) [Pawnlabel]</li>
+    <li>PawnlabelsingleorpluralDef (civilians_count> = 2)-> los [pawnlabelplural]</li>
+    <li>Lainnya (sipil_count == 1)-> otro</li>
+    <li>Lainnya (sipil_count> = 2)-> otros</li>
+    <li>QuestDescription-> Transfutor dari faksi [asker_faction_name] telah mengalami kerusakan dan mencari tempat untuk mendarat.Komandannya [asker_namedef] ingin mendarat di [MAP_Definite]. Anda harus membela mereka.[Asker_thecap] komandan [andcivilians] [harus] [diselamatkan], tetapi [prajuritvar] \ n \ nes dari [rescuedelay_duration], feri penyelamat akan datang untuk menjemput para penyintas.Anda harus mengatasinya di dalam [LeVedelay_Duration].</li>
+    <li>Andothercivilians (sipil_count == 1)-></li>
+    <li>Andothercivilians (sipil_count == 2, Pawn_gender == jantan)->, otro [Pawnlabel],</li>
+    <li>Andothercivilians (sipil_count == 2, Pawn_gender! = Pria)->, Otra [Pawnlabel],</li>
+    <li>Andothercivilians (civilians_count> = 3)->, [lainnya] [sipil civiltminusone] [pawnlabelsingleorplural],</li>
+    <li>andcivilians (sipil_count == 1)-></li>
+    <li>Andcivilians (civilians_count == 2, pawn_gender == jantan)-> y el [pawnlabel]</li>
+    <li>Andcivilians (civilians_count == 2, Pawn_gender! = Pria)-> y la [Pawnlabel]</li>
+    <li>dan warga sipil (civils_because> = 3)-> dan [label jamak]</li>
+    <li>harus BE (sipil_count == 1)-> debe</li>
+    <li>harus BE (sipil_count> 1)-> deben</li>
+    <li>diselamatkan (sipil_count == 1, asker_gender == pria)-> restatado</li>
+    <li>diselamatkan (sipil_count == 1, asker_gender! = pria)-> restatada</li>
+    <li>diselamatkan (warga sipil_count> 1)-> respatados</li>
+    <li>SoldiersC (soldiers_count == 1)-> [soldiers_count] [soldiers0_kind]</li>
+    <li>SoldiersC (Soldiers_Count> 1)-> [Soldiers_Count] [Soldiers0_Kindplural]</li>
+    <li>SoldiersVar (Soldiers_Count == 1, Pawn_gender == pria)-> [prajurit0_kind] dapat dikorbankan.</li>
+    <li>SoldiersVar (Soldiers_Count == 1, Pawn_gender! = Pria)-> [prajurit0_kind] dapat dikorbankan.</li>
+    <li>SoldiersVar (Soldiers_Count> 1)-> [Tentara0_Kindplural] dapat dikorbankan.</li>
+  </ShuttleCrash_Rescue.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [Shuttle] [crash]</li>
+    <li>QuestName-> [asker_faction_pawnsingular] [shuttle] [crash]</li>
+    <li>QuestName-> [rusak] [Shuttle]</li>
+    <li>QuestName-> [asker_namedef] [rusak] [Shuttle]</li>
+    <li>QuestName-> [darurat] [pendaratan]</li>
+    <li>QuestName-> [asker_namedef] [darurat] [pendaratan]</li>
+    <li>Shuttle-> Shuttle</li>
+    <li>Shuttle-> Transporter</li>
+    <li>Shuttle-> kapal</li>
+    <li>crash-> crash</li>
+    <li>crash-> turun</li>
+    <li>rusak-> rusak</li>
+    <li>rusak-> rusak</li>
+    <li>rusak-> gagal</li>
+    <li>darurat-> darurat</li>
+    <li>darurat-> dipaksakan</li>
+    <li>Pendaratan-> Pendaratan</li>
+    <li>Pendaratan-> Keturunan</li>
+    <li>Pendaratan-> pendekatan</li>-><ShuttleCrash_Rescue.questNameRules.rulesStrings>
+    <li>QuestName-> [Shuttle] [crash]</li>
+    <li>QuestName-> [ShuttleFem] [crashfem]</li>
+    <li>QuestName-> [asker_faction_pawnsingular] y el [shuttle] [crash]</li>
+    <li>QuestName-> [asker_faction_pawnsingular] y la [shuttleFem] [crashfem]</li>
+    <li>QuestName-> [Shuttle] [rusak]</li>
+    <li>QuestName-> [ShuttleFem] [RavagedFem]</li>
+    <li>Costname-> l [shuttle] [Demaged] de [hari ini_namedef]</li>
+    <li>Costname-> la [sutalfam] [demagadfem] de [hari ini_namedef]</li>
+    <li>QuestName-> [Landing] [darurat]</li>
+    <li>QuestName-> The [landing] [darurat] dari [asker_namedef]</li>
+    <li>Shuttle-> Transboper</li>
+    <li>Shuttle-> operator</li>
+    <li>ShuttleFem-> nave</li>
+    <li>Crash-> star</li>
+    <li>Crashfem-> star</li>
+    <li>Crash-> Fallen</li>
+    <li>Crashfem-> Fall</li>
+    <li>Rusak-> rusak</li>
+    <li>rusak-> deteriorado</li>
+    <li>Rusak-> rusak</li>
+    <li>Rusakfem-> rusak</li>
+    <li>Rusak em-> memburuk</li>
+    <li>Rusak em-> rusak</li>
+    <li>darurat darurat</li>
+    <li>Darurat-> dipaksakan</li>
+    <li>Pendaratan-> Pendaratan</li>
+    <li>Pendaratan-> Descenso</li>
+    <li>Pendaratan-> Pendaratan</li>
+  </ShuttleCrash_Rescue.questNameRules.rulesStrings>
+  
+</LanguageData>

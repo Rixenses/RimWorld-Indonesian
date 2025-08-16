@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [msyl] [msyl] [mechhive]</li>
+    <li>mechhive-> mechhive</li>
+    <li>msyl->nyar</li>
+    <li>msyl-> alg</li>
+    <li>msyl-> xan</li>
+    <li>msyl-> zel</li>
+    <li>msyl-> kil</li>
+    <li>Msyl-> len</li>
+    <li>msyl-> lax</li>
+    <li>msyl-> alf</li>
+    <li>msyl-> ome</li>
+    <li>Hubungkan> Ketelanjangan</li>
+    <li>msyl-> slin</li>
+    <li>msyl-> toth</li>
+    <li>MASIL-> Earth</li>
+    <li>MASIL-></li>
+    <li>msyl-> ox</li>
+    <li>msyl-> lengan</li>
+    <li>msyl-> fraktur</li>
+    <li>msyl-> zen</li>
+    <li>msyl-> yoth</li>
+    <li>msyl-> sedikit</li>-><NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name-> [mechhive] [msyl] [msyl_extra]</li>
+    <li>Mechhive-> Mecacolmena</li>
+    <li>msyl->Alfa</li>
+    <li>msyl-> beta</li>
+    <li>msyl-> gamma</li>
+    <li>mssyl-> delta</li>
+    <li>msyl-> epsilon</li>
+    <li>Msyl-> dan</li>
+    <li>msyl-> omega</li>
+    <li>msyl-> omicron</li>
+    <li>msyl-> nova</li>
+    <li>msyl_extra-> prima</li>
+    <li>msyl_extra-> 626-m</li>
+    <li>msyl_extra-> 319-B</li>
+    <li>msyl_extra-> 515-H</li>
+    <li>msyl_extra-> 010-A</li>
+    <li>msyl_extra-> centaury</li>
+    <li>msyl_extra-> lupus</li>
+    <li>msyl_extra-> magnus</li>
+    <li>msyl_extra-> omega</li>
+    <li>msyl_extra-> prime</li>
+    <li>msyl_extra-> zers</li>
+  </NamerFactionMechanoid.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 3)-> [NearNameInitial]</li>
+    <li>r_name-> [nearNameInitial] [Political_union_outlander]</li>
+    <li>r_name-> [NearNameInitial] [Political_adjective] [Political_Union_outlander]</li>
+    <li>r_name-> [Political_Union_outlander] dari [NearNameInitial]</li>
+    <li>r_name-> [Political_adjective] [Political_Union_outlander] dari [NearNameInitial]</li>
+    <li>NearNameInitial (P = 3)-> [Placeoutlander]</li>
+    <li>NearNameInitial-> [Direction] [Placeoutlander]</li>-><NamerFactionOutlander.rulePack.rulesStrings>
+    <li>r_name (p = 3)-> [NearNameInitial]</li>
+    <li>r_name-> [Political_Union_outlander] de [nearNameInitial]</li>
+    <li>r_name-> [Political_Union_outlander] [Political_adjective] de [nearNameInitial]</li>
+    <li>r_name-> [Political_Union_outlander] [NearNameInitial]</li>
+    <li>NearNameInitial (P = 3)-> [Placeoutlander]</li>
+    <li>NearNameInitial-> [Placeoutlander] Del [Direction]</li>
+  </NamerFactionOutlander.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> The [animalBadass] s</li>
+    <li>r_name-> The [animalbadass] pria</li>
+    <li>r_name-> [animalBadass] dari [ConceptBadass]</li>
+    <li>r_name-> [personbadass] dari [ConceptBadass]</li>
+    <li>r_name-> [Personbadass] s</li>
+    <li>r_name-> [musuh] s</li>
+    <li>r_name-> The [senjata] pria</li>
+    <li>r_name-> [senjata] s</li>
+    <li>r_name-> [senjata] [animalbadass] s</li>
+    <li>r_name-> [senjata] [musuh] s</li>
+    <li>nama-> [warna badass] [senjata</li>
+    <li>r_name-> [ColorBadass] [animalBadass] s</li>
+    <li>r_name-> [ColorBadass] [personbadass] s</li>
+    <li>r_name-> [ColorBadass] [musuh] s</li>
+    <li>r_name-> [personbadass] [groupName]</li>
+    <li>r_name-> [musuh] [musuh] s</li>
+    <li>r_name-> [AdjectiveBadass] [GroupName]</li>
+    <li>r_name-> [AdjectiveBadass] [AnimalBadass] s</li>
+    <li>r_name-> [AdjectiveBadass] [musuh] s</li>
+    <li>r_name-> [AdjectiveBadass] [personbadass] s</li>
+    <li>r_name-> [secara pribadi] dari [ConceptBadass]</li>
+    <li>r_name (p = 0.4)-> pemakan [gore]</li>
+    <li>r_name-> [Nameperson] [musuh] s</li>
+    <li>r_name-> [Nameperson] [AnimalBadass] s</li>
+    <li>r_name-> [Nameperson] [senjata] s</li>
+    <li>r_name-> [senjata] [GroupName]</li>
+    <li>r_name-> [ConceptBadass] [GroupName]</li>-><NamerFactionPirate.rulePack.rulesStrings>
+    <li>r_name-> los [animalbadassmaspl]</li>
+    <li>r_name-> las [animalbadassfempl]</li>
+    <li>R_name-> pria [animalbadasmaspl]</li>
+    <li>r_name-> pria [animalbadsfemppl]</li>
+    <li>r_name-> [animalBadassmaspl] dari [ConceptBadassFem</li>
+    <li>r_name-> [AnimalBadassmore] dari [ConceptBoDassFem]</li>
+    <li>r_name-> [animalBadassmaspl] dari [ConceptBoDass]</li>
+    <li>r_name-> [animalbadassme</li>
+    <li>r_name-> [personbadass] dari [ConceptBadass]</li>
+    <li>r_name-> [personbadass] dari [ConceptBadassFem]</li>
+    <li>r_name-> los [personbadass] s</li>
+    <li>r_name-> los [musuh] s</li>
+    <li>r_name-> pria [weaponvarpl]</li>
+    <li>r_name-> [weaponcac_plural] de la [ConceptBadassFem]</li>
+    <li>r_name-> [animalBadassmaspl] y [weaponvarpl]</li>
+    <li>r_name-> los [musuh] s [weaponvarpl]</li>
+    <li>r_name-> los [personbadass] s [colorbadass] s</li>
+    <li>r_name-> los [animalbadassmaspl] [colorbadass] s</li>
+    <li>r_name-> los [personbadass] s [colorbadass] s</li>
+    <li>r_name-> los [musuh] s [colorbadass] s</li>
+    <li>r_name-> [groupName] de [personbadass] s</li>
+    <li>r_name-> los [musuh [musuh] adalah</li>
+    <li>r_name-> [groupName] [AdjectiveBadass]</li>
+    <li>r_name-> los [animalBadass] s [adjectivebadass] s</li>
+    <li>r_name-> los [musuh] s [adjectivebadass] s</li>
+    <li>r_name-> los [personbadass] s [adjectivebadass] s</li>
+    <li>r_name-> [pribadi] dari [ConceptBadassFem]</li>
+    <li>r_name (p = 0.4)-> los datang [gore_plural]</li>
+    <li>r_name-> [nameperson] y sus [musuh] s</li>
+    <li>R_name-> [nameperson] y sus [animalassmast]</li>
+    <li>r_name-> [weaponvarpl] de [nameperson]</li>
+    <li>r_name-> [groupName] de [weaponvarpl]</li>
+    <li>r_name-> [groupName] de [ConceptBadass]</li>
+    <li>r_name-> [huruf] [huruf]-[digit] [digit]</li>
+  </NamerFactionPirate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> [Wordtribal] [Political_Union_Tribal]</li>
+    <li>r_name-> [wordtribal] [Political_union_tribal]</li>
+    <li>r_name-> [warna] [Terrainfeature] [Politic_union_tribal]</li>
+    <li>r_name-> [Political_Union_Tribal] dari [Wordtribal]</li>
+    <li>r_name-> [warna] [hewan] [wordtribal]</li>
+    <li>r_name-> [Political_Union_Tribal] dari [Terrainfeature]</li>-><NamerFactionTribal.rulePack.rulesStrings>
+    <li>r_name-> [Political_Union_Tribal] de [Wordtribal]</li>
+    <li>r_name-> [Political_Union_Tribal] del [Terrainfeature] [Color]</li>
+    <li>r_name-> [POLITIC_UTION_TRIBAL] de la [terrainfeature_fem] [color_fem]</li>
+    <li>r_name-> [Political_Union_Tribal] de [Wordtribal]</li>
+    <li>r_name-> [wordtribal_cap]</li>
+    <li>r_name-> el [terrainfeature] [color] [Political_union_tribal]</li>
+    <li>r_name-> la [terrainfeature_fem] [color_fem] [POLITIC_UTION_TRIBAL]</li>
+    <li>r_name-> el [hewan] [warna] [wordtribal]</li>
+    <li>r_name-> la [animal_fem] [color_fem] [wordtribal]</li>
+    <li>r_name-> [Terrainfeature] [Wordtribal]</li>
+    <li>r_name-> [terrainfeature_fem] [wordtribal]</li>
+  </NamerFactionTribal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> koloni</li>-><NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name-> Colonia</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name-> desa</li>-><NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name-> aldea</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 12)-> [townname_wordgen]</li>
+    <li>r_name (p = 6)-> [townname_fixed]</li>
+    <li>r_name (p = 4)-> [townname_combo]</li>
+    <li>r_name-> [TownName_Near]</li>
+    <li>Topicalnoun-> [Sayuran]</li>
+    <li>TopicalNoun-> [Game]</li>
+    <li>Topicalnoun-> [Bodypart]</li>
+    <li>townname_combo-> [TopicalNoun] [Terrainfeature]</li>
+    <li>townname_combo-> [TopicalNoun] [Komunitas]</li>
+    <li>TownName_Combo-> [TopicalNoun] [Terrainfeature]</li>
+    <li>TownName_Combo-> [TopicalNoun] [Komunitas]</li>
+    <li>townname_combo (p = 2)-> [Concept_Positive] [Terrainfeature]</li>
+    <li>townname_combo (p = 2)-> [concept_positive] [Terrainfeature]</li>
+    <li>townname_combo (p = 2)-> [concept_positive] [komunitas]</li>
+    <li>townname_combo (p = 3)-> [karakter] [Terrainfeature]</li>
+    <li>townname_combo (p = 3)-> [karakter] [Komunitas] [Komunitas]</li>
+    <li>townname_near-> [nearNameInitial] -at-the- [terrainfeature]</li>
+    <li>TownName_Near-> [NearNameInitial] -By-the- [Terrainfeature]</li>
+    <li>TownName_Near-> [NearNameInitial] -on-the- [Terrainfeature]</li>
+    <li>Near-nameInitial-> [townname_wordgen]</li>
+    <li>NearNameInitial-> [Komunitas]</li>
+    <li>Townname_wordgen (p2)-> [style] [style]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [syle]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [Townend]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [Townend]</li>
+    <li>townname_wordgen-> [Terrainfeature] [Townend]</li>
+    <li>townname_wordgen-> [TopicalNoun] [Townend]</li>
+    <li>Townend-> Ville</li>
+    <li>Townend-> Town</li>
+    <li>Townend-> Hurst</li>
+    <li>Townend-> Bourne</li>
+    <li>Townend-> Brad</li>
+    <li>Townend-> Dale</li>
+    <li>Townend-> Hope</li>
+    <li>Townend-> ing</li>
+    <li>Townend-> ness</li>
+    <li>Townend-> Mere</li>
+    <li>Townend-> Shaw</li>
+    <li>Townend-> Wick</li>
+    <li>Townend-> ton</li>
+    <li>Townend-> Ston</li>
+    <li>townend-> os</li>
+    <li>townend-> den</li>
+    <li>Townend-> Tas</li>
+    <li>Townend-> Wood</li>
+    <li>Townend-> tanah</li>
+    <li>Townend-> Layak</li>
+    <li>Towndend-> disana</li>
+    <li>Townend-> ron</li>
+    <li>Townend-> Baiklah</li>-><NamerSettlementOutlander.rulePack.rulesStrings>
+    <li>r_name (p = 12)-> [townname_wordgen]</li>
+    <li>r_name (p = 6)-> [townname_fixed]</li>
+    <li>r_name (p = 4)-> [townname_combo]</li>
+    <li>r_name-> [TownName_Near]</li>
+    <li>Topicalnoun-> [Sayuran]</li>
+    <li>Topicalnoun-> [Color]</li>
+    <li>Topicalnoun-> [Bodypart]</li>
+    <li>townname_combo-> [Terrainfeature] [TopicalNoun]</li>
+    <li>townname_combo-> [komunitas] [TopicalNoun]</li>
+    <li>townname_combo-> [Terrainfeature] [TopicalNoun]</li>
+    <li>townname_combo-> [komunitas] [TopicalNoun]</li>
+    <li>townname_combo (p = 2)-> [terrainfeature] [concept_positive]</li>
+    <li>townname_combo (p = 2)-> [terrainfeature] [concept_positive]</li>
+    <li>townname_combo (p = 2)-> [komunitas] [concept_positive]</li>
+    <li>townname_combo (p = 3)-> [terrainfeature] del [karakter]</li>
+    <li>townname_combo (p = 3)-> [komunitas] [karakter]</li>
+    <li>Nama Kota Dekat-> San [Gaya] [Gaya]</li>
+    <li>townname_near-> [nearNameInitial] del [Terrainfeature]</li>
+    <li>Townname_Near-> [NearNameInitial] de la [Terrainfeature_fem]</li>
+    <li>Near-nameInitial-> [townname_wordgen]</li>
+    <li>NearNameInitial-> [CommunityAny]</li>
+    <li>Townname_wordgen (p2)-> [style] [style]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [syle]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [Townend]</li>
+    <li>townname_wordgen (p = 2)-> [townbegin] [Syle]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [Townend]</li>
+    <li>townname_wordgen (p = 2)-> [townbegin] [syle] [syle]</li>
+    <li>townname_wordgen-> [Syle] [Syle]</li>
+    <li>Nama Kota Wormen-> Santa [Syke] [Syke]</li>
+    <li>townbegin-> villa</li>
+    <li>townbegin-> villa</li>
+    <li>Townend-> Burgo</li>
+    <li>Townend-> Burgo</li>
+    <li>Townend-> Burgo</li>
+    <li>Townend-> Burgo</li>
+    <li>Townend-> Burgo</li>
+    <li>Townend-> Landia</li>
+    <li>Townend-> Landia</li>
+    <li>Townend-> Landia</li>
+    <li>townend-> lan</li>
+    <li>townend-> lan</li>
+    <li>Townend-> Guay</li>
+    <li>Townend-> Guay</li>
+    <li>Townend-> Guay</li>
+    <li>Townend-> Guay</li>
+    <li>Townend-> Tepec</li>
+    <li>Townend-> Tepec</li>
+    <li>Townend-> Tepec</li>
+    <li>Townend-> Tepec</li>
+    <li>Townend-> tlan</li>
+    <li>Townend-> tlan</li>
+    <li>Townend-> tlan</li>
+  </NamerSettlementOutlander.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 4)-> [townname_combo]</li>
+    <li>r_name-> [townname_wordgen]</li>
+    <li>TownName_Combo-> [AnimalBadass] [Geografi]</li>
+    <li>TownName_Combo-> [AnimalBadass] [Geografi]</li>
+    <li>townname_combo-> [ConceptBadass] [Geografi]</li>
+    <li>TownName_Combo-> [ConceptBadass] [Geografi]</li>
+    <li>townname_combo-> [personbadass] [geografi]</li>
+    <li>TownName_Combo-> [Personbadass] [Geografi]</li>
+    <li>TownName_Combo-> [Musuh] [Geografi]</li>
+    <li>townname_combo-> [musuh] [geografi]</li>
+    <li>TownName_Combo-> [Weapon] [Geografi]</li>
+    <li>townname_combo-> [senjata] [Geografi]</li>
+    <li>townname_combo-> [ColorBadass] [Geografi]</li>
+    <li>Geografi (P = 2)-> [Terrainfeature]</li>
+    <li>Geografi-> [Komunitas]</li>
+    <li>Townname_wordgen (p2)-> [style] [style]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [syle]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [Townendevil]</li>
+    <li>townname_wordgen (p = 2)-> [syle] [syle] [townendevil]</li>
+    <li>townendevil-> luas</li>
+    <li>townendevil-> varg</li>
+    <li>townendevil-> vix</li>
+    <li>townendevil-> tor</li>
+    <li>townendevil-> robek</li>
+    <li>cut townendevil-></li>
+    <li>townendevil-> lop</li>
+    <li>Townendevil-> Oze</li>
+    <li>townendevil-> ozzle</li>
+    <li>townendevil-> latch</li>
+    <li>townendevil-> lock</li>
+    <li>Townendevil-> Burn</li>
+    <li>townendevil-> sear</li>
+    <li>townendevil-> shank</li>
+    <li>townendevil-> terluka</li>
+    <li>townendevil-> vash</li>
+    <li>townendevil-> warg</li>
+    <li>townendevil-> wug</li>
+    <li>townendevil-> thot</li>
+    <li>townendevil-> thard</li>
+    <li>townendevil-> thad</li>-><NamerSettlementPirate.rulePack.rulesStrings>
+    <li>r_name (p = 4)-> [townname_combo]</li>
+    <li>r_name-> [townname_wordgen]</li>
+    <li>townname_combo-> [Geografi] del [animalbadass]</li>
+    <li>Townname_combo-> [Geografi] de la [animalbadass_fem]</li>
+    <li>townname_combo-> [Geografi] del [ConceptBadass]</li>
+    <li>townname_combo-> [Geografi] de la [ConceptBadass_fem]</li>
+    <li>townname_combo-> [Geografi] del [personbadass]</li>
+    <li>townname_combo-> [Geografi] de la [personbadass_fem]</li>
+    <li>townname_combo-> [Geografi] del [musuh]</li>
+    <li>Townname_como-> [geografi] dari [musuh_fem]</li>
+    <li>townname_combo-> [Geografi] del [senjata]</li>
+    <li>townname_combo-> [Geografi] de la [senjata_fem]</li>
+    <li>townname_combo-> [geografi] [senjata]</li>
+    <li>townname_combo-> [geografi] [senjata_fem]</li>
+    <li>townname_combo-> [Geografi] [ColorBadass]</li>
+    <li>townname_combo-> [geography_fem] [colorbadass_fem]</li>
+    <li>Geografi (P = 2)-> [TerrainfitureAny]</li>
+    <li>Geografi-> [Komunitas]</li>
+    <li>geography_fem-> [community_fem]</li>
+    <li>townname_wordgen (p = 2)-> [syle_cap] [syle]</li>
+    <li>Townname_wordgen (p = 2)-> [syle_cap] [syle] [syle]</li>
+    <li>townname_wordgen (p = 2)-> [syle_cap] [townendevil]</li>
+    <li>townname_wordgen (p = 2)-> [syle_cap] [syle] [townendevil]</li>
+    <li>townendevil-> luas</li>
+    <li>townendevil-> varg</li>
+    <li>townendevil-> vix</li>
+    <li>townendevil-> tor</li>
+    <li>townendevil-> robek</li>
+    <li>cut townendevil-></li>
+    <li>townendevil-> lop</li>
+    <li>Townendevil-> Oze</li>
+    <li>townendevil-> ozzle</li>
+    <li>townendevil-> latch</li>
+    <li>townendevil-> lock</li>
+    <li>Townendevil-> Burn</li>
+    <li>townendevil-> sear</li>
+    <li>townendevil-> shank</li>
+    <li>townendevil-> terluka</li>
+    <li>townendevil-> vash</li>
+    <li>townendevil-> warg</li>
+    <li>townendevil-> wug</li>
+    <li>townendevil-> thot</li>
+    <li>townendevil-> thard</li>
+    <li>townendevil-> thad</li>
+  </NamerSettlementPirate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [wordtribal]</li>
+    <li>r_name-> [color] [Wordtribal]</li>
+    <li>r_name-> [warna] [Terrainfeature]</li>
+    <li>r_name-> [Wordtribal] [Terrainfeature]</li>-><NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [wordtribal_cap]</li>
+    <li>r_name-> [wordtribal_cap] [wordtribal]</li>
+    <li>r_name-> [Terrainfeature] [Color]</li>
+    <li>r_name-> [Terrainfeature_fem] [color_fem]</li>
+    <li>r_name-> [TerrainfeatureAny] [Wordtribal]</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
+  
+</LanguageData>

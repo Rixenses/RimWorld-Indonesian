@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityType-> [Tuhan] dari [Memeconscept]</li>
+    <li>Tuhan (p = 7, jenis kelamin! = Wanita)-> Tuhan</li>
+    <li>Tuhan (p = 7, gender == wanita)-> dewi</li>
+    <li>Tuhan (p = 4)-> [memegod]</li>
+    <li>Tuhan (P = 3)-> Roh</li>
+    <li>Tuhan-> Pencipta</li>
+    <li>Tuhan-> Master</li>-><DeityTypeMakerGlobal.rulePack.rulesStrings>
+    <li>R_deitytype-> [Tuhan] dari [memeconptDef]</li>
+    <li>Tuhan (p = 7, jenis kelamin! = Wanita)-> Dios</li>
+    <li>Tuhan (p = 7, gender == betina)-> diosa</li>
+    <li>Tuhan (p = 4)-> [memegod]</li>
+    <li>Tuhan (P = 3)-> Roh</li>
+    <li>Tuhan (Jenis Kelamin! = Wanita)-> Pencipta</li>
+    <li>Tuhan (gender == wanita)-> Pencipta</li>
+    <li>Tuhan (Jenis Kelamin! = Wanita)-> Amo</li>
+    <li>Tuhan (gender == wanita)-> ama</li>
+  </DeityTypeMakerGlobal.rulePack.rulesStrings>
+  
+</LanguageData>

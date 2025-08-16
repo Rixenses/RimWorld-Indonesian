@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: farming work site -->
+  <WorkSite_Farming.label>Zona pertanian</WorkSite_Farming.label>
+  <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
+  <WorkSite_Farming.description>Area yang dibangun oleh faksi lain.Akan kedaluwarsa dari waktu ke waktu.Sampai saat itu, Anda dapat menyerangnya jika Anda mau.</WorkSite_Farming.description>
+  <!-- EN: Attacking {0}. -->
+  <WorkSite_Farming.approachingReportString>Menyerang {0}.</WorkSite_Farming.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <WorkSite_Farming.approachOrderString>Menyerang {0}</WorkSite_Farming.approachOrderString>
+  <!-- EN: There is a neutral camp in this area. -->
+  <WorkSite_Farming.arrivedLetter>Ada kamp netral di daerah ini.</WorkSite_Farming.arrivedLetter>
+  
+  <!-- EN: hunting work site -->
+  <WorkSite_Hunting.label>Area perburuan</WorkSite_Hunting.label>
+  <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
+  <WorkSite_Hunting.description>Area yang dibangun oleh faksi lain.Akan kedaluwarsa dari waktu ke waktu.Sampai saat itu, Anda dapat menyerangnya jika Anda mau.</WorkSite_Hunting.description>
+  <!-- EN: Attacking {0}. -->
+  <WorkSite_Hunting.approachingReportString>Menyerang {0}.</WorkSite_Hunting.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <WorkSite_Hunting.approachOrderString>Atacar A {0}</WorkSite_Hunting.approachOrderString>
+  <!-- EN: There is a neutral camp in this area. -->
+  <WorkSite_Hunting.arrivedLetter>Ada kamp netral di daerah ini.</WorkSite_Hunting.arrivedLetter>
+  
+  <!-- EN: logging work site -->
+  <WorkSite_Logging.label>area pemotongan</WorkSite_Logging.label>
+  <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
+  <WorkSite_Logging.description>Area yang dibangun oleh faksi lain.Akan kedaluwarsa dari waktu ke waktu.Sampai saat itu, Anda dapat menyerangnya jika Anda mau.</WorkSite_Logging.description>
+  <!-- EN: Attacking {0}. -->
+  <WorkSite_Logging.approachingReportString>Menyerang {0}.</WorkSite_Logging.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <WorkSite_Logging.approachOrderString>Menyerang {0}</WorkSite_Logging.approachOrderString>
+  <!-- EN: There is a neutral camp in this area. -->
+  <WorkSite_Logging.arrivedLetter>Ada kamp netral di daerah ini.</WorkSite_Logging.arrivedLetter>
+  
+  <!-- EN: {THING_label} mining work site -->
+  <WorkSite_Mining.label>Mina de {thing_label}</WorkSite_Mining.label>
+  <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
+  <WorkSite_Mining.description>Area yang dibangun oleh faksi lain.Akan kedaluwarsa dari waktu ke waktu.Sampai saat itu, Anda dapat menyerangnya jika Anda mau.</WorkSite_Mining.description>
+  <!-- EN: Attacking {0}. -->
+  <WorkSite_Mining.approachingReportString>Menyerang {0}.</WorkSite_Mining.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <WorkSite_Mining.approachOrderString>Menyerang {0}</WorkSite_Mining.approachOrderString>
+  <!-- EN: There is a neutral camp in this area. -->
+  <WorkSite_Mining.arrivedLetter>Ada kamp netral di daerah ini.</WorkSite_Mining.arrivedLetter>
+  
+</LanguageData>

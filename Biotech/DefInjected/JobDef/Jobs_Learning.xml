@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: floordrawing. -->
+  <Floordrawing.reportString>melukis di lantai.</Floordrawing.reportString>
+  
+  <!-- EN: teaching a lesson. -->
+  <Lessongiving.reportString>Mengajar pelajaran.</Lessongiving.reportString>
+  
+  <!-- EN: learning a lesson -->
+  <Lessontaking.reportString>Belajar pelajaran.</Lessontaking.reportString>
+  
+  <!-- EN: nature running. -->
+  <NatureRunning.reportString>berlari melalui alam.</NatureRunning.reportString>
+  
+  <!-- EN: radiotalking. -->
+  <Radiotalking.reportString>Berbicara melalui radio.</Radiotalking.reportString>
+  
+  <!-- EN: skydreaming. -->
+  <Skydreaming.reportString>dering.</Skydreaming.reportString>
+  
+  <!-- EN: watching work be performed. -->
+  <Workwatching.reportString>mengamati cara kerja Anda.</Workwatching.reportString>
+  
+</LanguageData>

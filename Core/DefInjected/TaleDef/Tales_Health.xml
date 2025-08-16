@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: downed -->
+  <Downed.label>tidak sadar</Downed.label>
+  <!-- EN:
+    <li>Tale_noun -> [killer_namedef] [coud_name_present] [korban_namedef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dengan [weapon_label]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] oleh [killer_namedef]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] dengan [weapon_label]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef]</li>
+    <li>Image-> [Victic_namefull] menjadi [Wound_name_Past] oleh [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] [with_weapon_optional]</li>
+    <li>gambar-> [killer_namefull] secara brutal [luka_name_present] [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [victim_namefull] menjadi [luka_name_past] [with_weapon_optional]</li>
+    <li>Wound_name_past-> tidak mampu</li>
+    <li>Wound_name_past-> lumpuh</li>
+    <li>Wound_name_past-> Dipukul tak sadarkan diri</li>
+    <li>Wound_name_past-> Dinonaktifkan</li>
+    <li>Wound_name_present-> melumpuhkan</li>
+    <li>Wound_name_present-> merugikan</li>
+    <li>Wound_name_present-> mengetuk pingsan</li>
+    <li>Wound_name_present-> menonaktifkan</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa penyesalan</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>SICKACE_PHRASE-> dengan amarah yang penuh gairah</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUKSE_PHRASE-> karena kebutuhan yang suram</li>
+    <li>frasa keadaan-> dengan cara yang pengecut dan setengah hati</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] tertutup.</li>
+    <li>desc_sentence-> [killer_namedef] sedang memamerkan gigi [killer_possessive].</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>-><Downed.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"} con [weaponcacindef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"} oleh [killer_namedef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"} dengan [weaponcacidef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"}</li>
+    <li>Image-> [Victim_Namefull] Siendo Incapacitad [korban_o_a] por [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_name_Present] A [Victic_Namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_name_Present] Brutalmente a [victic_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Victic_Namefull] Siendo Incapacitad [Victim_O_A] [with_weapon_optional]</li>
+    <li>Wound_name_past-> Incapacitó</li>
+    <li>Wound_name_past-> lisió</li>
+    <li>Wound_name_past-> dibiarkan tidak sadar</li>
+    <li>Wound_name_past-> lastimó</li>
+    <li>Wound_name_present-> incapacitando</li>
+    <li>Wound_name_present-> lisiando</li>
+    <li>Wound_name_present-> Meninggalkan tidak sadar</li>
+    <li>Wound_name_present-> lastimando</li>
+    <li>Wound_name_pressent1-> The Incapacitation</li>
+    <li>Wound_name_pressent1-> lising</li>
+    <li>Wound_name_pressent1-> The Knocker</li>
+    <li>Wound_name_present1-> pingsan</li>
+    <li>with_weapon_optional-> con [weaponcacindef] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> rupanya tanpa penyesalan</li>
+    <li>Keadaan_phrase-> dengan efektivitas dingin</li>
+    <li>SITUCTANCE_PHRASE-> dengan kemarahan yang penuh gairah</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUKSE_PHRASE-> Untuk kebutuhan yang suram</li>
+    <li>Keadaan_phrase-> dalam pengecut dan tanpa usaha</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> Darah berkeliling tubuh {ganti: dari [korban_namedef];"Dari el"-"del"}.</li>
+    <li>Desc_sentence-> [korban_namedef] inert di tanah.</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki mata tertutup.</li>
+    <li>Desc_sentence-> [killer_namedef] menunjukkan giginya.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] dengan situasinya.</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+  </Downed.rulePack.rulesStrings>
+  
+  <!-- EN: exhausted -->
+  <Exhausted.label>lelah</Exhausted.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Runtuh dari kelelahan</li>
+    <li>Image-> [Pawn_namefull] Runtuh di tanah [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tempat tidur [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Runtuh di kursi [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Tidur Damai [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Dengan mata tertutup</li>
+    <li>keadaan_phrase-> dengan tampilan kelelahan yang terlihat</li>
+    <li>keadaan_phrase-> saat tertutup keringat</li>
+    <li>SITUKSE_PHRASE-> dan tidak dapat menggerakkan otot</li>
+    <li>Desc_sentence-> Proyek terakhir [Pawn_Namedef] berada di dekatnya, lengkap.</li>
+    <li>desc_sentence-> Konstruksi yang luar biasa mengelilingi [pawn_namedef].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S terlihat berterima kasih atas upaya heroik [Pawn_Namedef].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] terletak di dekatnya dalam keadaan serupa.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam [komunitas] yang baru dibangun.</li>-><Exhausted.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Runtuh karena kelelahan</li>
+    <li>Image-> [Pawn_namefulull] Runtuh di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] melakukan di tempat tidur [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulull] Runtuh di kursi [SITUCING_GROUP]</li>
+    <li>Image-> [pawn_namefulull] tidur nyenyak [soundance_group]</li>
+    <li>Keadaan_phrase-> dengan mata tertutup</li>
+    <li>Keadaan_phrase-> dengan ekspresi kelelahan</li>
+    <li>Frasa keadaan-> tertutup [pawn_o_a] dalam keringat</li>
+    <li>Keadaan_phrase-> tidak dapat menggerakkan otot</li>
+    <li>Desc_sentence-> Proyek [Pawn_Namedef] terakhir sudah dekat, selesai.</li>
+    <li>Desc_sentence-> Konstruksi yang indah mengelilingi [Pawn_namedef].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] Amati berterima kasih atas upaya heroik [Pawn_namedef].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] terletak di dekatnya dalam keadaan serupa.</li>
+    <li>Desc_sentence-> Adegan berlangsung dalam [komunitas] yang baru dibangun.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam [community_fem] baru-baru ini dibangun.</li>
+  </Exhausted.rulePack.rulesStrings>
+  
+  <!-- EN: gave birth -->
+  <GaveBirth.label>memberi cahaya</GaveBirth.label>
+  <!-- EN:
+    <li>tale_noun-> [mother_namedef] melahirkan [child_namedef]</li>
+    <li>Image-> [Mother_Namefull] Melahirkan [SITUCSE_GROUP]</li>
+    <li>Image-> [Mother_Namefull] Memegang [Mother_Possessive] [Baby], [SounIt_Group]</li>
+    <li>Image-> [mother_namefull] berbaring di tempat tidur di sebelah [mother_possessive] [baby], [soundance_group]</li>
+    <li>Image-> [Mother_namefull] Runtuh di kursi dengan [Mother_Possessive] [Baby] [SounIt_Group]</li>
+    <li>bayi-> bayi</li>
+    <li>bayi-> bayi baru lahir</li>
+    <li>Baby-> Baby</li>
+    <li>SITUCTANCE_PHRASE-> [child_namefull], yang berdarah dan menangis</li>
+    <li>SITUCTANCE_PHRASE-> [Child_Namefull], yang bersinar lembut [warna]</li>
+    <li>SITUCTANCE_PHRASE-> [Child_Namefull], yang sudah mencoba menarik diri [Child_Objective]</li>
+    <li>SICKTANCE_PHRASE-> [child_namefull], yang melihat-lihat dengan ekspresi ketenangan</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan tidur nyenyak di dekatnya.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [Personjob] S pandangan ke atas.</li>
+    <li>desc_sentence-> A [personjob] jam dari kejauhan.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam [komunitas] yang baru dibangun.</li>-><GaveBirth.rulePack.rulesStrings>
+    <li>Tale_noun-> [mother_namedef] melahirkan bayi [Child_name]-nya</li>
+    <li>Gambar-> [mother_namefull] dando a luz a [child_namefull] bebé</li>
+    <li>Image-> [mother_namefull] Acurrucando a su [baby], [SounStance_Group]</li>
+    <li>Image-> [Mother_nameful] melakukan di tempat tidur di sebelah [bayinya], [kelompok keadaan]</li>
+    <li>Image-> [Mother_namefulr] Runtuh di kursi dengan [bayi], [kelompok keadaan]</li>
+    <li>Baby-> Baby</li>
+    <li>bayi-> bayi baru lahir</li>
+    <li>Baby-> Infante</li>
+    <li>Frasa keadaan-> yang memiliki tubuh ditutupi dengan darah dan menangis</li>
+    <li>SITUCTANCE_PHRASE-> yang bersinar dengan lembut dalam nada [Colorany]</li>
+    <li>SITUKSE_PHRASE-> bahwa ia mencoba untuk berpegang pada ibunya</li>
+    <li>Keadaan_phrase-> yang melihat-lihat dengan ekspresi ketenangan</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] tidur nyenyak.</li>
+    <li>Descence-> [quanty adj frase] [job_plural] Lihatlah adegan itu.</li>
+    <li>Keturunan-> [Personjob] mengamati dari jarak jauh.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam [komunitas] yang baru dibangun.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam [community_fem] yang baru dibangun.</li>
+  </GaveBirth.rulePack.rulesStrings>
+  
+  <!-- EN: heatstroke revealed -->
+  <HeatstrokeRevealed.label>stroke panas</HeatstrokeRevealed.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] Mendapatkan Heatstroke</li>
+    <li>Tale_noun-> [Pawn_namedef] Overheating</li>
+    <li>Image-> [Pawn_namefull] berjalan dengan susah payah melalui pasir [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berkerumun di naungan [Terrainfeature] [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mencari air [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mencari naungan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] merangkak melintasi kotoran yang terbakar matahari [SICKECANCE_GROUP]</li>
+    <li>keadaan_phrase-> dengan kulit kering merah</li>
+    <li>SITUKSE_PHRASE-> dan ditutupi dengan keringat</li>
+    <li>SITUKSE_PHRASE-> dengan bibir kering yang retak</li>
+    <li>keadaan_phrase-> saat muntah</li>
+    <li>desc_sentence-> [quantity_adjphrase] mayat [hewan] dikelilingi.</li>
+    <li>Pakaian desc_sentence-> [Pawn_namedef] compang-camping dan robek.</li>
+    <li>desc_sentence-> Sebuah matahari yang berkobar tampak di latar belakang.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam gurun yang menyala.</li>
+    <li>desc_sentence-> Adegan tampaknya berlangsung di dalam, di sebelah pemanas.</li>
+    <li>Kalimat Desc-> [frasa adj kuantitas] unmoving [Hewan mengelilingi pemandangan.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>-><HeatstrokeRevealed.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] menerima stroke panas</li>
+    <li>Tale_noun-> [Pawn_namedef] menderita insolasi</li>
+    <li>Image-> [Pawn_namefulr] merangkak melalui pasir [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Di bawah bayang-bayang [TreeTypeIndef] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Buscando Agua [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Buscando Sombra [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Merangkak di tanah [SITUCING_GROUP]</li>
+    <li>Keadaan_phrase-> dengan kulit merah</li>
+    <li>Frasa keadaan-> tertutup [pawn_o_a] dalam keringat</li>
+    <li>Frasa keadaan-> dengan bibir kering dan korek api</li>
+    <li>Keadaan_phrase-> saat muntah</li>
+    <li>Desc_sentence-> [quantity_adjphrase] mayat kering [animalAnypl] mengelilingi area tersebut.</li>
+    <li>Pakaian desc_sentence-> [Pawn_namedef] dibuat.</li>
+    <li>Desc_sentence-> matahari bersinar di kejauhan.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam gurun yang panas.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam ruangan, dekat pemanas.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Immobile mengelilingi pemandangan.</li>
+    <li>Desc_sentence-> Ada [quantity_adjphrase] [animalAnypl] menyakitkan di tanah.</li>
+  </HeatstrokeRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: hypothermia revealed -->
+  <HypothermiaRevealed.label>hipotermia terwujud</HypothermiaRevealed.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Mendapatkan hipotermia</li>
+    <li>Image-> [Pawn_namefull] berjalan dengan susah payah melalui salju [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berkerumun di samping [Terrainfeature] [SounceCe_Group]</li>
+    <li>Image-> [Pawn_namefull] Mencari [pakaian] yang hangat [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berjongkok di sebelah api [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mencoba menyalakan api [SITUCING_GROUP]</li>
+    <li>face corcalcance_phrase-> sementara [pawn_possessive] perlahan-lahan berubah menjadi biru</li>
+    <li>SITUCTANCE_PHRASE-> dan menggigil tak terkendali</li>
+    <li>keadaan_phrase-> saat ditutupi beku</li>
+    <li>SITUKSE_PHRASE-> Saat menghembuskan awan kabut</li>
+    <li>desc_sentence-> [quantity_adjphrase] mayat [hewan] beku mengelilingi daerah tersebut.</li>
+    <li>Pakaian desc_sentence-> [Pawn_namedef] compang-camping dan dipakai.</li>
+    <li>desc_sentence-> Bulan biru dingin tampak di latar belakang.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam hutan [Treetype] yang tertutup salju.</li>
+    <li>desc_sentence-> Adegan tampaknya berlangsung di dalam freezer.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] menggigil [hewan mengelilingi pemandangan.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>-><HypothermiaRevealed.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] menderita hipotermia</li>
+    <li>Image-> [pawn_namefulr] merangkak melalui salju [kelompok keadaan]</li>
+    <li>Image-> [pawn_namefull] junto a [terrainfeatureindef] [soundance_group]</li>
+    <li>Image-> [pawn_namefull] Buscando Calor [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] junto a una fogata [soundance_group]</li>
+    <li>Image-> [Pawn_namefulr] mencoba menyalakan [kelompok keadaan] api]</li>
+    <li>Keadaan_phrase-> sementara wajahnya berubah menjadi biru perlahan</li>
+    <li>Keadaan_phrase-> gemetar tak terkendali</li>
+    <li>Frasa keadaan-> tutup [pawn_o_a] dari salju</li>
+    <li>SITUKSE_PHRASE-> Saat menghembuskan awan kabut</li>
+    <li>Desc_sentence-> [quantity_adjphrase] tubuh beku [animalAnypl] mengelilingi area tersebut.</li>
+    <li>Pakaian desc_sentence-> [Pawn_namedef] dibuat.</li>
+    <li>Descent-> Bulan yang dingin dan biru menerangi pemandangan itu.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam hutan [Treeetypeany] ditutupi dengan salju.</li>
+    <li>Desc_sentence-> Adegan tampaknya terjadi di dalam freezer.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] gemetar mengelilingi pemandangan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] sekarat menutupi tanah.</li>
+  </HypothermiaRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: illness revealed -->
+  <IllnessRevealed.label>penyakit terwujud</IllnessRevealed.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] dilanda [Illness_label]</li>
+    <li>Image-> [Pawn_namefull] terhuyung-huyung melalui bidang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tempat tidur [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tempat tidur rumah sakit [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Runtuh di kursi [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berjongkok di sebelah api [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dan berkeringat tak terkendali</li>
+    <li>SITUCTANCE_PHRASE-> dan menggigil tak terkendali</li>
+    <li>keadaan_phrase-> saat berkeringat dan menggigil</li>
+    <li>SITUKSE_PHRASE-> dengan bibir kering yang retak</li>
+    <li>keadaan_phrase-> saat muntah</li>
+    <li>keadaan_phrase-> dengan ruam yang terlihat</li>
+    <li>keadaan_phrase-> saat cenderung oleh dokter</li>
+    <li>desc_sentence-> [kuantitas_adjphrase] mayat [hewan] yang ditunggangi di sekitar area tersebut.</li>
+    <li>desc_sentence-> [quantity_adjphrase] memutar [warna] [terrainfeature] mengelilingi pemandangan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Personjob] diserang dengan penderitaan yang sama.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam hutan [Treetype].</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>-><IllnessRevealed.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] menderita [illness_label]</li>
+    <li>Image-> [Pawn_namefulr] Menyeret kaki melalui lapangan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Yaciendo en cama [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Berbaring di tempat tidur rumah sakit [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Runtuh di kursi [SITUCING_GROUP]</li>
+    <li>Image-> [pawn_namefull] junto a una fogata [soundance_group]</li>
+    <li>Frasa keadaan-> mendadak saya bertemu</li>
+    <li>Keadaan_phrase-> gemetar tak terkendali</li>
+    <li>Keadaan_phrase-> Suding dan gemetar</li>
+    <li>Frasa keadaan-> dengan bibir kering dan korek api</li>
+    <li>Keadaan_phrase-> saat muntah</li>
+    <li>SITUCTANCE_PHRASE-> Sambil menggaruk</li>
+    <li>SITUKSE_PHRASE-> Saat menerima perawatan dokter</li>
+    <li>Desc_sentence-> [quantity_adjphrase] mayat [animalAnypl] mengelilingi area tersebut.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [terrainfeature_pl] [color_ploral] memutar mengelilingi adegan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] memiliki penderitaan yang sama.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam hutan [Treeetpeany].</li>
+    <li>Descent-> Ada [quantity_adjprase] [animalAnypl] sekarat di tanah.</li>
+  </IllnessRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: killed -->
+  <KilledCapacity.label>terbunuh</KilledCapacity.label>
+  <!-- EN:
+    <li>Tale_noun -> [killer_namedef] [coud_name_present] [korban_namedef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dengan [weapon_label]</li>
+    <li>Image-> [Killer_namefull] [CAP_REMOVAL] [KOTROSIF_NAMEFULL] Kapasitas untuk [CAPASIEND_LABEL] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] oleh [cap_removal] [korban_possessive] [capity_label] [with_weapon_optional]</li>
+    <li>cap_removal-> menghancurkan</li>
+    <li>cap_removal-> menghilangkan</li>
+    <li>cap_removal-> ending</li>
+    <li>Wound_name_past-> dibunuh</li>
+    <li>Wound_name_past-> dieksekusi</li>
+    <li>Wound_name_past-> dibunuh</li>
+    <li>Wound_name_past-> dihilangkan</li>
+    <li>Wound_name_present-> Slaying</li>
+    <li>Wound_name_present-> mengeksekusi</li>
+    <li>Wound_name_present-> Membunuh</li>
+    <li>Wound_name_present-> menghilangkan</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa penyesalan</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] tertutup.</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>-><KilledCapacity.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"} con [weaponindef]</li>
+    <li>gambar-> [killer_namefull] [cap_removal] la [kapasitas] de [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_name_Present] A [korban_namefull] y [cap_removal] su [kapasitas] [with_weapon_optional]</li>
+    <li>Cap_removal-> menghancurkan</li>
+    <li>Cap_removal-> menghilangkan</li>
+    <li>Cap_remocal-> mengalahkan</li>
+    <li>Kapasitas-> kapasitas</li>
+    <li>Kapasitas-> keuletan</li>
+    <li>Kapasitas-> Kegigihan</li>
+    <li>Wound_name_past-> mató</li>
+    <li>Wound_name_past-> dieksekusi</li>
+    <li>Wound_name_past-> asesinó</li>
+    <li>Wound_name_past-> dihilangkan</li>
+    <li>Wound_name_present-> MATANDO</li>
+    <li>Wound_name_present-> mengeksekusi</li>
+    <li>Wound_name_present-> asesinando</li>
+    <li>Wound_name_present-> eliminando</li>
+    <li>with_weapon_optional-> para usar su [senjata] [SICKECANCE_GROUP]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> rupanya tanpa penyesalan</li>
+    <li>Keadaan_phrase-> dengan efektivitas dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki mata tertutup.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] untuk situasi tersebut.</li>
+    <li>desc_sentence-> [killer_namedef] Parece [AdjectiveBadass].</li>
+  </KilledCapacity.rulePack.rulesStrings>
+  
+  <!-- EN: killed at distance -->
+  <KilledLongRange.label>Terbunuh dari kejauhan</KilledLongRange.label>
+  <!-- EN:
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] pada jarak ekstrem</li>
+    <li>tale_noun-> [killer_namedef] [luka_name_present] [korban_namedef] pada jarak ekstrem dengan [weapon_label]</li>
+    <li>Tale_noun-> Jarak Jauh [luka_name_present] dari [korban_namedef] oleh [killer_namedef]</li>
+    <li>tale_noun-> jarak jauh [luka_name_present] dari [korban_namedef] oleh [killer_namedef] dengan [weapon_label]</li>
+    <li>Image-> [killer_namefull] bertujuan untuk [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] [with_weapon_optional]</li>
+    <li>gambar-> [killer_namefull] dengan dingin [luka_name_present] [korban_namefull] [with_weapon_optional]</li>
+    <li>Wound_name_past-> dibunuh</li>
+    <li>Wound_name_past-> Slain</li>
+    <li>Wound_name_past-> Slaughtered</li>
+    <li>Wound_name_past-> dihilangkan</li>
+    <li>Wound_name_present-> pembunuhan</li>
+    <li>Wound_name_present-> Slaying</li>
+    <li>Wound_name_present-> Slaughtering</li>
+    <li>Wound_name_present-> menghilangkan</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa penyesalan</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>keadaan_phrase-> dari jarak jauh</li>
+    <li>keadaan_phrase-> dari yang tinggi</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>frasa keadaan-> dengan cara yang pengecut dan setengah hati</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] tertutup.</li>
+    <li>desc_sentence-> [korban_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [killer_namedef] sedang memamerkan gigi [killer_possessive].</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>-><KilledLongRange.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"Ke"-"al"} di kejauhan</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A El"-"Al"} A Laran Distancia Con Un [Weapon_ranged]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] di jarak jauh {ganti: a [korban_namedef];"To el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] a laran distancia {ganti: a [korban_namedef];"A el"-"al"} con un [weapon_ranged]</li>
+    <li>gambar-> [killer_namefull] apuntando a [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_name_Present] A [Victic_Namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_name_Present] Fríamente A [Victic_namefull] [with_weapon_optional]</li>
+    <li>Wound_name_past-> asesinó</li>
+    <li>Wound_name_past-> mató</li>
+    <li>Wound_name_past-> dihilangkan</li>
+    <li>Wound_name_past-> dieksekusi</li>
+    <li>Wound_name_present-> asesinando</li>
+    <li>Wound_name_present-> MATANDO</li>
+    <li>Wound_name_present-> eliminando</li>
+    <li>Wound_name_present-> mengeksekusi</li>
+    <li>with_weapon_optional-> con un [weapon_ranged] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> rupanya tanpa penyesalan</li>
+    <li>SITUCTANCE_PHRASE-> dengan denyut nadi yang kuat</li>
+    <li>Keadaan_phrase-> dari jarak jauh</li>
+    <li>Keadaan_phrase-> dari yang tinggi</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>Keadaan_phrase-> dalam pengecut dan tanpa usaha</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki mata tertutup.</li>
+    <li>Kalimat-> [Korban bernama] adalah Cubierta [korban_o_a] dari [gore plural].</li>
+    <li>Desc_sentence-> [killer_namedef] menunjukkan giginya.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] untuk situasi tersebut.</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+  </KilledLongRange.rulePack.rulesStrings>
+  
+  <!-- EN: killed major threat -->
+  <KilledMajorThreat.label>Ancaman yang lebih besar dilikuidasi</KilledMajorThreat.label>
+  <!-- EN:
+    <li>Tale_noun -> [killer_namedef] [coud_name_present] [korban_namedef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dengan [weapon_label]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] oleh [killer_namedef]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] oleh [killer_namedef] dengan [weapon_label]</li>
+    <li>Image-> [Victic_namefull] menjadi [Wound_name_Past] oleh [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] [with_weapon_optional]</li>
+    <li>gambar-> [killer_namefull] secara brutal [luka_name_present] [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [victim_namefull] menjadi [luka_name_past] [with_weapon_optional]</li>
+    <li>Wound_name_past-> Slain</li>
+    <li>Wound_name_past-> dikalahkan</li>
+    <li>Wound_name_past-> atasi</li>
+    <li>Wound_name_present-> Slaying</li>
+    <li>Wound_name_present-> mengalahkan</li>
+    <li>Wound_name_present-> Mengatasi</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUCTANCE_PHRASE-> dengan kepahlawanan yang hebat</li>
+    <li>SITUCTANCE_PHRASE-> Dengan kekuatan yang luar biasa</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] tertutup.</li>
+    <li>desc_sentence-> [korban_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [korban_namedef] dan [killer_namedef] keduanya tercakup dalam [gore].</li>
+    <li>desc_sentence-> [korban_namedef] menara mayat di atas [killer_namedef].</li>
+    <li>desc_sentence-> [korban_namedef] mayat besar-besaran mencakup [terrainfeature].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] bersinar [warna].</li>
+    <li>desc_sentence-> [killer_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [killer_namedef] sedang memamerkan gigi [killer_possessive].</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat [adjectiveBadass].</li>
+    <li>desc_sentence-> [killer_namedef] bersinar dengan aura heroik.</li>-><KilledMajorThreat.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"} con [weaponindef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] Bravely {ganti: a [korban_namedef];"To el"-"al"}</li>
+    <li>tale_noun-> terjadi [coud_name_past1] {ganti: dari [korban_namedef];"From el"-"del"} oleh [killer_namedef] dengan [weaponindef]</li>
+    <li>Image-> [Victim_Namefull] Siendo [Wound_name_Present] por [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_name_Present] A [Victic_Namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_name_Present] Brutalmente a [victic_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Victim_Namefull] Siendo [Wound_name_Present] [with_weapon_optional]</li>
+    <li>Wound_name_past-> dikalahkan</li>
+    <li>Wound_name_past-> asesinó</li>
+    <li>Wound_name_past-> Dominó</li>
+    <li>Wound_name_present-> Derrotad [korban_o_a]</li>
+    <li>Wound_name_present-> asesinada [korban _o_a]</li>
+    <li>Wound_name_present-> dominad [korban_o_a]</li>
+    <li>Wound_name_past1-> kematian</li>
+    <li>Wound_name_past1-> kekalahan</li>
+    <li>Wound_name_past1-> Pembunuhan</li>
+    <li>with_weapon_optional-> con [weaponIndef] [SICKECANCE_GROUP]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> dengan efektivitas dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUCTANCE_PHRASE-> con gran heroismo</li>
+    <li>Keadaan_phrase-> dengan kekuatan luar biasa</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki mata tertutup.</li>
+    <li>Kalimat-> [Korban bernama] adalah Cubierta [korban_o_a] dari [gore plural].</li>
+    <li>Desc_sentence-> keduanya [korban_namedef] dan [killer_namedef] ditutupi dengan [gore_plural].</li>
+    <li>descent-> tubuh {ganti: dari [korban_namedef];"Dari El"-"Del"} naik lebih dari [killer_namedef].</li>
+    <li>Descent-> The BESAR mayat {ganti: dari [korban_namedef];"Dari El"-"del"} mencakup [TerrainfeatureIndef].</li>
+    <li>Descent-> The Eyes {ganti: dari [korban_namedef];"Dari"-"dari"} mereka bersinar dengan warna [warna] yang intens.</li>
+    <li>Desc_sentence-> [killer_namedef] dicakup [killer_o_a] dari [gore_plural].</li>
+    <li>Desc_sentence-> [killer_namedef] menunjukkan giginya.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+    <li>Desc_sentence-> [killer_namedef] memiliki wajah [kata sifat].</li>
+    <li>Desc_sentence-> [killer_namedef] bersinar dengan aura heroik.</li>
+  </KilledMajorThreat.rulePack.rulesStrings>
+  
+  <!-- EN: killed in melee -->
+  <KilledMelee.label>Pertempuran tubuh</KilledMelee.label>
+  <!-- EN:
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dalam pertempuran dekat</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dalam jarak dekat dengan [weapon_label]</li>
+    <li>Tale_noun-> The Melee [Wound_name_Present] dari [korban_namedef] oleh [killer_namedef]</li>
+    <li>Tale_noun-> Tempur Tutup [Wound_Name_Present] dari [korban_namedef] oleh [killer_namedef] dengan [weapon_label]</li>
+    <li>Image-> [Victic_namefull] menjadi [Wound_name_Past] oleh [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] [with_weapon_optional]</li>
+    <li>gambar-> [killer_namefull] secara brutal [luka_name_present] [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [victim_namefull] menjadi [luka_name_past] [with_weapon_optional]</li>
+    <li>Wound_name_past-> dibunuh</li>
+    <li>Wound_name_past-> Slain</li>
+    <li>Wound_name_past-> Slaughtered</li>
+    <li>Wound_name_past-> dimutilasi</li>
+    <li>Wound_name_present-> pembunuhan</li>
+    <li>Wound_name_present-> Slaying</li>
+    <li>Wound_name_present-> Slaughtering</li>
+    <li>Wound_name_present-> Mutilasi</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa penyesalan</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>frasa keadaan-> dengan cara yang pengecut dan setengah hati</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>DESC_SENTENCE-> Mata [korban_namedef] tertutup.</li>
+    <li>desc_sentence-> [korban_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [korban_namedef] dan [killer_namedef] keduanya tercakup dalam [gore].</li>
+    <li>desc_sentence-> [killer_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [killer_namedef] sedang memamerkan gigi [killer_possessive].</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>
+    <li>desc_sentence-> [killer_namedef] memakai ekspresi liar.</li>-><KilledMelee.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"Ke"-"al"} dalam pertempuran jarak dekat</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"Ke"-"al"} dalam pertempuran jarak dekat dengan [weaponcacidef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] dalam pertempuran jarak dekat {ganti: a [korban_namedef];"To el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] dalam pertempuran jarak dekat {ganti: a [korban_namedef];"To the"-"al"} dengan [weaponcacidef]</li>
+    <li>Image-> [killer_namefull] golpeando a [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_name_Present] A [Victic_Namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_name_Present] Fríamente A [Victic_namefull] [with_weapon_optional]</li>
+    <li>Gambar-> [Nama Korban Lengkap] Siendo Asesinada [korban _o_a] [with_weapon_optional]</li>
+    <li>Wound_name_past-> asesinó</li>
+    <li>Wound_name_past-> dilikuidasi</li>
+    <li>Wound_name_past-> MASACRó</li>
+    <li>Wound_name_past-> mutiló</li>
+    <li>Wound_name_present-> asesinando</li>
+    <li>Wound_name_present-> Liquidando</li>
+    <li>Wound_name_present-> MASACRANDO</li>
+    <li>Wound_name_present-> mutilando</li>
+    <li>with_weapon_optional-> con [weaponcacindef] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> rupanya tanpa penyesalan</li>
+    <li>Keadaan_phrase-> dengan efektivitas dingin</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>Keadaan_phrase-> dalam pengecut dan tanpa usaha</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki mata tertutup.</li>
+    <li>Kalimat-> [Korban bernama] adalah Cubierta [korban_o_a] dari [gore plural].</li>
+    <li>Desc_sentence-> keduanya [korban_namedef] dan [killer_namedef] ditutupi dengan [gore_plural].</li>
+    <li>Desc_sentence-> [killer_namedef] dicakup [killer_o_a] dari [gore_plural].</li>
+    <li>Desc_sentence-> [killer_namedef] menunjukkan giginya.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] untuk situasi tersebut.</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+    <li>Desc_sentence-> [killer_namedef] memiliki ekspresi liar.</li>
+  </KilledMelee.rulePack.rulesStrings>
+  
+  <!-- EN: killed with mortar -->
+  <KilledMortar.label>dibunuh dengan mortir</KilledMortar.label>
+  <!-- EN:
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dengan mortir</li>
+    <li>Tale_noun-> [korban_namedef] dibunuh oleh artileri [Killer_Namedef]</li>
+    <li>Image-> [Killer_Namefull] Dengan hati-hati menyesuaikan tabung penembakan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Killer_namefull] Melihat ke kejauhan [SITUCING_GROUP]</li>
+    <li>Image-> [killer_namefull] Melakukan perhitungan di atas kertas [SICKECANCE_GROUP]</li>
+    <li>Image-> [killer_namefull] menguji arah angin [SICKECANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> Sementara [korban_namefull] dikonsumsi dalam ledakan besar</li>
+    <li>SITUCTANCE_PHRASE-> sebagai cangkang di bawah [korban_namefull]</li>
+    <li>SITUCTANCE_PHRASE-> Sementara [korban_namefull] berjalan di sekitar secara tidak wajar</li>
+    <li>SICKACE_PHRASE-> sebagai [korban_namefull] sprint</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>desc_sentence-> [korban_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [korban_namedef] dikelilingi oleh ledakan.</li>
+    <li>desc_sentence-> [korban_namedef] dikelilingi oleh kawah.</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>-><KilledMortar.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"To el"-"al"} dengan mortir</li>
+    <li>tale_noun-> [korban_namedef] terbunuh [korban_o_a] oleh [killer_namedef] artileri]</li>
+    <li>Image-> [Killer_namefulull] Dengan hati-hati menyesuaikan meriam senjata [SICKECANCE_GROUP]</li>
+    <li>Image-> [Killer_namefulull] Melihat jarak [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Killer_namefulull] Membuat Perhitungan Kertas [SICKACE_GROUP]</li>
+    <li>Image-> [killer_namefulull] memverifikasi arah angin [SITURCANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> sementara [korban_namefulr] menghilang dalam ledakan besar</li>
+    <li>SITUCTANCE_PHRASE-> Sementara jalan terbang menuju [korban_namefulull]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [korban_namefulr] berjalan tanpa menyadarinya</li>
+    <li>SICKCANCE_PHRASE-> sementara [korban_namefulr] berjalan</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Kalimat-> [Korban bernama] adalah Cubierta [korban_o_a] dari [gore plural].</li>
+    <li>Desc_sentence-> [korban_namedef] adalah rodead [korban_o_a] untuk ledakan.</li>
+    <li>Desentent-> [vic Chor Chor cortic_namedef] adalah rodead [korban_o_a] dari kawah.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] untuk situasi tersebut.</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+  </KilledMortar.rulePack.rulesStrings>
+  
+  <!-- EN: toxicity revealed -->
+  <ToxicityRevealed.label>toksisitas terwujud</ToxicityRevealed.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] tubuh menjadi beracun</li>
+    <li>Tale_noun-> [Pawn_namedef] diracuni oleh racun</li>
+    <li>Image-> [Pawn_namefull] terhuyung-huyung melalui bidang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berbaring di tempat tidur [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berjongkok di sebelah api [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mencoba menyalakan api [SITUCING_GROUP]</li>
+    <li>Image-> [pawn_namefull] tanpa berpikir menghapus [pawn_possessives] pakaian [soundance_group]</li>
+    <li>SITUCTANCE_PHRASE-> dan berkeringat tak terkendali</li>
+    <li>SITUCTANCE_PHRASE-> dan menggigil tak terkendali</li>
+    <li>keadaan_phrase-> saat berkeringat dan menggigil</li>
+    <li>SITUKSE_PHRASE-> dengan bibir kering yang retak</li>
+    <li>keadaan_phrase-> saat muntah</li>
+    <li>keadaan_phrase-> dengan ruam yang terlihat</li>
+    <li>desc_sentence-> [kuantitas_adjphrase] memintu [hewan] di sekitar area tersebut.</li>
+    <li>Pakaian desc_sentence-> [Pawn_namedef] berantakan.</li>
+    <li>desc_sentence-> langit adalah [warna] keruh.</li>
+    <li>desc_sentence-> [quantity_adjphrase] memutar [warna] [terrainfeature] mengelilingi pemandangan.</li>
+    <li>desc_sentence-> Adegan berlangsung di dalam hutan [Treeetype] yang bengkok.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>-><ToxicityRevealed.rulePack.rulesStrings>
+    <li>Tale_noun-> Tubuh [Pawn_namedef] kembali beracun</li>
+    <li>tale_noun-> [Pawn_namedef] adalah poison [pawn_o_a] oleh racun</li>
+    <li>Image-> [pawn_namefulr] merangkak melalui lapangan [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Berbaring di tanah [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Yaciendo en cama [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] junto a una fogata [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Mencoba menyalakan api [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Mencoba melepas pakaian Anda [SICKECANCE_GROUP]</li>
+    <li>Keadaan_phrase-> dan berkeringat tak terkendali</li>
+    <li>Keadaan_phrase-> dan gemetar tak terkendali</li>
+    <li>Keadaan_phrase-> Suding dan gemetar</li>
+    <li>Frasa keadaan-> dengan bibir dan bibir kering</li>
+    <li>Keadaan_phrase-> saat muntah</li>
+    <li>Keadaan_phrase-> dengan ruam yang terlihat</li>
+    <li>Desc_sentence-> [quantity_adjphrase] mayat terpelintir dari [animalAnypl] mengelilingi area tersebut.</li>
+    <li>Keturunan-> Pakaian [Pawn_Namedef] hancur berantakan.</li>
+    <li>Desc_sentence-> surga memiliki kabut [color_fem].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [terrainfeature_pl] [color_plural] rodean la escena.</li>
+    <li>Desc_sentence-> Adegan berlangsung di dalam hutan terpelintir [Treeetype] s.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] Menutupi tanah.</li>
+  </ToxicityRevealed.rulePack.rulesStrings>
+  
+  <!-- EN: wounded -->
+  <Wounded.label>luka</Wounded.label>
+  <!-- EN:
+    <li>Tale_noun -> [killer_namedef] [coud_name_present] [korban_namedef]</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_present] [korban_namedef] dengan [weapon_label]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] oleh [killer_namedef]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef] dengan [weapon_label]</li>
+    <li>tale_noun-> [coud_name_present] dari [korban_namedef]</li>
+    <li>Image-> [Victic_namefull] menjadi [Wound_name_Past] oleh [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_Namefull] [Wound_Name_Present] [Victic_Namefull] [with_weapon_optional]</li>
+    <li>gambar-> [killer_namefull] secara brutal [luka_name_present] [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [victim_namefull] menjadi [luka_name_past] [with_weapon_optional]</li>
+    <li>Wound_name_past-> terluka</li>
+    <li>Wound_name_past-> dirugikan</li>
+    <li>Wound_name_past-> terluka</li>
+    <li>Wound_name_past-> diserang</li>
+    <li>Wound_name_past-> diserang</li>
+    <li>Wound_name_present-> core</li>
+    <li>Wound_name_present-> merugikan</li>
+    <li>Wound_name_present-> Hurting</li>
+    <li>Wound_name_present-> menyerang</li>
+    <li>Wound_name_present-> menyerang</li>
+    <li>with_weapon_optional-> dengan [weapon_label] [soundance_group]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa penyesalan</li>
+    <li>keadaan_phrase-> dengan efisiensi dingin</li>
+    <li>SICKACE_PHRASE-> dengan amarah yang penuh gairah</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUKSE_PHRASE-> karena kebutuhan yang suram</li>
+    <li>frasa keadaan-> dengan cara yang pengecut dan setengah hati</li>
+    <li>Kalimat Desc-> [Frasa Adj Kuantitas] [Hewan memandang.</li>
+    <li>desc_sentence-> a [personjob] menonton diam-diam [side_position].</li>
+    <li>desc_sentence-> Darah menggenang di sekitar tubuh [Victim_Namedef].</li>
+    <li>desc_sentence-> [korban_namedef] tercakup dalam [gore].</li>
+    <li>desc_sentence-> [korban_namedef] terlihat [adjectiveangsty].</li>
+    <li>desc_sentence-> [korban_namedef] meringis kesakitan.</li>
+    <li>desc_sentence-> [korban_namedef] meringis kesakitan.</li>
+    <li>desc_sentence-> [killer_namedef] sedang memamerkan gigi [killer_possessive].</li>
+    <li>desc_sentence-> [killer_namedef] tampaknya puas.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat tertekan pada apa yang [killer_pronoun] lakukan.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat senang dengan situasinya.</li>
+    <li>desc_sentence-> [killer_namedef] terlihat menang.</li>-><Wounded.rulePack.rulesStrings>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"}</li>
+    <li>tale_noun-> [killer_namedef] [coud_name_past] {ganti: a [korban_namedef];"A el"-"al"} con [weaponindef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"} oleh [killer_namedef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"} dengan [WeaponIndef]</li>
+    <li>tale_noun-> terjadi [coud_name_present1] {ganti: dari [korban_namedef];"From el"-"del"}</li>
+    <li>Image-> [Victim_Namefull] Siendo [Wound_name_Present] por [killer_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_name_Present2] A [Victim_Namefull] [with_weapon_optional]</li>
+    <li>Image-> [Killer_namefull] [Wound_Name_Present2] Brutalmente a [korban_namefull] [with_weapon_optional]</li>
+    <li>Image-> [Victim_Namefull] Siendo [Wound_name_Present] [with_weapon_optional]</li>
+    <li>Wound_name_past-> diserang</li>
+    <li>Wound_name_past-> Dañó</li>
+    <li>Wound_name_past-> berlari</li>
+    <li>Wound_name_past-> Dañó</li>
+    <li>Wound_name_past-> diserang</li>
+    <li>Wound_name_present-> atacad [korban_o_a]</li>
+    <li>Wound_name_present-> lastImad [vick_o_a]</li>
+    <li>Wound_name_present-> herid [korban_o_a]</li>
+    <li>Wound_name_present-> lesionad [korban_o_a]</li>
+    <li>Wound_name_present-> golpead [korban_o_a]</li>
+    <li>Wound_name_present2-> Atacando</li>
+    <li>Wound_name_pressent2-> terluka</li>
+    <li>Wound_name_present2-> hiriendo</li>
+    <li>Wound_name_pressent2-> cedera</li>
+    <li>Wound_name_pressent2-> memukul</li>
+    <li>Wound_name_present1-> Serangan</li>
+    <li>Wound_name_present1-> kerusakan</li>
+    <li>Wound_name_pressent1-> Luka</li>
+    <li>Wound_name_present1-> cedera</li>
+    <li>Wound_name_pressent1-> The Assault</li>
+    <li>with_weapon_optional-> con [weaponIndef] [SICKECANCE_GROUP]</li>
+    <li>with_weapon_optional-> [Soumtance_Group]</li>
+    <li>Keadaan_phrase-> rupanya tanpa penyesalan</li>
+    <li>Keadaan_phrase-> dengan efektivitas dingin</li>
+    <li>SITUCTANCE_PHRASE-> dengan kemarahan yang penuh gairah</li>
+    <li>SITUKSE_PHRASE-> dengan gerakan yang cepat dan efisien</li>
+    <li>SITUKSE_PHRASE-> tanpa emosi atau ekspresi</li>
+    <li>SITUKSE_PHRASE-> Untuk kebutuhan yang suram</li>
+    <li>Keadaan_phrase-> dalam pengecut dan tanpa usaha</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] pengamat.</li>
+    <li>Desc_sentence-> a [personjob] diam mengamati [side_position].</li>
+    <li>Desc_sentence-> Darah berkeliling tubuh {ganti: dari [korban_namedef];"Dari el"-"del"}.</li>
+    <li>Kalimat-> [Korban bernama] adalah Cubierta [korban_o_a] dari [gore plural].</li>
+    <li>Desc_sentence-> [korban_namedef] memiliki wajah [AdjectiveAngsty].</li>
+    <li>Desc_sentence-> [korban_namedef] dipelintir dengan rasa sakit.</li>
+    <li>Desc_sentence-> [korban_namedef] mengambil penderitaan.</li>
+    <li>Desc_sentence-> [killer_namedef] menunjukkan giginya.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a].</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya mengganggu [killer_o_a] untuk apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [killer_namedef] tampaknya puas [killer_o_a] untuk situasi tersebut.</li>
+    <li>Desentent-> [killer_namedef] tampaknya menang.</li>
+  </Wounded.rulePack.rulesStrings>
+  
+</LanguageData>

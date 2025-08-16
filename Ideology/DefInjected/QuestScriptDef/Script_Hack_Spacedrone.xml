@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi spacedrone yang mengorbit yang mungkin berisi informasi tentang [Relic_name].Anda memiliki kode yang akan memaksanya untuk mendarat di [MAP_DEFINITE]. \ N \ n untuk mendapatkan informasi, retas ke komputer drone.Peretasan membutuhkan waktu, tetapi mereka yang kuat dalam keterampilan intelektual dapat mempercepat prosesnya. [RAIDSDESCRIPTION] \ n \ nafter Landing, spacedrone akan menghancurkan diri sendiri di [DestroyDelayticks_Duration].</li>
+    <li>RAIDSDESCRIPTION (AllowViolence == true)-> \ n \ n [musuh.Selama ada, mereka akan mengirim penyerang kira -kira setiap [RaidIntervalavg_Duration] untuk menghancurkannya dan mencuri kekayaan yang mereka pikirkan.Anda akan memiliki waktu untuk menyiapkan pertahanan di sekitarnya sebelum mereka tiba.</li>
+    <li>RAIDSDESCRIPTION (ILLEYVIOLENCE == FALSE)-></li>
+    <li>Metode Dronedetection (musuh neolithic == true)-> Temukan drone selama keturunannya</li>
+    <li>DroneDetectionMethod (musuhfactionneolithic == false)-> mendeteksi tanda tangan energi drone</li>-><Hack_Spacedrone.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi drone ruang di orbit yang dapat berisi informasi tentang peninggalan [relic_name].Anda memiliki kode yang akan memaksanya untuk mendarat di [MAP_DEFINITE].Peretasan membutuhkan waktu, tetapi mereka yang memiliki kemampuan intelektual yang hebat dapat mempercepat prosesnya. [RAIDSDECRIPTION]</li>
+    <li>RAIDSDECRIPTION (ALLEYVIOLENCE == true)-> \ n \ n [musuh musuh_pawnsplural] dari faksi [musuh .faction_name] [dronedetectionMethod].Selama mereka hadir, mereka akan mengirim penyerang kira -kira masing -masing [raidintervalavg_duration] untuk menghancurkannya dan mencuri kekayaan yang mereka yakini.Anda akan memiliki waktu untuk menyiapkan pertahanan di sekitar mereka sebelum mereka tiba.</li>
+    <li>RAIDSDESCRIPTION (ILLEYVIOLENCE == FALSE)-></li>
+    <li>DronedetectionMethod (Musuhfactionneolith</li>
+    <li>DRONDEDEDEZEZONEZONISONTHYZONTHONS (assophonylithylhychinest = flase)-> akan mendeteksi tanda tangan drone.</li>
+  </Hack_Spacedrone.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [droneadj] [drone] hack</li>
+    <li>QuestName-> [Drone] [Data] Hack</li>
+    <li>Drone Orbital.</li>
+    <li>Dronedj-> Data</li>
+    <li>Dronedj-> Kuno</li>
+    <li>drone-> drone</li>
+    <li>Drone-> Spacecraft</li>
+    <li>drone-> spacedrone</li>
+    <li>drone-> cryptoDrone</li>
+    <li>Data-> Data</li>
+    <li>Data-> Intel</li>
+    <li>Data-> Info</li>-><Hack_Spacedrone.questNameRules.rulesStrings>
+    <li>QuestName-> Hacking of [Drone] [DroneAdj]</li>
+    <li>QuestName-> Hacking of the [drone1] [droneadj1]</li>
+    <li>QuestName-> Hack of [data] Dari [Drone]</li>
+    <li>QuestName-> Hackkeo dari [data] dari [drone1]</li>
+    <li>Drone Orbital.</li>
+    <li>Droneadj-> hilan</li>
+    <li>droneadj-> antiguo</li>
+    <li>droneadj1-> orbital</li>
+    <li>droneadj1-> Perdida</li>
+    <li>droneadj1-> antigua</li>
+    <li>drone-> drone</li>
+    <li>Drone-> Space Drone</li>
+    <li>Drone-> Criptodron</li>
+    <li>Drone1-> Spaceship</li>
+    <li>Data-> Datos</li>
+    <li>Data-> Data</li>
+    <li>Data-> Informasi</li>
+  </Hack_Spacedrone.questNameRules.rulesStrings>
+  
+</LanguageData>

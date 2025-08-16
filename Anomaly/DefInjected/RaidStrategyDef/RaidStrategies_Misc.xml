@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They intend to perform {RITUAL_definite} ritual. Interrupt them before they can complete it. If they aren't stopped they may invoke the ritual multiple times. -->
+  <PsychicRitualSiege.arrivalTextEnemy>Mereka bermaksud melakukan {ritual_definite}.Perolehkan mereka sebelum mereka bisa menyelesaikannya.Jika mereka tidak dihentikan, mereka dapat memohon ritual beberapa kali.</PsychicRitualSiege.arrivalTextEnemy>
+  <!-- EN: Raid: Horax cultists -->
+  <PsychicRitualSiege.letterLabelEnemy>Penyerangan: Kultus Horaxian</PsychicRitualSiege.letterLabelEnemy>
+  
+  <!-- EN: Some unnatural force is animating these lifeless corpses. They are intent on attacking your colony. As they exhaust their strange energy, they will begin to collapse within hours. -->
+  <ShamblerAssault.arrivalTextEnemy>Beberapa kekuatan antinatural mendorong tubuh tak bernyawa ini.Mereka bertekad untuk menyerang koloni Anda.Ketika mereka menghabiskan energi aneh mereka, mereka akan mulai runtuh dalam beberapa jam.</ShamblerAssault.arrivalTextEnemy>
+  <!-- EN: Shambler assault -->
+  <ShamblerAssault.letterLabelEnemy>Penyerangan Pejalan Kaki</ShamblerAssault.letterLabelEnemy>
+  
+</LanguageData>

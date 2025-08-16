@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: front left claw -->
+  <FrontLeftClaw.label>cakar kiri</FrontLeftClaw.label>
+  <!-- EN: claw -->
+  <FrontLeftClaw.labelShort>cakar</FrontLeftClaw.labelShort>
+  
+  <!-- EN: front right claw -->
+  <FrontRightClaw.label>cakar yang tepat</FrontRightClaw.label>
+  <!-- EN: claw -->
+  <FrontRightClaw.labelShort>cakar</FrontRightClaw.labelShort>
+
+</LanguageData>

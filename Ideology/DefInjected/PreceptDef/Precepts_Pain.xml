@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: idealized -->
+  <Pain_Idealized.label>diidealkan</Pain_Idealized.label>
+  <!-- EN: To experience nerve-singing pain is a mark of morality. -->
+  <Pain_Idealized.description>Bereksperimen beberapa jenis rasa sakit saraf adalah tanda moralitas.</Pain_Idealized.description>
+  <!-- EN: Pain -->
+  <Pain_Idealized.comps.0.description>Nyeri</Pain_Idealized.comps.0.description>
+  
+</LanguageData>

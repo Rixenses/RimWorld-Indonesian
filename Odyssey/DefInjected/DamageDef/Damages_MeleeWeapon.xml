@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <PorcupineBite.label>menggigit</PorcupineBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <PorcupineBite.deathMessage>{0} telah menggigit {0_gender?O: A} sampai mati.</PorcupineBite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <PorcupineScratch.label>menggores</PorcupineScratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <PorcupineScratch.deathMessage>{0} telah memilukan {0_gender?O: A} sampai mati.</PorcupineScratch.deathMessage>
+  
+</LanguageData>

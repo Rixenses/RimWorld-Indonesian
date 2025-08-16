@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Research -->
+  <!-- EN: Grav engine must be inspected -->
+  <MissingGravEngineInspection>Mesin gravitasi harus diperiksa</MissingGravEngineInspection>
+  <!-- EN: Requires inspection of -->
+  <RequiresInspectionof>Membutuhkan pemeriksaan</RequiresInspectionof>
+  <!-- EN: Grav engine inspected -->
+  <RequireGravEngineInspected>Mesin gravitasi yang diperiksa</RequireGravEngineInspected>
+  
+  <!-- Ancient vents -->
+  <!-- EN: venting smoke. -->
+  <AncientSmokeVentActive>Mengusir asap.</AncientSmokeVentActive>
+  <!-- EN: creating toxic fallout. -->
+  <AncientToxVentActive>menciptakan hujan radioaktif.</AncientToxVentActive>
+  <!-- EN: venting heat. -->
+  <AncientHeatVentActive>Mengusir panas.</AncientHeatVentActive>
+  
+</LanguageData>

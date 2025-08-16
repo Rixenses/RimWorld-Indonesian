@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely slow -->
+  <Research_ExtremelySlow.label>Sangat lambat</Research_ExtremelySlow.label>
+  <!-- EN: Research isn't a worthwhile activity at all. Why try hard at it? -->
+  <Research_ExtremelySlow.description>Investigasi adalah kegiatan yang tidak sepadan.Mengapa melakukannya lebih baik?</Research_ExtremelySlow.description>
+  
+  <!-- EN: fast -->
+  <Research_Fast.label>cepat</Research_Fast.label>
+  <!-- EN: Research is an especially virtuous activity. -->
+  <Research_Fast.description>Investigasi adalah kegiatan yang berbudi luhur.</Research_Fast.description>
+  
+  <!-- EN: not allowed -->
+  <Research_None.label>Tidak diizinkan</Research_None.label>
+  <!-- EN: To research technology is an immoral act. It is not to be done. -->
+  <Research_None.description>Investigasi teknologi adalah tindakan tidak bermoral, tidak dapat dilakukan.</Research_None.description>
+  
+  <!-- EN: normal -->
+  <Research_Normal.label>normal</Research_Normal.label>
+  <!-- EN: Research is a worthwhile form of work that the community needs. -->
+  <Research_Normal.description>Investigasi adalah cara yang berharga untuk bekerja untuk koloni itu.</Research_Normal.description>
+  
+  <!-- EN: slow -->
+  <Research_Slow.label>tingkat</Research_Slow.label>
+  <!-- EN: Research work just isn't particularly meaningful. Why try hard at it? -->
+  <Research_Slow.description>Investigasi adalah pekerjaan yang tidak memiliki banyak nilai.Mengapa melakukannya lebih baik?</Research_Slow.description>
+  
+  <!-- EN: very fast -->
+  <Research_VeryFast.label>Sangat cepat</Research_VeryFast.label>
+  <!-- EN: Research is among the most meaningful acts a person can perform. -->
+  <Research_VeryFast.description>Investigasi adalah nilai yang besar bagi seseorang.</Research_VeryFast.description>
+  
+  <!-- EN: very slow -->
+  <Research_VerySlow.label>Sangat lambat</Research_VerySlow.label>
+  <!-- EN: Research work is unworthy of serious respect. Better not to be seen trying hard at it. -->
+  <Research_VerySlow.description>Investigasi bukanlah sesuatu yang sangat menghormati.Lebih baik tidak terlihat melakukannya dengan baik.</Research_VerySlow.description>
+  
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab_Entity -->
+  <!-- EN: Escape interval -->
+  <HoldingPlatformEscapeMTBDays>Melarikan diri</HoldingPlatformEscapeMTBDays>
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <HoldingPlatformEscapeMTBDaysDesc>Perkiraan waktu antara kebocoran.Ini dipengaruhi oleh kekuatan penahanan, jenis entitas, kapasitas pergerakan entitas dan durasi penjara entitas.Beberapa entitas juga ditekan oleh kedinginan.</HoldingPlatformEscapeMTBDaysDesc>
+  <!-- EN: Entity -->
+  <TabEntity>Kesatuan</TabEntity>
+  <!-- EN: Study interval -->
+  <StudyInterval>Interval studi</StudyInterval>
+  <!-- EN: How often this entity can be studied. -->
+  <StudyIntervalDesc>Seberapa sering entitas ini dapat dipelajari.</StudyIntervalDesc>
+  <!-- EN: Maintain only -->
+  <EntityStudyMode_MaintainOnly>Tanpa interaksi</EntityStudyMode_MaintainOnly>
+  <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
+  <EntityStudyMode_MaintainOnlyDesc>Para penjaga tidak akan melakukan tindakan khusus dalam entitas ini, tetapi interaksi lain masih tersedia.</EntityStudyMode_MaintainOnlyDesc>
+  <!-- EN: Study -->
+  <EntityStudyMode_Study>Belajar</EntityStudyMode_Study>
+  <!-- EN: Researchers will study the entity. -->
+  <EntityStudyMode_StudyDesc>Para peneliti akan mempelajari entitas.</EntityStudyMode_StudyDesc>
+  <!-- EN: Release -->
+  <EntityStudyMode_Release>Melepaskan</EntityStudyMode_Release>
+  <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
+  <EntityStudyMode_ReleaseDesc>Seorang penjaga akan melepaskan entitas platform penahanan.Entitas dapat bermusuhan untuk dirilis.</EntityStudyMode_ReleaseDesc>
+  <!-- EN: Execute -->
+  <EntityStudyMode_Execute>Menjalankan</EntityStudyMode_Execute>
+  <!-- EN: A warden will execute the restrained entity. -->
+  <EntityStudyMode_ExecuteDesc>Seorang penjaga akan melaksanakan entitas terbatas.</EntityStudyMode_ExecuteDesc>
+  <!-- EN: Extract bioferrite -->
+  <EntityStudyMode_Extract>Ekstrak Bioferrita</EntityStudyMode_Extract>
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->
+  <EntityStudyMode_ExtractDesc>Dokter akan mengekstraksi bioferrita dari entitas yang ditangkap jika memungkinkan.Metode ekstraksi ini sederhana, tetapi tidak efektif.Tidak dapat dilakukan jika entitas tersebut terkait dengan pemanen bioferrita.</EntityStudyMode_ExtractDesc>
+  <!-- EN: Requires bioferrite extraction. -->
+  <RequiresBioferriteExtraction>Anda membutuhkan pemanen bioferrita.</RequiresBioferriteExtraction>
+  <!-- EN: Blocked by bioferrite harvester. -->
+  <BioferriteHarvesterAttached>Diblokir oleh pemanen bioferrita.</BioferriteHarvesterAttached>
+  <!-- EN: Can't be executed. -->
+  <CantBeExecuted>Tidak dapat dieksekusi</CantBeExecuted>
+  <!-- EN: Knowledge gain -->
+  <StudyKnowledgeGain>Keuntungan Pengetahuan</StudyKnowledgeGain>
+  <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
+  <StudyKnowledgeGainDesc>Cantidad de conocimientos adquiridos por intervalo de estudio. Una mejor contención ayuda al investigador a centrarse en el estudio en lugar de en la seguridad, con lo que se obtienen más conocimientos.</StudyKnowledgeGainDesc>
+  <!-- EN: What type of medicine can be given to this entity. -->
+  <MedicineQualityDescriptionEntity>Jenis obat apa yang dapat diberikan pada entitas ini.</MedicineQualityDescriptionEntity>
+
+  <!-- EN: Electroharvester -->
+  <FactorForElectroharvester>Electrocosechador</FactorForElectroharvester>
+  <!-- EN: Long captivity -->
+  <FactorForDaysInCaptivity>Penahanan yang berkepanjangan</FactorForDaysInCaptivity>
+  <!-- EN: Cold containment bonus -->
+  <FactorForColdCaptivity>Bonus penahanan dingin</FactorForColdCaptivity>
+  <!-- EN: Incapable of escaping -->
+  <IncapableOfEscaping>Tidak bisa melarikan diri</IncapableOfEscaping>
+  <!-- EN: Entity downed -->
+  <EntityDowned>Entitas yang ditengahi</EntityDowned>
+  <!-- EN: Containment strength -->
+  <FactorContainmentStrength>Kekuatan penahanan</FactorContainmentStrength>
+  <!-- EN: Electroharvester -->
+  <FactorElectroharvester>Electrocosechador</FactorElectroharvester>
+  <!-- EN: Activity -->
+  <FactorActivity>Aktivitas</FactorActivity>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>Chemoreactor yang tak terbatas</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>Perlahan menghasilkan biofuel melalui serangkaian reaksi kimia yang kompleks, menggunakan atom yang diekstraksi dari udara.</InfiniteChemreactor.description>
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>Emanator Psikis</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>Perangkat lama yang memproyeksikan bidang psikis yang menenangkan di sekitarnya.Ini meningkatkan keadaan humor orang dekat mana pun.Itu bekerja melalui dinding.</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>sel energi vanometrik</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>Ini menghasilkan energi bebas, selamanya, tanpa menggunakan bahan bakar.Teknologi ini dikembangkan oleh arkeoteknologi, dan di luar pemahaman hampir semua masyarakat dunia.Meskipun tidak ada yang tahu persis bagaimana para sarjana percaya bahwa itu entah bagaimana mengekstraksi energi langsung dari fluktuasi materi kuantum.</VanometricPowerCell.description>
+  
+</LanguageData>

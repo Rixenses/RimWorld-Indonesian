@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood transfusion -->
+  <BloodTransfusion.label>transfusi darah</BloodTransfusion.label>
+  <!-- EN: Use hemogen packs to reduce the effects of blood loss. Each hemogen pack used recovers 35% blood loss. The operation will also restore hemogen to hemogenic individuals. -->
+  <BloodTransfusion.description>Gunakan kantong hemogen untuk mengurangi efek kehilangan darah.Setiap paket hemogen digunakan memulihkan kehilangan darah 35%.Operasi ini juga akan mengembalikan hemogen ke individu hemogenik.</BloodTransfusion.description>
+  <!-- EN: performing blood transfusion on TargetA. -->
+  <BloodTransfusion.jobString>melakukan transfusi darah.</BloodTransfusion.jobString>
+  
+  <!-- EN: extract hemogen pack -->
+  <ExtractHemogenPack.label>Ekstrak hemogen</ExtractHemogenPack.label>
+  <!-- EN: Extract a hemogen pack from the target. The operation will fail to produce a hemogen pack if the target does not have enough blood.\n\nHemogen packs can be administered to others to reduce blood loss or to satiate those who feed on blood. -->
+  <ExtractHemogenPack.description>Ekstrak paket hemogen dari target.Operasi tidak akan menghasilkan paket hemogenik jika tujuannya tidak memiliki cukup darah.Paket hemogen dapat diberikan kepada orang lain untuk mengurangi kehilangan darah atau memuaskan mereka yang memakan darah.</ExtractHemogenPack.description>
+  <!-- EN: Extracting hemogen pack. -->
+  <ExtractHemogenPack.jobString>Mengekstraksi paket hemogen</ExtractHemogenPack.jobString>
+  
+  <!-- EN: extract ovum for IVF -->
+  <ExtractOvum.label>Ekstrak ovula untuk VFI</ExtractOvum.label>
+  <!-- EN: Extract an ovum into a storage capsule. It can then be fertilized by a man, and finally implanted into a mother to start a pregnancy. -->
+  <ExtractOvum.description>Ekstrak ovula dalam kapsul penyimpanan.Kemudian, itu dapat dibuahi oleh seorang pria dan, akhirnya, ditanamkan pada seorang ibu untuk memulai kehamilan.</ExtractOvum.description>
+  <!-- EN: extracting ovum from TargetA. -->
+  <ExtractOvum.jobString>Mengekstraksi ovule kartu.</ExtractOvum.jobString>
+  
+  <!-- EN: implant embryo -->
+  <ImplantEmbryo.label>embrio implan</ImplantEmbryo.label>
+  <!-- EN: Implant an embryo in a surrogate mother to begin a pregnancy. -->
+  <ImplantEmbryo.description>Menerapkan embrio pada ibu substitusi untuk memulai kehamilan.</ImplantEmbryo.description>
+  <!-- EN: Implanting embryo in TargetA. -->
+  <ImplantEmbryo.jobString>Embrio kartu implementasi.</ImplantEmbryo.jobString>
+  
+  <!-- EN: implant IUD -->
+  <ImplantIUD.label>kata implan</ImplantIUD.label>
+  <!-- EN: Implant a small metal device in the uterus to prevent pregnancies. It can later be removed, but there is a small chance of leaving the patient permanently sterile. This surgery terminates pregnancies in the first trimester. -->
+  <ImplantIUD.description>Menerapkan perangkat logam kecil di rahim untuk menghindari kehamilan.Selanjutnya dapat ditarik, tetapi ada kemungkinan kecil untuk meninggalkan pasien secara permanen steril.Operasi ini mengganggu kehamilan pada kuartal pertama.</ImplantIUD.description>
+  <!-- EN: implanting a IUD in TargetA. -->
+  <ImplantIUD.jobString>menanamkan diu en carjeta.</ImplantIUD.jobString>
+  <!-- EN: {0} has successfully implanted an IUD in {1}. -->
+  <ImplantIUD.successfullyRemovedHediffMessage>{0} telah berhasil menerapkan IUD di {1}.</ImplantIUD.successfullyRemovedHediffMessage>
+  
+  <!-- EN: implant xenogerm -->
+  <ImplantXenogerm.label>Implan xenogermen</ImplantXenogerm.label>
+  <!-- EN: Implant a xenogerm into a patient. This replaces any previous xenogerm they may have had. -->
+  <ImplantXenogerm.description>Implan Xenogermen pasien.Ini menggantikan xenogermen sebelumnya yang bisa Anda miliki.</ImplantXenogerm.description>
+  <!-- EN: Implanting xenogerm. -->
+  <ImplantXenogerm.jobString>Menanamkan xenogermen.</ImplantXenogerm.jobString>
+  
+  <!-- EN: remove IUD -->
+  <RemoveIUD.label>Pensiun mengatakan</RemoveIUD.label>
+  <!-- EN: Remove an implanted intrauterine device to allow normal pregnancy. If the surgery goes wrong, the patient will be rendered permanently sterile. -->
+  <RemoveIUD.description>Lepaskan perangkat intrauterin yang ditanamkan untuk memungkinkan kehamilan normal.Jika intervensi salah, pasien akan steril secara permanen.</RemoveIUD.description>
+  <!-- EN: removing IUD from TargetA. -->
+  <RemoveIUD.jobString>Menghapus diu dari scarry.</RemoveIUD.jobString>
+  <!-- EN: {0} has successfully removed {1}'s IUD. -->
+  <RemoveIUD.successfullyRemovedHediffMessage>{0} telah berhasil mengekstraksi IUD {1}.</RemoveIUD.successfullyRemovedHediffMessage>
+  
+  <!-- EN: reverse vasectomy -->
+  <ReverseVasectomy.label>Kembalikan vasektomi</ReverseVasectomy.label>
+  <!-- EN: Attempt to reverse the vasectomy and make a man capable of fathering children again. Most vasectomy reversals succeed, but if the surgery goes wrong the man will be left permanently sterile. -->
+  <ReverseVasectomy.description>Cobalah untuk membalikkan vasektomi dan membuat manusia dapat melibatkan anak -anak.Sebagian besar pembalikan vasektomi berhasil, tetapi jika operasi itu salah, pria itu akan steril secara permanen.</ReverseVasectomy.description>
+  <!-- EN: performing a vasectomy reversal on TargetA. -->
+  <ReverseVasectomy.jobString>melakukan pembalikan vestage pada kartu.</ReverseVasectomy.jobString>
+  <!-- EN: {0} has successfully performed a vasectomy reversal on {1}. -->
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0} telah berhasil melakukan pembalikan vasektomi di {1}.</ReverseVasectomy.successfullyRemovedHediffMessage>
+  
+  <!-- EN: terminate pregnancy -->
+  <TerminatePregnancy.label>mengganggu kehamilan</TerminatePregnancy.label>
+  <!-- EN: Terminate the pregnancy of an animal or human. -->
+  <TerminatePregnancy.description>Akhiri kehamilan hewan atau manusia.</TerminatePregnancy.description>
+  <!-- EN: terminating TargetA's pregnancy. -->
+  <TerminatePregnancy.jobString>Kehamilan kartu interupsi.</TerminatePregnancy.jobString>
+  
+  <!-- EN: perform tubal ligation -->
+  <TubalLigation.label>Membuat ligasi tuba</TubalLigation.label>
+  <!-- EN: Permanently render a patient sterile and unable to reproduce. -->
+  <TubalLigation.description>Tinggalkan pasien steril secara permanen dan tidak dapat bereproduksi.</TubalLigation.description>
+  <!-- EN: performing tubal ligation on TargetA. -->
+  <TubalLigation.jobString>Membuat ligasi tuba pada kartu.</TubalLigation.jobString>
+  <!-- EN: {0} has successfully performed tubal ligation on {1}. -->
+  <TubalLigation.successfullyRemovedHediffMessage>{0} telah berhasil melakukan ligasi tuba {1}.</TubalLigation.successfullyRemovedHediffMessage>
+  
+  <!-- EN: perform vasectomy -->
+  <Vasectomy.label>Lakukan vasektomi</Vasectomy.label>
+  <!-- EN: Cut the vas deferens to render the patient unable to reproduce. If the surgery goes wrong the patient will be left permanently sterile. -->
+  <Vasectomy.description>Potong saluran deferens sehingga pasien tidak dapat bereproduksi.Jika operasi itu salah, pasien akan steril selamanya.</Vasectomy.description>
+  <!-- EN: performing a vasectomy on TargetA. -->
+  <Vasectomy.jobString>Lakukan vasektomi kartu.</Vasectomy.jobString>
+  <!-- EN: {0} has successfully performed a vasectomy on {1}. -->
+  <Vasectomy.successfullyRemovedHediffMessage>{0} telah berhasil melakukan vasektomi ke {1}.</Vasectomy.successfullyRemovedHediffMessage>
+  
+</LanguageData>

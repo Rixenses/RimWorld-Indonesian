@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>berat</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>lampu</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>sedang</Medium.label>
+  
+  <!-- EN: ultraheavy -->
+  <UltraHeavy.label>Ultrapesado</UltraHeavy.label>
+  
+</LanguageData>

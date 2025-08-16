@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: psychic ritual -->
+  <PsychicRitual>ritual psikis</PsychicRitual>
+  <!-- EN: Begin psychic ritual -->
+  <CastPsychicRitual>Mulai ritual psikis</CastPsychicRitual>
+  <!-- EN: Select a psychic ritual to perform -->
+  <CastPsychicRitualDesc>Pilih ritual psikis untuk dilakukan</CastPsychicRitualDesc>
+  <!-- EN: {0_labelShort} cannot perform {1} psychic ritual because {2}. -->
+  <CannotCastPsychicRitual>{0_labelshort} tidak dapat melakukan ritual psikis {1} karena {2}.</CannotCastPsychicRitual>
+  <!-- EN: The {0} psychic ritual has begun. -->
+  <PsychicRitualBegun>Ritual psikis {0} telah dimulai.</PsychicRitualBegun>
+  <!-- EN: The {0} psychic ritual has been completed. -->
+  <PsychicRitualCompleted>Ritual psikis {0} telah selesai.</PsychicRitualCompleted>
+  <!-- EN: attending {RITUALNAME} psychic ritual -->
+  <PsychicRitualAttending>Menghadiri ritual psikis {ritualname}</PsychicRitualAttending>
+  <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->
+  <ParticipatingInPsychicRitual>{0_labelshort} berpartisipasi dalam ritual psikis {1}.</ParticipatingInPsychicRitual>
+  <!-- EN: {0_labelShort} is participating in the {1} psychic ritual. -->
+  <AbilityDisabledInPsychicRitual>{0_labelshort} berpartisipasi dalam ritual psikis {1}.</AbilityDisabledInPsychicRitual>
+  <!-- EN: choose a location -->
+  <PsychicRitual_LocationTargetting>Pilih lokasi</PsychicRitual_LocationTargetting>
+  <!-- EN: total quality -->
+  <PsychicRitualExpectedQualityLabel>Kualitas total</PsychicRitualExpectedQualityLabel>
+  <!-- EN: quality factors -->
+  <PsychicRitualQualityFactorLabel>Faktor kualitas</PsychicRitualQualityFactorLabel>
+  <!-- EN: duration -->
+  <PsychicRitualExpectedDurationLabel>Duración</PsychicRitualExpectedDurationLabel>
+  <!-- EN: required offering -->
+  <PsychicRitualRequiredOffering>diperlukan penawaran</PsychicRitualRequiredOffering>
+  <!-- EN: Caused by psychic ritual -->
+  <CausedByPsychicRitual>Disebabkan oleh ritual psikis</CausedByPsychicRitual>
+  <!-- EN: Cooldown -->
+  <PsychicRitualCooldownLabel>Pendinginan</PsychicRitualCooldownLabel>
+
+  <!-- EN: Psychic ritual area obstructed. -->
+  <PsychicRitualSpotObstructed>Zona ritual psikis terhambat.</PsychicRitualSpotObstructed>
+  <!-- EN: psychic ritual on cooldown. It will be available in {0}. -->
+  <PsychicRitualOnCooldown>Ritual psikis dalam pendinginan.Akan tersedia di {0}.</PsychicRitualOnCooldown>
+  <!-- EN: The {0} psychic ritual can be performed again. -->
+  <PsychicRitualCanBeCastAgain>Ritual psikis {0} dapat dilakukan lagi.</PsychicRitualCanBeCastAgain>
+  <!-- EN: No basic anomaly research project selected. -->
+  <NoBasicResearchForPsychicRitual>Tidak ada proyek penelitian anomali dasar yang telah dipilih.</NoBasicResearchForPsychicRitual>
+  <!-- EN: Must perform {0} psychic ritual on the surface. -->
+  <CantCastOnPocketMap>Ritual psikis {0} di permukaan harus dilakukan.</CantCastOnPocketMap>
+
+  <!-- EN: Warning: Performing a ritual on {PAWN_nameDef} will anger {PAWN_possessive} faction ({FACTION_name}) -->
+  <PsychicRitualFactionWarning>PERINGATAN: Buat ritual ke {Pawn_namedef} akan membuat marah faktanya ({faction_name})</PsychicRitualFactionWarning>
+
+  <!-- EN: {0} is currently asleep and will wake up when the psychic ritual begins. -->
+  <PsychicRitualWakingPawnWarning>{0} sedang tidur dan akan bangun ketika ritual psikis dimulai.</PsychicRitualWakingPawnWarning>
+  <!-- EN: {0} is currently drafted and will be un-drafted when the psychic ritual begins. -->
+  <PsychicRitualUndraftPawnWarning>{0} sedang merekrut {0_gender?Atau: A}, itu akan berhenti ketika ritual psikis dimulai.</PsychicRitualUndraftPawnWarning>
+  <!-- EN: {0} are currently asleep and will wake up when the psychic ritual begins. -->
+  <PsychicRitualWakingPawnsWarning>{0} sedang tidur dan akan bangun ketika ritual psikis dimulai.</PsychicRitualWakingPawnsWarning>
+  <!-- EN: {0} are currently drafted and will be un-drafted when the psychic ritual begins. -->
+  <PsychicRitualUndraftPawnsWarning>{0} Saat ini direkrut, mereka akan berhenti ketika ritual psikis dimulai.</PsychicRitualUndraftPawnsWarning>
+
+  <!-- EN: {0_labelShort} left the {1} psychic ritual. -->
+  <PsychicRitualLeft>{0_labelshort} meninggalkan ritual psikis {1}.</PsychicRitualLeft>
+  <!-- EN: {0_labelShort} left the {1} psychic ritual because {2}. -->
+  <PsychicRitualLeftBecause>{0_labelshort} meninggalkan ritual psikis {1} karena {2}.</PsychicRitualLeftBecause>
+  <!-- EN: The {0} psychic ritual has been canceled. -->
+  <PsychicRitualCanceled>Ritual psikis {0} telah dibatalkan.</PsychicRitualCanceled>
+  <!-- EN: The {0} psychic ritual has been canceled because {1}. -->
+  <PsychicRitualCanceledBecause>Ritual psikis {0} telah dibatalkan karena {1}.</PsychicRitualCanceledBecause>
+
+  <!-- EN: {0} is needed but only {1} is available -->
+  <PsychicRitualOfferingsInsufficient>{0} diperlukan tetapi hanya tersedia {1}.</PsychicRitualOfferingsInsufficient>
+  <!-- EN: {TARGET_labelShort} is unreachable by {INVOKER_labelShort} -->
+  <PsychicRitualTargetUnreachableByInvoker>{Target_labelshort} es tidak dapat diubah {invoker_labelshort}</PsychicRitualTargetUnreachableByInvoker>
+
+  <!-- EN: leave the {0} psychic ritual -->
+  <CommandLeavePsychicRitual>Abandon the Psychic Ritual {0}</CommandLeavePsychicRitual>
+  <!-- EN: stop participating in the {0} psychic ritual. The psychic ritual will continue as long as it has at least one participant. -->
+  <CommandLeavePsychicRitualDesc>Berhenti berpartisipasi dalam ritual psikis {0}.Ritual psikis akan berlanjut selama Anda memiliki setidaknya satu peserta.</CommandLeavePsychicRitualDesc>
+
+  <!-- EN: cancel the {0} psychic ritual -->
+  <CommandCancelPsychicRitual>Batalkan ritual psikis {0}</CommandCancelPsychicRitual>
+  <!-- EN: end the {0} psychic ritual immediately. You can restart the psychic ritual later. -->
+  <CommandCancelPsychicRitualDesc>Ritual psikis berakhir {0} segera.Anda dapat memulai kembali ritual psikis nanti.</CommandCancelPsychicRitualDesc>
+  <!-- EN: Are you sure you want to cancel the {0} psychic ritual? -->
+  <CommandCancelPsychicRitualConfirm>Anda yakin ingin membatalkan ritual psikis {0}?</CommandCancelPsychicRitualConfirm>
+
+  <!-- EN: {PAWN_labelShort} vanished -->
+  <PsychicRitualLeaveReason_Vanished>{Pawn_labelshort} Apakah itu menghilang {Pawn_gender?O: A}</PsychicRitualLeaveReason_Vanished>
+  <!-- EN: {PAWN_labelShort} is incapacitated -->
+  <PsychicRitualLeaveReason_Incapped>{Pawn_labelshort} apakah itu dinonaktifkan {Pawn_gender?O: A}</PsychicRitualLeaveReason_Incapped>
+  <!-- EN: {PAWN_labelShort} is dead -->
+  <PsychicRitualLeaveReason_Killed>{Pawn_labelshit} está corthro {pawn_oger?O: A}</PsychicRitualLeaveReason_Killed>
+  <!-- EN: {PAWN_labelShort} is not part of {FACTION_name} -->
+  <PsychicRitualLeaveReason_WrongFaction>{Pawn_labelshort} bukan bagian dari faksi {faction_name}</PsychicRitualLeaveReason_WrongFaction>
+  <!-- EN: {PAWN_labelShort} is no longer on the map -->
+  <PsychicRitualLeaveReason_ExitedMap>{Pawn_labelshort} tidak lagi ada di peta</PsychicRitualLeaveReason_ExitedMap>
+  <!-- EN: {PAWN_labelShort} had better things to do -->
+  <PsychicRitualLeaveReason_LeftVoluntarily>{Pawn_lallshort} Saya memiliki hal -hal yang lebih baik untuk dilakukan</PsychicRitualLeaveReason_LeftVoluntarily>
+  <!-- EN: {PAWN_labelShort} is drafted -->
+  <PsychicRitualLeaveReason_Drafted>{Pawn_labelshort} Esta Reclutad {Pawn_gender?O: A}</PsychicRitualLeaveReason_Drafted>
+  <!-- EN: {PAWN_labelShort} is in a mental state -->
+  <PsychicRitualLeaveReason_InMentalState>{Pawn_labelshort} dalam keruntuhan mental</PsychicRitualLeaveReason_InMentalState>
+  <!-- EN: {PAWN_labelShort} is bleeding -->
+  <PsychicRitualLeaveReason_Bleeding>{Pawn_labshort} berdarah</PsychicRitualLeaveReason_Bleeding>
+  <!-- EN: {PAWN_labelShort} is on fire -->
+  <PsychicRitualLeaveReason_Burning>{Pawn_labelshort} terbakar</PsychicRitualLeaveReason_Burning>
+  <!-- EN: the temperature near the target is not safe for {PAWN_labelShort} -->
+  <PsychicRitualLeaveReason_ExtremeTemperature>Suhu di dekat target tidak aman untuk {pawn_lallshort}</PsychicRitualLeaveReason_ExtremeTemperature>
+  <!-- EN: {PAWN_labelShort} cannot participate from inside {BUILDING} -->
+  <PsychicRitualLeaveReason_InsideBuilding>{Pawn_labelshort} tidak dapat berpartisipasi berada di dalam {bangunan}</PsychicRitualLeaveReason_InsideBuilding>
+  <!-- EN: {PAWN_labelShort} is humanlike -->
+  <PsychicRitualLeaveReason_Humanlike>{Pawn_lallshort} adalah humanoid</PsychicRitualLeaveReason_Humanlike>
+  <!-- EN: {PAWN_labelShort} is not humanlike -->
+  <PsychicRitualLeaveReason_NonHumanlike>{Pawn_lallshort} bukan humanoid</PsychicRitualLeaveReason_NonHumanlike>
+  <!-- EN: {PAWN_labelShort} is a prisoner -->
+  <PsychicRitualLeaveReason_Prisoner>{Pawn_labelshort} adalah seorang tahanan</PsychicRitualLeaveReason_Prisoner>
+  <!-- EN: {PAWN_labelShort} is a slave -->
+  <PsychicRitualLeaveReason_Slave>{Pawn_labelshort} adalah seorang budak</PsychicRitualLeaveReason_Slave>
+  <!-- EN: {PAWN_labelShort} is free -->
+  <PsychicRitualLeaveReason_Freeman>{Pawn_labelshort} berkeliaran</PsychicRitualLeaveReason_Freeman>
+  <!-- EN: {PAWN_labelShort} is a {STAGE} -->
+  <PsychicRitualLeaveReason_DevelopmentalStage>{Pawn_labelshort} dalam kondisi mental {stage}</PsychicRitualLeaveReason_DevelopmentalStage>
+  <!-- EN: {PAWN_labelShort} cannot reach the target location -->
+  <PsychicRitualLeaveReason_CannotReachTarget>{Pawn_labelshort} tidak dapat mencapai lokasi tujuan</PsychicRitualLeaveReason_CannotReachTarget>
+  <!-- EN: {PAWN_labelShort} is asleep -->
+  <PsychicRitualLeaveReason_Sleeping>{Pawn_labelshort} Apakah mengantuk {Pawn_gender?O: A}</PsychicRitualLeaveReason_Sleeping>
+  <!-- EN: {PAWN_labelShort} is not a human -->
+  <PsychicRitualLeaveReason_Mutant>{Pawn_labelshort} bukan manusia</PsychicRitualLeaveReason_Mutant>
+  <!-- EN: {PAWN_labelShort}'s belief in {IDEO_name} prevents participation -->
+  <PsychicRitualLeaveReason_IdeoUnwilling>Keyakinan {pawn_lallshort} di {ideo_name} mencegah partisipasinya</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <!-- EN: {PAWN_labelShort} is not psychically sensitive -->
+  <PsychicRitualLeaveReason_NoPsychicSensitivity>{Pawn_lallshort} tidak peka secara psikis</PsychicRitualLeaveReason_NoPsychicSensitivity>
+  <!-- EN: {PAWN_labelShort} is a temporary faction member -->
+  <PsychicRitualLeaveReason_TemporaryFactionMember>{Pawn_labelshort} adalah anggota sementara dari faksi</PsychicRitualLeaveReason_TemporaryFactionMember>
+  <!-- EN: {PAWN_labelShort} has other duties to attend to -->
+  <PsychicRitualLeaveReason_PawnBusyWithLord>{Pawn_lallshort} memiliki kewajiban lain untuk hadir</PsychicRitualLeaveReason_PawnBusyWithLord>
+  <!-- EN: {PAWN_labelShort} has other duties to attend to -->
+  <PsychicRitualLeaveReason_ForcedByQuest>{Pawn_lallshort} memiliki kewajiban lain untuk hadir</PsychicRitualLeaveReason_ForcedByQuest>
+
+  <!-- PsychicRitualToils-->
+  <!-- EN: moving into position -->
+  <PsychicRitualToil_Goto_JobReport_Moving>Pindah ke posisinya</PsychicRitualToil_Goto_JobReport_Moving>
+  <!-- EN: waiting for everyone to get into position -->
+  <PsychicRitualToil_Goto_JobReport_Waiting>Menunggu semua orang masuk ke posisi</PsychicRitualToil_Goto_JobReport_Waiting>
+
+  <!-- EN: {PAWN_labelShort} was unable to find enough {1} -->
+  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{Pawn_labelshort} tidak dapat menemukan cukup {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+  <!-- EN: gathering offering -->
+  <PsychicRitualToil_GatherOfferings_JobReport>mengumpulkan penawaran</PsychicRitualToil_GatherOfferings_JobReport>
+
+  <!-- EN: leading psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Invoker>memimpin ritual psikis</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
+  <!-- EN: channeling power to psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>menyalurkan kekuatan menuju ritual psikis</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+  <!-- EN: psychic ritual target -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Target>Tujuan dari ritual psikis</PsychicRitualToil_InvokeHorax_JobReport_Target>
+  <!-- EN: {0} doesn't have enough {1} -->
+  <PsychicRitualToil_InvokeHorax_MissingRequiredOffering>{0} tidak memiliki cukup {1}</PsychicRitualToil_InvokeHorax_MissingRequiredOffering>
+  <!-- EN: {PAWN_labelShort} is out of position -->
+  <PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>{Pawn_lallshort} tidak dalam posisi</PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>
+  <!-- EN: defending psychic ritual -->
+  <PsychicRitualToil_InvokeHorax_JobReport_Defender>Membela ritual psikis</PsychicRitualToil_InvokeHorax_JobReport_Defender> 
+
+  <!-- EN: waiting on -->
+  <PsychicRitualToil_GatherForInvocation_Report>menunggu</PsychicRitualToil_GatherForInvocation_Report>
+  <!-- EN: invoking the void -->
+  <PsychicRitualToil_InvokeHorax_Report>memohon kekosongan</PsychicRitualToil_InvokeHorax_Report>
+
+  <!-- EN: {TARGET_labelShort} was destroyed -->
+  <PsychicRitualDef_TargetDestroyed>{Target_lallshort} dihancurkan (a)</PsychicRitualDef_TargetDestroyed>
+  <!-- EN: {INVOKER_labelShort} cannot continue the psychic ritual -->
+  <PsychicRitualDef_InvocationCircle_InvokerLost>{Invoker_lallshort} tidak dapat melanjutkan ritual psikis</PsychicRitualDef_InvocationCircle_InvokerLost>
+
+  <!-- EN: the area around the target site must be clear of obstructions -->
+  <PsychicRitualDef_InvocationCircle_AreaMustBeClear>Area di sekitar tujuan harus bebas dari rintangan</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
+  <!-- EN: {PAWN_labelShort}'s psychic sensitivity -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>Sensitivitas psikis {Pawn_labelshort}</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+  <!-- EN: How in-tune {PAWN_labelShort} is with psychic phenomena. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>What Harmony memiliki {Pawn_lallshort} dengan fenomena psikis.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
+  <!-- EN: These objects help focus the psychic power of the ritual. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>Objek -objek ini membantu memusatkan kekuatan psikis ritual.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+  <!-- EN: Ideoligion offset -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>Kompensasi Ideoligion</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
+  <!-- EN: How affected the psychic ritual is by ideoligious beliefs. -->
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>Bagaimana keyakinan ideoligi mempengaruhi ritual psikis.</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
+
+  <!-- PsychicRitualDef_InvokationCircle messages -->
+  <!-- EN: {0} has begun performing the {1} psychic ritual. -->
+  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0} telah mulai melakukan ritual psikis {1}.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+  <!-- EN: psychic ritual area is obstructed -->
+  <PsychicRitualAreaObstructed>Area ritual psikis tersumbat</PsychicRitualAreaObstructed>
+
+  <!-- Animal summoning -->
+  <!-- EN: Not enough animals in this biome. -->
+  <NotEnoughAnimals>Tidak ada cukup hewan di bioma ini.</NotEnoughAnimals>
+
+  <!-- Shambler summoning -->
+  <!-- EN: No nearby shamblers. -->
+  <NoNearbyShamblers>Tidak ada pejalan kaki terdekat.</NoNearbyShamblers>
+
+  <!-- Pit gate summoning -->
+  <!-- EN: There is already a pit gate on the map. -->
+  <PitGateAlreadyExists>Sudah ada lubang vakum di peta.</PitGateAlreadyExists>
+  
+  <!-- Chronophagy -->
+  <!-- EN: The invoker must be at least {0} years old. -->
+  <InvokerTooYoung>Invoker harus memiliki setidaknya {0} tahun.</InvokerTooYoung>
+  <!-- EN: The target must be at least {0} years old. -->
+  <PsychicRitualTargetTooYoung>Tujuan harus memiliki setidaknya {0} tahun.</PsychicRitualTargetTooYoung>
+  <!-- EN: {INVOKER_labelShort} will become {1} years old, and {TARGET_labelShort} will become {3} years old. -->
+  <CronophagyAgeChange>{Invoker_lallshort} akan memiliki {1} tahun, dan {target_lallshort} akan memiliki {3} tahun.</CronophagyAgeChange>
+  
+  <!-- Philophagy -->
+  <!-- EN: {INVOKER_labelShort} will steal {1} {SKILL_label} XP from {TARGET_labelShort}. -->
+  <PhilophagyTransferReport>{Invoker_lallshort} akan mencuri {1} dari exp pada {skill_label} dari {target_lallshort}.</PhilophagyTransferReport>
+  <!-- EN: {TARGET_labelShort} has no skills to transfer. -->
+  <NoSkillsToTransfer>{Target_lallshort} tidak memiliki keterampilan untuk ditransfer.</NoSkillsToTransfer>
+</LanguageData>

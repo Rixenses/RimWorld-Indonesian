@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital debris -->
+  <OrbitalDebris.label>Puing -puing orbital</OrbitalDebris.label>
+  <!-- EN:
+    <li>Tale_noun-> Badai mikrometeorite menyapu [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> fragmen mikrometeorite yang menyentuh area di sekitar [Pawn_namedef] [Komunitas]</li>
+    <li>Image-> Cascade of Micrometeorites yang berkilau dengan [warna] Sparks [Airborne_circumstance]</li>
+    <li>Image-> Hamburan mikrometeorite yang menyala-terang [Airborne_circumstance]</li>
+    <li>Image-> A Shower of [Color] Sparks sebagai micrometeorites Blaze [Airborne_circumstance]</li>
+    <li>Airborne_circumstance-> Racing melintasi langit</li>
+    <li>Airborne_circumstance-> runtuh dalam kesibukan cahaya</li>
+    <li>Airborne_circumstance-> menghilang menjadi debu yang berkilauan saat jatuh</li>
+    <li>Gambar-> Sekelompok tanda dampak yang membara, [ground_circumstance]</li>
+    <li>gambar-> fragmen hangus [warna], [ground_circumstance]</li>
+    <li>gambar-> sebaran [warna] batu kecil, [ground_circumstance]</li>
+    <li>ground_circumstance-> dikelilingi oleh kabut debu halus</li>
+    <li>ground_circumstance-> bercahaya samar dari sisa panas</li>
+    <li>ground_circumstance-> tertanam dalam selimut tanah yang retak</li>
+    <li>ground_circumstance-> tersebar di seluruh lanskap</li>
+    <li>ground_circumstance-> bertitik di tengah-tengah bidang kawah kecil</li>
+    <li>desc_sentence-> [pawn_namedef] menonton kamar mandi dengan kagum.</li>
+    <li>desc_sentence-> [pawn_namedef] menatap dengan heran.</li>
+    <li>desc_sentence-> [pawn_namedef] dikejutkan oleh rentetan tanpa henti.</li>
+    <li>Angka desc_sentence-> [quantity_adjphrase] muncul dari [terrainfeature] terdekat untuk berlindung.</li>
+    <li>DESC_SENTENCE-> [quantity_adjphrase] Angka berebut untuk mengamankan barang-barangnya.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan bergegas, mencari perlindungan.</li>
+    <li>DESC_SENTENCE-> Ruang dibebankan dengan kekuatan yang menakutkan.</li>-><OrbitalDebris.rulePack.rulesStrings>
+    <li>Tale_noun-> Badai micrometeoritos menyapu [komunitas] [Pawn_namedef]</li>
+    <li>Tale_noun-> Badai micrometeoritos menyapu [community_fem] dari [pawn_namedef]</li>
+    <li>Talent_noun-> Micrometeorites Fragmen yang memercikkan area di sekitar [community_fem] dari [Pawn_namedef]</li>
+    <li>Tale_noun-> Micrometeorites Fragmen yang memercikkan area di sekitar [komunitas] [Pawn_namedef]</li>
+    <li>Gambar-> Air terjun micrometeoritos yang bersinar dengan percikan [color_fem] [Airborne_circumstance]</li>
+    <li>Gambar-> Dispersi mikrometeorit yang sangat cerah [keadaan udara]</li>
+    <li>Image-> A Rain of Sparks [color_fem] sedangkan micrometeoritos arden [airborne_circumstance]</li>
+    <li>airborne_circumstance->cruzando el cielo a toda velocidad</li>
+    <li>Keadaan di udara-> jatuh ke ledakan cahaya</li>
+    <li>Airborne_circumstance-> menghilangkan debu yang bersinar saat jatuh</li>
+    <li>Image-> Sekelompok Merek Dampak Molent, [Ground_circumstance]</li>
+    <li>Gambar-> fragmen uning [warna], [keadaan tanah]</li>
+    <li>gambar-> dispersi batu kecil [color_fem], [ground_circumstance]</li>
+    <li>Keadaan tanah-> dikelilingi oleh kabut bubuk halus</li>
+    <li>Ground_circumstance-> bersinar sedikit dengan sisa panas</li>
+    <li>Keadaan tanah-> tertanam dalam mantel yang retak</li>
+    <li>Ground_circumstance-> tersebar melalui lanskap</li>
+    <li>Keadaan tanah-> terciprat di antara bidang kawah yang lebih kecil</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihatlah hujan dengan takjub.</li>
+    <li>Desc_sentence-> [pawn_namedef] Lihatlah dengan keajaiban.</li>
+    <li>Desc_sentence-> [pawn_namedef] dikejutkan sebelum jalan yang tak henti-hentinya.</li>
+    <li>Angka desc_sentence-> [frasa adj kuantitas] muncul dari [fitur medan] yang dekat untuk melindungi diri mereka sendiri.</li>
+    <li>Angka-angka desctence-> [kuantitas adj] muncul dari [terainfeature_fem] di dekatnya.</li>
+    <li>Angka Descent-> [Quantity_adjphrase] dilarikan untuk memastikan barang-barangnya.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animal_plural] dijalankan dari satu sisi ke sisi lain yang mencari perlindungan.</li>
+    <li>Desc_sentence-> Ruang dimuat dengan energi yang mengganggu.</li>
+  </OrbitalDebris.rulePack.rulesStrings>
+  
+</LanguageData>

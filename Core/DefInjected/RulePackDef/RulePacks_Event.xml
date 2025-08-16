@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] menggunakan [kemampuan_label] di [subjek_definite].</li>-><Event_AbilityUsed.rulePack.rulesStrings>
+    <li>R_logentry-> [initiator_definite] ha menggunakan [kemampuan_label] en [subjek_definite].</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [initiator_definite] menggunakan [item_indefinite] di [subjek_definite].</li>-><Event_ItemUsed.rulePack.rulesStrings>
+    <li>R_logentry-> [inisiator defite] ha digunakan [item tidak terbatas] dan [subjek pasti].</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_logentry-> [subjek_definite] [terpana] oleh serangan itu.</li>
+    <li>r_logentry-> [subjek_definite] [terpana] oleh serangan [initiator_definite].</li>
+    <li>terpana (p = 3)-> terpana</li>
+    <li>terpana-> terhuyung-huyung</li>
+    <li>terpana-> linglung</li>
+    <li>terpana-> disorientasi</li>
+    <li>r_logentry-> [subjek_definite] [terhuyung-huyung].</li>
+    <li>r_logentry-> [subjek_definite] [terhuyung-huyung] dari serangan itu.</li>
+    <li>r_logentry-> [subjek_definite] [terhuyung-huyung] dari serangan [initiator_definite].</li>
+    <li>terhuyung-huyung (p = 3)-> terhuyung-huyung</li>
+    <li>terhuyung-huyung-> goyah</li>
+    <li>terhuyung-huyung-> goyah</li>
+    <li>terhuyung-huyung-> goyah</li>
+    <li>r_logentry-> [Subject_Definite] [tersandung] di sekitarnya.</li>
+    <li>r_logentry-> [subjek_definite] [tersandung] di sekitar dalam kebingungan.</li>
+    <li>tersandung (p = 3)-> tersandung</li>
+    <li>tersandung-> goyah</li>
+    <li>tersandung-> goyah</li>
+    <li>tersandung-> terhuyung-huyung</li>-><Event_Stun.rulePack.rulesStrings>
+    <li>R_logentry (subjek_gender! = Wanita)-> [subjek_definite] kabel [terpana] o dengan serangan.</li>
+    <li>R_logentry (subjek_gender == betina)-> [subjek_definite] kabel [terpana] A oleh El Attack.</li>
+    <li>R_logentry (jenis kelamin subjek! = Wanita)-> [Definisi subjek] [terpana] dengan serangan [initiator_definite].</li>
+    <li>R_logentry (subjek_gender == betina)-> [subjek_definite] kabel [terpana] dengan serangan [initiator_definite].</li>
+    <!--Dejar como está sin la última vocal ya que se ha establecido una regla para eso. Zerstrick 16-10-2020-->
+    <li>Tertanam (p = 3)-> ATURDID</li>
+    <li>terpana-> passmad</li>
+    <li>Stuness-> atontad</li>
+    <li>terpana-> desorientad</li>
+    <li>R_logentry (subjek_gender! = Wanita)-> [subjek_definite] [terhuyung-huyung] o.</li>
+    <li>R_logentry (subjek_gender == betina)-> [subjek_definite] [terhuyung-huyung] a.</li>
+    <li>R_logentry (subjek_gender! = Wanita)-> [subjek_definite] [terhuyung-huyung] o dengan serangan.</li>
+    <li>R_logentry (subjek_gender == betina)-> [subjek_definite] [terhuyung-huyung] dengan serangan.</li>
+    <li>R_logentry (subjek_gender! = Wanita)-> [subjek_definite] adalah [terhuyung-huyung] dengan serangan [initiator_definite].</li>
+    <li>R_logentry (subjek_gender == betina)-> [subjek_definite] adalah [terhuyung-huyung] A oleh EL Attack dari [initiator_definite].</li>
+    <li>terhuyung-huyung (p = 3)-> pasmad</li>
+    <li>terhuyung-huyung-> debilitad</li>
+    <li>Terhuyung-huyung-> tremor</li>
+    <li>terhuyung-huyung-> alterad</li>
+    <li>R_logentry (p = 0,5, subjek_gender! = Wanita)-> [subjek_definite] adalah [tersumbat1] o ahí.</li>
+    <li>R_logentry (p = 0,5, subjek_gender == betina)-> [subjek_definite] adalah [tersandung] a oleh ahí.</li>
+    <li>R_logentry (p = 3)-> [subjek_definite] [tersandung] oleh ahí.</li>
+    <li>R_logentry (p = 0,3, subjek_gender! = Wanita)-> [subjek_definite] adalah [tersumbat1] media la confusión.</li>
+    <li>R_logentry (p = 0,3, subjek_gender == betina)-> [subjek_definite] adalah [tersumbat1] media la confusión.</li>
+    <li>r_logentry-> [subjek_definite] [tersandung] di tengah kebingungan.</li>
+    <li>Tersandung (p = 3)-> mengejutkan</li>
+    <li>Tersandung1-> destabilisasi</li>
+    <li>Tersandung-> gemetar</li>
+    <li>Tersandung-> tropezones</li>
+  </Event_Stun.rulePack.rulesStrings>
+  
+</LanguageData>

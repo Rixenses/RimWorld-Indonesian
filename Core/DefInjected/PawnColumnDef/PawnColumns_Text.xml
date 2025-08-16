@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <ManhunterOnDamageChance.headerTip>Probabilitas bahwa makhluk ini menyerang ketika menerima kerusakan. Probabilitas NSTA meningkat hingga tiga kali jika penyerang lebih dekat.Ini berarti bahwa, oleh karena itu, kemungkinan besar senjata yang paling lambat dan lebih lambat mengaktifkannya selama berburu.</ManhunterOnDamageChance.headerTip>
+  
+  <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
+  <ManhunterOnTameFailChance.headerTip>Probabilitas bahwa makhluk ini menyerang ketika penjinak mencoba menjinakkannya dan gagal.</ManhunterOnTameFailChance.headerTip>
+  
+</LanguageData>

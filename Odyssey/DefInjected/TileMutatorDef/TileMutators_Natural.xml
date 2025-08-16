@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archipelago -->
+  <Archipelago.label>kepulauan</Archipelago.label>
+  <!-- EN: A network of several small islands dotting the coast. -->
+  <Archipelago.description>Jaringan beberapa pulau kecil yang memercikkan pantai.</Archipelago.description>
+  
+  <!-- EN: basin -->
+  <Basin.label>Cuenca</Basin.label>
+  <!-- EN: A natural depression in a mountain range, in which groundwater feeds a small lake. -->
+  <Basin.description>Depresi alami di pegunungan, di mana air tanah memberi makan danau kecil.</Basin.description>
+  
+  <!-- EN: bay -->
+  <Bay.label>teluk</Bay.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Bay.description>Celah besar di pantai yang memberikan perlindungan angin pantai yang kuat.</Bay.description>
+  
+  <!-- EN: cave pools -->
+  <CaveLakes.label>Kolam renang gua</CaveLakes.label>
+  <!-- EN: Small bodies of water can be found within caves in this area. -->
+  <CaveLakes.description>Anda dapat menemukan badan kecil air di dalam gua di daerah ini.</CaveLakes.description>
+  
+  <!-- EN: cavern -->
+  <Cavern.label>gua</Cavern.label>
+  <!-- EN: A network of caves formed by various geological processes. -->
+  <Cavern.description>Jaringan gua yang dibentuk oleh beberapa proses geologis.</Cavern.description>
+  
+  <!-- EN: chasm -->
+  <Chasm.label>jurang yang dalam</Chasm.label>
+  <!-- EN: Geological movement has caused deep fissures in this mountain. -->
+  <Chasm.description>Gerakan geologis telah menyebabkan retakan dalam di gunung ini.</Chasm.description>
+  
+  <!-- EN: cliffs -->
+  <Cliffs.label>tebing</Cliffs.label>
+  <!-- EN: Steep cliffs surround three sides of this area. -->
+  <Cliffs.description>Cliff curam mengelilingi tiga sisi daerah ini.</Cliffs.description>
+  
+  <!-- EN: coastal atoll -->
+  <CoastalAtoll.label>Atolon Pesisir</CoastalAtoll.label>
+  <!-- EN: An island surrounding a large lagoon. There's very little land to build on here. -->
+  <CoastalAtoll.description>Sebuah pulau yang mengelilingi laguna besar.Ada sangat sedikit tanah untuk dibangun di sini.</CoastalAtoll.description>
+  
+  <!-- EN: coastal island -->
+  <CoastalIsland.label>Pulau Pesisir</CoastalIsland.label>
+  <!-- EN: A large island near the shore. -->
+  <CoastalIsland.description>Sebuah pulau besar di dekat pantai.</CoastalIsland.description>
+  
+  <!-- EN: bay -->
+  <Cove.label>teluk</Cove.label>
+  <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
+  <Cove.description>Celah besar di pantai yang memberikan perlindungan angin pantai yang kuat.</Cove.description>
+  
+  <!-- EN: crevasse -->
+  <Crevasse.label>retakan</Crevasse.label>
+  <!-- EN: A massive rift created by glacial movement. -->
+  <Crevasse.description>Retakan besar yang diciptakan oleh gerakan gletser.</Crevasse.description>
+  
+  <!-- EN: dry lake -->
+  <DryLake.label>Danau kering</DryLake.label>
+  <!-- EN: The remains of a former lake. -->
+  <DryLake.description>Sisa -sisa danau tua.</DryLake.description>
+  
+  <!-- EN: dunes -->
+  <Dunes.label>bukit pasir</Dunes.label>
+  <!-- EN: A barren expanse of sand. This area is extremely inhospitable. -->
+  <Dunes.description>Perpanjangan pasir gersang.Daerah ini sangat tidak ramah.</Dunes.description>
+  
+  <!-- EN: fertile -->
+  <Fertile.label>subur</Fertile.label>
+  <!-- EN: This area contains more fertile soil than normal. -->
+  <Fertile.description>Area ini mengandung lebih banyak tanah subur dari biasanya.</Fertile.description>
+  
+  <!-- EN: fjord -->
+  <Fjord.label>fjord</Fjord.label>
+  <!-- EN: A long, narrow sea inlet surrounded by steep terrain. -->
+  <Fjord.description>Input laut yang panjang dan sempit dikelilingi oleh medan yang curam.</Fjord.description>
+  
+  <!-- EN: headwater -->
+  <Headwater.label>kepala sungai</Headwater.label>
+  <!-- EN: A river's origin point. -->
+  <Headwater.description>Titik asal sungai.</Headwater.description>
+  
+  <!-- EN: hollow -->
+  <Hollow.label>depresi</Hollow.label>
+  <!-- EN: A small open area surrounded by cliffs. -->
+  <Hollow.description>Area terbuka kecil yang dikelilingi oleh tebing.</Hollow.description>
+  
+  <!-- EN: hot springs -->
+  <HotSprings.label>Perairan termal</HotSprings.label>
+  <!-- EN: A hot water spring, heated by geothermal activity. -->
+  <HotSprings.description>Pegas air panas, dipanaskan dengan aktivitas panas bumi.</HotSprings.description>
+  
+  <!-- EN: iceberg -->
+  <Iceberg.label>gunung es</Iceberg.label>
+  <!-- EN: A floating mass of ice, detached from the larger ice sheet. -->
+  <Iceberg.description>Massa es mengambang, terlepas dari lapisan es terbesar.</Iceberg.description>
+  
+  <!-- EN: ice caves -->
+  <IceCaves.label>Gua es</IceCaves.label>
+  <!-- EN: Small cave networks can be found within the ice. -->
+  <IceCaves.description>Anda dapat menemukan jaringan gua kecil di dalam es.</IceCaves.description>
+  
+  <!-- EN: ice dunes -->
+  <IceDunes.label>Ice Dunes</IceDunes.label>
+  <!-- EN: Massive rolling hills made from compacted windswept snow. -->
+  <IceDunes.description>Bukit besar bergelombang yang terbuat dari salju yang dipadatkan oleh angin.</IceDunes.description>
+  
+  <!-- EN: lake -->
+  <Lake.label>Lago</Lake.label>
+  <!-- EN: A large body of fresh water. -->
+  <Lake.description>Sejumlah besar air tawar.</Lake.description>
+  
+  <!-- EN: lakeshore -->
+  <Lakeshore.label>Pantai Danau</Lakeshore.label>
+  <!-- EN: This tile borders a lake. -->
+  <Lakeshore.description>Ubin ini berbatasan dengan danau.</Lakeshore.description>
+  
+  <!-- EN: lake with island -->
+  <LakeWithIsland.label>Danau dengan pulau</LakeWithIsland.label>
+  <!-- EN: A large body of fresh water encircles one or more islands. -->
+  <LakeWithIsland.description>Sejumlah besar air tawar mengelilingi satu atau lebih pulau.</LakeWithIsland.description>
+  
+  <!-- EN: lake with island -->
+  <LakeWithIslands.label>Danau dengan pulau</LakeWithIslands.label>
+  <!-- EN: A large body of fresh water encircles one or more islands. -->
+  <LakeWithIslands.description>Sejumlah besar air segar yang mengelilingi satu atau lebih pulau.</LakeWithIslands.description>
+  
+  <!-- EN: lava caves -->
+  <LavaCaves.label>Gua Lava</LavaCaves.label>
+  <!-- EN: Small lava-filled cave networks can be found here. -->
+  <LavaCaves.description>Jaringan gua kecil yang penuh dengan lava dapat ditemukan di sini.</LavaCaves.description>
+  
+  <!-- EN: lava lake -->
+  <LavaCrater.label>Danau Lava</LavaCrater.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaCrater.description>Sebuah Danau Lava Danau Dalam Dikeliling oleh Batu Vulkanik.</LavaCrater.description>
+  
+  <!-- EN: lava flow -->
+  <LavaFlow.label>Aliran lava</LavaFlow.label>
+  <!-- EN: The surrounding landscape routinely funnels large amounts of lava into this area, making it extremely inhospitable. -->
+  <LavaFlow.description>Lanskap di sekitarnya secara rutin menyalurkan lava dalam jumlah besar di daerah ini, membuatnya sangat tidak ramah.</LavaFlow.description>
+  
+  <!-- EN: lava lake -->
+  <LavaLake.label>Danau Lava</LavaLake.label>
+  <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
+  <LavaLake.description>Sebuah Danau Lava Danau Dalam Dikeliling oleh Batu Vulkanik.</LavaLake.description>
+  
+  <!-- EN: marshy -->
+  <Marshy.label>berawa</Marshy.label>
+  <!-- EN: Patches of marsh break up this area. -->
+  <Marshy.description>Pantano Patch membagi area ini.</Marshy.description>
+  
+  <!-- EN: mixed biome -->
+  <MixedBiome.label>Bioma campuran</MixedBiome.label>
+  <!-- EN: This area is at the boundary of two distinct biomes and has elements of both. -->
+  <MixedBiome.description>Area ini berada pada batas dua bioma yang berbeda dan memiliki elemen keduanya.</MixedBiome.description>
+  
+  <!-- EN: muddy -->
+  <Muddy.label>berlumpur</Muddy.label>
+  <!-- EN: This area is muddier than normal. -->
+  <Muddy.description>Area ini lebih berlumpur dari biasanya.</Muddy.description>
+  
+  <!-- EN: oasis -->
+  <Oasis.label>Oasis</Oasis.label>
+  <!-- EN: A lush spring featuring abundant plant life and water. -->
+  <Oasis.description>Musim semi yang subur dengan kehidupan tanaman dan air yang berlimpah.</Oasis.description>
+  
+  <!-- EN: peninsula -->
+  <Peninsula.label>semenanjung</Peninsula.label>
+  <!-- EN: An outcropping of land surrounded by ocean. -->
+  <Peninsula.description>Sebuah tanah yang keluar dikelilingi oleh laut.</Peninsula.description>
+  
+  <!-- EN: plateau -->
+  <Plateau.label>dataran tinggi</Plateau.label>
+  <!-- EN: A small rise with sharp cliffs and a flat top. -->
+  <Plateau.description>Ketinggian kecil dengan tebing yang diucapkan dan puncak datar.</Plateau.description>
+  
+  <!-- EN: pond -->
+  <Pond.label>kolam</Pond.label>
+  <!-- EN: A small body of fresh water. -->
+  <Pond.description>Air kecil air tawar.</Pond.description>
+  
+  <!-- EN: river confluence -->
+  <RiverConfluence.label>pertemuan sungai</RiverConfluence.label>
+  <!-- EN: A merging of two rivers. -->
+  <RiverConfluence.description>Pertemuan dua sungai.</RiverConfluence.description>
+  
+  <!-- EN: delta -->
+  <RiverDelta.label>delta</RiverDelta.label>
+  <!-- EN: A river splitting into many branches as it enters the ocean. -->
+  <RiverDelta.description>Sungai yang membelah menjadi banyak cabang saat memasuki lautan.</RiverDelta.description>
+  
+  <!-- EN: river island -->
+  <RiverIsland.label>Pulau Sungai</RiverIsland.label>
+  <!-- EN: A river splitting into two and then merging again. -->
+  <RiverIsland.description>Sungai yang dibagi menjadi dua dan kemudian bergabung lagi.</RiverIsland.description>
+  
+  <!-- EN: sandy -->
+  <Sandy.label>Sandy</Sandy.label>
+  <!-- EN: Large patches of sand are scattered throughout this area. -->
+  <Sandy.description>Patch pasir yang bagus tersebar di seluruh area ini.</Sandy.description>
+  
+  <!-- EN: terraforming scar -->
+  <TerraformingScar.label>Bekas luka terapormasi</TerraformingScar.label>
+  <!-- EN: A misaligned blast from an ancient terraforming device has warped the earth into serpentine spirals. The area has since recovered, though the twisted and deformed hills remain. -->
+  <TerraformingScar.description>Bidikan yang tidak selaras dari perangkat teraft tua telah merusak bumi dalam spiral serpentine.Sejak itu, daerah tersebut telah ditemukan, meskipun bukit yang bengkok dan cacat tetap ada.</TerraformingScar.description>
+  
+  <!-- EN: toxic lake -->
+  <ToxicLake.label>Danau beracun</ToxicLake.label>
+  <!-- EN: A body of water that has been poisoned by chemicals leaching out of the ground. The water will cause toxic buildup. -->
+  <ToxicLake.description>Badan air yang telah diracuni oleh bahan kimia yang menyaring dari tanah.Air akan menyebabkan akumulasi beracun.</ToxicLake.description>
+  
+  <!-- EN: valley -->
+  <Valley.label>Valle</Valley.label>
+  <!-- EN: A steep valley carved through a mountain. -->
+  <Valley.description>Lembah curam diukir melalui gunung.</Valley.description>
+  
+  <!-- EN: wetland -->
+  <Wetland.label>lahan basah</Wetland.label>
+  <!-- EN: Large interconnected waterways dominate the area. -->
+  <Wetland.description>Jalur sungai yang saling berhubungan besar mendominasi daerah tersebut.</Wetland.description>
+  
+</LanguageData>

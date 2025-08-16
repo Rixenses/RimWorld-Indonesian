@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang keji</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Kamar tidur saya seperti yang saya inginkan.Sangat rendah hati dan sederhana.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengerikan</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>Kamar tidur saya seperti yang saya inginkan.Sederhana.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang biasa -biasa saja</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Kamar saya sangat rendah hati dan sederhana.Saya suka</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>Auster {Pawn_gender?O: A} dengan kamar tidur yang mengesankan</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Saya tidak suka memiliki kamar tidur yang mengesankan.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>Fighter {Pawn_gender?: a} dengan senjata jarak jauh</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Aku benci menembak dari kejauhan.Saya ingin menjadi dekat dan pribadi!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>Pakaian ketat</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Saya seorang nudis tetapi saya harus memakai pakaian ini.Bukan tidak mungkin, tapi saya masih merasa terbatas {Pawn_gender?O: A} dan tidak nyaman {Pawn_gender?O: A}.</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>Godices {Pawn_gender?O: A} tanpa kamar tidur yang mengesankan</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Apakah saya keserakahan {Pawn_gender?O: A}.Saya ingin kamar tidur yang sangat mengesankan.</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>Godices {Pawn_gender?O: A} tanpa kamar tidur yang mengesankan</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Apakah saya keserakahan {Pawn_gender?O: A}.Kamar tidur saya menyedihkan.Saya ingin kamar tidur yang sangat mengesankan.</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>Godices {Pawn_gender?O: A} tanpa kamar tidur yang mengesankan</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Apakah saya keserakahan {Pawn_gender?O: A}.Kamar saya bahkan tidak menjadi baik.Saya ingin kamar tidur yang sangat mengesankan.</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>Godices {Pawn_gender?O: A} tanpa kamar tidur yang mengesankan</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Apakah saya keserakahan {Pawn_gender?O: A}.Kamar saya tidak cukup baik.Saya ingin kamar tidur yang sangat mengesankan.</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>Godices {Pawn_gender?O: A} tanpa kamar tidur yang mengesankan</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Apakah saya keserakahan {Pawn_gender?O: A}.Kamar tidur saya tidak terlalu buruk, tetapi saya ingin kamar tidur yang sangat mengesankan.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>Syukurlah telanjang {Pawn_gender?O: A}</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>Saya benar -benar telanjang {Pawn_gender?O: A} dan saya memujanya!Saya merasa bebas, nyaman {Pawn_gender?O: A} dan selaras dengan apa pun yang mengelilinginya!</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>Cemburu {Pawn_gender?O: a} dari kamar tidur {0}</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>Saya ingin milik saya menjadi yang terbaik dari semuanya!</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>Masokis dengan rasa sakit ringan</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Oh...!Heh, heh, dia bisa terbiasa dengan ini!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>Masokis dengan nyeri sedang</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>Uf, karena sakit ... tapi saya suka!Lainnya, tolong!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>Masokis dengan rasa sakit yang hebat</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>Oh ... saya pikir saya memiliki sesuatu yang rusak ... tapi perasaan yang luar biasa!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>Masokis dengan rasa sakit yang ekstrem</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Aaaagh ... ini surga?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>Nocturn {pawn_gender?O: A} di siang hari</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Saya tidak suka bekerja di siang hari.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>Nocturn {pawn_gender?O: A} pada malam hari</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Saya merasa jauh lebih baik di malam hari.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: body modder pleased -->
+  <ProsthophileHappy.stages.body_modder_pleased.label>Transhumanista Complacid {Pawn_gender?O: A}</ProsthophileHappy.stages.body_modder_pleased.label>
+  <!-- EN: This artificial enhancement is cool. I want more. -->
+  <ProsthophileHappy.stages.body_modder_pleased.description>Implan buatan ini hebat.Saya ingin lebih.</ProsthophileHappy.stages.body_modder_pleased.description>
+  <!-- EN: body modder quite pleased -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.label>Transhumanista fascinad {Pawn_gender?O: A}</ProsthophileHappy.stages.body_modder_quite_pleased.label>
+  <!-- EN: Two artificial enhancements are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.body_modder_quite_pleased.description>Dua implan lebih baik dari satu.Saya berharap saya punya lebih banyak.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
+  <!-- EN: body modder delighted -->
+  <ProsthophileHappy.stages.body_modder_delighted.label>Transhumanista memuaskan {Pawn_gender?O: A}</ProsthophileHappy.stages.body_modder_delighted.label>
+  <!-- EN: Three artificial enhancements, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.body_modder_delighted.description>Tiga implan, dan daging manusia saya yang lemah sudah kembali.Tapi saya masih menginginkan lebih banyak mesin.</ProsthophileHappy.stages.body_modder_delighted.description>
+  <!-- EN: body modder enchanted -->
+  <ProsthophileHappy.stages.body_modder_enchanted.label>Transhumanista deldad {Pawn_gender?O: A}</ProsthophileHappy.stages.body_modder_enchanted.label>
+  <!-- EN: Four artificial enhancements and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.body_modder_enchanted.description>Empat implan dan saya menjadi lebih dari manusia.Tetapi masih ada beberapa daging yang harus diganti.</ProsthophileHappy.stages.body_modder_enchanted.description>
+  <!-- EN: body modder overjoyed -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.label>Transhumanista Rejocijad {Pawn_gender?O: A}</ProsthophileHappy.stages.body_modder_overjoyed.label>
+  <!-- EN: Five artificial enhancements! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.body_modder_overjoyed.description>Lima implan buatan!Bagaimana mungkin seorang metahuman seperti saya merasa sedih?</ProsthophileHappy.stages.body_modder_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>Tubuh mesin penuh</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Seperti yang saya inginkan.</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: body modder frustrated -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>Transhumanista Frustrad {Pawn_gender?O: A}</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Dagingnya sangat membatasi.Saya ingin memiliki beberapa jenis bagian buatan atau implan tubuh.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>Purista Profanad Kopral {Pawn_gender?O: A}</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural enhancement. I feel filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Saya benci menjadi unit {Pawn_gender?O: A} untuk hal ini.Ini menjijikkan!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>Body Purist Asques {Pawn_gender?O: A}</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial enhancements are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Dua implan menodai tubuh saya yang murni dan alami.Saya sakit untuk memikirkannya.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>Body Purist Mancillad {Pawn_gender?O: A}</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial enhancements violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Tiga implan menonaktifkan daging murni tubuh saya.Saya bergidik ketika memikirkannya ... dan benda -benda ini bergidik dengan saya.</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>Puristor Body Horrrorized {Pawn_gender?O: A}</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial enhancements; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Saya memiliki empat implan buatan, seolah -olah saya menjadi robot.Sungguh perasaan yang mengerikan.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>Mimpi buruk purist tubuh</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial enhancements... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Lima implan ... Apakah ada sesuatu yang tersisa?Atau apakah saya hanya robot yang mengira dia manusia?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Saya telah menjadi apa yang saya benci</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Saya bertanya dengan tepat kebalikan dari ini!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>Pióman {Pawn_gender?O: A} dengan senjata pembakar</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I can't wait to use it. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Itu membuat saya berpikir tentang api dan api.Saya tidak sabar untuk menggunakannya.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  <!-- EN: beautiful fire -->
+  <PyromaniacNearFire.stages.beautiful_fire.label>Api yang indah</PyromaniacNearFire.stages.beautiful_fire.label>
+  <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
+  <PyromaniacNearFire.stages.beautiful_fire.description>Tarian berliku -liku, hangat seperti cinta, cemerlang seperti kebebasan, yang memakan segalanya.</PyromaniacNearFire.stages.beautiful_fire.description>
+  
+  <!-- EN: undergrounder indoors -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>Underground {Pawn_gender?O: A} di dalam ruangan</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  <!-- EN: I like working or simply being indoors. -->
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>Saya suka ditutupi.</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  
+  <!-- EN: undergrounder outdoors -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>Underground {Pawn_gender?O: A} di luar negeri</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  <!-- EN: I don't like being outside. I want to get back to the underground. -->
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>Saya tidak suka berada di luar.Saya ingin kembali ke interior.</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  
+  <!-- EN: underground -->
+  <UndergrounderUnderground.stages.underground.label>Underground {Pawn_gender?O: A} Underground</UndergrounderUnderground.stages.underground.label>
+  <!-- EN: I love working or simply being in the underground. -->
+  <UndergrounderUnderground.stages.underground.description>Saya suka berada di bawah atap.</UndergrounderUnderground.stages.underground.description>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>serpihan terburu-buru</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>Serpihan psikit dalam aliran darah. Ini menghasilkan perasaan euforia, tetapi juga melemahkan.</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>skala skala</FlakeHigh.labelNoun>
+  
+</LanguageData>

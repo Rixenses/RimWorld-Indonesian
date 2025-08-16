@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <Aggressive.label>agresif</Aggressive.label>
+  <!-- EN: {PAWN_nameDef}'s demeanor has suddenly changed. A menacing grin splits {PAWN_possessive} face.\n\n{PAWN_nameDef} has become hostile. -->
+  <Aggressive.letterDesc>Sikap {Pawn_namedef} tiba -tiba berubah.Senyum terancam di wajah {Pawn_possession}. \ N \ n {pawn_namedef} menjadi bermusuhan.</Aggressive.letterDesc>
+  <!-- EN: {PAWN_nameDef} hostile -->
+  <Aggressive.letterLabel>{Pawn_namedef} Hostile</Aggressive.letterLabel>
+  
+  <!-- EN: crumbling mind -->
+  <CrumblingMind.label>pikiran rapuh</CrumblingMind.label>
+  
+  <!-- EN: disturbing -->
+  <Disturbing.label>mengganggu</Disturbing.label>
+  
+  <!-- EN: entity jailbreaker -->
+  <EntityJailbreaker.label>pembebas entitas</EntityJailbreaker.label>
+  
+  <!-- EN: leaves -->
+  <Leaves.label>meninggalkan</Leaves.label>
+  <!-- EN: {PAWN_nameDef} thanks you for your hospitality, but says that it is time for {PAWN_objective} to move on. -->
+  <Leaves.letterDesc>{PAWN_nameDef} berterima kasih atas keramahanmu, namun mengatakan sudah waktunya untuk melanjutkan perjalanan.</Leaves.letterDesc>
+  <!-- EN: {PAWN_nameDef} departure -->
+  <Leaves.letterLabel>kepergian {PAWN_nameDef}</Leaves.letterLabel>
+  
+  <!-- EN: metalhorror -->
+  <Metalhorror.label>teror baja</Metalhorror.label>
+  
+  <!-- EN: nothing -->
+  <Nothing.label>tidak ada</Nothing.label>
+  
+  <!-- EN: organ decay -->
+  <OrganDecay.label>Kerusakan organ</OrganDecay.label>
+  
+  <!-- EN: psychic agony -->
+  <PsychicAgony.label>siksaan psikis</PsychicAgony.label>
+  <!-- EN: {PAWN_nameDef} has involuntarily released a wave of psychic suffering! {PAWN_pronoun} tried to prevent it, but was unable to do so.\n\nNearby creatures will experience intense pain. The effects will linger for several days. -->
+  <PsychicAgony.letterDesc>{PAWN_nameDef} tanpa sengaja melepaskan gelombang penderitaan psikis! {PAWN_pronoun} mencoba menghentikannya, tetapi gagal.\n\nMakhluk di sekitar akan merasakan rasa sakit yang luar biasa. Efeknya akan bertahan selama beberapa hari.</PsychicAgony.letterDesc>
+  <!-- EN: Psychic agony -->
+  <PsychicAgony.letterLabel>siksaan psikis</PsychicAgony.letterLabel>
+  <!-- EN: {SURGEON_nameDef} detected a faint but painful psychic presence emanating from {PAWN_nameDef} but failed to understand what was causing it. -->
+  <PsychicAgony.surgicalInspectionLetterExtra>{SURGEON_nameDef} mendeteksi keberadaan psikis yang samar namun menyakitkan dari {PAWN_nameDef}, tetapi tidak dapat memahami penyebabnya.</PsychicAgony.surgicalInspectionLetterExtra>
+  
+</LanguageData>

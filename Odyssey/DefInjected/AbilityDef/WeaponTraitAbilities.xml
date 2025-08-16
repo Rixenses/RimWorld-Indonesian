@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire EMP -->
+  <EMPPulse.label>Luncurkan PEM</EMPPulse.label>
+  <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
+  <EMPPulse.description>Memancarkan pengguna pulsa elektromagnetik (PEM) yang berpusat.Pelepasan energi akan mengejutkan tujuan mekanis seperti mecanoid atau menara.</EMPPulse.description>
+  
+  <!-- EN: launch EMP shell -->
+  <LaunchEMPShell.label>Luncurkan proyektil PEM</LaunchEMPShell.label>
+  <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->
+  <LaunchEMPShell.description>Meluncurkan proyektil yang melepaskan pelepasan energi elektromagnetik, tujuan mekanis yang menakjubkan.Itu dapat diisi ulang dengan baja.</LaunchEMPShell.description>
+  
+  <!-- EN: launch frag grenade -->
+  <LaunchFragGrenade.label>Luncurkan granat fragmentaris</LaunchFragGrenade.label>
+  <!-- EN: Launch a grenade. Can be reloaded using steel. -->
+  <LaunchFragGrenade.description>Tombak granat.Itu dapat diisi ulang dengan baja.</LaunchFragGrenade.description>
+  
+  <!-- EN: launch incendiary shell -->
+  <LaunchIncendiaryShell.label>Luncurkan empat pembakar</LaunchIncendiaryShell.label>
+  <!-- EN: Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel. -->
+  <LaunchIncendiaryShell.description>Pembicara Proyektil yang menciptakan ledakan saat memengaruhi, membakar segala sesuatu di dekatnya.Ini dapat diisi ulang dengan biofuel.</LaunchIncendiaryShell.description>
+  
+  <!-- EN: launch smoke shell -->
+  <LaunchSmokeShell.label>asap bagaimana</LaunchSmokeShell.label>
+  <!-- EN: Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel. -->
+  <LaunchSmokeShell.description>Dia meluncurkan proyektil asap yang menggelapkan tembakan yang masuk dan mencegah menara dari tujuan pengaturan.Itu dapat diisi ulang dengan baja.</LaunchSmokeShell.description>
+  
+</LanguageData>

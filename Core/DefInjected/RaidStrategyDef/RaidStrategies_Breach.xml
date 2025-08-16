@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
+  <ImmediateAttackBreaching.arrivalTextEnemy>Mereka segera menyerang.Mereka akan menentukan jalan mereka sendiri ke koloni Anda dan menghancurkan segala sesuatu yang dibawa dalam perjalanan mereka.</ImmediateAttackBreaching.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreaching.arrivalTextFriendly>Mereka bergerak untuk segera membantu Anda.</ImmediateAttackBreaching.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreaching.letterLabelEnemy>Menyerang</ImmediateAttackBreaching.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreaching.letterLabelFriendly>Sekutu</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>Mereka segera menyerang.Mereka akan menentukan jalan mereka sendiri ke koloni Anda dan menghancurkan segala sesuatu yang dibawa dalam perjalanan mereka.Mereka akan menghindari bidang api menara Anda dan memperhatikan beberapa perangkap Anda.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>Mereka bergerak untuk segera membantu Anda.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>Menyerang</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>Sekutu</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

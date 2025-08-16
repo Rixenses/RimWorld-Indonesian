@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bestowing at TargetA -->
+  <BestowingCeremony.reportString>Pemberian kartu</BestowingCeremony.reportString>
+  
+  <!-- EN: linking at TargetA -->
+  <LinkPsylinkable.reportString>menghubungkan dengan kartu</LinkPsylinkable.reportString>
+  
+  <!-- EN: meditating royally at -->
+  <Reign.reportString>Meditasi martabat di</Reign.reportString>
+  
+</LanguageData>

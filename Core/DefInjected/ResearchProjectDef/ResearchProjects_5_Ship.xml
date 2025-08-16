@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>Konstruksi dasar kapal bintang</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Ini memungkinkan pembangunan elemen struktural dan dukungan dari kapal bintang.Ini adalah langkah pertama untuk membangun kapal yang mampu meninggalkan tata surya ini.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Melarikan diri dari planet ini - akhirnya akan berarti kebebasan, dan mungkin pulang ke rumah. \ N \ npero juga sangat berbahaya.Reaktor kapal membutuhkan waktu 15 hari untuk dimuat.Setelah proses ini dimulai, reaktor kapal akan memancarkan sinyal energi yang terdeteksi ribuan kilometer jauhnya.Kapal akan diluncurkan untuk menyerang Anda, dengan intensitas yang belum pernah Anda lihat.Diketahui juga bahwa mecanoid tertarik pada sinyal energi ini karena alasan yang tidak diketahui.Anda harus mengumpulkan sumber daya, senjata, dan pertahanan untuk serangan itu jika Anda berniat melarikan diri hidup -hidup.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Tentang: Nave Launch</ShipBasics.discoveredLetterTitle>
+  <!-- EN:
+    <li>Subjek-> Starship Struktural Engineering</li>
+    <li>Subject_story-> Rekrut Insinyur Starship untuk Armada Glitterworld</li>
+    <li>Subject_story-> adalah perancang struktural di distrik Urbworld Skyripper</li>
+    <li>Subject_story-> Karam yang dipanen di sabuk puing-puing DEADWorld</li>
+    <li>Subject_gerund-> Membangun Struktur Starship</li>-><ShipBasics.generalRules.rulesStrings>
+    <li>Subjek-> Rekayasa Struktural Ruang menghemat</li>
+    <li>Subject_def-> rekayasa struktural pesawat ruang angkasa</li>
+    <li>Subject_story-> Insinyur Pesawat Luar Angkasa Rekrut untuk Armada Mundobrillant</li>
+    <li>Subject_story-> Dia adalah seorang desainer struktural di distrik ramping skim di dunia perkotaan</li>
+    <li>Subject_story-> Bangkai kapal yang dipulihkan di sabuk puing-puing dari dunia mati</li>
+    <li>Subjek gerund-> membangun struktur pesawat ruang angkasa</li>
+  </ShipBasics.generalRules.rulesStrings>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>Persuasi AI</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Bangun sistem sinyal hadiah untuk membujuk kecerdasan buatan yang ada untuk melayani sebagai kapten kapal.Karena orang tidur selama perjalanan antarbintang, inti AI diperlukan untuk menangani keputusan rumit dari penerbangan bintang tahun.</ShipComputerCore.description>
+  <!-- EN:
+    <li>Subjek-> Insentivisasi Inti Persona</li>
+    <li>Subjek-> Starship AI Sanity Maintenance</li>
+    <li>Subject_story-> Kontrol kembali dari inti kapal yang menyimpang dengan rekondisi yang cermat</li>
+    <li>Subject_story-> mengatur simulasi manajemen koloni untuk menempati inti kapal selama bertahun-tahun perjalanan antarbintang</li>
+    <li>Subject_story-> Menjaga perusahaan inti kapal selama perjalanan antarbintang 'pendek', belajar banyak tentang inti dalam proses</li>
+    <li>Subject_gerund-> memberi insentif kepada inti kepribadian</li>
+    <li>Subject_gerund-> Mempertahankan Sanity AI Starship</li>
+    <li>Subject_gerund-> Membangun sistem sinyal hadiah</li>-><ShipComputerCore.generalRules.rulesStrings>
+    <li>Subjek-> Persuasi ai inti</li>
+    <li>Subjek-> Pemeliharaan Sanitas AI Kapal Stellar</li>
+    <li>Subject_def-> dari persuasi inti AI</li>
+    <li>Subject_def-> dari pemeliharaan kewarasan AI kapal bintang</li>
+    <li>Subject_story-> Memulihkan kontrol nukleus kapal yang menyimpang dengan rekondisi yang cermat</li>
+    <li>Subjek_Story-> Simulasi manajemen koloni yang dibuat untuk menempati inti kapal selama bertahun-tahun perjalanan antarbintang</li>
+    <li>Subject_story-> disertai inti kapal selama perjalanan antarbintang "pendek", belajar banyak tentang inti dalam proses tersebut</li>
+    <li>Subjek gerund-> dorong inti AI</li>
+    <li>Subjek gerund-> pertahankan kewarasan kapal bintang</li>
+    <li>Subjek gerund-> membangun sistem sinyal hadiah</li>
+  </ShipComputerCore.generalRules.rulesStrings>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>Vakum cryptophagus sarkophagi</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Ini memungkinkan Anda untuk membuat cryptosueño sarkophagi yang menahan paparan vakum, untuk mengangkut orang dalam perjalanan selama bertahun -tahun antara bintang -bintang.</ShipCryptosleep.description>
+  <!-- EN:
+    <li>Subjek-> Peti Kasket Cryptosleep tingkat Starship</li>
+    <li>Subject_story-> menggantikan peti mati cryptosleep yang gagal di CMC Celeste, sehingga kapal generasi lama dapat digunakan lagi</li>
+    <li>Subject_story-> secara tidak sengaja dikeluarkan di luar angkasa, bertahan di peti mati yang dirancang sendiri selama dua bulan</li>
+    <li>Subject_story-> Ceramah tentang Perbedaan Antara Peralatan Planetary- dan Starship-Grade</li>
+    <li>Subject_gerund-> Membangun peti cryptosleep yang dikeraskan</li>-><ShipCryptosleep.generalRules.rulesStrings>
+    <li>Subjek-> Kapsul Cryptosueño dari gelar bintang</li>
+    <li>Subject_def-> dari Cryptosueño Captosueño Capsules of Stellar Delare</li>
+    <li>Subject_story-> menggantikan kapsul cryptosueño yang gagal di CMC Celeste sehingga kapal lama dapat digunakan lagi</li>
+    <li>Subject_story-> secara tidak sengaja dikeluarkan ke luar angkasa, bertahan dalam kapsul yang dirancang dengan sendirinya selama dua bulan</li>
+    <li>Subjek_Story-> Ceramah tentang Perbedaan Antara Gelar Planet dan Peralatan Gelar Bintang</li>
+    <li>Subject_gerund-> Bangun Sarkofagi Spasial dari Cryptosueño</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>Baling-baling Johnson-Tanaka</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Ini memungkinkan Anda untuk membangun unit Johnson-Tanaka untuk sebuah kapal.Unit JT dapat mendorong bintang -bintang lain yang mengambil keuntungan dari efek skala kuantum untuk memproyeksikan bintang -bintang yang jauh.Tentu saja, seperti halnya semua kapal bintang, ini akan membawa Anda selama bertahun -tahun.</ShipEngine.description>
+  <!-- EN:
+    <li>Subjek-> Teori Johnson-Tanaka</li>
+    <li>Subjek-> Transfer momentum eksotis</li>
+    <li>Subject_story-> Ceractur di Universitas tentang Johnson, Tanaka dan Efek skala kuantum</li>
+    <li>Subject_story-> Membangun drive Johnson-Tanaka dari prinsip pertama untuk tesis</li>
+    <li>Subject_story-> Mempertahankan drive Johnson-Tanaka selama dua dekade, karena kapal itu melakukan perjalanan di antara bintang-bintang</li>
+    <li>Subject_gerund-> Membangun drive kapal luar angkasa</li>-><ShipEngine.generalRules.rulesStrings>
+    <li>Subjek-> Teoría Johnson-Takanaka</li>
+    <li>Subjek-> Transfer momentum yang eksotis</li>
+    <li>Subject_def-> dari La Teoría Johnson-Tanaka</li>
+    <li>Subjek_def-> de la transfer momentum eksotis</li>
+    <li>Subjek_Story-> Ceramah di Universitas di Johnson, Tanaka dan efek yang dapat diamati pada skala kuantum</li>
+    <li>Subject_story-> membangun baling-baling Johnson-Tanaka dari prinsip-prinsip dasarnya untuk sebuah tesis</li>
+    <li>Subject_story-> mempertahankan baling-baling Johnson-Tanaka selama dua dekade sementara kapal itu bepergian di antara bintang-bintang</li>
+    <li>Subjek gerund-> Build Star Naves Pushers</li>
+  </ShipEngine.generalRules.rulesStrings>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>Reaktor ruang angkasa</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Ini memungkinkan Anda untuk membangun reaktor nuklir yang lama untuk mendorong kapal bintang.Perlu diingat bahwa reaktor memiliki proses boot panjang yang akan menarik incursor dan ramping.</ShipReactor.description>
+  <!-- EN:
+    <li>Subjek-> Reaktor Nuklir Starship</li>
+    <li>Subject_story-> Membangun reaktor baru untuk kapal koloni, tetapi tidak pernah hidup untuk melihatnya terangkat</li>
+    <li>Subject_story-> membela kapal sementara reaktor membentang, melawan Raiders yang putus asa untuk keluar dari dunia</li>
+    <li>Subject_story-> menggunakan reaktor kapal luar angkasa sebagai kekuatan cadangan untuk bank gen terkubur di bawah topi es planet ini</li>
+    <li>Subject_gerund-> Membangun Reaktor Starship</li>-><ShipReactor.generalRules.rulesStrings>
+    <li>Subjek-> Reaktor Nuklir dari Kapal Bintang</li>
+    <li>Subject_def-> reaktor nuklir pesawat ruang angkasa</li>
+    <li>Subjek_story-> membangun reaktor baru untuk kapal kolonial, tetapi tidak pernah hidup untuk melihat lepas landasnya</li>
+    <li>Subject_story-> membela kapal penjarah putus asa untuk meninggalkan dunia saat reaktor diluncurkan</li>
+    <li>Subject_story-> menggunakan reaktor kapal bintang sebagai sumber cadangan untuk bank genetik yang terkubur di bawah topi es planet ini</li>
+    <li>Subjek gerund-> membangun reaktor nuklir dari kapal bintang</li>
+  </ShipReactor.generalRules.rulesStrings>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>Sensor ruang</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Ini memungkinkan Anda untuk membangun sensor panjang -range untuk pesawat ruang angkasa.Sensor -sensor ini sangat penting untuk navigasi, komunikasi dan mengatasi ancaman.</ShipSensorCluster.description>
+  <!-- EN:
+    <li>Subjek-> Navigasi Antarbintang</li>
+    <li>Subject_story-> Sensor Starship Prototipe yang Digunakan untuk mendeteksi asteroid tingkat kepunahan yang masuk dan evakuasi planet ini</li>
+    <li>Subject_story-> dipekerjakan sebagai navigator dan memasak di kapal pesiar glitterworld</li>
+    <li>Subject_story-> menyempurnakan desain sensor jarak jauh, meningkatkan utilitas mereka</li>
+    <li>Subject_gerund-> menavigasi ruang antarbintang</li>
+    <li>Subject_gerund-> Membangun Sensor Starship</li>-><ShipSensorCluster.generalRules.rulesStrings>
+    <li>Subjek-> Navigasi Antarbintang</li>
+    <li>Subject_def-> navigasi antarbintang</li>
+    <li>Subject_story-> bekas prototipe sensor kapal bintang untuk mendeteksi perusak planet asteroid dan berhasil mengevakuasi planet ini</li>
+    <li>Subject_story-> digunakan sebagai navigator dan masak di atas kapal pesiar bintang mundobrillant</li>
+    <li>Subject_story-> Perfined Desain sensor jarak jauh, meningkatkan kegunaannya</li>
+    <li>Subjek gerund-> navigasi di ruang antarbintang</li>
+    <li>Subjek gerund-> Bangun sensor naves bintang</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
+  
+</LanguageData>

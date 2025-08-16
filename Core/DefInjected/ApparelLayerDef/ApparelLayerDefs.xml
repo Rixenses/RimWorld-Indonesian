@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>sabuk</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>mata</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>daleman</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>kulit</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>tutup kepala</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>luar</Shell.label>
+  
+</LanguageData>

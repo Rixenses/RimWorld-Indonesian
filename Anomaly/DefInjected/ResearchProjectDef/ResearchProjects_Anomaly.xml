@@ -1,0 +1,894 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced psychic rituals -->
+  <AdvancedPsychicRituals.label>Ritual psikis tingkat lanjut</AdvancedPsychicRituals.label>
+  <!-- EN: Perform advanced psychic rituals. -->
+  <AdvancedPsychicRituals.description>Lakukan ritual psikis canggih.</AdvancedPsychicRituals.description>
+  <!-- EN:
+    <li>Subjek-> Ritual Psikis Lanjutan</li>
+    <li>subjek_story-> dibawa ke lingkaran kultus</li>
+    <li>Subject_story-> bertemu master kultus yang diasingkan, yang dengan senang hati membual tentang rahasianya</li>
+    <li>Subject_story-> Diperdalam pemahaman [anypawn_possessive] tentang pengorbanan ritual</li>
+    <li>Subjek_Story-> diangkat sebagai Profesor Sejarah Psikis di Universitas IX</li>
+    <li>Subject_gerund-> Melakukan Ritual Psikis Lanjutan</li>-><AdvancedPsychicRituals.generalRules.rulesStrings>
+    <li>Subjek-> Ritual Psikis Lanjutan</li>
+    <li>Subject_def-> dari ritual psikis tingkat lanjut</li>
+    <li>Subjek_story-> diperkenalkan ke dalam kultus</li>
+    <li>Subjek_Story-> Dia bertemu dengan seorang guru kultus yang diasingkan, yang dengan senang hati menganggap rahasianya</li>
+    <li>Subjek_story-> memperdalam pemahamannya tentang pengorbanan ritual</li>
+    <li>Subjek_Story-> Dia diangkat sebagai Profesor Sejarah Psikis di Universitas IX</li>
+    <li>Subject_gerund-> Lakukan ritual psikis canggih</li>
+  </AdvancedPsychicRituals.generalRules.rulesStrings>
+  
+  <!-- EN: atmospheric heater -->
+  <AtmosphericHeater.label>Pemanas atmosfer</AtmosphericHeater.label>
+  <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
+  <AtmosphericHeater.description>Bangun pemanas bioferrita yang menghasilkan panas yang cukup untuk memanaskan seluruh wilayah.</AtmosphericHeater.description>
+  <!-- EN:
+    <li>Subjek-> Pemanasan Bioferrite</li>
+    <li>Subject_story-> Tanaman panas bumi kuno yang ditingkatkan</li>
+    <li>Subject_story-> mempelajari output panas biometal</li>
+    <li>Subject_story-> Meneliti kapasitas yang mustahil dari Penyimpanan Energi Archotech</li>
+    <li>Subject_story-> meneliti sistem hypocaust pada iceworlds yang ditempati padat</li>
+    <li>Subject_gerund-> pemanasan dengan bioferrite</li>
+    <li>Subject_gerund-> Membangun pemanas berbahan bakar bioferrite</li>-><AtmosphericHeater.generalRules.rulesStrings>
+    <li>Subjek-> Pemanasan Bioferrita</li>
+    <li>Subject_def-> pemanasan dengan bioferrita</li>
+    <li>Subject_story-> Peningkatan tanaman panas bumi kuno</li>
+    <li>Subject_story-> mempelajari produksi panas dari biometal</li>
+    <li>Subject_story-> menyelidiki ketidakmungkinan menyimpan energi archeoteca</li>
+    <li>Subject_story-> diperiksa sistem hypocaust di dunia dingin yang padat</li>
+    <li>Subjek gerund-> panas dengan bioferrita</li>
+    <li>Subject_gerund-> Build Heater Fed dengan Bioferrita</li>
+  </AtmosphericHeater.generalRules.rulesStrings>
+  
+  <!-- EN: void provocation -->
+  <BasicPsychicRituals.label>Provokasi kekosongan</BasicPsychicRituals.label>
+  <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
+  <BasicPsychicRituals.description>Bangun titik ritual psikis untuk dapat melakukannya.Gunakan kekosongan untuk menemukan entitas baru.</BasicPsychicRituals.description>
+  <!-- EN:
+    <li>Subjek-> Ritual Psikis</li>
+    <li>Subject_story-> mempelajari ritual para pemuja horax</li>
+    <li>Subject_story-> Altar primitif yang direkonstruksi</li>
+    <li>Subject_story-> menetapkan dasar-dasar komunikasi psikis</li>
+    <li>Subject_story-> Menonton ritual provokasi kekosongan yang gagal di dunia kematian</li>
+    <li>Subject_story-> Dikomunikasikan dengan Shard Archotech di atas pilar gurun</li>
+    <li>Subject_gerund-> melakukan ritual psikis</li>
+    <li>Subject_gerund-> Membangun bintik-bintik ritual</li>
+    <li>Subject_gerund-> memprovokasi entitas void</li>-><BasicPsychicRituals.generalRules.rulesStrings>
+    <li>Subjek-> Ritual Psikis</li>
+    <li>Subject_def-> ritual psikis</li>
+    <li>Subject_story-> Dia mempelajari ritual jam kultus</li>
+    <li>Subjek_story-> altar primitif yang dibangun kembali</li>
+    <li>Subject_story-> mendirikan fondasi komunikasi psikis</li>
+    <li>Subject_story-> mengamati ritual provokasi kekosongan yang gagal di dunia mati</li>
+    <li>Subject_story-> Dikomunikasikan dengan Archeoteca memotong di bagian atas pilar gurun</li>
+    <li>Subject_gerund-> melakukan ritual psikis</li>
+    <li>Subjek gerund-> menetapkan poin ritual</li>
+    <li>Subject_gerund-> memprovokasi entitas vakum</li>
+  </BasicPsychicRituals.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite extraction -->
+  <BioferriteExtraction.label>Ekstraksi Bioferrita</BioferriteExtraction.label>
+  <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
+  <BioferriteExtraction.description>Ekstrak bioferrita langsung dari entitas yang ditangkap.Gunakan untuk membuat senjata dan pakaian di tempat kerajinan atau di cetakan bioferrita.</BioferriteExtraction.description>
+  <!-- EN:
+    <li>Subjek-> Ekstraksi Bioferrite</li>
+    <li>Subject_story-> mengekstraksi senyawa organik dari sampel daging yang bermutasi cepat</li>
+    <li>subjek_story-> dilucuti dan merebus daging pohon Harbinger</li>
+    <li>Subjek_Story-> Laporan yang diselidiki tentang fenomena Archotech</li>
+    <li>Subject_story-> menemukan logam organik baru</li>
+    <li>Subject_gerund-> Mengekstraksi Bioferrite</li>-><BioferriteExtraction.generalRules.rulesStrings>
+    <li>Subjek-> Ekstraksi Bioferrita</li>
+    <li>Subject_def-> dari ekstraksi bioferrita</li>
+    <li>Subject_story-> mengekstraksi senyawa organik dari daging dalam mutasi cepat</li>
+    <li>Subjek_story-> dilucuti dan merebus daging dari pertanda</li>
+    <li>Subject_story-> Menyelidiki laporan fenomena Archeoteca</li>
+    <li>Subjek_story-> menemukan logam organik baru</li>
+    <li>Subject_gerund-> Bioferrita Extraer</li>
+  </BioferriteExtraction.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite generator -->
+  <BioferriteGenerator.label>Generator Bioferrita</BioferriteGenerator.label>
+  <!-- EN: Build power generators that burn bioferrite as a fuel. -->
+  <BioferriteGenerator.description>Bangun generator energi yang membakar bioferrita sebagai bahan bakar.</BioferriteGenerator.description>
+  <!-- EN:
+    <li>Subjek-> Pembangkit Listrik Bioferrite</li>
+    <li>Subject_story-> dilatih dalam penggunaan sumber daya inovatif</li>
+    <li>subjek_story-> mengeksplorasi penggunaan bahan bakar berbasis logam dan serat</li>
+    <li>Subject_story-> menemukan kecintaan pada api dan hal-hal yang terbakar</li>
+    <li>Subject_story-> bekerja sebagai teknisi, mempertahankan sistem energi orbital</li>
+    <li>Subject_story-> membuat satwa liar dari suatu sistem turun untuk bahan bakar</li>
+    <li>Subject_gerund-> Membangun generator bertenaga bioferrite</li>
+    <li>Subject_gerund-> Powering Generator Menggunakan Bioferrite</li>-><BioferriteGenerator.generalRules.rulesStrings>
+    <li>Subjek-> Pembangkit Energi dengan Bioferrita</li>
+    <li>Subject_def-> pembangkitan energi dengan bioferrita</li>
+    <li>Subject_story-> menerima pelatihan dalam penggunaan sumber energi inovatif</li>
+    <li>Subject_story-> mengeksplorasi penggunaan bahan bakar berdasarkan logam dan serat</li>
+    <li>Subjek_story-> menemukan cinta untuk api dan hal-hal yang terbakar</li>
+    <li>Subjek_story-> bekerja sebagai tec.Sistem Energi Orbital Penahan Pemeliharaan</li>
+    <li>Subject_story-> menciptakan kembali kehidupan liar sistem bahan bakar yang tidak aktif</li>
+    <li>Subject_gerund-> Bangun generator yang diumpankan oleh bioferrita</li>
+    <li>Subjek gerund-> generator umpan dengan bioferrita</li>
+  </BioferriteGenerator.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite harvester -->
+  <BioferriteHarvesting.label>Panen Bioferrita</BioferriteHarvesting.label>
+  <!-- EN: Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction. -->
+  <BioferriteHarvesting.description>Bangun pemanen bioferrita untuk menghasilkan bioferrita dari entitas yang ditangkap yang ada di platform penahanan.</BioferriteHarvesting.description>
+  <!-- EN:
+    <li>Subjek-> Bioferrite</li>
+    <li>subjek_story-> menyelidiki zat berserat seperti logam eksotis</li>
+    <li>subjek_story-> vivisected mayat mengerikan</li>
+    <li>Subject_story-> Menemukan cache logam organik</li>
+    <li>Subject_story-> mengamati satwa liar yang dipenuhi logam aneh</li>
+    <li>Subject_gerund-> memanen bioferrite</li>-><BioferriteHarvesting.generalRules.rulesStrings>
+    <li>Subjek-> Bioferrita</li>
+    <li>Subject_def-> de la bioferrita</li>
+    <li>Subject_story-> meneliti zat berserat eksotis yang mirip dengan logam</li>
+    <li>Subject_story-> Vivisted A Necrophagous Body</li>
+    <li>Subjek_story-> menemukan simpanan logam organik</li>
+    <li>Subject_story-> mengamati fauna aneh yang dipenuhi logam</li>
+    <li>Subject_gerund-> Harvest Bioferrita</li>
+  </BioferriteHarvesting.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite weaponry -->
+  <BioferriteIgnition.label>persenjataan bioféric</BioferriteIgnition.label>
+  <!-- EN: Create advanced weapons that use bioferrite as a fuel source. -->
+  <BioferriteIgnition.description>Memproduksi senjata canggih yang menggunakan bioferrite sebagai sumber bahan bakar.</BioferriteIgnition.description>
+  <!-- EN:
+    <li>Subjek-> Pembakaran Bioferrite</li>
+    <li>Subjek-> persenjataan bioferrite</li>
+    <li>Subject_story-> bekerja untuk rig ekstraksi pada asteroid Archotech</li>
+    <li>Subject_story-> Meneliti titik pembakaran bahan eksotis</li>
+    <li>Subject_story-> bergabung dengan lengan penelitian Milword Weapons Corp</li>
+    <li>Subjek_Story-> Biomines yang dibersihkan di gurun Archotech</li>
+    <li>Subject_gerund-> membangun senjata berbasis bioferrite</li>-><BioferriteIgnition.generalRules.rulesStrings>
+    <li>Subjek-> Pembakaran Bioferrita</li>
+    <li>Subjek-> persenjataan bioferrik</li>
+    <li>Subject_def-> dari pembakaran bioferrita</li>
+    <li>Subject_def-> Del Bioferric Weaponry</li>
+    <li>Subject_story-> bekerja pada platform ekstraksi di Asteroid Archeoteca</li>
+    <li>Subjek_story-> mempelajari tingkat pembakaran bahan eksotis</li>
+    <li>Subject_story-> Bergabung dengan Divisi Penelitian Perusahaan Senjata di Dunia Militer</li>
+    <li>Subject_story-> Biomines yang dibongkar di gurun Archeoteca</li>
+    <li>Subject_gerund-> membangun senjata berdasarkan bioferrita</li>
+  </BioferriteIgnition.generalRules.rulesStrings>
+  
+  <!-- EN: bioferrite shaping -->
+  <BioferriteShaping.label>Profil Bioférrico</BioferriteShaping.label>
+  <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
+  <BioferriteShaping.description>Ini membentuk dan menyumbangkan bioferrita dalam alat yang berguna, senjata, tanah dan banyak lagi.</BioferriteShaping.description>
+  <!-- EN:
+    <li>Subjek-> Pembentukan Bioferrite</li>
+    <li>Subject_story-> Teknik unik yang dipelajari untuk pencetakan dan pahatan</li>
+    <li>subjek_story-> dilatih dalam pembentukan panas</li>
+    <li>subjek_story-> bekerja di pengecoran bahan eksotis</li>
+    <li>Subject_story-> membantu seorang ilmuwan materi archotech</li>
+    <li>Subject_story-> mempelajari pembentukan artefak Archotech</li>
+    <li>subjek_gerund-> membentuk bioferrite</li>-><BioferriteShaping.generalRules.rulesStrings>
+    <li>Subjek-> Profil Bioferrita</li>
+    <li>Subjek_def-> dari profil bioferrita</li>
+    <li>Subjek_story-> Dia belajar teknik unik untuk mencetak dan memahat</li>
+    <li>Subject_story-> dilatih dalam cetakan termal</li>
+    <li>Subject_story-> bekerja dalam casting bahan eksotis</li>
+    <li>Subject_story-> membantu seorang ilmuwan bahan archeoteca</li>
+    <li>Subject_story-> mempelajari pembentukan artefak arkeoteknik</li>
+    <li>Subject_gerund-> Perfillar Bioferrita</li>
+  </BioferriteShaping.generalRules.rulesStrings>
+  
+  <!-- EN: bliss lobotomy -->
+  <BlissLobotomy.label>Lobotomi yang bahagia</BlissLobotomy.label>
+  <!-- EN: Perform a surgery that lobotomizes a person, making them happier while rendering them incapable of intellectual and skilled labor. -->
+  <BlissLobotomy.description>Melakukan pembedahan yang melobotomi seseorang, menjadikannya lebih bahagia sambil melumpuhkannya untuk pekerjaan intelektual dan berkualitas.</BlissLobotomy.description>
+  <!-- EN:
+    <li>Subjek-> Lobotomi</li>
+    <li>Subject_story-> akhirnya dilobotomi untuk kejahatan pemikiran terhadap negara</li>
+    <li>Subject_story-> merehabilitasi beberapa orang yang selamat dari Eksperimen ELDOF</li>
+    <li>subjek_story-> mengambil magang sebagai ahli bedah otak dan tukang cukur</li>
+    <li>subjek_gerund-> melakukan lobotomi</li>
+    <li>Subject_gerund-> Exision Brain Tissue</li>-><BlissLobotomy.generalRules.rulesStrings>
+    <li>Subjek-> Lobotomía</li>
+    <li>Subjek_def-> dari lobotomi</li>
+    <li>Subject_story-> Akhirnya dia dilobotomi untuk kejahatan pemikiran terhadap negara</li>
+    <li>Subject_story-> merehabilitasi beberapa orang yang selamat dari Eksperimen ELDOF</li>
+    <li>Subject_story-> Bedah Saraf yang Dipelajari dan Penata Rambut</li>
+    <li>Subject_gerund-> Lakukan Lobotomía</li>
+    <li>Subjek gerund-> tejido serebral extirpar</li>
+  </BlissLobotomy.generalRules.rulesStrings>
+  
+  <!-- EN: blood rain -->
+  <BloodRain.label>Hujan berdarah</BloodRain.label>
+  <!-- EN: Perform a psychic ritual which causes blood-like psychofluid to fall from the sky. Anyone caught outside will soon be driven into a berserk rage. -->
+  <BloodRain.description>Dia melakukan ritual psikis yang membuat psikofluido berdarah jatuh dari surga.Apa pun yang terkejut di luar negeri akan segera memasuki kemarahan yang panik.</BloodRain.description>
+  <!-- EN:
+    <li>Subjek-> Hujan Darah</li>
+    <li>Subject_story-> diselidiki mitos deist kuno tentang curah hujan organik</li>
+    <li>subjek_story-> mempelajari jalur saraf penderita kemarahan</li>
+    <li>Subject_story-> Sampled Psychofluid mengalir di dunia transenden IX</li>
+    <li>Subject_story-> terpapar psikofluid shower dan diisi dengan kemarahan yang tidak terkendali</li>
+    <li>subjek_gerund-> menyebabkannya hujan darah</li>-><BloodRain.generalRules.rulesStrings>
+    <li>Subjek-> hujan berdarah</li>
+    <li>Subject_def-> hujan berdarah</li>
+    <li>Subject_story-> mempelajari mitos deistic kuno tentang curah hujan organik</li>
+    <li>Subjek_story-> mempelajari jalur neuron orang yang menderita kemarahan</li>
+    <li>Subject_story-> dianalisis psikofluid di dunia transendental IX</li>
+    <li>Subject_story-> Dia menerima psikofluid shower dan dipenuhi dengan kemarahan yang tak terkendali</li>
+    <li>Subjek gerund-> menyebabkan hujan berdarah</li>
+  </BloodRain.generalRules.rulesStrings>
+  
+  <!-- EN: brainwipe -->
+  <Brainwipe.label>Neuroborrado</Brainwipe.label>
+  <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
+  <Brainwipe.description>Melakukan ritual psikis yang menghapus sebagian besar ingatan episodik seseorang.Peristiwa traumatis akan dilupakan.Tahanan yang tahan akan lebih mudah direkrut.</Brainwipe.description>
+  <!-- EN:
+    <li>Subjek-> Penghapusan Pikiran</li>
+    <li>Subject_story-> mempelajari cerita episodice amnesia</li>
+    <li>Subject_story-> bekerja di klinik dengan penyintas lesi otak</li>
+    <li>subjek_story-> meneliti jalur saraf amnesia</li>
+    <li>Subject_story-> mengelola fasilitas cuci otak setelah perang yang terlupakan</li>
+    <li>subjek_gerund-> menyeka pikiran subjek</li>
+    <li>subjek_gerund-> melakukan ritual untuk menghapus pikiran subjek</li>-><Brainwipe.generalRules.rulesStrings>
+    <li>Subjek-> mental kabur</li>
+    <li>Subjek_def-> del del mental</li>
+    <li>Subject_story-> mempelajari kasus amnesia episodik</li>
+    <li>Subject_story-> bekerja di klinik dengan penyintas cedera otak</li>
+    <li>Subject_story-> mempelajari jalur saraf amnesics</li>
+    <li>Subject_story-> mengarahkan pusat pencucian otak setelah perang yang terlupakan</li>
+    <li>Subjek gerund-> cuci pikiran seseorang</li>
+    <li>Subjek gerund-> buat ritual untuk menghapus pikiran seseorang</li>
+  </Brainwipe.generalRules.rulesStrings>
+  
+  <!-- EN: chronophagy -->
+  <Chronophagy.label>Chronophagiah</Chronophagy.label>
+  <!-- EN: Perform a psychic ritual that causes a target to age rapidly. The ritual invoker will become younger in the process. The target will suffer brain damage as a result, which may be lethal for elderly targets. -->
+  <Chronophagy.description>Melakukan ritual psikis yang membuat usia tujuan dengan cepat.Invokator ritual akan meremajakan dalam proses.Tujuannya akan mengalami kerusakan otak, yang bisa mematikan bagi orang tua.</Chronophagy.description>
+  <!-- EN:
+    <li>Subjek-> Chronophagy</li>
+    <li>Subject_story-> mempelajari degenerasi terkait usia</li>
+    <li>Subject_story-> Struktur sehat yang direplikasi secara destruktif dari satu organisme ke organisme lainnya</li>
+    <li>Subject_story-> Teoris tentang berbagai ritual yang dapat diaktifkan Archotech</li>
+    <li>Subject_story-> Perawatan umur panjang yang diamati di klinik glitterworld</li>
+    <li>Subject_gerund-> mencuri pemuda</li>
+    <li>Subject_gerund-> Invoking Chronophagy</li>
+    <li>Subject_gerund-> melakukan ritual chronophagy</li>-><Chronophagy.generalRules.rulesStrings>
+    <li>Subjek-> Cronofagia</li>
+    <li>subjek_def-> dari chronophagy</li>
+    <li>Subject_story-> mempelajari degenerasi yang terkait dengan usia</li>
+    <li>Subject_story-> Struktur sehat yang direplikasi secara invasif dari satu organisme ke organisme lainnya</li>
+    <li>Subject_story-> Teori tentang berbagai ritual yang diizinkan oleh arkeoteknologi</li>
+    <li>Subjek_Story-> Perawatan umur panjang yang diamati di klinik Mundobrillante</li>
+    <li>Subject_gerund-> mencuri pemuda</li>
+    <li>Subject_gerund-> Invocar la Cronofagia</li>
+    <li>Subject_gerund-> Lakukan ritual Chronophagia</li>
+  </Chronophagy.generalRules.rulesStrings>
+  
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust.label>Debu necrovite</DeadlifeDust.label>
+  <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
+  <DeadlifeDust.description>Pabrikan perangkat yang memproduksi awan arsitek mikroskopis.Architas dapat membangkitkan kembali mayat dan menghasilkan pejalan kaki mematikan yang hanya akan menyerang musuh Anda.</DeadlifeDust.description>
+  <!-- EN:
+    <li>Subjek-> Debu Deadlife</li>
+    <li>Subject_story-> mensintesis sistem distersal aerosol untuk nanobot</li>
+    <li>Subject_story-> Centrifuge atom yang digunakan untuk memisahkan berbagai tingkatan arsitek</li>
+    <li>Subject_story-> Menonton penyerangan yang mematikan pada vidclip urbworld</li>
+    <li>Subject_story-> Mengembangkan perangkat kontrol archite dengan sistem IFF yang diotote</li>
+    <li>Subject_gerund-> membuat debu mati</li>
+    <li>subjek gerund-> mendistribusikan arsitek untuk membuat dambler</li>-><DeadlifeDust.generalRules.rulesStrings>
+    <li>Subjek-> gurita necrovite</li>
+    <li>Subject_def-> dari debu necrovite</li>
+    <li>Subject_story-> Sintesis Sistem Dispersi Aerosol untuk Nanobots</li>
+    <li>Subject_story-> Centrifuger atom yang digunakan untuk memisahkan derajat yang berbeda dari arsitek</li>
+    <li>Subject_story-> Dia melihat agresi fana dari pejalan kaki dalam klip video dunia perkotaan</li>
+    <li>Subject_story-> Mengembangkan perangkat kontrol Archite dengan sistem IFF</li>
+    <li>Subjek gerund-> membuat debu necrovite</li>
+    <li>Subjek gerund-> Distribute Architas untuk membuat pejalan kaki</li>
+  </DeadlifeDust.generalRules.rulesStrings>
+  
+  <!-- EN: death refusal -->
+  <DeathRefusal.label>Repelio Kematian</DeathRefusal.label>
+  <!-- EN: Perform a psychic ritual which grants death refusal to an individual, allowing them to self-resurrect once after dying. -->
+  <DeathRefusal.description>Dia melakukan ritual psikis yang diberikan oleh Mortis Repelium, yaitu, penolakan kematian bagi seorang individu, yang memungkinkannya untuk melakukan diri sendiri sekali setelah sekarat.</DeathRefusal.description>
+  <!-- EN:
+    <li>Subjek-> Doa Penolakan Kematian</li>
+    <li>Subject_story-> Tales yang diselidiki tentang kelangsungan hidup yang mustahil</li>
+    <li>Subject_story-> mengamati saat-saat terakhir dari banyak korban pertempuran terakhir VII</li>
+    <li>Subject_story-> berpartisipasi dalam upaya kebangkitan UR-Prophet Axhor</li>
+    <li>Subject_story-> Mengumpulkan Bukti Penolakan Kematian di Perpustakaan A Coreworld</li>
+    <li>subjek_gerund-> menangkis kematian</li>
+    <li>subjek_gerund-> melakukan ritual untuk menegur kematian</li>-><DeathRefusal.generalRules.rulesStrings>
+    <li>Subjek-> Doa Mortis</li>
+    <li>Subjek_Def-> Doa Mortis Repelio</li>
+    <li>Subject_story-> diselidiki cerita bertahan hidup yang mustahil</li>
+    <li>Subject_story-> mengamati saat-saat terakhir dari banyak korban pertempuran terakhir VII</li>
+    <li>Subject_story-> berpartisipasi dalam upaya kebangkitan Nabi Axhor</li>
+    <li>Subjek_Story-> Dia mengumpulkan bukti tantangan mematikan di Perpustakaan Dunia Pusat</li>
+    <li>Subject_gerund-> Dodge Death</li>
+    <li>Subjek gerund-> membuat ritual untuk menolak kematian</li>
+  </DeathRefusal.generalRules.rulesStrings>
+  
+  <!-- EN: disruptor flares -->
+  <DisruptorFlares.label>Tongkat yang terganggu</DisruptorFlares.label>
+  <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
+  <DisruptorFlares.description>Bangun bendera bioferrita yang mengungkapkan makhluk tak terlihat dan menerangi suatu daerah.</DisruptorFlares.description>
+  <!-- EN:
+    <li>Subjek-> Flare Bioferrite</li>
+    <li>Subjek-> Pencahayaan Jangka Pendek</li>
+    <li>Subject_story-> mempelajari spektrum elektromagnetik non-visual</li>
+    <li>Subjek_Story-> Menonaktifkan pusat visual subjek uji</li>
+    <li>Subject_story-> mempelajari teknik bioluminesensi fauna nightworld</li>
+    <li>Subject_story-> mempersempit spektrum elektromagnetik pelepasan energi archite</li>
+    <li>subjek_gerund-> meningkatkan visibilitas sementara</li>
+    <li>Subject_gerund-> Crafting Bioferrite Flares</li>-><DisruptorFlares.generalRules.rulesStrings>
+    <li>Subjek-> Bioferrita Canes</li>
+    <li>Subjek-> Pencahayaan Jangka Pendek</li>
+    <li>Subject_def-> dari bioferrita flares</li>
+    <li>Subjek_def-> pencahayaan jangka pendek</li>
+    <li>Subject_story-> mempelajari spektrum elektromagnetik non-visual</li>
+    <li>Subject_story-> menonaktifkan pusat visual dari subjek uji</li>
+    <li>Subject_story-> Teknik bioluminesensi yang dipelajari dari fauna kehidupan malam</li>
+    <li>Subject_story-> mengurangi spektrum elektromagnetik emisi energi arquita</li>
+    <li>Subjek_gerund-> mempromosikan visibilitas sementara</li>
+    <li>Subject_gerund-> Manufacture Bioferrita Canes</li>
+  </DisruptorFlares.generalRules.rulesStrings>
+  
+  <!-- EN: electroharvester -->
+  <Electroharvester.label>Electrocosechador</Electroharvester.label>
+  <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
+  <Electroharvester.description>Bangun generator yang mengekstraksi listrik dari entitas yang terkandung.Proses ini menyebabkan entitas lebih sulit mengandung.</Electroharvester.description>
+  <!-- EN:
+    <li>Subjek-> Pembangkit listrik yang diturunkan entitas</li>
+    <li>Subject_story-> Pompa ion yang diteliti di membran sel</li>
+    <li>Subject_story-> mempelajari kehidupan belut listrik Terran yang langka</li>
+    <li>Subject_story-> memprovokasi Archites dan mempelajari output termal mereka</li>
+    <li>subjek_story-> berteori tentang potensi energi Archotech</li>
+    <li>Subject_gerund-> memanen dari entitas</li>
+    <li>subjek_gerund-> membangun electroharvesters</li>-><Electroharvester.generalRules.rulesStrings>
+    <li>Subjek-> Pembangkit Energi yang Berasal dari Entitas</li>
+    <li>Subjek_def-> dari generasi energi yang berasal dari entitas</li>
+    <li>Subject_story-> Pompa ion yang dipelajari di membran sel</li>
+    <li>Subject_story-> Dia mempelajari kehidupan keinginan listrik terestrial yang langka</li>
+    <li>Subjek_story-> menyebabkan arquitas dan mempelajari produksi termal-nya</li>
+    <li>Subject_story-> Teori tentang Potensi Energi Archeoteca</li>
+    <li>Subjek_gerund-> dapatkan entitas listrik</li>
+    <li>Subject_gerund-> Bangun electrocoschaers</li>
+  </Electroharvester.generalRules.rulesStrings>
+  
+  <!-- EN: entity containment -->
+  <EntityContainment.label>penahanan entitas</EntityContainment.label>
+  <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
+  <EntityContainment.description>Bangun platform penahanan dan inhibitor untuk mempertahankan entitas dengan lebih baik.</EntityContainment.description>
+  <!-- EN:
+    <li>Subjek-> Penahanan entitas</li>
+    <li>Subject_story-> Bekerja di Fasilitas Penelitian PrisonWorld</li>
+    <li>Subject_story-> ditahan di penjara penjara</li>
+    <li>subjek_story-> bekerja dengan gerakan gerilya untuk melanggar fasilitas holding</li>
+    <li>Subject_story-> Tanaman Packing Meatpacking Di Rantai Dinoworld</li>
+    <li>Subject_gerund-> Entitas yang mengandung</li>
+    <li>Subject_gerund-> Fasilitas Penahanan Entitas Konstruksi</li>-><EntityContainment.generalRules.rulesStrings>
+    <li>Subjek-> Penahanan entitas</li>
+    <li>Subjek_def-> dari penahanan entitas</li>
+    <li>Subject_story-> bekerja di pusat penelitian di dunia penjara</li>
+    <li>Subject_story-> ditahan di penjara di dunia penjara</li>
+    <li>Subject_story-> bekerja dengan gerakan gerilya untuk melanggar fasilitas penahanan</li>
+    <li>Subject_story-> Tanaman Kemasan Daging Dibangun Di Dunia Rantai Dinosaurus</li>
+    <li>Subjek_gerund-> berisi entitas</li>
+    <li>Subject_gerund-> Bangun Fasilitas Penahanan Entitas</li>
+  </EntityContainment.generalRules.rulesStrings>
+  
+  <!-- EN: frenzy inducer -->
+  <FrenzyInducer.label>Induktor hiruk -pikuk</FrenzyInducer.label>
+  <!-- EN: Build shard-powered structures that generate a frenetic psychic field to make anyone nearby move and work faster. However, the unstable emotional energy creates a tendency towards violence, irritating anyone nearby. -->
+  <FrenzyInducer.description>Bangun struktur yang didorong oleh chip yang menghasilkan bidang psikis yang panik sehingga siapa pun yang dekat bergerak dan bekerja lebih cepat.Namun, energi emosional yang tidak stabil menciptakan kecenderungan kekerasan yang menjengkelkan siapa pun yang dekat.</FrenzyInducer.description>
+  <!-- EN:
+    <li>Subjek-> Archotech Frenzy Inducers</li>
+    <li>subjek_story-> bekerja sebagai terapis motivasi</li>
+    <li>Subject_story-> Kalahkan drum di dapur liar Feralworld</li>
+    <li>Subject_story-> Meneliti Efek dari berbagai markir terhadap kesadaran manusia</li>
+    <li>Subject_story-> Mengelola stasiun trance di Underclub Urbworld</li>
+    <li>Subject_gerund-> Menginduksi kegilaan</li>
+    <li>Subject_gerund-> Membangun penginduksi hiruk-pikuk dari Archotech</li>-><FrenzyInducer.generalRules.rulesStrings>
+    <li>Subjek-> Induktor Perpustakaan Arqueoteca</li>
+    <li>Subjek_def-> dari penginduksi perpustakaan Archeoteca</li>
+    <li>Subjek_story-> bekerja sebagai terapis motivasi</li>
+    <li>Subject_story-> Menyentuh drum di dapur di dunia liar</li>
+    <li>Subject_story-> mempelajari efek dari berbagai arkeokampo pada kesadaran manusia</li>
+    <li>Subjek_Story-> Dia mengarahkan stasiun musik di klub klandestin di dunia perkotaan</li>
+    <li>Subjek_gerund-> menginduksi kegilaan</li>
+    <li>Subject_gerund-> Bangun Induksi Perpustakaan Archeoteca</li>
+  </FrenzyInducer.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul enhancements -->
+  <GhoulEnhancements.label>perbaikan nekrofag</GhoulEnhancements.label>
+  <!-- EN: Craft bioferrite prosthetics to make ghouls stronger. -->
+  <GhoulEnhancements.description>Buat prostesis bioferrita untuk memperkuat nekrofag.</GhoulEnhancements.description>
+  <!-- EN:
+    <li>Subjek-> Peningkatan Ghoul</li>
+    <li>subjek_story-> bereksperimen dengan orang mati dan dua kali mati</li>
+    <li>subjek_story-> ditanamkan item yang semakin aneh ke dalam hantu</li>
+    <li>subjek_story-> meneliti prostesis hantu yang lebih kompleks</li>
+    <li>Subject_gerund-> Meningkatkan Ghoul dengan Bioferrite Prosthetics</li>-><GhoulEnhancements.generalRules.rulesStrings>
+    <li>Perbaikan Subjek-> Nekrofi</li>
+    <li>Subject_def-> dari perbaikan nekrofag</li>
+    <li>Subjek_story-> Saya berpengalaman dengan orang mati dan orang mati ganda</li>
+    <li>Subjek_story-> diterapkan implan objek yang semakin aneh</li>
+    <li>Subject_story-> Dia mempelajari prostesis nekrofi yang lebih kompleks</li>
+    <li>Subjek gerund-> meningkatkan necrophagus dengan prostesis bioferrita</li>
+  </GhoulEnhancements.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul infusion -->
+  <GhoulInfusion.label>infus nekrofag</GhoulInfusion.label>
+  <!-- EN: Perform a surgery that infuses a living person with an archotech shard, transforming them into a terrifying ghoul. Ghouls are strong melee combatants but are incapable of doing work. Ghouls will go mad if they are not fed enough raw meat. -->
+  <GhoulInfusion.description>Melakukan operasi bedah yang menanamkan seseorang yang menjalani chip Archeoteca, mengubahnya menjadi necrophagus yang menakutkan.Nekrofag adalah kombatan jarak dekat yang kuat, tetapi tidak dapat bekerja.Ini menjadi gila jika tidak diberi makan dengan cukup daging mentah.</GhoulInfusion.description>
+  <!-- EN:
+    <li>Subjek-> Penciptaan Ghoul</li>
+    <li>Subject_story-> Penduduk Prisonworld yang Disediakan untuk Konflik Urbworld</li>
+    <li>Subjek_Story-> Suntikan Archite Militerisasi sebagai bagian dari program eksperimental</li>
+    <li>Subject_story-> mempelajari deadlife liar di reruntuhan deadworld</li>
+    <li>Subject_gerund-> menanamkan pecahan archotech menjadi orang yang hidup</li>
+    <li>Subject_gerund-> Membuat Ghoul</li>-><GhoulInfusion.generalRules.rulesStrings>
+    <li>Subjek-> Penciptaan Necrophages</li>
+    <li>Subject_def-> dari penciptaan nekrofag</li>
+    <li>Subjek_Story-> Penduduk yang disediakan dihukum karena dunia penjara karena konflik di dunia perkotaan</li>
+    <li>Subject_story-> Suntikan Terapan dengan Arsitek sebagai bagian dari program eksperimental</li>
+    <li>Subject_story-> mempelajari kehidupan liar orang mati di reruntuhan dunia mati</li>
+    <li>Subjek gerund-> menanamkan chip ArchaeTeca pada orang yang hidup</li>
+    <li>Subjek gerund-> buat necrophagus</li>
+  </GhoulInfusion.generalRules.rulesStrings>
+  
+  <!-- EN: ghoul resurrection -->
+  <GhoulResurrection.label>Kebangkitan Necrophagous</GhoulResurrection.label>
+  <!-- EN: Synthesize a serum that can bring dead ghouls back to life. -->
+  <GhoulResurrection.description>Mensintesis serum yang mengembalikan kehidupan ke nekrofag mati.</GhoulResurrection.description>
+  <!-- EN:
+    <li>Subjek-> Kebangkitan Ghoul</li>
+    <li>Subject_story-> mengembangkan metode baru untuk membangkitkan kembali hantu</li>
+    <li>Subject_story-> menyuntikkan berbagai senyawa Archotech ke dalam mayat</li>
+    <li>Subject_story-> Meneliti efek konsentrasi Archotech yang lebih tinggi pada hantu</li>
+    <li>subjek_story-> menyaksikan kebangkitan ghoul berulang</li>
+    <li>subjek_gerund-> membangkitkan kembali hantu</li>
+    <li>Subject_gerund-> mensintesis serum untuk membangkitkan hantu</li>-><GhoulResurrection.generalRules.rulesStrings>
+    <li>Subjek-> Kebangkitan Necrophagous</li>
+    <li>Subject_def-> dari kebangkitan necrophagous</li>
+    <li>Subject_story-> mengembangkan metode baru untuk membangkitkan necrophages</li>
+    <li>Subject_story-> Suntikan Terapan dengan berbagai senyawa arkeoteknik di mayat</li>
+    <li>Subject_story-> mempelajari efek konsentrasi arkeoteknik yang lebih tinggi pada nekrofag</li>
+    <li>Subject_story-> menyaksikan kebangkitan berulang nekrofag</li>
+    <li>Subjek_gerund-> rishears a necrophagus</li>
+    <li>Subjek gerund-> mensintesis serum untuk membangkitkan necropagos</li>
+  </GhoulResurrection.generalRules.rulesStrings>
+  
+  <!-- EN: insanity weaponry -->
+  <InsanityWeaponry.label>Persenjataan gila</InsanityWeaponry.label>
+  <!-- EN: Restructure archotech shards into limited-use weapons that shock, manipulate, and destroy enemies using archotechnology. -->
+  <InsanityWeaponry.description>Restrukturisasi Arqueoteca Chops dalam Senjata Penggunaan Terbatas Kejutan, memanipulasi dan menghancurkan musuh menggunakan arkeoteknologi.</InsanityWeaponry.description>
+  <!-- EN:
+    <li>Subjek-> persenjataan archotech kegilaan</li>
+    <li>Subject_story-> Dieksplorasi Perang Psikologis untuk disertasi [anypawn_possessive]</li>
+    <li>Subject_story-> Menonton kekalahan batalion kekaisaran dan mempelajari nilai ketakutan</li>
+    <li>Subject_story-> bekerja di suaka korban Archotech</li>
+    <li>Subject_story-> Vivisected Archite-Infested Wildlife untuk memahami efeknya pada otak mamalia</li>
+    <li>Subject_gerund-> Restrukturisasi Archotech menjadi persenjataan yang memicu kegilaan</li>-><InsanityWeaponry.generalRules.rulesStrings>
+    <li>Subjek-> melengkung persenjataan archeoteca</li>
+    <li>Subject_def-> dari Archeoteca Madness Armament</li>
+    <li>Subject_story-> Dia belajar perang psikologis untuk tesisnya</li>
+    <li>Subject_story-> mengamati kekalahan batalion kekaisaran dan mempelajari nilai ketakutan</li>
+    <li>Subject_story-> bekerja di suaka korban Archeoteca</li>
+    <li>Subject_story-> Hewan Liar Vivisted terinfestasi dengan arsitek untuk memahami efeknya pada otak mamalia</li>
+    <li>Subjek gerund-> restrukturisasi arkeoteknologi untuk mengubahnya menjadi persenjataan kegilaan</li>
+  </InsanityWeaponry.generalRules.rulesStrings>
+  
+  <!-- EN: juggernaut serum -->
+  <JuggernautSerum.label>Serum Juggernaut</JuggernautSerum.label>
+  <!-- EN: Synthesize a serum which temporarily increases the user's strength and speed, and allows them to recover from injuries faster. However, it reduces their mood. -->
+  <JuggernautSerum.description>Ini mensintesis serum yang sementara meningkatkan kekuatan dan kecepatan konsumen dan memungkinkannya pulih sebelum luka.Namun, ini mengurangi suasana hati Anda.</JuggernautSerum.description>
+  <!-- EN:
+    <li>Subjek-> Juggernaut Serum</li>
+    <li>Subject_story-> dilarang dari liga Coreworld setelah [anypawn_pronoun] ketahuan mendoping tim dengan juggernaut serum</li>
+    <li>Subject_story-> Memberi tentara juggernaut serum saat amunisi mereka kehabisan</li>
+    <li>Subjek_Story-> Penggunaan serum yang diteliti di antara sektor bangunan kontrak</li>
+    <li>Subject_story-> jatuh ke dalam barel serum juggernaut</li>
+    <li>Subject_gerund-> mensintesis serum juggernaut</li>-><JuggernautSerum.generalRules.rulesStrings>
+    <li>Subjek-> SUERO Juggernaut</li>
+    <li>Subject_def-> del Suero Juggernaut</li>
+    <li>Subject_story-> Dia dikeluarkan dari liga dunia tengah setelah ditangkap dengan tim dengan serum juggernaut</li>
+    <li>Subject_story-> memberi tentara serum juggernaut ketika amunisi mereka berakhir</li>
+    <li>Subject_story-> mempelajari penggunaan serum di sektor konstruksi</li>
+    <li>Subjek_story-> jatuh ke dalam tong serum juggernaut</li>
+    <li>Subjek gerund-> mensintesis juggersouts seros</li>
+  </JuggernautSerum.generalRules.rulesStrings>
+  
+  <!-- EN: metalblood serum -->
+  <MetalbloodSerum.label>Serum Sangrimetal</MetalbloodSerum.label>
+  <!-- EN: Synthesize metalblood serums that make the user more resistant to damage. -->
+  <MetalbloodSerum.description>Mensintesis serum berdarah yang membuat konsumen lebih tahan terhadap kerusakan.</MetalbloodSerum.description>
+  <!-- EN:
+    <li>Subjek-> Serum Metalblood</li>
+    <li>Subjek_Story-> Cairan reaktif yang diteliti untuk digunakan di Milworld Armor</li>
+    <li>Subject_story-> adalah pelopor awal teknologi penggantian darah</li>
+    <li>Subject_story-> Menemukan dispenser metalblood di dunia deadworld yang sunyi</li>
+    <li>Subject_story-> Diployed Flamethrowers terhadap milisi yang menggunakan logamblood</li>
+    <li>Subject_gerund-> mensintesis serum metalblood</li>-><MetalbloodSerum.generalRules.rulesStrings>
+    <li>Subjek-> Sera Berdarah</li>
+    <li>Subject_def-> dari Sera Berdarah</li>
+    <li>Subject_story-> mempelajari cairan reaktif untuk penggunaan armor dunia militer</li>
+    <li>Subject_story-> adalah salah satu pelopor pertama dari teknologi penggantian darah</li>
+    <li>Subjek_story-> menemukan dispenser berdarah di dunia mati yang sepi</li>
+    <li>Subject_story-> Diployan Flamethrower melawan milisi yang menggunakan Bloody</li>
+    <li>Subject_gerund-> Sintesis Bloody Sera</li>
+  </MetalbloodSerum.generalRules.rulesStrings>
+  
+  <!-- EN: mind-numb serum -->
+  <MindNumbSerum.label>serum mati rasa otak</MindNumbSerum.label>
+  <!-- EN: Synthesize a serum that stabilizes a person's mood, preventing mental breaks. -->
+  <MindNumbSerum.description>Mensintesis serum yang menstabilkan suasana hati seseorang, mencegah runtuh mental.</MindNumbSerum.description>
+  <!-- EN:
+    <li>Subjek-> Serum Pikiran-Numb</li>
+    <li>Subject_story-> menyabotase kinerja emosional dengan diam-diam mematikan penyanyi utama</li>
+    <li>Subject_story-> disaring serum pikiran dosis rendah ke dalam pasokan air suaka</li>
+    <li>Subject_story-> Distributed Mind-Numb Serum untuk tentara junior sebelum dan sesudah pertempuran</li>
+    <li>Subject_story-> menyelidiki penggunaan archotech untuk rasa sakit mati rasa</li>
+    <li>Subject_gerund-> mensintesis serum mind-numb</li>-><MindNumbSerum.generalRules.rulesStrings>
+    <li>Subjek-> Otak Suero</li>
+    <li>Subject_def-> Del Suero Cerebral Tidur</li>
+    <li>Subject_story-> menyabotase kinerja emosional dalam Secret Suchbing the Main Singer</li>
+    <li>Subject_story-> Dosis rendah serum dosis rendah dalam pasokan air suaka</li>
+    <li>Subject_story-> Serum mati rasa otak terdistribusi untuk tentara muda sebelum dan sesudah pertempuran</li>
+    <li>Subject_story-> mempelajari penggunaan teknologi Archeoteca untuk mematikan rasa sakit</li>
+    <li>Subjek gerund-> mensintesis bilangan serebral</li>
+  </MindNumbSerum.generalRules.rulesStrings>
+  
+  <!-- EN: mutation weaponry -->
+  <MutationWeaponry.label>persenjataan mutan</MutationWeaponry.label>
+  <!-- EN: Restructure archotech shards into limited-use weapons that twist living targets into terrifying creatures. -->
+  <MutationWeaponry.description>Restrukturisasi chopeoteca memotong menjadi senjata penggunaan terbatas yang mengubah tujuan hidup menjadi makhluk yang menakutkan.</MutationWeaponry.description>
+  <!-- EN:
+    <li>subjek-> induksi mutasi</li>
+    <li>Subjek-> persenjataan mutasi Archotech</li>
+    <li>Subject_story-> memimpikan kehidupan baru, diresapi dengan archites</li>
+    <li>Subject_story-> menyaksikan kehidupan tanaman archotech warping</li>
+    <li>subjek_story-> bereksperimen dengan senjata baru</li>
+    <li>Subject_story-> mempelajari kehidupan baru di dunia transenden</li>
+    <li>Subject_story-> menumbuhkan kehidupan berbasis archite di laboratorium</li>
+    <li>Subject_gerund-> menginduksi mutasi</li>
+    <li>Subject_gerund-> Restrukturisasi Archotech menjadi persenjataan mutasi</li>-><MutationWeaponry.generalRules.rulesStrings>
+    <li>Subjek-> induksi mutan</li>
+    <li>Subjek-> Mutant Archaerability</li>
+    <li>Subjek_def-> induksi mutan</li>
+    <li>Subject_def-> Del Archeotec Mutant Armament</li>
+    <li>Subject_story-> Saya memimpikan kehidupan baru, diresapi dengan arsitas</li>
+    <li>Subject_story-> menyaksikan bagaimana Archeoteca merusak kehidupan tanaman</li>
+    <li>Subjek_story-> Saya berpengalaman dengan senjata baru</li>
+    <li>Subject_story-> mempelajari kehidupan baru di dunia transenden</li>
+    <li>Subjek_Story-> Kehidupan Archite yang Dibudidayakan di Laboratorium</li>
+    <li>Subjek_gerund-> menginduksi mutasi</li>
+    <li>Subject_gerund-> Restrukturisasi Arkeoteknologi dalam persenjataan mutan</li>
+  </MutationWeaponry.generalRules.rulesStrings>
+  
+  <!-- EN: neurosis pulse -->
+  <NeurosisPulse.label>denyut neurotik</NeurosisPulse.label>
+  <!-- EN: Perform a psychic ritual that makes everyone in the region work faster but become more irritable. -->
+  <NeurosisPulse.description>Buat ritual psikis yang membuat semua orang di wilayah ini bekerja lebih cepat tetapi menjadi lebih mudah tersinggung.</NeurosisPulse.description>
+  <!-- EN:
+    <li>Subjek-> neurosis denyut neurosis</li>
+    <li>Subjek-> Imperatif Pekerjaan</li>
+    <li>Subject_story-> bergabung dengan kultus pekerja di dunia urbworld</li>
+    <li>Subject_story-> merasakan tekanan psikis dari ritual selama bekerja</li>
+    <li>Subject_story-> mempelajari jalur saraf neurotik</li>
+    <li>Subject_story-> menyelidiki crossover antara kiasan manajemen dan ritual kultus</li>
+    <li>subjek_gerund-> menginduksi neurosis secara psikis</li>
+    <li>Subject_gerund-> melakukan ritual untuk meningkatkan produktivitas pekerja</li>-><NeurosisPulse.generalRules.rulesStrings>
+    <li>Subjek-> pulsa neurotik</li>
+    <li>Subjek-> tuntutan tenaga kerja</li>
+    <li>Subjek_def-> pulsa neurotik</li>
+    <li>Subjek_def-> tuntutan tenaga kerja</li>
+    <li>Subject_story-> bergabung dengan kultus pekerja dunia perkotaan</li>
+    <li>Subject_story-> merasakan tekanan psikis dari ritual selama bekerja</li>
+    <li>Subjek_story-> mempelajari neuroticism neuroticism</li>
+    <li>Subject_story-> mempelajari hubungan antara manajemen pasukan dan ritual ibadah</li>
+    <li>Subjek_gerund-> menginduksi neurosis secara psikis</li>
+    <li>Subjek gerund-> melakukan ritual produktivitas pekerja</li>
+  </NeurosisPulse.generalRules.rulesStrings>
+  
+  <!-- EN: philophagy -->
+  <Philophagy.label>nyanyian pujian</Philophagy.label>
+  <!-- EN: Perform a psychic ritual that drains experience from a victim and gives it to the invoker. The process will dull the target's mind, weakening their skills and causing brain damage. -->
+  <Philophagy.description>Melakukan ritual psikis yang menyerap pengalaman seorang korban dan memberikannya kepada Invocator.Proses ini mengejutkan pikiran tujuan, melemahkan keterampilannya dan menyebabkan kerusakan otak.</Philophagy.description>
+  <!-- EN:
+    <li>Subjek-> Philophagy</li>
+    <li>Subjek-> Transfer Keterampilan</li>
+    <li>Subject_story-> mengikuti jejak korban yang ditinggalkan oleh sebuah philophage</li>
+    <li>Subject_story-> Proses replikasi saraf yang diteliti di laboratorium glitterworld</li>
+    <li>subjek_story-> menyelidiki pikiran yang rusak dari korban kultus</li>
+    <li>Subject_story-> menemukan keterampilan [anypawn_possessive] melemah setelah serangan psikis</li>
+    <li>subjek_gerund-> mentransfer pembelajaran subjek</li>
+    <li>subjek_gerund-> melakukan ritual untuk mencuri keterampilan korban</li>-><Philophagy.generalRules.rulesStrings>
+    <li>Subjek-> Filofagia</li>
+    <li>Subjek-> Transfer Keterampilan</li>
+    <li>Subjek_def-> de la filofagia</li>
+    <li>Subjek_def-> transfer keterampilan</li>
+    <li>Subject_story-> mengikuti jejak korban yang ditinggalkan oleh sebuah philophage</li>
+    <li>Subject_story-> mempelajari proses replikasi neuron di laboratorium sayap dunia</li>
+    <li>Subjek_story-> mempelajari pikiran yang rusak dari korban sekte</li>
+    <li>Subjek_story-> merasakan keterampilannya yang lemah setelah serangan psikis</li>
+    <li>Subjek gerund-> Transfer pembelajaran subjek</li>
+    <li>Subject_gerund-> buat ritual untuk mencuri keterampilan korban</li>
+  </Philophagy.generalRules.rulesStrings>
+  
+  <!-- EN: pleasure pulse -->
+  <PleasurePulse.label>denyut nadi yang menyenangkan</PleasurePulse.label>
+  <!-- EN: Perform a psychic ritual that makes everyone in the region happier but reduces their desire to work. -->
+  <PleasurePulse.description>Buat ritual psikis yang membuat semua orang lebih bahagia di wilayah ini, tetapi untuk mengurangi keinginan mereka untuk bekerja.</PleasurePulse.description>
+  <!-- EN:
+    <li>Subjek-> Doa kesenangan</li>
+    <li>Subject_story-> Baca kisah bumi kuno yang membual tentang makanan ajaib yang disebut soma</li>
+    <li>Subject_story-> Meneliti mitos pemakan l,</li>
+    <li>Subject_story-> bekerja dengan filsuf sosial untuk membuat ritual utilitarian</li>
+    <li>Subject_story-> bergabung dengan kultus Archotech langka yang didedikasikan untuk waktu luang dan kesenangan</li>
+    <li>Subject_gerund-> Menginduksi kesenangan secara psikis</li>
+    <li>subjek_gerund-> melakukan ritual psikis untuk mendorong kesenangan</li>-><PleasurePulse.generalRules.rulesStrings>
+    <li>Subjek-> Doa yang menyenangkan</li>
+    <li>Subjek_def-> dari doa yang menyenangkan</li>
+    <li>Subject_story-> Baca sejarah kuno tanah yang berbicara tentang makanan ajaib yang disebut soma</li>
+    <li>Subjek_story-> mempelajari mitos ruang makan loto</li>
+    <li>Subject_story-> bekerja dengan filsuf sosial untuk membuat ritual utilitarian</li>
+    <li>Subject_story-> bergabung dengan kultus Archeoteca langka yang didedikasikan untuk waktu luang dan kesenangan</li>
+    <li>Subjek_gerund-> menginduksi kesenangan psikis</li>
+    <li>Subject_gerund-> Lakukan ritual psikis untuk mendorong kesenangan</li>
+  </PleasurePulse.generalRules.rulesStrings>
+  
+  <!-- EN: proximity detector -->
+  <ProximityDetector.label>Detektor kedekatan</ProximityDetector.label>
+  <!-- EN: Build a device that can detect invisible creatures. -->
+  <ProximityDetector.description>Bangun perangkat yang mampu mendeteksi makhluk yang tidak terlihat.</ProximityDetector.description>
+  <!-- EN:
+    <li>Subjek-> Detektor kedekatan</li>
+    <li>Subjek-> Sensor Gerak</li>
+    <li>Subject_story-> Menonton gulungan hiburan kuno dan terinspirasi</li>
+    <li>Subject_story-> Prototipe Perangkat Psi Sederhana</li>
+    <li>Subject_story-> Mempertahankan Sistem Peringatan Dini dari Pos Deathworld</li>
+    <li>Subject_story-> pemindai multiband yang dipelajari untuk deteksi pola lintas sistem</li>
+    <li>Subject_gerund-> mengungkapkan yang tidak terlihat</li>
+    <li>Subject_gerund-> Mendeteksi makhluk yang tidak terlihat</li>-><ProximityDetector.generalRules.rulesStrings>
+    <li>Subjek-> Detektor kedekatan</li>
+    <li>Subjek-> Sensor Gerakan</li>
+    <li>Subject_def-> dari detektor kedekatan</li>
+    <li>Subject_def-> sensor gerakan</li>
+    <li>Subjek_story-> melihat gulungan hiburan lama dan terinspirasi</li>
+    <li>Subject_story-> membuat perangkat prototipe perangkat yang dikeraskan secara psikis</li>
+    <li>Subject_story-> mempertahankan sistem peringatan preventif dari posisi canggih di dunia mati</li>
+    <li>Subject_story-> mempelajari pemindai multiband untuk mendeteksi pola antara sistem</li>
+    <li>Subjek gerund-> mengungkapkan yang tersembunyi</li>
+    <li>Subjek gerund-> mendeteksi makhluk yang tidak tahu</li>
+  </ProximityDetector.generalRules.rulesStrings>
+  
+  <!-- EN: psychophagy -->
+  <Psychophagy.label>psikofag</Psychophagy.label>
+  <!-- EN: Perform a psychic ritual which deadens a target's psychic sensitivity and temporarily boosts the ritual invoker's psychic sensitivity. The target will suffer brain damage as a side-effect. -->
+  <Psychophagy.description>Ini melakukan ritual psikis yang mengurangi sensitivitas psikis dari tujuan dan sementara meningkatkan sensitivitas psikis dari penyelamat.Tujuannya akan mengalami kerusakan otak sebagai efek samping.</Psychophagy.description>
+  <!-- EN:
+    <li>Subjek-> Psikofag</li>
+    <li>Subject_story-> mempelajari desensitisasi terkelola terhadap efek psikis</li>
+    <li>Subject_story-> Transfer Archite yang Dikelola dari Subjek yang meninggal</li>
+    <li>Subject_story-> Rumor yang dikumpulkan tentang ritual transferensi psikis</li>
+    <li>Subject_story-> menyaksikan getah kultus horax</li>
+    <li>Subject_gerund-> mencuri kemampuan psikis</li>
+    <li>Subject_gerund-> melakukan ritual psikofag</li>-><Psychophagy.generalRules.rulesStrings>
+    <li>Subjek-> PSICOFAGIA</li>
+    <li>Subjek_def-> de la psychophagy</li>
+    <li>Subject_story-> mempelajari desensitisasi terkontrol untuk efek psikis</li>
+    <li>Subject_story-> Mengelola transfer arsitek subjek yang meninggal</li>
+    <li>Subject_story-> Rumor yang tersebar tentang ritual penugasan psikis</li>
+    <li>Subject_story-> menyaksikan bagaimana satu jam Horaxiano merusak kekuatan seorang bangsawan kekaisaran</li>
+    <li>Subjek gerund-> mencuri keterampilan psikis</li>
+    <li>Subject_gerund-> Lakukan ritual psikofagia</li>
+  </Psychophagy.generalRules.rulesStrings>
+  
+  <!-- EN: revenant invisibility -->
+  <RevenantInvisibility.label>Tembus pandang</RevenantInvisibility.label>
+  <!-- EN: Modify a revenant spine so that it can be implanted in a human, allowing them to become temporarily invisible. -->
+  <RevenantInvisibility.description>Ini memodifikasi tulang belakang redivive untuk dapat mengimplementasikannya pada manusia, yang memungkinkannya menjadi tidak terlihat sementara.</RevenantInvisibility.description>
+  <!-- EN:
+    <li>Subjek-> tembus pandang</li>
+    <li>Subject_story-> menanamkan tulang belakang monster menjadi manusia, tanpa mempertimbangkan konsekuensinya</li>
+    <li>Subject_story-> menulis novel tentang moralitas lenyap dari orang yang tidak terlihat</li>
+    <li>Subject_story-> Menemukan tulang belakang logam yang aneh dalam sistem Deadstar</li>
+    <li>subjek_story-> memimpikan pasukan prajurit yang tidak terlihat</li>
+    <li>Subject_gerund-> mengadaptasi tulang belakang revenant</li>
+    <li>subjek_gerund-> menanamkan tulang belakang revenant menjadi manusia</li>-><RevenantInvisibility.generalRules.rulesStrings>
+    <li>Subjek-> tembus pandang</li>
+    <li>Subjek_def-> dari tembus pandang</li>
+    <li>Subjek_story-> menanamkan tulang punggung monster pada manusia, tanpa mempertimbangkan konsekuensinya</li>
+    <li>Subjek_story-> menulis novel tentang moralitas yang hilang dari orang yang tidak terlihat</li>
+    <li>Subject_story-> Menemukan tulang belakang logam yang aneh dalam sistem deadstar</li>
+    <li>Subject_story-> Mimpi Pasukan Prajurit Tak Terlihat</li>
+    <li>Subjek gerund-> beradaptasi</li>
+    <li>Subject_gerund-> implan tulang belakang redivistik pada manusia</li>
+  </RevenantInvisibility.generalRules.rulesStrings>
+  
+  <!-- EN: serum synthesis -->
+  <SerumSynthesis.label>Sintesis serum</SerumSynthesis.label>
+  <!-- EN: Build a serum lab to synthesize high-tech serums. Serums harness archotechnological power to bestow a temporary effect on the user. -->
+  <SerumSynthesis.description>Bangun Laboratorium Sera untuk mensintesis sera Teknologi Tinggi.Sera memanfaatkan kekuatan arkeoteknologi untuk memberikan efek sementara kepada pengguna.</SerumSynthesis.description>
+  <!-- EN:
+    <li>Subjek-> Sintesis Serum</li>
+    <li>subjek_story-> disuntikkan dengan archites untuk memahami efeknya</li>
+    <li>Subject_story-> Menemukan kumpulan cairan hitam berminyak di kuil dunia mati</li>
+    <li>Subject_story-> Bertahan dari kejatuhan yang berbahaya berkat serum</li>
+    <li>Subject_story-> Mengelola program pengujian serum untuk Brigade Coreworld</li>
+    <li>Subject_gerund-> mensintesis serum</li>-><SerumSynthesis.generalRules.rulesStrings>
+    <li>Subjek-> Sintesis Serum</li>
+    <li>Subject_def-> dari sintesis serum</li>
+    <li>Subject_story-> Architas disuntikkan untuk memahami efeknya</li>
+    <li>Subjek_Story-> Menemukan genangan hitam berminyak di kuil dunia mati</li>
+    <li>Subject_story-> Bertahan dari kejatuhan yang berbahaya berkat serum</li>
+    <li>Subjek_Story-> Mengelola Program Analisis Serum untuk Brigade Dunia Pusat</li>
+    <li>Subject_gerund-> mensintesis seros</li>
+  </SerumSynthesis.generalRules.rulesStrings>
+  
+  <!-- EN: skip abduction -->
+  <SkipAbductionPlayer.label>lompatan abduktif</SkipAbductionPlayer.label>
+  <!-- EN: Perform a psychic ritual that abducts a random hostile person from anywhere in the world, putting them in a short-term coma for capture. -->
+  <SkipAbductionPlayer.description>Melakukan ritual psikis yang menculik orang yang bermusuhan secara acak dari mana saja di dunia, meninggalkannya dalam koma jangka pendek untuk ditangkap.</SkipAbductionPlayer.description>
+  <!-- EN:
+    <li>Subjek-> Penculikan Psikis</li>
+    <li>Subjek-> Lewati penculikan</li>
+    <li>subjek_story-> menyaksikan upaya penculikan pada seorang bangsawan kekaisaran</li>
+    <li>Subject_story-> ditebus oleh pemulung dirtmole</li>
+    <li>Subject_story-> mengamati ritual translokasi yang gagal yang dilakukan oleh pemimpin kultus</li>
+    <li>Subject_story-> diteliti transfer transpasial yang dimediasi oleh Archotech</li>
+    <li>Subject_gerund-> menculik musuh melalui ritual psikis</li>
+    <li>Subject_gerund-> melakukan ritual penculikan lewati</li>-><SkipAbductionPlayer.generalRules.rulesStrings>
+    <li>Subjek-> Penculikan Psikis</li>
+    <li>Subjek-> lompatan abduktif</li>
+    <li>Subject_def-> dari penculikan psikis</li>
+    <li>Subject_def-> del abductive jump</li>
+    <li>Subjek_story-> menyaksikan upaya untuk menculik seorang bangsawan kekaisaran</li>
+    <li>Subjek_story-> pemulung kotor menyelamatkannya</li>
+    <li>Subject_story-> mengamati ritual translokasi yang gagal yang dibuat oleh pemimpin kultus</li>
+    <li>Subject_story-> mempelajari transfer transsepatial melalui arkeoteknologi</li>
+    <li>Subject_gerund-> Abduce musuh melalui ritual psikis</li>
+    <li>Subject_gerund-> Lakukan ritual lompatan abduktif</li>
+  </SkipAbductionPlayer.generalRules.rulesStrings>
+  
+  <!-- EN: sleep suppressor -->
+  <SleepSuppressor.label>Inhibitor tidur</SleepSuppressor.label>
+  <!-- EN: Build shard-powered structures that stimulate those nearby to prevent fatigue. The device will irritate anyone nearby. -->
+  <SleepSuppressor.description>Bangun struktur yang didorong oleh percikan api yang merangsang mereka yang dekat untuk menghindari kelelahan.Perangkat akan membuat Anda jengkel.</SleepSuppressor.description>
+  <!-- EN:
+    <li>Subjek-> Penindasan Tidur</li>
+    <li>Subject_story-> mempelajari kurang tidur pada pekerja pabrik</li>
+    <li>Subject_story-> Penggunaan Stimulan yang Diteliti di antara Pasukan Kekaisaran</li>
+    <li>Subject_story-> Meneliti Efek dari berbagai markir terhadap kesadaran manusia</li>
+    <li>Subject_story-> bekerja di laboratorium glitterworld eversleep, di mana orang kaya memimpikan hidup mereka</li>
+    <li>Subject_story-> Mengelola Reveille di sebuah kamp kerja penjara</li>
+    <li>Subject_gerund-> Membangun penekan tidur dari Archotech</li>
+    <li>Subject_gerund-> Menekan tidur dengan Archotech</li>-><SleepSuppressor.generalRules.rulesStrings>
+    <li>Subjek-> Penghambatan tidur</li>
+    <li>Subject_def-> penghambatan tidur</li>
+    <li>Subject_story-> mempelajari kurang tidur pada pekerja faktor</li>
+    <li>Subjek_story-> mempelajari penggunaan stimulan di antara pasukan kekaisaran</li>
+    <li>Subject_story-> mempelajari efek dari berbagai arkeokampo pada kesadaran manusia</li>
+    <li>Subject_story-> bekerja di laboratorium Evergreen di mana orang kaya memimpikan sepanjang hidup mereka.</li>
+    <li>Subject_story-> mengarahkan motin dari pusat pemasyarakatan di dunia penjara</li>
+    <li>Subjek gerund-> membangun inhibitor tidur dengan arkeoteknologi</li>
+    <li>Subjek gerund-> hapus mimpi dengan arkeoteknologi</li>
+  </SleepSuppressor.generalRules.rulesStrings>
+  
+  <!-- EN: draw animals -->
+  <SummonAnimals.label>menarik hewan</SummonAnimals.label>
+  <!-- EN: Perform a psychic ritual which will draw a herd of animals. -->
+  <SummonAnimals.description>Melakukan ritual psikis yang akan menarik kawanan hewan.</SummonAnimals.description>
+  <!-- EN:
+    <li>Subjek-> Doa Stampede</li>
+    <li>Subject_story-> bekerja sebagai gembala di tengah-tengah pegunungan dari dunia primitif</li>
+    <li>Subject_story-> belajar berkomunikasi dengan binatang buas dari bidang</li>
+    <li>Subject_story-> bereksperimen dengan efek archite pada ras hewan yang berbeda</li>
+    <li>Subject_story-> Menonton komune kultus alam dengan ternak mereka</li>
+    <li>Subject_gerund-> Memanggil ternak binatang</li>-><SummonAnimals.generalRules.rulesStrings>
+    <li>Subjek-> Doa Stampede</li>
+    <li>Subject_def-> dari Doa Perangko</li>
+    <li>Subject_story-> bekerja sebagai pendeta di antara pegunungan dunia primitif</li>
+    <li>Subjek_story-> belajar berkomunikasi dengan binatang buas lapangan</li>
+    <li>Subject_story-> Saya berpengalaman dengan efek arsitek pada hewan yang berbeda dari hewan</li>
+    <li>Subjek_story-> mengamati sekte berkomunikasi dengan kawanannya</li>
+    <li>Subjek gerund-> memohon hewan hewan</li>
+  </SummonAnimals.generalRules.rulesStrings>
+  
+  <!-- EN: summon fleshbeasts -->
+  <SummonFleshbeastsPlayer.label>memohon carnibious</SummonFleshbeastsPlayer.label>
+  <!-- EN: Perform a psychic ritual which provokes fleshbeasts to emerge from the ground near enemies, attacking anyone nearby. -->
+  <SummonFleshbeastsPlayer.description>Melakukan ritual psikis yang menyebabkan Carnibstia muncul dari tanah dekat musuh, menyerang siapa pun yang dekat.</SummonFleshbeastsPlayer.description>
+  <!-- EN:
+    <li>Subjek-> Pemanggilan Fleshbeast</li>
+    <li>Subject_story-> Baca buku tebal kuno tentang asal-usul kehidupan</li>
+    <li>Subject_story-> Generasi spontan langsung yang berpengalaman dalam boomrat Sahe</li>
+    <li>Subject_story-> Menonton film kuno tentang Fleshmelding dan terinspirasi</li>
+    <li>Subject_story-> Transfer Kesadaran dan Pemisahan yang dipelajari dalam penggabungan organik</li>
+    <li>Subject_story-> mengamati komunitas dirtmole yang telah bertemu binatang yang mengerikan di bawah tanah</li>
+    <li>Subject_gerund-> Memanggil Fleshbeasts</li>
+    <li>Subject_gerund-> melakukan ritual untuk memanggil Fleshbeasts</li>-><SummonFleshbeastsPlayer.generalRules.rulesStrings>
+    <li>Subjek-> Doa Carnibesties</li>
+    <li>Subjek_def-> dari doa Carnibesties</li>
+    <li>Subject_story-> Baca volume kuno tentang asal-usul kehidupan</li>
+    <li>Subject_story-> Tangan Pertama Generasi spontan di Sahe Ratabum</li>
+    <li>Subjek_story-> dia melihat film lama tentang Carnifusion dan terinspirasi</li>
+    <li>Subject_story-> mempelajari transfer kesadaran dan pemisahan dalam fusi organik</li>
+    <li>Subject_story-> mengamati komunitas topoterraries yang telah menemukan binatang yang mengerikan di bawah tanah</li>
+    <li>Subject_gerund-> Invoke the Carnibestias</li>
+    <li>Subject_gerund-> realizar un ritual para Invoke Carnibestias</li>
+  </SummonFleshbeastsPlayer.generalRules.rulesStrings>
+  
+  <!-- EN: provoke pit gate -->
+  <SummonPitGate.label>kekosongan</SummonPitGate.label>
+  <!-- EN: Perform a psychic ritual which causes underground fleshbeasts to open up a massive hole in the ground. The hole leads down to a fleshbeast-infested cavern which can be explored for resources. -->
+  <SummonPitGate.description>Dia melakukan ritual psikis yang menyebabkan Carnibesties bawah tanah membuka lubang besar di tanah.Lubang itu mengarah ke gua Carnibstia yang terinfestasi yang dapat dieksplorasi untuk mencari sumber daya.</SummonPitGate.description>
+  <!-- EN:
+    <li>Subjek-> Doa Gerbang Pit</li>
+    <li>Subject_story-> Infestations Fleshmeld yang diteliti</li>
+    <li>Subject_story-> Kisah Gestalt yang dikumpulkan</li>
+    <li>Subject_story-> Mengelola perpustakaan tebal-jas</li>
+    <li>Subject_story-> diresmikan dalam ritual subsidensi</li>
+    <li>Subject_gerund-> melakukan ritual untuk membuat gerbang pit</li>
+    <li>Subject_gerund-> Memanggil gerbang pit</li>-><SummonPitGate.generalRules.rulesStrings>
+    <li>Subjek-> Doa Lubang Vakum</li>
+    <li>Subject_def-> dari doa lubang vakum</li>
+    <li>Subject_story-> Infestasi Carnifusion yang dipelajari</li>
+    <li>Subject_story-> Mengumpulkan cerita dari organisme gestahious</li>
+    <li>Subjek_Story-> Mengelola Tomoteca dari Sekolah Ibadah Dunia Mati</li>
+    <li>Subject_story-> berkontribusi pada ritual tenggelam</li>
+    <li>Subjek gerund-> buat ritual untuk membuat kuburan vakum</li>
+    <li>Subject_gerund-> memohon kuburan vakum</li>
+  </SummonPitGate.generalRules.rulesStrings>
+  
+  <!-- EN: draw shamblers -->
+  <SummonShamblers.label>Menarik pejalan kaki</SummonShamblers.label>
+  <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
+  <SummonShamblers.description>Buat ritual psikis yang akan menarik gerombolan pejalan kaki.Meskipun bermusuhan, mayat -mayat itu tidak akan secara langsung menyerang koloni Anda.Mereka dapat ditangkap untuk dipelajari.</SummonShamblers.description>
+  <!-- EN:
+    <li>Subjek-> Ritual Pemanggilan DHAMBLER</li>
+    <li>Subject_story-> mempelajari necrocults of the deadworlds, dari keselamatan perpustakaan universitas</li>
+    <li>Subject_story-> Kisah-kisah yang dikumpulkan tentang serangan Shambler</li>
+    <li>Subject_story-> Formasi benang archite yang dipelajari pada organisme yang telah meninggal</li>
+    <li>Subject_story-> melihat segala macam hal aneh sebagai kurator deathworld</li>
+    <li>Subject_gerund-> Memanggil Shamblers</li>
+    <li>Subject_gerund-> Memanggil Shamblers melalui Ritual</li>-><SummonShamblers.generalRules.rulesStrings>
+    <li>Subjek-> Ritual Doa Pejalan Kaki</li>
+    <li>Subject_def-> dari ritual berjalan</li>
+    <li>Subjek_Story-> mempelajari Necrocults of the Dead Worlds, dari keamanan perpustakaan universitas</li>
+    <li>Subject_story-> Cerita yang disusun tentang serangan walker</li>
+    <li>Subject_story-> mempelajari pembentukan filamen arsitek pada organisme yang meninggal</li>
+    <li>Subject_story-> Dia melihat semua jenis hal-hal aneh seperti penyembuhan orang di dunia mati</li>
+    <li>Subjek_gerund-> memohon miring</li>
+    <li>Subject_gerund-> hubungi pejalan kaki melalui ritual</li>
+  </SummonShamblers.generalRules.rulesStrings>
+  
+  <!-- EN: void sculptures -->
+  <VoidSculptures.label>Patung vakum</VoidSculptures.label>
+  <!-- EN: Craft special void sculptures from bioferrite to enhance the quality of psychic rituals. -->
+  <VoidSculptures.description>Buat patung vakum khusus dengan bioferrita untuk meningkatkan kualitas ritual psikis.</VoidSculptures.description>
+  <!-- EN:
+    <li>Subjek-> Void Patung</li>
+    <li>Subjek-> Patung Bioferrite</li>
+    <li>Subject_story-> Ruang Kemungkinan Archotech Model Komputer</li>
+    <li>Subject_story-> dipekerjakan oleh Sibyl untuk memahat mimpinya</li>
+    <li>Subject_story-> ingin menghidupkan patung</li>
+    <li>Subject_story-> memimpikan lautan yang tak ada habisnya, dibentuk oleh tangan manusia</li>
+    <li>Subject_story-> Psikis kekaisaran yang diamati di tempat kerja</li>
+    <li>Subject_gerund-> memahat dengan bioferrite</li>
+    <li>Subject_gerund-> Crafting Bioferrite Ritual Patung</li>-><VoidSculptures.generalRules.rulesStrings>
+    <li>Subjek-> Patung Vakum</li>
+    <li>Subjek-> Patung Bioferrita</li>
+    <li>Subject_def-> dari patung vakum</li>
+    <li>Subject_def-> Patung Bioferrita</li>
+    <li>Subject_story-> mempelajari ruang arkeoteknik hipotetis yang dimodelkan oleh komputer</li>
+    <li>Subjek_story-> bekerja untuk sibila untuk memahat mimpinya</li>
+    <li>Subject_story-> berusaha memberikan kehidupan pada patung</li>
+    <li>Subject_story-> Mimpi Samudra Tak Terbatas, Pemodelan Dengan Tangan Manusia</li>
+    <li>Subject_story-> Psikis kekaisaran yang diamati</li>
+    <li>Subject_gerund-> memahat dengan bioferrita</li>
+    <li>Subjek gerund-> pembuatan patung bioferrita ritual</li>
+  </VoidSculptures.generalRules.rulesStrings>
+  
+</LanguageData>

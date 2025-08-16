@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biosculpter pleasure cycle -->
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>Siklus kesenangan bio -sculptor</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>
+  <!-- EN: Every part of me is somehow better at feeling good. -->
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>Setiap bagian dari saya, entah bagaimana, terasa lebih baik untuk menjadi baik.</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>
+  
+  <!-- EN: Gauranlen death -->
+  <ConnectedTreeDied.stages.Gauranlen_death.label>Kematian Gauranlen</ConnectedTreeDied.stages.Gauranlen_death.label>
+  <!-- EN: My tree... its calming presence became pure pain, then went silent. Its suffering echoes in my mind... -->
+  <ConnectedTreeDied.stages.Gauranlen_death.description>Pohon saya ... kehadirannya yang meyakinkan menjadi sakit murni, dan kemudian terdiam.Penderitaannya beresonansi dalam pikiran saya ...</ConnectedTreeDied.stages.Gauranlen_death.description>
+  
+  <!-- EN: dryad died -->
+  <DryadDied.stages.dryad_died.label>Dríada mati</DryadDied.stages.dryad_died.label>
+  <!-- EN: My tree's dryad is gone forever. You shall be missed, little one. -->
+  <DryadDied.stages.dryad_died.description>Dríada telah pergi selamanya.Kami akan merindukanmu, sedikit.</DryadDied.stages.dryad_died.description>
+  
+  <!-- EN: all relics collected -->
+  <RelicsCollected.stages.all_relics_collected.label>Semua peninggalan ditemukan</RelicsCollected.stages.all_relics_collected.label>
+  <!-- EN: We found all of our sacred relics! -->
+  <RelicsCollected.stages.all_relics_collected.description>Kami telah menemukan semua relik suci kami!</RelicsCollected.stages.all_relics_collected.description>
+  
+  <!-- EN: shared room with slave -->
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.label>Kamar dibagikan dengan budak</SleptInRoomWithSlave.stages.shared_room_with_slave.label>
+  <!-- EN: I had to sleep in the same room as a slave. -->
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.description>Saya harus tidur di kamar yang sama dengan budak.</SleptInRoomWithSlave.stages.shared_room_with_slave.description>
+  
+  <!-- EN: was enslaved -->
+  <WasEnslaved.stages.was_enslaved.label>Apakah itu diperbudak {Pawn_gender?O: A}</WasEnslaved.stages.was_enslaved.label>
+  <!-- EN: They kept me as a slave. They forced me to suffer! -->
+  <WasEnslaved.stages.was_enslaved.description>Mereka menjadikan saya sebagai budak {Pawn_gender?O: A}.Mereka memaksa saya untuk menderita.</WasEnslaved.stages.was_enslaved.description>
+  
+</LanguageData>

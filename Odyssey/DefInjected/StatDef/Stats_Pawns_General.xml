@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fishing speed -->
+  <FishingSpeed.label>Kecepatan memancing</FishingSpeed.label>
+  <!-- EN: The speed at which this person catches fish. -->
+  <FishingSpeed.description>Kecepatan di mana orang ini menangkap ikan.</FishingSpeed.description>
+  
+  <!-- EN: fishing yield -->
+  <FishingYield.label>Kinerja memancing</FishingYield.label>
+  <!-- EN: The percentage yield this person receives when they fish. -->
+  <FishingYield.description>Persentase kinerja yang diterima orang ini saat memancing.</FishingYield.description>
+  
+  <!-- EN: piloting ability -->
+  <PilotingAbility.label>Keterampilan pilot</PilotingAbility.label>
+  <!-- EN: How well this person can pilot a vehicle. -->
+  <PilotingAbility.description>Seberapa baik orang ini dapat mengemudikan kendaraan.</PilotingAbility.description>
+  
+  <!-- EN: vacuum resistance -->
+  <VacuumResistance.label>resistensi vakum</VacuumResistance.label>
+  <!-- EN: How resistant this creature is to the negative effects of the vacuum of space. -->
+  <VacuumResistance.description>Seberapa tahan makhluk ini untuk efek negatif dari kekosongan ruang.</VacuumResistance.description>
+  
+</LanguageData>

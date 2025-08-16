@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient ammo box -->
+  <AncientAmmoStack.label>Kotak Amunisi Lama</AncientAmmoStack.label>
+  <!-- EN: A container of ancient ammunition. It's empty and any remaining rounds are corroded to uselessness. -->
+  <AncientAmmoStack.description>Wadah amunisi kuno.Itu kosong dan peluru yang tersisa terkorosi dan tidak dapat digunakan.</AncientAmmoStack.description>
+  
+  <!-- EN: ancient antenna -->
+  <AncientAntenna.label>Antena kuno</AncientAntenna.label>
+  <!-- EN: A rusted antenna used to transmit long-forgotten communications. -->
+  <AncientAntenna.description>Antena teroksidasi yang digunakan untuk mengirimkan komunikasi yang lama dilupakan.</AncientAntenna.description>
+  
+  <!-- EN: ancient armchair -->
+  <AncientArmchair.label>Lengan kuno</AncientArmchair.label>
+  <!-- EN: A faded and torn armchair. It's unusable in its current state. -->
+  <AncientArmchair.description>Lengan yang pudar dan robek.Itu tidak dapat digunakan dalam keadaan saat ini.</AncientArmchair.description>
+  
+  <!-- EN: broken autocannon turret -->
+  <AncientAutocannonTurret.label>Rota Autochañón Torreta</AncientAutocannonTurret.label>
+  <!-- EN: An autocannon turret with a shattered barrel. The targeting system is missing and all the components are rusted and bent to uselessness. -->
+  <AncientAutocannonTurret.description>Menara jalan raya dengan meriam yang hancur.Sistem AIM hilang dan semua komponen teroksidasi dan dilipat, tidak berguna.</AncientAutocannonTurret.description>
+  
+  <!-- EN: large concrete barrier -->
+  <AncientBarrierLong.label>Penghalang beton besar</AncientBarrierLong.label>
+  <!-- EN: A concrete barrier used to block the path of vehicles. -->
+  <AncientBarrierLong.description>Penghalang beton yang digunakan untuk memblokir lewatnya kendaraan.</AncientBarrierLong.description>
+  
+  <!-- EN: cracked bathtub -->
+  <AncientBathtub.label>mandi retak</AncientBathtub.label>
+  <!-- EN: A bathtub with deep cracks and rust stains. It's completely unusable. -->
+  <AncientBathtub.description>Bak mandi dengan retakan dalam dan bintik -bintik oksida.Ini benar -benar tidak dapat digunakan.</AncientBathtub.description>
+  
+  <!-- EN: old cardboard box -->
+  <AncientCardboardBox.label>Kotak kardus tua</AncientCardboardBox.label>
+  <!-- EN: An soggy cardboard box filled with old detritus. -->
+  <AncientCardboardBox.description>Kotak kardus basah penuh kematian lama.</AncientCardboardBox.description>
+  
+  <!-- EN: ancient chembarrel -->
+  <AncientChembarrel.label>Barrel Biofuel Kuno</AncientChembarrel.label>
+  <!-- EN: A rusted barrel that once stored chemfuel. It's empty and corroded. -->
+  <AncientChembarrel.description>Laras berkarat yang pernah menyimpan biofuel.Itu kosong dan terkorosi.</AncientChembarrel.description>
+  
+  <!-- EN: ancient chembarrel pallet -->
+  <AncientChembarrelPallet.label>Barel biofuel kuno</AncientChembarrelPallet.label>
+  <!-- EN: A stack of rusted barrels on a decayed pallet. Any valuable fuel leaked out long ago. -->
+  <AncientChembarrelPallet.description>Tumpukan barel berkarat pada palet dekomposisi.Bahan bakar yang berharga sudah bocor sejak lama.</AncientChembarrelPallet.description>
+  
+  <!-- EN: ancient chemtruck -->
+  <AncientChemtruck.label>truk biofuel tua</AncientChemtruck.label>
+  <!-- EN: An abandoned chemfuel transport truck. Any usable parts were looted long ago. -->
+  <AncientChemtruck.description>Truk pengangkut biofuel yang ditinggalkan.Setiap bagian yang dapat digunakan dijarah sejak lama.</AncientChemtruck.description>
+  
+  <!-- EN: ancient cold storage -->
+  <AncientColdStorage.label>Gudang Dingin Kuno</AncientColdStorage.label>
+  <!-- EN: An old refrigeration unit, now rusted shut. Any contents have long since decayed to dust. -->
+  <AncientColdStorage.description>Unit pendingin lama, sekarang teroksidasi dan tertutup.Konten apa pun memiliki bubuk terurai sejak lama.</AncientColdStorage.description>
+  
+  <!-- EN: ruined crane arm -->
+  <AncientCraneArm.label>Lengan derek yang hancur</AncientCraneArm.label>
+  <!-- EN: A rusted crane arm, twisted and broken. -->
+  <AncientCraneArm.description>Lengan crane yang teroksidasi, bengkok, dan rusak.</AncientCraneArm.description>
+  
+  <!-- EN: ruined crane arm -->
+  <AncientCraneArmSmall.label>Lengan crane kecil hancur</AncientCraneArmSmall.label>
+  <!-- EN: A smaller chunk of a crane arm, snapped and rusted. -->
+  <AncientCraneArmSmall.description>Sepotong lengan derek yang lebih kecil, patah dan berkarat.</AncientCraneArmSmall.description>
+  
+  <!-- EN: ruined crane base -->
+  <AncientCraneBase.label>Basis derek yang hancur</AncientCraneBase.label>
+  <!-- EN: The base of a large industrial crane. -->
+  <AncientCraneBase.description>Dasar dari derek industri besar.</AncientCraneBase.description>
+  
+  <!-- EN: ruined crane column -->
+  <AncientCraneColumn.label>Kolom derek yang hancur</AncientCraneColumn.label>
+  <!-- EN: A vertical support column from a ruined crane. It's rusted and no longer stable. -->
+  <AncientCraneColumn.description>Kolom dukungan vertikal dari derek yang hancur.Ini teroksidasi dan tidak lagi stabil.</AncientCraneColumn.description>
+  
+  <!-- EN: ancient crate pallet -->
+  <AncientCratePallet.label>Palé dari kotak tua</AncientCratePallet.label>
+  <!-- EN: A pallet for stacking and transporting crates. The contents have been scavenged long ago. -->
+  <AncientCratePallet.description>Palet untuk menumpuk dan mengangkut kotak.Isi telah dijarah sejak lama.</AncientCratePallet.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <AncientDestroyedConsole.label>Konsol yang hancur kuno</AncientDestroyedConsole.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <AncientDestroyedConsole.description>Konsol yang hancur.Sekarang benar -benar tidak bisa dioperasikan.Bagian -bagiannya yang dapat digunakan rusak atau dijarah sejak lama.</AncientDestroyedConsole.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <AncientDestroyedConsoleLarge.label>Konsol besar yang hancur kuno</AncientDestroyedConsoleLarge.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <AncientDestroyedConsoleLarge.description>Konsol yang hancur.Sekarang benar -benar tidak bisa dioperasikan.Bagian -bagiannya yang dapat digunakan rusak atau dijarah sejak lama.</AncientDestroyedConsoleLarge.description>
+  
+  <!-- EN: rusted double bed -->
+  <AncientDoubleBed.label>Tempat tidur teroksidasi ganda</AncientDoubleBed.label>
+  <!-- EN: A double bed with a sagging, rusted frame. It's better than sleeping on the ground, but just barely. -->
+  <AncientDoubleBed.description>Tempat tidur ganda dengan bingkai yang lembek dan berkarat.Itu lebih baik daripada tidur di lantai, tetapi hanya sedikit.</AncientDoubleBed.description>
+  
+  <!-- EN: ancient drill rig -->
+  <AncientDrillPlatform.label>Platform Pengeboran Lama</AncientDrillPlatform.label>
+  <!-- EN: A device meant for drilling deep into the earth. Any valuable parts were looted long ago. -->
+  <AncientDrillPlatform.description>Sebuah platform yang ditujukan untuk mengebor dalam bumi.Setiap bagian yang berharga dijarah sejak lama.</AncientDrillPlatform.description>
+  
+  <!-- EN: ancient excavator -->
+  <AncientExcavator.label>Excavator kuno</AncientExcavator.label>
+  <!-- EN: The remains of a mining vehicle. The valuable parts were looted long ago. -->
+  <AncientExcavator.description>Sisa -sisa kendaraan penambangan.Bagian -bagian yang berharga dijarah sejak lama.</AncientExcavator.description>
+  
+  <!-- EN: rusted filing cabinet -->
+  <AncientFilingCabinet.label>Pengajuan teroksidasi</AncientFilingCabinet.label>
+  <!-- EN: A corroded filing cabinet. There's nothing useful left inside. -->
+  <AncientFilingCabinet.description>Pengisi yang berkarat.Tidak ada yang berguna di dalamnya.</AncientFilingCabinet.description>
+  
+  <!-- EN: ruined forklift -->
+  <AncientForklift.label>Forklift yang hancur</AncientForklift.label>
+  <!-- EN: A broken forklift, rusted and missing parts. It's far too damaged to be repaired. -->
+  <AncientForklift.description>Bagian yang rusak, teroksidasi dan hilang.Terlalu rusak untuk diperbaiki.</AncientForklift.description>
+  
+  <!-- EN: ancient industrial shelf -->
+  <AncientIndustrialShelf.label>Rak industri kuno</AncientIndustrialShelf.label>
+  <!-- EN: An industrial shelf covered in rust. It offers nothing of value. -->
+  <AncientIndustrialShelf.description>Rak industri ditutupi dengan oksida.Ini tidak menawarkan nilai apa pun.</AncientIndustrialShelf.description>
+  
+  <!-- EN: rusted industrial truck -->
+  <AncientIndustrialTruck.label>truk industri teroksidasi</AncientIndustrialTruck.label>
+  <!-- EN: An industrial truck, heavily rusted and abandoned. The engine is beyond repair. -->
+  <AncientIndustrialTruck.description>Truk industri, sangat teroksidasi dan ditinggalkan.Mesinnya tidak dapat diperbaiki.</AncientIndustrialTruck.description>
+  
+  <!-- EN: rusted lockers -->
+  <AncientLockers.label>Kantor tiket berkarat</AncientLockers.label>
+  <!-- EN: A set of metal lockers, heavily rusted and bent. They've been thoroughly looted. -->
+  <AncientLockers.description>Satu set kantor tiket logam, sangat teroksidasi dan dilipat.Mereka telah benar -benar dijarah.</AncientLockers.description>
+  
+  <!-- EN: ancient container -->
+  <AncientMediumContainer.label>wadah medium lama</AncientMediumContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <AncientMediumContainer.description>Wadah pengiriman berkarat.Itu benar -benar kosong.</AncientMediumContainer.description>
+  
+  <!-- EN: rusted metal crate -->
+  <AncientMetalCrate.label>kotak logam teroksidasi</AncientMetalCrate.label>
+  <!-- EN: A metal crate, now rusted shut. It's empty and worthless. -->
+  <AncientMetalCrate.description>Kotak logam, sekarang teroksidasi dan tertutup.Itu kosong dan tidak berguna.</AncientMetalCrate.description>
+  
+  <!-- EN: ancient military barrier -->
+  <AncientMilitaryBarrier.label>Penghalang Militer Kuno</AncientMilitaryBarrier.label>
+  <!-- EN: A concrete barrier once used for military roadblocks. -->
+  <AncientMilitaryBarrier.description>Penghalang beton yang digunakan sekali untuk penyumbatan militer.</AncientMilitaryBarrier.description>
+  
+  <!-- EN: ancient military generator -->
+  <AncientMilitaryGeneratorSmall.label>Generator militer kecil kuno</AncientMilitaryGeneratorSmall.label>
+  <!-- EN: A small rusted generator. The fuel tank is empty and the engine is beyond repair. -->
+  <AncientMilitaryGeneratorSmall.description>Generator teroksidasi kecil.Tangki bahan bakar kosong dan mesinnya tidak dapat diperbaiki.</AncientMilitaryGeneratorSmall.description>
+  
+  <!-- EN: busted mortar -->
+  <AncientMortar.label>Interior Mortero</AncientMortar.label>
+  <!-- EN: A shattered mortar emplacement. It's smashed and will never work again. -->
+  <AncientMortar.description>Penghancuran mortir yang hancur.Itu hancur dan tidak akan pernah berhasil lagi.</AncientMortar.description>
+  
+  <!-- EN: rusted open container -->
+  <AncientOpenContainer.label>Buka wadah terbuka</AncientOpenContainer.label>
+  <!-- EN: A rusted shipping container. Its contents are worthless. -->
+  <AncientOpenContainer.description>Wadah pengiriman berkarat.Kontennya tidak memiliki nilai.</AncientOpenContainer.description>
+  
+  <!-- EN: ancient pipe -->
+  <AncientPipe.label>Pipa kuno</AncientPipe.label>
+  <!-- EN: A segment of old corroded piping. -->
+  <AncientPipe.description>Segmen Pipa Corroid Lama.</AncientPipe.description>
+  
+  <!-- EN: ancient plant pot -->
+  <AncientPlantPot.label>pot tua</AncientPlantPot.label>
+  <!-- EN: A large cracked pot with dead soil. Nothing can grow here any more. -->
+  <AncientPlantPot.description>Pot besar yang ditandatangani dengan tanah mati.Tidak ada yang bisa tumbuh di sini lagi.</AncientPlantPot.description>
+  
+  <!-- EN: rusted microwave -->
+  <AncientRustedMicrowave.label>microwave teroksidasi</AncientRustedMicrowave.label>
+  <!-- EN: An ancient microwave covered in rust. It's beyond repair. -->
+  <AncientRustedMicrowave.description>Microwave tua ditutupi dengan oksida.Itu tidak dapat diperbaiki.</AncientRustedMicrowave.description>
+  
+  <!-- EN: ancient shelf -->
+  <AncientShelf.label>Rak kuno</AncientShelf.label>
+  <!-- EN: An ancient shelf. It holds nothing of interest. -->
+  <AncientShelf.description>Rak kuno.Itu tidak mengandung minat.</AncientShelf.description>
+  
+  <!-- EN: cracked shower -->
+  <AncientShower.label>mandi retak</AncientShower.label>
+  <!-- EN: A broken shower stall. The plumbing is corroded and the ceramics are shattered. -->
+  <AncientShower.description>Kabin mandi yang rusak.Plumbing terkorosi dan keramiknya dihancurkan.</AncientShower.description>
+  
+  <!-- EN: ancient research bench -->
+  <AncientSimpleResearchBench.label>Bank Penelitian Lama</AncientSimpleResearchBench.label>
+  <!-- EN: An old, rudimentary research bench with corroded tools and faded notes. Nothing of value remains. -->
+  <AncientSimpleResearchBench.description>Sebuah bank penelitian yang belum sempurna dengan alat yang terkorosi dan catatan usang.Tidak ada nilai.</AncientSimpleResearchBench.description>
+  
+  <!-- EN: rusted bed -->
+  <AncientSingleBed.label>tempat tidur teroksidasi</AncientSingleBed.label>
+  <!-- EN: A single bed frame with rusted metal and a torn mattress. It's better than sleeping on the ground, but just barely. -->
+  <AncientSingleBed.description>Bingkai tempat tidur individu dengan logam teroksidasi dan kasur yang robek.Itu lebih baik daripada tidur di lantai, tetapi hanya sedikit.</AncientSingleBed.description>
+  
+  <!-- EN: ancient container -->
+  <AncientSmallContainer.label>Wadah kecil kuno</AncientSmallContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <AncientSmallContainer.description>Wadah pengiriman berkarat.Itu benar -benar kosong.</AncientSmallContainer.description>
+  
+  <!-- EN: ancient small shelf -->
+  <AncientSmallShelf.label>Rak kecil kuno</AncientSmallShelf.label>
+  <!-- EN: An ancient shelf. There's nothing useful left on it. -->
+  <AncientSmallShelf.description>Rak kuno.Tidak ada yang berguna di dalamnya.</AncientSmallShelf.description>
+  
+  <!-- EN: ancient brewery -->
+  <AncientTableBrewery.label>Tempat pembuatan bir kuno</AncientTableBrewery.label>
+  <!-- EN: A dilapidated brewing table once used for fermentation. The equipment is rusted beyond use. -->
+  <AncientTableBrewery.description>Meja tempat pembuatan bir bobrok yang pernah digunakan untuk fermentasi.Peralatan dioksidasi di luar penggunaannya.</AncientTableBrewery.description>
+  
+  <!-- EN: ancient butcher table -->
+  <AncientTableButcher.label>Meja Tombol Lama</AncientTableButcher.label>
+  <!-- EN: A broken butcher's table littered with old stains. -->
+  <AncientTableButcher.description>Meja daging yang rusak penuh dengan bintik -bintik lama.</AncientTableButcher.description>
+  
+  <!-- EN: ancient drug lab -->
+  <AncientTableDrugLab.label>Laboratorium Obat Tua</AncientTableDrugLab.label>
+  <!-- EN: A crumbling lab table with shattered glassware. The equipment is useless and contaminated. -->
+  <AncientTableDrugLab.description>Meja laboratorium terlipat dengan barang pecah belah yang rusak.Tim tidak berguna dan terkontaminasi.</AncientTableDrugLab.description>
+  
+  <!-- EN: ancient machining table -->
+  <AncientTableMachining.label>Meja Pemesinan Lama</AncientTableMachining.label>
+  <!-- EN: A rusted machining table covered in debris. All useful parts have been scavenged. -->
+  <AncientTableMachining.description>Tabel pemesinan teroksidasi ditutupi dengan puing -puing.Semua bagian yang bermanfaat telah dipulihkan.</AncientTableMachining.description>
+  
+  <!-- EN: ancient electric smithy -->
+  <AncientTableSmithingElectric.label>Forge Listrik Kuno</AncientTableSmithingElectric.label>
+  <!-- EN: A ruined electric smithy with frayed wires and scorched surfaces. It's beyond repair. -->
+  <AncientTableSmithingElectric.description>Pengkekian listrik dalam kondisi buruk dengan kabel berjumbai dan permukaan chamuscaded.Terlalu rusak untuk digunakan.</AncientTableSmithingElectric.description>
+  
+  <!-- EN: ancient fueled smithy -->
+  <AncientTableSmithingFueled.label>Forge bakar lama</AncientTableSmithingFueled.label>
+  <!-- EN: An ancient smithy that once burned fuel for crafting. Now, it's covered in soot and rust. -->
+  <AncientTableSmithingFueled.description>Sebuah bengkel tua yang menggunakan bahan bakar untuk mengerjakan logam.Sekarang ditutupi dengan jelaga dan oksida.</AncientTableSmithingFueled.description>
+  
+  <!-- EN: ancient electric stove -->
+  <AncientTableStoveElectric.label>Dapur Listrik Kuno</AncientTableStoveElectric.label>
+  <!-- EN: An old electric stove with shattered heating elements. It's far too damaged to use. -->
+  <AncientTableStoveElectric.description>Dapur listrik tua dengan elemen pemanas yang rusak.Terlalu rusak untuk digunakan.</AncientTableStoveElectric.description>
+  
+  <!-- EN: ancient fueled stove -->
+  <AncientTableStoveFueled.label>Dapur Bahan Bakar Tua</AncientTableStoveFueled.label>
+  <!-- EN: A rusted cooking stove. It's beyond unusable. -->
+  <AncientTableStoveFueled.description>Dapur teroksidasi.Ini benar -benar tidak dapat digunakan.</AncientTableStoveFueled.description>
+  
+  <!-- EN: ancient electric tailor bench -->
+  <AncientTableTailorElectric.label>Meja penjahit listrik kuno</AncientTableTailorElectric.label>
+  <!-- EN: A ruined tailor's bench with torn fabric and broken tools. It's beyond salvage. -->
+  <AncientTableTailorElectric.description>Bank menjahit yang hancur dengan kain yang robek dan alat yang rusak.Itu tidak dapat dipulihkan.</AncientTableTailorElectric.description>
+  
+  <!-- EN: ancient hand tailor bench -->
+  <AncientTableTailorHand.label>Meja penjahit manual lama</AncientTableTailorHand.label>
+  <!-- EN: A simple tailor's bench with splintered wood and rusted needles. Nothing useful remains. -->
+  <AncientTableTailorHand.description>Meja menjahit sederhana dengan kayu galangan kapal dan jarum berkarat.Tidak ada yang berguna.</AncientTableTailorHand.description>
+  
+  <!-- EN: ancient tunneler claw -->
+  <AncientTunnelerClaw.label>Cakar Tunnelador Tua</AncientTunnelerClaw.label>
+  <!-- EN: The claw of an ancient mining mechanoid. All the parts are degraded to uselessness. -->
+  <AncientTunnelerClaw.description>Cakar Menero penambangan tua.Semua bagian terdegradasi dan tidak berguna.</AncientTunnelerClaw.description>
+  
+  <!-- EN: ancient tunneler husk -->
+  <AncientTunnelerHusk.label>Shell Tunnelador Tua</AncientTunnelerHusk.label>
+  <!-- EN: The remains of an ancient mining mechanoid. Its complex parts are all degraded to uselessness. -->
+  <AncientTunnelerHusk.description>Sisa -sisa mekanoid penambangan lama.Bagian -bagiannya yang kompleks semuanya terdegradasi dan tidak berguna.</AncientTunnelerHusk.description>
+  
+  <!-- EN: busted television -->
+  <AncientTV.label>Televisi yang rusak</AncientTV.label>
+  <!-- EN: A shattered television set. The screen is broken and the electronics are stripped out. -->
+  <AncientTV.description>Televisi yang hancur.Layar rusak dan elektronik telah dihapus.</AncientTV.description>
+  
+  <!-- EN: broken uranium slug turret -->
+  <AncientUraniumSlugTurret.label>Rota Uranium torreta</AncientUraniumSlugTurret.label>
+  <!-- EN: A heavy turret designed to fire uranium slugs. The mechanism is smashed and the ammo is depleted. -->
+  <AncientUraniumSlugTurret.description>Menara berat yang dirancang untuk memotret proyektil uranium.Mekanisme hancur dan amunisi habis.</AncientUraniumSlugTurret.description>
+  
+  <!-- EN: ancient wind turbine -->
+  <AncientWindTurbineBody.label>Airbin kuno</AncientWindTurbineBody.label>
+  <!-- EN: A toppled wind turbine with broken blades. It's been scavenged for parts long ago. -->
+  <AncientWindTurbineBody.description>Airbone yang diikat dengan udara dengan bilah yang rusak.Telah dijarah dengan potongan -potongan sejak lama.</AncientWindTurbineBody.description>
+  
+  <!-- EN: old wooden crate -->
+  <AncientWoodenCrate.label>Kotak kayu tua</AncientWoodenCrate.label>
+  <!-- EN: A weathered wooden crate. It's empty, and the wood is brittle. -->
+  <AncientWoodenCrate.description>Kotak kayu yang usang.Itu kosong, dan kayunya rapuh.</AncientWoodenCrate.description>
+  
+  <!-- EN: rubble pile -->
+  <RubblePile.label>baterai puing -puing</RubblePile.label>
+  <!-- EN: The crumbled remains of an ancient structure. -->
+  <RubblePile.description>Sisa -sisa struktur kuno yang hancur.</RubblePile.description>
+  
+</LanguageData>

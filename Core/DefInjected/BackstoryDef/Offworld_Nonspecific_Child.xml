@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.description>Anak-anak sering dianggap tidak bersalah dan mungkin ideal sebagai mata-mata. [PAWN_namaDef] dilatih dalam seni infiltrasi dan pengumpulan intelijen ketika [PAWN_kata ganti] masih sangat muda. Bertahun-tahun berada di belakang garis musuh dan kehancuran dunia asalnya di masa perang membuat [PAWN_tujuan] tidak memiliki banyak kesempatan untuk mendapatkan pendidikan.</ChildSpy47.description>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>ditemukan</ChildSpy47.title>
+  <ChildSpy47.titleFemale>ditemukan</ChildSpy47.titleFemale>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>mata-mata</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>mata-mata</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.description>[PAWN_namaDef] terkenal {PAWN_jenis_kelamin ? atau : a} di dunia asalnya sebagai seorang anak {PAWN_jenis_kelamin ? aktor : aktris} dalam film dan serial televisi. Ketenaran [PAWN_objective] membawanya ke dalam kontak dengan banyak orang yang berbeda, tetapi juga menghalangi pendidikannya.</ChildStar74.description>
+  <!-- EN: child star -->
+  <ChildStar74.title>bintang anak</ChildStar74.title>
+  <ChildStar74.titleFemale>bintang anak</ChildStar74.titleFemale>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>Bintang</ChildStar74.titleShort>
+  <ChildStar74.titleShortFemale>Bintang</ChildStar74.titleShortFemale>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.description>Kecelakaan anak -anak membuat [Pawn_namapagram] dalam keadaan koma.</ComaChild93.description>
+  <!-- EN: coma child -->
+  <ComaChild93.title>anak dalam koma</ComaChild93.title>
+  <ComaChild93.titleFemale>anak dalam koma</ComaChild93.titleFemale>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>anak dalam koma</ComaChild93.titleShort>
+  <ComaChild93.titleShortFemale>anak dalam koma</ComaChild93.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.description>[PAWN_nameDef] lahir di bawah kekuasaan kultus yang kuat yang membenci teknologi dan percaya bahwa semua penyakit dapat disembuhkan dengan membersihkan jiwa dengan seni sakral. Setelah melihat dunia luar untuk pertama kalinya, dia memutuskan untuk melarikan diri.</CultChild3.description>
+  <!-- EN: cult child -->
+  <CultChild3.title>kultus</CultChild3.title>
+  <CultChild3.titleFemale>kultus</CultChild3.titleFemale>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>kultus</CultChild3.titleShort>
+  <CultChild3.titleShortFemale>kultus</CultChild3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.description>[PAWN_NamaDef] tumbuh dengan daftar panjang fobia dan neurosis. [PAWN_kata ganti] takut, antara lain, dokter dan penyakit yang ditularkan melalui makanan. Akibatnya, [PAWN_kata ganti] belajar memasak dan merawat dirinya sendiri dengan baik, namun banyak dari fobia [PAWN_tujuan] yang terus menghantui dirinya di masa dewasa.</FrightenedChild43.description>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>anak yang ketakutan</FrightenedChild43.title>
+  <FrightenedChild43.titleFemale>gadis yang ketakutan</FrightenedChild43.titleFemale>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>takut</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>takut</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.description>[PAWN_namaDef] lahir pada masa perang yang dahsyat dimana kedua belah pihak menggunakan napalm secara intensif. [PAWN_nama_keluarga] tumbuh besar dengan membantu orang tuanya di sebuah rumah sakit, mengobati luka bakar yang mengerikan dari medan perang. Akibatnya, ia mengembangkan fobia terhadap api.</MedicalAssistant12.description>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>bantuan medis</MedicalAssistant12.title>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>dokter</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.description>Sebagai seorang anak {PAWN_jenis kelamin ? atau : a}, [PAWN_namaDef] memiliki bakat bermain alat musik dan bernyanyi. [PAWN_kata ganti] sangat terlatih dan senang tampil dalam resital dan konser, meskipun penghargaan yang diterimanya membuatnya sedikit terobsesi</MusicalKid86.description>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>musisi anak</MusicalKid86.title>
+  <MusicalKid86.titleFemale>musisi anak</MusicalKid86.titleFemale>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>musisi</MusicalKid86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.description>[PAWN_namaDef] terpengaruh {PAWN_jenis_kelamin ? atau : a} sejak usia yang sangat muda oleh peristiwa traumatis. Selama bertahun-tahun, [PAWN_kata ganti] menolak untuk berbicara dengan orang lain, dan lebih memilih untuk bermain dengan banyak hewan peliharaan di rumahnya.</Mute34.description>
+  <!-- EN: mute -->
+  <Mute34.title>bisu</Mute34.title>
+  <Mute34.titleFemale>Waktu</Mute34.titleFemale>
+  <!-- EN: mute -->
+  <Mute34.titleShort>bisu</Mute34.titleShort>
+  <Mute34.titleShortFemale>Waktu</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.description>[dibesarkan di sebuah peternakan organ tubuh manusia yang ilegal. Tubuhnya digunakan untuk memproduksi organ implan bagi tentara bayaran yang terluka dalam pertempuran. Meskipun masa kecilnya sangat mengerikan, namun hal itu juga memberinya pemahaman yang unik tentang biologi manusia.</OrganFarm67.description>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>organ pemanen</OrganFarm67.title>
+  <OrganFarm67.titleFemale>organ pemanen</OrganFarm67.titleFemale>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>organ pemanen</OrganFarm67.titleShort>
+  <OrganFarm67.titleShortFemale>organ pemanen</OrganFarm67.titleShortFemale>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.description>Sejak usia yang sangat muda, [PAWN_NamaDef] memiliki ketertarikan yang tidak sehat terhadap api. Dia biasa menyalakan tumpukan sampah dan menjadi begitu asyik dengan tontonan itu sehingga terkadang dia tidak sengaja membakar dirinya sendiri.</Pyromaniac18.description>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>Pyromaniac</Pyromaniac18.title>
+  <Pyromaniac18.titleFemale>Pyromaniac</Pyromaniac18.titleFemale>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>pembakar</Pyromaniac18.titleShort>
+  <Pyromaniac18.titleShortFemale>Pyromaniac</Pyromaniac18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.description>Ibu [PAWN_NamaDef] sering sakit, dan dia ditugaskan untuk menjalankan toko, yang merupakan satu-satunya sumber pendapatannya. [PAWN_NamaPronominal] belajar sedikit tentang artefak eksotis yang dijualnya, dan banyak tentang seni negosiasi.</ShopKid36.description>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>ANAK TENDA</ShopKid36.title>
+  <ShopKid36.titleFemale>gadis toko</ShopKid36.titleFemale>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>ANAK TENDA</ShopKid36.titleShort>
+  <ShopKid36.titleShortFemale>gadis toko</ShopKid36.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.description>Sebagai seorang anak, [PAWN_nameDef] menderita penyakit langka. Dikarantina di rumah sakit penelitian, isolasi yang dialaminya membuat dia hanya memiliki sedikit kontak dengan manusia dan sedikit aktivitas fisik, sehingga dia tidak berolahraga sama sekali. Namun, di lingkungan yang steril itu, [PAWN_NamaPengganti] menjadi akrab dengan ilmu pengetahuan dan kedokteran.</SicklyChild55.description>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>anak yang sakit-sakitan</SicklyChild55.title>
+  <SicklyChild55.titleFemale>anak yang sakit-sakitan</SicklyChild55.titleFemale>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>pasien</SicklyChild55.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.description>Sebagai seorang anak, [PAWN_namaDef] kecanduan {PAWN_jenis kelamin ? atau : a} membaca. Dia akan menghabiskan waktu seharian di perpustakaan kota dengan hidungnya terjebak dalam buku. Ketika pemotongan anggaran memaksa perpustakaan ditutup, [PAWN_namaDef] sangat terpukul. Dia memutuskan untuk mengisi kekosongan dengan menulis ceritanya sendiri.</StoryWriter67.description>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>penulis cerita</StoryWriter67.title>
+  <StoryWriter67.titleFemale>penulis cerita</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>penulis</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>penulis</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.description>[PAWN_nameDef] tidak diciptakan sebagai manusia, tetapi sebagai alat pemusnah. Dia lahir di fasilitas senjata biologis dan belajar bertempur selama pertumbuhannya yang cepat. Dia masih memiliki fasilitas untuk segala jenis pertempuran dan tidak menyukai kontak dengan manusia.</VatgrownSoldier8.description>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>tentara buatan</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>buatan</VatgrownSoldier8.titleShort>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.description>Perang pecah di rumah [PAWN_namaDef] dalam beberapa jam setelah kelahirannya. Orang tuanya melarikan diri dengan [PAWN_nama_def], mencari tempat yang aman di mana pun mereka bisa menemukannya. Kenangan awal [PAWN_nama_def] adalah ketika ia diajarkan untuk membela diri. Kekerasan dan kehancuran yang ia saksikan membuatnya terluka seumur hidup.</WarRefugee51.description>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>pengungsi perang</WarRefugee51.title>
+  <WarRefugee51.titleFemale>pengungsi perang</WarRefugee51.titleFemale>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>pengungsi</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>pengungsi</WarRefugee51.titleShortFemale>
+  
+</LanguageData>

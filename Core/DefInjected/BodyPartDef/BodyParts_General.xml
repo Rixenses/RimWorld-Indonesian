@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brain -->
+  <Brain.label>otak</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>telinga</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>mata</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>mengais</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>kepala</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>rahang</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>mengais</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>kerah</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>hidung</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>iga</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>tengkorak</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>tulang belakang</Spine.label>
+  
+  <!-- EN: tongue -->
+  <Tongue.label>bahasa</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>senang</Tongue.removeRecipeLabelOverride>
+  
+</LanguageData>

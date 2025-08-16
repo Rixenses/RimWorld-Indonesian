@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
+  <Assembler69.description>[Pawn_namedef] bekerja di jalur perakitan pabrik, mengumpulkan produk dengan bantuan robot.</Assembler69.description>
+  <!-- EN: assembler -->
+  <Assembler69.title>assembler</Assembler69.title>
+  <Assembler69.titleFemale>perakitan</Assembler69.titleFemale>
+  <!-- EN: assembler -->
+  <Assembler69.titleShort>assembler</Assembler69.titleShort>
+  <Assembler69.titleShortFemale>perakitan</Assembler69.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
+  <BalletDancer81.description>[Pawn_namedef] Apakah {Pawn_gender?Seorang penari: seorang penari} di perusahaan balet tradisional, di mana ia mendominasi gerakan lama dan menghibur ribuan.</BalletDancer81.description>
+  <!-- EN: ballet dancer -->
+  <BalletDancer81.title>Penari balet</BalletDancer81.title>
+  <BalletDancer81.titleFemale>Penari balet</BalletDancer81.titleFemale>
+  <!-- EN: dancer -->
+  <BalletDancer81.titleShort>penari</BalletDancer81.titleShort>
+  <!-- EN: ballerina -->
+  <BalletDancer81.titleShortFemale>penari balet</BalletDancer81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked on construction sites, building everyday structures according to [PAWN_possessive] boss' instructions. -->
+  <Builder96.description>[Pawn_namedef] bekerja di lokasi konstruksi, membangun struktur sehari -hari sesuai dengan instruksi bos Anda.</Builder96.description>
+  <!-- EN: builder -->
+  <Builder96.title>konstruktor</Builder96.title>
+  <Builder96.titleFemale>Konstruktor</Builder96.titleFemale>
+  <!-- EN: builder -->
+  <Builder96.titleShort>konstruktor</Builder96.titleShort>
+  <Builder96.titleShortFemale>Konstruktor</Builder96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
+  <ChurchPsychic98.description>[Pawn_namedef] Apakah psikis {pawn_gender?O: A} di Gereja Sekolah Imperial Psikis. Itu adalah cara menyentuh semangat kekaisaran.Itu juga cara untuk memberantas tren sesat dalam pemikiran.</ChurchPsychic98.description>
+  <!-- EN: church psychic -->
+  <ChurchPsychic98.title>Psikis Gereja</ChurchPsychic98.title>
+  <ChurchPsychic98.titleFemale>Psikis Gereja</ChurchPsychic98.titleFemale>
+  <!-- EN: psychic -->
+  <ChurchPsychic98.titleShort>cenayang</ChurchPsychic98.titleShort>
+  <ChurchPsychic98.titleShortFemale>cenayang</ChurchPsychic98.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
+  <CorporateDrone10.description>[Pawn_namedef] bekerja di kompleks kantor yang sangat besar bersama dengan ribuan drone yang memadai lainnya.</CorporateDrone10.description>
+  <!-- EN: corporate drone -->
+  <CorporateDrone10.title>Drone perusahaan</CorporateDrone10.title>
+  <!-- EN: drone -->
+  <CorporateDrone10.titleShort>dengung</CorporateDrone10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.\n\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything. -->
+  <CorporateFixer36.description>[Pawn_namedef] Apakah {Pawn_gender?A: Teknis} untuk perusahaan energi.Pekerjaan [Pawn_pronoun] harus tahu kapan harus mendorong, kapan harus melempar, kapan harus kembali dan kapan harus memukul.Pekerjaan itu cocok dengan kurangnya empati alami.O: A} untuk apapun.</CorporateFixer36.description>
+  <!-- EN: corporate fixer -->
+  <CorporateFixer36.title>Teknisi Perusahaan</CorporateFixer36.title>
+  <CorporateFixer36.titleFemale>Teknisi Perusahaan</CorporateFixer36.titleFemale>
+  <!-- EN: fixer -->
+  <CorporateFixer36.titleShort>teknis</CorporateFixer36.titleShort>
+  <CorporateFixer36.titleShortFemale>teknis</CorporateFixer36.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the head servant in a royal house.\n\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was. -->
+  <HeadButler50.description>[Pawn_namedef] adalah pelayan utama di rumah sungguhan.</HeadButler50.description>
+  <!-- EN: head butler -->
+  <HeadButler50.title>Kepala Butler</HeadButler50.title>
+  <!-- EN: butler -->
+  <HeadButler50.titleShort>kepala pelayan</HeadButler50.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
+  <HouseServant86.description>[Pawn_namedef] Apakah {Pawn_gender?: A} pelayan tingkat rendah di rumah sungguhan.</HouseServant86.description>
+  <!-- EN: house servant -->
+  <HouseServant86.title>pelayan</HouseServant86.title>
+  <HouseServant86.titleFemale>pembantu</HouseServant86.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant86.titleShort>pelayan</HouseServant86.titleShort>
+  <HouseServant86.titleShortFemale>pembantu</HouseServant86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.\n\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough. -->
+  <ImperialInquisitor53.description>[Pawn_namedef] Apakah {Pawn_gender?Seorang Inkuisitor: Inkuisitor} di sekolah anti-pahlawan Gereja Kekaisaran. Saat menemukan penyimpangan, [Pawn_pronoun] mengekspos mereka untuk memprovokasi hukuman kolektif.Dan saya selalu bisa menemukan penyimpangan jika dia terlihat cukup.</ImperialInquisitor53.description>
+  <!-- EN: imperial inquisitor -->
+  <ImperialInquisitor53.title>Inkuisitor Kekaisaran</ImperialInquisitor53.title>
+  <ImperialInquisitor53.titleFemale>Inquisidora Imperial</ImperialInquisitor53.titleFemale>
+  <!-- EN: inquisitor -->
+  <ImperialInquisitor53.titleShort>jaksa pengadilan</ImperialInquisitor53.titleShort>
+  <!-- EN: inquisitress -->
+  <ImperialInquisitor53.titleShortFemale>Inquisidora</ImperialInquisitor53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a priest in the imperial church.\n\n[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink. -->
+  <ImperialPriest24.description>[Pawn_namedef] Apakah {Pawn_gender?Seorang pendeta: seorang pendeta} di Gereja Kekaisaran.Setengah lainnya berlalu dengan mengkhotbahkan kejahatan kemalasan dan minuman.</ImperialPriest24.description>
+  <!-- EN: imperial priest -->
+  <ImperialPriest24.title>Imam Kekaisaran</ImperialPriest24.title>
+  <ImperialPriest24.titleFemale>Sacerdotisa Imperial</ImperialPriest24.titleFemale>
+  <!-- EN: priest -->
+  <ImperialPriest24.titleShort>pendeta</ImperialPriest24.titleShort>
+  <!-- EN: priestess -->
+  <ImperialPriest24.titleShortFemale>pendeta wanita</ImperialPriest24.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs. -->
+  <Mailman2.description>[Pawn_namedef] Dia mengenakan surat di rute yang ditugaskan.Kadang -kadang mereka bahkan mengirimnya untuk mengirimkan paket khusus ke kantor atau rumah besar perusahaan yang elegan.O: A} Menghindari dan melawan anjing -anjing yang marah.</Mailman2.description>
+  <!-- EN: mailman -->
+  <Mailman2.title>pengantar pos</Mailman2.title>
+  <!-- EN: mail carrier -->
+  <Mailman2.titleFemale>tas kantor</Mailman2.titleFemale>
+  <!-- EN: mailman -->
+  <Mailman2.titleShort>pengantar pos</Mailman2.titleShort>
+  <!-- EN: mailwoman -->
+  <Mailman2.titleShortFemale>tas kantor</Mailman2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.\n\n[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors. -->
+  <MenagerieKeeper1.description>[Pawn_namedef] Dia menangani koleksi hewan dari bangsawan keluarga yang kuat di kotanya.</MenagerieKeeper1.description>
+  <!-- EN: menagerie keeper -->
+  <MenagerieKeeper1.title>Pengasuh Hewan</MenagerieKeeper1.title>
+  <MenagerieKeeper1.titleFemale>Pengasuh Hewan</MenagerieKeeper1.titleFemale>
+  <!-- EN: zookeeper -->
+  <MenagerieKeeper1.titleShort>penjaga</MenagerieKeeper1.titleShort>
+  <MenagerieKeeper1.titleShortFemale>penjaga</MenagerieKeeper1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
+  <OrnamentMaker56.description>[Pawn_namedef] membuat jam tangan, medali, perhiasan mekanis, dan keingintahuan kompleks lainnya untuk klien royalti.</OrnamentMaker56.description>
+  <!-- EN: ornament maker -->
+  <OrnamentMaker56.title>Produsen ornamen</OrnamentMaker56.title>
+  <OrnamentMaker56.titleFemale>Produsen ornamen</OrnamentMaker56.titleFemale>
+  <!-- EN: ornamenter -->
+  <OrnamentMaker56.titleShort>pabrikan</OrnamentMaker56.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
+  <PlanetaryMiner64.description>[Pawn_namedef] Apakah Engineer {Pawn_gender?O: A} tambang untuk perusahaan pertambangan planet yang penting.Karyanya [Pawn_objective] tetap di bawah tanah selama berminggu -minggu, dan dengan demikian tumbuh untuk menghargai kegelapan.</PlanetaryMiner64.description>
+  <!-- EN: planetary miner -->
+  <PlanetaryMiner64.title>Penambang planet</PlanetaryMiner64.title>
+  <PlanetaryMiner64.titleFemale>Planetary Minera</PlanetaryMiner64.titleFemale>
+  <!-- EN: miner -->
+  <PlanetaryMiner64.titleShort>buruh tambang</PlanetaryMiner64.titleShort>
+  <PlanetaryMiner64.titleShortFemale>Minera</PlanetaryMiner64.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.\n\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self. -->
+  <RoyalCook18.description>[Pawn_namedef] menyiapkan makanan untuk pelanggan aristokratnya.[Pawn_pronoun] jatuh cinta pada makanan.</RoyalCook18.description>
+  <!-- EN: royal cook -->
+  <RoyalCook18.title>Juru masak sejati</RoyalCook18.title>
+  <RoyalCook18.titleFemale>Juru masak sejati</RoyalCook18.titleFemale>
+  <!-- EN: cook -->
+  <RoyalCook18.titleShort>koki</RoyalCook18.titleShort>
+  <RoyalCook18.titleShortFemale>memasak</RoyalCook18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.\n\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills. -->
+  <RoyalMasseuse43.description>[Pawn_namedef] adalah seorang seniman pijat untuk rumah nyata.Dia menghadiri banyak anggota keluarga kerajaan dan tamunya.Kemajuan dalam bidang pekerjaan ini berarti memiliki keterampilan sosial yang halus.</RoyalMasseuse43.description>
+  <!-- EN: royal masseuse -->
+  <RoyalMasseuse43.title>Pijat Kerajaan</RoyalMasseuse43.title>
+  <RoyalMasseuse43.titleFemale>Pijat Kerajaan</RoyalMasseuse43.titleFemale>
+  <!-- EN: masseuse -->
+  <RoyalMasseuse43.titleShort>tukang pijat</RoyalMasseuse43.titleShort>
+  <RoyalMasseuse43.titleShortFemale>tukang pijat</RoyalMasseuse43.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial metabolism -->
+  <ArtificialMetabolism.label>metabolisme buatan</ArtificialMetabolism.label>
+  <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
+  <ArtificialMetabolism.description>Memproduksi implan bionik yang dapat memproses makanan lebih aman atau efisien daripada lambung biologis.</ArtificialMetabolism.description>
+  <!-- EN:
+    <li>Subjek-> Metabolisme Buatan</li>
+    <li>Subject_story-> mengembangkan kelaparan sehingga memakan semua sehingga pemasangan lambung buatan adalah satu-satunya solusi</li>
+    <li>subjek_story-> tidak memberi tahu ratu tentang pemasangan perut sterilisasi, tetapi terus berlanjut sebagai penguji makanannya sama</li>
+    <li>Subject_story-> mengembangkan kebencian untuk makanan.Perut nuklir sangat mengurangi konsumsi makanan, meskipun radioaktivitas adalah gangguan</li>
+    <li>Subject_gerund-> Kerajinan Bionik terkait pencernaan</li>
+    <li>Subject_gerund-> membuat nyali buatan</li>-><ArtificialMetabolism.generalRules.rulesStrings>
+    <li>Subjek-> Metabolisme Buatan</li>
+    <li>Subject_def-> Del Metabolisme Buatan</li>
+    <li>Subject_story-> Mengembangkan kelaparan yang tak terpuaskan sehingga pemasangan lambung buatan adalah satu-satunya solusi</li>
+    <li>Subjek_story-> tidak memberi tahu ratu bahwa detoksifikasi perut ditanamkan, tetapi terus berlanjut dalam pekerjaan pencicip makanannya</li>
+    <li>Subject_story-> Pengembangan yang dikembangkan akan makanan.Perut nuklir secara signifikan mengurangi konsumsi makanannya, meskipun radioaktivitas tidak nyaman</li>
+    <li>Subject_gerund-> memproduksi implan lambung bionik</li>
+    <li>Subject_gerund-> manufaktur nyali buatan</li>
+  </ArtificialMetabolism.generalRules.rulesStrings>
+  
+  <!-- EN: brain wiring -->
+  <BrainWiring.label>Pengkabelan Otak</BrainWiring.label>
+  <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
+  <BrainWiring.description>Memproduksi implan otak yang dapat membuat atau menghindari sensasi seperti kegembiraan atau rasa sakit.</BrainWiring.description>
+  <!-- EN:
+    <li>Subjek-> Implan Otak</li>
+    <li>Subject_story-> menulis makalah tentang kultus masokis penggunaan mindscrew untuk meningkatkan moral mereka</li>
+    <li>Subject_story-> Implanted Painstoppers dalam pasukan serangan.Mereka menghilangkan kekuatan yang jauh lebih besar, tetapi semuanya terluka atau terbunuh</li>
+    <li>Subject_story-> memiliki joywire terpasang dan, meskipun bahagia setelah itu, tersandung seumur hidup</li>
+    <li>Subject_gerund-> Crafting Brain Implants</li>-><BrainWiring.generalRules.rulesStrings>
+    <li>Subjek> Implan Cerebral</li>
+    <li>Subjek_def-> implan otak</li>
+    <li>Subject_story-> menulis artikel tentang penggunaan sekrup mental oleh kultus masokis untuk meningkatkan moral mereka</li>
+    <li>Subject_story-> Penekan nyeri implan dalam pasukan serangan.Mereka menghilangkan kekuatan yang jauh lebih besar, tetapi semuanya terluka parah atau mati</li>
+    <li>Subject_story-> Sebuah kegembiraan telah dipasang dan, meskipun dia senang, dia sering tersandung sepanjang hidupnya</li>
+    <li>Subjek gerund-> memproduksi implan otak</li>
+  </BrainWiring.generalRules.rulesStrings>
+  
+  <!-- EN: circadian influence -->
+  <CircadianInfluence.label>Penyesuaian Biorritmus</CircadianInfluence.label>
+  <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
+  <CircadianInfluence.description>Ini memproduksi implan otak yang secara kimia mengubah ritme sirkadian, mengurangi atau mengubah kebutuhan untuk tidur.</CircadianInfluence.description>
+  <!-- EN:
+    <li>Subjek-> Implan Pengurangan Tidur</li>
+    <li>Subject_story-> mempelajari pola tidur unihemispheric di cetacea dan mengusulkan bentuk baru dari cycler setengah sirkadian</li>
+    <li>Subject_story-> memaksa pelamar untuk penjaga kota untuk menerima setengah cycler, sehingga mereka bisa tinggal di pos tanpa batas waktu, jika perlu</li>
+    <li>Subject_story-> mempelajari bullfrog dan jerapah untuk memastikan xenogerms apa yang diperlukan untuk kelenjar bantuan sirkadian</li>
+    <li>Subject_gerund-> Crafting Sleep Reduction Implan</li>-><CircadianInfluence.generalRules.rulesStrings>
+    <li>Subjek-> Implan Pengurangan Tidur</li>
+    <li>Subjek_def-> implan pengurangan tidur</li>
+    <li>Subject_story-> Dia mempelajari pola tidur unihemispheric di ketuang dan mengusulkan bentuk baru penekan tidur</li>
+    <li>Subject_story-> memaksa semua pelamar untuk City Guard Post untuk menerima penekan tidur, sehingga mereka dapat tetap tanpa batas jika perlu</li>
+    <li>Subjek Story-> Ia mempelajari katak banteng dan jerapah untuk menentukan kuman mana yang diperlukan untuk kelenjar bantuan sirkadian</li>
+    <li>Subjek gerund-> manufaktur implan penekan tidur</li>
+  </CircadianInfluence.generalRules.rulesStrings>
+  
+  <!-- EN: compact weaponry -->
+  <CompactWeaponry.label>Senjata kompak</CompactWeaponry.label>
+  <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
+  <CompactWeaponry.description>Memproduksi senjata bionik kompak yang tersembunyi di dalam beberapa bagian tubuh.</CompactWeaponry.description>
+  <!-- EN:
+    <li>Subjek-> persenjataan kompak</li>
+    <li>Subject_story-> dipekerjakan sebagai detektif dan diselamatkan lebih dari satu kali oleh lonjakan lutut tersembunyi</li>
+    <li>subjek_story-> menghabiskan musim panas pulih dari dipotong oleh talang tangan budak yang melarikan diri</li>
+    <li>Subject_story-> bekerja di bidang keamanan, memindai pengunjung ke aula, ketika cyborg berusaha masuk</li>
+    <li>Subject_gerund-> Crafting Compact Bionic Weapons</li>-><CompactWeaponry.generalRules.rulesStrings>
+    <li>Subjek-> persenjataan kompak</li>
+    <li>Subject_def-> Del Compact Weaponry</li>
+    <li>Subject_story-> digunakan sebagai detektif dan diselamatkan lebih dari sekali dengan duri lutut tersembunyi</li>
+    <li>Subject_story-> Musim panas pulih dari dipotong oleh taji oleh tangan seorang budak yang melarikan diri</li>
+    <li>Subject_story-> Saya bekerja dengan pasti memindai pengunjung aula ketika ciborg mencoba masuk</li>
+    <li>Subject_gerund-> memproduksi senjata bionik kompak</li>
+  </CompactWeaponry.generalRules.rulesStrings>
+  
+  <!-- EN: flesh shaping -->
+  <FleshShaping.label>Modifikasi tubuh</FleshShaping.label>
+  <!-- EN: Craft bionics which induce the reshaping of natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
+  <FleshShaping.description>Memproduksi implan bionik yang dapat mereformasi jaringan untuk perbaikan estetika atau untuk kesenangan pribadi.</FleshShaping.description>
+  <!-- EN:
+    <li>Subjek-> Bedah Estetika</li>
+    <li>Subject_story-> menghentikan penurunan populasi di Urbworld, dengan mendistribusikan penambah cinta gratis dan obat-obatan mewah</li>
+    <li>subject_story->was hired as chief flesh-shaper for an aesthetics clinic, spending [ANYPAWN_possessive] days making shapely limbs</li>
+    <li>subject_story->gathered the glitterworld children around the campfire and told horror stories about getting their non-aesthetic noses back</li>
+    <li>Subject_gerund-> Kerajinan Bionik Estetika</li>-><FleshShaping.generalRules.rulesStrings>
+    <li>Subjek-> Bedah Estetika</li>
+    <li>Subject_def-> dari operasi estetika</li>
+    <li>Subject_story-> menghentikan penurunan populasi di dunia perkotaan yang mendistribusikan penambah seksual gratis dan obat-obatan mewah</li>
+    <li>Subject_story-> dipekerjakan sebagai pemodel daging utama untuk klinik estetika, menghabiskan hari-harinya menciptakan anggota tubuh dan bagian-bagian yang indah</li>
+    <li>Subject_story-> Mengumpulkan anak-anak mundobrillant di sekitar api dan menceritakan kisah-kisah horor tentang cara mencapai hidung antistnetik</li>
+    <li>Subjek_gerund-> manufaktur bionik estetika</li>
+  </FleshShaping.generalRules.rulesStrings>
+  
+  <!-- EN: healing factors -->
+  <HealingFactors.label>Faktor penyembuhan</HealingFactors.label>
+  <!-- EN: Craft bionics that enhance natural healing processes. -->
+  <HealingFactors.description>Memproduksi implan bionik yang meningkatkan proses penyembuhan alami.</HealingFactors.description>
+  <!-- EN:
+    <li>Subjek-> Penyembuhan Bionik</li>
+    <li>Subject_story-> mempelajari Royalti Kekaisaran, untuk melihat apakah mereka memiliki darah biru.Mereka tidak, tetapi itu benar -benar mengkoagulasi dengan cepat</li>
+    <li>subjek_story-> memastikan bahwa semua pejuang pit memiliki penambah penyembuhan dan xenogerm yang tepat, sehingga mereka bisa lebih sering bertarung</li>
+    <li>Subject_story-> mempelajari mayat kuno yang ditemukan di kuil cryptosleep dan memanen perangkat penyembuhan cepat dari mereka</li>
+    <li>Subject_gerund-> Crafting Regeneration Bionics</li>-><HealingFactors.generalRules.rulesStrings>
+    <li>Subjek-> Bionik kuratif</li>
+    <li>Subjek_def-> dari bionik kuratif</li>
+    <li>Subject_story-> Dia mempelajari Royalti Kekaisaran untuk melihat apakah mereka memiliki darah biru.Mereka tidak memilikinya, tapi itu sangat cepat</li>
+    <li>Subjek_story-> memastikan bahwa semua sumur sumur memiliki penyembuhan yang tepat dan penambah xenogerior sehingga mereka bisa lebih sering bertarung lebih sering</li>
+    <li>Subject_story-> mempelajari mayat kuno yang ditemukan di tempat perlindungan cryptosueño dan mengekstraksi perangkat penyembuhan cepat mereka dari mereka</li>
+    <li>Subject_gerund-> manufacture Bionic Regenerative</li>
+  </HealingFactors.generalRules.rulesStrings>
+  
+  <!-- EN: molecular analysis -->
+  <MolecularAnalysis.label>Analisis Molekuler</MolecularAnalysis.label>
+  <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
+  <MolecularAnalysis.description>Memproduksi implan bionik dengan penganalisa molekuler yang menghadiri sistem kekebalan tubuh dan menganalisis makanan.</MolecularAnalysis.description>
+  <!-- EN:
+    <li>Subjek-> Analisis Molekuler Bionik</li>
+    <li>Subject_story-> Dijelaskan kepada koki sekolah memasak bahwa mereka tidak boleh mendapatkan hidung estetika, jangan sampai analisis gastro-analyzer mereka gagal</li>
+    <li>Subject_story-> Memasang immunoenhancer dan bisa berjalan dengan bebas di koloni isolasi</li>
+    <li>Subject_story-> Ceramah tentang potensi konflik perangkat keras antara bagian bionik dan implan analisis molekuler</li>
+    <li>Subject_gerund-> Crafting Molecular Analysis Bionics</li>-><MolecularAnalysis.generalRules.rulesStrings>
+    <li>Subjek-> Bionica analisis molekuler</li>
+    <li>Subject_def-> dari Bionica analisis molekuler</li>
+    <li>Subject_story-> Dijelaskan kepada koki sekolah dapur bahwa hidung estetika tidak boleh dibuat, kecuali jika gastroanizer mereka gagal</li>
+    <li>Subject_story-> Poeting immuno dipasang dan dengan demikian bisa berjalan dengan bebas di koloni karantina</li>
+    <li>Subject_story-> memberikan konferensi tentang kemungkinan konflik perangkat keras antara bagian bionik dan implan analisis molekuler</li>
+    <li>Subject_gerund-> analisis molekuler produsen</li>
+  </MolecularAnalysis.generalRules.rulesStrings>
+  
+  <!-- EN: neural computation -->
+  <NeuralComputation.label>Komputasi saraf</NeuralComputation.label>
+  <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
+  <NeuralComputation.description>Ini memproduksi implan otak yang menghadiri berpikir dan belajar melalui antarmuka komputer otak langsung.</NeuralComputation.description>
+  <!-- EN:
+    <li>Subjek-> Implan Otak</li>
+    <li>Subjek-> Perhitungan saraf</li>
+    <li>Subject_story-> tahu persis bagaimana cara mengeluarkan sipir, dengan serangan EMP yang akan mengejutkan asisten pembelajaran mereka, membeli waktu untuk membebaskan para tahanan</li>
+    <li>Subject_story-> Mandat pemasangan asisten pembelajaran atau neurokalkulator melalui seluruh fakultas</li>
+    <li>Subject_story-> Memasang asisten pembelajaran.Itu terbukti menjadi masalah kemudian, ketika ditangkap oleh bajak laut, yang menghentikan upaya pelarian dengan serangan emp</li>
+    <li>Subject_gerund-> Crafting Brain Implants</li>-><NeuralComputation.generalRules.rulesStrings>
+    <li>Subjek> Implan Cerebral</li>
+    <li>Subjek-> Komputasi Saraf</li>
+    <li>Subjek_def-> implan otak</li>
+    <li>Subjek_def-> komputasi saraf</li>
+    <li>Subject_story-> Saya tahu persis bagaimana menetralkan sipir penjara: dengan serangan PEM yang akan meninggalkan asisten pembelajarannya dalam kejutan serebral, memenangkan waktu untuk membebaskan para tahanan</li>
+    <li>Subject_story-> Memesan pemasangan asisten pembelajaran atau neurocalculator di seluruh fakultas</li>
+    <li>Subject_story-> menerima implan asisten pembelajaran.Ternyata menjadi masalah ketika ditangkap oleh bajak laut, yang menghentikan upaya pelarian dengan serangan PEM</li>
+    <li>Subjek gerund-> memproduksi implan otak</li>
+  </NeuralComputation.generalRules.rulesStrings>
+  
+  <!-- EN: skin hardening -->
+  <SkinHardening.label>pengerasan kulit</SkinHardening.label>
+  <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
+  <SkinHardening.description>Memproduksi implan bionik yang memperkuat kulit alami, menghasilkan efek yang mirip dengan membawa baju besi.</SkinHardening.description>
+  <!-- EN:
+    <li>Subjek-> Implan subdermal</li>
+    <li>Subject_story-> Meneliti kelenjar dryad kulit kulit dan beralasan mereka dapat disesuaikan dengan kemanusiaan</li>
+    <li>Subject_story-> bepergian di antara tamers kulit batu dari Dinoworld, mempelajari pelat keratin tebal yang menutupi mereka</li>
+    <li>Subject_story-> bekerja dengan kelenjar nanonmachine untuk menebalkan epidermis manusia, dengan mengorbankan standar kecantikan tradisional</li>
+    <li>Subject_gerund-> Crafting Subdermal Armor Implan</li>-><SkinHardening.generalRules.rulesStrings>
+    <li>Subjek-> Implan Subdemik</li>
+    <li>Subjek_def-> dari implan subdermal</li>
+    <li>Subjek_story-> menyelidiki kelenjar kulit kulit kering dan menyimpulkan bahwa mereka dapat beradaptasi dengan kemanusiaan</li>
+    <li>Subject_story-> bepergian di antara tamers dermorrocyous dari dunia dinosaurus, mempelajari pelat keratin tebal yang menutupi mereka</li>
+    <li>Subject_story-> bekerja dengan kelenjar nanomáquin untuk membengkak epidermis manusia, dengan mengorbankan standar kecantikan tradisional</li>
+    <li>Subjek gerund-> implan manufaktur dari baju besi sub-dermal</li>
+  </SkinHardening.generalRules.rulesStrings>
+  
+  <!-- EN: specialized limbs -->
+  <SpecializedLimbs.label>anggota khusus</SpecializedLimbs.label>
+  <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
+  <SpecializedLimbs.description>Buat anggota Bionik yang berspesialisasi dalam tujuan tertentu - baik pertempuran maupun pekerjaan.</SpecializedLimbs.description>
+  <!-- EN:
+    <li>Subjek-> Prosthetics Khusus</li>
+    <li>Subject_story-> mewawancarai petani kontrak di dunia feodal, sebelum dan sesudah instalasi tangan lapangan mereka</li>
+    <li>Subject_story-> Menonton petarung pit yang dilengkapi dengan cakar kekuatan menghadap ke penambang dengan dua lengan bor</li>
+    <li>Subject_story-> bekerja sebagai ahli bedah di pelek, mengganti lengan yang hilang dengan segala sesuatu mulai dari woodhand hingga cakar kekuatan</li>
+    <li>Subject_gerund-> Kerajinan Lengan Bionik Khusus</li>-><SpecializedLimbs.generalRules.rulesStrings>
+    <li>Subjek-> Prostesis Khusus</li>
+    <li>Subject_def-> dari prostesis khusus</li>
+    <li>Subject_story-> mewawancarai petani berhutang dari dunia feodal sebelum dan sesudah memasang pemanen</li>
+    <li>Subject_story-> Dia mengamati petarung pit yang dilengkapi dengan cakar hidrolik untuk menghadapi penambang dengan dua pengeboran lengan</li>
+    <li>Subject_story-> bekerja sebagai ahli bedah di perbatasan, menggantikan lengan yang hilang dengan tangan kayu atau cakar hidrolik</li>
+    <li>Subject_gerund-> manufaktur lengan bionik khusus</li>
+  </SpecializedLimbs.generalRules.rulesStrings>
+  
+  <!-- EN: poison synthesis -->
+  <VenomSynthesis.label>Sintesis Veneno</VenomSynthesis.label>
+  <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
+  <VenomSynthesis.description>Implan bionik memproduksi yang mensintesis racun melalui reaktor kimia internal untuk digunakan dalam pertempuran.</VenomSynthesis.description>
+  <!-- EN:
+    <li>Subjek-> Bionik berbisa</li>
+    <li>subjek_story-> bekerja pada reaktor kimia di skala kecil, yang bisa menyusut dan disimpan secara internal</li>
+    <li>Subject_story-> mempelajari tikus limbah dari dunia sampah dan menulis makalah tentang racun unik dalam gigitan mereka</li>
+    <li>Subject_story-> belajar untuk menyukai ujung-ujung pemotongan kecil yang tajam, yang bisa membunuh hanya dengan nick</li>
+    <li>Subject_gerund-> membuat senjata bionik beracun</li>-><VenomSynthesis.generalRules.rulesStrings>
+    <li>Subjek-> Poison Bionic</li>
+    <li>Subjek_def-> dari bionik beracun</li>
+    <li>Subject_story-> bekerja dalam reaktor kimia skala kecil yang dapat dikurangi dan disimpan secara internal</li>
+    <li>Subjek_story-> Dia mempelajari toksirrata dari tempat pembuangan sampah dan menulis sebuah artikel tentang racun unik dari gigitannya</li>
+    <li>Subject_story-> belajar untuk menyukai tepi tajam kecil yang bisa membunuh hanya dengan goresan</li>
+    <li>Subject_gerund-> memproduksi senjata bionik berbisa</li>
+  </VenomSynthesis.generalRules.rulesStrings>
+  
+</LanguageData>

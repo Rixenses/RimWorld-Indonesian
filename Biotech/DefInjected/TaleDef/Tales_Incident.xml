@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acidic smog -->
+  <NoxiousHaze.label>Kabut asam</NoxiousHaze.label>
+  <!-- EN:
+    <li>Tale_noun-> Asam kabut asam menyapu [Pawn_namedef] [Komunitas]</li>
+    <li>Tale_noun-> Atmosfer dekat [Pawn_namedef] [Komunitas] menjadi berbahaya</li>
+    <li>Gambar-> Langit yang tidak menyenangkan, [SITUCSANCE_GROUP]</li>
+    <li>Image-> Udara menjadi tebal dan [SITURCANCE_GROUP]</li>
+    <li>keadaan_phrase-> tanpa kehidupan yang terlihat</li>
+    <li>SITUKSE_PHRASE-> Menunggu kabut asam untuk membersihkan</li>
+    <li>SITUCTANCE_PHRASE-> Menonton hewan melarikan diri</li>
+    <li>desc_sentence-> [pawn_namedef] bersembunyi di dekat [fitur medan], menatap dengan tampilan [kata sifat angsty].</li>
+    <li>desc_sentence-> [pawn_namedef] melihat dengan kain yang melilit wajah [Pawn_possessive].</li>
+    <li>Kalimat Desc-> [frasa adj kuantitas] mati [hewan berbaring di tanah.</li>
+    <li>Kalimat desc-> [kuantitas frase adj] sekarat [hewan berbaring di tanah.</li>
+    <li>Kalimat Desc-> [frasa adj kuantitas] mencekik [hewan berbaring di tanah.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri.</li>-><NoxiousHaze.rulePack.rulesStrings>
+    <li>Tale_noun-> Kabut asam menyebar di [CommunityDef] dari [Pawn_namedef].</li>
+    <li>Tale_noun-> Suasana dekat [CommunityDef] dari [Pawn_namedef] menjadi berbahaya</li>
+    <li>Gambar-> langit yang mengancam, [soundance_group]</li>
+    <li>Gambar-> Udara menjadi tebal dan [kelompok keadaan]</li>
+    <li>Frasa keadaan-> tanpa tanda-tanda kehidupan yang terlihat</li>
+    <li>SITUKSE_PHRASE-> Menunggu kabut asam bubar</li>
+    <li>Frasa keadaan-> melihat bagaimana hewan melarikan diri</li>
+    <li>Descence-> [Pawn_namedef] bersembunyi di dekat [fitur medan], menonton dengan tampilan [kata sifat].</li>
+    <li>Desc_sentence-> [pawn_namedef] bersembunyi di dekat [terrainfeature_fem], mengamati dengan tampilan [kata sifat].</li>
+    <li>Turun</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animaypl] Hidup mereka berbaring di tanah.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] menyakitkan berbohong di tanah.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] mencekik berbohong di tanah.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [animalAnypl] huyen.</li>
+  </NoxiousHaze.rulePack.rulesStrings>
+  
+</LanguageData>

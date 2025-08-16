@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <Apostasy_Abhorrent.label>menyimpang</Apostasy_Abhorrent.label>
+  <!-- EN: To leave our ideoligion after having known it is the depth of immorality. -->
+  <Apostasy_Abhorrent.description>Meninggalkan ideolithion kami setelah mengetahui bahwa itu adalah kedalaman amoralitas.</Apostasy_Abhorrent.description>
+  <!-- EN: Changed ideoligion -->
+  <Apostasy_Abhorrent.comps.0.description>Ideoligion yang diubah</Apostasy_Abhorrent.comps.0.description>
+  
+  <!-- EN: disapproved -->
+  <Apostasy_Disapproved.label>tidak disetujui</Apostasy_Disapproved.label>
+  <!-- EN: To leave our ideoligion after having known it indicates character flaws. -->
+  <Apostasy_Disapproved.description>Abaikan ideologis kita setelah mengetahuinya menunjukkan cacat pada orang tersebut.</Apostasy_Disapproved.description>
+  <!-- EN: Changed ideoligion -->
+  <Apostasy_Disapproved.comps.0.description>Ideoligion yang diubah</Apostasy_Disapproved.comps.0.description>
+  
+  <!-- EN: horrible -->
+  <Apostasy_Horrible.label>mengerikan</Apostasy_Horrible.label>
+  <!-- EN: To leave our ideoligion after having known it indicates deep moral flaws. -->
+  <Apostasy_Horrible.description>Tinggalkan ideoligasi kita setelah mengetahuinya menunjukkan cacat yang dalam pada orang tersebut.</Apostasy_Horrible.description>
+  <!-- EN: Changed ideoligion -->
+  <Apostasy_Horrible.comps.0.description>Ideoligion yang diubah</Apostasy_Horrible.comps.0.description>
+  
+</LanguageData>

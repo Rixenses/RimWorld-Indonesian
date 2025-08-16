@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>menantu</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>Yerna</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>Mantan kekasih</ExLover.label>
+  <ExLover.labelFemale>Mantan kekasih</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>Ex-spot</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>mantan istri</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>dijanjikan</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>dijanjikan</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>kekasih</Lover.label>
+  <Lover.labelFemale>kekasih</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>ayah mertua</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>Ibu mertua</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>suami</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>istri</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>anak tiri</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>anak tiri</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>ayah tiri</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>ibu tiri</Stepparent.labelFemale>
+  
+</LanguageData>

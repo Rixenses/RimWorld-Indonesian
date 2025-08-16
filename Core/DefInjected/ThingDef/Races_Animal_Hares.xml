@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>kelinci</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>Boiling kecil dan kesepian ini bisa melompat menjauh dari bahaya dengan cepat.</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>kepala</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>Kelinci kutub</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>Hewan yang tahan ini selamat dari musim dingin brutal tanah airnya yang digali melalui salju untuk menemukan tanaman yang dapat dimakan.</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>kepala</Snowhare.tools.head.label>
+  
+</LanguageData>

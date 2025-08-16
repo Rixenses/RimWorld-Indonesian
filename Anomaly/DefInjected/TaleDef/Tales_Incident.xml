@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: death pall -->
+  <DeathPall.label>decer</DeathPall.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menghadapi Pall Kematian Perambatan</li>
+    <li>Image-> [Pawn_namefull] menatap dengan ngeri saat kematiannya menyelimuti tanah, membangkitkan kembali orang mati [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mengepakkan senjata [Pawn_Possessive] dengan erat, saat kematian mati, membesarkan orang mati [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] gemetar dengan kegelisahan, menyaksikan kedatangan kematian, pengaruhnya memberi kehidupan pada [keadaan_group] yang tak bernyawa]</li>
+    <li>Image-> [Pawn_namefull] Menonton dengan ngeri saat The Death Pall Envelope [Pawn Posesif] Rumah yang damai, mengubahnya menjadi medan pertempuran melawan orang mati [kelompok keadaan]</li>
+    <li>SITUCSANCE_PHRASE-> dan menenggelamkan [Pawn_Possessives] Doa putus asa untuk keselamatan</li>
+    <li>SITUCTANCE_PHRASE-> Dengan aroma pembusukan dan keputusasaan mengisi udara</li>
+    <li>SITUCTANCE_PHRASE-> DAN PERJALANAN [Pawn_objective] Dalam gerombolan Shamblers</li>
+    <li>desc_sentence-> Di tengah pall kematian, [pawn_namedef] bersiap untuk pertempuran.</li>
+    <li>desc_sentence-> Perambahan dari Death Pall mengisi teman-teman [Pawn_namedef] dengan teror.</li>
+    <li>DESC_SENTENCE-> SHIVES RUN DOWN [Pawn_namedef ]'s Spine saat pengaruh kematian Pall terus menyebar.</li>
+    <li>desc_sentence-> Bobot keputusasaan menetap di atas [Pawn_namedef], menguji [Pawn_Possessive] tekad di hadapan Macabre.</li>-><DeathPall.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Menghadapi tabir mematikan yang diperkirakan</li>
+    <li>Image-> [Pawn_namefulull] Melihat dengan ngeri bagaimana kerudung fana menutupi permukaan, menyadarkan kembali orang mati [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] meraih senjatanya, sementara kerudung fana turun, membangkitkan [SITUMCANCE_GROUP]]]</li>
+    <li>Image-> [Pawn_namefulull] gemetar dengan kegelisahan, menyaksikan kedatangan tabir fana, pengaruhnya memberikan kehidupan kepada [keadaan_group] yang tak bernyawa.</li>
+    <li>Image-> [Pawn_namefulull] Mengamati dengan ngeri bagaimana kerudung fana membungkus rumahnya yang damai, menjadikannya medan perang melawan orang mati [SITURCANCE_GROUP].</li>
+    <li>SITUCTANCE_PHRASE-> dan menenggelamkan doa-doa mereka putus asa untuk keamanan.</li>
+    <li>Keadaan_phrase-> bersama dengan aroma pembusukan dan keputusasaan mengisi udara</li>
+    <li>SITUCTANCE_PHRASE-> DAN Catching [Pawn_objective] Dalam gerombolan pejalan kaki</li>
+    <li>Desc_sentence-> Di tengah kerudung fana, [Pawn_namedef] bersiap untuk pertempuran.</li>
+    <li>Desc_sentence-> Invasi kematian menakutkan teman-teman [Pawn_namedef].</li>
+    <li>Desc_sentence-> dingin berjalan melalui [pawn_namedef] sementara pengaruh kerudung fana terus menyebar.</li>
+    <li>Desc_sentence-> Bobot keputusasaan ditimbulkan pada [pawn_namedef], menguji tekadnya pada yang mengerikan.</li>
+  </DeathPall.rulePack.rulesStrings>
+  
+  <!-- EN: unnatural darkness -->
+  <UnnaturalDarkness.label>Kegelapan antinatural</UnnaturalDarkness.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menghadapi kegelapan yang tidak wajar</li>
+    <li>Image-> [Pawn_namefull] Berdiri dengan kagum karena dunia dikonsumsi oleh kegelapan yang tidak bisa ditembus [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Dikelilingi oleh pilar-pilar hitam yang jatuh dari langit yang menyelimuti tanah dalam kegelapan [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berjuang untuk menemukan [Pawn_possessive] jalan melalui kegelapan yang mencekik, noctols yang diburu di tumit [Pawn_Possessives], [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyaksikan dunia ditelan oleh jurang bayangan [SICKECANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> Di tengah-tengah upaya putus asa [Pawn_possessive] teman-temannya untuk kembali ke keamanan cahaya</li>
+    <li>keadaan_phrase-> dengan teriakan menusuk bergema di sekitar</li>
+    <li>SITUCTANCE_PHRASE-> Cahaya yang tampaknya hampir tidak mampu menahannya</li>
+    <li>SICKCANCE_PHRASE-> As [Pawn_pronoun] menawarkan permohonan untuk keselamatan</li>
+    <li>desc_sentence-> bahkan tidak berkedip-kedip yang paling samar di kejauhan terlihat.</li>
+    <li>desc_sentence-> Situasinya tampaknya sama sekali tidak ada harapan.</li>
+    <li>desc_sentence-> Grup makhluk bayangan terlihat di tepi kegelapan.</li>
+    <li>desc_sentence-> [pawn_namedef] mencoba menemukan secercah harapan di tengah kegelapan yang merambah.</li>-><UnnaturalDarkness.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Menghadapi kegelapan yang tidak wajar</li>
+    <li>Image-> [Pawn_namefulull] Berdiri dalam ketakutan bahwa dunia dikonsumsi oleh kegelapan yang tidak bisa ditembus [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull]</li>
+    <li>Image-> [Pawn_namefulull] berjuang untuk menemukan jalannya melalui kegelapan yang mencekik, beberapa Noctoles menginjak tumitnya, [SITURCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Melihat bagaimana dunia ditelan oleh jurang bayangan [soundance_group]</li>
+    <li>Frasa keadaan-> di tengah-tengah upaya putus asa teman-temannya untuk kembali ke keamanan cahaya</li>
+    <li>SITUCTANCE_PHRASE-> dengan teriakan yang memilukan bergema di mana-mana</li>
+    <li>SITUCTANCE_PHRASE-> Cahaya tampaknya hampir tidak mampu menahannya</li>
+    <li>SITUKSE_PHRASE-> Saat menawarkan replika keselamatan</li>
+    <li>Desc_sentence-> Flashing lampu di kejauhan tidak terlihat.</li>
+    <li>Desc_sentence-> Situasinya tampaknya benar-benar putus asa.</li>
+    <li>Desc_sentence-> Grup makhluk suram terlihat di ambang kegelapan.</li>
+    <li>Desc_sentence-> [pawn_namedef] Cobalah untuk menemukan sinar harapan di tengah kegelapan.</li>
+  </UnnaturalDarkness.rulePack.rulesStrings>
+  
+</LanguageData>

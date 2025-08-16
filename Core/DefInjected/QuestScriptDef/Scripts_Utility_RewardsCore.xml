@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RewardDescription-> A [joiner_age] -tety-tua [joiner_title] bernama [joiner_namedef] akan tiba di pod transportasi. [joinerfactionInfo] [joiner_relationinfo]</li>
+    <li>joinerfactionInfo (prioritas = 1)-> [joiner_pronoun] adalah anggota [joiner_factionname].</li>
+    <li>joinerfactionInfo-></li>-><Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+    <li>RewardDescription-> [jointer_a] [jointer_title] dari [joing_age] tahun, bernama [jointer_namedef] akan tiba dalam kapsul transportasi.[JoinfactionInfo] [jointer_relationfo]</li>
+    <li>GointfactionInfo (prioritas = 1)-> [jointer_pronoun] adalah anggota dari faksi [jointer_factioname].</li>
+    <li>joinerfactionInfo-></li>
+  </Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>RewardDescription-> a [joiner_age] -tety-old [joiner_title] bernama [joiner_namedef] akan tiba dan bergabung dengan Anda.[joiner_relationInfo]</li>-><Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+    <li>RewardDescription-> [jointer_a] [jointil_title] dari [joiner_age] tahun, bernama [joiner_namedef] akan tiba dan akan bergabung dengan Anda.[Joiner_relationInfo]</li>
+  </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+  
+  <!-- EN:
+    <li>RewardDescription-> Transport Pods dengan sumber daya berikut akan tiba (nilai total [ItemPodstotalMarketValue_Money]): \ n \ n [ItemPodScontents]</li>-><Util_SendItemPods.questDescriptionRules.rulesStrings>
+    <li>RewardDescription-> Beberapa kapsul transportasi akan tiba dengan sumber daya berikut (nilai total [itempodstotalmarketValue_money]): \ n \ n [ItemPodScontents]</li>
+  </Util_SendItemPods.questDescriptionRules.rulesStrings>
+  
+</LanguageData>

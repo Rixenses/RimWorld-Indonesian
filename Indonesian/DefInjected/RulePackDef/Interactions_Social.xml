@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-  <!-- Random social interactions -->
-
-  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>terikirim->pesan ini membuat [RECIPIENT_nameDef] mengamuk dan [RECIPIENT_pronoun] mulai bertengkar!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
-
-
-</LanguageData>

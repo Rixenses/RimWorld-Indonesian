@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep pod -->
+  <AncientCryptosleepPod.label>Kapsul cryptosueño kuno</AncientCryptosleepPod.label>
+  <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
+  <AncientCryptosleepPod.description>Kapsul tunggal -guna untuk melestarikan seseorang dalam keadaan animasi yang ditangguhkan.Dalam perbedaan peti mati cryptosueño, kapsul hanya dapat digunakan sekali.</AncientCryptosleepPod.description>
+  
+  <!-- EN: ancient unstable fuel node -->
+  <AncientFuelNode.label>Node bahan bakar kuno tidak stabil</AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AncientFuelNode.description>Simpul bahan bakar tua dan tidak stabil yang digunakan untuk memuat mesin dengan bahan bakar.Dia menjadi tidak stabil selama bertahun -tahun karena kurangnya perawatan.</AncientFuelNode.description>
+  
+  <!-- EN: hermetic crate -->
+  <AncientHermeticCrate.label>Kotak Hermetis</AncientHermeticCrate.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
+  <AncientHermeticCrate.description>Kotak Hermetis Makanan Diri untuk menghemat barang -barang berharga.Mereka dapat mempertahankan konten mereka untuk waktu yang lama.</AncientHermeticCrate.description>
+  
+</LanguageData>

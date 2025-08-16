@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>nenek moyang netral</Ancients.label>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Leluhur</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>pemimpin</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>Tentara leluhur menyerang.</Ancients.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>leluhur</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>leluhur</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>leluhur yang bermusuhan</AncientsHostile.label>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Leluhur</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>pemimpin</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>Tentara leluhur menyerang.</AncientsHostile.messageDefendersAttacking>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>leluhur</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>leluhur</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insect geneline -->
+  <Insect.label>garis keturunan insektoid</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>Makhluk insektoid raksasa ini hidup di bawah tanah dan menggali liang untuk menyerang ketika tertarik oleh suara atau sinyal feromon. Berasal dari planet Sorne, mereka ditangkap oleh perusahaan antarbintang, yang berhasil memodifikasi mereka secara genetis dan membudidayakannya di tempat penetasan sebagai sarang tempur. Tidak jelas siapa yang menempatkan insektoid Sorne di planet ini, tetapi mereka ada di sini dan lebih berbahaya dari sebelumnya.</Insect.description>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>Garis keturunan Sorne</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>pemimpin</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</Insect.messageDefendersAttacking>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>serangga</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>insektisida</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>sarang mechanoid</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>Mesin pembunuh yang tidak diketahui asalnya. Tersembunyi dalam struktur kuno, di bawah gundukan debu atau di dasar lautan, mekanoid dapat mempertahankan diri selama ribuan tahun. Kelompok mekanoid ini tampaknya bersatu dalam tujuan, tetapi tidak terkoordinasi dengan baik dalam beraksi. Sementara para ahli lokal percaya bahwa mereka adalah senjata otonom yang tersisa dari perang kuno, legenda suku menggambarkan mereka sebagai hamba setan dari dewa yang sedang tidur.</Mechanoid.description>
+  <Mechanoid.fixedName>Sarang Mechanoid</Mechanoid.fixedName>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>pemimpin</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</Mechanoid.messageDefendersAttacking>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>mikanoid</Mechanoid.pawnsPlural>
+  
+</LanguageData>

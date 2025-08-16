@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: asteroid -->
+  <Asteroid.label>asteroid</Asteroid.label>
+  
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>Asteroid dasar</AsteroidBasic.label>
+  
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>Gudang Objek Orbital</OrbitalItemStash.label>
+  
+  <!-- EN: orbital relay -->
+  <OrbitalRelay.label>orbital retransmisor</OrbitalRelay.label>
+  
+  <!-- EN: settlement platform -->
+  <SettlementPlatform.label>Platform Penyelesaian</SettlementPlatform.label>
+  
+  <!-- EN: space -->
+  <Space.label>ruang angkasa</Space.label>
+  
+  <!-- EN: space -->
+  <SpacePocket.label>ruang angkasa</SpacePocket.label>
+  
+</LanguageData>

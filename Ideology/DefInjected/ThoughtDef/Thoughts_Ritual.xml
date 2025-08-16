@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {RELICNAME} at ritual -->
+  <RelicAtRitual.stages.at_ritual.label>{RelicName} dalam ritual</RelicAtRitual.stages.at_ritual.label>
+  <!-- EN: {RELICNAME} was present during our ritual. -->
+  <RelicAtRitual.stages.at_ritual.description>{RelicName} hadir selama ritual kami</RelicAtRitual.stages.at_ritual.description>
+  <!-- EN: two relics at ritual -->
+  <RelicAtRitual.stages.two_relics_at_ritual.label>Dua peninggalan dalam ritual</RelicAtRitual.stages.two_relics_at_ritual.label>
+  <!-- EN: Two relics were present during our ritual. -->
+  <RelicAtRitual.stages.two_relics_at_ritual.description>Dua peninggalan hadir selama ritual kami.</RelicAtRitual.stages.two_relics_at_ritual.description>
+  <!-- EN: three relics at ritual -->
+  <RelicAtRitual.stages.three_relics_at_ritual.label>Tiga peninggalan dalam ritual</RelicAtRitual.stages.three_relics_at_ritual.label>
+  <!-- EN: Three relics were present during our ritual. -->
+  <RelicAtRitual.stages.three_relics_at_ritual.description>Tiga peninggalan hadir dalam ritual kami.</RelicAtRitual.stages.three_relics_at_ritual.description>
+  
+  <!-- EN: convicted -->
+  <TrialConvicted.stages.convicted.label>dikutuk</TrialConvicted.stages.convicted.label>
+  <!-- EN: I was unjustly convicted of a terrible wrongdoing! -->
+  <TrialConvicted.stages.convicted.description>Saya secara tidak adil dikutuk karena kejahatan yang mengerikan!</TrialConvicted.stages.convicted.description>
+  
+  <!-- EN: exonerated -->
+  <TrialExonerated.stages.exonerated.label>Dikeluarkan</TrialExonerated.stages.exonerated.label>
+  <!-- EN: They had nothing on me, and I showed them! -->
+  <TrialExonerated.stages.exonerated.description>Mereka tidak menentang saya, dan saya menunjukkannya!</TrialExonerated.stages.exonerated.description>
+  
+  <!-- EN: failed trial -->
+  <TrialFailed.stages.failed_trial.label>Pengadilan yang gagal</TrialFailed.stages.failed_trial.label>
+  <!-- EN: I made an accusation and couldn't even make it stick. This is humiliating. -->
+  <TrialFailed.stages.failed_trial.description>Saya membuat tuduhan dan saya bahkan tidak bisa mempertahankannya.Ini memalukan.</TrialFailed.stages.failed_trial.description>
+  
+</LanguageData>

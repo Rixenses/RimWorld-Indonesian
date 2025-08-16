@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Commonending-> Monumen berukuran [monumen] dalam ukuran dan akan membutuhkan sumber daya ini (nilai total [monumentRequiredResourcesmarketValue_money]): \ n \ n [monumentRequiredResources] \ n \ nconstruction harus diselesaikan di dalam [konstruksi neutticks_duration] dari menerima tugas.[havetoprotectforticks_duration].[Asker2] akan kesal jika Anda meninggalkannya selama ini.Jika ada bagian yang dihancurkan, sistem penegakan [Asker2] akan mengaktifkan dan [ancaman] \ n \ nyou akan menerima hadiah saat Anda menyelesaikan konstruksi.</li>-><BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+    <li>CommonEnging-> Monumen memiliki ukuran [monumental] dan akan membutuhkan sumber daya berikut (nilai total [monumentreledResorcerCarketValue_money]): \ n \ n [MonumentRequiredResources] Tugas. [Asker2] Akan repot -repot jika Anda membiarkannya selama ini.Jika ada bagian dari monumen yang dihancurkan, sistem kepatuhan {ganti: [asker2];"Dari el"-"del"} akan diaktifkan dan [ancaman] \ n \ nrecibir Anda akan menghargai ketika Anda menyelesaikan konstruksi.</li>
+  </BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+  <!-- EN: Monument completed -->
+  <BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>Monumen selesai</BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>
+  <!-- EN: You completed construction of the monument.\n\nYou must now protect the monument for [haveToProtectForTicks_duration]. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription] -->
+  <BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>Konstruksi monumen selesai.Jika ada bagian dari monumen yang dihancurkan, sistem verifikasi kepatuhan dengan misi {ganti: dari [asker2];"Dari el"-"del"} akan diaktifkan dan [ancaman]</BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>
+  
+</LanguageData>

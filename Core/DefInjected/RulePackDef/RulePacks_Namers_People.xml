@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Wordimperial (p = 4)-> [sylb] [sylb]</li>
+    <li>Wordimperial (p = 2) -> [sylb] [sylb] [sylb]</li>
+    <li>Wordimperial (p = 0,2) -> [sylb] [sylb] [sylb] [sylb]</li>-><EmpireNameUtility.rulePack.rulesStrings>
+    <li>Wordimperial (p = 4) -> [sylb_cap] [sylb]</li>
+    <li>Wordimperial (p = 2) -> [sylb_cap] [sylb] [sylb]</li>
+    <li>(P = 0.2) -> [sylb_cap] [sylb] [sylb] [sylb]</li>
+  </EmpireNameUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name (p = 2)-> [wordtribal] [wordtribal]</li>
+    <li>r_name-> [wordtribal] '[animalBadass]' [wordtribal]</li>
+    <li>r_name-> [color] [Wordtribal]</li>
+    <li>r_name-> [wordtribal] [hewan]</li>
+    <li>r_name-> [hewan] [wordtribal]</li>
+    <li>r_name-> [color] [hewan]</li>-><NamerPersonCorunan.rulePack.rulesStrings>
+    <li>r_name (p = 2)-> [wordtribal] [wordtribal_cap]</li>
+    <li>r_name-> [wordtribal] "[animalbadassany_cap]" [wordtribal_cap]</li>
+    <li>r_name-> [wordtribal] [animal_cap] [color_cap]</li>
+    <li>r_name-> [wordtribal] [animal_femcap] [color_femcap]</li>
+    <li>r_name-> [hewan] [wordtribal_cap]</li>
+    <li>r_name-> [animal_fem] [wordtribal_cap]</li>
+    <li>r_name-> [hewan] [color_cap] [wordtribal_namecap]</li>
+    <li>r_name-> [hewan] [wordtribal_namecap]</li>
+    <li>r_name-> [animal_fem] [color_femcap] [wordtribal_namecap]</li>
+    <li>r_name-> [animal_fem] [wordtribal_namecap]</li>
+    <li>r_name (p = 1.5)-> [tribalfirstname] [triballastname]</li>
+  </NamerPersonCorunan.rulePack.rulesStrings>
+  
+</LanguageData>

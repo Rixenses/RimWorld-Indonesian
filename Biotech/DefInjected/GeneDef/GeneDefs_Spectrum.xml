@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aggressive -->
+  <Aggression_Aggressive.label>agresif</Aggression_Aggressive.label>
+  <!-- EN: Carriers of this gene are quick to anger. They are twice as likely to start social fights. When they have mental breaks, they are twice as likely to choose an aggressive kind of break. -->
+  <Aggression_Aggressive.description>Pembawa gen ini dengan cepat marah.Mereka memiliki probabilitas dua kali untuk memulai perkelahian.Ketika mereka mengalami keruntuhan mental, mereka memiliki dua kali lebih dari probabilitas untuk memilih jenis keruntuhan yang agresif.</Aggression_Aggressive.description>
+  <!-- EN: aggro -->
+  <Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>menambahkan</Aggression_Aggressive.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hate -->
+  <Aggression_Aggressive.symbolPack.prefixSymbols.1.symbol>Odia</Aggression_Aggressive.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fight -->
+  <Aggression_Aggressive.symbolPack.prefixSymbols.2.symbol>bertarung</Aggression_Aggressive.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: destro -->
+  <Aggression_Aggressive.symbolPack.prefixSymbols.3.symbol>pengrusakan</Aggression_Aggressive.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: barb -->
+  <Aggression_Aggressive.symbolPack.prefixSymbols.4.symbol>Barba</Aggression_Aggressive.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: fighter -->
+  <Aggression_Aggressive.symbolPack.suffixSymbols.0.symbol>pejuang</Aggression_Aggressive.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: dead calm -->
+  <Aggression_DeadCalm.label>Total ketenangan</Aggression_DeadCalm.label>
+  <!-- EN: Carriers of this gene feel calm in every situation and have a very placid demeanor. They will never start social fights or have aggressive mental breaks. -->
+  <Aggression_DeadCalm.description>Pembawa gen ini terasa tenang dalam situasi apa pun dan memiliki perilaku yang sangat tenang.Mereka tidak akan pernah memulai perkelahian atau mengalami keruntuhan mental yang agresif.</Aggression_DeadCalm.description>
+  <!-- EN: calm -->
+  <Aggression_DeadCalm.labelShortAdj>tenang</Aggression_DeadCalm.labelShortAdj>
+  <!-- EN: still -->
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>almarhum</Aggression_DeadCalm.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: seren -->
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>Sereno</Aggression_DeadCalm.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tranqu -->
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>tenang</Aggression_DeadCalm.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hush -->
+  <Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>kesunyian</Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: hyper-aggressive -->
+  <Aggression_HyperAggressive.label>hiperagresif</Aggression_HyperAggressive.label>
+  <!-- EN: Carriers of this gene are hormonally high-strung and very aggressive. They are three times as likely to start social fights. Any mental break they have will be of an aggressive type. -->
+  <Aggression_HyperAggressive.description>Pembawa gen ini secara hormon sangat gugup dan sangat agresif.Mereka tiga kali lebih mungkin untuk memulai perkelahian.Setiap keruntuhan mental yang mereka miliki akan menjadi tipe agresif.</Aggression_HyperAggressive.description>
+  <!-- EN: aggro -->
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>menambahkan</Aggression_HyperAggressive.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hate -->
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.1.symbol>Odia</Aggression_HyperAggressive.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: fight -->
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.2.symbol>bertarung</Aggression_HyperAggressive.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: destro -->
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.3.symbol>pengrusakan</Aggression_HyperAggressive.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: barb -->
+  <Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>Barba</Aggression_HyperAggressive.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: fighter -->
+  <Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>pejuang</Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: very attractive -->
+  <Beauty_Beautiful.label>Sangat menarik</Beauty_Beautiful.label>
+  <!-- EN: Carriers of this gene have remarkably precise and symmetrical faces. Their features are distinctive and strong without being exaggerated, and their skin is nearly perfect. They are generally seen as beautiful. -->
+  <Beauty_Beautiful.description>Pembawa gen ini memiliki wajah yang sangat tepat dan simetris.Fitur -fiturnya khas dan kuat tanpa dibesar -besarkan, dan kulitnya hampir sempurna.Mereka biasanya dianggap cantik.</Beauty_Beautiful.description>
+  <!-- EN: charm -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>cinta</Beauty_Beautiful.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ele -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>Dia</Beauty_Beautiful.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: grace -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.2.symbol>Gracia</Beauty_Beautiful.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: neat -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.3.symbol>rapi</Beauty_Beautiful.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cute -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.4.symbol>Lindo</Beauty_Beautiful.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: beauti -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>saraf</Beauty_Beautiful.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: smooth -->
+  <Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>ramah tamah</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: attractive -->
+  <Beauty_Pretty.label>menarik</Beauty_Pretty.label>
+  <!-- EN: Carriers of this gene have unusually symmetrical, balanced facial features and extra-clear skin which gives them a pleasing appearance. -->
+  <Beauty_Pretty.description>Pembawa gen ini memiliki fitur wajah yang simetris dan seimbang yang luar biasa dan kulit ekstraclara yang memberi mereka penampilan yang menyenangkan.</Beauty_Pretty.description>
+  <!-- EN: charm -->
+  <Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>cinta</Beauty_Pretty.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: ele -->
+  <Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>Dia</Beauty_Pretty.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: grace -->
+  <Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>Gracia</Beauty_Pretty.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: neat -->
+  <Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>rapi</Beauty_Pretty.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cute -->
+  <Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>Lindo</Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: unattractive -->
+  <Beauty_Ugly.label>kurang menarik</Beauty_Ugly.label>
+  <!-- EN: Carriers of this gene have exaggerated facial features and poor skin that are generally considered ugly. -->
+  <Beauty_Ugly.description>Pembawa gen ini memiliki fitur wajah yang berlebihan dan kulit yang buruk yang umumnya dianggap buruk.</Beauty_Ugly.description>
+  <!-- EN: ug -->
+  <Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>fe</Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: very unattractive -->
+  <Beauty_VeryUgly.label>Sangat tidak menarik</Beauty_VeryUgly.label>
+  <!-- EN: Carriers of this gene have misshapen, asymmetrical facial structures and blotchy skin. They're hard to look at. -->
+  <Beauty_VeryUgly.description>Pembawa gen ini telah merusak struktur wajah dan kulit yang diwarnai.Mereka sulit untuk dilihat.</Beauty_VeryUgly.description>
+  <!-- EN: hideous -->
+  <Beauty_VeryUgly.labelShortAdj>mengerikan</Beauty_VeryUgly.labelShortAdj>
+  <!-- EN: gris -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>gris</Beauty_VeryUgly.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: hideo -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>hideo</Beauty_VeryUgly.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: grote -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>luas</Beauty_VeryUgly.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: horri -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>untuk ini</Beauty_VeryUgly.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: freak -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.4.symbol>di bawah</Beauty_VeryUgly.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: foul -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.5.symbol>mal</Beauty_VeryUgly.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: gross -->
+  <Beauty_VeryUgly.symbolPack.prefixSymbols.6.symbol>mentah</Beauty_VeryUgly.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: delicate -->
+  <Delicate.label>halus</Delicate.label>
+  <!-- EN: Carriers of this gene take greater injuries than others from the same damage. They have thin, brittle bones and less binding molecules in joints and flesh. -->
+  <Delicate.description>Pembawa gen ini menderita lebih banyak cedera daripada yang lain untuk kerusakan yang sama.Mereka memiliki tulang yang tipis dan rapuh dan molekul yang kurang mengikat pada sendi dan daging.</Delicate.description>
+  <!-- EN: frail -->
+  <Delicate.symbolPack.prefixSymbols.0.symbol>rentan</Delicate.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: thin -->
+  <Delicate.symbolPack.prefixSymbols.1.symbol>Delgado</Delicate.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: deli -->
+  <Delicate.symbolPack.prefixSymbols.2.symbol>deli</Delicate.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: snap -->
+  <Delicate.symbolPack.prefixSymbols.3.symbol>merusak</Delicate.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: ail -->
+  <Delicate.symbolPack.prefixSymbols.4.symbol>bersakit</Delicate.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: feeb -->
+  <Delicate.symbolPack.prefixSymbols.5.symbol>demam</Delicate.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: fragi -->
+  <Delicate.symbolPack.prefixSymbols.6.symbol>deduksi</Delicate.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: quick study -->
+  <Learning_Fast.label>Studi cepat</Learning_Fast.label>
+  <!-- EN: Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others. -->
+  <Learning_Fast.description>Pembawa gen ini memiliki ingatan yang sangat baik dan dengan cepat menangkap ide -ide baru.Mereka belajar lebih cepat dari yang lain.</Learning_Fast.description>
+  <!-- EN: brain -->
+  <Learning_Fast.symbolPack.prefixSymbols.0.symbol>otak</Learning_Fast.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: nerd -->
+  <Learning_Fast.symbolPack.prefixSymbols.1.symbol>orang aneh</Learning_Fast.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: smart -->
+  <Learning_Fast.symbolPack.prefixSymbols.2.symbol>cerdas</Learning_Fast.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: corti -->
+  <Learning_Fast.symbolPack.prefixSymbols.3.symbol>Corti</Learning_Fast.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: neuro -->
+  <Learning_Fast.symbolPack.prefixSymbols.4.symbol>Neuro</Learning_Fast.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: mnemo -->
+  <Learning_Fast.symbolPack.prefixSymbols.5.symbol>jenius</Learning_Fast.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: nerd -->
+  <Learning_Fast.symbolPack.suffixSymbols.0.symbol>orang aneh</Learning_Fast.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: brain -->
+  <Learning_Fast.symbolPack.suffixSymbols.1.symbol>otak</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: slow study -->
+  <Learning_Slow.label>Studi lambat</Learning_Slow.label>
+  <!-- EN: Carriers of this gene have deficient long-term memories and don't understand new ideas quickly. They are slow at learning new skills and knowledge. -->
+  <Learning_Slow.description>Pembawa gen ini memiliki ingatan jangka panjang yang buruk dan tidak dengan cepat memahami ide -ide baru.Mereka lambat dalam mempelajari keterampilan dan pengetahuan baru.</Learning_Slow.description>
+  <!-- EN: thag -->
+  <Learning_Slow.symbolPack.prefixSymbols.0.symbol>Malla</Learning_Slow.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: grunt -->
+  <Learning_Slow.symbolPack.prefixSymbols.1.symbol>menggeram</Learning_Slow.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: slow -->
+  <Learning_Slow.symbolPack.prefixSymbols.2.symbol>ini</Learning_Slow.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dull -->
+  <Learning_Slow.symbolPack.prefixSymbols.3.symbol>bosan</Learning_Slow.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dumb -->
+  <Learning_Slow.symbolPack.prefixSymbols.4.symbol>tonto</Learning_Slow.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: grunt -->
+  <Learning_Slow.symbolPack.suffixSymbols.0.symbol>menggeram</Learning_Slow.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: high libido -->
+  <Libido_High.label>Libido tinggi</Libido_High.label>
+  <!-- EN: Carriers of this gene are more likely to engage in lovin' with their partner. -->
+  <Libido_High.description>Pembawa gen ini lebih cenderung bercinta dengan pasangan mereka.</Libido_High.description>
+  <!-- EN: Increases the chance of lovin'. -->
+  <Libido_High.customEffectDescriptions.0>Meningkatkan peluang bercinta.</Libido_High.customEffectDescriptions.0>
+  
+  <!-- EN: low libido -->
+  <Libido_Low.label>Bajo Libido</Libido_Low.label>
+  <!-- EN: Carriers of this gene are less likely to engage in lovin' with their partner. -->
+  <Libido_Low.description>Pembawa gen ini cenderung bercinta dengan pasangan mereka.</Libido_Low.description>
+  <!-- EN: Decreases the chance of lovin'. -->
+  <Libido_Low.customEffectDescriptions.0>Ini mengurangi kemungkinan bercinta.</Libido_Low.customEffectDescriptions.0>
+  
+  <!-- EN: low sleep -->
+  <LowSleep.label>Mimpi rendah</LowSleep.label>
+  <!-- EN: Carriers of this gene get tired less quickly than others. -->
+  <LowSleep.description>Pembawa gen ini mendapatkan lebih sedikit dari yang lain.</LowSleep.description>
+  <!-- EN: wake -->
+  <LowSleep.symbolPack.prefixSymbols.0.symbol>bangun</LowSleep.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: night -->
+  <LowSleep.symbolPack.prefixSymbols.1.symbol>malam</LowSleep.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: heat super-tolerant -->
+  <MaxTemp_LargeIncrease.label>Panas superlerant</MaxTemp_LargeIncrease.label>
+  <!-- EN: Carriers of this gene are more comfortable in warm temperatures. -->
+  <MaxTemp_LargeIncrease.description>Pembawa gen ini terasa lebih nyaman dalam suhu yang hangat.</MaxTemp_LargeIncrease.description>
+  <!-- EN: hot -->
+  <MaxTemp_LargeIncrease.labelShortAdj>Caliente</MaxTemp_LargeIncrease.labelShortAdj>
+  <!-- EN: hot -->
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>Caliente</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: heat -->
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>panas</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sun -->
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>sol</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: sweat -->
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>keringat</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: bake -->
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>memanggang</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: heat weakness -->
+  <MaxTemp_SmallDecrease.label>Dia memanaskan kelemahan</MaxTemp_SmallDecrease.label>
+  <!-- EN: Carriers of this gene are slightly less comfortable in warm temperatures. -->
+  <MaxTemp_SmallDecrease.description>Pembawa gen ini terasa kurang nyaman dengan suhu hangat.</MaxTemp_SmallDecrease.description>
+  <!-- EN: cool -->
+  <MaxTemp_SmallDecrease.labelShortAdj>lukisan dinding</MaxTemp_SmallDecrease.labelShortAdj>
+  <!-- EN: cold -->
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>dingin</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: cool -->
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>lukisan dinding</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: heat tolerant -->
+  <MaxTemp_SmallIncrease.label>Toleransi panas</MaxTemp_SmallIncrease.label>
+  <!-- EN: Carriers of this gene are slightly more comfortable in warm temperatures. -->
+  <MaxTemp_SmallIncrease.description>Pembawa gen ini terasa sedikit lebih nyaman dengan suhu hangat.</MaxTemp_SmallIncrease.description>
+  <!-- EN: warm -->
+  <MaxTemp_SmallIncrease.labelShortAdj>hangat</MaxTemp_SmallIncrease.labelShortAdj>
+  <!-- EN: warm -->
+  <MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>hangat</MaxTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: strong melee damage -->
+  <MeleeDamage_Strong.label>Kerusakan besar pada jarak dekat</MeleeDamage_Strong.label>
+  <!-- EN: Carriers of this gene do more damage in close-quarters combat. Extra-strong fast-twitch muscle fibers make their strikes accurate and powerful. -->
+  <MeleeDamage_Strong.description>Pembawa gen ini lebih membahayakan dalam pertempuran jarak dekat.Extrafuertes otot otot serat otot membuat pukulan mereka tepat dan kuat.</MeleeDamage_Strong.description>
+  <!-- EN: strong -->
+  <MeleeDamage_Strong.labelShortAdj>kuat</MeleeDamage_Strong.labelShortAdj>
+  <!-- EN: bash -->
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>hit</MeleeDamage_Strong.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: strong -->
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>kuat</MeleeDamage_Strong.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: strike -->
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.2.symbol>hit</MeleeDamage_Strong.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hercu -->
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.3.symbol>Hercu</MeleeDamage_Strong.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: achillo -->
+  <MeleeDamage_Strong.symbolPack.prefixSymbols.4.symbol>kuat</MeleeDamage_Strong.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: basher -->
+  <MeleeDamage_Strong.symbolPack.wholeNameSymbols.0.symbol>Lebih bahagia</MeleeDamage_Strong.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: striker -->
+  <MeleeDamage_Strong.symbolPack.wholeNameSymbols.1.symbol>atacante</MeleeDamage_Strong.symbolPack.wholeNameSymbols.1.symbol>
+  
+  <!-- EN: weak melee damage -->
+  <MeleeDamage_Weak.label>Kerusakan lemah terhadap jarak dekat</MeleeDamage_Weak.label>
+  <!-- EN: Carriers of this gene do less damage in close-quarters combat. Weak fast-twitch muscle fibers make their strikes shaky and weak. -->
+  <MeleeDamage_Weak.description>Operator gen ini lebih sedikit kerusakan pada pertempuran jarak dekat.Kelemahan serat otot kontraksi cepat membuat pukulan mereka gemetar dan lemah.</MeleeDamage_Weak.description>
+  <!-- EN: weak -->
+  <MeleeDamage_Weak.labelShortAdj>lemah</MeleeDamage_Weak.labelShortAdj>
+  <!-- EN: puno -->
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.0.symbol>Flacid</MeleeDamage_Weak.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: weak -->
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.1.symbol>lemah</MeleeDamage_Weak.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: poke -->
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.2.symbol>TOQUE</MeleeDamage_Weak.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: flab -->
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.3.symbol>gemuk</MeleeDamage_Weak.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: anemo -->
+  <MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>anemia</MeleeDamage_Weak.symbolPack.prefixSymbols.4.symbol>
+  
+  <!-- EN: cold super-tolerant -->
+  <MinTemp_LargeDecrease.label>Pengorbanan menjadi dingin</MinTemp_LargeDecrease.label>
+  <!-- EN: Carriers of this gene are much more comfortable in cold temperatures. -->
+  <MinTemp_LargeDecrease.description>Pembawa gen ini terasa jauh lebih nyaman dalam suhu dingin.</MinTemp_LargeDecrease.description>
+  <!-- EN: cold -->
+  <MinTemp_LargeDecrease.labelShortAdj>dingin</MinTemp_LargeDecrease.labelShortAdj>
+  <!-- EN: ice -->
+  <MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>es</MinTemp_LargeDecrease.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: cold tolerant -->
+  <MinTemp_SmallDecrease.label>toleran dingin</MinTemp_SmallDecrease.label>
+  <!-- EN: Carriers of this gene are slightly more comfortable in cold temperatures. -->
+  <MinTemp_SmallDecrease.description>Pembawa gen ini terasa sedikit lebih nyaman dalam suhu dingin.</MinTemp_SmallDecrease.description>
+  <!-- EN: cool -->
+  <MinTemp_SmallDecrease.labelShortAdj>lukisan dinding</MinTemp_SmallDecrease.labelShortAdj>
+  <!-- EN: cold -->
+  <MinTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>dingin</MinTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: cool -->
+  <MinTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>lukisan dinding</MinTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: cold weakness -->
+  <MinTemp_SmallIncrease.label>kelemahan hingga dingin</MinTemp_SmallIncrease.label>
+  <!-- EN: Carriers of this gene are slightly less comfortable in cold temperatures. -->
+  <MinTemp_SmallIncrease.description>Pembawa gen ini terasa kurang nyaman dengan suhu dingin.</MinTemp_SmallIncrease.description>
+  <!-- EN: warm -->
+  <MinTemp_SmallIncrease.labelShortAdj>hangat</MinTemp_SmallIncrease.labelShortAdj>
+  <!-- EN: warm -->
+  <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>hangat</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: very unhappy -->
+  <Mood_Depressive.label>Sangat tidak bahagia</Mood_Depressive.label>
+  <!-- EN: Carriers of this gene are highly predisposed to negative emotion. They'll see the bad in every situation and have a much lower mood than others. -->
+  <Mood_Depressive.description>Pembawa gen ini sangat cenderung untuk emosi negatif.Anda akan melihat yang buruk dalam setiap situasi dan memiliki humor yang jauh lebih rendah daripada yang lain.</Mood_Depressive.description>
+  <!-- EN: sad -->
+  <Mood_Depressive.symbolPack.prefixSymbols.0.symbol>sedih</Mood_Depressive.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: gray -->
+  <Mood_Depressive.symbolPack.prefixSymbols.1.symbol>gris</Mood_Depressive.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: rain -->
+  <Mood_Depressive.symbolPack.prefixSymbols.2.symbol>hujan</Mood_Depressive.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: lachry -->
+  <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>titik air mata</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: happy -->
+  <Mood_Optimist.label>Feliz</Mood_Optimist.label>
+  <!-- EN: Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others. -->
+  <Mood_Optimist.description>Pembawa gen ini cenderung memiliki perasaan optimis.Mereka akan memiliki humor yang lebih tinggi dari yang lain.</Mood_Optimist.description>
+  <!-- EN: bright -->
+  <Mood_Optimist.symbolPack.prefixSymbols.0.symbol>terang</Mood_Optimist.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sun -->
+  <Mood_Optimist.symbolPack.prefixSymbols.1.symbol>sol</Mood_Optimist.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: light -->
+  <Mood_Optimist.symbolPack.prefixSymbols.2.symbol>Luz</Mood_Optimist.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cheer -->
+  <Mood_Optimist.symbolPack.prefixSymbols.3.symbol>Anima</Mood_Optimist.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: glad -->
+  <Mood_Optimist.symbolPack.prefixSymbols.4.symbol>Feliz</Mood_Optimist.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: up -->
+  <Mood_Optimist.symbolPack.prefixSymbols.5.symbol>di atas</Mood_Optimist.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: bright -->
+  <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>lampu</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: unhappy -->
+  <Mood_Pessimist.label>tidak bahagia</Mood_Pessimist.label>
+  <!-- EN: Carriers of this gene are predisposed to pessimistic perceptions. They'll tend to interpret things negatively and have lower mood than others. -->
+  <Mood_Pessimist.description>Pembawa gen ini cenderung memiliki persepsi pesimistis.Mereka akan memiliki kecenderungan untuk menafsirkan sesuatu secara negatif dan memiliki humor yang lebih rendah daripada yang lain.</Mood_Pessimist.description>
+  <!-- EN: sad -->
+  <Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>sedih</Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: gray -->
+  <Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>gris</Mood_Pessimist.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: rain -->
+  <Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>hujan</Mood_Pessimist.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: lachry -->
+  <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>titik air mata</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: very happy -->
+  <Mood_Sanguine.label>Sangat senang</Mood_Sanguine.label>
+  <!-- EN: Carriers of this gene are highly predisposed to optimism and not at all inclined to think negatively. They'll have much higher mood than others. -->
+  <Mood_Sanguine.description>Pembawa gen ini sangat cenderung optimisme dan tidak memiliki kecenderungan untuk berpikir negatif.Mereka akan memiliki humor yang jauh lebih tinggi daripada yang lain.</Mood_Sanguine.description>
+  <!-- EN: bright -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>lampu</Mood_Sanguine.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sun -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>sol</Mood_Sanguine.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: light -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.2.symbol>Luz</Mood_Sanguine.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cheer -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.3.symbol>Anima</Mood_Sanguine.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: glad -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.4.symbol>Feliz</Mood_Sanguine.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: up -->
+  <Mood_Sanguine.symbolPack.prefixSymbols.5.symbol>di atas</Mood_Sanguine.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: bright -->
+  <Mood_Sanguine.symbolPack.suffixSymbols.0.symbol>lampu</Mood_Sanguine.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: fast runner -->
+  <MoveSpeed_Quick.label>koridor cepat</MoveSpeed_Quick.label>
+  <!-- EN: Carriers of this gene move more quickly than normal. -->
+  <MoveSpeed_Quick.description>Pembawa gen ini bergerak lebih cepat dari biasanya.</MoveSpeed_Quick.description>
+  <!-- EN: quick -->
+  <MoveSpeed_Quick.labelShortAdj>cepat</MoveSpeed_Quick.labelShortAdj>
+  <!-- EN: speed -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>kecepatan</MoveSpeed_Quick.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fast -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>cepat</MoveSpeed_Quick.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: quick -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>cepat</MoveSpeed_Quick.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: agi -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>lincah</MoveSpeed_Quick.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: nimb -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>awan</MoveSpeed_Quick.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: swift -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>kecepatan</MoveSpeed_Quick.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: flash -->
+  <MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>kilatan</MoveSpeed_Quick.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: flash -->
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>kilatan</MoveSpeed_Quick.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: runner -->
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>koridor</MoveSpeed_Quick.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: sprinter -->
+  <MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>Trotter</MoveSpeed_Quick.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: speeder -->
+  <MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>pelari cepat</MoveSpeed_Quick.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: slow runner -->
+  <MoveSpeed_Slow.label>pelari lambat</MoveSpeed_Slow.label>
+  <!-- EN: Carriers of this gene move more slowly than normal. -->
+  <MoveSpeed_Slow.description>Pembawa gen ini bergerak lebih lambat dari biasanya.</MoveSpeed_Slow.description>
+  <!-- EN: slow -->
+  <MoveSpeed_Slow.labelShortAdj>ini</MoveSpeed_Slow.labelShortAdj>
+  <!-- EN: slow -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>ini</MoveSpeed_Slow.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: plod -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>pejalan kaki</MoveSpeed_Slow.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: grado -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>nilai</MoveSpeed_Slow.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: letho -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.3.symbol>ini</MoveSpeed_Slow.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: slug -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.4.symbol>Aloe</MoveSpeed_Slow.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: slack -->
+  <MoveSpeed_Slow.symbolPack.prefixSymbols.5.symbol>kendur</MoveSpeed_Slow.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: slug -->
+  <MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>siput</MoveSpeed_Slow.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: plodder -->
+  <MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>Peonator</MoveSpeed_Slow.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: very fast runner -->
+  <MoveSpeed_VeryQuick.label>Koridor Super</MoveSpeed_VeryQuick.label>
+  <!-- EN: Carriers of this gene move much more quickly than normal. -->
+  <MoveSpeed_VeryQuick.description>Pembawa gen ini bergerak jauh lebih cepat dari biasanya.</MoveSpeed_VeryQuick.description>
+  <!-- EN: fast -->
+  <MoveSpeed_VeryQuick.labelShortAdj>cepat</MoveSpeed_VeryQuick.labelShortAdj>
+  <!-- EN: speed -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>kecepatan</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: fast -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>cepat</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: quick -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>cepat</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: agi -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>Ági</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: nimb -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>awan</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: swift -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>kecepatan</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: flash -->
+  <MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>kilatan</MoveSpeed_VeryQuick.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: flash -->
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>kilatan</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: runner -->
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>koridor</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: sprinter -->
+  <MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>Trotter</MoveSpeed_VeryQuick.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: speeder -->
+  <MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>pelari cepat</MoveSpeed_VeryQuick.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: never sleep -->
+  <Neversleep.label>insomnia</Neversleep.label>
+  <!-- EN: Carriers of this gene have a unique metabolic process which allows clusters of neurons to sleep while the rest of the brain stays awake. They never need to sleep. -->
+  <Neversleep.description>Pembawa gen ini memiliki proses metabolisme yang unik yang memungkinkan kelompok neuron tidur sementara sisa otak tetap terjaga.Mereka tidak perlu tidur.</Neversleep.description>
+  <!-- EN: wake -->
+  <Neversleep.symbolPack.prefixSymbols.0.symbol>bangun</Neversleep.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: night -->
+  <Neversleep.symbolPack.prefixSymbols.1.symbol>malam</Neversleep.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: extra pain -->
+  <Pain_Extra.label>rasa sakit ekstra</Pain_Extra.label>
+  <!-- EN: Carriers of this gene feel more pain than others given the same injuries. Neuron activity in the brain's nociception center is amplified, so pain feels extra-intense and fiery. This can be protective, but overall it's considered a negative and makes it hard to push through difficult situations. -->
+  <Pain_Extra.description>Pembawa gen ini terasa lebih sakit daripada yang lain di hadapan cedera yang sama.Aktivitas neuron di tengah pemberitahuan otak diperkuat, sehingga rasa sakit terasa intens dan terbakar.Ini bisa menjadi pelindung, tetapi secara umum dianggap negatif dan membuatnya sulit untuk mengatasi situasi yang sulit.</Pain_Extra.description>
+  <!-- EN: wimpy -->
+  <Pain_Extra.labelShortAdj>Terlemah</Pain_Extra.labelShortAdj>
+  <!-- EN: wimpo -->
+  <Pain_Extra.symbolPack.prefixSymbols.0.symbol>tipis</Pain_Extra.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: whino -->
+  <Pain_Extra.symbolPack.prefixSymbols.1.symbol>Lloriquea</Pain_Extra.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: cowar -->
+  <Pain_Extra.symbolPack.prefixSymbols.2.symbol>pengecut</Pain_Extra.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cry -->
+  <Pain_Extra.symbolPack.prefixSymbols.3.symbol>menangis</Pain_Extra.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: whiner -->
+  <Pain_Extra.symbolPack.suffixSymbols.0.symbol>tangisan</Pain_Extra.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: wimp -->
+  <Pain_Extra.symbolPack.suffixSymbols.1.symbol>tipis</Pain_Extra.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: reduced pain -->
+  <Pain_Reduced.label>mengurangi rasa sakit</Pain_Reduced.label>
+  <!-- EN: Carriers of this gene feel half as much pain compared to a baseliner. Reduced neuron activity in the brain's nociception centers makes pain dull and faint. This can be advantageous sometimes, and dangerous other times. -->
+  <Pain_Reduced.description>Pembawa gen ini terasa setengah dari rasa sakit daripada mereka yang tidak memilikinya.Pengurangan aktivitas saraf di pusat -pusat pemberitahuan otak membuat rasa sakitnya redup dan lemah.Terkadang ini bisa menguntungkan, dan berbahaya.</Pain_Reduced.description>
+  <!-- EN: pain-dull -->
+  <Pain_Reduced.labelShortAdj>pingsan</Pain_Reduced.labelShortAdj>
+  <!-- EN: dull -->
+  <Pain_Reduced.symbolPack.prefixSymbols.0.symbol>bosan</Pain_Reduced.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: daze -->
+  <Pain_Reduced.symbolPack.prefixSymbols.1.symbol>ATURDI</Pain_Reduced.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tough -->
+  <Pain_Reduced.symbolPack.prefixSymbols.2.symbol>berdiri</Pain_Reduced.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: psychically deaf -->
+  <PsychicAbility_Deaf.label>tuli psikis</PsychicAbility_Deaf.label>
+  <!-- EN: Carriers of this gene are deaf to all psychic energy and influence outside their own minds. They cannot be affected by psychic influence, nor can they ever wield psychic power. -->
+  <PsychicAbility_Deaf.description>Pembawa gen ini tuli terhadap semua energi dan pengaruh psikis di luar pikiran mereka sendiri.Mereka tidak dapat dipengaruhi oleh pengaruh psikis, mereka juga tidak dapat mengerahkan kekuatan psikis.</PsychicAbility_Deaf.description>
+  <!-- EN: psy-deaf -->
+  <PsychicAbility_Deaf.labelShortAdj>tuli psikis</PsychicAbility_Deaf.labelShortAdj>
+  <!-- EN: deaf -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>tuli</PsychicAbility_Deaf.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blank -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>Blanco</PsychicAbility_Deaf.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: null -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>batal</PsychicAbility_Deaf.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: vac -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>Vac</PsychicAbility_Deaf.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: void -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>kosong</PsychicAbility_Deaf.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: nego -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>dibandingkan</PsychicAbility_Deaf.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: nullo -->
+  <PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>batal</PsychicAbility_Deaf.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: psychically dull -->
+  <PsychicAbility_Dull.label>secara psikis canggung</PsychicAbility_Dull.label>
+  <!-- EN: Carriers of this gene are less psychically-sensitive than others. -->
+  <PsychicAbility_Dull.description>Pembawa gen ini kurang sensitif secara psikis daripada yang lain.</PsychicAbility_Dull.description>
+  <!-- EN: psy-dull -->
+  <PsychicAbility_Dull.labelShortAdj>Psycho-torpe</PsychicAbility_Dull.labelShortAdj>
+  <!-- EN: dull -->
+  <PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>bosan</PsychicAbility_Dull.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flat -->
+  <PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>plano</PsychicAbility_Dull.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: psy-sensitive -->
+  <PsychicAbility_Enhanced.label>psiko-sensitif</PsychicAbility_Enhanced.label>
+  <!-- EN: Carriers of this gene are more psychically-sensitive than average. -->
+  <PsychicAbility_Enhanced.description>Pembawa gen ini lebih sensitif secara psikis daripada rata -rata.</PsychicAbility_Enhanced.description>
+  <!-- EN: psy-enhanced -->
+  <PsychicAbility_Enhanced.labelShortAdj>psiko-sensitif</PsychicAbility_Enhanced.labelShortAdj>
+  <!-- EN: psy -->
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>psiko</PsychicAbility_Enhanced.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: senso -->
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>nalar</PsychicAbility_Enhanced.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sensi -->
+  <PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>Sensi</PsychicAbility_Enhanced.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: super psy-sensitive -->
+  <PsychicAbility_Extreme.label>SUPER PSYCHO-SENSITIF</PsychicAbility_Extreme.label>
+  <!-- EN: Carriers of this gene are much more psychically-sensitive than most. -->
+  <PsychicAbility_Extreme.description>Pembawa gen ini jauh lebih sensitif secara psikis daripada kebanyakan.</PsychicAbility_Extreme.description>
+  <!-- EN: psy-extreme -->
+  <PsychicAbility_Extreme.labelShortAdj>SUPER PSYCHO-SENSITIF</PsychicAbility_Extreme.labelShortAdj>
+  <!-- EN: psy -->
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>psiko</PsychicAbility_Extreme.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: senso -->
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>nalar</PsychicAbility_Extreme.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: sensi -->
+  <PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>Sensi</PsychicAbility_Extreme.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: robust -->
+  <Robust.label>resisten</Robust.label>
+  <!-- EN: Carriers of this gene take less injuries than others from the same damage. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh. -->
+  <Robust.description>Pembawa gen ini menderita lebih sedikit cedera daripada yang lain untuk kerusakan yang sama.Mereka memiliki tulang yang menebal dan padat, kotak dada yang hampir padat dan faktor pengikat yang diperkuat pada sendi dan daging.</Robust.description>
+  <!-- EN: tough -->
+  <Robust.symbolPack.prefixSymbols.0.symbol>berdiri</Robust.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: stout -->
+  <Robust.symbolPack.prefixSymbols.1.symbol>resisten</Robust.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: rough -->
+  <Robust.symbolPack.prefixSymbols.2.symbol>kasar</Robust.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: lump -->
+  <Robust.symbolPack.prefixSymbols.3.symbol>dalam jumlah besar</Robust.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: bruise -->
+  <Robust.symbolPack.prefixSymbols.4.symbol>hematoma</Robust.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: stiff -->
+  <Robust.symbolPack.prefixSymbols.5.symbol>keras</Robust.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: hard -->
+  <Robust.symbolPack.prefixSymbols.6.symbol>berdiri</Robust.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: vigo -->
+  <Robust.symbolPack.prefixSymbols.7.symbol>semangat</Robust.symbolPack.prefixSymbols.7.symbol>
+  
+  <!-- EN: sleepy -->
+  <Sleepy.label>mengantuk</Sleepy.label>
+  <!-- EN: Carriers of this gene get tired somewhat faster than others. -->
+  <Sleepy.description>Pembawa gen ini menjadi sedikit lebih cepat dari yang lain.</Sleepy.description>
+  <!-- EN: sleep -->
+  <Sleepy.symbolPack.prefixSymbols.0.symbol>tidur</Sleepy.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: bed -->
+  <Sleepy.symbolPack.prefixSymbols.1.symbol>Cama</Sleepy.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: somno -->
+  <Sleepy.symbolPack.prefixSymbols.2.symbol>tidur</Sleepy.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: loaf -->
+  <Sleepy.symbolPack.suffixSymbols.0.symbol>roti</Sleepy.symbolPack.suffixSymbols.0.symbol>
+  
+  <!-- EN: tox resistance -->
+  <ToxResist_Partial.label>Resistensi racun</ToxResist_Partial.label>
+  <!-- EN: Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream. -->
+  <ToxResist_Partial.description>Pembawa gen ini resisten terhadap akumulasi toksik sumber apa pun.Ini termasuk polusi, hujan beracun, gas beracun, dan serangan langsung dengan racun atau racun yang disuntikkan.Mereka akan mendapatkan setengah dari jumlah akumulasi toksik dibandingkan dengan yang lain.</ToxResist_Partial.description>
+  <!-- EN: tox-resistant -->
+  <ToxResist_Partial.labelShortAdj>tahan toksi</ToxResist_Partial.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>TOX</ToxResist_Partial.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: tox immunity -->
+  <ToxResist_Total.label>Kekebalan terhadap racun</ToxResist_Total.label>
+  <!-- EN: Carriers of this gene are totally immune to toxic buildup from all sources including polluted terrain, toxic fallout, tox gas, and direct attacks with venom or injected poison. They are also not bothered by acidic smog.\n\nThe carrier's biochemical pathways are modified to route around interference from nearly all known toxins. Along with enhancements to the kidneys and liver, this keeps carriers comfortable in even the most toxic of environments. -->
+  <ToxResist_Total.description>Pembawa gen ini benar -benar kebal terhadap akumulasi toksik dari semua sumber, termasuk medan yang terkontaminasi, hujan beracun, gas beracun, dan serangan langsung dengan racun atau racun yang disuntikkan.Kabut beracun juga tidak mengganggu mereka.Bersama dengan peningkatan ginjal dan hati, ini membuat operator yang nyaman bahkan di lingkungan yang paling beracun.</ToxResist_Total.description>
+  <!-- EN: Tox gas immunity -->
+  <ToxResist_Total.customEffectDescriptions.0>Kekebalan terhadap gas beracun</ToxResist_Total.customEffectDescriptions.0>
+  <!-- EN: tox-immune -->
+  <ToxResist_Total.labelShortAdj>TOX-INMUE</ToxResist_Total.labelShortAdj>
+  <!-- EN: tox -->
+  <ToxResist_Total.symbolPack.prefixSymbols.0.symbol>TOX</ToxResist_Total.symbolPack.prefixSymbols.0.symbol>
+  
+  <!-- EN: intense UV sensitivity -->
+  <UVSensitivity_Intense.label>Sensitivitas super UV</UVSensitivity_Intense.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that react dangerously to UV radiation. They are intensely sensitive to sunlight. -->
+  <UVSensitivity_Intense.description>Pembawa gen ini memiliki senyawa biologis di kulit mereka yang bereaksi berbahaya terhadap radiasi ultra violet.Mereka sangat sensitif terhadap sinar matahari.</UVSensitivity_Intense.description>
+  <!-- EN: UV-vulnerable -->
+  <UVSensitivity_Intense.labelShortAdj>rentan terhadap sinar UV</UVSensitivity_Intense.labelShortAdj>
+  <!-- EN: dark -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.0.symbol>gelap</UVSensitivity_Intense.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tunnel -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.1.symbol>Tueneler</UVSensitivity_Intense.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: under -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.2.symbol>di bawah</UVSensitivity_Intense.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cave -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.3.symbol>Cueva</UVSensitivity_Intense.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crypt -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.4.symbol>ruang bawah tanah</UVSensitivity_Intense.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dim -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.5.symbol>Subway</UVSensitivity_Intense.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: night -->
+  <UVSensitivity_Intense.symbolPack.prefixSymbols.6.symbol>malam</UVSensitivity_Intense.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: mild UV sensitivity -->
+  <UVSensitivity_Mild.label>Sensitivitas ringan terhadap sinar UV</UVSensitivity_Mild.label>
+  <!-- EN: Carriers of this gene have biological compounds in their skin that react painfully to UV radiation. They are unusually sensitive to sunlight. -->
+  <UVSensitivity_Mild.description>Pembawa gen ini memiliki senyawa biologis di kulit yang bereaksi menyakitkan terhadap radiasi UV.Mereka sangat sensitif terhadap sinar matahari.</UVSensitivity_Mild.description>
+  <!-- EN: UV-sensitive -->
+  <UVSensitivity_Mild.labelShortAdj>Peka terhadap sinar UV</UVSensitivity_Mild.labelShortAdj>
+  <!-- EN: dark -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.0.symbol>gelap</UVSensitivity_Mild.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tunnel -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.1.symbol>terowongan</UVSensitivity_Mild.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: under -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.2.symbol>di bawah</UVSensitivity_Mild.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: cave -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>Cueva</UVSensitivity_Mild.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: crypt -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>ruang bawah tanah</UVSensitivity_Mild.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: dim -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>Subway</UVSensitivity_Mild.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: night -->
+  <UVSensitivity_Mild.symbolPack.prefixSymbols.6.symbol>malam</UVSensitivity_Mild.symbolPack.prefixSymbols.6.symbol>
+  
+  <!-- EN: very sleepy -->
+  <VerySleepy.label>Kelelahan kronis</VerySleepy.label>
+  <!-- EN: Carriers of this gene get tired much faster than others. -->
+  <VerySleepy.description>Pembawa gen ini menjadi jauh lebih cepat daripada yang lain.</VerySleepy.description>
+  <!-- EN: sleep -->
+  <VerySleepy.symbolPack.prefixSymbols.0.symbol>tidur</VerySleepy.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: bed -->
+  <VerySleepy.symbolPack.prefixSymbols.1.symbol>Cama</VerySleepy.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: somno -->
+  <VerySleepy.symbolPack.prefixSymbols.2.symbol>tidur</VerySleepy.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: loaf -->
+  <VerySleepy.symbolPack.suffixSymbols.0.symbol>roti</VerySleepy.symbolPack.suffixSymbols.0.symbol>
+  
+</LanguageData>

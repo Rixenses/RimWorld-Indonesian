@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: changing dryad caste of TargetA. -->
+  <ChangeTreeMode.reportString>Mengubah Kasta Dargeta Driad</ChangeTreeMode.reportString>
+  
+  <!-- EN: creating cocoon. -->
+  <CreateAndEnterCocoon.reportString>menciptakan chrysalis.</CreateAndEnterCocoon.reportString>
+  
+  <!-- EN: creating healing pod. -->
+  <CreateAndEnterHealingPod.reportString>menciptakan kapsul penyembuhan.</CreateAndEnterHealingPod.reportString>
+  
+  <!-- EN: merging into TargetB. -->
+  <MergeIntoGaumakerPod.reportString>berkumpul dengan target.</MergeIntoGaumakerPod.reportString>
+  
+  <!-- EN: converting TargetA. -->
+  <PrisonerConvert.reportString>kartu belok.</PrisonerConvert.reportString>
+  
+  <!-- EN: enslaving TargetA. -->
+  <PrisonerEnslave.reportString>Kartu Melihat.</PrisonerEnslave.reportString>
+  
+  <!-- EN: reducing will of TargetA. -->
+  <PrisonerReduceWill.reportString>Pengurangan kartu akan</PrisonerReduceWill.reportString>
+  
+  <!-- EN: pruning TargetA. -->
+  <PruneGauranlenTree.reportString>Kartu pemangkasan.</PruneGauranlenTree.reportString>
+  
+  <!-- EN: returning to TargetA. -->
+  <ReturnToGauranlenTree.reportString>Kembali ke kartu.</ReturnToGauranlenTree.reportString>
+  
+  <!-- EN: emancipating TargetA. -->
+  <SlaveEmancipation.reportString>kartu emansipasi.</SlaveEmancipation.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <SlaveExecution.reportString>Mereka berlari ke kartu.</SlaveExecution.reportString>
+  
+  <!-- EN: suppressing TargetA. -->
+  <SlaveSuppress.reportString>berisi kartu.</SlaveSuppress.reportString>
+  
+</LanguageData>

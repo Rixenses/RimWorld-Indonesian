@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abandoned settlement -->
+  <AbandonedSettlement.label>Penyelesaian yang ditinggalkan</AbandonedSettlement.label>
+  <!-- EN: The gravcore energy signature is coming from somewhere in this settlement. Explore the abandoned buildings to find the gravcore. -->
+  <AbandonedSettlement.description>Perusahaan energi gravinucole berasal dari suatu tempat di pemukiman ini.Jelajahi bangunan yang ditinggalkan untuk menemukan gravinuco.</AbandonedSettlement.description>
+  <!-- EN: Contains: Gravcore -->
+  <AbandonedSettlement.mainPartAllThreatsLabel>Berisi: Gravinúcleo</AbandonedSettlement.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient reactor -->
+  <AncientReactor.label>Reaktor kuno</AncientReactor.label>
+  <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is cracked and leaking toxic fallout over the whole region. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
+  <AncientReactor.description>Reaktor kuno tersembunyi di dalam reruntuhan di dekatnya.Reaktor retak dan menyaring hujan radioaktif beracun di seluruh wilayah.Ubica dan menonaktifkan reaktor untuk mendapatkan pajak dan menghentikan hujan radioaktif.</AncientReactor.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientReactor.mainPartAllThreatsLabel>Berisi: Gravinúcleo</AncientReactor.mainPartAllThreatsLabel>
+  
+  <!-- EN: ancient stockpile -->
+  <AncientStockpile.label>Deposit lama</AncientStockpile.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from an ancient underground stockpile. The location is marked on the world map.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <AncientStockpile.description>Anda telah mendeteksi perusahaan energi dari pajak yang berasal dari deposit bawah tanah lama.Lokasi ditandai di peta dunia.</AncientStockpile.description>
+  <!-- EN: Contains: Gravcore -->
+  <AncientStockpile.mainPartAllThreatsLabel>Berisi: Gravinúcleo</AncientStockpile.mainPartAllThreatsLabel>
+  
+  <!-- EN: crashed mechanoid platform -->
+  <CrashedMechanoidPlatform.label>Platform Mecanoid Bintang</CrashedMechanoidPlatform.label>
+  <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
+  <CrashedMechanoidPlatform.description>Sisa -sisa platform orbital tersebar di seluruh area.Hati -hati, karena di antara puing -puing ada mecanoid yang bermusuhan.</CrashedMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>Berisi: Gravinúcleo</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: frozen terraformer -->
+  <FrozenTerraformer.label>Bumi beku</FrozenTerraformer.label>
+  <!-- EN: You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
+  <FrozenTerraformer.description>Anda telah mendeteksi perusahaan energi dari suatu pajak.Gravinuko memberi makan teraph tua yang bekerja dengan buruk.Lokasinya ditandai di peta dunia. Bersiaplah untuk cuaca dingin.</FrozenTerraformer.description>
+  <!-- EN: Contains: Gravcore -->
+  <FrozenTerraformer.mainPartAllThreatsLabel>Berisi: Gravinúcleo</FrozenTerraformer.mainPartAllThreatsLabel>
+  
+  <!-- EN: cave system -->
+  <InsectLair.label>Sistem Cuevas</InsectLair.label>
+  <!-- EN: You have detected the energy signature of a gravcore emanating from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nObtain gravcores and gravlite paneling to upgrade your gravship. -->
+  <InsectLair.description>Anda telah mendeteksi firma energi gravinuko dengan berasal dari sistem gua bawah tanah.Pintu masuk ke sistem Cuevas ditandai di peta dunia.</InsectLair.description>
+  <!-- EN: Contains: Gravcore -->
+  <InsectLair.mainPartAllThreatsLabel>Berisi: Gravinúcleo</InsectLair.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid relay -->
+  <MechanoidRelay.label>Repeater mecanoid</MechanoidRelay.label>
+  <!-- EN: The gravcore energy signature is coming from a mechanoid communication relay here. Disassemble it to acquire the gravcore. -->
+  <MechanoidRelay.description>Firma Energi Gravinuko berasal dari repeater jaringan mecanoid.Memecat untuk mendapatkan pajak Anda.</MechanoidRelay.description>
+  <!-- EN: Contains: Gravcore -->
+  <MechanoidRelay.mainPartAllThreatsLabel>Berisi: Gravinúcleo</MechanoidRelay.mainPartAllThreatsLabel>
+  
+  <!-- EN: abandoned orbital platform -->
+  <OrbitalAncientPlatform.label>Platform orbital yang ditinggalkan</OrbitalAncientPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalAncientPlatform.description>Anda telah mendeteksi perusahaan energi dari suatu pajak.Pastikan gravinave Anda benar -benar tertutup dengan dinding hermetis dan lengkapi pemukim Anda dengan setelan vakum, dan rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</OrbitalAncientPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalAncientPlatform.mainPartAllThreatsLabel>Berisi: Gravinúcleo</OrbitalAncientPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechanoid platform -->
+  <OrbitalMechanoidPlatform.label>Pitaforma mecanoide</OrbitalMechanoidPlatform.label>
+  <!-- EN: You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
+  <OrbitalMechanoidPlatform.description>Anda telah mendeteksi perusahaan energi gravinucleo pada platform ini.Ada banyak mechanoides. \ N \ ntan, lokasi orbital sangat berbahaya.Pastikan gravinave Anda benar -benar tertutup dengan dinding hermetis dan lengkapi pemukim Anda dengan setelan vakum, dan rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</OrbitalMechanoidPlatform.description>
+  <!-- EN: Contains: Gravcore -->
+  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>Berisi: Gravinúcleo</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
+  
+  <!-- EN: mechhive -->
+  <OrbitalMechhive.label>Mecacolmena</OrbitalMechhive.label>
+  <!-- EN: You have detected the mechhive in orbit above the planet. Its location is marked on the world map.\n\nThe mechhive is the center of mechanoid intelligence and directs mechanoids across planet. If shut down, it will disable mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit. -->
+  <OrbitalMechhive.description>Anda telah mendeteksi Mecacolmena di orbit di planet ini.Lokasinya ditandai di peta dunia. Jika Anda menonaktifkan, Anda akan menonaktifkan mechanoides di seluruh planet ini.Atau, Anda bisa menggunakan Mecacolmena untuk tujuan Anda sendiri.Selesai Jelajahi lokasi lain dan pastikan Anda siap untuk tinggal lama di orbit.</OrbitalMechhive.description>
+  
+</LanguageData>

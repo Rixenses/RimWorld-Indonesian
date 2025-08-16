@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>GlobalAdjective-> Spacer</li>
+    <li>GlobalAdjective-> Star</li>
+    <li>GlobalAdjective-> Stellar</li>
+    <li>GlobalAdjective-> Interstellar</li>
+    <li>GlobalHyphenprefix-> astro</li>
+    <li>GlobalHyphenprefix-> Stello</li>-><CultureSpacer.rulePack.rulesStrings>
+    <li>GlobalAdjective-> Espacial</li>
+    <li>GlobalAdjective-> Estrella</li>
+    <li>GlobalAdjective-> Star</li>
+    <li>GlobalAdjective-> Interstellar</li>
+    <li>GlobalHyphenprefix-> astro</li>
+    <li>GlobalHyphenprefix-> Astral</li>
+  </CultureSpacer.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>GlobalAdjective (p = 15)-> Tribal</li>-><NamerIdeoCorunan.rulePack.rulesStrings>
+    <li>GlobalAdjective (p = 15)-> Tribal</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ideoname-> [keydeity] ism</li>
+    <li>r_ideoname-> [hyphenprefix]-[keydeity] ism</li>
+    <li>r_ideoname-> [KeyDeity] [CREED]</li>
+    <li>r_ideoname-> [Creed] dari [KeyDeity]</li>
+    <li>r_ideoadjective-> [keydeity] ic</li>
+    <li>r_membername-> [KeyDeity] IST</li>
+    <li>r_membername-> [keydeity] ite</li>
+    <li>r_ideoname (p = 6)-> [packideoname]</li>
+    <li>r_ideoname (p = 2, forceprefix == false)-> [hyphenprefix]-[packideoname]</li>
+    <li>r_ideoname (p = 2, forceprefix == false)-> [hyphenprefix]-[packideonamestructure]</li>
+    <li>r_ideoname (p = 2)-> [memeadjective] [Creed]</li>
+    <li>r_ideoname (p = 1)-> [Creed] dari [PackTheme]</li>
+    <li>r_ideoname (p = 1)-> [place_adjective] [Creed]</li>
+    <li>r_ideoname (p = 0,25)-> [Memecreed]</li>
+    <li>r_ideoadjective (prioritas = 1)-> [packadjective]</li>
+    <li>r_membername-> [PackMember]</li>
+    <li>CREED (prioritas = 1)-> [memecreed]</li>
+    <li>CREED-> [genericcreed]</li>
+    <li>Genericcreed-> CREED</li>
+    <li>Genericcreed-> Doktrin</li>
+    <li>Genericcreed-> way</li>
+    <li>Genericcreed-> path</li>
+    <li>Hyphenprefix-> [GlobalHyphenprefix]</li>
+    <li>Hyphenprefix-> [memehyphenprefix]</li>
+    <li>GlobalHyphenprefix (p = 4)-> neo</li>
+    <li>GlobalHyphenprefix (p = 2)-> POST</li>
+    <li>GlobalHyphenprefix-> nova</li>
+    <li>GlobalHyphenprefix-> Archaeo</li>
+    <li>Awalan Hyphen Global-> Hyper</li>-><NamerIdeoGlobal.rulePack.rulesStrings>
+    <li>r_ideoname-> [keydeity] ismo</li>
+    <li>r_ideoname-> [hyphenprefix] [keydeity] ismo</li>
+    <li>r_ideoname-> [Creed] de [KeyDeity]</li>
+    <li>r_ideoadjective-> [KeyDeity] ICO</li>
+    <li>r_membername-> [KeyDeity] ISTA</li>
+    <li>r_membername-> [KeyDeity] Ita</li>
+    <li>r_ideoname (p = 6)-> [packideoname]</li>
+    <li>r_ideoname (p = 2, forceprefix == false)-> [hyphenprefix] [packideoname]</li>
+    <li>r_ideoname (p = 2, forceprefix == false)-> [hyphenprefix] [packideonamestructure]</li>
+    <li>r_ideoname (p = 1)-> [Creed] del [PackTheme]</li>
+    <li>r_ideoname (p = 1)-> [Creed] [Place_adjective]</li>
+    <li>R_deoname (p = 0,25)-> [memecreed]</li>
+    <li>r_ideoname (p = 0,25)-> la [memecreedfem]</li>
+    <li>r_ideoname (p = 0,5)-> [Creed] [Memeadjective]</li>
+    <li>r_ideoname (p = 0,5)-> [creedfem] [memeadjectiveFem]</li>
+    <li>r_ideoname (p = 0.2)-> [Creed] del [PackTheme]</li>
+    <li>r_ideoadjective (prioritas = 1)-> [packadjective]</li>
+    <li>r_membername-> [PackMember]</li>
+    <li>CREED (prioritas = 1)-> [memecreed]</li>
+    <li>Creedfem (Prioritas = 1)-> [MemecreedFem]</li>
+    <li>CREED-> [genericcreed]</li>
+    <li>Creedfem-> [GenericCreedFem]</li>
+    <li>genericcreed-> credo</li>
+    <li>Genericcreed-> Circle</li>
+    <li>genericcreed-> camino</li>
+    <li>Genericcreed-> path</li>
+    <li>genericcreedfem-> orden</li>
+    <li>Genericcredfem-> persaudaraan</li>
+    <li>Hyphenprefix-> [GlobalHyphenprefix]</li>
+    <li>Hyphenprefix-> [memehyphenprefix]</li>
+    <li>GlobalHyphenprefix (p = 4)-> neo</li>
+    <li>GlobalHyphenprefix (p = 2)-> POST</li>
+    <li>GlobalHyphenprefix-> nova</li>
+    <li>globalhyphenprefix-> arqueo</li>
+    <li>Awalan Hyphen Global-> Hyper</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
+  
+</LanguageData>

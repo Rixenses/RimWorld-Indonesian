@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>FestivalName (p = 2)-> [Memeadjective] [Festival]</li>
+    <li>FestivalName-> [Festival] [Chosentheme]</li>
+    <li>FestivalName-> [terpilih TUJUAN] [Festival]</li>
+    <li>FestivalName-> [KeyDeity] [Festival]</li>
+    <li>FestivalName-> [Festival] [KeyDeity]</li>
+    <li>FestivalName-> [Festival] [Memeconscept]</li>
+    <li>FestivalName-> [Festival] dari [Chosenideoname]</li>
+    <li>Festival-> Festival</li>
+    <li>Festival-> Perayaan</li>
+    <li>Festival-> Pesta</li>
+    <li>Festival-> Advent</li>
+    <li>festival-> adil</li>
+    <li>Festival-> Jubilee</li>
+    <li>Festival-> Pesta</li>-><NamerFestivalGlobal.rulePack.rulesStrings>
+    <li>FestivalName (p = 0,0001)-> [Festival] [Memeadjective]</li>
+    <li>FestivalName (p = 4)-> [Festival] [MemeadjectiveFem]</li>
+    <li>FestivalName-> [Festival] de [chosentheme]</li>
+    <li>FestivalName (P = 0,0001)-> [Festival] [ChosenAdjective]</li>
+    <li>FestivalName -> [Festival] de [Keyityity]</li>
+    <li>FestivalName (p = 2)-> [Festival] [MemeconceptDef]</li>
+    <li>FestivalName (p = 0,0001)-> [Festival] De [chosenideoname]</li>
+    <li>Festival-> Perayaan</li>
+    <li>Festival-> Perayaan</li>
+    <li>Festival-> Pesta</li>
+    <li>Festival-> Feria</li>
+    <li>Festival-> Juerga</li>
+    <li>Festival-> Parranda</li>
+  </NamerFestivalGlobal.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_ritualname-> [FestivalName]</li>-><NamerRitualFestival.rulePack.rulesStrings>
+    <li>r_ritualname-> [FestivalName]</li>
+  </NamerRitualFestival.rulePack.rulesStrings>
+  
+</LanguageData>

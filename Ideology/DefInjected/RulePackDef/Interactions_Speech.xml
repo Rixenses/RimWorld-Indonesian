@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Ockokeof-> Bicara tentang</li>
+    <li>Ockokeof-> membicarakannya</li>
+    <li>Spokeof-> Menawarkan pemikiran tentang</li>
+    <li>unggulan-> dibahas</li>
+    <li>Ockokeof-> dijelaskan</li>
+    <li>Ockokeof-> dijelaskan</li>
+    <li>dipuji-> berpidato tentang</li>
+    <li>dipuji-> Bicara tentang</li>
+    <li>dipuji-> dibicarakan</li>
+    <li>dipuji-> dipuji</li>
+    <li>dipuji-> memuji kebajikan</li>
+    <li>dipuji-> diakui</li>
+    <li>Dipuji-> Memperdua Kemuliaan</li>
+    <li>dipuji-> mengoceh tentang</li>-><SpeechUtility.rulePack.rulesStrings>
+    <li>Ockokeof-> CHATTED DARI</li>
+    <li>Ockokeof-> membicarakannya</li>
+    <li>okroke-> Pikiran yang ditawarkan tentang</li>
+    <li>unggulan-> dibahas</li>
+    <li>Ockokeof-> dijelaskan</li>
+    <li>Ockokeof-> dijelaskan</li>
+    <li>Dipuji-> berpidato tentang</li>
+    <li>praised->charló de</li>
+    <li>Dipuji-> dibicarakan</li>
+    <li>Dipuji-> Alabó</li>
+    <li>dipuji-> memuji kebajikan</li>
+    <li>dipuji-> aclamó</li>
+    <li>Dipuji-> glorias on</li>
+    <li>Dipuji-> deliró on</li>
+  </SpeechUtility.rulePack.rulesStrings>
+  
+</LanguageData>

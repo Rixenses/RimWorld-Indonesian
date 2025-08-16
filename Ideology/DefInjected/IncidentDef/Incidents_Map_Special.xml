@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gauranlen pod sprout -->
+  <GauranlenPodSpawn.label>kecambah pohon gauranlen</GauranlenPodSpawn.label>
+  <!-- EN: Gauranlen pod sprout -->
+  <GauranlenPodSpawn.letterLabel>Kecambah pohon gauranlen</GauranlenPodSpawn.letterLabel>
+  <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
+  <GauranlenPodSpawn.letterText>Wabah Gauranlen telah tumbuh di dekatnya!\n\nPanenlah untuk mengumpulkan benih Gauranlen. Benih khusus ini dapat digunakan untuk menanam pohon Gauranlen yang agung.\n\nKoloni Anda dapat terhubung dengan pohon Gauranlen dan membuatnya menghasilkan sumber daya serta dryad yang berguna untuk bekerja atau bertarung untuk Anda.</GauranlenPodSpawn.letterText>
+
+  <!-- EN: beggars arrive -->
+  <GiveQuest_Beggars.label>pengemis tiba</GiveQuest_Beggars.label>
+  <!-- EN: beggars arrive -->
+  <GiveQuest_Beggars.letterLabel>Pengemis tiba</GiveQuest_Beggars.letterLabel>
+  
+  <!-- EN: pilgrims arrive -->
+  <GiveQuest_ReliquaryPilgrims.label>peziarah tiba</GiveQuest_ReliquaryPilgrims.label>
+  <!-- EN: pilgrims arrive -->
+  <GiveQuest_ReliquaryPilgrims.letterLabel>Peziarah tiba</GiveQuest_ReliquaryPilgrims.letterLabel>
+  
+  <!-- EN: insect jelly -->
+  <Infestation_Jelly.label>jeli serangga</Infestation_Jelly.label>
+  <!-- EN: Insect jelly -->
+  <Infestation_Jelly.letterLabel>Jeli Serangga</Infestation_Jelly.letterLabel>
+  <!-- EN: Giant insects have tunneled up from underneath and deposited some surplus insect jelly on the surface. -->
+  <Infestation_Jelly.letterText>Serangga raksasa telah membuat terowongan dari lapisan tanah dan telah menyimpan banyak jeli serangga di permukaan.</Infestation_Jelly.letterText>
+  
+  <!-- EN: Wanderers -->
+  <WanderersSkylantern.label>pejalan kaki</WanderersSkylantern.label>
+  <!-- EN: Friendly visitors -->
+  <WanderersSkylantern.letterLabel>Pengunjung yang ramah</WanderersSkylantern.letterLabel>
+  <!-- EN: Your skylanterns have attracted some friendly travelers. The travelers were amazed by the spectacle you created and hope they'll get to participate next time.\n\nThey will visit and leave a gift. -->
+  <WanderersSkylantern.letterText>Lentera Anda telah menarik beberapa pelancong yang ramah. Mereka terkesan dengan pertunjukan dan berharap untuk berpartisipasi lain kali.\n\nMereka akan mengunjungi dan meninggalkan hadiah.</WanderersSkylantern.letterText>
+
+</LanguageData>

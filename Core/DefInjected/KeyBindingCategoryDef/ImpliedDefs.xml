@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: suelos tab -->
+  <Architect_Floors.label>Bagian Tanah</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Suelos" section of the Architect menu -->
+  <Architect_Floors.description>Alokasi kunci untuk bagian tanah dari menu arsitek.</Architect_Floors.description>
+  
+  <!-- EN: mobiliario tab -->
+  <Architect_Furniture.label>Bagian furnitur</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Mobiliario" section of the Architect menu -->
+  <Architect_Furniture.description>Alokasi kunci untuk bagian furnitur dari menu arsitek.</Architect_Furniture.description>
+  
+  <!-- EN: diversión tab -->
+  <Architect_Joy.label>Bagian yang menyenangkan</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Diversión" section of the Architect menu -->
+  <Architect_Joy.description>Alokasi kunci untuk kesenangan menu arsitek.</Architect_Joy.description>
+  
+  <!-- EN: varios tab -->
+  <Architect_Misc.label>Berbagai bagian</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Varios" section of the Architect menu -->
+  <Architect_Misc.description>Penugasan Utama Untuk Bagian Beberapa Menu Arsitek.</Architect_Misc.description>
+  
+  <!-- EN: órdenes tab -->
+  <Architect_Orders.label>Bagian Pesanan</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Órdenes" section of the Architect menu -->
+  <Architect_Orders.description>Alokasi kunci untuk pesanan menu arsitek.</Architect_Orders.description>
+  
+  <!-- EN: electricidad tab -->
+  <Architect_Power.label>Bagian Listrik</Architect_Power.label>
+  <!-- EN: Key bindings for the "Electricidad" section of the Architect menu -->
+  <Architect_Power.description>Alokasi kunci untuk bagian listrik dari menu arsitek.</Architect_Power.description>
+  
+  <!-- EN: producción tab -->
+  <Architect_Production.label>Bagian Produksi</Architect_Production.label>
+  <!-- EN: Key bindings for the "Producción" section of the Architect menu -->
+  <Architect_Production.description>Penugasan Utama untuk bagian Produksi Menu Arsitek.</Architect_Production.description>
+  
+  <!-- EN: seguridad tab -->
+  <Architect_Security.label>Bagian Keamanan</Architect_Security.label>
+  <!-- EN: Key bindings for the "Seguridad" section of the Architect menu -->
+  <Architect_Security.description>Alokasi kunci untuk bagian keamanan menu arsitek.</Architect_Security.description>
+  
+  <!-- EN: nave tab -->
+  <Architect_Ship.label>Bagian Kapal</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Nave" section of the Architect menu -->
+  <Architect_Ship.description>Alokasi kunci untuk nave dari menu arsitek.</Architect_Ship.description>
+  
+  <!-- EN: estructuras tab -->
+  <Architect_Structure.label>Bagian Struktur</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Estructuras" section of the Architect menu -->
+  <Architect_Structure.description>Alokasi kunci untuk bagian Struktur Menu Arsitek.</Architect_Structure.description>
+  
+  <!-- EN: temperatura tab -->
+  <Architect_Temperature.label>Bagian suhu</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatura" section of the Architect menu -->
+  <Architect_Temperature.description>Alokasi kunci untuk bagian Suhu Menu Arsitek.</Architect_Temperature.description>
+  
+  <!-- EN: áreas tab -->
+  <Architect_Zone.label>Bagian Area</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Áreas" section of the Architect menu -->
+  <Architect_Zone.description>Alokasi utama untuk area menu arsitek.</Architect_Zone.description>
+  
+</LanguageData>

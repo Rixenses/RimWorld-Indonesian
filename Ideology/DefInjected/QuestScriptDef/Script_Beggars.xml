@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>letterlabelbeggarsbetrayed-> [grouplabelingingleorplural] dirugikan</li>
+    <li>lettertextbeggarsbetrayed-> [grouplabelsingleorplural] yang [waswere] mencari amal Anda [haU] telah dirugikan.Kolonis dengan keyakinan amal tidak akan bahagia.</li>
+    <li>Hashave (beggarcount == 1)-> have</li>
+    <li>Hashave (beggarcount> = 2)-> have</li>
+    <li>Anda sudah (beggarcount == 1) -> dulu</li>
+    <li>Wask (beggarcount> = 2) -> untuk</li>
+    <li>Grouplabelsingleorplural (beggarcount == 1)-> wisatawan</li>
+    <li>Grouplabelsingleorplural (Beggarcount> = 2)-> Wisatawan</li>-><Beggars.questContentRules.rulesStrings>
+    <li>letterlabelbeggarsbetrayed-> [grouplabelsingleorplural] [Dikhianati]</li>
+    <li>Lettertextbeggarsbotrayed-> [losel] [grouplassingleorplural], [yang] [waswere] Mencari amal Anda [hashave] telah [dikhianati].Para pemukim dengan keyakinan amal tidak akan bahagia.</li>
+    <li>losel (beggarcount == 1, beggars0_gender! = wanita)-> el</li>
+    <li>Losel (beggarcount == 1, beggars0_gender == wanita)-> la</li>
+    <li>Losel (Beggarcount> = 2)-> LOS</li>
+    <li>Hashave (beggarcount == 1)-> ha</li>
+    <li>Hashave (beggarcount> = 2)-> han</li>
+    <li>siapa (beggarcount == 1)-> quien</li>
+    <li>siapa (beggarcount> = 2)-> quienes</li>
+    <li>Dikhianati (beggarcount == 1)-> herid [beggars_o_a]</li>
+    <li>dikhianati (beggarcount> = 2)-> heridos</li>
+    <li>Wask (beggarcount == 1) -> estaba</li>
+    <li>waswere (beggarcount> = 2)-> estaban</li>
+    <li>label grup tunggal atau jamak (jumlah pengemis == 1)-> viajar [pengemis _o_a]</li>
+    <li>Label grup tunggal atau jamak (jumlah pengemis> = 2)-> viejeros</li>
+  </Beggars.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>Grouplabelplural-> Wisatawan</li>
+    <li>grouplabelplural (allchildren == true, prioritas = 1)-> anak-anak</li>
+    <li>grouplabelsingle-> wisatawan</li>
+    <li>Grouplabelsingle (childcount> = 1, prioritas = 1)-> anak</li>
+    <li>TravelerInfo (beggarcount == 1)-> ini [grouplabelsingle] adalah</li>
+    <li>TravelerInfo (Beggarcount> = 2)-> ini [Grouplabelplural] adalah</li>
+    <li>BeggingForInfo-> untuk x [diminta dengan count] [diminta dengan_label]</li>
+    <li>traverobjective (beggarcount == 1)-> [beggars0_objective]</li>
+    <li>traverObjective (beggarcount> = 2)-> mereka</li>
+    <li>QuestDescription-> [pendekataninfo].[requestInfo].[claimInfo]. \ n \ n [InteractionInfo]. \ n \ n [moveOnInfo]. \ n \ n [travelerinfo] bukan bagian dari faksi apa pun.Jika Anda mau, Anda dapat memilih untuk membunuh, menangkap, menjual, atau memanen [traverobjective], tanpa konsekuensi diplomatik.</li>
+    <li>pendekataninfo (beggarcount == 1)-> yang buruk [grouplabelsingle] bernama [beggars0_namedef] sedang mendekati mencari bantuan</li>
+    <li>pendekataninfo (beggarcount> = 2)-> sekelompok orang miskin [grouplabelplural] semakin dekat mencari bantuan</li>
+    <li>pendekataninfo (beggarcount> = 2, childcount == 1, prioritas = 1)-> sekelompok orang miskin [grouplabelplural] termasuk seorang anak mendekati mencari bantuan</li>
+    <li>pendekataninfo (beggarcount> = 2, childcount> = 2, allchildren == false, prioritas = 1)-> sekelompok orang miskin [grouplabelplural] termasuk beberapa anak mendekati mencari bantuan</li>
+    <li>requestInfo (beggarcount == 1)-> [beggars0_namedef] sedang mengemis [beggingforinfo]</li>
+    <li>requestInfo (beggarcount> = 2)-> [grouplabelplural] sedang mengemis [beggingforinfo]</li>
+    <li>claimInfo (beggarcount == 1, diminta dengan defname == perak)-> [beggars0_namedef] ingin perak melunasi hutang kepada sekelompok perompak yang berburu [beggars0_objective]</li>
+    <li>claimInfo (beggarcount == 1, diminta dengan defname == perak, childcount == 1, prioritas = 1)-> [beggars0_namedef] ingin perak membantu membeli kebebasan [beggars0_possessive] yang diperbudak oleh bajak laut [beggar0_possessive] yang diperbudak oleh bajak laut [beggar0_posesif</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount == 1, diminta,</li>
+    <li>claimInfo (beggarcount> = 2, diminta,</li>
+    <li>claimInfo (Beggarcount> = 2, diminta,</li>
+    <li>claimInfo (beggarcount> = 2, diminta,</li>
+    <li>claimInfo (beggarcount> = 2, diminta,</li>
+    <li>claimInfo (beggarcount> = 2, requestphingDefname == penoxycyline)-> Mereka ingin [diminta dengan_label] sehingga mereka dapat bepergian dengan aman sambil mencari tempat baru untuk menelepon ke rumah</li>
+    <li>claimInfo (beggarcount> = 2, diminta dengan defname == bir)-> Mereka ingin [meminta_label] untuk membantu mereka menenggelamkan kesedihan mereka setelah kehilangan rumah dalam serangan yang mengerikan</li>
+    <li>claimInfo (beggarcount> = 2, diminta,</li>
+    <li>InteractionInfo (beggarcount == 1)-> Anda dapat memberikan item ke [beggars0_namedef] dengan memilih penjajah dan mengklik kanan pada [beggars0_objective]</li>
+    <li>InteractionInfo (Beggarcount> = 2)-> Anda dapat memberikan item ke [grouplabelplural] dengan memilih penjajah dan mengklik kanan pada [beggars0_namedef]</li>
+    <li>moveOnInfo (beggarcount == 1)-> [beggars0_namedef] akan melanjutkan setelah [vis vis visitdurationticks_duration]</li>
+    <li>MoveOnInfo (Beggarcount> = 2)-> [Grouplabelplural] akan melanjutkan setelah [VisitDurationTicks_Duration]</li>-><Beggars.questDescriptionRules.rulesStrings>
+    <li>Grouplabelplural-> Wisatawan</li>
+    <li>Grouplabelplural (allchildren == true, prioritas = 1)-> anak-anak</li>
+    <li>Pumpkinsingle-> upbird_o_a]</li>
+    <li>GroupBel Ringle (childcount> = 1, prioritas = 1)-> niñ [beggars_o_a]</li>
+    <li>Travelerenebo (pecuorund == ௧)-> timur [packers_a_a] [grublabelsingle] Teidak Miss.</li>
+    <li>travelerInfo (beggarcount> = 2)-> estos [grouplabelplural] no son</li>
+    <li>BeggingForInfo-> por x [wajib permintaan] [wajib_label]</li>
+    <li>traverobjective (beggarcount == 1)-> [beggars0_objective]</li>
+    <li>traverobjective (beggarcount> = 2)-> los</li>
+    <li>QuestDescription-> [pendekataninfo].[requestInfo].[ClaimInfo]. \ n \ n [InteractionInfo]. \ n \ n [moveOnInfo].Jika diinginkan, Anda dapat memilih untuk membunuh, menangkap, menjual, atau mengekstrak organ Anda, tanpa konsekuensi diplomatik.</li>
+    <li>Info pendekatan (beggarcout == 1, pengemis 0_gender! = Wanita)-> yang buruk [grouplessingle] disebut [pengemis 0_namedef] sedang mendekati untuk mencari bantuan</li>
+    <li>Info pendekatan (beggarcout == 1, pengemis 0_gend == betina)-> yang buruk [grouplessingle] disebut [pengemis 0_namedef] sedang mendekati untuk mencari bantuan</li>
+    <li>Pendekataninfo (beggarcount> = 2)-> buruk [grouplabelplural] mendekati bantuan</li>
+    <li>RequetInfo (beggount == 1)-> [beggars0_namedef] adalah rocker [beggingforinfo]</li>
+    <li>Pendekataninfo (beggarcount> = 2, childcount == 1, prioritas = 1)-> sekelompok orang miskin [grouplabelplural] termasuk pendekatan anak dalam mencari bantuan</li>
+    <li>Pendekataninfo (beggarcount> = 2, childcount> = 2, allchildren == false, prioritas = 1)-> sekelompok orang miskin [grouplebelplural] termasuk beberapa anak pendekatan dalam mencari bantuan</li>
+    <li>RequestInfo (beggarcout> = 2)-> [grouplabelplural] sedang mengemis [beggingforforinfo]</li>
+    <li>ClaimInfo (beggarcout == 1, clasquedthingDefname == perak)-> [beggars0_namedef] membutuhkan perak untuk membayar hutang kepada sekelompok bajak laut yang mengejar [beggar0_objective] mengejar</li>
+    <li>KlaimInfo (beggarcount == 1, selai</li>
+    <li>ClaimInfo (beggarcout == 1, clasquedthingDefname == MedicineBal)-> [beggars0_namedef] membutuhkan obat untuk membantu seorang pelancong yang terluka di dekat sini</li>
+    <li>KlaimInfo (beggarcount == 1, selai</li>
+    <li>KlaimInfo (beggarcount == 1, selai</li>
+    <li>ClaimInfo (beggarcout == 1, clasquedthingDefname == penoxycyline)-> [beggars0_namedef] kebutuhan [jam</li>
+    <li>KlaimInfo (beggarcount == 1, selai</li>
+    <li>KlaimInfo (beggarcount == 1, selai</li>
+    <li>ClaimInfo (beggarcout> = 2, clasquedthingDefname == perak)-> mereka membutuhkan perak untuk membayar penyelamatan seorang teman yang baru saja diculik</li>
+    <li>KlaimInfo (Beggarcount> = 2, selai</li>
+    <li>ClaimInfo (Beggarcout> = 2, ClasshingDefname == MedicineBal, Allchildren == Benar, Prioritas = 1)-> Mereka membutuhkan obat untuk menyiapkan obat herbal untuk seorang teman yang bersujud di tempat tidur dengan demam yang intens dengan intens</li>
+    <li>KlaimInfo (Beggarcount> = 2, selai</li>
+    <li>KlaimInfo (Beggarcount> = 2, selai</li>
+    <li>KlaimInfo (Beggarcount> = 2, selai</li>
+    <li>ClaimInfo (beggarcout> = 2, clasquedthingDefname == bir, allchildren == true, prioritas = 1)-> mereka berharap untuk menggunakan [jam</li>
+    <li>InteractionInfo (beggarcount == 1)-> Anda dapat memberikan artikel ke [beggars0_namedef] memilih pemukim dan mengklik dengan tombol kanan pada [beggars0_pronoun]</li>
+    <li>InteractionInfo (Beggarcount> = 2)-> Anda dapat memberikan artikel ke [Grouplabelplural] memilih pemukim dan mengklik dengan tombol kanan di [beggars0_namedef]</li>
+    <li>MoveOnInfo (beggarcount == 1)-> [beggars0_namedef] akan berlanjut setelah [visduratiticks_duration]</li>
+    <li>MoveOnInfo (Beggarcount> = 2)-> [Grouplabelplural] akan berlanjut setelah [visduratiticks_duration]</li>
+  </Beggars.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (beggarcount == 1)-> [beggarsingle] [menari] [ALMS]</li>
+    <li>QuestName (beggarcount == 1, childcount == 1, prioritas = 1)-> muda [pengemis] [mencari] [ALMS]</li>
+    <li>QuestName (Beggarcount> = 2)-> [Beggarplural] [Findingingplural] [ALMS]</li>
+    <li>QuestName (Beggarcount> = 2, allchildren == true, prioritas = 1)-> muda [beggarplural] [pencarianplural] [ALMS]</li>
+    <li>pengemis-> pengemis</li>
+    <li>pengemis-> vagabond</li>
+    <li>MoneyMis-> Drives</li>
+    <li>pengemis-> wisatawan</li>
+    <li>beggarplural-> [pengemis] s</li>
+    <li>Temukan-> temukan</li>
+    <li>Mencari permintaan</li>
+    <li>mencari keinginan untuk</li>
+    <li>mencari keinginan</li>
+    <li>mencari kebutuhan</li>
+    <li>Find-> Hope for</li>
+    <li>Cari untuk-> temukan</li>
+    <li>Mencari permintaan-> permintaan</li>
+    <li>Mencari plural-> berharap</li>
+    <li>Cari forplural-> Harapan</li>
+    <li>Mencari Keinginan-> Keinginan</li>
+    <li>Mencari Kebutuhan-> Kebutuhan</li>
+    <li>ALMS-> ALMS</li>
+    <li>ALMS-> AID</li>
+    <li>Charity-> Charity</li>
+    <li>ALMS-> Sumber Daya</li>-><Beggars.questNameRules.rulesStrings>
+    <li>QuestName (beggarcount == 1)-> [beggarsingle] [menari] [ALMS]</li>
+    <li>QuestName (beggarcount == 1, childcount == 1, prioritas = 1)-> un joven [beggarsingle] [mencari] [ALMS]</li>
+    <li>QuestName (Beggarcount> = 2)-> [Beggarplural] [Findingingplural] [ALMS]</li>
+    <li>QuestName (Beggarcount> = 2, allchildren == true, prioritas = 1)-> muda [beggarplural] [pencarianplural] [ALMS]</li>
+    <li>beggarSingle->mendigo</li>
+    <li>pengemis-> vagabundo</li>
+    <li>pengemis-> berkeliaran</li>
+    <li>Pengemis-> wisatawan</li>
+    <li>beggarplural-> [pengemis] s</li>
+    <li>Mencari-> Busca</li>
+    <li>Mencari-> Solicita</li>
+    <li>Mentari-> Wishes</li>
+    <li>Sebutkan-> membutuhkan</li>
+    <li>Mentari- kebutuhan</li>
+    <li>Mencari-> pide</li>
+    <li>Findingingplural-> Buscan</li>
+    <li>pencarianplural-> solicitan</li>
+    <li>Findingingplural-> DeSean</li>
+    <li>finingingplial-> piden</li>
+    <li>Findingingplural-> Requieren</li>
+    <li>Pencarianplural-> Mereka membutuhkan</li>
+    <li>ALMS-> LIMOSNA</li>
+    <li>ALMS-> BANTUAN</li>
+    <li>Charity-> Charity</li>
+    <li>ALMS-> Sumber Daya</li>
+  </Beggars.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decent dining room -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>Ruang makan yang layak</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <!-- EN: I ate my meal in a decent dining room. -->
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>Saya sudah makan di ruang makan yang layak.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <!-- EN: slightly impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>ruang makan yang bisa diterima</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a slightly impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Saya sudah makan di ruang makan yang bisa diterima.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <!-- EN: somewhat impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>ruang makan sesuatu yang mengesankan</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Saya sudah makan di ruang makan yang agak mengesankan.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <!-- EN: very impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>ruang makan yang sangat mengesankan</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a very impressive dining room. -->
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Saya sudah makan di ruang makan yang sangat mengesankan.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <!-- EN: extremely impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>Ruang makan yang sangat mengesankan</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Saya sudah makan di ruang makan yang sangat mengesankan.Saya bisa tinggal di sana selamanya.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <!-- EN: unbelievably impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>Ruang makan yang sangat mengesankan</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Saya sudah makan di ruang makan yang sangat mengesankan.Saya bisa tinggal di sana selamanya.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <!-- EN: wondrously impressive dining room -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>ruang makan luar biasa mengesankan</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Saya makan di ruang makan yang indah.Saya bisa tinggal di sana selamanya.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  
+  <!-- EN: decent rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>Ruang rekreasi yang layak</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <!-- EN: I had fun in a decent rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>Saya bersenang -senang di ruang rekreasi yang layak.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <!-- EN: slightly impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>Kamar Rekreasi yang Dapat Diterima</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <!-- EN: I had fun in a nice rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang menyenangkan.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <!-- EN: somewhat impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>Sesuatu yang mengesankan ruang rekreasi</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <!-- EN: I had a great time in an impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang mengesankan.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <!-- EN: very impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>Ruang rekreasi yang sangat mengesankan</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <!-- EN: I had a great time in a very impressive rec room. -->
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang sangat mengesankan.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <!-- EN: extremely impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>Ruang rekreasi yang sangat mengesankan</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang sangat mengesankan.Saya bisa tinggal di sana selamanya.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <!-- EN: unbelievably impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>Ruang rekreasi yang sangat mengesankan</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang sangat mengesankan.Saya bisa tinggal di sana selamanya.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <!-- EN: wondrously impressive rec room -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>Kamar rekreasi yang sangat mengesankan</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Saya bersenang -senang di ruang rekreasi yang indah.Saya bisa tinggal di sana selamanya.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  
+  <!-- EN: awful barracks -->
+  <SleptInBarracks.stages.awful_barracks.label>Barak Horrendo</SleptInBarracks.stages.awful_barracks.label>
+  <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
+  <SleptInBarracks.stages.awful_barracks.description>Saya harus tidur di barak yang mengerikan.Di atas, selain mengerikan, saya harus membagikannya!</SleptInBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <SleptInBarracks.stages.dull_barracks.label>barak yang membosankan</SleptInBarracks.stages.dull_barracks.label>
+  <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
+  <SleptInBarracks.stages.dull_barracks.description>Saya harus tidur di barak yang membosankan.Dan tidak hanya itu, saya juga harus membaginya dengan orang lain.</SleptInBarracks.stages.dull_barracks.description>
+  <!-- EN: mediocre barracks -->
+  <SleptInBarracks.stages.mediocre_barracks.label>Barrack yang biasa -biasa saja</SleptInBarracks.stages.mediocre_barracks.label>
+  <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
+  <SleptInBarracks.stages.mediocre_barracks.description>Saya harus tidur di barak yang biasa -biasa saja dengan orang lain di sekitar saya.Saya tidak suka apapun.</SleptInBarracks.stages.mediocre_barracks.description>
+  <!-- EN: decent barracks -->
+  <SleptInBarracks.stages.decent_barracks.label>barak yang layak</SleptInBarracks.stages.decent_barracks.label>
+  <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
+  <SleptInBarracks.stages.decent_barracks.description>Saya tidur di barak yang layak, tetapi saya tidak suka berbagi ruang istirahat saya.</SleptInBarracks.stages.decent_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>Barak yang dapat diterima</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>Saya harus tidur di barak yang cukup indah, tetapi saya tidak suka berbagi ruang istirahat saya.</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: impressive barracks -->
+  <SleptInBarracks.stages.impressive_barracks.label>Barak yang mengesankan</SleptInBarracks.stages.impressive_barracks.label>
+  <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
+  <SleptInBarracks.stages.impressive_barracks.description>Saya harus tidur di barak yang mengesankan.Adalah omong kosong untuk membagikannya.</SleptInBarracks.stages.impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <SleptInBarracks.stages.very_impressive_barracks.label>Barak yang sangat mengesankan</SleptInBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.very_impressive_barracks.description>Saya tidur di barak yang mengesankan.Saya bahkan tidak keberatan membagikannya.</SleptInBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>barak yang sangat mengesankan</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>Saya tidur di barak yang sangat mengesankan.Saya bahkan tidak keberatan membagikannya.</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>Barak yang sangat mengesankan</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>Barak di mana saya tidur sangat mengesankan sehingga saya bahkan tidak keberatan membagikannya.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>Barracón sangat mengesankan</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>Saya tidur di barak yang sangat indah.Bahkan berbagi ruang seperti itu membuatku bahagia.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <!-- EN: awful bedroom -->
+  <SleptInBedroom.stages.awful_bedroom.label>kamar tidur yang mengerikan</SleptInBedroom.stages.awful_bedroom.label>
+  <!-- EN: I had to sleep in an awful room. -->
+  <SleptInBedroom.stages.awful_bedroom.description>Saya harus tidur di ruangan yang mengerikan.</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: mediocre bedroom -->
+  <SleptInBedroom.stages.mediocre_bedroom.label>Kamar tidur yang biasa -biasa saja</SleptInBedroom.stages.mediocre_bedroom.label>
+  <!-- EN: I slept in a mediocre bedroom. Better than the alternative. -->
+  <SleptInBedroom.stages.mediocre_bedroom.description>Saya tidur di kamar tidur yang biasa -biasa saja.Saya kira lebih sedikit bukan apa -apa.</SleptInBedroom.stages.mediocre_bedroom.description>
+  <!-- EN: decent bedroom -->
+  <SleptInBedroom.stages.decent_bedroom.label>Kamar tidur yang layak</SleptInBedroom.stages.decent_bedroom.label>
+  <!-- EN: I got to sleep in a pretty decent bedroom. -->
+  <SleptInBedroom.stages.decent_bedroom.description>Kamar tidur saya memadai, tanpa lebih.</SleptInBedroom.stages.decent_bedroom.description>
+  <!-- EN: slightly impressive bedroom -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>Kamar tidur yang bisa diterima</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Kamar tidur saya memiliki daya tarik tertentu.Saya menyukainya.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <!-- EN: impressive bedroom -->
+  <SleptInBedroom.stages.impressive_bedroom.label>Kamar tidur yang mengesankan</SleptInBedroom.stages.impressive_bedroom.label>
+  <!-- EN: I slept in an impressive bedroom. It was great. -->
+  <SleptInBedroom.stages.impressive_bedroom.description>Kamar tidur saya mengesankan.Itu bagus.</SleptInBedroom.stages.impressive_bedroom.description>
+  <!-- EN: very impressive bedroom -->
+  <SleptInBedroom.stages.very_impressive_bedroom.label>Kamar tidur yang sangat mengesankan</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <!-- EN: I slept in a very impressive bedroom. I love it. -->
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Kamar tidur saya sangat mengesankan.Saya menyukainya.</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <!-- EN: extremely impressive bedroom -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>Kamar tidur yang sangat mengesankan</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Kamar tidur saya sangat mengesankan.Itu luar biasa.</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <!-- EN: unbelievably impressive bedroom -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>Kamar tidur yang sangat mengesankan</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Saya tidur di tempat yang sangat mengesankan.Memasuki di sana seperti bermimpi terjaga.</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <!-- EN: wondrously impressive bedroom -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>Kamar tidur yang sangat mengesankan</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Kamar tidur saya adalah tempat terbaik yang bisa dibayangkan.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  
+</LanguageData>

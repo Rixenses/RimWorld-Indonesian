@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals will attack doors -->
+  <AnimalsDontAttackDoors.label>Hewan tidak menyerang pintu</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
+  <AnimalsDontAttackDoors.helpText>Hewan pemburu umumnya tidak akan menyerang gerbang atau menara yang tidak aktif. Tapi mereka akan menunggu Anda.</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Tab Proyek</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>Untuk membuat para pemukim menggunakan tabel kerja, pilih salah satu dan klik pada tab PROYEK. Di sini Anda dapat menetapkan makanan apa yang dimasak, produk apa yang dibuat, dan makhluk apa yang disembelih.</BillsTab.helpText>
+  
+  <!-- EN: books -->
+  <Books.label>buku</Books.label>
+  <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
+  <Books.helpText>Pemukim membaca buku untuk bersantai, memperoleh keterampilan, membuka penelitian, dan banyak lagi. Anda dapat melihat efek dari buku tertentu dengan memilihnya dan membuka tab "Detail" Untuk memilih apa yang akan dibaca oleh pemukim, buka tab ASSIGN (TETAPKAN) dan atur KEBIJAKAN MEMBACA Simpan buku di rak untuk meningkatkan pekerjaan intelektual dan membaca yang dilakukan di dekatnya, dan meningkatkan keindahan rak buku. Rak buku meningkatkan kecepatan penelitian, pengalaman, dan waktu luang yang diperoleh dari membaca di ruangan yang sama.</Books.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Membangun suar perdagangan orbital</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>Untuk mengirim barang atau perak ke pedagang di orbit, Anda harus membangun ORBITAL TRADING BEACON dan menunjuk depot di sekitarnya.</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>Tangkap musuh</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Ketika musuh pingsan di tanah tetapi tidak mati, Anda dapat MENANGKAP mereka. Untuk menangkap, pilih koloni, klik kanan pada musuh yang tidak sadar dan pilih Tangkap.</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>Ketika musuh pingsan di tanah tetapi tidak mati, Anda dapat MENANGKAP mereka. Untuk menangkap, pilih koloni, tekan pelatuk kiri pada musuh yang tidak sadarkan diri dan pilih Tangkap.</Capturing.helpTextController>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Kecepatan pembukaan pintu</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Pintu terbuka dengan kecepatan yang berbeda tergantung pada bahan pembuatnya. Peringatan: Pintu batu terbuka dengan sangat lambat. Siapa pun yang mencoba melewatinya akan melambat secara signifikan.</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>Rekrutmen tempur</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>Untuk mengontrol koloni secara langsung untuk bertempur, Rekrut mereka dengan memilih mereka dan menekan tombol RECRUIT. Koloni yang direkrut hanya akan melakukan apa yang Anda perintahkan, dan hanya dapat melakukan aksi tempur. Mereka yang memiliki senjata akan menggunakannya jika memungkinkan. Jangan biarkan koloni yang direkrut selamanya - mereka akan kelaparan dan menjadi tidak bahagia.</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Kecanduan narkoba</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Anda dapat memeriksa kebutuhan koloni akan obat-obatan dengan memilihnya dan mengklik tab Kebutuhan. Selama levelnya nol, kecanduan berubah menjadi kondisi "kekurangan" yang dapat menimbulkan berbagai efek negatif.</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>Pembakaran obat</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Obat-obatan dapat bermanfaat, tetapi juga dapat menyebabkan kecanduan yang mengerikan. Jika Anda ingin menghindari narkoba di koloni Anda, Anda memiliki pilihan untuk membakarnya di tiang pancang.</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Kebijakan narkoba</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Anda dapat menugaskan koloni tertentu untuk meminum obat tertentu pada jadwal tertentu. Misalnya, Anda dapat meminta mereka meminum obat pencegah infeksi secara teratur, atau meminta mereka minum bir setiap hari untuk membuat mereka tetap bahagia. Buka tab ASSIGN dan pilih "Kelola kebijakan obat. Buat kebijakan baru dan tetapkan untuk koloni Anda. Anda dapat memberi tahu mereka apa yang harus dilakukan, tetapi mereka masih memiliki keinginan mereka sendiri!</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>Menempatkan tentara</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>Klik kanan dan seret untuk mengatur koloni yang Anda rekrut dalam satu baris. Sasaran yang tersebar dan dikelompokkan mudah dijangkau!</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>Tahan pelatuk kiri dan seret untuk membuat pesawat tempur Anda membentuk garis. Target yang menyebar dan dikelompokkan akan mudah ditembak!</GroupGotoHereDragging.helpTextController>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Interaksi dengan pedagang</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpText>Anda dapat berbicara dengan orang yang memiliki tanda "?" di atas kepala mereka. Pilih pemukim dan klik kanan pada orang yang ditandai dengan simbol "?".</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>Anda dapat berbicara dengan orang-orang dengan "?" di kepala mereka. Pilih penjajah dan tekan tombol kiri pada karakter dengan "?" di kepala mereka.</InteractingWithTraders.helpTextController>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Menggunakan konsol komunikasi</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>Untuk menghubungi trader atau faksi, pilih pemukim dan klik kanan pada konsol komunikasi.</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>Untuk menghubungi trader atau faksi, pilih pemukim dan tekan pelatuk kiri pada konsol komunikasi.</OpeningComms.helpTextController>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>Tab Tahanan</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Lihat tab TAHANAN karakter untuk menyesuaikan bagaimana Anda akan memperlakukan mereka. Anda dapat menyesuaikan apakah Anda ingin merekrut, mengabaikan, atau mengeksekusi mereka, apa yang akan Anda berikan kepada mereka, dan jenis perawatan medis apa yang akan mereka terima. Kamu dapat mengatur pembatasan makanan untuk tahanan di tab kesehatan mereka. Kamu akan membutuhkan seorang pemukim untuk bekerja sebagai penjaga untuk menjaga para tahanan.</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Antrian pesanan</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>Ketika memberikan perintah kepada pemukim, Anda dapat mengantri beberapa perintah dengan menahan tombol "Shift". Hal ini juga berlaku saat memberikan pekerjaan kepada pemukim yang tidak direkrut.</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>Ketika memberikan perintah kepada pemukim, Anda dapat membuat antrian beberapa perintah dengan menekan {Key:QueueOrder}. Hal ini juga dapat dilakukan saat memberikan pekerjaan kepada pemukim yang tidak direkrut.</QueueOrders.helpTextController>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Memperbarui karavan</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>Setelah pertemuan, Anda dapat dengan mudah memperbarui karavan Anda menggunakan perintah REFORM CARAVAN di tampilan planet.</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>Penyelamatan</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>Untuk menyelamatkan orang yang terluka, pilih koloni yang sehat lalu klik kanan pada orang yang terluka. Jika Anda menyelamatkan orang yang bukan pengendali, mereka tidak akan langsung bergabung dengan koloni Anda. Mereka bisa saja pergi setelah sembuh. Jika Anda ingin memastikan mereka bergabung, tangkap dan rekrut mereka.</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>Untuk menyelamatkan orang yang terluka, pilih koloni yang sehat lalu tekan pelatuk kiri pada orang yang terluka. Jika Anda menyelamatkan orang yang tidak terkendali, mereka belum tentu bergabung dengan koloni Anda. Mereka bisa saja pergi setelah sembuh. Jika Anda ingin memastikan mereka bergabung, tangkap dan rekrut mereka.</Rescuing.helpTextController>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Pengaturan tanaman mana yang akan ditanam</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Anda dapat mengatur apa yang akan ditanam di area yang sedang tumbuh - Anda bahkan dapat menanam pohon! Pilih area yang sedang tumbuh, buka tab Tanaman dan klik tombol "tanam".</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>Rak</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>Rak-rak menyimpan tiga kali lebih banyak daripada lantai kosong. Barang-barang di rak tidak akan pernah rusak dan tidak akan memengaruhi keindahan sekelilingnya. Anda dapat menautkan rak dalam kelompok dan mengonfigurasinya sebagai satu kesatuan. Pertama, pilih dua rak atau lebih, lalu klik "Terapkan konfigurasi penyimpanan".</Shelves.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Sabuk pelindung</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Sabuk perisai mencegah serangan jarak jauh masuk atau keluar, tetapi memiliki efek pada serangan jarak dekat. Untuk melawan lawan yang mengenakan sabuk perisai, fokuskan semua daya tembak Anda padanya sampai dia kelelahan, atau serang dia dalam jarak dekat.</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>Televisi untuk orang sakit</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>Untuk menghibur orang sakit, Anda dapat memasang televisi di depan tempat tidur mereka, di mana mereka dapat menontonnya.</TVForSickPeople.helpText>
+  
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.label>Celana psikis kegilaan</Apparel_PsychicInsanityLance.label>
+  <!-- EN: A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicInsanityLance.description>Single -guna artefak.Ini membebani pikiran target dengan distorsi persepsi yang mengerikan, mengarah ke keadaan mengemudi.Ada risiko kerusakan otak.Ini memiliki jangkauan yang bagus, tetapi membutuhkan garis penglihatan langsung dengan tujuannya.</Apparel_PsychicInsanityLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>memuat</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_PsychicInsanityLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic insanity lance -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>Celana psikis kegilaan</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  <!-- EN: psychic insanity immune -->
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>Imunitas psikis instan</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+  
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.label>Tombak kejutan psikis</Apparel_PsychicShockLance.label>
+  <!-- EN: A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage. It has a long range, but requires line of sight. -->
+  <Apparel_PsychicShockLance.description>Single -guna artefak.Mengejutkan pikiran target dengan gambar kacau, menghalangi persepsi yang koheren dan meninggalkannya dalam keadaan kejutan psikis.Ada risiko kerusakan otak.Ini memiliki jangkauan yang bagus, tetapi membutuhkan garis penglihatan langsung dengan tujuannya.</Apparel_PsychicShockLance.description>
+  <!-- EN: charge -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>memuat</Apparel_PsychicShockLance.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>dalam pendinginan</Apparel_PsychicShockLance.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: psychic shock lance -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>Tombak kejutan psikis</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  <!-- EN: psychic shock immune -->
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>tidak mengherankan psiquico</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+  
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: harmful aging -->
+  <AgeReversalDemanded.stages.harmful_aging.label>penuaan berbahaya</AgeReversalDemanded.stages.harmful_aging.label>
+  <!-- EN: I'm getting old. I should get an age reversal in a biosculpter pod. -->
+  <AgeReversalDemanded.stages.harmful_aging.description>Saya menjadi tua.Saya harus menjadikan saya pembalikan usia dalam kapsul bio -sculpture.</AgeReversalDemanded.stages.harmful_aging.description>
+  <!-- EN: terrible aging -->
+  <AgeReversalDemanded.stages.terrible_aging.label>penuaan yang mengerikan</AgeReversalDemanded.stages.terrible_aging.label>
+  <!-- EN: My youth is draining away. I should get an age reversal in a biosculpter pod. -->
+  <AgeReversalDemanded.stages.terrible_aging.description>Masa muda saya memudar.Saya harus menjadikan saya pembalikan usia dalam kapsul bio -sculpture.</AgeReversalDemanded.stages.terrible_aging.description>
+  <!-- EN: horrific aging -->
+  <AgeReversalDemanded.stages.horrific_aging.label>penuaan yang mengerikan</AgeReversalDemanded.stages.horrific_aging.label>
+  <!-- EN: I am trapped in a decaying prison of flesh! I need to get an age reversal in a biosculpter pod. -->
+  <AgeReversalDemanded.stages.horrific_aging.description>Saya terjebak di penjara daging dekomposisi!Saya harus menjadikan saya pembalikan usia dalam kapsul bio -sculpture.</AgeReversalDemanded.stages.horrific_aging.description>
+  
+  <!-- EN: received age reversal -->
+  <AgeReversalReceived.stages.received_age_reversal.label>menerima pembalikan usia</AgeReversalReceived.stages.received_age_reversal.label>
+  <!-- EN: Aging and death have no hold on me. I am forever, as an enhanced human ought to be. -->
+  <AgeReversalReceived.stages.received_age_reversal.description>Penuaan dan kematian tidak mempengaruhi saya.Apakah saya akan abadi {Pawn_gender?O: A}, itu adalah takdir yang menahan setiap manusia yang lebih baik.</AgeReversalReceived.stages.received_age_reversal.description>
+  
+  <!-- EN: used biosculpter pod -->
+  <BioSculpterDespised.stages.used_biosculpter_pod.label>Kapsul Bioesculture Digunakan</BioSculpterDespised.stages.used_biosculpter_pod.label>
+  <!-- EN: My body was despoiled by the use of a biosculpter pod. -->
+  <BioSculpterDespised.stages.used_biosculpter_pod.description>Tubuh saya dilucuti dengan menggunakan kapsul bio -sculpture.</BioSculpterDespised.stages.used_biosculpter_pod.description>
+  
+  <!-- EN: want neural supercharge -->
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.label>Anda menginginkan supercarga saraf</NeedNeuralSupercharge.stages.want_neural_supercharge.label>
+  <!-- EN: Without a neural supercharge, I'm running below my true capacity. It's depressing. -->
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.description>Tanpa supercarga saraf, saya bekerja di bawah kapasitas saya yang sebenarnya.Itu menyedihkan.</NeedNeuralSupercharge.stages.want_neural_supercharge.description>
+  
+  <!-- EN: used sleep accelerator -->
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>Akselerator tidur digunakan</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>
+  <!-- EN: I slept with a sleep accelerator. It's helping me attain my true potential, as one should. -->
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>Saya tidur di akselerator tidur.Ini membantu saya mencapai potensi saya yang sebenarnya, sebagaimana mestinya.</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>
+  
+</LanguageData>

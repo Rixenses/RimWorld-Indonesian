@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_name-> [celestial_name]</li>
+    <li>r_name-> [celestial_prefix] [celestial_name]</li>
+    <li>r_name-> [celestial_name] [celestial_suffix]</li>
+    <li>r_name-> [world_name_numeric]</li>
+    <li>r_name-> [world_name_numeric] [celestial_suffix]</li>
+    <li>r_name (p = 0.5)-> [celestial_name] [romannumeral]</li>
+    <li>r_name (p = 0.5)-> [celestial_name]-[romannumeral]</li>
+    <li>r_name (p = 0,5)-> [celestial_name]-[angka]</li>
+    <li>r_name-> [celestial_name] [celestial_name]</li>
+    <li>r_name-> [Nameperson] [Planet]</li>
+    <li>world_name_numeric-> [huruf]-[angka]</li>
+    <li>world_name_numeric-> [huruf] [angka]</li>
+    <li>Surat-> [Surat]</li>
+    <li>Surat-> [Surat] [Surat]</li>
+    <li>Surat-> [Surat] [Surat] [Surat]</li>
+    <li>Angka-> [digit]</li>
+    <li>Angka-> [digit] [digit]</li>
+    <li>angka-> [digit] [digit] [digit]</li>
+    <li>Planet-> Dunia</li>
+    <li>Planet-> Planet</li>-><NamerWorld.rulePack.rulesStrings>
+    <li>r_name-> [celestial_name]</li>
+    <li>r_name-> [celestial_prefix] [celestial_name]</li>
+    <li>r_name-> [celestial_name] [celestial_suffix]</li>
+    <li>r_name-> [world_name_numeric]</li>
+    <li>r_name-> [world_name_numeric] [celestial_name]</li>
+    <li>r_name (p = 0.5)-> [celestial_name] [romannumeral]</li>
+    <li>r_name (p = 0.5)-> [celestial_name]-[romannumeral]</li>
+    <li>r_name (p = 0,5)-> [celestial_name]-[angka]</li>
+    <li>r_name-> [celestial_name] [celestial_name]</li>
+    <li>r_name-> [celestial_prefix] [celestial_name] [romannumeral]</li>
+    <li>r_name-> [planet] de [nameperson]</li>
+    <li>world_name_numeric-> [huruf]-[angka]</li>
+    <li>world_name_numeric-> [angka] [huruf]</li>
+    <li>Surat-> [Surat]</li>
+    <li>Surat-> [Surat] [Surat]</li>
+    <li>Surat-> [Surat] [Surat] [Surat]</li>
+    <li>Angka-> [digit]</li>
+    <li>Angka-> [digit] [digit]</li>
+    <li>angka-> [digit] [digit] [digit]</li>
+    <li>Planet-> Planet</li>
+    <li>Planet-> Mundo</li>
+  </NamerWorld.rulePack.rulesStrings>
+  
+</LanguageData>

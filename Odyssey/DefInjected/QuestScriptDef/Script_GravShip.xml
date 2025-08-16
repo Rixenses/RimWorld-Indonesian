@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Gravcore detected: Ancient reactor -->
+  <Gravcore_AncientReactor.questAvailableLetterLabel>Gravinucle terdeteksi: reaktor lama</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari reaktor pembusukan kuno.Lokasi ditandai pada peta dunia. \ N \ ncracks dalam pelindung reaktor membocorkan bahan berbahaya, memandikan daerah terdekat dalam kejatuhan beracun.Reaktor itu sendiri akan sangat dijaga oleh sistem keamanan kuno. \ N \ Nobtain Gravcores dan panel gravlite untuk meningkatkan ukuran gravship Anda.</li>-><Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari reaktor dekomposisi lama. Lokasi ditandai di peta dunia.Reaktor akan dijaga dengan kuat oleh sistem keamanan lama.</li>
+  </Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Reaktor Kuno</li>-><Gravcore_AncientReactor.questNameRules.rulesStrings>
+    <li>QuestName-> Old Reactor</li>
+  </Gravcore_AncientReactor.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Ancient stockpile -->
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>Gravinucle terdeteksi: penyimpanan lama</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari persediaan bawah tanah kuno.Lokasi ditandai di peta dunia. \ N \ nundround stockpiles harus diretas untuk masuk.Proses ini dapat memakan waktu berhari -hari. \ N \ Nobtain Gravcores dan panel gravlite untuk meningkatkan ukuran gravship Anda.</li>-><Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari penyimpanan bawah tanah lama.Lokasi ditandai di peta dunia.Proses ini mungkin membutuhkan waktu berhari -hari untuk diselesaikan.</li>
+  </Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Stockpile Kuno</li>-><Gravcore_AncientStockpile.questNameRules.rulesStrings>
+    <li>QuestName-> Penyimpanan Lama</li>
+  </Gravcore_AncientStockpile.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Crash site -->
+  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>Gravinuko terdeteksi: Platform Bintang Mecanoid</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari reruntuhan platform orbital yang jatuh. \ N \ nscans mengungkapkan kehadiran mekanoid yang berat. \ N \ Nobtain Gravcores dan panel gravlite untuk meningkatkan ukuran gravship Anda.</li>-><Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari sisa -sisa platform orbital berbintang.</li>
+  </Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> platform mechanoid yang crash</li>-><Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+    <li>QuestName-> Star Mecanoid Platform</li>
+  </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Frozen terraformer -->
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>Deteksi Gravinucleus: Tanah Beku</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Gravcore memberi daya pada terraformer kuno yang tidak berfungsi.Lokasinya ditandai di peta dunia. \ N \ n terraformer mendinginkan wilayah lokal hingga suhu rendah yang berbahaya.Bersiaplah untuk cuaca dingin dan tinggal lama.</li>-><Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Ini memberi makan seorang terraber kuno dengan kegagalan.Lokasinya ditandai di peta dunia.Bersiaplah untuk cuaca dingin dan tinggal lama.</li>
+  </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Frozen Terraformer</li>-><Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+    <li>QuestName-> Frozen Land</li>
+  </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Cave entrance -->
+  <Gravcore_InsectLair.questAvailableLetterLabel>Gravinucle terdeteksi: input gua</Gravcore_InsectLair.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari sistem gua yang jauh di bawah tanah.Pintu masuk ke sistem gua ditandai pada peta dunia. \ N \ nsubterranean Caves bisa sangat berbahaya dan mungkin membutuhkan waktu berhari -hari untuk dijelajahi. \ N \ Nobtain Gravcores dan panel gravlite untuk meningkatkan ukuran gravship Anda.</li>-><Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari sistem gua bawah tanah yang mendalam.Pintu masuk ke sistem Cuevas ditandai di peta dunia. Gua bawah tanah \ n \ nlas bisa sangat berbahaya dan bisa memakan waktu berhari -hari untuk dijelajahi.</li>
+  </Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Pintu masuk gua</li>-><Gravcore_InsectLair.questNameRules.rulesStrings>
+    <li>QuestName-> Cave Input</li>
+  </Gravcore_InsectLair.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Mechanoid relay -->
+  <Gravcore_MechanoidRelay.questAvailableLetterLabel>Gravinuko terdeteksi: repeater mecanoide</Gravcore_MechanoidRelay.questAvailableLetterLabel>
+  <!-- EN:
+    <li>LetterLabelMapGenerated-> Mechanoid Relay</li>
+    <li>LettertextMapgenerated-> Relay mechanoid ada di dekatnya, ditenagai oleh gravcore. \ n \ n Relay saat ini dilindungi oleh penstabil di dekatnya.Ekstrak gravcore relay dengan pertama -tama meretas atau menghancurkan semua penstabil. \ N \ n hati -hati, menghancurkan penstabil akan memicu respons defensif.Peretasan adalah opsi yang lebih lambat tetapi lebih aman.</li>-><Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+    <li>LetterLabelMapGenerated-> Repetidor Mecanoide</li>
+    <li>LettertextMapenerated-> Repeater mecanoid dekat, diumpankan dengan ekstrak pajak pajak peretasan ini atau menghancurkan semua penstabil.Peretasan adalah pilihan yang lebih lambat tetapi aman.</li>
+  </Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Ini memberi daya estafet yang merupakan bagian dari jaring komunikasi mechanoid yang besar. \ N \ nyou dapat membongkar relai, tetapi prosesnya akan membutuhkan waktu berhari -hari untuk diselesaikan.Relay itu sendiri akan sangat dipertahankan oleh mechanoids. \ N \ nobtain gravcores dan panel gravlite untuk meningkatkan ukuran gravship Anda.</li>-><Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Ini memberi makan repeater yang merupakan bagian dari jaringan komunikasi besar mecanoids.\ N \ npuedes membongkar, tetapi prosesnya akan memakan waktu berhari -hari. Repeater akan sangat dipertahankan oleh Mecanoides.</li>
+  </Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Mechanoid Relay</li>-><Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+    <li>QuestName-> Mecanoid Repeater</li>
+  </Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+  
+  <!-- EN: Mechhive detected -->
+  <Gravcore_Mechhive.questAvailableLetterLabel>Mekanik terdeteksi</Gravcore_Mechhive.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi lonjakan energi gravtech besar yang berasal dari mechhive di orbit.Lokasinya ditandai pada peta dunia. \ N \ n ini mechhive adalah pusat intelijen mekanoid di planet ini.Mematikannya akan menonaktifkan semua planet mechanoids yang membunuh di seluruh planet.Atau, Anda mungkin dapat menggunakan mechhive untuk tujuan Anda sendiri. \ N \ n Mechhive dipertahankan dengan senjata anti-kapal.Bangun jammer sinyal sebelum mendekatinya. \ N \ nBe diperingatkan, mechhives sangat berbahaya.Selesaikan menjelajahi lokasi lain terlebih dahulu dan pastikan Anda siap untuk tinggal lama di orbit.</li>-><Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi energi gravitecnological puncak dari Mecacolmena di orbit.Lokasinya ditandai di peta dunia.Jika Anda berhasil menonaktifkannya, semua mecanoid yang membunuh tidak akan berguna.Sebagai alternatif, Anda dapat mencoba memanfaatkannya untuk tujuan Anda sendiri.Pastikan untuk membangun inhibitor sinyal sebelum mendekati.Pertama -tama jelajahi lokasi lain dan persiapkan dengan baik untuk tinggal yang berkepanjangan di orbit.</li>
+  </Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Mechhive</li>-><Gravcore_Mechhive.questNameRules.rulesStrings>
+    <li>QuestName-> Mecacolmena</li>
+  </Gravcore_Mechhive.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Orbital platform -->
+  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>Detected Gravinucleus: Platform Orbital</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari platform orbital yang ditinggalkan. \ N \ nyou dapat melakukan perjalanan ke platform orbital menggunakan gravships, shuttles, atau pod transportasi.Lengkapi penjajah Anda dengan pakaian vaksis.Rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</li>-><Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari platform orbital yang ditinggalkan.Lengkapi pemukim Anda dengan setelan vakum, dan rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</li>
+  </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Platform Orbital yang ditinggalkan</li>-><Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+    <li>QuestName-> Platform Orbital yang Ditinggalkan</li>
+  </Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN: Gravcore detected: Mechanoid platform -->
+  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>Gravinuko terdeteksi: platform mecanoid</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi tanda tangan energi gravcore.Sinyal berasal dari platform mekanoid orbital.Pemindaian mengungkapkan kehadiran defensif yang berat. \ N \ nyou dapat melakukan perjalanan ke platform orbital menggunakan gravships, shuttles, atau pod transportasi. \ N \ n hati -hati, lokasi orbital sangat berbahaya.Lengkapi penjajah Anda dengan pakaian vaksis.Rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</li>-><Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi perusahaan energi pajak.Sinyal berasal dari platform orbital mechanid. Pemindaian mengungkapkan kehadiran defensif yang kuat.Lengkapi pemukim Anda dengan setelan vakum, dan rencanakan perjalanan kembali Anda, karena tinggal di orbit untuk waktu yang lama sangat sulit.</li>
+  </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Mechanoid Platform</li>-><Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+    <li>QuestName-> Mecanoid Platform</li>
+  </Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah menemukan mesin grav mechanoid!Anda dapat menggunakan ini untuk membangun gravship untuk dengan cepat bergerak di sekitar planet ini. \ N \ n. Mesin termasuk teknologi yang secara pasif memindai teknologi gravship di dekatnya.Jika Anda mendapatkan teknologi gravship ini, Anda dapat meningkatkan gravship Anda dari waktu ke waktu.</li>-><GravEngine.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah menemukan mesin gravitasi mechanid!Anda dapat menggunakannya untuk membangun gravinave untuk bergerak cepat di planet ini.Jika Anda mendapatkan teknologi ini, Anda dapat meningkatkan gravinave Anda dari waktu ke waktu.</li>
+  </GravEngine.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The Gravship</li>-><GravEngine.questNameRules.rulesStrings>
+    <li>QuestName-> Gravinave</li>
+  </GravEngine.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> Anda telah mencegat suar distress dari gravship yang jatuh.Reruntuhan berisi gravtech yang berharga.Hati -hati - dijaga oleh mekanoid yang bermusuhan.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_faction_leadertitle] [asker_namefull] dari [asker_faction_name] telah berbagi dengan Anda lokasi gravship yang macet.[asker_pronoun] mendengar studi Anda tentang teknologi gravcore dan berpikir Anda mungkin tertarik untuk memulung gravtech apa pun yang tersisa.[asker_namedef] memperingatkan Anda bahwa situs kecelakaan dijaga oleh mekanoid yang bermusuhan.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], menuntut Anda menghancurkan sejumlah mekanoid yang mengganggu yang melecehkan penyelesaian terdekat.Mechanoids menjaga reruntuhan gravship.Jika Anda menghancurkan mechanoids, [asker_namedef] akan membiarkan Anda menyimpan gravtech apa pun yang dapat Anda keluarkan.</li>-><GravshipWreckage.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Anda telah mencegat suar darurat dari gravinave berbintang.Sisa -sisa berisi gravitecnology yang berharga.Hati -hati, dijaga oleh mecanoids yang bermusuhan.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_nameful] [asker_a] [asker_faction_leadertitle] dari faksi [asker_faction_name] telah berbagi dengan Anda lokasi gravinave berbintang.[Asker_pronoun] mendengar tentang studi Anda tentang pajak gravinúcleos dan berpikir Anda bisa tertarik untuk memulihkan apa yang ada dari gravitecnology.[Asker_namedef] memperingatkan Anda bahwa situs kecelakaan dijaga oleh mecanoids yang bermusuhan.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefulull], [asker_a] [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], menuntut Anda menghancurkan sejumlah mekanid yang menjengkelkan yang melecehkan penyelesaian yang dekat.Mecanoids menjaga sisa -sisa gravinave.Jika Anda menghancurkan mecanoids, [asker_namedef] akan memungkinkan Anda untuk tetap dengan gravitecnology yang dapat Anda pulihkan.</li>
+  </GravshipWreckage.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Gravship Reruntuhan</li>-><GravshipWreckage.questNameRules.rulesStrings>
+    <li>QuestName-> Sisa-sisa gravinave</li>
+  </GravshipWreckage.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription-> Anda telah mendeteksi sinyal dari kapal mechanoid di orbit.Kapal telah tidak berfungsi dan perlahan -lahan kehilangan ketinggian. \ N \ nby secara keliru menanggapi sinyal Anda dapat membuat kapal tabrakan di dekatnya, membiarkan Anda menyelamatkan teknologi grav yang berharga.</li>
+    <li>Gravenginespawnedletterlabel-> mesin grav</li>
+    <li>GravenginespawnedletText-> Mechanoid Ship telah menabrak di dekatnya. \ n \ nit berisi mesin grav yang berfungsi.Mesin mendorong gravitasi dan menghasilkan bidang pengangkatan di sekitar dirinya sendiri, memungkinkannya untuk melayang kapal atau platform besar.Meskipun tidak berhasil ketika jauh dari sebuah planet, ia dapat digunakan untuk bergerak melintasi planet ini dan mencapai orbit. \ N \ ninspect mesin untuk memanfaatkannya.</li>-><MechanoidSignal.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Anda telah mendeteksi sinyal kapal mechanid di orbit.Kapal telah gagal dan kehilangan ketinggian perlahan.</li>
+    <li>gravenginespawnedletterlabel-> motor gravitacional</li>
+    <li>Gravenginespawnedlettextext-> kapal mechanid telah jatuh di dekatnya. \ n \ ncontiene mesin gravitasi fungsional.Mesin mendorong gravitasi dan menghasilkan bidang elevasi di sekitarnya, memungkinkan naves atau platform yang sangat besar.Meskipun tidak berhasil ketika jauh dari sebuah planet, ia dapat digunakan untuk bergerak melalui planet dan mencapai orbit.</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Mechanoid Sinyal</li>-><MechanoidSignal.questNameRules.rulesStrings>
+    <li>QuestName-> Sinyal Mecanoid</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
+  
+</LanguageData>

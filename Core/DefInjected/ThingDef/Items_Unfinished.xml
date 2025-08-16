@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThing.label>objek yang tidak diinstal</MinifiedThing.label>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>hal kecil</MinifiedThingRealtimeDraw.label>
+  
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>pohon yang tidak diinstal</MinifiedTree.label>
+  
+  <!-- EN: unfinished apparel -->
+  <UnfinishedApparel.label>pakaian yang belum selesai</UnfinishedApparel.label>
+  <!-- EN: An unfinished piece of an apparel. -->
+  <UnfinishedApparel.description>Sepotong pakaian tanpa selesai.</UnfinishedApparel.description>
+  
+  <!-- EN: unfinished simple armor -->
+  <UnfinishedArmor.label>baju besi yang belum selesai</UnfinishedArmor.label>
+  <!-- EN: An unfinished piece of simple armor. -->
+  <UnfinishedArmor.description>Sepotong baju besi sederhana yang belum selesai.</UnfinishedArmor.description>
+  
+  <!-- EN: unfinished belt -->
+  <UnfinishedBelt.label>Sabuk yang belum selesai</UnfinishedBelt.label>
+  <!-- EN: An unfinished piece of a belt. -->
+  <UnfinishedBelt.description>Sabuk yang belum selesai.</UnfinishedBelt.description>
+  
+  <!-- EN: unfinished component -->
+  <UnfinishedComponent.label>komponen yang belum selesai</UnfinishedComponent.label>
+  <!-- EN: An unfinished component. -->
+  <UnfinishedComponent.description>Komponen yang belum selesai.</UnfinishedComponent.description>
+  
+  <!-- EN: unfinished gun -->
+  <UnfinishedGun.label>senjata yang belum selesai</UnfinishedGun.label>
+  <!-- EN: An unfinished gun of some kind. -->
+  <UnfinishedGun.description>Senjata yang belum selesai.</UnfinishedGun.description>
+  
+  <!-- EN: unfinished bionic -->
+  <UnfinishedHealthItemBionic.label>Bagian bionik yang tidak berpenghuni</UnfinishedHealthItemBionic.label>
+  <!-- EN: An unfinished bionic. -->
+  <UnfinishedHealthItemBionic.description>Bagian bionik yang belum selesai.</UnfinishedHealthItemBionic.description>
+  
+  <!-- EN: unfinished prosthetic -->
+  <UnfinishedHealthItemProsthetic.label>Prostesis yang belum selesai</UnfinishedHealthItemProsthetic.label>
+  <!-- EN: An unfinished prosthetic. -->
+  <UnfinishedHealthItemProsthetic.description>Prostesis yang belum selesai.</UnfinishedHealthItemProsthetic.description>
+  
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>Topeng Tanpa Akhir</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>Topeng Tanpa Akhir.</UnfinishedMask.description>
+  
+  <!-- EN: unfinished metal armor -->
+  <UnfinishedMetallicTechArmor.label>baju besi yang belum selesai</UnfinishedMetallicTechArmor.label>
+  <!-- EN: An unfinished piece of metal armor. -->
+  <UnfinishedMetallicTechArmor.description>Sepotong baju besi logam yang belum selesai.</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>paket yang belum selesai</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>Sepotong paket yang belum selesai.</UnfinishedPack.description>
+  
+  <!-- EN: unfinished sculpture -->
+  <UnfinishedSculpture.label>patung yang belum selesai</UnfinishedSculpture.label>
+  <!-- EN: An unfinished sculpture. -->
+  <UnfinishedSculpture.description>Patung yang belum selesai.</UnfinishedSculpture.description>
+  
+  <!-- EN: unfinished advanced armor -->
+  <UnfinishedTechArmor.label>baju besi yang belum selesai</UnfinishedTechArmor.label>
+  <!-- EN: An unfinished piece of high-tech armor. -->
+  <UnfinishedTechArmor.description>Sepotong baju besi berteknologi tinggi yang belum selesai.</UnfinishedTechArmor.description>
+  
+  <!-- EN: unfinished weapon -->
+  <UnfinishedWeapon.label>senjata yang belum selesai</UnfinishedWeapon.label>
+  <!-- EN: An unfinished weapon. -->
+  <UnfinishedWeapon.description>Senjata yang belum selesai.</UnfinishedWeapon.description>
+  
+</LanguageData>

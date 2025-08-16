@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deadlife capsule -->
+  <Bullet_Shell_Deadlife.label>Kapsul Necrovite</Bullet_Shell_Deadlife.label>
+  
+  <!-- EN: ghoul resurrection serum -->
+  <GhoulResurrectionSerum.label>Serum Kebangkitan Necrophagous</GhoulResurrectionSerum.label>
+  <!-- EN: A capsule of thick grey fluid containing a mixture of deadlife dust and advanced biochemicals. Inject it into the corpse of a ghoul to return them to life. The resurrection process takes several hours. -->
+  <GhoulResurrectionSerum.description>Kapsul cairan abu -abu tebal yang mengandung campuran debu necrovite dan biokimia lanjut.Itu disuntikkan ke dalam tubuh necrophagus untuk mengembalikannya ke kehidupan.Proses kebangkitan berlangsung beberapa jam.</GhoulResurrectionSerum.description>
+  <!-- EN: Use {0_label} -->
+  <GhoulResurrectionSerum.comps.CompUsable.useLabel>Gunakan di {0_label}</GhoulResurrectionSerum.comps.CompUsable.useLabel>
+  
+  <!-- EN: juggernaut serum -->
+  <JuggernautSerum.label>Serum Juggernaut</JuggernautSerum.label>
+  <!-- EN: A syringe of opaque milky-yellow liquid that increases the user's strength and speed, and allows them to recover from injuries faster. The serum is injected into the user's musculature, where it adds energy to various metabolic processes. However, the unstable substance also psychically influences the mind, provoking unsettling thoughts and severely reducing the user's mood. -->
+  <JuggernautSerum.description>Jarum suntik cairan buram kuning susu yang meningkatkan gaya dan kecepatan pengguna, dan memungkinkannya pulih sebelum lesi.Serum disuntikkan ke otot -otot pengguna, di mana ia menambahkan energi ke berbagai proses metabolisme.Namun, zat yang tidak stabil juga secara fisik memengaruhi pikiran, menyebabkan pikiran yang mengganggu dan mengurangi suasana hati pengguna.</JuggernautSerum.description>
+  <!-- EN: Use {0_label} -->
+  <JuggernautSerum.comps.CompUsable.useLabel>Gunakan di {0_label}</JuggernautSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <JuggernautSerum.ingestible.ingestCommandString>Konsumsi {0}</JuggernautSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <JuggernautSerum.ingestible.ingestReportString>Ingerieendo {0}.</JuggernautSerum.ingestible.ingestReportString>
+  
+  <!-- EN: metalblood serum -->
+  <MetalbloodSerum.label>Serum Sangrimetal</MetalbloodSerum.label>
+  <!-- EN: A syringe full of rust-colored liquid that constantly hardens and liquifies. When injected into the bloodstream, the metalblood substance can harden the flesh when it anticipates a blow, making the user more resistant to damage. However, the bioferrite-based chemistry of this serum also makes the user particularly vulnerable to fire. -->
+  <MetalbloodSerum.description>Jarum suntik penuh dengan cairan berwarna oksida yang mengeras dan terus mencairkan.Saat disuntikkan ke dalam aliran darah, zat berdarah dapat mengeraskan daging saat mengantisipasi pukulan, membuat pengguna lebih tahan terhadap kerusakan.Namun, kimia berdasarkan bioferrita serum ini juga membuat pengguna sangat rentan terhadap kebakaran.</MetalbloodSerum.description>
+  <!-- EN: Use {0_label} -->
+  <MetalbloodSerum.comps.CompUsable.useLabel>Gunakan di {0_label}</MetalbloodSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <MetalbloodSerum.ingestible.ingestCommandString>Konsumsi {0}</MetalbloodSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <MetalbloodSerum.ingestible.ingestReportString>Ingerieendo {0}.</MetalbloodSerum.ingestible.ingestReportString>
+  
+  <!-- EN: mind-numb serum -->
+  <MindNumbSerum.label>serum mati rasa otak</MindNumbSerum.label>
+  <!-- EN: A syringe of clear, viscous fluid. Injected near the brainstem, it deadens the mind, rendering the user unable to feel the highs and lows of human emotion. This temporarily prevents them from having mental breaks and inspirations. -->
+  <MindNumbSerum.description>Jarum suntik cair yang jernih dan kental.Disuntikkan di dekat batang otak, bantalan pikiran dan membuat pengguna tidak dapat merasakan naik turunnya emosi manusia.Ini untuk sementara mencegah mereka mengalami istirahat mental dan inspirasi.</MindNumbSerum.description>
+  <!-- EN: Use {0_label} -->
+  <MindNumbSerum.comps.CompUsable.useLabel>Gunakan di {0_label}</MindNumbSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <MindNumbSerum.ingestible.ingestCommandString>Konsumsi {0}</MindNumbSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <MindNumbSerum.ingestible.ingestReportString>Ingerieendo {0}.</MindNumbSerum.ingestible.ingestReportString>
+  
+  <!-- EN: deadlife shell -->
+  <Shell_Deadlife.label>necrovite obus</Shell_Deadlife.label>
+  <!-- EN: An artillery shell packed with a dust-like substance that, after exploding into a cloud, will settle on nearby human and animal corpses and raise them as shamblers. The shamblers will only attack your enemies.\n\nThis can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Deadlife.description>Sebuah proyektil artileri yang penuh dengan zat yang mirip dengan debu yang, setelah dieksploitasi di awan, akan disimpan dalam mayat manusia dan manusia yang dekat dan akan mengangkatnya sebagai pejalan kaki.Pejalan kaki hanya akan menyerang musuh Anda.Itu meledak saat rusak.</Shell_Deadlife.description>
+  
+  <!-- EN: deadlife capsule -->
+  <Shell_Deadlife_Releasing.label>Kapsul Necrovite</Shell_Deadlife_Releasing.label>
+  
+  <!-- EN: voidsight serum -->
+  <VoidsightSerum.label>Serum Visi Visi</VoidsightSerum.label>
+  <!-- EN: A capsule of oily black fluid that squirms endlessly inside the glass. When injected into the eye, it suppresses the inhibitory neurons that keep perception focused on the real world, thus lifting dark psychic phenomena into conscious perception. This increases the amount of knowledge gained when studying unnatural entities, as well as psychic sensitivity, but also impacts mood.\n\nThe effect is temporary and does not stack. -->
+  <VoidsightSerum.description>Kapsul cairan hitam berminyak yang dua kali di gelas.Ketika disuntikkan ke mata, itu menekan neuron penghambatan yang mempertahankan persepsi yang berpusat di dunia nyata, sehingga meningkatkan fenomena psikis gelap menjadi persepsi sadar.Ini meningkatkan jumlah pengetahuan yang diperoleh dengan mempelajari entitas antinatural, serta sensitivitas psikis, tetapi juga mempengaruhi suasana hati. Efek \ n \ nl bersifat sementara dan tidak menumpuk.</VoidsightSerum.description>
+  <!-- EN: Use {0_label} -->
+  <VoidsightSerum.comps.CompUsable.useLabel>Gunakan di {0_label}</VoidsightSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <VoidsightSerum.ingestible.ingestCommandString>Konsumsi {0}</VoidsightSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <VoidsightSerum.ingestible.ingestReportString>Ingerieendo {0}.</VoidsightSerum.ingestible.ingestReportString>
+  
+</LanguageData>

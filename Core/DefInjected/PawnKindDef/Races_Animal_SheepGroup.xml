@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alpaca -->
+  <Alpaca.label>Alpaca</Alpaca.label>
+  <Alpaca.labelPlural>Alpacas</Alpaca.labelPlural>
+  <Alpaca.lifeStages.0.label>Pemuliaan alpaca</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.0.labelPlural>Keturunan Alpaca</Alpaca.lifeStages.0.labelPlural>
+  <Alpaca.lifeStages.1.label>Alpaca muda</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.1.labelPlural>Alpacas muda</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.lifeStages.2.label>Alpaca</Alpaca.lifeStages.2.label>
+  <Alpaca.lifeStages.2.labelPlural>Alpacas</Alpaca.lifeStages.2.labelPlural>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>Capybara</Capybara.label>
+  <Capybara.labelPlural>capibaras</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>Pembiakan capibara</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.0.labelPlural>Keturunan Capibara</Capybara.lifeStages.0.labelPlural>
+  <Capybara.lifeStages.1.label>Capibara muda</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.1.labelPlural>Capibaras muda</Capybara.lifeStages.1.labelPlural>
+  <Capybara.lifeStages.2.label>Capybara</Capybara.lifeStages.2.label>
+  <Capybara.lifeStages.2.labelPlural>Capibaras</Capybara.lifeStages.2.labelPlural>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>Megaprezoso</Megasloth.label>
+  <Megasloth.labelPlural>Megaprezososos</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>Megaperezoso crose</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.0.labelFemale>Megaperezoso crose</Megasloth.lifeStages.0.labelFemale>
+  <Megasloth.lifeStages.0.labelFemalePlural>Megaperezoso bermain</Megasloth.lifeStages.0.labelFemalePlural>
+  <Megasloth.lifeStages.0.labelPlural>Megaperezoso bermain</Megasloth.lifeStages.0.labelPlural>
+  <Megasloth.lifeStages.1.label>Megaperezoso Young</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.1.labelPlural>Megaperezos muda</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.lifeStages.2.label>Megaprezoso</Megasloth.lifeStages.2.label>
+  <Megasloth.lifeStages.2.labelPlural>Megaprezososos</Megasloth.lifeStages.2.labelPlural>
+  
+  <!-- EN: sheep -->
+  <Sheep.label>domba</Sheep.label>
+  <!-- EN: ewe -->
+  <Sheep.labelFemale>domba</Sheep.labelFemale>
+  <Sheep.labelFemalePlural>domba</Sheep.labelFemalePlural>
+  <!-- EN: ram -->
+  <Sheep.labelMale>DOMBA</Sheep.labelMale>
+  <Sheep.labelMalePlural>Carneros</Sheep.labelMalePlural>
+  <!-- EN: sheep -->
+  <Sheep.labelPlural>ovejas</Sheep.labelPlural>
+  <!-- EN: lamb -->
+  <Sheep.lifeStages.lamb.label>Cordero</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.labelFemale>CORDERA</Sheep.lifeStages.lamb.labelFemale>
+  <Sheep.lifeStages.lamb.labelFemalePlural>domba</Sheep.lifeStages.lamb.labelFemalePlural>
+  <Sheep.lifeStages.lamb.labelMale>Cordero</Sheep.lifeStages.lamb.labelMale>
+  <Sheep.lifeStages.lamb.labelMalePlural>domba</Sheep.lifeStages.lamb.labelMalePlural>
+  <!-- EN: lambs -->
+  <Sheep.lifeStages.lamb.labelPlural>domba</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.lifeStages.1.label>Domba muda</Sheep.lifeStages.1.label>
+  <Sheep.lifeStages.1.labelFemale>Domba muda</Sheep.lifeStages.1.labelFemale>
+  <Sheep.lifeStages.1.labelFemalePlural>Domba muda</Sheep.lifeStages.1.labelFemalePlural>
+  <Sheep.lifeStages.1.labelMale>Ram muda</Sheep.lifeStages.1.labelMale>
+  <Sheep.lifeStages.1.labelMalePlural>Rams muda</Sheep.lifeStages.1.labelMalePlural>
+  <Sheep.lifeStages.1.labelPlural>Domba muda</Sheep.lifeStages.1.labelPlural>
+  <Sheep.lifeStages.2.label>domba</Sheep.lifeStages.2.label>
+  <Sheep.lifeStages.2.labelFemale>domba</Sheep.lifeStages.2.labelFemale>
+  <Sheep.lifeStages.2.labelFemalePlural>domba</Sheep.lifeStages.2.labelFemalePlural>
+  <Sheep.lifeStages.2.labelMale>DOMBA</Sheep.lifeStages.2.labelMale>
+  <Sheep.lifeStages.2.labelMalePlural>Carneros</Sheep.lifeStages.2.labelMalePlural>
+  <Sheep.lifeStages.2.labelPlural>domba</Sheep.lifeStages.2.labelPlural>
+  
+</LanguageData>

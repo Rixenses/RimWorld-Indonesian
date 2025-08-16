@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bloodfeeder died -->
+  <BloodfeederDied.label>Chupasangre telah meninggal</BloodfeederDied.label>
+  
+  <!-- EN: propagate bloodfeeder gene -->
+  <PropagateBloodfeederGene.label>Sebarkan gen pengisap</PropagateBloodfeederGene.label>
+  
+</LanguageData>

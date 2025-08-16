@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: abhorrent -->
+  <MeatEating_Abhorrent.label>mengerikan</MeatEating_Abhorrent.label>
+  <!-- EN: Eating meat of any kind is deeply evil. -->
+  <MeatEating_Abhorrent.description>Makan daging apa pun sangat buruk.</MeatEating_Abhorrent.description>
+  
+  <!-- EN: disapproved -->
+  <MeatEating_Disapproved.label>tidak disetujui</MeatEating_Disapproved.label>
+  <!-- EN: Eating meat of any kind should be avoided. -->
+  <MeatEating_Disapproved.description>Makan daging dalam bentuk apa pun harus dihindari.</MeatEating_Disapproved.description>
+  
+  <!-- EN: horrible -->
+  <MeatEating_Horrible.label>mengerikan</MeatEating_Horrible.label>
+  <!-- EN: Eating meat of any kind is a horrible act. -->
+  <MeatEating_Horrible.description>Makan daging dalam bentuk apa pun adalah tindakan yang mengerikan.</MeatEating_Horrible.description>
+  
+  <!-- EN: vegetarian abhorrent -->
+  <MeatEating_NonMeat_Abhorrent.label>Sayuran yang menjijikkan</MeatEating_NonMeat_Abhorrent.label>
+  <!-- EN: Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Abhorrent.description>Apa pun vegetarian yang sangat buruk dari sudut pandang moral.Semua makanan harus memiliki daging.Telur, susu, dan makanan olahan tanpa sayuran juga baik -baik saja.</MeatEating_NonMeat_Abhorrent.description>
+  
+  <!-- EN: vegetarian disliked -->
+  <MeatEating_NonMeat_Disapproved.label>Sayuran tinggi</MeatEating_NonMeat_Disapproved.label>
+  <!-- EN: Eating vegetarian food is distasteful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Disapproved.description>Makan makanan vegetarian tidak menyenangkan.Semua makanan harus memiliki daging.Telur, susu, dan makanan olahan tanpa sayuran juga baik -baik saja.</MeatEating_NonMeat_Disapproved.description>
+  
+  <!-- EN: vegetarian hated -->
+  <MeatEating_NonMeat_Horrible.label>sayuran yang dibenci</MeatEating_NonMeat_Horrible.label>
+  <!-- EN: Eating vegetarian food is awful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
+  <MeatEating_NonMeat_Horrible.description>Makan makanan vegetarian itu mengerikan.Semua makanan harus memiliki daging.Telur, susu, dan makanan olahan tanpa sayuran juga baik -baik saja.</MeatEating_NonMeat_Horrible.description>
+  
+</LanguageData>

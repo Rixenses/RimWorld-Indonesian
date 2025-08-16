@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef]'s origins are unknown. -->
+  <UnknownAdulthood.description>Asal usul [Pawn_namedef] tidak diketahui.</UnknownAdulthood.description>
+  <!-- EN: unknown -->
+  <UnknownAdulthood.title>tidak diketahui</UnknownAdulthood.title>
+  <!-- EN: unknown -->
+  <UnknownAdulthood.titleShort>tidak diketahui</UnknownAdulthood.titleShort>
+
+  <!-- EN: [PAWN_nameDef]'s origins are unknown. -->
+  <UnknownChildhood.description>Asal usul [Pawn_namedef] tidak diketahui.</UnknownChildhood.description>
+  <!-- EN: unknown -->
+  <UnknownChildhood.title>tidak diketahui</UnknownChildhood.title>
+  <!-- EN: unknown -->
+  <UnknownChildhood.titleShort>tidak diketahui</UnknownChildhood.titleShort>
+
+</LanguageData>

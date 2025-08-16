@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>sebuah</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>itu</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>Nya</Proits>
+  <!-- EN: his -->
+  <Prohis>Nya</Prohis>
+  <!-- EN: her -->
+  <Proher>Nya</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>Nya</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Nya</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Nya</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>adalah</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>adalah</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>adalah</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>Adalah</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Adalah</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Adalah</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>adalah</Prohe>
+  <!-- EN: she -->
+  <Proshe>adalah</Proshe>
+  <!-- EN: it -->
+  <Proit>adalah</Proit>
+  <!-- EN: He -->
+  <ProheCap>adalah</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>adalah</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>adalah</ProitCap>
+
+  <!-- EN: man -->
+  <ProHeNoun>pria</ProHeNoun>
+  <!-- EN: woman -->
+  <ProSheNoun>wanita</ProSheNoun>
+  <!-- EN: person -->
+  <ProItNoun>rakyat</ProItNoun>
+  
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>{0} dan {1}.</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>{0}.Juga, {1} dan {2}.</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>{0} dan {1}. Selain itu {2} dan {3}.</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>{0} dan {1}. Selain itu, {2} dan {3}. Akhirnya, {4}.</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>{0}. {1} dan {2}. Selain itu, {3} dan {4}. Akhirnya, {5}.</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>{0} dan {1}. {2} dan {3}. Selain itu, {4} dan {5}. Akhirnya, {6}.</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>{0} dan {1}. Selain itu, {2} dan {3}. {4} dan {5}. Akhirnya, {6} dan {7}.</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>{0} atau {1}</XorY>
+
+</LanguageData>

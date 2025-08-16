@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: angled line -->
+  <AngledLine.label>garis sudut</AngledLine.label>
+  
+  <!-- EN: empty oval -->
+  <EmptyOval.label>oval kosong</EmptyOval.label>
+  
+  <!-- EN: empty rectangle -->
+  <EmptyRectangle.label>persegi panjang kosong</EmptyRectangle.label>
+  
+  <!-- EN: filled oval -->
+  <FilledOval.label>Diisi oval</FilledOval.label>
+  
+  <!-- EN: filled rectangle -->
+  <FilledRectangle.label>persegi panjang yang diisi</FilledRectangle.label>
+  
+  <!-- EN: line -->
+  <Line.label>garis</Line.label>
+  
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>Tanah</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>Planet</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>Makanan</TabCaravanFeeding>
+  <!-- EN: Social -->
+  <TabCaravanSocial>Sosial</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>Kesehatan</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>Humor</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>Peralatan</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>Objek</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>Abandon {{0}} x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Tentunya Anda ingin meninggalkan {0}? Objek yang ditinggalkan akan memudar dan tidak akan pernah dipulihkan.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>Meninggalkan</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>Membuang</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>Meninggalkan nomor spesifik</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>Tinggalkan (semua)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>Objek yang ditinggalkan akan memudar dan tidak akan pernah dapat dipulihkan.</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelshort} mungkin akan mati.</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>Pemukim</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>Tahanan dan Hewan</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>Inventaris</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>Klik untuk membuka tab dengan detail lebih lanjut.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>Tahanan</CaravanPrisoners>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>Inventaris</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>Tidak ada yang siap</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Karavan tidak bergerak</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>Seret ke belakang.</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Tetapkan kebijakan obat</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Orang atau hewan ini harus dibawa oleh anggota karavan lain ketika dia sakit.</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>Benih</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>Permukaan</PlanetCoverageShort>
+
+</LanguageData>

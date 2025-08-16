@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extracting TargetB from TargetA. -->
+  <EmptyWasteContainer.reportString>mengekstraksi target kartu.</EmptyWasteContainer.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToAtomizer.reportString>mengangkut scarry.</HaulToAtomizer.reportString>
+  
+</LanguageData>

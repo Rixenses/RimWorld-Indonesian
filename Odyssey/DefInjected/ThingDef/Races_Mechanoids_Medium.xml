@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyclops -->
+  <Mech_Cyclops.label>Cyclops</Mech_Cyclops.label>
+  <!-- EN: A front-line combat mechanoid named for its large optical array. The cyclops specializes in counter-shield attacks. It takes a long time to lock onto a target, but once locked on, it fires a near endless barrage of shield-piercing beams. -->
+  <Mech_Cyclops.description>Mecanoid tempur -pertama dinamai untuk set optiknya yang besar.Cyclops mengkhususkan diri dalam serangan terhadap perisai.Dibutuhkan banyak waktu untuk melihat suatu tujuan, tetapi begitu diperbaiki, itu memicu rentetan sinar yang hampir tak berujung yang menembus perisai.</Mech_Cyclops.description>
+  <!-- EN: front left leg -->
+  <Mech_Cyclops.tools.front_left_leg.label>kaki depan kiri</Mech_Cyclops.tools.front_left_leg.label>
+  <!-- EN: leg -->
+  <Mech_Cyclops.tools.front_left_leg.labelNoLocation>kaki</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
+  <!-- EN: front right leg -->
+  <Mech_Cyclops.tools.front_right_leg.label>kaki depan kanan</Mech_Cyclops.tools.front_right_leg.label>
+  <!-- EN: leg -->
+  <Mech_Cyclops.tools.front_right_leg.labelNoLocation>kaki</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
+  <!-- EN: head -->
+  <Mech_Cyclops.tools.head.label>kepala</Mech_Cyclops.tools.head.label>
+  
+</LanguageData>

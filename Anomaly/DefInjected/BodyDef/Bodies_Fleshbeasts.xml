@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bulbfreak -->
+  <Bulbfreak.label>Bulbfreak</Bulbfreak.label>
+  <!-- EN: left lung -->
+  <Bulbfreak.corePart.parts.left_lung.customLabel>paru-paru kiri</Bulbfreak.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bulbfreak.corePart.parts.right_lung.customLabel>paru -paru kanan</Bulbfreak.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bulbfreak.corePart.parts.left_kidney.customLabel>ginjal kiri</Bulbfreak.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bulbfreak.corePart.parts.right_kidney.customLabel>ginjal kanan</Bulbfreak.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>mata kiri</Bulbfreak.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>mata kanan</Bulbfreak.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+  
+  <!-- EN: dreadmeld -->
+  <Dreadmeld.label>DREADMELD</Dreadmeld.label>
+  <!-- EN: left lung -->
+  <Dreadmeld.corePart.parts.left_lung.customLabel>paru-paru kiri</Dreadmeld.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Dreadmeld.corePart.parts.right_lung.customLabel>paru -paru kanan</Dreadmeld.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Dreadmeld.corePart.parts.left_kidney.customLabel>ginjal kiri</Dreadmeld.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Dreadmeld.corePart.parts.right_kidney.customLabel>ginjal kanan</Dreadmeld.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>mata kiri</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>mata kanan</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <!-- EN: right spike -->
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>duri benar</Dreadmeld.corePart.parts.FleshbeastHead.parts.right_spike.customLabel>
+  <!-- EN: left spike -->
+  <Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>Left Thorn</Dreadmeld.corePart.parts.FleshbeastHead.parts.left_spike.customLabel>
+
+  <!-- EN: fingerspike -->
+  <Fingerspike.label>Fingerspike</Fingerspike.label>
+  <!-- EN: back spike -->
+  <Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>Duri Kembali</Fingerspike.corePart.parts.Spine.parts.back_spike.customLabel>
+  <!-- EN: left lung -->
+  <Fingerspike.corePart.parts.left_lung.customLabel>paru-paru kiri</Fingerspike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Fingerspike.corePart.parts.right_lung.customLabel>paru -paru kanan</Fingerspike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Fingerspike.corePart.parts.left_kidney.customLabel>ginjal kiri</Fingerspike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Fingerspike.corePart.parts.right_kidney.customLabel>ginjal kanan</Fingerspike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>mata kiri</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>mata kanan</Fingerspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <Fingerspike.corePart.parts.left_shoulder.customLabel>bahu kiri</Fingerspike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: right shoulder -->
+  <Fingerspike.corePart.parts.right_shoulder.customLabel>bahu kanan</Fingerspike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: left tentacle -->
+  <Fingerspike.corePart.parts.left_tentacle.customLabel>tentakel kiri</Fingerspike.corePart.parts.left_tentacle.customLabel>
+  <!-- EN: right tentacle -->
+  <Fingerspike.corePart.parts.right_tentacle.customLabel>tentakel kanan</Fingerspike.corePart.parts.right_tentacle.customLabel>
+  
+  <!-- EN: toughspike -->
+  <Toughspike.label>Toughspike</Toughspike.label>
+  <!-- EN: left lung -->
+  <Toughspike.corePart.parts.left_lung.customLabel>paru-paru kiri</Toughspike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Toughspike.corePart.parts.right_lung.customLabel>paru -paru kanan</Toughspike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Toughspike.corePart.parts.left_kidney.customLabel>ginjal kiri</Toughspike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Toughspike.corePart.parts.right_kidney.customLabel>ginjal kanan</Toughspike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>mata kiri</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>mata kanan</Toughspike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <Toughspike.corePart.parts.left_shoulder.customLabel>bahu kiri</Toughspike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm spike -->
+  <Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>Kiri -Irm Thorns</Toughspike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+  <!-- EN: right shoulder -->
+  <Toughspike.corePart.parts.right_shoulder.customLabel>bahu kanan</Toughspike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm spike -->
+  <Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>duri yang tepat</Toughspike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+  <!-- EN: left tentacle -->
+  <Toughspike.corePart.parts.left_tentacle.customLabel>tentakel kiri</Toughspike.corePart.parts.left_tentacle.customLabel>
+  <!-- EN: right tentacle -->
+  <Toughspike.corePart.parts.right_tentacle.customLabel>tentakel kanan</Toughspike.corePart.parts.right_tentacle.customLabel>
+  
+  <!-- EN: trispike -->
+  <Trispike.label>Trispike</Trispike.label>
+  <!-- EN: back spike -->
+  <Trispike.corePart.parts.Spine.parts.back_spike.customLabel>Duri Kembali</Trispike.corePart.parts.Spine.parts.back_spike.customLabel>
+  <!-- EN: left lung -->
+  <Trispike.corePart.parts.left_lung.customLabel>paru-paru kiri</Trispike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Trispike.corePart.parts.right_lung.customLabel>paru -paru kanan</Trispike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Trispike.corePart.parts.left_kidney.customLabel>ginjal kiri</Trispike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Trispike.corePart.parts.right_kidney.customLabel>ginjal kanan</Trispike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>mata kiri</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>mata kanan</Trispike.corePart.parts.Neck.parts.FleshbeastHead.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <Trispike.corePart.parts.left_shoulder.customLabel>bahu kiri</Trispike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm spike -->
+  <Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>Kiri -Irm Thorns</Trispike.corePart.parts.left_shoulder.parts.left_arm_spike.customLabel>
+  <!-- EN: right shoulder -->
+  <Trispike.corePart.parts.right_shoulder.customLabel>bahu kanan</Trispike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm spike -->
+  <Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>duri yang tepat</Trispike.corePart.parts.right_shoulder.parts.right_arm_spike.customLabel>
+  <!-- EN: left tentacle -->
+  <Trispike.corePart.parts.left_tentacle.customLabel>tentakel kiri</Trispike.corePart.parts.left_tentacle.customLabel>
+  <!-- EN: right tentacle -->
+  <Trispike.corePart.parts.right_tentacle.customLabel>tentakel kanan</Trispike.corePart.parts.right_tentacle.customLabel>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grand sculpture -->
+  <SculptureGrand.label>patung</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>Patung yang mengesankan yang mendominasi seluruh ruangan.</SculptureGrand.description>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>patung</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Sepotong bahan untuk ukuran seseorang yang telah dipahat sampai bentuk artistik tercapai.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>Patung kecil</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Sepotong bahan seukuran tubuh yang telah dipahat sampai bentuk artistik tercapai.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
+  <Snowman.label>Manusia salju</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>Satu set bola salju besar ditumpuk dan dibentuk agar terlihat seperti seseorang.Orang membuat mereka hanya bersenang -senang.</Snowman.description>
+  
+</LanguageData>

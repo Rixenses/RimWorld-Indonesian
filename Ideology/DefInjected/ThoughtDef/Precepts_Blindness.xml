@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blinding ceremony -->
+  <BlindingCeremony_Know_Horrible.stages.blinding_ceremony.label>Upacara menyilaukan</BlindingCeremony_Know_Horrible.stages.blinding_ceremony.label>
+  <!-- EN: We blinded someone over ideoligious beliefs! This is wrong! -->
+  <BlindingCeremony_Know_Horrible.stages.blinding_ceremony.description>Kami membutakan seseorang karena keyakinan ideoligi mereka!Itu salah!</BlindingCeremony_Know_Horrible.stages.blinding_ceremony.description>
+  
+  <!-- EN: was blinded -->
+  <BlindingCeremony_Self_Elevated.stages.was_blinded.label>Dia buta</BlindingCeremony_Self_Elevated.stages.was_blinded.label>
+  <!-- EN: I was blinded in a righteous ceremony. Finally, I can start learning to see. -->
+  <BlindingCeremony_Self_Elevated.stages.was_blinded.description>Apakah buta {Pawn_gender?O: A} dalam upacara yang adil.Saya akhirnya bisa belajar untuk benar -benar melihat.</BlindingCeremony_Self_Elevated.stages.was_blinded.description>
+  
+  <!-- EN: was blinded -->
+  <BlindingCeremony_Self_Respected.stages.was_blinded.label>Dia buta</BlindingCeremony_Self_Respected.stages.was_blinded.label>
+  <!-- EN: I was blinded in a righteous ceremony. Finally, I can start learning to see. -->
+  <BlindingCeremony_Self_Respected.stages.was_blinded.description>Apakah buta {Pawn_gender?O: A} dalam upacara yang adil.Saya akhirnya bisa belajar untuk benar -benar melihat.</BlindingCeremony_Self_Respected.stages.was_blinded.description>
+  
+  <!-- EN: was blinded -->
+  <BlindingCeremony_Self_Sublime.stages.was_blinded.label>Dia buta</BlindingCeremony_Self_Sublime.stages.was_blinded.label>
+  <!-- EN: I was blinded in a righteous ceremony. Finally, I can start learning to see. -->
+  <BlindingCeremony_Self_Sublime.stages.was_blinded.description>Apakah buta {Pawn_gender?O: A} dalam upacara yang adil.Saya akhirnya bisa belajar untuk benar -benar melihat.</BlindingCeremony_Self_Sublime.stages.was_blinded.description>
+  
+  <!-- EN: vision blocked -->
+  <Blindness_ArtificialBlind.stages.vision_blocked.label>Penglihatan yang diblokir</Blindness_ArtificialBlind.stages.vision_blocked.label>
+  <!-- EN: Blocking my vision gives my mind closer access to true reality. It's not as good as a permanent blinding, but it's acceptable. -->
+  <Blindness_ArtificialBlind.stages.vision_blocked.description>Memblokir visi saya memberi pikiran saya akses yang lebih dekat ke realitas sejati.Ini tidak sebagus kebutaan permanen, tetapi dapat diterima.</Blindness_ArtificialBlind.stages.vision_blocked.description>
+  
+  <!-- EN: blind -->
+  <Blindness_Elevated_Blind.stages.blind.label>buta</Blindness_Elevated_Blind.stages.blind.label>
+  <!-- EN: I can explore a greater awareness through my inability to see. -->
+  <Blindness_Elevated_Blind.stages.blind.description>Saya dapat mengeksplorasi kesadaran yang lebih besar melalui ketidakmampuan saya untuk melihat.</Blindness_Elevated_Blind.stages.blind.description>
+  
+  <!-- EN: blind -->
+  <Blindness_Elevated_Blind_Social.stages.blind.label>buta</Blindness_Elevated_Blind_Social.stages.blind.label>
+  
+  <!-- EN: half-blind -->
+  <Blindness_Elevated_HalfBlind.stages.halfblind.label>Setengah buta</Blindness_Elevated_HalfBlind.stages.halfblind.label>
+  <!-- EN: I am on my way to enlightment through blindness. -->
+  <Blindness_Elevated_HalfBlind.stages.halfblind.description>Saya sedang dalam perjalanan menuju pencahayaan melalui kebutaan.</Blindness_Elevated_HalfBlind.stages.halfblind.description>
+  
+  <!-- EN: half-blind -->
+  <Blindness_Elevated_HalfBlind_Social.stages.halfblind.label>Setengah buta</Blindness_Elevated_HalfBlind_Social.stages.halfblind.label>
+  
+  <!-- EN: not blind -->
+  <Blindness_Elevated_NonBlind.stages.not_blind.label>Tidak buta</Blindness_Elevated_NonBlind.stages.not_blind.label>
+  <!-- EN: I wish to be blind so I can connect better with the true reality. Or, at a minimum, I should be blindfolded. -->
+  <Blindness_Elevated_NonBlind.stages.not_blind.description>Saya ingin menjadi buta {Pawn_gender?Atau: A} untuk dapat terhubung lebih baik dengan realitas sejati.Atau, setidaknya, mata saya mengikat saya.</Blindness_Elevated_NonBlind.stages.not_blind.description>
+  
+  <!-- EN: sighted -->
+  <Blindness_Elevated_NonBlind_Social.stages.sighted.label>Dengan visi</Blindness_Elevated_NonBlind_Social.stages.sighted.label>
+  
+  <!-- EN: blind -->
+  <Blindness_Respected_Blind.stages.blind.label>buta</Blindness_Respected_Blind.stages.blind.label>
+  <!-- EN: Now that my sight is gone, I can see clearly. -->
+  <Blindness_Respected_Blind.stages.blind.description>Sekarang pandangan saya telah menghilang, saya bisa melihat dengan jelas.</Blindness_Respected_Blind.stages.blind.description>
+  
+  <!-- EN: blind -->
+  <Blindness_Respected_Blind_Social.stages.blind.label>buta</Blindness_Respected_Blind_Social.stages.blind.label>
+  
+  <!-- EN: sighted -->
+  <Blindness_Respected_NonBlind_Social.stages.sighted.label>Dengan visi</Blindness_Respected_NonBlind_Social.stages.sighted.label>
+  
+  <!-- EN: blind -->
+  <Blindness_Sublime_Blind.stages.blind.label>buta</Blindness_Sublime_Blind.stages.blind.label>
+  <!-- EN: I am free to explore the depths of my mind and the true reality without my sight limiting me. -->
+  <Blindness_Sublime_Blind.stages.blind.description>Saya bebas menjelajahi kedalaman pikiran saya dan realitas yang sebenarnya tanpa penglihatan saya membatasi saya.</Blindness_Sublime_Blind.stages.blind.description>
+  
+  <!-- EN: blind -->
+  <Blindness_Sublime_Blind_Social.stages.blind.label>buta</Blindness_Sublime_Blind_Social.stages.blind.label>
+  
+  <!-- EN: half-blind -->
+  <Blindness_Sublime_HalfBlind.stages.halfblind.label>Setengah buta</Blindness_Sublime_HalfBlind.stages.halfblind.label>
+  <!-- EN: I am on the verge of true enlightment through blindness. -->
+  <Blindness_Sublime_HalfBlind.stages.halfblind.description>Saya berada di ambang pencahayaan sejati melalui kebutaan.</Blindness_Sublime_HalfBlind.stages.halfblind.description>
+  
+  <!-- EN: half-blind -->
+  <Blindness_Sublime_HalfBlind_Social.stages.halfblind.label>Setengah buta</Blindness_Sublime_HalfBlind_Social.stages.halfblind.label>
+  
+  <!-- EN: not blind -->
+  <Blindness_Sublime_NonBlind.stages.not_blind.label>Tidak buta</Blindness_Sublime_NonBlind.stages.not_blind.label>
+  <!-- EN: I wish to be blind so much. I need these physical sights gone so I can touch the true reality. At a minimum, I should wear a blindfold. -->
+  <Blindness_Sublime_NonBlind.stages.not_blind.description>Saya ingin kehilangan pandangan.Saya membutuhkan visi fisik ini untuk menghilang untuk dapat menyentuh realitas sejati.Setidaknya, Anda harus memakai perban.</Blindness_Sublime_NonBlind.stages.not_blind.description>
+  
+  <!-- EN: sighted -->
+  <Blindness_Sublime_NonBlind_Social.stages.sighted.label>Dengan visi</Blindness_Sublime_NonBlind_Social.stages.sighted.label>
+  
+</LanguageData>

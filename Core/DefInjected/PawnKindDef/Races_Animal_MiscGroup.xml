@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>Alfacastor</Alphabeaver.label>
+  <Alphabeaver.labelPlural>Alfacastores</Alphabeaver.labelPlural>
+  <Alphabeaver.lifeStages.0.label>Alphacastor</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.0.labelPlural>Pottery Young</Alphabeaver.lifeStages.0.labelPlural>
+  <Alphabeaver.lifeStages.1.label>alfacastor joven</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.1.labelPlural>Tembikar muda</Alphabeaver.lifeStages.1.labelPlural>
+  <Alphabeaver.lifeStages.2.label>Alfacastor</Alphabeaver.lifeStages.2.label>
+  <Alphabeaver.lifeStages.2.labelPlural>Alfacastores</Alphabeaver.lifeStages.2.labelPlural>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <Cobra.labelPlural>Cobra</Cobra.labelPlural>
+  <Cobra.lifeStages.0.label>Pemuliaan kobra</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.0.labelPlural>Keturunan Cobra</Cobra.lifeStages.0.labelPlural>
+  <Cobra.lifeStages.1.label>Butuh muda</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.1.labelPlural>Tuduhan muda</Cobra.lifeStages.1.labelPlural>
+  <Cobra.lifeStages.2.label>kobra</Cobra.lifeStages.2.label>
+  <Cobra.lifeStages.2.labelPlural>Cobra</Cobra.lifeStages.2.labelPlural>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>trumbo</Thrumbo.label>
+  <Thrumbo.labelPlural>Trumbos</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>Trumbo berkembang biak</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>Keturunan Trumbo</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.1.label>Trumbo muda</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.1.labelPlural>Trumbs muda</Thrumbo.lifeStages.1.labelPlural>
+  <Thrumbo.lifeStages.2.label>trumbo</Thrumbo.lifeStages.2.label>
+  <Thrumbo.lifeStages.2.labelPlural>Trumbos</Thrumbo.lifeStages.2.labelPlural>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>Tortuga</Tortoise.label>
+  <Tortoise.labelPlural>Kura -kura</Tortoise.labelPlural>
+  <Tortoise.lifeStages.0.label>penyu</Tortoise.lifeStages.0.label>
+  <Tortoise.lifeStages.0.labelPlural>Anak anjing kura -kura</Tortoise.lifeStages.0.labelPlural>
+  <Tortoise.lifeStages.1.label>Kura -kura muda</Tortoise.lifeStages.1.label>
+  <Tortoise.lifeStages.1.labelPlural>tortugas jóvenes</Tortoise.lifeStages.1.labelPlural>
+  <Tortoise.lifeStages.2.label>Tortuga</Tortoise.lifeStages.2.label>
+  <Tortoise.lifeStages.2.labelPlural>Kura -kura</Tortoise.lifeStages.2.labelPlural>
+  
+</LanguageData>

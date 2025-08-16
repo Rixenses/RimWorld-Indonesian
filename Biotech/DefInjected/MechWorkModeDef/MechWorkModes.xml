@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: escort -->
+  <Escort.label>mendengarkan</Escort.label>
+  <!-- EN: Stay near the mechanitor and fight nearby enemies. Follow the mechanitor, even off the map. -->
+  <Escort.description>Tetap di dekat mekanitor dan melawan musuh dekat.Ikuti mekanitor, bahkan di luar peta.</Escort.description>
+  
+  <!-- EN: recharge -->
+  <Recharge.label>Isi ulang</Recharge.label>
+  <!-- EN: Go to rechargers and recharge, even if already well-charged. -->
+  <Recharge.description>Ini bergerak ke pengisi daya, dan mengisi ulang bahkan jika memiliki banyak energi.</Recharge.description>
+  
+  <!-- EN: dormant self-charge -->
+  <SelfShutdown.label>Isi ulang dalam hibernasi</SelfShutdown.label>
+  <!-- EN: Go into a dormant self-charging state that very slowly regains energy without a recharger. -->
+  <SelfShutdown.description>Ini memasuki keadaan hibernasi dan jalan tol yang memulihkan energi dengan sangat lambat tanpa pengisi daya.</SelfShutdown.description>
+  
+  <!-- EN: work -->
+  <Work.label>pekerjaan</Work.label>
+  <!-- EN: Work autonomously according to mechanoid type. Automatically go to rechargers and recharge when needed. -->
+  <Work.description>Bekerja secara mandiri sesuai dengan jenis mecanoid.Secara otomatis pergi ke loader dan mengisi ulang bila perlu.</Work.description>
+  
+</LanguageData>

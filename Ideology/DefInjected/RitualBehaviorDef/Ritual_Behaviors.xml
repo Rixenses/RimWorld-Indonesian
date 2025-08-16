@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: target -->
+  <BlindingCeremony.roles.0.label>tujuan</BlindingCeremony.roles.0.label>
+  <!-- EN: the person to blind -->
+  <BlindingCeremony.roles.0.missingDesc>orang yang buta</BlindingCeremony.roles.0.missingDesc>
+  <!-- EN: cutter -->
+  <BlindingCeremony.roles.1.label>Kecurher</BlindingCeremony.roles.1.label>
+  <!-- EN: the person who performs the blinding -->
+  <BlindingCeremony.roles.1.missingDesc>Orang yang melakukan pemboros</BlindingCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <BlindingCeremony.stages.0.failTriggers.0.desc>Tujuannya tidak dapat dicapai.</BlindingCeremony.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <BlindingCeremony.stages.0.failTriggers.1.desc>teman tidur</BlindingCeremony.stages.0.failTriggers.1.desc>
+  
+  <!-- EN: participate -->
+  <BurnCircle.spectatorGerund>ikut</BurnCircle.spectatorGerund>
+  <!-- EN: Participants -->
+  <BurnCircle.spectatorsLabel>Peserta</BurnCircle.spectatorsLabel>
+  
+  <!-- EN: participate -->
+  <CelebrationPartyDanceDrum.spectatorGerund>ikut</CelebrationPartyDanceDrum.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationPartyDanceDrum.spectatorsLabel>Peserta</CelebrationPartyDanceDrum.spectatorsLabel>
+  <!-- EN: Campfire is missing. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>Api unggun tidak ditemukan.</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <!-- EN: Campfire is not lit. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Api unggun tidak menyala.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <!-- EN: No drums. -->
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Tidak ada drum.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  
+  <!-- EN: participate -->
+  <CelebrationSkyLanterns.spectatorGerund>ikut</CelebrationSkyLanterns.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationSkyLanterns.spectatorsLabel>Peserta</CelebrationSkyLanterns.spectatorsLabel>
+  
+  <!-- EN: participate -->
+  <CelebrationTree.spectatorGerund>ikut</CelebrationTree.spectatorGerund>
+  <!-- EN: Participants -->
+  <CelebrationTree.spectatorsLabel>Peserta</CelebrationTree.spectatorsLabel>
+  
+  <!-- EN: speaker -->
+  <Conversion.roles.0.label>pembicara</Conversion.roles.0.label>
+  <!-- EN: convertee -->
+  <Conversion.roles.1.label>konversi</Conversion.roles.1.label>
+  <!-- EN: Prisoner is not reachable. -->
+  <Conversion.stages.0.failTriggers.0.desc>Tahanan tidak dapat dicapai.</Conversion.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <Conversion.stages.0.failTriggers.1.desc>teman tidur</Conversion.stages.0.failTriggers.1.desc>
+  
+  <!-- EN: participate -->
+  <DancePartyTech.spectatorGerund>ikut</DancePartyTech.spectatorGerund>
+  <!-- EN: Participants -->
+  <DancePartyTech.spectatorsLabel>Peserta</DancePartyTech.spectatorsLabel>
+  <!-- EN: Lightball is missing. -->
+  <DancePartyTech.stages.0.failTriggers.0.desc>Bola disko hilang.</DancePartyTech.stages.0.failTriggers.0.desc>
+  <!-- EN: Lightball is not powered. -->
+  <DancePartyTech.stages.0.failTriggers.1.desc>Bola disko tidak memiliki arus.</DancePartyTech.stages.0.failTriggers.1.desc>
+  <!-- EN: No powered loudspeakers. -->
+  <DancePartyTech.stages.0.failTriggers.2.desc>Pembicara tidak memiliki saat ini.</DancePartyTech.stages.0.failTriggers.2.desc>
+  
+  <!-- EN: speaker -->
+  <DateRitual.roles.0.label>pembicara</DateRitual.roles.0.label>
+  <!-- EN: participate -->
+  <DateRitual.spectatorGerund>ikut</DateRitual.spectatorGerund>
+  <!-- EN: Participants -->
+  <DateRitual.spectatorsLabel>Peserta</DateRitual.spectatorsLabel>
+  <!-- EN: {0}: The speech is over, and the party is beginning. -->
+  <DateRitual.stages.0.postAction.text>{0}: Pidato sudah berakhir, dan partai dimulai.</DateRitual.stages.0.postAction.text>
+  
+  <!-- EN: executioner -->
+  <Execution.roles.0.label>Verdugo</Execution.roles.0.label>
+  <!-- EN: an executioner -->
+  <Execution.roles.0.missingDesc>seorang algojo</Execution.roles.0.missingDesc>
+  <!-- EN: prisoner -->
+  <Execution.roles.1.label>tawanan</Execution.roles.1.label>
+  <!-- EN: a prisoner -->
+  <Execution.roles.1.missingDesc>Seorang tahanan</Execution.roles.1.missingDesc>
+  <!-- EN: Spectators must be willing to watch the execution. -->
+  <Execution.spectatorFilter.description>Para penonton harus bersedia melihat eksekusi.</Execution.spectatorFilter.description>
+  <!-- EN: Prisoner is not reachable. -->
+  <Execution.stages.0.failTriggers.0.desc>Tahanan tidak dapat dicapai.</Execution.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <Execution.stages.0.failTriggers.1.desc>teman tidur</Execution.stages.0.failTriggers.1.desc>
+  
+  <!-- EN: participate -->
+  <FeastCannibal.spectatorGerund>ikut</FeastCannibal.spectatorGerund>
+  <!-- EN: Participants -->
+  <FeastCannibal.spectatorsLabel>Peserta</FeastCannibal.spectatorsLabel>
+  
+  <!-- EN: speaker -->
+  <Funeral.roles.0.label>pembicara</Funeral.roles.0.label>
+  
+  <!-- EN: speaker -->
+  <GladiatorDuel.roles.0.label>pembicara</GladiatorDuel.roles.0.label>
+  <!-- EN: duelist -->
+  <GladiatorDuel.roles.1.label>Duelist</GladiatorDuel.roles.1.label>
+  <!-- EN: duelists -->
+  <GladiatorDuel.roles.1.categoryLabel>Duelists</GladiatorDuel.roles.1.categoryLabel>
+  <!-- EN: prisoners / slaves (duelists) -->
+  <GladiatorDuel.roles.1.missingDesc>Tahanan / Budak (Duelists)</GladiatorDuel.roles.1.missingDesc>
+  <!-- EN: duelist -->
+  <GladiatorDuel.roles.2.label>Duelist</GladiatorDuel.roles.2.label>
+  <!-- EN: duelists -->
+  <GladiatorDuel.roles.2.categoryLabel>Duelists</GladiatorDuel.roles.2.categoryLabel>
+  <!-- EN: prisoners / slaves (duelists) -->
+  <GladiatorDuel.roles.2.missingDesc>Tahanan / Budak (Duelists)</GladiatorDuel.roles.2.missingDesc>
+  <!-- EN: duelist escort -->
+  <GladiatorDuel.roles.3.label>Duelist Escort</GladiatorDuel.roles.3.label>
+  <!-- EN: duelist escorts -->
+  <GladiatorDuel.roles.3.categoryLabel>Pengawalan duelists</GladiatorDuel.roles.3.categoryLabel>
+  <!-- EN: non-downed colonists capable of hauling -->
+  <GladiatorDuel.roles.3.missingDesc>Pemukim sadar mampu mengangkut</GladiatorDuel.roles.3.missingDesc>
+  <!-- EN: duelist escort -->
+  <GladiatorDuel.roles.4.label>Duelist Escort</GladiatorDuel.roles.4.label>
+  <!-- EN: duelist escorts -->
+  <GladiatorDuel.roles.4.categoryLabel>Pengawalan duelists</GladiatorDuel.roles.4.categoryLabel>
+  <!-- EN: non-downed colonists capable of hauling -->
+  <GladiatorDuel.roles.4.missingDesc>Pemukim sadar mampu mengangkut</GladiatorDuel.roles.4.missingDesc>
+  <!-- EN: participate -->
+  <GladiatorDuel.spectatorGerund>ikut</GladiatorDuel.spectatorGerund>
+  <!-- EN: Spectators -->
+  <GladiatorDuel.spectatorsLabel>Penonton</GladiatorDuel.spectatorsLabel>
+  <!-- EN: Duelist is not reachable. -->
+  <GladiatorDuel.stages.2.failTriggers.0.desc>Duelist tidak dapat dihubungi.</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <GladiatorDuel.stages.2.failTriggers.1.desc>teman tidur</GladiatorDuel.stages.2.failTriggers.1.desc>
+  <!-- EN: escort asleep -->
+  <GladiatorDuel.stages.2.failTriggers.2.desc>teman tidur</GladiatorDuel.stages.2.failTriggers.2.desc>
+  
+  <!-- EN: {SPEAKER_labelShort} is giving {RITUAL_labelIndef}.\n      \nIf all goes well, listeners will feel inspired, and gain respect for {SPEAKER_labelShort}. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-{IDEOMEMBERS}. -->
+  <LeaderSpeech.letterText>{Speaker_labelshort} memberi {ritual_labelindef}. \ N \ nsi semuanya berjalan dengan baik, pendengar akan merasa terinspirasi dan memenangkan rasa hormat untuk {speaker_labelshort}.Jika salah, pidato akan membahayakan sosial.Efek positif dikurangi untuk yang tidak {ideomembers}.</LeaderSpeech.letterText>
+  <!-- EN: {RITUAL_labelCap} -->
+  <LeaderSpeech.letterTitle>{Ritual_labelcap}</LeaderSpeech.letterTitle>
+  <!-- EN: speaker -->
+  <LeaderSpeech.roles.0.label>pembicara</LeaderSpeech.roles.0.label>
+  
+  <!-- EN: role changer -->
+  <RoleChange.roles.0.label>Perubahan Peran</RoleChange.roles.0.label>
+  <!-- EN: a role changer -->
+  <RoleChange.roles.0.missingDesc>Perubahan Peran</RoleChange.roles.0.missingDesc>
+  <!-- EN: spectate -->
+  <RoleChange.spectatorGerund>penonton</RoleChange.spectatorGerund>
+  <!-- EN: Spectators -->
+  <RoleChange.spectatorsLabel>Penonton</RoleChange.spectatorsLabel>
+  
+  <!-- EN: cutter -->
+  <SacrificeAnimal.roles.0.label>Kecurher</SacrificeAnimal.roles.0.label>
+  <!-- EN: sacrifice -->
+  <SacrificeAnimal.roles.1.label>pengorbanan</SacrificeAnimal.roles.1.label>
+  <!-- EN: an animal with body size of at least 0.8 -->
+  <SacrificeAnimal.roles.1.missingDesc>Korban seekor binatang dengan ukuran tubuh setidaknya 0,8</SacrificeAnimal.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <SacrificeAnimal.spectatorGerund>ikut</SacrificeAnimal.spectatorGerund>
+  <!-- EN: Participants -->
+  <SacrificeAnimal.spectatorsLabel>Peserta</SacrificeAnimal.spectatorsLabel>
+  <!-- EN: Animal is not reachable. -->
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>Hewan itu tidak dapat dicapai</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <SacrificeAnimal.stages.0.failTriggers.1.desc>teman tidur</SacrificeAnimal.stages.0.failTriggers.1.desc>
+  <!-- EN: sacrifice no longer dead -->
+  <SacrificeAnimal.stages.3.failTriggers.0.desc>Pengorbanan tidak lagi mati</SacrificeAnimal.stages.3.failTriggers.0.desc>
+  
+  <!-- EN: cutter -->
+  <SacrificePrisoner.roles.0.label>Kecurher</SacrificePrisoner.roles.0.label>
+  <!-- EN: sacrifice -->
+  <SacrificePrisoner.roles.1.label>pengorbanan</SacrificePrisoner.roles.1.label>
+  <!-- EN: a prisoner -->
+  <SacrificePrisoner.roles.1.missingDesc>Seorang tahanan</SacrificePrisoner.roles.1.missingDesc>
+  <!-- EN: participate -->
+  <SacrificePrisoner.spectatorGerund>ikut</SacrificePrisoner.spectatorGerund>
+  <!-- EN: Participants -->
+  <SacrificePrisoner.spectatorsLabel>Peserta</SacrificePrisoner.spectatorsLabel>
+  <!-- EN: Prisoner is not reachable. -->
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>Tahanan tidak dapat dicapai</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <SacrificePrisoner.stages.0.failTriggers.1.desc>teman tidur</SacrificePrisoner.stages.0.failTriggers.1.desc>
+  <!-- EN: sacrifice no longer dead -->
+  <SacrificePrisoner.stages.3.failTriggers.0.desc>Pengorbanan tidak lagi mati</SacrificePrisoner.stages.3.failTriggers.0.desc>
+  
+  <!-- EN: target -->
+  <ScarificationCeremony.roles.0.label>tujuan</ScarificationCeremony.roles.0.label>
+  <!-- EN: the person to scarify -->
+  <ScarificationCeremony.roles.0.missingDesc>Orang yang berseri</ScarificationCeremony.roles.0.missingDesc>
+  <!-- EN: cutter -->
+  <ScarificationCeremony.roles.1.label>Kecurher</ScarificationCeremony.roles.1.label>
+  <!-- EN: the person who performs the scarification -->
+  <ScarificationCeremony.roles.1.missingDesc>Orang yang melakukan skarifikasi</ScarificationCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>Tujuannya tidak dapat dicapai.</ScarificationCeremony.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <ScarificationCeremony.stages.0.failTriggers.1.desc>teman tidur</ScarificationCeremony.stages.0.failTriggers.1.desc>
+  
+  <!-- EN: participate -->
+  <SmokeCircle.spectatorGerund>ikut</SmokeCircle.spectatorGerund>
+  <!-- EN: Participants -->
+  <SmokeCircle.spectatorsLabel>Peserta</SmokeCircle.spectatorsLabel>
+  
+  <!-- EN: connector -->
+  <TreeConnection.roles.0.label>konektor</TreeConnection.roles.0.label>
+  <!-- EN: Only adults can connect to the Gauranlen tree. -->
+  <TreeConnection.roles.0.customChildDisallowMessage>Hanya orang dewasa yang dapat terhubung ke pohon Gauranlen.</TreeConnection.roles.0.customChildDisallowMessage>
+  <!-- EN: spectate -->
+  <TreeConnection.spectatorGerund>hamil</TreeConnection.spectatorGerund>
+  <!-- EN: Spectators -->
+  <TreeConnection.spectatorsLabel>Penonton</TreeConnection.spectatorsLabel>
+  
+  <!-- EN: judge -->
+  <Trial.roles.0.label>hakim</Trial.roles.0.label>
+  <!-- EN: convict -->
+  <Trial.roles.1.label>dituduh</Trial.roles.1.label>
+  
+  <!-- EN: judge -->
+  <TrialMentalState.roles.0.label>hakim</TrialMentalState.roles.0.label>
+  <!-- EN: convict -->
+  <TrialMentalState.roles.1.label>dituduh</TrialMentalState.roles.1.label>
+  
+  <!-- EN: judge -->
+  <TrialPrisoner.roles.0.label>hakim</TrialPrisoner.roles.0.label>
+  <!-- EN: convict -->
+  <TrialPrisoner.roles.1.label>dituduh</TrialPrisoner.roles.1.label>
+  <!-- EN: Convicted prisoner is not reachable. -->
+  <TrialPrisoner.stages.0.failTriggers.0.desc>Tahanan yang dituduh tidak dapat dihubungi.</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <!-- EN: escort asleep -->
+  <TrialPrisoner.stages.0.failTriggers.1.desc>teman tidur</TrialPrisoner.stages.0.failTriggers.1.desc>
+  
+</LanguageData>

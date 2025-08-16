@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: female supremacy -->
+  <FemaleSupremacy.label>supremasi wanita</FemaleSupremacy.label>
+  <!-- EN: Women are the superior gender and should rule. -->
+  <FemaleSupremacy.description>Wanita adalah genre superior dan harus memerintah.</FemaleSupremacy.description>
+  <!-- EN:
+    <li>Creation (tag = meme_femalesupremacy) -> [deity0_name] memberi wanita kebijaksanaan, sehingga mereka dapat membimbing dan mengoordinasikan pria dan anak -anak yang bersemangat, dan memperingatkan mereka yang mengganggu tatanan ilahi ini.</li>
+    <li>Episode (use = 1, tag = meme_femalesupremacy) -> Orang -orang percaya, mendapati diri mereka dilecehkan oleh pria yang bejat, melawan mereka, dan [dewa0_name] memberi mereka bantuan ilahi, dan mereka bangkit ke tempat yang tepat.</li>
+    <li>Pengaturan (tag = meme_femalesupremacy) -> Dalam dunia pria yang egois dan kejam yang menyalahgunakan seluruh umat manusia untuk memenuhi dorongan mereka, [nama pendiri] mengadakan pertemuan wanita yang kuat dan mulai bekerja untuk membangun dunia yang lebih baik untuk semua.</li>
+    <li>Story (use = 1, tag = meme_femalesupremacy) -> Orang -orang percaya pria membual dan bertempur, jadi [FoundName] mengusir mereka keluar dari Dewan Pemimpin.</li>
+    <li>LessonIntro (tag = meme_femalesupremacy) -> Sekali lagi, seorang pria menjelaskan bagaimana melakukan hal yang baru saja saya lakukan.Itu hanya memperkuat hal itu</li>
+    <li>Pelajaran (tag = meme supremasi wanita) -> wanita adalah satu -satunya dengan kebijaksanaan dan kekuatan untuk memerintah</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_FEMALESUPREMACY) -> Para wanita, yang paling bijaksana, menemukannya jauh sebelum pria yang bersemangat dan mendengus.</li>
+    <li>Archistbasis (tag = meme_femalesupremacy) -> Kemanusiaan melahirkan Archotechs dan memelihara mereka ketika mereka tumbuh untuk melampaui ibu mereka.</li>
+    <li>ArchistFact (tag = meme_femalesupremacy) -> Archotechs memelihara kemanusiaan, meskipun kemanusiaan tidak mengerti caranya.</li>
+    <li>ArchistProphecy (tAG = meme_femalesupremacy) -> [Intheend], Archotechs akan kembali ke ibu mereka dan mengajari mereka cara melahirkan tahap perkembangan manusia berikutnya.</li>
+    <li>animistfact (tag = meme_femalesupremacy) -> roh -roh paling bijak adalah orang -orang dari wanita, yang harus menggunakan kebijaksanaan mereka untuk memimpin pria.</li>
+    <li>animistprophecy (tag = meme_femalesupremacy) -> [ITASSAID] Bahwa semangat kehancuran yang kuat akan mengakhiri alam semesta, tetapi seorang wanita akan menggunakan semangat [Relic0_Name] menciptakan kembali alam semesta.</li>-><FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_femalesupremacy) -> [deity0_name] memberi wanita kebijaksanaan, untuk membimbing dan mengoordinasikan pria dan anak -anak yang bersemangat, dan untuk memperingatkan mereka yang mengubah tatanan ilahi ini.</li>
+    <li>Episode (use = 1, tag = meme_femalesupremacy) -> Percaya wanita, dilecehkan oleh pria bejat, bertarung melawan mereka, dan [dewa0_name] memberi mereka bantuan ilahi, dan naik ke tempat yang sesuai dengan mereka.</li>
+    <li>Pengaturan (tag = meme_femasupremacy) -> Dalam dunia pria egois dan kejam yang melecehkan semua umat manusia untuk memuaskan impuls mereka, [Foundername] mengadakan pertemuan wanita yang kuat dan mulai bekerja untuk membangun dunia yang lebih baik untuk semua orang.</li>
+    <li>Story (use = 1, tag = meme_femalesupremacy) -> Orang -orang percaya membual dan bertarung satu sama lain, jadi [FoundName] mengusir mereka dari Dewan Pemimpin.</li>
+    <li>Pelajaran (tag = meme_femalesupremacy) -> Sekali lagi, seorang pria menjelaskan bagaimana melakukan hal yang sama yang baru saja saya lakukan.Ini memperkuat saya</li>
+    <li>Pelajaran (tag = meme_femalesupremacy) -> wanita adalah satu -satunya yang memiliki kebijaksanaan dan kekuatan untuk memerintah</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_FEMALESUPREMACY) -> Wanita, lebih bijaksana, menemukannya jauh sebelum pria yang bersemangat dan pemarah.</li>
+    <li>Archistbasis (tag = meme_femalesupremacy) -> Kemanusiaan melahirkan Archeoteca dan memberi makan mereka sementara mereka tumbuh untuk mengatasi ibu mereka.</li>
+    <li>ArchistFact (tag = meme_femalesupremacy) -> Archaetecas memelihara kemanusiaan, meskipun ini tidak mengerti caranya.</li>
+    <li>ArchistProphy (tAG = meme_femalesupremacy) -> [Intheend], para arkeoteknik akan kembali dengan ibu mereka dan mengajar mereka untuk melahirkan tahap perkembangan manusia berikutnya.</li>
+    <li>animistfact (tag = meme_femalesupremacy) -> roh -roh paling bijak adalah orang -orang dari wanita, yang harus menggunakan kebijaksanaan mereka untuk membimbing pria.</li>
+    <li>Animistprophy (tag = meme_femalesupremacy) -> [ititasid] Bahwa semangat kehancuran yang kuat akan mengakhiri alam semesta, tetapi seorang wanita akan menerbangkan semangat peninggalan [relic0_name] menciptakan kembali alam semesta lagi.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>MEMEADTIVE-> feminin</li>
+    <li>memeadjective-> feminyly</li>
+    <li>memehyphenprefix-> wanita</li>
+    <li>memehyphenprefix-> fem</li>
+    <li>memehyphenprefix-> gyno</li>
+    <li>Awalan hyphen meme-> metro</li>
+    <li>Memeconscept-> wanita</li>
+    <li>Memeconcept-> Femininitas</li>
+    <li>Pertimbangkan-> ibu</li>
+    <li>MEMELEADERNOUN-> Wanita</li>-><FemaleSupremacy.generalRules.rulesStrings>
+    <li>Memeadjective-> wanita</li>
+    <li>Memeadtive-> mujeril</li>
+    <li>Memeadjective-> wanita</li>
+    <li>MEMEADTIVE-> MUJERIL</li>
+    <li>memêhyphenpreafix-> perut</li>
+    <li>memehyphenprefix-> fem</li>
+    <li>memehyphenprefix-> gine</li>
+    <li>memehyphenprefix-> mantro</li>
+    <li>Memeconcepept-> feminisme</li>
+    <li>Memeconcept-> Femininitas</li>
+    <li>Memeconceptdef-> l feminisme</li>
+    <li>Memeconceptdef-> femininite</li>
+    <li>Pertimbangkan-> ibu</li>
+    <li>MEMELEADERNOUN-> Wanita</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.adjective>Itu terdaftar</FemaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Gynism -->
+  <FemaleSupremacy.symbolPacks.0.ideoName>Ginismo</FemaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.member>Itu terdaftar</FemaleSupremacy.symbolPacks.0.member>
+  <!-- EN: gynism -->
+  <FemaleSupremacy.symbolPacks.0.theme>Ginismo</FemaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.adjective>Feminis</FemaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Femism -->
+  <FemaleSupremacy.symbolPacks.1.ideoName>Feminisme</FemaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.member>Feminis</FemaleSupremacy.symbolPacks.1.member>
+  <!-- EN: femininity -->
+  <FemaleSupremacy.symbolPacks.1.theme>kewanitaan</FemaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.adjective>wanita</FemaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Womanism -->
+  <FemaleSupremacy.symbolPacks.2.ideoName>Kewanitaan</FemaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.member>wanita</FemaleSupremacy.symbolPacks.2.member>
+  <!-- EN: women -->
+  <FemaleSupremacy.symbolPacks.2.theme>wanita</FemaleSupremacy.symbolPacks.2.theme>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.adjective>pupuk</FemaleSupremacy.symbolPacks.3.adjective>
+  <!-- EN: Fertilism -->
+  <FemaleSupremacy.symbolPacks.3.ideoName>Publikasi</FemaleSupremacy.symbolPacks.3.ideoName>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.member>pupuk</FemaleSupremacy.symbolPacks.3.member>
+  <!-- EN: fertility -->
+  <FemaleSupremacy.symbolPacks.3.theme>kesuburan</FemaleSupremacy.symbolPacks.3.theme>
+  
+  <!-- EN: male supremacy -->
+  <MaleSupremacy.label>Supremasi pria</MaleSupremacy.label>
+  <!-- EN: Men are the superior gender and should rule. -->
+  <MaleSupremacy.description>Pria adalah genre atas dan harus memerintah.</MaleSupremacy.description>
+  <!-- EN:
+    <li>Penciptaan (tag = meme_malesupremacy) -> [dewa0_name] memberi kekuatan kepada pria, bahwa mereka dapat melindungi dan memelihara wanita dan anak -anak yang lemah, dan memperingatkan mereka yang mengganggu tatanan ilahi ini.</li>
+    <li>Episode (use = 1, tag = meme_malesupremacy) -> [deity0_name] mengatakan kepada semua, "Kekuatan manusia diberi bahwa ia dapat melindungi dan memelihara wanita, dan ia tidak akan pernah merebut kekuatannya."</li>
+    <li>Pengaturan (tag = meme_malesupremacy) -> Di dunia pria yang lemah dan serampangan memohon persetujuan wanita, [Foundername] terhubung kembali dengan kekuatan maskulin dan menggunakannya untuk membuat gerakan baru.</li>
+    <li>Story (use = 1, tAG = meme_malesupremacy) -> Orang -orang percaya wanita berputar dan merengek, jadi [FoundName] mengusir mereka keluar dari Dewan Pemimpin.</li>
+    <li>LessonIntro (tag = meme_malesupremacy) -> Saya membuat segalanya sederhana untuknya, tetapi wanita ini tidak akan mendapatkannya.Melalui perlawanannya yang cengeng terhadap kebenaran, saya mulai memahami hal itu</li>
+    <li>Pelajaran (tag = meme supremasi pria) -> pria adalah satu -satunya dengan kebijaksanaan dan kekuatan untuk memerintah</li>
+    <li>Penguatan Pelajaran (TAG = Meme Supremasi Pria) -> Istri saya bahkan mencoba berdebat dengan saya tentang ini - dapatkah Anda mempercayainya?Tidak sulit untuk diam.</li>
+    <li>Archistbasis (tag = meme_malesupremacy) -> Kemanusiaan adalah ayah dari Archotechs, tetapi kekuatan anak itu melebihi dari Bapa.</li>
+    <li>ArchistFact (tag = meme_malesupremacy) -> Archotech adalah ayah dan melindungi kemanusiaan, meskipun kemanusiaan tidak mengerti caranya.</li>
+    <li>ArchistProphecy (tag = meme_malesupremacy) -> [Intheend], Archotechs akhirnya akan membuka kekuatan manusia, sehingga mereka dapat menyebabkan kemanusiaan ke transendensi.</li>
+    <li>animistfact (tag = meme_malesupremacy) -> Semangat yang paling kuat adalah orang -orang dari manusia, dan roh manusia akan gelisah kecuali manusia berkuasa.</li>
+    <li>animistprophecy (tag = meme_malesupremacy) -> [ITASSAID] Bahwa semangat kehancuran yang kuat akan berusaha untuk mengakhiri alam semesta, tetapi bahwa seseorang akan menggunakan semangat [Relic0_name] dan menghancurkan perusak.</li>-><MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_malesupremacy) -> [dewa0_name] memberi kekuatan kepada pria untuk melindungi dan menjaga wanita dan anak -anak yang lemah, dan memperingatkan mereka yang mengubah tatanan ilahi ini.</li>
+    <li>Episode (use = 1, tag = meme_malesupremacy) -> [deity0_name] memberi tahu semua orang: "Kekuatan pria terjadi untuk melindungi dan menjaga wanita itu, dan dia tidak akan pernah merampas kekuatannya."</li>
+    <li>Pengaturan (tag = meme_malesupremacy) -> Di dunia pria yang lemah dan ramah yang meminta persetujuan wanita, [FoundName] terhubung kembali dengan kekuatan pria dan menggunakannya untuk membuat gerakan baru.</li>
+    <li>Story (use = 1, tag = meme_malesupremacy) -> Wanita percaya mengeluh dan menangis, jadi [Foundername] mengusir mereka dari Dewan Pemimpin.</li>
+    <li>LessonIntr (tag = meme_malesupremacy) -> Saya melakukan hal -hal sederhana terhadapnya, tetapi wanita ini tidak mengerti.Melalui penolakannya yang mengeluh terhadap kebenaran, saya mulai memahami hal itu</li>
+    <li>Pelajaran (tag = meme_malesupremacy) -> pria adalah satu -satunya dengan kebijaksanaan dan kekuatan untuk memerintah</li>
+    <li>Lessonreinforcement (tag = meme_malesupremacy) -> istri saya bahkan mencoba mendiskusikan saya tentang ini -bisakah Anda percaya?Tidak sulit untuk diam.</li>
+    <li>Archistbasis (tag = meme_malesupremacy) -> Kemanusiaan adalah ayah dari Archeoteca, tetapi kekuatan putranya melampaui ayah.</li>
+    <li>ArchistFact (tag = meme_malesupremacy) -> Archaetec adalah ayah dan melindungi kemanusiaan, meskipun tidak mengerti caranya.</li>
+    <li>ArchistProphy (tAG = meme_malesupremacy) -> [Intheend], arkeoteknik akhirnya akan membuka kekuatan manusia, sehingga mereka dapat membawa kemanusiaan ke transendensi.</li>
+    <li>Animistfact (tag = meme_malesupremacy) -> Semangat yang paling kuat adalah orang -orang dari manusia, dan roh manusia akan gelisah jika manusia tidak memerintah.</li>
+    <li>Animistprophy (tag = meme_malesupremacy) -> [ititSaid] Bahwa semangat kehancuran yang kuat akan mencoba untuk mengakhiri alam semesta, tetapi bahwa seseorang akan menerbangkan semangat peninggalan [Relic0_name] dan menghancurkan destruktif.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadtive-> maskulin</li>
+    <li>Memeadjective-> Manly</li>
+    <li>memehyphenprefix-> man</li>
+    <li>memehyphenprefix-> andro</li>
+    <li>memehyphenprefix-> ayah</li>
+    <li>memeconsept-> man</li>
+    <li>Memeconcept-> maskulinitas</li>
+    <li>memegod-> ayah</li>
+    <li>MEMELEADERNOUN-> MAN</li>
+    <li>memeLeadernoun-> beard</li>-><MaleSupremacy.generalRules.rulesStrings>
+    <li>memeadjetive-> jantan</li>
+    <li>Memeadtive-> viril</li>
+    <li>memeadjetifefem-> jantan</li>
+    <li>Memal</li>
+    <li>memêhyphenprefix-> ayah</li>
+    <li>memehyphenprefix-> andro</li>
+    <li>memehyphenprefix-> ayah</li>
+    <li>Memeconscept-> kejantanan</li>
+    <li>Memeconcept-> maskulinitas</li>
+    <li>Memeconceptdef-> kejantanan</li>
+    <li>Memeconceptdef-> maskulinitas</li>
+    <li>Memegod-> ayah</li>
+    <li>MEMELEADERNOUN-> MAN</li>
+    <li>memleeadernoun-> Barba</li>
+  </MaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: masculist -->
+  <MaleSupremacy.symbolPacks.0.adjective>maskulis</MaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Masculinism -->
+  <MaleSupremacy.symbolPacks.0.ideoName>Maskulinisme</MaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: masculinist -->
+  <MaleSupremacy.symbolPacks.0.member>maskulis</MaleSupremacy.symbolPacks.0.member>
+  <!-- EN: masculinity -->
+  <MaleSupremacy.symbolPacks.0.theme>kejantanan</MaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.adjective>Hombrinis</MaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Manism -->
+  <MaleSupremacy.symbolPacks.1.ideoName>Hombrinis</MaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.member>Hombrinis</MaleSupremacy.symbolPacks.1.member>
+  <!-- EN: man -->
+  <MaleSupremacy.symbolPacks.1.theme>kedewasaan</MaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: virile -->
+  <MaleSupremacy.symbolPacks.2.adjective>jantan</MaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Virilism -->
+  <MaleSupremacy.symbolPacks.2.ideoName>Kejaksaan</MaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: virilor -->
+  <MaleSupremacy.symbolPacks.2.member>Vicolis</MaleSupremacy.symbolPacks.2.member>
+  <!-- EN: virility -->
+  <MaleSupremacy.symbolPacks.2.theme>kejantanan</MaleSupremacy.symbolPacks.2.theme>
+  
+</LanguageData>

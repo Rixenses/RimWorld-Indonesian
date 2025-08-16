@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: special abilities -->
+  <Ability.label>Keterampilan khusus</Ability.label>
+  
+  <!-- EN: aptitudes -->
+  <Aptitudes.label>bakat</Aptitudes.label>
+  
+  <!-- EN: archite -->
+  <Archite.label>archite</Archite.label>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>kecantikan</Beauty.label>
+  
+  <!-- EN: cosmetic - body type -->
+  <Cosmetic_Body.label>Kosmetik - Jenis Tubuh</Cosmetic_Body.label>
+  
+  <!-- EN: drugs -->
+  <Drugs.label>obat</Drugs.label>
+  
+  <!-- EN: health -->
+  <Healing.label>kesehatan</Healing.label>
+  
+  <!-- EN: hemogen -->
+  <Hemogen.label>haemogeno</Hemogen.label>
+  
+  <!-- EN: mood -->
+  <Mood.label>suasana hati</Mood.label>
+  
+  <!-- EN: movement -->
+  <Movement.label>gerakan</Movement.label>
+  
+  <!-- EN: pain -->
+  <Pain.label>nyeri</Pain.label>
+  
+  <!-- EN: psychics -->
+  <Psychic.label>cenayang</Psychic.label>
+  
+  <!-- EN: reproduction -->
+  <Reproduction.label>reproduksi</Reproduction.label>
+  
+  <!-- EN: resistance and sensitivity -->
+  <ResistanceAndWeakness.label>resistensi dan sensitivitas</ResistanceAndWeakness.label>
+  
+  <!-- EN: sleep -->
+  <Sleep.label>mimpi</Sleep.label>
+  
+  <!-- EN: temperature -->
+  <Temperature.label>suhu</Temperature.label>
+  
+  <!-- EN: violence -->
+  <Violence.label>kekerasan</Violence.label>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pruning speed -->
+  <PruningSpeed.label>kecepatan pemangkasan</PruningSpeed.label>
+  <!-- EN: A multiplier on how fast this person can prune a Gauranlen tree to maintain their connection with it.\n\nPruning is more of a contemplative psychic task than a physical one, so health factors like vision are unimportant here. -->
+  <PruningSpeed.description>Pengganda dari kecepatan yang dapat dipangkas oleh orang ini untuk memangkas pohon gourn untuk mempertahankan hubungannya dengan dia.</PruningSpeed.description>
+  
+  <!-- EN: suppression power -->
+  <SuppressionPower.label>Kekuatan Penindasan</SuppressionPower.label>
+  <!-- EN: A multiplier on a warden's ability to suppress slaves. -->
+  <SuppressionPower.description>Pengganda kemampuan penjaga untuk menekan budak.</SuppressionPower.description>
+  
+</LanguageData>

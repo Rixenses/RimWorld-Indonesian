@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: became lover -->
+  <BecameLover.label>Amario Baru</BecameLover.label>
+  <!-- EN:
+    <li>tale_noun-> [puruer_namedef] dan [accepter_namedef] menjadi pecinta</li>
+    <li>Image-> [puruer_namefull] Berbisik tidak ada yang manis ke telinga [accepter_namefull] [soundance_group]</li>
+    <li>Image-> [puruer_namefull] memimpin [accepter_namefull] dengan tangan ke tempat tidur [soundance_group]</li>
+    <li>Image-> [puruer_namefull] Gambolling di tempat tidur dengan [accepter_namefull] [Soundance_Group]</li>
+    <li>Image-> [puruer_namefull] mencium dalam [accepter_namefull] [soundance_group]</li>
+    <li>SITUKSE_PHRASE-> di tempat tidur yang tidak realistis</li>
+    <li>keadaan_phrase-> antara lembaran</li>
+    <li>keadaan_phrase-> dengan sedikit pakaian yang terlihat</li>
+    <li>keadaan_phrase-> saat keduanya basah kuyup</li>
+    <li>desc_sentence-> [puruer_namedef] meringkuk melawan [accepter_namedef].</li>
+    <li>desc_sentence-> [pursuer_namedef] mengunci mata dengan [accepter_namedef].</li>
+    <li>desc_sentence-> [puruer_namedef] meniup udara di [accepter_namedef].</li>
+    <li>desc_sentence-> [puruer_namedef] secara gaya terikat dengan [accepter_namedef].</li>
+    <li>desc_sentence-> [puruer_namedef] adalah gambar dekat-Anda [accepter_namedef].</li>
+    <li>desc_sentence-> [puruer_namedef] menyentuh [accepter_namedef] secara agresif.</li>-><BecameLover.rulePack.rulesStrings>
+    <li>talent_noun-> [pursuer_namedef] dan [accept_namedef] menjadi pecinta</li>
+    <li>Image-> [puruer_namefulr] Berbisik hal-hal manis ke telinga [accept_namefulr] [soundance_group]</li>
+    <li>Image-> [puruer_namefulr] mengarah ke [accepter_namefull] bergandengan tangan [soundance_group]</li>
+    <li>Image-> [puruer_namefull] Melompat di tempat tidur dengan [accept_namefulr] [SITUKSE_GROUP]</li>
+    <li>Image-> [puruer_namefull] BESA ApasionAdamente a [accepter_namefull] [Soumtance_Group]</li>
+    <li>SITUKSE_PHRASE-> di tempat tidur besar yang tidak masuk akal</li>
+    <li>Keadaan_phrase-> antara lembaran</li>
+    <li>Keadaan_phrase-> dengan pakaian kecil yang terlihat</li>
+    <li>Keadaan_phrase-> saat keduanya bermandikan keringat</li>
+    <li>Desc_sentence-> [puruer_namedef] curls terhadap [accept_namedef].</li>
+    <li>Desc_sentence-> [puruer_namedef] dan [accept_namedef] Lihatlah ke mata mereka.</li>
+    <li>Desc_sentence-> [puruer_namedef] berhembus ke telinga [accept_namedef].</li>
+    <li>Desc_sentence-> [puruer_namedef] dipeluk dengan gaya [accept_namedef].</li>
+    <li>Desc_sentence-> [puruer_namedef] melakukan hal yang persis sama dengan [accept_namedef].</li>
+    <li>Desc_sentence-> [puruer_namedef] secara agresif menangani [accept_namedef].</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <!-- EN: bond developed -->
+  <BondedWithAnimal.label>tautan yang dibuat</BondedWithAnimal.label>
+  <!-- EN:
+    <li>Tale_noun-> [human_namedef] ikatan dengan [animal_namedef]</li>
+    <li>Image-> [human_namefull] Ikatan dengan [animal_namefull] [SICKACE_GROUP]</li>
+    <li>Image-> [Human_namefull] Membentuk ikatan yang dalam dengan [animal_namefull] [SICKECANCE_GROUP]</li>
+    <li>Image-> [human_namefull] Menyadari [human_possessive] Benar-benar mencintai [animal_namefull] [soundance_group]</li>
+    <li>keadaan_phrase-> sementara hewan lain terlihat</li>
+    <li>SITUCTANCE_PHRASE-> Saat melihat ke mata [Animal_Namedef]</li>
+    <li>SITUKSE_PHRASE-> dengan rasa puas</li>
+    <li>desc_sentence-> [animal_namedef] meringkuk melawan [human_namedef].</li>
+    <li>desc_sentence-> [animal_namedef] terlihat mengantuk dan mabuk dengan cinta.</li>
+    <li>desc_sentence-> [animal_namedef] berdiri tinggi dan terlihat mulia.</li>
+    <li>desc_sentence-> [animal_namedef] merespons secara positif.</li>-><BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun-> [human_namedef] membuat tautan dengan [animal_namedef]</li>
+    <li>Image-> [human_name full] sangat menyukai [animal_nameful] [soundance_group]</li>
+    <li>Image-> [human_namefulr] membentuk tautan yang dalam dengan [animal_nameful] [Soundance_Group]</li>
+    <li>Image-> [Human_namefulull] mewujudkan cintanya untuk [animal_nameful] [soundance_group]</li>
+    <li>SITUKSE_PHRASE-> sementara hewan lain mengamati</li>
+    <li>SITUCTANCE_PHRASE-> sementara [human_pronoun] melihat [animal_namedef] di mata</li>
+    <li>SITUKSE_PHRASE-> dengan wajah kepuasan</li>
+    <li>desc_sentence-> [animal_namedef] se restrriega contra [trainer_namedef].</li>
+    <li>Desentencio-> [animal_namedef] terlihat seperti peminjam cinta.</li>
+    <li>Desentent-> [animal_namedef] terlihat mulia, kuat.</li>
+    <li>Desentency-> [animal_namedef] merespons secara positif.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <!-- EN: breakup -->
+  <Breakup.label>pecah</Breakup.label>
+  <!-- EN:
+    <li>tale_noun-> perpecahan [dumper_namedef] dan [ditolak_namedef]</li>
+    <li>Image-> [dumper_namefull] duduk [ditolak_namefull] turun untuk pembicaraan yang tidak menyenangkan [soundance_group]</li>
+    <li>Image-> [dumper_namefull] Berdiri dari kejauhan dari [ditolak_namefull] [soundance_group]</li>
+    <li>Image-> [dumper_namefull] Mendorong [ditolak_namefull] keluar dari tempat tidur [soundance_group]</li>
+    <li>Image-> [dumper_namefull] Menolak pelukan dari [ditolak_namefull] [soundance_group]</li>
+    <li>keadaan_phrase-> di saat kesedihan yang luar biasa</li>
+    <li>keadaan_phrase-> saat orang lain berpaling dengan canggung</li>
+    <li>keadaan_phrase-> seperti yang orang lain lihat</li>
+    <li>desc_sentence-> [ditolak_namedef] terisak-isak tak terkendali.</li>
+    <li>desc_sentence-> [ditolak_namedef] mencibir dan menangis pada saat yang sama.</li>
+    <li>desc_sentence-> [ditolak_namedef] berwajah berbatu dengan kaget.</li>
+    <li>desc_sentence-> [dumper_namedef] dipisahkan secara gaya dari [ditolak_namedef].</li>
+    <li>desc_sentence-> [ditolak_namedef] telah runtuh di lantai dengan tumpukan yang bergetar.</li>
+    <li>desc_sentence-> [ditolak_namedef] menggerakkan dengan marah di [dumper_namedef].</li>-><Breakup.rulePack.rulesStrings>
+    <li>tale_noun-> [dumper_namedef] dan [ditolak_namedef] mematahkan hubungan mereka</li>
+    <li>Image-> [dumper_namefulull] dikirim [ditolak_nameful] ke meja untuk sedikit pembicaraan yang menyenangkan [soundance_group]</li>
+    <li>Image-> [dumper_namefulr] berdiri pada jarak pendek dari [ditolak_namefulull] [soundance_group]</li>
+    <li>Image-> [dumper_namefulr] mendorong [ditolak_nameful] keluar dari tempat tidur [soundance_group]</li>
+    <li>Image-> [dumper_namefull] rechaza un abrazo de [ditolak_namefull] [soundance_group]</li>
+    <li>Keadaan_phrase-> di saat kesedihan yang luar biasa</li>
+    <li>Keadaan_phrase-> sementara yang lain menyimpang tampilan yang tidak nyaman</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>Desc_sentence-> [ditolak_namedef] terisak-isak tak terkendali.</li>
+    <li>Desc_sentence-> [ditolak_namedef] menangis dan mencicit pada saat yang sama.</li>
+    <li>Desc_sentence-> [ditolak_namedef] memiliki wajah kejutan.</li>
+    <li>Desc_sentence-> [dumper_namedef] sangat jauh dari [ditolak_namedef].</li>
+    <li>Desc_sentence-> [ditolak_namedef] telah runtuh di tanah dan gemetar.</li>
+    <li>Desc_sentence-> [ditolak_namedef] membuat isyarat ke arah [dumper_namedef].</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <!-- EN: marriage -->
+  <Marriage.label>pernikahan</Marriage.label>
+  <!-- EN:
+    <li>Tale_noun-> Pernikahan [pasangan1_namedef] dan [pasangan2_namedef]</li>
+    <li>Image-> [spouse1_namefull] menikah [spouse2_namefull] [soundance_group]</li>
+    <li>Image-> [pasangan1_namefull] mengatakan [pasangan1_possessives] perkawinan bersumpah dengan [spouse2_namefull] [soundance_group]</li>
+    <li>Image-> [spouse1_namefull] Berjalan menyusuri lorong dengan [spouse2_namefull] [SITUGNCE_GROUP]</li>
+    <li>Image-> [pasangan1_namefull] berpegangan tangan dengan [pasangan2_namefull] selama upacara pernikahan [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> Dalam upacara yang bermartabat</li>
+    <li>keadaan_phrase-> saat keduanya tertawa riang</li>
+    <li>keadaan_phrase-> sementara yang lain melihat dengan sungguh-sungguh</li>
+    <li>desc_sentence-> [spouse1_namedef] meringkuk melawan [spouse2_namedef].</li>
+    <li>desc_sentence-> [spouse1_namedef] mengunci mata dengan [spouse2_namedef].</li>
+    <li>desc_sentence-> [spouse1_namedef] meniup udara di [spouse2_namedef].</li>
+    <li>desc_sentence-> [spouse1_namedef] secara gaya terikat dengan [spouse2_namedef].</li>
+    <li>desc_sentence-> [spouse1_namedef] adalah gambar dekat-mirror [spouse2_namedef].</li>
+    <li>desc_sentence-> [spouse1_namedef] menyentuh [spouse2_namedef] secara agresif.</li>-><Marriage.rulePack.rulesStrings>
+    <li>tale_noun-> [spouse1_namedef] dan [spouse2_namedef] menikah</li>
+    <li>Image-> [spouse1_namefull] casándose con [spouse2_namefull] [soundance_group]</li>
+    <li>Image-> [pasangan1_namefulull] Mengatakan suara mereka memberikan suara kepada [pasangan2_namefulull] [soundance_group]</li>
+    <li>Image-> [spouse1_namefulr] Berjalan menuju altar pernikahan dengan [pasangan2_namefulr] [soundance_group]</li>
+    <li>Image-> [spouse1_namefulr] Mengambil tangan dengan [Spause2_namefulull] selama upacara pernikahan [SITUMCANCE_GROUP]</li>
+    <li>Keadaan_phrase-> dalam upacara yang layak</li>
+    <li>Keadaan_phrase-> saat keduanya tersenyum bahagia</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati khidmat</li>
+    <li>Desc_sentence-> [spouse1_namedef] Jika acurruca con [spouse2_namedef].</li>
+    <li>Desentencio-> [spouse1_namedef] y [spouse2_namedef] cross.</li>
+    <li>Desentencio-> [spouse1_namedef] Susurra ale dari [spouse2_namedef].</li>
+    <li>Desentent-> [spouse1_namedef] secara halus bersatu/a [spouse2_namedef].</li>
+    <li>Desc_sentence-> [spouse1_namedef] melakukan hal yang persis sama dengan [spouse2_namedef].</li>
+    <li>Desc_sentente-> [spouse1_namedef] menyentuh [spouse2_namedef].</li>
+  </Marriage.rulePack.rulesStrings>
+  
+</LanguageData>

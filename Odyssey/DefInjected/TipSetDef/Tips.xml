@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Use the magnifying glass button in the bottom-right of the world map screen to search for landmarks or quest locations. -->
+  <OdysseyTips.WorldSearch>Gunakan tombol pembesar di sudut kanan bawah layar peta dunia untuk mencari titik referensi atau lokasi misi.</OdysseyTips.WorldSearch>
+  <!-- EN: In addition to vacsuits, marine and recon armor can also keep people alive in space. -->
+  <OdysseyTips.Vacsuits>Selain pakaian vakum, kelautan dan pengakuan baju besi juga dapat membuat orang tetap hidup di luar angkasa.</OdysseyTips.Vacsuits>
+  <!-- EN: Fish in larger bodies of water. Larger ponds yield more fish per catch. -->
+  <OdysseyTips.FishPopulation>Memancing di badan air yang lebih besar.Kolam terbesar menawarkan lebih banyak ikan per penangkapan.</OdysseyTips.FishPopulation>
+  <!-- EN: The larger a body of water is, the higher the chance that it will have uncommon fish. -->
+  <OdysseyTips.UncommonFish>Semakin besar badan air, semakin besar probabilitas ikan yang tidak biasa.</OdysseyTips.UncommonFish>
+  <!-- EN: Gasses like smoke or rot stink will dissipate faster in the vacuum of space. -->
+  <OdysseyTips.GasInVacuum>Gas, seperti asap atau bau busuk, akan menghilang lebih cepat dalam ruang hampa.</OdysseyTips.GasInVacuum>
+  <!-- EN: Insect sludge terrain slows most creatures - but not insects. -->
+  <OdysseyTips.InsectSludge>Residu insektoid memperlambat sebagian besar makhluk, tetapi bukan insektoid.</OdysseyTips.InsectSludge>
+  
+</LanguageData>

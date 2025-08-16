@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>Pakaian membakar</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>Pakaian Incinera untuk benar -benar menghancurkannya.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>Pakaian yang membakar.</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>Obat -obatan membakar</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>Obat -obatan Incinera untuk menghancurkannya sepenuhnya.</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>Obat -obatan yang membakar.</BurnDrugs.jobString>
+  
+  <!-- EN: burn weapon -->
+  <BurnWeapon.label>senjata membakar</BurnWeapon.label>
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <BurnWeapon.description>Membakar senjata untuk menghancurkannya sepenuhnya.</BurnWeapon.description>
+  <!-- EN: Burning weapon. -->
+  <BurnWeapon.jobString>Membakar senjata.</BurnWeapon.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>Mayat pembakaran</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>Membakar mayat untuk benar -benar menghancurkannya.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>Mayat yang membakar.</CremateCorpse.jobString>
+  
+</LanguageData>

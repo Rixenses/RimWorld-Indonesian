@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
+  <AbandonedChild23.description>[PAWN_namaDef] lahir dalam keadaan sakit-sakitan{PAWN_jenis_kelamin ? atau : a}. Berpikir bahwa dia hanya akan menjadi beban bagi sukunya, orang tuanya [PAWN_objective] meninggalkannya di tempat terbuka. Entah bagaimana, [PAWN_kata ganti] selamat.</AbandonedChild23.description>
+  <!-- EN: abandoned child -->
+  <AbandonedChild23.title>anak itu pergi</AbandonedChild23.title>
+  <AbandonedChild23.titleFemale>anak itu pergi</AbandonedChild23.titleFemale>
+  <!-- EN: abandoned -->
+  <AbandonedChild23.titleShort>kiri</AbandonedChild23.titleShort>
+  <AbandonedChild23.titleShortFemale>kiri</AbandonedChild23.titleShortFemale>
+  
+  <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
+  <Bookworm19.description>Alih-alih bersosialisasi dengan anak-anak lain, [PAWN_namaDef] lebih memilih untuk tenggelam dalam dunia literatur. Dia belajar membaca sejak kecil dengan buku-buku yang dibeli dari pemilik toko yang lewat.</Bookworm19.description>
+  <!-- EN: bookworm -->
+  <Bookworm19.title>kutu rambut</Bookworm19.title>
+  <Bookworm19.titleFemale>kutu rambut</Bookworm19.titleFemale>
+  <!-- EN: bookworm -->
+  <Bookworm19.titleShort>kutu rambut</Bookworm19.titleShort>
+  <Bookworm19.titleShortFemale>kutu rambut</Bookworm19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
+  <BuddingArtist44.description>[PAWN_NamaDef] memiliki bakat dalam bidang seni. Para pedagang dan kolektor dari berbagai kalangan berusaha untuk membeli karya-karyanya.</BuddingArtist44.description>
+  <!-- EN: budding artist -->
+  <BuddingArtist44.title>seniman pemula</BuddingArtist44.title>
+  <BuddingArtist44.titleFemale>seniman pemula</BuddingArtist44.titleFemale>
+  <!-- EN: artist -->
+  <BuddingArtist44.titleShort>Artis</BuddingArtist44.titleShort>
+  <BuddingArtist44.titleShortFemale>Artis</BuddingArtist44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
+  <Bully70.description>[PAWN_NamaDef] menyiksa anak-anak lain untuk bersenang-senang. Untuk membuatnya tetap sibuk, seorang pria tua [PAWN_objective] menugaskannya ke pesta berburu ketika dia masih sangat muda.</Bully70.description>
+  <!-- EN: bully -->
+  <Bully70.title>penguntit</Bully70.title>
+  <Bully70.titleFemale>penguntit</Bully70.titleFemale>
+  <!-- EN: bully -->
+  <Bully70.titleShort>penguntit</Bully70.titleShort>
+  <Bully70.titleShortFemale>penguntit</Bully70.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
+  <CaveChild30.description>[PAWN_namaDef] tumbuh besar di kompleks gua-gua besar dan rumit yang membentang jauh ke sisi gunung. [PAWN_kata ganti] membantu orang dewasa memelihara dan memperbaiki gua-gua yang dalam.</CaveChild30.description>
+  <!-- EN: cave child -->
+  <CaveChild30.title>anak dari gua</CaveChild30.title>
+  <CaveChild30.titleFemale>gadis dari gua</CaveChild30.titleFemale>
+  <!-- EN: cave child -->
+  <CaveChild30.titleShort>Anak gua</CaveChild30.titleShort>
+  <CaveChild30.titleShortFemale>gadis gua</CaveChild30.titleShortFemale>
+  
+  <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
+  <CrashBaby32.description>Saat masih bayi, [PAWN_namaDef] adalah {PAWN_jenis_kelamin ? satu-satunya} yang selamat dari kecelakaan pesawat luar angkasa yang fatal. Sebuah suku yang lewat [PAWN_objective] ditemukan di reruntuhan dan [PAWN_objective] diadopsi.</CrashBaby32.description>
+  <!-- EN: crash baby -->
+  <CrashBaby32.title>bayi yang masih hidup</CrashBaby32.title>
+  <CrashBaby32.titleFemale>bayi yang masih hidup</CrashBaby32.titleFemale>
+  <!-- EN: crashbaby -->
+  <CrashBaby32.titleShort>bayi yang masih hidup</CrashBaby32.titleShort>
+  <CrashBaby32.titleShortFemale>bayi yang masih hidup</CrashBaby32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
+  <FireKeeper44.description>[PAWN_namaDef] bertanggung jawab untuk menjaga api suku tetap menyala. [PAWN_kata ganti] mengambil tanggung jawab ini dengan sangat serius.</FireKeeper44.description>
+  <!-- EN: fire keeper -->
+  <FireKeeper44.title>petugas pemadam kebakaran</FireKeeper44.title>
+  <FireKeeper44.titleFemale>petugas pemadam kebakaran</FireKeeper44.titleFemale>
+  <!-- EN: firekeep -->
+  <FireKeeper44.titleShort>petugas pemadam kebakaran</FireKeeper44.titleShort>
+  <FireKeeper44.titleShortFemale>petugas pemadam kebakaran</FireKeeper44.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
+  <Herder19.description>Di masa kecilnya, [PAWN_namaDef] merawat kawanan kerbau milik suku, menjaga mereka dari predator dan merawat yang sakit. Itu adalah pekerjaan yang sepi, tapi [PAWN_Nama_Ganti] senang berada jauh dari manusia.</Herder19.description>
+  <!-- EN: herder -->
+  <Herder19.title>gembala</Herder19.title>
+  <Herder19.titleFemale>pendeta</Herder19.titleFemale>
+  <!-- EN: herder -->
+  <Herder19.titleShort>gembala</Herder19.titleShort>
+  <Herder19.titleShortFemale>pendeta</Herder19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+  <Hideaway7.description>Orang tua [PAWN_NAMA_NEGERI] [PAWN_TUJUAN] yang terlalu protektif mendorong [PAWN_NAMA_NEGERI] [PAWN_TUJUAN] untuk tinggal di rumah hampir setiap hari. Meskipun [PAWN_NamaTujuan] memiliki banyak waktu untuk membaca dan melakukan hobi, ia tidak pernah mengembangkan keterampilan sosial yang normal.</Hideaway7.description>
+  <!-- EN: hideaway -->
+  <Hideaway7.title>terisolasi</Hideaway7.title>
+  <Hideaway7.titleFemale>terisolasi</Hideaway7.titleFemale>
+  <!-- EN: hideaway -->
+  <Hideaway7.titleShort>terisolasi</Hideaway7.titleShort>
+  <Hideaway7.titleShortFemale>terisolasi</Hideaway7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
+  <ReclusiveChild81.description>[PAWN_NamaDef] tidak belajar berbicara hingga ia berusia 5 tahun, dan bahkan saat itu, ia masih lebih memilih untuk diam. Sebagai seorang remaja, ia membentuk kebiasaan meninggalkan desanya dari waktu ke waktu untuk hidup sendirian di alam.</ReclusiveChild81.description>
+  <!-- EN: reclusive child -->
+  <ReclusiveChild81.title>anak yang tertutup</ReclusiveChild81.title>
+  <ReclusiveChild81.titleFemale>anak yang tertutup</ReclusiveChild81.titleFemale>
+  <!-- EN: reclusive -->
+  <ReclusiveChild81.titleShort>tertutup</ReclusiveChild81.titleShort>
+  <ReclusiveChild81.titleShortFemale>tertutup</ReclusiveChild81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
+  <Scavenger22.description>[PAWN_namaDef] menghabiskan masa kecilnya dengan melarikan diri dari pekerjaan kotor untuk menggali bangkai kapal dan reruntuhan untuk mencari harta karun. Keingintahuan alaminya [PAWN_objective] membuatnya terlibat dalam banyak masalah, tetapi juga menghasilkan banyak penemuan menarik.</Scavenger22.description>
+  <!-- EN: scavenger -->
+  <Scavenger22.title>pemulung</Scavenger22.title>
+  <Scavenger22.titleFemale>pemulung</Scavenger22.titleFemale>
+  <!-- EN: scavenger -->
+  <Scavenger22.titleShort>pemulung</Scavenger22.titleShort>
+  <Scavenger22.titleShortFemale>pemulung</Scavenger22.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
+  <SoleSurvivor21.description>Seluruh kuartal [Pawn_namadef] dihancurkan oleh serangan musuh.Dalam tipe genital {Pawn_ yang terisolasi?Atau: A}, dia diadopsi {Pawn_ Genital Type?Atau: A} pada kuartal lain, secara emosional terluka {Pawn_ Genital Type?Atau: A}, dan lebih suka tinggal di rumah, memasak dan merawat tanaman.</SoleSurvivor21.description>
+  <!-- EN: sole survivor -->
+  <SoleSurvivor21.title>satu-satunya yang selamat</SoleSurvivor21.title>
+  <SoleSurvivor21.titleFemale>satu-satunya yang selamat</SoleSurvivor21.titleFemale>
+  <!-- EN: survivor -->
+  <SoleSurvivor21.titleShort>aman</SoleSurvivor21.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
+  <TribeChild40.description>[PAWN_NamaDef] dibesarkan di sebuah suku, berlarian, menggembala kerbau, dan belajar keterampilan yang berguna dari orang tuanya. [PAWN_NamaDef] tidak pernah belajar membaca dan menulis dan tidak pernah melihat mesin yang bukan merupakan reruntuhan kuno.</TribeChild40.description>
+  <!-- EN: tribe child -->
+  <TribeChild40.title>anak suku</TribeChild40.title>
+  <TribeChild40.titleFemale>gadis suku</TribeChild40.titleFemale>
+  <!-- EN: tribal -->
+  <TribeChild40.titleShort>suku</TribeChild40.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
+  <VengefulChild43.description>Di masa kecilnya, [PAWN_NamaDef] kembali ke desanya hanya untuk menemukan bahwa desanya telah dihancurkan oleh para bandit. [PAWN_NamaDef] bersumpah untuk membalas dendam dan memulai petualangan penuh kekerasan di seluruh wilayah.</VengefulChild43.description>
+  <!-- EN: vengeful child -->
+  <VengefulChild43.title>anak dendam</VengefulChild43.title>
+  <VengefulChild43.titleFemale>anak dendam</VengefulChild43.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulChild43.titleShort>pendendam</VengefulChild43.titleShort>
+  <VengefulChild43.titleShortFemale>pendendam</VengefulChild43.titleShortFemale>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Personalcharacteristiccube-> hubungan dengan kubus</li>
+    <li>PersonalcharacteristicCube-> Pengetahuan Kubus</li>
+    <li>PersonalcharacteristicCube-> bentuk geometris favorit</li>
+    <li>PersonalcharacteristicCube-> Pemahaman tentang Struktur Kubik</li>
+    <li>PersonalcharacteristicCube-> penyembahan kubus</li>
+    <li>PersonalcharacteristicCube-> kenyamanan yang diambil dari persahabatan kubus</li>
+    <li>PersonalcharacteristicCube-> Pengekangan, tentang kubus</li>
+    <li>Karakteristik Pribadi Cube-> Objek Platonis Secara Umum</li>-><PersonalCharacteristicsCube.rulePack.rulesStrings>
+    <li>Personcharacteristiccube-> hubungan dengan kubus</li>
+    <li>Personcharacteristiccube-> pengetahuan kubus</li>
+    <li>PersonhacteristicCube-> Formulir Geometris Favorit</li>
+    <li>Personcharacteristiccube-> pemahaman tentang struktur kubik</li>
+    <li>Personhacteristiccube-> kultur ke kubus</li>
+    <li>Personcharacteristiccube-> Consuelo dari perusahaan kubus</li>
+    <li>Personcharacteristiccube-> moderation, sehubungan dengan kubus</li>
+    <li>Personcharacteristiccube-> objek platonis pada umumnya</li>
+  </PersonalCharacteristicsCube.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicCube-> The Cube</li>
+    <li>TalkTopicCube-> Cubes</li>
+    <li>TalkTopicCube-> Gold</li>
+    <li>TalkTopicCube-> Golden Cubes</li>
+    <li>TalkTopicCube-> Bentuk geometris terbaik</li>
+    <li>TalkTopicCube-> Purity of Gold</li>
+    <li>TalkTopicCube-> Atomic Number 79</li>
+    <li>TalkTopicCube-> The Metal Terbesar</li>
+    <li>TalkTopicCube-> Gold's Origins in Space</li>
+    <li>TalkTopicCube-> The Oceanic Content of Gold</li>
+    <li>TalkTopicCube-> The Cube dalam Ikonografi Agama</li>
+    <li>TalkTopicCube-> Satu-satunya hexahedron biasa</li>
+    <li>TalkTopicCube-> Square Parallelepipeds</li>
+    <li>TalkTopicCube-> Cuboids Equilateral</li>
+    <li>TalkTopicCube-> The Cubic New Jerusalem</li>
+    <li>TalkTopicCube-> Kemungkinan Hypercubes Emas</li>
+    <li>TalkTopicCube-> Heresy of the Sphere</li>
+    <li>TalkTopicCube-> Golden Tesseracts</li>-><TalkTopicsCube.rulePack.rulesStrings>
+    <li>TalkopicCube-> The Cube</li>
+    <li>TalkopicCube-> Cubes</li>
+    <li>TalkopicCube-> Golden Cubes</li>
+    <li>TalkTopicCube-> Oro</li>
+    <li>TalkopicCube-> El Dorado</li>
+    <li>TalkopicCube-> Cubes Emas</li>
+    <li>TalkopicCube-> Bentuk Geometris Terbaik</li>
+    <li>TalkopicCube-> Purity of Gold</li>
+    <li>TalkopicCube-> Atomic Number 79</li>
+    <li>TalkOpicCube-> Logam paling mulia</li>
+    <li>TalkopicCube-> Asal Emas Emas di Luar Angkasa</li>
+    <li>TalkopicCube-> Kandungan Oseanik Emas</li>
+    <li>TalkopicCube-> The Cube in Religius Iconography</li>
+    <li>TalkopicCube-> Satu-satunya hexaedro biasa</li>
+    <li>TalkTopicCube-> Cuadradradous Parallelepipeds</li>
+    <li>TalkOpicCube-> Kubus Puilateral</li>
+    <li>TalkopicCube-> The New Cubic Jerusalem</li>
+    <li>TalkopicCube-> Kemungkinan Hypercubes Emas</li>
+    <li>TalkopicCube-> Heresy of the Sphere</li>
+    <li>TalkopicCube-> Pemicu Emas</li>
+  </TalkTopicsCube.rulePack.rulesStrings>
+  
+</LanguageData>

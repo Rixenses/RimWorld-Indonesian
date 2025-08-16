@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>Manufaktur lanjutan</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Memproduksi komponen canggih dari komponen standar dan bahan lainnya.</AdvancedFabrication.description>
+  <!-- EN:
+    <li>Subjek-> Fabrikasi Komponen Lanjutan</li>
+    <li>Subject_story-> Komponen Lanjutan yang Diperdagangkan untuk Rimworlders yang putus asa</li>
+    <li>subjek_story-> mempelajari rahasia membuat komponen canggih dan mati tanpa mengungkapkannya</li>
+    <li>Subject_story-> Dikecak dengan biaya ekstrem dari membuat komponen canggih dan memilih gaya hidup yang lebih sederhana</li>
+    <li>subjek_gerund-> membuat komponen canggih</li>-><AdvancedFabrication.generalRules.rulesStrings>
+    <li>Subjek-> Pembuatan Komponen Lanjutan</li>
+    <li>Subject_def-> dari pembuatan komponen canggih</li>
+    <li>Subject_story-> diperdagangkan dengan komponen canggih dengan pemukim yang putus asa dari dunia perbatasan</li>
+    <li>Subjek_story-> mempelajari rahasia pembuatan komponen canggih dan mati tanpa mengungkapkannya</li>
+    <li>Subject_story-> ngeri dengan biaya ekstrem komponen canggih dan memilih gaya hidup yang lebih sederhana</li>
+    <li>Subject_gerund-> manufaktur komponen lanjutan</li>
+  </AdvancedFabrication.generalRules.rulesStrings>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>Bionik</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Bangun bagian tubuh bionik untuk menggantikan anggota tubuh dan mata yang hilang.Dibutuhkan dokter yang memenuhi syarat untuk menginstalnya.</Bionics.description>
+  <!-- EN:
+    <li>Subjek-> Prostesis Bionik</li>
+    <li>Subject_story-> bekerja terutama dengan tentara yang cacat, membuat elemen wajah bionik yang dipesan lebih dahulu sehingga mereka dapat kembali ke orang yang mereka cintai</li>
+    <li>Subject_story-> dipelajari vids yang lambat dari gerakan manusia ke kerajinan prosthetics yang lebih baik</li>
+    <li>Subject_story-> disukap memiliki berbagai prototipe bionik yang ditanamkan, berakhir sebagai lebih banyak mesin daripada manusia</li>
+    <li>Subject_gerund-> Membangun Bionic Prosthetics</li>
+    <li>subjek_gerund-> menggunakan bagian tubuh bionik</li>-><Bionics.generalRules.rulesStrings>
+    <li>Subjek-> Bionik prostesis</li>
+    <li>Subject_def-> dari Bionic Prostheses</li>
+    <li>Subject_story-> bekerja dengan tentara yang cacat, memproduksi elemen wajah bionik karena memungkinkan mereka untuk kembali dengan orang yang mereka cintai</li>
+    <li>Subject_story-> Video yang dipelajari tentang gerakan manusia dalam gerakan lambat untuk meningkatkan pembuatan prostesesis bionik</li>
+    <li>Subject_story-> Relawan untuk mengimplementasikan beberapa prototipe bionik, akhirnya lebih dari manusia</li>
+    <li>Subject_gerund-> Bangun Prostesis Bionik</li>
+    <li>Subjek gerund-> gunakan bagian tubuh bionik</li>
+  </Bionics.generalRules.rulesStrings>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>amunisi pulsa</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Bangun senjata yang menembak biaya dengan pulsa menyebabkan kerusakan tambahan.Perlu diingat bahwa mereka membutuhkan komponen canggih.</ChargedShot.description>
+  <!-- EN:
+    <li>Subjek-> Pulse Munitions</li>
+    <li>Subjek_Story-> Monorel glitterworld yang dipelajari dan memodifikasi teknologi untuk senjata</li>
+    <li>Subject_story-> membunuh crawler mekanik dengan mengilapnya dengan tombak biaya</li>
+    <li>Subject_story-> belajar cara mengilhami amunisi senapan dengan biaya yang ditahan, sangat meningkatkan kematiannya</li>
+    <li>Subject_gerund-> Membangun amunisi pulsa</li>
+    <li>Subject_gerund-> menggunakan amunisi pulsa</li>-><ChargedShot.generalRules.rulesStrings>
+    <li>Subjek-> amunisi pulsa</li>
+    <li>Subject_def-> amunisi pulsa</li>
+    <li>Subject_story-> mempelajari monorra mundobrillants dan memodifikasi teknologi senjata mereka</li>
+    <li>Subject_story-> membunuh pelacak mekanik yang membuatnya kembali dengan tombak yang dimuat</li>
+    <li>Subject_story-> belajar menembus amunisi senapan dengan beban yang ditahan, sangat meningkatkan kematian mereka</li>
+    <li>Subjek gerund-> manufacture nadi amunisi</li>
+    <li>Subject_gerund-> Gunakan amunisi pulsa</li>
+  </ChargedShot.generalRules.rulesStrings>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>Cryptosueño Sarcophagi</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Bangun sarkofagi dari Cryptosueño, yang mempertahankan dalam keadaan animasi yang ditangguhkan untuk makhluk hidup di dalamnya.</Cryptosleep.description>
+  <!-- EN:
+    <li>Subjek-> Cryptosleep</li>
+    <li>Subject_story-> dimaksudkan untuk menguji prototipe kasket cryptosleep dan bangun satu generasi kemudian, sendirian</li>
+    <li>Subject_story-> menghukum penjahat terburuk sistem untuk cryptosleep yang tidak terbatas daripada kematian</li>
+    <li>Subject_story-> menggunakan kapsul cryptosleep untuk menangguhkan yang sakit parah, sehingga mereka bisa melihat anak-anak mereka begitu mereka dewasa</li>
+    <li>Subject_gerund-> Membangun peti cryptosleep</li>
+    <li>Subject_gerund-> menginduksi cryptosleep</li>-><Cryptosleep.generalRules.rulesStrings>
+    <li>Subjek-> Cryptosueño</li>
+    <li>Subject_def-> dari cryptosueño</li>
+    <li>Subject_story-> menguji prototipe kapsul cryptosueño dan satu generasi terangsang kemudian, tanpa ada orang di sekitarnya</li>
+    <li>Subject_story-> mengutuk penjahat terburuk dari sistem ke cryptosueño yang tidak terbatas alih-alih kematian</li>
+    <li>Subject_story-> menggunakan kapsul cryptosueño untuk menangguhkan pasien terminal dan bahwa mereka dapat melihat anak-anak mereka ketika mereka sudah dewasa</li>
+    <li>Subject_gerund-> construir carsulas de criptosueño</li>
+    <li>Subject_gerund-> menginduksi cryptosueño</li>
+  </Cryptosleep.generalRules.rulesStrings>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>manufaktur</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Bangun meja perakitan, mampu menyelesaikan proyek -proyek berteknologi tinggi, dari pembuatan komponen hingga perakitan servoarmaduras.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>Sekarang Anda memiliki teknologi yang diperlukan untuk membangun meja perakitan, tetapi konstruksinya membutuhkan komponen canggih.Anda dapat memperoleh komponen canggih dengan berbagai cara: \ n \ n - Semua koloni outscape menjual komponen canggih.Kirim karavan untuk membeli beberapa. \ N - Beberapa pedagang jalanan menjual komponen canggih.Undang mereka atau tunggu mereka muncul. \ N - Beberapa misi dihargai dengan komponen canggih. \ N - Beberapa ancaman khusus melepaskannya saat dikalahkan.</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>Tentang: memperoleh komponen canggih</Fabrication.discoveredLetterTitle>
+  <!-- EN:
+    <li>Subjek-> bangku fabrikasi berteknologi tinggi</li>
+    <li>Subject_story-> menghabiskan bertahun-tahun membuat komponen canggih, untuk membuat bangku fabrikasi untuk membuat komponen yang lebih maju</li>
+    <li>Subject_story-> Diperdagangkan segalanya untuk membangun bangku fabrikasi tunggal</li>
+    <li>Subjek_Story-> Marvel Teknologi Dibangun yang disembah penduduk desa liar sebagai ajaib</li>
+    <li>Subject_gerund-> Membangun proyek berteknologi tinggi</li>
+    <li>Subject_gerund-> membangun stasiun fabrikasi berteknologi tinggi</li>-><Fabrication.generalRules.rulesStrings>
+    <li>Subjek-> Tabel perakitan berteknologi tinggi</li>
+    <li>Subject_def-> dari bank perakitan berteknologi tinggi</li>
+    <li>Subject_story-> menghabiskan bertahun-tahun memproduksi komponen canggih untuk membangun tabel perakitan yang membuat komponen yang lebih canggih</li>
+    <li>Subject_story-> diperdagangkan dengan semua yang dia miliki untuk membangun satu meja perakitan</li>
+    <li>Subject_story-> Teknologi Terbangun Keajaiban yang disembah penduduk desa primitif</li>
+    <li>Subject_gerund-> Kembangkan proyek berteknologi tinggi</li>
+    <li>Subject_gerund-> membangun stasiun perakitan berteknologi tinggi</li>
+  </Fabrication.generalRules.rulesStrings>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>Multi-Amerizer</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Bangun multi-amuser yang meningkatkan kecepatan penelitian dan memungkinkan proyek tingkat yang lebih tinggi.</MultiAnalyzer.description>
+  <!-- EN:
+    <li>Subjek-> multi-analisis</li>
+    <li>Subject_story-> Otomatis Laboratorium Penelitian</li>
+    <li>Subject_story-> membuka kunci rahasia trans-spektrum alam semesta</li>
+    <li>subjek_story-> membantu mengidentifikasi isotop stabil baru</li>
+    <li>Subject_gerund-> Membangun multi-analyzer</li>-><MultiAnalyzer.generalRules.rulesStrings>
+    <li>Subjek-> multianialisis</li>
+    <li>Subject_def-> del Multianalisis</li>
+    <li>Subject_story-> Otomatis Laboratorium Penelitian</li>
+    <li>Subject_story-> Buka kunci rahasia transpektral alam semesta</li>
+    <li>Subjek_story-> membantu mengidentifikasi isotop stabil baru</li>
+    <li>Subject_gerund-> Bangun multi-analizer</li>
+  </MultiAnalyzer.generalRules.rulesStrings>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>servoarm</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>Bangun helm servoarmadura dan servoarmadura.Perlu diingat bahwa mereka juga membutuhkan komponen canggih.</PoweredArmor.description>
+  <!-- EN:
+    <li>Subjek-> Armor Marinir</li>
+    <li>Subject_story-> dipekerjakan oleh pasukan kejut untuk mempertahankan baju besi mereka</li>
+    <li>subjek_story-> menguji baju besi dengan berjalan, tidak bersenjata, melalui desa liar yang bermusuhan tanpa menerima goresan</li>
+    <li>Subject_story-> bermaksud baju besi sebagai perlindungan terhadap cuaca yang bermusuhan di planet ini, tetapi juga bekerja dengan baik terhadap para perompak</li>
+    <li>Subject_gerund-> Membangun Armor Pasukan Shock</li>
+    <li>Subject_gerund-> Membangun baju besi laut</li>
+    <li>Subject_gerund-> Membangun Armor Lanjutan Penggunaan Umum</li>-><PoweredArmor.generalRules.rulesStrings>
+    <li>Subjek-> servoarmaduras</li>
+    <li>Subjek_def-> dari las servoarm</li>
+    <li>Subjek_story-> digunakan oleh pasukan kejutan untuk mempertahankan baju besinya</li>
+    <li>Subjek_story-> menguji peregangan baju besi, tidak bersenjata, melalui desa primitif dan bermusuhan tanpa menerima goresan</li>
+    <li>Subject_story-> dimaksudkan untuk menggunakan baju besi sebagai perlindungan terhadap iklim yang bermusuhan di planet ini, tetapi juga bekerja dengan baik terhadap para perompak</li>
+    <li>Subjek gerund-> Bangun baju besi pasukan kejut</li>
+    <li>Subject_gerund-> Construir Serverarduras</li>
+    <li>Subjek gerund-> Bangun baju besi canggih untuk penggunaan umum</li>
+  </PoweredArmor.generalRules.rulesStrings>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>Armor Explorer</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>Bangun Armor Explorer, servoarmadura ringan yang digunakan oleh pasukan pengakuan yang membutuhkan perlindungan dan mobilitas.Perlu diingat bahwa mereka juga membutuhkan komponen canggih.</ReconArmor.description>
+  <!-- EN:
+    <li>Subjek-> Recon Armor</li>
+    <li>subjek_story-> memimpin pengintai pemberontak melawan pasukan kekaisaran, sampai ditangkap</li>
+    <li>Subject_story-> Lampu baju besi bertenaga dan cukup tangguh untuk pengguna palu untuk ditutup dengan musuh</li>
+    <li>Subject_story-> More Recon Armor lebih untuk Pemburu daripada tentara.Itu terjual dengan baik, terlepas dari itu</li>
+    <li>Subject_gerund-> Crafting Recon Armor</li>
+    <li>Subject_gerund-> mengurangi berat baju besi</li>-><ReconArmor.generalRules.rulesStrings>
+    <li>Subjek-> Armor Explorer</li>
+    <li>Subject_def-> Armor Explorer</li>
+    <li>Subject_story-> Penjelajah Pemberontak Diarahkan Melawan Pasukan Kekaisaran, sampai ditangkap</li>
+    <li>Subject_story-> Membangun Lampu Baja Cukup dan Tahan bagi Pengguna Hammer Besar Untuk Mendekati Musuh</li>
+    <li>Subject_story-> dimaksudkan agar pelindung penjelajah lebih banyak digunakan oleh pemburu daripada oleh tentara.Meski begitu, itu terjual dengan baik</li>
+    <li>Subjek gerund-> Bangun Armor Explorer</li>
+    <li>Subjek gerund-> mengurangi berat baju besi</li>
+  </ReconArmor.generalRules.rulesStrings>
+  
+  <!-- EN: rocketswarm launcher -->
+  <RocketswarmLauncher.label>Beberapa peluncur roket</RocketswarmLauncher.label>
+  <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
+  <RocketswarmLauncher.description>Ini menghasilkan banyak peluncuran, menara dari semburan tunggal yang dapat menghancurkan area yang luas pada saat pertempuran utama.</RocketswarmLauncher.description>
+  <!-- EN:
+    <li>subjek-> menara roket</li>
+    <li>Subject_story-> bersaksi tentang penggunaan peluncur Rocketswarm terhadap target sipil</li>
+    <li>Subject_story-> Dibangun pertahanan terakhir, termasuk perangkap dan peluncur, jika penyelesaian itu pernah terancam</li>
+    <li>Subject_story-> Dimulai dengan membangun roket primitif untuk mencapai ruang, tetapi tingkat kegagalan yang tinggi menyebabkan mereka digunakan kembali sebagai senjata</li>
+    <li>Subject_gerund-> Membangun menara roket</li>-><RocketswarmLauncher.generalRules.rulesStrings>
+    <li>Subjek-> menara roket</li>
+    <li>Subjek_def-> dari menara roket</li>
+    <li>Subject_story-> bersaksi tentang penggunaan swarmunaters roket terhadap tujuan sipil</li>
+    <li>Subject_story-> Dibangun Pertahanan Resor Terakhir, termasuk perangkap dan pitcher, jika penyelesaian itu pernah terancam</li>
+    <li>Subjek_story-> mulai membangun roket primitif untuk mencapai ruang, tetapi tingkat kegagalannya yang tinggi menyebabkan mereka digunakan kembali sebagai senjata</li>
+    <li>Subjek gerund-> membangun menara roket</li>
+  </RocketswarmLauncher.generalRules.rulesStrings>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>Uranium Cannon</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Bangun menara bersenjata dengan meriam uranium anti-buta.Tembak peluru uranium yang melintasi Plastiacero sebagai kertas, tetapi kurang efektif pada jarak pendek.</SniperTurret.description>
+  <!-- EN:
+    <li>Subjek-> Turret Sniper</li>
+    <li>Subject_story-> memimpin pembersihan setelah perang, mengumpulkan siput uranium radioaktif yang dihabiskan dari garis depan</li>
+    <li>Subject_story-> melihat tunas menara langsung melalui mekanoid serangan dan perlu memahami caranya</li>
+    <li>Subject_story-> Meneliti efek kepadatan amunisi pada baju besi</li>
+    <li>Subject_gerund-> Membangun menara sniper</li>-><SniperTurret.generalRules.rulesStrings>
+    <li>Subjek-> PERSAMAAN</li>
+    <li>Subject_def-> dari Turret Snort</li>
+    <li>Subject_story-> Diarahkan Pembersihan Setelah Perang, Mengumpulkan Radio Uranium Bullets yang dihabiskan di garis depan</li>
+    <li>Subjek_story-> dia melihat menara menembak langsung melalui mekanid serangan dan perlu memahami caranya</li>
+    <li>Subject_story-> menyelidiki efek kepadatan amunisi baju besi</li>
+    <li>Subject_gerund-> Bangun Menara Prancis</li>
+  </SniperTurret.generalRules.rulesStrings>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>Monitor Tanda Vital</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Ini memungkinkan untuk membangun monitor yang meningkatkan kualitas perawatan untuk pasien dengan menempatkan mereka di sebelah tempat tidur rumah sakit.</VitalsMonitor.description>
+  <!-- EN:
+    <li>Subjek-> Pemantauan Tanda Vital</li>
+    <li>Subject_story-> berjuang di rumah sakit yang penuh sesak dan bersumpah untuk bekerja untuk perubahan</li>
+    <li>Subject_story-> merawat orang glassworld kembali ke kesehatan</li>
+    <li>Subject_story-> memantau bangsal isolasi dari jarak jauh, mengirim mekanoid untuk perawatan</li>
+    <li>Subject_gerund-> memantau tanda-tanda vital</li>
+    <li>Subject_gerund-> Membangun Monitor Tanda-tanda Vital</li>-><VitalsMonitor.generalRules.rulesStrings>
+    <li>Subjek-> Pemantauan Tanda Vital</li>
+    <li>Subject_def-> dari pemantauan tanda-tanda vital</li>
+    <li>Subject_story-> Dia dirawat di rumah sakit yang ramai dan berjanji untuk bekerja untuk mengubah situasi</li>
+    <li>Subject_story-> Merawat orang yang selamat dari dunia kristal sampai pemulihan totalnya</li>
+    <li>Subject_story-> memantau ruang isolasi dari jarak jauh, mengirimkan mekanidasi untuk perawatan</li>
+    <li>Subjek gerund-> monitor tanda-tanda vital</li>
+    <li>Subjek gerund-> Build Vital Sign Monitor</li>
+  </VitalsMonitor.generalRules.rulesStrings>
+  
+</LanguageData>

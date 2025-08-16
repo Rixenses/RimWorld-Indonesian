@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum exposure revealed -->
+  <VacuumExposureRevealed.label>Paparan vakum terungkap</VacuumExposureRevealed.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Terkena Vakum Keras</li>
+    <li>Tale_noun-> [Pawn_namedef] Menderita paparan vakum</li>
+    <li>Image-> [Pawn_namefull] mengambang menjauh dari kapal [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Menggerus melalui ruang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] melayang di antara bintang-bintang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] mengejutkan keluar Airlock [SICKECANCE_GROUP]</li>
+    <li>face corcalcance_phrase-> sementara [pawn_possessive] perlahan-lahan berubah menjadi biru</li>
+    <li>SITUCTANCE_PHRASE-> Sementara [Pawn_Possessive] Saliva mulai mendidih</li>
+    <li>Tubuh SICKACE_PHRASE-> sementara [Pawn_Possessives] mulai membengkak</li>
+    <li>SICKCANCE_PHRASE-> Sedangkan kulit [Pawn_possessive] mulai membeku</li>
+    <li>keadaan_phrase-> sambil berteriak diam-diam</li>
+    <li>SITUKSE_PHRASE-> dan mulai kehilangan kesadaran</li>
+    <li>keadaan_phrase-> dan terengah-engah</li>
+    <li>DESC_SENTENCE-> Mata [Pawn_Namedef] berubah menjadi kaca.</li>
+    <li>desc_sentence-> kegelapan yang tak ada habisnya mengelilingi subjek.</li>
+    <li>desc_sentence-> Adegan tampaknya terjadi di ruang angkasa.</li>
+    <li>desc_sentence-> di bawah helm yang hancur adalah mata yang tak bernyawa.</li>
+    <li>desc_sentence-> [quantity_adjphrase] bintang-bintang terputar mengelilingi gambar.</li>
+    <li>desc_sentence-> [pawn_namedef] memakai vacsuit robek.</li>
+    <li>desc_sentence-> A [warna] asteroid tampak besar di belakang gambar.</li>
+    <li>desc_sentence-> di belakang gambar adalah planet [warna] yang besar.</li>-><VacuumExposureRevealed.rulePack.rulesStrings>
+    <li>Tale_noun-> Paparan [Pawn_namedef] hingga dingin yang kosong</li>
+    <li>Tale_noun-> [Pawn_namedef] Menderita Paparan Vakum</li>
+    <li>Image-> [Pawn_namefulull] Bergerak menjauh dari kapal [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Turun dari luar angkasa [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Turun antara bintang [SICKETANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] mengejutkan di luar kunci udara [SICKECANCE_GROUP]</li>
+    <li>Keadaan_phrase-> saat wajahnya menjadi biru perlahan</li>
+    <li>Keadaan_phrase-> saat air liur Anda mulai mendidih</li>
+    <li>Keadaan_phrase-> saat tubuh Anda mulai membengkak</li>
+    <li>Keadaan_phrase-> saat kulit Anda mulai membeku</li>
+    <li>Keadaan_phrase-> saat berteriak dalam keheningan</li>
+    <li>SITUKSE_PHRASE-> dan mulai kehilangan kesadaran</li>
+    <li>Keadaan_phrase-> dan terengah-engah</li>
+    <li>Keturunan-> Mata [Pawn_Namedef] menjadi kaca.</li>
+    <li>Descent-> Infinite Darkness mengelilingi subjek.</li>
+    <li>Desc_sentence-> Adegan tampaknya terjadi di ruang angkasa.</li>
+    <li>Desc_sentence-> di bawah helm yang rusak ada mata yang tak bernyawa.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] bintang bengkok mengelilingi gambar.</li>
+    <li>Desc_sentence-> [pawn_namedef] membawa setelan vakum yang robek.</li>
+    <li>Desc_sentence-> Sebuah asteroid [warna] tampak besar di belakang gambar.</li>
+    <li>Keturunan-> Di belakang gambar ada planet besar [warna].</li>
+  </VacuumExposureRevealed.rulePack.rulesStrings>
+  
+</LanguageData>

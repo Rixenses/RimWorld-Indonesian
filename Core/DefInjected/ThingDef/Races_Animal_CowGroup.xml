@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bison -->
+  <Bison.label>banteng</Bison.label>
+  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
+  <Bison.description>Mamalia besar yang ditemukan di tanah liar La Sabana.Domestikasi cukup jinak, tetapi marah cepat dan berbahaya.</Bison.description>
+  <!-- EN: head -->
+  <Bison.tools.head.label>kepala</Bison.tools.head.label>
+  <!-- EN: left hoof -->
+  <Bison.tools.left_hoof.label>Kiri Hoove</Bison.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.left_hoof.labelNoLocation>menerjang</Bison.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Bison.tools.right_hoof.label>Hoove yang benar</Bison.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Bison.tools.right_hoof.labelNoLocation>menerjang</Bison.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: boomalope -->
+  <Boomalope.label>Bumalope</Boomalope.label>
+  <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
+  <Boomalope.description>Diseñado para la producción de químicos, en la espalda del bumalope crece un gran saco de productos químicos volátiles. Aunque es débil y frágil para su tamaño, otros animales han aprendido a evitarlo debido a la enorme explosión que produce cuando muere. Se puede ordeñar para producir biocombustible... de forma muy cuidadosa.</Boomalope.description>
+  <!-- EN: head -->
+  <Boomalope.tools.head.label>kepala</Boomalope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Boomalope.tools.left_hoof.label>Kiri Hoove</Boomalope.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.left_hoof.labelNoLocation>menerjang</Boomalope.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Boomalope.tools.right_hoof.label>Hoove yang benar</Boomalope.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Boomalope.tools.right_hoof.labelNoLocation>menerjang</Boomalope.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>karibu</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>Anggota hebat keluarga rusa, disesuaikan dengan baik untuk hidup di iklim dingin.Rusa dapat diperah, tetapi menolak untuk mengangkut beban.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>Kiri Hoove</Caribou.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.left_hoof.labelNoLocation>menerjang</Caribou.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>Hoove yang benar</Caribou.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Caribou.tools.right_hoof.labelNoLocation>menerjang</Caribou.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>kepala</Caribou.tools.head.label>
+  
+  <!-- EN: cow -->
+  <Cow.label>vaca</Cow.label>
+  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
+  <Cow.description>Ungulate jinak yang hebat, sapi telah dibesarkan selama ribuan tahun untuk menghasilkan susu, daging, dan kulit dalam jumlah besar.Mereka adalah makhluk yang sangat lemah lembut dan tidak akan pernah membalas dendam, tidak peduli berapa kali mereka rusak.Sebagian besar dari mereka sangat beradaptasi dengan kehidupan pertanian sehingga mereka tidak dapat bertahan hidup di alam.</Cow.description>
+  <!-- EN: beef -->
+  <Cow.race.meatLabel>Daging vaksin</Cow.race.meatLabel>
+  <!-- EN: head -->
+  <Cow.tools.head.label>kepala</Cow.tools.head.label>
+  <!-- EN: left hoof -->
+  <Cow.tools.left_hoof.label>Kiri Hoove</Cow.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.left_hoof.labelNoLocation>menerjang</Cow.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Cow.tools.right_hoof.label>Hoove yang benar</Cow.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Cow.tools.right_hoof.labelNoLocation>menerjang</Cow.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: donkey -->
+  <Donkey.label>PANTAT</Donkey.label>
+  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing.\n\nWhen in a caravan, people can ride donkeys to increase the caravan's speed. -->
+  <Donkey.description>Kerabat kecil kuda, dijinakkan dalam zaman kuno untuk pekerjaan pertanian.Suaranya Bobalicon menjengkelkan dan menggemaskan pada saat yang sama. \ N \ ncuando berada di karavan dapat dipasang untuk meningkatkan kecepatan mereka.</Donkey.description>
+  <!-- EN: head -->
+  <Donkey.tools.head.label>kepala</Donkey.tools.head.label>
+  <!-- EN: left hoof -->
+  <Donkey.tools.left_hoof.label>Kiri Hoove</Donkey.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.left_hoof.labelNoLocation>menerjang</Donkey.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Donkey.tools.right_hoof.label>Hoove yang benar</Donkey.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Donkey.tools.right_hoof.labelNoLocation>menerjang</Donkey.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedaris</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>Mamalia tanah yang besar diadaptasi dengan lingkungan kering.Domestikasi sejak zaman kuno, wol dan kulitnya sangat baik untuk diisolasi dari panas gurun, dan susu -nya sangat bergizi.Ini dapat digunakan sebagai hewan pemuatan, tetapi jalan tahan airnya membuatnya terlalu tidak nyaman untuk melakukan perjalanan ke jarak berapa pun.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>Kiri Hoove</Dromedary.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.left_hoof.labelNoLocation>menerjang</Dromedary.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>Hoove yang benar</Dromedary.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Dromedary.tools.right_hoof.labelNoLocation>menerjang</Dromedary.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>kepala</Dromedary.tools.head.label>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>gajah</Elephant.label>
+  <!-- EN: The largest unmodified land animal. Elephants have a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
+  <Elephant.description>Hewan terestrial non -dimodifikasi terbesar.Gajah memiliki bagasi panjang yang mereka gunakan untuk memanipulasi benda, dan taring tajam yang mereka gunakan untuk menjalankan penyerang mereka. Taring berharga dari gajah mati dapat diekstraksi ketika dipotong -potong.Mereka hidup lama, dan diketahui mengingat peristiwa dan hubungan beberapa dekade yang lalu.</Elephant.description>
+  <!-- EN: tusk -->
+  <Elephant.tools.tusk.label>gading</Elephant.tools.tusk.label>
+  <!-- EN: left foot -->
+  <Elephant.tools.left_foot.label>Kaki kiri</Elephant.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.left_foot.labelNoLocation>Pata</Elephant.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Elephant.tools.right_foot.label>Kaki kanan</Elephant.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Elephant.tools.right_foot.labelNoLocation>Pata</Elephant.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Elephant.tools.head.label>kepala</Elephant.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>rusa besar</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Anggota hebat keluarga rusa, disesuaikan dengan baik untuk hidup di iklim dingin.Elk domestik dapat diperah, tetapi mereka menolak untuk membawa beban.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>Kiri Hoove</Elk.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.left_hoof.labelNoLocation>menerjang</Elk.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>Hoove yang benar</Elk.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Elk.tools.right_hoof.labelNoLocation>menerjang</Elk.tools.right_hoof.labelNoLocation>
+  <!-- EN: head -->
+  <Elk.tools.head.label>kepala</Elk.tools.head.label>
+  
+  <!-- EN: goat -->
+  <Goat.label>kambing</Goat.label>
+  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
+  <Goat.description>Penasaran secara alami di seluruh dunia, kambing adalah makhluk jinak yang paling ramah yang dibesarkan oleh kemanusiaan.</Goat.description>
+  <!-- EN: head -->
+  <Goat.tools.head.label>kepala</Goat.tools.head.label>
+  
+  <!-- EN: horse -->
+  <Horse.label>kuda</Horse.label>
+  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times.\n\nWhen in a caravan, people can ride horses to increase the caravan's speed. -->
+  <Horse.description>Mamalia yang hebat dengan kuku, bulu pendek dan surai panjang dan ekor.Kuda -kuda telah menjinakkan sejak zaman kuno. \ N \ ncuando berada di karavan dapat dipasang untuk meningkatkan kecepatan mereka.</Horse.description>
+  <!-- EN: horse meat -->
+  <Horse.race.meatLabel>Daging kuda</Horse.race.meatLabel>
+  <!-- EN: head -->
+  <Horse.tools.head.label>kepala</Horse.tools.head.label>
+  <!-- EN: left hoof -->
+  <Horse.tools.left_hoof.label>Kiri Hoove</Horse.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.left_hoof.labelNoLocation>menerjang</Horse.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Horse.tools.right_hoof.label>Hoove yang benar</Horse.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Horse.tools.right_hoof.labelNoLocation>menerjang</Horse.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>Whe</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Herbivora hebat yang diselenggarakan di Herdas, keturunan Buffalo yang telah beradaptasi dengan lingkungan yang dingin dan hangat.Sementara mufalo yang marah adalah fana, mufalo yang dijinakkan cukup jinak dan dapat digunakan sebagai binatang buas.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>kepala</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>Kiri Hoove</Muffalo.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.left_hoof.labelNoLocation>menerjang</Muffalo.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>Hoove yang benar</Muffalo.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Muffalo.tools.right_hoof.labelNoLocation>menerjang</Muffalo.tools.right_hoof.labelNoLocation>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>badak</Rhinoceros.label>
+  <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
+  <Rhinoceros.description>Meskipun herbivora, mamalia yang hebat ini sangat mudah untuk marah.Suatu kali marah, kekuatannya yang besar dan tanduknya yang tajam membuatnya menjadi lawan yang brutal.Ini memiliki lebih banyak otot di satu kaki daripada kebanyakan manusia di seluruh tubuh.</Rhinoceros.description>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-0.label>klakson</Rhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <Rhinoceros.tools.horn-1.label>klakson</Rhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <Rhinoceros.tools.head.label>kepala</Rhinoceros.tools.head.label>
+  
+  <!-- EN: yak -->
+  <Yak.label>yak</Yak.label>
+  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
+  <Yak.description>Yaks adalah sapi yang kuat dari konstitusi yang gemuk, rendah tetapi dengan kaki tebal dan lubang inci bulat yang memanjang untuk membantu mereka berjalan melalui salju.</Yak.description>
+  <!-- EN: yak beef -->
+  <Yak.race.meatLabel>Daging yak</Yak.race.meatLabel>
+  <!-- EN: head -->
+  <Yak.tools.head.label>kepala</Yak.tools.head.label>
+  <!-- EN: left hoof -->
+  <Yak.tools.left_hoof.label>Kiri Hoove</Yak.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.left_hoof.labelNoLocation>menerjang</Yak.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Yak.tools.right_hoof.label>Hoove yang benar</Yak.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <Yak.tools.right_hoof.labelNoLocation>menerjang</Yak.tools.right_hoof.labelNoLocation>
+  
+</LanguageData>

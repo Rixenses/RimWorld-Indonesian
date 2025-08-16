@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barkskin dryad -->
+  <Dryad_Barkskin.label>kulit kulit dríada</Dryad_Barkskin.label>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Barkskin.description>Kasta kering yang berspesialisasi dalam menyerap pukulan selama pertempuran.Dermocortezana DRICE ditutupi oleh kulit tebal yang mirip dengan kulit kayu, sebagian dibentuk oleh pohon Gauranlen itu sendiri.Di bawah pengaruh manusia, ia dapat bertindak sebagai pejuang yang menyerap kerusakan. Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Barkskin.description>
+  <!-- EN: left claw -->
+  <Dryad_Barkskin.tools.left_claw.label>cakar kiri</Dryad_Barkskin.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Barkskin.tools.left_claw.labelNoLocation>cakar</Dryad_Barkskin.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Barkskin.tools.right_claw.label>Cakar kanan</Dryad_Barkskin.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Barkskin.tools.right_claw.labelNoLocation>cakar</Dryad_Barkskin.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Barkskin.tools.head.label>kepala</Dryad_Barkskin.tools.head.label>
+  
+  <!-- EN: immature dryad -->
+  <Dryad_Basic.label>Dríada yang belum dewasa</Dryad_Basic.label>
+  <!-- EN: Dryads are small mammalian creatures that have a symbiotic relationship with the Gauranlen tree. This immature dryad can support and protect its tree, but its main purpose is to morph into more specialized and powerful dryad forms. -->
+  <Dryad_Basic.description>Yang driced adalah makhluk mamalia kecil yang mempertahankan hubungan simbiotik dengan pohon Gauranlen.Dríada yang belum matang ini dapat mempertahankan dan melindungi pohonnya, tetapi tujuan utamanya adalah untuk berubah menjadi bentuk kering yang lebih khusus dan kuat.</Dryad_Basic.description>
+  <!-- EN: left claw -->
+  <Dryad_Basic.tools.left_claw.label>cakar kiri</Dryad_Basic.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Basic.tools.left_claw.labelNoLocation>cakar</Dryad_Basic.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Basic.tools.right_claw.label>Cakar kanan</Dryad_Basic.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Basic.tools.right_claw.labelNoLocation>cakar</Dryad_Basic.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Basic.tools.head.label>kepala</Dryad_Basic.tools.head.label>
+  
+  <!-- EN: berrymaker dryad -->
+  <Dryad_Berrymaker.label>Dríada Creabaya</Dryad_Berrymaker.label>
+  <!-- EN: A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Berrymaker.description>Kasta pengering khusus dalam produksi makanan.Bersama dengan pohon Gauranlen -nya, dríada ini dapat menghasilkan beri bergizi secara terus menerus.Namun, itu lambat dan tidak efektif dalam pekerjaan atau pertempuran. Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Berrymaker.description>
+  <!-- EN: left claw -->
+  <Dryad_Berrymaker.tools.left_claw.label>cakar kiri</Dryad_Berrymaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Berrymaker.tools.left_claw.labelNoLocation>cakar</Dryad_Berrymaker.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Berrymaker.tools.right_claw.label>Cakar kanan</Dryad_Berrymaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Berrymaker.tools.right_claw.labelNoLocation>cakar</Dryad_Berrymaker.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Berrymaker.tools.head.label>kepala</Dryad_Berrymaker.tools.head.label>
+  
+  <!-- EN: carrier dryad -->
+  <Dryad_Carrier.label>pembawa</Dryad_Carrier.label>
+  <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Carrier.description>Kasta kering berspesialisasi dalam pengangkutan benda.Di bawah pengaruh manusia, mereka dapat membantu mengangkut barang -barang yang diperlukan. Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Carrier.description>
+  <!-- EN: left claw -->
+  <Dryad_Carrier.tools.left_claw.label>cakar kiri</Dryad_Carrier.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Carrier.tools.left_claw.labelNoLocation>cakar</Dryad_Carrier.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Carrier.tools.right_claw.label>Cakar kanan</Dryad_Carrier.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Carrier.tools.right_claw.labelNoLocation>cakar</Dryad_Carrier.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Carrier.tools.head.label>kepala</Dryad_Carrier.tools.head.label>
+  
+  <!-- EN: clawer dryad -->
+  <Dryad_Clawer.label>robek</Dryad_Clawer.label>
+  <!-- EN: A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Clawer.description>Kasta driced khusus dalam agresivitas dan serangan kerusakan.Garadora Dríada menerima namanya untuk cakar besarnya. Meskipun dapat menyebabkan kerusakan luar biasa, itu rentan terhadap serangan.Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Clawer.description>
+  <!-- EN: left claw -->
+  <Dryad_Clawer.tools.left_claw.label>cakar kiri</Dryad_Clawer.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Dryad_Clawer.tools.right_claw.label>Cakar kanan</Dryad_Clawer.tools.right_claw.label>
+  <!-- EN: head -->
+  <Dryad_Clawer.tools.head.label>kepala</Dryad_Clawer.tools.head.label>
+  
+  <!-- EN: gaumaker dryad -->
+  <Dryad_Gaumaker.label>Druma Striappan</Dryad_Gaumaker.label>
+  <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Gaumaker.description>Sebuah kasta driced dengan kemampuan unik untuk menghasilkan pod Gauran baru dan mereproduksi pohon Gauranlen bersama dengan symbionte -nya, ratu Dríada.Untuk melakukan ini, tiga Creagous Drayed harus perlahan -lahan digabungkan.Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Gaumaker.description>
+  <!-- EN: left claw -->
+  <Dryad_Gaumaker.tools.left_claw.label>cakar kiri</Dryad_Gaumaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Gaumaker.tools.left_claw.labelNoLocation>cakar</Dryad_Gaumaker.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Gaumaker.tools.right_claw.label>Cakar kanan</Dryad_Gaumaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Gaumaker.tools.right_claw.labelNoLocation>cakar</Dryad_Gaumaker.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Gaumaker.tools.head.label>kepala</Dryad_Gaumaker.tools.head.label>
+  
+  <!-- EN: medicinemaker dryad -->
+  <Dryad_Medicinemaker.label>Dríada Creamedicin</Dryad_Medicinemaker.label>
+  <!-- EN: A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Medicinemaker.description>Kasta latihan khusus dalam produksi obat -obatan.Bersama dengan pohon Gauranlen -nya, dríada ini dapat menghasilkan obat herbal terus menerus.Namun, itu lambat dan tidak efektif dalam pekerjaan atau pertempuran. Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Medicinemaker.description>
+  <!-- EN: left claw -->
+  <Dryad_Medicinemaker.tools.left_claw.label>cakar kiri</Dryad_Medicinemaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Medicinemaker.tools.left_claw.labelNoLocation>cakar</Dryad_Medicinemaker.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Medicinemaker.tools.right_claw.label>Cakar kanan</Dryad_Medicinemaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Medicinemaker.tools.right_claw.labelNoLocation>cakar</Dryad_Medicinemaker.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Medicinemaker.tools.head.label>kepala</Dryad_Medicinemaker.tools.head.label>
+  
+  <!-- EN: woodmaker dryad -->
+  <Dryad_Woodmaker.label>Dríada Creamadera</Dryad_Woodmaker.label>
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Woodmaker.description>Kasta pengering lambat dan canggung yang berspesialisasi dalam produksi kayu.Bersama dengan pohon Gauranlen -nya, dríada ini dapat menghasilkan bahan yang mirip dengan kayu terus menerus.Namun, itu lambat dan tidak efektif dalam pekerjaan atau pertempuran. Mereka bereproduksi di sebelah pohon mereka, yang berisi ratu Dríada yang tersembunyi.Driad dapat diubah menjadi beberapa kasta khusus.</Dryad_Woodmaker.description>
+  <!-- EN: left claw -->
+  <Dryad_Woodmaker.tools.left_claw.label>cakar kiri</Dryad_Woodmaker.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Woodmaker.tools.left_claw.labelNoLocation>cakar</Dryad_Woodmaker.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Dryad_Woodmaker.tools.right_claw.label>Cakar kanan</Dryad_Woodmaker.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Dryad_Woodmaker.tools.right_claw.labelNoLocation>cakar</Dryad_Woodmaker.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Dryad_Woodmaker.tools.head.label>kepala</Dryad_Woodmaker.tools.head.label>
+  
+</LanguageData>

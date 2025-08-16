@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mini-slug -->
+  <Bullet_MiniSlug.label>miniproyectil</Bullet_MiniSlug.label>
+  
+  <!-- EN: burning power cell -->
+  <BurningPowerCell.label>sel energi terbakar</BurningPowerCell.label>
+  <!-- EN: A damaged mechanoid power generation unit. The cell has been destabilized by the death of the mechanoid, and is burning down in seconds. When critically damaged, this cell will explode. -->
+  <BurningPowerCell.description>Unit pembangkit energi mechanid yang rusak.Sel telah tidak stabil oleh kematian mekanoid, dan akan mulai membakar detik.Ketika rusak kritis, sel ini akan meledak.</BurningPowerCell.description>
+  
+  <!-- EN: mech node -->
+  <Gloomlight.label>Machodo</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>Simpul mechanid yang cukup sendiri dari fungsi yang tidak diketahui.Mecodos dapat didekonstruksi untuk mendapatkan sumber daya yang berharga, tetapi hanya jika mereka ditangkap utuh.Microcélef energi internal akan terbakar dan merusak bahan jika unit menerima terlalu banyak kerusakan.</Gloomlight.description>
+  <!-- EN: Deconstruct for valuable resources. -->
+  <Gloomlight.comps.CompInspectString.inspectString>Mendekonstruksi objek ini untuk mendapatkan sumber daya yang berharga.</Gloomlight.comps.CompInspectString.inspectString>
+  
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.label>Minitorreta</Gun_MiniTurretMech.label>
+  <!-- EN: An automatic turret-mounted slug-thrower. -->
+  <Gun_MiniTurretMech.description>Peluncur peluru otomatis dipasang di atas menara.</Gun_MiniTurretMech.description>
+  <!-- EN: mini-slugger -->
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>Minitorreta</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-slugger turret -->
+  <Turret_AutoMiniTurret.label>Menara miniprojectile</Turret_AutoMiniTurret.label>
+  <!-- EN: A self-powered defense turret mounted with a weak but long-ranged slug-thrower. May explode when damaged. -->
+  <Turret_AutoMiniTurret.description>Turret defensif yang cukup sendiri dengan pemicu proyektil lemah yang panjang.Itu bisa meledak jika rusak.</Turret_AutoMiniTurret.description>
+  
+</LanguageData>

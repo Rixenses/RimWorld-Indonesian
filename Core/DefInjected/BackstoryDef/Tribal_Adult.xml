@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
+  <Archer25.description>[PAWN_NamaDef] bertempur untuk sukunya dan berspesialisasi dalam penggunaan busur, tombak, dan senjata jarak jauh lainnya.</Archer25.description>
+  <!-- EN: archer -->
+  <Archer25.title>pemanah</Archer25.title>
+  <Archer25.titleFemale>pemanah</Archer25.titleFemale>
+  <!-- EN: archer -->
+  <Archer25.titleShort>pemanah</Archer25.titleShort>
+  <Archer25.titleShortFemale>pemanah</Archer25.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
+  <Banished68.description>PAWN_NAMA_NAMA] suku [PAWN_TUJUAN] dibuang setelah perseteruan berdarah. [PAWN_kata ganti] bertahan hidup sendirian di padang gurun untuk waktu yang lama.</Banished68.description>
+  <!-- EN: banished -->
+  <Banished68.title>DIHAPUS</Banished68.title>
+  <Banished68.titleFemale>DIHAPUS</Banished68.titleFemale>
+  <!-- EN: banished -->
+  <Banished68.titleShort>DIHAPUS</Banished68.titleShort>
+  <Banished68.titleShortFemale>DIHAPUS</Banished68.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
+  <Brave88.description>[PAWN_NamaDef] menggunakan ikwa, kapak, pentungan, dan senjata jarak pendek lainnya dalam pertempuran untuk sukunya.</Brave88.description>
+  <!-- EN: brave -->
+  <Brave88.title>berani</Brave88.title>
+  <Brave88.titleFemale>berani</Brave88.titleFemale>
+  <!-- EN: brave -->
+  <Brave88.titleShort>berani</Brave88.titleShort>
+  <Brave88.titleShortFemale>berani</Brave88.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
+  <Butcher40.description>PAWN_namaDef] pekerjaan utama dalam perburuan adalah menyembelih hewan. Dia menjadi {PAWN_jenis_kelamin ? master : ahli} dengan pisau, mampu mengekstrak apa pun yang berharga dari bangkai dalam waktu singkat.</Butcher40.description>
+  <!-- EN: butcher -->
+  <Butcher40.title>tukang daging</Butcher40.title>
+  <Butcher40.titleFemale>tukang daging</Butcher40.titleFemale>
+  <!-- EN: butcher -->
+  <Butcher40.titleShort>tukang daging</Butcher40.titleShort>
+  <Butcher40.titleShortFemale>tukang daging</Butcher40.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
+  <Carver1.description>[PAWN_nameDef] menciptakan karya seni ukiran besar untuk sukunya, yang terbuat dari kayu, batu, dan terkadang bahan yang lebih eksotis. Karyanya terkadang dijual, dan terkadang disimpan untuk menjaga keindahan koloni dan menjadi fokus ritual.</Carver1.description>
+  <!-- EN: carver -->
+  <Carver1.title>pematung</Carver1.title>
+  <Carver1.titleFemale>pematung</Carver1.titleFemale>
+  <!-- EN: carver -->
+  <Carver1.titleShort>pematung</Carver1.titleShort>
+  <Carver1.titleShortFemale>pematung</Carver1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
+  <CaveBuilder81.description>[PAWN_NAMEDef] berspesialisasi dalam penggalian dan pembangunan kompleks gua.</CaveBuilder81.description>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.title>pembangun gua</CaveBuilder81.title>
+  <CaveBuilder81.titleFemale>perusahaan konstruksi gua</CaveBuilder81.titleFemale>
+  <!-- EN: cave builder -->
+  <CaveBuilder81.titleShort>pembangun gua</CaveBuilder81.titleShort>
+  <CaveBuilder81.titleShortFemale>perusahaan konstruksi gua</CaveBuilder81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
+  <Digger31.description>[PAWN_nameDef] bekerja di tambang dan gua, menggali ruang untuk menyimpan benda-benda dan bersembunyi dari ancaman. Pekerjaannya menyediakan tempat persembunyian bagi teman-temannya dalam banyak kesempatan.</Digger31.description>
+  <!-- EN: digger -->
+  <Digger31.title>penggali</Digger31.title>
+  <Digger31.titleFemale>penggali</Digger31.titleFemale>
+  <!-- EN: digger -->
+  <Digger31.titleShort>penggali</Digger31.titleShort>
+  <Digger31.titleShortFemale>penggali</Digger31.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
+  <Digger66.description>[Pawn_namedef] Dan uangnya hidup jauh di dalam gunung.[Pawn_namedef] Itu harus memotong batu dan dinding batu Polandia.</Digger66.description>
+  <!-- EN: digger -->
+  <Digger66.title>penggali</Digger66.title>
+  <Digger66.titleFemale>penggali</Digger66.titleFemale>
+  <!-- EN: digger -->
+  <Digger66.titleShort>penggali</Digger66.titleShort>
+  <Digger66.titleShortFemale>penggali</Digger66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
+  <Excavator55.description>[PAWN_NamaDef] bekerja di bidang penggalian, mengekstraksi benda-benda dan material berharga dari reruntuhan kuno yang dipadatkan. Dia belajar bagaimana mendeteksi benda-benda berharga di dalam tanah dan bagaimana menggunakan berbagai alat penggalian.</Excavator55.description>
+  <!-- EN: excavator -->
+  <Excavator55.title>penggali</Excavator55.title>
+  <Excavator55.titleFemale>penggali</Excavator55.titleFemale>
+  <!-- EN: excavator -->
+  <Excavator55.titleShort>penggali</Excavator55.titleShort>
+  <Excavator55.titleShortFemale>penggali</Excavator55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
+  <Framer37.description>[PAWN_nameDef] bertanggung jawab untuk mendirikan bangunan untuk tempat tinggal sesama anggota suku. Ini termasuk bangunan sementara untuk perjalanan nomaden dan koloni permanen. Mengumpulkan bahan bangunan dari kehidupan tanaman lokal adalah bagian dari pekerjaannya.</Framer37.description>
+  <!-- EN: framer -->
+  <Framer37.title>bingkai</Framer37.title>
+  <Framer37.titleFemale>bingkai</Framer37.titleFemale>
+  <!-- EN: framer -->
+  <Framer37.titleShort>bingkai</Framer37.titleShort>
+  <Framer37.titleShortFemale>bingkai</Framer37.titleShortFemale>
+  
+  <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
+  <Gatherer70.description>Dengan menggunakan pengetahuannya tentang tanaman, akar, dan buah beri, [PAWN_NamaDef] dapat menemukan makanan bahkan di lanskap yang paling gersang sekalipun. [PAWN_kata ganti] dijauhkan dari binatang.</Gatherer70.description>
+  <!-- EN: gatherer -->
+  <Gatherer70.title>kolektor</Gatherer70.title>
+  <Gatherer70.titleFemale>kolektor</Gatherer70.titleFemale>
+  <!-- EN: gatherer -->
+  <Gatherer70.titleShort>kolektor</Gatherer70.titleShort>
+  <Gatherer70.titleShortFemale>kolektor</Gatherer70.titleShortFemale>
+  
+  <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
+  <Healer46.description>Setelah dukun tua di sukunya terbunuh dalam sebuah serangan, [PAWN_namaDef] mengambil peran sebagai penyembuh {PAWN_jenis kelamin ? atau : a}. Dia menghabiskan hari-harinya mengumpulkan tumbuhan dan senyawa mineral dari daerah terdekat untuk digunakan dalam pengobatan yang sangat efektif.</Healer46.description>
+  <!-- EN: healer -->
+  <Healer46.title>penyembuh</Healer46.title>
+  <Healer46.titleFemale>penyembuh</Healer46.titleFemale>
+  <!-- EN: healer -->
+  <Healer46.titleShort>penyembuh</Healer46.titleShort>
+  <Healer46.titleShortFemale>penyembuh</Healer46.titleShortFemale>
+  
+  <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
+  <HearthTender66.description>Sementara yang lain berburu dan mencari makan, [PAWN_NamaDef] tinggal di rumah untuk memasak dan merawat yang muda dan yang sakit.</HearthTender66.description>
+  <!-- EN: hearth tender -->
+  <HearthTender66.title>rumahsuami</HearthTender66.title>
+  <HearthTender66.titleFemale>ibu rumah tangga</HearthTender66.titleFemale>
+  <!-- EN: tender -->
+  <HearthTender66.titleShort>rumah</HearthTender66.titleShort>
+  <HearthTender66.titleShortFemale>rumah</HearthTender66.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
+  <Herder33.description>[PAWN_nameDef] menggembalakan berbagai macam hewan untuk membantu memberi makan dan pakaian sukunya saat bepergian. [PAWN_nameDef] belajar untuk menenangkan dan mengarahkan binatang-binatang buas, dan berburu makanannya sendiri di sepanjang jalan.</Herder33.description>
+  <!-- EN: herder -->
+  <Herder33.title>gembala</Herder33.title>
+  <Herder33.titleFemale>pendeta</Herder33.titleFemale>
+  <!-- EN: herder -->
+  <Herder33.titleShort>gembala</Herder33.titleShort>
+  <Herder33.titleShortFemale>pendeta</Herder33.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
+  <Hunter74.description>[PAWN_namaDef] melacak, menjebak, dan membunuh hewan untuk diambil daging dan kulitnya. PAWN_namaDef] menggunakan senjata jarak jauh dan jarak dekat. Terkadang, [PAWN_NamaDef] berburu bersama hewan.</Hunter74.description>
+  <!-- EN: hunter -->
+  <Hunter74.title>pemburu</Hunter74.title>
+  <Hunter74.titleFemale>jaket</Hunter74.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter74.titleShort>pemburu</Hunter74.titleShort>
+  <Hunter74.titleShortFemale>jaket</Hunter74.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
+  <Logger16.description>[PAWN_NamaDef] menebang pohon dan menyeret kayunya kembali ke suku. [PAWN_kata ganti] menggunakan kapaknya dengan kemahiran seorang seniman dan kekuatan kerbau.</Logger16.description>
+  <!-- EN: logger -->
+  <Logger16.title>penebang kayu</Logger16.title>
+  <Logger16.titleFemale>penebang kayu</Logger16.titleFemale>
+  <!-- EN: logger -->
+  <Logger16.titleShort>penebang kayu</Logger16.titleShort>
+  <Logger16.titleShortFemale>penebang kayu</Logger16.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
+  <Loner61.description>PAWN_namaDef] tidak pernah suka berpartisipasi dalam dewan atau festival Tahun Baru. [PAWN_NamaDef] lebih menyukai dataran yang luas dan desiran angin yang lembut melalui bebatuan. Dia mengunjungi sukunya dari waktu ke waktu, tetapi sebagian besar mengurus dirinya sendiri dengan menggunakan keterampilan bertahan hidup.</Loner61.description>
+  <!-- EN: loner -->
+  <Loner61.title>serigala tunggal</Loner61.title>
+  <Loner61.titleFemale>serigala tunggal</Loner61.titleFemale>
+  <!-- EN: loner -->
+  <Loner61.titleShort>solitaire</Loner61.titleShort>
+  <Loner61.titleShortFemale>kesepian</Loner61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
+  <LoreKeeper51.description>[PAWN_namaDef] adalah bagian dari garis keturunan pendongeng. Setiap malam, di sekitar api unggun, [PAWN_NamaDef] mentransfer pengetahuan kuno dan kebijaksanaan yang berguna melalui ceritanya.</LoreKeeper51.description>
+  <!-- EN: lore keeper -->
+  <LoreKeeper51.title>mendongeng</LoreKeeper51.title>
+  <!-- EN: keeper -->
+  <LoreKeeper51.titleShort>mendongeng</LoreKeeper51.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
+  <Malingerer28.description>[PAWN_namaDef] sering berpura-pura sakit untuk menghindari tanggung jawabnya. Saat beristirahat di gubuk sakit, [PAWN_NamaPengganti] mendongeng kepada anak-anak.</Malingerer28.description>
+  <!-- EN: malingerer -->
+  <Malingerer28.title>sakit</Malingerer28.title>
+  <Malingerer28.titleFemale>Sakit</Malingerer28.titleFemale>
+  <!-- EN: malingerer -->
+  <Malingerer28.titleShort>sakit</Malingerer28.titleShort>
+  <Malingerer28.titleShortFemale>Sakit</Malingerer28.titleShortFemale>
+  
+  <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
+  <MuffaloShaman95.description>Karena kebijaksanaan dan kekuatannya, [PAWN_nameDef] menjadi pemimpin spiritual suku nomaden yang mengikuti kawanan kerbau liar.</MuffaloShaman95.description>
+  <!-- EN: muffalo shaman -->
+  <MuffaloShaman95.title>dukun mufalo</MuffaloShaman95.title>
+  <!-- EN: shaman -->
+  <MuffaloShaman95.titleShort>dukun</MuffaloShaman95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
+  <PlankCutter72.description>[PAWN_nameDef] membantu sukunya membangun struktur kayu yang besar dengan memotong pohon menjadi papan-papan yang kokoh. [PAWN_nameDef] mengembangkan pengetahuan yang baik tentang bagaimana kayu tumbuh dan terbelah.</PlankCutter72.description>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.title>tukang kayu</PlankCutter72.title>
+  <PlankCutter72.titleFemale>tukang kayu</PlankCutter72.titleFemale>
+  <!-- EN: plank cutter -->
+  <PlankCutter72.titleShort>tukang kayu</PlankCutter72.titleShort>
+  <PlankCutter72.titleShortFemale>tukang kayu</PlankCutter72.titleShortFemale>
+  
+  <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
+  <Scout59.description>Ketika sukunya melakukan kontak dengan orang luar, [PAWN_namaDef] menyewa jasanya sebagai pemandu. Seringnya bersentuhan dengan teknologi kuno membuatnya nyaman dengan mesin-mesin yang hilang.</Scout59.description>
+  <!-- EN: scout -->
+  <Scout59.title>penjelajah</Scout59.title>
+  <Scout59.titleFemale>penjelajah</Scout59.titleFemale>
+  <!-- EN: scout -->
+  <Scout59.titleShort>penjelajah</Scout59.titleShort>
+  <Scout59.titleShortFemale>penjelajah</Scout59.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
+  <StewKeeper95.description>[PAWN_NamaDef] menyiapkan makanan dari tanaman dan hewan yang dibawa oleh para pengumpul, petani, dan pemburu dari sukunya. [PAWN_kata ganti] harus memastikan makanan itu hemat kalori, tahan lama, dan sehat. Dia sering mengolah dan terkadang mengumpulkan tanaman sendiri {PAWN_gender ? atau : a}.</StewKeeper95.description>
+  <!-- EN: stew keeper -->
+  <StewKeeper95.title>memasak rebus</StewKeeper95.title>
+  <StewKeeper95.titleFemale>kompor rebusan</StewKeeper95.titleFemale>
+  <!-- EN: stewkeeper -->
+  <StewKeeper95.titleShort>memasak</StewKeeper95.titleShort>
+  <StewKeeper95.titleShortFemale>memasak</StewKeeper95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
+  <Tamer79.description>Peran [PAWN_namaDef] dalam sukunya adalah untuk terhubung dengan dunia alam di sekitarnya, terutama dunia binatang. Selain memenuhi peran spiritual, [PAWN_Nama_Ketua] juga menjinakkan binatang buas dan merawat mereka saat mereka melayani suku.</Tamer79.description>
+  <!-- EN: tamer -->
+  <Tamer79.title>penjinak</Tamer79.title>
+  <Tamer79.titleFemale>penjinak</Tamer79.titleFemale>
+  <!-- EN: tamer -->
+  <Tamer79.titleShort>penjinak</Tamer79.titleShort>
+  <Tamer79.titleShortFemale>penjinak</Tamer79.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
+  <TreehouseBuilder86.description>[PAWN_nameDef] membangun rumah-rumah di antara pepohonan, dan terkadang menggantung di dalamnya, untuk digunakan oleh orang-orangnya saat bepergian atau mencari makanan. [PAWN_kata ganti] belajar untuk menemukan dan memanfaatkan tanaman liar dengan lebih baik, dan untuk melawan binatang buas.</TreehouseBuilder86.description>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.title>pembangun pohon</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleFemale>pembangun pohon</TreehouseBuilder86.titleFemale>
+  <!-- EN: treehouse builder -->
+  <TreehouseBuilder86.titleShort>pembangun pohon</TreehouseBuilder86.titleShort>
+  <TreehouseBuilder86.titleShortFemale>pembangun pohon</TreehouseBuilder86.titleShortFemale>
+  
+  <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
+  <VengefulHunter32.description>Setelah kematian seorang teman dekatnya akibat serangan binatang, [PAWN_namaDef] memburu binatang yang bertanggung jawab. [PAWN_kata ganti] melacaknya ke desa terdekat, hanya untuk menemukan salah satu penduduk desa yang mengenakan kulitnya.</VengefulHunter32.description>
+  <!-- EN: vengeful hunter -->
+  <VengefulHunter32.title>pembalasan dendam</VengefulHunter32.title>
+  <VengefulHunter32.titleFemale>pemburu pendendam</VengefulHunter32.titleFemale>
+  <!-- EN: vengeful -->
+  <VengefulHunter32.titleShort>pendendam</VengefulHunter32.titleShort>
+  <VengefulHunter32.titleShortFemale>pendendam</VengefulHunter32.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
+  <Warrior94.description>[PAWN_namaDef] adalah {PAWN_jenis_kelamin ? seorang prajurit: prajurit wanita} yang ganas, terampil dengan berbagai senjata. [PAWN_kata ganti] ikut serta dalam banyak pertempuran.</Warrior94.description>
+  <!-- EN: warrior -->
+  <Warrior94.title>prajurit</Warrior94.title>
+  <Warrior94.titleFemale>prajurit</Warrior94.titleFemale>
+  <!-- EN: warrior -->
+  <Warrior94.titleShort>prajurit</Warrior94.titleShort>
+  <Warrior94.titleShortFemale>prajurit</Warrior94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
+  <Weaver63.description>[PAWN_NamaDef] memiliki banyak pengalaman bekerja dengan wol kerbau, serat nabati, dan pewarna alami untuk menghasilkan pakaian bagi sukunya. Hasil karyanya yang indah diperdagangkan di antara suku-suku setempat.</Weaver63.description>
+  <!-- EN: weaver -->
+  <Weaver63.title>penjahit</Weaver63.title>
+  <!-- EN: weaver -->
+  <Weaver63.titleShort>penjahit</Weaver63.titleShort>
+  
+</LanguageData>

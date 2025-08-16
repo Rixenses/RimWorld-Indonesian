@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
+  <Audiovisuals>Audio/Video</Audiovisuals>
+  <!-- EN: Master volume -->
+  <MasterVolume>Volumen Jenderal</MasterVolume>
+  <!-- EN: Game volume -->
+  <GameVolume>Volume Game</GameVolume>
+  <!-- EN: Music volume -->
+  <MusicVolume>Volume Musik</MusicVolume>
+  <!-- EN: Ambience volume -->
+  <AmbientVolume>Volume Lingkungan</AmbientVolume>
+  <!-- EN: UI volume -->
+  <UIVolume>Volume antarmuka</UIVolume>
+  <!-- EN: Affects all sounds. -->
+  <MasterVolumeTooltip>Itu mempengaruhi semua suara.</MasterVolumeTooltip>
+  <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
+  <GameVolumeTooltip>Ini mempengaruhi semua suara dunia, seperti menebang pohon atau dinding bangunan.</GameVolumeTooltip>
+  <!-- EN: Affects music. -->
+  <MusicVolumeTooltip>Itu mempengaruhi musik.</MusicVolumeTooltip>
+  <!-- EN: Affects all ambient sounds, e.g. wind, insects. -->
+  <AmbientVolumeTooltip>Ini mempengaruhi semua suara lingkungan, seperti angin atau insektoid.</AmbientVolumeTooltip>
+  <!-- EN: Affects all interface sounds, e.g. button clicks, messages. -->
+  <UIVolumeTooltip>Ini mempengaruhi semua suara antarmuka, seperti klik tombol, pesan.</UIVolumeTooltip>
+  <!-- EN: Anti-aliasing -->
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- EN: Remember draw styles -->
+  <RememberDrawStyle>Ingat gaya menggambar</RememberDrawStyle>
+  <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
+  <RememberDrawStyle_Tooltip>Jika diaktifkan, gaya menggambar tidak akan dipulihkan dalam gaya gambar yang telah ditentukan dengan menempatkan bangunan atau zona baru.</RememberDrawStyle_Tooltip>
+  <!-- EN: Zoom switches world map layers -->
+  <ZoomSwitchLayer>Ubah lapisan Mapamundi dengan zoom</ZoomSwitchLayer>
+  <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
+  <ZoomSwitchLayer_Tooltip>Jika diaktifkan, dengan memindahkan zoom pada peta dunia, itu berubah menjadi tampilan orbital.Jika Anda mendekati zoom, Anda akan melihat planet ini lagi.</ZoomSwitchLayer_Tooltip>
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>Gulir dengan mouse</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>Memperbesar kursor</ZoomToMouse>
+  <!-- EN: Pause on load -->
+  <PauseOnLoad>Pausar saat memuat</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
+  <PauseOnUrgentLetter>Peringatan mendesak jeda</PauseOnUrgentLetter>
+  <!-- EN: Pause on letter -->
+  <AutomaticPauseModeSetting>Istirahat otomatis</AutomaticPauseModeSetting>
+  <!-- EN: Disable game-specific cursor -->
+  <CustomCursor>Nonaktifkan kursor permainan</CustomCursor>
+  <!-- EN: Hide hats on UI -->
+  <HatsShownOnlyOnMap>Sembunyikan topi yang dilengkapi</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>Skala antarmuka</UIScale>
+  <!-- EN: Keyboard configuration -->
+  <KeyboardConfig>Konfigurasi keyboard</KeyboardConfig>
+  <!-- EN: Controller configuration -->
+  <ControllerConfig>Konfigurasi Kontrol</ControllerConfig>
+  <!-- EN: Modify -->
+  <ModifyConfig>Memodifikasi</ModifyConfig>
+  <!-- EN: Choose language -->
+  <ChooseLanguage>Pilih bahasa</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
+  <ResetAdaptiveTutor>Kembalikan Asisten Pembelajaran</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>Tutor telah dipulihkan.Sekarang Anda akan menunjukkan semua pelajaran dari awal.</AdaptiveTutorIsReset>
+  <!-- EN: Keyboard mode -->
+  <SteamDeckKeyboardMode>Mode keyboard</SteamDeckKeyboardMode>
+  <!-- EN: Run in background -->
+  <RunInBackground>Mengeksekusi di latar belakang</RunInBackground>
+  <!-- EN: Development mode -->
+  <DevelopmentMode>Mode pengembang</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>Reset conf.mod saat crashear</ResetModsConfigOnCrash>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>P. Pengembangan: Colonos Without Cryptosueño</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>Mulai game dengan Des Palette.diaktifkan</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>Buka pendaftaran saat Anda memberikan peringatan</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>Tutup pendaftaran dengan menekan pembatalan</CloseLogWindowOnEscape>
+  <!-- EN: Verbose logging -->
+  <LogVerbose>Pendaftaran terperinci</LogVerbose>
+  <!-- EN: Save data folder -->
+  <SaveGameDataFolder>Folder yang disimpan</SaveGameDataFolder>
+  <!-- EN: Save data location -->
+  <SaveGameDataLocation>Lokasi game yang disimpan</SaveGameDataLocation>
+  <!-- EN: Log file folder -->
+  <LogFileFolder>Folder File Pendaftaran</LogFileFolder>
+  <!-- EN: Log file location -->
+  <LogFileLocation>Lokasi file pendaftaran</LogFileLocation>
+  <!-- EN: Open -->
+  <OpenFolder>Membuka</OpenFolder>
+  <!-- EN: Show -->
+  <ShowFolder>Menunjukkan</ShowFolder>
+  <!-- EN: Preferred "Name in Game" characters -->
+  <NamesYouWantToSee>Tambahkan karakter yang dibuat oleh pemain</NamesYouWantToSee>
+  <!-- EN: These characters will be more likely to appear randomly during play. -->
+  <NamesYouWantToSeeSubText>Karakter -karakter ini akan lebih mungkin muncul selama pertandingan.</NamesYouWantToSeeSubText>
+  <!-- EN: Add name -->
+  <AddName>Tambahkan nama</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>Tulis nama, nama panggilan atau nama keluarga.</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>Nama ini sudah ada dalam daftar favorit.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
+  <ChangeStoryteller>Pengaturan Narator</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
+  <AutosaveInterval>Interval yang dijaga sendiri</AutosaveInterval>
+  <!-- EN: The number of in game days between each auto save. -->
+  <AutosaveIntervalTooltip>Jumlah hari bermain antara setiap self -managed.</AutosaveIntervalTooltip>
+  <!-- EN: Temperature unit -->
+  <TemperatureMode>Unit suhu</TemperatureMode>
+  <!-- EN: Show realtime clock -->
+  <ShowRealtimeClock>Tunjukkan waktu nyata</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>Gunakan jam 12 jam</TwelveHourClockMode>
+  <!-- EN: Disable tiny font -->
+  <DisableTinyText>Nonaktifkan sumber kecil</DisableTinyText>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Jumlah koloni maksimum: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>Salinan selfguard maksimal: {0}</AutosavesCount>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>Sensitivitas tikus di peta</MapDragSensitivity>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>Pergerakan Tanaman oleh Angin</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>Aktifkan Ukuran Peta Uji</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>Interval maksimum yang dikelola sendiri dalam mode perma-kematian adalah {0} hari.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>Mengkonfigurasi mod</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Nonaktifkan secara permanen</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>Kompresi tekstur</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>Menonaktifkan kompresi tekstur akan menggunakan lebih banyak memori video, tetapi membuat tekstur terlihat sedikit lebih baik di area terperinci.Disagge hanya jika Anda tahu bahwa Anda memiliki banyak memori video.</TextureCompression_Tooltip>
+  <!-- EN: Smooth camera jumps -->
+  <SmoothCameraJumps>Melunakkan lompatan kamera</SmoothCameraJumps>
+  <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
+  <SmoothCameraJumpsDesc>Saat diaktifkan, kamera akan diperbaiki saat memfokuskan lokasi baru.Saat dinonaktifkan, kamera akan langsung melompat.</SmoothCameraJumpsDesc>
+
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
+  <Resolution>Resolusi</Resolution>
+  <!-- EN: Fullscreen -->
+  <Fullscreen>Layar penuh</Fullscreen>
+  <!-- EN: Borderless fullscreen -->
+  <BorderlessFullscreen>Layar penuh tanpa tepi</BorderlessFullscreen>
+  <!-- EN: To run RimWorld in borderless fullscreen mode:\n\n1) Open Steam\n2) Go to the "Library" tab at the top\n3) Find RimWorld on the list and right-click it\n4) Choose "Properties..."\n5) Add "-popupwindow" without quotes to "Launch options" in the "General" tab\n6) Restart game\n7) If done correctly, you won't see this window\n\nHint: Use Windows Key + Shift + Left/Right to move the window between your monitors. -->
+  <BorderlessFullscreenInstructions>Untuk bermain rimworld dalam mode layar penuh tanpa tepi: \ n \ n1) Buka Steam \ n2) Buka "Perpustakaan" Anda \ n3) Temukan rimworld di daftar dan klik kanan pada \ n4) Pilih "Properties ..." \ n5) Tambahkan "-PopupWindow" tanpa quot game \ n7) jika Anda dilakukan, tidak akan mengoreksi, tanpa cuti.</BorderlessFullscreenInstructions>
+
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>Pilih mod ...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>Tidak ada mod yang dapat dikonfigurasi dimuat.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore all settings to default -->
+  <RestoreToDefaultSettingsLabel>Kembalikan semua konfigurasi</RestoreToDefaultSettingsLabel>
+  <!-- EN: Restore defaults -->
+  <RestoreToDefaultSettings>Memulihkan</RestoreToDefaultSettings>
+  <!-- EN: All settings have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Penyesuaian telah dipulihkan.Gim akan dimulai kembali secara otomatis.</ResetAndRestart>
+  <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>Semua penyesuaian Anda akan dipulihkan ke pengaturan default mereka dan permainan akan dimulai kembali secara otomatis.Semua kemajuan tidak akan hilang! \ N \ n Apakah Anda ingin melanjutkan?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
+  <ChangedTextureCompressionRestart>Mengubah opsi kompresi tekstur memerlukan restart.Semua kemajuan yang tidak berubah akan hilang! \ N \ n ¿Continuar?</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>Latar belakang menu</SetBackgroundImage>
+
+</LanguageData>

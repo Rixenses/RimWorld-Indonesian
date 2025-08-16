@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Time -->
+  <ClockTime>Waktu</ClockTime>
+  <!-- EN: Date -->
+  <ClockDate>Tanggal</ClockDate>
+  <!-- EN: Year -->
+  <ClockYear>Tahun</ClockYear>
+  <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
+  <DateReadoutTip>Hari yang telah berlalu sejak kedatangan Anda: {0}\nKuadrum saat ini: {4}\nMusim lokal: {2}\n\nTahun dibagi menjadi 4 kuadrum masing-masing {3} hari. Kuadrum sama di mana-mana, sementara musim berbeda di tempat yang berbeda.\n\nMusim lokal untuk setiap kuadrum:\n{5}</DateReadoutTip>
+
+  <!-- EN: {0} of {1}, {2} -->
+  <FullDate>hari {0} dari {1} tahun {2}</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>{0} {1} {2}</ShortDate>
+  <!-- EN: {0}, {1} -->
+  <MonthYearDate>{0}, {1}</MonthYearDate>
+  <!-- EN: {0} of {1}, {2} -->
+  <DateReadout>{0} oleh {1} oleh {2}</DateReadout>
+  <!-- EN: {0} of {1} -->
+  <SeasonFullDate>{0} dari {1}</SeasonFullDate>
+  <!-- EN: Whole year -->
+  <WholeYear>Sepanjang tahun</WholeYear>
+  
+</LanguageData>

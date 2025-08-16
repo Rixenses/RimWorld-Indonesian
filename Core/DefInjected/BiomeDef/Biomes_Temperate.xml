@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>hutan beriklim sedang</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Hutan gugur yang diselingi dengan pembukaan lahan yang subur. Banyak spesies hewan bergerak di antara pepohonan dan di dataran.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>rawa beriklim sedang</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>Lahan basah yang terhimpit oleh vegetasi dan penyakit. Tumbuh-tumbuhan yang lebat menyulitkan untuk bergerak, dan membersihkan area untuk bangunan membutuhkan waktu yang lama. Sebagian besar lahan terlalu berawa untuk menopang bangunan yang berat.</TemperateSwamp.description>
+  
+</LanguageData>

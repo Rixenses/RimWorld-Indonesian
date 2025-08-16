@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agrihand -->
+  <Mech_Agrihand.label>tangan pertanian</Mech_Agrihand.label>
+  <Mech_Agrihand.labelPlural>Tangan pertanian</Mech_Agrihand.labelPlural>
+  
+  <!-- EN: cleansweeper -->
+  <Mech_Cleansweeper.label>pembersih</Mech_Cleansweeper.label>
+  <Mech_Cleansweeper.labelPlural>pembersih</Mech_Cleansweeper.labelPlural>
+  
+  <!-- EN: constructoid -->
+  <Mech_Constructoid.label>Constructoide</Mech_Constructoid.label>
+  <Mech_Constructoid.labelPlural>Constructoides</Mech_Constructoid.labelPlural>
+  
+  <!-- EN: fabricor -->
+  <Mech_Fabricor.label>perakit</Mech_Fabricor.label>
+  <Mech_Fabricor.labelPlural>produsen</Mech_Fabricor.labelPlural>
+  
+  <!-- EN: lifter -->
+  <Mech_Lifter.label>pengangkat</Mech_Lifter.label>
+  <Mech_Lifter.labelPlural>pengangkatan</Mech_Lifter.labelPlural>
+  
+  <!-- EN: militor -->
+  <Mech_Militor.label>militor</Mech_Militor.label>
+  <Mech_Militor.labelPlural>perang</Mech_Militor.labelPlural>
+  
+  <!-- EN: paramedic -->
+  <Mech_Paramedic.label>paramedis</Mech_Paramedic.label>
+  <Mech_Paramedic.labelPlural>paramedis</Mech_Paramedic.labelPlural>
+  
+  <!-- EN: war urchin -->
+  <Mech_WarUrchin.label>Landak perang</Mech_WarUrchin.label>
+  <!-- EN: war urchins -->
+  <Mech_WarUrchin.labelPlural>Landak perang</Mech_WarUrchin.labelPlural>
+  
+</LanguageData>

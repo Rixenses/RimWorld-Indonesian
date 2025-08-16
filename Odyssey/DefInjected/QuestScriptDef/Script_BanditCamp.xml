@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi sebuah kamp yang dikendalikan oleh [sitefaction_name].Kamp berisi bermusuhan [Sitefaction_Pawnsplural], tetapi Anda tidak tahu pertahanan apa yang mereka miliki.</li>-><OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [Metode Penemuan] Lokasi kamp yang dikendalikan oleh [Sitefaction_name].Kamp berisi [sitefaction_pawnsplural] bermusuhan, tetapi Anda tidak tahu pertahanan apa yang mereka miliki.</li>
+  </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> The [Bandit] [Camp]</li>
+    <li>QuestName-> [Bandit] [Camp]</li>
+    <li>QuestName-> [asker_namedef] dan [kamp]</li>
+    <li>CAMP-> CAMP</li>
+    <li>Camp-> Outpost</li>
+    <li>Camp-> Lair</li>
+    <li>Kamp-> Perkemahan</li>
+    <li>bandit-> bandit</li>
+    <li>bandit-> raider</li>
+    <li>bandit-> Outlaw</li>
+    <li>Bandit-> apeatado</li>
+    <li>bandit-> buron</li>
+    <li>bandit-> perampok</li>
+    <li>bandit-> perampok</li>
+    <li>Bandit-> brigand</li>-><OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+    <li>QuestName-> The [Camp] [Bandit]</li>
+    <li>QuestNname-> LA [Campfem] [BandItfem]</li>
+    <li>QuestName-> [Camp] [Bandit]</li>
+    <li>QuestName-> [campfem] [banditfem]</li>
+    <li>QuestName-> [asker_namedef] dan [camp]</li>
+    <li>QuestName-> [asker_namedef] dan [campfem]</li>
+    <li>CAMP-> CAMPING</li>
+    <li>Campfem-></li>
+    <li>Kamp-> Cubil</li>
+    <li>Bandit-> bandit</li>
+    <li>Bandit-> penyerangan</li>
+    <li>Bandit-> Outlaw</li>
+    <li>Bandit-> apeatado</li>
+    <li>Bandit-> buron</li>
+    <li>Bandit-> Merodeator</li>
+    <li>Bandit-> pencuri</li>
+    <li>Banditfem-> dari bandit</li>
+    <li>Banditfem-> penyerang</li>
+    <li>Banditfem-> Outlaws</li>
+    <li>Banditfem-> functives</li>
+    <li>Banditfem-> dari merodeators</li>
+    <li>Banditfem-> pencuri</li>
+  </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Kamp Bandit</li>
+    <li>Subjek-> Outlaws</li>
+    <li>Subjek-> penampakan Raider</li>
+    <li>QuestMapFeature-> Small Camp</li>
+    <li>QuestMapFeature-> Bandit Outpost</li>
+    <li>QuestMapFeature-> Raider Encampment</li>
+    <li>QuestMaptext-> Dangerous Folk</li>
+    <li>QuestMaptext-> Camp Loot</li>
+    <li>QuestMaptext-> Trespassers dikuliti</li>
+    <li>QuestMaptext-> Pedagang Waspadalah - Outlaws</li>-><OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+    <li>Subjek-> Camings Bandidos</li>
+    <li>Subjek-> Forajidos</li>
+    <li>Subjek-> Penampakan Penyerang</li>
+    <li>QuestMapFeature-> Small Camp</li>
+    <li>QuestMapFeature-> Advanced Bandit</li>
+    <li>QuestMapFeature-> Assurant Camp</li>
+    <li>QuestMaptext-> orang-orang berbahaya</li>
+    <li>QuestMaptext-> Booty of the Camp</li>
+    <li>QuestMaptext-> Penyusup akan terikat</li>
+    <li>QuestMaptext-> Pedagang Hati -hati - Orang Luar</li>
+  </OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>Kamp bandit telah dibongkar dan telah pindah.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>Misi Gagal: [ResolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>Setelah ditemukan, kamp bandit telah bubar.Misi [SolvedQuestName] telah berakhir.</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
+  
+</LanguageData>

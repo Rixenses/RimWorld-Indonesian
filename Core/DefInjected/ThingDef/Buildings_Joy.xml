@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: billiards table -->
+  <BilliardsTable.label>Meja biliar</BilliardsTable.label>
+  <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
+  <BilliardsTable.description>Tabel dengan tikar lunak untuk memainkan banyak varian biliar.Ini memungkinkan untuk melatih kemampuan tembakan.</BilliardsTable.description>
+  
+  <!-- EN: chess table -->
+  <ChessTable.label>Meja catur</ChessTable.label>
+  <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
+  <ChessTable.description>Game lama Raja.Menyenangkan selama beberapa jam dari waktu ke waktu, bahkan bermain sendirian.Ini memungkinkan untuk melatih kemampuan intelektual.</ChessTable.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Televisi layar datar</FlatscreenTelevision.label>
+  <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <FlatscreenTelevision.description>Televisi layar datar tinggi -tech dengan gambar yang jelas dan warna yang intens.Menangkap transmisi satelit lama dan kartu data di mana -mana.</FlatscreenTelevision.description>
+  
+  <!-- EN: Game-of-Ur board -->
+  <GameOfUrBoard.label>Papan permainan Anda</GameOfUrBoard.label>
+  <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
+  <GameOfUrBoard.description>Tanggal 2500 SM, permainan papan yang menarik meskipun menjengkelkan ini dapat dimainkan oleh satu atau dua orang.Ini memungkinkan untuk melatih kemampuan intelektual.</GameOfUrBoard.description>
+  
+  <!-- EN: hoopstone ring -->
+  <HoopstoneRing.label>Ring Rod ke The Hoop</HoopstoneRing.label>
+  <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
+  <HoopstoneRing.description>Game sederhana dan lama yang terdiri dari beberapa batu dan cincin hebat di tanah.Para pemain melempar batu dari kejauhan dan mencoba jatuh ke lingkaran.Ini santai, dan memungkinkan Anda untuk melatih kemampuan tembakan.</HoopstoneRing.description>
+  
+  <!-- EN: horseshoes pin -->
+  <HorseshoesPin.label>Tongkat untuk sepatu kuda</HorseshoesPin.label>
+  <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
+  <HorseshoesPin.description>Gim tua sederhana yang terdiri dari sepatu kuda dan tongkat panjang yang tersangkut di tanah.Para pemain melempar sepatu kuda dari jauh dan mencoba untuk ketakutan di dalam tongkat.Ini santai, dan memungkinkan Anda untuk melatih kemampuan tembakan.</HorseshoesPin.description>
+  
+  <!-- EN: megascreen television -->
+  <MegascreenTelevision.label>Televisi Megapalla</MegascreenTelevision.label>
+  <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
+  <MegascreenTelevision.description>Televisi berteknologi tinggi.Gambar raksasa dan hypervibrant tampaknya hampir keluar dari layar.Sangat menghibur.Menangkap transmisi dari satelit lama dan kartu data di mana -mana.</MegascreenTelevision.description>
+  
+  <!-- EN: poker table -->
+  <PokerTable.label>Meja poker</PokerTable.label>
+  <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
+  <PokerTable.description>Tabel yang dirancang untuk permainan kartu seperti poker.Cara yang bagus untuk mencoba keterampilan strategis Anda dan beberapa keberuntungan.</PokerTable.description>
+  
+  <!-- EN: telescope -->
+  <Telescope.label>teleskop</Telescope.label>
+  <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
+  <Telescope.description>Teleskop untuk penggemar astronomi.Ini adalah hobi yang santai dan menyenangkan untuk tipe orang tertentu.Itu hanya bisa digunakan di luar ruangan.</Telescope.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>Televisi tabung</TubeTelevision.label>
+  <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
+  <TubeTelevision.description>Tabung sinar katoda untuk menampilkan gambar yang bergerak dengan suara.Bahkan di dunia yang berbatasan biasanya ada transmisi tua yang mentransmisikan sesuatu yang cukup menarik.</TubeTelevision.description>
+  
+</LanguageData>

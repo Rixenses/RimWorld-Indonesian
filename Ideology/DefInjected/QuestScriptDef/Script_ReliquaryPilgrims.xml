@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>PilgrimsarrivedleTterlabel-> [factionadj] [pilgrimsingularorplural] tiba</li>
+    <li>PilgrimsarrivelleTterText-> [QuestDescription]</li>
+    <li>DelayedRewardLetTerText-> [Pawns0_Namedef] Terima kasih telah mengizinkan [Pawns0_Objective] [dan mengikuti] memuliakan [Relic_name] pada [yang dihormati].Sebagai hadiah, [pawns0_namedef] mengirimi Anda yang berikut melalui drop pod (nilai total [rewardmarketValue_money]): \ n \ n [hadiah].</li>
+    <li>PilgrimsleavingMessage-> [Pilgrimslabelsingularorplural] [telah] selesai memuliakan [nama relik] dan [sedang] sekarang pergi.</li>
+    <li>Pesan Kiri Peziarah-> [Pilgrims LabelSingularor Plural] [Hashave] meninggalkan peta.</li>
+    <li>Area (PilgrimCount == 1) -> Is</li>
+    <li>Area (PilgrimCount> = 2) -></li>
+    <li>dan pengikut (pilgrimcount == 1)-></li>
+    <li>dan mengikuti (pilgrimcount == 2)-> dan yang lainnya [faksi_pawnsingular]</li>
+    <li>dan pengikut (PilGrimCount> = 3)-> dan yang lainnya [faction_pawnsplural]</li>
+    <li>Pilgrimsingularorplural (Pilgrimcount == 1)-> Pilgrim</li>
+    <li>Pilgrimsingularorplural (Pilgrimcount> = 2)-> Pilgrims</li>
+    <li>factionAdj (pilgrimfaction == true)-></li>
+    <li>factionadj (pilgrimfaction == false)-> [faction_pawnsingular]</li>-><ReliquaryPilgrims.questContentRules.rulesStrings>
+    <li>PilgrimsarrivedleTterlabel-> [pilgrimsingularorplural] [factionadj] [hashave] llegado</li>
+    <li>PilgrimsarrivelleTterText-> [QuestDescription]</li>
+    <li>DelayedRewardLetText-> [pawns0_namedef] Saya berterima kasih karena telah mengizinkan [Andfolers] untuk memuliakan peninggalan [Relic_name] di [veneratedra].Sebagai hadiah, [pawns0_namedef] mengirimkan kepada Anda yang berikut dengan kapsul transportasi (nilai total [rESUndarmarketValue_money]): \ n \ n [penghargaan].</li>
+    <li>Pilgrms meninggalkan pesan-> [peziarah labelSingularOrplural] [hashave] selesai memuliakan peninggalan [relic_name] dan [areis] berbaris.</li>
+    <li>Pilgrims meninggalkan pesan-> [peziarah labelingularorplural] [hashave] meninggalkan peta.</li>
+    <li>Area (PilgrimCount == 1) -> Está</li>
+    <li>Area (PilgrimCount> = 2) -> Estan</li>
+    <li>dan pengikut (pilgrimcount == 1)-> le</li>
+    <li>dan mengikuti (pilgrimcount == 2)-> le junto a otro [faction_pawnsingular]</li>
+    <li>dan pengikut (PilGrimCount> = 3)-> Le Junto a OTROS [faction_pawnsplural]</li>
+    <li>Pilgrimsingularorplural (Pilgrimcount == 1)-> Peregrino</li>
+    <li>Pilgrimsingularorplural (PilgrimCount> = 2)-> Peregrinos</li>
+    <li>factionAdj (pilgrimfaction == true)-></li>
+    <li>factionadj (pilgrimfaction == false)-> [faction_pawnsingular]</li>
+  </ReliquaryPilgrims.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>Pilgrimslabel-> [Pawns0_Namedef]</li>
+    <li>Pilgrimslabelplural-> [faction_pawnsplural]</li>
+    <li>Pilgrimslabelsingularorplural (Pilgrimcount == 1)-> [Pilgrimslabel]</li>
+    <li>Pilgrimslabelsingularorplural (Pilgrimcount> = 2)-> [Pilgrimslabelplural]</li>
+    <li>Hashave (pilgrimcount == 1)-> Have</li>
+    <li>Hashave (Pilgrimcount> = 2)-> Have</li>-><ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+    <li>Pilgrimslabel-> [Pawns0_Namedef]</li>
+    <li>Pilgrimslabelplural-> [faction_pawnsplural]</li>
+    <li>Pilgrimslabelsingularorplural (Pilgrimcount == 1)-> [Pilgrimslabel]</li>
+    <li>Pilgrimslabelsingularorplural (Pilgrimcount> = 2)-> [Pilgrimslabelplural]</li>
+    <li>Hashave (pilgrimcount == 1)-> ha</li>
+    <li>Hashave (PilgrimCount> = 2)-> pria</li>
+  </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
+    <li>questDescription(pilgrimCount==1,childCount==1,priority=1)->[pilgrimsLabelSingularOrPlural], a child, [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic,[Pronounsingularorplural] dapat menawarkan hadiah kepada Anda.</li>
+    <li>QuestDescription (Pilgrimcount> = 2, ChildCount == 1, Prioritas = 1)-> Sekelompok [Pilgrimslabelingingularorplural] termasuk seorang anak telah tiba untuk memuliakan [Relic_name].[Pronounsingularorplural] dapat menawarkan hadiah kepada Anda.</li>
+    <li>QuestDescription (PilgrimCount> = 2, ChildCount> = 2, allchildren == false, prioritas = 1)-> sekelompok [pilgrimslabelingingularorplural] termasuk beberapa anak telah tiba untuk memuliakan [relic_name]. \ n \ nif Anda memastikan [vonounsingularlularplural] [Isare] safe dan hormat safe dan hormat [lomounsingularplural] [isare] safe dan hormat \ nif \ nif \ nif \ nif \ nifRelik kuno, [kata ganti ucapan oral atau dapat menawarkan hadiah kepada Anda.</li>
+    <li>QuestDescription (PilgrimCount> = 2, allchildren == true, prioritas = 1)-> sekelompok anak [pilgrimslabelingingularorplural] telah tiba untuk memuliakan [relic_name].[Pronounsingularorplural] dapat menawarkan hadiah kepada Anda.</li>
+    <li>adalah (peziarah jumlah == 1)-> is</li>
+    <li>adalah (jumlah peziarah> = 2)-> adalah</li>
+    <li>Pronounsingularorplural (PilGrimCount == 1)-> [Pawns0_pronoun]</li>
+    <li>PronouningingularOrplural (PilGrimCount> = 2)-> Mereka</li>
+    <li>Visitingularorplural (PilgrimCount == 1)-> Kunjungan</li>
+    <li>visitingularorplural (pilgrimcount> = 2)-> kunjungi</li>-><ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+    <li>Deskripsi Quest-> [PilGrimoreslableSingularorplural] [Hashave] datang untuk memuliakan relik [Relic_name]. hadiah.</li>
+    <li>QuestDescription (pilgrimcount == 1, childcount == 1, prioritas = 1)-> [pilgrrimaberslassingularorplural], seorang anak, [Anda telah] memuliakan peninggalan [relic_name]. [Visitingularorplural] Relik kuno, [kata ganti sulung atau [Mayeffers] menawarkan Anda hadiah.</li>
+    <li>QuestDescription (PilGrimCount> = 2, ChildCount == 1, Prioritas = 1)-> Sekelompok [PilgrmsLabellsingularOrdural] termasuk seorang anak telah memuliakan peninggalan [Relic_name]. [Visitingularorplural] Relik kuno, [kata ganti sulung atau [Mayeffers] menawarkan Anda hadiah.</li>
+    <li>QuestDescription (PilGrimCount> = 2, ChildCount> = 2, allchildren == false, prioritas = 1)-> sekelompok [PilgrrimsLallibblesingingularplural] termasuk beberapa anak telah memuliakan peninggalan [Relic_name]. [Menjadi] sementara [mengunjungi orrumlural] peninggalan kuno, [kata ganti ucapanularplural] [mayffer] menawarkan hadiah kepada Anda.</li>
+    <li>QuestDescription (PilGrimCount> = 2, allchildren == true, prioritas = 1)-> sekelompok anak-anak [pilgrimslallabelsingularorplural] telah memuliakan peninggalan [relic_name]. Relik kuno, [kata ganti sulung atau [Mayefers] menawarkan hadiah kepada Anda.</li>
+    <li>Isare (pilgrimcount == 1)-> está</li>
+    <li>Isare (pilgrimcount> = 2)-> hotel</li>
+    <li>Pronounsingularorplural (PilGrimCount == 1)-> [Pawns0_pronoun]</li>
+    <li>Pronounlarorplural (PilGrimicCoCoCount> = 2)-> Ellos</li>
+    <li>visitingularorplural (pilgrimcount == 1)-> Visita</li>
+    <li>visitingularorplural (pilgrimcount> = 2)-> visitan</li>
+  </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (PilGrimCount == 1)-> [Pilgrimslabelsingularplural] [VisitAdj] [Kunjungi]</li>
+    <li>QuestName (PilGrimCount> = 2)-> [PilgrimsLabelSingularOrplural] [VisitAdj] [Kunjungi]</li>
+    <li>VisitAdj (p = 6) -></li>
+    <li>visitadj-> suci</li>
+    <li>visitadj-> sakral</li>
+    <li>visitadj-> spiritual</li>
+    <li>Visadj-> ilahi</li>
+    <li>Visitadj-> Hallowed</li>
+    <li>VisitAdj-> Solemn</li>
+    <li>Visitadj-> sakramental</li>
+    <li>Visitadj-> Suchtified</li>
+    <li>Kunjungi-> Kunjungi</li>
+    <li>Kunjungi-> Ziarah</li>
+    <li>kunjungan-> misi</li>
+    <li>Kunjungan-> Ekspedisi</li>
+    <li>Kunjungi-> Ekskursi</li>
+    <li>Kunjungi-> Tur</li>
+    <li>Kunjungi-> Pemujaan</li>-><ReliquaryPilgrims.questNameRules.rulesStrings>
+    <li>QuestName (pilgrimcount == 1)-> [kunjungi] [visitadj] de [pilgrimslabelsingularorplural]</li>
+    <li>QuestName (PilGrimCount == 1)-> [Visit1] [VisitAdj1] de [Pilgrimslabelsingularorplural]</li>
+    <li>QuestName (PilgrimCount> = 2)-> [kunjungi] [VisitAdj] de [pilgrimslabelsingularorplural]</li>
+    <li>QuestName (PilGrimCount> = 2)-> [Visit1] [VisitAdj1] de [pilgrimslabelsingularorplural]</li>
+    <li>VisitAdj (p = 6) -></li>
+    <li>Visadj-> santa</li>
+    <li>Visadj-> sagrada</li>
+    <li>Visitadj-> spiritual</li>
+    <li>Visadj-> ilahi</li>
+    <li>Visadj-> sagrada</li>
+    <li>VisitAdj-> Solemn</li>
+    <li>Visitadj-> sakramental</li>
+    <li>Visitadj-> Suchtified</li>
+    <li>Visitadj1-> suci</li>
+    <li>Visitadj1-> sakral</li>
+    <li>Visitadj1-> spiritual</li>
+    <li>Visitadj1-> ilahi</li>
+    <li>Visitadj1-> sakral</li>
+    <li>VisitAdj1-> SIDEMN</li>
+    <li>Visitadj1-> sakramental</li>
+    <li>Visitadj1-> Suchtified</li>
+    <li>Kunjungi-> Kunjungannya</li>
+    <li>Kunjungi-> Ziarah</li>
+    <li>Kunjungi1-> Misi</li>
+    <li>Kunjungi-> Ekspedisi</li>
+    <li>Kunjungi-> Tamasya</li>
+    <li>Kunjungi-> Tur Visis</li>
+    <li>Kunjungi-> Pemujaan</li>
+  </ReliquaryPilgrims.questNameRules.rulesStrings>
+  
+</LanguageData>

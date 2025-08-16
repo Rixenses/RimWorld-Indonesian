@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Monument completed -->
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>Monumen selesai</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration], otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>Anda telah menyelesaikan pembangunan monumen.Kalau tidak, Anda akan membuat marah faksi [asker_factioname] ([GoodwillChangeIfMonumentDestroyed] Reputasi).</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <!-- EN: Monument destroyed -->
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>Monumen yang hancur</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+  <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[Asker_namedef] terasa dihina karena Anda membiarkan monumen itu dinodai tak lama setelah menyelesaikannya.</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>Jangan menghancurkan monumen untuk {0}</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <!-- EN: Do not destroy the monument for {0} -->
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>Jangan menghancurkan monumen untuk {0}</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+  <!-- EN: Keep monument {0} -->
+  <BuildMonumentWorker.KeepMonument.slateRef>Simpan monumen {0}</BuildMonumentWorker.KeepMonument.slateRef>
+  <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>Monumen misi "[diselesaikan Ujung]" "telah dinodai. Hukuman itu akan dikelola dengan benar.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <!-- EN: Protect the monument for {0} -->
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>Lindungi monumen untuk {0}</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <!-- EN: Protect the monument until {0} -->
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>Lindungi monumen hingga {0}</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+  <!-- EN: Protect for {0} -->
+  <BuildMonumentWorker.ProtectMonument.slateRef>Protgelo Durante {0}</BuildMonumentWorker.ProtectMonument.slateRef>
+  <!-- EN: New monument marker arrived -->
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>Penanda monumen baru telah tiba.</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Ketika penanda monumen dihancurkan, yang baru telah dikirim.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+  <!-- EN: Monument time expired -->
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>Batas waktu pembangunan monumen telah berakhir</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+  <!-- EN: Your time limit to construct the monument has expired. [failLetterEndingCommon] -->
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>Waktu Anda untuk membangun monumen sudah berakhir.[FaillettendendCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+  
+</LanguageData>

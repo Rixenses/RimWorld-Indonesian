@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>Klik untuk pergi ke masalah</ClickToJumpToProblem>
+
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>Risiko runtuh ringan</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>Risiko keruntuhan yang lebih besar</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>Risiko keruntuhan ekstrem</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
+  <BreakRiskMinorDesc>Pemukim ini memiliki humor rendah dan dapat mengalami keruntuhan mental kapan saja: \ n {0}</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
+  <BreakRiskMajorDesc>Pemukim ini memiliki humor di lantai dan dapat mengalami keruntuhan mental yang serius kapan saja: \ n {0}</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
+  <BreakRiskExtremeDesc>Pemukim ini sangat stres dan dapat mengalami keruntuhan mental yang ekstrem (dan mungkin keras) kapan saja: \ n {0}</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>Periksa tab kebutuhan untuk pemukim ini untuk melihat apa yang mengganggu mereka.</BreakRiskDescEnding>
+
+  <!-- EN: Colonist needs rescue -->
+  <ColonistNeedsRescue>Pemukim membutuhkan tebusan!</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
+  <ColonistsNeedRescue>Beberapa pemukim membutuhkan tebusan!</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDesc>Para pemukim ini tidak mampu di tanah: \ n {0} \ nmanda ke koloni lain untuk bantuan mereka dan membawa mereka ke tempat tidur.</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>Pemukim ini tidak mampu di tanah: \ n {0} \ n \ nmanda ke pemukim lain untuk bantuan mereka dan membawa mereka ke tempat tidur.</ColonistsNeedRescueDescController>
+
+  <!-- EN: Need defenses -->
+  <NeedDefenses>Anda membutuhkan pertahanan</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>Anda sudah lama berada di sini dan kemungkinan besar seseorang telah memperhatikannya.Serangan bajak laut akan segera dimulai.</NeedDefensesDesc>
+
+  <!-- EN: Need doctor -->
+  <NeedDoctor>Anda membutuhkan dokter</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>Para pemukim ini membutuhkan perawatan medis, tetapi Anda tidak memiliki koloni sehat yang ditugaskan sebagai dokter. \ N {0} \ n \ nasigna Pemukim yang sehat sebagai dokter.Jika tidak dirawat, luka mungkin tidak disembuhkan dengan benar dan menjadi permanen.</NeedDoctorDesc>
+
+  <!-- EN: Need miner -->
+  <NeedMiner>Anda membutuhkan penambang</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
+  <NeedMinerDesc>Anda telah menunjuk beberapa batu untuk ditambang, tetapi tidak ada pemukim yang ditugaskan untuk pekerjaan penambangan. \ N \ nasigna pemukim untuk pekerjaan penambangan.</NeedMinerDesc>
+
+  <!-- EN: Need warden -->
+  <NeedWarden>Anda membutuhkan penjaga</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
+  <NeedWardenDesc>Anda memiliki tahanan, tetapi tidak ada pemukim yang menugaskan pekerjaan penjaga. \ N \ nasigna Seorang pemukim untuk pekerjaan penjaga.</NeedWardenDesc>
+
+  <!-- EN: Low food -->
+  <LowFood>Makanan kecil</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
+  <LowFoodDesc>Cadangan makanan Anda sangat rendah. \ N \ n - Unit makanan di toko Anda: {0} \ n - penjajah dan tahanan yang menerima makanan: {1} \ n - Hari makanan di gudang: {2} \ n \ ncultiva, beli, temukan atau bunuh sesuatu untuk dimakan.</LowFoodDesc>
+
+  <!-- EN: Low medicine -->
+  <LowMedicine>Obat kecil</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>Anda hanya memiliki} obat -obatan di toko Anda. \ N \ nCompra plus obat untuk pedagang.</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>Tidak ada obat di toko Anda. \ N \ nCompra plus obat untuk pedagang.</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
+  <NeedColonistBeds>Anda membutuhkan tempat tidur untuk pemukim Anda</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedColonistBedsDesc>Anda memiliki lebih banyak pemukim daripada tempat tidur tidur.Seseorang akan kekurangan situs untuk tidur.</NeedColonistBedsDesc>
+  
+  <!-- EN: Colonist left unburied -->
+  <AlertColonistLeftUnburied>Colonly yang tidak terkutuk</AlertColonistLeftUnburied>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>Pemukim tidak terkutuk. \ N \ nesto dapat secara negatif mempengaruhi humor pemukim lainnya.</AlertColonistLeftUnburiedDesc>
+
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>Ropa Andraja</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>Para pemukim ini mengenakan pakaian usang, yang membuat mereka sedih: \ n {0} \ nencuentral pakaian yang tidak begitu memburuk.</AlertTatteredApparelDesc>
+
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>Ketelanjangan yang tidak diinginkan</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>Pemukim ini telanjang dan tidak senang tentang hal itu: \ n {0} \ n \ nencouentral beberapa pakaian.</AlertUnhappyNudityDesc>
+
+  <!-- EN: Starvation -->
+  <Starvation>Kelaparan</Starvation>
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
+  <StarvationDesc>Pemukim ini menderita kelaparan: \ n {0} \ n \ nProporasional beberapa makanan.</StarvationDesc>
+
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>Kelaparan Hewan</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
+  <StarvationAnimalsDesc>Hewan -hewan di koloni ini menderita inanisi: \ n {0} \ n \ nProporsional Beberapa makanan.</StarvationAnimalsDesc>
+
+  <!-- EN: Exhaustion -->
+  <Exhaustion>Kelelahan</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <ExhaustionDesc>Pemukim ini menderita kelelahan dan perlu istirahat: \ n {0} \ n \ ndéal mereka istirahat.Mereka akan membutuhkan tempat tidur yang ditugaskan untuk penggunaan pemukim.Pastikan mereka juga tidak direkrut.</ExhaustionDesc>
+
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>Anda membutuhkan hopper</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
+  <NeedFoodHopperDesc>Anda memiliki dispenser nutrisi tanpa hopper yang berdekatan.</NeedFoodHopperDesc>
+
+  <!-- EN: Need meal source -->
+  <NeedMealSource>Bahan yang tidak diproses</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>Anda tidak memiliki cara untuk menyiapkan makanan yang dimasak dari bahan -bahan mentah.</NeedMealSourceDesc>
+
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>Waktu luang berulang</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>Hanya ada berbagai jenis sumber rekreasi yang tersedia di {1}, tetapi pada tingkat ekspektasi saat ini ({2}), para pemukim membutuhkan berbagai jenis kegiatan rekreasi untuk tetap puas.Ini memberikan lebih banyak variasi dengan menambahkan kelas rekreasi baru.</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>Kegiatan rekreasi yang tersedia</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>Jenis rekreasi yang hilang</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>Dengan ekspektasi saat ini ({0}), setiap toleransi jatuh untuk {1} sehari.Dianjurkan untuk memiliki {2} jenis waktu luang.</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>bosan</bored>
+
+  <!-- EN: Boredom -->
+  <Boredom>Kebosanan</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
+  <BoredomDesc>Para pemukim ini perlu bersenang -senang atau ditugaskan untuk jadwal rekreasi, tetapi masih bosan dengan semua sumber rekreasi yang tersedia: \ n \ n {0} \ n \ nconsígueles plus berbagai kegiatan rekreasi.</BoredomDesc>
+
+  <!-- EN: Need batteries -->
+  <NeedBatteries>Anda membutuhkan baterai</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
+  <NeedBatteriesDesc>Anda memiliki generator matahari atau angin, tetapi Anda tidak memiliki baterai.Anda akan kehabisan energi setiap kali matahari terbenam atau angin tenang.</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>Bangun satu atau dua baterai untuk menjamin energi konstan.</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>Selidiki baterai dan bangun pasangan untuk menjamin energi berkelanjutan.</NeedBatteriesNotResearchedDesc>
+
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>Pejuang senjata jarak jauh</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>Salah satu pemukim Anda memiliki fitur perjuangan pribadi, tetapi kami mengenakan senjata jarak jauh.Ini akan membuat Anda sangat tidak bahagia.</BrawlerHasRangedWeaponDesc>
+
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>Colono dengan perisai pemegang senjata terpencil</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>Salah satu pemukim Anda membawa senjata jarak jauh bersama dengan sabuk perisai.Anda hanya dapat menembak senjata Anda dari jarak dekat, karena proyektil tidak dapat melintasi perisai.</ShieldUserHasRangedWeaponDesc>
+
+  <!-- EN: Need research project -->
+  <NeedResearchProject>Tidak ada proyek penelitian yang ditugaskan</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
+  <NeedResearchProjectDesc>Anda memiliki peralatan yang diperlukan untuk menyelidiki, tetapi Anda belum memilih proyek. \ N \ n (klik untuk membuka menu penelitian.)</NeedResearchProjectDesc>
+
+  <!-- EN: 1 colonist idle -->
+  <ColonistIdle>1 pemukim idle</ColonistIdle>
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>{0} pemukim idle</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>Para pemukim ini berkeliaran tanpa ada yang bisa dilakukan: \ n {0} \ n \ ndeberias untuk menemukan sesuatu yang produktif untuk dilakukan.</ColonistsIdleDesc>
+  
+  <!-- EN: Caravan idle -->
+  <CaravanIdle>Karavan menunggu</CaravanIdle>
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
+  <CaravanIdleDesc>Karavan ini sedang menunggu mereka memberi mereka tujuan baru: \ n {0}</CaravanIdleDesc>
+
+  <!-- EN: Medical treatment needed -->
+  <ColonistNeedsTreatment>Pemukim membutuhkan perawatan</ColonistNeedsTreatment>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>Estos colonos necesitan tratamiento médico. Sin él, podrían morir por sus heridas o estas podrían volverse permanentes.\n{0}\n\nTrátalos enviándolos a una cama hospitalaria.\n\n(Para ello, primero, asigna una cama hospitalaria, seleccionándola y designándola como tal. Luego, selecciona al colono herido y haz clic derecho en la cama hospitalaria para convertirlo en paciente)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>Pemukim ini membutuhkan perawatan medis.Tanpa itu, mereka bisa mati karena luka mereka atau mereka bisa menjadi permanen.</ColonistNeedsTreatmentDescController>
+
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>Hipotermia</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>Pemukim ini menderita hipotermia: \ n {0} \ n \ nasegerate bahwa pakaian mereka cocok untuk musim dan ruang interior dipanaskan dengan benar.</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>{ganti: ^{0} pasien harapkan;"^1 pasien tunggu"-"1 pasien mengharapkan";"^"-""} Operasi medis</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>Satu atau lebih pasien menunggu operasi medis: \ n {0} \ n \ nasegerate untuk memiliki semua alat medis dan dokter yang tersedia.</PatientsAwaitingMedicalOperationDesc>
+
+  <!-- EN: Fire! -->
+  <FireInHomeArea>Api!</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>Ada kebakaran di area rumah!</FireInHomeAreaDesc>
+
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>Darurat medis</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>Para pemukim ini menderita penyakit atau kerusakan yang begitu serius sehingga mereka bisa mati: \ n {0} \ n \ nasegerate untuk mendapatkan perawatan medis terbaik.</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Para pemukim ini menderita penyakit atau kerusakan yang begitu serius sehingga mereka bisa mati: \ n {0} \ n \ nde diperlukan, pertimbangkan diamputasi atau mengganti anggota yang terinfeksi untuk membuatnya tetap hidup, atau membuat transfusi darah jika terjadi perdarahan.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>Bill terhambat</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>Salah satu meja biliar Anda dihambat, yang mencegah pemukim Anda bermain.</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>Meja catur membutuhkan kursi</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>Salah satu meja catur Anda tidak memiliki kursi yang berdekatan.Hingga dua pemukim dapat menggunakan meja catur secara bersamaan.</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>Meja poker membutuhkan kursi</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>Salah satu meja poker Anda tidak memiliki kursi yang berdekatan.Hingga delapan pemukim dapat menggunakan meja poker secara bersamaan.</PokerTablesNeedChairsDesc>
+
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>Pemegang perisai dan pemburu senjata terpencil</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>Salah satu pemburu Anda menggunakan senjata jarak jauh bersama dengan sabuk perisai. \ N \ nno dapat berburu selama Anda memiliki perisai.</HunterHasShieldAndRangedWeaponDesc>
+
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>Necesitas ropa de abrigo</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>Setidaknya {ganti: ^{0} pemukim akan membutuhkan;"^1 pemukim akan membutuhkan"-"1 Colonus akan membutuhkan";"^"-""} Mantel pakaian saat dingin tiba.</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>Semua pemukim Anda akan membutuhkan pakaian tempat penampungan saat dingin tiba.</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>Suhu luar akan mencapai {0}. \ N \ npuedes untuk memproduksi pakaian hangat di meja menjahit atau membelinya ke pedagang.</NeedWarmClothesDesc2>
+
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>Karavan yang ditangkap</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>Salah satu karavan Anda diimobilisasi karena beratnya terlalu banyak.</ImmobileCaravanDesc>
+
+  <!-- EN: Building unusable due to roof -->
+  <BuildingCantBeUsedRoofed>Konstruksi tidak digunakan oleh atap</BuildingCantBeUsedRoofed>
+  <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
+  <BuildingCantBeUsedRoofedDesc>Satu atau lebih dari konstruksi Anda hanya dapat digunakan jika di luar ruangan.Mereka tidak dapat digunakan sampai Anda menghilangkan atap.</BuildingCantBeUsedRoofedDesc>
+
+  <!-- EN: Heatstroke -->
+  <AlertHeatstroke>Pitam panas</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>Orang -orang berikut menderita stroke panas: \ n {0} \ n \ nlléval mereka ke area yang lebih dingin.Anda dapat mendinginkan kamar dengan pendingin pasif atau pendingin listrik.Ruang bawah tanah yang dalam juga segar secara alami, jika dipisahkan dari luar oleh pintu.</AlertHeatstrokeDesc>
+
+  <!-- EN: Guest unhappy -->
+  <QuestPartMoodBelowThreshold>Tamu yang tidak bahagia</QuestPartMoodBelowThreshold>
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
+  <QuestPartMoodBelowThresholdDesc>Misi {0} mengharuskan Anda menjaga orang -orang ini dalam suasana hati yang baik.Namun, humornya rendah.Lakukan sesuatu untuk merasa lebih baik !: \ n {1}</QuestPartMoodBelowThresholdDesc>
+  
+  <!-- EN: Shuttle leaving in {0} -->
+  <QuestPartShuttleLeaveDelay>Transhipment berjalan {0}</QuestPartShuttleLeaveDelay>
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleLeaveDelayDesc>Feri akan masuk {1}.Misi "{0}" menuntut agar Anda membawa benda -benda berikut atau orang -orang ke feri sebelum pergi: \ n {2}</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>Feri akan berlangsung {0}.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>Transhipment Landing di {0}</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>Sebuah feri akan mendarat di {1}.Misi "{0}" menuntut agar Anda membawa benda -benda berikut atau orang -orang ke feri sebelum pergi: \ n {2}</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>Sebuah feri akan mendarat di {0}.</QuestPartShuttleArriveDelayDescHidden>
+
+  <!-- EN: Monument will be destroyed -->
+  <DisallowedBuildingInsideMonument>Monumen akan dihancurkan</DisallowedBuildingInsideMonument>
+  <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
+  <DisallowedBuildingInsideMonumentDesc>Anda telah membangun sesuatu yang tidak diizinkan di dalam salah satu monumen Anda.Monumen akan dianggap hancur dalam {0}.</DisallowedBuildingInsideMonumentDesc>
+
+  <!-- EN: Countdown activator {0} -->
+  <ActivatorCountdown>Activator Penghitungan Kembali: {0}</ActivatorCountdown>
+  <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDesc>Ada timer yang sedang berlangsung yang siap untuk membangkitkan mecanoid di dekatnya.</ActivatorCountdownDesc>
+  <!-- EN: {0} countdown activators -->
+  <ActivatorCountdownMultiple>{0} aktivator penghitungan kembali</ActivatorCountdownMultiple>
+  <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDescMultiple>Ada {0} timer yang disiapkan untuk membangkitkan mecanoids di dekatnya.</ActivatorCountdownDescMultiple>
+
+  <!-- EN: Quest expires in {0} -->
+  <QuestExpiresSoon>Misi berakhir dengan {0}</QuestExpiresSoon>
+  <!-- EN: The quest '{0}' will expire in {1}. -->
+  <QuestExpiresSoonDesc>Misi "{0}" akan berakhir di {1}.</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>Kotoran binatang</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>Hewan yang menghasilkan kotoran adalah di dalam ruangan dengan tanah yang bersih.Hewan \ n \ nlos menghasilkan sejumlah besar kotoran ketika mereka bergerak di tanah normal. Simpan hewan yang menghasilkan kotoran di luar atau di dalam tikar jerami, di mana mereka akan menghasilkan kotoran yang jauh lebih sedikit.</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>Anda membutuhkan pena</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>Beberapa hewan peliharaan Anda berkeliaran.Jika mereka tidak disimpan di pena atau diikat ke tempat halangan untuk karavan, mereka akan pergi.</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>Anda tidak memiliki pengasuh untuk membawa hewan ke kandang. \ N \ nasigna pemukim untuk jenis pekerjaan hewan.</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>Buat pena untuk hewan dengan membangun penanda kandang di dalam area berpagar, dengan barikade atau berdinding.Pilih penanda kandang untuk melihat hewan mana yang diterima dan berapa banyak yang dapat mengakui kandang Anda. Pelatihan \ n \ ntus akan mengambil hewan secara otomatis ditugaskan.</AlertAnimalPenNeededDescExplanation>
+  
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>Kandang tanpa penutupan</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>Penanda kandang tidak ditutup.</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>{Animal_nameindef} di Corral</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>{Animal_nameindef} telah memasuki kandang. \ N \ nal menjadi predator, bisa memutuskan untuk memburu hewan Anda.</AlertPredatorInAnimalPenDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>Pengembara Hewan</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
+  <AlertAnimalIsRoamingDesc>Beberapa hewan peliharaan Anda berkeliaran dan mulai pindah.Jika mereka mencapai tepi peta, mereka akan pergi.Hewan dalam kandang tidak akan berkeliaran.</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>Hewan lapar di kandang</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
+  <AlertPennedAnimalHungryDesc>Beberapa hewan tertutup Anda lapar.Hewan lain mungkin membutuhkan jerami atau makanan serupa menggunakan gudang.</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Hungry hitched animal -->
+  <AlertHitchedAnimalHungryNoFood>Habriente Hooked Animal</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>Beberapa hewan yang diikat ke titik pertemuan karavan lapar.Mungkin tidak ada makanan yang memadai di ujung jari Anda. \ N \ nlléval</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>Serangan tiba di {0}</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>Musuh telah tertarik ke tempat -tempat berikut dan akan mulai tiba secara misa. \ N \ n {0}</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>Mencapai {0} di {1}</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>Faksi akan menjadi bermusuhan jika Anda tinggal</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Faksi -faksi ini akan menjadi bermusuhan jika Anda tinggal lebih lama di penyelesaian mereka atau posisi lanjutan: \ n \ n {0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>{ganti: ^{0} pohon;"^1 pohon"-"1 pohon";"^"-""} sekarat</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>{ganti: ^{0} pohon diekstraksi van;"^1 pohon diekstraksi go"-"1 pohon yang diekstraksi";"^"-""} untuk mati dalam waktu kurang dari sehari.Ini akan menyebabkan beberapa pemukim tidak senang dengan keyakinan mereka. \ N \ npuedes menghindarinya dengan menanam kembali lagi.</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>Anda membutuhkan tabel penelitian</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>Anda memiliki proyek penelitian aktif: "{0}".Ini mengharuskan Anda membangun {1_indefinite}.</NeedResearchBenchDesc>
+  
+</LanguageData>

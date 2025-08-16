@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arrest success chance -->
+  <ArrestSuccessChance.label>Probabilitas Penangkapan Sukses</ArrestSuccessChance.label>
+  <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
+  <ArrestSuccessChance.description>Seberapa efektif orang ini menangkap seseorang.Ini mempengaruhi probabilitas bahwa orang ini menangkap seseorang tanpa perlawanan.</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>Faktor Probabilitas Tautan</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>Pengganda probabilitas adalah menghubungkan dengan hewan saat berinteraksi dengan ini.</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>Peningkatan harga jual obat</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>Ketika orang ini menjual obat-obatan non-medis, harga meningkat untuk persentase ini.</DrugSellPriceImprovement.description>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>keterampilan negosiasi</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>Seberapa efektif orang ini berbicara dan bernegosiasi.Ini mempengaruhi kecepatan merekrut tahanan, dampak pada hubungan ketika orang ini memberikan hadiah kepada faksi lain, dan hasil dari negosiasi damai.</NegotiationAbility.description>
+  
+  <!-- EN: beauty -->
+  <PawnBeauty.label>kecantikan</PawnBeauty.label>
+  <!-- EN: How physically attractive this person is. This affects social interactions. -->
+  <PawnBeauty.description>Daya tarik fisik orang ini.Ini mempengaruhi interaksi sosial.</PawnBeauty.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>Dampak Sosial</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Faktor yang mempengaruhi seberapa banyak orang lain dipengaruhi oleh interaksi sosial dengan orang ini.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>Probabilitas domestikasi</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Probabilitas bahwa orang ini berhasil menjinakkan hewan dalam upaya tertentu. Probabilitas nyata \ n \ nla juga dipengaruhi oleh keganasan hewan.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>Peningkatan Dgeteo</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Harga pembelian dan jual ditingkatkan dengan persentase ini ketika orang ini adalah orang yang menegosiasikan harga.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>Trabability of Training</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Probabilitas dasar bahwa orang ini berkembang dengan melatih hewan dalam upaya tertentu.Probabilitas nyata dari suatu upaya juga akan tergantung pada keganasan hewan, atau apakah itu terkait dengan pelatihan.</TrainAnimalChance.description>
+  
+</LanguageData>

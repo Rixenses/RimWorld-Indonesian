@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: resurrect heavy mechanoid -->
+  <ResurrectHeavyMech.label>Mecanoid berat resurrect</ResurrectHeavyMech.label>
+  <!-- EN: Resurrect a friendly mechanoid of the heavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
+  <ResurrectHeavyMech.description>Itu membangkitkan kembali teman mecanoid dari kelas kelas berat.Setiap kali tubuh mechanoid tidak sepenuhnya hancur, ia bisa dibangkitkan.</ResurrectHeavyMech.description>
+  <!-- EN: Resurrecting mech. -->
+  <ResurrectHeavyMech.jobString>Menyadarkan saya.</ResurrectHeavyMech.jobString>
+  
+  <!-- EN: resurrect light mechanoid -->
+  <ResurrectLightMech.label>Rishears Light Mecanoid</ResurrectLightMech.label>
+  <!-- EN: Resurrect a friendly mechanoid of the light weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
+  <ResurrectLightMech.description>Itu membangkitkan kembali teman mecanoid dari kelas ringan.Setiap kali tubuh mechanoid tidak sepenuhnya hancur, ia dapat membangkitkan kembali.</ResurrectLightMech.description>
+  <!-- EN: Resurrecting mech. -->
+  <ResurrectLightMech.jobString>Menyadarkan saya.</ResurrectLightMech.jobString>
+  
+  <!-- EN: resurrect medium mechanoid -->
+  <ResurrectMediumMech.label>Mecanoid rata -rata riset</ResurrectMediumMech.label>
+  <!-- EN: Resurrect a friendly mechanoid of the medium weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
+  <ResurrectMediumMech.description>Itu membangkitkan kembali teman mecanoid dari kelas berat sedang.Setiap kali tubuh mechanoid tidak sepenuhnya hancur, ia dapat membangkitkan kembali.</ResurrectMediumMech.description>
+  <!-- EN: Resurrecting mech. -->
+  <ResurrectMediumMech.jobString>Menyadarkan saya.</ResurrectMediumMech.jobString>
+  
+  <!-- EN: resurrect ultraheavy mechanoid -->
+  <ResurrectUltraheavyMech.label>Resurrect Ultrapesado Mecanoid</ResurrectUltraheavyMech.label>
+  <!-- EN: Resurrect a friendly mechanoid of the ultraheavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
+  <ResurrectUltraheavyMech.description>Itu membangkitkan kembali teman mecanoid dari kelas berat ultrapesado.Setiap kali tubuh mechanoid tidak sepenuhnya hancur, ia bisa dibangkitkan.</ResurrectUltraheavyMech.description>
+  <!-- EN: Resurrecting mech. -->
+  <ResurrectUltraheavyMech.jobString>Menyadarkan saya.</ResurrectUltraheavyMech.jobString>
+  
+</LanguageData>

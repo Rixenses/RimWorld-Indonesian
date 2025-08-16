@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: melee door damage factor -->
+  <MeleeDoorDamageFactor.label>Faktor kerusakan pintu jarak dekat</MeleeDoorDamageFactor.label>
+  <!-- EN: A special multiplier on the amount of melee damage inflicted on doors. -->
+  <MeleeDoorDamageFactor.description>Pengganda khusus dalam jumlah kerusakan jarak dekat yang ditimbulkan di pintu.</MeleeDoorDamageFactor.description>
+  
+  <!-- EN: shooting accuracy multiplier -->
+  <ShootingAccuracyChildFactor.label>multi.penembakan</ShootingAccuracyChildFactor.label>
+  
+</LanguageData>

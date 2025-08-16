@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Shuttle landing zones -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
+  <ShuttleBlocked>Transforder tidak dapat mendarat di: {0}</ShuttleBlocked>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost>Feri telah tiba, tetapi karena tidak ada pemukim di dalam, isinya telah hilang.</MessageShuttleArrivedContentsLost>
+
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged>Itu tidak bisa mendarat di daerah yang dilepaskan.</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable>Itu pasti area yang memungkinkan Anda berjalan di atasnya.</ShuttleCannotLand_Unwalkable>
+  <!-- EN: Terrain does not support {0}. -->
+  <ShuttleCannotLand_Unaffordable>Tanah tidak mendukung {0}.</ShuttleCannotLand_Unaffordable>
+
+  <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
+  <MessageBestowerWaiting>Pilih {Bestower_Definite} dan klik "Mulai upacara Ascension" untuk memulai upacara.</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable>Anda tidak dapat mencapai pemberi!</MessageBestowerUnreachable>
+  <!-- EN: {0} is busy. -->
+  <MessageBestowingTargetIsBusy>{0} sibuk.</MessageBestowingTargetIsBusy>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable>Pemberi kesal dengan gangguan dan telah memutuskan untuk pergi.</MessageBestowingSpotUnreachable>
+  <!-- EN: The bestower is leaving due to life-threatening danger. -->
+  <MessageBestowingDanger>Pemberi pergi karena hidupnya dalam bahaya.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>Pemberi hibah untuk suhu ekstrem.</MessageBestowingDangerTemperature>
+  <!-- EN: The bestower is leaving due to dangerous gases in the area. -->
+  <MessageBestowingDangerGas>Pemberi hibah akan berangkat untuk kehadiran gas berbahaya di daerah tersebut.</MessageBestowingDangerGas>
+  <!-- EN: The bestowing ceremony has been interrupted. -->
+  <MessageBestowingInterrupted>Upacara Kenaikan telah terganggu.</MessageBestowingInterrupted>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted>Upacara Kenaikan {Pawn_Definite} telah dimulai.</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle>Anda telah mengalahkan {faction_pawnsplural}!Kembali ke feri untuk mengirimkannya.</MessageMissionGetBackToShuttle>
+
+  <!-- EN: {FACTION_name} has dropped resources nearby. -->
+  <MessagePermitTransportDrop>Faksi {felion_name} telah meninggalkan sumber daya di dekatnya.</MessagePermitTransportDrop>
+  <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
+  <MessagePermitTransportDropCaravan>Faksi {felion_name} telah mengirim sumber daya ke karavan {Pawn_namedef}.</MessagePermitTransportDropCaravan>
+
+  <!-- EN: No orbiting mechanoids found. -->
+  <MessageNoFactionForVerbMechCluster>Mechanoids belum ditemukan di orbit.</MessageNoFactionForVerbMechCluster>
+
+</LanguageData>

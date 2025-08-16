@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raw humanlike meat eaten -->
+  <AteRawHumanlikeMeat.label>Daging Humanoid Mentah Dikonsumsi</AteRawHumanlikeMeat.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] makan daging manusia</li>
+    <li>Image-> [Pawn_namefull] [EAT_GERUND] Daging sesama humanoid [SITUCSANCE_GROUP]</li>
+    <li>Gambar-> [Pawn_namefull] [EAT_GERUND] Daging dari lengan seperti manusia [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] [EAT_GERUND] Daging dari humanoid [SITUCCANCE_GROUP]</li>
+    <li>eat_gerund-> makan</li>
+    <li>EAT_GERUND-> CERESTING</li>
+    <li>eat_gerund-> mengunyah</li>
+    <li>eat_gerund-> chowing down on</li>
+    <li>eat_gerund-> memakan</li>
+    <li>eat_gerund-> menelan</li>
+    <li>eat_gerund-> Cannibalizing</li>
+    <li>keadaan_phrase-> dengan rasa tujuan</li>
+    <li>keadaan_phrase-> tanpa sedikit pun rasa malu</li>
+    <li>keadaan_phrase-> dengan pandangan malu</li>
+    <li>keadaan_phrase-> sementara yang lain melihat</li>
+    <li>SITUCTANCE_PHRASE-> dengan semangat</li>
+    <li>SICKECANCE_PHRASE-> dengan panik, seperti kehidupan [Pawn_Possessives] tergantung padanya</li>
+    <li>Wajah desc_sentence-> [Pawn_namedef] ditutupi dengan darah dan cairan.</li>
+    <li>desc_sentence-> [pawn_namedef] menjilat jari [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_namedef] memiliki bit darah dan gore semuanya di depan [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_namedef] berada di tengah genangan darah besar.</li>
+    <li>desc_sentence-> [pawn_namedef] sedang mengincar orang lain di dekatnya dengan minat gelap.</li>
+    <li>desc_sentence-> Dagingnya berkilau dan tampak sangat lezat.</li>
+    <li>desc_sentence-> Dagingnya tumpah ke seluruh tubuh [Pawn_Namedef].</li>-><AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] makan daging manusia</li>
+    <li>Image-> [Pawn_namefulull] [Eat Gerund] Daging dari pasangan humanoid [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulull] [Eat Gerund] Daging lengan humanoid [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefull] [EAT_GERUND] LA CARNE de un Humanoide [SICKECANCE_GROUP]</li>
+    <li>eat_gerund-> makan</li>
+    <li>EAT_GERUND-> CERESTING</li>
+    <li>eat_gerund-> mascando</li>
+    <li>eat_gerund-> kunyah</li>
+    <li>eat_gerund-> memakan</li>
+    <li>Makan gerund-> dimulai dengan gigi</li>
+    <li>eat_gerund-> canibalization</li>
+    <li>Keadaan_phrase-> dengan rasa tugas</li>
+    <li>SITUKSE_PHRASE-> Tanpa malu</li>
+    <li>Keadaan_phrase-> dengan wajah malu</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>SITUCTANCE_PHRASE-> CON GUSTO</li>
+    <li>Keadaan_phrase-> frantéticamten, seolah-olah hidup Anda bergantung padanya</li>
+    <li>Desc_sentence-> Wajah [Pawn_namedef] ditutupi dengan darah dan cairan.</li>
+    <li>Desc_sentence-> [pawn_namedef] menjilati jari-jarinya.</li>
+    <li>Desc_sentence-> [pawn_namedef] memiliki darah dan potongan daging di wajahnya.</li>
+    <li>Desc_sentence-> [pawn_namedef] berada di tengah genangan darah besar.</li>
+    <li>Desc_sentence-> [pawn_namedef] sedang melihat orang dekat lain dengan minat gelap.</li>
+    <li>Desc_sentence-> Dagingnya terlihat sangat lezat.</li>
+    <li>Descent-> Potongan daging jatuh ke tanah di sekitar mereka.</li>
+  </AteRawHumanlikeMeat.rulePack.rulesStrings>
+  
+  <!-- EN: humanlike corpse butchered -->
+  <ButcheredHumanlikeCorpse.label>Mayat Humanoid yang Dibesarkan</ButcheredHumanlikeCorpse.label>
+  
+  <!-- EN: art crafted -->
+  <CraftedArt.label>Penciptaan Seni</CraftedArt.label>
+  <!-- EN:
+    <li>Tale_noun-> Waktu [Pawn_namedef] dibuat [thing_indefinite]</li>
+    <li>Image-> [pawn_namefull] Crafting [thing_indefinite] [Sounce_Group].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [Pawn_namefull] Menyelesaikan [Pawn_Possessive] Bekerja di [thing_indefinite] [SITUCTANCE_GROUP].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [pawn_namefull] bekerja pada [thing_indefinite] [Soumtance_Group].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [pawn_namefull] membuat [thing_indefinite] [SICKECANCE_GROUP].[kualitas_sentence].[title_sentence]</li>
+    <li>SITUCTANCE_PHRASE-> dengan konsentrasi total</li>
+    <li>SICKCANCE_PHRASE-> dengan tampilan kepuasan di wajah [Pawn_Possessive]</li>
+    <li>SITUCTANCE_PHRASE-> AT [Pawn_Possessive] Bench Work</li>
+    <li>SITUCTANCE_PHRASE-> dengan intensitas besar</li>
+    <li>desc_sentence-> Ada alat yang tersebar di sekitar.</li>
+    <li>desc_sentence-> [pawn_pronoun] tergores dan terluka karena cedera kerja.</li>
+    <li>desc_sentence-> [pawn_pronoun] ditutupi keringat.</li>
+    <li>desc_sentence-> Area kerja sangat terorganisir, dengan setiap alat di tempat yang tepat.</li>
+    <li>desc_sentence-> [Pawn_pronoun] diterjemahkan dengan cara yang berlebihan untuk tampil lebih kuat.</li>
+    <li>desc_sentence-> Ukuran [thing_definite] dibesar-besarkan untuk menekankan pentingnya.</li>
+    <li>desc_sentence-> [thing_definite] memiliki cahaya artistik yang ditambahkan ke dalamnya.Tampaknya hampir malaikat.</li>
+    <li>desc_sentence-> [pawn_namedef] pudar ke latar belakang untuk menekankan kreasi baru [pawn_possessive].</li>
+    <li>desc_sentence-> [quantity_adjphrase] penonton surround [pawn_objective].</li>
+    <li>desc_sentence-> kerumunan bersorak dari latar belakang.</li>
+    <li>Quality_sentence-> [thing_definite] terlihat dari kualitas [thing_quality]</li>
+    <li>quality_sentence-> [thing_definite] adalah kualitas [thing_quality]</li>
+    <li>Quality_sentence-> Pekerjaan [Pawn_Namedef] adalah kualitas [thing_quality]</li>
+    <li>title_sentence-> [Pawn_namedef] judul untuk [thing_definite] ditulis di bawah: [thing_title]</li>
+    <li>title_sentence-> [thing_definite] terpampang dengan judulnya: [thing_title]</li>
+    <li>title_sentence-> judul [thing_definite], [thing_title], hang di latar belakang</li>-><CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun-> [pawn_namedef] fabricó [thing_indefinite]</li>
+    <li>Image-> [pawn_namefull] fabricando [thing_indefinite] [soundance_group].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [pawn_namefull] completeDo su trabajo en [thing_indefinite] [SITUCTance_Group].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [pawn_namefull] trabajando en [thing_indefinite] [SITUCTance_Group].[kualitas_sentence].[title_sentence]</li>
+    <li>Image-> [pawn_namefull] haciendo [thing_indefinite] [soundance_group].[kualitas_sentence].[title_sentence]</li>
+    <li>SITUKSE_PHRASE-> dengan konsentrasi total</li>
+    <li>Keadaan_phrase-> dengan wajah kepuasan di wajahnya</li>
+    <li>SITUKSE_PHRASE-> Di Tabel Kerja Anda</li>
+    <li>Keadaan_phrase-> dengan intensitas besar</li>
+    <li>Desc_sentence-> Ada alat yang tersebar di mana-mana.</li>
+    <li>Desc_sentence-> memiliki goresan dan bekas luka karena cedera kerja.</li>
+    <li>Desc_sentence-> tertutup [Pawn_o_a] dari keringat.</li>
+    <li>Descent-> Area kerja sangat terorganisir, dengan masing-masing alat di tempatnya.</li>
+    <li>Descent-> diilustrasikan [Pawn_o_a] dengan cara yang berlebihan, sehingga terlihat lebih kuat [Pawn_o_a].</li>
+    <li>Descent-> Ukuran [thing_definite] dibesar-besarkan untuk menekankan pentingnya.</li>
+    <li>Desc_sentence-> [thing_definite] memiliki kecerahan artistik di sekitarnya.Sepertinya malaikat.</li>
+    <li>Desc_sentence-> [pawn_namedef] hilang di latar belakang, untuk menekankan kreasi baru.</li>
+    <li>Desentence-> [quantity_adjphrase] pengamat leveean.</li>
+    <li>Desc_sentence-> kerumunan membuat porras dari bawah.</li>
+    <li>QUIVE_Sentence-> [thing_definite] Parece ser de calidad [thing_quality].</li>
+    <li>quality_sentence-> [thing_definite] es de calidad [thing_quality].</li>
+    <li>Quality_sentence-> Karya [Pawn_Namedef] adalah kualitas [thing_qualy].</li>
+    <li>Title_sentennce-> judul [Pawn_namedef] untuk [thing_definite] ditulis di bawah ini: [thing_title]</li>
+    <li>Title_sentennce-> [thing_definite] telah merekam judul: [thing_title]</li>
+    <li>Title_sentence-> Judul [thing_definite], [thing_title], hang di latar belakang.</li>
+  </CraftedArt.rulePack.rulesStrings>
+  
+  <!-- EN: drunk -->
+  <Drunk.label>mabuk</Drunk.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_Namedef] Extreme Drunkenness</li>
+    <li>Tale_noun-> [Pawn_namedef] Menjadi sangat mabuk</li>
+    <li>Image-> [Pawn_namefull] terhuyung-huyung di sekitar mabuk [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] miring [pawn_possessive] ke belakang dan menggerakkan minuman keras [soundance_group]</li>
+    <li>Image-> [Pawn_Namefull] Dengan rakus mengumpulkan botol minuman keras [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Minum sangat [SITUCCANCE_GROUP]</li>
+    <li>SITUMCANCE_PHRASE-> LEBIH LUAR</li>
+    <li>keadaan_phrase-> dalam kebodohan yang merenung</li>
+    <li>SITUCTANCE_PHRASE-> Saat mempertanyakan keberadaannya sendiri</li>
+    <li>SITUCTANCE_PHRASE-> dengan air mata di mata [Pawn_possessive]</li>
+    <li>keadaan_phrase-> sambil terkekeh</li>
+    <li>keadaan_phrase-> saat terisak</li>
+    <li>SITUCTANCE_PHRASE-> Sambil terlihat menyedihkan</li>
+    <li>SITUCTANCE_PHRASE-> Sambil menatap dengan marah pada orang-orang di sekitar [Pawn_objective]</li>
+    <li>keadaan_phrase-> saat melirik seseorang di dekatnya</li>
+    <li>SITUKSE_PHRASE-> Saat mencoba untuk melecehkan</li>
+    <li>SITUCTANCE_PHRASE-> dengan jari di mulut [Pawn_possessive]</li>
+    <li>keadaan_phrase-> sambil menahan muntah</li>
+    <li>keadaan_phrase-> tanpa peduli di dunia</li>
+    <li>SICKECANCE_PHRASE-> dengan kilatan penuh nafsu di mata [Pawn_Possessive]</li>
+    <li>SITUCTANCE_PHRASE-> Saat meninjau hantu [Pawn_Possessives] masa lalu</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya sama sekali tidak menyadari apa yang ada di sekitar [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_possessive] wajah itu sendiri tampaknya bengkak.</li>
+    <li>desc_sentence-> [pawn_pronoun] hampir tidak sadar, [Pawn_possessive] lolling keluar, meneteskan air liur.</li>
+    <li>desc_sentence-> [pawn_pronoun] terlihat bahagia dan sedih pada saat yang sama.</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki noda di depan [Pawn_possessive].</li>
+    <li>desc_sentence-> Ada jejak wadah minuman yang dibuang di belakang [Pawn_objective].</li>
+    <li>desc_sentence-> Ada zat putih pada celana [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya telah kehilangan sepatu.</li>
+    <li>DESC_SENTENCE-> [Pawn_Possessive] Rambut benar-benar berkurang.</li>-><Drunk.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] memiliki kemabukan yang ekstrem</li>
+    <li>Tale_noun-> [Pawn_namedef] melewati kemabukan yang ekstrem</li>
+    <li>Image-> [pawn_namefull] Tambaleándose Ebri [Pawn_o_A] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Atragantándose con licor [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulr] Botol minuman keras yang penuh monopoli [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Minum Hebat [SITUCSANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> ALEN [Pawn_o_a] untuk apa yang terjadi di sekitar</li>
+    <li>SITUCTANCE_PHRASE-> benar-benar membingungkan [Pawn_o_a]</li>
+    <li>Keadaan_phrase-> saat keberadaannya sendiri dipertanyakan</li>
+    <li>Keadaan_phrase-> dengan air mata di matanya</li>
+    <li>Keadaan_phrase-> sementara Caracajea</li>
+    <li>Keadaan_phrase-> saat menangis</li>
+    <li>Keadaan_phrase-> Patetis</li>
+    <li>Keadaan_phrase-> sambil melempar dengan marah melihat orang-orang di sekitar mereka</li>
+    <li>Keadaan_phrase-> sambil melihat dengan seseorang yang dekat</li>
+    <li>Keadaan_phrase-> saat mencoba menanggalkan pakaian</li>
+    <li>Frasa keadaan-> dengan jari di mulutnya</li>
+    <li>Keadaan_phrase-> saat muntah dialami</li>
+    <li>Keadaan_phrase-> tanpa peduli</li>
+    <li>Keadaan_phrase-> dengan pandangan penuh nafsu di matanya</li>
+    <li>Frasa keadaan-> sambil mengingat hantu masa lalunya</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya alien [pawn_o_a] ke lingkungannya.</li>
+    <li>Desc_sentence-> Wajah Anda sepertinya bengkak.</li>
+    <li>Desc_sentence-> [Pawn_pronoun] hampir tidak sadar dan dengan bahasa di luar.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampak senang dan sedih pada saat yang sama.</li>
+    <li>Desentencio-> [Pawn_pronoun] Suda secara deras.</li>
+    <li>Desc_sentence-> Ada jejak botol kosong di belakang [Pawn_pronoun].</li>
+    <li>Desc_sentence-> pakaian Anda sobek dan kotor.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya telah kehilangan sepatu.</li>
+    <li>Desc_sentence-> rambut Anda terganggu.</li>
+  </Drunk.rulePack.rulesStrings>
+  
+  <!-- EN: research project finished -->
+  <FinishedResearchProject.label>penelitian yang telah selesai</FinishedResearchProject.label>
+  <!-- EN:
+    <li>tale_noun-> [Pawn_namedef] menyelesaikan penelitian di [Project_label]</li>
+    <li>Image-> [Pawn_namefull] Bekerja pada Proyek Penelitian [Project_Label] [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mempelajari rahasia [Project_label] [SICKACE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Meneliti [Project_label] [SICKACE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan intensitas besar</li>
+    <li>SITUCTANCE_PHRASE-> Sendiri di Bench [Pawn_Possessive]</li>
+    <li>SITUCTANCE_PHRASE-> Saat memegang kertas di tangan [Pawn_Possessives]</li>
+    <li>keadaan_phrase-> dengan tampilan ketertarikan yang gembira</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat.</li>
+    <li>desc_sentence-> Karya tampaknya sangat rumit.</li>
+    <li>desc_sentence-> [pawn_namedef] sepenuhnya dikelilingi oleh berbagai alat dan peralatan.</li>
+    <li>desc_sentence-> [pawn_namedef] menatap penemuan [Pawn_possessive] dengan rasa heran.</li>-><FinishedResearchProject.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] menyelesaikan penelitiannya di [Project_label]</li>
+    <!-- Añadir los proyectos de investigación al worldinfo para usar def e indef -->
+    <li>Image-> [pawn_namefulr] Bekerja di penelitian [Project_label] [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Mempelajari rahasia [label proyek] [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefull] InvestigAndo [Project_label] [SICKACE_GROUP]</li>
+    <li>Keadaan_phrase-> dengan intensitas besar</li>
+    <li>SICKCANCE_PHRASE-> LOLITARI [pawn_o_a] di desktop Anda</li>
+    <li>SITUKSE_PHRASE-> Sambil memegang beberapa makalah di tangan Anda</li>
+    <li>SITUKSE_PHRASE-> dengan tampilan daya tarik</li>
+    <li>Desentencio-> [Pawn_namedef] berkeringat.</li>
+    <li>Desc_sentence-> pekerjaan tampaknya sangat kompleks.</li>
+    <li>Desc_sentence-> [pawn_namedef] benar-benar rodead [pawn_o_a] untuk alat dan berbagai perangkat.</li>
+    <li>Desc_sentence-> [pawn_namedef] mengamati penemuannya dengan senang hati.</li>
+  </FinishedResearchProject.rulePack.rulesStrings>
+  
+  <!-- EN: landed in pod -->
+  <LandedInPod.label>Pendaratan Kapsul</LandedInPod.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] mendarat di drop pod</li>
+    <li>Image-> [Pawn_namefull] Mendarat di drop pod [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menyentuh dalam drop pod [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Bumi yang mencolok di drop pod [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mengendarai drop pod [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Di depan [terrainfitur]</li>
+    <li>SITUCTANCE_PHRASE-> dengan kekuatan luar biasa</li>
+    <li>keadaan_phrase-> dalam gumpalan debu dan batu</li>
+    <li>SITUCTANCE_PHRASE-> dengan roket retro menembak secara dramatis</li>
+    <li>keadaan_phrase-> dalam pendaratan presisi</li>
+    <li>desc_sentence-> [pawn_pronoun] berkonsentrasi dengan saksama pada kontrol.</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki mata [Pawn_possessives] tertutup dan terlihat takut.</li>
+    <li>desc_sentence-> [pawn_pronoun] tidak sadar, [Pawn_possessive] lolling keluar, meneteskan air liur.</li>
+    <li>desc_sentence-> [pawn_pronoun] tersenyum dengan kegembiraan yang suram.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya tidak tahu apa yang [Pawn_pronoun] lakukan.</li>
+    <li>desc_sentence-> [pawn_pronoun] diikat dengan mata [Pawn_possessive] tertutup, benar-benar tidak berdaya.</li>
+    <li>desc_sentence-> Ada jejak api menjilati bagian belakang pod.</li>
+    <li>desc_sentence-> [hewan] terdekat melihat ke atas, terkejut.</li>
+    <li>desc_sentence-> [hewan] melarikan diri dari dampak ketakutan.</li>
+    <li>desc_sentence-> Ada [terrainfeature] di latar belakang.</li>
+    <li>desc_sentence-> A [personjob] menonton diam-diam dari jauh.</li>-><LandedInPod.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] mendarat di kapsul pelarian</li>
+    <li>Image-> [Pawn_namefulull] Mendarat di kapsul buang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Menurunkan dari kapsul buang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memukul Bumi dengan kapsul buang [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Melihat ke luar jendela kapsul pelarian [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> FRENTE A [TerrainfeatureIndef]</li>
+    <li>Keadaan_phrase-> dengan kekuatan besar</li>
+    <li>Frasa keadaan-> dalam hujan debu dan batu</li>
+    <li>SITUCTANCE_PHRASE-> dengan retrocohetes dengan kekuatan penuh</li>
+    <li>Keadaan_phrase-> dalam pendaratan presisi</li>
+    <li>Desc_sentence-> [pawn_pronoun] benar-benar terkonsentrasi pada kontrol.</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki mata menutup dan tampak takut [pawn_o_a].</li>
+    <li>Desc_sentence-> [Pawn_pronoun] tidak sadar, dengan lidah di luar dan ngiler.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tersenyum dingin.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya tidak tahu apa yang dia lakukan.</li>
+    <li>Desc_sentence-> [pawn_pronoun] menempel di kursinya, benar-benar tidak berdaya [Pawn_o_a].</li>
+    <li>Desc_sentence-> Ada nyala api dari bagian belakang kapsul.</li>
+    <li>Descent-> [Hewan] melihat ke arah langit, ketakutan.</li>
+    <li>Keturunan-> [hewan] melarikan diri dengan kecepatan penuh.</li>
+    <li>Desc_sentence-> Ada [terrainfeatureIndef] di latar belakang.</li>
+    <li>Descent-> [Personjob] terlihat diam-diam di kejauhan.</li>
+  </LandedInPod.rulePack.rulesStrings>
+  
+  <!-- EN: berserk rage -->
+  <MentalStateBerserk.label>Kemarahan yang panik</MentalStateBerserk.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] akan mengamuk</li>
+    <li>Image-> [Pawn_namefull] Terbang ke kemarahan yang mengamuk [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Menjadi gila, gila [SITUCCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] tersandung ke depan dengan tampilan psikotik pada wajah [Pawn_Possessives] [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> Saat mencoba untuk melecehkan</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa alasan</li>
+    <li>SITUKSE_PHRASE-> Saat orang lain meringkuk dalam ketakutan</li>
+    <li>SITUKSE_PHRASE-> sebagai teman melarikan diri</li>
+    <li>keadaan_phrase-> karena stres</li>
+    <li>keadaan_phrase-> sebagai langkah terakhir</li>
+    <li>desc_sentence-> [pawn_pronoun] gemetar dengan kemarahan yang tidak dapat diatur.</li>
+    <li>desc_sentence-> [Pawn_possessive] Gigi dipamerkan dalam geraman yang mematikan.</li>
+    <li>desc_sentence-> [Pawn_possessive] Mata adalah kumpulan kegilaan yang mati.</li>
+    <li>desc_sentence-> Spittle terbang dari mulut [pawn_possessive] sebagai [Pawn_possessive] berteriak dengan amarah yang gila.</li>
+    <li>desc_sentence-> [pawn_pronoun] telah kehilangan bagian dari pakaian [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_pronoun] meringis dalam kesengsaraan.</li>
+    <li>desc_sentence-> [Pawn_pronoun] tampaknya tersenyum gila-gilaan.</li>
+    <li>desc_sentence-> [Pawn_pronoun] digambarkan dengan wajah yang menggeram [hewan].</li>
+    <li>desc_sentence-> [hewan] S mengelilingi kepala [pawn_possessive].</li>
+    <li>desc_sentence-> [Pawn_pronoun] memiliki mata kilau yang membunuh di [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_possessive] Seluruh tubuh tampaknya gemetar dengan kebencian.</li>
+    <li>desc_sentence-> [Pawn_possessive] wajah diatur dalam tampilan twisted serenity.</li>
+    <li>desc_sentence-> satu air mata mengalir ke bawah [pawn_possessive].</li>-><MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] menjadi panik [Pawn_o_a]</li>
+    <li>Image-> [Pawn_namefulull] Mengalami kemarahan yang panik [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Memasuki keadaan kegilaan [kelompok keadaan]</li>
+    <li>Image-> [pawn_namefulr] mengejutkan ke depan dengan tatapan psikotik di wajahnya [soundance_group]</li>
+    <li>Keadaan_phrase-> saat mencoba menanggalkan pakaian</li>
+    <li>Keadaan_phrase-> rupanya tanpa alasan</li>
+    <li>Keadaan_phrase-> sementara yang lain melarikan diri dalam teror</li>
+    <li>SITUKSE_PHRASE-> Saat seorang teman melarikan diri</li>
+    <li>SITUKSE_PHRASE-> Karena stres</li>
+    <li>SITUCTance_Phrase-> tertawa secara maniatik</li>
+    <li>Desc_sentence-> [pawn_pronoun] gemetar dengan kemarahan yang tak terkalahkan.</li>
+    <li>Desc_sentence-> [Pawn_pronoun] menunjukkan giginya sebagai anjing yang agresif.</li>
+    <li>Desc_sentence-> mata Anda adalah sumur kegilaan.</li>
+    <li>Turun</li>
+    <li>Desc_sentence-> [pawn_pronoun] telah kehilangan sebagian pakaiannya.</li>
+    <li>Desc_sentence-> [pawn_pronoun] menertawakan kesengsaraannya.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tersenyum secara manual.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya memiliki wajah [animalIndef].</li>
+    <li>Desc_sentence-> [animal_plural] Caricaturescos secara simbolis mengelilingi kepala mereka.</li>
+    <li>Desc_sentence-> [Pawn_pronoun] memiliki pandangan pembunuh di matanya.</li>
+    <li>Desc_sentence-> Seluruh tubuh Anda tampaknya gemetar dengan kebencian.</li>
+    <li>Desc_sentence-> Wajah Anda memiliki ketenangan yang membingungkan.</li>
+    <li>Desc_sentence-> satu air mata jatuh di wajahnya.</li>
+  </MentalStateBerserk.rulePack.rulesStrings>
+  
+  <!-- EN: gave up -->
+  <MentalStateGaveUp.label>putus asa</MentalStateGaveUp.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menyerah dengan putus asa</li>
+    <li>Image-> [Pawn_namefull] Akhirnya menyerah di bawah stres [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] terisak</li>
+    <li>Image-> [Pawn_namefull] tersandung dengan ekspresi yang benar-benar rusak pada wajah [Pawn_Possessives] [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> Saat mencoba untuk melecehkan</li>
+    <li>SITUCTANCE_PHRASE-> tampaknya tanpa alasan</li>
+    <li>SITUKSE_PHRASE-> sebagai orang lain menawarkan simpati</li>
+    <li>SITUCTANCE_PHRASE-> Saat teman menangis</li>
+    <li>keadaan_phrase-> karena stres</li>
+    <li>keadaan_phrase-> sebagai langkah terakhir</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki air mata yang mengalir ke wajah [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_pronoun] tertawa di kedalaman depresi [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_namedef] terlihat ke atas, seolah-olah meminta bantuan dari atas.</li>
+    <li>desc_sentence-> [Pawn_pronoun] merobek-robek pakaian [Pawn_possessive] sendiri.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya sama sekali tidak menyadari apa yang ada di sekitar [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_pronoun] terlihat bahagia dan sedih pada saat yang sama.</li>
+    <li>desc_sentence-> [pawn_pronoun] memiliki noda di depan [Pawn_possessive].</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya telah kehilangan sepatu.</li>
+    <li>DESC_SENTENCE-> [Pawn_Possessive] Rambut benar-benar berkurang.</li>-><MentalStateGaveUp.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Dia terbawa oleh keputusasaan</li>
+    <li>Image-> [Pawn_namefulull] Akhirnya menyerah [Pawn_o_a] [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Llorando Inctrolablemente [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_nameful] mengejutkan dengan ekspresi yang dikalahkan di wajah [SounCTance_Group]</li>
+    <li>Keadaan_phrase-> saat mencoba menanggalkan pakaian</li>
+    <li>Keadaan_phrase-> rupanya tanpa alasan</li>
+    <li>Keadaan_phrase-> sementara yang lain menawarkan simpati</li>
+    <li>SITUKSE_PHRASE-> Saat teman dekat menangis</li>
+    <li>SITUKSE_PHRASE-> Karena stres</li>
+    <li>Keadaan_phrase-> sebagai langkah terakhir</li>
+    <li>Desc_sentence-> [pawn_pronoun] memiliki air mata jatuh di wajahnya.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tertawa dengan [pawn_o_a] yang menyedihkan.</li>
+    <li>Desc_sentence-> [pawn_namedef] sedang melihat ke arah langit, seolah-olah meminta bantuan.</li>
+    <li>Desc_sentence-> [pawn_pronoun] merobek pakaian.</li>
+    <li>Desc_sentence-> [Pawn_pronoun] Tampaknya benar-benar asing [Pawn_o_a] di sekitarnya.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampak senang dan sedih pada saat yang sama.</li>
+    <li>Desc_sentence-> [pawn_pronoun] dengan wajah kotor.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya telah kehilangan sepatu.</li>
+    <li>Desc_sentence-> dengan rambut yang benar-benar dicabut.</li>
+  </MentalStateGaveUp.rulePack.rulesStrings>
+  
+  <!-- EN: read a book -->
+  <ReadBook.label>Baca buku</ReadBook.label>
+  <!-- EN:
+    <li>tale_noun-> [pawn_namedef] finishing [thing_title]</li>
+    <li>Image-> [Pawn_namefull] Menutup [thing_title] untuk terakhir kalinya, senyum yang puas menghiasi wajah [Pawn_Possessive] [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] memutar halaman [thing_title], menyerap pengetahuan di dalam [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] Menempatkan [thing_title] kembali di rak, rasa prestasi memancar dari [Pawn_Objective] [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Duduk dalam kontemplasi yang tenang, merefleksikan kebenaran yang mendalam di dalam [thing_title] [SICKECANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> Saat bersantai di sudut baca favorit [Pawn_Possessives]</li>
+    <li>SICKCANCE_PHRASE-> dengan secangkir teh oleh sisi [Pawn_possessive]</li>
+    <li>SITUCTANCE_PHRASE-> di bawah cahaya lembut lampu baca</li>
+    <li>desc_sentence-> [pawn_namedef] dikelilingi oleh catatan [pawn_possessive] di [thing_title].</li>
+    <li>DESC_SENTENCE-> Mata [Pawn_namedef] berkilau dengan kebijaksanaan yang baru.</li>
+    <li>desc_sentence-> [pawn_namedef] selamanya diubah oleh ajaran [thing_title].</li>
+    <li>desc_sentence-> Ada perasaan bahwa beberapa rahasia belum ditemukan.</li>-><ReadBook.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] ha terminando [thing_title]</li>
+    <li>Image-> [Pawn_namefulull] Menutup [thing_title] untuk terakhir kalinya, dengan senyum kepuasan menghiasi wajahnya [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Melewati halaman [thing_title], menyerap pengetahuan di dalam [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Menempatkan [thing_title] lagi di rak, perasaan pencapaian yang memancar dari orangnya [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Duduk dalam kontemplasi sunyi, merefleksikan kebenaran [thing_title] [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> Sambil bersantai di sudut baca favoritnya</li>
+    <li>Keadaan_phrase-> dengan secangkir teh di sisinya</li>
+    <li>SITUCTANCE_PHRASE-> Di bawah cahaya lembut lampu baca</li>
+    <li>Desc_sentence-> [pawn_namedef] dikelilingi oleh catatannya di [thing_title].</li>
+    <li>Descent-> Mata [Pawn_Namedef] bersinar dengan kebijaksanaan yang baru diperoleh.</li>
+    <li>Desc_sentence-> [pawn_namedef] Apakah Marcad [Pawn_gender dibiarkan selamanya?atau: a] untuk ajaran [thing_title].</li>
+    <li>Desc_sentence-> Ada perasaan bahwa beberapa rahasia belum ditemukan.</li>
+  </ReadBook.rulePack.rulesStrings>
+  
+  <!-- EN: struck mineable -->
+  <StruckMineable.label>Penemuan mineral</StruckMineable.label>
+  <!-- EN:
+    <li>tale_noun-> [pawn_namedef] mencolok [thing_label]</li>
+    <li>Image-> [pawn_namefull] mencolok [thing_label] [soundance_group]</li>
+    <li>keadaan_phrase-> saat penambangan</li>
+    <li>SITUCTANCE_PHRASE-> Saat menggali</li>
+    <li>SITUCTANCE_PHRASE-> Saat tunneling</li>
+    <li>keadaan_phrase-> dengan pandangan kejutan</li>
+    <li>keadaan_phrase-> dengan ekspresi yang puas</li>
+    <li>desc_sentence-> [pawn_namedef] sedang menyeka [pawn_possessive] alis.</li>
+    <li>desc_sentence-> [pawn_namedef] melompat untuk sukacita.</li>
+    <li>desc_sentence-> [pawn_namedef] adalah teman yang tinggi.</li>
+    <li>desc_sentence-> [pawn_namedef] berteriak dengan kebahagiaan.</li>
+    <li>desc_sentence-> [pawn_namedef] tertawa tak terkendali.</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat dan kotor dari pekerjaan.</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat dan kotor dari pekerjaan.</li>-><StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun-> [pawn_namedef] encontró [thing_label]</li>
+    <li>Image-> [pawn_namefull] encontrando [thing_label] [soundance_group]</li>
+    <li>Keadaan_phrase-> saat milik saya</li>
+    <li>SITUCTANCE_PHRASE-> Sambil menggali</li>
+    <li>Keadaan_phrase-> saat terowongan</li>
+    <li>Keadaan_phrase-> dengan tampilan kejutan</li>
+    <li>SITUKSE_PHRASE-> dengan ekspresi yang puas</li>
+    <li>Desc_sentence-> [pawn_namedef] sedang membersihkan dahinya.</li>
+    <li>Desc_sentence-> [pawn_namedef] Brinca de Joy.</li>
+    <li>Desc_sentence-> [pawn_namedef] menyapa seorang teman.</li>
+    <li>Descent-> [Pawn_namedef] berteriak dengan kebahagiaan.</li>
+    <li>Desc_sentence-> [pawn_namedef] tertawa tak terkendali.</li>
+    <li>Desc_sentence-> [pawn_namedef] sangat berkeringat [pawn_o_a] untuk bekerja sangat banyak.</li>
+    <li>Desc_sentence-> [pawn_namedef] sangat suksal [pawn_o_a].</li>
+  </StruckMineable.rulePack.rulesStrings>
+  
+  <!-- EN: vomited -->
+  <Vomited.label>Muntah</Vomited.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] muntah</li>
+    <li>Image-> [Pawn_namefull] memuntahkan muntah ke tanah [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] tampak jijik saat ditutupi dengan muntah kering [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] berlipat ganda dan muntah ke lantai [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] di [Pawn_Possessives] lutut, muntah di lantai [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> Saat terlihat sedih</li>
+    <li>SITUCTANCE_PHRASE-> Dengan rasa malu yang luar biasa</li>
+    <li>keadaan_phrase-> seperti yang orang lain lihat</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya sama sekali tidak menyadari apa yang ada di sekitar [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_possessive] wajah itu sendiri tampaknya bengkak.</li>
+    <li>desc_sentence-> [pawn_pronoun] hampir tidak sadar, [Pawn_possessive] lolling keluar, meneteskan air liur.</li>
+    <li>desc_sentence-> [pawn_pronoun] kejang-kejang.</li>
+    <li>desc_sentence-> [pawn_pronoun] terlihat malu.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya mencoba untuk tertawa, terlepas dari situasinya.</li>
+    <li>desc_sentence-> [pawn_pronoun] terlihat hampir kempes, seolah-olah benar-benar dikosongkan oleh muntah yang intens.</li>
+    <li>desc_sentence-> [pawn_pronoun] dikelilingi oleh lingkaran cahaya yang ditampilkan secara artistik.</li>
+    <li>desc_sentence-> [hewan] sedang makan dari jejak muntah di latar belakang.</li>-><Vomited.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] muntah</li>
+    <li>Image-> [Pawn_namefulull] Muntah dengan keras di tanah [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Mengamati jijik [Pawn_o_a] Sebuah genangan air muntah di tanah [SITUMCANCE_GROUP]</li>
+    <li>Image-> [pawn_namefulull] ded [pawn_o_a] dari rasa sakit saat muntah [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulr] berlutut, muntah di tanah [kelompok keadaan]</li>
+    <li>Frasa keadaan-> dengan wajah nyeri</li>
+    <li>Keadaan_phrase-> dengan rasa malu yang luar biasa</li>
+    <li>Keadaan_phrase-> sementara yang lain mengamati</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya benar-benar asing [Pawn_o_a] untuk apa yang terjadi di sekitarnya.</li>
+    <li>Desc_sentence-> Wajah Anda tampak bengkak.</li>
+    <li>Desc_sentence-> [pawn_pronoun] hampir tidak sadar, dengan bahasa di luar.</li>
+    <li>Desc_sentence-> [pawn_pronoun] secara kasar dikejar.</li>
+    <li>desc_sentence-> [pawn_pronoun] parece avergonzad [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya mencoba tertawa, terlepas dari keadaan.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya hampir disinflad [pawn_o_a], seolah-olah dia telah mengosongkan begitu banyak untuk muntah.</li>
+    <li>Desc_sentence-> [pawn_pronoun] adalah rodead [pawn_o_a] dari lingkaran warna artistik dari mugre.</li>
+    <li>Desc_sentence-> seorang [hewan] mengamati dari jarak.</li>
+  </Vomited.rulePack.rulesStrings>
+  
+  <!-- EN: walked naked -->
+  <WalkedNaked.label>Berjalan tanpa pakaian</WalkedNaked.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] berjalan telanjang</li>
+    <li>Image-> [pawn_namefull] [nude_action] saat dalam keadaan alam [soundance_group]</li>
+    <li>Image-> [Pawn_Namefull] [nude_action] Dalam telanjang [Soundance_Group]</li>
+    <li>Image-> [pawn_namefull] [nude_action], telanjang, [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] [nude_action] tanpa pakaian di [Soundance_Group]</li>
+    <li>nude_action-> prancing</li>
+    <li>nude_action-> frolicking</li>
+    <li>nude_action-> gambolling</li>
+    <li>nude_action-> walking</li>
+    <li>nude_action-> Strutting [pawn_possessive] barang</li>
+    <li>nude_action-> sashaying</li>
+    <li>nude_action-> berjingkat</li>
+    <li>nude_action-> Promenading</li>
+    <li>nude_action-> survei area tersebut</li>
+    <li>keadaan_phrase-> dengan rasa tujuan</li>
+    <li>keadaan_phrase-> tanpa sedikit pun rasa malu</li>
+    <li>keadaan_phrase-> sementara yang lain melihat</li>
+    <li>SITUKSE_PHRASE-> tanpa alasan yang jelas</li>
+    <li>keadaan_phrase-> sementara hewan yang bingung terlihat</li>
+    <li>desc_sentence-> [pawn_namedef] tampak terangsang.</li>
+    <li>desc_sentence-> [pawn_namedef] ditutupi dengan kelembaban yang tidak dapat dijelaskan.</li>
+    <li>desc_sentence-> [pawn_namedef] terengah-engah tanpa alasan yang jelas.</li>
+    <li>desc_sentence-> [pawn_namedef] membelai semak.</li>-><WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun-> [Pawn_namedef] berjalan telanjang [pawn_o_a]</li>
+    <li>Image-> [pawn_namefull] [nude_action] de manera totalmente alami [keadaan_group]</li>
+    <li>Image-> [Pawn_namefulull] [nude_action] tanpa lebih dari sepatunya [Soundance_Group]</li>
+    <li>Image-> [pawn_namefull] [nude_action], desnud [pawn_o_a], [soundance_group]</li>
+    <li>Image-> [pawn_namefull] [nude_action] sin ninguna ropa [soundance_group]</li>
+    <li>nude_action-> jumping</li>
+    <li>nude_action-> menari</li>
+    <li>nude_action-> berjalan-jalan</li>
+    <li>nude_action-> jogging</li>
+    <li>Nude_accion-> membersihkan rumah Anda</li>
+    <li>nude_action-> melakukan tugas Anda</li>
+    <li>nude_action-> walking of tipitas</li>
+    <li>nude_action-> walking</li>
+    <li>nude_action-> Menjelajahi area tersebut</li>
+    <li>Keadaan_phrase-> dengan rasa tugas</li>
+    <li>Keadaan_phrase-> tanpa sedikit pun rasa malu</li>
+    <li>Keadaan_phrase-> sementara yang lain terlihat</li>
+    <li>Keadaan_phrase-> tanpa alasan yang jelas</li>
+    <li>SITUKSE_PHRASE-> sementara hewan yang bingung mengamati</li>
+    <li>Desc_sentence-> [pawn_namedef] tampak bersemangat [pawn_o_a].</li>
+    <li>Desentent-> [pawn_namedef] benar-benar sudad [pawn_o_a].</li>
+    <li>Desentent-> [pawn_namedef] tampaknya benar-benar ditinggikan [pawn_o_a].</li>
+    <li>Desc_sentence-> [pawn_namedef] berada di belakang semak yang berlokasi strategis.</li>
+  </WalkedNaked.rulePack.rulesStrings>
+  
+  <!-- EN: on fire -->
+  <WasOnFire.label>pembakaran</WasOnFire.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Catching Fire</li>
+    <li>Image-> [Pawn_namefull] dengan panik mengalahkan api yang melekat pada tubuh [Pawn_Possessives] [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Dielimisi dengan Api [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] berlutut, tangan di atas kepala, mencoba memadamkan api pada tubuh [Pawn_Possessives] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berguling di lantai saat membakar [SICKECANCE_GROUP]</li>
+    <li>keadaan_phrase-> sementara yang lain melihat</li>
+    <li>keadaan_phrase-> sementara hampir telanjang</li>
+    <li>SITUCTANCE_PHRASE-> dengan niat terfokus</li>
+    <li>DESC_SENTENCE-> [Pawn_Possessive] Daging tampak dikenakan.</li>
+    <li>DESC_SENTENCE-> [Pawn_Posesif] Mata lebar dengan panik.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya hampir tidak sadar;Mata [Pawn_Possessives] tidak bernyawa.</li>
+    <li>desc_sentence-> [Pawn_possessive] mulut terbuka karena [Pawn_pronoun] berteriak minta tolong.</li>
+    <li>desc_sentence-> The Flames akan menyelimuti kepala [Pawn_possessive].</li>
+    <li>desc_sentence-> lingkaran simbolik api mengelilingi wajah [Pawn_possesif].</li>
+    <li>desc_sentence-> [pawn_pronoun] tertawa gila.</li>
+    <li>desc_sentence-> [pawn_pronoun] tampaknya kehilangan [Pawn_objective] sendiri.</li>
+    <li>desc_sentence-> gumpalan asap meningkat [Pawn_objective].</li>
+    <li>desc_sentence-> [pawn_pronoun] diterjemahkan secara artistik dengan cara seperti mayat.</li>-><WasOnFire.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] terbakar</li>
+    <li>Image-> [Pawn_nameful] mencoba untuk mematikan api dengan panik di tubuh Anda [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Envuelt [pawn_o_a] en llamas [soundance_group]</li>
+    <li>Image-> [Pawn_nameful] berlutut, dengan tangan di kepala Anda mencoba mematikan api yang membungkus Anda [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulr] Bergulir di tanah sambil membakar [kelompok keadaan]</li>
+    <li>Keadaan_phrase-> sementara yang lain terlihat</li>
+    <li>Frasa keadaan-> benar-benar telanjang [pawn_o_a]</li>
+    <li>Keadaan_phrase-> dengan tekad yang luar biasa</li>
+    <li>Desc_sentence-> Daging Anda yang sangat Achicharrada.</li>
+    <li>Desc_sentence-> mata Anda benar-benar terbuka.</li>
+    <li>Desentencio-> [Pawn_pronoun] tampaknya hanya sadar.</li>
+    <li>Desc_sentence-> [pawn_pronoun] berteriak meminta bantuan.</li>
+    <li>Desc_sentence-> Flames akan mencapai kepala mereka.</li>
+    <li>Desc_sentence-> lingkaran api simbolis mengelilingi wajahnya.</li>
+    <li>desc_sentence->[PAWN_pronoun] se ríe maniáticamente.</li>
+    <li>Desc_sentence-> [pawn_pronoun] tampaknya mengembalikan loc [pawn_o_a].</li>
+    <li>Desc_sentence-> kolom asap naik ke langit dari tubuhnya.</li>
+    <li>Desc_sentence-> [pawn_pronoun] secara artistik diwakili dengan cara yang mayat.</li>
+  </WasOnFire.rulePack.rulesStrings>
+  
+</LanguageData>

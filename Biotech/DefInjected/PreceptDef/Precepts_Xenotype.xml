@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preferred -->
+  <PreferredXenotype.label>lebih disukai</PreferredXenotype.label>
+  <!-- EN: Believers consider this xenotype to hold a higher moral or spiritual status than others. They will be happy if their colony has only preferred xenotypes. However, having any preferred xenotypes means that all other xenotypes are considered disliked and believers will be unhappy living alongside them. -->
+  <PreferredXenotype.description>Orang percaya menganggap bahwa xenotype ini memiliki status moral atau spiritual yang lebih tinggi daripada yang lain.Mereka akan senang jika hanya ada xenotipe favorit di koloni mereka.Namun, memiliki beberapa xenotype yang disukai berarti bahwa semua xenotipe lainnya dianggap tidak menyenangkan dan orang percaya tidak akan bahagia jika mereka tinggal bersama mereka.</PreferredXenotype.description>
+  <!-- EN: Become a non-preferred xenotype -->
+  <PreferredXenotype.comps.0.description>Menjadi xenotype yang tidak disukai</PreferredXenotype.comps.0.description>
+  <!-- EN: Preferred xenotype -->
+  <PreferredXenotype.comps.1.thoughtStageDescriptions.0>Xenotype yang disukai</PreferredXenotype.comps.1.thoughtStageDescriptions.0>
+  <!-- EN: Disliked xenotype -->
+  <PreferredXenotype.comps.1.thoughtStageDescriptions.1>Xenotype</PreferredXenotype.comps.1.thoughtStageDescriptions.1>
+  <!-- EN: All preferred xenotypes -->
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.0>Semua xenotipe favorit</PreferredXenotype.comps.2.thoughtStageDescriptions.0>
+  <!-- EN: Some disliked xenotypes -->
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.1>Beberapa xenotipe yang tidak menyenangkan</PreferredXenotype.comps.2.thoughtStageDescriptions.1>
+  <!-- EN: Many disliked xenotypes -->
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.2>Banyak xenotipe yang tidak menyenangkan</PreferredXenotype.comps.2.thoughtStageDescriptions.2>
+  <!-- EN: Tons of disliked xenotypes -->
+  <PreferredXenotype.comps.2.thoughtStageDescriptions.3>Berton -ton xenotipe yang tidak menyenangkan</PreferredXenotype.comps.2.thoughtStageDescriptions.3>
+  
+</LanguageData>

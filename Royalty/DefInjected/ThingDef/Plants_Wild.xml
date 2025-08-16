@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chopped anima stump -->
+  <ChoppedStump_Anima.label>Potong -Sentuhan</ChoppedStump_Anima.label>
+  <!-- EN: A stump left behind after an anima tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Anima.description>Seorang pengacara setelah jatuhnya pohon jiwa.Tunggul dapat diekstraksi tetapi menghasilkan sedikit kayu.Jika Anda tinggal di luar ruangan, itu akan memburuk seiring waktu.</ChoppedStump_Anima.description>
+  
+  <!-- EN: anima grass -->
+  <Plant_GrassAnima.label>rumput jiwa</Plant_GrassAnima.label>
+  <!-- EN: A grass infused with luminous microorganisms. Tribal peoples find that anima grass grows around the base of an anima tree as they meditate. It seems to reflect some kind of strengthening of the tree's psychic power.\n\nOffworld scientists have tried to study the phenomenon, but the grass degenerates into normal plant matter when observed too closely.\n\nAnimals refuse eat anima grass. Tribal stories say this is done out of respect and fear. -->
+  <Plant_GrassAnima.description>Rumput mikroorganisme ringan yang diserahkan.Orang -orang dari suku -suku menemukan ramuan ini tumbuh di sekitar pangkal pohon jiwa sambil bermeditasi. Tampaknya menjaga beberapa jenis celah kekuatan psikis pohon.Kisah suku mengatakan ini terjadi karena rasa hormat dan ketakutan.</Plant_GrassAnima.description>
+  
+  <!-- EN: anima tree -->
+  <Plant_TreeAnima.label>Ánima pohon</Plant_TreeAnima.label>
+  <!-- EN: A rare tree with warm, skin-smooth bark and long iridescent leaves. Infused with bioluminescent micro-organisms, anima trees develop a unique form of psychic symbiosis with surrounding lifeforms, allowing them to grow in a wide variety of biomes.\n\nIf a person (psycaster or not) meditates near an anima tree, it will grow anima grass around its base. Once enough grass is grown, it becomes possible to carry out a psychic linking ritual with the tree and upgrade a person's psychic powers. Only tribal peoples know the secret of this ritual. Tribal psycasters are also able to draw psyfocus from anima trees while meditating to them.\n\nAnima trees' psychic properties are weakened if artificial structures are placed nearby. They refuse to be caged or studied, and must remain part of nature.\n\nMost tribes believe that anima trees are not simply trees, but are rather the physical extremities of a single world spirit. -->
+  <Plant_TreeAnima.description>Pohon aneh dengan korteks hangat dan halus untuk disentuh, dan daun -daun yang panjang.Dipicu dengan mikroorganisme bioluminescent, pohon -pohon jiwa mengembangkan bentuk simbiosis yang unik dengan cara -cara hidup yang mengelilinginya, mampu tumbuh dalam berbagai macam bioma.Ketika banyak rumput telah tumbuh, dimungkinkan untuk melakukan ritual tautan psikis dengan pohon dan meningkatkan kekuatan psikis seseorang.Hanya orang suku yang tahu rahasia ritual ini. Tribal psi-emisors juga bisa mendapatkan psifoca dari pohon-pohon ini yang bermeditasi di sebelah mereka.Pohon -pohon menolak untuk dikurung atau dipelajari, dan harus tetap sebagai bagian dari alam.</Plant_TreeAnima.description>
+  <!-- EN: About: Anima tree linking -->
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>Tentang: tautan ke pohon di dalam jiwa</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>
+  <!-- EN: The anima tree now has {0} anima grass around it. This is enough for a tribal person to begin their first linking ritual!\n\nThe linking ritual gives a level of psylink and the ability to use psychic powers. Upgrading to a higher level requires 20 grass.\n\nThe anima grass requirements for linking rituals to upgrade psycasters are:\n\n{1}\n\nNote: Only those with the nature focus type can meditate to or link with anima trees. You can see a person's focus types by looking at their info card with the 'i' button. -->
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>Pohon jiwa sekarang memiliki {0} herbal dari ánima di sekitarnya.Ini cukup bagi pemukim suku untuk merayakan ritual tautan pertamanya!Meningkatkan ke tingkat yang lebih tinggi membutuhkan lebih banyak herbal untuk setiap level.Anda dapat melihat jenis fokus seseorang di layar informasi Anda dengan tombol "I".</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>
+  <!-- EN: The anima tree has died and emitted a disturbing psychic scream. -->
+  <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>Pohon jiwa telah mati, dan telah mengeluarkan lolongan psikis yang mengganggu.</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <!-- EN: smashed anima stump -->
+  <SmashedStump_Anima.label>Animasi yang rusak</SmashedStump_Anima.label>
+  <!-- EN: The remnants of an anima tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Anima.description>Sisa -sisa pohon jiwa yang hancur.Itu jelek.Tunggul dapat diekstraksi tetapi menghasilkan sedikit kayu.Jika Anda tinggal di luar ruangan, itu akan memburuk seiring waktu.</SmashedStump_Anima.description>
+  
+</LanguageData>

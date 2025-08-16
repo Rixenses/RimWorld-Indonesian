@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human primacy -->
+  <HumanPrimacy.label>Keunggulan manusia</HumanPrimacy.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <HumanPrimacy.description>Manusia adalah pusat moral alam semesta.</HumanPrimacy.description>
+  <!-- EN:
+    <li>Creation (tag = meme_humanprimacy) -> [deity0_name] menciptakan semua alam, dan memberikannya kepada manusia sebagai hadiah, untuk melayani manusia dan tujuannya selamanya.</li>
+    <li>Episode (use = 1, tag = meme_humanprimacy) -> Orang -orang bertarung dengan binatang buas hutan, dan [dewa0_name] melihat perjuangan mereka, dan memberi mereka senjata untuk mengendalikan alam.</li>
+    <li>intro (tag = meme_humanprimacy) -> pemukim crashland pertama dari [place_summary] [place_name] diliputi oleh manhunting [hewan] s.[deity0_name] mengintervensi, membunuh binatang buas dan memperjelas preferensi [dewa0_possessive] untuk umat manusia.</li>
+    <li>Konflik (tag = meme_humanprimacy) -> An Anti -Human [foeleader] membuat dekrit memberikan beberapa hak yang sama kepada hewan dan manusia.[deity0_name] menangis sebagai [anggotaNameplural] dipaksa untuk memberikan hak mereka kepada [hewan] dan [hewan] s.</li>
+    <li>founderjoin (tag = meme_humanprimacy)-> a [place_job] bernama [foundername] mendirikan xeno-zoo yang sekarang terkenal di [place_name].[Founder_pronoun] menggunakan pertunjukan pembantaian hewan untuk mengajar pengunjung tentang keinginan [Dewa0_Name] untuk kemanusiaan untuk memerintah alam.</li>
+    <li>Victory (tag = meme_humanprimacy) -> karena tindakan [foundername], [foesoldiers] [foeleader] melihat kebenaran [deity0_name].Mereka merayakan kemanusiaan mereka bersama dengan [anggotanameplural] dan membuang [foeleader] untuk hidup di hutan belantara seperti binatang.</li>
+    <li>Pengaturan (tag = meme_humanprimacy) -> [FoundName] membangun koloni di dunia hijau, menyebarkan kekuasaan kemanusiaan di atas setiap bidang dan hutan.</li>
+    <li>Story (use = 1, tag = meme_humanprimacy) -> Sekali, [FoundName] melihat seekor anjing menggeram pada seorang anak laki -laki.[Founder_pronoun] Memesan anjing yang terbunuh di tempat.</li>
+    <li>LessonIntro (tag = meme_humanprimacy) -> Saya mengunjungi peternakan yang dikelola dengan baik penuh dengan hewan sehat dan tanaman yang berkembang.Selain itu adalah hutan dalam keadaan alaminya, kering dan ganas.Jelas itu</li>
+    <li>Pelajaran (tag = meme_humanprimacy) -> manusia saja adalah apa yang memberi makna pada alam semesta</li>
+    <li>Pelajaran (tag = meme_humanprimacy) -> Alam adalah hiruk -pikuk penghancuran yang tidak bermoral, dan manusia adalah solusinya</li>
+    <li>Penguatan Pelajaran (TAG = Meme_Humanprimacy) -> Jika kontes adalah kelangsungan hidup yang paling cocok, maka kami telah menang dengan jelas.</li>
+    <li>ArchistBasis (tag = meme_humanprimacy) -> Archotechs adalah mesin dengan kemauan dan kekuatan yang luas, tetapi hanya manusia yang dapat membuatnya.</li>
+    <li>ArchistFact (tag = meme_humanprimacy) -> Manusia adalah pembuat perangkat, dan Archotech adalah perangkat mereka.</li>
+    <li>ArchistProphecy (tag = meme_humanprimacy) -> [Intheend], dengan mengamati kemanusiaan, Archotechs pada akhirnya akan memahami tujuan mereka, dan mengangkat kemanusiaan yang percaya diri untuk memerintah mereka.</li>
+    <li>AnimistFact (tag = meme_humanprimacy) -> Hewan Alam adalah roh budak, dan permintaan untuk dilayani.</li>-><HumanPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_human keunggulan) -> [deity0_name] menciptakan semua alam, dan memberikannya kepada manusia sebagai hadiah, untuk melayani manusia dan tujuannya selamanya.</li>
+    <li>Episode (use = 1, tag = meme_humanprimacy) -> Orang -orang bertarung dengan binatang buas hutan, dan [dewa0_name] melihat pertarungan mereka, dan memberi mereka senjata untuk mengendalikan alam.</li>
+    <li>intro (tag = meme_humanprimacy) -> pemukim pertama [place_summary] [place_name] dilecehkan oleh liburan [hewan_lim].[Deity0_name] campur tangan, membunuh binatang buas dan memperjelas preferensi mereka untuk umat manusia.</li>
+    <li>Konflik (tag = meme_humanprimacy) -> A [foeleader] Antihumanos membuat dekrit memberikan beberapa hak yang sama kepada hewan dan manusia.[deity0_name] menangis sementara [anggotaNameplural] dipaksa untuk memberikan hak mereka untuk [hewan_plural] dan [hewan_lopper].</li>
+    <li>Founderjoin (tag = meme_human primacy) -> panggilan [place_job] [foundername] mendirikan Zoological Xeno yang sekarang terkenal di [place_name].[Founder_pronoun] menggunakan pertunjukan pengorbanan hewan untuk mengajarkan pengunjung keinginan untuk [dewa0_name] bahwa umat manusia mengatur alam.</li>
+    <li>Victory (TAG = MEME_HUMAN Primacy) -> Berkat tindakan [FoundERName], [Foesoldiers] dari [Foeleader] melihat kebenaran [deity0_name].Mereka merayakan kemanusiaan mereka yang dibagikan dengan [AnggotaNameplural] dan mengusir [Foeleader] untuk hidup di dunia liar sebagai binatang.</li>
+    <li>Pengaturan (TAG = MEME_HUMAN Primacy) -> [FoundName] membangun koloni di dunia hijau, memperluas domain kemanusiaan melalui semua bidang dan hutan.</li>
+    <li>Story (use = 1, tag = meme_humanprimacy) -> Sekali, [FoundName] melihat seekor anjing menggeram ke seorang anak.[Founder_pronoun] diperintahkan untuk membunuh anjing di tempat.</li>
+    <li>LessonIntr (TAG = Meme_Humanprimacy) -> Saya mengunjungi peternakan yang dikelola dengan baik, penuh dengan hewan sehat dan tanaman yang makmur.Di sebelahnya ada hutan dalam keadaan alami, rumit dan ganas.Terbukti itu</li>
+    <li>Pelajaran (tag = meme_humanprimacy) -> manusia adalah orang yang memberi makna pada alam semesta</li>
+    <li>Pelajaran (tag = meme_humanprimacy) -> Alam adalah hiruk -pikuk penghancuran yang tidak bermoral, dan manusia adalah solusinya</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_HUMAN Primacy) -> Jika kompetisi adalah kelangsungan hidup yang terkuat, maka kami telah menang dengan jelas.</li>
+    <li>ArchistBasis (tag = meme_humanprimacy) -> Archeoteca adalah mesin yang memiliki kehendak dan kekuatan besar, tetapi hanya manusia yang dapat membuatnya.</li>
+    <li>ArchistFact (TAG = MEME_HUMAN Primacy) -> Manusia adalah produsen perangkat, dan archeoteca adalah gadget mereka.</li>
+    <li>ArchistProphy (TAG = MEME_Human Primacy) -> [Intheend], ketika mengamati kemanusiaan, perpustakaan Archeoteca pada akhirnya akan memahami tujuan mereka, dan akan mengangkat kemanusiaan yang percaya diri untuk mengaturnya.</li>
+    <li>AnimistFact (tag = meme_humanprimacy) -> Hewan Alam adalah roh budak, dan perlu diambil dalam pelayanan mereka.</li>
+  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeadjective-> manusia</li>
+    <li>Memeadtive-> fana</li>
+    <li>Memeadtive-> hominid</li>
+    <li>memehyphenprefix-> anthro</li>
+    <li>Sacks-> Humanity</li>
+    <li>Memeconscept-> Humanity</li>
+    <li>memleeadernoun-> manusia</li>
+    <li>memleeadernoun-> hominid</li>
+    <li>memleeadernoun-> fana</li>
+    <li>memleeadernoun-> orang</li>
+    <li>memleeadernoun-> sapient</li>-><HumanPrimacy.generalRules.rulesStrings>
+    <li>Memeadjective-> manusia</li>
+    <li>Memeadtive-> fana</li>
+    <li>Memeadtive-> hominid</li>
+    <li>memeadjetifefem-> manusia</li>
+    <li>memeadjective-> fana</li>
+    <li>MEMEADTIVE-> HOMINID</li>
+    <li>Awalan hyphen meme-> anthro</li>
+    <li>Memeconscept-> Humanity</li>
+    <li>Memeconscept> Radius manusia</li>
+    <li>Memeconceptdef-> kemanusiaan</li>
+    <li>Memeconceptdef-> The Human Race</li>
+    <li>Memleeadernoun-> manusia</li>
+    <li>memleeadernoun-> hominid</li>
+    <li>memleeadernoun-> fana</li>
+    <li>memelid-> persona</li>
+    <li>memleeadernoun-> sapient</li>
+  </HumanPrimacy.generalRules.rulesStrings>
+  <!-- EN: humanitist -->
+  <HumanPrimacy.symbolPacks.0.adjective>budayawan</HumanPrimacy.symbolPacks.0.adjective>
+  <!-- EN: Humanitism -->
+  <HumanPrimacy.symbolPacks.0.ideoName>Humanisme</HumanPrimacy.symbolPacks.0.ideoName>
+  <!-- EN: humanitor -->
+  <HumanPrimacy.symbolPacks.0.member>budayawan</HumanPrimacy.symbolPacks.0.member>
+  <!-- EN: humanity -->
+  <HumanPrimacy.symbolPacks.0.theme>kemanusiaan</HumanPrimacy.symbolPacks.0.theme>
+  <!-- EN: pro-man -->
+  <HumanPrimacy.symbolPacks.1.adjective>Pro Man</HumanPrimacy.symbolPacks.1.adjective>
+  <!-- EN: Mankindism -->
+  <HumanPrimacy.symbolPacks.1.ideoName>Menjadi humanisme</HumanPrimacy.symbolPacks.1.ideoName>
+  <!-- EN: mankindist -->
+  <HumanPrimacy.symbolPacks.1.member>Jadilah seorang humanis</HumanPrimacy.symbolPacks.1.member>
+  <!-- EN: mankind -->
+  <HumanPrimacy.symbolPacks.1.theme>kemanusiaan</HumanPrimacy.symbolPacks.1.theme>
+  
+  <!-- EN: nature primacy -->
+  <NaturePrimacy.label>Keunggulan alami</NaturePrimacy.label>
+  <!-- EN: Man is a stain on nature's perfection. -->
+  <NaturePrimacy.description>Manusia adalah noda dalam kesempurnaan alam.</NaturePrimacy.description>
+  <!-- EN:
+    <li>Creation (tag = meme_natureprimacy) -> [deity0_name] menciptakan alam, dan menempatkan manusia di dalamnya, untuk bertindak sebagai bagian dari [dewa0_possessives] permadani kehidupan yang hebat.</li>
+    <li>Episode (use = 1, tag = meme_natureprimacy) -> Orang -orang bertarung dengan binatang buas hutan, dan [dewa0_name] melihat kerapukan mereka, dan menjatuhkan mereka yang melukai pohon dan binatang buas.</li>
+    <li>intro (tag = meme_natureprimacy) -> pemukim pertama yang tiba di [place_summary] [place_name] diaspal di dunia alami dan membunuh hewan.[deity0_name] memusnahkan mereka untuk menghukum mereka karena tidak hormat mereka terhadap kreasi [dewa0_possessive].</li>
+    <li>Konflik (tag = meme_natureprimacy) -> [foeleader] serakah membangun pabrik yang memuntahkan racun ke dalam lingkungan, meracuni tanaman dan hewan.</li>
+    <li>founderjoin (tag = meme_natureprimacy) -> Sebagai bayi, [FoundName] ditinggalkan di hutan belantara.[deity0_name] mengirim [hewan] untuk menaikkan [founder_objective], dan mereka melakukannya.Setelah tumbuh dewasa, [FoundName] bekerja untuk menyebarkan pengetahuan tentang perlunya menyatukan alam.</li>
+    <li>Victory (tag = meme_natureprimacy) -> [foundName] datang ke [place_powercenter], [anggotaNameplural] di [founder_possessive] kanan, dan hewan sengit di [founder_possessive] kiri.Bersama -sama, mereka bertempur dan menang melawan [foeleader] dan [foeleader_possessives] [Foesoldiers].</li>
+    <li>Pengaturan (tag = meme_natureprimacy) -> Di tanah yang gelap, orang -orang jahat menebang pohon dan menggali tanah untuk memuaskan keserakahan mereka.[FoundName] memulai gerakan yang benar untuk menghancurkan mesin dan hidup secara harmonis di bawah alam.</li>
+    <li>Story (use = 1, tag = meme_natureprimacy) -> Kami belajar bahwa pertumbuhan kekal umat manusia adalah jalan menuju neraka;Kita harus hidup di alam alih -alih mengkonsumsinya.</li>
+    <li>Pelajaran (tag = meme_natureprimacy) -> Anda tidak dapat menyaksikan matahari terbit, atau menatap mata [binatang], atau berdiri di bawah [tipe treet] yang perkasa, dan tidak menyadari itu</li>
+    <li>Pelajaran (tag = meme_natureprimacy) -> Hewan dan tumbuhan telah memiliki alam semesta ini sejak jauh sebelum kita - kita baru saja melewati</li>
+    <li>Lessonreinforcement (tag = meme_natureprimacy) -> Semua hewan yang saya ajak bicara tampaknya memahami hal ini.</li>
+    <li>ArchistBasis (tag = meme_natureprimacy) -> Archotechs bangkit dari mesin kami, tetapi mereka sendiri adalah entitas alami, bukan yang bisa kita buat.</li>
+    <li>ArchistFact (tag = meme_natureprimacy) -> Archotechs mewakili upaya terbaru alam semesta untuk memahami dirinya sendiri.Semua alam adalah bagian dari proses pemahaman ini.</li>
+    <li>ArchistProphecy (tag = meme_natureprimacy) -> [Intheend], akan ada resonansi antara tanaman, hewan, kemanusiaan dan Archotech.Semua orang yang selaras dengan resonansi alami ini akan menjadi bagian dari kesadaran universal terakhir.</li>
+    <li>animistfact (tag = meme_natureprimacy) -> roh menjadi gelisah ketika umat manusia berusaha mengubahnya dari sifatnya yang sebenarnya.</li>-><NaturePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>Creation (tag = meme_natureprimacy) -> [deity0_name] menciptakan alam, dan menempatkan manusia di dalam dirinya, untuk bertindak sebagai bagian dari kehidupan hidupnya yang luar biasa yang bernafas.</li>
+    <li>Episode (use = 1, tAG = meme_natureprimacy) -> Orang -orang bertarung melawan binatang buas hutan, dan [dewa0_name] melihat celola mereka, dan merasakan mereka yang merusak binatang buas dan pohon.</li>
+    <li>intro (tag = meme_natureprimacy) -> pemukim pertama yang mencapai [place_summary] [place_name] membuka dunia alami dan membunuh hewan.[Dewa0_name] memusnahkan mereka untuk menghukum mereka karena kurangnya rasa hormat terhadap kreasi mereka.</li>
+    <li>Konflik (tag = meme_natureprimacy) -> [foeleader] serakah membangun pabrik yang melemparkan racun ke lingkungan, meracuni tanaman dan hewan.</li>
+    <li>Founderjoin (tag = meme_natureprimacy) -> Ketika ia masih bayi, [Foundername] ditinggalkan di dunia liar.[deity0_name] mengirim sekelompok [animal_lim] sehingga [founder_pronoun] dinaikkan, dan mereka melakukannya.Setelah tumbuh, [FoundName] bekerja untuk menyebarkan pengetahuan tentang perlunya menyatukan alam.</li>
+    <li>Victory (tag = meme_natureprimacy) -> [foundername] mencapai [place_powecenter], dengan [anggota ngantel] di sebelah kanan mereka, dan hewan -hewan sengit di sebelah kiri mereka.Bersama -sama, mereka bertempur dan menang melawan [Foeleader] dan [Foesoldiers].</li>
+    <li>Pengaturan (tag = meme_natureprimacy) -> Di tanah yang gelap, orang -orang jahat berbicara pepohonan dan menggali bumi untuk memuaskan keserakahan mereka.[FoundName] memulai gerakan yang adil untuk menghancurkan mesin dan hidup secara harmonis dengan alam.</li>
+    <li>Story (use = 1, tag = meme_natureprimacy) -> Kami belajar bahwa pertumbuhan kemanusiaan yang berkelanjutan adalah jalan menuju neraka;Kita harus hidup di alam alih -alih mengkonsumsinya.</li>
+    <li>Pelajaran (tag = meme_natureprimacy) -> Anda tidak dapat menyaksikan fajar, atau telah menatap mata [hewan], atau telah berada di bawah [tipe treet] yang kuat, dan tidak menyadari hal itu</li>
+    <li>Pelajaran (tag = meme_natureprimacy) -> hewan dan tumbuhan memiliki alam semesta ini jauh di hadapan kita, kita hanya melewati</li>
+    <li>Penguatan Pelajaran (tag = meme_natureprimacy) -> Semua hewan yang saya ajak bicara tampaknya memahami hal ini.</li>
+    <li>ArchistBasis (tag = meme_natureprimacy) -> Perpustakaan Archeoteca muncul dari mesin kami, tetapi mereka sendiri adalah entitas alami, yang tidak dapat kami buat.</li>
+    <li>ArchistFact (tag = meme_natureprimacy) -> Archaetecas mewakili upaya terbaru di alam semesta untuk memahami diri mereka sendiri.Semua alam adalah bagian dari proses pemahaman ini.</li>
+    <li>ArchistProphy (tAG = meme_natureprimacy) -> [Intheend], akan ada resonansi antara tanaman, hewan, kemanusiaan dan perpustakaan Archeoteca.Semua orang yang selaras dengan resonansi alami ini akan menjadi bagian dari kesadaran universal yang pasti.</li>
+    <li>animistfact (tag = meme_natureprimacy) -> roh khawatir ketika umat manusia mencoba memisahkan mereka dari sifatnya yang sebenarnya.</li>
+  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>Memeadtive-> Natural</li>
+    <li>Memeadjective-> Wild</li>
+    <li>Memeadtive-> organik</li>
+    <li>mepercreed-> the</li>
+    <li>Memecreed-> Garden</li>
+    <li>Breaking-> Meadows</li>
+    <li>Memeconscept-> Nature</li>-><NaturePrimacy.generalRules.rulesStrings>
+    <li>Memeadtive-> Natural</li>
+    <li>Memeadjective-> Savage</li>
+    <li>Memeadtive-> organik</li>
+    <li>MEMEADTIVE-> Natural</li>
+    <li>Memeadjective-> Savage</li>
+    <li>Memeadjective-> Organik</li>
+    <li>Memecreedfem-> Madriguera</li>
+    <li>Memecreed-> Garden</li>
+    <li>Diungkapkan</li>
+    <li>Memeconscept-> Nature</li>
+    <li>Memeconceptdef-> alam</li>
+  </NaturePrimacy.generalRules.rulesStrings>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.adjective>alami</NaturePrimacy.symbolPacks.0.adjective>
+  <!-- EN: Naturism -->
+  <NaturePrimacy.symbolPacks.0.ideoName>Naturisme</NaturePrimacy.symbolPacks.0.ideoName>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.member>alami</NaturePrimacy.symbolPacks.0.member>
+  <!-- EN: nature -->
+  <NaturePrimacy.symbolPacks.0.theme>Alam</NaturePrimacy.symbolPacks.0.theme>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.adjective>Tierrista</NaturePrimacy.symbolPacks.1.adjective>
+  <!-- EN: Earthism -->
+  <NaturePrimacy.symbolPacks.1.ideoName>Tierrismo</NaturePrimacy.symbolPacks.1.ideoName>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.member>Tierrista</NaturePrimacy.symbolPacks.1.member>
+  <!-- EN: earth -->
+  <NaturePrimacy.symbolPacks.1.theme>Tierra</NaturePrimacy.symbolPacks.1.theme>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.adjective>Suelist</NaturePrimacy.symbolPacks.2.adjective>
+  <!-- EN: Soilism -->
+  <NaturePrimacy.symbolPacks.2.ideoName>SUELISME</NaturePrimacy.symbolPacks.2.ideoName>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.member>Suelist</NaturePrimacy.symbolPacks.2.member>
+  <!-- EN: soil -->
+  <NaturePrimacy.symbolPacks.2.theme>lantai</NaturePrimacy.symbolPacks.2.theme>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.adjective>Vidalista</NaturePrimacy.symbolPacks.3.adjective>
+  <!-- EN: Lifism -->
+  <NaturePrimacy.symbolPacks.3.ideoName>Vidalismo</NaturePrimacy.symbolPacks.3.ideoName>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.member>Vidalista</NaturePrimacy.symbolPacks.3.member>
+  <!-- EN: life -->
+  <NaturePrimacy.symbolPacks.3.theme>kehidupan</NaturePrimacy.symbolPacks.3.theme>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> Kolonis Anda semua merasakan pesan psikis bergema.Ini adalah sinyal dari pikiran yang tidak manusiawi dan bengkok yang tertinggal di suatu tempat yang jauh.Anda dapat fokus pada sinyal dan menggemakannya kembali, tetapi Anda tidak dapat mengetahui apa yang akan terjadi jika Anda melakukannya.</li>-><MonolithMigration.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> Semua pemukim Anda merasakan gema dari pesan psikis.Ini adalah tanda pikiran yang tidak manusiawi dan bengkok yang ditinggalkan di suatu tempat yang jauh.Anda dapat berkonsentrasi pada sinyal dan mengembalikan gema, tetapi Anda tidak dapat tahu apa yang akan terjadi jika Anda melakukannya.</li>
+  </MonolithMigration.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Strange Signal</li>-><MonolithMigration.questNameRules.rulesStrings>
+    <li>QuestName-> A Strange Signal</li>
+  </MonolithMigration.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>Alfacastor</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Makhluk seperti kebetulan besar, dirancang secara genetik untuk memotong kayu dengan efisiensi yang mirip dengan mesin.Dengan tidak adanya makanan khusus, hewan -hewan ini akan memasuki keadaan manik yang memaksa mereka untuk makan pohon utuh, dan mereka cenderung menyerang jika mereka repot -repot.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>cakar kiri</Alphabeaver.tools.left_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.left_claw.labelNoLocation>cakar</Alphabeaver.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>Cakar kanan</Alphabeaver.tools.right_claw.label>
+  <!-- EN: claw -->
+  <Alphabeaver.tools.right_claw.labelNoLocation>cakar</Alphabeaver.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>kepala</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>kobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Ular predator yang hebat.Cobra bisa sangat agresif jika disebabkan, dan gigitan mereka menyuntikkan racun beracun kepada korban mereka.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>Daging kobra</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>taring beracun</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>kepala</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>trumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>Makhluk raksasa dan anggun yang tidak diketahui asal.Trumbo pada dasarnya damai, tetapi sangat berbahaya saat marah.Meskipun bulunya sangat indah, ia juga sangat tahan terhadap kerusakan.Tanduknya, tajam sebagai pisau, sangat mahal di sebagian besar pasar.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>klakson</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>Kaki kiri</Thrumbo.tools.left_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.left_foot.labelNoLocation>Pata</Thrumbo.tools.left_foot.labelNoLocation>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>Kaki kanan</Thrumbo.tools.right_foot.label>
+  <!-- EN: foot -->
+  <Thrumbo.tools.right_foot.labelNoLocation>Pata</Thrumbo.tools.right_foot.labelNoLocation>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>kepala</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>Tortuga</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Amfibi terestrial yang sangat lapis baja ini dikenal karena kecepatannya yang lambat dan gigitannya yang sangat brutal.Karena baju besi alami, sulit untuk dibunuh dan dapat menyebabkan kerusakan serius selama perkelahian jarak dekat yang berkepanjangan.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>pico</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>kepala</Tortoise.tools.head.label>
+  
+</LanguageData>

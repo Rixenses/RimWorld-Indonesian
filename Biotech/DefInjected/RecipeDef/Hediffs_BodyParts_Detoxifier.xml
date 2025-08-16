@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install detoxifier kidney -->
+  <InstallDetoxifierKidney.label>Pasang detoksifikasi ginjal</InstallDetoxifierKidney.label>
+  <!-- EN: Install a detoxifier kidney. -->
+  <InstallDetoxifierKidney.description>Pasang ginjal detoksifikasi.</InstallDetoxifierKidney.description>
+  <!-- EN: Installing detoxifier kidney. -->
+  <InstallDetoxifierKidney.jobString>Memasang ginjal detoksifikasi.</InstallDetoxifierKidney.jobString>
+  
+  <!-- EN: install detoxifier lung -->
+  <InstallDetoxifierLung.label>Pasang paru -paru detoksifikasi</InstallDetoxifierLung.label>
+  <!-- EN: Install a detoxifier lung. -->
+  <InstallDetoxifierLung.description>Pasang paru -paru detoksifikasi.</InstallDetoxifierLung.description>
+  <!-- EN: Installing detoxifier lung. -->
+  <InstallDetoxifierLung.jobString>Memasang paru -paru detoksifikasi.</InstallDetoxifierLung.jobString>
+  
+</LanguageData>

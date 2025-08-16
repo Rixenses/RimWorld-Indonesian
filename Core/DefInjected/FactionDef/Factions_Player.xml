@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>Pendatang baru</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Koloni alien yang baru tiba dari dunia lain.</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>pemimpin</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</PlayerColony.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>pemukim</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>pemukim</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>Suku baru</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>Sebuah suku kecil.</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>pemimpin</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{0} dari {1} menyerang {2} Anda.</PlayerTribe.messageDefendersAttacking>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>suku</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>suku</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

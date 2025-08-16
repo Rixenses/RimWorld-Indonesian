@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caravan ambush defeated -->
+  <CaravanAmbushDefeated.label>Karavan mengalahkan Ambush</CaravanAmbushDefeated.label>
+  <!-- EN:
+    <li>Tale_noun-> Pertahanan yang sukses dari karavan [Pawn_namedef]</li>
+    <li>Tale_noun-> [Pawn_namedef] karavan melawan penyergapan</li>
+    <li>Image-> [pawn_namefull] Mengorganisir resistensi sementara [Soundance_Group]</li>
+    <li>Image-> [Pawn_namefull] memegang [senjata] secara defensif saat [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Refaliating dengan [Pawn_Possessive] [senjata] sementara [SITUMCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berdiri setinggi bangunan saat [SITURCANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mengenakan ekspresi [AdjectiveBadass] saat [SITUCING_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Mengenakan ekspresi [AdjectiveAngSty] sementara [Soundation_Group]</li>
+    <li>SITUCTANCE_PHRASE-> menguatkan melawan gerombolan yang maju</li>
+    <li>SITUCTANCE_PHRASE-> Piringan gerbong</li>
+    <li>SITUCTANCE_PHRASE-> meraung dalam kemenangan</li>
+    <li>SITUCTANCE_PHRASE-> mengacungkan [senjata] s</li>
+    <li>SITUCTANCE_PHRASE-> Tercakup dalam [Gore]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] Sahabat, mengacungkan [senjata] s.</li>
+    <li>desc_sentence-> Kemajuan [musuh] yang besar, mengacungkan [senjata].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S Advance with a [AdjectiveBadass] tampilan di mata mereka.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] S Advance dengan [kata sifat] tampilan di mata mereka.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [hewani] S Advance dengan mata [warna] bersinar.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [hewan] S Advance, tercakup dalam [gore].</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>-><CaravanAmbushDefeated.rulePack.rulesStrings>
+    <li>Tale_noun-> karavan [Pawn_namedef] berhasil bertahan dengan sukses.</li>
+    <li>Tale_noun-> karavan [Pawn_namedef] bertempur melawan penyergapan.</li>
+    <li>Image-> [Pawn_namefulr] Mengorganisir Pertahanan, sementara [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] menggunakan [WeaponIndef] secara defensif saat [SITUMSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulr] berlawanan dengan [WeaponIndef] sementara [Soundation_Group]</li>
+    <li>Image-> [Pawn_namefulull] ingling setinggi sebuah bangunan, sedangkan [SITUMCANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] con semblante [adjectiveBadass], mientras [soundance_group]</li>
+    <li>Image-> [Pawn_namefull] Con Semblante [AdjectiveAngsty], Mientras [SICKECANCE_GROUP]</li>
+    <li>Keadaan_phrase-> bersiap melawan gerombolan yang berkembang</li>
+    <li>SITUKSE_PHRASE-> Berbalik dari gerobak</li>
+    <li>SITUCTANCE_PHRASE-> Grita ¡Victoria!</li>
+    <li>SITUCTANCE_PHRASE-> AGITA SUS [senjata]</li>
+    <li>SITUCTANCE_PHRASE-> dengan tubuh yang ditutupi dengan [gore_plural]</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] maju sementara [weaponcanypl] Blandes mereka.</li>
+    <li>Desc_sentence-> pasukan besar kemajuan [musuh], menggunakan [weaponcacanypl].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] avanzan con semblante [adjectivebadass].</li>
+    <li>Desentent-> [quantity_adjphrase] [musuh] con con con nounor [adjektiveangsty].</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] maju dengan cahaya [warna] di mata mereka.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_Plural] avanzan, cubiertos de [Gore_Plural].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_FemPlural] avanzan, cubiertas de [Gore_Plural].</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>descent-> [quantity_adjphrase] [job_plural] melarikan diri dari daerah tersebut.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] melarikan diri dari daerah tersebut.</li>
+  </CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <!-- EN: caravan assault successful -->
+  <CaravanAssaultSuccessful.label>Penyerangan karavan yang sukses</CaravanAssaultSuccessful.label>
+  <!-- EN:
+    <li>Tale_noun-> karavan [Pawn_namedef] mengalahkan benteng musuh</li>
+    <li>Image-> [Pawn_namefull] Berlari menuju [musuh], [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] memegang [senjata], [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] mengayunkan [senjata], [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Berdiri setinggi bangunan, [SICKECANCE_GROUP]</li>
+    <li>frasa keadaan-> mengenakan tampilan [kata sifat badass] di mata [pion posesif]</li>
+    <li>SITUCTANCE_PHRASE-> Mengenakan Eyes [AdjectiveAngsty]</li>
+    <li>SITUCTANCE_PHRASE-> meraung dalam kemenangan</li>
+    <li>SITUCTANCE_PHRASE-> Tercakup dalam [Gore]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] s cower dari serangan.</li>
+    <li>desc_sentence-> [kuantitas_adjphrase] [musuh] melarikan diri dari daerah tersebut.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] s terlihat terluka.</li>
+    <li>desc_sentence-> A [komunitas] terbakar di kejauhan.</li>
+    <li>desc_sentence-> A [komunitas] merokok di kejauhan.</li>
+    <li>desc_sentence-> tanah dilapisi di [gore].</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] melarikan area tersebut.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan melarikan diri dari daerah tersebut.</li>-><CaravanAssaultSuccessful.rulePack.rulesStrings>
+    <li>Tale_noun-> karavan [Pawn_namedef] mengalahkan situs musuh</li>
+    <li>Image-> [Pawn_namefulull] Berlari menuju [musuh], [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] empuñando [weaponcacindef], [soundance_group]</li>
+    <li>Image-> [pawn_namefull] Atacando con [weaponcacindef], [soundance_group]</li>
+    <li>Image-> [pawn_namefulr] irguing with pride, [soundance_group]</li>
+    <li>Frasa keadaan-> dengan ekspresi [kata sifat badss] di matanya</li>
+    <li>Frasa keadaan-> dengan ekspresi [sifat kata sifat] di matanya</li>
+    <li>Frasa keadaan-> Grita Victorious [Pawn_o_a]</li>
+    <li>SITUCTANCE_PHRASE-> dengan tubuh yang ditutupi dengan [gore_plural]</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] ditutupi dengan serangan itu.</li>
+    <li>Desentent-> [quantity_adjphrase] [musuh] S huyen del area.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] sukai.</li>
+    <li>Desc_sentence-> [communityIndef] membakar jarak.</li>
+    <li>Desc_sentence-> [communityIndef] jarak pelembab.</li>
+    <li>Desc_sentence-> Tanah ditutupi dengan [gore_plural].</li>
+    <li>Desentence-> [quantity_adjphrase] [personjob_plural] huyen del area.</li>
+    <li>Desentent-> [quantity_adjphrase] [animalAnypl] huyen del area.</li>
+  </CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <!-- EN: caravan fled -->
+  <CaravanFled.label>Carvana itu melarikan diri</CaravanFled.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] karavan bahaya melarikan diri</li>
+    <li>Tale_noun-> [Pawn_namedef] karavan yang lolos dari bahaya</li>
+    <li>Tale_noun-> [Pawn_namedef] karavan sempit lolos dari bahaya</li>
+    <li>Tale_noun-> karavan [Pawn_namedef] dikejar oleh musuh</li>
+    <li>Image-> [Pawn_namefull] Berlari dengan panik [SICKECANCE_GROUP]</li>
+    <li>Image-> [pawn_namefull] Sprinting [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Terselip di belakang [terrainfeature], bersembunyi [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] memasang retret pertempuran [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Dengan santai berjalan-jalan [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> sebagai [kuantitas_adjphrase] [musuh] S Chase</li>
+    <li>SITUCTANCE_PHRASE-> sementara [kuantitas_adjphrase] [musuh] pencarian</li>
+    <li>SITUCTANCE_PHRASE-> dari [quantity_adjphrase] [musuh] s</li>
+    <li>frasa keadaan-> dari [kuantitas frase adj] musuh [hewan</li>
+    <li>SITUCTANCE_PHRASE-> dari [ADIMTIVERIVERGE] [musuh]</li>
+    <li>desc_sentence-> [Pawn_namedef] pengejar adalah mengacungkan [senjata] s.</li>
+    <li>desc_sentence-> [Pawn_namedef] pengejar dilanggar dalam asap [warna].</li>
+    <li>desc_sentence-> [Pawn_namedef] Mengenakan ekspresi [AdjectiveAngsty].</li>
+    <li>desc_sentence-> [Pawn_namedef] pengejar adalah mengacungkan [senjata] s.</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat.</li>
+    <li>desc_sentence-> [pawn_namedef] terengah-engah.</li>-><CaravanFled.rulePack.rulesStrings>
+    <li>tale_noun-> karavan [pawn_namedef] melarikan diri dari bahaya</li>
+    <li>tale_noun-> karavan [Pawn_namedef] lolos dari bahaya</li>
+    <li>tale_noun-> karavan [Pawn_namedef] lolos dari bahaya yang sangat sedikit</li>
+    <li>tale_noun->La caravana de [PAWN_nameDef] era perseguida por los enemigos</li>
+    <li>Image-> [Pawn_namefulr] Berlari dengan panik [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] keluar dengan kaki [SITUCTANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Detrás de un [Terrainfeature], Oculto [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Di belakang [Terrainfeature_fem], tersembunyi [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Mempersiapkan penarikan dari Combat [SounSance_Group]</li>
+    <li>Image-> [Pawn_namefull] Pasaseando Casualmente [SICKECANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> sementara [quantity_adjprase] [musuh] mereka mengejarnya</li>
+    <li>SITUCTANCE_PHRASE-> sementara [quantity_adjprase] [musuh] S dicari</li>
+    <li>SITUCTANCE_PHRASE-> de [kuantitas_adjphrase] [musuh] s</li>
+    <li>SITUCTANCE_PHRASE-> de [kuantitas_adjphrase] [animalAnypl]</li>
+    <li>SITUCTANCE_PHRASE-> de un [ADIMTIVERArtArge] [musuh]</li>
+    <li>Desc_sentence-> Para penganiaya [Pawn_namedef] menggunakan [weaponcacanyindefpl] mereka.</li>
+    <li>Descent-> Para penganiaya [pawn_namedef] dibungkus dengan asap [warna].</li>
+    <li>Desc_sentence-> Penganiaya [Pawn_namedef] memiliki ekspresi [AdjectiveAngsty].</li>
+    <li>Desentencio-> [Pawn_namedef] berkeringat.</li>
+    <li>Desc_sentence-> [pawn_namedef] terengah-engah.</li>
+  </CaravanFled.rulePack.rulesStrings>
+  
+  <!-- EN: caravan formed -->
+  <CaravanFormed.label>karavan terbentuk</CaravanFormed.label>
+  <!-- EN:
+    <li>Tale_noun-> [pawn_namedef] berangkat untuk petualangan</li>
+    <li>Tale_noun-> [Pawn_namedef] membentuk karavan</li>
+    <li>Image-> [Pawn_Namefull] Maju Maju dengan sengaja [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Melihat ke arah cakrawala [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Persediaan pengemasan untuk perjalanan [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Merencanakan perjalanan [SICKACE_GROUP]</li>
+    <li>keadaan_phrase-> dan dilengkapi untuk bertarung</li>
+    <li>SITUCTANCE_PHRASE-> dan dilengkapi untuk bertahan hidup</li>
+    <li>SITUCTANCE_PHRASE-> dan dilengkapi untuk eksplorasi</li>
+    <li>SITUCTANCE_PHRASE-> Dengan tampilan yang bersemangat di [Pawn_Possessives] mata</li>
+    <li>SITUCTANCE_PHRASE-> dengan Eyes [AdjectiveANy]</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] S tonton persiapannya.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] membantu persiapan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [musuh] menyusut dari tempat kejadian.</li>
+    <li>desc_sentence-> [terrainfeature] terlihat di kejauhan.</li>
+    <li>desc_sentence-> [quantity_adjphrase] [personjob] arloji dari kejauhan.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan berkeliaran dengan damai.</li>-><CaravanFormed.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] Tersisa menuju petualangan</li>
+    <li>Tale_noun-> [Pawn_namedef] membentuk karavan</li>
+    <li>Image-> [pawn_namefulull] maju dengan lompatan dan batas [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Melihat ke arah cakrawala [SICKECANCE_GROUP]</li>
+    <li>Image-> [Pawn_namefulr] Pasokan mondar</li>
+    <li>Image-> [Pawn_namefulr] Merencanakan perjalanan [SICKECANCE_GROUP]</li>
+    <li>SICKCANCE_PHRASE-> DAN EQUIPD [Pawn_o_a] untuk pertarungan</li>
+    <li>SITUCTANCE_PHRASE-> DAN EQUICED [Pawn_o_a] untuk bertahan hidup</li>
+    <li>SICKCANCE_PHRASE-> DAN EQUIPD [Pawn_o_a] untuk eksplorasi</li>
+    <li>Keadaan_phrase-> dengan tampilan cemas</li>
+    <li>SICKTANCE_PHRASE-> dengan [AdjectiveAny] Lihatlah Mata [Pawn_Possesive]</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [sekutu] S monitor persiapan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [sekutu] membantu persiapan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [musuh] S pindah dari tempat kejadian.</li>
+    <li>Desc_sentence-> [TerrainfeatureIndefcac] terlihat di kejauhan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [job_plural] amati dari jarak jauh.</li>
+    <li>Desentencio-> [quantity_adjphrase] [animalAnypl] samar-samar dengan damai.</li>
+  </CaravanFormed.rulePack.rulesStrings>
+  
+  <!-- EN: caravan remote mining -->
+  <CaravanRemoteMining.label>karavan jarak jauh</CaravanRemoteMining.label>
+  <!-- EN:
+    <li>Tale_noun-> [Pawn_namedef] Menambah karavan yang kaya [material_label] di tanah asing</li>
+    <li>Image-> [Pawn_namefull] mengerjakan dinding [material_label] dengan alat pertambangan, [SounStance_Group]</li>
+    <li>Image-> [Pawn_namefull] Memegang sepotong [material_label], [SounITance_Group]</li>
+    <li>Image-> [pawn_namefull] Beristirahatlah di dinding [material_label], [Soumtance_Group]</li>
+    <li>Image-> [Pawn_namefull] Mengkoordinasikan tim penggalian melawan nada yang kaya [material_label], [SITUGNCE_GROUP]</li>
+    <li>Image-> [Pawn_namefull] Dengan hati-hati memeriksa nada yang kaya [Material_label], [SITUMCANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> Berkeringat berat</li>
+    <li>SITUCTANCE_PHRASE-> Mengenakan ekspresi [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> tersenyum bangga</li>
+    <li>SITUCTANCE_PHRASE-> Ekspresi yang puas pada wajah [Pawn_Possessive]</li>
+    <li>keadaan_phrase-> Melihat sekeliling dengan hati-hati untuk bahaya</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] s assist.</li>
+    <li>Kalimat Desc-> [Frase Adj Kuantitas] [Hewan mengembara di daerah tersebut.</li>
+    <li>desc_sentence-> Ada tempat berlindung darurat di latar belakang.</li>
+    <li>desc_sentence-> [quantity_adjphrase] vena lebih lanjut terlihat di kejauhan.</li>
+    <li>desc_sentence-> [terrainfeature] terlihat di kejauhan.</li>
+    <li>desc_sentence-> [pawn_namedef] berkeringat dan kotor dari pekerjaan.</li>-><CaravanRemoteMining.rulePack.rulesStrings>
+    <li>Tale_noun-> [Pawn_namedef] menambang nada yang kaya [material_label] di tanah yang jauh</li>
+    <li>Image-> [pawn_namefulr] mengerjakan dinding [material_label] dengan alat pertambangan, [soundance_group]</li>
+    <li>Image-> [Pawn_namefulull] Memegang sepotong [bahan label], [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulull] Beristirahat di dinding [bahan label], [kelompok keadaan]</li>
+    <li>Image-> [Pawn_namefulull] Mengkoordinasikan tim penggalian untuk bekerja dalam nada yang kaya [material_label], [SICKACE_GROUP]</li>
+    <li>Image-> [Pawn_namefulull] Dengan hati-hati memeriksa nada yang kaya dari [Material_label], [SITUMCANCE_GROUP]</li>
+    <li>SITUKSE_PHRASE-> banyak berkeringat</li>
+    <li>SITUCTANCE_PHRASE-> dengan ekspresi [AdjectiveFriendly]</li>
+    <li>SITUCTANCE_PHRASE-> tersenyum bangga</li>
+    <li>SICKCANCE_PHRASE-> Dengan ekspresi kepuasan di wajah [Pawn_Possessive]</li>
+    <li>Frasa keadaan-> meninjau lingkungan untuk mencari bahaya</li>
+    <li>desc_sentence-> [quantity_adjphrase] [sekutu] S Ayudan.</li>
+    <li>Desc_sentence-> [quantity_adjphrase] [animalAnypl] tinggal di daerah tersebut.</li>
+    <li>Desc_sentence-> Ada tempat penampungan improvisasi di latar belakang.</li>
+    <li>Descent-> Lainnya [quantity_adjphrase] vena terlihat di kejauhan.</li>
+    <li>Desc_sentence-> [TerrainfeatureIndefcap] terlihat di kejauhan.</li>
+    <li>Desc_sentence-> [pawn_namedef] adalah supian [pawn_o_a] dan saci [pawn_o_a] untuk bekerja sangat banyak.</li>
+  </CaravanRemoteMining.rulePack.rulesStrings>
+  
+</LanguageData>

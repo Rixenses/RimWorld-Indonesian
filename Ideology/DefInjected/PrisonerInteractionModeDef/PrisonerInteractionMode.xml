@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: convert -->
+  <Convert.label>mengubah</Convert.label>
+  <!-- EN: Wardens will attempt to convert the prisoner to their ideoligion. -->
+  <Convert.description>Para penjaga akan mencoba mengubah tahanan menjadi ideolisasi mereka.</Convert.description>
+  
+  <!-- EN: enslave -->
+  <Enslave.label>memperbudak</Enslave.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
+  <Enslave.description>Para penjaga akan mengancam tahanan untuk mengurangi kehendaknya.Begitu mereka kehilangannya, penjaga akan memperbudak mereka.</Enslave.description>
+  
+  <!-- EN: reduce will only -->
+  <ReduceWill.label>Kurangi kemauan saja</ReduceWill.label>
+  <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
+  <ReduceWill.description>The Guardians akan mengancam tahanan untuk mengurangi kehendaknya, tetapi mereka tidak akan turun tahta.</ReduceWill.description>
+  
+</LanguageData>

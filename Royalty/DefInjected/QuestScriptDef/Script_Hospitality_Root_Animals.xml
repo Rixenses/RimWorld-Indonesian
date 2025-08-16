@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>Lodgerslabel-> [Lodgerspawnkind_label]</li>
+    <li>LodgersLabelplural-> [Lodgerspawnkind_labelplural]</li>-><Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
+    <li>Lodgerslabel-> [Lodgerspawnkind_label]</li>
+    <li>LodgersLabelplural-> [Lodgerspawnkind_labelplural]</li>
+  </Hospitality_Animals.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>AncromSinfomechclustersingleanimal-> Untuk alasan yang tidak diketahui, [LodgersLabel] telah ditargetkan oleh kawanan mekanoid yang mengorbit.</li>
+    <li>AncromSinfomechclustersmultianimal-> Untuk alasan yang tidak diketahui, [Lodgerslabelplural] telah ditargetkan oleh kawanan mekanoid yang mengorbit.</li>
+    <li>Ancromsinfomechraidssingleanimal-> Untuk alasan yang tidak diketahui, [Lodgerslabel] telah ditargetkan oleh sarang mekanoid.</li>
+    <li>Ancromsinfomechraidsmultianimal-> Untuk alasan yang tidak diketahui, [Lodgerslabelplural] telah ditargetkan oleh sarang mekanoid.</li>
+    <li>QuestDescription (askerisnull == true, lodgerscount == 1)-> Organisasi penyelamatan hewan ingin Anda mengurus [LodgersLabel] bernama [Lodgers0_Namedef] di [MAP_Definite] untuk [shuttledelayticks_duration].[HealthInfo] [AncromSinfo1] [Commondescending]</li>
+    <li>ancamaninfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n Aktivis penyelamat hewan mencuri [Lodgers0_Namedef] dari upacara pembantai yang dipegang oleh [musuh musuh.Sekarang [musuh musuh_pawnsplural] akan datang untuk membalas dendam.Jika Anda menerima [lodgers0_namedef], [musuh kelompok</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssingleanimal] [musuh grupsparagraph]]</li>
+    <li>ANTRIKSINFO1 (GenerAteTheats == Benar, Ancamantype == MechClusters)-> \ n \ n [AncromSinfomechClusterssingleanimal] [EnemyGroupSparagraph]</li>
+    <li>ancamaninfo1 (generateTheats == false)-></li>
+    <li>QuestDescription (askerisnull == Benar, Lodgerscount> = 2)-> Organisasi Penyelamatan Hewan ingin Anda mengurus [Lodgerscount] [LodgersLabelplural] di [MAP_DEFINITE] untuk [shuttledelayticks_duration].[HealthInfo] [AncromSinfo2] [Commondescending]</li>
+    <li>Korban-> Anak</li>
+    <li>Korban-> Wanita</li>
+    <li>Korban-> Man</li>
+    <li>Korban-> [Personjob]</li>
+    <li>Korban (generatetheats == Benar, ancamantype == RAIDS)-> Teman [musuh .faction_leaderTitle] dari [musuh</li>
+    <li>ancamaninfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, ini [lodgerslabelplural] baru-baru ini terlibat dalam kematian [korban].Sekarang, [musuh musuh_pawnsplural] dari [musuh.Jika Anda menerima [LodgersLabelplural], [musuh kelompok</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidsmultianimal] [musuh sedang</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>ancamaninfo2 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount == 1, prioritas = 1)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name] sedang mencari penyelesaian yang aman untuk merawat [asker_possessesif] PET [lodgerslabel] [lodgerslabel] [lodger] untuk menangani [asker_possessesif] PET [lodgerslabel] [lodgerslabel] [LODGER0 FORMER0[Shuttledelayticks_duration].[HealthInfo] [AncromSinfo3] [Commondescending]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n [musuh.Jika Anda menerima [lodgers0_namedef], [musuh kelompok</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssingleanimal] [musuh grupparagraph]]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssingleanimal] [musuh grupparagraph]]</li>
+    <li>Ancamaninfo3 (generattrealats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount> = 2, prioritas = 1)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], membuat permintaan.[asker_pronoun] ingin Anda mengurus [Lodgerscount] [LodgersLabelplural] di [MAP_DEFINITE] untuk [shuttledelayticks_duration].[HealthInfo] [AncromSinfo4] [Commondescending]</li>
+    <li>ancamaninfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ nThe [LodgersLabelplural] diperlukan untuk [asker_namedef] untuk memenuhi janji perdagangan yang penting.Untuk memancing konflik, [musuh musuh.Jika Anda menerima [LodgersLabelplural], [musuh kelompok</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidsmultianimal] [musuh quasparagraph]]</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>AncromSinfo4 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount == 1, prioritas = 1)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], membuat permintaan.[asker_pronoun] ingin Anda mengurus hewan peliharaan favorit [asker_possessive], [LodgersLabel] [lodgers0_namedef], di [peta_definite] untuk [shuttledelayticks_duration].[HealthInfo] [AncromSinfo5] [Commondescending]</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ n [lodgers0_namedef] adalah hadiah yang dijanjikan untuk [asker_namedef] anak untuk upacara pernikahan.Untuk mencoba mencegah pernikahan, [musuh.Jika Anda menerima [lodgers0_namedef], [musuh kelompok</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidssingleanimal] [musuh grupparagraph]]</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssingleanimal] [musuh grupparagraph]]</li>
+    <li>ancamaninfo5 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount> = 2, prioritas = 1)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], membuat permintaan.[asker_pronoun] ingin Anda mengurus [Lodgerscount] [LodgersLabelplural] di [MAP_DEFINITE] untuk [shuttledelayticks_duration].[LodgersLabelplural] adalah hewan peliharaan favorit [Asker_Namedef], dan [Asker_pronoun] ingin mereka melihat dunia di luar Pengadilan Kerajaan [Asker_Possessive].[HealthInfo] [AncromSinfo6] [Commondescending]</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nunfort, [musuh musuh.Jika Anda menerima [LodgersLabelplural], [musuh kelompok</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidsmultianimal] [musuh q akanaragraf]]</li>
+    <li>ANTRIKSINFO6 (generateTheats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>AncromSinfo6 (generateTheats == false)-></li>
+    <li>Lettersubject (prioritas = 1)-> {subjek_definite} [LodgersLabel]</li>-><Hospitality_Animals.questDescriptionRules.rulesStrings>
+    <li>AncromSinfomechclustersingleanimal-> Untuk alasan yang tidak diketahui, [lodgerspawnkind_definite], itu adalah tujuan dari segerombolan mecanoid di orbit.</li>
+    <li>Ancromsinfomechclustersmultianimal-> Untuk alasan yang tidak diketahui, sekelompok [LodgeBelplural] adalah tujuan segerombolan mechanoides di orbit.</li>
+    <li>Ancromsinfomechraidssingleanimal-> Untuk alasan yang tidak diketahui, [Lodgerspawnkind_definite], itu adalah tujuan sarang mecanoid.</li>
+    <li>Ancromsinfomechraidsmultianimal-> Untuk alasan yang tidak diketahui, sekelompok [lodgerslabelplural] adalah tujuan sarang mecanoid.</li>
+    <li>QuestDescription (askerisnull == true, lodgerscount == 1)-> Organisasi kesejahteraan hewan ingin Anda merawat [Lodgerspawnkind_indefinite], bernama [Lodgers0_Namedef] di [MAP_DEFINITE] selama [shuttledelaayticks_duration].[HealthInfo] [AncromSinfo1] [Commandescending]</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ nlos aktivis kesejahteraan hewan dibawa ke [Lodgers0_namedef] sebelum hewan itu dikorbankan dalam upacara yang dipegang oleh faksi [musuh_ nama].Sekarang [musuh musuh_pawnsplural] ingin balas dendam.Jika Anda setuju untuk tetap dengan [lodgers0_namedef], [musuh grupsparagraph]</li>
+    <li>AncromSinfo1 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssingleanimal] [musuh grupsparagraph]]</li>
+    <li>ANTRIKSINFO1 (GenerAteTheats == Benar, Ancamantype == MechClusters)-> \ n \ n [AncromSinfomechClusterssingleanimal] [EnemyGroupSparagraph]</li>
+    <li>ancamaninfo1 (generateTheats == false)-></li>
+    <li>QuestDescription (askerisnull == Benar, Lodgerscount> = 2)-> Organisasi kesejahteraan hewan ingin Anda mengurus [Lodgerscount] [LodgersLabelplural] di [MAP_Definite] selama [Shuttledelayticks_Duration].[HealthInfo] [AncromSinfo2] [Commindescending]</li>
+    <li>Korban-> Seorang anak</li>
+    <li>Korban-> seorang gadis</li>
+    <li>Korban-> Seorang wanita</li>
+    <li>korban-> seorang pria</li>
+    <li>Korban -> [PersonIndef]</li>
+    <li>Korban (generatethread == true, ancamantype == RAIDS)-> memiliki persahabatan dengan [el_la] [musuh.</li>
+    <li>ANTRIKSINFO2 (generateTheats == Benar, ancaman == RAIDS, musuhfaction! = Mechanoid)-> \ n \ ndesafortunido, sekelompok [Lodgerslabelplural] baru-baru ini terlibat dalam kematian [korban].Sekarang hewan -hewan ini sedang diburu oleh [musuh ,_pawnsplural] dari faksi [musuh musuh] untuk melakukan ritual balas dendam pada mereka.Jika Anda setuju untuk menjaga kelompok [LodgersLabelplural], [musuh kelompok</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidsmultianimal] [musuh sedang</li>
+    <li>AncromSinfo2 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>ancamaninfo2 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount == 1, prioritas = 1)-> [asker_namefull], [asker_faction_leadertitle] de [asker_faction_name] está buscando un asentamiento seguro para cuida cuida sebuah sUscoteDo [piala piala suas cuida cuida cuida cuida cuida cuida cuida nsastami[lodgers0_namedef] durante [shuttledelayticks_duration].[HealthInfo] [AncromSinfo3] [Commondescending]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = mechanoid)-> \ n \ nlos [musuh .faction_pawnsplural] [asker_namedef].Jika Anda setuju untuk tetap dengan [lodgers0_namedef], [musuh grupsparagraph]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidssingleanimal] [musuh grupparagraph]]</li>
+    <li>AncromSinfo3 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssingleanimal] [musuh grupparagraph]]</li>
+    <li>Ancamaninfo3 (generattrealats == false)-></li>
+    <li>QuestDescription (asker_factionleader == true, lodgerscount> = 2, prioritas = 1)-> [asker_namefull], [asker_faction_leadertitle] de la facción [asker_faction_name] tiene una solicitud para ti.Quiere que cuides de [lodgerscount] [lodgerslabelplural] en [map_definite] durante [shuttledelayticks_duration].[HealthInfo] [AncromSinfo4] [Commondescending]</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ nla manada de [lodgerslabelplural] diminta oleh [asker_namedef] sebagai bagian dari perjanjian komersial penting.Untuk memulai konflik, faksi [musuh.Jika Anda menerima paket [LodgersLabelplural], [EnemyGroupsparagraph]</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidsmultianimal] [musuh quasparagraph]]</li>
+    <li>AncromSinfo4 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>AncromSinfo4 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount == 1, prioritas = 1)-> [asker_namefull], [asker_royaltitleincurrentfaction] de [asker_faction_name] tiene una coolicitud para ti.Quiere que cuides de su mascota favorita, [lodgerspawnkind_definite] [lodgers0_namedef] en [map_definite] durante [shuttledelayticks_duration].[HealthInfo] [AncromSinfo5] [Commondescending]</li>
+    <li>Ancamaninfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ n [lodgers0_namedef] adalah hadiah yang dijanjikan untuk primogenito Desember [asker_namedef] sebagai hadiah untuk upacara pernikahan.Untuk menghindari pernikahan, faksi [musuh.Jika Anda setuju untuk tetap dengan [lodgers0_namedef], [musuh grupsparagraph]</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [ancamaninfomechraidssingleanimal] [musuh grupparagraph]]</li>
+    <li>AncromSinfo5 (generateThreats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclusterssingleanimal] [musuh grupparagraph]]</li>
+    <li>ancamaninfo5 (generateTheats == false)-></li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, lodgerscount> = 2, prioritas = 1)-> [asker_namefulull], [asker_royaltitleincurrentfaction] dari faksi [asker_faction_name] memiliki permintaan untuk Anda.Dia ingin Anda merawat [LodgersCount] [LodgersLabelplural] di [MAP_Definite] selama [Shuttledelayticks_Duration].Kelompok [LodgersLabelplural] ini adalah hewan peliharaan favorit [asker_namedef], dan [asker_pronoun] ingin mereka melihat dunia di luar pengadilan kerajaan.[HealthInfo] [AncromSinfo6] [Commindescending]</li>
+    <li>Ancamaninfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction! = Mechanoid)-> \ n \ ndesAfortunoly, faksi [musuh] adalah berburu kelompok [lodgerslabelblural] untuk mencoba dirugikan secara pribadi [asker_nameameDef].Jika Anda setuju untuk menjaga kelompok [LodgersLabelplural] ini, [musuh kelompok</li>
+    <li>AncromSinfo6 (generateThreats == true, ancamantype == RAIDS, musuhfaction == mechanoid)-> \ n \ n [AncromSinfomechraidsmultianimal] [musuh q akanaragraf]]</li>
+    <li>ANTRIKSINFO6 (generateTheats == true, ancamantype == mechclusters)-> \ n \ n [ancamaninfomechclustersmultianimal] [musuh kelompokelparagraf]]</li>
+    <li>AncromSinfo6 (generateTheats == false)-></li>
+    <li>Lettersubject (prioritas = 1)-> {subjek_definite} [lodgerspawnkind_indefinite]</li>
+  </Hospitality_Animals.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (Lodgerscount == 1)-> [AnimalAdj] [LodgersLabel]</li>
+    <li>QuestName (Lodgerscount == 1)-> A [AnimalAdj] [LodgersLabel]</li>
+    <li>QuestName (Lodgerscount == 1)-> [AnimalAdj] [LodgersLabel]</li>
+    <li>QuestName (LodgersCount == 1)-> [LodgersLabel] -sitting</li>
+    <li>QuestName (LodgersCount == 1)-> Menyimpan [lodgers0_namedef]</li>
+    <li>QuestName (Lodgerscount == 1)-> miskin [LODGERS0_NAMEDEF]</li>
+    <li>QuestName (Lodgerscount> = 2)-> [AnimalAdj] [LodgersLabelplural]</li>
+    <li>QuestName (Lodgerscount> = 2)-> [AnimalAdj] [LodgersLabelplural]</li>
+    <li>QuestName (Lodgerscount> = 2)-> [AnimalAdj] [LodgersLabelplural]</li>
+    <li>QuestName (Lodgerscount> = 2)-> [LodgersLabel] -sitting</li>
+    <li>QuestName (LodgersCount == 2)-> Menyimpan [LodgersLabelplural]</li>
+    <li>animalAdj-> menggemaskan</li>
+    <li>animalAdj-> bermata doe</li>
+    <li>AnimalAdj-> Loyal</li>
+    <li>AnimalAdj-> Loving</li>
+    <li>animalAdj-> tenang</li>
+    <li>animaladj-> lembut</li>
+    <li>AnimalAdj-> bangga</li>
+    <li>animalAdj (generateTheats == true)-> diburu</li>
+    <li>animalAdj (generatetheats == true)-> ketakutan</li>-><Hospitality_Animals.questNameRules.rulesStrings>
+    <li>QuestName (LodgersCount == 1)-> [Lodgerspawnkind_Definite] [AnimalAdj]</li>
+    <li>QuestName (LodgersCount == 1)-> [Lodgerspawnkind_indefinite] [AnimalAdj]</li>
+    <li>QuestName (LodgersCount == 1)-> [Lodgerspawnkind_label] [AnimalAdj]</li>
+    <li>QuestName (LodgersCount == 1)-> [AnimalAdj1] [Lodgerspawnkind_indefinite]</li>
+    <li>QuestName (LODGERSCOUNT == 1)-> [LODGERSPAWNKIND_DEFINITE] [AnimalAdj2]</li>
+    <li>QuestName (lodgerscount == 1)-> cuidando a [lodgers0_namedef]</li>
+    <li>QuestName (Lodgerscount == 1)-> [LODGERS0_NAMEDEF] Pet miskin dan cantik</li>
+    <li>Kawanan [label lovesplural] [animalAdjpl]</li>
+    <li>[Animalday1] Kawanan [Ladelabplural Lodgers]</li>
+    <li>Sekelompok [Ladelabplural Lodgers] [hewan adj2</li>
+    <li>Kawanan [label lovesplural] [animalAdjpl]</li>
+    <li>QuestName (Lodgerscount> = 2)-> Merawat sekelompok [LodgersLabelplural]</li>
+    <li>animalAdj-> menggemaskan</li>
+    <li>AnimalAdj-> menyenangkan</li>
+    <li>animalAdj-> mengagumkan</li>
+    <li>AnimalAdj-> tender</li>
+    <li>AnimalAdj-> Menarik</li>
+    <li>animalAdj-> afable</li>
+    <li>AnimalAdj-> Dulce</li>
+    <li>AnimalAdj-> Yang Mulia</li>
+    <li>AnimalAdj-> gentil</li>
+    <li>animaldjpl-> menggemaskan</li>
+    <li>AnimalAdjpl-> menyenangkan</li>
+    <li>animaldjpl-> mengagumkan</li>
+    <li>AnimalAdjpl-> tampilan tender</li>
+    <li>AnimalAdjpl-> menarik</li>
+    <li>animalAdjpl-> afables</li>
+    <li>AnimalAdjpl-> permen</li>
+    <li>AnimalAdjpl-> Yang Mulia</li>
+    <li>animalAdjpl-> orang bukan Yahudi</li>
+    <li>animalAdj1 (generatetheats == true)-> cazando a</li>
+    <li>AnimalAdj1 (generateTheats == true)-> mengejar</li>
+    <li>animalAdj1 (generateTheats == true)-> Sitiando a</li>
+    <li>AnimalAdj2 (generateTheats == true)-> dengan ketakutan</li>
+    <li>AnimalAdj2 (generateTheats == true) -> frágil</li>
+    <li>AnimalAdj2 (generateTheats == true)-> melarikan diri untuk hidupnya</li>
+    <li>AnimalAdj2pl (generateTheats == true)-> dengan ketakutan</li>
+    <li>animalAdj2pl (generateTheats == true)-> frágiles</li>
+    <li>AnimalAdj2pl (generateTheats == true)-> melarikan diri untuk hidupnya</li>
+  </Hospitality_Animals.questNameRules.rulesStrings>
+  
+</LanguageData>

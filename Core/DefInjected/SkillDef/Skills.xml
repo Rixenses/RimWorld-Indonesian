@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>Hewan</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Menjinakkan, melatih dan mengendalikan hewan.</Animals.description>
+  <!-- EN:
+    <li>Subjek-> Hewan</li>
+    <li>subjek-> penggembala</li>
+    <li>subjek-> menjinakkan</li>
+    <li>subjek-> ternak</li>
+    <li>subjek-> pemuliaan</li>
+    <li>Subjek-> Zoologi</li>
+    <li>Subjek-> Peternakan</li>
+    <li>subjek-> penggembala</li>
+    <li>Subjek-> Domestikasi</li>
+    <li>Subjek-> Fauna</li>
+    <li>Subjek-> Satwa Liar</li>
+    <li>subjek-> unggas</li>-><Animals.generalRules.rulesStrings>
+    <li>subjek-> hewan</li>
+    <li>Subjek-> Pastore</li>
+    <li>Subjek-> Domestikasi</li>
+    <li>Subjek-> ganado</li>
+    <li>Subjek-> pemuliaan</li>
+    <li>Subjek-> Zoologi</li>
+    <li>Subjek-> ternak</li>
+    <li>Subjek-> Pastore</li>
+    <li>Subjek-> Domestikasi</li>
+    <li>Subjek-> Fauna</li>
+    <li>Subjek-> Kehidupan Liar</li>
+    <li>Subjek-> Burung Corral</li>
+  </Animals.generalRules.rulesStrings>
+  <!-- EN: animals -->
+  <Animals.skillLabel>Hewan</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>seni</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Buat patung artistik.</Artistic.description>
+  <!-- EN:
+    <li>Subjek-> Seni</li>
+    <li>subjek-> tembikar</li>
+    <li>Subjek-> Memahat</li>
+    <li>Subjek-> Lukisan</li>
+    <li>Subjek-> Kreativitas</li>
+    <li>Subjek-> Ekspresi</li>
+    <li>Subjek-> Estetika</li>
+    <li>Subjek-> Desain</li>
+    <li>Subjek-> Patung</li>
+    <li>Subjek-> Impresionisme</li>
+    <li>Subjek-> Seni</li>-><Artistic.generalRules.rulesStrings>
+    <li>Subjek-> Seni</li>
+    <li>Subjek-></li>
+    <li>Subjek-> Patung</li>
+    <li>Subjek-> Lukisan</li>
+    <li>Subjek-> Createvidad</li>
+    <li>Subjek-> Ekspresi</li>
+    <li>Subjek-> Estetika</li>
+    <li>Subjek-> Desain</li>
+    <li>Subjek-> Patung</li>
+    <li>Subjek-> Impresionisme</li>
+    <li>Subjek-> Kerajinan</li>
+  </Artistic.generalRules.rulesStrings>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>seni</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>konstruksi</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Memasang dan membongkar struktur dan benda lainnya.</Construction.description>
+  <!-- EN:
+    <li>Subjek-> Konstruksi</li>
+    <li>subjek-> bangunan</li>
+    <li>Subjek-> Arsitektur</li>
+    <li>Subjek-> Rekayasa</li>
+    <li>Subjek-> Desain</li>
+    <li>Subjek-> Renovasi</li>
+    <li>Subjek-> Struktur</li>
+    <li>Subjek-> Foundation</li>
+    <li>Subjek-> Pertukangan</li>
+    <li>Subjek-> Infrastruktur</li>-><Construction.generalRules.rulesStrings>
+    <li>Subjek-> Konstruksi</li>
+    <li>Subjek-> bangunan</li>
+    <li>Subjek-> Arsitektur</li>
+    <li>Subjek-> Rekayasa</li>
+    <li>Subjek-> Desain</li>
+    <li>Subjek-> Pembaruan</li>
+    <li>subjek-> estructuras</li>
+    <li>Subjek-> Foundation</li>
+    <li>Subjek-> Pertukangan</li>
+    <li>Subjek-> Infraestructura</li>
+  </Construction.generalRules.rulesStrings>
+  <!-- EN: construction -->
+  <Construction.skillLabel>konstruksi</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Cocina</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Siapkan makanan dari bahan -bahan mentah dan kurangi keracunan yang tidak disengaja.</Cooking.description>
+  <!-- EN:
+    <li>subjek-> memasak</li>
+    <li>Subjek-> Makanan</li>
+    <li>subjek-> memanggang</li>
+    <li>subjek-> masakan</li>
+    <li>Subjek-> Resep</li>
+    <li>Subjek-> Gastronomi</li>
+    <li>subjek-> rasa</li>
+    <li>Subjek-> Bahan</li>
+    <li>subjek-> rempah-rempah</li>
+    <li>Subjek-> Nutrisi</li>
+    <li>subjek-> rasa</li>
+    <li>Subjek-> Saus</li>
+    <li>Subjek-> Makanan</li>-><Cooking.generalRules.rulesStrings>
+    <li>Subjek-> Cocina</li>
+    <li>Subjek-> Makanan</li>
+    <li>Subjek-> Hornear</li>
+    <li>Subjek-> Recetario</li>
+    <li>Subjek-> Recetas</li>
+    <li>Subjek-> Gastronomi</li>
+    <li>Subjek-> rasa</li>
+    <li>Subjek-> Bahan</li>
+    <li>Subjek-> Spesial</li>
+    <li>Subjek-> Nutrisi</li>
+    <li>Subjek-> Gusto</li>
+    <li>Subjek-> Salsas</li>
+    <li>Subjek-></li>
+  </Cooking.generalRules.rulesStrings>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Cocina</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>manufaktur</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Memproduksi benda -benda seperti pakaian, senjata, komponen, dan sumber daya yang disiapkan.</Crafting.description>
+  <!-- EN:
+    <li>subjek-> kerajinan</li>
+    <li>Subjek-> Majelis</li>
+    <li>subjek-> manufaktur</li>
+    <li>Subjek-> Handcrafting</li>
+    <li>Subjek-> Fabrikasi</li>
+    <li>Subjek-> Produksi</li>
+    <li>subjek-> keahlian</li>
+    <li>subjek-> pemesinan</li>
+    <li>Subjek-> Artisanry</li>-><Crafting.generalRules.rulesStrings>
+    <li>Subjek-> Kerajinan</li>
+    <li>Subjek-> Ensamblaje</li>
+    <li>Subjek-> manufaktur</li>
+    <li>Subjek-> Artesanía to Bro</li>
+    <li>Subjek-> manufaktur</li>
+    <li>Subjek-> Produksi</li>
+    <li>Subjek-> Kerajinan</li>
+    <li>Subjek-> mesin</li>
+    <li>Subjek-> Kerajinan</li>
+  </Crafting.generalRules.rulesStrings>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>manufaktur</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>intelijen</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Selidiki dan mensintesis obat.</Intellectual.description>
+  <!-- EN:
+    <li>Subjek-> Fisika</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Dinamika Orbital</li>
+    <li>Subjek-> Matematika</li>
+    <li>Subjek-> Biologi</li>
+    <li>Subjek-> Sains</li>
+    <li>Subjek-> Penelitian</li>
+    <li>Subjek-> Inovasi</li>
+    <li>Subjek-> Penemuan</li>
+    <li>Subjek-> Analisis</li>
+    <li>Subjek-> Eksperimen</li>
+    <li>Subjek-> Pengetahuan</li>
+    <li>Subjek-> Eksplorasi</li>
+    <li>Subjek-> Fisika</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Analisis Data</li>
+    <li>Subjek-> Penyelidikan Ilmiah</li>
+    <li>Subjek-> Pertumbuhan Intelektual</li>
+    <li>Subjek-> Pengejaran Akademik</li>
+    <li>Subjek-> Analisis Kuantitatif</li>
+    <li>Subjek-> Desain Eksperimen</li>
+    <li>Subjek-> Metode Penelitian</li>
+    <li>Subjek-> Penyelidikan Intelektual</li>-><Intellectual.generalRules.rulesStrings>
+    <li>Subjek-> Fisika</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Orbital Dinámico</li>
+    <li>Subjek-> Matematika</li>
+    <li>Subjek-> Biologi</li>
+    <li>Subjek-> Ciencia</li>
+    <li>Subjek-> Penelitian</li>
+    <li>Subjek-> Inovasi</li>
+    <li>Subjek-> Penemuan</li>
+    <li>Subjek-> analisis</li>
+    <li>Subjek-> Eksperimen</li>
+    <li>Subjek-> Pengetahuan</li>
+    <li>subject->exploración</li>
+    <li>Subjek-> Fisika</li>
+    <li>Subjek-> Kimia</li>
+    <li>Subjek-> Analisis de Datos</li>
+    <li>Subjek-> Penyelidikan Ilmiah</li>
+    <li>Subjek-> Pertumbuhan Intelektual</li>
+    <li>Subjek-> Pencarian Akademik</li>
+    <li>Subjek-> Analisis Kuantitatif</li>
+    <li>Subjek-> Desain Eksperimental</li>
+    <li>Subjek-> Metode Penelitian</li>
+    <li>Subjek-> Penyelidikan Intelektual</li>
+  </Intellectual.generalRules.rulesStrings>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>intelijen</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>obat</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Mengobati luka dan penyakit dan praktik operasi.</Medicine.description>
+  <!-- EN:
+    <li>Subjek-> Kedokteran</li>
+    <li>Subjek-> Pembedahan</li>
+    <li>Subjek-> Bakteri</li>
+    <li>Subjek-> Perbaikan Kulit</li>
+    <li>Subjek-> perawatan kesehatan</li>
+    <li>Subjek-> Ilmu Kedokteran</li>
+    <li>Subjek-> Fisiologi</li>
+    <li>Subjek-> Farmakologi</li>
+    <li>Subjek-> Perawatan</li>
+    <li>Subjek-> Diagnosis</li>
+    <li>Subjek-> Pembedahan</li>
+    <li>Subjek-> Anatomi</li>
+    <li>Subjek-> Bakteri</li>
+    <li>Subjek-> Patologi</li>
+    <li>Subjek-> Manajemen Penyakit</li>
+    <li>Subjek-> Perawatan Pasien</li>
+    <li>Subjek-> Pengobatan Darurat</li>
+    <li>Subjek-> Keperawatan</li>
+    <li>Subjek-> Penelitian Medis</li>
+    <li>Subjek-> Kesehatan Masyarakat</li>
+    <li>Subjek-> Virologi</li>
+    <li>Subjek-> Ilmu Kesehatan</li>-><Medicine.generalRules.rulesStrings>
+    <li>Subjek-> Kedokteran</li>
+    <li>Subjek-> Pembedahan</li>
+    <li>Subjek-> Bakterias</li>
+    <li>Subjek-> penyembuhan kulit</li>
+    <li>Subjek-> Perawatan Medis</li>
+    <li>Subjek-> Ilmu Kedokteran</li>
+    <li>Subjek-> Fisiologi</li>
+    <li>Subjek-> Farmakologi</li>
+    <li>Subjek-> Perawatan</li>
+    <li>Subjek-> Diagnosis</li>
+    <li>Subjek-> Pembedahan</li>
+    <li>Subjek-> Anatomi</li>
+    <li>Subjek-> Bakterias</li>
+    <li>Subjek-> Patologi</li>
+    <li>Subjek-> Manajemen Penyakit</li>
+    <li>Subjek-> Perawatan Pasien</li>
+    <li>Subjek-> Pengobatan Darurat</li>
+    <li>Subjek-> Keperawatan</li>
+    <li>Subjek-> Penelitian Medis</li>
+    <li>Subjek-> Salud Publik</li>
+    <li>Subjek-> Virologi</li>
+    <li>Subjek-> Ilmu Kesehatan</li>
+  </Medicine.generalRules.rulesStrings>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>obat</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Perkelahian</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Pertempuran jarak dekat, baik dengan senjata telanjang atau tangan.</Melee.description>
+  <!-- EN:
+    <li>subjek-> pertempuran</li>
+    <li>Subjek-> Melee</li>
+    <li>Subjek-> pertempuran</li>
+    <li>Subjek-> Seni Bela Diri</li>
+    <li>Subjek-> Permainan Pedang</li>
+    <li>subjek-> persenjataan</li>
+    <li>Subjek-> BRAWLING</li>
+    <li>Subjek-> Pugilisme</li>
+    <li>subjek-> pagar</li>
+    <li>Subjek-> Ksatria</li>
+    <li>Subjek-> Duel</li>-><Melee.generalRules.rulesStrings>
+    <li>subjek-> lucha</li>
+    <li>Subjek-> Pertempuran pertemuan</li>
+    <li>Subjek-> Memerangi</li>
+    <li>Subjek-> Seni Marciales</li>
+    <li>Subjek-> pagar</li>
+    <li>Subjek-> persenjataan</li>
+    <li>Subjek-> Pelea</li>
+    <li>Subjek-> Boxeo</li>
+    <li>Subjek-> pagar</li>
+    <li>Subjek-> Kavaleri</li>
+    <li>Subjek-> Duel</li>
+  </Melee.generalRules.rulesStrings>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Perkelahian</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>pertambangan</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Menggali terowongan dan mengekstrak sumber daya mineral.</Mining.description>
+  <!-- EN:
+    <li>subjek-> penambangan</li>
+    <li>subjek-> penggalian</li>
+    <li>Subjek-> Quarrying</li>
+    <li>Subjek-> Penambangan strip</li>
+    <li>Subjek-> Penggalian</li>
+    <li>Subjek-> Prospeksi</li>
+    <li>subjek-> bijih</li>
+    <li>Subjek-> Tunneling</li>
+    <li>Subjek-> Pengeboran</li>
+    <li>Subjek-> Mineral</li>
+    <li>Subjek-> Gemologi</li>
+    <li>Subjek-> Geologi</li>
+    <li>Subjek-> Earthmoving</li>-><Mining.generalRules.rulesStrings>
+    <li>Subjek-> penambangan</li>
+    <li>Subjek-> Penggalian</li>
+    <li>Subjek-> Ekstraksi Quarry</li>
+    <li>Subjek-> Open Sky Mining</li>
+    <li>Subjek-> Penggalian</li>
+    <li>Subjek-> Prospeksi</li>
+    <li>Subjek-> Mineral</li>
+    <li>Subjek-> tunnelisasi</li>
+    <li>Subjek-> Pengeboran</li>
+    <li>Subjek-> Mineral</li>
+    <li>Subjek-> Gemología</li>
+    <li>Subjek-> Geologi</li>
+    <li>Subjek-> Gerakan Tanah</li>
+  </Mining.generalRules.rulesStrings>
+  <!-- EN: mining -->
+  <Mining.skillLabel>pertambangan</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>pertanian</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Tabur, jaga dan panen tanaman dan makanan makanan saat bepergian.</Plants.description>
+  <!-- EN:
+    <li>subjek-> tanaman</li>
+    <li>subjek-> herbal</li>
+    <li>Subjek-> Sayuran</li>
+    <li>Subjek-> Flora</li>
+    <li>Subjek-> Budidaya</li>
+    <li>Subjek-> Hortikultura</li>
+    <li>Subjek-> Pertanian</li>
+    <li>Subjek-> Berkebun</li>
+    <li>Subjek-> Pertanian</li>
+    <li>Subjek-> Pemanenan</li>
+    <li>Subjek-> Permakultur</li>
+    <li>Subjek-> Botani</li>
+    <li>Subjek-> Manajemen Tanaman</li>
+    <li>Subjek-> Pengayaan Tanah</li>
+    <li>Subjek-> Pertanian Organik</li>
+    <li>Subjek-> Produksi Pangan</li>
+    <li>Subjek-> Ilmu Tanaman</li>-><Plants.generalRules.rulesStrings>
+    <li>Subjek-> tanaman</li>
+    <li>Subjek-> Hierbas</li>
+    <li>Subjek-> Vegetales</li>
+    <li>Subjek-> Flora</li>
+    <li>Subjek-> Budidaya</li>
+    <li>Subjek-> Hortikultura</li>
+    <li>Subjek-> Pertanian</li>
+    <li>Subjek-> Berkebun</li>
+    <li>Subjek-> Fruidulture</li>
+    <li>Subjek-> cosecha</li>
+    <li>Subjek-> Permacultura</li>
+    <li>Subjek-> Botani</li>
+    <li>Subjek-> Manajemen Tanaman</li>
+    <li>subject->enriquecimiento del suelo</li>
+    <li>Subjek-> Pertanian Ekologis</li>
+    <li>Subjek-> Produksi Pangan</li>
+    <li>Subjek-> Ilmu Tanaman</li>
+  </Plants.generalRules.rulesStrings>
+  <!-- EN: plants -->
+  <Plants.skillLabel>pertanian</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>penembakan</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Penggunaan semua jenis senjata jarak jauh.</Shooting.description>
+  <!-- EN:
+    <li>subjek-> senjata</li>
+    <li>Subjek-> Senjata</li>
+    <li>subjek-> membidik</li>
+    <li>subjek-> pemotretan</li>
+    <li>Subjek-> Gunplay</li>
+    <li>Subjek-> keahlian menembak</li>
+    <li>Subjek-> Senjata Api</li>
+    <li>Subjek-> Sniping</li>
+    <li>subjek-> balistik</li>
+    <li>Subjek-> pertempuran jarak jauh</li>
+    <li>Subjek-> Pemotretan Presisi</li>
+    <li>Subjek-> Penguasaan senapan</li>
+    <li>Subjek-> Praktek Target</li>
+    <li>Subjek-> Penembak Jalan</li>
+    <li>Subjek-> taktik jarak jauh</li>
+    <li>Subjek-> Penempatan bidikan</li>
+    <li>subjek-> penanganan senjata</li>
+    <li>Subjek-> Pemotretan Jarak</li>-><Shooting.generalRules.rulesStrings>
+    <li>Subjek-> Senjata Api</li>
+    <li>Subjek-> Armas</li>
+    <li>Subjek-> Apuntar</li>
+    <li>Subjek-></li>
+    <li>Subjek-> Game Senjata</li>
+    <li>Subjek-> AIM</li>
+    <li>Subjek-> Senjata Api</li>
+    <li>Subjek-> Francotirador</li>
+    <li>Subjek-> balistik</li>
+    <li>Subjek-> Bertempur Jarak Lebar</li>
+    <li>Subjek-> bidikan presisi</li>
+    <li>Subjek-> Master dalam Senapan</li>
+    <li>Subjek-> Praktik Menembak Putih</li>
+    <li>Subjek-> ahli Tirar</li>
+    <li>Subjek-> taktik pertempuran jarak</li>
+    <li>Subjek-> Penempatan bidikan</li>
+    <li>Subjek-> Manajemen Senjata Api</li>
+    <li>Subjek-> Ban Jarak</li>
+  </Shooting.generalRules.rulesStrings>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>penembakan</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>sosialisasi</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Bernegosiasi, membujuk, memanipulasi, mengarahkan, dan mendorong orang lain.</Social.description>
+  <!-- EN:
+    <li>Subjek-> Komunikasi</li>
+    <li>Subjek-> Jaringan</li>
+    <li>Subjek-> Resolusi Konflik</li>
+    <li>Subjek-> Kolaborasi</li>
+    <li>Subjek-> Kepemimpinan</li>
+    <li>Subjek-> Empati</li>
+    <li>Subjek-> Negosiasi</li>
+    <li>Subjek-> Perdagangan</li>
+    <li>Subjek-> Mendengarkan</li>
+    <li>Subjek-> Diplomasi</li>
+    <li>Subjek-> kerja tim</li>
+    <li>Subjek-> Etiket</li>
+    <li>Subjek-> Karisma</li>
+    <li>Subjek-> Kecerdasan Sosial</li>
+    <li>subjek-> ketegasan</li>
+    <li>Subjek-> Kecerdasan Emosional</li>
+    <li>Subjek-> Keterampilan Komunikasi</li>-><Social.generalRules.rulesStrings>
+    <li>Subjek-> Komunikasi</li>
+    <li>Subjek-> Jaringan</li>
+    <li>Subjek-> Resolusi Konflik</li>
+    <li>Subjek-> Kolaborasi</li>
+    <li>Subjek-> lidazgo</li>
+    <li>Subjek-> Empathía</li>
+    <li>Subjek-> Negosiasi</li>
+    <li>Subjek-> Perdagangan</li>
+    <li>Subjek-> Dengarkan</li>
+    <li>Subjek-> Diplomacia</li>
+    <li>Subjek-> kerja tim</li>
+    <li>Subjek-> Liquita</li>
+    <li>Subjek-> Karisma</li>
+    <li>Subjek-> Kecerdasan Sosial</li>
+    <li>Subjek-> ketegasan</li>
+    <li>Subjek-> Kecerdasan Emosional</li>
+    <li>Subjek-> Keterampilan Komunikasi</li>
+  </Social.generalRules.rulesStrings>
+  <!-- EN: social -->
+  <Social.skillLabel>sosialisasi</Social.skillLabel>
+  
+</LanguageData>

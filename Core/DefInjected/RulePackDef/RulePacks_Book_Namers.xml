@@ -1,0 +1,1068 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>judul (p = 3)-> [titlenaked]</li>
+    <li>Judul-> [anypawn_nameindef] [titlenaked]</li>
+    <li>Judul-> [Karakter] [Story]</li>
+    <li>Judul-> [Character] [ObjectAny]</li>
+    <li>Judul-> [Karakter] [LinkagePlace] [Place]</li>
+    <li>judul-> [kata sifat] [karakter]</li>
+    <li>judul-> [kata sifat] [objeky]</li>
+    <li>Titlenaked-> [ConceptAnd]</li>
+    <li>Titlenaked-> [kata sifat] [ConceptAnd]</li>
+    <li>Titlenaked-> [ConceptAnd] [Linkage] [ConceptAnd]</li>
+    <li>Titlenaked-> [ConceptAnd] [LinkagePlace] [Place]</li>
+    <li>Titlenaked-> [ObjectAny] [Linkage] [ConceptAnd]</li>
+    <li>Objectany-> [Game]</li>
+    <li>Objectany-> [senjata]</li>
+    <li>tautan-> dari</li>
+    <li>tautan-> oleh</li>
+    <li>tautan-> untuk</li>
+    <li>tautan-> tanpa</li>
+    <li>tautan-> dengan</li>
+    <li>LinkagePlace-> di</li>
+    <li>LinkagePlace-> oleh</li>
+    <li>LinkagePlace-> di</li>
+    <li>LinkagePlace-> dekat</li>
+    <li>Kata sifat-> [AdjectiveANy]</li>
+    <li>Place (P = 25)-> [Terrainfeature]</li>
+    <li>Place-> Abyss</li>
+    <li>Place-> Amphitheatre</li>
+    <li>Place-> Aquarium</li>
+    <li>Place-> Aqueduct</li>
+    <li>Place-> Arena</li>
+    <li>Place-> Asylum</li>
+    <li>Place-> Barracks</li>
+    <li>Place-> Base</li>
+    <li>Place-> Bunker</li>
+    <li>Place-> Cabin</li>
+    <li>Place-> Camp</li>
+    <li>Place-> Castle</li>
+    <li>Place-> Cathedral</li>
+    <li>Place-> Cavern</li>
+    <li>Place-> Benteng</li>
+    <li>Place-> City</li>
+    <li>Place-> Coliseum</li>
+    <li>Tempat-> Koloni</li>
+    <li>Place-> Depths</li>
+    <li>Tempat-> Gurun</li>
+    <li>Place-> Elevator</li>
+    <li>Place-> Factory</li>
+    <li>Place-> Festival</li>
+    <li>Place-> Fortress</li>
+    <li>Place-> Glade</li>
+    <li>Place-> Graveyard</li>
+    <li>Place-> Greenhouse</li>
+    <li>Place-> Grove</li>
+    <li>Place-> Harbor</li>
+    <li>tempat-> hati</li>
+    <li>Place-> Hive</li>
+    <li>Place-> Rumah Sakit</li>
+    <li>Place-> Island</li>
+    <li>Place-> Jungle</li>
+    <li>Tempat-> Kamp Buruh</li>
+    <li>Place-> Laboratorium</li>
+    <li>Place-> Labyrinth</li>
+    <li>Place-> Launchpad</li>
+    <li>Place-> Perpustakaan</li>
+    <li>Tempat-> Mercusuar</li>
+    <li>Place-> Manor</li>
+    <li>Place-> Mansion</li>
+    <li>Place-> Marketplace</li>
+    <li>tempat-> milikku</li>
+    <li>Place-> Biara</li>
+    <li>Place-> Mountain</li>
+    <li>Place-> Nexus</li>
+    <li>Place-> Oasis</li>
+    <li>Place-> Observatory</li>
+    <li>Place-> Orchard</li>
+    <li>Place-> Outpost</li>
+    <li>Place-> Palace</li>
+    <li>Place-> Mereka membayar</li>
+    <li>Place-> Penjara</li>
+    <li>Place-> Kilang</li>
+    <li>Place-> Resort</li>
+    <li>Place-> Rift</li>
+    <li>Tempat-> Reruntuhan</li>
+    <li>Place-> Sanctuary</li>
+    <li>Place-> sekolah</li>
+    <li>Place-> Penyelesaian</li>
+    <li>tempat-> kapal</li>
+    <li>Tempat-> Jiwa</li>
+    <li>Place-> Stasiun Luar Angkasa</li>
+    <li>Place-> Spaceport</li>
+    <li>Place-> Spire</li>
+    <li>Place-> Swamp</li>
+    <li>Place-> Tavern</li>
+    <li>Tempat-> Kuil</li>
+    <li>Place-> Town</li>
+    <li>Place-> tundra</li>
+    <li>Place-> University</li>
+    <li>Place-> Village</li>
+    <li>Place-> Volcano</li>
+    <li>Place-> Warehouse</li>
+    <li>Place-> Wasteland</li>
+    <li>Place-> Wilderness</li>
+    <li>Place-> Zoo</li>
+    <li>Story-> Adventure</li>
+    <li>Story-> Adventures</li>
+    <li>Story-> Allegory</li>
+    <li>Story-> Anecdote</li>
+    <li>Story-> Annals</li>
+    <li>Story-> Ballad</li>
+    <li>Story-> Biography</li>
+    <li>Story-> Bab</li>
+    <li>Story-> Chronicle</li>
+    <li>Story-> Chronicles</li>
+    <li>Story-> Kronologi</li>
+    <li>Story-> Comedy</li>
+    <li>Story-> Compendium</li>
+    <li>Cerita-> Kompilasi</li>
+    <li>Story-> Dialog</li>
+    <li>Story-> Diary</li>
+    <li>Story-> Wacana</li>
+    <li>Story-> Drama</li>
+    <li>Story-> Dream</li>
+    <li>Story-> Enigma</li>
+    <li>Story-> Epic</li>
+    <li>Story-> Epiphany</li>
+    <li>Story-> Epistle</li>
+    <li>Story-> Fable</li>
+    <li>Story-> Fables</li>
+    <li>cerita-> dongeng</li>
+    <li>Story-> Fantasia</li>
+    <li>Story-> Fantasi</li>
+    <li>Story-> Fantasi</li>
+    <li>Story-> Fiction</li>
+    <li>cerita-> cerita rakyat</li>
+    <li>Story-> History</li>
+    <li>Story-> Imagination</li>
+    <li>Story-> Imaginings</li>
+    <li>Story-> Insight</li>
+    <li>Story-> Jottings</li>
+    <li>Story-> Journal</li>
+    <li>Story-> Journey</li>
+    <li>Story-> Legacy</li>
+    <li>Story-> Legenda</li>
+    <li>Story-> Legends</li>
+    <li>Story-> Literature</li>
+    <li>Story-> Log</li>
+    <li>Story-> Memoir</li>
+    <li>Story-> Memoirs</li>
+    <li>Story-> Kenangan</li>
+    <li>Story-> Mind</li>
+    <li>Story-> Musical</li>
+    <li>cerita-> renungan</li>
+    <li>Story-> Mitos</li>
+    <li>Story-> Mythology</li>
+    <li>Story-> Mythos</li>
+    <li>Story-> Narration</li>
+    <li>Story-> Narrative</li>
+    <li>Story-> Novel</li>
+    <li>Story-> Observations</li>
+    <li>mode-> mode</li>
+    <li>Story-> halaman</li>
+    <li>Story-> Papers</li>
+    <li>Story-> Parable</li>
+    <li>Story-> Prosa</li>
+    <li>Story-> Recollections</li>
+    <li>Story-> Catatan Ulang</li>
+    <li>Story-> Reflection</li>
+    <li>Story-> Reflections</li>
+    <li>Story-> Reminiscences</li>
+    <li>Story-> Revelation</li>
+    <li>Story-> Rhapsody</li>
+    <li>Story-> Saga</li>
+    <li>Story-> coretan</li>
+    <li>Story-> Script</li>
+    <li>Story-> Sketsa</li>
+    <li>Story-> Sketsa</li>
+    <li>Story-> Story</li>
+    <li>Story-> Tale</li>
+    <li>Story-> Tales</li>
+    <li>Story-> Perjanjian</li>
+    <li>Story-> Kesaksian</li>
+    <li>Story-> Tragedi</li>
+    <li>Story-> Tribute</li>
+    <li>Story-> Verse</li>
+    <li>Story-> Volume</li>
+    <li>cerita-> imajinasi</li>-><Namer_Novel.rulePack.rulesStrings>
+    <li>judul (p = 3)-> [titlenaked]</li>
+    <li>Judul-> [TitLenaked] de [anypawn_nameindef]</li>
+    <li>Judul-> [Story] de [karakter]</li>
+    <li>Judul-> [ObjectAnd] DE [karakter]</li>
+    <li>Judul-> [Karakter] [LinkagePlace] [Place]</li>
+    <li>judul-> el [karakter] [kata sifat]</li>
+    <li>Judul-> El [Objectany] [kata sifat]</li>
+    <li>Titlenaked-> [ConceptAnd]</li>
+    <li>Titlenaked-> [ConceptAnd] [kata sifat]</li>
+    <li>Titlenaked-> [ConceptAnd] [Linkage] [ConceptAnd]</li>
+    <li>Titlenaked-> [ConceptAnd] [LinkagePlace] [Place]</li>
+    <li>Titlenaked-> [ObjectAny] [Linkage] [ConceptAndef]</li>
+    <li>Objectany-> [Game]</li>
+    <li>Objectany-> [senjata]</li>
+    <li>tautan-></li>
+    <li>Tautan-></li>
+    <li>Tautan-> untuk</li>
+    <li>tautan-> dosa</li>
+    <li>Tautan-> Con</li>
+    <li>LinkagePlace-> satu</li>
+    <li>LinkagePlace-></li>
+    <li>LinkagePlace-> About</li>
+    <li>LinkagePlace-></li>
+    <li>Kata sifat-> [AdjectiveANy]</li>
+    <li>Place (P = 25)-> [TerrainfeatureAny]</li>
+    <li>Place-> The Abyss</li>
+    <li>Place-> Amphitheatre</li>
+    <li>Place-> The Aquarium</li>
+    <li>Place-> Aqueduct</li>
+    <li>Tempat-> di arena</li>
+    <li>Place-> Asylum</li>
+    <li>Place-> The Barracks</li>
+    <li>Tempat-> benteng</li>
+    <li>Place-> The Bunker</li>
+    <li>Tempat-> kabin</li>
+    <li>Tempat-> Kamp</li>
+    <li>Place-> The Castle</li>
+    <li>Tempatkan-> Menara Bell</li>
+    <li>Place-> Di Gua</li>
+    <li>Place-> The Citadel</li>
+    <li>Tempat-> Dewan Kota</li>
+    <li>Place-> The Colosseum</li>
+    <li>Tempat-> di koloni</li>
+    <li>Tempat-> kedalaman</li>
+    <li>Tempatkan-> Gurun</li>
+    <li>Tempatkan-> Lift</li>
+    <li>Tempat-> Pabrik</li>
+    <li>Place-> Festival</li>
+    <li>Place-> The Fortress</li>
+    <li>Place-> The Calvero</li>
+    <li>Place-> The Cemetery</li>
+    <li>Place-> The Greenhouse</li>
+    <li>Tempatkan-> di pohon</li>
+    <li>Place-> port</li>
+    <li>Tempat-> hati</li>
+    <li>Place-> The Hive</li>
+    <li>Place-> Rumah Sakit</li>
+    <li>Tempat-> ke Isla</li>
+    <li>Tempat-> di hutan</li>
+    <li>Tempat-> Penjara</li>
+    <li>Tempat-> Laboratorium</li>
+    <li>Place-> The Labyrinth</li>
+    <li>Tempat-> Feri</li>
+    <li>Place-> La Liberia</li>
+    <li>Tempat-> Mercusuar</li>
+    <li>Tempat-> Tempat tinggal</li>
+    <li>Place-> The Mansion</li>
+    <li>Tempat-> Pasar</li>
+    <li>Place-> Di Tambang</li>
+    <li>Tempat-> Biara</li>
+    <li>Tempat-> Gunung</li>
+    <li>Tempatkan-> Tautan</li>
+    <li>Place-> The Oasis</li>
+    <li>Place-> The Observatory</li>
+    <li>Tempat-> Taman</li>
+    <li>Place-> The Pavilion</li>
+    <li>Tempat-> Istana</li>
+    <li>Place-> di mesee</li>
+    <li>Tempat-> Penjara</li>
+    <li>Tempat-> Kilang</li>
+    <li>Tempat-> Kompleks</li>
+    <li>Tempat-> celah</li>
+    <li>Tempat-> Reruntuhan</li>
+    <li>Place-> The Sanctuary</li>
+    <li>Tempat-> Sekolah</li>
+    <li>Place-> Penyelesaian</li>
+    <li>Tempat-> di kapal</li>
+    <li>Tempatkan-> Jiwa</li>
+    <li>Tempat-> Stasiun Luar Angkasa</li>
+    <li>tempat-> port ruang</li>
+    <li>Tempatkan-> Sumber</li>
+    <li>Place-> The Swamp</li>
+    <li>Place-> di Taberna</li>
+    <li>Tempat-> Kuil</li>
+    <li>Tempat-> Kota</li>
+    <li>Place-> di tundra</li>
+    <li>Tempat-> Universitas</li>
+    <li>Tempat-> orang-orang</li>
+    <li>Tempat-> Gunung berapi</li>
+    <li>Place-> deposit</li>
+    <li>Place-> The Yerm</li>
+    <li>Tempat-> Alam</li>
+    <li>Tempat-> Kebun Binatang</li>
+    <li>Story-> Aventura</li>
+    <li>Story-> Aventura</li>
+    <li>Story-> Allegory</li>
+    <li>Story-> Anecdota</li>
+    <li>Story-> File</li>
+    <li>Story-> Balada</li>
+    <li>Story-> Biography</li>
+    <li>Story-> Bab</li>
+    <li>Story-> Chronicle</li>
+    <li>Story-> Chronicles</li>
+    <li>Story-> Kronologi</li>
+    <li>Story-> Comedia</li>
+    <li>Story-> Compendio</li>
+    <li>Cerita-> Kompilasi</li>
+    <li>Story-> Dialogo</li>
+    <li>Story-> Diario</li>
+    <li>Story-> Discurso</li>
+    <li>Story-> Drama</li>
+    <li>Story-> Dream</li>
+    <li>Story-> Enigma</li>
+    <li>Story-> Epic</li>
+    <li>Story-> Epiphany</li>
+    <li>Story-> Epistola</li>
+    <li>Story-> Fable</li>
+    <li>Story-> Fables</li>
+    <li>Cerita-> dongeng</li>
+    <li>Story-> Fantasia</li>
+    <li>Story-> Fantasi</li>
+    <li>Story-> Fantasi</li>
+    <li>Story-> Fiction</li>
+    <li>Story-> Folclore</li>
+    <li>Story-> Historia</li>
+    <li>Story-> Imagination</li>
+    <li>Story-> Imaginasi</li>
+    <li>Story-> Visi</li>
+    <li>Story-> Apuntes</li>
+    <li>Story-> Journal</li>
+    <li>Story-> Journey</li>
+    <li>Story-> Legacy</li>
+    <li>Story-> Legenda</li>
+    <li>Story-> Leyendas</li>
+    <li>Story-> Literatura</li>
+    <li>Story-> Registro</li>
+    <li>Story-> Memoria</li>
+    <li>Story-> Memorias</li>
+    <li>Story-> Memorias</li>
+    <li>Story-> Mente</li>
+    <li>Story-> Musical</li>
+    <li>Pikiran-> Pikiran</li>
+    <li>Story-> The Myth</li>
+    <li>Story-> Mythology</li>
+    <li>Story-> Mitos</li>
+    <li>Story-> Narration</li>
+    <li>Story-> Narrativa</li>
+    <li>Story-> Novela</li>
+    <li>Story-> Observations</li>
+    <li>Story-> Oda</li>
+    <li>Story-> halaman</li>
+    <li>Story-> Documentos</li>
+    <li>Story-> Parabola</li>
+    <li>Story-> Prosa</li>
+    <li>Story-> Kenangan</li>
+    <li>Story-> Count</li>
+    <li>Story-> Reflection</li>
+    <li>Story-> Reflections</li>
+    <li>Story-> Reminiscencias</li>
+    <li>Story-> Revelation</li>
+    <li>Story-> Rapsodia</li>
+    <li>Story-> Saga</li>
+    <li>Story-> Garabats</li>
+    <li>Story-> Script</li>
+    <li>Story-> Boceto</li>
+    <li>Story-> Bocetos</li>
+    <li>Story-> Relato</li>
+    <li>Story-> Story</li>
+    <li>Story-> Tales</li>
+    <li>Story-> Testamento</li>
+    <li>Story-> Testimonio</li>
+    <li>Story-> Tragedia</li>
+    <li>Story-> Tribute</li>
+    <li>Story-> Verso</li>
+    <li>Story-> Volumen</li>
+    <li>Story-> Capricho</li>
+  </Namer_Novel.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Judul-> Desain [Subject_Primary]</li>
+    <li>Judul-> Catatan di [Subject_Primary]</li>
+    <li>Judul-> Terobosan di [Subject_Primary]</li>
+    <li>Judul-> Studi di [Subject_Primary]</li>
+    <li>Judul-> Aplikasi Novel untuk [Subjek_Primary]</li>
+    <li>Judul-> Memahami [Subject_Primary]</li>
+    <li>Judul-> Prinsip [Subject_Primary]</li>
+    <li>Judul-> Dasar-dasar [Subject_Primary]</li>
+    <li>Judul-> [Subjek_Primary]: Bagian [Volnumeral]</li>
+    <li>Judul-> [Subject_Primary] Vol.[Volnumeral]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary] Vol.[Volnumeral]</li>
+    <li>Judul-> [mungkin_Authored_title]</li>
+    <li>title (has_subject_secondary == true)-> [StudiessTart] [Subject_Primary] di sektor [subjek_secondary]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary] Mengikuti [LifeEvent]</li>
+    <li>title->[studiesStart] [subject_primary]: [anecdotes]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary]: A [RandAdjective] [DiskusiNoun]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary] [ReferenceType]</li>
+    <li>Judul-> [ReferenceType] dari [RandAdjective] [Subject_Primary], vol.[Volnumeral]</li>
+    <li>Judul-> [StudiessTart] [RandAdjective] [Subject_Primary], vol.[Volnumeral]</li>
+    <li>Judul-> [ReferenceType] dari [StudiessTart] [RandAdjective] [Subject_Primary]</li>
+    <li>Judul-> [LifeEvent] [DiskusiNoun] dan [Subject_Primary]</li>
+    <li>StudiessTart-> Studi di</li>
+    <li>StudiessTart-> Fundamentals of</li>
+    <li>StudiessTart-> Mengelola</li>
+    <li>StudiessTart-> Histories of</li>
+    <li>StudiessTart-> Bekerja di</li>
+    <li>StudiessTart-> Representasi dari</li>
+    <li>studiesstart-> bertahan</li>
+    <li>StudiessTart-> Kemajuan dalam</li>
+    <li>StudiessTart-> Aplikasi</li>
+    <li>studiesstart-> membentuk masa depan</li>
+    <li>StudiessTart-> Dokumentasi</li>
+    <li>Referencetype-> Encyclopedia</li>
+    <li>Referencetype-> Dictionary</li>
+    <li>Referencetype-> Almanac</li>
+    <li>ReferenceType-> Daftar</li>
+    <li>Referencetype-> Annal</li>
+    <li>Referencetype-> Record</li>
+    <li>ReferenceType-> Buku Panduan</li>
+    <li>Referencetype-> Chronicle</li>
+    <li>Referencetype-> Mentor</li>
+    <li>Referencetype-> Toolbox</li>
+    <li>anekdot-> pikiran</li>
+    <li>anekdot-> anekdot</li>
+    <li>anekdot-> dongeng rakyat</li>
+    <li>anekdot-> desas-desus</li>
+    <li>anekdot-> cerita</li>
+    <li>anekdot-> narasi</li>
+    <li>DiskusiNoun-> Diskusi</li>
+    <li>DiskusiNoun-> Debat</li>
+    <li>DiskusiNoun-> Wacana</li>
+    <li>DiskusiNoun-> Dialog</li>
+    <li>DiskusiNoun-> Dialektika</li>
+    <li>DiskusiNoun-> Pemeriksaan</li>
+    <li>DiskusiNoun-> Konsultasi</li>
+    <li>DiskusiNoun-> Kontroversi</li>
+    <li>LifeEvent-> Cedera</li>
+    <li>LifeEvent-> Cloning</li>
+    <li>LifeEvent-> Trauma</li>
+    <li>LifeEvent-> Pemisahan</li>
+    <li>LifeEvent-> Landing</li>
+    <li>LifeEvent-> Revolution</li>
+    <li>LifeEvent-> Doa Archotech</li>
+    <li>LifeEvent-> Horax</li>
+    <li>LIFEEVENT-> MASALAH</li>
+    <li>LifeEvent-> Kecelakaan</li>
+    <li>LifeEvent-> Fleshmelding</li>
+    <li>LifeEvent-> Deathrest</li>
+    <li>LifeEvent-> Uprising</li>
+    <li>LifeEvent-> Chimera</li>
+    <li>LifeEvent-> Reverie</li>
+    <li>LifeEvent-> Ripperfall</li>
+    <li>LifeEvent-> Lobotomi</li>
+    <li>LifeEvent-> Infeksi Archite</li>
+    <li>volnumeral-> i</li>
+    <li>Volnumeral-> II</li>
+    <li>volnumeral-> iii</li>
+    <li>Volnumeral-> iv</li>
+    <li>volnumeral-> v</li>
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 2)-> [titletwoSubjects]</li>
+    <li>TitletWoSubjects-> Intro to [Subjectstuple]</li>
+    <li>TitletWoSubjects-> Analisis [SubjectStuple]</li>
+    <li>Maybe_Authored_title-> [Author_Gen]</li>
+    <li>Studi OUTHER_GEN-> [anypawn_nameindef]</li>
+    <li>OUTHER_GEN-> Catatan [anypawn_nameindef]</li>
+    <li>OUTHER_GEN-> Seminar [anypawn_nameindef]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, p = 2)-> [authored_title_gen]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [authored_title_gen_two]</li>
+    <li>Panduan Authored_Title_Gen-> [anypawn_nameindef] untuk [subjek_primary]</li>
+    <li>writored_title_gen-> intro [anypawn_nameindef] untuk [subjek_primary]</li>
+    <li>waspada_title_gen_two-> [anypawn_nameindef] panduan untuk [SubjectStuple]</li>
+    <li>writored_title_gen_two-> [anypawn_nameindef] dari [SubjectStuple]</li>
+    <li>SubjectStuple (has_subject_secondary == true, p = 2)-> [subjek_primary] dan [subjek_secondary]</li>
+    <li>SubjectStuple (has_subject_secondary == true)-> [subjek_secondary] dan [randtheme]</li>
+    <li>SubjectStuple-> [Subject_Primary] dan [RandTheme]</li>
+    <li>Randadjective-> BASIC</li>
+    <li>Randadjective-> terbaik</li>
+    <li>Randadjective-> GlitterWorld</li>
+    <li>Randadjective-> Abad Pertengahan</li>
+    <li>Randadjective-> Archaic</li>
+    <li>Randadjective-> Lurid</li>
+    <li>Randadjective-> Twilight</li>
+    <li>Randadjective-> Deathworld</li>
+    <li>Randadadjective-> aneh</li>
+    <li>Randadjective-> Sepulchral</li>
+    <li>Randadjective-> Kudus</li>
+    <li>Randadjective-> Gelap</li>
+    <li>Randadjective-> Subworld</li>
+    <li>randadjective-> primitif</li>
+    <li>Randadjective-> Survival</li>
+    <li>Randadjective-> stygian</li>
+    <li>Randadjective-> Morose</li>
+    <li>Randadjective-> Haunting</li>
+    <li>Randadjective-> Cryptic</li>
+    <li>Randadjective-> Terkutuk</li>
+    <li>RandTheme-> Engineering</li>
+    <li>Randtheme-> Folklore</li>
+    <li>Randtheme-> Fiksi Ilmiah</li>
+    <li>RandTheme-> Tips Survival</li>
+    <li>randtheme-> The Rim</li>
+    <li>Randtheme-> Autophagy</li>
+    <li>Randtheme-> Faith</li>
+    <li>randtheme-> hak</li>
+    <li>randtheme-> Ethics</li>-><Namer_Schematic.rulePack.rulesStrings>
+    <!-- EN: 
+    <li>Judul-> Desain [Subject_Primary]</li>
+    <li>Judul-> Catatan di [Subject_Primary]</li>
+    <li>Judul-> Terobosan di [Subject_Primary]</li>
+    <li>Judul-> Studi di [Subject_Primary]</li>
+    <li>Judul-> Aplikasi Novel untuk [Subjek_Primary]</li>
+    <li>Judul-> Memahami [Subject_Primary]</li>
+    <li>Judul-> Prinsip [Subject_Primary]</li>
+    <li>Judul-> Dasar-dasar [Subject_Primary]</li>
+    <li>Judul-> [Subjek_Primary]: Bagian [Volnumeral]</li>
+    <li>Judul-> [Subject_Primary] Vol.[Volnumeral]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary] Vol.[Volnumeral]</li>
+    <li>Judul-> [mungkin_Authored_title]</li>
+    <li>title (has_subject_secondary == true)-> [StudiessTart] [Subject_Primary] di sektor [subjek_secondary]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary] Mengikuti [LifeEvent]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary]: [Anecdotes]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary]: A [RandAdjective] [DiskusiNoun]</li>
+    <li>Judul-> [RandAdjective] [Subject_Primary] [ReferenceType]</li>
+    <li>Judul-> [ReferenceType] dari [RandAdjective] [Subject_Primary], vol.[Volnumeral]</li>
+    <li>Judul-> [StudiessTart] [RandAdjective] [Subject_Primary], vol.[Volnumeral]</li>
+    <li>Judul-> [ReferenceType] dari [StudiessTart] [RandAdjective] [Subject_Primary]</li>
+    <li>Judul-> [LifeEvent] [DiskusiNoun] dan [Subject_Primary]</li>-><li>Judul-> Diseño [subjek_primary_def]</li>
+    <li>Judul-> Catatan di [Subject_Primary]</li>
+    <li>Judul-> un gran avance en [subjek_primary]</li>
+    <li>Judul-> Studi tentang [Subject_Primary]</li>
+    <li>Judul-> Aplikasi Novel untuk [Subjek_Primary]</li>
+    <li>Judul-> Entendimiento [subjek_primary_def]</li>
+    <li>judul-> prinsip los [subjek_primary_def]</li>
+    <li>Judul-> fundamental los [subjek_primary_def]</li>
+    <li>Judul-> [Subject_Primary]: Parte [Volnumeral]</li>
+    <li>Judul-> [Subject_Primary] Vol.[Volnumeral]</li>
+    <li>Judul-> [Subject_Primary] [RandAdjective]</li>
+    <li>Judul-> [Subject_Primary] [RandAdjective] Vol.[Volnumeral]</li>
+    <li>Judul-> [mungkin_Authored_title]</li>
+    <li>title (has_subject_secondary == true)-> [StudiessTart] [subjek_primary] en el sektor [subjek_secondary_def]</li>
+    <li>Judul-> [StudiestArt] [subjek utama] siguiendo [acara kehidupan]</li>
+    <li>Judul-> [Anecdotes] de [StudiessTart] [Subject_Primary]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary]: [DiskusiNoun_indef] [RandAdjective]</li>
+    <li>Judul-> [ReferenceType] De [Subject_Primary] [RandAdjective]</li>
+    <li>Judul-> [ReferenceType] de [Subject_Primary] [RandAdjective], vol.[Volnumeral]</li>
+    <li>Judul-> [StudiessTart] [Subject_Primary] [RandAdjective], vol.[Volnumeral]</li>
+    <li>Judul-> [ReferenceType] De [StudiessTart] [Subject_Primary] [RandAdjective]</li>
+    <li>Judul-> [LifeEvent], [DiskusiNoun] Sobre [Subject_Primary]</li>
+    <!-- EN:  
+    <li>StudiessTart-> Studi di</li>
+    <li>StudiessTart-> Fundamentals of</li>
+    <li>StudiessTart-> Mengelola</li>
+    <li>StudiessTart-> Histories of</li>
+    <li>StudiessTart-> Bekerja di</li>
+    <li>StudiessTart-> Representasi dari</li>
+    <li>studiesstart-> bertahan</li>
+    <li>StudiessTart-> Kemajuan dalam</li>
+    <li>StudiessTart-> Aplikasi</li>
+    <li>studiesstart-> membentuk masa depan</li>
+    <li>StudiessTart-> Dokumentasi</li>-><li>StudiessTart-> Studi di</li>
+    <li>StudiessTart-> Fundamentals of</li>
+    <li>StudiessTart-> Manajemen</li>
+    <li>Studiesstart-> cerita</li>
+    <li>StudiessTart-> karya</li>
+    <li>StudiessTart-> Representasi dari</li>
+    <li>Studiesstart-> kelangsungan hidup</li>
+    <li>StudiessTart-> Avances the</li>
+    <li>StudiessTart-> Aplikasi</li>
+    <li>Studiesstart-> definisi masa depan</li>
+    <li>StudiessTart-> Dokumentasi dari</li>
+    <!-- EN:  
+    <li>Referencetype-> Encyclopedia</li>
+    <li>Referencetype-> Dictionary</li>
+    <li>Referencetype-> Almanac</li>
+    <li>ReferenceType-> Daftar</li>
+    <li>Referencetype-> Annal</li>
+    <li>Referencetype-> Record</li>
+    <li>ReferenceType-> Buku Panduan</li>
+    <li>Referencetype-> Chronicle</li>
+    <li>Referencetype-> Mentor</li>
+    <li>Referencetype-> Toolbox</li>-><li>Referencetype-> di ensiklopedia</li>
+    <li>Referencetype-> The Dictionary</li>
+    <li>Referencetype-> Almanac</li>
+    <li>Referencetype-> Registrasi</li>
+    <li>Referencetype-> The Chronicle</li>
+    <li>Referencetype-> file</li>
+    <li>Referencetype-> The Compendium</li>
+    <li>Referencetype-> The Story</li>
+    <li>Referencetype-> EL Tutorial</li>
+    <li>Referencetype-> repertoar</li>
+    <!-- EN:  
+    <li>anekdot-> pikiran</li>
+    <li>anekdot-> anekdot</li>
+    <li>anekdot-> dongeng rakyat</li>
+    <li>anekdot-> desas-desus</li>
+    <li>anekdot-> cerita</li>
+    <li>anekdot-> narasi</li>-><li>anekdot-> pikiran</li>
+    <li>anekdot-> anekdot</li>
+    <li>anekdot-> cerita populer</li>
+    <li>anekdot-> rumor</li>
+    <li>anekdot-> cerita</li>
+    <li>anekdot-> narasi</li>
+    <!-- EN:  
+    <li>DiskusiNoun-> Diskusi</li>
+    <li>DiskusiNoun-> Debat</li>
+    <li>DiskusiNoun-> Wacana</li>
+    <li>DiskusiNoun-> Dialog</li>
+    <li>DiskusiNoun-> Dialektika</li>
+    <li>DiskusiNoun-> Pemeriksaan</li>
+    <li>DiskusiNoun-> Konsultasi</li>
+    <li>DiskusiNoun-> Kontroversi</li>-><li>Diskusi-> Diskusi</li>
+    <li>DiskusiNoun-> Debat</li>
+    <li>Ceramah</li>
+    <li>Diskusi baru</li>
+    <li>DiskusiNonounun-> Dialéctico</li>
+    <li>DiskusiNoun-> Pemeriksaan</li>
+    <li>Kata benda-> lihat diskusi</li>
+    <li>DiskusiNonounun-> Sengketa</li>
+    <li>DiskusiNoun_indef-> Diskusi</li>
+    <li>DiskusiNoun_indef-> debat un</li>
+    <li>DiskusiNonouno_indf-> Diskusi</li>
+    <li>Dialog noun_indef-></li>
+    <li>DiskusiNonouno_indf-> Dialéctico</li>
+    <li>DiskusiNoun_indef-> sebuah pemeriksaan</li>
+    <li>Noun_indef-> Diskusi Indelity</li>
+    <li>Noun_indef-> Diskusi kedalaman sebuah kontroversi</li>
+    <!-- EN:  
+    <li>LifeEvent-> Cedera</li>
+    <li>LifeEvent-> Cloning</li>
+    <li>LifeEvent-> Trauma</li>
+    <li>LifeEvent-> Pemisahan</li>
+    <li>LifeEvent-> Landing</li>
+    <li>LifeEvent-> Revolution</li>
+    <li>LifeEvent-> Doa Archotech</li>
+    <li>LifeEvent-> Horax</li>
+    <li>LIFEEVENT-> MASALAH</li>
+    <li>LifeEvent-> Kecelakaan</li>
+    <li>LifeEvent-> Fleshmelding</li>
+    <li>LifeEvent-> Deathrest</li>
+    <li>LifeEvent-> Uprising</li>
+    <li>LifeEvent-> Chimera</li>
+    <li>LifeEvent-> Reverie</li>
+    <li>LifeEvent-> Ripperfall</li>
+    <li>LifeEvent-> Lobotomi</li>
+    <li>LifeEvent-> Infeksi Archite</li>-><li>LifeEvent-> Cedera</li>
+    <li>LifeEvent-> Cloning</li>
+    <li>LifeEvent-> El Trauma</li>
+    <li>LifeEvent-> Pemisahan</li>
+    <li>LifeEvent-> Landing</li>
+    <li>LifeEvent-> The Revolution</li>
+    <li>LifeEvent-> Doa Archeotc</li>
+    <li>LifeEvent-> El Horax</li>
+    <li>LIFEEVENT-> MASALAH</li>
+    <li>LifeEvent-> Kecelakaan</li>
+    <li>LiveEvent-> la Carnifusion</li>
+    <li>LifeEvent-> The Deadly</li>
+    <li>LifeEvent-> The Uprising</li>
+    <li>LifeEvent-> The Chimera</li>
+    <li>LifeEvent-> The Dream</li>
+    <li>LifeEvent-> The Cataract</li>
+    <li>LifeEvent-> Lobotomi</li>
+    <li>LifeEvent-> Infeksi Archite</li>
+    <!-- EN:  
+    <li>volnumeral-> i</li>
+    <li>Volnumeral-> II</li>
+    <li>volnumeral-> iii</li>
+    <li>Volnumeral-> iv</li>
+    <li>volnumeral-> v</li>-><li>volnumeral-> i</li>
+    <li>Volnumeral-> II</li>
+    <li>volnumeral-> iii</li>
+    <li>Volnumeral-> iv</li>
+    <li>volnumeral-> v</li>
+    <li>volnumeral-> kami</li>
+    <li>Volnumeral-> vii</li>
+    <li>volnumeral-> viii</li>
+    <li>volnumeral-> ix</li>
+    <li>Volnumeral-> x</li>
+    <!-- EN:  
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 2)-> [titletwoSubjects]</li>
+    <li>TitletWoSubjects-> Intro to [Subjectstuple]</li>
+    <li>TitletWoSubjects-> Analisis [SubjectStuple]</li>
+    <li>Maybe_Authored_title-> [Author_Gen]</li>
+    <li>Studi OUTHER_GEN-> [anypawn_nameindef]</li>
+    <li>OUTHER_GEN-> Catatan [anypawn_nameindef]</li>
+    <li>OUTHER_GEN-> Seminar [anypawn_nameindef]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, p = 2)-> [authored_title_gen]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [authored_title_gen_two]</li>-><li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 2)-> [titletwoSubjects]</li>
+    <li>TitletWoSubjects-> Pengantar [SubjectStuple]</li>
+    <li>titletwoSubjects-> análisis [subjekstuple_def]</li>
+    <li>Maybe_Authored_title-> [Author_Gen]</li>
+    <li>Author_Gen-> Studi [anypawn_nameindef]</li>
+    <li>Author_Gen-> Catatan [anypawn_nameindef]</li>
+    <li>Outhor_Gen-> [anypawn_nameindef] Seminar]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, p = 2)-> [authored_title_gen]</li>
+    <li>mungkin_authored_title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [authored_title_gen_two]</li>
+    <!-- EN:  
+    <li>Panduan Authored_Title_Gen-> [anypawn_nameindef] untuk [subjek_primary]</li>
+    <li>writored_title_gen-> intro [anypawn_nameindef] untuk [subjek_primary]</li>
+    <li>waspada_title_gen_two-> [anypawn_nameindef] panduan untuk [SubjectStuple]</li>
+    <li>writored_title_gen_two-> [anypawn_nameindef] dari [SubjectStuple]</li>
+    <li>SubjectStuple (has_subject_secondary == true, p = 2)-> [subjek_primary] dan [subjek_secondary]</li>
+    <li>SubjectStuple (has_subject_secondary == true)-> [subjek_secondary] dan [randtheme]</li>
+    <li>SubjectStuple-> [Subject_Primary] dan [RandTheme]</li>-><li>writored_title_gen-> guía d [subjek_primary_def] de [anypawn_nameindef]</li>
+    <li>authored_title_gen-> pengantar de [anypawn_nameindef] a [subjek_primary]</li>
+    <li>authored_title_gen_two-> [anypawn_nameindef]</li>
+    <li>authored_title_gen_two-> pengantar de [anypawn_nameindef] A [subjekstuple]</li>
+    <li>SubjectStuple (has_subject_secondary == true, p = 2)-> [subjek_primary] y [subjek_secondary]</li>
+    <li>SubjectStuple (has_subject_secondary == true)-> [subjek_secondary] [randtheme]</li>
+    <li>SubjectStuple_Def (Has_subject_secondary == true, p = 2)-> [subjek_primary_def] y [subjek_secondary]</li>
+    <li>SubjectStuple_Def (Has_subject_secondary == true)-> [subjek_secondary_def] [RandTheme]</li>
+    <li>SubjectStuple-> [Subject_Primary] [RandTheme]</li>
+    <!-- EN:  
+    <li>Randadjective-> BASIC</li>
+    <li>Randadjective-> terbaik</li>
+    <li>Randadjective-> GlitterWorld</li>
+    <li>Randadjective-> Abad Pertengahan</li>
+    <li>Randadjective-> Archaic</li>
+    <li>Randadjective-> Lurid</li>
+    <li>Randadjective-> Twilight</li>
+    <li>Randadjective-> Deathworld</li>
+    <li>Randadadjective-> aneh</li>
+    <li>Randadjective-> Sepulchral</li>
+    <li>Randadjective-> Kudus</li>
+    <li>Randadjective-> Gelap</li>
+    <li>Randadjective-> Subworld</li>
+    <li>randadjective-> primitif</li>
+    <li>Randadjective-> Survival</li>
+    <li>Randadjective-> stygian</li>
+    <li>Randadjective-> Morose</li>
+    <li>Randadjective-> Haunting</li>
+    <li>Randadjective-> Cryptic</li>
+    <li>Randadjective-> Terkutuk</li>-><li>Randadjational-> Brillante</li>
+    <li>Randadjective-> Espiritual</li>
+    <li>Randadjective-> Pacifista</li>
+    <li>Randadjective-> Abad Pertengahan</li>
+    <li>Randadjective-> intelektual</li>
+    <li>Pantai-> Interesants</li>
+    <li>Randadjective-> crepuscular</li>
+    <li>Randadjective-> de Deathworld</li>
+    <li>Randadjective-> Mortal</li>
+    <li>Randadjective-> Makam</li>
+    <li>Randadjective-> berguna</li>
+    <li>Randadjective-> dari horor</li>
+    <li>Randadjective-> de Subworld</li>
+    <li>Randadjective-> inquietante</li>
+    <li>Randadjective-> Survival</li>
+    <li>Randadjective-> Horripilants</li>
+    <li>randadjective-> fleksibel</li>
+    <li>Randadjective-> transendental</li>
+    <li>Randadjective-> informal</li>
+    <li>Randadjective-> Infernal</li>
+    <li>Randadjective-> Celestial</li>
+    <!-- EN:  
+    <li>RandTheme-> Engineering</li>
+    <li>Randtheme-> Folklore</li>
+    <li>Randtheme-> Fiksi Ilmiah</li>
+    <li>RandTheme-> Tips Survival</li>
+    <li>randtheme-> The Rim</li>
+    <li>Randtheme-> Autophagy</li>
+    <li>Randtheme-> Faith</li>
+    <li>randtheme-> hak</li>
+    <li>randtheme-> Ethics</li>-><li>Randtheme-> dan rekayasa</li>
+    <li>Randtheme-> dan cerita rakyat</li>
+    <li>Randtheme-> dan fiksi ilmiah</li>
+    <li>Randtheme-> dan tips bertahan hidup</li>
+    <li>Randtheme-> dan tepi</li>
+    <li>Randtheme-> dan autophagy</li>
+    <li>Randtheme-> dan iman</li>
+    <li>Randtheme-> dan hak</li>
+    <li>Randtheme-> dan etika</li>
+  </Namer_Schematic.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>Judul-> [TitleBasic]</li>
+    <li>judul (p = 2)-> [titleAuthored]</li>
+    <li>Judul (p = 2)-> [TitleAuthoredNoSubject]</li>
+    <li>title (length_subject_primary [less_than] 20, p = 4)-> [titleAuthoredOneSubject]</li>
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [titleBasictWoSubjects]</li>
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [titleauthoredTwoSubjects]]</li>
+    <li>TitleBasic (p = 6)-> [randadjective] [subjek_primary]</li>
+    <li>TitleBasic (p = 6)-> [Randnoun] dan [Subject_Primary]</li>
+    <li>TitleBasic-> Pelajaran di [Subject_Primary]</li>
+    <li>TitleBasic-> berpikir tentang [subjek_primary]</li>
+    <li>TitleBasic-> Panduan untuk [Subject_Primary]</li>
+    <li>TitleBasic-> Pengantar [Subject_Primary]</li>
+    <li>TitleBasic-> Primer di [Subject_Primary]</li>
+    <li>TitleBasic-> Essentials of [Subject_Primary]</li>
+    <li>TitleBasic-> Penguasaan di [Subject_Primary]</li>
+    <li>TitleBasic-> Dasar-dasar [Subject_Primary]</li>
+    <li>TitleBasic-> Navigasi [Subject_Primary]</li>
+    <li>TitleBasic-> Konsep Kunci di [Subject_Primary]</li>
+    <li>TitleBasic-> The Art of [Subject_Primary]</li>
+    <li>TitleBasic-> Masterclass: [Subject_Primary]</li>
+    <li>TitleBasic-> Decoding [Subject_Primary]</li>
+    <li>TitleBasic-> Teknik Lanjutan di [Subject_Primary]</li>
+    <li>TitleBasic-> Unlocking [Subject_Primary]</li>
+    <li>TitleBasic-> Panduan Praktis untuk [Subject_Primary]</li>
+    <li>TitleBasic-> Exploring [Subject_Primary]</li>
+    <li>TitleBasic-> Pro Tips: [Subject_Primary]</li>
+    <li>TitleBasic-> Memahami [Subject_Primary]</li>
+    <li>TitleBasic-> Journey Through [Subject_Primary]</li>
+    <li>TitleBasic-> Cara [Subject_Primary]</li>
+    <li>TitleBasic-> Wawasan ke [Subject_Primary]</li>
+    <li>TitleBasic-> Unraveling [Subject_Primary]</li>
+    <li>TitleBasic-> Rahasia [Subject_Primary]</li>
+    <li>TitleBasic-> Mastering [Subject_Primary]</li>
+    <li>TitleBasic-> Studi mendalam [Subject_Primary]</li>
+    <li>TitleAuthoredNoSubject-> Studi [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Studi [anypawn_nameindef] [randadjective]</li>
+    <li>TitleAuthoredNoSubject-> buku harian [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Chronicles [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> memoar [anypawn_nameindef]</li>
+    <li>Jurnal TitleAuthoredNoSubject-> [anypawn_nameindef]</li>
+    <li>titleauthoredNoSubject-> renungan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Petualangan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Refleksi [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Eksplorasi [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> kesaksian [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Odyssey [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Kehidupan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Kisah [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> The Legacy of [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Petualangan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> The Diaries of [anypawn_nameindef]</li>
+    <li>titleauthoredNoSubject-> The Wanderings of [anypawn_nameindef]</li>
+    <li>titleauthorednosubject-> renungan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Testimoni [anypawn_nameindef]</li>
+    <li>titleauthoredNoSubject-> The Chronicles of [anypawn_nameindef]</li>
+    <li>titleauthoredNoSubject-> memoar [anypawn_nameindef]</li>
+    <li>TitleAuthoredonesubject-> [anypawn_nameindef] di [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> [anypawn_nameindef] panduan untuk [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> intro [anypawn_nameindef] ke [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> [anypawn_nameindef] mengeksplorasi [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> wawasan [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> manual [anypawn_nameindef] di [subjek_primary]</li>
+    <li>TitleAuthoredOneSubject-> Perspektif [anypawn_nameindef] di [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> Buku Pegangan [anypawn_nameindef] untuk [Subject_Primary]</li>
+    <li>TitleAuthoredonesubject-> Analisis [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> pendekatan [anypawn_nameindef] untuk [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> penemuan [anypawn_nameindef] di [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> renungan [anypawn_nameindef] di [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> Studi [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> Investigasi [anypawn_nameindef] terhadap [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> Penelitian [anypawn_nameindef] di [subjek_primary]</li>
+    <li>titleauthoredtwoSubjects-> [anypawn_nameindef] di [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Panduan [anypawn_nameindef] untuk [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> [anypawn_nameindef] intro ke [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> [anypawn_nameindef] mengeksplorasi [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> wawasan [anypawn_nameindef] tentang [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> manual [anypawn_nameindef] di [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Perspektif [anypawn_nameindef] di [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Buku Pegangan [anypawn_nameindef] untuk [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Analisis [anypawn_nameindef] tentang [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> pendekatan [anypawn_nameindef] untuk [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> penemuan [anypawn_nameindef] di [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> renungan [anypawn_nameindef] di [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Studi [anypawn_nameindef] tentang [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Investigasi [anypawn_nameindef] ke [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Penelitian [anypawn_nameindef] tentang [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Intro to [Subjekstuple]</li>
+    <li>TitleBasictWoSubjects-> Yang Terbaik dari [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> menggabungkan [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Pelajaran tentang [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> Berpikir tentang [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Panduan untuk [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Pengantar [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Primer di [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Essentials of [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> Penguasaan di [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Fundamentals [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Navigasi [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Konsep Kunci di [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> The Art of [Subjekstuple]</li>
+    <li>TitleBasictWoSubjects-> Masterclass: [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> decoding [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Teknik Lanjutan di [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> membuka kunci [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> Panduan Praktis untuk [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> mengeksplorasi [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Pro Tips: [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Memahami [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Journey Through [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> The Way of [Subjekstuple]</li>
+    <li>TitleBasictWoSubjects-> Insights ke [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Uncaveling [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Rahasia [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Mastering [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Studi mendalam [SubjectStuple]</li>
+    <li>SubjectStuple (has_subject_secondary == true, p = 6)-> [subjek_primary] dan [subjek_secondary]</li>
+    <li>SubjectStuple-> [Subject_Secondary], [Subject_Primary], dan [RandTheme]</li>
+    <li>SubjectStuple-> [Subject_Primary] dan [RandTheme]</li>
+    <li>Randern-> Death</li>
+    <li>Randernun-> hidup</li>
+    <li>Randernun-> Love</li>
+    <li>Randern-> Pertumbuhan</li>
+    <li>randnoun-> keberanian</li>
+    <li>Randernun-> Kebijaksanaan</li>
+    <li>Randern-> Kesehatan</li>
+    <li>Randnoun-> Boomalopes</li>
+    <li>Randnoun-> Pirates</li>
+    <li>Randadjective-> BASIC</li>
+    <li>randadjective-> efisien</li>
+    <li>randadjective-> bijaksana</li>
+    <li>randadjective-> spektakuler</li>
+    <li>randadjective-> ceroboh</li>
+    <li>Randadjective-> Bad</li>
+    <li>randadjective-> bagus</li>
+    <li>Randadjective-> GlitterWorld</li>
+    <li>Randadjective-> pedesaan</li>
+    <li>Randadjective-> Abad Pertengahan</li>
+    <li>Randadjective-> terinspirasi</li>
+    <li>randadjective-> sehat</li>
+    <li>randadjective-> nefarious</li>
+    <li>randadjective-> kacau</li>
+    <li>randadjective-> lucu</li>
+    <li>Randtheme-> Pengetahuan</li>
+    <li>RandTheme-> Perbaikan Diri</li>
+    <li>randtheme-> pemahaman</li>-><Namer_TextBook.rulePack.rulesStrings>
+    <li>Judul-> [TitleBasic]</li>
+    <li>judul (p = 2)-> [titleAuthored]</li>
+    <li>Judul (p = 2)-> [TitleAuthoredNoSubject]</li>
+    <li>title (length_subject_primary [less_than] 20, p = 4)-> [titleAuthoredOneSubject]</li>
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [titleBasictWoSubjects]</li>
+    <li>title (length_subject_primary [less_than] 20, has_subject_secondary == true, length_subject_secondary [less_than] 20, p = 4)-> [titleauthoredTwoSubjects]]</li>
+    <li>TitleBasic (p = 6)-> [Subject_Primary], UNA Literatura [RandAdjective]</li>
+    <li>TitleBasic (p = 6)-> [randnoun] y [subjek_primary]</li>
+    <li>TitleBasic-> Pelajaran [Subject_Primary]</li>
+    <li>TitleBasic-> Pikiran di [Subject_Primary]</li>
+    <li>TitleBasic-> Panduan untuk [Subject_Primary]</li>
+    <li>TitleBasic-> Pengantar [Subject_Primary]</li>
+    <li>TitleBasic-> un manual sobre [subjek_primary]</li>
+    <li>TitleBasic-> Fundamentals of [Subject_Primary]</li>
+    <li>TitleBasic-> Master di [Subject_Primary]</li>
+    <li>TitleBasic-> Fondasi [Subject_Primary]</li>
+    <li>TitleBasic-> Navigasi EL [Subject_Primary]</li>
+    <li>TitleBasic-> Konsep Kunci di [Subject_Primary]</li>
+    <li>TitleBasic-> El Art of [Subject_Primary]</li>
+    <li>TitleBasic-> Clase Magistral: [Subject_Primary]</li>
+    <li>TitleBasic-> Descodificando: [Subject_Primary]</li>
+    <li>TitleBasic-> Teknik Avanzed dan [Subject_Primary]</li>
+    <li>TitleBasic-> [Subject_Primary]</li>
+    <li>TitleBasic-> Panduan Praktis untuk [Subject_Primary]</li>
+    <li>TitleBasic-> Menjelajahi EL [Subject_Primary]</li>
+    <li>TitleBasic-> Saran Profesional: [Subject_Primary]</li>
+    <li>TitleBasic-> pemahaman tentang [subjek_primary]</li>
+    <li>TitleBasic-> Journey Through [Subject_Primary]</li>
+    <li>TitleBasic-> El Camino de [Subject_Primary]</li>
+    <li>TitleBasic-> Perspektif di [Subject_Primary]</li>
+    <li>TitleBasic-> [Subject_Primary]</li>
+    <li>TitleBasic-> [Subject_Primary] Rahasia</li>
+    <li>TitleBasic-> Master of [Subject_Primary]</li>
+    <li>TitleBasic-> Studi mendalam [Subject_Primary]</li>
+    <li>TitleAuthoredNoSubject-> [anypawn_nameindef] Studi]]</li>
+    <li>titleauthorednosubject-> estudios [randadjective] de [anypawn_nameindef] s</li>
+    <li>TitleauthoredNoSubject-> Diario de [anypawn_nameindef]</li>
+    <li>TitleAuthoredosubject-> Chronicles of [anypawn_nameindef]</li>
+    <li>TitleauthoredNoSubject-> Memories [anypawn_nameindef]</li>
+    <li>TitleauthoredNoSubject-> Bitácora de [anypawn_nameindef]</li>
+    <li>TitleAuthoredOsubject-> Refleksi [anypawn_nameindef]</li>
+    <li>titleAuthoredNoSubject-> aventuras de [anypawn_nameindef] s</li>
+    <li>TitleAuthoredOsubject-> Refleksi [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Eksplorasi [anypawn_nameindef]</li>
+    <li>TitleAuthoredOsubject-> Testimoni dari [anypawn_nameindef]</li>
+    <li>TitleauthoredNoSubject-> Odyssey dari [anypawn_nameindef]</li>
+    <li>TitleAuthoredOsubject-> The Journey of [anypawn_nameindef]</li>
+    <li>titleauthoredNoSubject-> la vida de [anypawn_nameindef]</li>
+    <li>TitleAuthoredOsubject-> Kisah [anypawn_nameindef]</li>
+    <li>Titleauthoredosubject-> The Legacy of [anypawn_nameindef]</li>
+    <li>Titleauthoredosubject-> petualangan [anypawn_nameindef]</li>
+    <li>Titleauthoredosubject-> surat kabar [anypawn_nameindef]</li>
+    <li>Titleauthoredosubject-> petualangan [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Refleksi [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> Testimoni [anypawn_nameindef]</li>
+    <li>TitleAuthoredNoSubject-> The Chronics of [anypawn_nameindef]</li>
+    <li>Titleauthoredosubject-> memoar [anypawn_nameindef]</li>
+    <li>TitleAuthoredonesubject-> [anypawn_nameindef] en [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> [Subject_Primary] Panduan dari [anypawn_nameindef]</li>
+    <li>titleauthoredonesubject-> pengantar de [anypawn_nameindef] a [subjek_primary]</li>
+    <li>Titleauthoredonesubject-> eksplorasi [anypawn_nameindef] di [subjek_primary]</li>
+    <li>titleauthoredonesubject-> Opinies de [anypawn_nameindef] sobre [subjek_primary]</li>
+    <li>titleauthoredonesubject-> manual de [anypawn_nameindef] sobre [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> Perspektif [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>titleauthoredonesubject-> manual de [anypawn_nameindef] para [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> analisis [subjek_primary] oleh [anypawn_nameindef]</li>
+    <li>titleauthoredonesubject-> acercamiento de [anypawn_nameindef] a [subjek_primary]</li>
+    <li>TitleAuthoredonesubject-> penemuan [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>titleauthoredonesubject-> reflexiones de [anypawn_nameindef] sobre [subjek_primary]</li>
+    <li>titleauthoredonesubject-> estudio de [anypawn_nameindef] sobre [subjek_primary]</li>
+    <li>Titleauthoredonesubject-> investigación dari [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>Titleauthoredonesubject-> investigación dari [anypawn_nameindef] tentang [subjek_primary]</li>
+    <li>titleauthoredtwoSubjects-> [anypawn_nameindef] en [SubjectStuple]</li>
+    <li>titleauthoredtwoSubjects-> pengantar de [anypawn_nameindef] A [subjekstuple]</li>
+    <li>titleauthoredtwoSubjects-> [anypawn_nameindef] en [SubjectStuple]</li>
+    <li>TitleauThoredTwoSubjects-> [Subjectle] Panduan dari [anypawn_nameindef]</li>
+    <li>titleauthoredtwoSubjects-> pengantar de [anypawn_nameindef] A [subjekstuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Eksplorasi [anypawn_nameindef] di [Subjectle]</li>
+    <li>TitleAuthoredTwoSubjects-> Opinies de [anypawn_nameindef] sobre [SubjectStuple]</li>
+    <li>titleauthoredtwoSubjects-> manual de [anypawn_nameindef] sobre [SubjectStuple]</li>
+    <li>TitleauThoredTwoSubjects-> Perspektif [anypawn_nameindef] tentang [Subjectple]</li>
+    <li>titleauthoredtwoSubjects-> manual de [anypawn_nameindef] para [SubjectStuple]</li>
+    <li>TitleauThoredTwoSubjects-> [Subject] Analisis oleh [anypawn_nameindef]</li>
+    <li>titleauthoredtwoSubjects-> acercamiento de [anypawn_nameindef] a [subjekstuple]</li>
+    <li>TitleauthoredtwoSubjects-> penemuan [anypawn_nameindef] tentang [Subjectle]</li>
+    <li>TitleauthoredTwoSubjects-> Reflexiones de [anypawn_nameindef] sobre [SubjectStuple]</li>
+    <li>titleauthoredtwoSubjects-> estudio de [anypawn_nameindef] sobre [SubjectStuple]</li>
+    <li>TitleAuthoredTwoSubjects-> Penelitian dari [anypawn_nameindef] di [Subjectle]</li>
+    <li>TitleauThoredTwoSubjects-> Investigación dari [anypawn_nameindef]</li>
+    <li>TitleBasictWoSubjects-> [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> PENDAHULUAN A [SUBBOKSTUPLE]</li>
+    <li>TitleBasictWoSubjects-> Lo Mejor de [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Kombinasi [Subjectle]</li>
+    <li>TitleBasictWoSubjects-> Pelajaran tentang [Subjectle]</li>
+    <li>TitleBasictWoSubjects-> un manual sobre [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Fundamentals of [SubjectPleple]</li>
+    <li>TitleBasictWoSubjects-> maestría en [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Cimientos de [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Navegando El [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Conceptos Clave en [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> El Arte de [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Clase Magistral: [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> decoding [Subjectle]</li>
+    <li>TitleBasictWoSubjects-> Teknik Avanzed dan [Subjecttple]</li>
+    <li>TitleBasictWoSubjects-> Desbloqueo de [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Panduan Praktis untuk [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Explorando el [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Saran Profesional: [Subjekuple]]</li>
+    <li>TitleBasictWoSubjects-> Memahami [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> bepergian ke [Subjecttple]</li>
+    <li>TitleBasictWoSubjects-> El Camino de [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Perspektif tentang [SubjectTPle]</li>
+    <li>TitleBasictWoSubjects-> Secretos de [SubjectSuple]</li>
+    <li>TitleBasictWoSubjects-> Máster en [SubjectStuple]</li>
+    <li>TitleBasictWoSubjects-> Studi mendalam [SubjectStuple]</li>
+    <li>SubjectStuple (has_subject_secondary == true, p = 6)-> [subjek_primary] y [subjek_secondary]</li>
+    <li>SubjectStuple-> [Subject_Secondary], [Subject_Primary], y [randtheme]</li>
+    <li>SubjectStuple-> [Subject_Primary] y [randtheme]</li>
+    <li>Randnoun-> Death</li>
+    <li>Randnoun-> Life</li>
+    <li>Randern-> Amor</li>
+    <li>Randnoun-> pertumbuhan</li>
+    <li>Randnoun-> Valor</li>
+    <li>randNoun->Sabiduría</li>
+    <li>Randnoun-> Kesehatan</li>
+    <li>Randnoun-> Bumalopes</li>
+    <li>Randnoun-> Pirates</li>
+    <li>Randadjective-> Primordial</li>
+    <li>Randadjective-> efisien</li>
+    <li>Randadjective-> fasih</li>
+    <li>Randadjective-> spektakuler</li>
+    <li>Randadjective-> Reguler</li>
+    <li>Randadjective-> Magistral</li>
+    <li>Randadjective-> decente</li>
+    <li>Randadjective-> de Mundobrillante</li>
+    <li>Randadjective-> pedesaan</li>
+    <li>Randadjective-> Abad Pertengahan</li>
+    <li>randadjective-> biasa-biasa saja</li>
+    <li>randadjective-> astral</li>
+    <li>Randadjective-> Cultural</li>
+    <li>Randadjective-> Alegre</li>
+    <li>Randadjective-> Special</li>
+    <li>Randtheme-> Pengetahuan</li>
+    <li>RandTheme-> Pribadi Mengatasi</li>
+    <li>Randtheme-> pemahaman</li>
+  </Namer_TextBook.rulePack.rulesStrings>
+  
+</LanguageData>

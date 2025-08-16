@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech cluster -->
+  <MechCluster.label>Metaconglomerate</MechCluster.label>
+  <!-- EN: Mechanoid cluster -->
+  <MechCluster.letterLabel>Metaconglomerate</MechCluster.letterLabel>
+  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <MechCluster.letterText>Grup tempur Mechanid mendarat di dekatnya.Mecaconglomerate pada awalnya tidak akan aktif, sehingga Anda dapat meluangkan waktu untuk memutuskan bagaimana menyerangnya.Mecaconglomerat yang tidak aktif dapat mengumpulkan penyerang mecanoid dari waktu ke waktu, atau memiliki efek negatif yang lebih luas yang pada akhirnya Anda harus menjaga diri sendiri.</MechCluster.letterText>
+  
+  <!-- EN: abasia join -->
+  <WandererJoinAbasia.label>orang dengan abasia bergabung</WandererJoinAbasia.label>
+  <WandererJoinAbasia.letterLabel>Starry Transport Capsule: {Pawn_Namedef}</WandererJoinAbasia.letterLabel>
+  <WandererJoinAbasia.letterText>A {Pawn_title}, bernama {Pawn_namedef}, telah menabrak kapsul transportasi di sekitarnya.Ada juga kemungkinan pemulihan yang cepat jika Anda beruntung.{Hediff_label} juga dapat disembuhkan dengan operasi khusus yang membutuhkan sejumlah besar obat mundobrillant.Atau: A} untuk berkontribusi setelah pulih, tetapi tidak akan berjalan secara sukarela.Jika Anda tidak ingin saya tinggal, Anda dapat memilih untuk membuang {Pawn_objective}, jual {Pawn_objective} sebagai budak {Pawn_gender?O: a} atau tinggalkan {pawn_objective} die.Namun, opsi itu mungkin tidak menyukai pemukim Anda.</WandererJoinAbasia.letterText>
+  
+</LanguageData>

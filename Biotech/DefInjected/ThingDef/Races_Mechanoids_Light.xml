@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agrihand -->
+  <Mech_Agrihand.label>tangan pertanian</Mech_Agrihand.label>
+  <!-- EN: A small mechanoid designed to sow and harvest crops. While it is better suited to labor than combat, it can fight with built-in cutting blades if necessary. -->
+  <Mech_Agrihand.description>Mekanoid kecil yang dirancang untuk menabur dan memanen.Meskipun lebih cocok untuk bekerja daripada untuk pertempuran, ia dapat bertarung dengan bilah pemotongan yang dimasukkan jika perlu.</Mech_Agrihand.description>
+  <!-- EN: head -->
+  <Mech_Agrihand.tools.head.label>kepala</Mech_Agrihand.tools.head.label>
+  <!-- EN: right blade -->
+  <Mech_Agrihand.tools.right_blade.label>Bilah kanan</Mech_Agrihand.tools.right_blade.label>
+  <!-- EN: blade -->
+  <Mech_Agrihand.tools.right_blade.labelNoLocation>bilah</Mech_Agrihand.tools.right_blade.labelNoLocation>
+  
+  <!-- EN: cleansweeper -->
+  <Mech_Cleansweeper.label>pembersih</Mech_Cleansweeper.label>
+  <!-- EN: A light mechanoid designed for cleaning. Lacking a ranged weapon, it can make only weak melee attacks. -->
+  <Mech_Cleansweeper.description>Mecanoid ringan yang dirancang untuk dibersihkan.Tidak memiliki senjata jarak jauh, Anda hanya bisa melakukan serangan jarak dekat yang lemah.</Mech_Cleansweeper.description>
+  <!-- EN: head -->
+  <Mech_Cleansweeper.tools.head.label>kepala</Mech_Cleansweeper.tools.head.label>
+  
+  <!-- EN: constructoid -->
+  <Mech_Constructoid.label>Constructoide</Mech_Constructoid.label>
+  <!-- EN: A small mechanoid designed to perform construction tasks. It can perform blunt melee attacks if necessary. -->
+  <Mech_Constructoid.description>Mekanoid kecil yang dirancang untuk melakukan tugas konstruksi.Anda dapat melakukan serangan jarak dekat yang kuat jika perlu.</Mech_Constructoid.description>
+  <!-- EN: head -->
+  <Mech_Constructoid.tools.head.label>kepala</Mech_Constructoid.tools.head.label>
+  <!-- EN: torso -->
+  <Mech_Constructoid.tools.torso.label>batang tubuh</Mech_Constructoid.tools.torso.label>
+  
+  <!-- EN: fabricor -->
+  <Mech_Fabricor.label>perakit</Mech_Fabricor.label>
+  <!-- EN: A small work mechanoid designed to craft all manner of manufactured objects. -->
+  <Mech_Fabricor.description>Mekanid kerja kecil yang dirancang untuk menguraikan semua jenis benda yang diproduksi.</Mech_Fabricor.description>
+  <!-- EN: head -->
+  <Mech_Fabricor.tools.head.label>kepala</Mech_Fabricor.tools.head.label>
+  
+  <!-- EN: lifter -->
+  <Mech_Lifter.label>pengangkat</Mech_Lifter.label>
+  <!-- EN: A small mechanoid designed for hauling. Lacking a ranged weapon, it can make only weak melee attacks. -->
+  <Mech_Lifter.description>Mekanoid kecil yang dirancang untuk transportasi.Tidak memiliki senjata jarak jauh, Anda hanya bisa melakukan serangan jarak dekat yang lemah</Mech_Lifter.description>
+  <!-- EN: head -->
+  <Mech_Lifter.tools.head.label>kepala</Mech_Lifter.tools.head.label>
+  
+  <!-- EN: militor -->
+  <Mech_Militor.label>militor</Mech_Militor.label>
+  <!-- EN: A small combat mechanoid armed with a low-power mini-shotgun. Roughly four feet tall, militors lack the power, range, and toughness of more senior combat mechs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, mech armies are known to send militors into urban ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all mechanoid patterns. -->
+  <Mech_Militor.description>Tempur kecil mecanoid yang dipersenjatai dengan mini -ososkop kekuatan rendah.Kira -kira satu meter tinggi, militan tidak memiliki kekuatan, ruang lingkup, dan ketahanan dari mecas tempur paling canggih.Namun, itu murah untuk menggesek dan memelihara, sehingga biasanya digunakan sebagai belakang atau penyerang dalam kelompok besar.Untuk alasan ini, mereka dianggap oleh beberapa orang sebagai yang paling kejam dari semua mecanoids.</Mech_Militor.description>
+  <!-- EN: head -->
+  <Mech_Militor.tools.head.label>kepala</Mech_Militor.tools.head.label>
+  
+  <!-- EN: paramedic -->
+  <Mech_Paramedic.label>paramedis</Mech_Paramedic.label>
+  <!-- EN: A small mechanoid designed for non-violent emergency situation management and medical care. The paramedic can rescue the wounded, fight fires, treat the sick, and even perform surgery when a more-qualified human is not available. Its built-in jump launcher allows it to jump into, and out of, emergency situations, and its built-in firefoam popper can quickly extinguish fires. -->
+  <Mech_Paramedic.description>Mekanid kecil yang dirancang untuk pengelolaan situasi darurat dan perawatan medis yang tidak ada.Paramedis dapat menyelamatkan yang terluka, melawan api, mengobati orang sakit dan bahkan melakukan operasi bedah ketika tidak ada lagi manusia yang memenuhi syarat.Pitcher lompatan yang dibangun -dalam memungkinkan Anda untuk melompat ke dalam dan di luar situasi darurat, dan pelempar busa Anda yang dibangun dapat dengan cepat memadamkan api.</Mech_Paramedic.description>
+  <!-- EN: head -->
+  <Mech_Paramedic.tools.head.label>kepala</Mech_Paramedic.tools.head.label>
+  
+  <!-- EN: war urchin -->
+  <Mech_WarUrchin.label>Landak perang</Mech_WarUrchin.label>
+  <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy war queen mech. War urchins are expendable fighters designed to swarm-attack enemies. They are mounted with short-ranged spiner guns and have a non-rechargeable power source. -->
+  <Mech_WarUrchin.description>Mecanoid tempur drop -down kecil yang biasanya diproduksi di dalam ratu perang.Perang Herizos adalah pejuang yang dapat dihabiskan yang dirancang untuk menyerang musuh dalam kelompok besar.Mereka membawa meriam paku pendek -range dan memiliki sumber energi yang tidak dapat ditagih.</Mech_WarUrchin.description>
+  <!-- EN: head -->
+  <Mech_WarUrchin.tools.head.label>kepala</Mech_WarUrchin.tools.head.label>
+  
+</LanguageData>

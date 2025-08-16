@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>kecantikan</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Kecantikan mewakili kepuasan visual yang baru -baru ini diterima seseorang dari lingkungan mereka.Hal -hal indah seperti seni memuaskan kebutuhan akan keindahan ketika direnungkan, sementara permukaan yang jelek seperti kotoran dan batu mentah menguranginya.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>kenyamanan</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Kenyamanan diperoleh dengan tidur atau menggunakan furnitur yang nyaman diperoleh saat berbaring di tempat tidur, duduk di kursi saat bekerja, atau cara lain.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>kimia</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>"Químico" indica el deseo de consumir drogas. Cuando esté por encima de un nivel específico, se estará de buen humor, pero cuando esté por debajo el estado de ánimo será cada vez peor.</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>makanan</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>La comida es la cantidad de nutrición que una criatura ha consumido recientemente. Si llega a cero se desnutrirá cada vez más hasta morir.</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>bajo techo</Indoors.label>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>"Bajo techo" indica la necesidad de estar entre cuatro paredes y un techo. Se ve perjudicado si pasa tiempo al aire libre o sin un techo. Para aumentar esta necesidad más del 50%, el colono debe estar bajo una montaña, no solo un techo normal.</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>seru</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Yang menyenangkan adalah kebutuhan untuk melakukan hal -hal yang menyenangkan atau menghibur.Mengulangi jenis aktivitas yang sama menyebabkan pengurangan efektivitas kesenangan seperti itu, sehingga varietasnya diperlukan.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>humor</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Humor mewakili jumlah kebahagiaan atau stres orang tersebut.Jika humor jatuh sangat rendah, orang tersebut dapat mengalami keruntuhan mental.Bergantung pada seberapa rendah humor, seseorang dengan keruntuhan mental bisa bersembunyi di kamar mereka selama sehari, atau mencoba membunuh seseorang.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>area gratis</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Udara gratis mengungkapkan kebutuhan untuk tidak dikunci.Itu rusak karena melewati waktu yang lama di dalam, terutama di bawah tanah.Meningkatkan ketika seseorang menghabiskan waktu di bawah langit luar.Ini bukan ukuran kamar, tetapi tentang kebutuhan untuk berada di luar dari waktu ke waktu.Kurangnya waktu di luar ruangan adalah tantangan yang signifikan bagi orang yang tinggal di pangkalan bawah tanah.</Outdoors.description>
+  
+  <!-- EN: sleep -->
+  <Rest.label>istirahat</Rest.label>
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Istirahat adalah jumlah tidur yang baru -baru ini dinikmati seseorang.Jika nol, makhluk akan berakhir tertidur di tempat Anda berada.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>Ukuran kamar</RoomSize.label>
+  
+</LanguageData>

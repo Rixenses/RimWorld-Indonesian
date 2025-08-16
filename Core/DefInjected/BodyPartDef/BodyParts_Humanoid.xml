@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm -->
+  <Arm.label>lengan</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>klavikula</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>tulang paha</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>akumulasi</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>tangan</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>Humerus</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>panggul</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>radio</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>bahu</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>tulang dada</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>tulang kering</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>kaki</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>batang tubuh</Torso.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>pinggang</Waist.label>
+  
+</LanguageData>

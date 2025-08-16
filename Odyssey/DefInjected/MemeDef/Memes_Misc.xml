@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shipborn -->
+  <Shipborn.label>Cosmogenito</Shipborn.label>
+  <!-- EN: Humans were destined to live among the stars. -->
+  <Shipborn.description>Manusia ditakdirkan untuk hidup di antara bintang -bintang.</Shipborn.description>
+  <!-- EN:
+    <li>Creation (tag = meme_shipborn) -> [deity0_name] membentuk kemanusiaan dari debu [CelestialComponents], menghembuskan kehidupan ke dalam umat manusia dengan angin bintang [dewa0_posesif].</li>
+    <li>Episode (use = 1, tag = meme_shipborn) -> [deity0_name] membubarkan orang -orang hebat [place_name], mengirim mereka ke dalam kekosongan sehingga mereka dapat menyaksikan konvergensi bintang dan jiwa.</li>
+    <li>intro (tag = meme_shipborn) -> Pada zaman kegelapan, [deity0_name] melihat bahwa umat manusia membutuhkan bimbingan, dan memerintahkan [dewa0_possessive] [anggotaNameplural] untuk membangun kapal -kapal besar.</li>
+    <li>konflik (tag = meme_shipborn) -> Ketika [anggotanameplural] mulai memenuhi visi [dewa dewa], pengkhianat [foeleader] bergerak untuk mencegahnya.[foeleader_possessive] [Foesoldiers] memegang kejam [place_personalweapon] terhadap mereka yang mencoba naik kapal -kapal suci.</li>
+    <li>founderjoin (tag = meme_shipborn) -> a [place_job] bernama [foundername] mengumpulkan orang -orang percaya sejati, menuntun mereka ke [altarroomlabel] tersembunyi.Di sana [Founder_pronoun] menjadi [veneratedrole mereka].</li>
+    <li>Victory (TAG = MEME_SHIPBORN) -> Lalu [FoundName] berbicara dengan suara [Deity0_name].Dalam konvergensi cahaya dan energi yang cemerlang, [FoundName] kewalahan [pendiri_possessive] musuh dan memimpin [pendiri_possessive] orang -orang ke kapal -kapal suci.</li>
+    <li>Pengaturan (tag = meme_shipborn) -> di [founder_possessive] kapal ilahi, [FoundName] melakukan perjalanan laut bintang selama seribu tahun, berkomunikasi dengan roh surgawi dan membuka rahasia rahasia kosmos.</li>
+    <li>Story (use = 1, tag = meme_shipborn) -> [foundername] melihat bahwa nasib umat manusia hanya dapat dipenuhi di antara bintang -bintang.</li>
+    <li>LessonIntro (tag = meme_shipborn) -> Dalam perayaan saya [CelestialComponents], saya telah menemukan satu kebenaran di atas segalanya:</li>
+    <li>Pelajaran (tag = meme_shipborn) -> The Stars adalah [vesyatedrole] kami yang sebenarnya, dan itu adalah tugas kami untuk mencari kebijaksanaan mereka dan bepergian di antara mereka</li>
+    <li>Pelajaran (tag = meme_shipborn) -> umat manusia tidak pernah dimaksudkan untuk menjadi tahanan bagi batu.Kita harus hidup di antara langit</li>
+    <li>Pelajaran (tag = meme_shipborn) -> Kapal kami adalah ibu -ibu suci dan ayah sakral kami.Kita harus merawat mereka karena mereka telah merawat kita</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_SHIPBORN) -> Semoga kaki Anda tidak pernah menyentuh tanah.</li>
+    <li>Archistbasis (tag = meme_shipborn) -> Sejak kemunculannya, Archotech telah memperluas kesadaran mereka di antara bintang -bintang.</li>
+    <li>ArchistFact (tag = meme_shipborn) -> Archotechs melampaui batasan kehidupan planetbound.</li>
+    <li>ArchistProphecy (TAG = Meme_Shipborn) -> [Intheend], Archotechs akan mengajarkan kita untuk bergerak dengan mudah di antara bintang -bintang jika kita mengamati kebijaksanaan kosmik mereka.</li>
+    <li>Basis animist (tag = meme_shipborn) -> Nenek moyang kita telah melakukan perjalanan [komponen surgawi] dan mengajarkan kita untuk menganggap umat manusia dan entitas surgawi sebagai rekan.</li>
+    <li>animistfact (tag = meme_shipborn) -> roh yang sama yang menghuni benda -benda surgawi memandu nasib umat manusia.</li>
+    <li>Komponen Surgawi-> Bintang, Bulan, dan Komet</li>
+    <li>CelestialComponents-> The Cosmos</li>
+    <li>Komponen Surgawi-> Seribu Matahari</li>
+    <li>VeLeTatedRole-> Navigator</li>
+    <li>VeLeTatedRole-> Captain</li>-><Shipborn.descriptionMaker.rules.rulesStrings>
+    <li>Penciptaan (tag = meme_shipborn) -> [deity0_name] membentuk kemanusiaan dari debu [komponen selestial], meresapi kehidupan dengan kemanusiaan dengan angin bintangnya.</li>
+    <li>Episode (use = 1, tag = meme_shipborn) -> [deity0_name] membubarkan orang -orang hebat [place_name], mengirimkannya dalam ruang hampa sehingga mereka dapat menyaksikan konvergensi bintang -bintang dan jiwa.</li>
+    <li>intro (tag = meme_shipborn) -> Selama saat -saat tergelapnya, [deity0_name] melihat bahwa umat manusia membutuhkan panduan dan memerintahkan [anggotaNameplural] untuk membangun kapal besar.</li>
+    <li>Konflik (tag = meme_shypborn) -> Ketika [anggotaNameplural] mulai memenuhi visi [dewa0_name], pengkhianat [foeleader] dimobilisasi untuk mencegahnya.[Faesoldiers] -nya menggunakan kejam [place_personalweaponpl] terhadap mereka yang mencoba menangani kapal -kapal suci.</li>
+    <li>Founderjoin (tag = meme_shypborn) -> a [place_job] disebut [foundername] menyatukan orang -orang percaya sejati, membawa mereka ke [altarroomlabel] tersembunyi.Di sana [Founder_pronoun] menjadi [veneratedrole] -nya.</li>
+    <li>Victory (tag = meme_shipborn) -> lalu [foundername] berbicara dengan suara [deity0_name].Dalam konvergensi cahaya dan energi yang cemerlang, [nama pendiri] membanjiri musuh -musuhnya dan membawa orang -orangnya ke kapal -kapal suci.</li>
+    <li>Pengaturan (TAG = MEME_SHIPBORN) -> Di kapal ilahi -nya, [FoundName] melakukan perjalanan melalui Laut Bintang selama seribu tahun, berkomunikasi dengan roh -roh surgawi dan membuka rahasia rahasia kosmos.</li>
+    <li>Story (use = 1, tag = meme_shipborn) -> [foundername] melihat bahwa nasib umat manusia hanya dapat dipenuhi di antara bintang -bintang.</li>
+    <li>LessonIntr (TAG = Meme_Shipborn) -> Dalam pengamatan saya [CelestialComponents], saya telah menemukan kebenaran di atas semua yang lain:</li>
+    <li>Pelajaran (TAG = MEME_SHIPBORN) -> Bintang -bintang adalah [veneratedrole] kami yang sebenarnya dan merupakan tugas kami untuk mencari kebijaksanaan mereka dan melakukan perjalanan di antara mereka</li>
+    <li>Pelajaran (tag = meme_shipborn) -> Kemanusiaan tidak pernah ditakdirkan untuk menjadi tahanan batu.Kita harus hidup di antara langit</li>
+    <li>Pelajaran (tag = meme_shipborn) -> Kapal kami adalah ayah kita yang suci dan sakral.Kita harus merawat mereka karena mereka telah merawat kita</li>
+    <li>PELAJARAN PENDAFTARAN (TAG = MEME_SHIPBORN) -> Bahwa kaki Anda tidak pernah menyentuh tanah.</li>
+    <li>ArchistBasis (tag = meme_shipborn) -> Sejak kemunculannya, Archeoteca telah memperluas kesadaran mereka di antara bintang -bintang.</li>
+    <li>ArchistFact (tag = meme_shipborn) -> pustaka archeoteca melampaui batasan kehidupan planet.</li>
+    <li>ArchistProphy (TAG = Meme_Shipborn) -> [Intheend], Archeoteca akan mengajarkan kita untuk bergerak dengan mudah di antara bintang -bintang jika kita mengamati kebijaksanaan kosmik mereka.</li>
+    <li>AnimistBasis (tag = meme_shipborn) -> Nenek moyang kita telah melakukan perjalanan melalui [komponen surgawi1] dan mengajari kita untuk mempertimbangkan kemanusiaan dan entitas surgawi sebagai rekan.</li>
+    <li>Animistfact (tag = meme_shipborn) -> roh yang sama yang menghuni tubuh surgawi memandu nasib kemanusiaan.</li>
+    <li>Komponen Surgawi-> Bintang, Bulan dan Komet</li>
+    <li>CelestialComponents-> del Cosmos</li>
+    <li>Komponen Surgawi-> Dari Seribu Solat</li>
+    <li>CelestialComponents1-> bintang, bulan dan komet</li>
+    <li>CelestialComponents1-> The Cosmos</li>
+    <li>CelestialComponents1-> Thousand Soles</li>
+    <li>VeLeTatedRole-> Navigator</li>
+    <li>VeLeTatedRole-> Captain</li>
+  </Shipborn.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memecreed-> kru</li>
+    <li>memecreed-> kapal</li>
+    <li>Memecreed-> Starship</li>
+    <li>MEMEADTIVE-> STELLAR</li>
+    <li>memeadjective-> kosong</li>
+    <li>MEMEADTIVE-> COSMIC</li>
+    <li>memeadjective-> Celestial</li>
+    <li>MEMEADTIVE-> astral</li>
+    <li>memehyphenprefix-> astro</li>
+    <li>memehyphenprefix-> gelap</li>
+    <li>Memeconsept-> Space</li>
+    <li>Bintang Memeconscept-></li>
+    <li>Memeconcept-> Starships</li>
+    <li>Memleadernoun-> Captain</li>
+    <li>Memleadernoun-> Starborn</li>
+    <li>Memleeadernoun-> Pilot</li>
+    <li>MemeLeaderAdjective-> Shining</li>
+    <li>Mememoralist-> Wayfinder</li>
+    <li>Mememoralist-> Navigator</li>
+    <li>Mememoralist-> Anggota Dewan</li>-><Shipborn.generalRules.rulesStrings>
+    <li>Memecreedfem-> kru</li>
+    <li>memecreedfem-> nave</li>
+    <li>memecreedfem-> astronave</li>
+    <li>MEMEADTIVE-> STELLAR</li>
+    <li>Memeadjective-> Kekosongan</li>
+    <li>MEMEADTIVE-> COSMIC</li>
+    <li>memeadjective-> Celestial</li>
+    <li>MEMEADTIVE-> astral</li>
+    <li>MEMEADTIVEFEM-> STELLAR</li>
+    <li>memeadjetifefem-> Cosmic</li>
+    <li>memeadjective-> Celestial</li>
+    <li>memeadjective-> astral</li>
+    <li>memehyphenprefix-> astro</li>
+    <li>memehyphenprefix-> cosmo</li>
+    <li>Memeconsept-> Space</li>
+    <li>Bintang Memeconscept-></li>
+    <li>Memeconscept-> Astronaves</li>
+    <li>Memeconceptdef-> l ruang</li>
+    <li>Memeconceptdef-> bintang-bintang</li>
+    <li>Memeconceptdef-> astronaves</li>
+    <li>Memleadernoun-> Captain</li>
+    <li>Memleadernoun-> Born in the Stars</li>
+    <li>Memelid-> Pilot</li>
+    <li>MemeLeaderadjective-> brilian</li>
+    <li>Mememoralist-> Tracker</li>
+    <li>Mememoralist-> Navigator</li>
+    <li>MEMEMORALIST-> Konselor</li>
+  </Shipborn.generalRules.rulesStrings>
+  
+</LanguageData>

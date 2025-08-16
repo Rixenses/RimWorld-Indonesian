@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete -->
+  <AncientConcrete.label>beton tua</AncientConcrete.label>
+  <!-- EN: Ancient concrete flooring. -->
+  <AncientConcrete.description>Tanah beton tua.</AncientConcrete.description>
+  
+  <!-- EN: ancient tile -->
+  <AncientTile.label>Ubin Kuno</AncientTile.label>
+  <!-- EN: Ancient metal tiles. -->
+  <AncientTile.description>Ubin logam tua.</AncientTile.description>
+  
+  <!-- EN: ancient wood floor -->
+  <AncientWoodPlankFloor.label>kayu tua</AncientWoodPlankFloor.label>
+  
+  <!-- EN: underwall -->
+  <Underwall.label>bawah tanah</Underwall.label>
+  
+</LanguageData>

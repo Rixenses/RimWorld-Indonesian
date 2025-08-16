@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: healed me -->
+  <HealedMe.label>Mereka menyembuhkan saya</HealedMe.label>
+  
+  <!-- EN: mutated my arm -->
+  <MutatedMyArm.label>Lengan saya telah bermutasi</MutatedMyArm.label>
+  
+  <!-- EN: studied an entity -->
+  <StudiedEntity.label>Dia mempelajari entitas</StudiedEntity.label>
+  <!-- EN:
+    <li>Tale_noun-> [Studier_Namedef] Mempelajari [entity_nameindef]</li>
+    <li>Image-> [Studier_namefull] dengan cermat memeriksa [entity_namedef] [SITUKSE_GROUP]</li>
+    <li>Image-> [Studier_namefull] Melakukan eksperimen, berusaha untuk memahami rahasia [entity_namedef], [Soumtance_Group]</li>
+    <li>Image-> [Studier_namefull] Berusaha untuk memahami sifat [entity_namedef] [SITUCTANCE_GROUP]</li>
+    <li>SITUCTANCE_PHRASE-> dengan jijik yang nyaris tidak tersembunyi di mata [Studier_Possessives]</li>
+    <li>SITUCTANCE_PHRASE-> Sambil mencoret-coret di buku catatan</li>
+    <li>SITUKSE_PHRASE-> Saat berkonsultasi dengan buku tebal kuno</li>
+    <li>desc_sentence-> Karya stabil pemanen bioferrite dapat dilihat di latar belakang.</li>
+    <li>desc_sentence-> Ketertarikan mendalam penjajah dengan [entity_namedef] terbukti.</li>
+    <li>desc_sentence-> [Studier_namedef] sepenuhnya diserap dalam studi [Studier_Possessive] tentang [entity_namedef], berusaha untuk membuka kunci rahasianya.</li>
+    <li>desc_sentence-> [entity_namedef] baru saja dipegang di tempat itu oleh karya penghambat elektro tanpa henti.</li>
+    <li>desc_sentence-> [entity_namedef] tampaknya tidak bereaksi terhadap upaya [Studier_Namedef].</li>-><StudiedEntity.rulePack.rulesStrings>
+    <li>Tale_noun-> [Studier_Namedef] mempelajari [entity_nameindef]</li>
+    <li>Image-> [Studier_namefull] dengan cermat memeriksa [entity_nameindef] [SITUCSANCE_GROUP]</li>
+    <li>Image-> [Studier_namefulull] Melakukan eksperimen, mencoba memahami rahasia [entity_namedef], [Soumtance_Group]</li>
+    <li>Image-> [Studier_namefulull] berusaha untuk memahami sifat [entity_name def] [kelompok keadaan]</li>
+    <li>Keadaan_phrase-> dengan jijik yang nyaris tidak ada di matanya</li>
+    <li>SITUCTANCE_PHRASE-> Sambil mencoret-coret di buku catatan</li>
+    <li>Keadaan_phrase-> saat berkonsultasi dengan volume lama</li>
+    <li>Desc_sentence-> di latar belakang Anda dapat melihat karya konstan kolektor bioferrita.</li>
+    <li>Desc_sentence-> Ketertarikan mendalam dari pemukim oleh [entity_namedef] terbukti.</li>
+    <li>Desc_sentence-> [studier_namedef] sepenuhnya diserap dalam studinya tentang [entity_namedef], berusaha untuk mengungkapkan rahasianya.</li>
+    <li>Desc_sentence-> [entity_namedef] nyaris tidak ada di tempat berkat karya electroinhibitor yang tak henti-hentinya.</li>
+    <li>Desc_sentence-> [entity_namedef] tampaknya tidak bereaksi terhadap upaya [studier_namedef].</li>
+  </StudiedEntity.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill. -->
+  <RecipeRequiresMechanitor>Mechanoidoids yang menyentuh atau menyadarkan kembali membutuhkan mekanitor.Tak satu pun dari pemukim Anda adalah seorang mekanitor, sehingga tidak ada yang bisa melakukan proyek yang dibuat.</RecipeRequiresMechanitor>
+
+  <!-- EN: genepacks -->
+  <GenepackPlural>paket gen de</GenepackPlural>
+  <!-- EN: Traits develop later during childhood -->
+  <TraitsDevelopLaterBaby>Fitur dikembangkan nanti selama masa kanak -kanak</TraitsDevelopLaterBaby>
+  <!-- EN: Skills develop later during childhood -->
+  <SkillsDevelopLaterBaby>Keterampilan dikembangkan nanti selama masa kanak -kanak</SkillsDevelopLaterBaby>
+  <!-- EN: Genes -->
+  <TabGenes>Gen</TabGenes>
+
+  <!-- EN: View genes -->
+  <ViewGenes>Gen ver</ViewGenes>
+  <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
+  <ViewGenesDesc>Klik untuk melihat gen {Pawn_Namedef}.</ViewGenesDesc>
+
+  <!-- Feeding tab (human babies) -->
+  <!-- EN: Feeding -->
+  <TabFeeding>Nutrisi</TabFeeding>
+  <!-- EN: Auto feed settings -->
+  <AutofeedSectionHeader>Pengaturan makan otomatis</AutofeedSectionHeader>
+  <!-- EN: never -->
+  <AutofeedModeNever>tidak pernah</AutofeedModeNever>
+  <!-- EN: childcare -->
+  <AutofeedModeChildcare>Jaga anak -anak</AutofeedModeChildcare>
+  <!-- EN: urgent -->
+  <AutofeedModeUrgent>mendesak</AutofeedModeUrgent>
+  <!-- EN: Nobody can feed this baby. -->
+  <AutofeedNone>Tidak ada yang bisa memberi makan bayi ini.</AutofeedNone>
+  <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
+  <AutofeedModeTooltipNever>{Feeded_namedef} tidak akan secara otomatis memberi makan {baby_namedef}.</AutofeedModeTooltipNever>
+  <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->
+  <AutofeedModeTooltipChildcare>{Feeded_namedef} Akankah feed {baby_namedef} karena ditugaskan {feeder_gender?Atau: A} untuk merawat anak -anak.</AutofeedModeTooltipChildcare>
+  <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare. -->
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} alimentará a {BABY_nameDef} de día o de noche, incluso si {FEEDER_nameDef} no está asignad{FEEDER_gender ? o : a}  a cuidar niños o sea incapaz de hacerlo.</AutofeedModeTooltipUrgent>
+  <!-- EN: Consumable foods -->
+  <BabyFoodConsumables>Makanan yang dapat dikonsumsi</BabyFoodConsumables>
+
+  <!-- Social tab (human babies) -->
+  <!-- EN: ideoligion exposure -->
+  <IdeoExposureSectionHeader>Paparan Ideoligion</IdeoExposureSectionHeader>
+  <!-- EN: {BABY_labelShort} has not been exposed to any ideoligions yet. -->
+  <IdeoExposureNoExposure>{Baby_labelshort} belum diekspos {baby_gender?O: A} tanpa ideolisasi.</IdeoExposureNoExposure>
+  <!-- EN: {BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to. -->
+  <IdeoExposureNoExposureDetail>{Baby_pronoun} Bisakah itu menjadi paparan {baby_gender?Atau: a} ke ideoligion saat berinteraksi dengan pengikut ideolithion.Interaksi ini termasuk disusui, diambil dalam pelukan saya, bermain dengan mereka, dll.Pada usia {childage}, {baby_lallshort} akan bergabung dengan salah satu ideolithion yang telah diekspos oleh {baby_pronoun}.</IdeoExposureNoExposureDetail>
+  <!-- EN: {BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}. -->
+  <IdeoExposurePointsTooltipJoinLikelihood>{Baby_labelshort} memiliki {persen} probabilitas bergabung dengan ideoligion {ideo_name}.</IdeoExposurePointsTooltipJoinLikelihood>
+  <!-- EN: As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}. -->
+  <IdeoExposurePointsTooltipJoinDescription>Karena {baby_labelshort} terkait dengan pengikut sebuah ideoligion, {baby_pronoun} lebih cenderung bergabung dengan ideolithion itu.{Baby_labelshort} akan bergabung dengan salah satu ideolithions yang {baby_pronoun} telah diekspos {baby_gender?atau: a} pada usia {childage}.</IdeoExposurePointsTooltipJoinDescription>
+  <!-- EN: Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with. -->
+  <IdeoExposurePointsTooltipExposureDescription>Paparan ideolithions diukur dengan titik paparan.Interaksi seperti menyusui, dimuat atau bermain, akan membuat {baby_lallshort} memenangkan poin pameran untuk ideolithions diikuti oleh mereka yang {baby_pronoun} berinteraksi.</IdeoExposurePointsTooltipExposureDescription>
+  <!-- EN: {IDEO_name} exposure points -->
+  <IdeoExposurePointsTooltipIdeoExposure>Poin Pameran {IDEO_NAME}</IdeoExposurePointsTooltipIdeoExposure>
+  <!-- EN: Total exposure points -->
+  <IdeoExposurePointsTooltipTotalExposure>Total Poin Eksposur</IdeoExposurePointsTooltipTotalExposure>
+
+  <!-- Social tab (romance) -->
+  <!-- EN: Romance -->
+  <TryRomanceButtonLabel>Jatuh cinta</TryRomanceButtonLabel>
+  <!-- EN: Nobody for {0_labelShort} to romance. -->
+  <TryRomanceNoOptsMessage>{0_labelshort} tidak memiliki siapa yang memiliki romansa.</TryRomanceNoOptsMessage>
+  <!-- EN: unreachable -->
+  <CantRomanceTargetUnreachable>tidak dapat dicapai</CantRomanceTargetUnreachable>
+  <!-- EN: sleeping -->
+  <CantRomanceTargetSleeping>sedang tidur</CantRomanceTargetSleeping>
+  <!-- EN: incapacitated -->
+  <CantRomanceTargetDowned>dengan disabilitas</CantRomanceTargetDowned>
+  <!-- EN: drafted -->
+  <CantRomanceTargetDrafted>direkrut</CantRomanceTargetDrafted>
+  <!-- EN: mental break -->
+  <CantRomanceTargetMentalState>mental colapso</CantRomanceTargetMentalState>
+  <!-- EN: incestuous -->
+  <CantRomanceTargetIncest>sumbang</CantRomanceTargetIncest>
+  <!-- EN: low opinion -->
+  <CantRomanceTargetOpinion>Pendapat rendah</CantRomanceTargetOpinion>
+  <!-- EN: incompatible orientation -->
+  <CantRomanceTargetSexuality>orientasi yang tidak kompatibel</CantRomanceTargetSexuality>
+  <!-- EN: prisoner -->
+  <CantRomanceTargetPrisoner>Prisionero</CantRomanceTargetPrisoner>
+  <!-- EN: too young -->
+  <CantRomanceTargetYoung>sangat muda</CantRomanceTargetYoung>
+  <!-- EN: zero chance -->
+  <CantRomanceTargetZeroChance>tidak ada kemungkinan</CantRomanceTargetZeroChance>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a prisoner. -->
+  <CantRomanceInitiateMessagePrisoner>{0_labelshort} Tidak dapat mencoba roman karena {0_pronoun} adalah {0_gender?Seorang tahanan: seorang tahanan}.</CantRomanceInitiateMessagePrisoner>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a slave. -->
+  <CantRomanceInitiateMessageSlave>{0_labelshort} Tidak dapat mencoba roman karena {0_pronoun} adalah {0_gender?Seorang budak: seorang budak}.</CantRomanceInitiateMessageSlave>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait. -->
+  <CantRomanceInitiateMessageAsexual>{0_labelshort} tidak dapat mencoba roman karena memiliki fitur aseksual.</CantRomanceInitiateMessageAsexual>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is incapacitated. -->
+  <CantRomanceInitiateMessageDowned>{0_labelshort} Tidak dapat mencoba roman karena tidak mampu {0_gender?O: A}.</CantRomanceInitiateMessageDowned>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is drafted. -->
+  <CantRomanceInitiateMessageDrafted>{0_labelshort} Tidak dapat mencoba roman karena merekrut {0_gender?O: A}.</CantRomanceInitiateMessageDrafted>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
+  <CantRomanceInitiateMessageMentalState>{0_labelshort} Tidak dapat mencoba roman karena itu dalam kondisi mental tidak cocok.</CantRomanceInitiateMessageMentalState>
+  <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->
+  <CantRomanceInitiateMessageTalk>{0_labelshort} Tidak dapat mencoba romansa karena dia tidak dapat berbicara.</CantRomanceInitiateMessageTalk>
+  <!-- EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
+  <CantRomanceInitiateMessageCooldown>{0_labelshort} mencoba romansa baru -baru ini dan harus menunggu {1} sampai coba lagi.</CantRomanceInitiateMessageCooldown>
+  <!-- EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->
+  <TryRomanceFailedMessage>Upaya romansa {0_labelshort} dengan {1_labelshort} tidak berhasil.</TryRomanceFailedMessage>
+  <!-- EN: Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations. -->
+  <RomanceExistingRelationshipWarning>Bahwa {initiator_namedef} memiliki romansa dengan {target_namedef} dapat menabur kebencian di antara pasangan yang ada, menyebabkan pecah dan menyebabkan pertengkaran.</RomanceExistingRelationshipWarning>
+  <!-- EN: Romance chance -->
+  <RomanceChance>Peluang Romantis</RomanceChance>
+  <!-- EN: already {PAWN_nameDef}'s {RELATION} -->
+  <RomanceChanceExistingRelation>dia {relational} dari {pawnmentsdems}</RomanceChanceExistingRelation>
+  <!-- EN: Cannot romance -->
+  <RomanceChanceCant>Tidak dapat memiliki romansa</RomanceChanceCant>
+  <!-- EN: Relative age -->
+  <RomanceChanceAgeFactor>Usia relatif</RomanceChanceAgeFactor>
+  <!-- EN: Beauty -->
+  <RomanceChanceBeautyFactor>Kecantikan</RomanceChanceBeautyFactor>
+  <!-- EN: Opinion -->
+  <RomanceChanceOpinionFactor>Pendapat</RomanceChanceOpinionFactor>
+  <!-- EN: Opinion of partner -->
+  <RomanceChancePartnerFactor>Pendapat pasangan</RomanceChancePartnerFactor>
+  <!-- EN: {0_labelShort} was unable to romance {1_labelShort} -->
+  <RomanceFailedUnexpected>{0_labelshort} tidak dapat memiliki romansa dengan {1_labelshort}</RomanceFailedUnexpected>
+  <!-- EN: {0_nameDef} is already in a relationship. -->
+  <RomanceWarningMonogamous>{0_namedef} sudah menjalin hubungan.</RomanceWarningMonogamous>
+  <!-- EN: {0_nameDef} already has {1} partners. -->
+  <RomanceWarningPolygamous>{0_namedef} Sudah memiliki {1} pasangan.</RomanceWarningPolygamous>
+
+  <!-- Guest tab (prisoners) -->
+  <!-- EN: Genes -->
+  <FactorForGenes>Gen</FactorForGenes>
+  <!-- EN: Prison breaking is disabled by {GENE_label} gene. -->
+  <PrisonBreakingDisabledDueToGene>Kebocoran dinonaktifkan oleh gen {Gene_label}.</PrisonBreakingDisabledDueToGene>
+
+</LanguageData>

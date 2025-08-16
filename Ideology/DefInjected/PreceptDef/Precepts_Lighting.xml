@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: darklight preferred -->
+  <Darklight_Preferred.label>Cahaya gelap yang disukai</Darklight_Preferred.label>
+  <!-- EN: Normal lights are too bright. Darklights are better. -->
+  <Darklight_Preferred.description>Lampu normal sangat terang.Lampu gelap lebih baik.</Darklight_Preferred.description>
+  
+  <!-- EN: Preferred -->
+  <DarknessCombat_Preferred.label>Lebih disukai</DarknessCombat_Preferred.label>
+  <!-- EN: We fight better in the dark. -->
+  <DarknessCombat_Preferred.description>Kami bertarung lebih baik dalam kegelapan.</DarknessCombat_Preferred.description>
+  
+  <!-- EN: Beautiful -->
+  <Eclipse_Beautiful.label>Kecantikan</Eclipse_Beautiful.label>
+  <!-- EN: Eclipses are a beautiful respite from the blinding sunlight. -->
+  <Eclipse_Beautiful.description>Eclipses adalah jeda yang indah dari sinar matahari Cengant.</Eclipse_Beautiful.description>
+  
+</LanguageData>

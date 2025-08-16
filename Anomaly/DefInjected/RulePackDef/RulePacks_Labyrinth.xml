@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_root-> [textdescsentence] [horrordescsentence] [maybesignature]</li>
+    <li>Maybesignature (p = 3)-></li>
+    <li>Maybesignature-> Penulis menandatangani nama [Pawn_possessive]: [Pawn_namedef].</li>
+    <li>maybesignature-> diakhiri dengan nama: [pawn_namedef].</li>
+    <li>Maybesignature-> Nama [pawn_namedef] ditulis di bagian bawah.</li>
+    <li>TextDescsentence-> Lantai etsa bertele-tele dan tidak koheren.</li>
+    <li>TextDescsentence-> Kata-kata itu sulit untuk dipahami.</li>
+    <li>TextDescsentence-> The Strange Etchings ditulis ke belakang.</li>
+    <li>TextDescsentence-> Tulisannya goyah dan lemah.</li>
+    <li>TextDescsentence-> Tulisan menjadi semakin aneh seiring berjalannya waktu.</li>
+    <li>TextDescsentence-> Teks ini ditulis dalam [penulisan material] dan sebagian telah dihapus.</li>
+    <li>TextDescsentence-> Simbol samar dicampur dengan huruf bergerigi.</li>
+    <li>TextDescsentence-> Penulisan terfragmentasi, seolah-olah terganggu beberapa kali.</li>
+    <li>TextDescsentence-> Prasasti memudar dan muncul kembali saat teks berlangsung.</li>
+    <li>TextDescsentence-> Teks ini ditulis dalam [penulisan material], membentuk pola panik.</li>
+    <li>Horrordescsentence-> Hanya satu frasa yang dapat dibaca dengan jelas: [bertele-tele].</li>
+    <li>horrordescsentence-> satu frasa berulang berulang-ulang: [bertele-tele].</li>
+    <li>Horrordescsentence-> Setiap kalimat berakhir dengan frasa yang sama: [bertele-tele].</li>
+    <li>Horrordescsentence-> Words dijalankan dalam lingkaran, mengulangi frasa yang sama tanpa henti: [mengoceh].</li>
+    <li>Horrordescsentence-> Penulis tampaknya yakin bahwa parasit logam hidup di bawah kulit [Pawn_possessive].[Pawn_pronoun] menggambarkan rasa sakit yang intens saat bergeser dan menggeliat.</li>
+    <li>Horrordescsentence-> Penulis menuduh temannya menyuntikkannya dengan parasit logam.[Pawn_pronoun] menggambarkan perasaan mengerikan dari itu tumbuh di dalam [Pawn_objective].</li>
+    <li>Horrordescsentence-> Penulis memohon kebebasan dari [Pawn_possessive] penyiksa: [Horrordesc].</li>
+    <li>Horrordescsentence-> Baris yang sama berulang berulang-ulang, menggambarkan [Horrordesc].</li>
+    <li>Horrordescsentence-> Sebuah puisi aneh menggambarkan [Horrordesc].</li>
+    <li>Horrordescsentence-> Kata-kata berjuang untuk menggambarkan [Horrordesc].</li>
+    <li>Horrordescsentence-> The Shaky Writing menggambarkan reaksi penulis terhadap visi [Horrordesc].</li>
+    <li>Horrordescsentence-> Gambar menyertai teks, menggambarkan [Horrordesc].</li>
+    <li>Horrordescsentence-> FRANCTICE SKETCHS mengilustrasikan [Horrordesc], dengan catatan yang membuat anotasi fitur-fiturnya.</li>
+    <li>Horrordescsentence-> Nyanyian yang mengerikan menggambarkan [Horrordesc].</li>
+    <li>Horrordescsentence-> Visceral Illustrations menyelingi teks, semua mengisyaratkan [Horrordesc].</li>
+    <li>Horrordescsentence-> Whispered Tales in the Margins Tell of [Horrordesc].</li>
+    <li>Horrordescsentence-> Nada panik penulis dibangun hingga klimaks yang berfokus pada [Horrordesc].</li>
+    <li>Horrordescsentence-> Pola terbentuk dalam etsa, masing-masing berpuncak dalam penggambaran [Horrordesc].</li>
+    <li>Horrordescsentence-> Kata-kata itu terjalin dengan gambar-gambar yang jelas dari [Horrordesc].</li>
+    <li>Horrordescsentence-> A Haunting Lullaby ditulis di samping deskripsi [Horrordesc].</li>
+    <li>Horrordescsentence-> Permintaan putus asa untuk belas kasihan disandingkan dengan kisah [Horrordesc].</li>
+    <li>horrordesc-> makhluk tak terlihat yang mengkonsumsi pikiran orang-orang yang tidak percaya</li>
+    <li>Horrordesc-> Sporte-Black Sphere yang mustahil yang berdenyut dengan penderitaan murni</li>
+    <li>horrordesc-> makhluk dengan tulang untuk anggota tubuh, terbuat dari daging dan daging bengkok</li>
+    <li>Horrordesc-> A Make sepenuhnya dari bayangan, mata berkilau seperti bintang</li>
+    <li>horrordesc-> seorang pria yang terbuat dari pisau-pisau tajam dan berlumuran darah</li>
+    <li>horrordesc-> massa bilah pemintal yang muncul dari jurang</li>
+    <li>horrordesc-> anak yang sunyi dengan mulut yang membentang di seluruh wajahnya</li>
+    <li>horrordesc-> menara twisted besar yang terbuat dari paku dan bilah</li>
+    <li>horrordesc-> makhluk seperti hewan yang aneh dengan fitur dari beberapa spesies yang berbeda</li>
+    <li>horrordesc-> sosok manusia yang salah</li>
+    <li>horrordesc-> kerumunan manusia yang luas, semuanya mati dan busuk</li>
+    <li>horrordesc-> figur manusia dalam topeng paku yang menakutkan</li>
+    <li>Rambling-> Biarkan aku keluar</li>
+    <li>Rambling-> bantu saya</li>
+    <li>Rambling-> Save Me</li>
+    <li>Rambling-> itu mengawasi</li>
+    <li>Rambling-> itu tidak akan melepaskan</li>
+    <li>Rambling-> Lepaskan</li>
+    <li>Rambling-> Saya mendengar suaranya</li>
+    <li>Rambling-> Time adalah bohong</li>
+    <li>Rambling-> Singkirkan rasa sakitnya</li>
+    <li>Rambling-> Samudra Hitam</li>
+    <li>Rambling-> Cutting and Cutting</li>
+    <li>Rambling-> Bisikan dalam kekosongan</li>
+    <li>Rambling-> Itu selalu di belakangku</li>
+    <li>Rambling-> begitu banyak mata</li>
+    <li>Rambling-> Di dalam kepalaku</li>
+    <li>Rambling-> tenggelam dalam keheningan</li>
+    <li>Rambling-> Ia tahu nama saya</li>
+    <li>Rambling-> Bayangan bergerak</li>
+    <li>Rambling-> Tidak ada jalan keluar</li>
+    <li>Rambling-> The Darkness berbicara</li>
+    <li>Rambling-> Mereka menonton</li>
+    <li>material writing-> kapur</li>
+    <li>material writing-> jelaga</li>
+    <li>material writing-> cairan smeared</li>
+    <li>material writing-> terbakar abu</li>
+    <li>material writing-> tinta gelap</li>-><LabyrinthRamblings.rulePack.rulesStrings>
+    <li>r_root-> [textdescsentence] [horrordescsentence] [maybesignature]</li>
+    <li>Maybesignature (p = 3)-></li>
+    <li>Maybesignature-> Penulis menandatangani dengan namanya: [Pawn_namedef].</li>
+    <li>Maybesignature-> diakhiri dengan nama: [pawn_namedef].</li>
+    <li>Maybesignature-> Nama [pawn_namedef] ditulis di bagian bawah.</li>
+    <li>TextDescsencence-> ukiran tanah bersifat farragous dan tidak koheren.</li>
+    <li>Teks descsennce-> kata-kata sulit dipahami.</li>
+    <li>Teks Descsence-> The Strangers yang direkam ditulis ke belakang.</li>
+    <li>Teks Descsence-> Alkitab ragu-ragu dan lemah.</li>
+    <li>TextDescsentence-> Kitab Suci menjadi semakin aneh seiring kemajuannya.</li>
+    <li>TextDescsentence-> Teks ini ditulis dengan [WritingMaerial] dan sebagian telah dihapus.</li>
+    <li>TextDescsentence-> Simbol samar dicampur dengan huruf tidak teratur.</li>
+    <li>TextDescsencence-> Alkitab terfragmentasi, seolah-olah terganggu beberapa kali.</li>
+    <li>TextDescsentence-> Prasasti kabur dan muncul kembali saat teks berlangsung.</li>
+    <li>TextDescsencence-> Teks ini ditulis dengan [WritingMaTerial], membentuk pola panik.</li>
+    <li>Horrscsentennce-> Hanya satu frasa yang dapat dibaca: [bertele-tele].</li>
+    <li>Horrscsentennce-> satu frasa diulang lagi dan lagi: [bertele-tele].</li>
+    <li>Horrscsentennce-> Setiap frasa berakhir dengan frasa yang sama: [bertele-tele].</li>
+    <li>Horrscsentennce-> Words dijalankan dalam lingkaran, mengulangi frasa yang sama tanpa henti: [mengoceh].</li>
+    <li>Horrscsentennce-> [Theauctor] tampaknya meyakinkan [Pawn_o_a] bahwa parasit logam hidup di bawah kulitnya.Jelaskan rasa sakit yang intens saat bergerak dan memutar.</li>
+    <li>Horrscsentennce-> [Theauctor] menuduh temannya menyuntikkan parasit logam.Jelaskan perasaan mengerikan bahwa sesuatu tumbuh di dalam [Pawn_pronoun].</li>
+    <li>Horrscsentennce-> [Theauctor] mohon untuk dirilis [Pawn_o_a] dari algojusnya, [Horordesc].</li>
+    <li>Horrscsentennce-> Baris yang sama diulang berulang kali, menggambarkan [mengerikan].</li>
+    <li>Horrscsentence-> Sebuah puisi aneh menggambarkan [Horordesc].</li>
+    <li>Horrscsentennce-> Words berusaha untuk menggambarkan [Horordesc].</li>
+    <li>Horrscsentennce-> Tulisan gemetar menggambarkan reaksi penulis terhadap visi [Horordesc].</li>
+    <li>Horrscsentence-> Teks ini disertai dengan gambar yang mewakili [horrsc].</li>
+    <li>Horrscsentennce-> Sketsa-sketsa hingar-bingar menggambarkan [horor], dengan catatan tentang karakteristik mereka.</li>
+    <li>Horrscsencence-> Sebuah lagu yang mengerikan menggambarkan [Horordesc].</li>
+    <li>Horrscsentennce-> ilustrasi visceral diselingi dalam teks, semua mengisyaratkan [mengerikan].</li>
+    <li>Horrscsentennce-> Tales berbisik di margin berbicara tentang [Horordesc].</li>
+    <li>Horrscsentennce-> Nada panik penulis mencapai klimaks yang berpusat di [Horordesc].</li>
+    <li>Horrscsentnce-> Pola yang berujung pada representasi [horrsc] terbentuk di atas air.</li>
+    <li>Horrscsentennce-> Kata-kata saling terkait dengan gambar yang jelas dari [Horordesc].</li>
+    <li>Horrscsentennce-> Lagu Cradle yang mengganggu ditulis di sebelah deskripsi [horrsc].</li>
+    <li>Horrscsentennce-> Suplikasi grasi yang putus asa disandingkan dengan cerita [Horordesc].</li>
+    <li>Horordesc-> makhluk tak terlihat yang mengkonsumsi pikiran orang-orang yang tidak percaya</li>
+    <li>Horordesc-> bola hitam kekosongan yang mustahil yang berdenyut-denyut dari penderitaan murni</li>
+    <li>Horordesc-> makhluk dengan tulang dengan anggota tubuh, terbuat dari daging dan tulang bengkok</li>
+    <li>Horordesc-> makhluk yang seluruhnya terbuat dari bayangan, mata cerah seperti bintang</li>
+    <li>Horordesc-> seorang pria yang terbuat dari pisau yang tajam dan berdarah</li>
+    <li>Horordesc-> massa bilah yang berputar yang muncul dari jurang</li>
+    <li>Horordesc-> anak yang diam dengan mulut yang memanjang di seluruh wajahnya</li>
+    <li>Horordesc-> Menara bengkok besar yang terbuat dari tusuk sate dan bilah</li>
+    <li>horrordesc-> makhluk aneh yang mirip dengan hewan dengan fitur beberapa spesies yang berbeda</li>
+    <li>Horordesc-> sosok manusia yang dideformasi dengan bagian tubuh yang direorganisasi</li>
+    <li>Horordesc-> banyak manusia, semuanya mati dan busuk</li>
+    <li>Horordesc-> figur manusia dengan topeng tusuk sate yang menakutkan</li>
+    <li>Rambling-> Let Me Out</li>
+    <li>Rambling-> bantu saya</li>
+    <li>Rambling-> Save Me</li>
+    <li>Rambling-> Observa</li>
+    <li>Rambling-> tidak melepaskan saya</li>
+    <li>Rambling-> Longgar</li>
+    <li>Rambling-> Aku mendengar suaranya</li>
+    <li>Rambling-> Time adalah bohong</li>
+    <li>Rambling-> Menggerakkan rasa sakit</li>
+    <li>Rambling-> Samudra Hitam</li>
+    <li>Rambling-> Mereka ada di dalam pikiran saya</li>
+    <li>Rambling-> Bisikan dalam ruang hampa</li>
+    <li>Rambling-> selalu di belakangku</li>
+    <li>Mengoceh-> terlalu banyak mata</li>
+    <li>Mengoceh-> di dalam kepalaku</li>
+    <li>Rambling-> Silence menyiksa</li>
+    <li>Rambling-> tahu nama saya</li>
+    <li>Rambling-> Bayangan bergerak</li>
+    <li>Rambling-> Tidak ada jalan keluar</li>
+    <li>Rambling-> Darkness berbicara</li>
+    <li>Rambling-> Mereka menonton</li>
+    <li>material writing-> tiza</li>
+    <li>Material writing-> hollin</li>
+    <li>Material menulis-> Tininin Negra</li>
+    <li>Material writing-> abu yang terbakar</li>
+    <li>Material writing-> tinnan oscura</li>
+    <li>Theauthor (Pawn_gender! = Wanita)-> Penulis</li>
+    <li>Teautor (Pawn_gender == betina)-> la autora</li>
+  </LabyrinthRamblings.rulePack.rulesStrings>
+  
+</LanguageData>

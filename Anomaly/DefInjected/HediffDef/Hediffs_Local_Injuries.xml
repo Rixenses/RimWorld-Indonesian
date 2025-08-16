@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: digestion -->
+  <Digested.label>pencernaan</Digested.label>
+  <!-- EN: This part has been digested. -->
+  <Digested.description>Bagian ini telah dicerna.</Digested.description>
+  <!-- EN: Digested -->
+  <Digested.injuryProps.destroyedLabel>Cerna</Digested.injuryProps.destroyedLabel>
+  <!-- EN: a digested part -->
+  <Digested.labelNoun>Bagian yang dicerna</Digested.labelNoun>
+  <!-- EN: digested {1} -->
+  <Digested.labelNounPretty>{1} dicerna</Digested.labelNounPretty>
+  
+  <!-- EN: energy bolt -->
+  <EnergyBolt.label>Ray Energi</EnergyBolt.label>
+  <!-- EN: A wound from an energy bolt. -->
+  <EnergyBolt.description>Luka dengan sinar energi.</EnergyBolt.description>
+  <!-- EN: set -->
+  <EnergyBolt.comps.HediffComp_TendDuration.labelSolidTendedWell>stabil</EnergyBolt.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <EnergyBolt.comps.HediffComp_TendDuration.labelTendedWell>penjualan</EnergyBolt.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <EnergyBolt.comps.HediffComp_TendDuration.labelTendedWellInner>Dijahit</EnergyBolt.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent energy bolt wound -->
+  <EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>Luka ray energi permanen</EnergyBolt.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old energy bolt wound -->
+  <EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>bekas luka sinar energi tua</EnergyBolt.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Blasted off -->
+  <EnergyBolt.injuryProps.destroyedLabel>Detwered (a)</EnergyBolt.injuryProps.destroyedLabel>
+  <!-- EN: Blasted out -->
+  <EnergyBolt.injuryProps.destroyedOutLabel>Revidasi (a)</EnergyBolt.injuryProps.destroyedOutLabel>
+  <!-- EN: an energy bolt wound -->
+  <EnergyBolt.labelNoun>Sinar Energi</EnergyBolt.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <EnergyBolt.labelNounPretty>{0} di {1_gender?EL:} {1}</EnergyBolt.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjury.label>Pembakaran psikis</PsychicInjury.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjury.description>Luka bakar psikis.</PsychicInjury.description>
+  <!-- EN: treated -->
+  <PsychicInjury.comps.HediffComp_TendDuration.labelSolidTendedWell>diperlakukan</PsychicInjury.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: treated -->
+  <PsychicInjury.comps.HediffComp_TendDuration.labelTendedWell>diperlakukan</PsychicInjury.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: treated -->
+  <PsychicInjury.comps.HediffComp_TendDuration.labelTendedWellInner>diperlakukan</PsychicInjury.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: psychic scarring -->
+  <PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>bekas luka psikis</PsychicInjury.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjury.injuryProps.destroyedLabel>Secara psikis membakar</PsychicInjury.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjury.labelNoun>Luka bakar psikis</PsychicInjury.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjury.labelNounPretty>{0} di {1_gender?EL:} {1}</PsychicInjury.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjurySkin.label>Pembakaran psikis</PsychicInjurySkin.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjurySkin.description>Luka bakar psikis</PsychicInjurySkin.description>
+  <!-- EN: treated -->
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelSolidTendedWell>diperlakukan</PsychicInjurySkin.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWell>Dibalut</PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: dressed -->
+  <PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWellInner>hadir</PsychicInjurySkin.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: psychic scarring -->
+  <PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>bekas luka psikis</PsychicInjurySkin.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjurySkin.injuryProps.destroyedLabel>Secara psikis membakar</PsychicInjurySkin.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjurySkin.labelNoun>Luka bakar psikis</PsychicInjurySkin.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjurySkin.labelNounPretty>{0} di {1_gender?EL:} {1}</PsychicInjurySkin.labelNounPretty>
+  
+  <!-- EN: psychic burn -->
+  <PsychicInjurySolid.label>Pembakaran psikis</PsychicInjurySolid.label>
+  <!-- EN: A psychic burn. -->
+  <PsychicInjurySolid.description>Luka bakar psikis.</PsychicInjurySolid.description>
+  <!-- EN: treated -->
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelSolidTendedWell>diperlakukan</PsychicInjurySolid.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: treated -->
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWell>diperlakukan</PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: treated -->
+  <PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWellInner>diperlakukan</PsychicInjurySolid.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: permanent psychic scarring -->
+  <PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>Bekas luka psikis permanen</PsychicInjurySolid.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Psychically incinerated -->
+  <PsychicInjurySolid.injuryProps.destroyedLabel>Secara psikis membakar</PsychicInjurySolid.injuryProps.destroyedLabel>
+  <!-- EN: a psychic burn -->
+  <PsychicInjurySolid.labelNoun>Luka bakar psikis</PsychicInjurySolid.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <PsychicInjurySolid.labelNounPretty>{0} di {1_gender?EL:} {1}</PsychicInjurySolid.labelNounPretty>
+  
+</LanguageData>

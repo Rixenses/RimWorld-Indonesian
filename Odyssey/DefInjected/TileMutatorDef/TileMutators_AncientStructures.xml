@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient chemfuel refinery -->
+  <AncientChemfuelRefinery.label>Kilang biofuel kuno</AncientChemfuelRefinery.label>
+  <!-- EN: An abandoned industrial installation containing large quantities of chemfuel. It may also contain dangerous security systems. -->
+  <AncientChemfuelRefinery.description>Instalasi industri yang ditinggalkan yang berisi sejumlah besar biofuel.Ini juga dapat berisi sistem keamanan berbahaya.</AncientChemfuelRefinery.description>
+  
+  <!-- EN: ancient garrison -->
+  <AncientGarrison.label>Garnisun kuno</AncientGarrison.label>
+  <!-- EN: A long-abandoned military structure. It may still contain valuable items, as well as active security systems. Use caution while exploring these ruins. -->
+  <AncientGarrison.description>Struktur militer yang ditinggalkan sejak lama.Ini masih dapat berisi objek yang berharga, serta sistem keamanan aktif.Hati -hati saat menjelajahi reruntuhan ini.</AncientGarrison.description>
+  
+  <!-- EN: infested settlement -->
+  <AncientInfestedSettlement.label>Penyelesaian yang terinfeksi</AncientInfestedSettlement.label>
+  <!-- EN: A once-prosperous settlement that was destroyed by an insect infestation. It may still contain valuable resources. -->
+  <AncientInfestedSettlement.description>Sebuah pemukiman yang dulunya makmur dan dihancurkan oleh serangan insektoid.Itu masih bisa berisi sumber daya yang berharga.</AncientInfestedSettlement.description>
+  
+  <!-- EN: ancient launch site -->
+  <AncientLaunchSite.label>Platform Peluncuran Kuno</AncientLaunchSite.label>
+  <!-- EN: An abandoned collection of launch pads used to deliver supplies to orbital platforms. It contains working transport pods. -->
+  <AncientLaunchSite.description>Koleksi platform peluncuran yang ditinggalkan yang digunakan untuk mengirimkan pasokan ke platform orbital.Ini berisi kapsul transportasi fungsional.</AncientLaunchSite.description>
+  
+  <!-- EN: ancient warehouse -->
+  <AncientWarehouse.label>Gudang Tua</AncientWarehouse.label>
+  <!-- EN: An abandoned warehouse. It still contains valuables. It may also contain dangerous security systems. -->
+  <AncientWarehouse.description>Gudang yang ditinggalkan.Itu masih berisi objek nilai.Ini juga dapat berisi sistem keamanan berbahaya.</AncientWarehouse.description>
+  
+</LanguageData>

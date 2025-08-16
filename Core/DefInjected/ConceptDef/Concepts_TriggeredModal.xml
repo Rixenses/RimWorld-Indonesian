@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>Penangkapan menciptakan musuh</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
+  <ArrestingCreatesEnemies.helpText>Peringatan: Orang yang Anda coba tangkap mungkin tidak akan diam saja. Jika Anda menangkap orang yang bukan pemukim atau pemukim dari faksi lain, seluruh faksi mereka dapat menjadi musuh Anda.</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>Jumlah koloni maksimum</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
+  <MaxNumberOfPlayerSettlements.helpText>Peringatan: RimWorld dirancang untuk dimainkan dengan satu pemain per koloni dalam satu waktu. Meskipun dimungkinkan untuk memiliki lebih banyak koloni, ini hanya berfungsi sebagai fitur uji coba eksperimental. Banyak koloni akan menyebabkan ketidakseimbangan dalam permainan dan membagi perhatian Anda, serta mungkin menyebabkan perlambatan kinerja.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>Kontrol Dek Uap</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>Tekan "X" untuk membuka menu arsitek dan tombol {Tombol:TogglePause} untuk menjeda dan melanjutkan permainan. Gunakan pemicu untuk klik primer dan sekunder. Memperbesar, memperkecil, dan menggulir daftar dengan {Tombol:MapZoom_In} dan {Tombol:MapZoom_Out}. Tekan dan tahan tombol kembali L5 untuk menggeser kamera dengan layar sentuh dan mensimulasikan klik kanan.</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>Kontrol Dek Uap</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>Gunakan panel sentuh untuk menggerakkan kursor dan pemicu kanan untuk mengeklik. Tekan {Tombol:Terima} untuk menerima dan {Tombol:Batal} untuk kembali.</SteamDeckControlsMainMenu.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>Alihkan sakelar</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Memencet sakelar hanya menandakan sakelar tersebut untuk dibalik. Tidak ada yang akan terjadi sampai ada pemukim yang datang dan melakukannya.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>Barang dan suar komersial</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Untuk mengirim barang atau perak ke pedagang di orbit, Anda harus membangun ORBITAL TRADE BEACON di luar ruangan dan menunjuk area gudang di sekitarnya.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <!-- EN: Trading permit requirements -->
+  <TradingRequiresPermit.label>Persyaratan izin komersial</TradingRequiresPermit.label>
+  <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
+  <TradingRequiresPermit.helpText>Untuk berdagang di sini membutuhkan gelar {0}. Pastikan kafilah dagang yang Anda kirimkan memiliki seseorang dengan gelar {0} atau lebih tinggi.</TradingRequiresPermit.helpText>
+  
+</LanguageData>

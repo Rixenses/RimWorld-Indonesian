@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> Persona mesin di kapal yang mengorbit ingin melakukan beberapa percobaan planet.Namun, jika dia melakukan eksperimennya, [GameConditionDescriptionFuture]. \ N \ nshe khawatir tentang mendapat masalah dengan Dewan Peninjau Etis, dan meminta persetujuan Anda.</li>
+    <li>QuestDescription (asker_factionleader == true)-> Persona mesin dendam mengancam [asker_faction_pawnsplural] dari [asker_faction_name].[asker_faction_leadertitle] [asker_namefull] ingin Anda mengirim pesan ke persona yang menerima tanggung jawab atas pelanggaran mereka. \ n \ nif Anda lakukan, persona akan mengubah kemarahannya pada Anda.[GameConditionDescriptionFuture].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], ingin melakukan tes daya rendah dari salah satu senjata persimpangan kapal [asker_possessive].Jika [asker_pronoun] melakukannya, [GameConditionDescriptionFuture]. \ N \ n Sitamu Anda adalah pemilik tanah setempat di bawah hukum kekaisaran, [asker_namedef] memerlukan izin terhormat Anda untuk melanjutkan.</li>-><ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> A AI di kapal orbital ingin melakukan beberapa eksperimen planet.Namun, jika Anda melakukan percobaan, [GameCondynditiciscriptionFuture].</li>
+    <li>QuestDescription (asker_factionleader == true)-> A AI mengancam [asker_faction_pawnsplural] dari faksi [asker_faction_name].[Asker_thecap] [asker_faction_leadertitle] [asker_namefulull] meminta Anda untuk mengirim pesan ke AI ini, di mana Anda memikul tanggung jawab semua kejahatan yang dilakukan oleh faksi [asker_faction_name].[GamecondynditionCciciptifuture].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefulull], [asker_a] [asker_royaltitleincurrentfaction] dari faksi [asker_faction_name], ingin melakukan tes kekuatan rendah dari salah satu senjata serangan kapalnya.Jika dia melakukannya, [GameCondynditiciscriptionFuture].</li>
+  </ThreatReward_GameCondition_ItemPod.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [asker_namedef] [gamecondition_label]</li>
+    <li>QuestName-> [gamecondition_indefinite] untuk [asker_namedef]</li>
+    <li>QuestName-> dibayar [gamecondition_label]</li>
+    <li>QuestName-> [gamecondition_label] untuk bayaran</li>-><ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+    <li>QuestName-> [gamecondition_label] de [asker_namedef]</li>
+    <li>Costname-> [gamcondition_indefini] bayar [hari ini_namedef]</li>
+    <li>QuestName-> Membayar untuk [GameCondition_Label]</li>
+    <li>QuestName-> Membayar untuk [GameCondition_Label]</li>
+  </ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> kapal riset yang mengorbit ingin menguji jenis feromon serangga baru.Jika Anda setuju, mereka akan menyapu [MAP_DEFINITE] dengan feromon, memprovokasi (*ancaman) infestasi dari sarang [hivescount] (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletterText (Askerisnull == true)-> Sarangnya tertarik dengan sapuan feromon dari kapal riset yang mengorbit.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], menghadapi infestasi berulang di situs dekat [peta_definite].[asker_pronoun] ingin menarik infestasi kepada Anda.Ini akan memicu (*ancaman) infestasi sarang (hivescount] (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletTerText (asker_factionleader == true)-> Garir awalnya menginfestasi situs terdekat milik [asker_namefull] dari [asker_faction_name].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], mengalami kesulitan mendarat di dekat [peta_definite] karena infestasi yang diulangi.[asker_pronoun] ingin menggambar bug kepada Anda untuk ditangani.Ini akan memicu (*ancaman) infestasi sarang (hivescount] (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletTerText (asker_royalincurrentfaction == true)-> Infestation ditarik kepada Anda oleh [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name].</li>-><ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Kapal riset di orbit ingin mencoba jenis baru serangga.Jika Anda setuju, mereka akan menyemprotkan [MAP_DEFINITE] dengan feromon, menyebabkan (*ancaman) infestasi sarang (hivescount] (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletText (askerisnull == true)-> The Sarang tertarik pada pemindaian feromon kapal penelitian di orbit.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari faksi [asker_faction_name], menghadapi serangan berulang di situs dekat [peta_definite].Dia ingin menarik serangan terhadap Anda.Ini akan menyebabkan (*ancaman) infestasi sarang (hivescouts] (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletText (asker_factionleader == true)-> The Sarang awalnya menginfestasi situs terdekat milik [asker_namefulull] dari faksi [asker_faction_name].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefulull], [asker_a] [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], memiliki masalah mendarat di dekat [MAP_DEFINITE] karena kesimpulan berulang.Dia ingin menarik serangga kepada Anda untuk merawatnya.Ini akan menyebabkan (*ancaman) infestasi {ganti: ^[hivescouts] sarang;"^1 sarang"-"1 sarang";"^"-""} (/ancaman). [HeltersParagraph]</li>
+    <li>InfestationArrivalletText (asker_royalincurrentfaction == true)-> Infestation tertarik kepada Anda oleh [asker_namefulull], [asker_a] [asker_royaltitleincurrentfaction] dari faksi [asker_faction_name].</li>
+  </ThreatReward_Infestation_ItemPod.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> pod dan [serangga]</li>
+    <li>QuestName-> [asker_namedef] [Serangga]</li>
+    <li>QuestName-> [ItemPodstotalMarketValue_Money] [Serangga]</li>
+    <li>QuestName (asker_royalincurrentfaction == true)-> tontonan [serangga]</li>
+    <li>QuestName (p = 0.3)-> Podswarm</li>
+    <li>Serangga-> Serangga</li>
+    <li>serangga-> bug</li>
+    <li>serangga-> sarang</li>-><ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
+    <li>QuestName-> [InsectSany] Kapsul</li>
+    <li>QuestName-> [InsectsDefpl] de [asker_namedef]</li>
+    <li>QuestName-> [InsectSDefpl] [ItemPodstotalMarketValue_Money]</li>
+    <li>questName(asker_royalInCurrentFaction==True)->El espectáculo de [insectsAny]</li>
+    <li>QuestName (P = 0.3)-> Swarm Capsule</li>
+    <li>Serangga-> Serangga</li>
+    <li>Serangga-> Insectoides</li>
+    <li>serangga-> koloni</li>
+    <li>serangga-> nidos</li>
+    <li>serangga (p = 0,3) -> alimañas</li>
+    <li>Serangga-> [Serangga]</li>
+    <li>serangga-> [serangga]</li>
+    <li>InsectsDefpl-> LOS [Serangga]</li>
+    <li>InsectsDefpl-> LAS [InsectSfem]</li>
+  </ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>AnimalkindlabelCorrect (animalCount == 1)-> [animalkind_label]</li>
+    <li>AnimalkindlabelCorrect (AnimalCount> = 2)-> [animalkind_labelplural]</li>
+    <li>manhuntingbeastIndef (animalcount == 1)-> a (*ancaman) manhunting [animalkind_label] (/ancaman)</li>
+    <li>ManhuntingBeastIndef (AnimalCount> = 2)-> paket (*ancaman) [animalcount] manhunting [animalkind_labelplural] (/ancaman)</li>
+    <li>endsection-> [HelterSparagraph] [AnimalkIndLabelCorrect] akan tiba di [MAP_DEFINITE] [MANHUNTERSDELAYTICKS_DURASI] Setelah Anda menerima.</li>
+    <li>QuestDescription (askerisnull == true, animalCount == 1)-> Seorang pedagang menelepon.(*Ancaman) A Wild [animalkind_label] (/ancaman) sedang memburu dia!Dia ingin bantuan Anda untuk menarik binatang itu menjauh darinya.[endsection]</li>
+    <li>manhunterarrivalletterend (askerisnull == true, animalcount == 1)-> [animalkind_label] sedang memburu pedagang terdekat.</li>
+    <li>QuestDescription (askerisnull == true, animalCount> = 2)-> Seorang pedagang menelepon.Sejumlah (*ancaman) [animalcount] liar [animalkind_labelplural] (/ancaman) sedang memburu dia!Dia ingin bantuan Anda untuk menarik hewan -hewan itu darinya.[endsection]</li>
+    <li>manhunterarrivalletterend (askerisnull == true, animalcount> = 2)-> [animalkind_labelplural] sedang berburu pedagang terdekat.</li>
+    <li>QuestDescription (asker_factionleader == true)-> karavan dari [asker_faction_name] dilecehkan oleh [manhuntingbeastIndef].[asker_faction_leadertitle] [asker_namefull] Ingin bantuan Anda untuk menarik binatang buas dari karavan.[endsection]</li>
+    <li>manhunterarrivalletterend (asker_factionleader == true, animalcount == 1)-> [animalkind_label] melecehkan karavan dari [asker_faction_name].</li>
+    <li>manhunterarrivalletterend (asker_factionleader == true, animalcount> = 2)-> [animalkind_labelplural] melecehkan karavan dari [asker_faction_name].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, animalcount == 1)-> [asker_namefull], [asker_royalytitleincurrentfaction] dari [asker_faction_name], baru-baru ini kehilangan pengintai untuk (*ancaman) manhunting [animalkind_label] (//ancaman).[asker_pronoun] ingin menariknya ke arah Anda untuk dibunuh, untuk menegakkan kehormatan [asker_possessive].[endsection]</li>
+    <li>manhunterarrivalletterend (asker_royalincurrentfaction == true, animalcount == 1)-> Ini adalah [animalkind_label] yang membunuh pengintai [asker_royaltitleincurrentfaction] [asker_namefull] dari [asker_faction_name].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, animalcount> = 2)-> [asker_namefull], [asker_royaltitleincurrentfaction] dari [asker_faction_name], baru-baru ini kehilangan pesta pengintai ke paket (*ancaman) [animalcount] manhunting [animalkind_label_label.[asker_pronoun] ingin menarik binatang buas ke arah Anda untuk dibunuh, untuk menegakkan kehormatan [asker_possessive].[endsection]</li>
+    <li>manhunterarrivalletterend (asker_royalincurrentfaction == true, animalcount> = 2)-> Ini adalah [animalkind_labelplural] yang membunuh pesta kepanduan [asker_royaltitleincurrentfaction] [asker_namefull] dari [asker_faction_name].</li>-><ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
+    <li>AnimalkindlabelCorrect (animalCount == 1)-> [animalkind_label]</li>
+    <li>AnimalkindlabelCorrect (AnimalCount> = 2)-> [animalkind_labelplural]</li>
+    <li>animalkindcorrect (animalcount == 1)-> [animalkinddef_definite]</li>
+    <li>AnimalkindCorrect (animalCount == 2)-> El par de [animalkind_labelplural]</li>
+    <li>Animalkindcorrect (animalcount == 3)-> trio [animalkind_labelplural]</li>
+    <li>AnimalkindCorrect (AnimalCount> = 4)-> La Manada de [animalkind_labelplural]</li>
+    <li>Animal_arrive (animalcount == 1)-> akan tiba</li>
+    <li>Animal_arrive (animalcount> = 2)-> mereka akan tiba</li>
+    <li>manhuntingbeastIndef (animalcount == 1)-> (*ancaman) [animalkinddef_definite] cazahombres (/ancaman)</li>
+    <li>ManhuntingBeastIndef (animalcount == 2)-> dos (*ancaman) [animalkind_labelplural] Cazahombres (/ancaman)</li>
+    <li>ManhuntingBeastIndef (animalcount == 3)-> un trío de (*ancaman) [animalkind_labelplural] Cazahombres (/ancaman)</li>
+    <li>ManhuntingBeastIndef (AnimalCount> = 4)-> Una Manada de (*Ancaman) [AnimalCount] [animalkind_labelplural] Cazahombres (/ancaman)</li>
+    <li>Endsection-> [HelterSparagraph] [animokindcorrect] [animal_arrive] a [map_definite] [manhuntersdelayticks_duration] Setelah Anda menerima.</li>
+    <li>QuestDescription (askerisnull == true, animalcount == 1)-> Seorang pedagang memanggil Anda karena (*ancaman) [animalkinddef_indefinite] liar (/ancaman) sedang memburu itu!Ini membutuhkan bantuan Anda untuk menjauh dari ancaman ini darinya.[Endsection]</li>
+    <li>Manhunterrivallettend (askerisnull == true, animalcount == 1)-> [animalkinddef_definite] sedang memburu seorang pedagang di sekitarnya.</li>
+    <li>QuestDescription (askerisnull == true, animalcount == 2)-> Seorang pedagang menelepon.Dua (*ancaman) [animokind_labelplural] liar (/ancaman) sedang memburu!Anda ingin bantuan Anda menjauhkan hewan -hewan ini darinya.[Endsection]</li>
+    <li>QuestDescription (askerisnull == true, animalcount == 3)-> Seorang pedagang menelepon.Trio (*ancaman) [animokind_labelplural] Savage (/ancaman) sedang memburu!Anda ingin bantuan Anda menjauhkan hewan -hewan ini darinya.[Endsection]</li>
+    <li>QuestDescription (askerisnull == true, animalcount> = 4)-> Seorang pedagang menelepon.Kawanan (*ancaman) [animalcount] [animalkind_labelplural] Savage (/ancaman) sedang memburu!Anda ingin bantuan Anda menjauhkan hewan -hewan ini darinya.[Endsection]</li>
+    <li>Manhunterrivalletterend (askerisnull == true, animalcount == 2)-> pasangan [animalkind_labelplural] sedang berburu seorang pedagang di sekitarnya.</li>
+    <li>Manhunterrivallettend (askerisnull == true, animalcount == 3)-> trio [animokind_labelplural] sedang memburu seorang pedagang di sekitarnya.</li>
+    <li>Manhunterrivalletterend (askerisnull == true, animalcount> = 4)-> paket [animalkind_labelplural] sedang berburu seorang pedagang di sekitarnya.</li>
+    <li>QuestDescription (asker_factionleader == true)-> karavan dari faksi [asker_faction_name] dilecehkan oleh [manhuntingbeasintndef].[Asker_namefulull], yaitu [asker_a] [asker_faction_leadertitle] Dari faksi itu ingin bantuan Anda untuk menjauh dari binatang buas karavan.[Endsection]</li>
+    <li>manhunterrivallettend (asker_factionleader == true, animalcount == 1)-> [animalkinddef_definite] yang melecehkan faksi karavan [asker_faction_name].</li>
+    <li>Manhunterrivalletterend (asker_factionleader == true, animalcount == 2)-> pasangan [animokind_labelplural] yang melecehkan karavan faksi [asker_faction_name].</li>
+    <li>Manhunterrivalletterend (asker_factionleader == true, animalcount == 3)-> trio [animokind_labelplural] yang melecehkan karavan faksi [asker_faction_name].</li>
+    <li>Manhunterrivalletterend (asker_factionleader == true, animalcount> = 4)-> paket [animalkind_labelplural] yang melecehkan karavan faksi [asker_faction_name].</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, animalCount == 1)-> [asker_namefulull], [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], baru-baru ini kehilangan penjelajah karena (*ancaman) [ancaman/ancaman/ancaman.Dia ingin menarik binatang buas ini kepada Anda untuk membunuh ancaman ini dan dengan demikian mempertahankan kehormatannya.[Endsection]</li>
+    <li>Manhunterrivalletterend (asker_royalincurrentfaction == true, animalcount == 1)-> [animalkinddef_definite], yang membunuh penjelajah [asker_the] [asker_royaltitleincurrentfaction] [asker_namefulr] dari faksi [asker_faction_name.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, animalcount == 2)-> [asker_namefulull], [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], baru-baru ini kehilangan sekelompok penjelajah karena dua (*ancaman) [animalkind_labelpl. Liburan berburu (/ancaman).Dia ingin menarik binatang buas ini ke arah Anda untuk membunuh mereka dan dengan demikian mempertahankan kehormatannya.[Endsection]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == True, animalcount == 3)-> [asker_namefulull], [asker_royaltitlecurrentfaction] of the faction [asker_faction_name], recently lost a group of explorers because of a trio of a trio of a trio of a trio of a trio of (*Threat) [Animalkind_LabelPlural] Hunting (/Ancaman).Dia ingin menarik binatang buas ini ke arah Anda untuk membunuh mereka dan dengan demikian mempertahankan kehormatannya.[Endsection]</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true, animalCount> = 4)-> [asker_namefulull], [asker_royaltitlecurrentfaction] dari faksi [asker_faction_name], baru-baru ini kehilangan sekelompok penjelajah karena kawanan kawanan (*ancaman) [animokind.Dia ingin menarik binatang buas ini ke arah Anda untuk membunuh mereka dan dengan demikian mempertahankan kehormatannya.[Endsection]</li>
+    <li>manhunterrivalletterend (asker_royalincurrentfaction == true, animalcount == 2)-> Ini adalah dua [animalkind [asker_faction_name].</li>
+    <li>Manhunterrivalletterend (asker_royalincurrentfaction == true, animalcount == 3)-> Ini adalah trio [animalkind [asker_faction_name].</li>
+    <li>Manhunterrivalletterend (asker_royalincurrentfaction == true, animalcount> = 4)-> Ini adalah paket [animalkind [asker_faction_name].</li>
+  </ThreatReward_Manhunters_ItemPod.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName (AnimalCount == 1)-> [AdjectiveBadass] [Beast]</li>
+    <li>QuestName (AnimalCount == 1)-> A [AdjectiveBadass] [Beast]</li>
+    <li>QuestName (AnimalCount == 1)-> [AdjectiveBadass] [Beast]</li>
+    <li>QuestName (AnimalCount> = 2)-> [AdjectiveBadass] [Beasts]</li>
+    <li>QuestName (AnimalCount> = 2)-> [AdjectiveBadass] [Beasts]</li>
+    <li>Beast (p = 4)-> [animalkind_label]</li>
+    <li>binatang buas-> binatang buas</li>
+    <li>binatang-> hewan</li>
+    <li>binatang buas (p = 4)-> [animalkind_labelplural]</li>
+    <li>binatang buas-> binatang buas</li>
+    <li>binatang buas-> hewan</li>-><ThreatReward_Manhunters_ItemPod.questNameRules.rulesStrings>
+    <li>QuestName (AnimalCount == 1)-> [BeastFem] [AdjectiveBadass_fem]</li>
+    <li>QuestName (AnimalCount == 1)-> [Beastmas] [AdjectiveBadass]</li>
+    <li>QuestName (AnimalCount == 1)-> [Beast] [Adjective1]</li>
+    <li>QuestName (AnimalCount> = 2)-> [beastsfem] [adjectiveBadass_fem] s</li>
+    <li>QuestName (AnimalCount> = 2)-> [Beastsmas] [AdjectiveBadass] s</li>
+    <li>QuestName (AnimalCount> = 2)-> [Beasts] [kata sifat]</li>
+    <li>Beast-> [animalkind_label]</li>
+    <li>Kata sifat1-> Salvaje</li>
+    <li>Kata sifat1-> gila</li>
+    <li>Kata sifat1-> Despicable</li>
+    <li>Beastfem-> la Bestia</li>
+    <li>Beastmas-> El Animal</li>
+    <li>Binatang buas (p = 1)-> sekelompok [animalkind_labelplural]</li>
+    <li>Binatang buas> binatang buas</li>
+    <li>Binatang buas-> hewan</li>
+    <li>Kata sifat-> Salvajes</li>
+    <li>Kata sifat-> itu sudah gila</li>
+    <li>Kata sifat-> sin temor</li>
+    <li>Kata sifat-> despresicable</li>
+    <li>Kata sifat-> antinatura</li>
+  </ThreatReward_Manhunters_ItemPod.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
+  <ThreatReward_Manhunters_ItemPod.LetterTextManhunterArrival.slateRef>{Basetext} \ n \ n [Manhunterarrivalletterend]</ThreatReward_Manhunters_ItemPod.LetterTextManhunterArrival.slateRef>
+  
+  <!-- EN:
+    <li>QuestDescription (askerisnull == true)-> Seorang pedagang menelepon dari dekat.[Ancaman] memburu dia!Dia meminta Anda untuk memberi sinyal dan menariknya ke [peta_definite] sehingga dia dapat melarikan diri. \ N \ nif Anda mengirim sinyal, [askerenemies] akan mengaktifkan situs di dekatnya untuk melecehkan Anda.[Situs/AllsitePartSDescriptions] Situs ini akan tetap sampai Anda menghancurkannya.</li>
+    <li>QuestDescription (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari [asker_faction_name], meminta bantuan Anda.[Askerenemies] telah melecehkan permukiman [asker_possessive].[asker_pronoun] Ingin bantuan Anda menggunakan sinyal untuk menariknya ke [MAP_DEFINITE] dan jauh dari [asker_possessive] orang -orang. \ n \ nif [asker_pronoun] tidak, [askerenemies] akan mengaktifkan situs di dekatnya untuk melecehkan Anda.[Situs/AllsitePartSDescriptions] Situs ini akan tetap sampai Anda menghancurkannya.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_namefull], a [asker_royaltitleincurrentfaction] dari [asker_faction_name], bepergian dekat [peta_definite].[asker_pronoun] diikuti oleh [ancaman] dan ingin bantuan Anda menggunakan sinyal untuk menariknya ke [MAP_Definite]. \ n \ nif Anda lakukan, [Askerenemies] akan mengaktifkan situs di dekatnya untuk melecehkan Anda.[Situs/AllsitePartSDescriptions] Situs ini akan tetap sampai Anda menghancurkannya.</li>
+    <li>ancaman (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_pawnsplural] dari [situs/musuh/musuh_name]</li>
+    <li>ancaman (prioritas = 1, situs/mechcluster_exists == true)-> mechanoids</li>
+    <li>ancaman (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mechanoids</li>
+    <li>Ancaman-> [asker_possessive] musuh</li>
+    <li>ancaman (prioritas = -1)-> musuhnya</li>
+    <li>askerenemies (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_name]</li>
+    <li>askerenemies (prioritas = 1, situs/mechcluster_exists == true)-> mechanoids</li>
+    <li>askerenemies (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mechanoids</li>
+    <li>Askerenemies-> [asker_possessive] musuh</li>
+    <li>askerenemies (prioritas = -1)-> musuhnya</li>-><ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
+    <li>QuestDescription (askerisnull == true)-> Seorang pedagang menelepon dari sekitarnya.[Ancaman] Mereka memburu itu.Dia meminta Anda untuk membuat sinyal dan menarik mereka ke [MAP_DEFINITE] sehingga dapat melarikan diri.[Situs/AllSitePartsDescripts] Kamp ini akan tetap sampai Anda akan menghancurkannya.</li>
+    <li>Deskripsi pencarian (asker_factionleader == true)-> [asker_namefull], [asker_faction_leadertitle] dari faksi [asker_faction_name], meminta bantuan Anda.[Askerenemies] telah melecehkan pemukiman mereka.Anda ingin bantuan dan menggunakan sinyal untuk menarik mereka ke [MAP_Definite] dan menjauh dari orang -orang mereka.[Situs/AllSitePartsDescripts] Kamp ini akan tetap sampai Anda akan menghancurkannya.</li>
+    <li>QuestDescription (asker_royalincurrentfaction == true)-> [asker_nameful], [asker_a] [asker_royaltitlecurrentInfaction] dari faksi [asker_faction_name], ia bepergian dekat [peta_definite].Dia diikuti [asker_o_a] untuk [ancaman] dan ingin Anda membantu Anda menggunakan sinyal untuk menarik mereka ke [MAP_Definite].[Situs/AllSitePartsDescripts] Kamp ini akan tetap sampai Anda akan menghancurkannya.</li>
+    <li>ancaman (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_pawnsplural] de [situs/musuh/musuh_name]</li>
+    <li>ancaman (prioritas = 1, situs/mechcluster_exists == true)-> mecanoides</li>
+    <li>ancaman (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mecanoides</li>
+    <li>Ancaman-> musuhnya</li>
+    <li>Ancaman (prioritas = -1) -> musuh Anda</li>
+    <li>askerenemies (prioritas = 1, situs/outpost_exists == true)-> [situs/musuh/musuh_name]</li>
+    <li>askerenemies (prioritas = 1, situs/mechcluster_exists == true)-> mecanoides</li>
+    <li>askerenemies (prioritas = 1, situs/sleepingmechanoids_exists == true)-> mecanoides</li>
+    <li>Askerenemies-> musuhnya</li>
+    <li>Askerenemies (prioritas = -1) -> musuh Anda</li>
+  </ThreatReward_SiteThreat_ItemPod.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>CostName-> [Today_ Namedaf] [SITUS/SITE_LELL]</li>
+    <li>CostName-> [Situs/Situs_lell] untuk [TODAY_NAMEDEF]</li>
+    <li>QuestName-> berbayar [situs/situs_label]</li>
+    <li>QuestName-> [Situs/Situs_label] untuk bayaran</li>-><ThreatReward_SiteThreat_ItemPod.questNameRules.rulesStrings>
+    <li>CostName-> [SITUS/SITUS_DEPHINI] DE [TODAY_NAMEDEF]</li>
+    <li>CostName-> [Situs/Situs_indefini] Bayar [TODAY_NAMEDEF]</li>
+    <li>QuestName-> Paying by [situs/situs_indefinite]</li>
+    <li>QuestName-> [Situs/Situs_indefinite] dengan kuota</li>
+  </ThreatReward_SiteThreat_ItemPod.questNameRules.rulesStrings>
+  <!-- EN: [defaultSiteAppearedLetterText]\n\nThis site was set up as a response to your insulting signals. -->
+  <ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>[DefaultSiteAppperAdlettext] \ n \ Neste Camp dibangun sebagai tanggapan terhadap sinyal ofensif Anda.</ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>
+  
+</LanguageData>

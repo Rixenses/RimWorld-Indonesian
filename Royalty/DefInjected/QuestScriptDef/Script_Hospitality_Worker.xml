@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [lodgersLabelSingOrPlural] arrived -->
+  <Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>[Lodgerslabelsingorplural] [Lodgersarrived]</Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>
+  <!-- EN: [lodgersLabelSingOrPluralDef] [lodgersHasHave] arrived. Protect [lodgersObjective] until the shuttle arrives in [shuttleDelayTicks_duration].[helpersArrivalLetterEnd] -->
+  <Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>[LodgersLabelsingorPluralDef] [Lodgershave] tiba.[LodgersProtect] sampai feri tiba di [shuttledelayticks_duration]. [HelSarrivallettend]</Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>
+  <!-- EN: Should depart on shuttle -->
+  <Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>Harus pergi di feri</Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>
+  <!-- EN: Shuttle arrived -->
+  <Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>Feri telah tiba</Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>
+  <!-- EN: The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers] -->
+  <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>Feri telah tiba untuk mengambil [LodgerslallabelsingingorpluralDef].Pastikan orang -orang ini berada di feri sebelum lepas landas di [shuttleavedelayticks_duration]: \ n \ n [Lodgers]</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
+  <!-- EN: Guest died: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>Guest Dead: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>[Lettersubject], yang harus Anda lindungi, telah mati.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
+  <!-- EN: Guest captured: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>Diundang Ditangkap: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>[Lettersubject], yang harus Anda lindungi, ditangkap.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
+  <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>Tahanan yang direkrut: {subjek_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
+  <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>Anda telah merekrut {subjek_definite}, yang harus Anda urus.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
+  <!-- EN: Prisoner enslaved: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>Tahanan yang diperbudak: {subjek_definite}</Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>
+  <!-- EN: You have enslaved {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>Anda telah memperbudak {subjek_definite}, yang harus Anda urus.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>
+  <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>BURGER TIDAK DITERIMA: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
+  <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>Operasi yang tidak sah dan dapat diwakili telah dipraktikkan dalam [Lettersubject].[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
+  <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>Xenogermen absorbido: {subjek_definite}</Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>A [Removingwillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>Imppted Lost: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>[Lettersubject], yang harus Anda lindungi, telah menghilang.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>Imppted Lost: {Subject_Definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.text.slateRef>[Lettersubject], yang ditugaskan untuk melindungi, telah menghilang.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Imppted Lost: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>[Lettersubject], yang harus Anda lindungi, telah gila.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>Imppted Lost: {Subject_Definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
+  <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>[Lettersubject], yang harus Anda lindungi, telah bergabung dengan faksi lain.[Menghapuswillnowlive] [failleTtendendCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>Misi Gagal: [ResolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
+  <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
+  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[Asker_faction_name] sekarang memusuhi Anda.[Faillettendingquest]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
+  <!-- EN: Shuttle destroyed -->
+  <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>Transforder yang hancur</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>
+  <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextShuttleDestroyed.slateRef>Feri yang dikirim untuk mengumpulkan [LodgabersLallabelSingingRuralDef] telah dihancurkan.Sekarang [LodgelabelsingorRuralDef] [Lodgersleave] Koloni dengan berjalan kaki.[FaillettendendCommon]</Hospitality_Util_Worker.LetterTextShuttleDestroyed.slateRef>
+  <!-- EN: Shuttle left behind -->
+  <Hospitality_Util_Worker.LetterLabelShuttleLeftBehind.slateRef>Feri yang ditinggalkan</Hospitality_Util_Worker.LetterLabelShuttleLeftBehind.slateRef>
+  <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been left behind. [lodgersLabelSingOrPluralDef] will now leave on foot. -->
+  <Hospitality_Util_Worker.LetterTextShuttleLeftBehind.slateRef>Feri yang dikirim untuk mengambil [LodgelabelsingorpluralDef] telah ditinggalkan.Sekarang [LodgelabelsingorRuralDef] [Lodgersleave] Koloni dengan berjalan kaki.</Hospitality_Util_Worker.LetterTextShuttleLeftBehind.slateRef>
+  <!-- EN: Quest completed -->
+  <Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>Misi terpenuhi</Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>
+  <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] said [lodgersPronoun] [lodgersWasWere] willing to reward quality accommodation. The average mood of [lodgersLabelSingOrPluralDef] was {AVERAGEMOOD} during [theirHisHer] stay, so your goodwill with [asker_faction_name] has increased by {GOODWILL} -->
+  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>Anda telah berhasil menyelesaikan misi "[resolvestname]"!Humor rata -rata [LODGERSLABELSINGRURALDEF] berasal dari {Avegemood} selama dia tinggal, jadi niat baik Anda dengan faksi [asker_faction_name] telah meningkat dengan {goodwill}</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
+  <!-- EN: Quest completed -->
+  <Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>Misi Selesai</Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>
+  <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\nWhile [lodgersLabelSingOrPluralDef] [lodgersWasWere] willing to reward quality accommodation, [theirHisHer] average mood was only {AVERAGEMOOD} during [theirHisHer] stay. You will receive no faction goodwill reward. -->
+  <Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>Anda telah berhasil menyelesaikan misi "[Resolvedame]"!Anda tidak akan menerima hadiah niat baik dari faksi.</Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>Misi Gagal: [ResolvedQuestName]</Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>
+  <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has departed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
+  <Hospitality_Util_Worker.LetterTextQuestFailed.slateRef>Feri yang dikirim untuk mengambil [LodgabersLabelibeliborpluralDef] telah pergi.Sekarang [LodgelabelsingorRuralDef] [Lodgersleave] Koloni dengan berjalan kaki.[FaillettendendCommon]</Hospitality_Util_Worker.LetterTextQuestFailed.slateRef>
+  
+  <!-- EN: Shuttle destroyed -->
+  <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>Transforder yang hancur</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>
+  <!-- EN: The shuttle sent to drop off [pawnsLabelDef] has been destroyed. You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have changed by [goodwillChangeOnShuttleDestroyed]. -->
+  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Feri yang dikirim untuk pergi [Pawnslababeldef] telah dihancurkan.Anda telah gagal dalam misi "[ResolvedQuestName]".</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
+  
+</LanguageData>

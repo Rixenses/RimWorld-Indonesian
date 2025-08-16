@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> A Friendly AI dari masa lalu Anda bernama (*nama) Charlon Whitestone (/Name) telah mengirimi Anda pesan! \ N \ nhe mengungkapkan bahwa ia memiliki kapal luar angkasa yang tersembunyi di planet ini, dan mengirimi Anda koordinat dunianya.Anda harus memulainya ketika Anda tiba, lalu mempertahankannya dari Raiders yang mencoba mencurinya sampai urutan startup selesai.Ini akan menjadi serangkaian pertempuran yang panjang dan sulit. \ N \ nif Anda bisa mendapatkan kapal dari tanah, (*name) Charlon Whitestone (/Name) akan membawa Anda keluar dari rimworld ini, ke bintang -bintang.</li>-><EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> yang ramah yang Anda kenal, disebut (*nama) Charlon Whitestone (/Name), telah mengirimi Anda pesan!Anda harus memulainya ketika Anda tiba dan kemudian mempertahankannya dari para penyerang yang akan mencoba mencurinya sampai urutan awal selesai.Ini akan menjadi seri pertempuran yang panjang dan sulit.</li>
+  </EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> Kirim ke bintang-bintang</li>-><EndGame_ShipEscape.questNameRules.rulesStrings>
+    <li>QuestName-> Trip to the Stars</li>
+  </EndGame_ShipEscape.questNameRules.rulesStrings>
+  
+</LanguageData>

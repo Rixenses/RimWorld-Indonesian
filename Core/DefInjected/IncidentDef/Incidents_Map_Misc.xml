@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>Alfacastores</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>kecambah ragweed</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Ambrosia bertunas</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Semak-semak ragweed misterius telah tumbuh di dekatnya! Jika Anda menunggu tanaman ini tumbuh, Anda akan dapat memanen buahnya yang lezat, menyenangkan, namun sedikit membuat ketagihan.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>bagian depan yang dingin</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Bagian depan yang dingin</ColdSnap.letterLabel>
+  <ColdSnap.letterText>Hawa dingin yang tidak biasa telah dimulai. Hawa dingin dapat membunuh dengan cepat akibat hipotermia. Pastikan untuk membangun tempat yang hangat untuk bertahan hidup, kenakan pakaian yang sesuai dan cobalah memanen tanaman sebelum membeku dan mati.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>hama pertanian</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>hewan peliharaan bergabung</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>badai petir</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Badai petir</Flashstorm.letterLabel>
+  <Flashstorm.letterText>Sejumlah besar sambaran petir akan menyambar wilayah ini. Hal ini dapat menyebabkan kebakaran besar.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>gelombang panas</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Gelombang panas</HeatWave.letterLabel>
+  <HeatWave.letterText>Gelombang panas yang tidak biasa telah dimulai. Gelombang panas dapat membunuh dengan cepat jika orang mulai menderita sengatan panas. Tetaplah sejuk dengan membuat pendingin atau berteduh di bawah gunung.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>kawanan migrasi</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Kawanan yang bermigrasi: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Kawanan besar {0} sedang melewati area tersebut. Mereka tidak akan menyerang kecuali diprovokasi.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>dampak meteorit</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Sebuah meteorit besar menghantam area tersebut. Meteorit tersebut meninggalkan bijih {0} di lokasi tersebut.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>gebrakan psikis</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>menenangkan psikis</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>permintaan tebusan</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Permintaan tebusan</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>kapsul transportasi berbintang</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>kapsul sumber daya berbintang</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>domestikasi diri</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>korsleting</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>trumbos lewat</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>hujan beracun</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Hujan beracun</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>Kebakaran kimia di kejauhan telah melepaskan awan beracun di atas wilayah tersebut. Setiap orang atau makhluk yang tidak terlindungi di dalam ruangan akan perlahan-lahan diracuni dengan menghirup debu beracun.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>musim dingin vulkanik</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Musim dingin vulkanik</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Sebuah gunung berapi super yang jauh telah meletus dan mulai memuntahkan jutaan kilometer kubik abu ke atmosfer. Suhu akan turun dan tanaman akan menderita karena kurangnya sinar matahari. Hal ini bisa terjadi dalam beberapa minggu, atau bisa juga berlangsung selama beberapa kuadran.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>Orang -orang yang berkeliaran bergabung</WandererJoin.label>
+  <WandererJoin.letterLabel>Vagabund{PAWN_jenis_kelamin ? o : a} joins: {PAWN_namaDef}</WandererJoin.letterLabel>
+  <WandererJoin.letterText>{PAWN_jenis_kelamin ? A : A} {PAWN_jenis_kelamin} {PAWN_nama_def} telah tiba dan bergabung dengan koloni. Dia bersedia {PAWN_jenis_kelamin ? atau : a} untuk membantu dan berkontribusi, tetapi dia tidak akan pergi secara sukarela. Jika {PAWN_Tujuan} tidak mau, Anda dapat mengusir {PAWN_Tujuan}, menjual {PAWN_Tujuan} ke dalam perbudakan, atau membunuh {PAWN_Tujuan}. Namun, koloni Anda mungkin tidak menyukai opsi itu.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>Para pelancong liar</WildManWandersIn.label>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>{0_indefinite} roaming</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>{replace: A {1}; "Seseorang"-"{PAWN_jenis_kelamin ? Seorang pria : Seorang wanita}"; "Seorang anak"-"{PAWN_jenis_kelamin ? Laki-laki : Perempuan}"} telah memasuki area tersebut. Ini disebut {0} Anda dapat mencoba menjinakkan {PAWN_objective}.</WildManWandersIn.letterText>
+  
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>Implan pendengaran</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Pemasangan implan rumah siput. Mikrofon eksternal mentransmisikan sinyal suara ke elektroda yang ditempatkan di sekitar saraf pendengaran di telinga bagian dalam. Elektroda akan menstimulasi saraf sesuai dengan suara, sehingga menciptakan sensasi mendengar. Memang tidak sebaik telinga alami, tetapi jauh lebih baik daripada tuli.</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>Implan pendengaran</CochlearImplant.labelNoun>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>sukacita</Joywire.label>
+  <!-- EN: An installed joywire implant. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
+  <Joywire.description>Implan joywire dipasang. Meskipun sangat meningkatkan suasana hati pengguna, selimut kebahagiaan membuatnya sulit untuk berkonsentrasi pada sesuatu yang nyata. Flutterwires ilegal di banyak dunia dan telah dikenal untuk menghancurkan seluruh budaya.</Joywire.description>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>sukacita</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>pemotong rasa sakit</Painstopper.label>
+  <!-- EN: An installed painstopper implant. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
+  <Painstopper.description>Implan penghilang rasa sakit dipasang. Meskipun memungkinkan pengguna untuk mencapai lebih banyak hal, ternyata rasa sakit memiliki tujuan. Ketika Anda tidak merasakannya, Anda dapat melukai diri sendiri dengan sangat mudah.</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>pemotong rasa sakit</Painstopper.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>cakar hidrolik</PowerClaw.label>
+  <!-- EN: An installed power claw consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainliness slows down movement slightly. -->
+  <PowerClaw.description>Cakar hidraulik terpasang. Terdiri dari tangan mekanis dengan cakar berkait di setiap jari. Cakar ini memotong dalam dan cukup kuat untuk menghancurkan tengkorak seperti telur. Cakarnya dapat ditarik, membuatnya berguna seperti tangan alami untuk tugas-tugas non-tempur.</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>cakar</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>cakar hidrolik</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>lengan palsu</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>Lengan prostetik yang sudah terpasang. Meskipun tidak memiliki antarmuka saraf, susunan sendi internal yang kompleks memungkinkannya meniru gerakan alami dengan cukup meyakinkan. Namun, tetap saja, ini lebih buruk daripada lengan asli.</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>tinju</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>lengan palsu</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>jantung palsu</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>Jantung prostetik yang dipasang. Jantung ini memiliki motor listrik yang memompa darah dengan lancar ke seluruh tubuh. Pengguna sering mengatakan bahwa mereka merasa lelah, tetapi ini lebih baik daripada tidak memakainya.</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>jantung palsu</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>kaki palsu</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>Kaki palsu yang sudah terpasang. Meskipun tidak memiliki antarmuka saraf, susunan sendi internal yang kompleks memungkinkannya meniru gerakan alami dengan cukup meyakinkan. Namun, tetap saja, ini lebih buruk daripada kaki asli.</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>kaki palsu</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>

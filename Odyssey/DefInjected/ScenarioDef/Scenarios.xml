@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Gravship -->
+  <TheGravship.label>Gravinave</TheGravship.label>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.description>Gravinave Anda berlabuh di repeater orbital.Sementara kru Anda mulai memulihkan sisa -sisa tim, Anda menemukan sesuatu yang mengganggu: ini bukan teknologi manusia kuno ... tetapi suar mecanoid.Repeater menjadi hidup dengan krisis listrik, dan meluncurkan sinyal perang ke Mecacolmena yang jauh.Sekarang mereka sedang memburu Anda, dan cepat atau lambat mereka akan menemukan Anda, ke mana pun Anda pergi. \ Nnota: Ini adalah skenario yang sulit.Tidak disarankan untuk pemain tanpa timbal.</TheGravship.description>
+  <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
+  <TheGravship.scenario.description>Gravinave Anda berlabuh di repeater orbital.Sementara kru Anda mulai memulihkan sisa -sisa tim, Anda menemukan sesuatu yang mengganggu: ini bukan teknologi manusia kuno ... tetapi suar mecanoid.Repeater menjadi hidup dengan krisis listrik, dan meluncurkan sinyal perang ke Mecacolmena yang jauh.Sekarang mereka sedang memburu Anda, dan cepat atau lambat mereka akan menemukan Anda, ke mana pun Anda pergi. \ Nnota: Ini adalah skenario yang sulit.Tidak disarankan untuk pemain tanpa timbal.</TheGravship.scenario.description>
+  <!-- EN: The Gravship -->
+  <TheGravship.scenario.name>Gravinave</TheGravship.scenario.name>
+  <!-- EN: You screwed up, and now the mechhive wants you dead. Its terrifying murder machines will arrive soon. Gather the valuable gravlite panels, then use your gravship to flee to a safe location on the planet below.\n\nTo launch the gravship, select the pilot console, then select the launch command.\n\nOn the world map, select ‘view planet' to choose a landing spot on the planet.\n\nFrom now on, wherever you go, the mechanoids will eventually find you. To stop them, you must find and defeat the mechhive itself. -->
+  <TheGravship.scenario.parts.GameStartDialog.text>Anda telah meletakkan kaki, dan sekarang Mecacolmena ingin melihat Anda mati.Mesin pembunuhnya yang menakutkan akan segera tiba.Kumpulkan panel rumput yang berharga dan gunakan gravinave Anda untuk melarikan diri ke tempat yang aman di permukaan planet ini. Mereka akhirnya akan menemukan Anda.Untuk menghentikan mereka, Anda harus menemukan dan menghancurkan Mecacolmena.</TheGravship.scenario.parts.GameStartDialog.text>
+  <!-- EN: A crew of three hunted by mechanoids. -->
+  <TheGravship.scenario.summary>Awak tiga yang dihindari oleh Mecanoids.</TheGravship.scenario.summary>
+  
+</LanguageData>

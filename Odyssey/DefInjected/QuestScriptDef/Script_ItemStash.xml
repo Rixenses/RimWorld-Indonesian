@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi koleksi barang berharga bernilai [itemstashcontentsValue].Koleksi ini terdiri dari: \ n \ n [itemStashContents] \ n \ nit tampaknya [AllSitePartSDescriptionSExceptFirst]</li>-><OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+    <li>QuestDescription-> [DiscoveryMethod] Lokasi koleksi objek berharga yang dihargai di [itemstashcontentsValue].Koleksi ini terdiri dari: \ n \ n [itemsshcontents] \ n \ nparece bahwa [AllSiteparts deciptionSexceptfirs]</li>
+  </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>QuestName-> [simpanan] dari [harta karun]</li>
+    <li>simpanan> simpanan</li>
+    <li>Stash-> Cache</li>
+    <li>Koleksi Stash-></li>
+    <li>Stash-> Shack</li>
+    <li>harta karun-> harta karun</li>
+    <li>Harta karun-> barang berharga</li>
+    <li>harta karun-> keberuntungan</li>
+    <li>harta karun-> barang</li>
+    <li>harta karun-> persediaan</li>-><OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+    <li>QuestName-> [STASH] de [Treasure]</li>
+    <li>Simpanan> simpanan</li>
+    <li>Stash-> Escondite</li>
+    <li>Koleksi Stash-></li>
+    <li>Simpanan> chosa</li>
+    <li>Harta karun-> harta karun</li>
+    <li>Treasure-> Objek yang berharga</li>
+    <li>Harta karun-> kas</li>
+    <li>Harta karun-> barang</li>
+    <li>Harta karun-> persediaan</li>
+  </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+  <!-- EN:
+    <li>Subjek-> Loot Stash</li>
+    <li>Subjek-> Harta Karun Rahasia</li>
+    <li>Subjek-> Barang berharga</li>
+    <li>QuestMapfeature-> menggambar peti harta karun</li>
+    <li>QuestMapFeature-> Supply Shack</li>
+    <li>QuestMaptext-> Secret Item Stash</li>
+    <li>QuestMaptext-> Loot di sini</li>
+    <li>QuestMaptext-> Hidden berharga</li>-><OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+    <li>Subjek-> Booty Hides</li>
+    <li>Subjek-> Harta Karun Rahasia</li>
+    <li>Subjek-> Objek yang berharga</li>
+    <li>QuestMapfeature-> menggambar peti harta karun</li>
+    <li>QuestMapFeature-> Supllier Hut</li>
+    <li>QuestMaptext-> Secret of Objects</li>
+    <li>QuestMaptext-> Booty di sini</li>
+    <li>QuestMaptext-> Objek Berharga Tersembunyi</li>
+  </OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>Misi kedaluwarsa: [ResolvedQuestName]</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>Komunikasi yang dicegat menunjukkan bahwa simpanan objek telah diklaim oleh orang lain.Misi [menyelesaikan saya] telah kedaluwarsa.</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>
