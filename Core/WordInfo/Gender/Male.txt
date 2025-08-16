@@ -1,879 +1,879 @@
-2º dedo del pie derecho
-2º dedo del pie izquierdo
-3ᵉʳ dedo del pie derecho
-3ᵉʳ dedo del pie izquierdo
-4º dedo del pie derecho
-4º dedo del pie izquierdo
-acero
-acero compactado
-ácido gastado
-acidulante post-mortem
-activador de proximidad
-agarilux
+﻿Jari ke -2 kaki kanan
+Jari ke -2 kaki kiri
+3ᵉʳ kaki kanan
+3ᵉʳ kaki kiri
+Jari ke -4 kaki kanan
+Jari ke -4 kaki kiri
+baja
+baja yang dipadatkan
+asam bekas
+Asam post-mortem
+aktivator kedekatan
+Agarilux
 agave
-agua
-agua corriente profunda
-agua corriente superficial
-agua en los ojos
-agua oceánica poco profunda
-agua oceánica profunda
-aire acondicionado antiguo
-alambre de espino antiguo
-alce
-alcohol
-alcoholismo
-aldeano
-alegrialambre
-alfacastor
+Agua
+Air arus yang dalam
+air arus yang dangkal
+Air di mata
+air samudera yang dangkal
+Air samudera yang dalam
+AC lama
+Kawat duri tua
+rusa besar
+alkohol
+alkoholisme
+orang desa
+sukacita
+Alfacastor
 alfacastor joven
-alijo de objetos
-almacén
-altar (anteproyecto)
-altar (en construcción)
-altar matrimonial
-alzheimer
-analizador químico
-ancestral
-animal cuadrúpedo
-anorak
-aplastamiento
-arañazo
-árbol cortado
-árbol de abedul
-árbol de álamo
-árbol de arce
-árbol de bambú
-árbol de cacao
-árbol de cecropia
-árbol de ciprés
-árbol de palmera
-árbol de pino
-árbol de roble
-árbol de sauce
-árbol de teca
-árbol desinstalado
-árbol drago
-árbol quemado
-arbusto
-arbusto de ambrosía
-arbusto de bayas
-arbusto pequeño
-arco corto
-arco grande
-arco recurvo
-armamento medieval
-armamento pesado
-armario de herramientas
-armario de herramientas (anteproyecto)
-arquero
-arquero pesado
-arroz
-arte
-artillero carroñero
-artillero pirata
-asfalto fracturado
-asma
-asno
-asno joven
-ástil
-astrágalo
-ataque cardíaco
-avestruz
-avestruz joven
-barril ancestral
-barril de fermentación (anteproyecto)
-barril de fermentación (en construcción)
-barril de fermentado
-barril de megacañón antiguo
-barro
-barro en los ojos
-bersérker
-biocombustible
-bisonte
-bláster de cargas ligero
-bláster pesado
-bloque de macromotor antiguo
-bloque de motor antiguo
-bombardeo
-bombardero orbital
-bombín
-brazo
-brazo arqueoteca
-brazo biónico
-brazo derecho
-brazo izquierdo
-brazo prostético
-brazo protésico
-briolux
-bumalope
-bumalope joven
-buzón antiguo
-caballo
-caballo joven
-cabezal
-cabrito
-cabrito joven
-cabrito montés
-cabrito montés joven
-cacao
-cachorro de gato
-cachorro de husky
-cachorro de labrador
-cachorro de lince
-cachorro de pantera
-cachorro de puma
-cachorro de terrier
-cactus alfiletero
-cactus saguaro
-cadáver de alce
-cadáver de alfacastor
-cadáver de alpaca
-cadáver de ardilla
-cadáver de avestruz
-cadáver de bumalope
-cadáver de cabra montés
-cadáver de capibara
-cadáver de caribú
-cadáver de casuario
-cadáver de cerdo
-cadáver de chinchilla
-cadáver de ciervo
-cadáver de cobra
-cadáver de dromedario
-cadáver de elefante
-cadáver de emú
-cadáver de espelópedo
-cadáver de fénec
-cadáver de gacela
-cadáver de gato
-cadáver de husky
-cadáver de iguana
-cadáver de jabalí
-cadáver de labrador
-cadáver de liebre
-cadáver de liebre polar
-cadáver de lince
-cadáver de lobo
-cadáver de lobo ártico
-cadáver de mapache
-cadáver de megaescarabajo
-cadáver de megaperezoso
-cadáver de megaraña
-cadáver de mono
-cadáver de múfalo
-cadáver de oso pardo
-cadáver de oso polar
-cadáver de pantera
-cadáver de pavo
-cadáver de pollo
-cadáver de puma
-cadáver de rata
-cadáver de ratabum
-cadáver de rinoceronte
-cadáver de tortuga
-cadáver de trumbo
-cadáver de vaca
-cadáver de wargo
-cadáver de yorkshire terrier
-cadáver de zorro ártico
-cadáver de zorro rojo
-cadáver humano
-cajero antiguo
-cajón de dormir
-calefactor
-camión antiguo
-campamento
-campamento abandonado
-campamento de bandidos
-campamento de prisioneros
-canuto de hojahumeante
-cañón
-cañón automático
-cañón automático (anteproyecto)
-cañón automático (en construcción)
-cañón de balas de uranio
-cañón de golpes
-cañón de uranio
-cañón de uranio (anteproyecto)
-cañón de uranio (en construcción)
-cañón inferno
-cañón infierno
-cañón multiple
-cañón reforzado
-caparazón
-capibara
-capibara joven
-carcinoma
-cargador básico ancestral
-cargador estándar ancestral
-caribú
-caribú joven
-carnero
-carnero joven
-carrillo
-carrito de la compra antiguo
-carroñero de la basura
-cartel de corral
-cartucho de escopeta
-cascarón de mecanoide antiguo
-casco anti-psíquico
-casco avanzado
-casco de explorador
-casco de marine
-casco delantero izquierdo
-casco derecho delantero
-casco simple
-casco trasero derecho
-casco trasero izquierdo
-casuario
-casuario joven
-cazador
-cemento
-cemento (anteproyecto)
-centípedo artillero
-centípedo destructor
-centípedo incendiario
-centípedo mecanoide
-cerdo
-cerebro
-cerebro artificial
-cervatillo
-chaleco antibalas
-charco de agua
-charco de combustible
-chasis antiguo
-chocolate
-ciclo climático
-ciervo
-cilindro de almacenaje ancestral
-cinturón de espuma
-cinturón de humo
-cinturón de protección
-cinturón inacabado
-coche antiguo
-cochinillo
-cóctel molotov
-cohete
-cohete apocalíptico
-colapso catatónico
-colmillo
-colmillo de elefante
-colmillo derecho
-colmillo izquierdo
-colono
-coma psíquico
-comedor
-comerciante
-comerciante de la ciudad
-componente inacabado
-concejal de la ciudad
-conducto de ventilación
-conducto de ventilación (anteproyecto)
-conducto de ventilación (en construcción)
-conducto eléctrico
-conducto eléctrico (anteproyecto)
-conducto eléctrico (en construcción)
-conducto eléctrico oculto
-conducto impermeable
-conducto impermeable (anteproyecto)
-conducto impermeable (en construcción)
-contenedor antiguo
-contenedor de activador vacío
-contenedor hidropónico
-contenedor hidropónico (anteproyecto)
-contenedor hidropónico (en construcción)
-corazón
-corazón biónico
-corazón prostético
-corazón protésico
-cordero
-corta-dolor
-corte
-corte quirúrgico
-costillar
-cráneo
-cráter
-crematorio eléctrico
-crematorio eléctrico (anteproyecto)
-crematorio eléctrico (en construcción)
-criptosueño
-cuarto segmento corporal
-cuchillo
-cuello
-cuerno
-cuerno de trumbo
-cuero de dromedario
-cuero de elefante
-cuero de humano
-cuero de perro
-cuero de rinoceronte
-cuero ligero
-cuero liso
-cuerpo
-cuerpo a cuerpo
-cuerpo de centípedo
-cuerpo de lancero
-cuerpo de segador
-cultivo de hilodiablo
-daño químico moderado
-daño químico severo
-dedo
-dedo anular derecho
-dedo anular izquierdo
-dedo corazón
-dedo corazón derecho
-dedo corazón izquierdo
-dedo del pie
-dedo gordo del pie derecho
-dedo gordo del pie izquierdo
-dedo índice derecho
-dedo índice izquierdo
-derrumbe de rocas
-desgarre
-desperdicio
-despertar
-destruyeplanetas
-detonador desenfocado
-diente de león
-disparo
-disparo de aguja
-disparo de bláster
-disparo de cargas
-disparo de lanza de cargas
-dispensador de pasta nutritiva
-dispensador de pasta nutritiva (anteproyecto)
-dispensador de pasta nutritiva (en construcción)
-doble lugar para dormir (en construcción)
-dolor intenso
-dolor leve
-dormitorio
-dromedario
-dromedario joven
-eclipse
-elefante
-elefante joven
-élitros
-élitros del lado derecho
-élitros del lado izquierdo
-emanador psíquico
-emanador psíquico (anteproyecto)
-emú
-emú joven
-errante
-escáner de largo alcance (anteproyecto)
-escáner de largo alcance (en construcción)
-escáner de minerales de largo alcance
-escáner de profundidad
-escáner de profundidad (anteproyecto)
-escáner de profundidad (en construcción)
-escarabajo gigante
-escarabajo gigante con garras
-esclavo
-escombro de nave
-escombro metálico
-espelópedo
-espelópedo inmaduro
-esquema
-establo
-esternón
-estómago
-estómago biónico
-fango
-fémur
-fémur derecho
-fémur izquierdo
-fénec
-filo
-forastero
-forastero de negro
-fragmentos de máquina
-fregadero antiguo
-frente frío
-frigorífico antiguo
-frotis de sangre
-fuego
-fusil de asalto
-fusil de asalto único
-fusil de cargas
-fusil de cargas único
-fusil de cerrojo
-fusil de cerrojo único
-fusil de francotirador
-fusil de francotirador único
-gabinete para herramientas (anteproyecto)
-gabinete para herramientas (en construcción)
-gallo
-ganso
-ganso joven
-gato
-gato joven
-géiser de vapor
-generador a leña
-generador a leña (anteproyecto)
-generador a leña (en construcción)
-generador ancestral
-generador de biocombustible
-generador de biocombustible (anteproyecto)
-generador de biocombustible (en construcción)
-generador de efecto retardado
-generador de tornados
-generador geotérmico
-generador geotérmico (anteproyecto)
-generador geotérmico (en construcción)
-generador hidroeléctrico
-gestador de mecas ancestral
-gladius
-golpe de calor
-gorro
-gran gestador de mecas ancestral
-granadero
-granadero de humo
-granadero de pem
-granito
-granito alisado
-granito en bruto
-granito irregular
-granito liso
-guardia de la ciudad
-guerrero
-hacha zapeadora
-hematoma
-heno
-hielo
-hígado
-hilodiablo
-hipertejido
-hombre de negro
-hombre salvaje
-hombro
-hombro derecho
-hombro izquierdo
-hombro mecánico derecho
-hombro mecánico izquierdo
-hongo de hilodiablo
-hormigón (en construcción)
-hormigón antiguo
-horno antiguo
-hospital
-huevo de avestruz (fert.)
-huevo de avestruz (no fert.)
-huevo de casuario (fert.)
-huevo de casuario (no fert.)
-huevo de cobra (fert.)
-huevo de cobra (no fert.)
-huevo de emú (fert.)
-huevo de emú (no fert.)
-huevo de gallina (fert.)
-huevo de gallina (no fert.)
-huevo de ganso (fert.)
-huevo de ganso (no fert.)
-huevo de iguana (fert.)
-huevo de iguana (no fert.)
-huevo de pato (fert.)
-huevo de pato (no fert.)
-huevo de pavo (fert.)
-huevo de pavo (no fert.)
-huevo de tortuga (fert.)
-huevo de tortuga (no fert.)
-humano
-húmero
-húmero derecho
-húmero izquierdo
-husky
-husky joven
-ikwa
-implante auditivo
-infarto cerebral
-insectoide
-instrumento musical sin terminar
-interruptor
-interruptor (anteproyecto)
-interruptor (en construcción)
-invierno
-invierno permanente
-invierno volcánico
-jabalí
-jabalí joven
-jabato
-jade
-jefe
-jefe arquero
-jefe bersérker
-laboratorio
-laboratorio de drogas
-laboratorio de drogas (anteproyecto)
-laboratorio de drogas (en construcción)
-labrador
-labrador joven
-labrador retriever
-lancero
-lanzacohetes apocalíptico
-lanzacohetes múltiple
-lanzacohetes triple
-lanzador de espuma cortafuegos
-lanzador incendiario t-9
-lanzagranadas de humo
-lanzagranadas incendiario t-9
-lanzagranadas pem
-lechón
-leño
-libro de texto
-líder
-linaje insectoide
-lince
-líquido amniótico
-líquido de gestación
-lirio de día
-lobezno ártico
-lobezno gris
-lobo ártico
-lobo ártico joven
-lobo gris
-lobo gris joven
-lobo pardo
-luciferio
-lugar
-lugar doble para dormir
-lugar doble para dormir (anteproyecto)
-lugar para dormir
-lugar para dormir (animal)
-lugar para dormir (animal) (anteproyecto)
-lugar para dormir (animal) (en construcción)
-lugar para dormir (anteproyecto)
-lugar para dormir (en construcción)
-lúpulo
-maíz
-mango
-mantenimiento de la cordura de la ia de naves estelares
-mapa de bolsillo
-mapache
-mapache joven
-maquinado
-mareo por resurrección
-mármol
-mármol alisado
-mármol en bruto
-mármol irregular
-mármol liso
-mecanodo
-mecanoide
-megaescarabajo
-megaescarabajo inmaduro
-megaperezoso
-megaperezoso joven
-megascarabajo
-meñique del pie derecho
-meñique del pie izquierdo
-meñique derecho
-meñique izquierdo
-mercenario artillero
-mercenario asesino
-mercenario de élite
-mercenario francotirador
-mercenario pesado
-meteorito (llegando)
-microondas antiguo
-miembro de tribu
-miniproyectil
-módulo de sensores
-módulo de sensores (anteproyecto)
-módulo de sensores (en construcción)
-mojónbrillante
-molino de agua (anteproyecto)
-molino de agua (en construcción)
-monitor antiguo
-monitor de signos vitales
-monitor de signos vitales (anteproyecto)
-monitor de signos vitales (en construcción)
-monitoreo de signos vitales
+simpanan objek
+toko
+altar (draft)
+altar (sedang dibangun)
+matrimonial altar
+Alzheimer
+Penganalisa kimia
+leluhur
+hewan berkaki empat
+Anorak
+perataan
+menggores
+potong pohon
+pohon birch
+Pohon Alamo
+Pohon arce
+pohon bambu
+Pohon Kakao
+Pohon cecropia
+pohon cemara
+pohon palem
+pohon pinus
+Pohon ek
+Pohon saus
+Pohon jati
+pohon yang tidak diinstal
+Pohon drago
+Pohon yang terbakar
+semak-semak
+Ambrosia Shrub
+Bray Bush
+Semak kecil
+Busur pendek
+Busur besar
+membalikkan
+persenjataan abad pertengahan
+persenjataan berat
+Pakaian Alat
+Kabinet alat (draft)
+kiper
+Pemanah berat
+beras
+seni
+Mengacau Artiller
+Penembak bajak laut
+Aspal yang retak
+Asma
+PANTAT
+Pantat muda
+Cinta
+Astragalus
+serangan jantung
+burung unta
+Burung unta muda
+Leluhur Barril
+Fermentasi barel (draft)
+Barel Fermentasi (sedang dibangun)
+Barrel yang difermentasi
+Barrel megacañón kuno
+Barro
+Lumpur Mata
+Bersérer
+Biofuel
+banteng
+Blaster beban ringan
+Blasta berat
+Blok makromotor kuno
+Blok motor tua
+pemboman
+BOMBER ORBITAL
+Bom
+lengan
+Lengan Archeoteca
+Lengan bionik
+lengan kanan
+Lengan kiri
+Lengan prostetik
+Lengan prostetik
+Briolux
+Bumalope
+Bumalope Joven
+kotak surat lama
+kuda
+Kuda muda
+kepala
+anak
+Anak muda
+Montés Kid
+Montés Cabrito muda
+coklat
+anjing kucing
+Puppy Husky
+Gabbradour
+anjing lynx
+Anak anjing Panther
+PUMA PUPPY
+Anjing terrier
+Kaktus runcing
+Cactus Saguaro
+Mayat Alce
+Corpse Alphacastor
+Corpse Alpaca
+Mayat tupai
+mayat burung unta
+mayat bumalope
+Mayat kambing Montés
+Mayat Capibaro
+Caribú
+mayat kasual
+Tubuh babi
+Corpse Chinchilla
+Mayat rusa
+mayat ular
+DROMEDARIO Corpse
+Mayat gajah
+Corpse emu
+Espelaópedo Corpse
+Fénec Corpse
+Tubuh Gazelle
+Mayat kucing
+Mayat Husky
+mayat iguana
+Dewan Babi Liar
+Tubuh Labrador
+Mayat Liebre
+Mayat Polar Hare
+Lynx Corpse
+Tubuh serigala
+Tubuh Serigala Arktik
+Mayat mapache
+Mayat megaescabajo
+Tubuh Megapezoso
+Mayat Megaraña
 mono
-mono joven
-mortero
-mortero (anteproyecto)
-mortero (en construcción)
-mortero automático
-mosto
-motor de nave
-motor de nave (anteproyecto)
-motor de nave (en construcción)
-motor de nave antiguo
-múfalo
-multi-analizador
-multi-analizador (anteproyecto)
-multi-analizador (en construcción)
-multianálisis
-muñeco de nieve
-muro
-muro (anteproyecto)
-muro (en construcción)
-musgo
-neuroformador de psienlace
-neurozumo
-nodo de combustible inestable antiguo
-novillo
-novillo de bisonte
-novillo de múfalo
-novillo de yak
-núcleo de ia
-núcleo de subpersona
-objeto desinstalado
-oído biónico
-oído derecha
-oído derecho
-oído izquierdo
-ojo
-ojo arqueoteca
-ojo biónico
-ojo derecho
-ojo izquierdo
-ordenador central de nave
-ordenador central de nave (anteproyecto)
-ordenador central de nave (en construcción)
-órgano deteriorado
-orificio nasal
-oro
-osezno grizzly
-osezno polar
-oso grizzly
-oso pardo
-oso polar
-otoño
-pájaro
-panel solar
-panel solar (anteproyecto)
-panel solar (en construcción)
-pantalón
-pantalón antibalas
-paquete inacabado
-pato
-pato joven
-pavo
-pellejo de cerdo
-pellejo de lagarto
-pellejo de lobo
-pellejo de oso
-pellejo de pájaro
-pelo
-pemmican
-penitente
-pico
-pie
-pie de caminaguerras ancestral
-pie de madera
-pie delantero derecho
-pie delantero izquierdo
-pie derecho
-pie izquierdo
-pie trasero derecho
-pie trasero izquierdo
-pienso
-pilum
-piquero
-plastiacero
-plastiacero compactado
-plastrón
-pollipavo
-pollo
-polluelo
-polluelo de avestruz
-polluelo de casuario
-polluelo de emú
-polluelo de pato
-potrillo de asno
-potro
-primer consejero
-primer segmento corporal
-primer trimestre
-protórax
-proyectil altamente explosivo
-proyectil cortafuegos
-proyectil de antimateria
-proyectil de cañón infierno
-proyectil de humo
-proyectil de lanzador de humo
-proyectil incendiario
-proyectil pem
-psi-emisor animal
-psi-emisor calmante
-psico-yayo
-psienlace
-puesto de avanzada
-pulgar derecho
-pulgar izquierdo
-pulmón
-pulmón derecho
-pulmón izquierdo
-pulverizador
-pulverizador de espuma
-puma
-punto
-punto de artesanía
-punto de artesanía (anteproyecto)
-punto de carga para caravanas
-punto de carga para caravanas (anteproyecto)
-punto de carga para caravanas (en construcción)
-punto de despiece
-punto de despiece (anteproyecto)
-punto de fiestas
-punto de fiestas (anteproyecto)
-punto de fiestas (en construcción)
-puño
-puño derecho
-puño izquierdo
-quimiorreactor infinito
-quimiorreactor infinito (anteproyecto)
-quinto segmento corporal
-radio
-radio derecho
-radio izquierdo
-rayo de energia
-rayo orbital
-reactor
-reactor de jet antiguo
-reactor de nave
-reactor de nave (anteproyecto)
-reactor de nave (en construcción)
-refrigerador
-refrigerador (anteproyecto)
-refrigerador (en construcción)
-refrigerador pasivo
-refrigerador pasivo (anteproyecto)
-refrigerador pasivo (en construcción)
-refugiado espacial
-refugiado incapacitado
-reprocesador de fluidos
-resaca psíquica
-revólver
-rinoceronte
-rinoceronte joven
-riñón
-riñón derecho
-riñón izquierdo
-saco de dormir
-saco de dormir (anteproyecto)
-saco de dormir (en construcción)
-saco de dormir doble
-saco de dormir doble (anteproyecto)
-saco de dormir doble (en construcción)
-sarcófago
-sarcófago (anteproyecto)
-sarcófago (en construcción)
-sarcófago de criptosueño
-sarcófago de criptosueño (anteproyecto)
-sarcófago de criptosueño (en construcción)
-sarcófago de criptosueño antiguo
-sarcófago de criptosueño de nave
-sarcófago de criptosueño de nave (anteproyecto)
-sarcófago de criptosueño de nave (en construcción)
-sedante psíquico
-segador
-segundo segmento corporal
-segundo trimestre
-semental
-semental joven
-sensor auditivo
-sensor auditivo derecho
-sensor auditivo izquierdo
-sensor de visión
-sensor de visión derecho
-sensor de visión izquierdo
-sexto segmento corporal
-shock psíquico
-sillón
-sillón (anteproyecto)
-sillón (en construcción)
-sindicato de forasteros
-síndrome del sabio
-sistema de estantería ancestral
-sofá
-soldado antiguo
-sombrero de vaquero
-subfusil compacto
-subfusil pesado
-subidón de escamas
-subidón de neurozumo
-subidón de té psicoide
-subidón de yayo
-suelo de madera
-suelo de madera (anteproyecto)
-suelo de madera (en construcción)
-suelo de madera antiguo
-suelo de madera quemada
-suelo pedregoso
-suelo perturbado
-suero reanimador mecanoide
-suero sanador mecanoide
-tablero de juego de ur
-tablero de ur (anteproyecto)
-tablero de ur (en construcción)
-taburete
-taburete (anteproyecto)
-taburete (en construcción)
-taladro de profundidad
-taladro de profundidad (anteproyecto)
-taladro de profundidad (en construcción)
-taller
-tanque ancestral en ruinas
-tanque meca ancestral
-tbp antiguo en ruinas
-té psicoide
-telescopio
-telescopio (anteproyecto)
-temporizador
-tercer segmento corporal
-tercer trimestre
-ternero
-ternero de bisonte
-ternero de múfalo
-ternero de yak
-tinte
-tocado tribal
-tocón aplastado
-tórax
-tornado
-toro
-torso
-torso de caminaguerras ancestral
-transbordador (estrellándose)
-transbordador estrellado
-transbordador imperial
-transportador de tropas antiguo
-tribal
-trozo de arenisca
-trozo de caliza
-trozo de granito
-trozo de mármol
-trozo de nave (llegando)
-trozo de pizarra
+Mayat Musfol
+Oso Pardo Corpse
+mayat kutub
+Tubuh Panther
+tubuh kalkun
+Tubuh ayam
+Tubuh Puma
+Mayat tikus
+Ratabum Corpse
+Corpse Badak
+Mayat Turtle
 trumbo
-trumbo joven
-túnel
-uapití
-uapití joven
-uniforme raído
-uranio
-vara de tiro al aro
-vara de tiro al aro (anteproyecto)
-vara de tiro al aro (en construcción)
-váter antiguo
-velo de guerra
-verano
-verano permanente
-vómito
-wargo
-wargo joven
-warguezno
+tubuh sapi
+Tubuh Wargo
+Badan Terrier Yorkshire
+Tubuh rubah Arktik
+Mayat rubah merah
+Mayat manusia
+Atm tua
+Laci tidur
+pemanas
+Truk tua
+kamp
+Kamp yang ditinggalkan
+Bandids Camp
+Kamp penjara
+Leafhumeante Cannuto
+Canon
+Meriam otomatis
+Automatic Canyon (draft)
+Meriam otomatis (sedang dibangun)
+Uranium Bullets Canyon
+Meniup ngarai
+Uranium Cannon
+Uranium Canyon (draft)
+Uranium Cannon (sedang dibangun)
+Canyon undnovy
+Neraka Cannon
+Beberapa meriam
+meriam yang diperkuat
+kerang
+Capybara
+Capibara muda
+karsinoma
+Pengisi daya dasar leluhur
+Pengisi Daya Standar Leluhur
+karibu
+Karibu muda
+DOMBA
+Ram muda
+Carrillo
+Gerobak pembelian lama
+Penggalangan sampah
+Poster Corral
+kartrid senapan
+Cascaron Mecanoid Lama
+Helm anti-psikis
+Helm canggih
+Helm penjelajah
+Helm laut
+Helm depan kiri
+Helm kanan depan
+Casco Sederhana
+helm belakang kanan
+Helm belakang kiri
+Casuario
+Casuario muda
+pemburu
+semen
+semen (draft)
+Centípeda Gunner
+Menghancurkan Centípedo
+Cent Incendiary
+Cent mecanoid
+babi
+otak
+Otak buatan
+Cervatillo
+Rompi Antibala
+Genangan air
+Bahan bakar genangan air
+Sasis kuno
+cokelat
+Siklus iklim
+rusa
+Silinder penyimpanan leluhur
+Sabuk busa
+sabuk asap
+Sabuk perlindungan
+Sabuk yang belum selesai
+Mobil kuno
+babi
+Cóctel Molotov
+roket
+Roket apokaliptik
+Runtuhnya katatonik
+gading
+Gajah Fang
+taring kanan
+taring kiri
+pendatang
+Koma psikis
+ruang makan
+pedagang
+Pedagang Kota
+komponen yang belum selesai
+Anggota Dewan Kota
+saluran ventilasi
+saluran ventilasi (draft)
+saluran ventilasi (sedang dibangun)
+Saluran listrik
+Saluran listrik (draft)
+Saluran listrik (sedang dibangun)
+saluran listrik tersembunyi
+Saluran tahan air
+Saluran tahan air (draft)
+Saluran tahan air (sedang dibangun)
+wadah tua
+Wadah Aktivator Vakum
+Wadah hidroponik
+Wadah hidroponik (draft)
+Wadah hidroponik (sedang dibangun)
+jantung
+Hati bionik
+Hati prostetik
+Hati prostetik
+Cordero
+warna pendek
+pengadilan
+Potongan bedah
+iga
+tengkorak
+kawah
+Krematorium Listrik
+Krematorium Listrik (draft)
+Krematorium Listrik (sedang dibangun)
+cryptosueño
+Segmen tubuh keempat
+pisau
+leher
+klakson
+Tanduk Trumbo
+Kulit DROMEDARY
+Kulit gajah
+Kulit manusia
+kulit anjing
+Kulit Badak
+Kulit ringan
+kulit halus
+tubuh
+Perkelahian
+Tubuh Centípedo
+Tubuh Lancer
+Tubuh
+Budaya Hilodiblo
+Kerusakan kimia sedang
+Kerusakan kimia yang parah
+jari
+jari manis kanan
+jari manis kiri
+Jantung Jantung
+Jari jantung kanan
+Kiri Jantung Jantung
+kaki
+Glory toe
+Gordo ke kaki kiri
+Jari telunjuk kanan
+jari telunjuk kiri
+runtuh batu
+merobek
+limbah
+bangun
+Hancurkan planet
+Menghancurkan detonator
+Dandelion
+penembakan
+tembakan jarum
+Perjalanan blaster
+Memuat pemotretan
+Muat tembakan tombak
+Dispenser pasta bergizi
+Nutritive Pasta Dispenser (Draft)
+Dispenser pasta bergizi (sedang dibangun)
+Tidur ganda (sedang dibangun)
+rasa sakit yang intens
+Nyeri ringan
+kamar tidur
+dromedaris
+Dromario Joven
+gerhana
+gajah
+Gajah muda
+elite
+Elite sisi kanan
+Eliter di sisi kiri
+Emanator Psikis
+Emanator Psikis (draft)
+emu
+Emu Young
+pengembaraan
+Pemindai Long -Range (draft pendahuluan)
+Pemindai Long -Range (sedang dibangun)
+Pemindai Mineral Long -Range
+Pemindai kedalaman
+Pemindai Kedalaman (draft)
+pemindai kedalaman (sedang dibangun)
+Kumbang raksasa
+Kumbang raksasa dengan cakar
+budak
+puing -puing kapal
+Puing logam
+dimanja
+Imaduro Espelaópedo
+skema
+lumbung
+tulang dada
+perut
+Perut bionik
+lumpur
+tulang paha
+femur kanan
+femur kiri
+Fénec
+filo
+lebih aneh
+Orang luar hitam
+Fragmen mesin
+wastafel tua
+Front Dingin
+Kulkas kuno
+Noda darah
+Fuego
+Senapan serbu
+senapan serbu unik
+Muat senapan
+senapan beban yang unik
+Senapan Berrojo
+senapan baut yang unik
+senapan sniper
+senapan sniper unik
+Kabinet alat (draft)
+Kabinet alat (sedang dibangun)
+Gallo
+angsa
+Angsa muda
+Gato
+kucing muda
+Geyser uap
+Generator Leña
+Fire Generator (Draft)
+Generator Kebakaran (sedang dibangun)
+Generator Leluhur
+Generator Biofuel
+Generator Biofuel (draft pendahuluan)
+Generator Biofuel (sedang dibangun)
+generator efek tertunda
+Generator Tornado
+Generator panas bumi
+Generator panas bumi (draft)
+Generator panas bumi (sedang dibangun)
+Generator hidroelektrik
+Gestator Mecas Leluhur
+pedang
+pitam panas
+topi
+Gestator Mecas leluhur yang hebat
+Grenadier
+Grenadier asap
+PEM Grenadier
+granit
+Granit kecil
+Bercrosing di granit kasar
+granit tidak teratur
+Granit halus
+penjaga kota
+Guerrero
+Zapeadora Ax
+hematoma
+wanita
+es
+hati
+Hilodiblo
+Hipertejid
+Pria kulit hitam
+pria liar
+bahu
+bahu kanan
+bahu kiri
+bahu mekanik kanan
+Bahu mekanik kiri
+Jamur hilodiblo
+beton (sedang dibangun)
+beton tua
+oven tua
+RSUD
+Telur burung unta (fert.)
+Telur burung unta (tidak fert.)
+Taruhan casairio (fert.)
+Telur Casuario (tidak fert.)
+Telur kobra (fert.)
+Telur kobra (tidak fert.)
+Emú Egg (fert.)
+huevo dari emu (bukan musang
+telur ayam (fert.)
+telur ayam (tidak fert.)
+angsa telur (fert.)
+Telur angsa (tidak fert.)
+Telur iguana (fert.)
+Telur iguana (tidak fert.)
+Telur bebek (fert.)
+Duck Egg (No Fert.)
+telur kalkun (fert.)
+telur kalkun (tidak fert.)
+Telur Tortuga (fert.)
+Turtuga Egg (No Fert.)
+manusia
+Humerus
+Humerus yang benar
+Humerus kiri
+serak
+Husky muda
+merasa
+Implan pendengaran
+infark otak
+Insectoide
+alat musik yang tidak terluka
+mengalihkan
+Switch (draft)
+Switch (sedang dibangun)
+musim dingin
+Musim dingin permanen
+musim dingin vulkanik
+babi hutan
+Babi hutan muda
+babi hutan muda
+giok
+bos
+Kepala Archer
+Kepala Bersérker
+laboratorium
+Laboratorium Narkoba
+Laboratorium Obat (Draf)
+Laboratorium Obat (sedang dibangun)
+Labrador
+Labrador muda
+Labrador Retriever
+Lancer
+Peluncur roket apokaliptik
+Beberapa peluncur roket
+Triple Runcocohetes
+Peluncur Busa Firewall
+T-9 Pitcher Incendiary
+Alur asap
+Lanzegranadas Insitaria T-9
+PEM LANZGRANADAS
+Susu
+log
+buku pelajaran
+pemimpin
+Garis keturunan insektoid
+garis
+air ketuban
+Cairan kehamilan
+Lily di siang hari
+Wolverine Arktik
+Grey Wolver
+Serigala Arktik
+Serigala Arktik Muda
+Serigala abu -abu
+Serigala abu -abu muda
+Wolf Pardo
+Luciferio
+tempat
+Tempat tidur ganda
+Tempat tidur ganda (draft)
+Tempat tidur
+Tempat Tidur (Hewan)
+Tempat tidur (hewan) (draft)
+Tempat tidur (hewan) (sedang dibangun)
+Tempat tidur (draft)
+Tempat tidur (sedang dibangun)
+melompat
+jagung
+buah mangga
+Pemeliharaan AI dari kapal bintang
+Peta saku
+rakun
+Mapache muda
+pemesinan
+pusing oleh kebangkitan
+marmer
+Marmer Alisado
+marmer mentah
+marmer tidak teratur
+marmer halus
+Machodo
+Mecanoide
+Megaescarabajo
+Megaescarabajo yang belum matang
+Megaprezoso
+Megaperezoso Young
+Megascarabo
+Pai kanan
+Minique dari kaki kiri
+Minique kanan
+Meninggalkan Meñique kecil
+Gunner Mercenary
+Tentara bayaran pembunuh
+Tentara bayaran elit
+Penembak jitu tentara bayaran
+Tentara bayaran berat
+Meteorit (tiba)
+Microwave tua
+anggota suku
+miniproyectil
+Modul Sensor
+Modul Sensor (Draf)
+Modul Sensor (sedang dibangun)
+Bulan Brillante
+Pabrik air (draft)
+Pabrik Air (sedang dibangun)
+Monitor Kuno
+Monitor Tanda Vital
+Vital Signs Monitor (draft)
+Monitor Tanda Vital (sedang dibangun)
+Pemantauan tanda -tanda vital
+mono
+Monyet muda
+mortir
+Mortar (draft)
+Mortar (sedang dibangun)
+Mortar Otomatis
+harus
+mesin kapal
+mesin kapal (draft awal)
+mesin kapal (sedang dibangun)
+mesin kapal tua
+Whe
+Multi-Amerizer
+Multi-Amber (draft pendahuluan)
+Multi-Amerizer (sedang dibangun)
+Multiangikal
+Manusia salju
+dinding
+dinding (draft)
+Dinding (sedang dibangun)
+lumut
+Psychoenlace neuroformator
+neurosum
+Node bahan bakar kuno tidak stabil
+steer
+Steer bison
+Mufalo Steer
+Steer Yak
+Inti dari AI
+Nukleus Subpersone
+objek yang tidak diinstal
+telinga bionik
+telinga kanan
+telinga kanan
+telinga kiri
+ojo
+Mata Archeoteca
+Mata bionik
+mata kanan
+Mata kiri
+Komputer Kapal Pusat
+Central Nave Computer (draft)
+Komputer Kapal Pusat (sedang dibangun)
+organ yang memburuk
+lubang hidung
+oro
+Grizzly yang tepat
+Osezno Polar
+Oso Grizzly
+Oso Pardo
+Oso polar
+musim gugur
+burung
+Panel Solar
+Panel surya (draft)
+Panel surya (sedang dibangun)
+celana
+celana anti peluru
+paket yang belum selesai
+pato
+Bebek muda
+mereka
+Kulit babi
+Kulit lagarto
+Kulit serigala
+Menanggung kulit
+Kulit burung
+untuk
+pemmican
+menyesal
+pico
+pai
+Kaki jalan setapak leluhur
+Kaki kayu
+kaki depan kanan
+kaki depan kiri
+Kaki kanan
+kaki kiri
+kaki belakang kanan
+kaki belakang kiri
+Menurut saya
+tombak
+Pikeman
+Plastiacero
+Plastiacero yang dipadatkan
+plastik
+polipavo
+polo
+anak ayam
+cewek burung unta
+Policulolo dari Casuals
+ayam emu
+Cewek bebek
+Asno foal
+Potro
+Penasihat pertama
+Segmen tubuh pertama
+Kuartal pertama
+Protórax
+Proyektil yang sangat eksplosif
+Proyektil Firewall
+proyektil antimateri
+Proyektil Neraka Cannon
+proyektil asap
+Proyektil peluncuran asap
+proyektil pembakar
+Proyektil PEM
+Hewan psi-emitor
+tenang psi-emitter
+Psycho-Yayo
+psienlace
+Pos Lanjutan
+jempol kanan
+ibu jari kiri
+paru-paru
+paru -paru kanan
+paru -paru kiri
+semprot
+Penyemprot busa
+Puma
+titik
+Titik kerajinan
+Titik kerajinan (draft)
+Titik beban untuk karavan
+Titik beban untuk karavan (draft awal)
+Titik beban untuk karavan (sedang dibangun)
+Masih titik
+Still Point (draft pendahuluan)
+Titik pesta
+Titik partai (draft)
+Titik partai (sedang dibangun)
+tinju
+kepalan tangan kanan
+Tinju kiri
+Chemoreactor yang tak terbatas
+Chimiorheactor Infinito (draft)
+segmen tubuh kelima
+radio
+Radio kanan
+Radio kiri
+Ray Energi
+yoo orbial
+reaktor
+Reaktor jet tua
+reaktor kapal
+Reactor kapal (draft awal)
+reaktor kapal (sedang dibangun)
+kulkas
+Kulkas (draft)
+kulkas (sedang dibangun)
+kulkas pasif
+Kulkas pasif (draft)
+Kulkas pasif (sedang dibangun)
+Pengungsi Ruang
+Pengungsi yang tidak mampu
+Reprosesor Cairan
+Hangover psikis
+pistol
+badak
+Badak muda
+ginjal
+ginjal kanan
+Kiri ginjal
+kantong tidur
+Kantong tidur (draft)
+kantong tidur (sedang dibangun)
+Kantong tidur ganda
+Kantong tidur ganda (draft pendahuluan)
+Kantong tidur ganda (sedang dibangun)
+sarkofagus
+Sarcophagus (draft pendahuluan)
+Sarcophagus (sedang dibangun)
+sarcófago de criptosueño
+Cryptosueño Sarcophagus (draft)
+Cryptosueño Sarcophagus (sedang dibangun)
+Sarkofagus Cryptosueño Kuno
+Sarkofagus Cryptosueño de Nave
+Sarcafago de Criptosueño de Nave (draft)
+Sarkofagus dari Cryptosueño de Nave (sedang dibangun)
+Obat penenang psikis
+lebih sulit
+segmen tubuh kedua
+kuartal kedua
+kuda jantan
+Kuda jantan muda
+sensor pendengaran
+Sensor pendengaran kanan
+Sensor pendengaran kiri
+Sensor penglihatan
+Sensor penglihatan yang tepat
+Sensor penglihatan kiri
+segmen tubuh keenam
+cenayang
+kursi
+kursi (draft)
+Lengan (sedang dibangun)
+Union Foraster
+Sindrom orang bijak
+Sistem rak leluhur
+sofa
+prajurit tua
+topi koboi
+Subfusil kompak
+Subfusil berat
+pendakian timbangan
+Pendakian Neurozumo
+teh psikoid
+Yayo memanjat
+Tanah kayu
+lantai kayu (draft)
+Tanah kayu (sedang dibangun)
+kayu tua
+kayu yang terbakar
+tanah berbatu
+tanah yang terganggu
+Serum resuscor mecanoid
+Serum Penyembuhan Mecanoid
+Papan permainan Anda
+Dewan Anda (draft)
+Papan Anda (sedang dibangun)
+bangku
+bangku (draft)
+bangku (sedang dibangun)
+bor kedalaman
+Bor Kedalaman (draft)
+bor kedalaman (sedang dibangun)
+lebih tinggi
+Hancurkan Tank Leluhur
+Tank Mekah Leluhur
+Reruntuhan Tua TBP
+teh psikoid
+teleskop
+Teleskop (draft)
+timer
+Segmen tubuh ketiga
+Kuartal ketiga
+anak sapi
+betis bison
+anak sapi mupalo
+Betis yak
+warna
+Headdress Tribal
+Tunggul hancur
+dada
+angin topan
+mengunjungi
+batang tubuh
+Borso pejalan kaki leluhur
+Transforder (Crashing)
+transfer bintang
+Transfer Imperial
+Transporter pasukan tua
+kesukuan
+Sepotong batu pasir
+Sepotong batu kapur
+Sepotong granit
+Sepotong marmer
+Nave Piece (tiba)
+Sepotong batu tulis
+trumbo
+Trumbo muda
+terowongan
+Uapiti
+Uapití muda
+seragam telanjang
+uranium
+Ring Rod ke The Hoop
+Rodo to the Hoop (draft)
+Rodo ke lingkaran (sedang dibangun)
+Váter kuno
+Jilbab Perang
+musim panas
+Musim panas permanen
+muntah
+Wargo
+Wargo muda
+WARGUEZNO
 yak
-yayo
-yorkshire
-yorkshire terrier
-yorkshire terrier joven
-zapador tribal
-zorro ártico
-zorro ártico joven
-zorro fénec
-zorro fénec joven
-zorro rojo
-zorro rojo joven
-zumbador psíquico
-zumbido psíquico
+-nya
+Yorkshire
+Yorkshire Terrier
+Yorkshire Terrier Young
+seorang rekan suku
+Rubah Arktik
+Rubah Arktik Muda
+Fox Fox
+Rubah Fénec Muda
+Rubah merah
+Rubah Merah Muda
+Buzzer psikis
+cenayang

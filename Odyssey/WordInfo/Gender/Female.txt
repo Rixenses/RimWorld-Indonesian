@@ -1,277 +1,277 @@
-abertura de cueva
-adelfilla
-aeroturbina antigua
-agua
-agua de manantial caliente
-agua de océano poco profunda tóxica
-agua de océano profunda tóxica
-agua estancada
-agua móvil tóxica hasta el pecho
-agua móvil tóxica poco profunda
-agua poco profunda tóxica
-agua profunda tóxica
-aleta delantera derecha
-aleta delantera izquierda
-aleta trasera derecha
-aleta trasera izquierda
-antena antigua
-antena derecha
-antena izquierda
+﻿pembukaan gua
+Adelfilla
+Airbin kuno
+Agua
+Air Panas Panas
+Air laut beracun hiu
+air laut lautan dalam
+air stagnan
+air mobile beracun ke dada
+Air Tukang Beracun Tukang
+Naungan beracun
+Air dalam beracun
+Sirip depan kanan
+Sirip depan kiri
+sirip belakang kanan
+Sirip belakang kiri
+Antena kuno
+Antena kanan
+Antena kiri
 arena
-artillera del gremio
-artillera pesada
-avispa
-bahía
-bala de torreta defensora antigua
-baldosa de vaciorita
-barrera de concreto grande
-barrera de vacío
-base
-base de grúa arruinada
-bomba de oxígeno
-branquias
-branquisauce
-bumaseta
-cabeza
-cachorra de foca
-cachorra de gato cimitarra
-cachorra de gran lobo
-cachorra de león marino
-cachorra de mastodonte
-cachorra de morsa
-cachorra de perrito de la pradera
-cachorra de sabueso pantanoso
-cachorra de tigre
-cachorra de visón
-caja de cartón vieja
-caja de chatarra de acero
-caja de componentes
-caja de componentes avanzados
-caja de explosivos antigua
-caja de madera antigua
-caja de metal oxidada
-caja de munición antigua
-caja fuerte oxidada
-caja sellada
-cama doble oxidada
-cama oxidada
-cantera antigua
-cápsula de escape
-cápsula de escape ancestral (llegando)
-cápsula de escape ancestral (saliendo)
-cápsula de lanzamiento mecanoide
-cápsula de transporte (llegando)
-cápsula de transporte antigua
-cápsula de transporte con fallos
-cápsula de transporte de mecanoides (saliendo)
-cápsula del paquete cazador
-carga
-carga de quemador
-carga minera antigua
-caverna
-célula de energía de gravinúcleo
-cervecería antigua
-chatarrera
-cicatriz de terraformación
-ciudadana del gremio
-cocina a combustible antigua
-cocina eléctrica antigua
-colonia abandonada
-columna de grúa arruinada
-consola de piloto
-consola destruida antigua
-consola grande destruida antigua
-construcción
-coraza de tunelador antiguo
-cortadora del gremio
-cosa miniaturizada
-cría de alce
-cría de aligátor
-cría de armadillo
-cría de buey almizclero
-cría de cangrejo de piedra
-cría de cangrejo ermitaño
-cría de caracol de lava
-cría de glotón
-cría de hipopótamo
-cría de lagarto monitor
-cría de mastodonte
-cría de megatopillo
-cría de nutria
-cría de puercoespín
-cría de tejón
-cría de tortuga marina
-cría de trumbo alfa
-crisálida de langosta
-cuenca
-culata
-depresión
-ducha agrietada
-emisiones de respiradero de calor
-escopeta automática única
-escopeta de cadena única
-escopeta dispersora
-espina de caparazón
-espinavide
-estatua
-excavadora antigua
-explosión de escopeta dispersora
-exposición al vacío
-extremidad anterior derecha
-extremidad anterior izquierda
-extremidad posterior derecha
-extremidad posterior izquierda
-fibromaíz silvestre
-foca joven
-forja antigua de combustión
-forja eléctrica antigua
-garra craneal
-garra de tunelador antiguo
-garra derecha
-garra izquierda
-garza
-garza joven
+Artileri Persekutuan
+Artileri Berat
+tawon
+teluk
+Bullet Defensora Torreta Kuno
+Ubin Vaksosa
+Penghalang beton besar
+penghalang vakum
+basis
+Basis derek yang hancur
+pompa oksigen
+insang
+putih
+Booby
+kepala
+segel
+Cimitarra Cat Puppy
+Gran Lobo Dog
+Puppy Marine León
+Anjing mastodonte
+Anjing morsa
+Anak anjing padang rumput
+Puppy Hound Swampy
+anjing harimau
+Penglihatan anak anjing
+Kotak kardus tua
+Kotak memo baja
+kotak komponen
+Kotak Komponen Lanjutan
+kotak peledak lama
+Kotak kayu tua
+kotak logam teroksidasi
+Kotak Amunisi Lama
+Teroksidasi aman
+kotak tertutup
+Tempat tidur teroksidasi ganda
+tempat tidur teroksidasi
+Quarry kuno
+kapsul buang
+kapsul buang leluhur (tiba)
+kapsul buang leluhur (berangkat)
+Kapsul Peluncuran Mechanoid
+Kapsul transportasi (tiba)
+Kapsul transportasi kuno
+Kapsul transportasi dengan kegagalan
+Kapsul Transportasi Mecanoid (Meninggalkan)
+Kapsul Paket Hunter
+memuat
+beban burner
+Beban penambangan kuno
+gua
+Sel energi gravinuko
+Tempat pembuatan bir kuno
+besi tua
+Bekas luka terapormasi
+Warga negara
+Dapur Bahan Bakar Tua
+Dapur Listrik Kuno
+Koloni yang ditinggalkan
+Kolom derek yang hancur
+Konsol pilot
+Konsol yang hancur kuno
+Konsol besar yang hancur kuno
+konstruksi
+Shell Tunnelador Tua
+Pemotong guild
+hal miniatur
+Pemuliaan alce
+Aligáctor Breeding
+Breeding Armadillo
+Pembiakan Musk Ox
+Pembiakan kepiting batu
+Breeding kepiting pertapa
+Pemuliaan siput laval
+Pemuliaan Gloton
+Kuda nil
+Lagarto Monitor BER
+pemuliaan mastodon
+Breeding Megatopillo
+BREEDING OTTER
+pemuliaan landak
+Pembiakan
+Kura -kura laut
+Trumbo Alpha Breed
+Lobster chrysalide
+Cuenca
+pantat
+depresi
+mandi retak
+Emisi ventilasi panas
+Senapan otomatis yang unik
+Senapan rantai tunggal
+Shotgun yang tersebar
+Tulang belanjaan
+Espinavide
+patung
+Excavator kuno
+Ledakan senapan yang tersebar
+Paparan vakum
+Tungkai anterior kanan
+Tungkai anterior kiri
+Tungkai posterior kanan
+Tungkai posterior kiri
+Fibromaíz Silvestre
+Segel Muda
+Forge bakar lama
+Forge Listrik Kuno
+cakar kranial
+Cakar Tunnelador Tua
+Cakar kanan
+cakar kiri
+Garza
+Garza muda
 gran loba
-gran loba joven
-gravitecnología
-gravitecnología avanzada
-grieta
-guarida de insectoides
-guarnición antigua
-hierba áurea
-hierba áurea alta
-hierba nocturna
-isla costera
-lana de buey almizclero
-lana de mastodonte
-lanza de cargas única
+Serigala muda yang hebat
+Gravitecnology
+Gravitecnology canggih
+retakan
+Sarang insektoid
+Garnisun kuno
+Rumput Emas
+Rumput Emas Tinggi
+Rumput malam
+Pulau Pesisir
+wol sapi musk
+Lana adalah mashot
+Tombak beban tunggal
 larva
-lata de biocombustible
-lava enfriada
-lava poco profunda
-lava profunda
-luz antigua
-luz de emergencia antigua
-luz mecanoide
-maceta antigua
-magistrada
-mancha de biocombustible
-megatopillo joven
-mesa de carnicero antigua
-mesa de mecanizado antigua
-mesa de sastrería eléctrica antigua
-mesa de sastrería manual antigua
-meseta
-morsa
-morsa joven
+Biofuel bisa
+Lava dingin
+Shadow Lava
+dalam
+Cahaya kuno
+lampu darurat tua
+Cahaya mechanoide
+pot tua
+Hakim
+Noda biofuel
+Megatopillo muda
+Meja Tombol Lama
+Meja Pemesinan Lama
+Meja penjahit listrik kuno
+Meja penjahit manual lama
+dataran tinggi
+pegangan
+Morsa Young
 mota
-náusea gravitatoria
+mual gravitasi
 nutria
-nutria joven
-obsidiana
-oruga
-oruga delantera derecha
-oruga delantera izquierda
-oruga trasera derecha
-oruga trasera izquierda
-pala
-pared de madriguera
-pata
-pata central
-pata delantera derecha
-pata delantera izquierda
-pata derecha
-pata izquierda
-pata media derecha
-pata media izquierda
-pata nadadora derecha
-pata nadadora izquierda
-pata trasera derecha
-pata trasera izquierda
-península
-perca
-pesca
-pezuña derecha
-pezuña izquierda
-piel de pinnípedo
-pierna delantera derecha
-pierna delantera izquierda
-pierna trasera derecha
-pierna trasera izquierda
-pila de escombros
-pinza derecha
-pinza izquierda
-pirata rescatadora
-planta de fresa silvestre
-planta de hojahumeante silvestre
-planta psicoide silvestre
-plataforma de asentamiento
-plataforma de lanzamiento antigua
-plataforma de mecanoide estrellada
-plataforma de perforación antigua
-plataforma mecanoide
-plataforma orbital
-plataforma orbital abandonada
-platija
-polluela de azulejo
-polluela de buitre
-polluela de cisne
-polluela de codorniz
-polluela de cuervo
-polluela de flamenco
-polluela de garza
-polluela de gorrión
-polluela de guacamayo
-polluela de pavo real
-polluela de pingüino
-primera pata derecha
-primera pata izquierda
-púa de puercoespín
-puerta blindada antigua
-punta
-putrefacción branquial
-quemadura de vacío
+Berang -berang muda
+obsidian
+ulat
+Caterpillar depan kanan
+Depan kiri
+Caterpress belakang kanan
+Caterpress belakang kiri
+Pala
+Dinding Burrow
+Pata
+Pata Central
+Kaki depan kanan
+Depan kiri
+Kaki kanan
+Kaki kiri
+Kaki menengah kanan
+Kaki Medium Kiri
+perenang kanan
+Perenang kiri
+kaki belakang kanan
+Kaki belakang kiri
+semenanjung
+kekalahan
+penangkapan ikan
+Hoove yang benar
+Kiri Hoove
+Kulit Pinnípedo
+kaki depan kanan
+kaki depan kiri
+kaki belakang kanan
+Kaki belakang kiri
+baterai puing -puing
+Penjepit kanan
+Klem kiri
+Bajak laut penyelamat
+tanaman stroberi liar
+Tanaman berdaun silvestre
+Tanaman psikoid silvestre
+Platform Penyelesaian
+Platform Peluncuran Kuno
+Platform Mecanoid Bintang
+Platform Pengeboran Lama
+Pitaforma mecanoide
+Orbital Platforma
+Platform orbital yang ditinggalkan
+lebar
+Cewek ubin
+Cewek burung nasar
+Cewek Swan
+cewek puyuh
+Cewek cuervo
+Cewek Flamenco
+Garza Chick
+Cewek Sparrow
+Cewek guacamayo
+Cewek Peacock
+Cewek penguin
+Kaki kanan pertama
+Kaki kiri pertama
+lonjakan landak
+Pintu lapis baja kuno
+Punta
+Rot Gill
+bakar vakum
 raflesia nocturna
-rana colosal
-rana colosal joven
-rana toro
-rana toro joven
-refinería de biocombustible antigua
-reina de la colmena
-rescatadora de élite
-roca de lava (llegando)
-roca volcánica
-roca volcánica lisa
-salida de almacén antiguo
-sección de caparazón
-sección de caparazón con pinchos
-segunda pata derecha
-segunda pata izquierda
-semilla arqueana
-sequía
-subestructura de gravinave
-suciedad
-televisión rota
-tercera pata derecha
-tercera pata izquierda
-terminal de seguridad antigua
-tigresa
-tigresa joven
-tilapia
-tintoria silvestre
-tolerancia al psilofungo
-torreta de autocañón rota
-torreta de uranio rota
-torreta defensora antigua
-tortuga marina
-tortuga marina joven
-trampa de dron avispa
-trampa de dron cazador
-tripulación de gravinave
-trompeta de guerra
-tubería antigua
-ultracongelación
-unidad de soporte vital
-vaciorita
-vaciorita pulida
-zona de aterrizaje de la gravinave
+Katak kolosal
+Katak kolosal muda
+London
+Katak banteng muda
+Kilang biofuel kuno
+ratu sarang
+penyelamat elit
+Lava Rock (tiba)
+batuan vulkanik
+Batuan vulkanik yang halus
+Output gudang lama
+Bagian Carazón
+Bagian Carazón dengan tusuk sate
+Kaki kanan kedua
+Kaki kiri kedua
+Benih Archaean
+kekeringan
+Substruktur Gravinave
+kotoran
+Televisi yang rusak
+Kaki kanan ketiga
+Kaki kiri ketiga
+Terminal Keamanan Lama
+harimau betina
+Tigresa muda
+nila
+Tintoria Silvestre
+Toleransi Psilofungo
+Rota Autochañón Torreta
+Rota Uranium torreta
+Defensor kuno Torreta
+Tortuga Marina
+Kura -kura laut muda
+Perangkap Dron Waspa
+Perangkap Drone Hunter
+Awak Gravinave
+Trumpet Perang
+Pipa kuno
+Ultracongelación
+Unit Dukungan Hidup
+Lowongan
+Lowongan Pulida
+Zona Pendaratan Gravinave

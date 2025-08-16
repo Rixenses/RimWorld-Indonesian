@@ -1,31 +1,31 @@
-abrumador
-apuñalar
-arpas
-baldosas de granito fina
-baldosas de mármol fina
-baldosas de piedra arenisca fina
-baldosas de piedra caliza fina
-baldosas de pizarra fina
-colmillos venenosos
-desplegar escudo
-extremo
-fuerte
-grave
-hipercargado
-implantes cerebrales
-implantes de reducción de sueño
-implantes subdérmicos
-instrumentos de cuerda simples
-leve
-mejoras de precisión
-propulsores de salto
-prótesis especializadas
-recargar salto
-saltar
-seguro
-sobrecargado
+﻿begitu banyak
+menusuk
+tipuan
+Ubin granit halus
+Ubin marmer yang bagus
+Ubin batu pasir halus
+Ubin batu kapur halus
+Ubin batu tulis yang bagus
+taring beracun
+Tampilan Perisai
+ekstrim
+kuat
+kuburan
+Hypercarked
+Implan Otak
+Implan pengurangan tidur
+Implan subdermal
+Instrumen String Sederhana
+hidup
+perbaikan presisi
+melompat
+prostesis khusus
+Isi ulang lompat
+melompat
+aman
+kelebihan beban
 total
-vestimentas formales
-vestimentas nobles
-vestimentas reales
-vuelos a corta distancia
+pakaian formal
+Pakaian mulia
+pakaian sungguhan
+Penerbangan pendek -terdepan

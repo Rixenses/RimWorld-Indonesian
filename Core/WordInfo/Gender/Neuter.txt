@@ -1,163 +1,163 @@
-aguas poco profundas
-aguas profundas
-alimentos no perecederos
-altísima
-ancestrales hostiles
-ancestrales neutrales
-animales
-arcos largos
-armaduras de explorador
-armas de fuego de alta potencia
-armas de fuego simples
-armas de retroceso
-asqueroso
-atontado
-avanzada
-bajo tierra
-baterías
-bayas
-bloques de arenisca
-bloques de caliza
-bloques de equipamiento ancestral
-bloques de granito
-bloques de mármol
-bloques de pizarra
-bombas de humedad
-borracho
-brazos
-cañones
-cañones automáticos
-cápsulas de criptosueño de grado estelar
-cápsulas de transporte
-cataratas
-catatónica
-cócteles molotov
-colmillos
-colmillos venenosos
-componentes
-componentes avanzados
-con ganas de guasa
-con un ciego
-considerable
-contento
-convaleciente
-conversaciones de paz
-cortinas de humo
-cuarteles
-cuarteles de prisioneros
-cubierto de espuma cortafuegos
-depurar arena
-despreciado
-desvaneciéndose
-dientes
-dispositivos antiincendios de espuma
-dispositivos de seguridad contra incendios
-documentos dispersos
-drogado con despertar
-embarazada
-empezando
-escamas
-escáneres de profundidad
-escombros
-escombros de piedra
-escudos personales
-esterilizado
-extrema
-extremo
+﻿perairan dangkal
+air yang dalam
+Makanan yang tidak mudah rusak
+sangat tinggi
+Leluhur yang bermusuhan
+leluhur netral
+Hewan
+lengkungan panjang
+Armor Explorer
+Senjata api kekuatan tinggi
+senjata api sederhana
+senjata terbelakang
+menjijikkan
+Attado
+canggih
+bawah tanah
+baterai
+beri
+Blok batu pasir
+Blok batu kapur
+Blok Peralatan Leluhur
+Blok granit
+Blok marmer
+Blok Slate
+Pompa kelembaban
+mabuk
+lengan
+meriam
+Meriam otomatis
+Kapsul Cryptosueño dari gelar bintang
+kapsul transportasi
+Air terjun
+katatónic
+Koktail Molotov
+Taring
+taring beracun
+Komponen
+Komponen lanjutan
+Ingin Guasa
+Dengan buta
+besar
+senang
+pemulihan
+Percakapan Damai
+Tirai asap
+perempat
+Barak penjara
+Busa busa tertutup
+Purni pasir
+Dibenci
+kabur
+gigi
+Perangkat anti -kapital busa
+Perangkat Keselamatan Kebakaran
+dokumen yang tersebar
+Dibius dengan kebangkitan
+hamil
+Mulai
+timbangan
+pemindai kedalaman
+puing
+puing batu
+Perisai pribadi
+disterilkan
+ekstrem
+ekstrim
 feo
-frágil
-fuerte
-garras
-garras delanteras derechas
-garras delanteras izquierdas
-granadas de fragmentación
-granadas pem
-grande
-grave
-haciendo eses
-hierbas medicinales
-hojas psicoides
-hombros
-hongos frescos
-ignífugo
-inicial
-insatisfecha
-leve
+rentan
+kuat
+cakar
+Cakar depan kanan
+Cakar depan kiri
+Granat fragmentasi
+Granades PE
+Grande
+kuburan
+melakukan ini
+Herbal Obat
+Daun psikoid
+bahu
+jamur segar
+Igniphogical
+awal
+tdk puas
+hidup
 libre
-ligera
-ligero
-lindos dientecitos
-lombrices intestinales
-luces avanzadas
-mandíbulas
-manos
-mayor
-mecanitas fibrosos
-mecanitas sensoriales
-mecanoides durmientes
+Lampu
+lampu
+Gigi yang lucu
+Cacing usus
+lampu lanjutan
+mulut
+Manos
+walikota
+mesin berserat
+Mesin sensorik
+Mecanoids tidur
 media
-medio
-menor
-mesas de ensamblado de alta tecnología
-miniguns
-mínima
-moderada
-moderado
-molinos de agua
-mortal
-morteros
-municiones de pulso
-muy fuerte
-muy grave
-ninguno
-normalmente el del hombre
-ojos
-paneles solares
-parásitos musculares
-parches de cuero
-patatas
-piernas
-pies
-pistolas
-problemas de espalda
-procesos fermentativos
-prótesis
-prótesis biónicas
-puertas automáticas
-puesto con hierba de fumar
-raciones de supervivencia envasadas
-reactores nucleares de naves estelares
-recién llegados
-refrigeradores pasivos
-restos de araña de guerra ancestral
-restos de escoria
-restos de máquina de guerra ancestral
-rifles
-rocas levantadas
-sacos de arena
-sacos de arena (anteproyecto)
-sacos de arena (en construcción)
-sacos de arena desperdigados
-sedado
-seria
-servoarmaduras
-severa
-solo uno
-soltar espuma
-soltar humo
-superficies estériles
-televisiones de pantalla plana
-televisiones de rayos catódicos
-tiritando
-torretas
-torretas armadas
-torretas cortafuegos
-torretas cortaincendios
-torretas de cohetes
-torretas francotiradoras
+setengah
+lebih kecil
+Tabel Perakitan Teknologi Tinggi
+minigun
+minimum
+Sedang
+sedang
+Pabrik air
+makhluk hidup
+mortir
+Amunisi pulsa
+Sangat kuat
+sangat serius
+tidak ada
+Biasanya itu dari manusia
+mata
+Panel surya
+parasit otot
+Patch kulit
+kentang
+kaki
+pai
+pistol
+masalah punggung
+proses fermentasi
+prostesis
+Prostesis Bionik
+Pintu otomatis
+Rumput Merokok
+Jatah kelangsungan hidup yang dikemas
+Reaktor nuklir kapal bintang
+pendatang baru
+lemari es pasif
+Laba -laba perang leluhur tetap ada
+SCORA tetap ada
+Mesin perang leluhur tetap ada
+pasukan penembak
+Batu terangkat
+kantong pasir
+kantong pasir (draft)
+Karung pasir (sedang dibangun)
+kantong pasir yang tersebar
+dibius
+dia akan
+servoarm
+Severa
+Hanya satu
+menjatuhkan
+Lepaskan asap
+Permukaan steril
+Televisi layar datar
+Televisi Cathode Ray
+gemetaran
+Torretas
+Torretas bersenjata
+Torretas Api
+Torretta Api
+Menara roket
+menara sniper
 total
-trampas explosivas improvisadas
-tuberías antiguas
-volando
-zarzales
-zumbando
+perangkap ledakan improvisasi
+pipa tua
+penerbangan
+Zarzales
+berdengung

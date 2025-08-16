@@ -1,4 +1,4 @@
-﻿KEY;1_NOM;2_GEN;3_DAT;4_ACC;5_NOM_ART;6_GEN_ART;7_DAT_ART;8_ACC_ART
+﻿Kunci; 1_nom; 2_gen; 3_dat; 4_acc; 5_nom_art; 6_gen_art; 7_dat_art; 8_acc_art
 // Indefinite fixes (for non gender-variable sustantives )
 //
 // Usage syntax: {lookup: TEXT; FILE_NO_EXT; INDEX}

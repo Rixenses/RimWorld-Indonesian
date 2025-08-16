@@ -1,148 +1,148 @@
-alfombra alucinante (amarilla)
-alfombra alucinante (azul)
-alfombra alucinante (diamante)
-alfombra alucinante (morada)
-alfombra alucinante (verde)
-alfombra de rodillas
-alfombra rústica (ancha)
-alfombra rústica (mediana)
-antorcha oscura
-antorcha oscura fúngica
-autochimba
-baba de la cápsula
-baldosa de arenisca mórbida
-baldosa de arenisca picopuntas
-baldosa de arenisca totémica
-baldosa de caliza mórbida
-baldosa de caliza picopuntas
-baldosa de caliza totémica
-baldosa de granito mórbida
-baldosa de granito picopuntas
-baldosa de granito totémica
-baldosa de mármol mórbida
-baldosa de mármol picopuntas
-baldosa de mármol totémica
-baldosa de pizarra mórbida
-baldosa de pizarra picopuntas
-baldosa de pizarra totémica
-baldosa de vaciorita mórbida
-baldosa de vaciorita picopuntas
-baldosa de vaciorita totémica
-baldosa hexagonal
-baldosa picopuntas
-banda de piratas caníbales
-bandeja caníbal
-bandera de sacrificio
-bioregeneración
-biorregeneración
-bola giratoria
-cabeza
-caja de seguridad
-cama rígida
-cama rígida doble
-cápsula de bioescultura
-consola de comunicaciones antigua
-construcción
-corona de tortura
-crisálida de dríada
-curación
-dríada creabayas
-dríada creagaus
-dríada creamadera
-dríada creamedicina
-dríada de piel de corteza
-dríada fabricabayas
-dríada fabricamadera
-dríada fabricamedicina
-dríada inmadura
-dríada portadora
-dríada rasgadora
-efigie
-ejecución pública
-empuñadura
-enfermedad de bioescultura
-escarificación
-escultura terrorífica
-estrella de suelo picopunta (ancha)
-estrella de suelo picopunta (mediana)
-estructura arqueoteca
-fiesta de baile
-fiesta de navidad
-fiesta de tambores
-fiesta social
-garra derecha
-garra izquierda
-gorra
-gorra autoritaria
-gorra autoritaria de crin de trumbo
-gorra autoritaria de cuero de armadillo
-gorra autoritaria de cuero de camello
-gorra autoritaria de cuero de elefante
-gorra autoritaria de cuero de hipopótamo
-gorra autoritaria de cuero de lagarto
-gorra autoritaria de cuero de mastodonte
-gorra autoritaria de cuero de perro
-gorra autoritaria de cuero de rinoceronte
-gorra autoritaria de cuero humano
-gorra autoritaria de cuero ligero
-gorra autoritaria de cuero liso
-gorra autoritaria de cuero parcheado
-gorra autoritaria de cuero temible
-gorra autoritaria de hilodiablo
-gorra autoritaria de hipertejido
-gorra autoritaria de lana de alpaca
-gorra autoritaria de lana de bisonte
-gorra autoritaria de lana de buey almizclero
-gorra autoritaria de lana de mastodonte
-gorra autoritaria de lana de megaperezoso
-gorra autoritaria de lana de múfalo
-gorra autoritaria de lana de oveja
-gorra autoritaria de pelaje azul
-gorra autoritaria de pelaje de chinchilla
-gorra autoritaria de pelaje de cobaya
-gorra autoritaria de pelaje de trumbo
-gorra autoritaria de pelaje de zorro
-gorra autoritaria de pelaje felino
-gorra autoritaria de pelaje grueso
-gorra autoritaria de piel de cerdo
-gorra autoritaria de piel de lobo
-gorra autoritaria de piel de oso
-gorra autoritaria de piel de pájaro
-gorra autoritaria de piel de pinnípeda
-gorra autoritaria de piel de visón
-gorra autoritaria de tela
-gorra autoritaria de tela sintética
-gran estructura arqueoteca
-grava fúngica
-intolerancia leve
-jaula de cuerpos
-linterna solar
-losa animalista (ancha)
-losa animalista (mediana)
-losa mórbida (ancha)
-losa mórbida (mediana)
-losa totémica (ancha)
-losa totémica (mediana)
-luz oscura preferida
-maceta de bonsái
-máscara facial
-mina de {thing_label}
+﻿Karpet luar biasa (kuning)
+Karpet luar biasa (biru)
+Karpet luar biasa (berlian)
+karpet luar biasa (ungu)
+Karpet luar biasa (hijau)
+Karpet lutut
+karpet pedesaan (lebar)
+karpet pedesaan (median)
+Obor gelap
+Obor Gelap Fungal
+Autochimba
+Kapsul ngiler
+Ubin Batu Pasir Morbida
+Picopuntas Sandstone Tile
+Batu Pasir Tonemik
+Ubin batu kapur yang tidak wajar
+Picopuntas Limestone Tile
+batu kapur totemik
+Ubin granit Morbida
+Ubin granit picopuntas
+Baldosa granit totémic
+Ubin marmer morbid
+Ubin marmer picopuntas
+Kembar marmer tonemik
+Ubin Slate Morbida
+Picopuntas Slate Tile
+Totemic Slate Baldwar
+Morbida Vacancose Tile
+Picopuntas Vacancious Tile
+Kembar Vacorite Toem
+Tileagonal
+Picopuntas Tile
+Cannibales Pirate Band
+Baki kanibal
+Bendera pengorbanan
+Bioregenerasi
+Biorgregenerasi
+Bola berputar
+kepala
+Kotak pengaman
+tempat tidur yang kaku
+tempat tidur kaku ganda
+Kapsul Bioesculture
+Konsol Komunikasi Lama
+konstruksi
+Mahkota penyiksaan
+Chrysálida de Díada
+penyembuhan
+Dríada Creabaya
+Druma Striappan
+Dríada Creamadera
+Dríada Creamedicin
+kulit kulit dríada
+Dríada diproduksi
+Pabrikan Dríada
+Dríada Fabricamedicin
+Dríada yang belum dewasa
+pembawa
+robek
+patung
+eksekusi publik
+menangani
+Penyakit bio -culpture
+Scarifikasi
+Patung yang menakutkan
+Bintang Tanah Picopunta (Lebar)
+Bintang Tanah Picopunta (Median)
+Struktur Archeoteca
+pesta dansa
+Pesta Natal
+Pesta drum
+Partai Sosial
+Cakar kanan
+cakar kiri
+topi
+Topi otoriter
+Topi otoriter trumbo crin
+Topi otoriter kulit armadillo
+Topi otoriter kulit unta
+Topi otoriter kulit gajah
+Topi kulit hippotamo otoriter
+Topi kulit kadal otoriter
+Topi kulit mastodon otoriter
+Topi kulit anjing otoriter
+Otoriter Badak -Pot
+Topi otoriter kulit manusia
+Topi otoriter kulit ringan
+Topi otoriter kulit halus
+Tutup kulit jalur otoritatif
+Topi kulit tarsable otoriter
+Topi otoriter hilodiblo
+Cap Hypertejido otoriter
+Topi otoriter wol alpaca
+Topi otoriter wol bison
+Topi wol buey otoriter
+Topi otoriter mastodon
+Topi otoriter megaperezoso
+Mupal
+Oveja wol topi otoriter
+Tutup bulu biru yang otoris
+Topi otoriter bulu chinchilla
+Topi otoriter bulu Cubaya
+Topi otoriter bulu trumbo
+Topi bulu rubah otoriter
+Tutup bulu kucing otoriter
+Tutup bulu tebal otoriter
+Topi otoriter kulit babi
+Topi kulit serigala otoriter
+Tutup kulit beruang otoritatif
+Tutup kulit burung yang otoritatif
+Topi otoriter kulit pinnípeda
+Topi kulit penglihatan otoritatif
+topi otoriter kain
+Topi otoriter kain sintetis
+Struktur Archeoteca yang hebat
+kerikil jamur
+lampu
+kandang tubuh
+Linces berjemur
+Pelat hewan (lebar)
+Pelat kebialis (sedang)
+Slab Morbid (Lebar)
+Slab Morbida (median)
+tonemic slab (lebar)
+Slab Tonemic (Media)
+Cahaya gelap yang disukai
+Pot bonsai
+Topeng Wajah
+Tambang §§ph0§§§
 mota
 pira
-reliquia
-reversión de edad
-sangre seca
-semilla gauranlen
-supercarga neural
-tablilla
-terminal ancestral
-torre arqueoteca
-tribu caníbal
-tribu nudista
-vaina curativa de la dríada
-vaina de creagaus
-vaina gauranlen
-venda para los ojos
-zona de agricultura
-zona de caza
-zona de tala
+peninggalan
+Pembalikan usia
+Darah kering
+Semilla Gauranlen
+Supercarga Neural
+Papan berdinding
+leluhur terminal
+Menara Archeoteca
+Suku Cannibal
+Suku Nudist
+Selubung kuratif dríada
+Guilt de Cragaus
+Vaina Gauranlen
+Perban Mata
+Zona pertanian
+Area perburuan
+area pemotongan

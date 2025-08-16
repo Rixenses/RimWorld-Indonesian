@@ -1,97 +1,97 @@
-acelerador del sueño
-altar enorme
-altar grande
-altar mediano
-altar pequeño
-altavoz
-árbol de navidad
-árbol gauranlen
-arcón
-arnés de esclavo
-arqueonexo
-asiento ritual
-atril
-banco largo
-bioesculpido
-bonsái
-burka
-cadáver de dríada creabayas
-cadáver de dríada creagaus
-cadáver de dríada creamadera
-cadáver de dríada de piel de corteza
-cadáver de dríada fabricamedicina
-cadáver de dríada garradora
-cadáver de dríada inmadura
-cadáver de dríada portadora
-cajón
-cáliz
-cambio de rol
-cazador
-cojín de rodillas
-colgante
-collar de esclavo
-complejo antiguo
-complejo de reliquias
-cráneo ensartado
-cubo
-discurso de líder
-dron espacial
-dron espacial (llegando)
-especialista botánico
-especialista científico
-especialista en animales
-especialista en tiro
-especialista industrial
-especialista luchador
-especialista médico
-especialista minero
-fibromaíz
-foco de trabajo
-fragmento
-gorro con cola
-gorro de ala ancha
-granjero
-hiyab
-ideograma
-impulso de inmunidad
-impulso de trabajo
-jefe
-leñador
-líder
-mandato de combate
-mandato de cultivo
-mandato de investigación
-mandato de minería
-mandato de producción
-mandato de puntería
-mendigo
-miembro de la tribu
-minero
-musgo gauranlen
-núcleo del arqueonexo
-nutrihongo
-peregrino
-pirata
+﻿Akselerator tidur
+Altar besar
+altar
+Altar sedang
+altar kecil
+pembicara
+Pohon Natal
+Tahun Bolt Gauranlen
+bunker
+slave harness
+Archeonexo
+Kursi ritual
+podium
+Bank Panjang
+Bio -culpted
+Bonsai
+Burka
+Dríada Creabayas Corpse
+Tali Dryan Creanggaus
+Tubuh Dríada Creamadera
+Tubuh kering kulit korteks
+Produsen Tubuh Driada
+Tubuh Garador Dríada
+mayat dríada yang belum matang
+pembawa
+laci
+piala
+Perubahan Peran
+pemburu
+Bantal berlutut
+liontin
+Kalung budak
+Kompleks kuno
+Kompleks peninggalan
+tengkorak tusuk
+kubus
+Pidato pemimpin
+Drone luar angkasa
+Space Drone (tiba)
+Spesialis botani
+Spesialis Ilmiah
+Spesialis Hewan
+Spesialis tembak
+Spesialis Industri
+spesialis pejuang
+dokter spesialis
+Spesialis Pertambangan
+Fibromotif
+Fokus kerja
+fragmen
+Tutup dengan ekor
+Topi Sayap Lebar
+petani
+Hiyab
+tulisan gambar
+Impuls Kekebalan
+Impuls kerja
+bos
+penebang
+pemimpin
+mandat tempur
+mandat budidaya
+Mandat Penelitian
+Mandat Penambangan
+Mandat Produksi
+Mengarahkan mandat
+pengemis
+suku
+buruh tambang
+Musgo Gauranlen
+Inti dari archaeonex
+Nutriongo
+peziarah
+bajak laut
 placer
-pregón de salud
-pueblo de culto
-punto de rituales
-relicario
-ritual de conexión árborea
-ritual de conversión
-santuario de incienso
-segundo asentamiento del arconexo
-sombrero cónico
-supercargador neural
-tambor
-templo
-tercer asentamiento del arconexo
-terminal ancestral
-terminal enemigo antiguo
-tocador
-tocón gauranlen cortado
-tocón gauranlen destrozado
-trance enloquecido
-túnel
-turbante
-viajero bien equipado
+Proklamasi Kesehatan
+orang berbudaya
+titik ritual
+peti jenazah
+Koneksi Ritual Refroborea
+Ritual konversi
+Dupa cagar alam
+Penyelesaian kedua Arconexo
+Topi kerucut
+Supercargador Neural
+Tambor
+kuil
+Penyelesaian ketiga Arconexo
+leluhur terminal
+Terminal musuh kuno
+lemari
+Stump Gouranlen
+Tocón Gouranlen hancur
+Trance gila
+terowongan
+serban
+Pelancong yang dilengkapi dengan baik

@@ -1,4 +1,4 @@
-belajar di dalam tangki
+﻿belajar di tangki
 senjata gas
 tumbuh di dalam tangki
 melemahkan
@@ -6,16 +6,16 @@ ketergantungan kimia
 tidak disetujui
 menerjunkan paket racun
 esensial
-ekstrem
+ekstrim
 coretan
 gen bertunas kembali
 granat beracun
-serius
+suram
 cedera
-intens
+intensif
 ringan
 maksimum
-mekanoid
+mikanoid
 mekanoid maju
 mekanoid tingkat ultra
 ditingkatkan
@@ -30,8 +30,8 @@ kentang beracun
 bajak laut sampah
 bajak laut yttakin
 disukai
-prosedur kesuburan
+Prosedur kesuburan
 prosesor gen
 dilarang
-rahim buatan
+rakit buatan
 dihormati

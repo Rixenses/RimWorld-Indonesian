@@ -1,4 +1,4 @@
-﻿KEY;1_NOM;2_GEN;3_DAT;4_ACC;5_NOM_ART;6_GEN_ART;7_DAT_ART;8_ACC_ART
+﻿Kunci; 1_nom; 2_gen; 3_dat; 4_acc; 5_nom_art; 6_gen_art; 7_dat_art; 8_acc_art
 // Plural declension (without and with article)
 // NOTE: Ingame pluralization use this file automatically (always index 1).
 //
@@ -10,37 +10,37 @@
 //
 
 //Core
-tocón arqueano talado;tocones arqueanos talados
-árbol arqueano;árboles arqueanos
-tocón arqueano aplastado;tocones arqueanos aplastados
-junco;juncos
-nenúfar;nenúfares
-loto;lotos
-cañas;cañas
-bumaseta;bumasetas
-arbusto de bayas;arbustos de bayas
-tintoria silvestre;tintorias silvestres
-árbol de cacao silvestre;árboles de cacao silvestres
-torreta de cargas;torretas de cargas
-torreta de miniproyectiles;torretas de miniproyectiles
-torreta inferno;torretas inferno
-bagre;bagres
+tunggul archaean; Stumps Archaean diukir
+Pohon Archaean; Pohon Archaean
+Tunggul archaean hancur; tunggul archaean hancur
+Junco; Juncos
+lilibly; bunga bakung
+Loto; Seroja
+buluh; buluh
+Boomasas; Boomasas
+Bray Bush; beri
+Tintoria liar; tintori liar
+Pohon Kakao Liar; Pohon Kakao Liar
+Memuat torreta; Muat torretas
+Torreta proyektil mini; Torretas proyektil mini
+Neraka torreta; Neraka torretas
+ikan lele; Bowers
 
 //charges
-bomba de espuma cortafuego;bombas de espuma cortafuego
-bomba de humo;bombas de humo
-carga de espuma;cargas de espuma
-carga de humo;cargas de humo
-carga del quemador;cargas del quemador
-carga;cargas
-escudo;escudos
-granada de fragmentación;granadas de fragmentación
-salto;saltos
+pompa busa firewall; pompa busa firewall
+pompa asap; pompa asap
+beban busa; beban busa
+beban asap; muatan asap
+beban burner; beban burner
+memuat; beban
+tameng; perisai
+Granat fragmentasi; granat fragmentasi
+melompat;
 //misc
 
-esquila arqueoteca;esquilas arqueotecas
+Shearing Arqueoteca; cangkang arkeoteknik
 //Anomaly
-cántico de odio;cánticos de odio
-placa necrófaga;placas necrófagas
-púa necrófaga;púas necrófagas
-seguidor del vacío;seguidores del vacío
+lagu kebencian; lagu benci
+pelat nekropofag;
+Lonjakan necrophagous; paku necrophagous
+pengikut vakum; pengikut vakum
