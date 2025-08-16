@@ -1,13 +1,13 @@
-jarum beracun
-antena mecabanda
-obor darah
-arkeogenetika
+﻿jarum beracun
+Mecabanda
+obor
+Archaogenetics
 penembak artileri pemakan bangkai
 penembak artileri sampah
 penembak artileri bajak laut
 atomisasi limbah
 isi ulang laten otomatis
-bandolir berat
+Bandolir berat
 bandolir berat dari surai trumbo
 bandolir berat dari kulit armadillo
 bandolir berat dari kulit unta
@@ -16,7 +16,7 @@ bandolir berat dari kulit kuda nil
 bandolir berat dari kulit kadal
 bandolir berat dari kulit mastodon
 bandolir berat dari kulit anjing
-bandolir berat dari kulit badak
+bandolier berat dari badak
 bandolir berat dari kulit manusia
 bandolir berat dari kulit tipis
 bandolir berat dari kulit halus
@@ -45,12 +45,12 @@ bandolir berat dari kulit beruang
 bandolir berat dari kulit burung
 bandolir berat dari kulit pinnipedia
 bandolir berat dari kulit pinnipedo
-bandolir berat dari kulit cerpelai
+bandolier berat dari kulit
 bandolir berat dari kain
 bandolir berat dari kain sintetis
 empedu mudah terbakar
 kelaparan bio
-bom psikofluid
+PSIKOFLUID yang bagus
 bom dekontaminasi
 bom glukosoid
 kepala
@@ -68,50 +68,50 @@ kotak mainan dari obsidian
 kotak mainan dari emas
 kotak mainan dari batu tulis
 kotak mainan dari plastiacero
-kotak mainan dari perak
+Kotak mainan dari perak
 kotak mainan dari uranium
 kotak mainan dari vaciorit
 ruang tidur kematian
 kaos anak
-kapsul arkita
+Kapsul setiap hari
 pemakan bangkai sampah
-kolom keratin
+Kolom keratin
 makanan bayi
-anak toxílope
+Son Toxílope
 anak toxirrata
 kepompong serangga
 pisau kanan
-popor
-buaian
-buaian dari baja
-buaian dari batu pasir
-buaian dari bioferrit
-buaian dari batu kapur
+rakyat
+tempat tidur gantung
+Cradle dari baja
+ayunan batu pasir
+Berayun dari bioferrit
+Cradle dari batu kapur
 buaian dari granit
 buaian dari giok
-buaian dari kayu
+tempat lahir kayu
 buaian dari marmer
-buaian dari obsidian
-buaian dari emas
-buaian dari batu tulis
-buaian dari plastiacero
-buaian dari perak
-buaian dari uranium
-buaian dari vaciorit
+berayun dari obsidian
+berayun dari emas
+tempat lahir batu
+Swing dari Plastiacero
+berayun dari perak
+ayunan dari uranium
+ayunan kekosongan
 ketergantungan kimia
-hamil
+Hamil
 penyakit pemindaian
 penyakit anak
 ruang perawatan
 sampah elit
 sampah perusak
 sampah berat
-busa
+Karena itu
 kelelahan tidur mati
 sabuk
 penyaringan racun
-anak panah api
-cakar kanan
+panah api
+cakar yang tepat
 cakar hidrolik
 cakar hidrolik kanan
 cakar hidrolik kiri
@@ -121,13 +121,13 @@ granat beracun
 prajurit sampah
 perang kimia
 hemobom
-rumput abu-abu
+abu-abu
 implantasi genetik
 inkubator
-kekurangan
+defisit
 bos sampah
 menyusui
-ligasi tuba
+Liga tuba
 tempat tidur bayi
 tangan petani
 tanda penghisap darah
@@ -136,15 +136,15 @@ tentara bayaran artileri
 tentara bayaran elit
 tentara bayaran perusak
 tentara bayaran penembak jitu
-tentara bayaran berat
+Tentara Pembayaran Berat
 metabolisasi racun
-ranjau beracun
-minisenapan
-menara mini bermuatan
-bintik
+Tambang beracun
+MiniSenapan
+Menara Mini Bertimen
+bintik -bintik
 kapal mekanitor (jatuh)
 kapal mekanitor jatuh
-kabut asam
+asam
 pohon palem abu-abu
 kaki exozancudo leluhur
 kaki depan kanan
@@ -154,25 +154,25 @@ kaki kiri
 kaki kecil
 kaki belakang kanan
 kaki belakang kiri
-kuku kaki kanan
+Kuku kanan
 kuku kaki kiri
 pistol jarum beracun
-batu tulis
-batu tulis baja
-batu tulis batu pasir
-batu tulis bioferrit
+menulis
+Batu Batu
+batu batu pasir
+Batu Bioferrit
 batu tulis batu kapur
 batu tulis granit
 batu tulis giok
 batu tulis kayu
 batu tulis marmer
 batu tulis obsidian
-batu tulis emas
-batu tulis batu tulis
+batu emas
+batu
 batu tulis plastiacero
-batu tulis perak
+batu perak
 batu tulis uranium
-batu tulis vaciorit
+Batu VaCoCiorit
 tanaman kentang beracun
 duri
 cabang
@@ -180,16 +180,16 @@ ratu perang
 ruang bermain
 pengisap darah
 bagian tengah exozancudo leluhur
-benih antipolu
+Beno Antipol
 sonda perbaikan
 menara pemompa
-menara umbi
-toxirrata
+menara
+Toxirred
 toxirrata muda
 suku iblis liar
 suku neanderthal ganas
-jubah suku anak
-unit perisai berat
-persatuan kulit babi keras
+jubah anak itu
+Unit perisai berat
+Asosiasi Kulit Babi Keras
 vasektomi
-xenopertumbuhan
+Xenopertumbuhan

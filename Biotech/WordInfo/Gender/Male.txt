@@ -1,12 +1,12 @@
-akselerator tidur mati
-asam
+﻿akselerator tidur mati
+Asam
 kelelahan pasca melahirkan
 penduduk desa
 penguat hemogen
-anorak anak
+Anorak putra
 ngidam hemogen
-apocritón
-pohon antipolu
+Apokriton
+tiga
 pohon gelap
 busur berapi
 pemanah
@@ -14,7 +14,7 @@ penembak artileri pemakan bangkai
 penembak artileri sampah
 penembak artileri bajak laut
 atomisator limbah
-bank gen
+Gen bank
 lengan kanan
 lengan kiri
 kuda kecil
@@ -26,25 +26,25 @@ pengisi meka
 pengisi meka besar
 pemakan bangkai sampah
 helm mekanikomandan
-helm mekalord
+Helm Mecalord
 helm anak
 pemburu
-centurion
+Centurion
 chip fokus energi
 chip pensinyalan
-chip nano-strukturator
-pengode subinti
-koma xenopertumbuhan
+Chip Nano Structurer
+Node subini
+Bergabunglah dengan Xenopertumhan
 koma regeneratif
 kompleks mekanitor leluhur
-set pakaian anak
-penasihat
-konstruktid
+satu set pakaian anak -anak
+konselor
+konstruksi
 cincin tubuh keempat
 pisau kanan
-popor
+rakyat
 iblis kecil
-diábolus
+Diábolus
 cakram mecabanda
 tembakan meriam neraka
 tembakan minisenapan
@@ -52,8 +52,8 @@ alat kontrasepsi tertanam
 embrio
 perakit gen
 landak perang
-pengembara
-budak
+pejalan kaki
+anak laki-laki
 sampah
 sampah penikam
 sampah elit
@@ -61,8 +61,8 @@ sampah elit
 sampah perusak
 bos sampah
 sampah berat
-pengawal jarak jauh
-perisai meka
+penjaga jarak jauh
+Perisai Meka
 usaha (pembukaan jalan lahir)
 usaha (mendorong)
 duri
@@ -72,13 +72,13 @@ ekstraktor gen
 pembuat
 pembawa api
 pemindai fleksibel subinti
-gas beracun
+Gas menjadi racun
 generator racun
 generator racun leluhur
 pembibit meka
 pembibit meka besar
-granadier sampah
-penjaga
+Garmenterer
+wali
 pejuang
 hemogen teramplifikasi
 hiperkondensor
@@ -91,17 +91,17 @@ pelontar racun
 pelontar jarum
 pelontar peluru kecil
 pelontar duri
-laser energi
+energi laser
 pembaca kabel
 pembaca spektral
 pembaca integrator
-legioner
-pengangkat
+anggota legiun
+lifers
 pemimpin
 pembersih
 meka ringan
 meka ringan dengan pisau
-meka berat dengan cakar hidrolik
+Meka berat dengan cakar hidrolik
 penghubung meka
 mekanitor
 pedagang
@@ -109,24 +109,24 @@ tentara bayaran artileri
 tentara bayaran elit
 tentara bayaran perusak
 tentara bayaran penembak jitu
-tentara bayaran berat
+Tentara Pembayaran Berat
 militor
-mini-blaster api
-minisenapan
-menara mini bermuatan
+API Mini-Blaster
+MiniSenapan
+Menara Mini Bertimen
 tidur mati
 tidur mati terputus
-neanderthal
+Neanderthal
 nodus pita
 nodus pita (selaras)
 nodus pita leluhur
 peluru beracun
-ovum
+telur
 ovum diekstrak
 paket pita lebar
 paket kontrol
-paket gen
-paket hemogen
+Gen Paket
+Paket hemogen
 paket limbah beracun
 paket racun
 celana anak
@@ -140,12 +140,12 @@ kaki kiri
 kaki kecil
 kaki belakang kanan
 kaki belakang kiri
-babi kulit
+babi
 babi kulit artileri
-babi kulit elit
+Babi kulit elit
 pinus abu-abu
 pistol jarum beracun
-peningkat meka
+Buat membuat
 cincin tubuh pertama
 penasihat utama
 trimester pertama
@@ -172,8 +172,8 @@ sensor pendengaran
 sensor pendengaran kanan
 sensor pendengaran kiri
 sensor penglihatan
-sensor penglihatan kanan
-sensor penglihatan kiri
+Sensor penglihatan yang tepat
+Sensor penglihatan kiri
 cincin tubuh keenam
 kejutan akibat kehilangan gen
 sub-tautan kontrol
@@ -181,26 +181,26 @@ sub-tautan kontrol (lanjutan)
 sub-tautan kontrol (standar)
 lonjakan psikofluid
 lonjakan glukosoid
-subinti lanjutan
+Lanjutan
 subinti dasar
-subinti standar
+Standar Subbiers
 subinti belum selesai
 serum kapasitas tidur mati
 cincin tubuh ketiga
 trimester ketiga
-teserón
+Teserón
 tunggul antipolu terpotong
 tunggul antipolu rusak
 tunggul terpotong
 tunggul rusak
-torso
-toxílope
-toxílope muda
-baju zirah mekalord
-shuttle jatuh
-transponder mekanoid
+batang tubuh
+racun
+Toxil the Muda
+Kemeja Zirah Mecalord
+Pesawat ulang -alik jatuh
+Transponder Mekanoid
 penggali terowongan
 ikatan psikis
 ikatan psikis terputus
 xenogermen
-yttakin
+yt
