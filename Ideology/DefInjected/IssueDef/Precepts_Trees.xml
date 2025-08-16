@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: Gauranlen connection -->
-  <GauranlenConnection.label>Mesin gauranlen</GauranlenConnection.label>
+  <GauranlenConnection.label>Koneksi gauranlen</GauranlenConnection.label>
   
   <!-- EN: trees -->
   <Trees.label>pohon</Trees.label>

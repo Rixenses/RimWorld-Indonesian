@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: egg sac -->
-  <Proj_EggSac.label>Tas telur</Proj_EggSac.label>
+  <Proj_EggSac.label>kantung telur</Proj_EggSac.label>
   
   <!-- EN: sludge -->
-  <Proj_SludgeSpray.label>resmi</Proj_SludgeSpray.label>
+  <Proj_SludgeSpray.label>endapan</Proj_SludgeSpray.label>
   
   <!-- EN: sludge -->
-  <Proj_StrongSludgeSpray.label>resmi</Proj_StrongSludgeSpray.label>
+  <Proj_StrongSludgeSpray.label>endapan</Proj_StrongSludgeSpray.label>
   
 </LanguageData>

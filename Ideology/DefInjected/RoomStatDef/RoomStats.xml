@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: biosculpter pod speed factor -->
-  <BiosculpterPodSpeedFactor.label>Vel Faktor.Kapsul Bioesculture</BiosculpterPodSpeedFactor.label>
-  
+  <BiosculpterPodSpeedFactor.label>Faktor Kecepatan Kapsul Biosculpture</BiosculpterPodSpeedFactor.label>
+
 </LanguageData>

@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: skylantern -->
-  <SkyLantern.label>Linces berjemur</SkyLantern.label>
+  <SkyLantern.label>skylantern</SkyLantern.label>
   
   <!-- EN: spacedrone (incoming) -->
   <SpacedroneIncoming.label>Space Drone (tiba)</SpacedroneIncoming.label>

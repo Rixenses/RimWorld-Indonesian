@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Skip Detection-->
 <LanguageData>
   
   <!-- EN: biotech -->
-  <Biotech.label>biotek</Biotech.label>
+  <Biotech.label>bio-teknologi</Biotech.label>
   
 </LanguageData>

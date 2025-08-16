@@ -1,16 +1,16 @@
 # 📊 Progress Penerjemahan RimWorld Indonesian
 
-**Total Selesai:** 1477 / 1565 file
-**Progres:** 94.38%
+**Total Selesai:** 1565 / 1565 file
+**Progres:** 100.00%
 
 ## Ringkasan per Modul
 
-- **Core**: 525/542 (96.86%)
-- **Anomaly**: 177/191 (92.67%)
-- **Biotech**: 192/204 (94.12%)
-- **Ideology**: 270/290 (93.10%)
-- **Odyssey**: 170/191 (89.01%)
-- **Royalty**: 143/147 (97.28%)
+- **Core**: 542/542 (100.00%)
+- **Anomaly**: 191/191 (100.00%)
+- **Biotech**: 204/204 (100.00%)
+- **Ideology**: 290/290 (100.00%)
+- **Odyssey**: 191/191 (100.00%)
+- **Royalty**: 147/147 (100.00%)
 
 ## Core
 
@@ -78,6 +78,7 @@
 - [x] Core\DefInjected\DifficultyDef\Difficulties.xml
 - [x] Core\DefInjected\DrawStyleDef\DrawStyles.xml
 - [x] Core\DefInjected\DrugPolicyDef\DrugPolicyDefs.xml
+- [x] Core\DefInjected\DutyDef\Duties_Gatherings.xml
 - [x] Core\DefInjected\ExpansionDef\ExpansionDefs.xml
 - [x] Core\DefInjected\ExpectationDef\Expectations.xml
 - [x] Core\DefInjected\FactionDef\Factions_Hidden.xml
@@ -149,11 +150,16 @@
 - [x] Core\DefInjected\InteractionDef\Interactions_Romance.xml
 - [x] Core\DefInjected\InteractionDef\Interactions_Social.xml
 - [x] Core\DefInjected\IssueDef\Precepts_AteNutrientPaste.xml
+- [x] Core\DefInjected\IssueDef\Precepts_Cannibalism.xml
+- [x] Core\DefInjected\IssueDef\Precepts_Corpses.xml
+- [x] Core\DefInjected\IssueDef\Precepts_InsectMeat.xml
 - [x] Core\DefInjected\IssueDef\Precepts_Lovin.xml
 - [x] Core\DefInjected\IssueDef\Precepts_MarriageName.xml
 - [x] Core\DefInjected\IssueDef\Precepts_OrganUse.xml
+- [x] Core\DefInjected\IssueDef\Precepts_PrisonerExecution.xml
 - [x] Core\DefInjected\IssueDef\Precepts_Ritual.xml
 - [x] Core\DefInjected\IssueDef\Precepts_Slavery.xml
+- [x] Core\DefInjected\IssueDef\Precepts_SpouseCount.xml
 - [x] Core\DefInjected\JobDef\Jobs_Animal.xml
 - [x] Core\DefInjected\JobDef\Jobs_Caravan.xml
 - [x] Core\DefInjected\JobDef\Jobs_Gatherings.xml
@@ -181,6 +187,7 @@
 - [x] Core\DefInjected\NeedDef\Smokeleaf.xml
 - [x] Core\DefInjected\NeedDef\WakeUp.xml
 - [x] Core\DefInjected\OptionCategoryDef\OptionCategories.xml
+- [x] Core\DefInjected\OrderedTakeGroupDef\OrderedTakeGroupDefs.xml
 - [x] Core\DefInjected\PawnCapacityDef\PawnCapacity.xml
 - [x] Core\DefInjected\PawnColumnDef\ImpliedDefs.xml
 - [x] Core\DefInjected\PawnColumnDef\PawnColumns_Checkbox.xml
@@ -207,6 +214,7 @@
 - [x] Core\DefInjected\PawnKindDef\Races_Animal_PigGroup.xml
 - [x] Core\DefInjected\PawnKindDef\Races_Animal_SheepGroup.xml
 - [x] Core\DefInjected\PawnKindDef\Races_Animal_SquirrelGroup.xml
+- [x] Core\DefInjected\PawnKindDef\Races_Animal_WargGroup.xml
 - [x] Core\DefInjected\PawnKindDef\Races_Animal_WildCanines.xml
 - [x] Core\DefInjected\PawnKindDef\Races_Mechanoid.xml
 - [x] Core\DefInjected\PawnRelationDef\PawnRelations_FamilyByBlood.xml
@@ -216,6 +224,7 @@
 - [x] Core\DefInjected\PawnsArrivalModeDef\PawnsArrivalModes.xml
 - [x] Core\DefInjected\PlanetLayerDef\PlanetLayers.xml
 - [x] Core\DefInjected\PlanetLayerSettingsDef\PlanetLayerSettings.xml
+- [x] Core\DefInjected\PreceptDef\Precepts_AteNutrientPaste.xml
 - [x] Core\DefInjected\PreceptDef\Precepts_Cannibalism.xml
 - [x] Core\DefInjected\PreceptDef\Precepts_Corpses.xml
 - [x] Core\DefInjected\PreceptDef\Precepts_InsectMeat.xml
@@ -284,19 +293,25 @@
 - [x] Core\DefInjected\RulePackDef\RulePacks_CombatIncludes.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_CombatMelee.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_CombatRanged.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_Common.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Damage.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_DamageEvent.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Event.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_GameplayTips.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Global.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Maneuvers.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namer_World.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Animals.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Art.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Factions.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_Namers_People.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Quests.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Scenarios.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namers_Traders.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Namers_WorldFeatures.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Seeds.xml
 - [x] Core\DefInjected\RulePackDef\RulePacks_Transitions.xml
+- [x] Core\DefInjected\RulePackDef\RulePacks_Utility.xml
 - [x] Core\DefInjected\ScenPartDef\ScenParts_Fixed.xml
 - [x] Core\DefInjected\ScenPartDef\ScenParts_Various.xml
 - [x] Core\DefInjected\ScenarioDef\Scenarios_Classic.xml
@@ -330,6 +345,7 @@
 - [x] Core\DefInjected\StatDef\Stats_Weapons_Melee.xml
 - [x] Core\DefInjected\StatDef\Stats_Weapons_Ranged.xml
 - [x] Core\DefInjected\StorytellerDef\Storytellers.xml
+- [x] Core\DefInjected\StuffCategoryDef\StuffCategories.xml
 - [x] Core\DefInjected\StyleItemCategoryDef\StyleItemCategoryDefs.xml
 - [x] Core\DefInjected\SurgeryOutcomeEffectDef\SurgeryOutcomeEffectDefs.xml
 - [x] Core\DefInjected\TaleDef\Tales_Caravan.xml
@@ -469,6 +485,7 @@
 - [x] Core\DefInjected\ThoughtDef\Expectations.xml
 - [x] Core\DefInjected\ThoughtDef\GoJuice.xml
 - [x] Core\DefInjected\ThoughtDef\Precepts_AteNutrientPaste.xml
+- [x] Core\DefInjected\ThoughtDef\Psychite_Flake.xml
 - [x] Core\DefInjected\ThoughtDef\Psychite_Tea.xml
 - [x] Core\DefInjected\ThoughtDef\Psychite_Yayo.xml
 - [x] Core\DefInjected\ThoughtDef\Smokeleaf.xml
@@ -539,23 +556,6 @@
 - [x] Core\Keyed\Time.xml
 - [x] Core\Keyed\WITabs.xml
 - [x] Core\Keyed\WorkTags.xml
-- [ ] Core\DefInjected\DutyDef\Duties_Gatherings.xml
-- [ ] Core\DefInjected\IssueDef\Precepts_Cannibalism.xml
-- [ ] Core\DefInjected\IssueDef\Precepts_Corpses.xml
-- [ ] Core\DefInjected\IssueDef\Precepts_InsectMeat.xml
-- [ ] Core\DefInjected\IssueDef\Precepts_PrisonerExecution.xml
-- [ ] Core\DefInjected\IssueDef\Precepts_SpouseCount.xml
-- [ ] Core\DefInjected\OrderedTakeGroupDef\OrderedTakeGroupDefs.xml
-- [ ] Core\DefInjected\PawnKindDef\Races_Animal_WargGroup.xml
-- [ ] Core\DefInjected\PreceptDef\Precepts_AteNutrientPaste.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_Common.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_GameplayTips.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_Namers_Animals.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_Namers_People.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_Namers_Quests.xml
-- [ ] Core\DefInjected\RulePackDef\RulePacks_Utility.xml
-- [ ] Core\DefInjected\StuffCategoryDef\StuffCategories.xml
-- [ ] Core\DefInjected\ThoughtDef\Psychite_Flake.xml
 
 ## Anomaly
 
@@ -580,6 +580,7 @@
 - [x] Anomaly\DefInjected\CreepJoinerBaseDef\Rejections.xml
 - [x] Anomaly\DefInjected\DamageDef\Damages_Environmental.xml
 - [x] Anomaly\DefInjected\DamageDef\Damages_Misc.xml
+- [x] Anomaly\DefInjected\DesignationCategoryDef\DesignationCategories.xml
 - [x] Anomaly\DefInjected\EntityCategoryDef\EntityCategories.xml
 - [x] Anomaly\DefInjected\EntityCodexEntryDef\EntityCodexEntryDefs.xml
 - [x] Anomaly\DefInjected\FactionDef\Factions_Misc.xml
@@ -601,12 +602,16 @@
 - [x] Anomaly\DefInjected\InfectionPathwayDef\InfectionPathwayDefs.xml
 - [x] Anomaly\DefInjected\InteractionDef\Interactions_Misc.xml
 - [x] Anomaly\DefInjected\IssueDef\Precepts_Inhumanizing.xml
+- [x] Anomaly\DefInjected\IssueDef\Precepts_PsychicRituals.xml
 - [x] Anomaly\DefInjected\IssueDef\Precepts_VoidStudy.xml
 - [x] Anomaly\DefInjected\JobDef\Jobs_Misc.xml
 - [x] Anomaly\DefInjected\JobDef\Jobs_Work.xml
 - [x] Anomaly\DefInjected\KnowledgeCategoryDef\KnowledgeCategories.xml
 - [x] Anomaly\DefInjected\LifeStageDef\LifeStages.xml
+- [x] Anomaly\DefInjected\MapGeneratorDef\LabyrinthMapGenerator.xml
 - [x] Anomaly\DefInjected\MapGeneratorDef\MetalHellMapGenerator.xml
+- [x] Anomaly\DefInjected\MapGeneratorDef\UndercaveMapGenerator.xml
+- [x] Anomaly\DefInjected\MeditationFocusDef\MeditationFocusDefs.xml
 - [x] Anomaly\DefInjected\MemeDef\Memes_Misc.xml
 - [x] Anomaly\DefInjected\MentalBreakDef\MentalStates_Mood.xml
 - [x] Anomaly\DefInjected\MentalBreakDef\MentalStates_Special.xml
@@ -616,8 +621,10 @@
 - [x] Anomaly\DefInjected\MutantDef\Mutants.xml
 - [x] Anomaly\DefInjected\PawnKindDef\Forms.xml
 - [x] Anomaly\DefInjected\PawnKindDef\PawnKinds_Entities.xml
+- [x] Anomaly\DefInjected\PawnKindDef\PawnKinds_Fleshbeasts.xml
 - [x] Anomaly\DefInjected\PawnKindDef\PawnKinds_Horaxian.xml
 - [x] Anomaly\DefInjected\PawnKindDef\PawnKinds_Mutants.xml
+- [x] Anomaly\DefInjected\PawnKindDef\PawnKinds_Player.xml
 - [x] Anomaly\DefInjected\PawnRenderTreeDef\PawnRenderTreeDefs.xml
 - [x] Anomaly\DefInjected\PawnsArrivalModeDef\PawnArrivalModes.xml
 - [x] Anomaly\DefInjected\PitGateIncidentDef\PitGateIncidentDefs.xml
@@ -627,6 +634,7 @@
 - [x] Anomaly\DefInjected\PrisonerInteractionModeDef\PrisonerInteractionModeDefs.xml
 - [x] Anomaly\DefInjected\PsychicRitualDef\PsychicRituals.xml
 - [x] Anomaly\DefInjected\PsychicRitualRoleDef\PsychicRitualRoles.xml
+- [x] Anomaly\DefInjected\QuestScriptDef\Script_CreepjoinerJoins.xml
 - [x] Anomaly\DefInjected\QuestScriptDef\Script_DistressCall.xml
 - [x] Anomaly\DefInjected\QuestScriptDef\Script_EndGame_VoidAwakening.xml
 - [x] Anomaly\DefInjected\QuestScriptDef\Script_MonolithMigration.xml
@@ -643,6 +651,7 @@
 - [x] Anomaly\DefInjected\ResearchProjectDef\ResearchProjects_Anomaly.xml
 - [x] Anomaly\DefInjected\ResearchProjectDef\ResearchProjects_Misc.xml
 - [x] Anomaly\DefInjected\ResearchTabDef\ResearchTabs.xml
+- [x] Anomaly\DefInjected\RoofDef\Roofs.xml
 - [x] Anomaly\DefInjected\RoomRoleDef\RoomRoles.xml
 - [x] Anomaly\DefInjected\RulePackDef\Interactions_Misc.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Art.xml
@@ -650,6 +659,7 @@
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Biosignatures.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Book_Descriptions.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Combat.xml
+- [x] Anomaly\DefInjected\RulePackDef\RulePacks_Creepjoiners.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Cube.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Damage.xml
 - [x] Anomaly\DefInjected\RulePackDef\RulePacks_Entities.xml
@@ -660,10 +670,13 @@
 - [x] Anomaly\DefInjected\SitePartDef\DistressCall.xml
 - [x] Anomaly\DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
 - [x] Anomaly\DefInjected\StatCategoryDef\Stats_Containment.xml
+- [x] Anomaly\DefInjected\StatCategoryDef\Stats_PsychicRituals.xml
 - [x] Anomaly\DefInjected\StatCategoryDef\Stats_Serum.xml
 - [x] Anomaly\DefInjected\StatDef\Stats_Containment.xml
 - [x] Anomaly\DefInjected\StatDef\Stats_Pawns_Misc.xml
 - [x] Anomaly\DefInjected\StatDef\Stats_PsychicRituals.xml
+- [x] Anomaly\DefInjected\StuffCategoryDef\StuffCategories.xml
+- [x] Anomaly\DefInjected\StyleCategoryDef\StyleCategoryDefs.xml
 - [x] Anomaly\DefInjected\StyleItemCategoryDef\HairsCultist.xml
 - [x] Anomaly\DefInjected\TaleDef\Tales_Double.xml
 - [x] Anomaly\DefInjected\TaleDef\Tales_Incident.xml
@@ -671,6 +684,7 @@
 - [x] Anomaly\DefInjected\TerrainDef\Terrain_Floors.xml
 - [x] Anomaly\DefInjected\TerrainDef\Terrain_Floors_Burned.xml
 - [x] Anomaly\DefInjected\TerrainDef\Terrain_Natural.xml
+- [x] Anomaly\DefInjected\ThingCategoryDef\ThingCategories.xml
 - [x] Anomaly\DefInjected\ThingDef\Abilities.xml
 - [x] Anomaly\DefInjected\ThingDef\Apparel_Cult.xml
 - [x] Anomaly\DefInjected\ThingDef\Apparel_Packs.xml
@@ -736,20 +750,6 @@
 - [x] Anomaly\Keyed\Messages.xml
 - [x] Anomaly\Keyed\Misc_Gameplay.xml
 - [x] Anomaly\Keyed\Misc_PsychicRituals.xml
-- [ ] Anomaly\DefInjected\DesignationCategoryDef\DesignationCategories.xml
-- [ ] Anomaly\DefInjected\IssueDef\Precepts_PsychicRituals.xml
-- [ ] Anomaly\DefInjected\MapGeneratorDef\LabyrinthMapGenerator.xml
-- [ ] Anomaly\DefInjected\MapGeneratorDef\UndercaveMapGenerator.xml
-- [ ] Anomaly\DefInjected\MeditationFocusDef\MeditationFocusDefs.xml
-- [ ] Anomaly\DefInjected\PawnKindDef\PawnKinds_Fleshbeasts.xml
-- [ ] Anomaly\DefInjected\PawnKindDef\PawnKinds_Player.xml
-- [ ] Anomaly\DefInjected\QuestScriptDef\Script_CreepjoinerJoins.xml
-- [ ] Anomaly\DefInjected\RoofDef\Roofs.xml
-- [ ] Anomaly\DefInjected\RulePackDef\RulePacks_Creepjoiners.xml
-- [ ] Anomaly\DefInjected\StatCategoryDef\Stats_PsychicRituals.xml
-- [ ] Anomaly\DefInjected\StuffCategoryDef\StuffCategories.xml
-- [ ] Anomaly\DefInjected\StyleCategoryDef\StyleCategoryDefs.xml
-- [ ] Anomaly\DefInjected\ThingCategoryDef\ThingCategories.xml
 
 ## Biotech
 
@@ -767,6 +767,7 @@
 - [x] Biotech\DefInjected\DamageDef\Damages_Misc.xml
 - [x] Biotech\DefInjected\DamageDef\Damages_RangedWeapon.xml
 - [x] Biotech\DefInjected\DamageDef\Damages_Stun.xml
+- [x] Biotech\DefInjected\DesignationCategoryDef\DesignationCategories.xml
 - [x] Biotech\DefInjected\FactionDef\Factions_Misc.xml
 - [x] Biotech\DefInjected\GameConditionDef\GameConditions_Misc.xml
 - [x] Biotech\DefInjected\GeneCategoryDef\GeneCategoryDefs.xml
@@ -794,7 +795,9 @@
 - [x] Biotech\DefInjected\IncidentDef\Incidents_Map_Special.xml
 - [x] Biotech\DefInjected\IncidentDef\Incidents_Map_Threats.xml
 - [x] Biotech\DefInjected\InteractionDef\Interactions_Social.xml
+- [x] Biotech\DefInjected\IssueDef\Precepts_Bloodfeeders.xml
 - [x] Biotech\DefInjected\IssueDef\Precepts_ChildLabor.xml
+- [x] Biotech\DefInjected\IssueDef\Precepts_GrowthVat.xml
 - [x] Biotech\DefInjected\IssueDef\Precepts_Mechanoids.xml
 - [x] Biotech\DefInjected\IssueDef\Precepts_Xenotype.xml
 - [x] Biotech\DefInjected\JobDef\Jobs_Childcare.xml
@@ -803,13 +806,16 @@
 - [x] Biotech\DefInjected\JobDef\Jobs_Play.xml
 - [x] Biotech\DefInjected\JobDef\Jobs_Work.xml
 - [x] Biotech\DefInjected\LearningDesireDef\LearningDesires.xml
+- [x] Biotech\DefInjected\LifeStageDef\LifeStages.xml
 - [x] Biotech\DefInjected\MainButtonDef\MainButtons.xml
 - [x] Biotech\DefInjected\MechWorkModeDef\MechWorkModes.xml
 - [x] Biotech\DefInjected\MemeDef\Memes_Bloodfeeding.xml
+- [x] Biotech\DefInjected\MentalBreakDef\MentalStates_Special.xml
 - [x] Biotech\DefInjected\MentalFitDef\MentalStates_BabyFits.xml
 - [x] Biotech\DefInjected\MentalStateDef\MentalStates_BabyFits.xml
 - [x] Biotech\DefInjected\MentalStateDef\MentalStates_Special.xml
 - [x] Biotech\DefInjected\NeedDef\Needs.xml
+- [x] Biotech\DefInjected\PawnColumnDef\PawnColumns_Icon.xml
 - [x] Biotech\DefInjected\PawnColumnDef\PawnColumns_Mechs.xml
 - [x] Biotech\DefInjected\PawnKindDef\PawnKinds_Impid.xml
 - [x] Biotech\DefInjected\PawnKindDef\PawnKinds_Pigskin.xml
@@ -817,7 +823,9 @@
 - [x] Biotech\DefInjected\PawnKindDef\PawnKinds_Waster.xml
 - [x] Biotech\DefInjected\PawnKindDef\PawnKinds_Yttakin.xml
 - [x] Biotech\DefInjected\PawnKindDef\Races_Animal_Pollution.xml
+- [x] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_Heavy.xml
 - [x] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_Light.xml
+- [x] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_Medium.xml
 - [x] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_SuperHeavy.xml
 - [x] Biotech\DefInjected\PawnRelationDef\PawnRelations_FamiltyByBlood.xml
 - [x] Biotech\DefInjected\PawnRelationDef\PawnRelations_Misc.xml
@@ -858,18 +866,22 @@
 - [x] Biotech\DefInjected\RoomStatDef\RoomStats.xml
 - [x] Biotech\DefInjected\RulePackDef\Interactions_Social.xml
 - [x] Biotech\DefInjected\RulePackDef\RulePacks_Damages.xml
+- [x] Biotech\DefInjected\RulePackDef\RulePacks_Genepacks.xml
 - [x] Biotech\DefInjected\RulePackDef\RulePacks_GrowthMoments.xml
 - [x] Biotech\DefInjected\RulePackDef\RulePacks_Namers_Faction.xml
+- [x] Biotech\DefInjected\RulePackDef\RulePacks_Namers_Mechs.xml
 - [x] Biotech\DefInjected\RulePackDef\RulePacks_Namers_Xenohumans.xml
 - [x] Biotech\DefInjected\ScenPartDef\ScenParts_Various.xml
 - [x] Biotech\DefInjected\ScenarioDef\Scenarios.xml
 - [x] Biotech\DefInjected\SitePartDef\AncientComplex_Mechanitor.xml
 - [x] Biotech\DefInjected\SpecialThingFilterDef\SpecialThingFilters.xml
+- [x] Biotech\DefInjected\StatCategoryDef\StatCategories.xml
 - [x] Biotech\DefInjected\StatDef\Stats_Buildings_Special.xml
 - [x] Biotech\DefInjected\StatDef\Stats_Misc.xml
 - [x] Biotech\DefInjected\StatDef\Stats_Pawns_Combat.xml
 - [x] Biotech\DefInjected\StatDef\Stats_Pawns_General.xml
 - [x] Biotech\DefInjected\StatDef\Stats_Pawns_WorkGeneral.xml
+- [x] Biotech\DefInjected\StyleItemCategoryDef\BeardDefs.xml
 - [x] Biotech\DefInjected\TaleDef\Tales_DoublePawns.xml
 - [x] Biotech\DefInjected\TaleDef\Tales_Incident.xml
 - [x] Biotech\DefInjected\ThingDef\Abilities.xml
@@ -945,26 +957,16 @@
 - [x] Biotech\Keyed\Misc_Gameplay.xml
 - [x] Biotech\Keyed\ScenParts.xml
 - [x] Biotech\Keyed\WITabs.xml
-- [ ] Biotech\DefInjected\DesignationCategoryDef\DesignationCategories.xml
-- [ ] Biotech\DefInjected\IssueDef\Precepts_Bloodfeeders.xml
-- [ ] Biotech\DefInjected\IssueDef\Precepts_GrowthVat.xml
-- [ ] Biotech\DefInjected\LifeStageDef\LifeStages.xml
-- [ ] Biotech\DefInjected\MentalBreakDef\MentalStates_Special.xml
-- [ ] Biotech\DefInjected\PawnColumnDef\PawnColumns_Icon.xml
-- [ ] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_Heavy.xml
-- [ ] Biotech\DefInjected\PawnKindDef\Races_Mechanoids_Medium.xml
-- [ ] Biotech\DefInjected\RulePackDef\RulePacks_Genepacks.xml
-- [ ] Biotech\DefInjected\RulePackDef\RulePacks_Namers_Mechs.xml
-- [ ] Biotech\DefInjected\StatCategoryDef\StatCategories.xml
-- [ ] Biotech\DefInjected\StyleItemCategoryDef\BeardDefs.xml
 
 ## Ideology
 
 - [x] Ideology\DefInjected\AbilityDef\Abilities.xml
 - [x] Ideology\DefInjected\ColorDef\IdeoColorDefs.xml
 - [x] Ideology\DefInjected\ConceptDef\Tutor.xml
+- [x] Ideology\DefInjected\DesignationCategoryDef\DesignationCategories.xml
 - [x] Ideology\DefInjected\DesignatorDropdownGroupDef\Terrain_Floors.xml
 - [x] Ideology\DefInjected\DutyDef\Duties_Gatherings.xml
+- [x] Ideology\DefInjected\ExpectationDef\Expectations.xml
 - [x] Ideology\DefInjected\FactionDef\Factions_Misc.xml
 - [x] Ideology\DefInjected\GauranlenTreeModeDef\GauranlenTreeModeDefs.xml
 - [x] Ideology\DefInjected\GoodwillSituationDef\GoodwillSituations_MemeCompatibility.xml
@@ -976,6 +978,7 @@
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_Apostasy.xml
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_AutonomousWeapons.xml
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_Blindness.xml
+- [x] Ideology\DefInjected\HistoryEventDef\Precepts_Cannibalism.xml
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_Charity.xml
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_FungusEating.xml
 - [x] Ideology\DefInjected\HistoryEventDef\Precepts_IdeoDiversity.xml
@@ -1005,10 +1008,15 @@
 - [x] Ideology\DefInjected\IssueDef\Precepts_Animal.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_AnimalPersonhood.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_AnimalSlaughter.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Apostasy.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Apparel.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_AutonomousWeapons.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_BlindPsysense.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Blindness.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_BodyMod.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Bond.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Buildings.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Charity.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Comfort.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_DrugUse.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_FungusEating.xml
@@ -1018,9 +1026,12 @@
 - [x] Ideology\DefInjected\IssueDef\Precepts_MeatEating.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Mining.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Nudity.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Pain.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Proselytizing.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Raiders.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Ranching.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Relics.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Research.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_RitualSeats.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Role.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_RoughLiving.xml
@@ -1028,7 +1039,10 @@
 - [x] Ideology\DefInjected\IssueDef\Precepts_Skullspike.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Slavery.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_SmallSpaces.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Temperature.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Transhumanism.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_TreeCutting.xml
+- [x] Ideology\DefInjected\IssueDef\Precepts_Trees.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_Weapons.xml
 - [x] Ideology\DefInjected\IssueDef\Precepts_WorkDrive.xml
 - [x] Ideology\DefInjected\JobDef\Jobs_Gatherings.xml
@@ -1045,6 +1059,7 @@
 - [x] Ideology\DefInjected\MentalStateDef\MentalStates_Mood.xml
 - [x] Ideology\DefInjected\MentalStateDef\MentalStates_Special.xml
 - [x] Ideology\DefInjected\NeedDef\Needs.xml
+- [x] Ideology\DefInjected\PawnColumnDef\PawnColumns_Icon.xml
 - [x] Ideology\DefInjected\PawnKindDef\PawnKinds_NeutralCamps.xml
 - [x] Ideology\DefInjected\PawnKindDef\PawnKinds_Special.xml
 - [x] Ideology\DefInjected\PawnKindDef\Races_Animal_Special.xml
@@ -1118,6 +1133,8 @@
 - [x] Ideology\DefInjected\RitualBehaviorDef\Ritual_Behaviors.xml
 - [x] Ideology\DefInjected\RitualOutcomeEffectDef\Ritual_Outcomes.xml
 - [x] Ideology\DefInjected\RitualPatternDef\RitualPatterns.xml
+- [x] Ideology\DefInjected\RoomRoleDef\RoomRoles.xml
+- [x] Ideology\DefInjected\RoomStatDef\RoomStats.xml
 - [x] Ideology\DefInjected\RulePackDef\Interactions_Social.xml
 - [x] Ideology\DefInjected\RulePackDef\Interactions_Speech.xml
 - [x] Ideology\DefInjected\RulePackDef\Memes_Structures_OriginsReligious.xml
@@ -1125,6 +1142,7 @@
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Deity_Names.xml
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Deity_Types.xml
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Building.xml
+- [x] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Description.xml
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Names.xml
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Relic.xml
 - [x] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Role.xml
@@ -1161,6 +1179,8 @@
 - [x] Ideology\DefInjected\ThingDef\Buildings_Ideo.xml
 - [x] Ideology\DefInjected\ThingDef\Buildings_Misc.xml
 - [x] Ideology\DefInjected\ThingDef\Buildings_Special.xml
+- [x] Ideology\DefInjected\ThingDef\Ethereal_Skyfallers.xml
+- [x] Ideology\DefInjected\ThingDef\Ethereal_Various.xml
 - [x] Ideology\DefInjected\ThingDef\Filth_Various.xml
 - [x] Ideology\DefInjected\ThingDef\FloorCoverings.xml
 - [x] Ideology\DefInjected\ThingDef\Hediffs_Casts.xml
@@ -1230,26 +1250,6 @@
 - [x] Ideology\Keyed\Menus_Main.xml
 - [x] Ideology\Keyed\Messages.xml
 - [x] Ideology\Keyed\Misc_Gameplay.xml
-- [ ] Ideology\DefInjected\DesignationCategoryDef\DesignationCategories.xml
-- [ ] Ideology\DefInjected\ExpectationDef\Expectations.xml
-- [ ] Ideology\DefInjected\HistoryEventDef\Precepts_Cannibalism.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Apostasy.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_AutonomousWeapons.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_BlindPsysense.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Buildings.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Charity.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Pain.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Proselytizing.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Research.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Temperature.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_TreeCutting.xml
-- [ ] Ideology\DefInjected\IssueDef\Precepts_Trees.xml
-- [ ] Ideology\DefInjected\PawnColumnDef\PawnColumns_Icon.xml
-- [ ] Ideology\DefInjected\RoomRoleDef\RoomRoles.xml
-- [ ] Ideology\DefInjected\RoomStatDef\RoomStats.xml
-- [ ] Ideology\DefInjected\RulePackDef\RulePacks_Ideo_Description.xml
-- [ ] Ideology\DefInjected\ThingDef\Ethereal_Skyfallers.xml
-- [ ] Ideology\DefInjected\ThingDef\Ethereal_Various.xml
 
 ## Odyssey
 
@@ -1269,7 +1269,9 @@
 - [x] Odyssey\DefInjected\BodyDef\Bodies_Mechanoids_Medium.xml
 - [x] Odyssey\DefInjected\BodyPartDef\Bodies_Drones.xml
 - [x] Odyssey\DefInjected\BodyPartDef\BodyParts_Crab.xml
+- [x] Odyssey\DefInjected\BodyPartDef\BodyParts_Snail.xml
 - [x] Odyssey\DefInjected\BodyPartGroupDef\BodyPartGroups.xml
+- [x] Odyssey\DefInjected\ChemicalDef\Psilocap.xml
 - [x] Odyssey\DefInjected\ColorDef\ColorDefs.xml
 - [x] Odyssey\DefInjected\ConceptDef\Tutor.xml
 - [x] Odyssey\DefInjected\DamageDef\Damages_MeleeWeapon.xml
@@ -1286,30 +1288,38 @@
 - [x] Odyssey\DefInjected\HediffDef\Hediffs_Global_Misc.xml
 - [x] Odyssey\DefInjected\HediffDef\Hediffs_Local_Injuries.xml
 - [x] Odyssey\DefInjected\HediffDef\Psilocap.xml
+- [x] Odyssey\DefInjected\HistoryEventDef\HistoryEventDefs.xml
 - [x] Odyssey\DefInjected\HistoryEventDef\Precepts_Fishing.xml
 - [x] Odyssey\DefInjected\IncidentDef\Incidents_Map_Misc.xml
 - [x] Odyssey\DefInjected\IncidentDef\Incidents_Map_Special.xml
 - [x] Odyssey\DefInjected\IssueDef\Precepts_Fishing.xml
 - [x] Odyssey\DefInjected\IssueDef\Precepts_Nomadic.xml
 - [x] Odyssey\DefInjected\IssueDef\Precepts_SpaceHabitat.xml
+- [x] Odyssey\DefInjected\JobDef\Jobs_Combat.xml
+- [x] Odyssey\DefInjected\JobDef\Jobs_Joy.xml
 - [x] Odyssey\DefInjected\JobDef\Jobs_Misc.xml
 - [x] Odyssey\DefInjected\LandingOutcomeDef\LandingOutcomes.xml
 - [x] Odyssey\DefInjected\LandmarkDef\Landmarks.xml
 - [x] Odyssey\DefInjected\MapGeneratorDef\AncientStockpileMapGenerator.xml
 - [x] Odyssey\DefInjected\MapGeneratorDef\InsectLairMapGenerator.xml
+- [x] Odyssey\DefInjected\MapGeneratorDef\MechhiveMapGenerator.xml
 - [x] Odyssey\DefInjected\MapGeneratorDef\SpaceMapGenerator.xml
 - [x] Odyssey\DefInjected\MemeDef\Memes_Misc.xml
 - [x] Odyssey\DefInjected\MentalStateDef\MentalStates_Special.xml
 - [x] Odyssey\DefInjected\NegativeFishingOutcomeDef\NegativeFishingOutcomes.xml
 - [x] Odyssey\DefInjected\PawnColumnDef\PawnColumns.xml
+- [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_Drones.xml
+- [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_Mechanoids_Medium.xml
 - [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_Player.xml
 - [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_Salvagers.xml
+- [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_Spacer.xml
 - [x] Odyssey\DefInjected\PawnKindDef\PawnKinds_TradersGuild.xml
 - [x] Odyssey\DefInjected\PawnKindDef\Races_Animal.xml
 - [x] Odyssey\DefInjected\PawnKindDef\Races_Animal_Birds.xml
 - [x] Odyssey\DefInjected\PawnKindDef\Races_Animal_Coastal.xml
 - [x] Odyssey\DefInjected\PawnKindDef\Races_Animal_Insect.xml
 - [x] Odyssey\DefInjected\PlanetLayerDef\PlanetLayers.xml
+- [x] Odyssey\DefInjected\PlanetLayerSettingsDef\PlanetLayerSettings.xml
 - [x] Odyssey\DefInjected\PreceptDef\Precept_Rituals.xml
 - [x] Odyssey\DefInjected\PreceptDef\Precepts_Fishing.xml
 - [x] Odyssey\DefInjected\PreceptDef\Precepts_Nomadic.xml
@@ -1325,9 +1335,12 @@
 - [x] Odyssey\DefInjected\QuestScriptDef\Script_Site.xml
 - [x] Odyssey\DefInjected\QuestScriptDef\Script_SpaceSites.xml
 - [x] Odyssey\DefInjected\RecipeDef\Hediffs_BodyParts_Prosthetic.xml
+- [x] Odyssey\DefInjected\RecipeDef\Recipes_MechGestator_Medium.xml
+- [x] Odyssey\DefInjected\RecipeDef\Recipes_Production.xml
 - [x] Odyssey\DefInjected\RecipeDef\Recipes_Surgery_Misc.xml
 - [x] Odyssey\DefInjected\RecipeDef\Stone_Various.xml
 - [x] Odyssey\DefInjected\ResearchProjectDef\ResearchProjects_Misc.xml
+- [x] Odyssey\DefInjected\RitualBehaviorDef\Ritual_Behaviors.xml
 - [x] Odyssey\DefInjected\RitualOutcomeEffectDef\Ritual_Outcomes.xml
 - [x] Odyssey\DefInjected\RitualPatternDef\Ritual_Patterns.xml
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Art_Statues.xml
@@ -1335,6 +1348,7 @@
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_Factions.xml
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_Gravship.xml
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_Landmarks.xml
+- [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_OrbitalLocations.xml
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_UniqueWeapons.xml
 - [x] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_WorldFeatures.xml
 - [x] Odyssey\DefInjected\ScenPartDef\ScenParts_Various.xml
@@ -1343,17 +1357,21 @@
 - [x] Odyssey\DefInjected\SitePartDef\AncientStructures.xml
 - [x] Odyssey\DefInjected\SitePartDef\BanditGang.xml
 - [x] Odyssey\DefInjected\SitePartDef\GravcoreLocations.xml
+- [x] Odyssey\DefInjected\SitePartDef\GravshipLocations.xml
 - [x] Odyssey\DefInjected\SitePartDef\Opportunities.xml
 - [x] Odyssey\DefInjected\StatDef\Stats_Building_Special.xml
 - [x] Odyssey\DefInjected\StatDef\Stats_Pawns_General.xml
 - [x] Odyssey\DefInjected\TaleDef\Tales_Health.xml
 - [x] Odyssey\DefInjected\TaleDef\Tales_Incident.xml
+- [x] Odyssey\DefInjected\TerrainAffordanceDef\TerrainAffordances.xml
 - [x] Odyssey\DefInjected\TerrainDef\Terrain_Floors_StoneTile.xml
 - [x] Odyssey\DefInjected\TerrainDef\Terrain_Foundation.xml
+- [x] Odyssey\DefInjected\TerrainDef\Terrain_Misc.xml
 - [x] Odyssey\DefInjected\TerrainDef\Terrain_Natural.xml
 - [x] Odyssey\DefInjected\TerrainDef\Terrain_Temporary.xml
 - [x] Odyssey\DefInjected\TerrainDef\Terrain_Water.xml
 - [x] Odyssey\DefInjected\ThingCategoryDef\ThingCategories.xml
+- [x] Odyssey\DefInjected\ThingDef\Abilities.xml
 - [x] Odyssey\DefInjected\ThingDef\Apparel_Headgear.xml
 - [x] Odyssey\DefInjected\ThingDef\Apparel_Packs.xml
 - [x] Odyssey\DefInjected\ThingDef\Apparel_Various.xml
@@ -1370,6 +1388,7 @@
 - [x] Odyssey\DefInjected\ThingDef\Buildings_Security_Turrets.xml
 - [x] Odyssey\DefInjected\ThingDef\Ethereal_Skyfallers.xml
 - [x] Odyssey\DefInjected\ThingDef\Ethereal_Various.xml
+- [x] Odyssey\DefInjected\ThingDef\Filth_Various.xml
 - [x] Odyssey\DefInjected\ThingDef\Hediffs_BodyParts_Prosthetic.xml
 - [x] Odyssey\DefInjected\ThingDef\Items_Exotic.xml
 - [x] Odyssey\DefInjected\ThingDef\Items_Resource_AnimalProduct.xml
@@ -1405,6 +1424,7 @@
 - [x] Odyssey\DefInjected\TileMutatorDef\TileMutators_Natural.xml
 - [x] Odyssey\DefInjected\TileMutatorDef\TileMutators_Special.xml
 - [x] Odyssey\DefInjected\TipSetDef\Tips.xml
+- [x] Odyssey\DefInjected\ToolCapacityDef\ToolCapacity.xml
 - [x] Odyssey\DefInjected\TrainableDef\Trainables.xml
 - [x] Odyssey\DefInjected\TransportShipDef\Buildings_Misc.xml
 - [x] Odyssey\DefInjected\WeaponTraitDef\WeaponTraitDefs.xml
@@ -1423,27 +1443,7 @@
 - [x] Odyssey\Keyed\Menus_Main.xml
 - [x] Odyssey\Keyed\Messages.xml
 - [x] Odyssey\Keyed\Misc_Gameplay.xml
-- [ ] Odyssey\DefInjected\BodyPartDef\BodyParts_Snail.xml
-- [ ] Odyssey\DefInjected\ChemicalDef\Psilocap.xml
-- [ ] Odyssey\DefInjected\HistoryEventDef\HistoryEventDefs.xml
-- [ ] Odyssey\DefInjected\JobDef\Jobs_Combat.xml
-- [ ] Odyssey\DefInjected\JobDef\Jobs_Joy.xml
-- [ ] Odyssey\DefInjected\MapGeneratorDef\MechhiveMapGenerator.xml
-- [ ] Odyssey\DefInjected\PawnKindDef\PawnKinds_Drones.xml
-- [ ] Odyssey\DefInjected\PawnKindDef\PawnKinds_Mechanoids_Medium.xml
-- [ ] Odyssey\DefInjected\PawnKindDef\PawnKinds_Spacer.xml
-- [ ] Odyssey\DefInjected\PlanetLayerSettingsDef\PlanetLayerSettings.xml
-- [ ] Odyssey\DefInjected\RecipeDef\Recipes_MechGestator_Medium.xml
-- [ ] Odyssey\DefInjected\RecipeDef\Recipes_Production.xml
-- [ ] Odyssey\DefInjected\RitualBehaviorDef\Ritual_Behaviors.xml
-- [ ] Odyssey\DefInjected\RulePackDef\RulePacks_Namers_OrbitalLocations.xml
-- [ ] Odyssey\DefInjected\SitePartDef\GravshipLocations.xml
-- [ ] Odyssey\DefInjected\TerrainAffordanceDef\TerrainAffordances.xml
-- [ ] Odyssey\DefInjected\TerrainDef\Terrain_Misc.xml
-- [ ] Odyssey\DefInjected\ThingDef\Abilities.xml
-- [ ] Odyssey\DefInjected\ThingDef\Filth_Various.xml
-- [ ] Odyssey\DefInjected\ToolCapacityDef\ToolCapacity.xml
-- [ ] Odyssey\Keyed\WITabs.xml
+- [x] Odyssey\Keyed\WITabs.xml
 
 ## Royalty
 
@@ -1456,6 +1456,7 @@
 - [x] Royalty\DefInjected\BackstoryDef\ImperialRoyal_Child.xml
 - [x] Royalty\DefInjected\ConceptDef\Concepts_NotedOpportunistic.xml
 - [x] Royalty\DefInjected\CultureDef\Cultures.xml
+- [x] Royalty\DefInjected\DutyDef\Duties_Gatherings.xml
 - [x] Royalty\DefInjected\FactionDef\Faction_Empire.xml
 - [x] Royalty\DefInjected\FactionDef\Factions_Misc.xml
 - [x] Royalty\DefInjected\GameConditionDef\Buildings_ConditionCausers.xml
@@ -1518,6 +1519,7 @@
 - [x] Royalty\DefInjected\RitualAttachableOutcomeEffectDef\Ritual_AttachableOutcomes_Universal.xml
 - [x] Royalty\DefInjected\RitualBehaviorDef\Ritual_Behaviors.xml
 - [x] Royalty\DefInjected\RitualOutcomeEffectDef\Ritual_Outcomes.xml
+- [x] Royalty\DefInjected\RoomRoleDef\RoomRoles.xml
 - [x] Royalty\DefInjected\RoyalTitleDef\RoyalTitles_Empire.xml
 - [x] Royalty\DefInjected\RoyalTitlePermitDef\RoyalPermits_Empire.xml
 - [x] Royalty\DefInjected\RulePackDef\Faction_Empire.xml
@@ -1548,6 +1550,7 @@
 - [x] Royalty\DefInjected\ThingDef\Buildings_Mech_Spawners.xml
 - [x] Royalty\DefInjected\ThingDef\Buildings_Misc.xml
 - [x] Royalty\DefInjected\ThingDef\Buildings_MusicalInstruments.xml
+- [x] Royalty\DefInjected\ThingDef\Ethereal_Skyfallers.xml
 - [x] Royalty\DefInjected\ThingDef\Ethereal_Various.xml
 - [x] Royalty\DefInjected\ThingDef\Hediffs_BodyParts_Archotech_EmpireRoyal.xml
 - [x] Royalty\DefInjected\ThingDef\Hediffs_BodyParts_Bionic_Empire.xml
@@ -1576,6 +1579,7 @@
 - [x] Royalty\DefInjected\TipSetDef\Tips.xml
 - [x] Royalty\DefInjected\TraderKindDef\TraderKinds_Caravan_Empire.xml
 - [x] Royalty\DefInjected\TraderKindDef\TraderKinds_Orbital_Empire.xml
+- [x] Royalty\DefInjected\TransportShipDef\TransportShipDefs.xml
 - [x] Royalty\DefInjected\WeaponTraitDef\WeaponTraitDefs.xml
 - [x] Royalty\DefInjected\WorldObjectDef\WorldObjects.xml
 - [x] Royalty\Keyed\Alerts.xml
@@ -1590,8 +1594,4 @@
 - [x] Royalty\Keyed\MainTabs.xml
 - [x] Royalty\Keyed\Messages.xml
 - [x] Royalty\Keyed\Misc_Gameplay.xml
-- [ ] Royalty\DefInjected\DutyDef\Duties_Gatherings.xml
-- [ ] Royalty\DefInjected\RoomRoleDef\RoomRoles.xml
-- [ ] Royalty\DefInjected\ThingDef\Ethereal_Skyfallers.xml
-- [ ] Royalty\DefInjected\TransportShipDef\TransportShipDefs.xml
 

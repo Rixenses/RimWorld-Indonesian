@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: hunter drone -->
@@ -7,9 +8,9 @@
   <Drone_Hunter.labelPlural>Drone Hunter</Drone_Hunter.labelPlural>
   
   <!-- EN: sentry drone -->
-  <Drone_Sentry.label>Drone Centinel</Drone_Sentry.label>
+  <Drone_Sentry.label>Drone sentry</Drone_Sentry.label>
   <!-- EN: sentry drones -->
-  <Drone_Sentry.labelPlural>Drone Sentinel</Drone_Sentry.labelPlural>
+  <Drone_Sentry.labelPlural>Drone sentry</Drone_Sentry.labelPlural>
   
   <!-- EN: wasp -->
   <Drone_Wasp.label>tawon</Drone_Wasp.label>

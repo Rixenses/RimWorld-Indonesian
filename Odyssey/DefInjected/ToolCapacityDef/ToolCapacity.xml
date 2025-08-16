@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: porcupine bite -->
   <PorcupineBite.label>gigitan landak</PorcupineBite.label>
   
   <!-- EN: porcupine scratch -->
-  <PorcupineScratch.label>torsi -scratch</PorcupineScratch.label>
+  <PorcupineScratch.label>cakaran landak</PorcupineScratch.label>
   
 </LanguageData>

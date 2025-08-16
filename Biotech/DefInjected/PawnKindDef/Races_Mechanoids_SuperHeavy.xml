@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: apocriton -->
-  <Mech_Apocriton.label>Apokriton</Mech_Apocriton.label>
+  <Mech_Apocriton.label>apokriton</Mech_Apocriton.label>
   <Mech_Apocriton.labelPlural>apokriton</Mech_Apocriton.labelPlural>
   
   <!-- EN: centurion -->
-  <Mech_Centurion.label>Centurion</Mech_Centurion.label>
-  <Mech_Centurion.labelPlural>ratusan</Mech_Centurion.labelPlural>
+  <Mech_Centurion.label>centurion</Mech_Centurion.label>
+  <Mech_Centurion.labelPlural>centurion</Mech_Centurion.labelPlural>
   
   <!-- EN: diabolus -->
-  <Mech_Diabolus.label>Diábolus</Mech_Diabolus.label>
+  <Mech_Diabolus.label>diabolus</Mech_Diabolus.label>
   
   <!-- EN: war queen -->
   <Mech_Warqueen.label>ratu perang</Mech_Warqueen.label>
   <!-- EN: war queens -->
-  <Mech_Warqueen.labelPlural>Ratu Perang</Mech_Warqueen.labelPlural>
+  <Mech_Warqueen.labelPlural>ratu perang</Mech_Warqueen.labelPlural>
   
 </LanguageData>

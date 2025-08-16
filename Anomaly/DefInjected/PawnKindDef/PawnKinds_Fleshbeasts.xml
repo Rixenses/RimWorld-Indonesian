@@ -1,19 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Skip Detection-->
 <LanguageData>
   
   <!-- EN: bulbfreak -->
-  <Bulbfreak.label>Púrtrido Engendro</Bulbfreak.label>
+  <Bulbfreak.label>Bulbfreak</Bulbfreak.label>
   
   <!-- EN: dreadmeld -->
-  <Dreadmeld.label>Terrofusion</Dreadmeld.label>
+  <Dreadmeld.label>Dreadmeld</Dreadmeld.label>
   
   <!-- EN: fingerspike -->
-  <Fingerspike.label>Espigocanis</Fingerspike.label>
+  <Fingerspike.label>Fingerspike</Fingerspike.label>
   
   <!-- EN: toughspike -->
-  <Toughspike.label>Espigodurum</Toughspike.label>
+  <Toughspike.label>Toughspike</Toughspike.label>
   
   <!-- EN: trispike -->
-  <Trispike.label>Espigotribus</Trispike.label>
+  <Trispike.label>Trispike</Trispike.label>
   
 </LanguageData>

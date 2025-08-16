@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: eye stalk -->
-  <EyeStalk.label>okular</EyeStalk.label>
+  <EyeStalk.label>mata</EyeStalk.label>
   
   <!-- EN: foot -->
-  <SnailFoot.label>Pata</SnailFoot.label>
+  <SnailFoot.label>kaki</SnailFoot.label>
   
 </LanguageData>

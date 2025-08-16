@@ -10,9 +10,9 @@
   <Mech_Cleansweeper.labelPlural>pembersih</Mech_Cleansweeper.labelPlural>
   
   <!-- EN: constructoid -->
-  <Mech_Constructoid.label>Constructoide</Mech_Constructoid.label>
-  <Mech_Constructoid.labelPlural>Constructoides</Mech_Constructoid.labelPlural>
-  
+  <Mech_Constructoid.label>konstruktor</Mech_Constructoid.label>
+  <Mech_Constructoid.labelPlural>konstruktor</Mech_Constructoid.labelPlural>
+
   <!-- EN: fabricor -->
   <Mech_Fabricor.label>perakit</Mech_Fabricor.label>
   <Mech_Fabricor.labelPlural>produsen</Mech_Fabricor.labelPlural>

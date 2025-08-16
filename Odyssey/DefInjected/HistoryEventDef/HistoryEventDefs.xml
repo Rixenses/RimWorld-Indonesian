@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: orbital pollution -->
   <OrbitalPollution.label>Polusi orbital</OrbitalPollution.label>
   
   <!-- EN: member kidnapped on gravship -->
-  <PawnKidnappedOnGravShip.label>Anggota Gravinave Dikuluk</PawnKidnappedOnGravShip.label>
+  <PawnKidnappedOnGravShip.label>anggota diculik di gravship</PawnKidnappedOnGravShip.label>
   
 </LanguageData>

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: shuttle -->
-  <Ship_Shuttle.label>feri</Ship_Shuttle.label>
+  <Ship_Shuttle.label>kapsul</Ship_Shuttle.label>
   
 </LanguageData>

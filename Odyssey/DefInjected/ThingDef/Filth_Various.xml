@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- SKIP_TRANSLATION -->
 <LanguageData>
   
   <!-- EN: chemfuel stain -->
-  <Filth_ChemfuelStain.label>Noda biofuel</Filth_ChemfuelStain.label>
+  <Filth_ChemfuelStain.label>noda biofuel</Filth_ChemfuelStain.label>
   
   <!-- EN: chipped ice -->
   <Filth_ChippedIce.label>es cincang</Filth_ChippedIce.label>
   
   <!-- EN: volcanic ash -->
-  <Filth_VolcanicAsh.label>Abu Vulkanik</Filth_VolcanicAsh.label>
-  
+  <Filth_VolcanicAsh.label>abu vulkanik</Filth_VolcanicAsh.label>
+
 </LanguageData>
