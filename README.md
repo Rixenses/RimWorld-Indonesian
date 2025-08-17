@@ -1,6 +1,6 @@
 ![Image of RimWorld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
 
-# <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e9.png" width="18" style="vertical-align:middle;"/> 🇮🇩 | RimWorld Bahasa Indonesia 
+# <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e9.png" width="18" style="vertical-align:middle;"/> | 🇮🇩 RimWorld Bahasa Indonesia 
 **Proyek resmi translasi Bahasa Indonesia untuk RimWorld**  
 **Official Indonesian Language Translation Project for RimWorld**
 
