@@ -33,7 +33,7 @@
   <CreateWorld>Membuat dunia</CreateWorld>
 
   <!-- Main menu translations info window -->
-  <TranslationThanks>Semua terjemahan Rimworld dibuat oleh penggemar.Terjemahan kipas ini dibuat oleh sukarelawan hebat berikut: \ n \ n {0}</TranslationThanks>
+  <TranslationThanks>Semua terjemahan Rimworld dibuat oleh penggemar. Terjemahan ini dibuat oleh sukarelawan hebat berikut:\n\n{0}</TranslationThanks>
   <TranslationHowToContribute>Kamu juga bisa berkontribusi. Klik di bawah untuk mempelajari lebih lanjut (peramban web akan terbuka).</TranslationHowToContribute>
   <LearnMore>Pelajari lebih lanjut</LearnMore>
 
@@ -164,8 +164,8 @@
   <Delete>Senang</Delete>
   
   <!-- Scenario editor -->
-  <Seed>benih</Seed>
-  <Load>Bugar</Load>
+  <Seed>Benih</Seed>
+  <Load>Muat</Load>
   <EditMode>Edit Mode</EditMode>
   <Summary>Ringkasan</Summary>
   <AddPart>Tambah bagian</AddPart>
