@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
   <friendlyNameNative>Bahasa Indonesia</friendlyNameNative>
-  <friendlyNameEnglish>Indonesia</friendlyNameEnglish>
-  <canBeTiny>BENAR</canBeTiny>
+  <friendlyNameEnglish>Indonesian</friendlyNameEnglish>
+  <canBeTiny>True</canBeTiny>
   <credits>
     <!-- Aktif -->
     <li Class="CreditRecord_Text">
