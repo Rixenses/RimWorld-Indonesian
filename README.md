@@ -23,8 +23,8 @@ Lihat dokumen: [PROGRESS.md](PROGRESS.md)
 
 **Target:**
 - [x] Terjemahan Core + DLC
-- [ ] Selesai: 30 Agustus 2025  
-- [ ] Uji coba di dalam game  
+- [ ] Uji coba di dalam game 
+- [ ] Selesai: 29 Agustus 2025   
 - [ ] Submit ke Ludeon
 
 ---
