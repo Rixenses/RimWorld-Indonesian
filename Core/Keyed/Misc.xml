@@ -121,12 +121,15 @@
   <MeatHumanDesc>Daging mentah.Dapat dimasak untuk membuat makanan, atau mengonsumsi mentah, meskipun kebanyakan manusia tidak menyukai ide itu.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>tecnoplano ({Project_label})</TechprintLabel>
+  <TechprintLabel>Rencana Teknologi ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Data tentang Teknologi "{Project_Label}".Terlepas dari bentuknya, mereka memainkan peran yang sama: beri peneliti Anda keyakinan bahwa sebuah ide itu layak, dan pendekatan terhadap desain yang digunakan oleh masyarakat yang lebih maju.Hanya ketika Anda memiliki data yang cukup, peneliti Anda akan tahu cara menggunakan teknologi seperti itu dalam situasi khusus Anda.Selain itu, menggunakan Technoplan memberi peneliti Anda dorongan intelektual, bahkan dengan teknologi yang sudah diketahui.</TechprintDesc>
+  <TechprintDesc>Data tentang Teknologi '{PROJECT_label}'.
+  \nTerlepas dari bentuknya, mereka memainkan peran yang sama: beri peneliti Anda keyakinan bahwa sebuah ide itu layak, dan pendekatan terhadap desain yang digunakan oleh masyarakat yang lebih maju.
+  \nHanya ketika Anda memiliki data yang cukup, peneliti Anda akan tahu cara menggunakan teknologi seperti itu dalam situasi khusus Anda.
+  \nSelain itu, menggunakan Rencana Teknologi memberi peneliti Anda dorongan intelektual, bahkan dengan teknologi yang sudah diketahui.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Membuka kunci</Unlocks>
 

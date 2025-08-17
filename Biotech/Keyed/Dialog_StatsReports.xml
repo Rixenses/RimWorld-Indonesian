@@ -126,12 +126,10 @@
   <StatsReport_GrowthVatSpeedFactor>Kecepatan Inkubator</StatsReport_GrowthVatSpeedFactor>
 
   <!-- EN: Carriers cannot build a tolerance to {0_label}. -->
-  <GeneToleranceBuildupImmune>Operator tidak dapat membuat toleransi {ganti: A {0_Definite};"Ke"-"al"}.</GeneToleranceBuildupImmune>
+  <GeneToleranceBuildupImmune>Operator tidak dapat meningkatkan toleransi ke {0_label}.</GeneToleranceBuildupImmune>
   <!-- EN: Carriers build a tolerance to {0_label} {1} as quickly. -->
-  <GeneToleranceBuildupFactor>Operator mengembangkan toleransi {ganti: {0_definite};"Ke"-"al"} {1} dengan kecepatan yang sama.</GeneToleranceBuildupFactor>
+  <GeneToleranceBuildupFactor>Operator meningkatkan toleransi ke {0_label} {1} dengan cepat.</GeneToleranceBuildupFactor>
   <!-- EN: Carriers cannot overdose on {0_label}. -->
-  <GeneOverdoseImmune>Operator tidak dapat memiliki overdosis {0_label}.</GeneOverdoseImmune>
+  <GeneOverdoseImmune>Operator tidak dapat overdosis {0_label}.</GeneOverdoseImmune>
   <!-- EN: Carriers are {1} as likely to overdose on {0_label}. -->
-  <GeneOverdoseFactor>Operator memiliki {1} probabilitas memiliki overdosis {0_label}.</GeneOverdoseFactor>
-
-</LanguageData>
+  <GeneOverdoseFactor>Operator memiliki {1} probabilitas overdosis {0_label}.</GeneOverdoseFactor>

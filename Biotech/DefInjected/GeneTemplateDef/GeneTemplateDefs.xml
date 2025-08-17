@@ -38,7 +38,7 @@
   <!-- EN: {0} dependency -->
   <ChemicalDependency.label>{0} tergantung</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
-  <ChemicalDependency.description>Pembawa gen ini perlu menelan {0} secara teratur untuk bertahan hidup.Setelah {DeficiencyDuration} tanpa {0}, para pembawa akan menderita kekurangan {0}.Setelah {comaduration}, mereka akan jatuh koma.Setelah {DeathDuration}, mereka akan mati.</ChemicalDependency.description>
+  <ChemicalDependency.description>Pembawa gen ini perlu menelan {0} secara teratur untuk bertahan hidup. Setelah {DEFICIENCYDURATION} tanpa {0}, para pembawa akan menderita kekurangan {0}. Setelah {COMADURATION}, mereka akan jatuh koma.Setelah {DEATHDURATION}, mereka akan mati.</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->
   <ChemicalDependency.labelShortAdj>{0} tergantung</ChemicalDependency.labelShortAdj>
   

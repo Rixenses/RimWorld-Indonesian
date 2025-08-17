@@ -766,8 +766,8 @@
   <MyChildIsSad>Anak saya sedih</MyChildIsSad> 
   
   <!-- EN: Genetic {CHEMICAL_label} dependency -->
-  <GeneticChemicalDependency_Label>Ketergantungan genetik a {ganti: a {chemical_definite};"To el"-"al"}</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Label>Ketergantungan genetik {CHEMICAL_label}</GeneticChemicalDependency_Label>
   <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
-  <GeneticChemicalDependency_Desc>Saya membutuhkan {chemical_label} untuk kekurangan genetik saya.Tapi itu tidak terlalu banyak mengkonsumsi.</GeneticChemicalDependency_Desc>
+  <GeneticChemicalDependency_Desc>Saya membutuhkan {CHEMICAL_label} untuk kekurangan genetik saya. Tapi itu tidak terlalu banyak mengkonsumsi.</GeneticChemicalDependency_Desc>
 
 </LanguageData>
