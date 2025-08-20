@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: EMP -->
-  <EMP.label>Emp</EMP.label>
+  <EMP.label>EMP</EMP.label>
   <!-- EN: {0} has been EMPed to death. -->
   <EMP.deathMessage>{0} telah meninggal karena EMP.</EMP.deathMessage>
   
   <!-- EN: stun -->
-  <Stun.label>tertegun</Stun.label>
+  <Stun.label>lumpuh</Stun.label>
   <!-- EN: {0} has been stunned to death. -->
-  <Stun.deathMessage>{0} telah terpana {0_gender ? atau : a} sampai mati.</Stun.deathMessage>
+  <Stun.deathMessage>{0} telah lumpuh sampai mati.</Stun.deathMessage>
   
 </LanguageData>
