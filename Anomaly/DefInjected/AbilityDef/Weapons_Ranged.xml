@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: bioferrite burner -->
-  <HellcatBurner.label>Pembakar Bioferrita</HellcatBurner.label>
+  <HellcatBurner.label>Pembakar Bioferit</HellcatBurner.label>
   <!-- EN: Expend a pressurized bioferrite charge to create a burst of flame. -->
-  <HellcatBurner.description>Habiskan beban bioferrita bertekanan untuk membuat wabah api.</HellcatBurner.description>
+  <HellcatBurner.description>Habiskan beban bioferit bertekanan untuk membuat wabah api.</HellcatBurner.description>
   
   <!-- EN: incinerator burner -->
-  <IncineratorBurner.label>pembakar insinerator</IncineratorBurner.label>
+  <IncineratorBurner.label>Pembakar Insinerator</IncineratorBurner.label>
   <!-- EN: Expend a pressurized bioferrite charge to create a massive cone of flame. -->
-  <IncineratorBurner.description>Gunakan beban bioferrita bertekanan untuk membuat kerucut api yang sangat besar.</IncineratorBurner.description>
+  <IncineratorBurner.description>Gunakan beban bioferit bertekanan untuk membuat kerucut api yang sangat besar.</IncineratorBurner.description>
   
 </LanguageData>
