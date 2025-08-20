@@ -6,7 +6,7 @@
   <!-- EN: left lung -->
   <Human.corePart.parts.left_lung.customLabel>paru-paru kiri</Human.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <Human.corePart.parts.right_lung.customLabel>paru -paru kanan</Human.corePart.parts.right_lung.customLabel>
+  <Human.corePart.parts.right_lung.customLabel>paru-paru kanan</Human.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
   <Human.corePart.parts.left_kidney.customLabel>ginjal kiri</Human.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
@@ -28,13 +28,13 @@
   <!-- EN: left humerus -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>humerus kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>Jari kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>jari kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>tangan kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>jari kelingking kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>Jari manis kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>jari manis kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
   <!-- EN: left middle finger -->
   <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>jari tengah kiri</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
@@ -50,13 +50,13 @@
   <!-- EN: right humerus -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>humerus kanan</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Jari -jari yang tepat</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>jari-jari yang tepat</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>tangan kanan</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>jari kanan -hand</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>jari-jari kanan</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>jari manis yang tepat</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>jari manis kanan</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
   <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>jari tengah kanan</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
@@ -74,11 +74,11 @@
   <!-- EN: left little toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>jari kelingking kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Meninggalkan 4 jari kaki</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>jari manis kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>3ᵉʳ jari kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>jari tengah kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Kaki kedua pergi</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>jari telunjuk kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
   <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>jempol kaki kiri</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
@@ -90,13 +90,13 @@
   <!-- EN: right foot -->
   <Human.corePart.parts.right_leg.parts.right_foot.customLabel>kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>Tingkat kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>jari kelingking kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Kakak ke -4 kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>jari manis kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>3ᵉʳ kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>jari tengah kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Ujung ke -2 dari kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>jari telunjuk kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>jempol kaki kanan</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
