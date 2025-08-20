@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: burn -->
-  <Burn.label>membakar</Burn.label>
+  <Burn.label>bakar</Burn.label>
   <!-- EN: {0} has burned to death. -->
   <Burn.deathMessage>{0} sudah mati {0_jenis kelamin ? dibakar : dibakar}.</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>suar</Flame.label>
+  <Flame.label>api</Flame.label>
   <!-- EN: {0} has burned to death. -->
   <Flame.deathMessage>{0} sudah mati {0_jenis kelamin ? dibakar : dibakar}.</Flame.deathMessage>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>membekukan</Frostbite.label>
+  <Frostbite.label>beku</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
   <Frostbite.deathMessage>{0} telah menyerah pada hipotermia.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>goresan tornado</TornadoScratch.label>
+  <TornadoScratch.label>goresan</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
   <TornadoScratch.deathMessage>{0} dibunuh oleh tornado.</TornadoScratch.deathMessage>
   
