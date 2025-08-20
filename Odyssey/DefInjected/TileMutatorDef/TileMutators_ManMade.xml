@@ -19,7 +19,7 @@
   <!-- EN: ancient quarry -->
   <AncientQuarry.label>Tambang kuno</AncientQuarry.label>
   <!-- EN: This area was once mined for its natural resources, and the remains of the ancient quarry are still here. -->
-  <AncientQuarry.description>Daerah ini pernah dieksploitasi oleh sumber daya alamnya dan sisa -sisa tambang lama masih tetap di sini.</AncientQuarry.description>
+  <AncientQuarry.description>Daerah ini pernah dieksploitasi oleh sumber daya alamnya dan sisa-sisa tambang lama masih tetap di sini.</AncientQuarry.description>
   
   <!-- EN: ruins -->
   <AncientRuins.label>Reruntuhan</AncientRuins.label>
@@ -34,7 +34,7 @@
   <!-- EN: ancient smoke vent -->
   <AncientSmokeVent.label>Ventilasi asap kuno</AncientSmokeVent.label>
   <!-- EN: This area has a number of massive exhaust vents. An ancient mechanism buried deep beneath the earth will occasionally vent large amounts of smoke, blocking out the sun for days at a time. -->
-  <AncientSmokeVent.description>Area ini memiliki sejumlah ventilasi pelarian besar -besaran.Mekanisme lama di bawah tanah kadang -kadang akan ventilasi asap dalam jumlah besar, menghalangi matahari selama berhari -hari.</AncientSmokeVent.description>
+  <AncientSmokeVent.description>Area ini memiliki sejumlah ventilasi pelarian besar -besaran.Mekanisme lama di bawah tanah kadang-kadang akan ventilasi asap dalam jumlah besar, menghalangi matahari selama berhari-hari.</AncientSmokeVent.description>
   
   <!-- EN: ancient toxic vent -->
   <AncientToxVent.label>Ventilasi gas beracun kuno</AncientToxVent.label>
