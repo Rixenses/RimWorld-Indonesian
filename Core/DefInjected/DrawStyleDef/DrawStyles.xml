@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: angled line -->
-  <AngledLine.label>garis sudut</AngledLine.label>
+  <AngledLine.label>garis miring</AngledLine.label>
   
   <!-- EN: empty oval -->
   <EmptyOval.label>oval kosong</EmptyOval.label>
@@ -11,10 +11,10 @@
   <EmptyRectangle.label>persegi panjang kosong</EmptyRectangle.label>
   
   <!-- EN: filled oval -->
-  <FilledOval.label>Diisi oval</FilledOval.label>
+  <FilledOval.label>oval terisi</FilledOval.label>
   
   <!-- EN: filled rectangle -->
-  <FilledRectangle.label>persegi panjang yang diisi</FilledRectangle.label>
+  <FilledRectangle.label>persegi panjang terisi</FilledRectangle.label>
   
   <!-- EN: line -->
   <Line.label>garis</Line.label>
