@@ -2,54 +2,54 @@
 <LanguageData>
   
   <!-- EN: agony pulse -->
-  <AgonyPulse.label>denyut pendengaran</AgonyPulse.label>
+  <AgonyPulse.label>Denyut siksaan</AgonyPulse.label>
   <!-- EN: Generate a pulse of psychic pain emanating from a target location. -->
   <AgonyPulse.description>Ini menghasilkan denyut nadi nyeri psikis yang berasal dari lokasi yang objektif.</AgonyPulse.description>
   
   <!-- EN: consume leap -->
-  <ConsumeLeap_Devourer.label>Saltofago</ConsumeLeap_Devourer.label>
+  <ConsumeLeap_Devourer.label>Lompatan pengungsi</ConsumeLeap_Devourer.label>
   <!-- EN: Leap onto a target and begin digesting it. -->
   <ConsumeLeap_Devourer.description>Itu melompat pada suatu tujuan dan mulai mencernanya.</ConsumeLeap_Devourer.description>
   <!-- EN: consume leap -->
   <ConsumeLeap_Devourer.verbProperties.label>Saltofago</ConsumeLeap_Devourer.verbProperties.label>
   
   <!-- EN: corrosive spray -->
-  <CorrosiveSpray.label>semprotan korosif</CorrosiveSpray.label>
+  <CorrosiveSpray.label>Semprotan korosif</CorrosiveSpray.label>
   <!-- EN: Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity. -->
-  <CorrosiveSpray.description>Gunakan jantung korosif untuk menyemprotkan asam pada jarak pendek.Jantung memompa cairan korosif melalui saluran yang ditanamkan dengan pembedahan, memungkinkan necrophagus meludahkannya melalui mulut dengan kecepatan tinggi.</CorrosiveSpray.description>
+  <CorrosiveSpray.description>Gunakan jantung korosif untuk menyemprotkan asam pada jarak pendek. Jantung memompa cairan korosif melalui saluran yang ditanamkan dengan pembedahan, memungkinkan necrophagus meludahkannya melalui mulut dengan kecepatan tinggi.</CorrosiveSpray.description>
   
   <!-- EN: entity skip -->
-  <EntitySkip.label>Lompat ke entitas</EntitySkip.label>
+  <EntitySkip.label>Lompati entitas</EntitySkip.label>
   <!-- EN: Teleport to a target destination. -->
-  <EntitySkip.description>Teletransporta ke tujuan objektif.</EntitySkip.description>
+  <EntitySkip.description>Teleport ke tujuan objektif.</EntitySkip.description>
   
   <!-- EN: fleshmelter bolt -->
-  <FleshmelterBolt.label>Ray Fundicarne</FleshmelterBolt.label>
+  <FleshmelterBolt.label>Peluru peleleh daging</FleshmelterBolt.label>
   <!-- EN: Launch a large bolt of energy which generates a high-temperature explosion. -->
   <FleshmelterBolt.description>Meluncurkan sinar energi besar yang menghasilkan ledakan suhu tinggi.</FleshmelterBolt.description>
   
   <!-- EN: ghoul frenzy -->
-  <GhoulFrenzy.label>Caglan Necrophacu</GhoulFrenzy.label>
+  <GhoulFrenzy.label>Kegilaan ghoul</GhoulFrenzy.label>
   <!-- EN: Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time. -->
   <GhoulFrenzy.description>Gunakan jantung adrenal untuk memenuhi aliran darah dengan hormon stres dan energi cair, yang memungkinkan necrophagus bergerak dan menyerang kecepatan yang luar biasa untuk periode waktu yang singkat.</GhoulFrenzy.description>
   
   <!-- EN: heatspikes -->
-  <Heatspikes.label>Tip Panas</Heatspikes.label>
+  <Heatspikes.label>Duri Panas</Heatspikes.label>
   <!-- EN: Fire a burst of low-accuracy energy bolts. -->
   <Heatspikes.description>Cobalah hembusan sinar energi presisi rendah.</Heatspikes.description>
   
   <!-- EN: metalblood injection -->
-  <MetalbloodInjection.label>Injeksi darah</MetalbloodInjection.label>
+  <MetalbloodInjection.label>Injeksi darah baja</MetalbloodInjection.label>
   <!-- EN: Use the metalblood heart to release metalblood serum into the bloodstream, reducing incoming damage for a short period of time. -->
   <MetalbloodInjection.description>Gunakan jantung berdarah untuk melepaskan serum berdarah dalam aliran darah, yang mengurangi kerusakan yang diterima untuk jangka waktu yang singkat.</MetalbloodInjection.description>
   
   <!-- EN: psychic slaughter -->
-  <PsychicSlaughter.label>pembunuhan psikis</PsychicSlaughter.label>
+  <PsychicSlaughter.label>Pembantaian psikis</PsychicSlaughter.label>
   <!-- EN: Use dark psychic power to induce chaotic reconfiguration of flesh. This kills a flesh creature in seconds and converts its body into a pile of twisted flesh. -->
   <PsychicSlaughter.description>Ini menggunakan kekuatan psikis gelap untuk menginduksi konfigurasi ulang daging yang kacau.Ini membunuh makhluk daging dalam hitungan detik dan mengubah tubuh Anda menjadi tumpukan daging yang dipelintir.</PsychicSlaughter.description>
   
   <!-- EN: release deadlife dust -->
-  <ReleaseDeadlifeDust.label>Lepaskan debu necrovita</ReleaseDeadlifeDust.label>
+  <ReleaseDeadlifeDust.label>Lepaskan debu kematian</ReleaseDeadlifeDust.label>
   <!-- EN: Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level. -->
   <ReleaseDeadlifeDust.description>Bebaskan awan dari zat yang mirip dengan debu yang akan disimpan dalam tubuh terdekat dan akan menaikkannya sebagai pejalan kaki.Pejalan kaki hanya akan menyerang musuh Anda.Debu Necrovita terbuat dari arsitas ke skala nano yang menembus dan menghidupkan kembali jaringan mati pada tingkat seluler.</ReleaseDeadlifeDust.description>
   <!-- EN: release deadlife dust -->
@@ -61,44 +61,44 @@
   <RevenantInvisibility.description>Gunakan tulang belakang redivistik untuk menjadi tidak terlihat sementara.Prostesis memanipulasi pusat visual yang dekat dengan mereka, membiarkan pengguna tidak diketahui.</RevenantInvisibility.description>
   
   <!-- EN: shape flesh -->
-  <ShapeFlesh.label>membentuk daging</ShapeFlesh.label>
+  <ShapeFlesh.label>Membentuk jaringan daging/ShapeFlesh.label>
   <!-- EN: Induce a dark archotech to reconfigure a corpse into a horrendous fleshbeast. The fleshbeast will be hostile to all humans, including the one who created it. -->
-  <ShapeFlesh.description>Ini menginduksi Archeoteca gelap untuk mengkonfigurasi ulang mayat dalam karnibesty yang mengerikan.Carnibstia akan memusuhi semua manusia, termasuk orang yang menciptakannya.</ShapeFlesh.description>
+  <ShapeFlesh.description>Ini menginduksi archeotech untuk mengkonfigurasi ulang mayat yang mengerikan. Monster daging akan memusuhi semua manusia, termasuk orang yang menciptakannya.</ShapeFlesh.description>
   
   <!-- EN: spike launch -->
-  <SpikeLaunch_Fingerspike.label>Terbaik di antara Anda</SpikeLaunch_Fingerspike.label>
+  <SpikeLaunch_Fingerspike.label>Luncuran duri jari</SpikeLaunch_Fingerspike.label>
   <!-- EN: Launch a bone spike at a target. -->
-  <SpikeLaunch_Fingerspike.description>Lemparkan tusuk sate ke satu gol.</SpikeLaunch_Fingerspike.description>
+  <SpikeLaunch_Fingerspike.description>Meluncurkan duri jari ke target.</SpikeLaunch_Fingerspike.description>
   
   <!-- EN: spike launch -->
-  <SpikeLaunch_Toughspike.label>Terbaik di antara Anda</SpikeLaunch_Toughspike.label>
+  <SpikeLaunch_Toughspike.label>Luncuran duri keras</SpikeLaunch_Toughspike.label>
   <!-- EN: Launch a bone spike at a target. -->
-  <SpikeLaunch_Toughspike.description>Lemparkan tusuk sate ke satu gol.</SpikeLaunch_Toughspike.description>
+  <SpikeLaunch_Toughspike.description>Meluncurkan duri keras ke target.</SpikeLaunch_Toughspike.description>
   
   <!-- EN: spine launch -->
-  <SpineLaunch_Gorehulk.label>Lanza Espinazo</SpineLaunch_Gorehulk.label>
+  <SpineLaunch_Gorehulk.label>Luncuran duri punggung</SpineLaunch_Gorehulk.label>
   <!-- EN: Launch a keratin spine at a target to do damage. -->
   <SpineLaunch_Gorehulk.description>Meluncurkan tulang belakang keratin ke tujuan untuk menyebabkan kerusakan.</SpineLaunch_Gorehulk.description>
   
   <!-- EN: transmute steel -->
-  <TransmuteSteel.label>memindahkan baja</TransmuteSteel.label>
+  <TransmuteSteel.label>Transmutasi baja</TransmuteSteel.label>
   <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
-  <TransmuteSteel.description>Konfigurasikan ulang baja pada tingkat atom, menjadikannya bahan berharga acak.Tujuannya dapat berupa tumpukan baja atau puing -puing logam.</TransmuteSteel.description>
+  <TransmuteSteel.description>Konfigurasikan ulang baja pada tingkat atom, menjadikannya bahan berharga acak. Tujuannya dapat berupa tumpukan baja atau puing-puing logam.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Itu harus memiliki baja target, puing -puing logam, bangunan baja atau benda baja.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   
   <!-- EN: entity skip -->
   <UnnaturalCorpseSkip.label>Lompat ke entitas</UnnaturalCorpseSkip.label>
   <!-- EN: Teleport to a target destination. -->
-  <UnnaturalCorpseSkip.description>Teletransporta ke tujuan objektif.</UnnaturalCorpseSkip.description>
+  <UnnaturalCorpseSkip.description>Teleport ke tujuan objektif.</UnnaturalCorpseSkip.description>
   
   <!-- EN: unnatural healing -->
-  <UnnaturalHealing.label>Penyembuhan antinatural</UnnaturalHealing.label>
+  <UnnaturalHealing.label>Penyembuhan tak wajar</UnnaturalHealing.label>
   <!-- EN: Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects. -->
-  <UnnaturalHealing.description>Gunakan pengaruh psikis gelap untuk menyembuhkan seseorang.Proses ini akan menghentikan perdarahan, memulihkan kehilangan darah dan bahkan dapat menyembuhkan luka penting.Namun, itu juga dapat memiliki efek samping yang tidak terduga.</UnnaturalHealing.description>
+  <UnnaturalHealing.description>Gunakan pengaruh psikis gelap untuk menyembuhkan seseorang. Proses ini akan menghentikan perdarahan, memulihkan kehilangan darah dan bahkan dapat menyembuhkan luka penting. Namun, itu juga dapat memiliki efek samping yang tidak terduga.</UnnaturalHealing.description>
   
   <!-- EN: void terror -->
-  <VoidTerror.label>Teror Vakum</VoidTerror.label>
+  <VoidTerror.label>Teror kekosongan</VoidTerror.label>
   <!-- EN: Psychically induce terrifying hallucinations, causing a person to flee in terror. -->
   <VoidTerror.description>Secara fisik menginduksi halusinasi yang menakutkan, membuat seseorang melarikan diri dalam teror.</VoidTerror.description>
   
