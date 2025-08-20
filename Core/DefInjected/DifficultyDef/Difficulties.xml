@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Custom -->
-  <Custom.label>Dipersonalisasi</Custom.label>
+  <Custom.label>Personalisasi</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
   <Custom.description>Opsi ini memungkinkan Anda untuk menentukan bagaimana Anda ingin bermain secara mendetail. Direkomendasikan untuk: Pemain yang puas dengan beberapa tingkat kesulitan default, tetapi ingin mengubah beberapa hal.</Custom.description>
   
@@ -17,17 +17,17 @@
   <Extreme.description>Pengaturan ini dirancang untuk menjadi tidak adil. Ancaman yang sangat tidak adil akan tanpa ampun mencambuk Anda untuk memusnahkan koloni Anda. Pilih tingkat kesulitan ini jika Anda ingin mengalami drama stres dan kematian. Direkomendasikan untuk: Pemain ahli yang ingin menghadapi tantangan yang sangat tidak adil, di mana keterampilan yang hebat pun tidak akan mencegah kematian.</Extreme.description>
   
   <!-- EN: blood and dust -->
-  <Hard.label>Darah, keringat dan air mata</Hard.label>
+  <Hard.label>Darah, keringat, dan air mata</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
   <Hard.description>Hadapi tantangan brutal untuk bertahan hidup. Meskipun Anda bermain dengan baik, orang-orang Anda akan mati. Anda harus mengantisipasi ancaman sebelum terjadi, dan mengambil setiap keuntungan kecil. Direkomendasikan untuk: Pemain ahli yang ingin bekerja keras untuk bertahan hidup.</Hard.description>
   
   <!-- EN: adventure story -->
   <Medium.label>kisah petualangan</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>Ada ruang untuk tumbuh dan berkembang, tetapi ini masih merupakan dunia yang berbahaya. Direkomendasikan untuk: - Pakar game strategi yang memainkan game RimWorld pertama mereka - Pemain RimWorld berpengalaman yang menginginkan kesempatan untuk mencapai tujuan yang aneh atau aneh.</Medium.description>
+  <Medium.description>Ada ruang untuk tumbuh dan berkembang, tetapi ini masih merupakan dunia yang berbahaya.\n\n(*SectionTitle)Direkomendasikan untuk:(/SectionTitle)\n\n- Pakar game strategi yang memainkan game RimWorld pertama mereka.\n- Pemain RimWorld berpengalaman yang menginginkan kesempatan untuk mencapai tujuan yang aneh atau aneh.</Medium.description>
   
   <!-- EN: peaceful -->
-  <Peaceful.label>pasifik</Peaceful.label>
+  <Peaceful.label>pasifis</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
   <Peaceful.description>Membangun komunitas di lingkungan kotak pasir. Ancaman utama akan dinonaktifkan, tetapi masih akan ada tantangan seperti penyakit, gangguan mental, atau hewan gila. Direkomendasikan untuk: Pemain yang ingin mempelajari mekanisme permainan dengan tekanan minimal.</Peaceful.description>
   
