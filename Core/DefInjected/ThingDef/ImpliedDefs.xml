@@ -1,158 +1,158 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: cama (animal) (anteproyecto) -->
-  <Blueprint_AnimalBed.label>tempat tidur (hewan) (draft)</Blueprint_AnimalBed.label>
+  <!-- EN: animal bed (animal) (anteproyecto) -->
+  <Blueprint_AnimalBed.label>Tempat tidur (animal) (anteproyecto)</Blueprint_AnimalBed.label>
   
-  <!-- EN: cajón de dormir (anteproyecto) -->
-  <Blueprint_AnimalSleepingBox.label>Kotak Tidur (Hewan) (draft)</Blueprint_AnimalSleepingBox.label>
+  <!-- EN: animal sleeping box (anteproyecto) -->
+  <Blueprint_AnimalSleepingBox.label>Kotak Tidur (animal) (anteproyecto)</Blueprint_AnimalSleepingBox.label>
   
-  <!-- EN: lugar para dormir (animal) (anteproyecto) -->
-  <Blueprint_AnimalSleepingSpot.label>Tempat tidur (hewan) (draft)</Blueprint_AnimalSleepingSpot.label>
+  <!-- EN: animal sleeping spot (animal) (anteproyecto) -->
+  <Blueprint_AnimalSleepingSpot.label>Tempat tidur (animal) (anteproyecto)</Blueprint_AnimalSleepingSpot.label>
   
-  <!-- EN: sillón (anteproyecto) -->
-  <Blueprint_Armchair.label>kursi (draft)</Blueprint_Armchair.label>
+  <!-- EN: armchair (anteproyecto) -->
+  <Blueprint_Armchair.label>sofa (anteproyecto)</Blueprint_Armchair.label>
   
-  <!-- EN: puerta automática (anteproyecto) -->
+  <!-- EN: autodoor (anteproyecto) -->
   <Blueprint_Autodoor.label>Pintu otomatis (draft)</Blueprint_Autodoor.label>
   
-  <!-- EN: batería (anteproyecto) -->
-  <Blueprint_Battery.label>baterai (draft)</Blueprint_Battery.label>
+  <!-- EN: battery (anteproyecto) -->
+  <Blueprint_Battery.label>Baterai (anteproyecto)</Blueprint_Battery.label>
   
-  <!-- EN: cama (anteproyecto) -->
-  <Blueprint_Bed.label>tempat tidur (draft)</Blueprint_Bed.label>
+  <!-- EN: bed (anteproyecto) -->
+  <Blueprint_Bed.label>Tempat tidur (anteproyecto)</Blueprint_Bed.label>
   
-  <!-- EN: saco de dormir (anteproyecto) -->
-  <Blueprint_Bedroll.label>roller bed (draft)</Blueprint_Bedroll.label>
+  <!-- EN: bedroll (anteproyecto) -->
+  <Blueprint_Bedroll.label>Kasur gulung (anteproyecto)</Blueprint_Bedroll.label>
   
-  <!-- EN: saco de dormir doble (anteproyecto) -->
-  <Blueprint_BedrollDouble.label>Roller Double Bed (draft)</Blueprint_BedrollDouble.label>
+  <!-- EN: bedroll double (anteproyecto) -->
+  <Blueprint_BedrollDouble.label>Kasur gulung ganda (anteproyecto)</Blueprint_BedrollDouble.label>
   
-  <!-- EN: mesa de billar (anteproyecto) -->
-  <Blueprint_BilliardsTable.label>Billiard Table (draft)</Blueprint_BilliardsTable.label>
+  <!-- EN: billiards table (anteproyecto) -->
+  <Blueprint_BilliardsTable.label>Meja biliar (anteproyecto)</Blueprint_BilliardsTable.label>
   
-  <!-- EN: refinería de biocombustible (anteproyecto) -->
-  <Blueprint_BiofuelRefinery.label>Kilang (draft)</Blueprint_BiofuelRefinery.label>
+  <!-- EN: biofuel Refinery (anteproyecto) -->
+  <Blueprint_BiofuelRefinery.label>Kilang minyak (anteproyecto)</Blueprint_BiofuelRefinery.label>
   
-  <!-- EN: cervecería (anteproyecto) -->
-  <Blueprint_Brewery.label>Tempat pembuatan bir (draft)</Blueprint_Brewery.label>
+  <!-- EN: brewery (anteproyecto) -->
+  <Blueprint_Brewery.label>Pabrik bir (anteproyecto)</Blueprint_Brewery.label>
   
-  <!-- EN: plataforma (anteproyecto) -->
-  <Blueprint_Bridge.label>Platform (draft)</Blueprint_Bridge.label>
+  <!-- EN: bridge (anteproyecto) -->
+  <Blueprint_Bridge.label>Jembatan (anteproyecto)</Blueprint_Bridge.label>
   
-  <!-- EN: punto de despiece (anteproyecto) -->
-  <Blueprint_ButcherSpot.label>Still Point (draft pendahuluan)</Blueprint_ButcherSpot.label>
+  <!-- EN: butcher spot (anteproyecto) -->
+  <Blueprint_ButcherSpot.label>Tempat penyembelihan (anteproyecto)</Blueprint_ButcherSpot.label>
   
-  <!-- EN: hoguera (anteproyecto) -->
-  <Blueprint_Campfire.label>Bonfire (draft)</Blueprint_Campfire.label>
+  <!-- EN: campfire (anteproyecto) -->
+  <Blueprint_Campfire.label>Api unggun (anteproyecto)</Blueprint_Campfire.label>
   
-  <!-- EN: punto de carga para caravanas (anteproyecto) -->
-  <Blueprint_CaravanPackingSpot.label>Titik beban untuk karavan (draft awal)</Blueprint_CaravanPackingSpot.label>
+  <!-- EN: caravan packing spot (anteproyecto) -->
+  <Blueprint_CaravanPackingSpot.label>Area persiapan karavan (anteproyecto)</Blueprint_CaravanPackingSpot.label>
   
-  <!-- EN: generador de biocombustible (anteproyecto) -->
-  <Blueprint_ChemfuelPoweredGenerator.label>Generator Biofuel (draft pendahuluan)</Blueprint_ChemfuelPoweredGenerator.label>
+  <!-- EN: chemfuel powered generator (anteproyecto) -->
+  <Blueprint_ChemfuelPoweredGenerator.label>Kilang minyak kimia (anteproyecto)</Blueprint_ChemfuelPoweredGenerator.label>
   
-  <!-- EN: mesa de ajedrez (anteproyecto) -->
-  <Blueprint_ChessTable.label>Tabel catur (draft)</Blueprint_ChessTable.label>
+  <!-- EN: chess table (anteproyecto) -->
+  <Blueprint_ChessTable.label>Meja catur (anteproyecto)</Blueprint_ChessTable.label>
   
-  <!-- EN: consola de comunicaciones (anteproyecto) -->
-  <Blueprint_CommsConsole.label>Konsol Komunikasi (Draf)</Blueprint_CommsConsole.label>
+  <!-- EN: comms console (anteproyecto) -->
+  <Blueprint_CommsConsole.label>Konsol komunikasi (anteproyecto)</Blueprint_CommsConsole.label>
   
-  <!-- EN: cemento (anteproyecto) -->
-  <Blueprint_Concrete.label>semen (draft)</Blueprint_Concrete.label>
+  <!-- EN: concrete (anteproyecto) -->
+  <Blueprint_Concrete.label>beton (anteproyecto)</Blueprint_Concrete.label>
   
-  <!-- EN: refrigerador (anteproyecto) -->
-  <Blueprint_Cooler.label>Kulkas (draft)</Blueprint_Cooler.label>
+  <!-- EN: cooler (anteproyecto) -->
+  <Blueprint_Cooler.label>pendingin (anteproyecto)</Blueprint_Cooler.label>
   
-  <!-- EN: punto de artesanía (anteproyecto) -->
-  <Blueprint_CraftingSpot.label>Titik kerajinan (draft)</Blueprint_CraftingSpot.label>
+  <!-- EN: crafting spot (anteproyecto) -->
+  <Blueprint_CraftingSpot.label>Area kerajinan (anteproyecto)</Blueprint_CraftingSpot.label>
   
-  <!-- EN: sarcófago de criptosueño (anteproyecto) -->
-  <Blueprint_CryptosleepCasket.label>Cryptosueño Sarcophagus (draft)</Blueprint_CryptosleepCasket.label>
+  <!-- EN: crypto sleep casket (anteproyecto) -->
+  <Blueprint_CryptosleepCasket.label>Kapsul hibernasi (anteproyecto)</Blueprint_CryptosleepCasket.label>
   
-  <!-- EN: taladro de profundidad (anteproyecto) -->
-  <Blueprint_DeepDrill.label>Bor Kedalaman (draft)</Blueprint_DeepDrill.label>
+  <!-- EN: deep drill (anteproyecto) -->
+  <Blueprint_DeepDrill.label>Bor Kedalaman (anteproyecto)</Blueprint_DeepDrill.label>
   
-  <!-- EN: silla de comedor (anteproyecto) -->
-  <Blueprint_DiningChair.label>Kursi Makan (draft pendahuluan)</Blueprint_DiningChair.label>
+  <!-- EN: dining chair (anteproyecto) -->
+  <Blueprint_DiningChair.label>Kursi makan (anteproyecto)</Blueprint_DiningChair.label>
   
-  <!-- EN: puerta (anteproyecto) -->
-  <Blueprint_Door.label>pintu (draft)</Blueprint_Door.label>
+  <!-- EN: door (anteproyecto) -->
+  <Blueprint_Door.label>Pintu (anteproyecto)</Blueprint_Door.label>
   
-  <!-- EN: cama doble (anteproyecto) -->
-  <Blueprint_DoubleBed.label>tempat tidur ganda (draft)</Blueprint_DoubleBed.label>
+  <!-- EN: double bed (anteproyecto) -->
+  <Blueprint_DoubleBed.label>Tempat tidur ganda (anteproyecto)</Blueprint_DoubleBed.label>
   
-  <!-- EN: lugar doble para dormir (anteproyecto) -->
-  <Blueprint_DoubleSleepingSpot.label>Tempat tidur ganda (draft)</Blueprint_DoubleSleepingSpot.label>
+  <!-- EN: double sleeping spot (anteproyecto) -->
+  <Blueprint_DoubleSleepingSpot.label>Area tidur ganda (draft)</Blueprint_DoubleSleepingSpot.label>
   
-  <!-- EN: cómoda (anteproyecto) -->
-  <Blueprint_Dresser.label>Nyaman (draft)</Blueprint_Dresser.label>
+  <!-- EN: dresser (anteproyecto) -->
+  <Blueprint_Dresser.label>Meja rias (anteproyecto)</Blueprint_Dresser.label>
   
-  <!-- EN: laboratorio de drogas (anteproyecto) -->
-  <Blueprint_DrugLab.label>Laboratorium Obat (Draf)</Blueprint_DrugLab.label>
+  <!-- EN: drug lab (anteproyecto) -->
+  <Blueprint_DrugLab.label>Laboratorium obat (anteproyecto)</Blueprint_DrugLab.label>
   
-  <!-- EN: crematorio eléctrico (anteproyecto) -->
-  <Blueprint_ElectricCrematorium.label>Krematorium Listrik (draft)</Blueprint_ElectricCrematorium.label>
+  <!-- EN: electric crematorium (anteproyecto) -->
+  <Blueprint_ElectricCrematorium.label>Krematorium listrik (anteproyecto)</Blueprint_ElectricCrematorium.label>
   
-  <!-- EN: fundición eléctrica (anteproyecto) -->
-  <Blueprint_ElectricSmelter.label>Pengecoran listrik (draft)</Blueprint_ElectricSmelter.label>
+  <!-- EN: electric smelter (anteproyecto) -->
+  <Blueprint_ElectricSmelter.label>Pelebur listrik (anteproyecto)</Blueprint_ElectricSmelter.label>
   
-  <!-- EN: forja eléctrica (anteproyecto) -->
-  <Blueprint_ElectricSmithy.label>Electric Forge (draft pendahuluan)</Blueprint_ElectricSmithy.label>
+  <!-- EN: electric smithy (anteproyecto) -->
+  <Blueprint_ElectricSmithy.label>Bengkel besi listrik (anteproyecto)</Blueprint_ElectricSmithy.label>
   
-  <!-- EN: cocina eléctrica (anteproyecto) -->
-  <Blueprint_ElectricStove.label>Dapur Listrik (Draf)</Blueprint_ElectricStove.label>
+  <!-- EN: electric stove (anteproyecto) -->
+  <Blueprint_ElectricStove.label>Kompor listrik (anteproyecto)</Blueprint_ElectricStove.label>
   
-  <!-- EN: mesa de sastrería eléctrica (anteproyecto) -->
-  <Blueprint_ElectricTailoringBench.label>mesa de sastrería eléctrica (anteproyecto)</Blueprint_ElectricTailoringBench.label>
+  <!-- EN: electric tailoring bench (anteproyecto) -->
+  <Blueprint_ElectricTailoringBench.label>Meja jahit listrik (anteproyecto)</Blueprint_ElectricTailoringBench.label>
   
-  <!-- EN: mesilla de noche (anteproyecto) -->
-  <Blueprint_EndTable.label>Tabel tambahan (draft)</Blueprint_EndTable.label>
+  <!-- EN: end table (anteproyecto) -->
+  <Blueprint_EndTable.label>Meja tepi (anteproyecto)</Blueprint_EndTable.label>
   
-  <!-- EN: mesa de ensamblaje (anteproyecto) -->
-  <Blueprint_FabricationBench.label>Tabel Pabrikan (Draf)</Blueprint_FabricationBench.label>
+  <!-- EN: fabrication bench (anteproyecto) -->
+  <Blueprint_FabricationBench.label>Meja perakitan (anteproyecto)</Blueprint_FabricationBench.label>
   
-  <!-- EN: barril de fermentado (anteproyecto) -->
-  <Blueprint_FermentingBarrel.label>Fermentasi barel (draft)</Blueprint_FermentingBarrel.label>
+  <!-- EN: fermenting barrel (anteproyecto) -->
+  <Blueprint_FermentingBarrel.label>Tong fermentasi (anteproyecto)</Blueprint_FermentingBarrel.label>
   
-  <!-- EN: lanzador de espuma cortafuegos (anteproyecto) -->
-  <Blueprint_FirefoamPopper.label>Peluncur busa busa (draft awal)</Blueprint_FirefoamPopper.label>
+  <!-- EN: fire foam popper (anteproyecto) -->
+  <Blueprint_FirefoamPopper.label>Alat pemadam api ringan (anteproyecto)</Blueprint_FirefoamPopper.label>
   
-  <!-- EN: baldosa de piedra de granito (anteproyecto) -->
-  <Blueprint_FlagstoneGranite.label>ubin granit (draft)</Blueprint_FlagstoneGranite.label>
+  <!-- EN: flagstone granite (anteproyecto) -->
+  <Blueprint_FlagstoneGranite.label>Ubin granit (anteproyecto)</Blueprint_FlagstoneGranite.label>
   
-  <!-- EN: baldosa de piedra caliza (anteproyecto) -->
-  <Blueprint_FlagstoneLimestone.label>ubin batu kapur (draft pendahuluan)</Blueprint_FlagstoneLimestone.label>
+  <!-- EN: flagstone limestone (anteproyecto) -->
+  <Blueprint_FlagstoneLimestone.label>Ubin batu kapur (anteproyecto)</Blueprint_FlagstoneLimestone.label>
   
-  <!-- EN: baldosa de piedra de mármol (anteproyecto) -->
-  <Blueprint_FlagstoneMarble.label>ubin batu marmer (draft pendahuluan)</Blueprint_FlagstoneMarble.label>
+  <!-- EN: flagstone marble (anteproyecto) -->
+  <Blueprint_FlagstoneMarble.label>ubin batu marmer (anteproyecto)</Blueprint_FlagstoneMarble.label>
   
-  <!-- EN: baldosa de piedra arenisca (anteproyecto) -->
-  <Blueprint_FlagstoneSandstone.label>Ubin batu pasir (draft pendahuluan)</Blueprint_FlagstoneSandstone.label>
+  <!-- EN: flagstone sandstone (anteproyecto) -->
+  <Blueprint_FlagstoneSandstone.label>Ubin batu pasir (anteproyecto)</Blueprint_FlagstoneSandstone.label>
   
-  <!-- EN: baldosa de piedra pizarra (anteproyecto) -->
-  <Blueprint_FlagstoneSlate.label>ubin batu tulis (draft)</Blueprint_FlagstoneSlate.label>
+  <!-- EN: flagstone slate (anteproyecto) -->
+  <Blueprint_FlagstoneSlate.label>Ubin batu lempung (anteproyecto)</Blueprint_FlagstoneSlate.label>
   
-  <!-- EN: televisión de pantalla plana (anteproyecto) -->
-  <Blueprint_FlatscreenTelevision.label>Flat Screen Television (draft)</Blueprint_FlatscreenTelevision.label>
+  <!-- EN: flatscreen television (anteproyecto) -->
+  <Blueprint_FlatscreenTelevision.label>TV layar datar (anteproyecto)</Blueprint_FlatscreenTelevision.label>
   
-  <!-- EN: forja de leña (anteproyecto) -->
-  <Blueprint_FueledSmithy.label>Forgeood Forge (draft pendahuluan)</Blueprint_FueledSmithy.label>
+  <!-- EN: fueled smithy (anteproyecto) -->
+  <Blueprint_FueledSmithy.label>Pandai besi tenaga kayu (anteproyecto)</Blueprint_FueledSmithy.label>
   
-  <!-- EN: cocina de leña (anteproyecto) -->
-  <Blueprint_FueledStove.label>Kitchen Firewood (Draft)</Blueprint_FueledStove.label>
+  <!-- EN: fueled stove (anteproyecto) -->
+  <Blueprint_FueledStove.label>Kompor kayu (anteproyecto)</Blueprint_FueledStove.label>
   
-  <!-- EN: tablero de juego de Ur (anteproyecto) -->
-  <Blueprint_GameOfUrBoard.label>Dewan Anda (draft)</Blueprint_GameOfUrBoard.label>
+  <!-- EN: game of ur board (anteproyecto) -->
+  <Blueprint_GameOfUrBoard.label>Papan permainan (anteproyecto)</Blueprint_GameOfUrBoard.label>
   
-  <!-- EN: generador geotérmico (anteproyecto) -->
-  <Blueprint_GeothermalGenerator.label>Generator panas bumi (draft)</Blueprint_GeothermalGenerator.label>
+  <!-- EN: geothermal generator (anteproyecto) -->
+  <Blueprint_GeothermalGenerator.label>Generator panas bumi (anteproyecto)</Blueprint_GeothermalGenerator.label>
   
-  <!-- EN: baldosa de oro (anteproyecto) -->
-  <Blueprint_GoldTile.label>ubin emas (draft pendahuluan)</Blueprint_GoldTile.label>
+  <!-- EN: gold tile (anteproyecto) -->
+  <Blueprint_GoldTile.label>Ubin emas (anteproyecto)</Blueprint_GoldTile.label>
   
-  <!-- EN: tumba (anteproyecto) -->
-  <Blueprint_Grave.label>Makam (draft)</Blueprint_Grave.label>
+  <!-- EN: grave (anteproyecto) -->
+  <Blueprint_Grave.label>Makam (anteproyecto)</Blueprint_Grave.label>
   
   <!-- EN: escáner de profundidad (anteproyecto) -->
   <Blueprint_GroundPenetratingScanner.label>Pemindai Kedalaman (draft)</Blueprint_GroundPenetratingScanner.label>
