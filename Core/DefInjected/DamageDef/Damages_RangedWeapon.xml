@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: arrow -->
-  <Arrow.label>menghancurkan</Arrow.label>
+  <Arrow.label>panah</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
   <Arrow.deathMessage>{0} terbunuh oleh penembakan panah.</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>menghancurkan</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>panah kecepatan tinggi</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
   <ArrowHighVelocity.deathMessage>{0} terbunuh oleh penembakan panah.</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet.label>amunisi</Bullet.label>
+  <Bullet.label>peluru</Bullet.label>
   <!-- EN: {0} has been shot to death. -->
   <Bullet.deathMessage>{0} telah ditembak mati.</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>menusuk</RangedStab.label>
+  <RangedStab.label>tusuk</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
   <RangedStab.deathMessage>{0} telah ditikam sampai mati.</RangedStab.deathMessage>
   
