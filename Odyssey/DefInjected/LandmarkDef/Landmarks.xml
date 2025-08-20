@@ -13,95 +13,95 @@
   <!-- EN: ancient garrison -->
   <AncientGarrison.label>Garnisun kuno</AncientGarrison.label>
   
-  <!-- EN: ancient vent -->
+  <!-- EN: ancient heat vent -->
   <AncientHeatVent.label>Ventilasi kuno</AncientHeatVent.label>
   
   <!-- EN: infested settlement -->
-  <AncientInfestedSettlement.label>Penyelesaian yang terinfeksi</AncientInfestedSettlement.label>
+  <AncientInfestedSettlement.label>Pemukiman yang terinfeksi</AncientInfestedSettlement.label>
   
   <!-- EN: ancient launch site -->
-  <AncientLaunchSite.label>Platform Peluncuran Kuno</AncientLaunchSite.label>
+  <AncientLaunchSite.label>Tempat peluncuran kuno</AncientLaunchSite.label>
   
   <!-- EN: ancient quarry -->
-  <AncientQuarry.label>Quarry kuno</AncientQuarry.label>
+  <AncientQuarry.label>Tambang kuno</AncientQuarry.label>
   
-  <!-- EN: ancient vent -->
-  <AncientSmokeVent.label>Ventilasi kuno</AncientSmokeVent.label>
+  <!-- EN: ancient smoke vent -->
+  <AncientSmokeVent.label>Ventilasi asap kuno</AncientSmokeVent.label>
   
-  <!-- EN: ancient vent -->
-  <AncientToxVent.label>Ventilasi kuno</AncientToxVent.label>
+  <!-- EN: ancient toxic vent -->
+  <AncientToxVent.label>Ventilasi gas beracun kuno</AncientToxVent.label>
   
   <!-- EN: ancient warehouse -->
-  <AncientWarehouse.label>Gudang Tua</AncientWarehouse.label>
+  <AncientWarehouse.label>Gudang kuno</AncientWarehouse.label>
   
   <!-- EN: archipelago -->
   <Archipelago.label>kepulauan</Archipelago.label>
   
   <!-- EN: basin -->
-  <Basin.label>Cuenca</Basin.label>
+  <Basin.label>Wadah</Basin.label>
   
   <!-- EN: bay -->
-  <Bay.label>teluk</Bay.label>
+  <Bay.label>Teluk</Bay.label>
   
   <!-- EN: cavern -->
-  <Cavern.label>gua</Cavern.label>
+  <Cavern.label>Goa</Cavern.label>
   
   <!-- EN: chasm -->
-  <Chasm.label>jurang yang dalam</Chasm.label>
+  <Chasm.label>Jurang</Chasm.label>
   
   <!-- EN: cliffs -->
-  <Cliffs.label>tebing</Cliffs.label>
+  <Cliffs.label>Tebing</Cliffs.label>
   
   <!-- EN: coastal atoll -->
-  <CoastalAtoll.label>Atolon Pesisir</CoastalAtoll.label>
+  <CoastalAtoll.label>Atol pesisir</CoastalAtoll.label>
   
   <!-- EN: coastal island -->
-  <CoastalIsland.label>Pulau Pesisir</CoastalIsland.label>
+  <CoastalIsland.label>Pulau pesisir</CoastalIsland.label>
   
   <!-- EN: bay -->
-  <Cove.label>teluk</Cove.label>
+  <Cove.label>Teluk kecil</Cove.label>
   
   <!-- EN: crevasse -->
-  <Crevasse.label>retakan</Crevasse.label>
+  <Crevasse.label>Jurang es</Crevasse.label>
   
   <!-- EN: dry lake -->
   <DryLake.label>Danau kering</DryLake.label>
   
   <!-- EN: dunes -->
-  <Dunes.label>bukit pasir</Dunes.label>
+  <Dunes.label>Bukit pasir</Dunes.label>
   
   <!-- EN: fjord -->
-  <Fjord.label>fjord</Fjord.label>
+  <Fjord.label>Teluk sempit</Fjord.label>
   
   <!-- EN: frozen ruins -->
-  <FrozenRuins.label>reruntuhan beku</FrozenRuins.label>
+  <FrozenRuins.label>Reruntuhan beku</FrozenRuins.label>
   
   <!-- EN: harbor -->
-  <Harbor.label>Puerto</Harbor.label>
+  <Harbor.label>Pelabuhan</Harbor.label>
   
   <!-- EN: hollow -->
-  <Hollow.label>depresi</Hollow.label>
+  <Hollow.label>Cekukan</Hollow.label>
   
   <!-- EN: hot springs -->
-  <HotSprings.label>Sumber Termal</HotSprings.label>
+  <HotSprings.label>Mata air panas</HotSprings.label>
   
   <!-- EN: iceberg -->
-  <Iceberg.label>gunung es</Iceberg.label>
+  <Iceberg.label>Gunung es</Iceberg.label>
   
   <!-- EN: ice dunes -->
-  <IceDunes.label>Ice Dunes</IceDunes.label>
+  <IceDunes.label>Bukit es</IceDunes.label>
   
   <!-- EN: lake -->
-  <Lake.label>Lago</Lake.label>
+  <Lake.label>Danau</Lake.label>
   
-  <!-- EN: lake -->
+  <!-- EN: lake with island -->
   <LakeWithIsland.label>Danau dengan pulau</LakeWithIsland.label>
   
-  <!-- EN: lake -->
-  <LakeWithIslands.label>Danau dengan pulau</LakeWithIslands.label>
+  <!-- EN: lake with islands -->
+  <LakeWithIslands.label>Danau dengan pulau-pulau</LakeWithIslands.label>
   
-  <!-- EN: lava lake -->
-  <LavaCrater.label>Lava Cráter</LavaCrater.label>
+  <!-- EN: lava crater -->
+  <LavaCrater.label>Kawah lava</LavaCrater.label>
   
   <!-- EN: lava flow -->
   <LavaFlow.label>Aliran lava</LavaFlow.label>
@@ -113,16 +113,16 @@
   <Oasis.label>Oasis</Oasis.label>
   
   <!-- EN: peninsula -->
-  <Peninsula.label>semenanjung</Peninsula.label>
+  <Peninsula.label>Semenanjung</Peninsula.label>
   
   <!-- EN: plateau -->
-  <Plateau.label>dataran tinggi</Plateau.label>
+  <Plateau.label>Dataran tinggi</Plateau.label>
   
-  <!-- EN: lake -->
-  <Pond.label>kolam</Pond.label>
+  <!-- EN: pond -->
+  <Pond.label>Kolam</Pond.label>
   
   <!-- EN: ruins -->
-  <Ruins.label>reruntuhan</Ruins.label>
+  <Ruins.label>Reruntuhan</Ruins.label>
   
   <!-- EN: terraforming scar -->
   <TerraformingScar.label>Bekas luka terapormasi</TerraformingScar.label>
@@ -131,9 +131,9 @@
   <ToxicLake.label>Danau beracun</ToxicLake.label>
   
   <!-- EN: valley -->
-  <Valley.label>Valle</Valley.label>
+  <Valley.label>Lembah</Valley.label>
   
   <!-- EN: wetland -->
-  <Wetland.label>lahan basah</Wetland.label>
+  <Wetland.label>Lahan basah</Wetland.label>
   
 </LanguageData>
