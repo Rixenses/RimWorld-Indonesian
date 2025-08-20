@@ -7,7 +7,7 @@
   <AmbientHorror.description>Monolit tidak akan muncul. Setiap ancaman anomali mungkin muncul, tetapi ancaman anomali akan jarang terjadi. Adalah baik jika Anda ingin berinteraksi dengan konten ekspansi anomali tanpa menjadi pusat perhatian. Catatan: Akhir dari game Monolith tidak akan terjadi dengan cara ini.</AmbientHorror.description>
 
   <!-- EN: anomaly incidents disabled -->
-  <Disabled.label>Insiden anomali cacat</Disabled.label>
+  <Disabled.label>Insiden anomali dinonaktifkan</Disabled.label>
   <!-- EN: Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content. -->
   <Disabled.description>Tidak ada ancaman anomali. Pilihan terbaik jika Anda tidak ingin berinteraksi dengan sebagian besar konten anomali.</Disabled.description>
 
