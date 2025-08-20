@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: devourer -->
-  <Devourer.label>Devourer</Devourer.label>
+  <Devourer.label>Pemusnah</Devourer.label>
   <!-- EN: left lung -->
   <Devourer.corePart.parts.left_lung.customLabel>paru-paru kiri</Devourer.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <Devourer.corePart.parts.right_lung.customLabel>paru -paru kanan</Devourer.corePart.parts.right_lung.customLabel>
+  <Devourer.corePart.parts.right_lung.customLabel>paru-paru kanan</Devourer.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
   <Devourer.corePart.parts.left_kidney.customLabel>ginjal kiri</Devourer.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
@@ -20,7 +20,7 @@
   <!-- EN: right ear -->
   <Devourer.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>telinga kanan</Devourer.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: left fin -->
-  <Devourer.corePart.parts.left_fin.customLabel>Hal -hal lain</Devourer.corePart.parts.left_fin.customLabel>
+  <Devourer.corePart.parts.left_fin.customLabel>taji kiri</Devourer.corePart.parts.left_fin.customLabel>
   <!-- EN: right fin -->
   <Devourer.corePart.parts.right_fin.customLabel>taji kanan</Devourer.corePart.parts.right_fin.customLabel>
 
