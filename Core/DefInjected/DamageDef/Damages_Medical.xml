@@ -4,10 +4,10 @@
   <!-- EN: execution cut -->
   <ExecutionCut.label>eksekusi</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>{0} telah {0_jenis kelamin ? dieksekusi : dieksekusi}.</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} telah dieksekusi.</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>pemotongan bedah</SurgicalCut.label>
+  <SurgicalCut.label>terpotong karena dibedah</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
   <SurgicalCut.deathMessage>{0} telah meninggal selama operasi.</SurgicalCut.deathMessage>
   
