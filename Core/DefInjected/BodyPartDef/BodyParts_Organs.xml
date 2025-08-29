@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>hati</Heart.label>
+  <Heart.label>jantung</Heart.label>
   
   <!-- EN: kidney -->
   <Kidney.label>ginjal</Kidney.label>
@@ -11,7 +11,7 @@
   <Liver.label>hati</Liver.label>
   
   <!-- EN: lung -->
-  <Lung.label>Beberapa-Dare</Lung.label>
+  <Lung.label>paru-paru</Lung.label>
   
   <!-- EN: stomach -->
   <Stomach.label>perut</Stomach.label>
