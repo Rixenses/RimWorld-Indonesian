@@ -111,25 +111,25 @@
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>Melaksanakan Penyelesaian Bersalah \ n \ nsi Active Opsi ini, seorang wali akan melanjutkan untuk mengeksekusi orang ini.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelshort} adalah Marcad {0_gender?O: A} untuk dieksekusi.Wali berikut akan menjalankan {0_objective}.</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} ditandai untuk dieksekusi. Wali berikut akan menjalankan {0_objective}.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} dari {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Tindakan ini akan membuat {pawn_namedef} kehilangan judul {title}.Anda tidak akan menerima kompensasi apa pun saat melepaskan judul Anda. \ N \ nsto akan memiliki efek berikut: \ n \ n {Effect}</RenounceTitleDescription>
+  <RenounceTitleDescription>Tindakan ini akan membuat {PAWN_nameDef} kehilangan gelar {TITLE}. Anda tidak akan menerima kompensasi apa pun saat melepaskan gelar Anda.\n\nini akan memiliki efek berikut:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
   <RenounceTitleWillLoosePermits>Anda akan kehilangan izin ini</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
-  <RenounceTitleWillLosePermitPoints>{Pawn_namedef} akan kehilangan {poin} poin izin tidak dihabiskan dengan faksi {felion_name}.</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillLosePermitPoints>{PAWN_namedef} akan kehilangan {POINTS} poin izin tidak dihabiskan dengan faksi {FACTION_name}.</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>Anda akan menjaga semua tingkat paranormal psikis Anda.</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>Anda akan menjaga semua tingkat {PAWN_possesive} paranormal psikis Anda.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>seorang asing</UnknownLower>
   <!-- EN: On -->
-  <On>Pada</On>
+  <On>Nyala</On>
   <!-- EN: Off -->
   <Off>Mati</Off>
   <!-- EN: {0} {1} -->
-  <SourceToolLabel>{1} {ganti: dari {0};"Manusia"-"manusia"}</SourceToolLabel>
+  <SourceToolLabel>{0} {1}</SourceToolLabel>
   <!-- EN: Power -->
   <PowerSwitch_Power>Energi</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
@@ -147,9 +147,9 @@
   <!-- EN: Hatches in -->
   <HatchesIn>Enklosi di</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>Need {0} level {2}, ia memiliki {1}</SkillTooLow>
+  <SkillTooLow>Membutuhkan {0} level {2}, ia memiliki {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Pembekuan</Freezing>
+  <Freezing>Membeku</Freezing>
   <!-- EN: Overheating -->
   <Overheating>Terlalu panas</Overheating>
   <!-- EN: Ruined by temperature. -->
@@ -169,13 +169,13 @@
   <!-- EN: (bond) -->
   <BondBrackets>(menjalin kedekatan)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Mudah terbakar</Fuel>
+  <Fuel>Bahan bakar</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Mudah terbakar</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Bahan bakar</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
   <SetTargetFuelLevel>Atur level bahan bakar ke {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Setel level bahan bakar ke {0} \ maksimum ndistance: {1} kotak</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Setel level bahan bakar ke {0}\nJarak maksimal: {1} kotak</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
   <ConfiguredTargetFuelLevel>Level Bahan Bakar yang Diinginkan: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
@@ -203,7 +203,7 @@
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>Immobilized: Terlalu banyak berat.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Tanpa makanan.</CaravanOutOfFood>
+  <CaravanOutOfFood>Kehabisan makanan.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
   <CaravanDaysOfFood>Ada makanan untuk {0} hari</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
@@ -259,9 +259,9 @@
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Dicap untuk dibawa oleh mayat.</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>M</WornByCorpseChar>
+  <WornByCorpseChar>T</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>tunawisma</DeterioratingUnroofed>
+  <DeterioratingUnroof>Tanpa atap</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>di luar rumah</DeterioratingOutdoors>
   <!-- EN: raining -->
